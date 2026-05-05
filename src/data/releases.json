@@ -1,8 +1,154 @@
 {
-  "generatedAt": "2026-05-05T20:41:32.803Z",
+  "generatedAt": "2026-05-05T22:33:41.057Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "alab-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Astera Labs Q1 2026 — revenue $308.4M (+93% Y/Y), strong Q2 guide, ALAB +8.8% on the day",
+      "org": "Astera Labs",
+      "date": "2026-05-05",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-reports-first-quarter-200500506.html",
+      "summary": "AI-connectivity chip maker posts record Q1 2026 revenue of $308.4M, up 93% Y/Y, beats both top and bottom lines, and guides Q2 to $355–$365M. Stock ran ~8.8% intraday into the print and added ~3% after-hours.",
+      "tags": [
+        "earnings",
+        "ai-infrastructure",
+        "semis",
+        "ai-capex",
+        "hyperscaler",
+        "q1-2026",
+        "eps-beat",
+        "guide-raise",
+        "scorpio",
+        "pcie6"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ALAB",
+        "NVDA",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$308.4M (+93% Y/Y, +14% Q/Q)",
+        "Non-GAAP EPS": "$0.61 vs ~$0.54 est",
+        "GAAP EPS": "$0.44",
+        "Non-GAAP Gross Margin": "76.4%",
+        "Q2 Rev Guide": "$355–$365M",
+        "Q2 Non-GAAP EPS Guide": "$0.68–$0.70",
+        "Move": "+8.76% intraday, +3.4% AH"
+      },
+      "explainer": {
+        "tagline": "Astera Labs delivers a record AI-connectivity quarter and guides Q2 above the Street.",
+        "whatIsIt": "Astera Labs designs PCIe / Ethernet / CXL connectivity chips that hyperscalers use to wire up GPU clusters. After Tuesday's close it reported Q1 2026 results that beat across the board and raised guidance again.",
+        "howItWorks": "Q1 revenue of $308.4M was up 93% year-over-year and 14% sequentially, driven by Scorpio AI fabric switches and the PCIe 6 product line. Non-GAAP EPS came in at $0.61 (GAAP $0.44), with non-GAAP gross margin of 76.4% and operating margin of 36.2%. Management guided Q2 revenue to $355–$365M and non-GAAP EPS to $0.68–$0.70, both ahead of consensus.",
+        "whyItMatters": "Astera is one of the cleanest pure plays on accelerator-cluster scale-up spending. A 93% Y/Y print plus a sequential guide above the Street reads through to NVIDIA, Broadcom, Marvell and Micron, all of which sell into the same hyperscaler builds. ALAB ran ~8.8% on the day on positioning and added another ~3% after the print.",
+        "forWho": "AI-infra and semis traders.",
+        "tryIt": "https://finance.yahoo.com/quote/ALAB/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/globenewswire.com/d65c92708ac6ec0b1b7b6ed09e87c984",
+        "alt": "Astera Labs corporate header from the Q1 2026 earnings press release",
+        "fit": "cover",
+        "credit": "Astera Labs / GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-reports-first-quarter-200500506.html"
+        },
+        {
+          "label": "8-K Filing Summary",
+          "url": "https://www.stocktitan.net/sec-filings/ALAB/8-k-astera-labs-inc-reports-material-event-4f8166500735.html"
+        },
+        {
+          "label": "Sherwood Recap",
+          "url": "https://sherwood.news/markets/astera-labs-q1-2026-earnings-report/"
+        },
+        {
+          "label": "ALAB Quote",
+          "url": "https://finance.yahoo.com/quote/ALAB/"
+        }
+      ],
+      "publishDate": "2026-05-05T22:33:41.057Z"
+    },
+    {
+      "id": "project-freedom-hormuz-may-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "U.S. Navy 'Project Freedom' Hormuz escort begins; Brent retraces ~4% to ~$110 as Iran ceasefire holds",
+      "org": "U.S. Central Command",
+      "date": "2026-05-05",
+      "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2",
+      "summary": "U.S. Navy launches Operation Project Freedom to escort commercial ships through the Strait of Hormuz. CENTCOM says the U.S.-Iran ceasefire holds despite UAE strikes; Brent settles ~$109.87 (-4%), WTI ~$102.27.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "oil",
+        "brent",
+        "wti",
+        "strait-of-hormuz",
+        "iran",
+        "uae",
+        "centcom",
+        "project-freedom",
+        "ceasefire"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent": "~$109.87 (-4.0%)",
+        "WTI": "~$102.27 (-3.9%)",
+        "U.S. Forces": "15,000 personnel, 100+ aircraft, multiple destroyers",
+        "Iranian Boats Destroyed": "7 (CENTCOM)",
+        "Civilian Sailor Casualties": "10 reported (State Dept)"
+      },
+      "explainer": {
+        "tagline": "Day one of the U.S. Navy's Hormuz escort mission, with oil giving back most of the prior session's spike.",
+        "whatIsIt": "After Iranian drone and missile strikes on the UAE on Monday sent Brent up nearly 6% to $114, the U.S. on Tuesday operationalised 'Project Freedom' — a CENTCOM-led mission to escort merchant ships through the Strait of Hormuz, with the USS Tripoli amphibious group plus destroyers and 15,000 personnel.",
+        "howItWorks": "Brent settled at roughly $109.87 (-4%) and WTI at $102.27 (-3.9%) as CENTCOM and the State Department said the U.S.-Iran ceasefire is intact despite the UAE attacks. The U.S. has destroyed 7 Iranian fast boats so far; ~1,500 vessels carrying ~22,500 crew remain stranded in the Gulf, and only a handful of merchant ships have actually transited under escort.",
+        "whyItMatters": "Hormuz carries roughly a fifth of seaborne crude. The day's pullback is conditional on the ceasefire holding — any new strike on tankers or U.S. ships would re-price Brent quickly. Energy names (XLE, OXY, XOM), refiners, airlines, and the long end of the Treasury curve are the most direct read-throughs.",
+        "forWho": "Energy desks and macro traders.",
+        "tryIt": "https://finance.yahoo.com/quote/BZ=F/"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fa572f0ca4-1778013999.jpg?resize=1920%2C1440",
+        "alt": "U.S. Navy and Strait of Hormuz operational scene during Project Freedom",
+        "fit": "cover",
+        "credit": "AFP via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "CENTCOM Update",
+          "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2"
+        },
+        {
+          "label": "Project Freedom Explainer",
+          "url": "https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz"
+        },
+        {
+          "label": "Oil Pulls Back",
+          "url": "https://www.cnn.com/2026/05/05/energy/oil-price-highest-in-2026-intl-hnk"
+        },
+        {
+          "label": "Operation Wiki",
+          "url": "https://en.wikipedia.org/wiki/Operation_Project_Freedom"
+        },
+        {
+          "label": "Brent Quote",
+          "url": "https://finance.yahoo.com/quote/BZ=F/"
+        }
+      ],
+      "publishDate": "2026-05-05T22:33:41.057Z"
+    },
     {
       "id": "amd-q1-2026-earnings",
       "categories": [
