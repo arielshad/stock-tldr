@@ -109,6 +109,49 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260505t184518z",
+      "timestamp": "2026-05-05T18:45:18.727Z",
+      "source": "github-actions-sweep",
+      "summary": "Three additions: GameStop's unsolicited $56B bid for eBay (May 3); Amazon's launch of Amazon Supply Chain Services (May 4) that knocked UPS ~10% and FedEx ~9%; and Tyson Foods' FQ2 2026 beat with a raised FY26 guide.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gme-ebay-bid-may-2026",
+          "title": "GameStop offers ~$56B unsolicited bid for eBay at $125/share, half cash and half stock",
+          "category": "mna",
+          "note": "Unsolicited $56B bid disclosed publicly by GameStop on May 3, with eBay board acknowledging receipt; widely covered tier-1 today."
+        },
+        {
+          "id": "amzn-supply-chain-services-launch-may-2026",
+          "title": "Amazon opens its full logistics network to outside businesses, sending UPS ~10% lower and FedEx ~9% lower",
+          "category": "sector",
+          "note": "Sector-defining launch with named anchor customers and clear single-day moves in UPS and FDX."
+        },
+        {
+          "id": "tsn-q2-fy2026-earnings",
+          "title": "Tyson Foods FQ2 2026 — adj EPS $0.87 beats $0.76, raises FY26 op income guide; shares jump ~8%",
+          "category": "earnings",
+          "note": "Beat consensus, raised FY26 guidance, ~+8% on the day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mna",
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "rates",
+        "crypto"
+      ]
     }
   ]
 }

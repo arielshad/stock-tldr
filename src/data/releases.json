@@ -1,8 +1,222 @@
 {
-  "generatedAt": "2026-05-05T16:52:23.456Z",
+  "generatedAt": "2026-05-05T18:45:18.727Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "gme-ebay-bid-may-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "GameStop offers ~$56B unsolicited bid for eBay at $125/share, half cash and half stock",
+      "org": "GameStop",
+      "date": "2026-05-03",
+      "url": "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Proposes-to-Acquire-eBay-at-125-00-Per-Share/",
+      "summary": "GameStop disclosed an unsolicited proposal to acquire eBay at $125/share, half cash and half stock, citing a 46% premium to eBay's unaffected close on Feb 4 and pledging $2B of run-rate cost cuts.",
+      "tags": [
+        "mna",
+        "unsolicited-bid",
+        "all-cash-and-stock",
+        "e-commerce",
+        "collectibles",
+        "ryan-cohen",
+        "td-securities"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GME",
+        "EBAY"
+      ],
+      "metrics": {
+        "Offer": "$125.00 per share, 50% cash / 50% GME stock",
+        "Aggregate equity value": "~$55.5B",
+        "Premium (unaffected)": "46% vs eBay's Feb 4 close",
+        "Premium (90-day VWAP)": "36%",
+        "Cash on hand (1/31/26)": "~$9.4B",
+        "Debt financing": "Up to $20B highly-confident letter from TD Securities",
+        "Targeted run-rate savings": "$2B within 12 months of close",
+        "EBAY move": "~+5% intraday May 4",
+        "GME move": "~-10% May 4 close"
+      },
+      "links": [
+        {
+          "label": "GameStop Proposal",
+          "url": "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Proposes-to-Acquire-eBay-at-125-00-Per-Share/"
+        },
+        {
+          "label": "Al Jazeera Coverage",
+          "url": "https://www.aljazeera.com/economy/2026/5/4/gamestop-targets-ebay-with-unsolicited-56bn-acquisition-offer"
+        },
+        {
+          "label": "ABC News Coverage",
+          "url": "https://abcnews.com/Business/gamestop-offers-56-billion-buy-ebay/story?id=132631557"
+        },
+        {
+          "label": "Yahoo Finance — EBAY",
+          "url": "https://finance.yahoo.com/quote/EBAY"
+        },
+        {
+          "label": "Yahoo Finance — GME",
+          "url": "https://finance.yahoo.com/quote/GME"
+        }
+      ],
+      "explainer": {
+        "tagline": "Ryan Cohen's GameStop offers $125/share for eBay, a market cap roughly four times its own.",
+        "whatIsIt": "GameStop publicly disclosed an unsolicited proposal to acquire eBay for $125 per share in a 50/50 cash-and-stock structure, valuing the target at about $55.5B in aggregate equity. The offer was sent to eBay's board on May 3 and the company published the proposal letter the same day. eBay confirmed receipt and said its board would review the proposal.",
+        "howItWorks": "GameStop says the offer represents a 46% premium to eBay's unaffected closing price on February 4, 2026, a 27% premium to the 30-day VWAP and a 36% premium to the 90-day VWAP. The cash leg would be funded from GameStop's roughly $9.4B of balance-sheet cash as of January 31 plus a highly-confident letter from TD Securities for up to $20B of acquisition debt. GameStop has built a stake of roughly 5% in eBay and projects $2B of annualized cost reductions within twelve months of any close.",
+        "whyItMatters": "The math is the story — GameStop, with an equity market value near $12B, is bidding for a target several times larger than itself, with a financing stack that depends on a non-binding bank letter and a heavy stock component. eBay's stock rose around 5% on the news while GameStop fell about 10%, signaling that the market is pricing both target accretion and meaningful execution risk. eBay's review process and financing certainty are the next gates.",
+        "forWho": "M&A arb desks, e-commerce and collectibles investors",
+        "tryIt": "https://finance.yahoo.com/quote/EBAY"
+      },
+      "image": {
+        "url": "https://i.abcnewsfe.com/a/3f9710c9-f220-4111-8413-65fe5a45d019/gamestop-gty-jef-260504_1777920171603_hpMain_16x9.jpg?w=1600",
+        "alt": "Exterior of a GameStop retail store",
+        "fit": "cover",
+        "credit": "Getty Images / ABC News"
+      },
+      "publishDate": "2026-05-05T18:45:18.727Z"
+    },
+    {
+      "id": "amzn-supply-chain-services-launch-may-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Amazon opens its full logistics network to outside businesses, sending UPS ~10% lower and FedEx ~9% lower",
+      "org": "Amazon",
+      "date": "2026-05-04",
+      "url": "https://press.aboutamazon.com/2026/5/amazon-launches-amazon-supply-chain-services-opening-its-logistics-network-to-all-businesses",
+      "summary": "Amazon launched Amazon Supply Chain Services, exposing its freight, fulfillment and parcel network to any business; UPS fell about 10% and FedEx fell roughly 9% on the day.",
+      "tags": [
+        "logistics",
+        "parcel",
+        "supply-chain",
+        "amazon",
+        "ups",
+        "fedex",
+        "ecommerce",
+        "competitive-shift"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMZN",
+        "UPS",
+        "FDX"
+      ],
+      "metrics": {
+        "UPS move": "~-10% on May 4",
+        "FDX move": "~-9% on May 4",
+        "Anchor customers disclosed": "Procter & Gamble, 3M, Lands' End, American Eagle Outfitters",
+        "Service entry point": "supplychain.amazon.com",
+        "Channels supported": "Amazon, Walmart, Shopify, TikTok and others"
+      },
+      "links": [
+        {
+          "label": "Amazon Press Release",
+          "url": "https://press.aboutamazon.com/2026/5/amazon-launches-amazon-supply-chain-services-opening-its-logistics-network-to-all-businesses"
+        },
+        {
+          "label": "Amazon Blog Post",
+          "url": "https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business"
+        },
+        {
+          "label": "GeekWire",
+          "url": "https://www.geekwire.com/2026/amazon-turns-its-logistics-empire-into-a-new-business-taking-on-ups-and-fedex-in-freight-and-shipping/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/"
+        },
+        {
+          "label": "Yahoo Finance — UPS",
+          "url": "https://finance.yahoo.com/quote/UPS"
+        }
+      ],
+      "explainer": {
+        "tagline": "Amazon turns its logistics stack into a third-party offering, branded Amazon Supply Chain Services.",
+        "whatIsIt": "Amazon launched Amazon Supply Chain Services on May 4, packaging its freight (ocean, air, ground, rail), distribution, fulfillment and parcel-shipping operations into a single offering open to any business — including sellers on Walmart, Shopify, TikTok and other competing marketplaces. The launch was framed by Amazon as a logistics analogue to AWS, and Procter & Gamble, 3M, Lands' End and American Eagle Outfitters were named as initial customers.",
+        "howItWorks": "Customers sign up through a single portal at supplychain.amazon.com and can mix-and-match freight, distribution, fulfillment and parcel services. Amazon says the network is the same one used internally for its own retail operations and existing third-party seller fulfillment, with optimization driven by its AI demand-forecasting models. Peter Larsen, VP of Amazon Supply Chain Services, drew an explicit comparison to AWS in the launch materials.",
+        "whyItMatters": "UPS fell roughly 10% and FedEx fell about 9% on the launch day, with sell-side notes flagging it as a direct competitive blow to traditional parcel carriers. Contract logistics and 3PL operators including DHL Supply Chain, GXO and Maersk Logistics are also exposed if Amazon scales the offering aggressively. The next read-throughs are pricing and contract terms versus incumbent quotes — UPS and FedEx Q1 commentary becomes the sector's pressure point.",
+        "forWho": "logistics, transports and large-cap e-commerce investors",
+        "tryIt": "https://finance.yahoo.com/quote/UPS"
+      },
+      "image": {
+        "url": "https://assets.aboutamazon.com/dims4/default/4e6366b/2147483647/strip/true/crop/2000x1000+0+17/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0a%2F17%2F9835cc404d2b93033b27b68b0f5f%2Fascs-plane-amazon-news-nb-050426.jpg",
+        "alt": "Amazon Air freighter on a runway, used to launch Amazon Supply Chain Services",
+        "fit": "cover",
+        "credit": "Amazon"
+      },
+      "publishDate": "2026-05-05T18:45:18.727Z"
+    },
+    {
+      "id": "tsn-q2-fy2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Tyson Foods FQ2 2026 — adj EPS $0.87 beats $0.76, raises FY26 op income guide; shares jump ~8%",
+      "org": "Tyson Foods",
+      "date": "2026-05-05",
+      "url": "https://www.tysonfoods.com/news/news-releases/2026/5/tyson-foods-reports-second-quarter-2026-results",
+      "summary": "Tyson posted FQ2 adjusted EPS of $0.87 versus a $0.76 consensus, revenue +4.4% to $13.65B and lifted FY26 adjusted operating income guidance to $2.2–$2.4B; shares rallied about 8%.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "chicken",
+        "prepared-foods",
+        "tariffs",
+        "fq2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TSN"
+      ],
+      "metrics": {
+        "Adj EPS": "$0.87 vs ~$0.76 est",
+        "GAAP EPS": "$0.73",
+        "Revenue": "$13.65B (+4.4% Y/Y)",
+        "FY26 Adj Op Income guide": "$2.2B–$2.4B (raised)",
+        "FY26 Chicken Op Income guide": "$1.9B–$2.05B (raised)",
+        "FY26 Beef segment guide": "$(350)M–$(500)M loss",
+        "FY26 Free cash flow": "$1.2B–$1.8B",
+        "Move": "~+8%"
+      },
+      "links": [
+        {
+          "label": "Tyson Press Release",
+          "url": "https://www.tysonfoods.com/news/news-releases/2026/5/tyson-foods-reports-second-quarter-2026-results"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-delivers-q2-earnings-144800039.html"
+        },
+        {
+          "label": "Yahoo Finance — TSN",
+          "url": "https://finance.yahoo.com/quote/TSN"
+        },
+        {
+          "label": "8-K (StockTitan mirror)",
+          "url": "https://www.stocktitan.net/sec-filings/TSN/8-k-tyson-foods-inc-reports-material-event-ad9309fdc09b.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "Chicken-led FQ2 beat plus a raised FY26 guide drives Tyson shares ~8% higher.",
+        "whatIsIt": "Tyson Foods reported fiscal Q2 2026 results on May 5, with adjusted EPS of $0.87 topping the ~$0.76 consensus by 11 cents and revenue of $13.65B up 4.4% year over year. Reported GAAP EPS was $0.73. Management raised full-year guidance and shares moved roughly 8% higher in response.",
+        "howItWorks": "Chicken remained the standout segment, driving the operating-income beat, while Prepared Foods contributed $352M of segment operating income at a 14% margin on +4.8% sales. Beef remained pressured and is now guided to a $350–$500M segment operating loss for FY26. Tyson lifted FY26 total adjusted operating income guidance to $2.2B–$2.4B, raised the Chicken segment outlook to $1.9B–$2.05B, and set free-cash-flow guidance at $1.2B–$1.8B with $3.7B of liquidity at quarter-end.",
+        "whyItMatters": "The print confirms that Chicken margins are absorbing both grain-cost normalization and the structural shift toward branded/prepared products, allowing Tyson to over-earn against still-loss-making Beef. The raised FY26 guide makes Tyson the cleanest beat in the protein complex this earnings season and pulls peers like Pilgrim's Pride and Hormel into the read-across. Tariff exposure remains a watch item — management called out a meaningful FY26 EBITDA headwind from current tariff policy.",
+        "forWho": "consumer-staples and protein-complex investors",
+        "tryIt": "https://finance.yahoo.com/quote/TSN"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tyson_Foods_corporate_logo_%282024%29.svg/1280px-Tyson_Foods_corporate_logo_%282024%29.svg.png",
+        "alt": "Tyson Foods corporate logo",
+        "fit": "contain",
+        "credit": "Tyson Foods / Wikimedia Commons"
+      },
+      "publishDate": "2026-05-05T18:45:18.727Z"
+    },
     {
       "id": "pins-q1-2026-earnings",
       "categories": [
