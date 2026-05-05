@@ -33,22 +33,33 @@
   --bg-2: #fafaf9;
   --bg-3: #f1f1ee;
   --fg: #18181b;
-  --muted: #71717a;
+  /* zinc-600 — 8:1 on bg, gives WCAG AA headroom for the small mono
+   * meta text that runs throughout the cards. zinc-500 was at the
+   * 4.5:1 threshold with no room to spare. */
+  --muted: #52525b;
   --line: #18181b;
   --line-dim: #d4d4d8;
 
-  --acc: #f7ff00;        /* electric yellow — brand + seismic card */
+  --acc: #f7ff00;        /* electric yellow — brand + seismic card BG */
   --acc-ink: #050505;
-  --link: #1a73e8;       /* finance blue — hyperlinks, focus rings */
+  --link: #1a73e8;       /* finance blue — hyperlinks */
+  /* Interactive accent for TEXT / OUTLINE / RING uses. In dark this
+   * is yellow (preserves brand identity); in light it falls back to
+   * a readable blue because yellow on white is ~1:1 contrast.
+   * Replaces the raw `--acc` reference everywhere `--acc` was being
+   * used as a foreground colour. */
+  --int: #1a73e8;
   --hot: #dc2626;        /* breaking-news red */
   --cool: #059669;       /* fresh emerald */
   --rumor: #7c3aed;      /* unverified violet */
 
-  /* Finance move semantics — independent of acc/hot so we can style
-   * "this stock is up" differently from "this is breaking news". */
-  --up: #16a34a;
+  /* Finance move semantics. Light-mode foregrounds are bumped one
+   * step darker than the natural Tailwind 600 family so they pass
+   * WCAG AA on the tinted backgrounds (700-on-100 = 4.7:1, vs
+   * 600-on-100 which sits at ~3.6:1 and fails for small chip text). */
+  --up: #15803d;
   --up-bg: #dcfce7;
-  --down: #dc2626;
+  --down: #b91c1c;
   --down-bg: #fee2e2;
 
   --scrim: rgba(15, 15, 17, 0.45);
@@ -84,6 +95,10 @@
     --acc: #f7ff00;
     --acc-ink: #050505;
     --link: #6ea8ff;
+    /* In dark mode, the brand-yellow IS readable on near-black, so
+     * --int reverts to --acc for text/outline/ring uses to keep the
+     * "everything turns yellow on hover" identity intact. */
+    --int: #f7ff00;
     --hot: #ff0040;
     --cool: #00f0a8;
     --rumor: #9b78ff;
@@ -114,6 +129,7 @@
   --acc: #f7ff00;
   --acc-ink: #050505;
   --link: #6ea8ff;
+  --int: #f7ff00;
   --hot: #ff0040;
   --cool: #00f0a8;
   --rumor: #9b78ff;
@@ -139,20 +155,21 @@
   --bg-2: #fafaf9;
   --bg-3: #f1f1ee;
   --fg: #18181b;
-  --muted: #71717a;
+  --muted: #52525b;
   --line: #18181b;
   --line-dim: #d4d4d8;
 
   --acc: #f7ff00;
   --acc-ink: #050505;
   --link: #1a73e8;
+  --int: #1a73e8;
   --hot: #dc2626;
   --cool: #059669;
   --rumor: #7c3aed;
 
-  --up: #16a34a;
+  --up: #15803d;
   --up-bg: #dcfce7;
-  --down: #dc2626;
+  --down: #b91c1c;
   --down-bg: #fee2e2;
 
   --scrim: rgba(15, 15, 17, 0.45);
@@ -245,4 +262,47 @@ code {
     background: var(--hot);
     color: var(--fg);
   }
+}
+
+/* Respect prefers-reduced-motion. Marquee, blink, and the hardFlip
+ * animation can be vestibular-trigger or distraction problems for
+ * some users; collapse all animations to ~instant when the OS asks. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Skip link — hidden by default, slides into the top-left corner on
+ * keyboard focus so Tab-from-page-load lands here first. Lets screen-
+ * reader and keyboard users jump straight to the feed without walking
+ * the entire header nav every page load. */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 8px;
+  z-index: 1000;
+  padding: 8px 12px;
+  background: var(--fg);
+  color: var(--bg);
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  border: 2px solid var(--int);
+  transform: translateY(0);
+  transition: top 120ms linear;
+}
+.skip-link:focus,
+.skip-link:focus-visible {
+  top: 8px;
+  outline: 2px solid var(--int);
+  outline-offset: 2px;
 }

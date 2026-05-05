@@ -445,6 +445,7 @@ function App() {
 
   return (
     <div className="page">
+      <a className="skip-link" href="#main-content">Skip to main content</a>
       <header className="page-head">
         <a
           className="brand"
@@ -557,6 +558,7 @@ function App() {
         </div>
       </header>
 
+      <main id="main-content" tabIndex={-1}>
       {page === "feed" ? (
         <>
           <FilterBar
@@ -570,7 +572,7 @@ function App() {
             totalAll={sorted.length}
           />
 
-          <main className="grid" role="feed" aria-label="Markets feed">
+          <div className="grid" role="feed" aria-label="Markets feed">
             {visible.length === 0 ? (
               <div className="grid-empty">
                 // no releases match — adjust filters
@@ -580,7 +582,7 @@ function App() {
                 <ReleaseCard key={item.id} item={item} onOpen={openModal} />
               ))
             )}
-          </main>
+          </div>
           {hasMore && (
             <div
               ref={sentinelRef}
@@ -598,6 +600,7 @@ function App() {
       ) : (
         <SweepLogPage onOpenRelease={openReleaseById} />
       )}
+      </main>
 
       {openItem && <ReleaseModal item={openItem} onClose={closeModal} />}
 

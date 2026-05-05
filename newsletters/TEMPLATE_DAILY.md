@@ -36,8 +36,6 @@ Start directly with the HTML tables — no markdown title, no outer header row.
 </tr>
 </table>
 
-<!-- Open-tracking pixel (pomegra analytics). Must be the last element in the body. -->
-<img src="https://analytics.pomegra.io/p/iVFoPRUpT" width="1" height="1" alt="" style="display:none" border="0">
 ```
 
 ## Card Template

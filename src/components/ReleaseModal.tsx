@@ -185,7 +185,24 @@ export function ReleaseModal({
                 {ex.tryIt && (
                   <p style={{ marginTop: 4 }}>
                     <strong>Try:</strong>{" "}
-                    <code className="try-code">{ex.tryIt}</code>
+                    {/^https?:\/\//.test(ex.tryIt) ? (
+                      <a
+                        className="try-code try-link"
+                        href={ex.tryIt}
+                        target="_blank"
+                        rel="noreferrer noopener"
+                        onClick={() =>
+                          track("release:tryit-click", {
+                            id: item.id,
+                            category: item.categories[0],
+                          })
+                        }
+                      >
+                        {ex.tryIt} <span aria-hidden="true">↗</span>
+                      </a>
+                    ) : (
+                      <code className="try-code">{ex.tryIt}</code>
+                    )}
                   </p>
                 )}
               </section>

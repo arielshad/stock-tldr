@@ -63,10 +63,10 @@
   cursor: pointer;
 }
 .brand:hover .brand-name {
-  color: var(--acc);
+  color: var(--int);
 }
 .brand:focus-visible {
-  outline: 2px solid var(--acc);
+  outline: 2px solid var(--int);
   outline-offset: 4px;
 }
 
@@ -100,7 +100,7 @@
   color: #ffffff;
 }
 .bmc:focus-visible {
-  outline: 2px solid var(--acc);
+  outline: 2px solid var(--int);
   outline-offset: 2px;
 }
 .bmc-img {
@@ -110,7 +110,7 @@
   object-fit: contain;
 }
 .brand-mark {
-  color: var(--acc);
+  color: var(--int);
   font-family: var(--mono);
   font-weight: 800;
   font-size: 38px;
@@ -177,8 +177,8 @@
 }
 
 .nav-active {
-  color: var(--acc);
-  border-bottom: 2px solid var(--acc);
+  color: var(--int);
+  border-bottom: 2px solid var(--int);
 }
 
 /* ============ FILTER BAR ============ */
@@ -228,7 +228,7 @@
   color: var(--bg);
 }
 .fb-cat-btn-active {
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 .fb-cat-btn-active:hover {
   background: var(--acc);
@@ -238,7 +238,7 @@
 .fb-cat-btn-open:hover {
   background: var(--acc);
   color: var(--acc-ink);
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 .fb-cat-btn-num {
   font-size: 9px;
@@ -253,7 +253,7 @@
 .fb-cat-btn-open .fb-cat-btn-num,
 .fb-cat-btn-active.fb-cat-btn-open .fb-cat-btn-num {
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
   border-color: var(--acc-ink);
 }
 .fb-cat-btn-arrow {
@@ -323,7 +323,7 @@
 .chip-on {
   background: var(--acc);
   color: var(--acc-ink);
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 .chip-on:hover {
   background: var(--acc);
@@ -331,7 +331,7 @@
 }
 .chip-on:hover .chip-count {
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
 }
 
 .chip-count {
@@ -348,7 +348,7 @@
 
 .chip-on .chip-count {
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
   border-color: var(--acc-ink);
 }
 
@@ -380,7 +380,7 @@
 .search-prompt {
   font-family: var(--mono);
   font-weight: 800;
-  color: var(--acc);
+  color: var(--int);
   margin-right: 6px;
   font-size: 11px;
 }
@@ -504,7 +504,7 @@
 }
 .item-img-playable { cursor: pointer; }
 .item-img-playable:focus-visible {
-  outline: 2px dashed var(--acc);
+  outline: 2px dashed var(--int);
   outline-offset: -4px;
 }
 
@@ -561,7 +561,7 @@
 }
 
 .card:focus-visible {
-  outline: 2px dashed var(--acc);
+  outline: 2px dashed var(--int);
   outline-offset: -3px;
 }
 
@@ -578,8 +578,8 @@
 }
 .card-seismic:hover {
   background: var(--acc-ink);
-  color: var(--acc);
-  border-color: var(--acc);
+  color: var(--int);
+  border-color: var(--int);
 }
 .card-seismic .card-img,
 .card-seismic .img-fallback {
@@ -739,7 +739,7 @@
   font-weight: 500;
 }
 .card:hover .card-tagline { color: var(--bg); }
-.card-seismic:hover .card-tagline { color: var(--acc); }
+.card-seismic:hover .card-tagline { color: var(--int); }
 
 .card-preview {
   font-family: var(--sans);
@@ -754,7 +754,7 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.card-seismic:hover .card-preview { color: var(--acc); }
+.card-seismic:hover .card-preview { color: var(--int); }
 
 .card-foot {
   display: flex;
@@ -845,7 +845,7 @@
    button's inverted style. */
 .card-seismic .card-share-trigger {
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
   border-left-color: var(--acc-ink);
   border-bottom-color: var(--acc-ink);
 }
@@ -927,7 +927,7 @@
 .card-seismic .card-askai-trigger svg { width: 20px; height: 20px; }
 .card-seismic .card-askai-trigger {
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
   border-left-color: var(--acc-ink);
   border-bottom-color: var(--acc-ink);
 }
@@ -964,13 +964,13 @@
   color: var(--acc-ink);
 }
 .card-visit:focus-visible {
-  outline: 2px dashed var(--acc);
+  outline: 2px dashed var(--int);
   outline-offset: -3px;
 }
 
 .card-seismic .card-visit {
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
   border-left-color: var(--acc-ink);
   border-bottom-color: var(--acc-ink);
 }
@@ -1009,7 +1009,7 @@
   color: var(--bg);
 }
 .theme-toggle:focus-visible {
-  outline: 2px solid var(--acc);
+  outline: 2px solid var(--int);
   outline-offset: 2px;
 }
 .theme-toggle-glyph {
@@ -1068,9 +1068,9 @@
   border-color: var(--muted);
 }
 .imp-major {
-  color: var(--acc);
+  color: var(--int);
   background: transparent;
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 .imp-seismic {
   color: var(--hot);
@@ -1110,7 +1110,7 @@
    * an outline-on-yellow look that matches the seismic card's other
    * dark-on-yellow chips. */
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--int);
   border-color: var(--acc-ink);
 }
 .card:hover .badge-ticker {
@@ -1152,7 +1152,7 @@
   font-family: var(--mono);
   font-weight: 800;
   font-size: 12px;
-  color: var(--acc);
+  color: var(--int);
 }
 .img-author-avatar-fallback { line-height: 24px; text-align: center; }
 .img-author-text {
@@ -1189,10 +1189,10 @@
 }
 .img-author-link:hover {
   background: var(--bg-3);
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 .img-author-link:hover .img-author-name {
-  color: var(--acc);
+  color: var(--int);
 }
 .img-author-link:hover .img-author-handle {
   color: var(--fg);
@@ -1306,7 +1306,7 @@
 .modal-close:hover {
   background: var(--acc);
   color: var(--acc-ink);
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 
 /* ===== left pane: image + meta + sources ===== */
@@ -1408,7 +1408,7 @@
 }
 
 .modal-author-link {
-  color: var(--acc);
+  color: var(--int);
   text-decoration: none;
   transition: color 120ms ease;
 }
@@ -1430,7 +1430,7 @@
   line-height: 1.4;
   font-weight: 600;
   margin: 4px 0 0;
-  color: var(--acc);
+  color: var(--int);
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
@@ -1457,7 +1457,7 @@
   font-weight: 700;
   letter-spacing: 0.14em;
   margin: 0;
-  color: var(--acc);
+  color: var(--int);
   text-transform: uppercase;
   flex: 0 0 auto;
 }
@@ -1485,6 +1485,26 @@
   word-break: break-word;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
+}
+
+/* When tryIt is a URL it renders as <a class="try-code try-link">.
+ * Override the yellow chip styling so it reads as a link instead of a
+ * codeblock — underlined, theme-aware, with a clear hover/focus state.
+ * The text is also longer (full URL) so it shouldn't sit on a yellow
+ * field anyway. */
+.try-link {
+  background: transparent;
+  color: var(--int);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-size: 12px;
+  padding: 4px 0;
+  cursor: pointer;
+}
+.try-link:hover { text-decoration-thickness: 2px; }
+.try-link:focus-visible {
+  outline: 2px solid var(--int);
+  outline-offset: 2px;
 }
 
 .modal-foot {
@@ -1613,7 +1633,7 @@
   font-weight: 800;
   font-size: 14px;
   flex: 0 0 auto;
-  color: var(--acc);
+  color: var(--int);
 }
 .source-link:hover .source-arrow { color: var(--acc-ink); }
 
@@ -1670,7 +1690,7 @@
 }
 
 .share-btn:focus-visible {
-  outline: 2px solid var(--acc);
+  outline: 2px solid var(--int);
   outline-offset: 2px;
 }
 
@@ -1713,7 +1733,7 @@
 .share-btn[data-platform="copy"]:hover,
 .share-btn[data-platform="copy"]:focus-visible,
 .share-btn[data-platform="native"]:hover,
-.share-btn[data-platform="native"]:focus-visible { color: var(--acc); }
+.share-btn[data-platform="native"]:focus-visible { color: var(--int); }
 
 /* Post-click feedback for the copy button. The copy button already
    hovers yellow (same as default focus color), so a plain color swap
@@ -1777,7 +1797,7 @@
   }
   .chip-on:hover .chip-count {
     background: var(--acc-ink);
-    color: var(--acc);
+    color: var(--int);
   }
 
   .card:hover {
@@ -1803,7 +1823,7 @@
   }
   .card-seismic .card-visit:hover {
     background: var(--acc-ink);
-    color: var(--acc);
+    color: var(--int);
   }
 
   .modal-close:hover {
@@ -1817,7 +1837,7 @@
     color: var(--fg);
   }
   .source-link:hover .source-arrow {
-    color: var(--acc);
+    color: var(--int);
   }
 }
 
@@ -1881,7 +1901,7 @@
   .hamburger-open:hover {
     background: var(--acc);
     color: var(--acc-ink);
-    border-color: var(--acc);
+    border-color: var(--int);
   }
 
   /* BMC button next to the hamburger — icon + label, height matches
@@ -1921,7 +1941,7 @@
     color: #ffffff;
   }
   .bmc-icon:focus-visible {
-    outline: 2px solid var(--acc);
+    outline: 2px solid var(--int);
     outline-offset: 2px;
   }
 
@@ -2326,7 +2346,7 @@
 .plat-twitter { color: var(--fg); border-color: var(--fg); }
 .plat-github { color: var(--fg); border-color: var(--fg); }
 .plat-blog { color: var(--cool); border-color: var(--cool); }
-.plat-podcast { color: var(--acc); border-color: var(--acc); }
+.plat-podcast { color: var(--int); border-color: var(--int); }
 
 .inf-followers {
   font-family: var(--mono);
@@ -2364,7 +2384,7 @@
 .inf-handle {
   font-family: var(--mono);
   font-size: 11px;
-  color: var(--acc);
+  color: var(--int);
   letter-spacing: 0.04em;
 }
 
@@ -2408,7 +2428,7 @@
 }
 
 .inf-link-icon:hover {
-  color: var(--acc);
+  color: var(--int);
 }
 
 .inf-empty {
@@ -2453,7 +2473,7 @@
 }
 .nav-link-icon:hover .nav-link-glyph,
 .nav-link-icon.nav-active .nav-link-glyph {
-  color: var(--acc);
+  color: var(--int);
 }
 
 /* Page header */
@@ -2585,7 +2605,7 @@
 .sweep-badge-cron {
   background: var(--acc);
   color: var(--acc-ink);
-  border-color: var(--acc);
+  border-color: var(--int);
 }
 .sweep-badge-manual {
   background: var(--fg);
@@ -2691,7 +2711,7 @@
   width: 100%;
 }
 .sweep-item-head:hover .sweep-item-title {
-  color: var(--acc);
+  color: var(--int);
   text-decoration: underline;
 }
 
@@ -2774,7 +2794,7 @@
 .subscribe-prompt {
   font-family: var(--mono);
   font-weight: 800;
-  color: var(--acc);
+  color: var(--int);
   padding: 0 6px 0 8px;
   font-size: 12px;
 }
@@ -2834,7 +2854,7 @@
 }
 
 .subscribe-check {
-  color: var(--acc);
+  color: var(--int);
   font-weight: 800;
   margin-right: 6px;
 }
@@ -2861,7 +2881,7 @@
   text-transform: uppercase;
 }
 .page-footer a {
-  color: var(--acc);
+  color: var(--int);
   text-decoration: none;
   font-weight: 700;
 }
