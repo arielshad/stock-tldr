@@ -1,3 +1,66 @@
 {
-  "sweeps": []
+  "sweeps": [
+    {
+      "id": "sweep-20260505t160803z",
+      "timestamp": "2026-05-05T16:08:03.094Z",
+      "source": "github-actions-sweep",
+      "summary": "Six items added: PFE, PLTR and PYPL Q1 2026 earnings; the May 4 Iranian drone strike on UAE's Fujairah oil hub that pushed Brent +5.8%; the 30Y UST yield breaching 5% for the first time since July 2025; and the third straight day of U.S. spot bitcoin ETF net inflows ($532M).",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "pfe-q1-2026-earnings",
+          "title": "Pfizer Q1 2026 — beats on EPS and revenue, reaffirms full-year outlook",
+          "category": "earnings",
+          "note": "Mega-cap pharma earnings beat with reaffirmed FY guidance — primary-source confirmed."
+        },
+        {
+          "id": "pltr-q1-2026-earnings",
+          "title": "Palantir Q1 2026 — revenue +85% Y/Y, raises FY26 guide to 71% growth, stock dips on valuation",
+          "category": "earnings",
+          "note": "85% Y/Y growth + 10pt guide raise, but next-day stock dropped ~3.8% — earnings + mover."
+        },
+        {
+          "id": "pypl-q1-2026-earnings",
+          "title": "PayPal Q1 2026 — beats top and bottom but stock plunges ~10% on cautious guidance",
+          "category": "earnings",
+          "note": "Beat Q1 but ~10% premarket drop on cautious 2026 transaction-margin guidance — earnings + mover."
+        },
+        {
+          "id": "fujairah-drone-strike-oil-may-2026",
+          "title": "Iran drone strike sets fire at UAE Fujairah oil hub; Brent jumps 5.8% to $114",
+          "category": "macro",
+          "note": "First Iranian strike on UAE since April 8 ceasefire; Brent +5.8% to $114.44 — primary geopolitical+commodity."
+        },
+        {
+          "id": "us30y-tops-5-percent-may-2026",
+          "title": "30-year Treasury yield breaches 5% for first time since July 2025 as oil-driven inflation bites",
+          "category": "rates",
+          "note": "30Y yield closed above 5% (5.021%) for first time since July 2025 — major rates milestone."
+        },
+        {
+          "id": "btc-spot-etfs-532m-inflows-may-4-2026",
+          "title": "U.S. spot bitcoin ETFs draw $532M on May 4 — third straight day of net inflows",
+          "category": "crypto",
+          "note": "Third straight day of net inflows totaling $532M led by BlackRock IBIT — notable crypto flow signal."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "mna",
+        "analyst"
+      ]
+    }
+  ]
 }

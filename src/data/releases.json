@@ -1,6 +1,389 @@
 {
-  "generatedAt": "2026-05-05T00:00:00.000Z",
+  "generatedAt": "2026-05-05T16:08:03.094Z",
   "promptVersion": "1.0.0",
-  "source": "initial-bootstrap",
-  "items": []
+  "source": "github-actions-sweep",
+  "items": [
+    {
+      "id": "pfe-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Pfizer Q1 2026 — beats on EPS and revenue, reaffirms full-year outlook",
+      "org": "Pfizer",
+      "date": "2026-05-05",
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-first-quarter-results-and-reaffirms",
+      "summary": "Pfizer posted Q1 adjusted EPS of $0.75 vs $0.72 est on $14.45B revenue vs $13.79B est, with Eliquis up 13% YoY offsetting Covid-product declines. 2026 guidance reaffirmed.",
+      "tickers": [
+        "PFE"
+      ],
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q1-2026",
+        "pharma",
+        "eliquis",
+        "guidance-reaffirmed",
+        "covid-rolloff"
+      ],
+      "importance": "major",
+      "metrics": {
+        "EPS (Adj.)": "$0.75 vs $0.72 est",
+        "Revenue": "$14.45B vs $13.79B est",
+        "Eliquis": "$2.17B (+13% Y/Y)",
+        "Comirnaty": "$232M (-59% Y/Y)",
+        "Paxlovid": "$186M (-62% Y/Y)",
+        "FY26 Rev Guide": "$59.5–62.5B",
+        "FY26 EPS Guide": "$2.80–3.00",
+        "Move": "+1.6% premarket"
+      },
+      "explainer": {
+        "tagline": "Pfizer beats Q1 estimates as new launches and Eliquis offset the Covid revenue cliff.",
+        "whatIsIt": "Pfizer reported first-quarter 2026 results before the open on May 5. Adjusted EPS came in at $0.75 versus the $0.72 consensus, and revenue of $14.45B beat the $13.79B Street estimate. The company reaffirmed its full-year 2026 guidance.",
+        "howItWorks": "Recently launched and acquired products grew 22% operationally on the quarter. Top-selling blood thinner Eliquis added $2.17B (+13% Y/Y), while Covid-vaccine Comirnaty fell 59% to $232M and Paxlovid dropped 62% to $186M. FY 2026 revenue is still guided to $59.5–62.5B with adjusted EPS of $2.80–3.00.",
+        "whyItMatters": "The print confirms Pfizer's pivot away from the post-Covid revenue cliff is on track via Eliquis durability and new oncology/GLP-1 assets. Guidance reaffirmation removes a near-term overhang ahead of upcoming patent expirations on Eliquis and Ibrance.",
+        "forWho": "pharma analysts, dividend-focused holders",
+        "tryIt": "https://finance.yahoo.com/quote/PFE/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfizer_%282021%29.svg/1280px-Pfizer_%282021%29.svg.png",
+        "alt": "Pfizer corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Pfizer Press Release",
+          "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-first-quarter-results-and-reaffirms"
+        },
+        {
+          "label": "Sherwood Recap",
+          "url": "https://sherwood.news/markets/pfizer-earnings-q1-2026-results-above-consensus-reaffirms-guidance/"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-5-pfizer-nysepfe-posts-better-than-expected-sales-in-q1-cy2026"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/PFE/"
+        }
+      ],
+      "publishDate": "2026-05-05T16:08:03.094Z"
+    },
+    {
+      "id": "pltr-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Palantir Q1 2026 — revenue +85% Y/Y, raises FY26 guide to 71% growth, stock dips on valuation",
+      "org": "Palantir Technologies",
+      "date": "2026-05-04",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q1-2026-u-200500041.html",
+      "summary": "Palantir grew revenue 85% Y/Y to $1.63B, lifted FY26 guidance to 71% growth ($7.65–7.66B), and posted a 145% Rule of 40. Stock opened down ~3.8% the next day on stretched valuation.",
+      "tickers": [
+        "PLTR"
+      ],
+      "tags": [
+        "earnings",
+        "ai",
+        "government-tech",
+        "us-commercial",
+        "rule-of-40",
+        "guidance-raise",
+        "sell-the-news",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1.63B (+85% Y/Y)",
+        "Adj. EPS": "$0.33 vs $0.28 est",
+        "US Revenue": "$1.282B (+104% Y/Y)",
+        "US Commercial": "$595M (+133% Y/Y)",
+        "US Government": "$687M (+84% Y/Y)",
+        "Adj. FCF": "$925M (57% margin)",
+        "FY26 Rev Guide": "$7.650–7.662B (+71% Y/Y)",
+        "Rule of 40": "145%",
+        "Move (next day open)": "-3.8%"
+      },
+      "explainer": {
+        "tagline": "Palantir's fastest-ever revenue quarter and a 10-point guidance raise still couldn't outrun a sell-the-news drop.",
+        "whatIsIt": "Palantir reported Q1 2026 after the close on May 4. Revenue of $1.63B grew 85% Y/Y — the fastest growth since at least 2020 — with adjusted EPS of $0.33 beating the $0.28 estimate. Management raised FY 2026 guidance to 71% growth from 61% prior.",
+        "howItWorks": "U.S. revenue jumped 104% Y/Y to $1.28B, with U.S. commercial up 133% to $595M and U.S. government up 84% to $687M. Adjusted free cash flow hit $925M at a 57% margin. Full-year U.S. commercial guidance was raised to $3.224B+ (+120% Y/Y). Despite the print, PLTR opened the next session down about 3.8% as traders pointed to the elevated multiple ahead of results.",
+        "whyItMatters": "Palantir is the cleanest read on enterprise + government AI deployment velocity. The 145% Rule of 40 and another quarter of accelerating U.S. commercial growth strengthen the case that Foundry/AIP wins are still expanding, even as a stretched valuation continues to cap upside on prints. The next-day drawdown is the read-through to watch for other high-multiple AI names.",
+        "forWho": "AI-software equity analysts, growth funds",
+        "tryIt": "https://finance.yahoo.com/quote/PLTR/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/VT8JXhqw_2pMXuvCwY2x7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0yOTc-/https://media.zenfs.com/en/business-wire.com/6d70e33ede6d3291654ac2c0e556fcdf",
+        "alt": "Palantir Q1 2026 earnings press graphic",
+        "fit": "cover",
+        "credit": "Business Wire"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q1-2026-u-200500041.html"
+        },
+        {
+          "label": "Stocktitan Recap",
+          "url": "https://www.stocktitan.net/news/PLTR/palantir-reports-q1-2026-u-s-revenue-growth-of-104-y-y-and-revenue-2er5cxji64hm.html"
+        },
+        {
+          "label": "PLTR Quote",
+          "url": "https://finance.yahoo.com/quote/PLTR/"
+        }
+      ],
+      "publishDate": "2026-05-05T16:08:03.094Z"
+    },
+    {
+      "id": "pypl-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "PayPal Q1 2026 — beats top and bottom but stock plunges ~10% on cautious guidance",
+      "org": "PayPal Holdings",
+      "date": "2026-05-05",
+      "url": "https://newsroom.paypal-corp.com/2026-05-05-PayPal-Reports-First-Quarter-2026-Results",
+      "summary": "PayPal beat Q1 with $1.34 adj. EPS on $8.35B revenue and $464B TPV, but transaction margin compressed to 45.6% and FY26 guidance flagged a slight decline in transaction-margin dollars. Stock fell ~9.8% premarket.",
+      "tickers": [
+        "PYPL"
+      ],
+      "tags": [
+        "earnings",
+        "fintech",
+        "tpv",
+        "transaction-margin",
+        "guidance-cut",
+        "buyback",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$8.35B vs $8.05B est",
+        "Adj. EPS": "$1.34 vs $1.27 est",
+        "TPV": "$464B (+11% Y/Y)",
+        "US TPV": "$300.1B (+11% Y/Y)",
+        "Transaction margin %": "45.6% (vs 47.7% Y/Y)",
+        "Operating margin": "18.4% (-229 bp Y/Y)",
+        "FY26 Adj. EPS Guide": "low-single-digit decline to slightly positive",
+        "FY26 Buyback": "$6B authorized",
+        "Move": "-9.8% premarket to $45.45"
+      },
+      "explainer": {
+        "tagline": "PayPal beat Q1 numbers but a softer 2026 margin trajectory triggered a ~10% premarket drop.",
+        "whatIsIt": "PayPal reported Q1 2026 on the morning of May 5. Adjusted EPS of $1.34 beat the $1.27 consensus and revenue of $8.35B beat $8.05B. TPV grew 11% to $464B. But guidance and margin compression dominated the reaction.",
+        "howItWorks": "Transaction margin compressed to 45.6% from 47.7% Y/Y, with transaction-margin dollars only up 3%. Operating margin fell 229bp to 18.4% on heavier tech and marketing spend. FY 2026 guidance now calls for transaction-margin dollars to show a slight decline and adjusted EPS to range from a low-single-digit decline to slightly positive vs FY25's $5.31. The company kept a $6B buyback authorization and at least $6B of adjusted FCF for the year.",
+        "whyItMatters": "The print is the cleanest signal yet that PayPal's branded-checkout reacceleration is being paid for with margin. A slight FY transaction-margin-dollar decline coming into the year was not in the buy-side base case, and the ~10% drop reprices a name that had been working as a low-multiple turnaround.",
+        "forWho": "fintech analysts, value/turnaround funds",
+        "tryIt": "https://finance.yahoo.com/quote/PYPL/"
+      },
+      "image": {
+        "url": "https://newsroom.paypal-corp.com/image/PayPal_Logo_White_3x2.png",
+        "alt": "PayPal corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "PayPal Press Release",
+          "url": "https://newsroom.paypal-corp.com/2026-05-05-PayPal-Reports-First-Quarter-2026-Results"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-reports-first-quarter-2026-110000451.html"
+        },
+        {
+          "label": "PYPL Quote",
+          "url": "https://finance.yahoo.com/quote/PYPL/"
+        }
+      ],
+      "publishDate": "2026-05-05T16:08:03.094Z"
+    },
+    {
+      "id": "fujairah-drone-strike-oil-may-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Iran drone strike sets fire at UAE Fujairah oil hub; Brent jumps 5.8% to $114",
+      "org": "United Arab Emirates",
+      "date": "2026-05-04",
+      "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran",
+      "summary": "An Iranian drone strike ignited a fire at the UAE's Fujairah Oil Industry Zone on May 4, breaking the April 8 ceasefire. UAE intercepted three of four Iranian missiles. Brent crude settled +5.8% at $114.44; WTI +4.39% at $106.42.",
+      "tags": [
+        "geopolitics",
+        "iran",
+        "uae",
+        "fujairah",
+        "strait-of-hormuz",
+        "oil",
+        "brent",
+        "wti",
+        "ceasefire-break",
+        "energy"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Brent": "$114.44 (+5.8%)",
+        "WTI": "$106.42 (+4.39%)",
+        "Cruise missiles intercepted": "3 of 4",
+        "Injured": "3 (Indian nationals)",
+        "Days since ceasefire start": "26 (since Apr 8)"
+      },
+      "explainer": {
+        "tagline": "First Iranian strike on UAE soil since the April 8 ceasefire reignites the Gulf war premium and sends Brent to four-year highs.",
+        "whatIsIt": "On May 4 the Fujairah Oil Industry Zone caught fire after an Iranian drone strike, while UAE air defenses intercepted three of four incoming Iranian cruise missiles, with a fourth crashing at sea. Three Indian nationals were injured. It was the first attack on the UAE since the April 8 U.S.–Iran ceasefire.",
+        "howItWorks": "Iran's Revolutionary Guard Corps published a map expanding its claimed control zone to cover Fujairah and Khorfakkan ports and the Umm Al Quwain coast. Fujairah sits at the end of the Abu Dhabi Crude Oil Pipeline that bypasses the Strait of Hormuz, making it critical to UAE exports during the conflict. Brent settled +5.8% at $114.44 and WTI +4.39% at $106.42.",
+        "whyItMatters": "The break in the ceasefire reopens the path to a sustained oil-supply premium and feeds inflation expectations: rate-cut odds for the next FOMC moved further out, and 30Y Treasury yields breached 5% the same day on the inflation read-through. Energy desks now have to price the option that Fujairah-style strikes recur and Hormuz transit risk gets repriced higher.",
+        "forWho": "energy desks, macro traders",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F/"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-10.07.06-AM-1777965082.png?resize=1920%2C1238",
+        "alt": "Smoke rising from the Fujairah oil zone after the May 4 drone strike",
+        "fit": "cover",
+        "credit": "Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran"
+        },
+        {
+          "label": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Surges-to-114-Following-Iranian-Strikes-on-UAE-Port.html"
+        },
+        {
+          "label": "WTI Quote",
+          "url": "https://finance.yahoo.com/quote/CL=F/"
+        }
+      ],
+      "publishDate": "2026-05-05T16:08:03.094Z"
+    },
+    {
+      "id": "us30y-tops-5-percent-may-2026",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "30-year Treasury yield breaches 5% for first time since July 2025 as oil-driven inflation bites",
+      "org": "U.S. Treasury",
+      "date": "2026-05-04",
+      "url": "https://finance.biggo.com/news/Vhn-9Z0BmHHDnbgyZBiT",
+      "summary": "The 30Y UST yield touched 5.03% on May 4, breaching 5% for the first time since July 2025, as the Fujairah strike and rising oil pushed inflation expectations higher. 10Y rose to 4.456%; mortgage rates climbed to 6.52%.",
+      "tickers": [
+        "^TYX",
+        "^TNX"
+      ],
+      "tags": [
+        "rates",
+        "treasuries",
+        "30-year",
+        "yield-curve",
+        "inflation-expectations",
+        "oil-shock",
+        "long-end"
+      ],
+      "importance": "major",
+      "metrics": {
+        "30Y yield": "5.021% (+5bp+)",
+        "30Y intraday high": "5.03%",
+        "10Y yield": "4.456% (+5bp)",
+        "30Y mortgage": "6.52%",
+        "Last >5% on 30Y": "July 2025"
+      },
+      "explainer": {
+        "tagline": "Long-end Treasuries crack 5% as the Iran-driven oil spike pulls inflation expectations higher.",
+        "whatIsIt": "On May 4 the U.S. 30-year Treasury yield gained more than 5 basis points to 5.021%, with an intraday high of 5.03% — the first close above 5% since July 2025. The 10-year rose to 4.456%, the highest since July 2025.",
+        "howItWorks": "The move came alongside Brent +5.8% to $114 after the Iranian drone strike on Fujairah. Long-end yields lead because the inflation pass-through from oil compounds across the curve. Per market pricing on the day, Fed-rate-hike odds moved up to roughly 80% for the next meeting, and Barclays and Morgan Stanley pushed back their rate-cut expectations.",
+        "whyItMatters": "5% on the long bond is a psychological line that ties refi-sensitive sectors (housing, REITs, regional banks) to a fresh leg of duration risk. The 30Y mortgage rate climbing to 6.52% extends the housing-affordability squeeze. For risk assets, the move is the second-order effect of the Gulf escalation — even if oil pulls back, the inflation-expectations channel has been re-anchored higher.",
+        "forWho": "rates desks, mortgage REIT and bank holders",
+        "tryIt": "https://fred.stlouisfed.org/series/DGS30"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FFR_treasuries.webp/1280px-FFR_treasuries.webp.png",
+        "alt": "Federal Funds Rate vs Treasury yields chart",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/Vhn-9Z0BmHHDnbgyZBiT"
+        },
+        {
+          "label": "FRED 30Y Series",
+          "url": "https://fred.stlouisfed.org/series/DGS30"
+        },
+        {
+          "label": "Treasury Yield Curve",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+        }
+      ],
+      "publishDate": "2026-05-05T16:08:03.094Z"
+    },
+    {
+      "id": "btc-spot-etfs-532m-inflows-may-4-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "U.S. spot bitcoin ETFs draw $532M on May 4 — third straight day of net inflows",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-05-04",
+      "url": "https://en.bloomingbit.io/feed/news/111390",
+      "summary": "U.S. spot bitcoin ETFs took in $532.19M on May 4, a third consecutive day of inflows. BlackRock IBIT led with $335M, Fidelity FBTC added $185M, Morgan Stanley MSBT pulled $12M.",
+      "tickers": [
+        "BTC-USD",
+        "IBIT",
+        "FBTC"
+      ],
+      "tags": [
+        "bitcoin",
+        "spot-etf",
+        "ibit",
+        "fbtc",
+        "etf-flows",
+        "institutional",
+        "crypto"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Net inflow (May 4)": "$532.19M",
+        "BlackRock IBIT": "$335.46M",
+        "Fidelity FBTC": "$184.57M",
+        "Morgan Stanley MSBT": "$12.16M",
+        "Consecutive positive days": "3"
+      },
+      "explainer": {
+        "tagline": "Spot BTC ETFs took in another $532M on May 4, with BlackRock and Fidelity capturing nearly all of it.",
+        "whatIsIt": "U.S.-listed spot bitcoin ETFs recorded net inflows of $532.19M on Monday, May 4 — the third consecutive day of net additions. BlackRock's IBIT pulled $335.46M, Fidelity's FBTC took $184.57M, and Morgan Stanley's MSBT added $12.16M.",
+        "howItWorks": "The cluster of inflows comes against an Iran-driven risk-off backdrop and follows a $629M day on Friday May 1. April logged $2.44B in net inflows — the strongest monthly figure since October 2025. Cumulative net inflows since the January 2024 launch sit at roughly $58.7B, still shy of the October peak around $61.2B.",
+        "whyItMatters": "BTC ETF flows are the cleanest read on incremental institutional bid. Three straight days of net inflows during a Gulf-driven oil and rates spike suggests bitcoin is being treated as a duration-light hedge by some of the same allocators selling long Treasuries. Watch the IBIT/FBTC concentration — flows remain dominated by two issuers.",
+        "forWho": "crypto allocators, ETF-flow watchers",
+        "tryIt": "https://farside.co.uk/btc/"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/s3y3vcno/production/b5cd3bf36d1eac21a178cc65ec243a52a29b099a-1280x854.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "alt": "Bitcoin ETF flows visualization",
+        "fit": "cover",
+        "credit": "CoinDesk"
+      },
+      "links": [
+        {
+          "label": "BloomingBit Flow Recap",
+          "url": "https://en.bloomingbit.io/feed/news/111390"
+        },
+        {
+          "label": "CoinDesk Flow Analysis",
+          "url": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet"
+        },
+        {
+          "label": "Farside ETF Flow Tracker",
+          "url": "https://farside.co.uk/btc/"
+        }
+      ],
+      "publishDate": "2026-05-05T16:08:03.094Z"
+    }
+  ]
 }
