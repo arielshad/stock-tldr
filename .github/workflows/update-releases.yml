@@ -190,6 +190,18 @@ jobs:
           # Push via tokenized HTTPS URL — survives any prior git config
           # mutation. Token is masked in logs by the runner.
           REMOTE="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          # The agent may leave incidental unstaged changes on disk
+          # (working-copy scratch from `bun run build`, agent edits to
+          # files we deliberately exclude from the commit, etc). git
+          # rebase refuses to run with a dirty tree, which sank the
+          # 2026-05-05 first sweep. Stash everything-not-committed so
+          # the rebase can land cleanly. We never stash-pop afterwards
+          # because the only thing we want to ship is what's in HEAD;
+          # the stashed scratch is intentionally discarded.
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git stash push --include-untracked --quiet \
+              -m "sweep-scratch-$(date -u +%Y%m%dT%H%M%SZ)" || true
+          fi
           # Sweeps run for ~8–10 min while other commits may land on
           # master. Rebase-with-retry so we don't lose a sweep to a
           # concurrent push.

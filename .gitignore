@@ -16,6 +16,7 @@ dist-ssr
 
 # Sweep pipeline scratch artifacts
 sweep-draft*.json
+ctx.json
 AUDIT.md
 REVIEW.md
 REVIEW_V61.md
