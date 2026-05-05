@@ -3,7 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="color-scheme" content="dark" />
+    <meta name="color-scheme" content="light dark" />
+
+    <!--
+      Theme bootstrap — runs synchronously before React boots so the
+      page paints in the correct theme on first load (no FOUC). Reads
+      the persisted preference from localStorage; if absent, falls
+      through to prefers-color-scheme via the media query in index.css.
+    -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("stock-tldr-theme");
+          if (t === "light" || t === "dark") {
+            document.documentElement.setAttribute("data-theme", t);
+          }
+        } catch (e) { /* localStorage disabled — fall through to media query */ }
+      })();
+    </script>
 
     <!--
       Per-page <title>, <meta name="description">, <link rel="canonical">,

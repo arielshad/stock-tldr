@@ -5,6 +5,7 @@ import { ReleaseImage } from "./ReleaseImage";
 import { ShareButtons } from "./ShareButtons";
 import { AskAIButtons } from "./AskAIButtons";
 import { track } from "../lib/analytics";
+import { extractMove, formatMovePct, moveDirection } from "../lib/finance";
 
 const importanceLabel: Record<ReleaseItem["importance"], string> = {
   rumor: "RUMOR",
@@ -34,6 +35,7 @@ export function ReleaseModal({
   }, [onClose]);
 
   const ex = item.explainer;
+  const move = extractMove(item.metrics);
 
   return (
     <div
@@ -69,6 +71,17 @@ export function ReleaseModal({
                 {t}
               </span>
             ))}
+            {move && (
+              <span
+                className={`move move-${moveDirection(move.pct)}`}
+                title={move.raw}
+              >
+                <span className="move-arrow" aria-hidden="true">
+                  {move.pct > 0 ? "▲" : move.pct < 0 ? "▼" : "•"}
+                </span>
+                {formatMovePct(move.pct)}
+              </span>
+            )}
             <span className={`badge badge-imp imp-${item.importance}`}>
               {importanceLabel[item.importance]}
             </span>
@@ -180,17 +193,24 @@ export function ReleaseModal({
           </div>
 
           <footer className="modal-foot">
-            {(item.metrics || (item.tags && item.tags.length > 0)) && (
+            {item.metrics && (
+              <dl className="metric-table">
+                {Object.entries(item.metrics)
+                  // The Move chip already shows in the header — don't
+                  // duplicate it in the table below.
+                  .filter(([k]) => !/^move\b/i.test(k))
+                  .slice(0, 8)
+                  .map(([k, v]) => (
+                    <div className="metric-row" key={k}>
+                      <dt className="metric-key">{k}</dt>
+                      <dd className="metric-val">{v}</dd>
+                    </div>
+                  ))}
+              </dl>
+            )}
+            {item.tags && item.tags.length > 0 && (
               <div className="modal-tags">
-                {item.metrics &&
-                  Object.entries(item.metrics)
-                    .slice(0, 4)
-                    .map(([k, v]) => (
-                      <span className="metric" key={k}>
-                        {k}: {v}
-                      </span>
-                    ))}
-                {item.tags.slice(0, 6).map((t) => (
+                {item.tags.slice(0, 8).map((t) => (
                   <span className="tag" key={t}>
                     #{t}
                   </span>

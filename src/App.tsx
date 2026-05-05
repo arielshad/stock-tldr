@@ -19,6 +19,7 @@ import { SweepLogPage } from "./components/SweepLogPage";
 import { influencers } from "./data/influencers";
 import { Subscribe } from "./components/Subscribe";
 import { BuyMeCoffee } from "./components/BuyMeCoffee";
+import { ThemeToggle } from "./components/ThemeToggle";
 import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
 
 /** Parse current URL into a route. Supported paths:
@@ -493,6 +494,8 @@ function App() {
           <img src="/coffee.png" alt="" aria-hidden="true" />
           <span className="bmc-icon-text">Buy me a coffee</span>
         </a>
+
+        <ThemeToggle />
 
         <button
           ref={menuBtnRef}

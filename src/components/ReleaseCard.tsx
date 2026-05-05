@@ -4,6 +4,7 @@ import { ReleaseImage } from "./ReleaseImage";
 import { CardShareButton } from "./CardShareButton";
 import { CardAskAIButton } from "./CardAskAIButton";
 import { track } from "../lib/analytics";
+import { extractMove, formatMovePct, moveDirection } from "../lib/finance";
 
 const importanceLabel: Record<ReleaseItem["importance"], string> = {
   rumor: "RUMOR",
@@ -19,6 +20,7 @@ export function ReleaseCard({
   item: ReleaseItem;
   onOpen: (item: ReleaseItem) => void;
 }) {
+  const move = extractMove(item.metrics);
 
   return (
     <article
@@ -71,6 +73,17 @@ export function ReleaseCard({
             {t}
           </span>
         ))}
+        {move && (
+          <span
+            className={`move move-${moveDirection(move.pct)}`}
+            title={move.raw}
+          >
+            <span className="move-arrow" aria-hidden="true">
+              {move.pct > 0 ? "▲" : move.pct < 0 ? "▼" : "•"}
+            </span>
+            {formatMovePct(move.pct)}
+          </span>
+        )}
         <span className={`badge badge-imp imp-${item.importance}`}>
           {importanceLabel[item.importance]}
         </span>

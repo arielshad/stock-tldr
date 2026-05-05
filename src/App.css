@@ -277,7 +277,7 @@
   padding: 12px;
   background: var(--bg-2);
   border: 1px solid var(--line);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+  box-shadow: var(--modal-shadow);
   min-width: 360px;
   max-width: min(760px, calc(100vw - 40px));
   animation: fbCatFade 120ms ease-out;
@@ -990,6 +990,58 @@
   font-size: 22px;
 }
 
+/* ============ THEME TOGGLE ============ */
+.theme-toggle {
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--fg);
+  cursor: pointer;
+  transition: background-color 120ms linear, color 120ms linear;
+}
+.theme-toggle:hover {
+  background: var(--fg);
+  color: var(--bg);
+}
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--acc);
+  outline-offset: 2px;
+}
+.theme-toggle-glyph {
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* ============ MOVE CHIP ============
+ * ±X.X% chip that uses finance conventions: green for up, red for
+ * down. Auto-rendered by ReleaseCard / ReleaseModal when the agent
+ * provides a `Move` (or `Move (next day open)`, `Move (24h)`, etc)
+ * key in `metrics`. The arrow + colour pair is the eye-lock for
+ * traders skimming the feed; matching Yahoo / Bloomberg conventions
+ * lets readers process direction without reading the number. */
+.move {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--mono);
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  padding: 3px 7px;
+  line-height: 1;
+  border: 1px solid currentColor;
+}
+.move-up    { color: var(--up);    background: var(--up-bg); }
+.move-down  { color: var(--down);  background: var(--down-bg); }
+.move-flat  { color: var(--muted); background: transparent; }
+/* Direction glyph picks up currentColor — same hue as the figure. */
+.move-arrow { font-weight: 900; }
+
 /* ============ BADGES ============ */
 .badge {
   display: inline-block;
@@ -1042,19 +1094,29 @@
   border-color: var(--rumor);
 }
 
-/* Ticker chips. Distinct from category/importance — slightly bolder
- * letter-form, neutral border so a row of tickers reads as one cluster
- * regardless of how many other badges share the row. */
+/* Ticker chips. Filled with the finance-link colour so they pop
+ * against the rest of the badge row — tickers are the primary
+ * eye-lock for traders, and a row of distinct chips makes it
+ * obvious at a glance which names a release touches. */
 .badge-ticker {
   font-weight: 800;
-  background: transparent;
-  color: var(--ink);
-  border-color: var(--line);
+  background: var(--link);
+  color: #fff;
+  border-color: var(--link);
   letter-spacing: 0.08em;
 }
 .card-seismic .badge-ticker {
-  color: var(--acc-ink);
+  /* On the yellow seismic card we lose the blue contrast, so flip to
+   * an outline-on-yellow look that matches the seismic card's other
+   * dark-on-yellow chips. */
+  background: var(--acc-ink);
+  color: var(--acc);
   border-color: var(--acc-ink);
+}
+.card:hover .badge-ticker {
+  background: var(--bg);
+  color: var(--link);
+  border-color: var(--link);
 }
 
 /* ============ AUTHOR OVERLAY ============
@@ -1071,8 +1133,8 @@
   gap: 8px;
   max-width: calc(100% - 16px);
   padding: 4px 8px 4px 4px;
-  background: rgba(5, 5, 5, 0.82);
-  border: 1px solid rgba(245, 245, 240, 0.25);
+  background: var(--scrim);
+  border: 1px solid var(--line-dim);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   color: var(--fg);
@@ -1126,7 +1188,7 @@
   transition: background-color 120ms ease, border-color 120ms ease;
 }
 .img-author-link:hover {
-  background: rgba(20, 20, 20, 0.95);
+  background: var(--bg-3);
   border-color: var(--acc);
 }
 .img-author-link:hover .img-author-name {
@@ -1151,7 +1213,7 @@
   position: absolute;
   width: 64px;
   height: 64px;
-  background: rgba(5, 5, 5, 0.75);
+  background: var(--scrim);
   border: 2px solid var(--fg);
 }
 .yt-play svg {
@@ -1205,7 +1267,7 @@
   position: fixed;
   inset: 0;
   z-index: 500;
-  background: rgba(0, 0, 0, 0.82);
+  background: var(--scrim);
   backdrop-filter: blur(3px);
   display: flex;
   align-items: center;
@@ -1457,6 +1519,50 @@
   font-weight: 700;
   letter-spacing: 0.06em;
   line-height: 1.2;
+}
+
+/* Metric table — used in the modal footer for dense earnings prints
+ * and macro releases. Two-column grid with the key in mono-muted and
+ * the value in mono-bold so digits eye-lock for traders skimming. */
+.metric-table {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  border-top: 1px solid var(--line-dim);
+  width: 100%;
+}
+.metric-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line-dim);
+  margin: 0;
+}
+.metric-key {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: 0;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.metric-val {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--fg);
+  margin: 0;
+  text-align: right;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .sources-list {

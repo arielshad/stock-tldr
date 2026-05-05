@@ -1,14 +1,108 @@
 /*
- * Global reset + brutalist tokens.
+ * Global reset + theme tokens.
  *
- * House rules (still):
+ * Themes
+ * ------
+ * Light is the default (Yahoo / Bloomberg / WSJ / FT all default
+ * light — finance readers expect it). Dark is opt-in via the toggle
+ * in the header. First-time visitors with prefers-color-scheme:dark
+ * land on dark automatically; the explicit setting then sticks.
+ *
+ * Design rules
+ * ------------
  *   - NO border-radius anywhere
  *   - NO transform-based hover (no translate, no scale)
  *
  * Allowed motion: blink, color flips, opacity, marquee scroll.
+ *
+ * House semantics
+ * ---------------
+ *   --up    — positive move (green). Cards / chips for gains.
+ *   --down  — negative move (red).   Cards / chips for losses.
+ *   --acc   — accent (electric yellow). Brand + interactive highlight.
+ *   --hot   — danger / seismic. Distinct from --down so we don't mix
+ *             "this number went down" with "this is breaking news".
+ *   --cool  — fresh / new (mint). Used for status, never for prices.
+ *   --rumor — unverified / soft violet. Always paired with the rumor
+ *             label so users know it's not confirmed.
  */
 
+/* Light = default */
 :root {
+  --bg: #ffffff;
+  --bg-2: #fafaf9;
+  --bg-3: #f1f1ee;
+  --fg: #18181b;
+  --muted: #71717a;
+  --line: #18181b;
+  --line-dim: #d4d4d8;
+
+  --acc: #f7ff00;        /* electric yellow — brand + seismic card */
+  --acc-ink: #050505;
+  --link: #1a73e8;       /* finance blue — hyperlinks, focus rings */
+  --hot: #dc2626;        /* breaking-news red */
+  --cool: #059669;       /* fresh emerald */
+  --rumor: #7c3aed;      /* unverified violet */
+
+  /* Finance move semantics — independent of acc/hot so we can style
+   * "this stock is up" differently from "this is breaking news". */
+  --up: #16a34a;
+  --up-bg: #dcfce7;
+  --down: #dc2626;
+  --down-bg: #fee2e2;
+
+  --scrim: rgba(15, 15, 17, 0.45);
+  --noise: rgba(0, 0, 0, 0.018);
+  --card-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
+  --modal-shadow: 0 24px 64px rgba(15, 15, 17, 0.18);
+
+  --sans: "Inter", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --mono: "JetBrains Mono", "IBM Plex Mono", "SF Mono", Menlo, Consolas, monospace;
+
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.5;
+  color-scheme: light;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Dark — applied when (a) the user explicitly toggles, or (b) on
+ * first visit with prefers-color-scheme:dark. The bootstrap script
+ * in index.html sets data-theme before paint to avoid FOUC. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --bg: #050505;
+    --bg-2: #0e0e0e;
+    --bg-3: #181818;
+    --fg: #f5f5f0;
+    --muted: #8a8a85;
+    --line: #f5f5f0;
+    --line-dim: #2a2a28;
+
+    --acc: #f7ff00;
+    --acc-ink: #050505;
+    --link: #6ea8ff;
+    --hot: #ff0040;
+    --cool: #00f0a8;
+    --rumor: #9b78ff;
+
+    --up: #22c55e;
+    --up-bg: rgba(34, 197, 94, 0.12);
+    --down: #ef4444;
+    --down-bg: rgba(239, 68, 68, 0.12);
+
+    --scrim: rgba(0, 0, 0, 0.78);
+    --noise: rgba(255, 255, 255, 0.012);
+    --card-shadow: none;
+    --modal-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+
+    color-scheme: dark;
+  }
+}
+
+[data-theme="dark"] {
   --bg: #050505;
   --bg-2: #0e0e0e;
   --bg-3: #181818;
@@ -17,22 +111,56 @@
   --line: #f5f5f0;
   --line-dim: #2a2a28;
 
-  --acc: #f7ff00;        /* electric yellow */
+  --acc: #f7ff00;
   --acc-ink: #050505;
-  --hot: #ff0040;        /* danger / seismic */
-  --cool: #00f0a8;       /* fresh */
-  --rumor: #9b78ff;      /* rumor / unverified — soft violet */
+  --link: #6ea8ff;
+  --hot: #ff0040;
+  --cool: #00f0a8;
+  --rumor: #9b78ff;
 
-  --sans: "Inter", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
-  --mono: "JetBrains Mono", "IBM Plex Mono", "SF Mono", Menlo, Consolas, monospace;
+  --up: #22c55e;
+  --up-bg: rgba(34, 197, 94, 0.12);
+  --down: #ef4444;
+  --down-bg: rgba(239, 68, 68, 0.12);
 
-  font-family: var(--sans);
-  font-size: 15px;
-  line-height: 1.5;
+  --scrim: rgba(0, 0, 0, 0.78);
+  --noise: rgba(255, 255, 255, 0.012);
+  --card-shadow: none;
+  --modal-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+
   color-scheme: dark;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
+}
+
+[data-theme="light"] {
+  /* Explicit light override — needed because the prefers-color-scheme
+   * media query above otherwise wins for users on dark-mode OS who
+   * explicitly chose light. Values mirror :root. */
+  --bg: #ffffff;
+  --bg-2: #fafaf9;
+  --bg-3: #f1f1ee;
+  --fg: #18181b;
+  --muted: #71717a;
+  --line: #18181b;
+  --line-dim: #d4d4d8;
+
+  --acc: #f7ff00;
+  --acc-ink: #050505;
+  --link: #1a73e8;
+  --hot: #dc2626;
+  --cool: #059669;
+  --rumor: #7c3aed;
+
+  --up: #16a34a;
+  --up-bg: #dcfce7;
+  --down: #dc2626;
+  --down-bg: #fee2e2;
+
+  --scrim: rgba(15, 15, 17, 0.45);
+  --noise: rgba(0, 0, 0, 0.018);
+  --card-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
+  --modal-shadow: 0 24px 64px rgba(15, 15, 17, 0.18);
+
+  color-scheme: light;
 }
 
 *,
@@ -53,22 +181,23 @@ body,
   max-width: 100vw;
 }
 
-/* Final safety net only on the html element — if something unexpectedly
- * blows out the viewport in the future, the page won't gain a horizontal
- * scrollbar. The actual layout fixes (min-width: 0 on flex children, no
- * fixed widths that exceed viewport) live in App.css and that's where
- * any real overflow should get fixed, not hidden. */
 html {
+  /* Final safety net only on the html element — if something
+   * unexpectedly blows out the viewport in the future, the page won't
+   * gain a horizontal scrollbar. The actual layout fixes (min-width:
+   * 0 on flex children, no fixed widths that exceed viewport) live
+   * in App.css and that's where any real overflow should get fixed,
+   * not hidden. */
   overflow-x: clip;
 }
 
 body {
-  /* faint diagonal noise pattern — character without distraction */
+  /* faint diagonal noise pattern — adapts per theme via --noise */
   background-image:
     repeating-linear-gradient(
       45deg,
       transparent 0 12px,
-      rgba(255, 255, 255, 0.012) 12px 13px
+      var(--noise) 12px 13px
     );
 }
 
