@@ -1,0 +1,206 @@
+name: Update releases (every 2h)
+
+# Runs the Stock/TLDR daily release sweep on a schedule.
+#
+# What it does:
+#   1. Checks out the repo
+#   2. Installs Bun deps
+#   3. Runs Claude Code with a short delegation prompt that reads
+#      prompts/update-releases.md and follows it (web-fetch + verify
+#      every URL/image, refresh src/data/releases.json)
+#   4. Runs `bun run build` to confirm the new feed parses + page builds.
+#      The build command is `tsc -b && vite build && bun scripts/prerender.ts`,
+#      so it also generates per-release static HTML pages for SEO. The
+#      `dist/` output is gitignored — only releases.json is committed;
+#      Cloudflare Pages rebuilds and redeploys on every push to master.
+#   5. If src/data/releases.json changed, commits + pushes back to master
+#
+# Required secret:
+#   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
+#                              then `gh secret set CLAUDE_CODE_OAUTH_TOKEN`
+#                              (or paste it in the GitHub UI)
+
+on:
+  schedule:
+    # every 2 hours at minute 0
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  # id-token: write is required by anthropics/claude-code-action@v1 — it
+  # fetches an OIDC token from GitHub during setup. Without it the action
+  # fails before Claude even starts: "Could not fetch an OIDC token."
+  id-token: write
+
+concurrency:
+  group: update-releases
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    # Job cap is sized for 2 sweep attempts × 30m each + ~5m for
+    # checkout / bun install / show-diff / commit / push. Each sweep
+    # attempt has its OWN step-level timeout-minutes:30 so a silent
+    # claude-code-action hang trips the step, not the whole job — that
+    # lets the retry step actually run. (Observed failure mode: the SDK
+    # sits idle for 25+ minutes after a 429 or even a clean 200 and
+    # never recovers. Step-level timeout is the only safe escape.)
+    timeout-minutes: 65
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          # use default GITHUB_TOKEN; permissions: contents:write above
+          # gives us push rights for the bot commit at the end
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Capture current date
+        id: now
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Run release sweep with Claude Code (attempt 1)
+        id: sweep1
+        uses: anthropics/claude-code-action@v1
+        # Step-level timeout: if the action hangs silently we want to
+        # fail THIS step (so the retry step can run), not let the job
+        # timeout kill everything. 30m gives healthy runs plenty of
+        # headroom (observed p100 ~18m) while still catching hangs.
+        timeout-minutes: 30
+        # continue-on-error is what lets the retry step run after a
+        # hang/failure. Without this, a step failure would short-circuit
+        # the job and the retry would be skipped.
+        continue-on-error: true
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Stream Claude's progress into the GH Actions log instead of
+          # buffering until the run ends. show_full_output dumps the raw
+          # CLI JSON, display_report posts a Step Summary at the end.
+          show_full_output: "true"
+          display_report: "true"
+          # The real prompt is `prompts/update-releases.md` — Claude
+          # reads it via its Read tool. Keep this shim minimal: anything
+          # added here drifts from the canonical prompt.
+          prompt: |
+            You are the Stock/TLDR scheduled release sweeper running in
+            GitHub Actions. Working dir is the repo root.
+
+            TODAY'S DATE IS ${{ steps.now.outputs.date }} (real UTC,
+            not a fixture). Trust the system clock and what WebFetch
+            returns even if releases look unfamiliar — your training
+            data predates today.
+
+            Read `prompts/update-releases.md` and follow it exactly.
+            Do NOT commit or push — the next workflow step does that.
+          claude_args: |
+            --model claude-opus-4-7
+            --verbose
+            --max-turns 6000
+            --permission-mode acceptEdits
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash(bun:*),Bash(ls:*),Bash(cat:*),Bash(grep:*),Bash(rm:*)"
+
+      - name: Reset working tree before retry
+        # Attempt 1 may have written partial changes before hanging.
+        # Revert tracked files to HEAD so attempt 2 starts clean — we
+        # don't want attempt 2 to either see half-written JSON or fight
+        # with duplicate sweep-report entries.
+        if: steps.sweep1.outcome == 'failure'
+        run: |
+          echo "::warning::Sweep attempt 1 failed or timed out — resetting and retrying."
+          git checkout -- src/data/releases.json src/data/sweeps.json 2>/dev/null || true
+          git status --short
+
+      - name: Run release sweep with Claude Code (attempt 2)
+        id: sweep2
+        # Only runs if attempt 1 failed (timed out, errored, or hung
+        # past the 30m step timeout). Same inputs, no continue-on-error
+        # — if this one also fails, the job fails and the commit step
+        # is skipped automatically (default if: success() gating).
+        if: steps.sweep1.outcome == 'failure'
+        uses: anthropics/claude-code-action@v1
+        timeout-minutes: 30
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: "true"
+          display_report: "true"
+          prompt: |
+            You are the Stock/TLDR scheduled release sweeper running in
+            GitHub Actions. Working dir is the repo root. THIS IS A
+            RETRY — the previous attempt in this job failed or hung.
+            The working tree was reset to HEAD; start fresh.
+
+            TODAY'S DATE IS ${{ steps.now.outputs.date }} (real UTC,
+            not a fixture). Trust the system clock and what WebFetch
+            returns even if releases look unfamiliar — your training
+            data predates today.
+
+            Read `prompts/update-releases.md` and follow it exactly.
+            When running `finalize-sweep.ts`, pass
+            `--source github-actions-sweep-retry` so retries show up
+            distinctly in /log. Do NOT commit or push — the next
+            workflow step does that.
+          claude_args: |
+            --model claude-opus-4-7
+            --verbose
+            --max-turns 6000
+            --permission-mode acceptEdits
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash(bun:*),Bash(ls:*),Bash(cat:*),Bash(grep:*),Bash(rm:*)"
+
+      - name: Show diff
+        run: |
+          echo "::group::git status"
+          git status --short
+          echo "::endgroup::"
+          echo "::group::git diff src/data/releases.json"
+          git --no-pager diff src/data/releases.json | head -200 || true
+          echo "::endgroup::"
+
+      - name: Commit and push if releases.json or sweeps.json changed
+        env:
+          # Pass the workflow's GITHUB_TOKEN explicitly. The Claude Code
+          # action mutates git config during its run and the credential
+          # helper installed by actions/checkout no longer applies — so
+          # we embed the token directly in the push URL below.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$(git status --porcelain src/data/releases.json src/data/sweeps.json)" ]]; then
+            echo "No changes to releases.json or sweeps.json — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "stock-tldr-bot"
+          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
+          git add src/data/releases.json src/data/sweeps.json
+          git commit -m "feat(content): scheduled release sweep $(date -u +%Y-%m-%dT%H:%MZ)
+
+          Refreshed src/data/releases.json and appended a sweep log
+          entry to src/data/sweeps.json via prompts/update-releases.md.
+
+          Co-Authored-By: Claude Code Action <noreply@anthropic.com>"
+          # Push via tokenized HTTPS URL — survives any prior git config
+          # mutation. Token is masked in logs by the runner.
+          REMOTE="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          # Sweeps run for ~8–10 min while other commits may land on
+          # master. Rebase-with-retry so we don't lose a sweep to a
+          # concurrent push.
+          for attempt in 1 2 3 4 5; do
+            git fetch "$REMOTE" "$GITHUB_REF_NAME"
+            git rebase "FETCH_HEAD"
+            if git push "$REMOTE" "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push attempt $attempt rejected — retrying after rebase."
+            sleep 5
+          done
+          echo "Push failed after 5 attempts." >&2
+          exit 1

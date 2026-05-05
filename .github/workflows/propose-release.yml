@@ -1,0 +1,155 @@
+name: Propose new release
+
+# Manual workflow to add a specific release to the feed.
+#
+# Inputs:
+#   - proposal: Name of a product/tool/model OR a URL to research
+#
+# The agent will:
+#   1. Research the provided release using web search/fetch
+#   2. Add it as the FIRST item in releases.json (at the top)
+#   3. Run build to verify everything works
+#
+# Required secret:
+#   CLAUDE_CODE_OAUTH_TOKEN — same as the scheduled sweep workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      proposal:
+        description: "Release name or URL to add (e.g. 'Claude 4.5' or 'https://example.com/release')"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: update-releases
+  cancel-in-progress: false
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      # Store user inputs in env vars to prevent command injection
+      PROPOSAL: ${{ inputs.proposal }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Write proposal to file
+        run: |
+          # Write proposal to a temp file so the agent can read it safely
+          # This avoids any shell escaping issues with the prompt
+          cat > /tmp/proposal.txt << 'PROPOSAL_EOF'
+          ${{ inputs.proposal }}
+          PROPOSAL_EOF
+
+      - name: Add proposed release with Claude Code
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: "true"
+          display_report: "true"
+          prompt: |
+            You are running as the Stock/TLDR release proposer inside a GitHub
+            Actions workflow. The working directory is the repo root.
+
+            USER PROPOSAL: Read /tmp/proposal.txt to see what the user wants added.
+
+            STEP 1. Read `prompts/update-releases.md` to understand the schema
+            and quality requirements for releases. Follow the same format and
+            ZERO-HALLUCINATION POLICY — every URL must be WebFetch-verified.
+
+            STEP 2. Research the proposed release thoroughly:
+              - Use WebSearch to find official announcements, docs, repos
+              - Use WebFetch to verify all URLs return 200
+              - Gather enough info to fill ALL required fields:
+                id, categories, title, org, date, url, summary, tags,
+                importance, explainer (with all sub-fields), and image
+
+            STEP 3. Read `src/data/releases.json`. Create a new ReleaseItem
+            for the proposed release and INSERT IT AS THE FIRST ITEM in the
+            `items` array. Update `generatedAt` to the current timestamp.
+            Set `source` to `"manual-proposal"`.
+
+            STEP 4. Read `src/data/sweeps.json` and APPEND one entry:
+              - `id`: "sweep-<timestamp>"
+              - `timestamp`: same as feed `generatedAt`
+              - `source`: "manual-proposal"
+              - `summary`: "Added [title] via manual proposal workflow."
+              - `counts`: { added: 1, updated: 0, removed: 0 }
+              - `added`: one entry for the new item
+              - `updated` / `removed`: []
+
+            STEP 5. Run `bun run build` to verify the feed parses and the
+            page builds. If it fails, fix and retry.
+
+            STEP 6. Stop. Do NOT commit — the next step handles git ops.
+
+            Return a short report (≤150 words) of what you added.
+          claude_args: |
+            --model claude-sonnet-4-6
+            --verbose
+            --permission-mode acceptEdits
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash(bun:*),Bash(ls:*),Bash(cat:*),Bash(grep:*),Bash(rm:*)"
+
+      - name: Show diff
+        run: |
+          echo "::group::git status"
+          git status --short
+          echo "::endgroup::"
+          echo "::group::git diff"
+          git --no-pager diff | head -300 || true
+          echo "::endgroup::"
+
+      - name: Commit and push changes
+        run: |
+          set -euo pipefail
+
+          # Check for any changes in the data files
+          CHANGED_FILES="src/data/releases.json src/data/sweeps.json"
+          if [[ -z "$(git status --porcelain $CHANGED_FILES)" ]]; then
+            echo "No changes to data files — nothing to commit."
+            exit 0
+          fi
+
+          git config user.name  "stock-tldr-bot"
+          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
+
+          # Stage only the files that exist and changed
+          for f in $CHANGED_FILES; do
+            if [[ -n "$(git status --porcelain "$f" 2>/dev/null)" ]]; then
+              git add "$f"
+            fi
+          done
+
+          # Use heredoc for commit message to safely include user input
+          git commit -m "$(cat <<EOF
+          feat(content): manual proposal
+
+          Added release via propose-release workflow.
+          Proposal: ${PROPOSAL}
+
+          Co-Authored-By: Claude Code Action <noreply@anthropic.com>
+          EOF
+          )"
+
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

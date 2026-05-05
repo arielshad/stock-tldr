@@ -1,0 +1,252 @@
+name: Agent request (manual)
+
+# Manual workflow: describe any fix or change in free-form text, a
+# Claude agent implements it, opens a PR with the diff. You review
+# the PR in GitHub (and preview via Cloudflare's branch deployment
+# if wired up), then merge manually when satisfied.
+#
+# Inputs:
+#   - request: free-form description of the fix/change you want
+#
+# Flow:
+#   1. Agent runs Claude Code with your request
+#   2. Runs typecheck + build to verify the change is green
+#   3. Pushes the diff to `agent-preview/run-<run_id>`
+#   4. Opens a PR against master with the request in the body
+#   5. You review, preview (Cloudflare branch deploy or local), merge
+#
+# Previewing the change BEFORE merging:
+#   A. Cloudflare Workers git integration (if enabled): auto-builds
+#      the branch and posts a deployment status on the PR. Click
+#      "View deployment" in the PR checks.
+#   B. Local: `gh pr checkout <number> && bun run preview`
+#   C. Just read the PR diff.
+#
+# Required secret:
+#   CLAUDE_CODE_OAUTH_TOKEN - same as the other agent workflows
+
+on:
+  workflow_dispatch:
+    inputs:
+      request:
+        description: "What do you want the agent to fix or change? (free-form)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write
+
+concurrency:
+  group: agent-request
+  cancel-in-progress: false
+
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Write request to file
+        # Heredoc into a file rather than interpolating into a shell
+        # string. The agent reads this file so the raw text is never
+        # evaluated by a shell.
+        run: |
+          cat > /tmp/request.txt << 'REQUEST_EOF'
+          ${{ inputs.request }}
+          REQUEST_EOF
+
+      - name: Apply request with Claude Code
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: "true"
+          display_report: "true"
+          prompt: |
+            You are running inside a GitHub Actions workflow. The
+            working directory is the repo root. A human has submitted
+            a free-form change request they want implemented.
+
+            USER REQUEST: Read /tmp/request.txt for the full request.
+
+            HARD RULE: do NOT edit anything under .github/workflows/.
+            The workflow's GITHUB_TOKEN cannot push workflow file
+            changes (GitHub blocks it without the `workflow` OAuth
+            scope, which GITHUB_TOKEN never has). The push will be
+            rejected and the run will fail. If the user's request
+            requires a workflow change, write the proposed change into
+            /tmp/agent-report.txt as a code block and explain that the
+            user must apply it manually — do not edit the file.
+
+            STEP 1. Read CLAUDE.md and any files relevant to the
+            request to understand the existing code.
+
+            STEP 2. Implement the change. Edit files directly. Follow
+            the project conventions already present in the code. Keep
+            the change MINIMAL and scoped to exactly what the user
+            asked for - do NOT refactor, rename, or "clean up"
+            surrounding code. If impact analysis matters (CSS chains,
+            downstream dependencies), trace it before editing.
+
+            STEP 3. Verify your work:
+              - Run `bun run typecheck` - must pass
+              - Run `bun run build` - must pass
+            If either fails, fix and retry until both pass.
+
+            STEP 4. Write a short summary (<=200 words) of what you
+            changed and why to /tmp/agent-report.txt. This will go
+            into the PR body.
+
+            STEP 5. STOP. Do NOT run `git add`, `git commit`, or
+            `git push` - the workflow handles all git ops and opens
+            the PR itself.
+          claude_args: |
+            --model claude-sonnet-4-6
+            --verbose
+            --permission-mode acceptEdits
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep,Bash(bun:*),Bash(ls:*),Bash(cat:*),Bash(grep:*),Bash(rm:*),Bash(mv:*),Bash(cp:*),Bash(mkdir:*),Bash(find:*),Bash(git status:*),Bash(git diff:*)"
+
+      - name: Show diff
+        run: |
+          echo "::group::git status"
+          git status --short
+          echo "::endgroup::"
+          echo "::group::git diff"
+          git --no-pager diff | head -500 || true
+          echo "::endgroup::"
+
+      - name: Push branch and open PR
+        run: |
+          set -euo pipefail
+
+          # Strip any agent edits to .github/workflows/* — GITHUB_TOKEN
+          # cannot push workflow file changes and the remote will
+          # reject the push. Surface them in the step summary so the
+          # user can apply them by hand if intended.
+          WORKFLOW_CHANGES=$(git status --porcelain -- '.github/workflows/' || true)
+          if [[ -n "${WORKFLOW_CHANGES}" ]]; then
+            echo "::warning::Agent modified .github/workflows/* — reverting (GITHUB_TOKEN can't push these)."
+            {
+              echo "## Workflow file changes were dropped"
+              echo ""
+              echo "The agent edited files under \`.github/workflows/\`."
+              echo "GITHUB_TOKEN cannot push workflow changes, so they"
+              echo "were reverted. Apply them manually if intended."
+              echo ""
+              echo '```'
+              echo "${WORKFLOW_CHANGES}"
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+            git checkout -- .github/workflows/ || true
+            # Also drop any newly-added (untracked) workflow files.
+            git clean -fd -- .github/workflows/ || true
+          fi
+
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "Agent made no changes - nothing to open a PR for."
+            {
+              echo "## No changes"
+              echo ""
+              echo "The agent ran successfully but did not modify any"
+              echo "files. No PR created."
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          BRANCH="agent-preview/run-${GITHUB_RUN_ID}"
+
+          git config user.name  "stock-tldr-bot"
+          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
+
+          git checkout -b "${BRANCH}"
+          git add -A
+
+          # Build commit message from files rather than heredoc
+          # interpolation, so the free-form user request can't
+          # shell-inject.
+          {
+            echo "agent: automated change via workflow"
+            echo ""
+            echo "Request:"
+            cat /tmp/request.txt
+            echo ""
+            echo "Co-Authored-By: Claude Code Action <noreply@anthropic.com>"
+          } > /tmp/commit-msg.txt
+          git commit -F /tmp/commit-msg.txt
+
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${BRANCH}"
+
+          # Build PR title from the first line of the request,
+          # truncated. Use awk so leading whitespace/newlines from
+          # the heredoc don't bleed in.
+          REQUEST_FIRST_LINE=$(awk 'NF { print; exit }' /tmp/request.txt)
+          PR_TITLE="agent: ${REQUEST_FIRST_LINE}"
+          if [[ ${#PR_TITLE} -gt 72 ]]; then
+            PR_TITLE="${PR_TITLE:0:69}..."
+          fi
+
+          # PR body: request + agent report. Again built from files.
+          {
+            echo "## Request"
+            echo ""
+            echo '```'
+            cat /tmp/request.txt
+            echo '```'
+            echo ""
+            echo "## Agent report"
+            echo ""
+            if [[ -s /tmp/agent-report.txt ]]; then
+              cat /tmp/agent-report.txt
+            else
+              echo "_(agent did not write a report)_"
+            fi
+            echo ""
+            echo "---"
+            echo ""
+            echo "Generated by \`agent-request\` workflow run ${GITHUB_RUN_ID}."
+            echo "Verify the preview (Cloudflare branch deploy or"
+            echo "\`gh pr checkout\` locally), then merge when satisfied."
+          } > /tmp/pr-body.txt
+
+          PR_URL=$(gh pr create \
+            --base master \
+            --head "${BRANCH}" \
+            --title "${PR_TITLE}" \
+            --body-file /tmp/pr-body.txt)
+
+          {
+            echo "## PR opened"
+            echo ""
+            echo "${PR_URL}"
+            echo ""
+            echo "### How to preview"
+            echo ""
+            echo "- **Cloudflare** (if git integration is enabled):"
+            echo "  check the PR's \"Checks\" section for a deployment"
+            echo "  status with a preview URL."
+            echo "- **Local:**"
+            echo "  \`\`\`"
+            echo "  gh pr checkout <number>"
+            echo "  bun run preview"
+            echo "  \`\`\`"
+            echo "- **Just read the diff** in the PR."
+            echo ""
+            echo "Merge the PR when satisfied. Reject by closing the PR."
+          } >> "$GITHUB_STEP_SUMMARY"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

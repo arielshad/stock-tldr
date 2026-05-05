@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark" />
+
+    <!--
+      Per-page <title>, <meta name="description">, <link rel="canonical">,
+      all og:*/twitter:*/article:* tags, and the JSON-LD block below are
+      ALL stripped and replaced at build time by scripts/prerender.ts —
+      one set per release + one for each static page (home, influencers,
+      log). The tags here are the dev-mode fallback for `bun dev`; they
+      get swapped out in the production build, so the homepage variants
+      are the only ones that actually matter at runtime.
+    -->
+    <title>What Just Moved Markets — Earnings, Fed, M&A | Stock/TLDR</title>
+    <meta name="description" content="Every market-moving release worth knowing — earnings prints, Fed decisions, M&A, big single-name moves — refreshed every 2 hours and explained in plain English." />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+
+    <!-- Additional SEO -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+    <meta name="author" content="Stock/TLDR" />
+    <meta name="keywords" content="stock market news, earnings tracker, Fed decisions, market movers, M&A news, IPO calendar, analyst upgrades, macro news, CPI, jobs report, crypto news, market changelog" />
+    <meta name="theme-color" content="#050505" />
+
+    <!-- Structured Data (JSON-LD) — dev-mode fallback; prerender rewrites for prod -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://stock-tldr.xyz/#website",
+          "url": "https://stock-tldr.xyz/",
+          "name": "Stock/TLDR",
+          "alternateName": "Stock TLDR",
+          "description": "Every market-moving release worth knowing — earnings, Fed, M&A, movers, macro — refreshed every 2 hours and explained in plain English.",
+          "inLanguage": "en-US",
+          "publisher": { "@id": "https://stock-tldr.xyz/#org" }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://stock-tldr.xyz/#org",
+          "name": "Stock/TLDR",
+          "url": "https://stock-tldr.xyz/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://stock-tldr.xyz/og-image.png",
+            "width": 1200,
+            "height": 630
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=JetBrains+Mono:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <noscript>
+      <h1>Stock/TLDR — What Just Moved Markets: Earnings, Fed, M&amp;A, Movers</h1>
+      <p>A high-volume feed of market-moving releases — quarterly earnings, FOMC decisions, M&amp;A, regulatory actions, big single-name moves, macro prints, commodities and crypto — refreshed every 2 hours. Each release is explained in plain English so you actually understand what just happened and which tickers it touches.</p>
+      <p>This site uses JavaScript to render the interactive feed. Enable JavaScript to use it.</p>
+      <p><strong>Stock/TLDR is not investment advice.</strong> Verify everything against primary sources before trading.</p>
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script defer src="https://analytics.pomegra.io/script.js" data-website-id="f06d903f-bd3d-491f-b2dd-29bd3397300f"></script>
+  </body>
+</html>

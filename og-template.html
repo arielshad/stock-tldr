@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1200px;
+    height: 630px;
+    background: #050505;
+    color: #e8e8e8;
+    font-family: 'JetBrains Mono', monospace;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Inter:wght@400;600;700&display=swap');
+
+  .top-bar {
+    display: flex;
+    border-bottom: 2px solid #333;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #666;
+  }
+  .top-bar span {
+    padding: 10px 16px;
+    border-right: 1px solid #333;
+  }
+  .top-bar .acc { color: #f7ff00; background: rgba(247,255,0,0.06); }
+
+  .main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 72px;
+    gap: 24px;
+    position: relative;
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+  }
+  .brand-mark {
+    font-size: 72px;
+    font-weight: 800;
+    color: #f7ff00;
+    line-height: 1;
+  }
+  .brand-name {
+    font-size: 82px;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1;
+  }
+
+  .tagline {
+    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #aaa;
+    line-height: 1.35;
+    max-width: 800px;
+  }
+  .tagline em {
+    font-style: normal;
+    color: #f7ff00;
+  }
+
+  .cards {
+    display: flex;
+    gap: 12px;
+    margin-top: 8px;
+  }
+  .card {
+    border: 1px solid #444;
+    padding: 14px 18px;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #888;
+    background: #111;
+  }
+  .card.hot {
+    background: #f7ff00;
+    color: #050505;
+    border-color: #f7ff00;
+  }
+
+  .bottom-bar {
+    display: flex;
+    border-top: 2px solid #333;
+    font-size: 13px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .bottom-bar span {
+    padding: 14px 20px;
+    border-right: 1px solid #333;
+    color: #666;
+    font-weight: 700;
+  }
+  .bottom-bar .url {
+    color: #050505;
+    background: #f7ff00;
+    margin-left: auto;
+    border-right: none;
+    border-left: none;
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    padding: 14px 32px;
+  }
+
+  /* Decorative grid lines */
+  .grid-overlay {
+    position: absolute;
+    top: 0; right: 60px; bottom: 0;
+    width: 1px;
+    background: #1a1a1a;
+  }
+  .grid-overlay2 {
+    position: absolute;
+    top: 0; right: 200px; bottom: 0;
+    width: 1px;
+    background: #1a1a1a;
+  }
+</style>
+</head>
+<body>
+  <div class="top-bar">
+    <span class="acc">Live Tape</span>
+    <span>Earnings</span>
+    <span>Movers</span>
+    <span>Fed</span>
+    <span>M&amp;A</span>
+    <span>Crypto</span>
+    <span>Macro</span>
+  </div>
+
+  <div class="main">
+    <div class="grid-overlay"></div>
+    <div class="grid-overlay2"></div>
+
+    <div class="brand">
+      <span class="brand-mark">&#x2588;</span>
+      <span class="brand-name">STOCK/TLDR</span>
+    </div>
+
+    <div class="tagline">
+      A <em>self-updating</em> markets tracker — sweeps the tape and explains what just moved and why.
+    </div>
+
+    <div class="cards">
+      <div class="card hot">AI-Curated</div>
+      <div class="card">Auto-Updated</div>
+      <div class="card">Zero Manual Work</div>
+      <div class="card">Always Fresh</div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <span>Auto-Updating</span>
+    <span>AI-Powered</span>
+    <span>Not Investment Advice</span>
+    <span class="url">STOCK-TLDR.XYZ</span>
+  </div>
+</body>
+</html>

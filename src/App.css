@@ -1,0 +1,2751 @@
+/* ============================================================
+ * Stock/TLDR — brutalist editorial layout
+ * ============================================================ */
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0 18px 18px;
+  max-width: 1680px;
+  margin: 0 auto;
+  width: 100%;
+  min-width: 0;
+}
+
+/* ============ HEADER ============ */
+/* Header row 1 — identity + actions.
+   Desktop: [brand] [secondary: BMC | nav | subscribe]. Hamburger hidden.
+   Mobile:  [brand] [hamburger]. Secondary actions live in a dropdown
+            drawer anchored to the header. */
+.page-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  border-bottom: 2px solid var(--line);
+  padding: 12px 0 10px;
+  flex-wrap: nowrap;
+  min-width: 0;
+  position: relative;
+}
+
+.page-head-secondary {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 0 0 auto;
+}
+
+/* Hamburger hidden on desktop; the secondary actions show inline. */
+.hamburger {
+  display: none;
+}
+
+/* Mobile-only square icon variant of the BMC CTA, sits next to the
+   hamburger. The text-bearing .bmc inside the drawer is hidden on
+   mobile (see media query below) so the CTA only appears once. */
+.bmc-icon {
+  display: none;
+}
+
+.brand {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  flex: 1 1 auto;
+  min-width: 0;
+  /* Anchor reset — brand is a real <a href="/">, needs to lose default
+     color / underline and keep the cursor affordance. */
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.brand:hover .brand-name {
+  color: var(--acc);
+}
+.brand:focus-visible {
+  outline: 2px solid var(--acc);
+  outline-offset: 4px;
+}
+
+/* Buy Me a Coffee CTA. Terminal-aesthetic compact button that blends
+   with nav-link — mono, uppercase, bordered, transparent.
+   Reveals BMC red on hover so the CTA still lands as "tip me" without
+   screaming at users at rest. */
+.bmc {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  flex: 0 0 auto;
+  height: 28px;
+  padding: 0 11px;
+  background: transparent;
+  color: var(--fg);
+  border: 1px solid var(--line);
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 120ms linear, color 120ms linear, border-color 120ms linear;
+}
+.bmc:hover {
+  background: #ff5f5f;
+  border-color: #ff5f5f;
+  color: #ffffff;
+}
+.bmc:focus-visible {
+  outline: 2px solid var(--acc);
+  outline-offset: 2px;
+}
+.bmc-img {
+  width: 18px;
+  height: 18px;
+  display: block;
+  object-fit: contain;
+}
+.brand-mark {
+  color: var(--acc);
+  font-family: var(--mono);
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 0.7;
+  margin-right: -4px;
+  animation: blinkText 1.4s steps(2, end) infinite;
+}
+
+.brand-name {
+  font-family: var(--mono);
+  font-weight: 800;
+  font-size: 38px;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  margin: 0;
+}
+
+/* ============ NAV ============ */
+.page-nav {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  margin-left: auto;
+}
+
+.nav-link {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: none;
+  color: var(--muted);
+  border: none;
+  border-left: 1px solid var(--line);
+  padding: 8px 18px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  transition: color 120ms linear, background-color 120ms linear;
+}
+
+.nav-link-num {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0;
+  color: var(--fg);
+  background: var(--bg-3);
+  padding: 2px 6px;
+  border-radius: 2px;
+  min-width: 18px;
+  text-align: center;
+}
+
+.nav-active .nav-link-num {
+  color: var(--acc-ink);
+  background: var(--acc);
+}
+
+.nav-link:hover {
+  color: var(--fg);
+  background: var(--bg-3);
+}
+
+.nav-active {
+  color: var(--acc);
+  border-bottom: 2px solid var(--acc);
+}
+
+/* ============ FILTER BAR ============ */
+/* Single-row control bar: [SORT][CATEGORIES ▾]  —  [status][search].
+   `.filterbar` is `position: relative` so the popover anchors to it. */
+.filterbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  min-width: 0;
+  width: 100%;
+  position: relative;
+}
+
+.fb-anchor {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 8px;
+  min-width: 0;
+}
+
+/* The CATEGORIES (N) ▾ disclosure. Same component used on desktop and
+   mobile; the popover positioning below is where the two diverge. */
+.fb-cat-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 26px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--fg);
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.fb-cat-btn:hover {
+  background: var(--fg);
+  color: var(--bg);
+}
+.fb-cat-btn-active {
+  border-color: var(--acc);
+}
+.fb-cat-btn-active:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.fb-cat-btn-open,
+.fb-cat-btn-open:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--acc);
+}
+.fb-cat-btn-num {
+  font-size: 9px;
+  font-weight: 800;
+  padding: 1px 5px;
+  min-width: 16px;
+  text-align: center;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border: 1px solid var(--acc-ink);
+}
+.fb-cat-btn-open .fb-cat-btn-num,
+.fb-cat-btn-active.fb-cat-btn-open .fb-cat-btn-num {
+  background: var(--acc-ink);
+  color: var(--acc);
+  border-color: var(--acc-ink);
+}
+.fb-cat-btn-arrow {
+  font-size: 9px;
+  color: inherit;
+}
+
+/* Popover panel — floats below the filter bar on desktop. Wraps freely,
+   every chip visible, no hidden scroll. On mobile this drops to
+   `position: static` and flows as a third row (see mobile block below). */
+.fb-cat-panel {
+  position: absolute;
+  top: calc(100% + 2px);
+  left: 0;
+  right: auto;
+  z-index: 30;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  padding: 12px;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+  min-width: 360px;
+  max-width: min(760px, calc(100vw - 40px));
+  animation: fbCatFade 120ms ease-out;
+}
+
+@keyframes fbCatFade {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes drawerSlide {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.chip {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 4px 9px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--fg);
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  text-transform: uppercase;
+  cursor: pointer;
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.chip:hover {
+  background: var(--fg);
+  color: var(--bg);
+}
+.chip:hover .chip-count {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.chip-on {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--acc);
+}
+.chip-on:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.chip-on:hover .chip-count {
+  background: var(--acc-ink);
+  color: var(--acc);
+}
+
+.chip-count {
+  font-size: 9px;
+  font-weight: 700;
+  padding: 0 5px;
+  line-height: 14px;
+  background: var(--bg-3);
+  color: var(--muted);
+  border: 1px solid var(--line-dim);
+  min-width: 16px;
+  text-align: center;
+}
+
+.chip-on .chip-count {
+  background: var(--acc-ink);
+  color: var(--acc);
+  border-color: var(--acc-ink);
+}
+
+.filterbar-status {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  padding: 0 2px;
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0;
+}
+.filterbar-status-sep {
+  color: var(--line);
+  margin: 0 2px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--line);
+  padding: 0 8px;
+  height: 26px;
+}
+
+.search-prompt {
+  font-family: var(--mono);
+  font-weight: 800;
+  color: var(--acc);
+  margin-right: 6px;
+  font-size: 11px;
+}
+
+.search input {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--fg);
+  width: 160px;
+  max-width: 100%;
+  height: 100%;
+  min-width: 0;
+}
+
+.search input::placeholder {
+  color: var(--muted);
+}
+
+/* ============ LEGEND ============ */
+
+/* ============ GRID ============ */
+.grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: minmax(290px, auto);
+  grid-auto-flow: dense;
+  gap: 0;
+  margin-top: 0;
+}
+
+.grid-empty {
+  grid-column: 1 / -1;
+  padding: 80px 24px;
+  text-align: center;
+  font-family: var(--mono);
+  color: var(--muted);
+  letter-spacing: 0.1em;
+}
+
+/* ============ INFINITE-SCROLL SENTINEL ============
+ * Sits after the grid. An IntersectionObserver in App.tsx watches it
+ * and expands `visibleCount` when it enters the viewport. It renders
+ * a subtle three-dot pulse so the user sees that more is loading
+ * rather than an abrupt end-of-list. Collapses to nothing when the
+ * feed is fully rendered (the element is unmounted). */
+.feed-sentinel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 40px 0 24px;
+  min-height: 48px;
+}
+.feed-sentinel-dot {
+  width: 6px;
+  height: 6px;
+  background: var(--muted);
+  border-radius: 50%;
+  animation: feed-sentinel-pulse 1.2s ease-in-out infinite;
+}
+.feed-sentinel-dot:nth-child(2) { animation-delay: 0.2s; }
+.feed-sentinel-dot:nth-child(3) { animation-delay: 0.4s; }
+@keyframes feed-sentinel-pulse {
+  0%, 100% { opacity: 0.35; transform: scale(0.9); }
+  50%      { opacity: 1;    transform: scale(1.15); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .feed-sentinel-dot { animation: none; opacity: 0.6; }
+}
+
+/* ============ CARD ============ */
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+  padding: 0;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  margin: -1px 0 0 -1px; /* collapse borders */
+  cursor: pointer;
+  overflow: hidden;
+  min-width: 0;
+  /* allowed micro-motion: bg/color only, no transform */
+  transition: background-color 120ms linear, color 120ms linear;
+}
+
+/* image area
+ * Default fit is contain — most release images are 1.91:1 OG social
+ * cards designed to be seen whole. Heights below are generous so the
+ * full card (including stats / footer) is always visible, no padding
+ * eating space. */
+.card-img {
+  display: block;
+  width: 100%;
+  height: 180px;
+  background: var(--bg-3);
+  border-bottom: 1px solid var(--line);
+  padding: 0;
+  flex: 0 0 auto;
+}
+.card-major .card-img    { height: 220px; }
+.card-seismic .card-img  { height: 300px; background: var(--acc-ink); }
+
+/* Wrapper that hosts the image/fallback plus optional overlays
+ * (author chip, YouTube play badge, inline iframe). */
+.item-img-frame {
+  position: relative;
+  overflow: hidden;
+}
+.item-img-frame .item-img,
+.item-img-frame .img-fallback {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.item-img-playable { cursor: pointer; }
+.item-img-playable:focus-visible {
+  outline: 2px dashed var(--acc);
+  outline-offset: -4px;
+}
+
+/* fallback for missing/broken images */
+.img-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      var(--bg-3) 0 14px,
+      var(--bg-2) 14px 15px
+    ),
+    var(--bg-3);
+  color: var(--muted);
+  font-family: var(--mono);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 12px;
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px solid var(--line);
+}
+.card-major .img-fallback   { font-size: 20px; height: 220px; }
+.card-seismic .img-fallback { font-size: 28px; height: 300px; }
+.img-fallback               { height: 180px; }
+
+.img-fallback-org { display: block; max-width: 90%; }
+
+/* card content area gets its own padding now that the card removes it */
+.card-meta,
+.card-title,
+.card-tagline,
+.card-preview,
+.card-foot {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.card-meta { padding-top: 12px; }
+.card-foot { padding-bottom: 12px; }
+.card-major .card-meta,
+.card-major .card-title,
+.card-major .card-tagline,
+.card-major .card-preview,
+.card-major .card-foot { padding-left: 18px; padding-right: 18px; }
+
+.card:hover {
+  background: var(--fg);
+  color: var(--bg);
+  z-index: 1;
+}
+
+.card:focus-visible {
+  outline: 2px dashed var(--acc);
+  outline-offset: -3px;
+}
+
+/* importance-driven sizing in 12-col grid.
+ * Seismic shares a column track with major (4 cols) but spans 2 rows
+ * so the feed width stays consistent regardless of which importance
+ * mix is on screen. Distinction by HEIGHT, not width. */
+.card-seismic {
+  grid-column: span 4;
+  grid-row: span 2;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border: 2px solid var(--acc-ink);
+}
+.card-seismic:hover {
+  background: var(--acc-ink);
+  color: var(--acc);
+  border-color: var(--acc);
+}
+.card-seismic .card-img,
+.card-seismic .img-fallback {
+  border-bottom-color: var(--acc-ink);
+}
+.card-seismic .img-fallback {
+  background:
+    repeating-linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 0.08) 0 14px,
+      transparent 14px 15px
+    ),
+    var(--acc);
+  color: var(--acc-ink);
+}
+
+.card-major {
+  grid-column: span 4;
+  grid-row: span 1;
+}
+
+.card-notable {
+  grid-column: span 3;
+  grid-row: span 1;
+}
+
+/* ============ RUMOR CARDS ============
+ * Previously `opacity: 0.7` dimmed text and made cards hard to read.
+ * Instead, mark rumors with:
+ *   - a dashed border + subtle violet tint so they stand out at a glance
+ *   - a diagonal "UNVERIFIED" stripe across the image
+ *   - a stamp-style importance badge (handled separately via .imp-rumor)
+ * Text stays at full contrast. */
+.card-rumor {
+  grid-column: span 3;
+  grid-row: span 1;
+  border-style: dashed;
+  border-color: var(--rumor);
+  background: linear-gradient(
+    180deg,
+    rgba(155, 120, 255, 0.06),
+    rgba(155, 120, 255, 0.02) 120px,
+    transparent
+  );
+}
+.card-rumor .card-img,
+.card-rumor .img-fallback {
+  border-bottom-color: var(--rumor);
+}
+.item-img-rumor::after {
+  content: "UNVERIFIED";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 0.3em;
+  white-space: nowrap;
+  color: #ffffff;
+  background: linear-gradient(
+    90deg,
+    #1a0b3d 0%,
+    #9b78ff 50%,
+    #3d1a6e 100%
+  );
+  border-top: 1px solid rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.55);
+}
+.card-rumor:hover {
+  background: var(--fg);
+  color: var(--bg);
+}
+.card-rumor:hover .item-img-rumor::after {
+  background: linear-gradient(
+    90deg,
+    #3d1a6e 0%,
+    #9b78ff 50%,
+    #1a0b3d 100%
+  );
+}
+
+/* Tablet / mid-width: collapse 12-col → 8-col so notable cards
+ * stay readable. Phone overrides live in the mobile block at the
+ * bottom of this file. */
+@media (max-width: 1100px) {
+  .card-seismic { grid-column: span 4; grid-row: span 2; }
+  .card-major   { grid-column: span 4; }
+  .card-notable { grid-column: span 4; }
+}
+
+/* ============ CARD INTERNALS ============ */
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+}
+
+.card-date {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+}
+.card-seismic .card-date { color: rgba(0,0,0,0.6); }
+.card:hover .card-date { color: rgba(0,0,0,0.6); }
+.card-seismic:hover .card-date { color: rgba(247,255,0,0.7); }
+
+.card-title {
+  font-family: var(--mono);
+  font-weight: 800;
+  letter-spacing: -0.015em;
+  line-height: 1.05;
+  margin: 4px 0 0;
+  font-size: 18px;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.card-major .card-title { font-size: 22px; }
+.card-seismic .card-title {
+  font-size: 34px;
+  line-height: 1;
+  margin-top: 8px;
+}
+
+.card-tagline {
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.45;
+  margin: 0;
+  color: var(--fg);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-major .card-tagline { font-size: 14px; -webkit-line-clamp: 3; }
+.card-seismic .card-tagline {
+  font-size: 17px;
+  line-height: 1.4;
+  -webkit-line-clamp: 3;
+  color: var(--acc-ink);
+  font-weight: 500;
+}
+.card:hover .card-tagline { color: var(--bg); }
+.card-seismic:hover .card-tagline { color: var(--acc); }
+
+.card-preview {
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0;
+  color: var(--acc-ink);
+  border-top: 1px solid currentColor;
+  padding-top: 8px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-seismic:hover .card-preview { color: var(--acc); }
+
+.card-foot {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-top: 1px solid currentColor;
+  padding-top: 8px;
+  margin-top: auto;
+}
+
+.card-org {
+  font-weight: 700;
+}
+
+.card-srclinks {
+  color: var(--muted);
+}
+.card-seismic .card-srclinks { color: rgba(0,0,0,0.55); }
+.card:hover .card-srclinks { color: rgba(0,0,0,0.55); }
+.card-seismic:hover .card-srclinks { color: rgba(247,255,0,0.7); }
+
+.card-cta {
+  margin-left: auto;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+/* share button — stacked DIRECTLY BELOW .card-visit on the card's
+   top-right edge. `.card-visit` sits at top: 0, so share sits at
+   `top: <visit height>`. Click + key events stop propagation in
+   JSX so the card's outer onClick (which opens the modal) doesn't
+   also fire. */
+.card-share {
+  position: absolute;
+  top: 32px; /* = height of .card-visit; overridden per importance below */
+  right: 0;
+  /* Higher than .card-askai (z:6) so the popup descendants render
+     above the askai trigger that sits directly below the share button.
+     Without this, the popup is trapped in .card-share's stacking
+     context at z:6 and the later-painted askai sibling covers it. */
+  z-index: 7;
+}
+
+.card-share-trigger {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  border: none;
+  border-left: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  cursor: pointer;
+  transition: color 120ms linear, background-color 120ms linear;
+}
+.card-share-trigger svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+  display: block;
+}
+.card-share-trigger:hover,
+.card-share-trigger:focus-visible,
+.card-share-trigger[aria-expanded="true"] {
+  background: var(--acc);
+  color: var(--acc-ink);
+  outline: none;
+}
+
+/* Importance-based sizing — matches .card-visit per variant so the
+   two buttons always stack cleanly with no gap or overlap. */
+.card-major .card-share { top: 36px; }
+.card-major .card-share-trigger { width: 36px; height: 36px; }
+.card-major .card-share-trigger svg { width: 17px; height: 17px; }
+
+.card-seismic .card-share { top: 44px; }
+.card-seismic .card-share-trigger { width: 44px; height: 44px; }
+.card-seismic .card-share-trigger svg { width: 20px; height: 20px; }
+
+/* Seismic cards have inverted colors (yellow bg) — match the visit
+   button's inverted style. */
+.card-seismic .card-share-trigger {
+  background: var(--acc-ink);
+  color: var(--acc);
+  border-left-color: var(--acc-ink);
+  border-bottom-color: var(--acc-ink);
+}
+.card-seismic .card-share-trigger:hover,
+.card-seismic .card-share-trigger:focus-visible,
+.card-seismic .card-share-trigger[aria-expanded="true"] {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+
+/* Popup menu — absolute positioned below the trigger, right-aligned
+   so it doesn't overflow the card's right edge. Uses the same
+   .share-btn styling as the modal (borderless, per-platform brand
+   hover colors). */
+.card-share-popup {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+  z-index: 20;
+  /* Slight visual "hanging under the trigger" lift — no animation,
+     just a sharp offset so it reads as a menu, not a continuation
+     of the card's top bar. */
+  margin-top: -1px; /* overlap the trigger's bottom border */
+}
+
+/* ===== ASK AI button — stacks below share button ===== */
+.card-askai {
+  position: absolute;
+  top: 64px; /* visit (32) + share (32) */
+  right: 0;
+  z-index: 6;
+}
+
+.card-askai-trigger {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--fg);
+  background: var(--bg);
+  border: none;
+  border-left: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  cursor: pointer;
+  padding: 0;
+}
+.card-askai-trigger svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+  display: block;
+}
+.card-askai-trigger:hover,
+.card-askai-trigger:focus-visible,
+.card-askai-trigger[aria-expanded="true"] {
+  background: var(--acc);
+  color: var(--acc-ink);
+  outline: none;
+}
+
+/* Major cards — larger buttons */
+.card-major .card-askai { top: 72px; /* 36 + 36 */ }
+.card-major .card-askai-trigger { width: 36px; height: 36px; }
+.card-major .card-askai-trigger svg { width: 17px; height: 17px; }
+
+/* Seismic cards — largest, inverted colors */
+.card-seismic .card-askai { top: 88px; /* 44 + 44 */ }
+.card-seismic .card-askai-trigger { width: 44px; height: 44px; }
+.card-seismic .card-askai-trigger svg { width: 20px; height: 20px; }
+.card-seismic .card-askai-trigger {
+  background: var(--acc-ink);
+  color: var(--acc);
+  border-left-color: var(--acc-ink);
+  border-bottom-color: var(--acc-ink);
+}
+.card-seismic .card-askai-trigger:hover,
+.card-seismic .card-askai-trigger:focus-visible,
+.card-seismic .card-askai-trigger[aria-expanded="true"] {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+
+/* visit-source button — top-right corner of card, bypasses the modal */
+.card-visit {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-size: 16px;
+  font-weight: 800;
+  text-decoration: none;
+  color: var(--fg);
+  background: var(--bg);
+  border-left: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  line-height: 1;
+}
+.card-visit:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.card-visit:focus-visible {
+  outline: 2px dashed var(--acc);
+  outline-offset: -3px;
+}
+
+.card-seismic .card-visit {
+  background: var(--acc-ink);
+  color: var(--acc);
+  border-left-color: var(--acc-ink);
+  border-bottom-color: var(--acc-ink);
+}
+.card-seismic .card-visit:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+
+.card-major .card-visit {
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+}
+.card-seismic .card-visit {
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+}
+
+/* ============ BADGES ============ */
+.badge {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  padding: 3px 6px;
+  border: 1px solid currentColor;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.badge-cat {
+  background: transparent;
+  color: inherit;
+}
+
+.badge-imp {
+  background: transparent;
+}
+.imp-notable {
+  color: var(--muted);
+  border-color: var(--muted);
+}
+.imp-major {
+  color: var(--acc);
+  background: transparent;
+  border-color: var(--acc);
+}
+.imp-seismic {
+  color: var(--hot);
+  border-color: var(--hot);
+  background: transparent;
+}
+.card-seismic .imp-seismic {
+  color: var(--acc-ink);
+  border-color: var(--acc-ink);
+  background: var(--hot);
+}
+.imp-rumor {
+  color: var(--bg);
+  background: var(--rumor);
+  border-color: var(--rumor);
+  font-weight: 800;
+}
+.card:hover .imp-rumor {
+  color: var(--rumor);
+  background: var(--bg);
+  border-color: var(--rumor);
+}
+
+/* Ticker chips. Distinct from category/importance — slightly bolder
+ * letter-form, neutral border so a row of tickers reads as one cluster
+ * regardless of how many other badges share the row. */
+.badge-ticker {
+  font-weight: 800;
+  background: transparent;
+  color: var(--ink);
+  border-color: var(--line);
+  letter-spacing: 0.08em;
+}
+.card-seismic .badge-ticker {
+  color: var(--acc-ink);
+  border-color: var(--acc-ink);
+}
+
+/* ============ AUTHOR OVERLAY ============
+ * Small chip with avatar + name/handle pinned to the bottom-left of
+ * an image preview. Used by article and video items. Not category-gated
+ * in CSS — any item with `author` set renders the overlay. */
+.img-author {
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+  z-index: 5;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  max-width: calc(100% - 16px);
+  padding: 4px 8px 4px 4px;
+  background: rgba(5, 5, 5, 0.82);
+  border: 1px solid rgba(245, 245, 240, 0.25);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  color: var(--fg);
+  pointer-events: none;
+}
+.img-author-avatar {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-3);
+  font-family: var(--mono);
+  font-weight: 800;
+  font-size: 12px;
+  color: var(--acc);
+}
+.img-author-avatar-fallback { line-height: 24px; text-align: center; }
+.img-author-text {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 0;
+  line-height: 1.1;
+}
+.img-author-name {
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 160px;
+}
+.img-author-handle {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.img-author-link {
+  text-decoration: none;
+  color: var(--fg);
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 10;
+  transition: background-color 120ms ease, border-color 120ms ease;
+}
+.img-author-link:hover {
+  background: rgba(20, 20, 20, 0.95);
+  border-color: var(--acc);
+}
+.img-author-link:hover .img-author-name {
+  color: var(--acc);
+}
+.img-author-link:hover .img-author-handle {
+  color: var(--fg);
+}
+
+/* ============ YOUTUBE PLAY BADGE + EMBED ============ */
+.yt-play {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  transition: opacity 0.12s linear;
+}
+.yt-play::before {
+  content: "";
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  background: rgba(5, 5, 5, 0.75);
+  border: 2px solid var(--fg);
+}
+.yt-play svg {
+  position: relative;
+  color: var(--fg);
+  width: 28px;
+  height: 28px;
+  margin-left: 3px;
+}
+.item-img-playable:hover .yt-play::before,
+.item-img-playable:focus-visible .yt-play::before {
+  background: var(--hot);
+  border-color: var(--hot);
+}
+.item-img-playable:hover .yt-play svg,
+.item-img-playable:focus-visible .yt-play svg {
+  color: var(--fg);
+}
+.yt-embed {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+  background: var(--bg);
+}
+
+/* ============ FOOTER ============ */
+.page-foot {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line-dim);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.page-foot code {
+  color: var(--fg);
+  text-transform: none;
+  letter-spacing: 0;
+}
+.foot-spacer { flex: 1; }
+
+/* ============ MODAL — 16:9 split, no scroll ============ */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 500;
+  background: rgba(0, 0, 0, 0.82);
+  backdrop-filter: blur(3px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  overflow: hidden;
+}
+
+.modal {
+  position: relative;
+  width: min(96vw, 1280px);
+  aspect-ratio: 16 / 9;
+  max-height: calc(100vh - 48px);
+  background: var(--bg);
+  border: 2px solid var(--line);
+  display: grid;
+  grid-template-columns: 5fr 7fr;
+  gap: 0;
+  overflow: hidden;
+}
+
+.modal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 10;
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--fg);
+}
+.modal-close:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--acc);
+}
+
+/* ===== left pane: image + meta + sources ===== */
+.modal-left {
+  display: grid;
+  /* image | meta | sources | share */
+  grid-template-rows: 1fr auto auto auto;
+  border-right: 2px solid var(--line);
+  background: var(--bg-2);
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.modal-left .modal-img {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  padding: 20px;
+  background: var(--bg);
+  border-bottom: 2px solid var(--line);
+}
+.modal-left .modal-img .item-img { object-fit: contain; }
+
+.modal-left-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 10px 14px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+
+/* SOURCES — sits in left col under image+meta, prominent on purpose */
+.modal-sources {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+  min-width: 0;
+}
+
+.modal-sources-h {
+  margin: 0 !important;
+  padding: 10px 14px 8px !important;
+  background: var(--acc) !important;
+  color: var(--acc-ink) !important;
+  font-size: 11px !important;
+  letter-spacing: 0.18em !important;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+/* ===== right pane: content — scrolls internally so the 16:9
+ * shell stays put but no text gets truncated ===== */
+.modal-right {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 22px 24px 18px;
+  min-width: 0;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.modal-head {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+
+.modal-date {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  margin-left: auto;
+}
+
+.modal-title {
+  font-family: var(--mono);
+  font-weight: 800;
+  font-size: clamp(20px, 2.2vw, 30px);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.modal-org {
+  font-family: var(--mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--muted);
+  margin: 0;
+}
+
+.modal-author-link {
+  color: var(--acc);
+  text-decoration: none;
+  transition: color 120ms ease;
+}
+.modal-author-link:hover {
+  color: var(--fg);
+  text-decoration: underline;
+}
+.modal-author-handle {
+  color: var(--muted);
+}
+.modal-author-arrow {
+  font-size: 9px;
+  opacity: 0.7;
+}
+
+.modal-tagline {
+  font-family: var(--sans);
+  font-size: clamp(13px, 1.1vw, 16px);
+  line-height: 1.4;
+  font-weight: 600;
+  margin: 4px 0 0;
+  color: var(--acc);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.modal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 8px;
+}
+
+.panel {
+  border: 1px solid var(--line-dim);
+  padding: 10px 14px;
+  background: var(--bg-2);
+  min-width: 0;
+}
+
+.panel-h {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  margin: 0;
+  color: var(--acc);
+  text-transform: uppercase;
+  flex: 0 0 auto;
+}
+
+.panel p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--fg);
+  font-family: var(--sans);
+}
+.panel p + p { margin-top: 4px; }
+
+.try-code {
+  display: block;
+  margin-top: 4px;
+  font-family: var(--mono);
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 4px 8px;
+  font-size: 10px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.modal-foot {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+}
+
+.modal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag {
+  font-family: var(--mono);
+  font-size: 11px;
+  padding: 4px 8px;
+  border: 1px solid var(--line-dim);
+  color: var(--muted);
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+}
+
+.metric {
+  font-family: var(--mono);
+  font-size: 11px;
+  padding: 4px 8px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+}
+
+.sources-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+}
+
+.sources-list li {
+  border-bottom: 1px solid var(--line-dim);
+  min-width: 0;
+}
+.sources-list li:last-child { border-bottom: 0; }
+
+.source-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 14px;
+  text-decoration: none;
+  color: var(--fg);
+  font-family: var(--mono);
+  font-size: 12px;
+  background: var(--bg);
+}
+
+.source-link:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+
+.source-label {
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 11px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1 1 auto;
+}
+
+.source-arrow {
+  font-weight: 800;
+  font-size: 14px;
+  flex: 0 0 auto;
+  color: var(--acc);
+}
+.source-link:hover .source-arrow { color: var(--acc-ink); }
+
+/* ===== SHARE — compact icon row, per-platform brand hover colors ===== */
+.modal-share {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+  min-width: 0;
+  flex-wrap: wrap;
+}
+
+.modal-share-lbl {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  text-transform: uppercase;
+  flex: 0 0 auto;
+}
+
+.share-row {
+  display: flex;
+  gap: 6px;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  background: transparent;
+  color: var(--muted);
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 120ms linear;
+}
+
+.share-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  display: block;
+}
+
+.share-btn:focus-visible {
+  outline: 2px solid var(--acc);
+  outline-offset: 2px;
+}
+
+/* Per-platform brand colors — icons are gray by default and take
+   their platform's signature color on hover / focus. No borders,
+   no background — pure icon-only, so the row sits seamlessly in
+   the panel like a toolbar. */
+.share-btn[data-platform="x"]:hover,
+.share-btn[data-platform="x"]:focus-visible { color: #ffffff; }
+
+.share-btn[data-platform="bluesky"]:hover,
+.share-btn[data-platform="bluesky"]:focus-visible { color: #1185fe; }
+
+.share-btn[data-platform="linkedin"]:hover,
+.share-btn[data-platform="linkedin"]:focus-visible { color: #0a66c2; }
+
+.share-btn[data-platform="reddit"]:hover,
+.share-btn[data-platform="reddit"]:focus-visible { color: #ff4500; }
+
+.share-btn[data-platform="hackernews"]:hover,
+.share-btn[data-platform="hackernews"]:focus-visible { color: #ff6600; }
+
+/* AI chatbot platform brand colors for the "ASK AI" row */
+.share-btn[data-platform="chatgpt"]:hover,
+.share-btn[data-platform="chatgpt"]:focus-visible { color: #10a37f; }
+
+.share-btn[data-platform="claude"]:hover,
+.share-btn[data-platform="claude"]:focus-visible { color: #cc785c; }
+
+.share-btn[data-platform="gemini"]:hover,
+.share-btn[data-platform="gemini"]:focus-visible { color: #8e75b2; }
+
+.share-btn[data-platform="perplexity"]:hover,
+.share-btn[data-platform="perplexity"]:focus-visible { color: #20808d; }
+
+.share-btn[data-platform="grok"]:hover,
+.share-btn[data-platform="grok"]:focus-visible { color: #ffffff; }
+
+/* Copy + native share have no brand — use the site's accent yellow */
+.share-btn[data-platform="copy"]:hover,
+.share-btn[data-platform="copy"]:focus-visible,
+.share-btn[data-platform="native"]:hover,
+.share-btn[data-platform="native"]:focus-visible { color: var(--acc); }
+
+/* Post-click feedback for the copy button. The copy button already
+   hovers yellow (same as default focus color), so a plain color swap
+   is invisible — the user's cursor is still on the button. Flip it
+   to a solid yellow BLOCK with dark ink so the change is unmistakable.
+   Holds for the ~1.6s the `copied` state stays true, then reverts. */
+.share-btn-copied,
+.share-btn-copied:hover,
+.share-btn-copied:focus-visible {
+  background: var(--acc) !important;
+  color: var(--acc-ink) !important;
+}
+
+/* mobile fallback — modal stacks and gains scroll only here */
+@media (max-width: 800px), (max-height: 600px) {
+  .modal-backdrop { overflow-y: auto; align-items: flex-start; padding: 16px; }
+  .modal {
+    grid-template-columns: 1fr;
+    aspect-ratio: auto;
+    max-height: none;
+    width: 100%;
+    max-width: 640px;
+  }
+  .modal-left { border-right: 0; border-bottom: 2px solid var(--line); }
+  .modal-left .modal-img {
+    aspect-ratio: 16 / 9;
+    max-height: 280px;
+  }
+  /* explainer panels stack as one full-width column on mobile —
+   * desktop's 2x2 grid produced cramped narrow-but-tall panels here */
+  .modal-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+  .panel { padding: 12px 14px; }
+  .panel p {
+    -webkit-line-clamp: unset;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+}
+
+/* ============================================================
+ * TOUCH DEVICES — kill all hover effects
+ * On touch devices :hover fires on tap and persists until you tap
+ * elsewhere, which makes the page feel broken on scroll. Override
+ * every hover-affected property back to its non-hover value.
+ * ============================================================ */
+@media (hover: none), (pointer: coarse) {
+  .chip:hover {
+    background: transparent;
+    color: var(--fg);
+  }
+  .chip:hover .chip-count {
+    background: var(--bg-3);
+    color: var(--muted);
+  }
+  .chip-on:hover {
+    background: var(--acc);
+    color: var(--acc-ink);
+  }
+  .chip-on:hover .chip-count {
+    background: var(--acc-ink);
+    color: var(--acc);
+  }
+
+  .card:hover {
+    background: var(--bg-2);
+    color: var(--fg);
+  }
+  .card-seismic:hover {
+    background: var(--acc);
+    color: var(--acc-ink);
+    border-color: var(--acc-ink);
+  }
+  .card:hover .card-date          { color: var(--muted); }
+  .card-seismic:hover .card-date  { color: rgba(0, 0, 0, 0.6); }
+  .card:hover .card-tagline       { color: var(--fg); }
+  .card-seismic:hover .card-tagline { color: var(--acc-ink); }
+  .card-seismic:hover .card-preview { color: var(--acc-ink); }
+  .card:hover .card-srclinks      { color: var(--muted); }
+  .card-seismic:hover .card-srclinks { color: rgba(0, 0, 0, 0.55); }
+
+  .card-visit:hover {
+    background: var(--bg);
+    color: var(--fg);
+  }
+  .card-seismic .card-visit:hover {
+    background: var(--acc-ink);
+    color: var(--acc);
+  }
+
+  .modal-close:hover {
+    background: transparent;
+    color: var(--fg);
+    border-color: var(--line);
+  }
+
+  .source-link:hover {
+    background: var(--bg);
+    color: var(--fg);
+  }
+  .source-link:hover .source-arrow {
+    color: var(--acc);
+  }
+}
+
+/* ============================================================
+ * MOBILE LAYOUT — ≤ 760px
+ * Compact padding, smaller header, single-column grid, bigger
+ * touch targets on chips and source links.
+ * ============================================================ */
+@media (max-width: 760px) {
+  .page {
+    padding: 0 10px 14px;
+  }
+
+  /* === header === */
+  /* Mobile header: brand + hamburger on one row. Secondary actions
+     (BMC, nav, subscribe) move into a dropdown drawer anchored to the
+     header's bottom, opened by tapping the hamburger. */
+  .page-head {
+    padding: 10px 0 8px;
+    gap: 10px;
+  }
+  .brand {
+    flex: 1 1 auto;
+    min-width: 0;
+    gap: 8px;
+  }
+  .brand-mark,
+  .brand-name {
+    font-size: 22px;
+  }
+  .brand-sub {
+    font-size: 9px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  /* Hamburger visible on mobile. Square tap target (≥40px) with
+     border that matches the terminal aesthetic. */
+  .hamburger {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    flex: 0 0 auto;
+    padding: 0;
+    background: transparent;
+    color: var(--fg);
+    border: 1px solid var(--line);
+    font-family: var(--mono);
+    cursor: pointer;
+    transition: background-color 120ms linear, color 120ms linear,
+                border-color 120ms linear;
+  }
+  .hamburger-glyph {
+    font-size: 18px;
+    line-height: 1;
+  }
+  .hamburger-open,
+  .hamburger-open:hover {
+    background: var(--acc);
+    color: var(--acc-ink);
+    border-color: var(--acc);
+  }
+
+  /* BMC button next to the hamburger — icon + label, height matches
+     the hamburger so they sit on the same baseline. Pushed right via
+     margin-left:auto since header is space-between. */
+  .bmc-icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    height: 40px;
+    flex: 0 0 auto;
+    margin-left: auto;
+    padding: 0 12px;
+    background: transparent;
+    color: var(--fg);
+    border: 1px solid var(--line);
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 120ms linear, color 120ms linear,
+                border-color 120ms linear;
+  }
+  .bmc-icon img {
+    width: 20px;
+    height: 20px;
+    display: block;
+    object-fit: contain;
+  }
+  .bmc-icon:hover {
+    background: #ff5f5f;
+    border-color: #ff5f5f;
+    color: #ffffff;
+  }
+  .bmc-icon:focus-visible {
+    outline: 2px solid var(--acc);
+    outline-offset: 2px;
+  }
+
+  /* Drawer — absolute-positioned panel anchored to header. Mirrors
+     the CATEGORIES popover pattern so users recognize the interaction
+     model immediately: tap trigger, panel opens below, outside-click
+     closes. */
+  .page-head-secondary {
+    display: none;
+  }
+  .page-head-secondary.secondary-open {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    z-index: 40;
+    padding: 16px 12px;
+    background: var(--bg-2);
+    border: 1px solid var(--line);
+    border-top: 0;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.6);
+    animation: drawerSlide 140ms ease-out;
+  }
+
+  /* Nav inside drawer: stack vertically, full-width rows. */
+  .secondary-open .page-nav {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    margin-left: 0;
+  }
+  .secondary-open .nav-link {
+    border-left: 0;
+    border-bottom: 1px solid var(--line);
+    padding: 12px 14px;
+    justify-content: space-between;
+    font-size: 12px;
+  }
+  .secondary-open .nav-link:last-child {
+    border-bottom: 0;
+  }
+
+  /* BMC in drawer is hidden on mobile — the square icon button next
+     to the hamburger replaces it so the CTA only appears once. */
+  .secondary-open .bmc {
+    display: none;
+  }
+
+  /* Subscribe in drawer: full-width form. */
+  .secondary-open .subscribe {
+    margin-left: 0;
+    padding: 0;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .secondary-open .subscribe-label {
+    flex: 1 1 100%;
+  }
+  .secondary-open .subscribe-row {
+    flex: 1 1 100%;
+    height: 38px;
+  }
+  .secondary-open .subscribe input {
+    width: 100%;
+    font-size: 13px;
+  }
+
+  /* === filter bar ===
+   * Mobile filter bar: [CATEGORIES] [search] on a single row — categories
+   * compact, search takes the remaining width. The CATEGORIES panel
+   * opens as a wrapped third row below. */
+  .filterbar {
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: 8px;
+    padding: 8px 0 10px;
+  }
+  .fb-anchor-left {
+    flex: 0 0 auto;
+    gap: 8px;
+    border-right: 0;
+    padding-right: 0;
+  }
+  .fb-anchor-right {
+    flex: 1 1 0;
+    min-width: 0;
+    gap: 8px;
+    border-left: 0;
+    padding-left: 0;
+  }
+
+  .fb-cat-btn {
+    height: 34px;
+    padding: 0 12px;
+    font-size: 11px;
+    flex: 0 0 auto;
+    min-width: 0;
+  }
+
+  /* Chip panel becomes a third row inside the flex layout (not a popover). */
+  .fb-cat-panel {
+    position: static;
+    z-index: auto;
+    order: 3;
+    flex: 1 1 100%;
+    min-width: 0;
+    max-width: none;
+    padding: 10px;
+    box-shadow: none;
+  }
+
+  .chip {
+    padding: 7px 10px;            /* ≥ 32px tap target */
+    font-size: 11px;
+  }
+  .chip-count {
+    font-size: 9px;
+    line-height: 14px;
+    min-width: 16px;
+  }
+  .search {
+    flex: 1 1 auto;
+    height: 34px;
+  }
+  .search input {
+    width: 100%;
+    font-size: 12px;
+  }
+  .filterbar-status { font-size: 10px; }
+
+  /* === grid: single column on phones === */
+  .grid {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+  }
+  .card-seismic,
+  .card-major,
+  .card-notable {
+    grid-column: 1 / -1;
+    grid-row: span 1;
+  }
+  .card-seismic .card-img,
+  .card-seismic .img-fallback,
+  .card-major .card-img,
+  .card-major .img-fallback,
+  .card-img,
+  .img-fallback {
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+
+  /* === card content: a touch more breathing room === */
+  .card-meta { padding-top: 10px; gap: 5px; }
+  .card-foot { padding-bottom: 10px; }
+  .card-title { font-size: 18px !important; }
+  .card-major .card-title { font-size: 20px !important; }
+  .card-seismic .card-title { font-size: 24px !important; }
+  .card-tagline { font-size: 13px !important; }
+
+  /* visit button — bigger tap target */
+  .card-visit,
+  .card-major .card-visit,
+  .card-seismic .card-visit {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+
+  /* share button — match the 40×40 mobile visit button for every
+     variant, otherwise notable/major/seismic cards show a gap or
+     size mismatch below the (now bigger) visit button. */
+  .card-share,
+  .card-major .card-share,
+  .card-seismic .card-share {
+    top: 40px;
+  }
+  .card-share-trigger,
+  .card-major .card-share-trigger,
+  .card-seismic .card-share-trigger {
+    width: 40px;
+    height: 40px;
+  }
+  .card-share-trigger svg,
+  .card-major .card-share-trigger svg,
+  .card-seismic .card-share-trigger svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  /* ask AI button — match mobile sizing, positioned below share */
+  .card-askai,
+  .card-major .card-askai,
+  .card-seismic .card-askai {
+    top: 80px; /* visit (40) + share (40) */
+  }
+  .card-askai-trigger,
+  .card-major .card-askai-trigger,
+  .card-seismic .card-askai-trigger {
+    width: 40px;
+    height: 40px;
+  }
+  .card-askai-trigger svg,
+  .card-major .card-askai-trigger svg,
+  .card-seismic .card-askai-trigger svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  /* === source links: big tap targets === */
+  .source-link {
+    padding: 14px 16px;
+    font-size: 13px;
+  }
+  .source-label { font-size: 12px; }
+}
+
+/* ============ BUILT-WITH FOOTER ============ */
+/* ============ INFLUENCERS PAGE ============ */
+.inf-header {
+  padding: 24px 0 12px;
+  border-bottom: 2px solid var(--line);
+}
+
+.inf-title {
+  font-family: var(--mono);
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  margin: 0;
+  /* H1 source is sentence-case for SEO ("Top AI Influencers to
+     Follow"), visually rendered ALL CAPS to match the brutalist
+     aesthetic. Google reads the source text, not the transform. */
+  text-transform: uppercase;
+}
+
+.inf-subtitle {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.inf-filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line-dim);
+  flex-wrap: wrap;
+}
+
+.inf-chips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+/* card grid — same 12-col as releases but with dense packing */
+.inf-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: minmax(180px, auto);
+  grid-auto-flow: dense;
+  gap: 0;
+  margin-top: 0;
+}
+
+/* base card */
+.inf-card {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  margin: -1px 0 0 -1px;
+  cursor: pointer;
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--fg);
+  transition: background-color 120ms linear, color 120ms linear;
+}
+
+.inf-card:hover {
+  background: var(--fg);
+  color: var(--bg);
+  z-index: 1;
+}
+.inf-card:hover .inf-handle { color: var(--bg); opacity: 0.6; }
+.inf-card:hover .inf-bio { color: var(--bg); opacity: 0.7; }
+.inf-card:hover .inf-tag { color: var(--bg); border-color: rgba(0,0,0,0.2); }
+.inf-card:hover .inf-metric { color: var(--bg); opacity: 0.6; }
+.inf-card:hover .inf-link-icon { color: var(--bg); }
+.inf-card:hover .inf-rank { color: var(--bg); opacity: 0.4; }
+
+/* tier sizing — popularity drives card size like importance drives release cards */
+.inf-tier-mega {
+  grid-column: span 6;
+}
+.inf-tier-mega .inf-avatar { width: 160px; height: 100%; }
+.inf-tier-mega .inf-name { font-size: 22px; }
+.inf-tier-mega .inf-followers { font-size: 28px; }
+.inf-tier-mega .inf-bio { white-space: normal; }
+
+.inf-tier-big {
+  grid-column: span 4;
+}
+.inf-tier-big .inf-avatar { width: 120px; height: 100%; }
+.inf-tier-big .inf-name { font-size: 17px; }
+.inf-tier-big .inf-followers { font-size: 22px; }
+
+.inf-tier-mid {
+  grid-column: span 3;
+}
+.inf-tier-mid .inf-avatar { width: 90px; height: 100%; }
+
+.inf-tier-base {
+  grid-column: span 3;
+}
+.inf-tier-base .inf-avatar { width: 80px; height: 100%; }
+.inf-tier-base .inf-name { font-size: 13px; }
+.inf-tier-base .inf-followers { font-size: 16px; }
+
+/* avatar */
+.inf-avatar {
+  object-fit: cover;
+  flex-shrink: 0;
+  border-right: 1px solid var(--line);
+}
+
+/* rank badge — top-left overlay */
+.inf-rank {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--muted);
+  background: var(--bg);
+  border: 1px solid var(--line-dim);
+  padding: 1px 5px;
+  z-index: 2;
+}
+
+/* card body */
+.inf-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 14px;
+  min-width: 0;
+}
+
+.inf-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.inf-plat-badge {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid var(--line);
+  padding: 1px 6px;
+}
+
+.plat-youtube { color: #ff0040; border-color: #ff0040; }
+.plat-twitter { color: var(--fg); border-color: var(--fg); }
+.plat-github { color: var(--fg); border-color: var(--fg); }
+.plat-blog { color: var(--cool); border-color: var(--cool); }
+.plat-podcast { color: var(--acc); border-color: var(--acc); }
+
+.inf-followers {
+  font-family: var(--mono);
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.inf-metric {
+  font-family: var(--mono);
+  font-size: 8px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-left: 4px;
+}
+
+.inf-name {
+  font-family: var(--mono);
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+.inf-realname {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  font-style: italic;
+}
+
+.inf-handle {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--acc);
+  letter-spacing: 0.04em;
+}
+
+.inf-bio {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.4;
+  margin: 0;
+}
+
+.inf-bottom {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.inf-tags {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.inf-tag {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border: 1px solid var(--line-dim);
+  padding: 1px 5px;
+}
+
+.inf-links {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.inf-link-icon:hover {
+  color: var(--acc);
+}
+
+.inf-empty {
+  grid-column: 1 / -1;
+  padding: 60px 24px;
+  text-align: center;
+  font-family: var(--mono);
+  color: var(--muted);
+}
+
+@media (max-width: 1100px) {
+  .inf-tier-mega { grid-column: span 8; }
+  .inf-tier-big  { grid-column: span 4; }
+  .inf-tier-mid  { grid-column: span 4; }
+  .inf-tier-base { grid-column: span 4; }
+}
+
+@media (max-width: 760px) {
+  .inf-grid { grid-template-columns: 1fr; grid-auto-rows: auto; }
+  .inf-tier-mega,
+  .inf-tier-big,
+  .inf-tier-mid,
+  .inf-tier-base { grid-column: 1 / -1; }
+  .inf-avatar { width: 70px !important; height: auto !important; min-height: 100%; }
+  .inf-bio { display: none; }
+  .inf-tags { display: none; }
+}
+
+/* ============================================================
+ * SWEEP LOG — /log page
+ * ============================================================ */
+
+/* Icon-only variant of the nav-link for the LOG button */
+.nav-link-icon {
+  padding: 8px 14px;
+}
+.nav-link-glyph {
+  font-size: 16px;
+  line-height: 1;
+  color: var(--fg);
+  letter-spacing: 0;
+}
+.nav-link-icon:hover .nav-link-glyph,
+.nav-link-icon.nav-active .nav-link-glyph {
+  color: var(--acc);
+}
+
+/* Page header */
+.log-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  border-bottom: 2px solid var(--line);
+  padding: 18px 0 12px;
+  margin-bottom: 18px;
+  min-width: 0;
+}
+.log-title {
+  font-family: var(--mono);
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  margin: 0;
+  color: var(--fg);
+  /* Source is sentence-case ("Markets Changelog") for SEO H1 signal;
+     visual stays uppercase via CSS transform. */
+  text-transform: uppercase;
+}
+.log-subtitle {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.log-body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+.log-empty {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--muted);
+  padding: 24px 0;
+  text-align: center;
+  letter-spacing: 0.08em;
+}
+
+.log-more {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: var(--bg-2);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  padding: 12px 18px;
+  cursor: pointer;
+  margin-top: 8px;
+  transition: background-color 120ms linear, color 120ms linear;
+}
+.log-more:hover {
+  background: var(--fg);
+  color: var(--bg);
+}
+
+/* A single sweep entry */
+.sweep {
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  min-width: 0;
+}
+.sweep-open {
+  border-color: var(--fg);
+}
+
+.sweep-head {
+  display: grid;
+  grid-template-columns: auto auto auto 1fr auto;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 12px 14px;
+  background: none;
+  border: none;
+  color: var(--fg);
+  cursor: pointer;
+  text-align: left;
+  min-width: 0;
+  font-family: var(--sans);
+}
+.sweep-head:hover {
+  background: var(--bg-3);
+}
+
+.sweep-date {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-family: var(--mono);
+  min-width: 88px;
+}
+.sweep-date-d {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--fg);
+  letter-spacing: 0;
+}
+.sweep-date-t {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.06em;
+}
+
+.sweep-badge {
+  font-family: var(--mono);
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  padding: 3px 7px;
+  border: 1px solid var(--line);
+  text-transform: uppercase;
+  color: var(--fg);
+  background: var(--bg-3);
+  white-space: nowrap;
+}
+.sweep-badge-cron {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--acc);
+}
+.sweep-badge-manual {
+  background: var(--fg);
+  color: var(--bg);
+  border-color: var(--fg);
+}
+
+.sweep-counts {
+  display: flex;
+  gap: 6px;
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.sweep-c {
+  padding: 2px 6px;
+  border: 1px solid var(--line);
+  background: var(--bg);
+}
+.sweep-c-add { color: var(--fg); border-color: var(--fg); }
+.sweep-c-upd { color: var(--muted); }
+.sweep-c-rem { color: var(--muted); }
+
+.sweep-summary {
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--fg);
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.sweep-chevron {
+  font-family: var(--mono);
+  font-size: 14px;
+  color: var(--muted);
+  width: 14px;
+  text-align: center;
+}
+
+.sweep-body {
+  border-top: 1px solid var(--line);
+  padding: 14px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.sweep-section {
+  min-width: 0;
+}
+.sweep-section-title {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin: 0 0 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 1px solid var(--line-dim);
+  padding-bottom: 4px;
+}
+.sweep-section-count {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 9px;
+  background: var(--bg-3);
+  color: var(--fg);
+  padding: 1px 5px;
+  border: 1px solid var(--line-dim);
+}
+
+.sweep-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sweep-item {
+  border-left: 2px solid var(--line);
+  padding: 2px 0 2px 12px;
+  min-width: 0;
+}
+
+.sweep-item-head {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  text-align: left;
+  min-width: 0;
+  width: 100%;
+}
+.sweep-item-head:hover .sweep-item-title {
+  color: var(--acc);
+  text-decoration: underline;
+}
+
+.sweep-cat {
+  font-size: 9px !important;
+  padding: 2px 6px !important;
+}
+
+.sweep-item-title {
+  font-family: var(--mono);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--fg);
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.sweep-item-note {
+  font-family: var(--sans);
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 4px 0 0;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+/* Responsive — stack the sweep header on narrow screens */
+@media (max-width: 760px) {
+  .sweep-head {
+    grid-template-columns: auto auto 1fr auto;
+    grid-template-rows: auto auto;
+    gap: 8px 12px;
+  }
+  .sweep-summary {
+    grid-column: 1 / -1;
+    font-size: 12px;
+  }
+  .sweep-chevron {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+  }
+  .sweep {
+    position: relative;
+  }
+  .log-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+}
+
+/* ============ SUBSCRIBE ============ */
+.subscribe {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 16px;
+  padding: 8px 0;
+}
+
+.subscribe-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.subscribe-row {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--line);
+  height: 30px;
+  position: relative;
+}
+
+.subscribe-prompt {
+  font-family: var(--mono);
+  font-weight: 800;
+  color: var(--acc);
+  padding: 0 6px 0 8px;
+  font-size: 12px;
+}
+
+.subscribe input {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--fg);
+  width: 140px;
+  max-width: 100%;
+  height: 100%;
+  min-width: 0;
+}
+
+.subscribe input::placeholder {
+  color: var(--muted);
+}
+
+.subscribe input:disabled {
+  opacity: 0.5;
+}
+
+.subscribe button {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border: none;
+  padding: 0 10px;
+  height: 100%;
+  cursor: pointer;
+  transition: background 120ms linear;
+}
+
+.subscribe button:hover:not(:disabled) {
+  background: var(--fg);
+}
+
+.subscribe button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.subscribe-success {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--fg);
+  display: flex;
+  align-items: center;
+  margin-left: 16px;
+  padding: 8px 0;
+}
+
+.subscribe-check {
+  color: var(--acc);
+  font-weight: 800;
+  margin-right: 6px;
+}
+
+.subscribe-error {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: #f66;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  white-space: nowrap;
+}
+
+.page-footer {
+  margin-top: 24px;
+  padding: 14px 0;
+  border-top: 1px solid var(--line-dim);
+  text-align: center;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.page-footer a {
+  color: var(--acc);
+  text-decoration: none;
+  font-weight: 700;
+}
+.page-footer a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================================
+ * VERY SMALL — ≤ 420px (iPhone SE class)
+ * ============================================================ */
+@media (max-width: 420px) {
+  .brand-mark,
+  .brand-name { font-size: 22px; }
+}

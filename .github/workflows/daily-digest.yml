@@ -1,0 +1,176 @@
+name: Generate daily digest
+
+# Generates a daily newsletter digest for Buttondown subscribers.
+#
+# What it does:
+#   1. Checks out the repo
+#   2. Runs Claude Code with the daily-digest skill
+#   3. Generates newsletters/daily/YYYY_MM_DD_daily_digest.md
+#   4. Commits + pushes to master
+#
+# Required secrets:
+#   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
+#   BUTTONDOWN_TOKEN        — Buttondown API token (optional; skipped if unset)
+
+on:
+  schedule:
+    # Daily at 9:00 AM UTC (after the release sweeps have run)
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Capture current date
+        id: now
+        run: |
+          echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          echo "file_date=$(date -u +%Y_%m_%d)" >> "$GITHUB_OUTPUT"
+          echo "display_date=$(date -u +'%B %d, %Y')" >> "$GITHUB_OUTPUT"
+
+      - name: Generate daily digest with Claude Code
+        uses: anthropics/claude-code-action@v1
+        timeout-minutes: 15
+        env:
+          DIGEST_DATE: ${{ steps.now.outputs.date }}
+          DIGEST_DISPLAY_DATE: ${{ steps.now.outputs.display_date }}
+          DIGEST_FILE_DATE: ${{ steps.now.outputs.file_date }}
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: "true"
+          display_report: "true"
+          prompt: |
+            You are running as the Stock/TLDR daily digest generator inside a
+            GitHub Actions workflow. The working directory is the repo root.
+
+            TODAY'S DATE IS $DIGEST_DATE.
+            DISPLAY DATE: $DIGEST_DISPLAY_DATE
+            OUTPUT FILE: newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md
+
+            YOUR TASK: Generate a daily newsletter digest.
+
+            STEP 1. Read the template at `newsletters/TEMPLATE_DAILY.md` to
+            understand the exact HTML structure and design tokens (dark theme,
+            table-based, email-safe).
+
+            STEP 2. Read `src/data/releases.json` and select 5-8 of the most
+            important recent releases (last 1-3 days). Prioritize:
+            - seismic > major > notable importance
+            - Releases with images
+            - Mix of categories (earnings, mover, macro, mna, analyst, etc.)
+
+            STEP 3. Generate the digest file following the template exactly:
+            - Start directly with `<table>` (no markdown header)
+            - Use dark theme with `bgcolor` attributes
+            - Include FULL explainer content (whatIsIt, howItWorks, etc.)
+            - All links must be active
+            - Use fonts: Inter for body, JetBrains Mono for badges
+
+            STEP 4. Write the digest to the OUTPUT FILE path shown above.
+            If the file already exists, overwrite it with fresh content.
+
+            STEP 5. Stop. Do NOT commit or push — the next workflow step
+            handles git ops.
+
+            Return a short summary of what releases were included.
+          claude_args: |
+            --model claude-sonnet-4-6
+            --verbose
+            --max-turns 30
+            --permission-mode acceptEdits
+            --allowedTools "Read,Write,Edit,Bash(ls:*),Bash(cat:*)"
+
+      - name: Show generated file
+        env:
+          DIGEST_FILE_DATE: ${{ steps.now.outputs.file_date }}
+        run: |
+          echo "::group::Generated digest"
+          cat "newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md" | head -100 || echo "File not found"
+          echo "::endgroup::"
+
+      - name: Commit and push if digest was generated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DIGEST_DATE: ${{ steps.now.outputs.date }}
+          DIGEST_FILE_DATE: ${{ steps.now.outputs.file_date }}
+        run: |
+          set -euo pipefail
+          DIGEST_FILE="newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md"
+
+          if [[ ! -f "$DIGEST_FILE" ]]; then
+            echo "Digest file not found — nothing to commit."
+            exit 0
+          fi
+
+          if [[ -z "$(git status --porcelain "$DIGEST_FILE")" ]]; then
+            echo "No changes to digest — nothing to commit."
+            exit 0
+          fi
+
+          git config user.name  "stock-tldr-bot"
+          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
+          git add "$DIGEST_FILE"
+          git commit -m "feat(newsletter): daily digest ${DIGEST_DATE}
+
+          Generated newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md
+
+          Co-Authored-By: Claude Code Action <noreply@anthropic.com>"
+
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
+
+      # Pushes today's digest to Buttondown and SENDS it to subscribers.
+      - name: Send Buttondown email
+        env:
+          BUTTONDOWN_TOKEN: ${{ secrets.BUTTONDOWN_TOKEN }}
+          DIGEST_FILE_DATE: ${{ steps.now.outputs.file_date }}
+          DIGEST_DISPLAY_DATE: ${{ steps.now.outputs.display_date }}
+        run: |
+          set -euo pipefail
+          DIGEST_FILE="newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md"
+
+          if [[ ! -f "$DIGEST_FILE" ]]; then
+            echo "Digest file not found — skipping Buttondown upload."
+            exit 0
+          fi
+          if [[ -z "${BUTTONDOWN_TOKEN:-}" ]]; then
+            echo "BUTTONDOWN_TOKEN not set — skipping Buttondown upload."
+            exit 0
+          fi
+
+          export DIGEST_FILE
+          node -e '
+            const fs = require("fs");
+            const body = fs.readFileSync(process.env.DIGEST_FILE, "utf8");
+            const subject = `Stock/TLDR Daily Digest — ${process.env.DIGEST_DISPLAY_DATE}`;
+            (async () => {
+              const res = await fetch("https://api.buttondown.email/v1/emails", {
+                method: "POST",
+                headers: {
+                  "Authorization": "Token " + process.env.BUTTONDOWN_TOKEN,
+                  "Content-Type": "application/json",
+                  "X-Buttondown-Live-Dangerously": "true"
+                },
+                body: JSON.stringify({ subject, body, status: "about_to_send", email_type: "public" })
+              });
+              const text = await res.text();
+              console.log("STATUS:", res.status);
+              console.log(text.slice(0, 800));
+              if (res.status >= 400) process.exit(1);
+            })();
+          '
