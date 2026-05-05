@@ -1,7 +1,15 @@
 import raw from "./releases.json";
 import type { Category, ReleaseFeed, ReleaseItem } from "./schema";
 
-export const feed = raw as ReleaseFeed;
+// Cast through `unknown`: TypeScript infers a structurally specific
+// type per item from the JSON literal (each `metrics` object only
+// has the keys that item happens to use) and then refuses the direct
+// cast to ReleaseFeed because the inferred per-item metrics types
+// can't unify with the schema's `Record<string, string | number>`
+// — every absent key becomes `undefined`, which breaks the index
+// signature check. The runtime shape is correct; this is purely a
+// compile-time literal-narrowing artifact.
+export const feed = raw as unknown as ReleaseFeed;
 
 /**
  * Items are ordered by `publishDate` DESC — the moment finalize-sweep
