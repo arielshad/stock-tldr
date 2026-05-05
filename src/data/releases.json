@@ -1,8 +1,281 @@
 {
-  "generatedAt": "2026-05-05T18:45:18.727Z",
+  "generatedAt": "2026-05-05T20:41:32.803Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "amd-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AMD Q1 2026 — revenue $10.25B, data center +57%; Q2 guide $11.2B above Street",
+      "org": "AMD",
+      "date": "2026-05-05",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1284/amd-reports-first-quarter-2026-financial-results",
+      "summary": "AMD reported Q1 2026 revenue of $10.25B and non-GAAP EPS of $1.37, with Data Center revenue +57% Y/Y to $5.78B. Q2 guidance of ~$11.2B came in well above the ~$10.5B Street view; shares rose ~6% in extended trading.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "ai-infrastructure",
+        "data-center",
+        "epyc",
+        "instinct",
+        "semis",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "INTC"
+      ],
+      "metrics": {
+        "Revenue": "$10.253B (+38% Y/Y)",
+        "Non-GAAP EPS": "$1.37 vs $1.27 est",
+        "GAAP EPS": "$0.84",
+        "Non-GAAP gross margin": "55%",
+        "Data Center revenue": "$5.775B (+57% Y/Y)",
+        "Client & Gaming revenue": "$3.605B (+23% Y/Y)",
+        "Embedded revenue": "$873M (+6% Y/Y)",
+        "Q2 2026 revenue guide": "~$11.2B ± $300M",
+        "Move": "~+6% AH"
+      },
+      "links": [
+        {
+          "label": "AMD Press Release",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1284/amd-reports-first-quarter-2026-financial-results"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/AMD/amd-reports-first-quarter-2026-financial-bu7e2cbxpd14.html"
+        },
+        {
+          "label": "Yahoo Finance — AMD",
+          "url": "https://finance.yahoo.com/quote/AMD"
+        }
+      ],
+      "explainer": {
+        "tagline": "AMD posted a clean beat-and-raise quarter as Data Center revenue grew 57% on EPYC + Instinct demand.",
+        "whatIsIt": "AMD reported first-quarter 2026 results after the close on May 5. Revenue of $10.253B was up 38% year-over-year. Non-GAAP EPS came in at $1.37 versus a Street consensus near $1.27, and the company guided Q2 revenue to roughly $11.2B (±$300M), about $700M ahead of the consensus near $10.5B.",
+        "howItWorks": "Data Center revenue was $5.775B, up 57% year-over-year, driven by EPYC server processor sales and the continued ramp of MI-series Instinct GPUs into hyperscale and enterprise AI deployments. Client & Gaming revenue rose 23% to $3.605B and Embedded was $873M, up 6%. GAAP gross margin was 53%, non-GAAP was 55%, and non-GAAP operating income was $2.54B. Q2 non-GAAP gross margin guidance was about 56%.",
+        "whyItMatters": "This is the first AMD quarter where Data Center is the primary driver of both revenue and earnings, and the Q2 guide implies year-over-year growth re-accelerating to around 46%. Read-throughs: NVDA and broader semi peers (SMH, INTC) trade against any AMD commentary on AI accelerator supply, and large-cap hyperscale capex names get an indirect tailwind. The next gates are the conference call commentary on MI-series supply for the back half of 2026 and any quantification of full-year AI accelerator revenue.",
+        "forWho": "semis, AI infrastructure and large-cap tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/AMD"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_530b22e8aa311a8d1011a56b31890d4b/amd/db/834/7308/social_image_resized.jpg",
+        "alt": "AMD logo card used on the Q1 2026 earnings release",
+        "fit": "cover",
+        "credit": "AMD Investor Relations"
+      },
+      "publishDate": "2026-05-05T20:41:32.803Z"
+    },
+    {
+      "id": "intc-apple-chip-rumor-may-2026",
+      "categories": [
+        "rumor",
+        "mover"
+      ],
+      "title": "Apple reportedly in early talks with Intel and Samsung on US chipmaking; INTC closes ~+13%",
+      "org": "Apple",
+      "date": "2026-05-05",
+      "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
+      "summary": "Bloomberg reported that Apple held early-stage talks with Intel and visited a Samsung facility in Texas about producing main device chips in the US, alongside longtime partner TSMC. Intel closed up ~12.9% at $108.15 on the report.",
+      "tags": [
+        "rumor",
+        "bloomberg",
+        "semis",
+        "us-chipmaking",
+        "tsmc-alternative",
+        "ai-supply",
+        "apple-silicon",
+        "intel-foundry"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "INTC",
+        "AAPL",
+        "TSM"
+      ],
+      "metrics": {
+        "INTC close": "$108.15 (+12.92%)",
+        "INTC volume": "185.59M shares",
+        "Status": "early-stage, no orders placed",
+        "Sources cited": "Bloomberg News, Reuters mirror",
+        "Apple's incumbent foundry partner": "TSMC"
+      },
+      "links": [
+        {
+          "label": "MacRumors Recap",
+          "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/"
+        },
+        {
+          "label": "Reuters via MarketScreener",
+          "url": "https://www.marketscreener.com/news/apple-explores-using-intel-samsung-to-build-main-device-chips-in-the-us-bloomberg-news-reports-ce7f58dfdf89f022"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-using-intel-samsung-030010009.html"
+        },
+        {
+          "label": "Yahoo Finance — INTC",
+          "url": "https://finance.yahoo.com/quote/INTC"
+        },
+        {
+          "label": "Yahoo Finance — AAPL",
+          "url": "https://finance.yahoo.com/quote/AAPL"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bloomberg reports Apple is exploring Intel and Samsung as a US-side backstop to TSMC for main device chips.",
+        "whatIsIt": "Bloomberg News reported Apple has held exploratory discussions with Intel about chipmaking services and that Apple executives have visited a Samsung plant under construction in Texas that will also make advanced chips. The talks are described as preliminary, with no orders placed and Apple still expressing concerns about reliability and scale outside TSMC.",
+        "howItWorks": "The motivation cited by Bloomberg is supply diversification away from TSMC, after AI-data-center buildout consumed leading-edge wafer capacity and Apple's own Mac mini and Mac Studio lines hit demand-driven shortages. The Samsung Taylor, Texas facility is under development; Intel's foundry is the company's reset story under restructured manufacturing leadership. Reuters could not independently verify the report and Intel declined to comment.",
+        "whyItMatters": "Intel jumped about 12.9% to $108.15 with 185.6M shares traded, the largest single-name reaction of the day, on the implied option value of an Apple foundry win. The same setup is a marginal negative for TSM if the talks progress, though all parties stress nothing has been ordered. Confirm/deny gates: any concrete tape-out commitment, any Apple-issued statement, or any 8-K from Intel or Samsung referencing a foundry agreement.",
+        "forWho": "semis, foundry and large-cap tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/INTC"
+      },
+      "image": {
+        "url": "https://images.macrumors.com/t/n8JMxdkOzk8f3BBf2vAizoWlfEI=/1600x/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg",
+        "alt": "Semiconductor wafer inspection in a chip fab cleanroom",
+        "fit": "cover",
+        "credit": "MacRumors"
+      },
+      "publishDate": "2026-05-05T20:41:32.803Z"
+    },
+    {
+      "id": "mu-700b-market-cap-may-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Micron tops $700B market cap as memory rally accelerates; MU surges ~11%",
+      "org": "Micron Technology",
+      "date": "2026-05-05",
+      "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
+      "summary": "Micron rallied ~11% on May 5 to push its market cap past $700B for the first time, joining the top tier of US tech caps. The move reflects a broader memory squeeze tied to AI data-center demand; SanDisk and other memory names also rallied.",
+      "tags": [
+        "mover",
+        "memory",
+        "ai-supply",
+        "dram",
+        "hbm",
+        "nand",
+        "semis",
+        "sector-rally"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MU",
+        "SNDK"
+      ],
+      "metrics": {
+        "MU move": "~+11% intraday May 5",
+        "Market cap": ">$700B for the first time",
+        "Approx share price": "~$635",
+        "YTD performance": "+~125%",
+        "12-month performance": "+~700%",
+        "SanDisk move": "+~7.8%"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html"
+        },
+        {
+          "label": "Companies Market Cap — MU",
+          "url": "https://companiesmarketcap.com/micron-technology/marketcap/"
+        },
+        {
+          "label": "Yahoo Finance — MU",
+          "url": "https://finance.yahoo.com/quote/MU"
+        },
+        {
+          "label": "Stockanalysis.com — MU",
+          "url": "https://stockanalysis.com/stocks/mu/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Micron's market cap broke $700B for the first time as the AI-driven memory shortage keeps lifting the tape.",
+        "whatIsIt": "Micron Technology rallied roughly 11% on May 5, pushing the stock to about $635 and the market cap above $700B for the first time. The move puts MU into the top-ten most valuable US tech companies and extends a memory-stock rally that also lifted SanDisk by about 7.8% on the day.",
+        "howItWorks": "The setup is a structural shortage in DRAM and HBM driven by AI-data-center buildout. Micron CEO Sanjay Mehrotra has said key customers are getting only 50%-to-two-thirds of their requirements, and the company has reiterated a fiscal-2026 outlook that includes adjusted EPS guidance of $2.80–$3.00 and revenue of $59.5B–$62.5B (per Mehrotra's prepared comments earlier in the year). Year to date, MU is up roughly 125%; over the trailing twelve months, it is up nearly 700%.",
+        "whyItMatters": "A $700B memory name is a new fact pattern for index construction and passive flows, and it cements memory as a primary AI-leverage trade alongside accelerators. Read-throughs: SK Hynix and Samsung's memory units sit on the same demand curve, and capex from hyperscale buyers (MSFT, META, GOOG, AMZN) is a leading indicator for FY27 contracts. Watch for sell-side estimate revisions and any Q4 capacity commentary on the next print.",
+        "forWho": "semis, AI infrastructure and sector-rotation investors",
+        "tryIt": "https://finance.yahoo.com/quote/MU"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108279191-1773779927968-gettyimages-2256071928-MICRON_NY.jpeg?v=1778011808&w=1920&h=1080",
+        "alt": "Micron Technology corporate signage",
+        "fit": "cover",
+        "credit": "Getty Images / CNBC"
+      },
+      "publishDate": "2026-05-05T20:41:32.803Z"
+    },
+    {
+      "id": "race-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Ferrari Q1 2026 — adj EPS €2.33 beats, full-year 2026 guide reaffirmed",
+      "org": "Ferrari",
+      "date": "2026-05-05",
+      "url": "https://www.stocktitan.net/news/RACE/another-quarter-of-strong-mix-2026-guidance-kw47hkpri4re.html",
+      "summary": "Ferrari posted Q1 2026 net revenues of €1.85B and adjusted diluted EPS of €2.33, beating consensus on both. EBIT margin was 29.7% on richer mix; the company reaffirmed full-year 2026 guidance with order book stretching to end-2027.",
+      "tags": [
+        "earnings",
+        "luxury",
+        "auto",
+        "italy",
+        "q1-2026",
+        "eps-beat",
+        "ferrari",
+        "personalizations"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "RACE"
+      ],
+      "metrics": {
+        "Net revenues": "€1,848M (+3% reported, +6% cc)",
+        "EBIT": "€548M (29.7% margin)",
+        "Adj diluted EPS": "€2.33 vs €2.27 est",
+        "Shipments": "3,436 units",
+        "Industrial FCF": "€653M",
+        "FY26 revenue guide": "~€7.50B (reaffirmed)",
+        "FY26 adj EBITDA guide": "≥€2.93B (≥39.0% margin)",
+        "FY26 adj EPS guide": "≥€9.45"
+      },
+      "links": [
+        {
+          "label": "Ferrari Press Release (StockTitan)",
+          "url": "https://www.stocktitan.net/news/RACE/another-quarter-of-strong-mix-2026-guidance-kw47hkpri4re.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/05/ferrari-nv-race-earnings-q1-2026.html"
+        },
+        {
+          "label": "Yahoo Finance — RACE",
+          "url": "https://finance.yahoo.com/quote/RACE"
+        }
+      ],
+      "explainer": {
+        "tagline": "Ferrari beat on EPS, leaned on richer mix and personalizations, and kept the 2026 guide intact.",
+        "whatIsIt": "Ferrari reported preliminary Q1 2026 results on May 5. Net revenues of €1,848M were up 3% reported (and 6% at constant currency); adjusted diluted EPS came in at €2.33 versus a €2.27 consensus and revenue beat the €1.81B Street estimate. Shipments were 3,436 units — intentionally lower as the company manages model transitions.",
+        "howItWorks": "EBIT was €548M, a 29.7% margin, supported by stronger product mix from higher-margin vehicles and personalization options, partially offset by higher depreciation tied to new model production and increased marketing. Industrial free cash flow was €653M for the quarter. Management confirmed 2026 guidance: net revenues of about €7.50B, adjusted EBITDA of at least €2.93B (≥39.0% margin), adjusted diluted EPS of at least €9.45 and industrial free cash flow of at least €1.50B.",
+        "whyItMatters": "Ferrari's order book reportedly stretches to the end of 2027, which insulates the print from cycle weakness in mass-market autos and supports the premium that the stock has historically earned. Read-throughs: other luxury and ultra-luxury auto names key off Ferrari's mix and pricing, and continued strength in personalizations is a positive signal for Italian luxury complex broadly.",
+        "forWho": "luxury, auto and European equity investors",
+        "tryIt": "https://finance.yahoo.com/quote/RACE"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108210006-17600211302025-10-09t080455z_1543033647_rc2s3hatuuf3_rtrmadp_0_ferrari-strategy.jpeg?v=1760021172&w=1920&h=1080",
+        "alt": "Ferrari corporate branding used in a Reuters strategy photo",
+        "fit": "cover",
+        "credit": "Reuters / CNBC"
+      },
+      "publishDate": "2026-05-05T20:41:32.803Z"
+    },
     {
       "id": "gme-ebay-bid-may-2026",
       "categories": [

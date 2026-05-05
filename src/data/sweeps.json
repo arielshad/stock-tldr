@@ -152,6 +152,61 @@
         "rates",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260505t204132z",
+      "timestamp": "2026-05-05T20:41:32.803Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds: AMD Q1 2026 (beat + raised Q2 guide on 57% Data Center growth), a Bloomberg-sourced rumor that Apple is exploring Intel and Samsung as US chipmaking alternatives (INTC +13%), Micron crossing $700B in market cap on the AI-memory rally, and Ferrari Q1 2026 (EPS beat, full-year guide reaffirmed).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amd-q1-2026-earnings",
+          "title": "AMD Q1 2026 — revenue $10.25B, data center +57%; Q2 guide $11.2B above Street",
+          "category": "earnings",
+          "note": "Mega-cap AI semis print just after the close on May 5; revenue and Q2 guide both above consensus, Data Center revenue +57% — primary AI-accelerator read for the quarter."
+        },
+        {
+          "id": "intc-apple-chip-rumor-may-2026",
+          "title": "Apple reportedly in early talks with Intel and Samsung on US chipmaking; INTC closes ~+13%",
+          "category": "rumor",
+          "note": "Bloomberg-sourced rumor of Apple exploring Intel/Samsung as US foundry alternatives; INTC closed +12.9% on the report — clear single-name catalyst-driven mover."
+        },
+        {
+          "id": "mu-700b-market-cap-may-2026",
+          "title": "Micron tops $700B market cap as memory rally accelerates; MU surges ~11%",
+          "category": "mover",
+          "note": "First time Micron has crossed $700B in market cap; CNBC ran the milestone as a story today and the broader memory complex rallied alongside."
+        },
+        {
+          "id": "race-q1-2026-earnings",
+          "title": "Ferrari Q1 2026 — adj EPS €2.33 beats, full-year 2026 guide reaffirmed",
+          "category": "earnings",
+          "note": "Q1 2026 print on May 5 with EPS and revenue ahead of consensus and full-year guide reaffirmed — distinct sector (European luxury auto) versus today's other prints."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "rumor",
+        "sector",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "mna",
+        "regulatory",
+        "insider",
+        "analyst",
+        "ipo"
+      ]
     }
   ]
 }
