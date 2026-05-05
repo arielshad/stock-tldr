@@ -1,8 +1,275 @@
 {
-  "generatedAt": "2026-05-05T16:08:03.094Z",
+  "generatedAt": "2026-05-05T16:52:23.456Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "pins-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Pinterest Q1 2026 — revenue +18%, raised Q2 guide and $2B buyback send shares ~15% higher",
+      "org": "Pinterest",
+      "date": "2026-05-04",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-announces-first-quarter-2026-200600038.html",
+      "summary": "Pinterest beat on revenue and EPS, lifted Q2 guidance above Street and disclosed about $2B of share repurchases in the quarter; stock surged about 15%.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "buyback",
+        "social-media",
+        "ad-tech",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PINS"
+      ],
+      "metrics": {
+        "Revenue": "$1.01B (+18% Y/Y) vs $966M est",
+        "Adj EPS": "$0.27 vs $0.23 est",
+        "MAU": "631M (+11% Y/Y)",
+        "ARPU (global)": "$1.61 (+6% Y/Y)",
+        "Q2 Revenue guide": "$1.13B–$1.15B (vs $1.11B est)",
+        "Buybacks": "~$2B in Q1",
+        "Move": "~+15%"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-announces-first-quarter-2026-200600038.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html"
+        },
+        {
+          "label": "Yahoo Finance — PINS",
+          "url": "https://finance.yahoo.com/quote/PINS"
+        },
+        {
+          "label": "Analyst Reaction",
+          "url": "https://247wallst.com/investing/2026/05/05/pinterest-just-got-a-wall-street-pile-on-six-firms-hike-price-targets-after-q1-beat-crushes-estimates/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Pinterest tops Q1 estimates, raises Q2 outlook above consensus and books ~$2B of buybacks; shares rip ~15%.",
+        "whatIsIt": "Pinterest reported Q1 2026 results after the bell on May 4. Revenue grew 18% year over year to $1.01B, monthly active users hit a record 631M (+11% Y/Y), and global ARPU climbed 6% to $1.61. Adjusted EPS came in at $0.27 versus the $0.23 consensus.",
+        "howItWorks": "Adjusted EBITDA was $207M, ahead of the ~$176M consensus. Q2 revenue guidance of $1.13B–$1.15B implies 14–16% Y/Y growth and sits above the $1.11B Street view. The company also disclosed approximately $2B of near-term share repurchases completed in the quarter, alongside the previously announced February acquisition of connected-TV ad-tech firm tvScientific for ~$465M.",
+        "whyItMatters": "The print confirms ad-spend strength on lower-funnel social platforms despite a fragile macro backdrop. Pinterest's outperformance contrasts with cautious guides from peers (Pinterest's gain came alongside Shopify and Duolingo guides that disappointed) and reframes the digital-ad debate going into Meta and Snap commentary windows. At least seven sell-side firms hiked price targets the next morning.",
+        "forWho": "ad-tech and consumer-internet investors",
+        "tryIt": "https://finance.yahoo.com/quote/PINS"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/business-wire.com/593764c19e968e25cd56d23eb8290c36",
+        "alt": "Pinterest Q1 2026 earnings press release header",
+        "fit": "cover",
+        "credit": "Pinterest / Business Wire"
+      },
+      "publishDate": "2026-05-05T16:52:23.456Z"
+    },
+    {
+      "id": "shop-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Shopify Q1 2026 — revenue +34% with $100B GMV but stock falls ~7% as Q2 guide signals slower growth",
+      "org": "Shopify",
+      "date": "2026-05-05",
+      "url": "https://www.shopify.com/news/shopify-q1-2026-financial-results",
+      "summary": "Shopify topped Q1 revenue forecasts on $3.17B in sales and over $100B of merchant GMV, but Q2 guidance pointing to high-twenties revenue growth implied a deceleration and pushed shares down about 7%.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "guidance",
+        "deceleration",
+        "ecommerce",
+        "gmv",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SHOP"
+      ],
+      "metrics": {
+        "Revenue": "$3.17B (+34% Y/Y) vs ~$3.09B–$3.12B est",
+        "GMV": ">$100B (+35% Y/Y)",
+        "FCF margin": "15%",
+        "Q2 Revenue guide": "high-twenties % Y/Y growth",
+        "Q2 FCF margin guide": "mid-teens",
+        "Q2 OpEx guide": "35–36% of revenue",
+        "Move": "~-7%"
+      },
+      "links": [
+        {
+          "label": "Shopify Press Release",
+          "url": "https://www.shopify.com/news/shopify-q1-2026-financial-results"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/SHOP/8-k-shopify-inc-reports-material-event-c489d9aecc72.html"
+        },
+        {
+          "label": "TradingView Summary",
+          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3284663:0-shop-q1-2026-revenue-rose-34-to-3-2b-with-gmv-up-35-and-net-loss-narrowing-to-581m/"
+        },
+        {
+          "label": "Yahoo Finance — SHOP",
+          "url": "https://finance.yahoo.com/quote/SHOP"
+        }
+      ],
+      "explainer": {
+        "tagline": "Top-line beats, GMV crosses $100B for the quarter, but Q2's slower-growth guide takes the air out of the stock.",
+        "whatIsIt": "Shopify reported Q1 2026 results before the open on May 5. Revenue of $3.17B grew 34% Y/Y and beat the ~$3.10B consensus, with merchant GMV crossing $100B in a single quarter for the first time and free cash flow margin holding at 15%.",
+        "howItWorks": "Headline numbers were strong, but the Q2 outlook is what investors are reacting to: management guided to revenue growth in the high-twenties percent range, gross profit growth in the mid-twenties, OpEx at 35–36% of revenue and a mid-teens FCF margin. The high-twenties revenue print would be a step down from Q1's 34% pace.",
+        "whyItMatters": "Shopify has been a comp for the broader e-commerce/SMB ad-spend complex; a deceleration here amplifies tariff- and consumer-spending concerns flagged by other guides this week. The ~7% sell-off — on a name that was a momentum favorite — also tightens the leash on aggressive 2026 take-rate and AI-monetization narratives.",
+        "forWho": "growth-tech and e-commerce investors",
+        "tryIt": "https://finance.yahoo.com/quote/SHOP"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/shopifycloud/brochure/assets/shared/social-image-default-large-57a90e6a8ae96f7277e9664ebfede1f143995ce7663119c832f9a7d4dd51f7e1.png",
+        "alt": "Shopify wordmark on brand-green social card",
+        "fit": "cover",
+        "credit": "Shopify"
+      },
+      "publishDate": "2026-05-05T16:52:23.456Z"
+    },
+    {
+      "id": "duol-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Duolingo Q1 2026 — revenue +27% but full-year bookings guide of 10.5% growth knocks shares ~13%",
+      "org": "Duolingo",
+      "date": "2026-05-04",
+      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287111/0/en/Duolingo-Reports-First-Quarter-2026-Results.html",
+      "summary": "Duolingo beat on revenue and DAUs but its 2026 bookings growth guide of 10.5% implied a sharp deceleration from Q1's 14% pace, sending shares down about 13%.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "guidance-cut",
+        "bookings",
+        "consumer-subscription",
+        "ai",
+        "edtech",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DUOL"
+      ],
+      "metrics": {
+        "Revenue": "$291.9M (+27% Y/Y)",
+        "Bookings": "$308.5M (+14% Y/Y)",
+        "DAU": "56.5M (+21% Y/Y)",
+        "Paid subs": "12.5M (+21% Y/Y)",
+        "Adj EBITDA": "$83.4M (28.6% margin)",
+        "FY26 Bookings guide": "$1.28B (+10.5% Y/Y)",
+        "FY26 Revenue guide": "$1.205B (+16.1% Y/Y)",
+        "Move": "~-13%"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/04/3287111/0/en/Duolingo-Reports-First-Quarter-2026-Results.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/DUOL/8-k-duolingo-inc-reports-material-event-6974ab47316e.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/04/duolingo-duol-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "Yahoo Finance — DUOL",
+          "url": "https://finance.yahoo.com/quote/DUOL"
+        }
+      ],
+      "explainer": {
+        "tagline": "Duolingo's quarter is fine; its bookings guide isn't. Buyers reset multiple on slowing top-of-funnel monetization.",
+        "whatIsIt": "Duolingo reported Q1 2026 after the bell on May 4. Revenue of $291.9M (+27% Y/Y) and DAUs of 56.5M (+21%) topped consensus. Adjusted EBITDA was $83.4M at a 28.6% margin and free cash flow margin came in at 50.6%.",
+        "howItWorks": "The market reaction was driven by guidance, not the print. Full-year 2026 bookings guidance of $1.28B implies 10.5% Y/Y growth, a step down from the 14% bookings pace in Q1. Revenue guidance of $1.205B (+16.1% Y/Y) and adjusted EBITDA of $310M (25.7% margin) were largely in line with prior framing, but the bookings deceleration — bookings lead future revenue in a subscription model — drove the de-rating.",
+        "whyItMatters": "DUOL has traded as a high-growth, AI-narrative consumer subscription compounder. A bookings guide that decelerates this hard reframes the AI-translation moat story and forces a multiple compression conversation. Sets up a cautious read-through for other consumer-subscription names with rich multiples and Q2 prints ahead.",
+        "forWho": "growth and consumer-subscription investors",
+        "tryIt": "https://finance.yahoo.com/quote/DUOL"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/moby_896/a0083e60c93bc6c23a3416ef8b94dd81",
+        "alt": "Duolingo Q1 2026 earnings article header",
+        "fit": "cover",
+        "credit": "Duolingo / Yahoo Finance"
+      },
+      "publishDate": "2026-05-05T16:52:23.456Z"
+    },
+    {
+      "id": "hubb-nsi-acquisition-may-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Hubbell to acquire NSI Industries from Sentinel for $3B in cash, betting on electrification and datacenter buildout",
+      "org": "Hubbell",
+      "date": "2026-05-04",
+      "url": "https://www.globenewswire.com/news-release/2026/05/04/3286597/0/en/Hubbell-to-Acquire-NSI-Industries.html",
+      "summary": "Hubbell agreed to buy NSI Industries from Sentinel Capital Partners for $3B cash at ~15.5x EBITDA, expanding its electrical-fittings portfolio into datacenter and light-industrial verticals.",
+      "tags": [
+        "mna",
+        "electrical",
+        "datacenter",
+        "industrial",
+        "private-equity-exit",
+        "cash-deal"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HUBB"
+      ],
+      "metrics": {
+        "Deal": "$3.0B all-cash",
+        "Multiple": "~15.5x 2026E EBITDA",
+        "NSI 2026E revenue": "~$570M",
+        "Bridge financing": "up to $2.8B (JPMorgan, BofA, HSBC)",
+        "Expected close": "mid-2026"
+      },
+      "links": [
+        {
+          "label": "Hubbell Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/04/3286597/0/en/Hubbell-to-Acquire-NSI-Industries.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/HUBB/8-k-hubbell-inc-reports-material-event-5ebb1eb9aaf8.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/m-a/26/05/52258600/hubbell-strikes-3-billion-deal-to-acquire-nsi-bets-big-on-electrification-boom"
+        },
+        {
+          "label": "RTTNews Coverage",
+          "url": "https://www.rttnews.com/3646763/hubbell-to-acquire-nsi-industries-for-3-bln.aspx"
+        }
+      ],
+      "explainer": {
+        "tagline": "Hubbell adds NSI's electrical-fittings franchise for $3B cash, leaning further into datacenter power and electrification.",
+        "whatIsIt": "Hubbell signed a definitive agreement on May 4 to acquire NSI Industries — a portfolio company of Sentinel Capital Partners that supplies electrical fittings, connectors and wire-management products — for $3.0B in cash. NSI is expected to generate about $570M of revenue in 2026.",
+        "howItWorks": "The deal values NSI at roughly 15.5x 2026 EBITDA. Hubbell will fund it with cash on hand and debt, backed by up to $2.8B of fully committed senior unsecured bridge financing from JPMorgan, Bank of America and HSBC. Closing is expected in mid-2026 subject to Hart-Scott-Rodino antitrust clearance and customary conditions, and Hubbell expects the transaction to be accretive to adjusted EPS in 2026 and lift Electrical Solutions adjusted operating margins.",
+        "whyItMatters": "It's another large-cap industrial bolt-on aimed squarely at the AI/datacenter electrification capex cycle, alongside light-industrial and network-infrastructure end markets. The 15.5x multiple sets a fresh comp for electrical-fittings PE exits, and the all-cash + bridge structure highlights the still-open IG debt window for strategic acquirers.",
+        "forWho": "industrial and capital-goods investors",
+        "tryIt": "https://finance.yahoo.com/quote/HUBB"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/hubb_8-K.webp",
+        "alt": "Hubbell 8-K filing cover for NSI Industries acquisition",
+        "fit": "cover",
+        "credit": "Stock Titan / Hubbell 8-K"
+      },
+      "publishDate": "2026-05-05T16:52:23.456Z"
+    },
     {
       "id": "pfe-q1-2026-earnings",
       "categories": [
