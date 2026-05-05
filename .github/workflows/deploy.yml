@@ -1,0 +1,92 @@
+name: Deploy to Cloudflare Workers
+
+# Builds and deploys the Workers Static Assets site to Cloudflare on
+# every push to master that touches anything visible (code, content,
+# or assets). The release sweep workflow commits releases.json /
+# sweeps.json updates every 2h — this workflow then ships those
+# changes to the live site automatically.
+#
+# Required secrets:
+#   CLOUDFLARE_API_TOKEN   — token with "Edit Cloudflare Workers" permissions
+#                             (create at https://dash.cloudflare.com/profile/api-tokens)
+#   CLOUDFLARE_ACCOUNT_ID  — your account ID (visible in the Workers dashboard
+#                             URL: dash.cloudflare.com/<ACCOUNT_ID>/...)
+#
+# SITE_URL env var below pins the canonical/sitemap/OG URLs to the
+# live workers.dev URL until the real domain is wired up. When the
+# domain is bound to the Worker, change this to https://stock-tldr.xyz
+# and the next push will rebuild with correct canonical tags.
+
+on:
+  # Direct human pushes — paths filter avoids redeploys for doc-only churn.
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "scripts/**"
+      - "public/**"
+      - "index.html"
+      - "wrangler.jsonc"
+      - "package.json"
+      - "bun.lock"
+      - "tsconfig*.json"
+      - "vite.config.ts"
+      - ".github/workflows/deploy.yml"
+  # Sweep + propose-release workflows commit with the default GITHUB_TOKEN,
+  # which by design does NOT trigger downstream `push` events (GitHub
+  # blocks recursive workflow runs). `workflow_run` IS triggered though,
+  # so we chain off completion of the content-producing workflows. Both
+  # are gated on conclusion: success below.
+  workflow_run:
+    workflows:
+      - "Update releases (every 2h)"
+      - "Propose new release"
+    types: [completed]
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+env:
+  SITE_URL: https://stock-tldr.shep-ai.workers.dev
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # workflow_run fires for both success AND failure outcomes of the
+    # upstream workflow. Skip the deploy when the sweep itself failed
+    # — there's no new content to ship and we'd just re-publish the
+    # same dist as before. workflow_dispatch and direct pushes don't
+    # have an upstream conclusion, so the conditional accepts those.
+    if: |
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Build
+        run: bun run build
+
+      - name: Deploy with Wrangler
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy
