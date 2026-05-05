@@ -24,6 +24,83 @@ function tierClass(raw: number): string {
   return "inf-tier-base";
 }
 
+/**
+ * Build the avatar URL for an influencer from their platform + handle.
+ *
+ * We don't rely on `person.image` (which used to be a local /influencers/
+ * file path) because those files were never populated for the current
+ * roster — every entry would 404. Instead we derive a URL that is
+ * actually live on the relevant platform:
+ *
+ *   github   → https://github.com/<user>.png         (canonical, always 200)
+ *   twitter  → https://unavatar.io/twitter/<handle>  (proxies x.com avatar)
+ *   youtube  → https://unavatar.io/youtube/<handle>
+ *   substack → https://unavatar.io/substack/<handle>
+ *
+ * For platforms unavatar doesn't reliably handle (blog, podcast,
+ * linkedin, twitch) we look at `links[]` for a Twitter handle and use
+ * unavatar/twitter on it. If we can't find any platform-derived URL,
+ * we return null and the <InfluencerAvatar> component falls through to
+ * the deterministic letter avatar — never a broken-image icon.
+ */
+function avatarUrlFor(person: Influencer): string | null {
+  switch (person.platform) {
+    case "github":
+      return `https://github.com/${person.handle}.png`;
+    case "twitter":
+    case "youtube":
+    case "substack":
+      return `https://unavatar.io/${person.platform}/${person.handle}`;
+  }
+  const tw = person.links?.find((l) => l.platform === "twitter");
+  if (tw) {
+    const handle = tw.url.split("/").filter(Boolean).pop();
+    if (handle) return `https://unavatar.io/twitter/${handle}`;
+  }
+  return null;
+}
+
+/** Stable djb2-style hash so a given influencer always lands on the
+ *  same letter-avatar hue, regardless of session. */
+function hueFor(id: string): number {
+  let h = 5381;
+  for (let i = 0; i < id.length; i++) h = ((h << 5) + h + id.charCodeAt(i)) | 0;
+  return Math.abs(h) % 360;
+}
+
+function InfluencerAvatar({ person }: { person: Influencer }) {
+  const url = avatarUrlFor(person);
+  // `failed` flips when the live <img> 404s or errors. Once true we
+  // never re-attempt — switch permanently to the letter avatar.
+  const [failed, setFailed] = useState(false);
+
+  if (!url || failed) {
+    const initial = (person.name.match(/[A-Za-z0-9]/)?.[0] ?? "?").toUpperCase();
+    return (
+      <div
+        className="inf-avatar inf-avatar-fallback"
+        style={{ background: `hsl(${hueFor(person.id)} 55% 28%)` }}
+        aria-label={person.name}
+        role="img"
+      >
+        {initial}
+      </div>
+    );
+  }
+  return (
+    <img
+      className="inf-avatar"
+      src={url}
+      alt={person.name}
+      loading="lazy"
+      // Some platforms strip `referer` to block hotlinking; explicit
+      // no-referrer maximizes the chance unavatar / github serve us.
+      referrerPolicy="no-referrer"
+      onError={() => setFailed(true)}
+    />
+  );
+}
+
 function InfluencerCard({ person, rank }: { person: Influencer; rank: number }) {
   const meta = PLATFORM_META[person.platform];
   return (
@@ -40,12 +117,7 @@ function InfluencerCard({ person, rank }: { person: Influencer; rank: number }) 
       }
     >
       <span className="inf-rank">#{rank}</span>
-      <img
-        className="inf-avatar"
-        src={person.image}
-        alt={person.name}
-        loading="lazy"
-      />
+      <InfluencerAvatar person={person} />
       <div className="inf-body">
         <div className="inf-top">
           <span className={`badge inf-plat-badge plat-${person.platform}`}>

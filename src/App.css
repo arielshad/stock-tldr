@@ -2154,6 +2154,27 @@
   border-right: 1px solid var(--line);
 }
 
+/* Letter-avatar fallback — rendered when the platform-derived URL
+ * fails to load (or no URL could be derived). The background hue is
+ * set inline and seeded from the influencer id so each person keeps
+ * a stable colour. Sizing inherits from the .inf-tier-* avatar rules
+ * above so a fallback occupies the same footprint as the real image.*/
+.inf-avatar-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-weight: 800;
+  font-size: 38px;
+  letter-spacing: 0;
+  color: #fff;
+  user-select: none;
+}
+.inf-tier-mega .inf-avatar-fallback { font-size: 64px; }
+.inf-tier-big  .inf-avatar-fallback { font-size: 48px; }
+.inf-tier-mid  .inf-avatar-fallback { font-size: 36px; }
+.inf-tier-base .inf-avatar-fallback { font-size: 28px; }
+
 /* rank badge — top-left overlay */
 .inf-rank {
   position: absolute;
