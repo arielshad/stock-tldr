@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-06T16:49:44.820Z",
+  "generatedAt": "2026-05-06T18:46:58.511Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "anet-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Arista Q1 2026 — revenue $2.71B beats, raises FY26 to $11.5B and AI to $3.5B; ANET still drops ~10% on margin pressure",
+      "org": "Arista Networks",
+      "date": "2026-05-05",
+      "url": "https://www.arista.com/en/company/news/press-release/24017-pr-20260505",
+      "summary": "Arista posted Q1 revenue of $2.71B (+35% Y/Y) and adj EPS $0.87, both ahead of consensus, and lifted FY26 to ~$11.5B with AI fabric to $3.5B — but shares slid ~10% on chip-supply gross-margin warnings.",
+      "tickers": [
+        "ANET",
+        "NVDA",
+        "AVGO"
+      ],
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-beat",
+        "guidance-raise",
+        "networking",
+        "ai-capex",
+        "data-center",
+        "gross-margin",
+        "supply-chain"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$2.71B (+35% Y/Y) vs $2.62B est",
+        "Adj EPS": "$0.87 vs $0.81 est",
+        "Non-GAAP gross margin": "62.4% (62%–63% guide range)",
+        "Q2 guide": "Revenue ~$2.8B, adj EPS ~$0.88",
+        "FY26 outlook": "Revenue ~$11.5B (~28% growth); AI fabric target $3.5B",
+        "Move": "-10% to ~$152 after-hours"
+      },
+      "explainer": {
+        "tagline": "Beat-and-raise gets sold: Arista warns chip-supply costs will pressure margins for 'next couple of years'.",
+        "whatIsIt": "Arista Networks reported its first-quarter 2026 results late on May 5, 2026. The high-end Ethernet networking vendor beat both revenue and EPS consensus and raised its full-year outlook, but the stock fell roughly 10% in after-hours trading.",
+        "howItWorks": "Revenue came in at $2.709B, up 35.1% Y/Y and ahead of the $2.62B Street consensus, with non-GAAP EPS of $0.87 versus $0.81 expected. Non-GAAP gross margin was 62.4%, inside Arista's 62%–63% guide but down from 63.4% the prior quarter on customer mix and rising supply-chain costs. Q2 guidance was set at ~$2.8B revenue and ~$0.88 adj EPS, both slightly above consensus, and FY26 was raised to ~$11.5B with AI fabric revenue lifted to $3.5B.",
+        "whyItMatters": "CEO Jayshree Ullal told the call demand is 'the best I have ever seen' but capacity is 'constrained for the next couple of years' and Arista will absorb costs to keep customers supplied — flagging a multi-quarter gross-margin headwind. After an 87% YTD-prior rally, investors took profits on a stock trading near 39× forward earnings, dragging AI-networking peers and read-throughs to NVDA's networking partners.",
+        "forWho": "AI infrastructure, networking and semis traders",
+        "tryIt": "https://finance.yahoo.com/quote/ANET/"
+      },
+      "image": {
+        "url": "https://www.arista.com/assets/images/logo/arista_logo_blue_bg_500x280.jpg",
+        "alt": "Arista Networks corporate logo on blue background",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Arista Press Release",
+          "url": "https://www.arista.com/en/company/news/press-release/24017-pr-20260505"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52308434/why-arista-networks-stock-is-trading-lower-after-q1-financial-results"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/investing/2026/05/05/arista-networks-stock-dives-despite-delivering-a-b/"
+        },
+        {
+          "label": "ANET Quote",
+          "url": "https://finance.yahoo.com/quote/ANET/"
+        }
+      ],
+      "publishDate": "2026-05-06T18:46:58.511Z"
+    },
+    {
+      "id": "apo-q1-2026-earnings-1t-aum",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Apollo Q1 2026 — AUM tops $1T at $1.03T on record $115B inflows, FRE record $728M; pledges daily pricing for credit funds",
+      "org": "Apollo Global Management",
+      "date": "2026-05-06",
+      "url": "https://ir.apollo.com/news-events/press-releases/detail/622/apollo-reports-first-quarter-2026-results",
+      "summary": "Apollo's AUM crossed $1 trillion ($1.03T) on a record $115B of Q1 inflows, fee-related earnings hit an all-time-high $728M, and the firm said it will price more than $830B of credit assets daily by end-September.",
+      "tickers": [
+        "APO"
+      ],
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "private-credit",
+        "asset-management",
+        "alternatives",
+        "aum-milestone",
+        "dividend",
+        "fee-related-earnings"
+      ],
+      "importance": "major",
+      "metrics": {
+        "AUM": "$1.03T (+31% Y/Y, first time over $1T)",
+        "Q1 inflows": "$115B (record); $300B trailing 12M",
+        "Fee-Related Earnings": "$728M (+30% Y/Y, record)",
+        "Spread-Related Earnings": "$719M (+6% Y/Y)",
+        "Adj EPS": "$1.94 vs $1.96 est",
+        "Origination": "$71B (+25% Y/Y)",
+        "New common dividend": "$2.25/share annualized (+10%)"
+      },
+      "explainer": {
+        "tagline": "Apollo joins the trillion-dollar club and tries to defuse the private-credit transparency complaint with daily pricing.",
+        "whatIsIt": "Apollo Global Management reported first-quarter 2026 results on May 6, 2026. Total assets under management reached $1.03 trillion for the first time, fee-related earnings set a record, and the firm pledged daily NAVs across more than $830B of credit assets by end-September.",
+        "howItWorks": "AUM hit $1.03T, up 31% Y/Y, on Q1 inflows of $115B and trailing-12-month inflows of $300B. Fee-Related Earnings were $728M (+30% Y/Y, record); Spread-Related Earnings were $719M (+6% Y/Y); origination volume was $71B (+25% Y/Y) at an average 350bp spread over Treasuries with an average BBB rating. Adjusted EPS came in at $1.94 versus the $1.96 consensus, and the board lifted the common dividend to $2.25/share annualized (+10%). CEO Marc Rowan also announced Apollo will start publishing daily prices for its private credit funds, addressing critics' transparency concerns.",
+        "whyItMatters": "Apollo is the second alts manager to clear $1T, validating the post-2021 push by Rowan to scale the private-credit/insurance flywheel and re-anchoring expectations for peers like Blackstone, KKR, Ares and Brookfield. The daily-pricing pledge is a direct response to growing scrutiny of private-credit valuation lag — if Apollo can deliver it, it raises the bar for the rest of the industry.",
+        "forWho": "private-credit and alts allocators",
+        "tryIt": "https://finance.yahoo.com/quote/APO/"
+      },
+      "image": {
+        "url": "https://ir.apollo.com/_assets/_17671d81f1490963104d5f91ee0e4147/apollo/db/2240/20230/social_image_resized.jpg",
+        "alt": "Apollo Global Management corporate identity",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Apollo Press Release",
+          "url": "https://ir.apollo.com/news-events/press-releases/detail/622/apollo-reports-first-quarter-2026-results"
+        },
+        {
+          "label": "Stocktitan Recap",
+          "url": "https://www.stocktitan.net/news/APO/apollo-reports-first-quarter-2026-jbaqm9h054ny.html"
+        },
+        {
+          "label": "Benzinga: $1T AUM",
+          "url": "https://www.benzinga.com/markets/private-markets/26/05/52336923/apollo-hits-1-trillion-aum-ceo-defends-private-credit-against-narrow-media-focus"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/apollo-global-management-assets-trillion-fee-earnings-record-050626"
+        },
+        {
+          "label": "APO Quote",
+          "url": "https://finance.yahoo.com/quote/APO/"
+        }
+      ],
+      "publishDate": "2026-05-06T18:46:58.511Z"
+    },
     {
       "id": "brent-below-100-iran-mou-may-2026",
       "categories": [

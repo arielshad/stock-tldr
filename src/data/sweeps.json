@@ -477,6 +477,44 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260506t184658z",
+      "timestamp": "2026-05-06T18:46:58.511Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh additions: Arista Networks Q1 2026 beat-and-raise that still drew a 10% selloff on multi-year gross-margin warnings, and Apollo's $1T AUM milestone with record fee earnings and a daily-pricing pledge for private credit.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "anet-q1-2026-earnings",
+          "title": "Arista Q1 2026 — revenue $2.71B beats, raises FY26 to $11.5B and AI to $3.5B; ANET still drops ~10% on margin pressure",
+          "category": "earnings",
+          "note": "ANET fell ~10% after-hours despite a beat-and-raise — gross-margin warnings flagged by management triggered profit-taking on a name +87% YTD-prior; clear named-catalyst mover with primary IR source."
+        },
+        {
+          "id": "apo-q1-2026-earnings-1t-aum",
+          "title": "Apollo Q1 2026 — AUM tops $1T at $1.03T on record $115B inflows, FRE record $728M; pledges daily pricing for credit funds",
+          "category": "earnings",
+          "note": "Apollo crossed $1T AUM with record FRE and announced daily pricing for $830B+ of private credit — Bloomberg-led wall of coverage, primary IR source confirmed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }
