@@ -1,8 +1,210 @@
 {
-  "generatedAt": "2026-05-06T13:03:40.910Z",
+  "generatedAt": "2026-05-06T16:49:44.820Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "brent-below-100-iran-mou-may-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Brent crashes below $100 (-8.2%), WTI -9.8% as Trump pauses Project Freedom; US-Iran near 14-point peace MOU",
+      "org": "Crude Oil Markets",
+      "date": "2026-05-06",
+      "url": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
+      "summary": "Brent fell 8.2% to $100.83 and WTI fell 9.8% to $92.28 after Trump paused the Project Freedom escort and the White House signaled a 14-point memorandum to end the Iran war is near.",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "hormuz",
+        "iran",
+        "ceasefire",
+        "project-freedom",
+        "geopolitics",
+        "energy"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "metrics": {
+        "Brent": "$100.83 (-8.2%)",
+        "WTI": "$92.28 (-9.8%)",
+        "Pre-war Brent": "~$70"
+      },
+      "links": [
+        {
+          "label": "CNBC: Oil Plunges",
+          "url": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html"
+        },
+        {
+          "label": "CNN: Memo Talks",
+          "url": "https://www.cnn.com/2026/05/06/politics/trump-iran-war-talks-plan"
+        },
+        {
+          "label": "ActionForex: Brent Below $100",
+          "url": "https://www.actionforex.com/live-comments/639636-brent-breaks-below-100-as-us-and-iran-near-peace-mou-to-end-war/"
+        },
+        {
+          "label": "Brent Futures",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Brent collapses below $100 as Trump halts Project Freedom escort and Washington and Tehran inch toward a 14-point peace memo.",
+        "whatIsIt": "Crude oil sold off sharply on May 6 after Axios reported the White House was nearing a one-page, 14-point memorandum of understanding with Iran to end the two-month war. Trump paused 'Project Freedom,' the US Navy effort that had begun a day earlier to escort merchant vessels through the Strait of Hormuz, citing diplomatic progress.",
+        "howItWorks": "Brent for July delivery slipped 8.2% to $100.83 in early US trading, with prices briefly trading below $100 intraday. WTI fell 9.8% to $92.28. Iran's foreign ministry said it was 'evaluating' Washington's 14-point proposal, which reportedly covers a uranium enrichment moratorium, sanctions relief, frozen-fund distribution, and Hormuz access. Only two merchant ships had transited the escorted route before Trump halted it.",
+        "whyItMatters": "Energy desks had positioned for prolonged Hormuz disruption with Brent peaking near $126 last week; today's move unwinds a chunk of that risk premium in hours. If the memo holds, headline CPI pressure eases and Treasury yields ease at the long end (the US 30Y just topped 5% on oil-driven inflation fears). A breakdown in talks reverses all of it, and Trump warned bombing would resume 'at a much higher level' if Iran walks.",
+        "forWho": "energy desks, macro traders",
+        "tryIt": "https://finance.yahoo.com/quote/BZ%3DF/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108302769-1778059076103-gettyimages-2273914248-nikoubazl-dailylif260503_npTL1.jpeg?v=1778059107&w=1920&h=1080",
+        "alt": "Oil tanker traffic in the Persian Gulf as Brent crude plunges below $100 on US-Iran peace memo progress.",
+        "fit": "cover",
+        "credit": "Getty Images / CNBC"
+      },
+      "publishDate": "2026-05-06T16:49:44.820Z"
+    },
+    {
+      "id": "mar-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Marriott Q1 2026 — adj EPS $2.72 vs $2.32 prior, RevPAR +4.2%, EBITDA +15% to $1.4B; raises FY26 guide, MAR ~+2%",
+      "org": "Marriott International",
+      "date": "2026-05-06",
+      "url": "https://www.prnewswire.com/news-releases/marriott-international-reports-first-quarter-2026-results-302763318.html",
+      "summary": "Adjusted EPS $2.72 (vs $2.32 a year ago), worldwide RevPAR +4.2%, adjusted EBITDA +15% to $1.398B; raises FY26 EBITDA guide to $5.88-5.97B and capital returns to >$4.4B.",
+      "tags": [
+        "earnings",
+        "lodging",
+        "hotels",
+        "revpar",
+        "guidance-raise",
+        "buyback",
+        "q1-2026",
+        "world-cup"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MAR",
+        "HLT",
+        "H"
+      ],
+      "metrics": {
+        "Adj EPS": "$2.72 vs $2.32 Y/Y",
+        "Adj EBITDA": "$1.398B (+15% Y/Y)",
+        "Worldwide RevPAR": "+4.2% (US&C +4.0%, Intl +4.6%)",
+        "Net rooms": "+15.9K added, pipeline 618K rooms",
+        "FY26 Adj EBITDA guide": "$5.88-5.97B",
+        "Move": "+2.1%"
+      },
+      "links": [
+        {
+          "label": "Marriott Press Release",
+          "url": "https://www.prnewswire.com/news-releases/marriott-international-reports-first-quarter-2026-results-302763318.html"
+        },
+        {
+          "label": "BNN Bloomberg: Guide Raise",
+          "url": "https://www.bnnbloomberg.ca/business/2026/05/06/marriott-raises-annual-room-revenue-growth-forecast-amid-strong-travel-demand/"
+        },
+        {
+          "label": "StockTitan Q1 Recap",
+          "url": "https://www.stocktitan.net/news/MAR/marriott-international-reports-first-quarter-2026-r5sepygnwnyi.html"
+        },
+        {
+          "label": "MAR Quote",
+          "url": "https://finance.yahoo.com/quote/MAR/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Marriott posts a clean Q1 beat, raises full-year EBITDA and capital-return guides as global travel demand stays sticky.",
+        "whatIsIt": "Marriott reported Q1 2026 results before the open on May 6: adjusted EPS $2.72 versus $2.32 a year ago, adjusted EBITDA $1.398B (+15% Y/Y), and worldwide RevPAR +4.2%. The company raised full-year guidance and bumped its 2026 capital return target above $4.4B.",
+        "howItWorks": "RevPAR grew 4.0% in US & Canada and 4.6% internationally, with APEC up over 7%. Marriott added roughly 15,900 net rooms in the quarter, taking the development pipeline to over 4,100 properties / nearly 618,000 rooms (43% under construction). The company repurchased 2.1M shares for $0.7B in Q1; YTD capital returns top $1.2B. FY26 guide: adj EBITDA $5.88-5.97B, adj EPS $11.38-11.63, net rooms growth 4.5-5%, RevPAR +2-3%.",
+        "whyItMatters": "Mega-cap lodging holding +4% RevPAR despite the Middle East conflict tells you leisure demand is resilient even with crude near $100. Hilton (HLT), Hyatt (H) and IHG read across; airlines (DAL, UAL) and OTAs (BKNG, ABNB) are the obvious comp. The FIFA World Cup hosted across the US, Mexico and Canada in summer 2026 is the next big lodging tailwind.",
+        "forWho": "lodging analysts, consumer-discretionary funds",
+        "tryIt": "https://marriott.gcs-web.com/financial-information/quarterly-results"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/411014/Marriott_International_Logo.jpg?p=facebook",
+        "alt": "Marriott International corporate logo accompanying the Q1 2026 earnings release.",
+        "fit": "contain",
+        "credit": "Marriott International / PR Newswire"
+      },
+      "publishDate": "2026-05-06T16:49:44.820Z"
+    },
+    {
+      "id": "mstr-q1-2026-earnings-bitcoin-treasury",
+      "categories": [
+        "earnings",
+        "crypto"
+      ],
+      "title": "Strategy Q1 2026 — $12.54B net loss on BTC mark-down, holdings reach 818,334 BTC; Saylor opens door to selective bitcoin sales",
+      "org": "Strategy",
+      "date": "2026-05-05",
+      "url": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price",
+      "summary": "Strategy reported a $12.54B Q1 net loss on $14.46B unrealized BTC losses; holdings reached 818,334 BTC at ~$75,537 avg cost; Saylor said on the call the firm 'will probably sell some bitcoin to pay a dividend'.",
+      "tags": [
+        "earnings",
+        "bitcoin",
+        "btc-treasury",
+        "saylor",
+        "preferred-stock",
+        "strc",
+        "q1-2026",
+        "at-the-market"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MSTR",
+        "BTC-USD"
+      ],
+      "metrics": {
+        "Net loss": "$12.54B (EPS -$38.25)",
+        "Unrealized BTC losses": "$14.46B",
+        "Operating revenue": "$124.3M (+11.9% Y/Y)",
+        "BTC holdings": "818,334 (avg cost $75,537)",
+        "Capital raised YTD": "$11.68B",
+        "Move": "MSTR ~-4% AH; BTC dropped under $81K"
+      },
+      "links": [
+        {
+          "label": "CoinDesk: Q1 Loss",
+          "url": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price"
+        },
+        {
+          "label": "CNBC: 'Never Sell' Pivot",
+          "url": "https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html"
+        },
+        {
+          "label": "CoinDesk: BTC Sale Pivot",
+          "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations"
+        },
+        {
+          "label": "MSTR Quote",
+          "url": "https://finance.yahoo.com/quote/MSTR/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Strategy books a $12.54B Q1 loss on bitcoin mark-down and Saylor floats selling BTC to fund dividends — a break from the 'never sell' line.",
+        "whatIsIt": "Strategy (formerly MicroStrategy) reported Q1 2026 results after the close on May 5. The company logged a $12.54B net loss (-$38.25/diluted share), driven by $14.46B in unrealized bitcoin valuation losses as BTC sold off in Q1. Holdings reached 818,334 BTC, around 3.9% of the eventual 21M supply.",
+        "howItWorks": "Average cost basis is $75,537/BTC against a market price near $78,374 at quarter-end, leaving the position barely above water. Operating revenue grew 11.9% Y/Y to $124.3M. Strategy raised $7.37B through ATM offerings in Q1 and another $4.32B between April 1 and May 3, taking 2026 capital raised to $11.68B. The company runs roughly $1.5B in annual dividend obligations across its preferred stack (STRC alone scaled to $8.5B). On the call, executive chair Michael Saylor said the firm 'will probably sell some bitcoin to pay a dividend just to inoculate the market and send the message that we did it' — a notable shift from the long-running 'never sell' line.",
+        "whyItMatters": "Strategy is the largest corporate bitcoin holder and a benchmark for the BTC-treasury cohort. Any signal it might trim shifts how the market reads forced-seller risk in a drawdown, and explains why MSTR fell ~4% after-hours and BTC slipped below $81K. Other BTC-treasury names (METAPLANET, MARA, RIOT) read across.",
+        "forWho": "crypto traders, BTC-treasury followers",
+        "tryIt": "https://finance.yahoo.com/quote/MSTR/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108098121-1738791949921-gettyimages-2162975316-BITCOIN_2024.jpeg?v=1764687924&w=1920&h=1080",
+        "alt": "Bitcoin coin imagery accompanying Strategy's Q1 2026 earnings report and Saylor's potential BTC sale signal.",
+        "fit": "cover",
+        "credit": "Getty Images / CNBC"
+      },
+      "publishDate": "2026-05-06T16:49:44.820Z"
+    },
     {
       "id": "glw-nvda-ai-fiber-partnership-may-2026",
       "categories": [

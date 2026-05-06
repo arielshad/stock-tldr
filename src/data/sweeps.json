@@ -435,6 +435,48 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260506t164944z",
+      "timestamp": "2026-05-06T16:49:44.820Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds: Brent crashes below $100 as Trump pauses Project Freedom and US/Iran near a 14-point peace memo; Marriott Q1 beats and raises FY26 guide; Strategy posts a $12.54B Q1 loss with Saylor floating selective BTC sales for the first time.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brent-below-100-iran-mou-may-2026",
+          "title": "Brent crashes below $100 (-8.2%), WTI -9.8% as Trump pauses Project Freedom; US-Iran near 14-point peace MOU",
+          "category": "commodity",
+          "note": "Distinct event from the May 5 'Project Freedom escort begins' item: today's news is the OPPOSITE — Trump paused the escort and Brent crashed 8% on peace-memo progress."
+        },
+        {
+          "id": "mar-q1-2026-earnings",
+          "title": "Marriott Q1 2026 — adj EPS $2.72 vs $2.32 prior, RevPAR +4.2%, EBITDA +15% to $1.4B; raises FY26 guide, MAR ~+2%",
+          "category": "earnings",
+          "note": "Mega-cap lodging beat with raised guide; not yet covered."
+        },
+        {
+          "id": "mstr-q1-2026-earnings-bitcoin-treasury",
+          "title": "Strategy Q1 2026 — $12.54B net loss on BTC mark-down, holdings reach 818,334 BTC; Saylor opens door to selective bitcoin sales",
+          "category": "earnings",
+          "note": "First time Strategy publicly signaled BTC may be sold to fund dividends; biggest US corporate bitcoin holder."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "commodity",
+        "crypto",
+        "rates",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }
