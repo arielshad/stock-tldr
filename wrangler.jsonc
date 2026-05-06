@@ -2,13 +2,20 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "stock-tldr",
   "compatibility_date": "2026-04-12",
+  "main": "worker/index.ts",
   "observability": {
     "enabled": true
   },
   "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   },
   "compatibility_flags": [
     "nodejs_compat"
+  ],
+  "routes": [
+    { "pattern": "stock-tldr.xyz", "custom_domain": true },
+    { "pattern": "www.stock-tldr.xyz", "custom_domain": true }
   ]
 }

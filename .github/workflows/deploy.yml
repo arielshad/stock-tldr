@@ -53,7 +53,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SITE_URL: https://stock-tldr.shep-ai.workers.dev
+  SITE_URL: https://stock-tldr.xyz
 
 jobs:
   deploy:

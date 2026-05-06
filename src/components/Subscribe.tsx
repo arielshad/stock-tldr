@@ -1,8 +1,6 @@
 import { useState } from "react";
 import { track } from "../lib/analytics";
 
-const BUTTONDOWN_USERNAME = "blackpcme";
-
 export function Subscribe() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
@@ -14,16 +12,13 @@ export function Subscribe() {
     setStatus("loading");
 
     try {
-      const res = await fetch(
-        `https://buttondown.com/api/emails/embed-subscribe/${BUTTONDOWN_USERNAME}`,
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: new URLSearchParams({ email }),
-        }
-      );
+      const res = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email }),
+      });
 
-      if (res.ok || res.status === 201) {
+      if (res.ok) {
         track("subscribe:submit", { ok: true });
         setStatus("success");
         setEmail("");
@@ -40,7 +35,7 @@ export function Subscribe() {
   if (status === "success") {
     return (
       <div className="subscribe subscribe-success">
-        <span className="subscribe-check">OK</span> Check your inbox to confirm
+        <span className="subscribe-check">OK</span> You&rsquo;re subscribed
       </div>
     );
   }
