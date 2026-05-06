@@ -365,6 +365,35 @@
         "mover",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260506t105406z",
+      "timestamp": "2026-05-06T10:54:06.395Z",
+      "source": "github-actions-sweep",
+      "summary": "Searched today's earnings (Disney, Uber, Novo Nordisk, Marriott reported pre-market; AppLovin/Arm/DoorDash AC) plus macro/M&A/crypto. Only Novo Nordisk Q1 was indexed and primary-source verifiable at sweep timestamp. Disney/Uber too fresh to verify numbers; deferred to next sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvo-q1-2026-earnings",
+          "title": "Novo Nordisk Q1 2026 — Wegovy pill drives 'strongest-ever' GLP-1 launch, raises FY26 guide; NVO +6.7% in Copenhagen",
+          "category": "earnings",
+          "note": "Largest verified market-mover at sweep time: NVO +6.7% Copenhagen on Wegovy-pill blowout and FY26 guide raise; reframes the Lilly Foundayo competitive narrative."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

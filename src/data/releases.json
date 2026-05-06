@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-05-06T05:22:41.332Z",
+  "generatedAt": "2026-05-06T10:54:06.395Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvo-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "NVO",
+        "LLY"
+      ],
+      "title": "Novo Nordisk Q1 2026 — Wegovy pill drives 'strongest-ever' GLP-1 launch, raises FY26 guide; NVO +6.7% in Copenhagen",
+      "org": "Novo Nordisk",
+      "date": "2026-05-06",
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html",
+      "summary": "Adjusted operating profit DKK 32.9B, Wegovy pill prescriptions topped 2M since the January US launch, and Novo narrowed FY26 adjusted sales/profit guidance to -4 to -12% from -5 to -13% prior. Shares jumped in Copenhagen.",
+      "tags": [
+        "earnings",
+        "guidance-raise",
+        "q1-2026",
+        "obesity",
+        "glp-1",
+        "wegovy",
+        "ozempic",
+        "pharma",
+        "novo-nordisk"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Reported revenue": "DKK 96.8B (+32% CER, incl. 340B reversal)",
+        "Adj. operating profit": "DKK 32.9B (-6% CER)",
+        "Wegovy injection": "DKK 18.2B (+12% Y/Y)",
+        "Wegovy pill TRx": "~1.3M Q1; >2M since Jan launch",
+        "FY26 adj. sales guide": "-4 to -12% (from -5 to -13%)",
+        "Stock": "+6.7% Copenhagen morning"
+      },
+      "explainer": {
+        "tagline": "Wegovy pill launch beats expectations, prompting Novo to lift the floor of its FY26 guide despite Lilly's competing Foundayo.",
+        "whatIsIt": "Novo Nordisk reported Q1 2026 results that beat operating profit expectations, driven by its newly-launched Wegovy oral GLP-1 pill which has hit ~2M prescriptions since the January 5 US launch. The company narrowed its 2026 outlook to a -4 to -12% adjusted sales contraction (vs. -5 to -13% prior) and a matching range on adjusted operating profit growth.",
+        "howItWorks": "Reported Q1 net sales of DKK 96.8B were +32% at constant currency, lifted by a one-time 340B Medicaid rebate provision reversal. On an adjusted basis (excluding that reversal), sales were DKK 70.1B (-4% CER) and adjusted operating profit DKK 32.9B (-6% CER). Wegovy injection sales of DKK 18.2B grew 12% Y/Y. The Wegovy pill, launched in the US on January 5, has accumulated more than 2M prescriptions including ~1.3M in Q1 alone, with weekly Rx volumes exceeding 200K by the week of April 17 — what Novo calls the strongest-ever GLP-1 launch by US volume.",
+        "whyItMatters": "The pill ramp eases concerns that Eli Lilly's Foundayo (orforglipron, FDA-approved early April) would steal the oral GLP-1 category outright; Lilly disclosed >20K patient starts on Foundayo in early weeks while Novo's Wegovy commands ~65% of new US Rx. NVO trades far below its 2024 highs after a brutal 12-month derate; today's guide bump is the first upside revision since the Wegovy pill approval cycle. Watch Eli Lilly's response on Q2 calls.",
+        "forWho": "GLP-1 desks, large-cap pharma traders, biotech allocators",
+        "tryIt": "https://www.novonordisk.com/investors/financial-results.html"
+      },
+      "image": {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/18c2fb08-e2c1-4a52-90dd-5c0f18213eb6",
+        "alt": "Novo Nordisk Q1 2026 earnings release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html"
+        },
+        {
+          "label": "RTÉ Coverage",
+          "url": "https://www.rte.ie/news/business/2026/0506/1571910-novo-nordisk-raises-outlook-as-q1-profit-beats-forecast/"
+        },
+        {
+          "label": "NVO Quote",
+          "url": "https://finance.yahoo.com/quote/NVO/"
+        },
+        {
+          "label": "Novo IR",
+          "url": "https://www.novonordisk.com/investors/financial-results.html"
+        }
+      ],
+      "publishDate": "2026-05-06T10:54:06.395Z"
+    },
     {
       "id": "samsung-1t-market-cap-may-2026",
       "categories": [
