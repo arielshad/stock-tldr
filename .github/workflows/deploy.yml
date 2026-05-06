@@ -49,7 +49,12 @@ permissions:
   contents: read
 
 concurrency:
-  group: deploy
+  # One in-flight deploy per trigger source. A workflow_run completion
+  # arriving mid-deploy used to cancel a push-triggered run, which would
+  # then skip itself via the `if:` guard — losing the actual deploy.
+  # Separate groups keep push and workflow_run deploys from preempting
+  # each other; cancel-in-progress still de-dupes within the same source.
+  group: deploy-${{ github.event_name }}
   cancel-in-progress: true
 
 env:
