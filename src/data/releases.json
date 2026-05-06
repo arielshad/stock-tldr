@@ -1,8 +1,285 @@
 {
-  "generatedAt": "2026-05-06T03:28:23.263Z",
+  "generatedAt": "2026-05-06T05:22:41.332Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "samsung-1t-market-cap-may-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Samsung Electronics tops $1T market cap as AI memory rally lifts shares ~12%; KOSPI jumps 5.4% to record",
+      "org": "Samsung Electronics",
+      "date": "2026-05-06",
+      "url": "https://www.japantimes.co.jp/business/2026/05/06/tech/samsung-1t-valuation-tsmc/",
+      "summary": "Samsung shares jumped as much as 12% in Seoul to push its market cap above 1,500 trillion won (~$1.03T) on AI memory demand, becoming the second Asian firm after TSMC in the trillion-dollar club.",
+      "tags": [
+        "ai-memory",
+        "hbm",
+        "dram",
+        "samsung",
+        "kospi",
+        "trillion-dollar-club",
+        "semis",
+        "korea",
+        "tsmc"
+      ],
+      "importance": "major",
+      "tickers": [
+        "005930.KS"
+      ],
+      "metrics": {
+        "Move (Wed open)": "+12% intraday",
+        "Market cap": "1,500T won (~$1.03T)",
+        "KOSPI": "+5.4% to record",
+        "1Y stock return": "~+300%"
+      },
+      "explainer": {
+        "tagline": "Samsung joins TSMC in the trillion-dollar club as Korean memory cements itself at the heart of the AI buildout.",
+        "whatIsIt": "Samsung Electronics' market capitalization briefly crossed $1 trillion on Wednesday in Seoul as shares rallied as much as 12% on continued AI-chip momentum from US memory peers. It is the second Asian company ever to hit the threshold, after Taiwan Semiconductor.",
+        "howItWorks": "The stock reached 1,500 trillion won (~$1.03T) in early trading on the KRX, with Samsung's local listing 005930.KS up double digits. The KOSPI benchmark jumped 5.4% to a record, with Samsung and SK Hynix together accounting for over 43% of the index. The rally extends a >300% one-year run in Samsung shares driven by record Q1 results announced last week — operating profit surged ~8x to 57.2T won and revenue hit a record 133.9T won as DRAM/NAND/HBM pricing kept climbing.",
+        "whyItMatters": "Confirms that AI infrastructure demand has firmly broken the memory chip downcycle and is reshaping global tech leadership. Pairs with the existing $700B+ Micron rally — global memory now trades like a structural-shortage asset class. Spillover into US memory plays (MU, WDC), Asian fab equipment names, and Korean ETFs (EWY).",
+        "forWho": "AI-infra and semis sector traders, Asian-equity allocators",
+        "tryIt": "https://www.tradingview.com/symbols/KRX-005930/"
+      },
+      "image": {
+        "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/06/538921.jpg?v=3.1",
+        "alt": "Samsung Electronics signage on a Seoul office tower as shares pierce the $1 trillion mark",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Japan Times Coverage",
+          "url": "https://www.japantimes.co.jp/business/2026/05/06/tech/samsung-1t-valuation-tsmc/"
+        },
+        {
+          "label": "Free Malaysia Today",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/05/06/samsung-hits-us1tril-valuation-joining-tsmc-in-elite-club"
+        },
+        {
+          "label": "Business Today MY",
+          "url": "https://www.businesstoday.com.my/2026/05/06/samsung-hits-us1-trillion-valuation-joining-tsmc-in-elite-club/"
+        },
+        {
+          "label": "TradingView: 005930",
+          "url": "https://www.tradingview.com/symbols/KRX-005930/"
+        }
+      ],
+      "publishDate": "2026-05-06T05:22:41.332Z"
+    },
+    {
+      "id": "strl-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Sterling Infrastructure Q1 2026 — adj EPS $3.59 trounces $2.28 est, raises FY26 guide ~30%; STRL closes +52%",
+      "org": "Sterling Infrastructure",
+      "date": "2026-05-05",
+      "url": "https://www.strlco.com/news/sterling-reports-record-first-quarter-results-and-raises-full-year-2026-guidance/",
+      "summary": "STRL printed record Q1 with revenue +92% Y/Y and EPS $3.59 vs $2.28 est, lifted FY26 EPS guide to $18.40-$19.05 (from ~$13.83), and rallied 52.4% to close $807, a fresh 52-week high.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "e-infrastructure",
+        "data-centers",
+        "semis-fab",
+        "q1-2026",
+        "small-cap",
+        "cec-acquisition"
+      ],
+      "importance": "major",
+      "tickers": [
+        "STRL"
+      ],
+      "metrics": {
+        "Adj EPS": "$3.59 vs $2.28 est (+57%)",
+        "Revenue": "$825.7M (+92% Y/Y)",
+        "Net income": "$96.0M (+143% Y/Y)",
+        "FY26 EPS guide": "$18.40-$19.05 (was ~$13.83)",
+        "FY26 revenue guide": "$3.7-$3.8B (was ~$3.14B)",
+        "Combined backlog": "$5.15B (+131% Y/Y)",
+        "Move": "+52.4% to $807"
+      },
+      "explainer": {
+        "tagline": "A small-cap infrastructure builder rides AI data-center and semiconductor-fab demand to a record quarter and a 52% pop.",
+        "whatIsIt": "Sterling Infrastructure (STRL) is a Texas-based e-infrastructure and transportation builder that sits in the picks-and-shovels layer of the AI build-out: site work, foundations, electrical for data centers and semiconductor fabs. Q1 2026 was a beat-and-raise on essentially every line.",
+        "howItWorks": "Revenue $825.7M (+92% Y/Y) vs $603.6M consensus; adj EPS $3.59 vs $2.28 est (+57% surprise); GAAP diluted EPS $3.09 (+141% Y/Y). Backlog hit $5.15B combined (+131% Y/Y), with mission-critical data centers, manufacturing and semis fabs >90% of E-Infrastructure backlog. The CEC acquisition added $156.1M to revenue. Management raised FY26 to $3.7-$3.8B in revenue and $18.40-$19.05 in adj EPS, well above the $13.83 prior-quarter framework.",
+        "whyItMatters": "Hard evidence that AI-related capex is flowing from hyperscalers down to specialty builders. Reads-across: Quanta Services (PWR), MasTec (MTZ), Comfort Systems (FIX), EMCOR (EME), Granite Construction (GVA). Confirms data-center and semiconductor-fab construction backlogs are still expanding — a strong signal for the broader industrial AI trade.",
+        "forWho": "AI-infrastructure and small-cap industrial traders",
+        "tryIt": "https://finance.yahoo.com/quote/STRL/"
+      },
+      "image": {
+        "url": "https://www.quiverquant.com/images/strl_rect_new.png",
+        "alt": "Sterling Infrastructure (STRL) ticker chart showing the May 5 surge",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Sterling IR Release",
+          "url": "https://www.strlco.com/news/sterling-reports-record-first-quarter-results-and-raises-full-year-2026-guidance/"
+        },
+        {
+          "label": "PRNewswire Filing",
+          "url": "https://www.prnewswire.com/news-releases/sterling-reports-record-first-quarter-results-and-raises-full-year-2026-guidance-302761760.html"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/investing/2026/05/05/why-sterling-infrastructure-stock-is-skyrocketing/"
+        },
+        {
+          "label": "Benzinga 52-Week High",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52281885/sterling-infrastructure-stock-hits-52-week-high-heres-why"
+        },
+        {
+          "label": "Yahoo: STRL Chart",
+          "url": "https://finance.yahoo.com/quote/STRL/"
+        }
+      ],
+      "publishDate": "2026-05-06T05:22:41.332Z"
+    },
+    {
+      "id": "mpc-q1-2026-earnings-buyback",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Marathon Petroleum Q1 2026 — adj EPS $1.65 crushes $0.75 est on refining margins, adds $5B to buyback; MPC at 52-week high",
+      "org": "Marathon Petroleum",
+      "date": "2026-05-05",
+      "url": "https://www.prnewswire.com/news-releases/marathon-petroleum-corp-reports-first-quarter-2026-results-302762467.html",
+      "summary": "MPC adj EPS $1.65 crushed $0.75 consensus on a refining-margin surge tied to Iran-driven crude prices; revenue $34.2B (+8.5% Y/Y). Board added $5B to the buyback, lifting available capacity to $8.6B; shares hit a new 52-week high.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "refining",
+        "oil",
+        "buyback",
+        "q1-2026",
+        "refining-margins",
+        "gulf-coast",
+        "energy"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MPC"
+      ],
+      "metrics": {
+        "Adj EPS": "$1.65 vs $0.75 est (+120%)",
+        "GAAP EPS": "$1.73",
+        "Revenue": "$34.2B (+8.5% Y/Y)",
+        "Adj EBITDA": "$2.8B (vs $2.0B Y/Y)",
+        "R&M EBITDA": "$1.4B (vs $489M Y/Y, +181%)",
+        "Throughput": "2.9M bpd at 89% utilization",
+        "New buyback": "$5B added (capacity $8.6B)",
+        "Capital returned": ">$1.0B in Q1"
+      },
+      "explainer": {
+        "tagline": "The largest US independent refiner converts elevated Iran-era crude prices into the kind of refining margins not seen in years.",
+        "whatIsIt": "Marathon Petroleum (MPC) reported Q1 2026 results before the open on May 5. The print was a clean blow-out on refining: adjusted EPS $1.65 versus the $0.75 Street consensus (+120%), with the Refining & Marketing segment carrying the quarter as global crack spreads widened on the Iran-related supply premium.",
+        "howItWorks": "Total revenue $34.2B vs $33.5B consensus; GAAP net income $511M ($1.73/share). R&M adj EBITDA hit $1.4B vs $489M a year ago (+181%), with West Coast capture of $11.61/bbl (from $3.03) and Gulf Coast $6.20/bbl (from $0.74) on 89% utilization and 2.9M bpd throughput. Renewable Diesel swung positive at $38M from a $42M loss. The board added a $5B share-repurchase authorization on top of existing capacity, taking total available capacity to $8.6B. MPC printed a fresh 52-week high.",
+        "whyItMatters": "Confirms that the oil-price spike from the Iran/Hormuz episode (already in the feed via the Brent $114 jump) is translating into earnings, not just fuel-pump pain. Read-across is clear: VLO, PSX, DINO, and integrated names with refining (XOM, CVX) get a margin tailwind. The buyback bump signals MPC's confidence that this margin environment holds.",
+        "forWho": "Energy-sector and refining-spread traders",
+        "tryIt": "https://finance.yahoo.com/quote/MPC/"
+      },
+      "image": {
+        "url": "https://www.marketbeat.com/logos/marathon-petroleum-co-logo-1200x675.png?v=20231226132353",
+        "alt": "Marathon Petroleum Corporation corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "PRNewswire IR Release",
+          "url": "https://www.prnewswire.com/news-releases/marathon-petroleum-corp-reports-first-quarter-2026-results-302762467.html"
+        },
+        {
+          "label": "TickerReport 52W High",
+          "url": "https://www.tickerreport.com/banking-finance/13429553/marathon-petroleum-nysempc-reaches-new-1-year-high-following-earnings-beat.html"
+        },
+        {
+          "label": "ChartMill Analysis",
+          "url": "https://www.chartmill.com/news/MPC/Chartmill-46989-Marathon-Petroleum-Corp-NYSEMPC-Crushes-Q1-Estimates-with-Strong-Earnings-Rebound"
+        },
+        {
+          "label": "Benzinga Transcript",
+          "url": "https://www.benzinga.com/insights/news/26/05/52292169/marathon-petroleum-q1-2026-earnings-call-complete-transcript"
+        },
+        {
+          "label": "Yahoo: MPC Chart",
+          "url": "https://finance.yahoo.com/quote/MPC/"
+        }
+      ],
+      "publishDate": "2026-05-06T05:22:41.332Z"
+    },
+    {
+      "id": "smci-q3-fy26-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Supermicro FQ3 2026 — adj EPS $0.84 beats but revenue $10.2B misses $12.4B est; AI GPU >80% of revenue",
+      "org": "Super Micro Computer",
+      "date": "2026-05-05",
+      "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Third-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx",
+      "summary": "SMCI printed FQ3 net sales $10.2B (+123% Y/Y, -19% Q/Q) on component shortages and customer site delays; non-GAAP EPS $0.84 beat $0.62. Margin recovery to 10.1% non-GAAP gross. Q4 guide $11-12.5B revenue.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-miss",
+        "ai-gpu",
+        "data-centers",
+        "fq3-2026",
+        "semis-cycle",
+        "smci",
+        "margin-recovery"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SMCI"
+      ],
+      "metrics": {
+        "Net sales": "$10.2B vs $12.4B est (+123% Y/Y, -19% Q/Q)",
+        "GAAP EPS": "$0.72 vs $0.52+ guide",
+        "Non-GAAP EPS": "$0.84 vs $0.62 est",
+        "Non-GAAP gross margin": "10.1% (vs 6.4% Q2'26)",
+        "Net income": "$483M (vs $109M Y/Y)",
+        "AI GPU mix": ">80% of revenue",
+        "Q4 revenue guide": "$11.0B-$12.5B",
+        "FY26 guide": "$38.9B-$40.4B"
+      },
+      "explainer": {
+        "tagline": "Earnings beat the bar, revenue did not — but Supermicro's margin and AI-GPU mix point to a still-running data-center cycle.",
+        "whatIsIt": "Super Micro Computer (SMCI) reported its FQ3 2026 (quarter ended March 31). Headline numbers: net sales $10.2B, GAAP diluted EPS $0.72, non-GAAP EPS $0.84. Revenue of $10.2B fell well short of the $12.4B consensus, while EPS beat thanks to a sharp gross-margin recovery.",
+        "howItWorks": "Sales were down 19% sequentially from Q2's $12.7B but up 123% year-over-year, with management citing component shortages and customer site-readiness delays. AI GPU platforms made up >80% of revenue. Non-GAAP gross margin jumped to 10.1% from 6.4% the prior quarter on better customer/product mix, lower tariffs, and reduced inventory reserves. The company guided Q4 revenue to $11.0B-$12.5B and non-GAAP EPS $0.65-$0.79; full-year FY26 net sales $38.9B-$40.4B. CEO Charles Liang flagged the company is 'not a defendant nor a target' of the DOJ investigation.",
+        "whyItMatters": "Read-throughs to NVDA, AMD, AVGO and the AI-server complex (DELL, HPE, ANET): demand is intact but supply and customer-deployment timing are choppier than the bull case. Margin recovery argues against the 'race to zero' fear in white-box AI servers. Cash burn and debt remain the watch items.",
+        "forWho": "AI-infra and semis-cycle traders",
+        "tryIt": "https://finance.yahoo.com/quote/SMCI/"
+      },
+      "image": {
+        "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2026/05/05/supermicro-1_feature.jpg",
+        "alt": "Supermicro AI server rack used in data-center deployments",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Supermicro IR Release",
+          "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Third-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Shacknews Recap",
+          "url": "https://www.shacknews.com/article/149012/supermicro-smci-q3-2026-earnings-report"
+        },
+        {
+          "label": "Motley Fool Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/05/super-micro-smci-q3-2026-earnings-transcript/"
+        },
+        {
+          "label": "Yahoo: SMCI Chart",
+          "url": "https://finance.yahoo.com/quote/SMCI/"
+        }
+      ],
+      "publishDate": "2026-05-06T05:22:41.332Z"
+    },
     {
       "id": "dvn-q1-2026-earnings-ctra-merger",
       "categories": [

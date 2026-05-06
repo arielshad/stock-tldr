@@ -321,6 +321,50 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260506t052241z",
+      "timestamp": "2026-05-06T05:22:41.332Z",
+      "source": "github-actions-sweep",
+      "summary": "Added 4 items from the May 5 PM / May 6 AM cycle: Samsung's $1T market-cap milestone (KOSPI +5.4% on AI memory), Sterling Infrastructure's +52% Q1 beat-and-raise on data-center/semis-fab backlog, Marathon Petroleum's refining-margin blowout with a $5B buyback bump, and Supermicro's mixed FQ3 with a margin-recovery story.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "samsung-1t-market-cap-may-2026",
+          "title": "Samsung Electronics tops $1T market cap as AI memory rally lifts shares ~12%; KOSPI jumps 5.4% to record",
+          "category": "mover",
+          "note": "Historic milestone: Samsung becomes second Asian company to cross $1T, with KOSPI rallying 5.4% on AI memory demand — broad-market relevance, not yet in feed."
+        },
+        {
+          "id": "strl-q1-2026-earnings",
+          "title": "Sterling Infrastructure Q1 2026 — adj EPS $3.59 trounces $2.28 est, raises FY26 guide ~30%; STRL closes +52%",
+          "category": "earnings",
+          "note": "Q1 beat-and-raise drove a 52% intraday move and a fresh 52-week high; primary read-through to AI-infrastructure capex flowing to specialty builders."
+        },
+        {
+          "id": "mpc-q1-2026-earnings-buyback",
+          "title": "Marathon Petroleum Q1 2026 — adj EPS $1.65 crushes $0.75 est on refining margins, adds $5B to buyback; MPC at 52-week high",
+          "category": "earnings",
+          "note": "Largest US refiner posts +120% EPS beat and adds $5B to buyback authorization on Iran-driven refining margins; new 52-week high; complements existing oil/Iran narrative."
+        },
+        {
+          "id": "smci-q3-fy26-earnings",
+          "title": "Supermicro FQ3 2026 — adj EPS $0.84 beats but revenue $10.2B misses $12.4B est; AI GPU >80% of revenue",
+          "category": "earnings",
+          "note": "AI-server bellwether: $10.2B revenue +123% Y/Y but a $2B miss; non-GAAP gross margin recovers to 10.1%, important read-through for hyperscaler AI spend cadence."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector"
+      ]
     }
   ]
 }
