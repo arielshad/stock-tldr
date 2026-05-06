@@ -1,11 +1,11 @@
 import type { ReactNode } from "react";
-import type { ReleaseItem } from "../data/schema";
+import type { OpportunityItem } from "../data/schema";
 import { track } from "../lib/analytics";
 
 /**
- * "ASK AI" row for the release modal — mirrors ShareButtons styling.
+ * "ASK AI" row for the opportunity modal — mirrors ShareButtons styling.
  * One row of 30x30 square icon buttons that open various AI chatbots
- * with a pre-filled prompt about the release.
+ * with a pre-filled prompt about the opportunity.
  *
  * Buttons (left → right):
  *   1. ChatGPT   — chat.openai.com
@@ -75,9 +75,9 @@ export interface AIPlatform {
 
 /**
  * Build the prompt that will be sent to AI chatbots. Includes key
- * details about the release so the AI can provide useful context.
+ * details about the opportunity so the AI can provide useful context.
  */
-function buildPrompt(item: ReleaseItem): string {
+function buildPrompt(item: OpportunityItem): string {
   const parts = [
     `Tell me more about "${item.title}" by ${item.org}.`,
     ``,
@@ -92,7 +92,8 @@ function buildPrompt(item: ReleaseItem): string {
   return parts.join("\n");
 }
 
-export function useAITargets(item: ReleaseItem): AIPlatform[] {
+// eslint-disable-next-line react-refresh/only-export-components
+export function useAITargets(item: OpportunityItem): AIPlatform[] {
   const prompt = buildPrompt(item);
   const encodedPrompt = encodeURIComponent(prompt);
 
@@ -134,13 +135,13 @@ export function AskAIButtons({
   item,
   source = "modal",
 }: {
-  item: ReleaseItem;
+  item: OpportunityItem;
   source?: "card" | "modal";
 }) {
   const platforms = useAITargets(item);
 
   return (
-    <section className="modal-share modal-askai" aria-label="Ask AI about this release">
+    <section className="modal-share modal-askai" aria-label="Ask AI about this opportunity">
       <span className="modal-share-lbl">ASK AI</span>
       <div className="share-row">
         {platforms.map((p) => (
@@ -152,9 +153,9 @@ export function AskAIButtons({
             className="share-btn"
             data-platform={p.id}
             title={`Ask ${p.label}`}
-            aria-label={`Ask ${p.label} about this release`}
+            aria-label={`Ask ${p.label} about this opportunity`}
             onClick={() =>
-              track("release:ask-ai", {
+              track("opportunity:ask-ai", {
                 id: item.id,
                 platform: p.id,
                 source,

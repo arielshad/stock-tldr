@@ -1,12 +1,12 @@
-name: Propose new release
+name: Propose new opportunity
 
-# Manual workflow to add a specific release to the feed.
+# Manual workflow to add a specific opportunity to the feed.
 #
 # Inputs:
-#   - proposal: Name of a product/tool/model OR a URL to research
+#   - proposal: Dubai property opportunity, listing URL, source URL, area/building signal, or seller/developer lead to research
 #
 # The agent will:
-#   1. Research the provided release using web search/fetch
+#   1. Research the provided opportunity using web search/fetch
 #   2. Add it as the FIRST item in releases.json (at the top)
 #   3. Run build to verify everything works
 #
@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
     inputs:
       proposal:
-        description: "Release name or URL to add (e.g. 'Claude 4.5' or 'https://example.com/release')"
+        description: "Opportunity name or URL to add (e.g. 'JVC studio yield lead' or a Property Finder/Bayut/DLD URL)"
         required: true
         type: string
 
@@ -26,7 +26,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: update-releases
+  group: update-opportunities
   cancel-in-progress: false
 
 jobs:
@@ -60,31 +60,31 @@ jobs:
           ${{ inputs.proposal }}
           PROPOSAL_EOF
 
-      - name: Add proposed release with Claude Code
+      - name: Add proposed opportunity with Claude Code
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           show_full_output: "true"
           display_report: "true"
           prompt: |
-            You are running as the Stock/TLDR release proposer inside a GitHub
+            You are running as the DxbEstate Intel opportunity proposer inside a GitHub
             Actions workflow. The working directory is the repo root.
 
             USER PROPOSAL: Read /tmp/proposal.txt to see what the user wants added.
 
-            STEP 1. Read `prompts/update-releases.md` to understand the schema
-            and quality requirements for releases. Follow the same format and
+            STEP 1. Read `prompts/update-opportunities.md` to understand the schema
+            and quality requirements for opportunities. Follow the same format and
             ZERO-HALLUCINATION POLICY — every URL must be WebFetch-verified.
 
-            STEP 2. Research the proposed release thoroughly:
-              - Use WebSearch to find official announcements, docs, repos
+            STEP 2. Research the proposed opportunity thoroughly:
+              - Use WebSearch to find listing pages, official DLD/RERA/developer data, portal duplicates, rent comps, and source pages
               - Use WebFetch to verify all URLs return 200
               - Gather enough info to fill ALL required fields:
                 id, categories, title, org, date, url, summary, tags,
                 importance, explainer (with all sub-fields), and image
 
-            STEP 3. Read `src/data/releases.json`. Create a new ReleaseItem
-            for the proposed release and INSERT IT AS THE FIRST ITEM in the
+            STEP 3. Read `src/data/releases.json`. Create a new OpportunityItem
+            for the proposed opportunity and INSERT IT AS THE FIRST ITEM in the
             `items` array. Update `generatedAt` to the current timestamp.
             Set `source` to `"manual-proposal"`.
 
@@ -123,14 +123,14 @@ jobs:
           set -euo pipefail
 
           # Check for any changes in the data files
-          CHANGED_FILES="src/data/releases.json src/data/sweeps.json"
+          CHANGED_FILES="src/data/releases.json src/data/opportunities.json src/data/sweeps.json"
           if [[ -z "$(git status --porcelain $CHANGED_FILES)" ]]; then
             echo "No changes to data files — nothing to commit."
             exit 0
           fi
 
-          git config user.name  "stock-tldr-bot"
-          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
+          git config user.name  "dxb-estate-intel-bot"
+          git config user.email "41898282+dxb-estate-intel-bot@users.noreply.github.com"
 
           # Stage only the files that exist and changed
           for f in $CHANGED_FILES; do
@@ -143,7 +143,7 @@ jobs:
           git commit -m "$(cat <<EOF
           feat(content): manual proposal
 
-          Added release via propose-release workflow.
+          Added opportunity via propose-opportunity workflow.
           Proposal: ${PROPOSAL}
 
           Co-Authored-By: Claude Code Action <noreply@anthropic.com>

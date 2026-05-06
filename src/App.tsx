@@ -10,13 +10,13 @@ import {
 import "./App.css";
 
 import { allItems, categoryCounts, feed, filterItems } from "./data/feed";
-import { CATEGORY_ORDER, type Category, type ReleaseItem } from "./data/schema";
-import { ReleaseCard } from "./components/ReleaseCard";
+import { CATEGORY_ORDER, type Category, type OpportunityItem } from "./data/schema";
+import { OpportunityCard } from "./components/OpportunityCard";
 import { FilterBar } from "./components/FilterBar";
-import { ReleaseModal } from "./components/ReleaseModal";
-import { InfluencersPage } from "./components/InfluencersPage";
+import { OpportunityModal } from "./components/OpportunityModal";
+import { SourcesPage } from "./components/SourcesPage";
 import { SweepLogPage } from "./components/SweepLogPage";
-import { influencers } from "./data/influencers";
+import { sources } from "./data/sources";
 import { Subscribe } from "./components/Subscribe";
 import { BuyMeCoffee } from "./components/BuyMeCoffee";
 import { ThemeToggle } from "./components/ThemeToggle";
@@ -24,34 +24,34 @@ import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
 
 /** Parse current URL into a route. Supported paths:
  *   /                     → feed home
- *   /influencers          → influencers page
+ *   /sources          → sources page
  *   /log                  → sweep log page
- *   /releases/<id>        → feed with modal open for that item
- * Legacy hash formats (#id, #influencers) still work so old bookmarks
+ *   /opportunities/<id>        → feed with modal open for that item
+ * Legacy hash formats (#id, #sources) still work so old bookmarks
  * and shared links keep functioning.
  */
 type Route =
   | { kind: "feed" }
-  | { kind: "influencers" }
+  | { kind: "sources" }
   | { kind: "log" }
-  | { kind: "release"; id: string };
+  | { kind: "opportunity"; id: string };
 
 function parseRoute(): Route {
   const hash = window.location.hash.slice(1);
-  if (hash === "influencers") return { kind: "influencers" };
+  if (hash === "sources") return { kind: "sources" };
   if (hash === "log") return { kind: "log" };
 
   const path = window.location.pathname;
-  if (path === "/influencers" || path === "/influencers/") {
-    return { kind: "influencers" };
+  if (path === "/sources" || path === "/sources/") {
+    return { kind: "sources" };
   }
   if (path === "/log" || path === "/log/") {
     return { kind: "log" };
   }
-  const m = path.match(/^\/releases\/([^/]+)\/?$/);
-  if (m) return { kind: "release", id: m[1] };
+  const m = path.match(/^\/opportunities\/([^/]+)\/?$/);
+  if (m) return { kind: "opportunity", id: m[1] };
 
-  if (hash) return { kind: "release", id: hash };
+  if (hash) return { kind: "opportunity", id: hash };
   return { kind: "feed" };
 }
 
@@ -125,16 +125,16 @@ function buildFeedUrl(active: Set<Category>): string {
 
 function itemFromRoute(
   route: Route,
-  items: ReleaseItem[],
-): ReleaseItem | null {
-  if (route.kind !== "release") return null;
+  items: OpportunityItem[],
+): OpportunityItem | null {
+  if (route.kind !== "opportunity") return null;
   return items.find((i) => i.id === route.id) ?? null;
 }
 
-type Page = "feed" | "influencers" | "log";
+type Page = "feed" | "sources" | "log";
 
 function pageFromRoute(route: Route): Page {
-  if (route.kind === "influencers") return "influencers";
+  if (route.kind === "sources") return "sources";
   if (route.kind === "log") return "log";
   return "feed";
 }
@@ -177,15 +177,17 @@ function App() {
   // visibleCount (now, for the render) and scrollY (in a layout
   // effect, below). Stale-cat states are dropped so you can't land
   // in an empty region after switching filters out-of-band.
-  const initialSnapshotRef = useRef<ScrollSnapshot | null>(null);
-  const [visibleCount, setVisibleCount] = useState<number>(() => {
+  const initialSnapshot = useMemo<ScrollSnapshot | null>(() => {
     const snap = readScrollState();
-    if (!snap) return INITIAL_COUNT;
+    if (!snap) return null;
     const currentCat = new URLSearchParams(window.location.search).get("cat") ?? "";
-    if (snap.cat !== currentCat) return INITIAL_COUNT;
-    initialSnapshotRef.current = snap;
-    return Math.max(snap.n, INITIAL_COUNT);
-  });
+    if (snap.cat !== currentCat) return null;
+    return snap;
+  }, []);
+  const initialSnapshotRef = useRef<ScrollSnapshot | null>(initialSnapshot);
+  const [visibleCount, setVisibleCount] = useState<number>(() =>
+    initialSnapshot ? Math.max(initialSnapshot.n, INITIAL_COUNT) : INITIAL_COUNT,
+  );
   const sentinelRef = useRef<HTMLDivElement | null>(null);
 
   const sorted = useMemo(() => allItems(), []);
@@ -209,8 +211,8 @@ function App() {
   useEffect(() => { pageRef.current = page; }, [page]);
 
   // Passive engagement tracking — scroll depth milestones and 15s
-  // heartbeats. Keyed on route.kind so each page (feed, influencers,
-  // log, release-modal) is measured independently.
+  // heartbeats. Keyed on route.kind so each page (feed, sources,
+  // log, opportunity-modal) is measured independently.
   useScrollDepth(route.kind);
   useHeartbeat(route.kind);
 
@@ -223,11 +225,11 @@ function App() {
     setActive(new Set());
   }, []);
 
-  // Nav: go to influencers
-  const goInfluencers = useCallback(() => {
-    track("nav", { to: "influencers", from: pageRef.current });
-    window.history.pushState(null, "", "/influencers");
-    setRoute({ kind: "influencers" });
+  // Nav: go to sources
+  const goSources = useCallback(() => {
+    track("nav", { to: "sources", from: pageRef.current });
+    window.history.pushState(null, "", "/sources");
+    setRoute({ kind: "sources" });
   }, []);
 
   // Nav: go to sweep log
@@ -237,30 +239,30 @@ function App() {
     setRoute({ kind: "log" });
   }, []);
 
-  // Open modal = navigate to /releases/<id>
-  const openModal = useCallback((item: ReleaseItem) => {
-    track("release:open", {
+  // Open modal = navigate to /opportunities/<id>
+  const openModal = useCallback((item: OpportunityItem) => {
+    track("opportunity:open", {
       id: item.id,
       category: item.categories[0],
       importance: item.importance,
       source: "card",
     });
-    window.history.pushState(null, "", `/releases/${item.id}`);
-    setRoute({ kind: "release", id: item.id });
+    window.history.pushState(null, "", `/opportunities/${item.id}`);
+    setRoute({ kind: "opportunity", id: item.id });
   }, []);
 
-  // Open a release from the sweep log — the caller only knows the id.
-  const openReleaseById = useCallback(
+  // Open a opportunity from the sweep log — the caller only knows the id.
+  const openOpportunityById = useCallback(
     (id: string) => {
       const item = sorted.find((i) => i.id === id);
-      track("release:open", {
+      track("opportunity:open", {
         id,
         category: item?.categories[0],
         importance: item?.importance,
         source: "log",
       });
-      window.history.pushState(null, "", `/releases/${id}`);
-      setRoute({ kind: "release", id });
+      window.history.pushState(null, "", `/opportunities/${id}`);
+      setRoute({ kind: "opportunity", id });
     },
     [sorted],
   );
@@ -271,14 +273,14 @@ function App() {
   // attach the current scroll snapshot to the entry we're writing, so
   // refresh-at-modal-close still lands exactly where the feed was.
   const closeModal = useCallback(() => {
-    const isFeed = page !== "influencers" && page !== "log";
-    const target = page === "influencers"
-      ? "/influencers"
+    const isFeed = page !== "sources" && page !== "log";
+    const target = page === "sources"
+      ? "/sources"
       : page === "log"
         ? "/log"
         : buildFeedUrl(active);
-    const next: Route = page === "influencers"
-      ? { kind: "influencers" }
+    const next: Route = page === "sources"
+      ? { kind: "sources" }
       : page === "log"
         ? { kind: "log" }
         : { kind: "feed" };
@@ -305,22 +307,22 @@ function App() {
   // crawler sees the right thing. Static HTML pages already have the
   // correct tags baked in by scripts/prerender.ts.
   useEffect(() => {
-    if (route.kind === "release") {
+    if (route.kind === "opportunity") {
       const item = sorted.find((i) => i.id === route.id);
       if (item) {
-        document.title = `${item.title} — ${item.org} | Stock/TLDR`;
+        document.title = `${item.title} — ${item.org} | DxbEstate Intel`;
         return;
       }
     }
-    if (route.kind === "influencers") {
-      document.title = "Markets Voices — Who to Follow | Stock/TLDR";
+    if (route.kind === "sources") {
+      document.title = "Source Map — Portals, Brokers & Data | DxbEstate Intel";
       return;
     }
     if (route.kind === "log") {
-      document.title = "Markets Changelog — What Moved & When | Stock/TLDR";
+      document.title = "Collection Log — What Changed & When | DxbEstate Intel";
       return;
     }
-    document.title = "Stock/TLDR — Earnings, Fed, M&A, Movers This Week";
+    document.title = "DxbEstate Intel — Dubai Listings, Leads & Deal Signals";
   }, [route, sorted]);
 
   // Each chip toggle is a new history entry so the back button walks
@@ -466,20 +468,20 @@ function App() {
             e.preventDefault();
             goFeed();
           }}
-          aria-label="Stock/TLDR — home"
+          aria-label="DxbEstate Intel — home"
         >
           <span className="brand-mark">█</span>
           {/*
             The brand element doubles as the <h1> ONLY on the feed home,
-            since that's where "Stock/TLDR" is also the page's semantic
-            topic heading. On /influencers and /log, the page's own
+            since that's where "DxbEstate Intel" is also the page's semantic
+            topic heading. On /sources and /log, the page's own
             visible heading becomes the <h1>, so the brand degrades to a
             <p> here — single-H1-per-page is the SEO rule Google wants.
           */}
           {page === "feed" ? (
-            <h1 className="brand-name">Stock/TLDR</h1>
+            <h1 className="brand-name">DxbEstate Intel</h1>
           ) : (
-            <p className="brand-name">Stock/TLDR</p>
+            <p className="brand-name">DxbEstate Intel</p>
           )}
         </a>
 
@@ -527,19 +529,19 @@ function App() {
                 goFeed();
               }}
             >
-              <span className="nav-link-lbl">RELEASES</span>
+              <span className="nav-link-lbl">DEALS</span>
               <span className="nav-link-num">{feed.items.length}</span>
             </button>
             <button
               type="button"
-              className={`nav-link ${page === "influencers" ? "nav-active" : ""}`}
+              className={`nav-link ${page === "sources" ? "nav-active" : ""}`}
               onClick={() => {
                 setMenuOpen(false);
-                goInfluencers();
+                goSources();
               }}
             >
-              <span className="nav-link-lbl">INFLUENCERS</span>
-              <span className="nav-link-num">{influencers.length}</span>
+              <span className="nav-link-lbl">SOURCES</span>
+              <span className="nav-link-num">{sources.length}</span>
             </button>
             <button
               type="button"
@@ -572,14 +574,14 @@ function App() {
             totalAll={sorted.length}
           />
 
-          <div className="grid" role="feed" aria-label="Markets feed">
+          <div className="grid" role="feed" aria-label="Dubai real-estate opportunity feed">
             {visible.length === 0 ? (
               <div className="grid-empty">
-                // no releases match — adjust filters
+                // no opportunities match — adjust filters
               </div>
             ) : (
               shown.map((item) => (
-                <ReleaseCard key={item.id} item={item} onOpen={openModal} />
+                <OpportunityCard key={item.id} item={item} onOpen={openModal} />
               ))
             )}
           </div>
@@ -595,14 +597,14 @@ function App() {
             </div>
           )}
         </>
-      ) : page === "influencers" ? (
-        <InfluencersPage />
+      ) : page === "sources" ? (
+        <SourcesPage />
       ) : (
-        <SweepLogPage onOpenRelease={openReleaseById} />
+        <SweepLogPage onOpenOpportunity={openOpportunityById} />
       )}
       </main>
 
-      {openItem && <ReleaseModal item={openItem} onClose={closeModal} />}
+      {openItem && <OpportunityModal item={openItem} onClose={closeModal} />}
 
       <footer className="page-footer">
         Built with{" "}

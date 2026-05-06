@@ -113,7 +113,7 @@ export function FilterBar({
             value={query}
             onChange={(e) => onQuery(e.target.value)}
             placeholder="search"
-            aria-label="Search releases"
+            aria-label="Search opportunities"
           />
         </div>
       </div>

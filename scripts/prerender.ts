@@ -1,9 +1,9 @@
 #!/usr/bin/env bun
 /**
- * Post-build static page generation for Stock/TLDR.
+ * Post-build static page generation for DxbEstate Intel.
  *
- * Reads the single source of truth (src/data/releases.json and
- * src/data/influencers.ts) and, for every release + the influencers
+ * Reads the single source of truth (src/data/opportunities.json and
+ * src/data/sources.ts) and, for every opportunity + the sources
  * page, writes a pre-rendered HTML file at the right path with the
  * correct <title>, <meta>, and Open Graph tags injected.
  *
@@ -11,13 +11,13 @@
  *
  *   dist/
  *     index.html                                 ← homepage
- *     influencers/index.html                     ← influencers page
- *     releases/<id>/index.html                   ← one per release
+ *     sources/index.html                     ← sources page
+ *     opportunities/<id>/index.html                   ← one per opportunity
  *     sitemap.xml
  *     robots.txt
  *
  * Cloudflare Pages/Workers serves static files first, so a request to
- * /releases/nvda-q3-fy26-earnings gets the pre-rendered file (and
+ * /opportunities/dubai-marina-distress-2br-under-comp-may-2026 gets the pre-rendered file (and
  * Googlebot/social scrapers see real meta tags). The SPA shell in that
  * file then boots React, detects the path, and shows the modal for the
  * matching item.
@@ -31,8 +31,8 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
-import feed from "../src/data/releases.json" with { type: "json" };
-import type { ReleaseItem } from "../src/data/schema";
+import feed from "../src/data/opportunities.json" with { type: "json" };
+import type { OpportunityItem } from "../src/data/schema";
 
 // -----------------------------------------------------------------------
 // Config
@@ -40,12 +40,12 @@ import type { ReleaseItem } from "../src/data/schema";
 
 const SITE_URL =
   process.env.SITE_URL?.replace(/\/$/, "") ||
-  "https://stock-tldr.xyz";
+  "https://dxb-estate-intel.xyz";
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 // With @cloudflare/vite-plugin + a Worker entry, vite emits the SPA into
-// dist/client/ (and the worker bundle into dist/stock_tldr/). Wrangler's
+// dist/client/ (and the worker bundle into dist/dxb_estate_intel/). Wrangler's
 // generated config serves dist/client/ as static assets, so all prerendered
 // HTML must land there too.
 const DIST = join(__dirname, "..", "dist", "client");
@@ -98,7 +98,7 @@ function wrapJsonLd(data: unknown): string {
 const ORG_REF = {
   "@type": "Organization",
   "@id": `${SITE_URL}/#org`,
-  name: "Stock/TLDR",
+  name: "DxbEstate Intel",
   url: `${SITE_URL}/`,
   logo: {
     "@type": "ImageObject",
@@ -112,10 +112,10 @@ const WEBSITE_REF = {
   "@type": "WebSite",
   "@id": `${SITE_URL}/#website`,
   url: `${SITE_URL}/`,
-  name: "Stock/TLDR",
-  alternateName: "Stock TLDR",
+  name: "DxbEstate Intel",
+  alternateName: "DxbEstate Intel",
   description:
-    "Every market-moving release worth knowing — earnings, Fed, M&A, movers, macro, crypto — refreshed every 2 hours and explained in plain English.",
+    "Dubai property opportunities, duplicate listings, seller leads, developer launches, DLD/rent signals and deal checks — refreshed every 2 hours.",
   inLanguage: "en-US",
   publisher: { "@id": `${SITE_URL}/#org` },
 };
@@ -132,7 +132,7 @@ function renderJsonLdHome(): string {
 }
 
 /**
- * CollectionPage JSON-LD for the /influencers and /log index pages.
+ * CollectionPage JSON-LD for the /sources and /log index pages.
  * Ties the page back to the WebSite + Organization entities via @id.
  */
 function renderJsonLdCollectionPage(opts: {
@@ -153,8 +153,8 @@ function renderJsonLdCollectionPage(opts: {
   });
 }
 
-function renderJsonLdArticle(item: ReleaseItem): string {
-  const url = `${SITE_URL}/releases/${item.id}`;
+function renderJsonLdArticle(item: OpportunityItem): string {
+  const url = `${SITE_URL}/opportunities/${item.id}`;
   const description = item.explainer?.tagline ?? item.summary;
   const data = {
     "@context": "https://schema.org",
@@ -190,11 +190,11 @@ function renderJsonLdArticle(item: ReleaseItem): string {
 }
 
 /**
- * BreadcrumbList for release pages. Two levels: Home → release title.
- * (There's no intermediate `/releases` index page — the homepage IS
- * the release listing — so we link straight back to `/`.)
+ * BreadcrumbList for opportunity pages. Two levels: Home → opportunity title.
+ * (There's no intermediate `/opportunities` index page — the homepage IS
+ * the opportunity listing — so we link straight back to `/`.)
  */
-function renderJsonLdBreadcrumb(item: ReleaseItem): string {
+function renderJsonLdBreadcrumb(item: OpportunityItem): string {
   return wrapJsonLd({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -202,14 +202,14 @@ function renderJsonLdBreadcrumb(item: ReleaseItem): string {
       {
         "@type": "ListItem",
         position: 1,
-        name: "Stock/TLDR",
+        name: "DxbEstate Intel",
         item: `${SITE_URL}/`,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: item.title,
-        item: `${SITE_URL}/releases/${item.id}`,
+        item: `${SITE_URL}/opportunities/${item.id}`,
       },
     ],
   });
@@ -221,7 +221,7 @@ function renderMetaBlock(meta: PageMeta): string {
     `<meta name="description" content="${escapeAttr(meta.description)}" />`,
     `<link rel="canonical" href="${escapeAttr(meta.canonical)}" />`,
     `<meta property="og:type" content="${meta.ogType}" />`,
-    `<meta property="og:site_name" content="Stock/TLDR" />`,
+    `<meta property="og:site_name" content="DxbEstate Intel" />`,
     `<meta property="og:title" content="${escapeAttr(meta.title)}" />`,
     `<meta property="og:description" content="${escapeAttr(meta.description)}" />`,
     `<meta property="og:url" content="${escapeAttr(meta.canonical)}" />`,
@@ -261,7 +261,7 @@ function injectMeta(
   // Remove existing description, canonical, og:*, twitter:*, article:*
   // Match any <meta> tag whose name/property matches these, regardless
   // of attribute order. The content attribute may contain slashes
-  // (e.g. "Stock/TLDR"), so we can't use [^/]* — match up to the closing
+  // (e.g. "DxbEstate Intel"), so we can't use [^/]* — match up to the closing
   // `>` with a non-greedy quantifier on non-`>` chars.
   html = html.replace(
     /<meta\s+(?:name|property)="(?:description|twitter:[^"]+|og:[^"]+|article:[^"]+)"[^>]*?>\s*/g,
@@ -270,8 +270,8 @@ function injectMeta(
   html = html.replace(/<link\s+rel="canonical"[^>]*?>\s*/g, "");
   // Strip the dev-fallback JSON-LD block from the template. Prerender
   // injects a page-specific JSON-LD stack (WebSite+Org for home,
-  // CollectionPage for /influencers + /log, Article+Breadcrumb for each
-  // release) so each page carries exactly the schema that matches its
+  // CollectionPage for /sources + /log, Article+Breadcrumb for each
+  // opportunity) so each page carries exactly the schema that matches its
   // content instead of sharing the dev WebSite fallback.
   html = html.replace(
     /<script\s+type="application\/ld\+json"[^>]*>[\s\S]*?<\/script>\s*/g,
@@ -294,7 +294,7 @@ function injectMeta(
 
   // Inject the page-specific JSON-LD stack just before </head>. Callers
   // pass exactly the schema that matches the page — Article+Breadcrumb
-  // for a release, WebSite+Org for home, CollectionPage for index pages.
+  // for a opportunity, WebSite+Org for home, CollectionPage for index pages.
   if (extraJsonLd) {
     html = html.replace("</head>", `  ${extraJsonLd}\n  </head>`);
   }
@@ -307,16 +307,16 @@ function injectMeta(
 // -----------------------------------------------------------------------
 
 /**
- * Build a release page's `<title>`, aiming to stay under 60 characters
+ * Build a opportunity page's `<title>`, aiming to stay under 60 characters
  * so Google doesn't silently truncate the brand suffix. Priority order:
- *   1. `${title} — ${org} | Stock/TLDR`  (ideal)
- *   2. `${title} | Stock/TLDR`            (drop org)
- *   3. `${title}`                         (title alone; release names
+ *   1. `${title} — ${org} | DxbEstate Intel`  (ideal)
+ *   2. `${title} | DxbEstate Intel`            (drop org)
+ *   3. `${title}`                         (title alone; opportunity names
  *       longer than 60 chars will still wrap in SERPs, but at least
  *       we don't waste a truncated brand suffix)
  */
-function buildReleaseTitle(item: ReleaseItem): string {
-  const brand = " | Stock/TLDR";
+function buildOpportunityTitle(item: OpportunityItem): string {
+  const brand = " | DxbEstate Intel";
   const withOrg = `${item.title} — ${item.org}${brand}`;
   if (withOrg.length <= 60) return withOrg;
   const withoutOrg = `${item.title}${brand}`;
@@ -324,7 +324,7 @@ function buildReleaseTitle(item: ReleaseItem): string {
   return item.title;
 }
 
-function releaseMeta(item: ReleaseItem): PageMeta {
+function opportunityMeta(item: OpportunityItem): PageMeta {
   const tagline = item.explainer?.tagline ?? item.summary;
   // Description should be ≤ 160 chars for best SEO truncation behavior.
   const description = tagline.length > 155
@@ -332,9 +332,9 @@ function releaseMeta(item: ReleaseItem): PageMeta {
     : tagline;
 
   return {
-    title: buildReleaseTitle(item),
+    title: buildOpportunityTitle(item),
     description,
-    canonical: `${SITE_URL}/releases/${item.id}`,
+    canonical: `${SITE_URL}/opportunities/${item.id}`,
     ogType: "article",
     ogImage: item.image?.url ?? DEFAULT_OG_IMAGE,
     ogImageAlt: item.image?.alt,
@@ -347,33 +347,33 @@ function releaseMeta(item: ReleaseItem): PageMeta {
 // Description guidance:  120–158 chars, natural keyword usage, CTA.
 
 const HOME_META: PageMeta = {
-  title: "What Just Moved Markets — Earnings, Fed, M&A | Stock/TLDR",
+  title: "Dubai Real-Estate Intelligence — Listings, Leads, Deals | DxbEstate Intel",
   description:
-    "Every market-moving release worth knowing — earnings prints, Fed decisions, M&A, movers, macro, crypto — refreshed every 2 hours and explained in plain English.",
+    "Dubai property opportunities, duplicate listings, seller leads, developer launches, DLD/rent signals and deal checks — refreshed every 2 hours.",
   canonical: `${SITE_URL}/`,
   ogType: "website",
   ogImage: DEFAULT_OG_IMAGE,
-  ogImageAlt: "Stock/TLDR — markets news explained every 2 hours",
+  ogImageAlt: "DxbEstate Intel — Dubai property opportunities explained every 2 hours",
 };
 
-const INFLUENCERS_META: PageMeta = {
-  title: "Top Markets Voices to Follow — Traders & Analysts | Stock/TLDR",
+const SOURCES_META: PageMeta = {
+  title: "Dubai Property Source Map — Portals, DLD, Developers | DxbEstate Intel",
   description:
-    "The traders, analysts and newsletter authors worth following on markets and macro — ranked by reach across YouTube, X/Twitter, podcasts, blogs and Substack.",
-  canonical: `${SITE_URL}/influencers`,
+    "A source map of Dubai portals, DLD/RERA data, developers, auctions, brokerages and market-data feeds used by the collection workflow.",
+  canonical: `${SITE_URL}/sources`,
   ogType: "website",
   ogImage: DEFAULT_OG_IMAGE,
-  ogImageAlt: "Top markets voices to follow — ranked by reach",
+  ogImageAlt: "Dubai property source map — portals, DLD/RERA, developers and data",
 };
 
 const LOG_META: PageMeta = {
-  title: "Markets Changelog — What Moved & When | Stock/TLDR",
+  title: "Collection Log — Dubai Listing Changes & Deal Signals | DxbEstate Intel",
   description:
-    "The full changelog of Stock/TLDR sweeps — every earnings print, Fed decision, deal and big move added, with a one-line note on why each was picked.",
+    "The full changelog of DxbEstate Intel sweeps — every opportunity added, updated or removed, with coverage and a one-line rationale.",
   canonical: `${SITE_URL}/log`,
   ogType: "website",
   ogImage: DEFAULT_OG_IMAGE,
-  ogImageAlt: "Stock/TLDR sweep log — markets changelog",
+  ogImageAlt: "DxbEstate Intel sweep log — Dubai property collection changelog",
 };
 
 // -----------------------------------------------------------------------
@@ -420,16 +420,16 @@ async function main() {
     injectMeta(template, HOME_META, renderJsonLdHome()),
   );
 
-  // 2. Influencers page — CollectionPage JSON-LD
+  // 2. Sources page — CollectionPage JSON-LD
   await writeHtml(
-    "influencers/index.html",
+    "sources/index.html",
     injectMeta(
       template,
-      INFLUENCERS_META,
+      SOURCES_META,
       renderJsonLdCollectionPage({
-        url: `${SITE_URL}/influencers`,
-        name: "Top Markets Voices to Follow",
-        description: INFLUENCERS_META.description,
+        url: `${SITE_URL}/sources`,
+        name: "Top Dubai property Voices to Follow",
+        description: SOURCES_META.description,
       }),
     ),
   );
@@ -442,19 +442,19 @@ async function main() {
       LOG_META,
       renderJsonLdCollectionPage({
         url: `${SITE_URL}/log`,
-        name: "Markets Changelog",
+        name: "Dubai property Changelog",
         description: LOG_META.description,
       }),
     ),
   );
 
-  // 4. One page per release — Article + BreadcrumbList JSON-LD
+  // 4. One page per opportunity — Article + BreadcrumbList JSON-LD
   let count = 0;
-  const items = feed.items as ReleaseItem[];
+  const items = feed.items as OpportunityItem[];
   for (const item of items) {
     const jsonLd = `${renderJsonLdArticle(item)}\n    ${renderJsonLdBreadcrumb(item)}`;
-    const html = injectMeta(template, releaseMeta(item), jsonLd);
-    await writeHtml(`releases/${item.id}/index.html`, html);
+    const html = injectMeta(template, opportunityMeta(item), jsonLd);
+    await writeHtml(`opportunities/${item.id}/index.html`, html);
     count++;
   }
 
@@ -463,7 +463,7 @@ async function main() {
   const sitemap = buildSitemap([
     { loc: `${SITE_URL}/`, lastmod: today, changefreq: "daily", priority: 1.0 },
     {
-      loc: `${SITE_URL}/influencers`,
+      loc: `${SITE_URL}/sources`,
       lastmod: today,
       changefreq: "weekly",
       priority: 0.8,
@@ -475,7 +475,7 @@ async function main() {
       priority: 0.7,
     },
     ...items.map((i) => ({
-      loc: `${SITE_URL}/releases/${i.id}`,
+      loc: `${SITE_URL}/opportunities/${i.id}`,
       lastmod: i.date,
       changefreq: "monthly" as const,
       priority: 0.6,
@@ -488,7 +488,7 @@ async function main() {
   await writeFile(join(DIST, "robots.txt"), robots, "utf8");
 
   console.log(
-    `[prerender] wrote ${count} release pages + influencers + /log + sitemap.xml + robots.txt`,
+    `[prerender] wrote ${count} opportunity pages + sources + /log + sitemap.xml + robots.txt`,
   );
 }
 

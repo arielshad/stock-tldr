@@ -1,19 +1,19 @@
-name: Update releases (every 2h)
+name: Update opportunities (every 2h)
 
-# Runs the Stock/TLDR daily release sweep on a schedule.
+# Runs the DxbEstate Intel daily opportunity sweep on a schedule.
 #
 # What it does:
 #   1. Checks out the repo
 #   2. Installs Bun deps
 #   3. Runs Claude Code with a short delegation prompt that reads
-#      prompts/update-releases.md and follows it (web-fetch + verify
-#      every URL/image, refresh src/data/releases.json)
+#      prompts/update-opportunities.md and follows it (web-fetch + verify
+#      every URL/image, refresh src/data/releases.json src/data/opportunities.json)
 #   4. Runs `bun run build` to confirm the new feed parses + page builds.
 #      The build command is `tsc -b && vite build && bun scripts/prerender.ts`,
-#      so it also generates per-release static HTML pages for SEO. The
-#      `dist/` output is gitignored — only releases.json is committed;
+#      so it also generates per-opportunity static HTML pages for SEO. The
+#      `dist/` output is gitignored — only releases.json / opportunities.json is committed;
 #      Cloudflare Pages rebuilds and redeploys on every push to master.
-#   5. If src/data/releases.json changed, commits + pushes back to master
+#   5. If src/data/releases.json src/data/opportunities.json changed, commits + pushes back to master
 #
 # Required secret:
 #   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
@@ -34,7 +34,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: update-releases
+  group: update-opportunities
   cancel-in-progress: false
 
 jobs:
@@ -69,7 +69,7 @@ jobs:
         id: now
         run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
-      - name: Run release sweep with Claude Code (attempt 1)
+      - name: Run opportunity sweep with Claude Code (attempt 1)
         id: sweep1
         uses: anthropics/claude-code-action@v1
         # Step-level timeout: if the action hangs silently we want to
@@ -88,19 +88,19 @@ jobs:
           # CLI JSON, display_report posts a Step Summary at the end.
           show_full_output: "true"
           display_report: "true"
-          # The real prompt is `prompts/update-releases.md` — Claude
+          # The real prompt is `prompts/update-opportunities.md` — Claude
           # reads it via its Read tool. Keep this shim minimal: anything
           # added here drifts from the canonical prompt.
           prompt: |
-            You are the Stock/TLDR scheduled release sweeper running in
+            You are the DxbEstate Intel scheduled opportunity sweeper running in
             GitHub Actions. Working dir is the repo root.
 
             TODAY'S DATE IS ${{ steps.now.outputs.date }} (real UTC,
             not a fixture). Trust the system clock and what WebFetch
-            returns even if releases look unfamiliar — your training
+            returns even if opportunities look unfamiliar — your training
             data predates today.
 
-            Read `prompts/update-releases.md` and follow it exactly.
+            Read `prompts/update-opportunities.md` and follow it exactly.
             Do NOT commit or push — the next workflow step does that.
           claude_args: |
             --model claude-opus-4-7
@@ -117,10 +117,10 @@ jobs:
         if: steps.sweep1.outcome == 'failure'
         run: |
           echo "::warning::Sweep attempt 1 failed or timed out — resetting and retrying."
-          git checkout -- src/data/releases.json src/data/sweeps.json 2>/dev/null || true
+          git checkout -- src/data/releases.json src/data/opportunities.json src/data/sweeps.json 2>/dev/null || true
           git status --short
 
-      - name: Run release sweep with Claude Code (attempt 2)
+      - name: Run opportunity sweep with Claude Code (attempt 2)
         id: sweep2
         # Only runs if attempt 1 failed (timed out, errored, or hung
         # past the 30m step timeout). Same inputs, no continue-on-error
@@ -134,17 +134,17 @@ jobs:
           show_full_output: "true"
           display_report: "true"
           prompt: |
-            You are the Stock/TLDR scheduled release sweeper running in
+            You are the DxbEstate Intel scheduled opportunity sweeper running in
             GitHub Actions. Working dir is the repo root. THIS IS A
             RETRY — the previous attempt in this job failed or hung.
             The working tree was reset to HEAD; start fresh.
 
             TODAY'S DATE IS ${{ steps.now.outputs.date }} (real UTC,
             not a fixture). Trust the system clock and what WebFetch
-            returns even if releases look unfamiliar — your training
+            returns even if opportunities look unfamiliar — your training
             data predates today.
 
-            Read `prompts/update-releases.md` and follow it exactly.
+            Read `prompts/update-opportunities.md` and follow it exactly.
             When running `finalize-sweep.ts`, pass
             `--source github-actions-sweep-retry` so retries show up
             distinctly in /log. Do NOT commit or push — the next
@@ -161,11 +161,11 @@ jobs:
           echo "::group::git status"
           git status --short
           echo "::endgroup::"
-          echo "::group::git diff src/data/releases.json"
-          git --no-pager diff src/data/releases.json | head -200 || true
+          echo "::group::git diff src/data/releases.json src/data/opportunities.json"
+          git --no-pager diff src/data/releases.json src/data/opportunities.json | head -200 || true
           echo "::endgroup::"
 
-      - name: Commit and push if releases.json or sweeps.json changed
+      - name: Commit and push if releases.json / opportunities.json or sweeps.json changed
         env:
           # Pass the workflow's GITHUB_TOKEN explicitly. The Claude Code
           # action mutates git config during its run and the credential
@@ -174,17 +174,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
-          if [[ -z "$(git status --porcelain src/data/releases.json src/data/sweeps.json)" ]]; then
-            echo "No changes to releases.json or sweeps.json — nothing to commit."
+          if [[ -z "$(git status --porcelain src/data/releases.json src/data/opportunities.json src/data/sweeps.json)" ]]; then
+            echo "No changes to releases.json / opportunities.json or sweeps.json — nothing to commit."
             exit 0
           fi
-          git config user.name  "stock-tldr-bot"
-          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
-          git add src/data/releases.json src/data/sweeps.json
-          git commit -m "feat(content): scheduled release sweep $(date -u +%Y-%m-%dT%H:%MZ)
+          git config user.name  "dxb-estate-intel-bot"
+          git config user.email "41898282+dxb-estate-intel-bot@users.noreply.github.com"
+          git add src/data/releases.json src/data/opportunities.json src/data/sweeps.json
+          git commit -m "feat(content): scheduled opportunity sweep $(date -u +%Y-%m-%dT%H:%MZ)
 
-          Refreshed src/data/releases.json and appended a sweep log
-          entry to src/data/sweeps.json via prompts/update-releases.md.
+          Refreshed src/data/releases.json src/data/opportunities.json and appended a sweep log
+          entry to src/data/sweeps.json via prompts/update-opportunities.md.
 
           Co-Authored-By: Claude Code Action <noreply@anthropic.com>"
           # Push via tokenized HTTPS URL — survives any prior git config

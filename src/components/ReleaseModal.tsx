@@ -102,7 +102,7 @@ export function ReleaseModal({
                     rel="noreferrer noopener"
                     className="source-link"
                     onClick={() =>
-                      track("release:url-click", {
+                      track("opportunity:url-click", {
                         id: item.id,
                         category: item.categories[0],
                         source: "modal",
@@ -192,7 +192,7 @@ export function ReleaseModal({
                         target="_blank"
                         rel="noreferrer noopener"
                         onClick={() =>
-                          track("release:tryit-click", {
+                          track("opportunity:tryit-click", {
                             id: item.id,
                             category: item.categories[0],
                           })

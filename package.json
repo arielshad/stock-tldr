@@ -1,5 +1,5 @@
 {
-  "name": "stock-tldr",
+  "name": "dxb-estate-intel",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "typecheck": "tsc -b --noEmit && bun scripts/check-feed.ts",
     "lint": "eslint .",
     "preview": "bun run build && wrangler dev",
-    "update-content": "echo 'Run an external Claude/agent with prompts/update-releases.md to refresh src/data/releases.json'",
+    "update-content": "echo 'Run an external Claude/agent with prompts/update-opportunities.md to refresh src/data/opportunities.json'",
     "deploy": "bun run build && wrangler deploy"
   },
   "dependencies": {

@@ -9,14 +9,17 @@
  * up — there's no consumer-side change needed.
  */
 
-export function track(_name: string, _data?: Record<string, unknown>): void {
-  /* no-op */
+export function track(name: string, data?: Record<string, unknown>): void {
+  void name;
+  void data;
 }
 
-export function useScrollDepth(_route: string): void {
+export function useScrollDepth(route: string): void {
+  void route;
   /* no-op — was scroll-depth milestone tracking on the old umami pipe */
 }
 
-export function useHeartbeat(_route: string): void {
+export function useHeartbeat(route: string): void {
+  void route;
   /* no-op — was per-route dwell-time heartbeat on the old umami pipe */
 }

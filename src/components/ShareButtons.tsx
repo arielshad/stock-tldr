@@ -120,7 +120,7 @@ export interface SharePlatform {
 }
 
 export interface ShareTargets {
-  /** Canonical URL being shared (points at /releases/<id>). */
+  /** Canonical URL being shared (points at /opportunities/<id>). */
   url: string;
   /** Social platforms, each with pre-built intent URL + branded icon. */
   platforms: SharePlatform[];
@@ -140,6 +140,7 @@ export interface ShareTargets {
  * URLs from an item + manages the "copied" flash state so both
  * consumers render the same targets with the same feedback behavior.
  */
+// eslint-disable-next-line react-refresh/only-export-components
 export function useShareTargets(item: ReleaseItem): ShareTargets {
   const [copied, setCopied] = useState(false);
 
@@ -148,8 +149,8 @@ export function useShareTargets(item: ReleaseItem): ShareTargets {
   const origin =
     typeof window !== "undefined" && window.location?.origin
       ? window.location.origin
-      : "https://stock-tldr.xyz";
-  const url = `${origin}/releases/${item.id}`;
+      : "https://dxb-estate-intel.xyz";
+  const url = `${origin}/opportunities/${item.id}`;
 
   // Tweet-length-safe text for character-limited platforms.
   const fullText = `${item.title} — ${item.explainer.tagline}`;
@@ -243,7 +244,7 @@ export function ShareButtons({
     useShareTargets(item);
 
   return (
-    <section className="modal-share" aria-label="Share this release">
+    <section className="modal-share" aria-label="Share this opportunity">
       <span className="modal-share-lbl">SHARE</span>
       <div className="share-row">
         {canNativeShare && (
@@ -252,7 +253,7 @@ export function ShareButtons({
             className="share-btn"
             data-platform="native"
             onClick={() => {
-              track("release:share", {
+              track("opportunity:share", {
                 id: item.id,
                 platform: "native",
                 source,
@@ -270,7 +271,7 @@ export function ShareButtons({
           className={`share-btn ${copied ? "share-btn-copied" : ""}`}
           data-platform="copy"
           onClick={() => {
-            track("release:share", {
+            track("opportunity:share", {
               id: item.id,
               platform: "copy",
               source,
@@ -293,7 +294,7 @@ export function ShareButtons({
             title={p.label}
             aria-label={`Share on ${p.label}`}
             onClick={() =>
-              track("release:share", {
+              track("opportunity:share", {
                 id: item.id,
                 platform: p.id,
                 source,

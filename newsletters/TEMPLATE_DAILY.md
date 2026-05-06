@@ -1,4 +1,4 @@
-# Stock/TLDR Daily Digest Template
+# DxbEstate Intel Daily Digest Template
 
 Optimized for **Resend Broadcasts + Gmail mobile/web**. Notes:
 
@@ -23,7 +23,7 @@ Optimized for **Resend Broadcasts + Gmail mobile/web**. Notes:
 <!-- HEADER -->
 <tr>
 <td style="padding: 8px 0 24px; text-align: center;">
-<p style="margin: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.18em; color: #f7ff00; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">Stock/TLDR · Daily Digest</p>
+<p style="margin: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.18em; color: #f7ff00; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DxbEstate Intel · Daily Digest</p>
 <p style="margin: 4px 0 0; font-size: 13px; color: #8a8a85;">{DISPLAY_DATE}</p>
 </td>
 </tr>
@@ -33,8 +33,8 @@ Optimized for **Resend Broadcasts + Gmail mobile/web**. Notes:
 <!-- FOOTER -->
 <tr>
 <td style="padding-top: 32px; border-top: 2px solid #f5f5f0; text-align: center;">
-<p style="margin: 0 0 8px; font-size: 20px; font-weight: 800; color: #f5f5f0;">All releases at <a href="https://stock-tldr.xyz" style="color: #f7ff00; text-decoration: none;">stock-tldr.xyz</a></p>
-<p style="margin: 0 0 16px; font-size: 14px; color: #8a8a85;">What just moved markets · Updated daily</p>
+<p style="margin: 0 0 8px; font-size: 20px; font-weight: 800; color: #f5f5f0;">All opportunities at <a href="https://dxb-estate-intel.xyz" style="color: #f7ff00; text-decoration: none;">dxb-estate-intel.xyz</a></p>
+<p style="margin: 0 0 16px; font-size: 14px; color: #8a8a85;">Dubai property opportunities · Updated daily</p>
 <p style="margin: 0; font-size: 12px; color: #8a8a85; font-family: Menlo, Consolas, monospace;">
 <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color: #8a8a85; text-decoration: underline;">Unsubscribe</a>
 </p>
@@ -145,16 +145,16 @@ Optimized for **Resend Broadcasts + Gmail mobile/web**. Notes:
 1. **Self-contained body** — Resend doesn't add a wrapper; whatever you generate is the entire email. Always include the header block and the unsubscribe footer.
 2. **Unsubscribe placeholder** — the literal string `{{{RESEND_UNSUBSCRIBE_URL}}}` (three braces) goes in the footer `<a href>`. Resend substitutes a per-recipient URL at send time.
 3. **Single column** — 600px max width via inline style, centered.
-4. **Short explainers** — 1–2 sentences per `What/How/Why/Who` block. The full long-form version lives on the website card ([stock-tldr.xyz](https://stock-tldr.xyz)).
-5. **All links active** — never mention a tool/ticker/source without linking it.
+4. **Short explainers** — 1–2 sentences per `What/How/Why/Who` block. The full long-form version lives on the website card ([dxb-estate-intel.xyz](https://dxb-estate-intel.xyz)).
+5. **All links active** — never mention a listing/area/source without linking it.
 6. **Omit image row if none available** — don't leave broken `<img>` tags.
-7. **5–8 cards** — pick most important recent releases.
+7. **5–8 cards** — pick most important recent opportunities.
 8. **No border-radius** — brutalist aesthetic.
 9. **No HTML attribute widths** — always `width="100%"` + `max-width` in inline style. Gmail Android scales down fixed-px widths.
 
 ## Content Mapping
 
-From `releases.json` item:
+From `opportunities.json` item:
 
 | Field | Source | Notes |
 |-------|--------|-------|
@@ -177,4 +177,4 @@ From `releases.json` item:
 
 Resend uses the Broadcast `subject:` as the email subject only — it does not render anywhere inside the body. The header block above provides the in-body title, so `subject` should be punchy and inbox-optimized.
 
-Convention: `Stock/TLDR Daily Digest — <Month> <Day>, <Year>` (em dash). The `daily-digest.yml` workflow auto-generates this from the run date.
+Convention: `DxbEstate Intel Daily Digest — <Month> <Day>, <Year>` (em dash). The `daily-digest.yml` workflow auto-generates this from the run date.

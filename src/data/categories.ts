@@ -1,117 +1,112 @@
 import type { Category } from "./schema";
 
 /**
- * Category metadata — single source of truth for the category badge
- * shown on every release card and in the filter bar.
- *
- * To add a new category:
- *   1. Add it to `Category` and `CATEGORY_ORDER` in src/data/schema.ts.
- *   2. Add an entry below.
- *   3. Done — cards and filters auto-include it.
+ * Category metadata — single source of truth for opportunity badges,
+ * filters, and modal labels in the Dubai real-estate intelligence feed.
  */
 
 export interface CategoryMeta {
   id: Category;
-  label: string;   // shown on the badge
-  short: string;   // 1–3 char glyph for tight spaces
-  blurb: string;   // shown in filter tooltip / hero
+  label: string;
+  short: string;
+  blurb: string;
 }
 
 export const CATEGORY_META: Record<Category, CategoryMeta> = {
-  earnings: {
-    id: "earnings",
-    label: "EARNINGS",
-    short: "$",
-    blurb: "Quarterly results, beats / misses, guidance updates",
+  distress: {
+    id: "distress",
+    label: "DISTRESS",
+    short: "!",
+    blurb: "Urgent sellers, under-market asks, mortgage or timeline pressure",
   },
-  mover: {
-    id: "mover",
-    label: "MOVER",
-    short: "↕",
-    blurb: "Single-stock big moves, halts, gappers, squeezes",
+  offplan: {
+    id: "offplan",
+    label: "OFF-PLAN",
+    short: "◇",
+    blurb: "Developer launches, payment plans, resale assignments, handover risk",
   },
-  macro: {
-    id: "macro",
-    label: "MACRO",
-    short: "Σ",
-    blurb: "Fed, CPI, jobs, GDP, central banks, geopolitical",
+  ready: {
+    id: "ready",
+    label: "READY",
+    short: "✓",
+    blurb: "Completed units, vacant possession, owner-occupied or tenanted stock",
   },
-  mna: {
-    id: "mna",
-    label: "M&A",
-    short: "⊕",
-    blurb: "Mergers, acquisitions, takeovers, spin-offs",
-  },
-  ipo: {
-    id: "ipo",
-    label: "IPO",
-    short: "▲",
-    blurb: "S-1 filings, IPO debuts, direct listings, SPACs",
-  },
-  analyst: {
-    id: "analyst",
-    label: "ANALYST",
-    short: "★",
-    blurb: "Sell-side upgrades, downgrades, price-target moves",
-  },
-  regulatory: {
-    id: "regulatory",
-    label: "REG",
-    short: "§",
-    blurb: "SEC, DOJ, antitrust, tariffs, sanctions, lawsuits",
-  },
-  insider: {
-    id: "insider",
-    label: "INSIDER",
-    short: "◉",
-    blurb: "13F, 13D, insider transactions, big buybacks",
-  },
-  sector: {
-    id: "sector",
-    label: "SECTOR",
-    short: "▦",
-    blurb: "Sector rotations, broad theme moves",
-  },
-  rates: {
-    id: "rates",
-    label: "RATES",
+  rental: {
+    id: "rental",
+    label: "RENTAL",
     short: "%",
-    blurb: "Yields, curves, treasury auctions, credit spreads",
+    blurb: "Long-let, short-let, holiday-home yield and rent-comps opportunities",
   },
-  fx: {
-    id: "fx",
-    label: "FX",
-    short: "¤",
-    blurb: "USD/DXY, JPY, EM currency moves and interventions",
+  flip: {
+    id: "flip",
+    label: "FLIP",
+    short: "↻",
+    blurb: "Renovation, furnishing, layout, or quick-resale upside",
   },
-  commodity: {
-    id: "commodity",
-    label: "COMMOD",
+  developer: {
+    id: "developer",
+    label: "DEVELOPER",
+    short: "D",
+    blurb: "Launches, inventories, incentives, post-handover offers",
+  },
+  auction: {
+    id: "auction",
+    label: "AUCTION",
+    short: "⚖",
+    blurb: "Court, bank, and Emirates Auction-style distressed sales",
+  },
+  visa: {
+    id: "visa",
+    label: "VISA",
+    short: "◎",
+    blurb: "AED 750k / AED 2M thresholds, Golden Visa positioning",
+  },
+  luxury: {
+    id: "luxury",
+    label: "LUXURY",
     short: "◆",
-    blurb: "Oil, gold, gas, copper, ag, OPEC, energy",
+    blurb: "Prime villas, branded residences, waterfront and trophy assets",
   },
-  crypto: {
-    id: "crypto",
-    label: "CRYPTO",
-    short: "₿",
-    blurb: "BTC, ETH, alts, ETFs, exchange + protocol news",
+  commercial: {
+    id: "commercial",
+    label: "COMM",
+    short: "▦",
+    blurb: "Offices, retail, warehouses, staff accommodation, cap-rate plays",
   },
-  rumor: {
-    id: "rumor",
-    label: "RUMOR",
-    short: "?",
-    blurb: "Credible market rumors from named journalists",
+  land: {
+    id: "land",
+    label: "LAND",
+    short: "▱",
+    blurb: "Plots, GFA, FAR, villa land, redevelopment optionality",
   },
-  article: {
-    id: "article",
-    label: "ARTICLE",
-    short: "✎",
-    blurb: "Influential commentary — Levine, Lyn Alden, memos",
+  market: {
+    id: "market",
+    label: "MARKET",
+    short: "Σ",
+    blurb: "DLD transaction data, rent-index shifts, supply and demand signals",
   },
-  video: {
-    id: "video",
-    label: "VIDEO",
+  lead: {
+    id: "lead",
+    label: "LEAD",
+    short: "+",
+    blurb: "Seller, landlord, buyer, tenant, and broker relationship leads",
+  },
+  duplicate: {
+    id: "duplicate",
+    label: "DUPE",
+    short: "≡",
+    blurb: "Same unit detected across portals, brokers, prices, or stale reposts",
+  },
+  legal: {
+    id: "legal",
+    label: "LEGAL",
+    short: "§",
+    blurb: "Oqood, title deed, service charges, RERA forms, escrow and transfer risk",
+  },
+  media: {
+    id: "media",
+    label: "MEDIA",
     short: "▷",
-    blurb: "Top finance YouTubers, podcasts, viral segments",
+    blurb: "Market commentary, listing videos, broker tours, developer decks",
   },
 };

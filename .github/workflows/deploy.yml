@@ -2,7 +2,7 @@ name: Deploy to Cloudflare Workers
 
 # Builds and deploys the Workers Static Assets site to Cloudflare on
 # every push to master that touches anything visible (code, content,
-# or assets). The release sweep workflow commits releases.json /
+# or assets). The opportunity sweep workflow commits releases.json / opportunities.json /
 # sweeps.json updates every 2h — this workflow then ships those
 # changes to the live site automatically.
 #
@@ -14,7 +14,7 @@ name: Deploy to Cloudflare Workers
 #
 # SITE_URL env var below pins the canonical/sitemap/OG URLs to the
 # live workers.dev URL until the real domain is wired up. When the
-# domain is bound to the Worker, change this to https://stock-tldr.xyz
+# domain is bound to the Worker, change this to https://dxb-estate-intel.xyz
 # and the next push will rebuild with correct canonical tags.
 
 on:
@@ -32,15 +32,15 @@ on:
       - "tsconfig*.json"
       - "vite.config.ts"
       - ".github/workflows/deploy.yml"
-  # Sweep + propose-release workflows commit with the default GITHUB_TOKEN,
+  # Sweep + propose-opportunity workflows commit with the default GITHUB_TOKEN,
   # which by design does NOT trigger downstream `push` events (GitHub
   # blocks recursive workflow runs). `workflow_run` IS triggered though,
   # so we chain off completion of the content-producing workflows. Both
   # are gated on conclusion: success below.
   workflow_run:
     workflows:
-      - "Update releases (every 2h)"
-      - "Propose new release"
+      - "Update opportunities (every 2h)"
+      - "Propose new opportunity"
     types: [completed]
     branches: [main]
   workflow_dispatch: {}
@@ -58,7 +58,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SITE_URL: https://stock-tldr.xyz
+  SITE_URL: https://dxb-estate-intel.xyz
 
 jobs:
   deploy:

@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "stock-tldr",
+  "name": "dxb-estate-intel",
   "compatibility_date": "2026-04-12",
   "main": "worker/index.ts",
   "observability": {
@@ -15,7 +15,7 @@
     "nodejs_compat"
   ],
   "routes": [
-    { "pattern": "stock-tldr.xyz", "custom_domain": true },
-    { "pattern": "www.stock-tldr.xyz", "custom_domain": true }
+    { "pattern": "dxb-estate-intel.xyz", "custom_domain": true },
+    { "pattern": "www.dxb-estate-intel.xyz", "custom_domain": true }
   ]
 }

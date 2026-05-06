@@ -94,7 +94,7 @@ async function check(p: Probe): Promise<ProbeResult> {
     // Range for images (where servers reliably honor it). For HTML we
     // accept the small wasted bytes — pages are usually <100KB.
     const headers: Record<string, string> = {
-      "User-Agent": "stock-tldr-sweep-bot",
+      "User-Agent": "dxb-estate-intel-sweep-bot",
       "Accept-Encoding": "identity",
       Accept: p.expectImage ? "image/*" : "text/html,*/*",
     };
