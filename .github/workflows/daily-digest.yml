@@ -50,21 +50,20 @@ jobs:
       - name: Generate daily digest with Claude Code
         uses: anthropics/claude-code-action@v1
         timeout-minutes: 15
-        env:
-          DIGEST_DATE: ${{ steps.now.outputs.date }}
-          DIGEST_DISPLAY_DATE: ${{ steps.now.outputs.display_date }}
-          DIGEST_FILE_DATE: ${{ steps.now.outputs.file_date }}
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           show_full_output: "true"
           display_report: "true"
+          # The action does not bash-expand the prompt, so $VAR-style
+          # placeholders would be passed literally to Claude. Substitute
+          # via GitHub Actions templating at workflow-render time instead.
           prompt: |
             You are running as the Stock/TLDR daily digest generator inside a
             GitHub Actions workflow. The working directory is the repo root.
 
-            TODAY'S DATE IS $DIGEST_DATE.
-            DISPLAY DATE: $DIGEST_DISPLAY_DATE
-            OUTPUT FILE: newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md
+            TODAY'S DATE IS ${{ steps.now.outputs.date }}.
+            DISPLAY DATE: ${{ steps.now.outputs.display_date }}
+            OUTPUT FILE: newsletters/daily/${{ steps.now.outputs.file_date }}_daily_digest.md
 
             YOUR TASK: Generate a daily newsletter digest.
 
