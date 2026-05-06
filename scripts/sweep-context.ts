@@ -11,6 +11,7 @@
  * as a quota and padded the feed to fill it. Don't surface gaps.
  */
 import feed from "../src/data/releases.json" with { type: "json" };
+import { EVERY_SWEEP_SOURCE_IDS, SCAN_SOURCES } from "../src/data/scan-plan.ts";
 import type { ReleaseFeed } from "../src/data/schema.ts";
 
 const f = feed as unknown as ReleaseFeed;
@@ -52,6 +53,10 @@ const out = {
   // or canonical primary URL collides with anything in this list.
   // `finalize-sweep.ts` enforces all three.
   existing,
+  scanPlan: {
+    everySweepSourceIds: EVERY_SWEEP_SOURCE_IDS,
+    sources: SCAN_SOURCES,
+  },
 };
 
 console.log(JSON.stringify(out, null, 2));

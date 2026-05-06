@@ -23,6 +23,20 @@ The platform is informational. Every card should link back to its public source 
 3. **The frontend** is a Bun + Vite + React + TypeScript SPA with a brutalist intelligence-dashboard design. Cards are filterable by opportunity category and searchable by area, building, source, tags and explainer text.
 4. **The sweep log** keeps a public audit trail of what was added, updated, removed, and which categories were covered.
 
+
+## How opportunities are found
+
+There is no hidden scraper in this repo and no private portal API integration yet. The automated workflow runs a Claude/WebSearch/WebFetch collector every 2 hours. That collector is now anchored to an explicit scan plan in `src/data/scan-plan.ts`, which lists the real-estate publishing surfaces to search, the exact query patterns to run, the opportunity signals to look for, and the duplicate keys to use before adding a card.
+
+On each sweep the agent should:
+
+1. Run `bun scripts/sweep-context.ts` to get the current feed and the scan plan.
+2. Search/fetch portal pages, official DLD/RERA data, developer pages, auction sources, brokerage pages, and comp-data references from `src/data/scan-plan.ts`.
+3. Create or update cards only when it finds evidence such as under-comp asks, price cuts, urgent/vacant wording, auction timing, off-plan payment pressure, developer-stock spreads, rent/yield gaps, or duplicate same-unit ads.
+4. Write `sourcesChecked` into the sweep draft so `/log` can show which publishing surfaces were actually searched, including zero-result sources.
+
+So: it is not crawling every listing continuously in-process. It is an agentic scheduled collector with a deterministic source map and audit trail. A future hard scraper can reuse the same scan-plan ids and duplicate keys.
+
 ## Key design decisions
 
 - **Chronological opportunity feed.** Newly ingested/updated opportunities float to the top.

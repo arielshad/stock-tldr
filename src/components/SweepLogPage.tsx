@@ -62,6 +62,21 @@ function SweepEntry({
 
       {expanded && (
         <div className="sweep-body">
+          {sweep.sourcesChecked && sweep.sourcesChecked.length > 0 && (
+            <section className="sweep-section">
+              <h3 className="sweep-section-title">
+                SOURCES SEARCHED <span className="sweep-section-count">{sweep.sourcesChecked.length}</span>
+              </h3>
+              <div className="sweep-source-chips" aria-label="Sources searched in this sweep">
+                {sweep.sourcesChecked.map((sourceId) => (
+                  <span className="sweep-source-chip" key={sourceId}>
+                    {sourceId}
+                  </span>
+                ))}
+              </div>
+            </section>
+          )}
+
           {sweep.added.length > 0 && (
             <section className="sweep-section">
               <h3 className="sweep-section-title">

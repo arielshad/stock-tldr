@@ -26,6 +26,7 @@
  * still ships — the next sweep's sweep-context.ts will see the gap.
  */
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { EVERY_SWEEP_SOURCE_IDS, SCAN_SOURCES } from "../src/data/scan-plan.ts";
 import type {
   OpportunityFeed,
   OpportunityItem,
@@ -69,7 +70,7 @@ interface Draft {
   summary?: string;
   coverage?: Category[];
   notes?: Record<string, string>; // id → why-included note
-  videoSearch?: { channelsChecked: string[]; qualifying: boolean; reason?: string };
+  sourcesChecked?: string[];
 }
 
 const draft = JSON.parse(readFileSync(draftPath, "utf8")) as Draft;
@@ -230,6 +231,7 @@ const report: SweepReport = {
   updated: updatedReports,
   removed: removedReports,
   coverage: draft.coverage,
+  sourcesChecked: draft.sourcesChecked,
 };
 
 log.sweeps.push(report);
@@ -253,6 +255,22 @@ if ((draft.coverage ?? []).length < 8) {
   warnings.push(
     `coverage: ${(draft.coverage ?? []).length}/8 categories searched ` +
       `(no quota — informational only).`,
+  );
+}
+
+const knownSourceIds = new Set(SCAN_SOURCES.map((source) => source.id));
+const checkedSourceIds = new Set(draft.sourcesChecked ?? []);
+const unknownSourceIds = [...checkedSourceIds].filter((id) => !knownSourceIds.has(id));
+if (unknownSourceIds.length > 0) {
+  warnings.push(`sourcesChecked has unknown ids: ${unknownSourceIds.join(", ")}.`);
+}
+const missingEverySweepSources = EVERY_SWEEP_SOURCE_IDS.filter(
+  (id) => !checkedSourceIds.has(id),
+);
+if (missingEverySweepSources.length > 0) {
+  warnings.push(
+    `source scan gap: missing every-sweep sources ${missingEverySweepSources.join(", ")} ` +
+      `(empty source results are OK, but the source should be searched).`,
   );
 }
 

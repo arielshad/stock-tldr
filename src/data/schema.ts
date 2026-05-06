@@ -215,6 +215,8 @@ export interface SweepReport {
    * written before the coverage rule; required on new sweeps.
    */
   coverage?: Category[];
+  /** Stable ids from src/data/scan-plan.ts that the agent actually searched. */
+  sourcesChecked?: string[];
 }
 
 export interface SweepLog {
