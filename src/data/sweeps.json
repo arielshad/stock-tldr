@@ -552,6 +552,35 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260506t222625z",
+      "timestamp": "2026-05-06T22:26:25.469Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Arm Q4 FY26 — record print and an above-consensus Q1 FY27 guide, but the AH tape gave back a 12% spike on AGI CPU supply/cost concerns. Most other May 6 movers were already in the feed from the prior sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "arm-q4-fy26-earnings",
+          "title": "Arm Q4 FY26 — revenue $1.49B beats, Q1 FY27 guide $1.26B above Street; ARM +13.6% during day, then reverses ~-5% AH on AGI CPU cost concerns",
+          "category": "earnings",
+          "note": "Material AI-semis print: closed +13.6% on the day; AH initially +12% then reversed -5.5% on AGI CPU manufacturing cost / supply commentary."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }

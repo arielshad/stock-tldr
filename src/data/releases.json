@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-05-06T20:44:38.753Z",
+  "generatedAt": "2026-05-06T22:26:25.469Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "arm-q4-fy26-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Arm Q4 FY26 — revenue $1.49B beats, Q1 FY27 guide $1.26B above Street; ARM +13.6% during day, then reverses ~-5% AH on AGI CPU cost concerns",
+      "org": "Arm Holdings",
+      "date": "2026-05-06",
+      "url": "https://newsroom.arm.com/news/arm-q4-fye26-results",
+      "summary": "Arm posted record Q4 revenue of $1.49B and EPS of $0.60, both beating the Street, and guided Q1 FY27 revenue to $1.26B above the $1.25B consensus. Shares pared an initial 12% AH spike after execs flagged AGI CPU supply and cost issues.",
+      "tickers": [
+        "ARM"
+      ],
+      "metrics": {
+        "EPS": "$0.60 vs $0.58 est",
+        "Revenue": "$1.49B vs $1.47B est",
+        "Licensing rev": "$819M (+29% Y/Y)",
+        "Royalty rev": "$617M (+11% Y/Y)",
+        "FY26 revenue": "$4.92B record",
+        "Q1 FY27 guide": "$1.26B (vs $1.25B est), EPS $0.40 (vs $0.36 est)",
+        "Move": "+13.6% intraday, then -5.5% AH"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q4-fy26",
+        "semis",
+        "ai-capex",
+        "data-center",
+        "agi-cpu",
+        "meta",
+        "arm-architecture"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Arm's first chip-of-its-own pitch beats top and bottom and clears Q1 guide, but AGI CPU supply and cost questions spook the AH tape.",
+        "whatIsIt": "Arm Holdings reported its FY26 fourth-quarter and full-year results after the close on May 6, 2026. The company posted record numbers and unveiled an upbeat Q1 FY27 outlook, but the after-hours print also surfaced supply-chain and cost questions around its newly launched Arm AGI CPU.",
+        "howItWorks": "Q4 revenue of $1.49B beat the $1.47B Street view and adjusted EPS of $0.60 topped the $0.58 estimate. Licensing revenue grew 29% Y/Y to $819M and royalty revenue rose 11% Y/Y to $617M, with full-year FY26 revenue of $4.92B — Arm's third straight year above 20% growth. Q1 FY27 guidance is $1.26B revenue (consensus $1.25B) and adjusted EPS of $0.40 vs $0.36 expected. Management said the Arm AGI CPU, with Meta as lead co-developer, has booked more than $2B of customer demand across FY27–FY28.",
+        "whyItMatters": "Arm closed the regular session up about 13.6% on AI data-center optimism after rivals' results earlier in the week. After hours the stock spiked roughly 12% on the headlines, then reversed to about -5.5% as executives flagged manufacturing cost and supply constraints on the AGI CPU. The print reinforces Arm royalties as a beneficiary of AI compute, but the move from chip licensor to silicon vendor adds gross-margin and execution risk that the buy-side will probe through earnings season.",
+        "forWho": "semi specialists, AI-capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/ARM/"
+      },
+      "image": {
+        "url": "https://newsroom.arm.com/wp-content/uploads/2026/04/Rene-IPO-blog-image-1400x934-1.jpg",
+        "alt": "Arm CEO Rene Haas at NYSE on Arm IPO day",
+        "fit": "cover",
+        "credit": "Arm Holdings plc"
+      },
+      "links": [
+        {
+          "label": "Arm Newsroom",
+          "url": "https://newsroom.arm.com/news/arm-q4-fye26-results"
+        },
+        {
+          "label": "Reuters via Investing",
+          "url": "https://www.investing.com/news/stock-market-news/arm-forecasts-upbeat-revenue-on-surging-ai-data-center-demand-4665277"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52345326/arm-stock-races-higher-after-q4-earnings-heres-why"
+        },
+        {
+          "label": "ARM Quote",
+          "url": "https://finance.yahoo.com/quote/ARM/"
+        }
+      ],
+      "publishDate": "2026-05-06T22:26:25.469Z"
+    },
     {
       "id": "dash-q1-2026-earnings",
       "categories": [
