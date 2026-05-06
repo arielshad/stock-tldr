@@ -1,18 +1,17 @@
-# AI/TLDR Daily Digest Template
+# Stock/TLDR Daily Digest Template
 
-Optimized for **Buttondown + Gmail mobile/web**. Changes from v1:
+Optimized for **Resend Broadcasts + Gmail mobile/web**. Notes:
 
-- **No outer header block** — Buttondown's Classic wrapper handles the title, so we start straight with cards. Avoids triple-header duplication in the delivered email.
+- **Self-contained body** — Resend does NOT inject a masthead/wrapper, so the digest body is exactly what subscribers see (besides their email client's inbox preview using the `subject`). Start with a compact header, end with the unsubscribe footer.
+- **Unsubscribe link required** — Resend rejects sends and ESPs flag mail as spam without one. Use the literal placeholder `{{{RESEND_UNSUBSCRIBE_URL}}}` in the footer; Resend replaces it per-recipient.
 - **Fluid widths** — `width="100%"` with `max-width` in inline style only. The old `width="600"` HTML attribute caused Gmail Android to render at 600px then scale down (the "zoomed-out tiny text" effect).
 - **Fluid images** — removed fixed `height: 220px` + `object-fit: cover`. Gmail mobile doesn't reliably honor `object-fit`, so fixed height blows out aspect ratio. Use `height: auto` and let the real image dimensions drive layout.
 - **Inline-block badges** — replaced the nested badge `<table>` with `inline-block` spans. Gmail mobile sometimes stacks nested table cells vertically, producing the "lots of tiny containers" look.
-- **Tighter padding** — `16px 8px` outer, `16px` card (was `32px 16px` / `20px`). Buttondown adds its own outer padding, so ours should be modest.
+- **Tighter padding** — `16px 8px` outer, `16px` card.
 - **Explainer text halved** — the agent writes `whatIsIt`/`howItWorks`/`whyItMatters`/`forWho` short. Target: 1–2 short sentences each in the newsletter (the full long-form lives on the website card).
 - **System monospace fallback** — `Menlo, Consolas, monospace` instead of `JetBrains Mono` (not a web-safe font; Gmail falls back to default anyway).
 
 ## Structure
-
-Start directly with the HTML tables — no markdown title, no outer header row.
 
 ```html
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#050505" style="background-color: #050505;">
@@ -21,13 +20,24 @@ Start directly with the HTML tables — no markdown title, no outer header row.
 
 <table width="100%" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 600px; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;">
 
+<!-- HEADER -->
+<tr>
+<td style="padding: 8px 0 24px; text-align: center;">
+<p style="margin: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.18em; color: #f7ff00; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">Stock/TLDR · Daily Digest</p>
+<p style="margin: 4px 0 0; font-size: 13px; color: #8a8a85;">{DISPLAY_DATE}</p>
+</td>
+</tr>
+
 {CARDS}
 
 <!-- FOOTER -->
 <tr>
 <td style="padding-top: 32px; border-top: 2px solid #f5f5f0; text-align: center;">
-<p style="margin: 0 0 8px; font-size: 20px; font-weight: 800; color: #f5f5f0;">All releases at <a href="https://ai-tldr.dev" style="color: #f7ff00; text-decoration: none;">ai-tldr.dev</a></p>
-<p style="margin: 0; font-size: 14px; color: #8a8a85;">Simple explanations • No jargon • Updated daily</p>
+<p style="margin: 0 0 8px; font-size: 20px; font-weight: 800; color: #f5f5f0;">All releases at <a href="https://stock-tldr.xyz" style="color: #f7ff00; text-decoration: none;">stock-tldr.xyz</a></p>
+<p style="margin: 0 0 16px; font-size: 14px; color: #8a8a85;">What just moved markets · Updated daily</p>
+<p style="margin: 0; font-size: 12px; color: #8a8a85; font-family: Menlo, Consolas, monospace;">
+<a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color: #8a8a85; text-decoration: underline;">Unsubscribe</a>
+</p>
 </td>
 </tr>
 
@@ -35,7 +45,6 @@ Start directly with the HTML tables — no markdown title, no outer header row.
 </td>
 </tr>
 </table>
-
 ```
 
 ## Card Template
@@ -133,16 +142,15 @@ Start directly with the HTML tables — no markdown title, no outer header row.
 
 ## Rules
 
-1. **Classic template in Buttondown** — Modern template prepends a duplicate masthead we can't hide on the free plan. Switch via [buttondown.com/settings/email](https://buttondown.com/settings/email).
-2. **No outer header block** — Buttondown's Classic wrapper already carries the title.
+1. **Self-contained body** — Resend doesn't add a wrapper; whatever you generate is the entire email. Always include the header block and the unsubscribe footer.
+2. **Unsubscribe placeholder** — the literal string `{{{RESEND_UNSUBSCRIBE_URL}}}` (three braces) goes in the footer `<a href>`. Resend substitutes a per-recipient URL at send time.
 3. **Single column** — 600px max width via inline style, centered.
-4. **Short explainers** — 1–2 sentences per `What/How/Why/Who` block. The full long-form version lives on the website card ([ai-tldr.dev](https://ai-tldr.dev)).
-5. **All links active** — Never mention a tool without linking it.
+4. **Short explainers** — 1–2 sentences per `What/How/Why/Who` block. The full long-form version lives on the website card ([stock-tldr.xyz](https://stock-tldr.xyz)).
+5. **All links active** — never mention a tool/ticker/source without linking it.
 6. **Omit image row if none available** — don't leave broken `<img>` tags.
 7. **5–8 cards** — pick most important recent releases.
 8. **No border-radius** — brutalist aesthetic.
-9. **No markdown header** — start directly with `<table>`.
-10. **No HTML attribute widths** — always `width="100%"` + `max-width` in inline style. Gmail Android scales down fixed-px widths.
+9. **No HTML attribute widths** — always `width="100%"` + `max-width` in inline style. Gmail Android scales down fixed-px widths.
 
 ## Content Mapping
 
@@ -163,11 +171,10 @@ From `releases.json` item:
 | FOR_WHO_SHORT | First 1–2 sentences of `item.explainer.forWho` | |
 | ORG | `item.org` | |
 | URL | `item.url` | |
+| DISPLAY_DATE | Today, formatted `Month DD, YYYY` | Header subtitle |
 
 ## Subject line
 
-Use Buttondown's subject as the headline. Convention: `AI/TLDR Daily Digest — <Month> <Day>, <Year>` (em dash). It shows as the big title in the Classic wrapper, so make it descriptive.
+Resend uses the Broadcast `subject:` as the email subject only — it does not render anywhere inside the body. The header block above provides the in-body title, so `subject` should be punchy and inbox-optimized.
 
-## Example
-
-See: `newsletters/daily/2026_04_18_daily_digest.md` (after v3 transforms applied).
+Convention: `Stock/TLDR Daily Digest — <Month> <Day>, <Year>` (em dash). The `daily-digest.yml` workflow auto-generates this from the run date.

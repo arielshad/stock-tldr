@@ -1,11 +1,11 @@
 ---
 name: daily-digest
-description: Generate daily newsletter digest for Buttondown subscribers. Triggers when user says "daily digest", "newsletter", "generate digest", or similar.
+description: Generate daily Stock/TLDR newsletter digest for Resend subscribers. Triggers when user says "daily digest", "newsletter", "generate digest", or similar.
 ---
 
 # Daily Digest Skill
 
-Generates a daily AI/TLDR newsletter digest in dark brutalist style matching the website.
+Generates a daily Stock/TLDR newsletter digest in dark brutalist style matching the website. Output is raw HTML inside a `.md` file, ready to be uploaded as a Resend Broadcast (the `daily-digest.yml` workflow does the upload as a draft).
 
 ## When to use
 
@@ -23,7 +23,7 @@ Save generated digests to:
 newsletters/daily/{YYYY}_{MM}_{DD}_daily_digest.md
 ```
 
-Example: `newsletters/daily/2026_04_15_daily_digest.md`
+Example: `newsletters/daily/2026_05_06_daily_digest.md`
 
 ## Before generating
 
@@ -44,25 +44,26 @@ Example: `newsletters/daily/2026_04_15_daily_digest.md`
 
 1. **Read recent releases:**
    - Read `src/data/releases.json`
-   - Filter to releases from last 1-3 days
-   - Pick 5-8 most important (seismic > major > notable)
+   - Filter to releases from last 1–3 days
+   - Pick 5–8 most important (seismic > major > notable)
 
 2. **Read template:**
-   - Reference `newsletters/TEMPLATE_DAILY.md` for structure and design tokens
+   - Reference `newsletters/TEMPLATE_DAILY.md` for structure, header/footer blocks, and design tokens
 
 3. **Generate content:**
+   - Open with the header block (Stock/TLDR · Daily Digest + display date)
    - Use dark theme with `bgcolor` tables (email-safe)
    - Single column, 600px max width
-   - Include full explainer content (whatIsIt, howItWorks, whyItMatters, forWho)
-   - All tool/product mentions must have active links
-   - No markdown header — start directly with `<table>`
+   - Include short explainers (1–2 sentences per What/How/Why/Who)
+   - All tool/product/ticker mentions must have active links
+   - End with the unsubscribe footer containing the literal placeholder `{{{RESEND_UNSUBSCRIBE_URL}}}`
 
 4. **Write to file:**
    - Save to `newsletters/daily/{YYYY}_{MM}_{DD}_daily_digest.md`
 
 ## Card content mapping
 
-From `releases.json` item — use FULL content, not simplified:
+From `releases.json` item — use SHORT content (first 1–2 sentences):
 
 | Card Field | Source |
 |------------|--------|
@@ -72,10 +73,10 @@ From `releases.json` item — use FULL content, not simplified:
 | DATE | `item.date` |
 | TITLE | `item.title` |
 | TAGLINE | `item.explainer.tagline` |
-| WHAT_IS_IT | `item.explainer.whatIsIt` (full text) |
-| HOW_IT_WORKS | `item.explainer.howItWorks` (full text) |
-| WHY_IT_MATTERS | `item.explainer.whyItMatters` (full text) |
-| FOR_WHO | `item.explainer.forWho` (full text) |
+| WHAT_IS_IT_SHORT | First 1–2 sentences of `item.explainer.whatIsIt` |
+| HOW_IT_WORKS_SHORT | First 1–2 sentences of `item.explainer.howItWorks` |
+| WHY_IT_MATTERS_SHORT | First 1–2 sentences of `item.explainer.whyItMatters` |
+| FOR_WHO_SHORT | First 1–2 sentences of `item.explainer.forWho` |
 | ORG | `item.org` |
 | URL | `item.url` |
 
@@ -86,20 +87,21 @@ From `releases.json` item — use FULL content, not simplified:
 - Text: #f5f5f0
 - Muted: #8a8a85
 - Accent: #f7ff00
-- Fonts: Inter (body), JetBrains Mono (badges/CTAs)
+- Fonts: Inter (body), Menlo/Consolas (badges/CTAs)
 
 ## Important rules
 
 - **Dark theme** — Use `bgcolor` on tables for email compatibility
-- **Full content** — Include complete What/How/Why/For paragraphs
-- **All links active** — Never mention a tool without a link
+- **Short explainers** — 1–2 sentences each; full long-form lives on the website
+- **All links active** — Never mention a tool/ticker without a link
 - **Use real images** — From releases.json, or omit image row
-- **5-8 cards** — Pick the most important releases
+- **5–8 cards** — Pick the most important releases
 - **No border-radius** — Brutalist aesthetic
-- **No markdown header** — Start with `<table>` directly
+- **Header + unsubscribe footer required** — Resend doesn't add a wrapper
+- **`{{{RESEND_UNSUBSCRIBE_URL}}}`** — literal three-brace placeholder in the footer link
 
 ## After generating
 
 1. Tell user the digest was created
 2. Provide the file path
-3. Commit and push if running in CI
+3. Commit and push if running in CI — the `daily-digest.yml` workflow then uploads the file as a Resend Broadcast in DRAFT state for the user to review at https://resend.com/broadcasts

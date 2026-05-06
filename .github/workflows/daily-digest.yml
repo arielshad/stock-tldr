@@ -1,16 +1,19 @@
 name: Generate daily digest
 
-# Generates a daily newsletter digest for Buttondown subscribers.
+# Generates a daily newsletter digest for Resend subscribers.
 #
 # What it does:
 #   1. Checks out the repo
 #   2. Runs Claude Code with the daily-digest skill
 #   3. Generates newsletters/daily/YYYY_MM_DD_daily_digest.md
-#   4. Commits + pushes to master
+#   4. Commits + pushes to main
+#   5. Creates a Resend Broadcast as DRAFT — review at
+#      https://resend.com/broadcasts and send manually.
 #
 # Required secrets:
 #   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
-#   BUTTONDOWN_TOKEN        — Buttondown API token (optional; skipped if unset)
+#   RESEND_API_KEY          — Resend API key (sending scope or full)
+#   RESEND_SEGMENT_ID       — UUID of the target segment
 
 on:
   schedule:
@@ -76,11 +79,16 @@ jobs:
             - Mix of categories (earnings, mover, macro, mna, analyst, etc.)
 
             STEP 3. Generate the digest file following the template exactly:
-            - Start directly with `<table>` (no markdown header)
+            - Open with the outermost dark-bg `<table>` and the header
+              block ("Stock/TLDR · Daily Digest" + display date)
             - Use dark theme with `bgcolor` attributes
-            - Include FULL explainer content (whatIsIt, howItWorks, etc.)
+            - Include SHORT explainers (1-2 sentences per What/How/Why/Who)
             - All links must be active
-            - Use fonts: Inter for body, JetBrains Mono for badges
+            - Use fonts: Inter for body, Menlo/Consolas for badges
+            - End with the unsubscribe footer containing the literal
+              string `{{{RESEND_UNSUBSCRIBE_URL}}}` (three braces) inside
+              the unsubscribe `<a href>`. Resend substitutes a per-recipient
+              URL at send time — DO NOT replace it with a real URL.
 
             STEP 4. Write the digest to the OUTPUT FILE path shown above.
             If the file already exists, overwrite it with fresh content.
@@ -134,10 +142,13 @@ jobs:
 
           git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
 
-      # Pushes today's digest to Buttondown and SENDS it to subscribers.
-      - name: Send Buttondown email
+      # Creates today's digest as a DRAFT broadcast in Resend. The user
+      # reviews it at https://resend.com/broadcasts and clicks Send. To
+      # auto-send instead of drafting, set send=true in the JSON body.
+      - name: Create Resend broadcast (draft)
         env:
-          BUTTONDOWN_TOKEN: ${{ secrets.BUTTONDOWN_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
           DIGEST_FILE_DATE: ${{ steps.now.outputs.file_date }}
           DIGEST_DISPLAY_DATE: ${{ steps.now.outputs.display_date }}
         run: |
@@ -145,28 +156,34 @@ jobs:
           DIGEST_FILE="newsletters/daily/${DIGEST_FILE_DATE}_daily_digest.md"
 
           if [[ ! -f "$DIGEST_FILE" ]]; then
-            echo "Digest file not found — skipping Buttondown upload."
+            echo "Digest file not found — skipping Resend broadcast."
             exit 0
           fi
-          if [[ -z "${BUTTONDOWN_TOKEN:-}" ]]; then
-            echo "BUTTONDOWN_TOKEN not set — skipping Buttondown upload."
+          if [[ -z "${RESEND_API_KEY:-}" || -z "${RESEND_SEGMENT_ID:-}" ]]; then
+            echo "RESEND_API_KEY or RESEND_SEGMENT_ID not set — skipping."
             exit 0
           fi
 
           export DIGEST_FILE
           node -e '
             const fs = require("fs");
-            const body = fs.readFileSync(process.env.DIGEST_FILE, "utf8");
+            const html = fs.readFileSync(process.env.DIGEST_FILE, "utf8");
             const subject = `Stock/TLDR Daily Digest — ${process.env.DIGEST_DISPLAY_DATE}`;
             (async () => {
-              const res = await fetch("https://api.buttondown.email/v1/emails", {
+              const res = await fetch("https://api.resend.com/broadcasts", {
                 method: "POST",
                 headers: {
-                  "Authorization": "Token " + process.env.BUTTONDOWN_TOKEN,
+                  "Authorization": "Bearer " + process.env.RESEND_API_KEY,
                   "Content-Type": "application/json",
-                  "X-Buttondown-Live-Dangerously": "true"
                 },
-                body: JSON.stringify({ subject, body, status: "about_to_send", email_type: "public" })
+                body: JSON.stringify({
+                  segment_id: process.env.RESEND_SEGMENT_ID,
+                  from: "Stock/TLDR <digest@stock-tldr.xyz>",
+                  reply_to: ["digest@stock-tldr.xyz"],
+                  subject,
+                  name: `daily-digest-${process.env.DIGEST_FILE_DATE}`,
+                  html,
+                }),
               });
               const text = await res.text();
               console.log("STATUS:", res.status);
