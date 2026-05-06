@@ -44,7 +44,11 @@ const SITE_URL =
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const DIST = join(__dirname, "..", "dist");
+// With @cloudflare/vite-plugin + a Worker entry, vite emits the SPA into
+// dist/client/ (and the worker bundle into dist/stock_tldr/). Wrangler's
+// generated config serves dist/client/ as static assets, so all prerendered
+// HTML must land there too.
+const DIST = join(__dirname, "..", "dist", "client");
 const TEMPLATE_PATH = join(DIST, "index.html");
 
 // -----------------------------------------------------------------------
