@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-05-06T10:54:06.395Z",
+  "generatedAt": "2026-05-06T13:03:40.910Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "glw-nvda-ai-fiber-partnership-may-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "NVIDIA + Corning sign multi-year AI optics partnership; NVDA buys $500M in GLW warrants, GLW surges ~14% premarket",
+      "org": "Corning Incorporated",
+      "date": "2026-05-06",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
+      "summary": "NVIDIA and Corning unveiled a multi-year AI optical connectivity partnership: NVIDIA buys $500M in Corning warrants, Corning will 10x US optical manufacturing and add 3 plants and 3,000+ jobs.",
+      "tags": [
+        "ai-capex",
+        "optical-fiber",
+        "ai-infrastructure",
+        "partnership",
+        "warrants",
+        "nvidia",
+        "corning",
+        "us-manufacturing",
+        "semis"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GLW",
+        "NVDA"
+      ],
+      "metrics": {
+        "GLW move": "~+14% premarket",
+        "NVDA warrant": "$500M aggregate",
+        "Strike price": "$180.00 / share (15M shares)",
+        "Pre-funded warrant": "3M shares at $0.0001",
+        "Capacity expansion": "10x US optical connectivity, +50% US fiber"
+      },
+      "explainer": {
+        "tagline": "NVIDIA pays $500M for Corning warrants in a multi-year deal that 10x's US AI optical fiber manufacturing.",
+        "whatIsIt": "NVIDIA and Corning announced a multi-year commercial and technology partnership to expand US manufacturing of advanced optical connectivity solutions for AI infrastructure. NVIDIA is committing $500M to buy Corning warrants and the companies will collaborate on next-generation AI optical interconnects.",
+        "howItWorks": "Per Corning's 8-K, NVIDIA bought a warrant on up to 15M GLW shares at a $180.00 strike plus a pre-funded warrant on 3M shares at $0.0001 — $500M aggregate. Corning will increase US optical connectivity manufacturing capacity by 10x and US fiber capacity by 50%+, building three new plants in North Carolina and Texas and creating 3,000+ jobs.",
+        "whyItMatters": "Locks in optical interconnect supply for NVIDIA's hyperscaler GPU buildout — interconnect is a known scaling chokepoint as AI clusters reach hundreds of thousands of GPUs. GLW gapped ~14% in premarket; NVDA was modestly bid. Anchors a US fiber leader into the AI infrastructure trade.",
+        "forWho": "AI infrastructure allocators, semis desks",
+        "tryIt": "https://finance.yahoo.com/quote/GLW"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108302673-1778030331411-260109_cn_30_tech_corning_meta_cleanmp400_15_13_17Still021.jpg?v=1778032505&w=1920&h=1080",
+        "alt": "Corning optical fiber manufacturing — NVIDIA AI infrastructure partnership",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "NVIDIA Press Release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure"
+        },
+        {
+          "label": "GLW 8-K on SEC EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000273/glw4631061-8k.htm"
+        },
+        {
+          "label": "8-K Warrant Recap",
+          "url": "https://www.stocktitan.net/sec-filings/GLW/8-k-corning-inc-ny-reports-material-event-aac704cc7740.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html"
+        },
+        {
+          "label": "GLW Quote",
+          "url": "https://finance.yahoo.com/quote/GLW"
+        }
+      ],
+      "publishDate": "2026-05-06T13:03:40.910Z"
+    },
+    {
+      "id": "dis-q2-fy2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Disney FQ2 2026 — revenue $25.2B beats, streaming op income +88% to $582M; raises FY26 EPS guide to ~12%",
+      "org": "The Walt Disney Company",
+      "date": "2026-05-06",
+      "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
+      "summary": "Disney's FQ2 2026 beat top and bottom: revenue $25.17B (+7%), adj EPS $1.57 vs $1.50 est, streaming operating income jumped 88% to $582M, FY26 adj EPS growth guide raised to ~12%.",
+      "tags": [
+        "earnings",
+        "fq2-fy2026",
+        "streaming",
+        "disney-plus",
+        "hulu",
+        "experiences",
+        "guidance-raise",
+        "buyback",
+        "media"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DIS"
+      ],
+      "metrics": {
+        "Revenue": "$25.17B (+7% Y/Y) vs $24.9B est",
+        "Adj EPS": "$1.57 vs $1.50 est",
+        "GAAP EPS": "$1.27",
+        "Streaming op income": "$582M (+88% Y/Y)",
+        "FY26 adj EPS guide": "~12% growth (16% w/ 53rd week)",
+        "FY26 buyback": "≥$8B",
+        "Q3 segment op income guide": "~$5.3B",
+        "Move": "~+5% premarket"
+      },
+      "explainer": {
+        "tagline": "Beats on revenue and EPS; streaming op income +88% Y/Y; raises FY26 EPS guide to ~12% growth.",
+        "whatIsIt": "Disney reported fiscal Q2 2026 (calendar Q1) results above consensus on both revenue and adjusted EPS, driven by streaming margin expansion and continued strength at Experiences. Management raised the full-year FY26 adjusted EPS growth target and reaffirmed plans for at least $8B in buybacks.",
+        "howItWorks": "Total revenue $25.17B (+7% Y/Y) vs $24.9B est; adjusted EPS $1.57 vs $1.50 est; GAAP diluted EPS $1.27. Entertainment revenue $11.7B (+10%), Sports $4.6B (+2%), Experiences $9.5B (+7%). Disney+/Hulu combined operating income +88% Y/Y to $582M. Q3 total segment operating income guided to ~$5.3B.",
+        "whyItMatters": "Confirms the streaming margin inflection — Disney+/Hulu now contributing real operating profit, not just subscriber growth. DIS jumped ~5% in premarket. Theme park comparable strength continues despite a 1% domestic attendance decline, offset by per-guest spend and cruise expansion.",
+        "forWho": "Mega-cap and media allocators, streaming desks",
+        "tryIt": "https://finance.yahoo.com/quote/DIS"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
+        "alt": "Walt Disney Studios sign — fiscal Q2 2026 earnings",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Disney 8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/DIS/8-k-walt-disney-co-reports-material-event-0097bd347113.html"
+        },
+        {
+          "label": "CNBC Earnings Coverage",
+          "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html"
+        },
+        {
+          "label": "Disney IR — Q2 FY26 Webcast",
+          "url": "https://investors.thewaltdisneycompany.com/events-and-presentations/event-details/2026/Disneys-Q2-FY26-Earnings-Results-Webcast-2026-PogU4Cr45M/default.aspx"
+        },
+        {
+          "label": "Variety Coverage",
+          "url": "https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/"
+        },
+        {
+          "label": "DIS Quote",
+          "url": "https://finance.yahoo.com/quote/DIS"
+        }
+      ],
+      "publishDate": "2026-05-06T13:03:40.910Z"
+    },
+    {
+      "id": "uber-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Uber Q1 2026 — gross bookings $53.7B (+25%) beat, adj EBITDA +33% to $2.5B; Q2 guide above Street; UBER +10%",
+      "org": "Uber Technologies",
+      "date": "2026-05-06",
+      "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
+      "summary": "Uber Q1 2026 gross bookings rose 25% to $53.72B beating $52.8B est; adj EBITDA +33% Y/Y to $2.5B; Q2 gross bookings guide of $56.25–57.75B above $56.17B consensus. Stock jumped ~10%.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "gross-bookings",
+        "ebitda-beat",
+        "guidance-raise",
+        "ride-share",
+        "delivery",
+        "mobility"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UBER"
+      ],
+      "metrics": {
+        "Gross bookings": "$53.72B (+25% Y/Y) vs $52.8B est",
+        "Revenue": "$13.2B (+14% Y/Y)",
+        "Adj EBITDA": "$2.5B (+33% Y/Y)",
+        "Adj EBITDA margin (on GB)": "4.6% vs 4.4% Y/Y",
+        "GAAP diluted EPS": "$0.13",
+        "Trips": "3.6B (+20% Y/Y)",
+        "MAPCs": "199M (+17% Y/Y)",
+        "Q2 GB guide": "$56.25–57.75B vs $56.17B est",
+        "Move": "~+10%"
+      },
+      "explainer": {
+        "tagline": "Gross bookings +25% to $53.7B, adj EBITDA +33% to $2.5B, Q2 guide above Street; UBER +10%.",
+        "whatIsIt": "Uber reported Q1 2026 results above expectations on bookings, EBITDA, and trips, with monthly active platform consumers up 17% Y/Y to 199M. Q2 guidance came in above consensus on bookings, signaling continued growth across mobility and delivery.",
+        "howItWorks": "Gross bookings $53.72B (+25% Y/Y) vs $52.8B est; revenue $13.2B (+14% Y/Y); adj EBITDA $2.5B (+33% Y/Y) with margin 4.6% of bookings (vs 4.4% Y/Y); GAAP diluted EPS $0.13. Trips +20% Y/Y to 3.6B. Q2 gross bookings guide $56.25–57.75B vs $56.17B Street.",
+        "whyItMatters": "The growth-and-profit combo is the rare double — bookings still compounding +25% while EBITDA scales faster. Stock jumped ~10% on the print. Reinforces the structural take-rate-on-mobility thesis and supports the robotaxi optionality narrative ahead of broader autonomy rollouts.",
+        "forWho": "Tech growth allocators, mobility/delivery watchers",
+        "tryIt": "https://finance.yahoo.com/quote/UBER"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108255726-1769094685480-LDV6Xfm4.jpg?v=1769094774&w=1920&h=1080",
+        "alt": "Uber rides app — Q1 2026 earnings beat",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Uber Q1 26 Press Release (PDF)",
+          "url": "https://investor.uber.com/files/doc_earnings/2026/q1/earnings-result/Uber-Q1-26-Earnings-Press-Release.pdf"
+        },
+        {
+          "label": "Uber Q1 26 Prepared Remarks (PDF)",
+          "url": "https://investor.uber.com/files/doc_earnings/2026/q1/transcript/Uber-Q1-26-Prepared-Remarks.pdf"
+        },
+        {
+          "label": "Uber 8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/UBER/8-k-uber-technologies-inc-reports-material-event-750108a38376.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html"
+        },
+        {
+          "label": "UBER Quote",
+          "url": "https://finance.yahoo.com/quote/UBER"
+        }
+      ],
+      "publishDate": "2026-05-06T13:03:40.910Z"
+    },
     {
       "id": "nvo-q1-2026-earnings",
       "categories": [

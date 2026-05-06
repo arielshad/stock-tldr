@@ -394,6 +394,47 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260506t130340z",
+      "timestamp": "2026-05-06T13:03:40.910Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh, primary-source-confirmed items for May 6, 2026: NVIDIA + Corning announce multi-year AI optical fiber partnership with $500M warrant deal (GLW +14% premarket); Disney FQ2 beats with streaming op income +88%; Uber Q1 prints +25% bookings growth with raised Q2 guide.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "glw-nvda-ai-fiber-partnership-may-2026",
+          "title": "NVIDIA + Corning sign multi-year AI optics partnership; NVDA buys $500M in GLW warrants, GLW surges ~14% premarket",
+          "category": "mover",
+          "note": "Major AI infrastructure deal — $500M warrant, 10x US manufacturing buildout, 3 new plants, GLW +14% premarket. Confirmed by NVDA, GLW press releases and 8-K."
+        },
+        {
+          "id": "dis-q2-fy2026-earnings",
+          "title": "Disney FQ2 2026 — revenue $25.2B beats, streaming op income +88% to $582M; raises FY26 EPS guide to ~12%",
+          "category": "earnings",
+          "note": "Mega-cap earnings beat with raised FY26 guide and streaming op income +88% Y/Y. DIS +5% premarket."
+        },
+        {
+          "id": "uber-q1-2026-earnings",
+          "title": "Uber Q1 2026 — gross bookings $53.7B (+25%) beat, adj EBITDA +33% to $2.5B; Q2 guide above Street; UBER +10%",
+          "category": "earnings",
+          "note": "Mega-cap earnings beat: 25% bookings growth, 33% EBITDA growth, Q2 guide above Street; UBER +10%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
