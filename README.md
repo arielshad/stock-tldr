@@ -1,109 +1,66 @@
-# Stock/TLDR
+# DxbEstate Intel
 
-A comprehensive, real-time tracker of what's moving markets.
+A Dubai real-estate intelligence platform that automatically collects public listings and source signals, organizes them into opportunity cards, keeps them updated, and helps an operator find or sell good deals faster.
 
 ## What this is
 
-Stock/TLDR is **not** a curated newsletter that picks 10 highlights per
-week. It is a **high-volume feed** that captures every market-moving
-release — earnings prints, FOMC decisions, M&A deals, regulatory actions,
-big single-name moves, macro prints, commodity moves, FX interventions,
-and crypto flows. Think Hacker News, but specifically for markets.
+DxbEstate Intel is **not** a glossy property blog. It is a high-volume operating feed for Dubai property work: portal listings, duplicate ads, developer launches, DLD/RERA signals, auction lots, motivated-seller clues, rent/yield screens, luxury leads, commercial stock, and off-plan assignment pressure.
 
-The volume is high because markets move fast. Dozens of things hit the
-tape every day across thousands of issuers, regulators, and central
-banks. The quality bar is "is this real, recent, and primary-source
-verified" — not "is this one of the top 5 stories this week."
-Categories and ticker filters exist so users can navigate a large feed,
-not to limit what goes in.
+The product turns messy listing data into actionable cards: what the opportunity is, what to verify, how the numbers work, why it matters, and who should act on it.
 
 ## Who it's for
 
-Active traders, allocators, finance-curious developers, retail readers
-who want to understand what just moved. The tone is sharp and factual,
-not editorialized. Every item has a plain-English explainer (what
-happened, the actual numbers, why markets care) so you actually
-understand what you're looking at.
+Dubai brokers, buyer agents, seller reps, investors, short-let operators, developers, family-office buyers, and real-estate teams that need a cleaner way to monitor public inventory and source opportunities.
 
-## ⚠️ Not investment advice
+## ⚠️ Not legal, tax, investment, or brokerage advice
 
-Stock/TLDR is informational. It is **not** investment, financial, or
-trading advice. Every item links to its primary source — verify before
-making any financial decision.
+The platform is informational. Every card should link back to its public source and call out verification steps: title deed/Oqood, tenancy, service charges, NOC, broker authority, DLD comps, rent index, payment-plan obligations, and transfer costs.
 
 ## How it works
 
-1. **Content lives in a single JSON file** (`src/data/releases.json`)
-   that conforms to the schema in `src/data/schema.ts`.
-2. **An automated agent** runs on a cron schedule (every 2 hours via
-   GitHub Actions) and refreshes the feed by following the prompt in
-   `prompts/update-releases.md`. The agent uses web search and fetch
-   to discover and verify every release — no hallucination, no
-   invented tickers, no made-up EPS numbers.
-3. **The frontend** is a Bun + Vite + React + TypeScript single-page
-   app with a brutalist editorial design. The feed is a **single
-   chronological stream sorted by ingest time** (newest first). Card
-   size is driven by importance (seismic = large, notable = small)
-   but there is no grouping — all items flow together. Cards are
-   filterable by category and searchable. Clicking a card opens a
-   detail modal with the full explainer, the metrics, and verified
-   source links.
+1. **Content lives in JSON** (`src/data/releases.json`, with `src/data/opportunities.json` symlinked for product-language compatibility) and conforms to `src/data/schema.ts`.
+2. **An automated Claude/agent sweep** runs on a cron schedule via GitHub Actions. It follows `prompts/update-releases.md` / `prompts/update-opportunities.md`, searches property portals and official sources, verifies links, writes a sweep draft, and finalizes it into the feed plus the sweep log.
+3. **The frontend** is a Bun + Vite + React + TypeScript SPA with a brutalist intelligence-dashboard design. Cards are filterable by opportunity category and searchable by area, building, source, tags and explainer text.
+4. **The sweep log** keeps a public audit trail of what was added, updated, removed, and which categories were covered.
 
 ## Key design decisions
 
-- **Flat chronological feed.** Items are sorted by `publishDate`
-  (when the sweep ingested them), not by importance. Card size
-  reflects importance visually, but the stream is continuous.
-- **72-hour hard cap on `date`.** The actual public release date of
-  the news must be within 72 hours of the sweep. Old stories don't
-  get added even if FinTwit is still chatting about them.
-- **No quantity caps.** If 30 things move the tape in a day, the
-  feed shows 30 things. The agent does not skip releases to hit a
-  target number.
-- **Multi-category items.** Each release can belong to multiple
-  categories (e.g. an earnings beat that gapped 12% is `["earnings",
-  "mover"]`). Filter chips match any category.
-- **Tickers as a first-class field.** Each item carries an array of
-  uppercase tickers (`NVDA`, `BTC-USD`, `^GSPC`). Optional —
-  Fed/CPI items often have none — but central to filtering equities
-  by name.
-- **Zero-hallucination policy.** Every URL, image, metric, and
-  ticker in the feed must be fetched and verified by the agent in
-  the run that produced it. If a URL can't be verified, the item
-  gets dropped.
-- **No editorializing.** The feed reports what happened, not what
-  to do about it. No "buy the dip", no "this is bullish", no
-  permabull/permabear framing.
-- **Explainers are the product.** Every item has a structured
-  explainer (what happened / how it works / why markets care / who
-  this is most useful for / try this URL). This is the thing that
-  makes the site worth visiting vs. just refreshing Bloomberg.
+- **Chronological opportunity feed.** Newly ingested/updated opportunities float to the top.
+- **Multi-category cards.** One card can be `distress + ready + rental`, or `offplan + developer + visa`.
+- **Duplicate detection is a feature.** Same-unit listings across brokers are merged and treated as negotiation/source intelligence.
+- **Operator-first explainers.** Every card answers: what is it, how does it work, why does it matter, who is it for, and what should be verified next.
+- **No hype.** The platform does not say “buy this.” It captures evidence, numbers, risks, and next checks.
+- **Same CI/CD/AI pattern.** The repo keeps the existing Cloudflare deploy, scheduled Claude Code sweep, finalizer, typecheck, build, prerender, and newsletter patterns, extended for Dubai real estate.
 
 ## Architecture
 
-```
+```text
 src/
   data/
-    schema.ts          # TypeScript types (ReleaseItem, ReleaseFeed, Category, etc.)
-    releases.json      # The content — written by the agent, rendered by the UI
-    categories.ts      # Category metadata (labels, glyphs, blurbs)
-    feed.ts            # Typed accessors, filters, sort helpers
-    influencers.ts     # Curated finance / markets voices
+    schema.ts              # Category, ReleaseItem/OpportunityItem, sweep types
+    releases.json          # Canonical feed data
+    opportunities.json     # Symlink for product-language compatibility
+    categories.ts          # Dubai real-estate category metadata
+    feed.ts                # Typed accessors, filters, sort helpers
+    sources.ts             # Source-map compatibility export
+    influencers.ts         # Dubai source map (portals, DLD/RERA, developers, data)
   components/
-    ReleaseCard.tsx     # Grid card with image, badges, tagline, ticker chips
-    ReleaseModal.tsx    # 16:9 detail modal with explainer panels + sources
-    ReleaseImage.tsx    # Image with onError fallback
-    FilterBar.tsx       # Category chips + search input
-  App.tsx               # Page shell, filter state, URL-driven modal
-  App.css               # All layout + component styles
-  index.css             # Global reset + CSS variables
-  main.tsx              # React entrypoint
+    ReleaseCard.tsx        # Historical component name; renders opportunity cards
+    OpportunityCard.tsx    # Product-language wrapper
+    ReleaseModal.tsx       # Historical component name; renders detail modal
+    OpportunityModal.tsx   # Product-language wrapper
+    InfluencersPage.tsx    # Historical file name; now exports SourcesPage
+    SweepLogPage.tsx       # Collection/sweep changelog
+  App.tsx                  # Page shell, filters, routes, modal state
 
 prompts/
-  update-releases.md    # The agent prompt — single source of truth for content updates
+  update-releases.md       # Canonical collection-agent prompt
+  update-opportunities.md  # Product-language copy of the prompt
 
 .github/workflows/
-  update-releases.yml   # Cron job that runs the agent every 2 hours
+  update-releases.yml      # Scheduled Claude Code sweep
+  deploy.yml               # Cloudflare Workers deploy
+  daily-digest.yml         # Optional email digest pattern
 ```
 
 ## Running locally
@@ -113,23 +70,24 @@ bun install
 bun dev
 ```
 
-## Adding a category
-
-1. Add the value to the `Category` union and `CATEGORY_ORDER` in
-   `src/data/schema.ts`.
-2. Add a matching entry in `src/data/categories.ts`.
-3. Done — filter chips, cards, and modal badges pick it up automatically.
-
-## Updating content
-
-The feed updates automatically via GitHub Actions. To trigger manually:
+## Validate/build
 
 ```bash
-gh workflow run "Update releases (every 2h)"
+bun run typecheck
+bun run lint
+bun run build
 ```
 
-Or run the agent locally by spawning a Claude Code subagent with
-`prompts/update-releases.md` as the task prompt.
+## Updating content manually
+
+Create a `sweep-draft.json`, then run:
+
+```bash
+bun scripts/finalize-sweep.ts sweep-draft.json --source manual-backfill
+bun run build
+```
+
+Or run the agent locally with `prompts/update-opportunities.md` as the task prompt.
 
 ## License
 

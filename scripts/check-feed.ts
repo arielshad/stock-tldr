@@ -1,15 +1,15 @@
 #!/usr/bin/env bun
 /**
- * Validate releases.json:
+ * Validate opportunities.json:
  *   - no exact-id duplicates
  *   - no normalized-id duplicates (lowercased, alphanumeric-only)
  *   - no canonical-URL duplicates
  *
  * The last two catch the case where the agent emits a slightly-
  * different slug (claude-opus-4-7 vs anthropic-claude-opus-4-7) for
- * the same release.
+ * the same opportunity.
  */
-import feed from "../src/data/releases.json" with { type: "json" };
+import feed from "../src/data/opportunities.json" with { type: "json" };
 
 const items = (feed as { items: Array<{ id: string; title: string; url: string }> }).items;
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 /**
- * Merge a sweep-draft.json into releases.json + sweeps.json.
+ * Merge a sweep-draft.json into opportunities.json + sweeps.json.
  *
  * Usage:  bun scripts/finalize-sweep.ts [draft-path] [--source <label>]
  *
@@ -8,12 +8,12 @@
  * Default source label: "github-actions-sweep".
  *
  * What it does:
- *   1. Loads draft, current releases.json, current sweeps.json.
+ *   1. Loads draft, current opportunities.json, current sweeps.json.
  *   2. Validates: every newItems[].id is NOT already in the feed.
  *      (duplicate id → hard fail with a pointer to SWEEP_MEMORY.md.)
  *   3. Applies updates[] in place (legitimate "fix existing entry" path).
  *   4. Sorts items by date DESC.
- *   6. Writes new releases.json.
+ *   6. Writes new opportunities.json.
  *   7. Builds a SweepReport from the diff vs the prior file:
  *      counts, added[], updated[], removed[], summary, coverage.
  *   8. Appends to sweeps.json.
@@ -27,8 +27,8 @@
  */
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import type {
-  ReleaseFeed,
-  ReleaseItem,
+  OpportunityFeed,
+  OpportunityItem,
   SweepLog,
   SweepReport,
   Category,
@@ -55,7 +55,7 @@ if (!existsSync(draftPath)) {
 
 interface DraftUpdate {
   id: string;
-  patch: Partial<ReleaseItem>;
+  patch: Partial<OpportunityItem>;
   note?: string;
 }
 interface DraftRemoval {
@@ -63,7 +63,7 @@ interface DraftRemoval {
   reason: string;
 }
 interface Draft {
-  newItems?: ReleaseItem[];
+  newItems?: OpportunityItem[];
   updates?: DraftUpdate[];
   removals?: DraftRemoval[];
   summary?: string;
@@ -77,15 +77,15 @@ const newItems = draft.newItems ?? [];
 const updates = draft.updates ?? [];
 const removals = draft.removals ?? [];
 
-const releasesPath = "src/data/releases.json";
+const opportunitiesPath = "src/data/opportunities.json";
 const sweepsPath = "src/data/sweeps.json";
 
-const feed = JSON.parse(readFileSync(releasesPath, "utf8")) as ReleaseFeed;
+const feed = JSON.parse(readFileSync(opportunitiesPath, "utf8")) as OpportunityFeed;
 const log = JSON.parse(readFileSync(sweepsPath, "utf8")) as SweepLog;
 
 // 1) Hard rule: no duplicate ids OR normalized-id collisions OR
 // canonical-URL collisions. The latter two catch the case where the
-// agent emits a slightly-different slug for an existing release.
+// agent emits a slightly-different slug for an existing opportunity.
 const normId = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 function canonUrl(u: string): string {
   try {
@@ -117,7 +117,7 @@ if (collisions.length > 0) {
   console.error("finalize-sweep: collision(s) in newItems:");
   for (const c of collisions) console.error(`  - ${c}`);
   console.error(
-    "\nSWEEP_MEMORY.md entry 2026-04-28-A: never re-add an existing release.",
+    "\nSWEEP_MEMORY.md entry 2026-04-28-A: never re-add an existing opportunity.",
   );
   console.error(
     "If the existing entry needs a fix, use `updates[]` with the existing id.",
@@ -138,15 +138,15 @@ for (const item of newItems) {
   if (!item.explainer) minSchemaErrors.push(`${item.id}: missing explainer`);
   if (!item.categories?.length)
     minSchemaErrors.push(`${item.id}: missing categories`);
-  // 72h date cap (Hard Rule 2 in prompts/update-releases.md). The
-  // Mythos bug shipped a 17-day-old release. Don't repeat it.
+  // 72h date cap (Hard Rule 2 in prompts/update-opportunities.md). The
+  // Mythos bug shipped a 17-day-old opportunity. Don't repeat it.
   if (item.date) {
     const dt = new Date(item.date + "T00:00:00Z").getTime();
     const ageH = (sweepNow - dt) / (1000 * 60 * 60);
     if (ageH > MAX_DATE_AGE_HOURS) {
       minSchemaErrors.push(
         `${item.id}: date ${item.date} is ${Math.floor(ageH)}h old ` +
-          `(max ${MAX_DATE_AGE_HOURS}h). Old releases stay un-added.`,
+          `(max ${MAX_DATE_AGE_HOURS}h). Old opportunities stay un-added.`,
       );
     }
   }
@@ -202,8 +202,8 @@ feed.items.sort((a, b) => b.publishDate.localeCompare(a.publishDate));
 feed.generatedAt = generatedAt;
 feed.source = sourceLabel;
 
-// 7) Write releases.json
-writeFileSync(releasesPath, JSON.stringify(feed, null, 2) + "\n");
+// 7) Write opportunities.json
+writeFileSync(opportunitiesPath, JSON.stringify(feed, null, 2) + "\n");
 
 // 8) Build sweep report
 const sweepId = `sweep-${generatedAt

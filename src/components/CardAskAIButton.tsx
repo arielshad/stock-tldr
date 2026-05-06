@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import type { ReleaseItem } from "../data/schema";
+import type { OpportunityItem } from "../data/schema";
 import {
   IconChatGPT,
   IconClaude,
@@ -31,7 +31,7 @@ function IconAI() {
  * Same behavior as CardShareButton: stopPropagation on all events,
  * Escape + outside click to close.
  */
-export function CardAskAIButton({ item }: { item: ReleaseItem }) {
+export function CardAskAIButton({ item }: { item: OpportunityItem }) {
   const [open, setOpen] = useState(false);
   const rootRef = useRef<HTMLDivElement>(null);
   const platforms = useAITargets(item);
@@ -73,7 +73,7 @@ export function CardAskAIButton({ item }: { item: ReleaseItem }) {
           setOpen((o) => !o);
         }}
         title="Ask AI"
-        aria-label={open ? "Close AI menu" : "Ask AI about this release"}
+        aria-label={open ? "Close AI menu" : "Ask AI about this opportunity"}
         aria-expanded={open}
         aria-haspopup="menu"
       >
@@ -93,7 +93,7 @@ export function CardAskAIButton({ item }: { item: ReleaseItem }) {
             role="menuitem"
             onClick={(e) => {
               e.stopPropagation();
-              track("release:ask-ai", {
+              track("opportunity:ask-ai", {
                 id: item.id,
                 platform: "chatgpt",
                 source: "card",
@@ -114,7 +114,7 @@ export function CardAskAIButton({ item }: { item: ReleaseItem }) {
             role="menuitem"
             onClick={(e) => {
               e.stopPropagation();
-              track("release:ask-ai", {
+              track("opportunity:ask-ai", {
                 id: item.id,
                 platform: "claude",
                 source: "card",
@@ -135,7 +135,7 @@ export function CardAskAIButton({ item }: { item: ReleaseItem }) {
             role="menuitem"
             onClick={(e) => {
               e.stopPropagation();
-              track("release:ask-ai", {
+              track("opportunity:ask-ai", {
                 id: item.id,
                 platform: "gemini",
                 source: "card",
@@ -156,7 +156,7 @@ export function CardAskAIButton({ item }: { item: ReleaseItem }) {
             role="menuitem"
             onClick={(e) => {
               e.stopPropagation();
-              track("release:ask-ai", {
+              track("opportunity:ask-ai", {
                 id: item.id,
                 platform: "perplexity",
                 source: "card",
@@ -177,7 +177,7 @@ export function CardAskAIButton({ item }: { item: ReleaseItem }) {
             role="menuitem"
             onClick={(e) => {
               e.stopPropagation();
-              track("release:ask-ai", {
+              track("opportunity:ask-ai", {
                 id: item.id,
                 platform: "grok",
                 source: "card",

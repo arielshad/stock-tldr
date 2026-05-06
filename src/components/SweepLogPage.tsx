@@ -25,12 +25,12 @@ function SweepEntry({
   sweep,
   expanded,
   onToggle,
-  onOpenRelease,
+  onOpenOpportunity,
 }: {
   sweep: SweepReport;
   expanded: boolean;
   onToggle: () => void;
-  onOpenRelease: (id: string) => void;
+  onOpenOpportunity: (id: string) => void;
 }) {
   const ts = formatTimestamp(sweep.timestamp);
   const badge = sourceBadge(sweep.source);
@@ -73,7 +73,7 @@ function SweepEntry({
                     <button
                       type="button"
                       className="sweep-item-head"
-                      onClick={() => onOpenRelease(item.id)}
+                      onClick={() => onOpenOpportunity(item.id)}
                     >
                       <span className="badge badge-cat sweep-cat">
                         {item.category}
@@ -98,7 +98,7 @@ function SweepEntry({
                     <button
                       type="button"
                       className="sweep-item-head"
-                      onClick={() => onOpenRelease(item.id)}
+                      onClick={() => onOpenOpportunity(item.id)}
                     >
                       <span className="sweep-item-title">{item.title}</span>
                     </button>
@@ -131,9 +131,9 @@ function SweepEntry({
 }
 
 export function SweepLogPage({
-  onOpenRelease,
+  onOpenOpportunity,
 }: {
-  onOpenRelease: (id: string) => void;
+  onOpenOpportunity: (id: string) => void;
 }) {
   const sweeps = useMemo(() => allSweeps(), []);
   const [expanded, setExpanded] = useState<Set<string>>(() => {
@@ -169,7 +169,7 @@ export function SweepLogPage({
   return (
     <>
       <div className="log-header">
-        <h1 className="log-title">Markets Changelog</h1>
+        <h1 className="log-title">Dubai property Changelog</h1>
         <span className="log-subtitle">
           {sweeps.length} sweeps · +{totals.added} items added · ~{totals.updated}{" "}
           updated · −{totals.removed} removed
@@ -187,7 +187,7 @@ export function SweepLogPage({
                 sweep={sweep}
                 expanded={expanded.has(sweep.id)}
                 onToggle={() => toggle(sweep.id)}
-                onOpenRelease={onOpenRelease}
+                onOpenOpportunity={onOpenOpportunity}
               />
             ))}
             {hasMore && (

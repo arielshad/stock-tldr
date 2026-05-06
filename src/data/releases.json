@@ -1,2190 +1,423 @@
 {
-  "generatedAt": "2026-05-06T13:03:40.910Z",
-  "promptVersion": "1.0.0",
-  "source": "github-actions-sweep",
+  "generatedAt": "2026-05-06T08:00:00.000Z",
+  "promptVersion": "dubai-real-estate-sweep-v1",
+  "source": "manual-platform-seed",
   "items": [
     {
-      "id": "glw-nvda-ai-fiber-partnership-may-2026",
+      "id": "dubai-marina-distress-2br-under-comp-may-2026",
       "categories": [
-        "mover",
-        "sector"
+        "distress",
+        "ready",
+        "rental"
       ],
-      "title": "NVIDIA + Corning sign multi-year AI optics partnership; NVDA buys $500M in GLW warrants, GLW surges ~14% premarket",
-      "org": "Corning Incorporated",
+      "title": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+      "org": "Property Finder",
       "date": "2026-05-06",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
-      "summary": "NVIDIA and Corning unveiled a multi-year AI optical connectivity partnership: NVIDIA buys $500M in Corning warrants, Corning will 10x US optical manufacturing and add 3 plants and 3,000+ jobs.",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&fu=0&l=50&ob=pa&page=1&rp=y&t=1",
+      "summary": "A Marina 2BR screen is tagged as a possible under-market ready unit where vacant possession and furnishing could improve resale or short-let returns.",
       "tags": [
-        "ai-capex",
-        "optical-fiber",
-        "ai-infrastructure",
-        "partnership",
-        "warrants",
-        "nvidia",
-        "corning",
-        "us-manufacturing",
-        "semis"
+        "dubai-marina",
+        "2br",
+        "vacant",
+        "below-comp",
+        "short-let"
       ],
       "importance": "major",
       "tickers": [
-        "GLW",
-        "NVDA"
+        "DXB-MARINA",
+        "READY"
       ],
       "metrics": {
-        "GLW move": "~+14% premarket",
-        "NVDA warrant": "$500M aggregate",
-        "Strike price": "$180.00 / share (15M shares)",
-        "Pre-funded warrant": "3M shares at $0.0001",
-        "Capacity expansion": "10x US optical connectivity, +50% US fiber"
-      },
-      "explainer": {
-        "tagline": "NVIDIA pays $500M for Corning warrants in a multi-year deal that 10x's US AI optical fiber manufacturing.",
-        "whatIsIt": "NVIDIA and Corning announced a multi-year commercial and technology partnership to expand US manufacturing of advanced optical connectivity solutions for AI infrastructure. NVIDIA is committing $500M to buy Corning warrants and the companies will collaborate on next-generation AI optical interconnects.",
-        "howItWorks": "Per Corning's 8-K, NVIDIA bought a warrant on up to 15M GLW shares at a $180.00 strike plus a pre-funded warrant on 3M shares at $0.0001 — $500M aggregate. Corning will increase US optical connectivity manufacturing capacity by 10x and US fiber capacity by 50%+, building three new plants in North Carolina and Texas and creating 3,000+ jobs.",
-        "whyItMatters": "Locks in optical interconnect supply for NVIDIA's hyperscaler GPU buildout — interconnect is a known scaling chokepoint as AI clusters reach hundreds of thousands of GPUs. GLW gapped ~14% in premarket; NVDA was modestly bid. Anchors a US fiber leader into the AI infrastructure trade.",
-        "forWho": "AI infrastructure allocators, semis desks",
-        "tryIt": "https://finance.yahoo.com/quote/GLW"
-      },
-      "image": {
-        "url": "https://image.cnbcfm.com/api/v1/image/108302673-1778030331411-260109_cn_30_tech_corning_meta_cleanmp400_15_13_17Still021.jpg?v=1778032505&w=1920&h=1080",
-        "alt": "Corning optical fiber manufacturing — NVIDIA AI infrastructure partnership",
-        "fit": "cover"
+        "Ask": "AED 2.05M screen",
+        "Size": "~1,250 sqft target",
+        "Gross yield": "6.5\u20137.5% comp range",
+        "Transfer costs": "4% DLD + fees",
+        "Status": "Verify title, tenancy and NOC"
       },
       "links": [
         {
-          "label": "NVIDIA Press Release",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure"
-        },
-        {
-          "label": "GLW 8-K on SEC EDGAR",
-          "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000273/glw4631061-8k.htm"
-        },
-        {
-          "label": "8-K Warrant Recap",
-          "url": "https://www.stocktitan.net/sec-filings/GLW/8-k-corning-inc-ny-reports-material-event-aac704cc7740.html"
-        },
-        {
-          "label": "CNBC Coverage",
-          "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html"
-        },
-        {
-          "label": "GLW Quote",
-          "url": "https://finance.yahoo.com/quote/GLW"
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&fu=0&l=50&ob=pa&page=1&rp=y&t=1"
         }
       ],
-      "publishDate": "2026-05-06T13:03:40.910Z"
+      "explainer": {
+        "tagline": "A ready Marina 2BR screen where price-per-square-foot looks cheap enough to justify immediate comp work.",
+        "whatIsIt": "This is a candidate opportunity card, not a buy recommendation. The collection agent should verify the exact unit, floor, view, title status, service-charge history, and whether the seller is genuinely motivated.",
+        "howItWorks": "The platform keeps the portal search, current ask, area, expected rent, transfer costs, and due-diligence notes in one record. If the same unit appears through another broker at a different price, the duplicate detector should attach it rather than create a new card.",
+        "whyItMatters": "Marina liquidity is deep, so a true under-comp ready unit can be sold, rented, or furnished for holiday-home yield faster than niche communities. The risk is stale advertising: many attractive Marina listings are bait, already sold, or not vacant.",
+        "forWho": "Cash buyers, buyer agents, and short-let operators who can verify availability quickly.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-data/#/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+        "alt": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
     },
     {
-      "id": "dis-q2-fy2026-earnings",
+      "id": "jvc-studio-gross-yield-watchlist-may-2026",
       "categories": [
-        "earnings",
-        "mover"
+        "rental",
+        "ready",
+        "visa"
       ],
-      "title": "Disney FQ2 2026 — revenue $25.2B beats, streaming op income +88% to $582M; raises FY26 EPS guide to ~12%",
-      "org": "The Walt Disney Company",
+      "title": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+      "org": "Bayut",
       "date": "2026-05-06",
-      "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
-      "summary": "Disney's FQ2 2026 beat top and bottom: revenue $25.17B (+7%), adj EPS $1.57 vs $1.50 est, streaming operating income jumped 88% to $582M, FY26 adj EPS growth guide raised to ~12%.",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.bayut.com/for-sale/studio-apartments/dubai/jumeirah-village-circle-jvc/",
+      "summary": "JVC studios near the lower visa threshold are tagged for rent-comp validation, service-charge drag, and liquidity checks.",
       "tags": [
-        "earnings",
-        "fq2-fy2026",
-        "streaming",
-        "disney-plus",
-        "hulu",
-        "experiences",
-        "guidance-raise",
-        "buyback",
-        "media"
-      ],
-      "importance": "major",
-      "tickers": [
-        "DIS"
-      ],
-      "metrics": {
-        "Revenue": "$25.17B (+7% Y/Y) vs $24.9B est",
-        "Adj EPS": "$1.57 vs $1.50 est",
-        "GAAP EPS": "$1.27",
-        "Streaming op income": "$582M (+88% Y/Y)",
-        "FY26 adj EPS guide": "~12% growth (16% w/ 53rd week)",
-        "FY26 buyback": "≥$8B",
-        "Q3 segment op income guide": "~$5.3B",
-        "Move": "~+5% premarket"
-      },
-      "explainer": {
-        "tagline": "Beats on revenue and EPS; streaming op income +88% Y/Y; raises FY26 EPS guide to ~12% growth.",
-        "whatIsIt": "Disney reported fiscal Q2 2026 (calendar Q1) results above consensus on both revenue and adjusted EPS, driven by streaming margin expansion and continued strength at Experiences. Management raised the full-year FY26 adjusted EPS growth target and reaffirmed plans for at least $8B in buybacks.",
-        "howItWorks": "Total revenue $25.17B (+7% Y/Y) vs $24.9B est; adjusted EPS $1.57 vs $1.50 est; GAAP diluted EPS $1.27. Entertainment revenue $11.7B (+10%), Sports $4.6B (+2%), Experiences $9.5B (+7%). Disney+/Hulu combined operating income +88% Y/Y to $582M. Q3 total segment operating income guided to ~$5.3B.",
-        "whyItMatters": "Confirms the streaming margin inflection — Disney+/Hulu now contributing real operating profit, not just subscriber growth. DIS jumped ~5% in premarket. Theme park comparable strength continues despite a 1% domestic attendance decline, offset by per-guest spend and cruise expansion.",
-        "forWho": "Mega-cap and media allocators, streaming desks",
-        "tryIt": "https://finance.yahoo.com/quote/DIS"
-      },
-      "image": {
-        "url": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
-        "alt": "Walt Disney Studios sign — fiscal Q2 2026 earnings",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "Disney 8-K Filing",
-          "url": "https://www.stocktitan.net/sec-filings/DIS/8-k-walt-disney-co-reports-material-event-0097bd347113.html"
-        },
-        {
-          "label": "CNBC Earnings Coverage",
-          "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html"
-        },
-        {
-          "label": "Disney IR — Q2 FY26 Webcast",
-          "url": "https://investors.thewaltdisneycompany.com/events-and-presentations/event-details/2026/Disneys-Q2-FY26-Earnings-Results-Webcast-2026-PogU4Cr45M/default.aspx"
-        },
-        {
-          "label": "Variety Coverage",
-          "url": "https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/"
-        },
-        {
-          "label": "DIS Quote",
-          "url": "https://finance.yahoo.com/quote/DIS"
-        }
-      ],
-      "publishDate": "2026-05-06T13:03:40.910Z"
-    },
-    {
-      "id": "uber-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Uber Q1 2026 — gross bookings $53.7B (+25%) beat, adj EBITDA +33% to $2.5B; Q2 guide above Street; UBER +10%",
-      "org": "Uber Technologies",
-      "date": "2026-05-06",
-      "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
-      "summary": "Uber Q1 2026 gross bookings rose 25% to $53.72B beating $52.8B est; adj EBITDA +33% Y/Y to $2.5B; Q2 gross bookings guide of $56.25–57.75B above $56.17B consensus. Stock jumped ~10%.",
-      "tags": [
-        "earnings",
-        "q1-2026",
-        "gross-bookings",
-        "ebitda-beat",
-        "guidance-raise",
-        "ride-share",
-        "delivery",
-        "mobility"
-      ],
-      "importance": "major",
-      "tickers": [
-        "UBER"
-      ],
-      "metrics": {
-        "Gross bookings": "$53.72B (+25% Y/Y) vs $52.8B est",
-        "Revenue": "$13.2B (+14% Y/Y)",
-        "Adj EBITDA": "$2.5B (+33% Y/Y)",
-        "Adj EBITDA margin (on GB)": "4.6% vs 4.4% Y/Y",
-        "GAAP diluted EPS": "$0.13",
-        "Trips": "3.6B (+20% Y/Y)",
-        "MAPCs": "199M (+17% Y/Y)",
-        "Q2 GB guide": "$56.25–57.75B vs $56.17B est",
-        "Move": "~+10%"
-      },
-      "explainer": {
-        "tagline": "Gross bookings +25% to $53.7B, adj EBITDA +33% to $2.5B, Q2 guide above Street; UBER +10%.",
-        "whatIsIt": "Uber reported Q1 2026 results above expectations on bookings, EBITDA, and trips, with monthly active platform consumers up 17% Y/Y to 199M. Q2 guidance came in above consensus on bookings, signaling continued growth across mobility and delivery.",
-        "howItWorks": "Gross bookings $53.72B (+25% Y/Y) vs $52.8B est; revenue $13.2B (+14% Y/Y); adj EBITDA $2.5B (+33% Y/Y) with margin 4.6% of bookings (vs 4.4% Y/Y); GAAP diluted EPS $0.13. Trips +20% Y/Y to 3.6B. Q2 gross bookings guide $56.25–57.75B vs $56.17B Street.",
-        "whyItMatters": "The growth-and-profit combo is the rare double — bookings still compounding +25% while EBITDA scales faster. Stock jumped ~10% on the print. Reinforces the structural take-rate-on-mobility thesis and supports the robotaxi optionality narrative ahead of broader autonomy rollouts.",
-        "forWho": "Tech growth allocators, mobility/delivery watchers",
-        "tryIt": "https://finance.yahoo.com/quote/UBER"
-      },
-      "image": {
-        "url": "https://image.cnbcfm.com/api/v1/image/108255726-1769094685480-LDV6Xfm4.jpg?v=1769094774&w=1920&h=1080",
-        "alt": "Uber rides app — Q1 2026 earnings beat",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "Uber Q1 26 Press Release (PDF)",
-          "url": "https://investor.uber.com/files/doc_earnings/2026/q1/earnings-result/Uber-Q1-26-Earnings-Press-Release.pdf"
-        },
-        {
-          "label": "Uber Q1 26 Prepared Remarks (PDF)",
-          "url": "https://investor.uber.com/files/doc_earnings/2026/q1/transcript/Uber-Q1-26-Prepared-Remarks.pdf"
-        },
-        {
-          "label": "Uber 8-K Filing",
-          "url": "https://www.stocktitan.net/sec-filings/UBER/8-k-uber-technologies-inc-reports-material-event-750108a38376.html"
-        },
-        {
-          "label": "CNBC Coverage",
-          "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html"
-        },
-        {
-          "label": "UBER Quote",
-          "url": "https://finance.yahoo.com/quote/UBER"
-        }
-      ],
-      "publishDate": "2026-05-06T13:03:40.910Z"
-    },
-    {
-      "id": "nvo-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "tickers": [
-        "NVO",
-        "LLY"
-      ],
-      "title": "Novo Nordisk Q1 2026 — Wegovy pill drives 'strongest-ever' GLP-1 launch, raises FY26 guide; NVO +6.7% in Copenhagen",
-      "org": "Novo Nordisk",
-      "date": "2026-05-06",
-      "url": "https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html",
-      "summary": "Adjusted operating profit DKK 32.9B, Wegovy pill prescriptions topped 2M since the January US launch, and Novo narrowed FY26 adjusted sales/profit guidance to -4 to -12% from -5 to -13% prior. Shares jumped in Copenhagen.",
-      "tags": [
-        "earnings",
-        "guidance-raise",
-        "q1-2026",
-        "obesity",
-        "glp-1",
-        "wegovy",
-        "ozempic",
-        "pharma",
-        "novo-nordisk"
-      ],
-      "importance": "major",
-      "metrics": {
-        "Reported revenue": "DKK 96.8B (+32% CER, incl. 340B reversal)",
-        "Adj. operating profit": "DKK 32.9B (-6% CER)",
-        "Wegovy injection": "DKK 18.2B (+12% Y/Y)",
-        "Wegovy pill TRx": "~1.3M Q1; >2M since Jan launch",
-        "FY26 adj. sales guide": "-4 to -12% (from -5 to -13%)",
-        "Stock": "+6.7% Copenhagen morning"
-      },
-      "explainer": {
-        "tagline": "Wegovy pill launch beats expectations, prompting Novo to lift the floor of its FY26 guide despite Lilly's competing Foundayo.",
-        "whatIsIt": "Novo Nordisk reported Q1 2026 results that beat operating profit expectations, driven by its newly-launched Wegovy oral GLP-1 pill which has hit ~2M prescriptions since the January 5 US launch. The company narrowed its 2026 outlook to a -4 to -12% adjusted sales contraction (vs. -5 to -13% prior) and a matching range on adjusted operating profit growth.",
-        "howItWorks": "Reported Q1 net sales of DKK 96.8B were +32% at constant currency, lifted by a one-time 340B Medicaid rebate provision reversal. On an adjusted basis (excluding that reversal), sales were DKK 70.1B (-4% CER) and adjusted operating profit DKK 32.9B (-6% CER). Wegovy injection sales of DKK 18.2B grew 12% Y/Y. The Wegovy pill, launched in the US on January 5, has accumulated more than 2M prescriptions including ~1.3M in Q1 alone, with weekly Rx volumes exceeding 200K by the week of April 17 — what Novo calls the strongest-ever GLP-1 launch by US volume.",
-        "whyItMatters": "The pill ramp eases concerns that Eli Lilly's Foundayo (orforglipron, FDA-approved early April) would steal the oral GLP-1 category outright; Lilly disclosed >20K patient starts on Foundayo in early weeks while Novo's Wegovy commands ~65% of new US Rx. NVO trades far below its 2024 highs after a brutal 12-month derate; today's guide bump is the first upside revision since the Wegovy pill approval cycle. Watch Eli Lilly's response on Q2 calls.",
-        "forWho": "GLP-1 desks, large-cap pharma traders, biotech allocators",
-        "tryIt": "https://www.novonordisk.com/investors/financial-results.html"
-      },
-      "image": {
-        "url": "https://ml-eu.globenewswire.com/Resource/Download/18c2fb08-e2c1-4a52-90dd-5c0f18213eb6",
-        "alt": "Novo Nordisk Q1 2026 earnings release header",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "Press Release",
-          "url": "https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html"
-        },
-        {
-          "label": "CNBC Coverage",
-          "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html"
-        },
-        {
-          "label": "RTÉ Coverage",
-          "url": "https://www.rte.ie/news/business/2026/0506/1571910-novo-nordisk-raises-outlook-as-q1-profit-beats-forecast/"
-        },
-        {
-          "label": "NVO Quote",
-          "url": "https://finance.yahoo.com/quote/NVO/"
-        },
-        {
-          "label": "Novo IR",
-          "url": "https://www.novonordisk.com/investors/financial-results.html"
-        }
-      ],
-      "publishDate": "2026-05-06T10:54:06.395Z"
-    },
-    {
-      "id": "samsung-1t-market-cap-may-2026",
-      "categories": [
-        "mover",
-        "sector"
-      ],
-      "title": "Samsung Electronics tops $1T market cap as AI memory rally lifts shares ~12%; KOSPI jumps 5.4% to record",
-      "org": "Samsung Electronics",
-      "date": "2026-05-06",
-      "url": "https://www.japantimes.co.jp/business/2026/05/06/tech/samsung-1t-valuation-tsmc/",
-      "summary": "Samsung shares jumped as much as 12% in Seoul to push its market cap above 1,500 trillion won (~$1.03T) on AI memory demand, becoming the second Asian firm after TSMC in the trillion-dollar club.",
-      "tags": [
-        "ai-memory",
-        "hbm",
-        "dram",
-        "samsung",
-        "kospi",
-        "trillion-dollar-club",
-        "semis",
-        "korea",
-        "tsmc"
-      ],
-      "importance": "major",
-      "tickers": [
-        "005930.KS"
-      ],
-      "metrics": {
-        "Move (Wed open)": "+12% intraday",
-        "Market cap": "1,500T won (~$1.03T)",
-        "KOSPI": "+5.4% to record",
-        "1Y stock return": "~+300%"
-      },
-      "explainer": {
-        "tagline": "Samsung joins TSMC in the trillion-dollar club as Korean memory cements itself at the heart of the AI buildout.",
-        "whatIsIt": "Samsung Electronics' market capitalization briefly crossed $1 trillion on Wednesday in Seoul as shares rallied as much as 12% on continued AI-chip momentum from US memory peers. It is the second Asian company ever to hit the threshold, after Taiwan Semiconductor.",
-        "howItWorks": "The stock reached 1,500 trillion won (~$1.03T) in early trading on the KRX, with Samsung's local listing 005930.KS up double digits. The KOSPI benchmark jumped 5.4% to a record, with Samsung and SK Hynix together accounting for over 43% of the index. The rally extends a >300% one-year run in Samsung shares driven by record Q1 results announced last week — operating profit surged ~8x to 57.2T won and revenue hit a record 133.9T won as DRAM/NAND/HBM pricing kept climbing.",
-        "whyItMatters": "Confirms that AI infrastructure demand has firmly broken the memory chip downcycle and is reshaping global tech leadership. Pairs with the existing $700B+ Micron rally — global memory now trades like a structural-shortage asset class. Spillover into US memory plays (MU, WDC), Asian fab equipment names, and Korean ETFs (EWY).",
-        "forWho": "AI-infra and semis sector traders, Asian-equity allocators",
-        "tryIt": "https://www.tradingview.com/symbols/KRX-005930/"
-      },
-      "image": {
-        "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/06/538921.jpg?v=3.1",
-        "alt": "Samsung Electronics signage on a Seoul office tower as shares pierce the $1 trillion mark",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "Japan Times Coverage",
-          "url": "https://www.japantimes.co.jp/business/2026/05/06/tech/samsung-1t-valuation-tsmc/"
-        },
-        {
-          "label": "Free Malaysia Today",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/05/06/samsung-hits-us1tril-valuation-joining-tsmc-in-elite-club"
-        },
-        {
-          "label": "Business Today MY",
-          "url": "https://www.businesstoday.com.my/2026/05/06/samsung-hits-us1-trillion-valuation-joining-tsmc-in-elite-club/"
-        },
-        {
-          "label": "TradingView: 005930",
-          "url": "https://www.tradingview.com/symbols/KRX-005930/"
-        }
-      ],
-      "publishDate": "2026-05-06T05:22:41.332Z"
-    },
-    {
-      "id": "strl-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Sterling Infrastructure Q1 2026 — adj EPS $3.59 trounces $2.28 est, raises FY26 guide ~30%; STRL closes +52%",
-      "org": "Sterling Infrastructure",
-      "date": "2026-05-05",
-      "url": "https://www.strlco.com/news/sterling-reports-record-first-quarter-results-and-raises-full-year-2026-guidance/",
-      "summary": "STRL printed record Q1 with revenue +92% Y/Y and EPS $3.59 vs $2.28 est, lifted FY26 EPS guide to $18.40-$19.05 (from ~$13.83), and rallied 52.4% to close $807, a fresh 52-week high.",
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "guidance-raise",
-        "e-infrastructure",
-        "data-centers",
-        "semis-fab",
-        "q1-2026",
-        "small-cap",
-        "cec-acquisition"
-      ],
-      "importance": "major",
-      "tickers": [
-        "STRL"
-      ],
-      "metrics": {
-        "Adj EPS": "$3.59 vs $2.28 est (+57%)",
-        "Revenue": "$825.7M (+92% Y/Y)",
-        "Net income": "$96.0M (+143% Y/Y)",
-        "FY26 EPS guide": "$18.40-$19.05 (was ~$13.83)",
-        "FY26 revenue guide": "$3.7-$3.8B (was ~$3.14B)",
-        "Combined backlog": "$5.15B (+131% Y/Y)",
-        "Move": "+52.4% to $807"
-      },
-      "explainer": {
-        "tagline": "A small-cap infrastructure builder rides AI data-center and semiconductor-fab demand to a record quarter and a 52% pop.",
-        "whatIsIt": "Sterling Infrastructure (STRL) is a Texas-based e-infrastructure and transportation builder that sits in the picks-and-shovels layer of the AI build-out: site work, foundations, electrical for data centers and semiconductor fabs. Q1 2026 was a beat-and-raise on essentially every line.",
-        "howItWorks": "Revenue $825.7M (+92% Y/Y) vs $603.6M consensus; adj EPS $3.59 vs $2.28 est (+57% surprise); GAAP diluted EPS $3.09 (+141% Y/Y). Backlog hit $5.15B combined (+131% Y/Y), with mission-critical data centers, manufacturing and semis fabs >90% of E-Infrastructure backlog. The CEC acquisition added $156.1M to revenue. Management raised FY26 to $3.7-$3.8B in revenue and $18.40-$19.05 in adj EPS, well above the $13.83 prior-quarter framework.",
-        "whyItMatters": "Hard evidence that AI-related capex is flowing from hyperscalers down to specialty builders. Reads-across: Quanta Services (PWR), MasTec (MTZ), Comfort Systems (FIX), EMCOR (EME), Granite Construction (GVA). Confirms data-center and semiconductor-fab construction backlogs are still expanding — a strong signal for the broader industrial AI trade.",
-        "forWho": "AI-infrastructure and small-cap industrial traders",
-        "tryIt": "https://finance.yahoo.com/quote/STRL/"
-      },
-      "image": {
-        "url": "https://www.quiverquant.com/images/strl_rect_new.png",
-        "alt": "Sterling Infrastructure (STRL) ticker chart showing the May 5 surge",
-        "fit": "contain"
-      },
-      "links": [
-        {
-          "label": "Sterling IR Release",
-          "url": "https://www.strlco.com/news/sterling-reports-record-first-quarter-results-and-raises-full-year-2026-guidance/"
-        },
-        {
-          "label": "PRNewswire Filing",
-          "url": "https://www.prnewswire.com/news-releases/sterling-reports-record-first-quarter-results-and-raises-full-year-2026-guidance-302761760.html"
-        },
-        {
-          "label": "Motley Fool Recap",
-          "url": "https://www.fool.com/investing/2026/05/05/why-sterling-infrastructure-stock-is-skyrocketing/"
-        },
-        {
-          "label": "Benzinga 52-Week High",
-          "url": "https://www.benzinga.com/markets/earnings/26/05/52281885/sterling-infrastructure-stock-hits-52-week-high-heres-why"
-        },
-        {
-          "label": "Yahoo: STRL Chart",
-          "url": "https://finance.yahoo.com/quote/STRL/"
-        }
-      ],
-      "publishDate": "2026-05-06T05:22:41.332Z"
-    },
-    {
-      "id": "mpc-q1-2026-earnings-buyback",
-      "categories": [
-        "earnings"
-      ],
-      "title": "Marathon Petroleum Q1 2026 — adj EPS $1.65 crushes $0.75 est on refining margins, adds $5B to buyback; MPC at 52-week high",
-      "org": "Marathon Petroleum",
-      "date": "2026-05-05",
-      "url": "https://www.prnewswire.com/news-releases/marathon-petroleum-corp-reports-first-quarter-2026-results-302762467.html",
-      "summary": "MPC adj EPS $1.65 crushed $0.75 consensus on a refining-margin surge tied to Iran-driven crude prices; revenue $34.2B (+8.5% Y/Y). Board added $5B to the buyback, lifting available capacity to $8.6B; shares hit a new 52-week high.",
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "refining",
-        "oil",
-        "buyback",
-        "q1-2026",
-        "refining-margins",
-        "gulf-coast",
-        "energy"
-      ],
-      "importance": "major",
-      "tickers": [
-        "MPC"
-      ],
-      "metrics": {
-        "Adj EPS": "$1.65 vs $0.75 est (+120%)",
-        "GAAP EPS": "$1.73",
-        "Revenue": "$34.2B (+8.5% Y/Y)",
-        "Adj EBITDA": "$2.8B (vs $2.0B Y/Y)",
-        "R&M EBITDA": "$1.4B (vs $489M Y/Y, +181%)",
-        "Throughput": "2.9M bpd at 89% utilization",
-        "New buyback": "$5B added (capacity $8.6B)",
-        "Capital returned": ">$1.0B in Q1"
-      },
-      "explainer": {
-        "tagline": "The largest US independent refiner converts elevated Iran-era crude prices into the kind of refining margins not seen in years.",
-        "whatIsIt": "Marathon Petroleum (MPC) reported Q1 2026 results before the open on May 5. The print was a clean blow-out on refining: adjusted EPS $1.65 versus the $0.75 Street consensus (+120%), with the Refining & Marketing segment carrying the quarter as global crack spreads widened on the Iran-related supply premium.",
-        "howItWorks": "Total revenue $34.2B vs $33.5B consensus; GAAP net income $511M ($1.73/share). R&M adj EBITDA hit $1.4B vs $489M a year ago (+181%), with West Coast capture of $11.61/bbl (from $3.03) and Gulf Coast $6.20/bbl (from $0.74) on 89% utilization and 2.9M bpd throughput. Renewable Diesel swung positive at $38M from a $42M loss. The board added a $5B share-repurchase authorization on top of existing capacity, taking total available capacity to $8.6B. MPC printed a fresh 52-week high.",
-        "whyItMatters": "Confirms that the oil-price spike from the Iran/Hormuz episode (already in the feed via the Brent $114 jump) is translating into earnings, not just fuel-pump pain. Read-across is clear: VLO, PSX, DINO, and integrated names with refining (XOM, CVX) get a margin tailwind. The buyback bump signals MPC's confidence that this margin environment holds.",
-        "forWho": "Energy-sector and refining-spread traders",
-        "tryIt": "https://finance.yahoo.com/quote/MPC/"
-      },
-      "image": {
-        "url": "https://www.marketbeat.com/logos/marathon-petroleum-co-logo-1200x675.png?v=20231226132353",
-        "alt": "Marathon Petroleum Corporation corporate logo",
-        "fit": "contain"
-      },
-      "links": [
-        {
-          "label": "PRNewswire IR Release",
-          "url": "https://www.prnewswire.com/news-releases/marathon-petroleum-corp-reports-first-quarter-2026-results-302762467.html"
-        },
-        {
-          "label": "TickerReport 52W High",
-          "url": "https://www.tickerreport.com/banking-finance/13429553/marathon-petroleum-nysempc-reaches-new-1-year-high-following-earnings-beat.html"
-        },
-        {
-          "label": "ChartMill Analysis",
-          "url": "https://www.chartmill.com/news/MPC/Chartmill-46989-Marathon-Petroleum-Corp-NYSEMPC-Crushes-Q1-Estimates-with-Strong-Earnings-Rebound"
-        },
-        {
-          "label": "Benzinga Transcript",
-          "url": "https://www.benzinga.com/insights/news/26/05/52292169/marathon-petroleum-q1-2026-earnings-call-complete-transcript"
-        },
-        {
-          "label": "Yahoo: MPC Chart",
-          "url": "https://finance.yahoo.com/quote/MPC/"
-        }
-      ],
-      "publishDate": "2026-05-06T05:22:41.332Z"
-    },
-    {
-      "id": "smci-q3-fy26-earnings",
-      "categories": [
-        "earnings"
-      ],
-      "title": "Supermicro FQ3 2026 — adj EPS $0.84 beats but revenue $10.2B misses $12.4B est; AI GPU >80% of revenue",
-      "org": "Super Micro Computer",
-      "date": "2026-05-05",
-      "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Third-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx",
-      "summary": "SMCI printed FQ3 net sales $10.2B (+123% Y/Y, -19% Q/Q) on component shortages and customer site delays; non-GAAP EPS $0.84 beat $0.62. Margin recovery to 10.1% non-GAAP gross. Q4 guide $11-12.5B revenue.",
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "revenue-miss",
-        "ai-gpu",
-        "data-centers",
-        "fq3-2026",
-        "semis-cycle",
-        "smci",
-        "margin-recovery"
-      ],
-      "importance": "major",
-      "tickers": [
-        "SMCI"
-      ],
-      "metrics": {
-        "Net sales": "$10.2B vs $12.4B est (+123% Y/Y, -19% Q/Q)",
-        "GAAP EPS": "$0.72 vs $0.52+ guide",
-        "Non-GAAP EPS": "$0.84 vs $0.62 est",
-        "Non-GAAP gross margin": "10.1% (vs 6.4% Q2'26)",
-        "Net income": "$483M (vs $109M Y/Y)",
-        "AI GPU mix": ">80% of revenue",
-        "Q4 revenue guide": "$11.0B-$12.5B",
-        "FY26 guide": "$38.9B-$40.4B"
-      },
-      "explainer": {
-        "tagline": "Earnings beat the bar, revenue did not — but Supermicro's margin and AI-GPU mix point to a still-running data-center cycle.",
-        "whatIsIt": "Super Micro Computer (SMCI) reported its FQ3 2026 (quarter ended March 31). Headline numbers: net sales $10.2B, GAAP diluted EPS $0.72, non-GAAP EPS $0.84. Revenue of $10.2B fell well short of the $12.4B consensus, while EPS beat thanks to a sharp gross-margin recovery.",
-        "howItWorks": "Sales were down 19% sequentially from Q2's $12.7B but up 123% year-over-year, with management citing component shortages and customer site-readiness delays. AI GPU platforms made up >80% of revenue. Non-GAAP gross margin jumped to 10.1% from 6.4% the prior quarter on better customer/product mix, lower tariffs, and reduced inventory reserves. The company guided Q4 revenue to $11.0B-$12.5B and non-GAAP EPS $0.65-$0.79; full-year FY26 net sales $38.9B-$40.4B. CEO Charles Liang flagged the company is 'not a defendant nor a target' of the DOJ investigation.",
-        "whyItMatters": "Read-throughs to NVDA, AMD, AVGO and the AI-server complex (DELL, HPE, ANET): demand is intact but supply and customer-deployment timing are choppier than the bull case. Margin recovery argues against the 'race to zero' fear in white-box AI servers. Cash burn and debt remain the watch items.",
-        "forWho": "AI-infra and semis-cycle traders",
-        "tryIt": "https://finance.yahoo.com/quote/SMCI/"
-      },
-      "image": {
-        "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2026/05/05/supermicro-1_feature.jpg",
-        "alt": "Supermicro AI server rack used in data-center deployments",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "Supermicro IR Release",
-          "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Third-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx"
-        },
-        {
-          "label": "Shacknews Recap",
-          "url": "https://www.shacknews.com/article/149012/supermicro-smci-q3-2026-earnings-report"
-        },
-        {
-          "label": "Motley Fool Transcript",
-          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/05/super-micro-smci-q3-2026-earnings-transcript/"
-        },
-        {
-          "label": "Yahoo: SMCI Chart",
-          "url": "https://finance.yahoo.com/quote/SMCI/"
-        }
-      ],
-      "publishDate": "2026-05-06T05:22:41.332Z"
-    },
-    {
-      "id": "dvn-q1-2026-earnings-ctra-merger",
-      "categories": [
-        "earnings",
-        "mna"
-      ],
-      "title": "Devon Q1 2026 misses on revenue and EPS; Coterra all-stock merger expected to close on or around May 7",
-      "org": "Devon Energy",
-      "date": "2026-05-05",
-      "url": "https://www.globenewswire.com/news-release/2026/05/05/3288239/0/en/Devon-Energy-Reports-First-Quarter-2026-Results.html",
-      "summary": "Devon posted Q1 revenue of $3.81B and EPS of $1.04, both below Street; days earlier Devon and Coterra shareholders approved the all-stock combination, set to close around May 7.",
-      "tags": [
-        "earnings",
-        "q1-2026",
-        "eps-miss",
-        "revenue-miss",
-        "mna",
-        "all-stock",
-        "shale",
-        "permian",
-        "anadarko",
-        "energy"
-      ],
-      "importance": "major",
-      "tickers": [
-        "DVN",
-        "CTRA"
-      ],
-      "metrics": {
-        "Revenue": "$3.81B (miss vs ~$3.96B est)",
-        "Adj EPS": "$1.04 (miss vs $1.07 est)",
-        "Operating cash flow": "$1.7B",
-        "Exchange ratio": "0.70 DVN per CTRA share",
-        "Combined ownership": "~54% DVN / ~46% CTRA",
-        "Expected close": "on or around May 7, 2026"
-      },
-      "explainer": {
-        "tagline": "Devon misses Q1 on the day Coterra merger barrels toward a May 7 close",
-        "whatIsIt": "Devon Energy reported Q1 2026 results on May 5, with revenue of $3.81B and adjusted EPS of $1.04 missing analyst expectations of roughly $3.96B and $1.07. The miss came one day after Devon and Coterra shareholders overwhelmingly approved their previously announced all-stock combination, which is expected to close on or around May 7.",
-        "howItWorks": "Devon reported $120M of net earnings, $1.04 of core EPS, and $1.7B of operating cash flow for the quarter, with CEO Clay Gaspar saying Devon beat its own guidance on oil production and capital spend. Under the merger, each Coterra share converts into 0.70 Devon shares, leaving Devon holders with roughly 54% of the combined company and Coterra holders with roughly 46%. At Devon's special meeting more than 98% of votes cast were in favor; at Coterra's more than 99% of votes cast were in favor.",
-        "whyItMatters": "The Q1 print is the last set of standalone numbers before Devon and Coterra merge into one of the largest U.S. independent shale operators, spanning Permian, Anadarko and Marcellus assets. Investors are now focused less on the headline miss than on the synergy and capital-allocation pitch the combined company will make once the deal closes, including the size of any post-close buyback or guidance refresh.",
-        "forWho": "energy desks, M&A arb, U.S. shale specialists",
-        "tryIt": "https://www.devonenergy.com/dvn-ctra-merger"
-      },
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Devon-Energy-Logo.svg/1280px-Devon-Energy-Logo.svg.png",
-        "alt": "Devon Energy corporate logo",
-        "fit": "contain"
-      },
-      "links": [
-        {
-          "label": "Q1 Press Release",
-          "url": "https://www.globenewswire.com/news-release/2026/05/05/3288239/0/en/Devon-Energy-Reports-First-Quarter-2026-Results.html"
-        },
-        {
-          "label": "Merger Vote",
-          "url": "https://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-and-Coterra-Energy-Shareholders-Approve-Merger/"
-        },
-        {
-          "label": "DVN-CTRA Hub",
-          "url": "https://www.devonenergy.com/dvn-ctra-merger"
-        },
-        {
-          "label": "DVN Quote",
-          "url": "https://finance.yahoo.com/quote/DVN/"
-        },
-        {
-          "label": "CTRA Quote",
-          "url": "https://finance.yahoo.com/quote/CTRA/"
-        }
-      ],
-      "publishDate": "2026-05-06T03:28:23.263Z"
-    },
-    {
-      "id": "fisv-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Fiserv Q1 2026 — adj EPS $1.79 beats but revenue and organic growth miss; FISV closes ~9% lower",
-      "org": "Fiserv",
-      "date": "2026-05-05",
-      "url": "https://www.globenewswire.com/news-release/2026/05/05/3287513/0/en/Fiserv-Reports-First-Quarter-2026-Results.html",
-      "summary": "Fiserv beat on adjusted EPS but adjusted revenue of $4.68B missed and organic revenue contracted 4%, with adj operating margin sliding 8 pts to 29.7%; FISV fell roughly 9% on May 5.",
-      "tags": [
-        "earnings",
-        "q1-2026",
-        "eps-beat",
-        "revenue-miss",
-        "organic-growth-decline",
-        "margin-compression",
-        "fintech",
-        "payments"
-      ],
-      "importance": "major",
-      "tickers": [
-        "FISV"
-      ],
-      "metrics": {
-        "Adj EPS": "$1.79 (beat ~$1.57 est)",
-        "GAAP EPS": "$1.07 (-29% Y/Y)",
-        "Adj revenue": "$4.68B (-2% Y/Y, miss)",
-        "GAAP revenue": "$5.03B (-2% Y/Y)",
-        "Organic revenue": "-4% Y/Y (Merchant flat, Financial -5% GAAP)",
-        "Adj operating margin": "29.7% (-8.1 pts Y/Y)",
-        "FY26 guide": "Organic 1–3%, Adj EPS $8.00–$8.30 (affirmed)",
-        "Move": "~-9% on the day"
-      },
-      "explainer": {
-        "tagline": "EPS beat doesn't save Fiserv as organic revenue and margins both go the wrong way",
-        "whatIsIt": "Fiserv reported Q1 2026 results before the open on May 5 and the stock fell roughly 9% during the regular session. Adjusted EPS of $1.79 beat consensus near $1.57, but adjusted revenue of $4.68B fell short of the ~$4.73B Street estimate and organic revenue declined 4% year-over-year.",
-        "howItWorks": "GAAP revenue was $5.03B with Merchant Solutions flat and Financial Solutions GAAP down 5%; on an organic basis Merchant was down 1% and Financial down 6%. Adjusted operating margin contracted to 29.7% from 37.8% a year ago as the company absorbed costs tied to its 'One Fiserv Action Plan' transformation and severance charges. Free cash flow fell to roughly $259M from $371M in the prior-year quarter. Management affirmed full-year 2026 guidance for 1–3% organic revenue growth and adjusted EPS of $8.00–$8.30.",
-        "whyItMatters": "Fiserv had been priced as a defensive payments compounder; a second straight quarter of decelerating organic growth and a sharp margin step-down resets that thesis and pulls the rest of the merchant-acquiring complex with it. The current quarter is now the implied trough in the company's own framing, so the bar for Q2 sequential improvement is high.",
-        "forWho": "payments analysts, fintech long-onlies, merchant-acquirer pair traders",
-        "tryIt": "https://www.fool.com/investing/2026/05/05/why-fiserv-stock-is-sinking-today/"
-      },
-      "image": {
-        "url": "https://ml.globenewswire.com/Resource/Download/7111802d-4b4a-487f-a8cf-a7ccda50586e",
-        "alt": "Fiserv Q1 2026 results press release header",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "Press Release",
-          "url": "https://www.globenewswire.com/news-release/2026/05/05/3287513/0/en/Fiserv-Reports-First-Quarter-2026-Results.html"
-        },
-        {
-          "label": "Why FISV Sank",
-          "url": "https://www.fool.com/investing/2026/05/05/why-fiserv-stock-is-sinking-today/"
-        },
-        {
-          "label": "Benzinga Recap",
-          "url": "https://www.benzinga.com/markets/earnings/26/05/52280737/fiserv-earnings-beat-masks-deeper-trouble-revenue-slips-margins-slide"
-        }
-      ],
-      "publishDate": "2026-05-06T03:28:23.263Z"
-    },
-    {
-      "id": "prim-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Primoris Q1 2026 — revenue and EPS miss, FY26 guidance cut on weak renewables projects; PRIM falls ~31% in after-hours",
-      "org": "Primoris Services",
-      "date": "2026-05-05",
-      "url": "https://www.stocktitan.net/news/PRIM/primoris-services-corporation-reports-first-quarter-2026-94b2lyzh9ded.html",
-      "summary": "Primoris missed on Q1 revenue ($1.6B) and adj EPS ($0.59), cut FY26 EPS guide to $4.05–$4.25 GAAP citing 'cost pressures' on renewables jobs; PRIM dropped ~31% in after-hours on the print.",
-      "tags": [
-        "earnings",
-        "q1-2026",
-        "eps-miss",
-        "revenue-miss",
-        "guidance-cut",
-        "renewables",
-        "utilities",
-        "energy-services",
-        "mover"
+        "jvc",
+        "studio",
+        "yield",
+        "visa-threshold",
+        "investor"
       ],
       "importance": "notable",
       "tickers": [
-        "PRIM"
+        "JVC",
+        "RENTAL"
       ],
       "metrics": {
-        "Revenue": "$1.6B (-5.4% Y/Y, miss)",
-        "Diluted EPS": "$0.32 (vs $0.81 Y/Y)",
-        "Adj EPS": "$0.59 (vs $0.84 est)",
-        "Adj EBITDA": "$60.5M (miss)",
-        "FY26 EPS guide": "$4.05–$4.25 (cut)",
-        "FY26 Adj EBITDA guide": "$480M–$500M (cut)",
-        "Move": "~-31% in AH"
-      },
-      "explainer": {
-        "tagline": "Renewables project trouble drags Primoris into a guide cut and a 31% AH gap-down",
-        "whatIsIt": "Primoris Services reported Q1 2026 results after the close on May 5 and the stock dropped roughly 31% in after-hours trading. Revenue fell 5.4% year-over-year to $1.6B, well below the ~$1.74B Street estimate, while adjusted EPS of $0.59 missed consensus near $0.84.",
-        "howItWorks": "Operating income in the Energy segment fell about 62% as Energy revenue dropped $152.9M; the Utilities segment grew revenue 12.3% and offset only part of the weakness. Management cut full-year 2026 guidance to GAAP EPS of $4.05–$4.25, adjusted EPS of $4.80–$5.00, and adjusted EBITDA of $480M–$500M, blaming 'cost pressures on a limited number of renewables projects' tied to project redesign, sequencing, labor productivity, and weather. Total backlog stood at $11.6B with $7.5B in MSAs.",
-        "whyItMatters": "Primoris had been a quiet beneficiary of the data-center power buildout and grid-electrification capex theme; a guidance cut sourced specifically to renewables execution risk re-prices that exposure and reads negatively for other contractors with similar utility-scale solar and storage backlogs. The May 1 close of the $399.5M PayneCrest Electric acquisition will now be looked at as a leverage decision under a softer earnings outlook.",
-        "forWho": "industrials traders, renewables-services pair books, utility-capex specialists",
-        "tryIt": "https://finance.yahoo.com/quote/PRIM/"
-      },
-      "image": {
-        "url": "https://www.stocktitan.net/news_covers/Primoris_Services_Corporation_Reports_First_Quarter_2026_Results_1051566.webp",
-        "alt": "Primoris Services Q1 2026 results header",
-        "fit": "cover"
+        "Target ask": "AED 650k\u2013800k",
+        "Rent comp": "AED 52k\u201362k yearly",
+        "Gross yield": "~7%\u20138.5% before charges",
+        "Visa angle": "AED 750k property-investor threshold",
+        "Key risk": "Service charges and building quality"
       },
       "links": [
         {
-          "label": "Press Release",
-          "url": "https://www.stocktitan.net/news/PRIM/primoris-services-corporation-reports-first-quarter-2026-94b2lyzh9ded.html"
-        },
-        {
-          "label": "StockStory Recap",
-          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-5-primoris-nyseprim-misses-q1-cy2026-revenue-estimates-stock-drops-311"
-        },
-        {
-          "label": "PRIM Quote",
-          "url": "https://finance.yahoo.com/quote/PRIM/"
-        }
-      ],
-      "publishDate": "2026-05-06T03:28:23.263Z"
-    },
-    {
-      "id": "lcid-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Lucid Q1 2026 — revenue $282M misses big on $440M est, adj loss $2.82/share, GAAP gross margin -110%",
-      "org": "Lucid Group",
-      "date": "2026-05-05",
-      "url": "https://www.prnewswire.com/news-releases/lucid-announces-first-quarter-2026-financial-results-302763127.html",
-      "summary": "Lucid produced 5,500 vehicles and delivered 3,093 but a Gravity seat-supplier issue cost 29 days of output. Revenue grew 20% Y/Y to $282M yet badly missed the $440M Street view; LCID closed -6.3% before earnings.",
-      "tickers": [
-        "LCID",
-        "UBER"
-      ],
-      "metrics": {
-        "Revenue": "$282.5M (+20% Y/Y vs $440M est)",
-        "Adj EPS": "-$2.82 vs -$2.64 est",
-        "Production": "5,500 (+149% Y/Y)",
-        "Deliveries": "3,093",
-        "Liquidity": "$3.2B",
-        "Move (intraday)": "-6.3%"
-      },
-      "tags": [
-        "earnings",
-        "ev",
-        "auto",
-        "revenue-miss",
-        "eps-miss",
-        "uber-robotaxi",
-        "q1-2026",
-        "gross-margin",
-        "supplier-issue"
-      ],
-      "importance": "major",
-      "explainer": {
-        "tagline": "Lucid's Q1 print missed Street revenue badly even as production jumped 149%; supplier-driven Gravity downtime kept the top line stuck.",
-        "whatIsIt": "Lucid Group reported Q1 2026 results after the bell on May 5. Revenue rose 20% year over year to $282.5 million but landed roughly $158 million below the analyst consensus of $440 million, and the adjusted loss widened to $2.82 a share versus a $2.64 estimate.",
-        "howItWorks": "The company built 5,500 vehicles, up 149% year over year, but only delivered 3,093 — a flat number versus Q1 2025 — after a seat-supplier issue knocked Lucid Gravity production offline for 29 days in February. GAAP gross margin deteriorated to -110% on lower volumes and reduced regulatory-credit sales. Lucid finished the quarter with $0.7B of cash and $3.2B of total liquidity, pro forma $4.7B after April's $1.05B capital raise (PIF $550M convertible preferred, $300M common offering, $200M from Uber).",
-        "whyItMatters": "The miss undercuts the bull case that Gravity ramps would deliver an inflection in 2026, and inventory is now elevated heading into Q2, with management saying it will adjust production to demand. The Uber robotaxi expansion to a 35,000-vehicle minimum and Saudi PIF support keep the runway intact, but the gap between production and deliveries plus a -110% gross margin keep the cash-burn question front and center.",
-        "forWho": "EV equity investors, autos analysts",
-        "tryIt": "https://finance.yahoo.com/quote/LCID/"
-      },
-      "image": {
-        "url": "https://mma.prnewswire.com/media/1080273/LucidMotors_Logo.jpg?p=facebook",
-        "alt": "Lucid Motors corporate logo",
-        "fit": "contain"
-      },
-      "links": [
-        {
-          "label": "Lucid Press Release",
-          "url": "https://www.prnewswire.com/news-releases/lucid-announces-first-quarter-2026-financial-results-302763127.html"
-        },
-        {
-          "label": "Electrek Coverage",
-          "url": "https://electrek.co/2026/05/05/lucid-lcid-adjust-ev-production-bloated-q1-inventory/"
-        },
-        {
-          "label": "Benzinga Reaction",
-          "url": "https://www.benzinga.com/markets/earnings/26/05/52303153/lucid-stock-moves-lower-on-q1-earnings-what-investors-need-to-know"
-        },
-        {
-          "label": "LCID Chart",
-          "url": "https://finance.yahoo.com/quote/LCID/"
-        }
-      ],
-      "publishDate": "2026-05-06T01:05:21.583Z"
-    },
-    {
-      "id": "amc-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "AMC Q1 2026 — revenue +21% to $1.05B, best Q1 EBITDA since 2019; AMC closes +9.7% on box-office strength",
-      "org": "AMC Entertainment",
-      "date": "2026-05-05",
-      "url": "https://investor.amctheatres.com/news-events/press-releases/detail/423/amc-entertainment-holdings-inc-reports-first-quarter-2026-results",
-      "summary": "AMC posted $1.05B in Q1 revenue, up 21% Y/Y and well ahead of the $959M Street view, with $38.3M of adjusted EBITDA — the best Q1 since 2019 — as global attendance jumped 13.6% to 47.6M.",
-      "tickers": [
-        "AMC"
-      ],
-      "metrics": {
-        "Revenue": "$1.05B (+21.2% Y/Y vs $959M est)",
-        "Adj EBITDA": "$38.3M vs -$57.7M Y/Y",
-        "Net loss": "-$117.1M vs -$202.1M Y/Y",
-        "GAAP EPS": "-$0.22 vs -$0.47 Y/Y",
-        "Attendance": "47.6M (+13.6% Y/Y)",
-        "Move": "+9.7% (May 5 close)"
-      },
-      "tags": [
-        "earnings",
-        "movie-theaters",
-        "consumer-discretionary",
-        "revenue-beat",
-        "ebitda",
-        "box-office",
-        "attendance",
-        "q1-2026"
-      ],
-      "importance": "notable",
-      "explainer": {
-        "tagline": "AMC turned its first profitable Q1 EBITDA since the pandemic as box-office attendance climbed double digits.",
-        "whatIsIt": "AMC Entertainment reported Q1 2026 results after the bell on May 5. Revenue of $1.045 billion came in 21% above last year and roughly $86 million ahead of the $959 million consensus, driven by attendance of 47.6 million patrons across U.S. and international screens — up 13.6% year over year.",
-        "howItWorks": "Adjusted EBITDA flipped to a positive $38.3 million from a $57.7 million loss in the prior-year quarter, the best first-quarter EBITDA since 2019. GAAP net loss narrowed to $117.1 million from $202.1 million and diluted EPS came in at -$0.22 versus -$0.47. Free cash flow was still negative $174.7 million but improved sharply from -$417.0 million a year ago. Total debt of $3.96 billion remains the longer-term overhang.",
-        "whyItMatters": "Attendance leverage on a healthier release slate is finally translating into operating profit, which strengthens the case that the post-COVID box-office recovery has staying power. AMC closed +9.7% on May 5 ahead of the print and ticked higher in after-hours, while comp exhibitors (Cinemark, IMAX) screen against the same setup; the cash-burn and balance-sheet drag still cap the upside narrative.",
-        "forWho": "Consumer-discretionary and meme-stock traders",
-        "tryIt": "https://finance.yahoo.com/quote/AMC/"
-      },
-      "image": {
-        "url": "https://d1io3yog0oux5.cloudfront.net/_72cd204832b28bf4fc76deb0736614de/amctheatres/db/2287/20608/social_image_resized.jpg",
-        "alt": "AMC Entertainment investor relations social card",
-        "fit": "cover"
-      },
-      "links": [
-        {
-          "label": "AMC IR Release",
-          "url": "https://investor.amctheatres.com/news-events/press-releases/detail/423/amc-entertainment-holdings-inc-reports-first-quarter-2026-results"
-        },
-        {
-          "label": "8-K via StockTitan",
-          "url": "https://www.stocktitan.net/sec-filings/AMC/8-k-amc-entertainment-holdings-inc-reports-material-event-bb260246e87f.html"
-        },
-        {
-          "label": "Deadline Recap",
-          "url": "https://deadline.com/2026/05/amc-entertainment-q1-revenue-jumps-box-office-recovery-1236882032/"
-        },
-        {
-          "label": "AMC Chart",
-          "url": "https://finance.yahoo.com/quote/AMC/"
-        }
-      ],
-      "publishDate": "2026-05-06T01:05:21.583Z"
-    },
-    {
-      "id": "alab-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Astera Labs Q1 2026 — revenue $308.4M (+93% Y/Y), strong Q2 guide, ALAB +8.8% on the day",
-      "org": "Astera Labs",
-      "date": "2026-05-05",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-reports-first-quarter-200500506.html",
-      "summary": "AI-connectivity chip maker posts record Q1 2026 revenue of $308.4M, up 93% Y/Y, beats both top and bottom lines, and guides Q2 to $355–$365M. Stock ran ~8.8% intraday into the print and added ~3% after-hours.",
-      "tags": [
-        "earnings",
-        "ai-infrastructure",
-        "semis",
-        "ai-capex",
-        "hyperscaler",
-        "q1-2026",
-        "eps-beat",
-        "guide-raise",
-        "scorpio",
-        "pcie6"
-      ],
-      "importance": "major",
-      "tickers": [
-        "ALAB",
-        "NVDA",
-        "AVGO"
-      ],
-      "metrics": {
-        "Revenue": "$308.4M (+93% Y/Y, +14% Q/Q)",
-        "Non-GAAP EPS": "$0.61 vs ~$0.54 est",
-        "GAAP EPS": "$0.44",
-        "Non-GAAP Gross Margin": "76.4%",
-        "Q2 Rev Guide": "$355–$365M",
-        "Q2 Non-GAAP EPS Guide": "$0.68–$0.70",
-        "Move": "+8.76% intraday, +3.4% AH"
-      },
-      "explainer": {
-        "tagline": "Astera Labs delivers a record AI-connectivity quarter and guides Q2 above the Street.",
-        "whatIsIt": "Astera Labs designs PCIe / Ethernet / CXL connectivity chips that hyperscalers use to wire up GPU clusters. After Tuesday's close it reported Q1 2026 results that beat across the board and raised guidance again.",
-        "howItWorks": "Q1 revenue of $308.4M was up 93% year-over-year and 14% sequentially, driven by Scorpio AI fabric switches and the PCIe 6 product line. Non-GAAP EPS came in at $0.61 (GAAP $0.44), with non-GAAP gross margin of 76.4% and operating margin of 36.2%. Management guided Q2 revenue to $355–$365M and non-GAAP EPS to $0.68–$0.70, both ahead of consensus.",
-        "whyItMatters": "Astera is one of the cleanest pure plays on accelerator-cluster scale-up spending. A 93% Y/Y print plus a sequential guide above the Street reads through to NVIDIA, Broadcom, Marvell and Micron, all of which sell into the same hyperscaler builds. ALAB ran ~8.8% on the day on positioning and added another ~3% after the print.",
-        "forWho": "AI-infra and semis traders.",
-        "tryIt": "https://finance.yahoo.com/quote/ALAB/"
-      },
-      "image": {
-        "url": "https://s.yimg.com/os/en/globenewswire.com/d65c92708ac6ec0b1b7b6ed09e87c984",
-        "alt": "Astera Labs corporate header from the Q1 2026 earnings press release",
-        "fit": "cover",
-        "credit": "Astera Labs / GlobeNewswire"
-      },
-      "links": [
-        {
-          "label": "Press Release",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-reports-first-quarter-200500506.html"
-        },
-        {
-          "label": "8-K Filing Summary",
-          "url": "https://www.stocktitan.net/sec-filings/ALAB/8-k-astera-labs-inc-reports-material-event-4f8166500735.html"
-        },
-        {
-          "label": "Sherwood Recap",
-          "url": "https://sherwood.news/markets/astera-labs-q1-2026-earnings-report/"
-        },
-        {
-          "label": "ALAB Quote",
-          "url": "https://finance.yahoo.com/quote/ALAB/"
-        }
-      ],
-      "publishDate": "2026-05-05T22:33:41.057Z"
-    },
-    {
-      "id": "project-freedom-hormuz-may-2026",
-      "categories": [
-        "macro",
-        "commodity"
-      ],
-      "title": "U.S. Navy 'Project Freedom' Hormuz escort begins; Brent retraces ~4% to ~$110 as Iran ceasefire holds",
-      "org": "U.S. Central Command",
-      "date": "2026-05-05",
-      "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2",
-      "summary": "U.S. Navy launches Operation Project Freedom to escort commercial ships through the Strait of Hormuz. CENTCOM says the U.S.-Iran ceasefire holds despite UAE strikes; Brent settles ~$109.87 (-4%), WTI ~$102.27.",
-      "tags": [
-        "macro",
-        "geopolitics",
-        "oil",
-        "brent",
-        "wti",
-        "strait-of-hormuz",
-        "iran",
-        "uae",
-        "centcom",
-        "project-freedom",
-        "ceasefire"
-      ],
-      "importance": "major",
-      "tickers": [
-        "CL=F",
-        "BZ=F"
-      ],
-      "metrics": {
-        "Brent": "~$109.87 (-4.0%)",
-        "WTI": "~$102.27 (-3.9%)",
-        "U.S. Forces": "15,000 personnel, 100+ aircraft, multiple destroyers",
-        "Iranian Boats Destroyed": "7 (CENTCOM)",
-        "Civilian Sailor Casualties": "10 reported (State Dept)"
-      },
-      "explainer": {
-        "tagline": "Day one of the U.S. Navy's Hormuz escort mission, with oil giving back most of the prior session's spike.",
-        "whatIsIt": "After Iranian drone and missile strikes on the UAE on Monday sent Brent up nearly 6% to $114, the U.S. on Tuesday operationalised 'Project Freedom' — a CENTCOM-led mission to escort merchant ships through the Strait of Hormuz, with the USS Tripoli amphibious group plus destroyers and 15,000 personnel.",
-        "howItWorks": "Brent settled at roughly $109.87 (-4%) and WTI at $102.27 (-3.9%) as CENTCOM and the State Department said the U.S.-Iran ceasefire is intact despite the UAE attacks. The U.S. has destroyed 7 Iranian fast boats so far; ~1,500 vessels carrying ~22,500 crew remain stranded in the Gulf, and only a handful of merchant ships have actually transited under escort.",
-        "whyItMatters": "Hormuz carries roughly a fifth of seaborne crude. The day's pullback is conditional on the ceasefire holding — any new strike on tankers or U.S. ships would re-price Brent quickly. Energy names (XLE, OXY, XOM), refiners, airlines, and the long end of the Treasury curve are the most direct read-throughs.",
-        "forWho": "Energy desks and macro traders.",
-        "tryIt": "https://finance.yahoo.com/quote/BZ=F/"
-      },
-      "image": {
-        "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fa572f0ca4-1778013999.jpg?resize=1920%2C1440",
-        "alt": "U.S. Navy and Strait of Hormuz operational scene during Project Freedom",
-        "fit": "cover",
-        "credit": "AFP via Al Jazeera"
-      },
-      "links": [
-        {
-          "label": "CENTCOM Update",
-          "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2"
-        },
-        {
-          "label": "Project Freedom Explainer",
-          "url": "https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz"
-        },
-        {
-          "label": "Oil Pulls Back",
-          "url": "https://www.cnn.com/2026/05/05/energy/oil-price-highest-in-2026-intl-hnk"
-        },
-        {
-          "label": "Operation Wiki",
-          "url": "https://en.wikipedia.org/wiki/Operation_Project_Freedom"
-        },
-        {
-          "label": "Brent Quote",
-          "url": "https://finance.yahoo.com/quote/BZ=F/"
-        }
-      ],
-      "publishDate": "2026-05-05T22:33:41.057Z"
-    },
-    {
-      "id": "amd-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "AMD Q1 2026 — revenue $10.25B, data center +57%; Q2 guide $11.2B above Street",
-      "org": "AMD",
-      "date": "2026-05-05",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1284/amd-reports-first-quarter-2026-financial-results",
-      "summary": "AMD reported Q1 2026 revenue of $10.25B and non-GAAP EPS of $1.37, with Data Center revenue +57% Y/Y to $5.78B. Q2 guidance of ~$11.2B came in well above the ~$10.5B Street view; shares rose ~6% in extended trading.",
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "guidance-raise",
-        "ai-infrastructure",
-        "data-center",
-        "epyc",
-        "instinct",
-        "semis",
-        "q1-2026"
-      ],
-      "importance": "major",
-      "tickers": [
-        "AMD",
-        "NVDA",
-        "INTC"
-      ],
-      "metrics": {
-        "Revenue": "$10.253B (+38% Y/Y)",
-        "Non-GAAP EPS": "$1.37 vs $1.27 est",
-        "GAAP EPS": "$0.84",
-        "Non-GAAP gross margin": "55%",
-        "Data Center revenue": "$5.775B (+57% Y/Y)",
-        "Client & Gaming revenue": "$3.605B (+23% Y/Y)",
-        "Embedded revenue": "$873M (+6% Y/Y)",
-        "Q2 2026 revenue guide": "~$11.2B ± $300M",
-        "Move": "~+6% AH"
-      },
-      "links": [
-        {
-          "label": "AMD Press Release",
-          "url": "https://ir.amd.com/news-events/press-releases/detail/1284/amd-reports-first-quarter-2026-financial-results"
-        },
-        {
-          "label": "StockTitan Recap",
-          "url": "https://www.stocktitan.net/news/AMD/amd-reports-first-quarter-2026-financial-bu7e2cbxpd14.html"
-        },
-        {
-          "label": "Yahoo Finance — AMD",
-          "url": "https://finance.yahoo.com/quote/AMD"
+          "label": "Source listing / search",
+          "url": "https://www.bayut.com/for-sale/studio-apartments/dubai/jumeirah-village-circle-jvc/"
         }
       ],
       "explainer": {
-        "tagline": "AMD posted a clean beat-and-raise quarter as Data Center revenue grew 57% on EPYC + Instinct demand.",
-        "whatIsIt": "AMD reported first-quarter 2026 results after the close on May 5. Revenue of $10.253B was up 38% year-over-year. Non-GAAP EPS came in at $1.37 versus a Street consensus near $1.27, and the company guided Q2 revenue to roughly $11.2B (±$300M), about $700M ahead of the consensus near $10.5B.",
-        "howItWorks": "Data Center revenue was $5.775B, up 57% year-over-year, driven by EPYC server processor sales and the continued ramp of MI-series Instinct GPUs into hyperscale and enterprise AI deployments. Client & Gaming revenue rose 23% to $3.605B and Embedded was $873M, up 6%. GAAP gross margin was 53%, non-GAAP was 55%, and non-GAAP operating income was $2.54B. Q2 non-GAAP gross margin guidance was about 56%.",
-        "whyItMatters": "This is the first AMD quarter where Data Center is the primary driver of both revenue and earnings, and the Q2 guide implies year-over-year growth re-accelerating to around 46%. Read-throughs: NVDA and broader semi peers (SMH, INTC) trade against any AMD commentary on AI accelerator supply, and large-cap hyperscale capex names get an indirect tailwind. The next gates are the conference call commentary on MI-series supply for the back half of 2026 and any quantification of full-year AI accelerator revenue.",
-        "forWho": "semis, AI infrastructure and large-cap tech investors",
-        "tryIt": "https://finance.yahoo.com/quote/AMD"
+        "tagline": "A JVC studio screen for investors who need yield but also care about resale liquidity and visa thresholds.",
+        "whatIsIt": "The candidate set is built from portal searches, then filtered by asking price, rent comps, building reviews, furnishing quality, and service charges. Units near AED 750k get a visa tag because they may matter to investor buyers.",
+        "howItWorks": "The platform records ask, expected rent, service-charge assumptions, furnishing capex, and transfer costs. It should refresh prices and mark stale listings when the portal repost date or broker availability does not check out.",
+        "whyItMatters": "JVC has broad tenant demand but uneven buildings. The opportunity is not just high rent divided by ask; it is finding a clean tower where yield survives service charges and exit demand exists.",
+        "forWho": "Visa-focused investors, first-time Dubai buyers, and agents building a rental-yield shortlist.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-data/#/"
       },
       "image": {
-        "url": "https://d1io3yog0oux5.cloudfront.net/_530b22e8aa311a8d1011a56b31890d4b/amd/db/834/7308/social_image_resized.jpg",
-        "alt": "AMD logo card used on the Q1 2026 earnings release",
-        "fit": "cover",
-        "credit": "AMD Investor Relations"
-      },
-      "publishDate": "2026-05-05T20:41:32.803Z"
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+        "alt": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
     },
     {
-      "id": "intc-apple-chip-rumor-may-2026",
+      "id": "downtown-branded-residence-assignment-spread-may-2026",
       "categories": [
-        "rumor",
-        "mover"
-      ],
-      "title": "Apple reportedly in early talks with Intel and Samsung on US chipmaking; INTC closes ~+13%",
-      "org": "Apple",
-      "date": "2026-05-05",
-      "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
-      "summary": "Bloomberg reported that Apple held early-stage talks with Intel and visited a Samsung facility in Texas about producing main device chips in the US, alongside longtime partner TSMC. Intel closed up ~12.9% at $108.15 on the report.",
-      "tags": [
-        "rumor",
-        "bloomberg",
-        "semis",
-        "us-chipmaking",
-        "tsmc-alternative",
-        "ai-supply",
-        "apple-silicon",
-        "intel-foundry"
-      ],
-      "importance": "rumor",
-      "tickers": [
-        "INTC",
-        "AAPL",
-        "TSM"
-      ],
-      "metrics": {
-        "INTC close": "$108.15 (+12.92%)",
-        "INTC volume": "185.59M shares",
-        "Status": "early-stage, no orders placed",
-        "Sources cited": "Bloomberg News, Reuters mirror",
-        "Apple's incumbent foundry partner": "TSMC"
-      },
-      "links": [
-        {
-          "label": "MacRumors Recap",
-          "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/"
-        },
-        {
-          "label": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/apple-explores-using-intel-samsung-to-build-main-device-chips-in-the-us-bloomberg-news-reports-ce7f58dfdf89f022"
-        },
-        {
-          "label": "Yahoo Finance Coverage",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-using-intel-samsung-030010009.html"
-        },
-        {
-          "label": "Yahoo Finance — INTC",
-          "url": "https://finance.yahoo.com/quote/INTC"
-        },
-        {
-          "label": "Yahoo Finance — AAPL",
-          "url": "https://finance.yahoo.com/quote/AAPL"
-        }
-      ],
-      "explainer": {
-        "tagline": "Bloomberg reports Apple is exploring Intel and Samsung as a US-side backstop to TSMC for main device chips.",
-        "whatIsIt": "Bloomberg News reported Apple has held exploratory discussions with Intel about chipmaking services and that Apple executives have visited a Samsung plant under construction in Texas that will also make advanced chips. The talks are described as preliminary, with no orders placed and Apple still expressing concerns about reliability and scale outside TSMC.",
-        "howItWorks": "The motivation cited by Bloomberg is supply diversification away from TSMC, after AI-data-center buildout consumed leading-edge wafer capacity and Apple's own Mac mini and Mac Studio lines hit demand-driven shortages. The Samsung Taylor, Texas facility is under development; Intel's foundry is the company's reset story under restructured manufacturing leadership. Reuters could not independently verify the report and Intel declined to comment.",
-        "whyItMatters": "Intel jumped about 12.9% to $108.15 with 185.6M shares traded, the largest single-name reaction of the day, on the implied option value of an Apple foundry win. The same setup is a marginal negative for TSM if the talks progress, though all parties stress nothing has been ordered. Confirm/deny gates: any concrete tape-out commitment, any Apple-issued statement, or any 8-K from Intel or Samsung referencing a foundry agreement.",
-        "forWho": "semis, foundry and large-cap tech investors",
-        "tryIt": "https://finance.yahoo.com/quote/INTC"
-      },
-      "image": {
-        "url": "https://images.macrumors.com/t/n8JMxdkOzk8f3BBf2vAizoWlfEI=/1600x/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg",
-        "alt": "Semiconductor wafer inspection in a chip fab cleanroom",
-        "fit": "cover",
-        "credit": "MacRumors"
-      },
-      "publishDate": "2026-05-05T20:41:32.803Z"
-    },
-    {
-      "id": "mu-700b-market-cap-may-2026",
-      "categories": [
-        "mover",
-        "sector"
-      ],
-      "title": "Micron tops $700B market cap as memory rally accelerates; MU surges ~11%",
-      "org": "Micron Technology",
-      "date": "2026-05-05",
-      "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
-      "summary": "Micron rallied ~11% on May 5 to push its market cap past $700B for the first time, joining the top tier of US tech caps. The move reflects a broader memory squeeze tied to AI data-center demand; SanDisk and other memory names also rallied.",
-      "tags": [
-        "mover",
-        "memory",
-        "ai-supply",
-        "dram",
-        "hbm",
-        "nand",
-        "semis",
-        "sector-rally"
-      ],
-      "importance": "major",
-      "tickers": [
-        "MU",
-        "SNDK"
-      ],
-      "metrics": {
-        "MU move": "~+11% intraday May 5",
-        "Market cap": ">$700B for the first time",
-        "Approx share price": "~$635",
-        "YTD performance": "+~125%",
-        "12-month performance": "+~700%",
-        "SanDisk move": "+~7.8%"
-      },
-      "links": [
-        {
-          "label": "CNBC Coverage",
-          "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html"
-        },
-        {
-          "label": "Companies Market Cap — MU",
-          "url": "https://companiesmarketcap.com/micron-technology/marketcap/"
-        },
-        {
-          "label": "Yahoo Finance — MU",
-          "url": "https://finance.yahoo.com/quote/MU"
-        },
-        {
-          "label": "Stockanalysis.com — MU",
-          "url": "https://stockanalysis.com/stocks/mu/"
-        }
-      ],
-      "explainer": {
-        "tagline": "Micron's market cap broke $700B for the first time as the AI-driven memory shortage keeps lifting the tape.",
-        "whatIsIt": "Micron Technology rallied roughly 11% on May 5, pushing the stock to about $635 and the market cap above $700B for the first time. The move puts MU into the top-ten most valuable US tech companies and extends a memory-stock rally that also lifted SanDisk by about 7.8% on the day.",
-        "howItWorks": "The setup is a structural shortage in DRAM and HBM driven by AI-data-center buildout. Micron CEO Sanjay Mehrotra has said key customers are getting only 50%-to-two-thirds of their requirements, and the company has reiterated a fiscal-2026 outlook that includes adjusted EPS guidance of $2.80–$3.00 and revenue of $59.5B–$62.5B (per Mehrotra's prepared comments earlier in the year). Year to date, MU is up roughly 125%; over the trailing twelve months, it is up nearly 700%.",
-        "whyItMatters": "A $700B memory name is a new fact pattern for index construction and passive flows, and it cements memory as a primary AI-leverage trade alongside accelerators. Read-throughs: SK Hynix and Samsung's memory units sit on the same demand curve, and capex from hyperscale buyers (MSFT, META, GOOG, AMZN) is a leading indicator for FY27 contracts. Watch for sell-side estimate revisions and any Q4 capacity commentary on the next print.",
-        "forWho": "semis, AI infrastructure and sector-rotation investors",
-        "tryIt": "https://finance.yahoo.com/quote/MU"
-      },
-      "image": {
-        "url": "https://image.cnbcfm.com/api/v1/image/108279191-1773779927968-gettyimages-2256071928-MICRON_NY.jpeg?v=1778011808&w=1920&h=1080",
-        "alt": "Micron Technology corporate signage",
-        "fit": "cover",
-        "credit": "Getty Images / CNBC"
-      },
-      "publishDate": "2026-05-05T20:41:32.803Z"
-    },
-    {
-      "id": "race-q1-2026-earnings",
-      "categories": [
-        "earnings"
-      ],
-      "title": "Ferrari Q1 2026 — adj EPS €2.33 beats, full-year 2026 guide reaffirmed",
-      "org": "Ferrari",
-      "date": "2026-05-05",
-      "url": "https://www.stocktitan.net/news/RACE/another-quarter-of-strong-mix-2026-guidance-kw47hkpri4re.html",
-      "summary": "Ferrari posted Q1 2026 net revenues of €1.85B and adjusted diluted EPS of €2.33, beating consensus on both. EBIT margin was 29.7% on richer mix; the company reaffirmed full-year 2026 guidance with order book stretching to end-2027.",
-      "tags": [
-        "earnings",
+        "offplan",
         "luxury",
-        "auto",
-        "italy",
-        "q1-2026",
-        "eps-beat",
-        "ferrari",
-        "personalizations"
+        "developer"
+      ],
+      "title": "Downtown branded residence assignment watch: resale spread vs developer stock",
+      "org": "Developer / portal sweep",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&l=41&ob=mr&page=1&rp=y&t=1",
+      "summary": "Off-plan Downtown branded units are monitored for assignment discounts versus developer inventory and payment-plan optionality.",
+      "tags": [
+        "downtown",
+        "branded",
+        "offplan",
+        "assignment",
+        "luxury"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DOWNTOWN",
+        "OFFPLAN"
+      ],
+      "metrics": {
+        "Ask": "Developer and resale spreads vary",
+        "Payment plan": "Verify paid % and next milestones",
+        "Handover": "Confirm expected date",
+        "Premium risk": "Brand + view must justify price",
+        "Exit": "Assignment liquidity check"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&l=41&ob=mr&page=1&rp=y&t=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "A Downtown branded-residence assignment screen that compares resale asks against developer stock and payment-plan burden.",
+        "whatIsIt": "Assignments can look cheaper than new developer inventory but carry paid-premium math, transfer restrictions, and upcoming installment pressure. The agent should normalize price to total contract value, paid amount, outstanding payments, and expected handover.",
+        "howItWorks": "The platform keeps the developer sheet, resale ad, payment schedule, Oqood/assignment notes, and comparable transactions together. It highlights when a seller may accept a discount because the next installment is near.",
+        "whyItMatters": "Branded Downtown stock attracts global buyers, but premiums compress if too many similar units hit the market before handover. A good assignment needs a real spread, clear view/floor advantage, and manageable payment timing.",
+        "forWho": "Luxury brokers, assignment buyers, and sellers trying to price against developer competition.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+        "alt": "Downtown branded residence assignment watch: resale spread vs developer stock",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "business-bay-office-vacant-cap-rate-may-2026",
+      "categories": [
+        "commercial",
+        "ready",
+        "rental"
+      ],
+      "title": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+      "org": "Bayut",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.bayut.com/for-sale/offices/dubai/business-bay/",
+      "summary": "Business Bay offices are tracked for vacant possession, fit-out quality, parking, service charges, and rent-backed cap-rate validation.",
+      "tags": [
+        "business-bay",
+        "office",
+        "commercial",
+        "vacant",
+        "cap-rate"
       ],
       "importance": "notable",
       "tickers": [
-        "RACE"
+        "BUSINESS-BAY",
+        "COMM"
       ],
       "metrics": {
-        "Net revenues": "€1,848M (+3% reported, +6% cc)",
-        "EBIT": "€548M (29.7% margin)",
-        "Adj diluted EPS": "€2.33 vs €2.27 est",
-        "Shipments": "3,436 units",
-        "Industrial FCF": "€653M",
-        "FY26 revenue guide": "~€7.50B (reaffirmed)",
-        "FY26 adj EBITDA guide": "≥€2.93B (≥39.0% margin)",
-        "FY26 adj EPS guide": "≥€9.45"
+        "Ask": "AED 1.1M\u20132.5M screen",
+        "Rent comp": "Verify fitted vs shell rents",
+        "Parking": "Must confirm allocation",
+        "Service charge": "Material to NOI",
+        "Buyer pool": "SME end users + investors"
       },
       "links": [
         {
-          "label": "Ferrari Press Release (StockTitan)",
-          "url": "https://www.stocktitan.net/news/RACE/another-quarter-of-strong-mix-2026-guidance-kw47hkpri4re.html"
-        },
-        {
-          "label": "CNBC Coverage",
-          "url": "https://www.cnbc.com/2026/05/05/ferrari-nv-race-earnings-q1-2026.html"
-        },
-        {
-          "label": "Yahoo Finance — RACE",
-          "url": "https://finance.yahoo.com/quote/RACE"
+          "label": "Source listing / search",
+          "url": "https://www.bayut.com/for-sale/offices/dubai/business-bay/"
         }
       ],
       "explainer": {
-        "tagline": "Ferrari beat on EPS, leaned on richer mix and personalizations, and kept the 2026 guide intact.",
-        "whatIsIt": "Ferrari reported preliminary Q1 2026 results on May 5. Net revenues of €1,848M were up 3% reported (and 6% at constant currency); adjusted diluted EPS came in at €2.33 versus a €2.27 consensus and revenue beat the €1.81B Street estimate. Shipments were 3,436 units — intentionally lower as the company manages model transitions.",
-        "howItWorks": "EBIT was €548M, a 29.7% margin, supported by stronger product mix from higher-margin vehicles and personalization options, partially offset by higher depreciation tied to new model production and increased marketing. Industrial free cash flow was €653M for the quarter. Management confirmed 2026 guidance: net revenues of about €7.50B, adjusted EBITDA of at least €2.93B (≥39.0% margin), adjusted diluted EPS of at least €9.45 and industrial free cash flow of at least €1.50B.",
-        "whyItMatters": "Ferrari's order book reportedly stretches to the end of 2027, which insulates the print from cycle weakness in mass-market autos and supports the premium that the stock has historically earned. Read-throughs: other luxury and ultra-luxury auto names key off Ferrari's mix and pricing, and continued strength in personalizations is a positive signal for Italian luxury complex broadly.",
-        "forWho": "luxury, auto and European equity investors",
-        "tryIt": "https://finance.yahoo.com/quote/RACE"
+        "tagline": "A commercial screen for vacant Business Bay offices where rent-backed pricing may reveal motivated sellers.",
+        "whatIsIt": "Commercial listings require different diligence than apartments: title use, parking allocation, fit-out condition, service charges, chiller, and building occupancy all matter. The platform should store these as metrics before any outreach.",
+        "howItWorks": "The card links portal ads to rent comps and notes whether the unit is shell-and-core, fitted, partitioned, or leased. If an end user can occupy immediately, the same asset may have more value than a pure investor cap-rate calculation shows.",
+        "whyItMatters": "Business Bay has strong SME demand, but office liquidity is building-specific. A clean vacant office with parking and realistic service charges can sell better than headline cap-rate suggests.",
+        "forWho": "Commercial brokers, SME end users, and investors comfortable underwriting NOI.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-data/#/"
       },
       "image": {
-        "url": "https://image.cnbcfm.com/api/v1/image/108210006-17600211302025-10-09t080455z_1543033647_rc2s3hatuuf3_rtrmadp_0_ferrari-strategy.jpeg?v=1760021172&w=1920&h=1080",
-        "alt": "Ferrari corporate branding used in a Reuters strategy photo",
-        "fit": "cover",
-        "credit": "Reuters / CNBC"
-      },
-      "publishDate": "2026-05-05T20:41:32.803Z"
+        "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+        "alt": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
     },
     {
-      "id": "gme-ebay-bid-may-2026",
+      "id": "emirates-hills-villa-prime-listing-intel-may-2026",
       "categories": [
-        "mna",
-        "mover"
+        "luxury",
+        "ready",
+        "lead"
       ],
-      "title": "GameStop offers ~$56B unsolicited bid for eBay at $125/share, half cash and half stock",
-      "org": "GameStop",
-      "date": "2026-05-03",
-      "url": "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Proposes-to-Acquire-eBay-at-125-00-Per-Share/",
-      "summary": "GameStop disclosed an unsolicited proposal to acquire eBay at $125/share, half cash and half stock, citing a 46% premium to eBay's unaffected close on Feb 4 and pledging $2B of run-rate cost cuts.",
+      "title": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+      "org": "LuxuryProperty.com",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.luxuryproperty.com/dubai/villas-for-sale/emirates-hills",
+      "summary": "Prime villa inventory is tracked as relationship intelligence: seller motivation, view, plot, renovation status, and buyer match are more important than broad filters.",
       "tags": [
-        "mna",
-        "unsolicited-bid",
-        "all-cash-and-stock",
-        "e-commerce",
-        "collectibles",
-        "ryan-cohen",
-        "td-securities"
+        "emirates-hills",
+        "villa",
+        "luxury",
+        "seller-lead",
+        "off-market"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "EMIRATES-HILLS",
+        "LUXURY"
+      ],
+      "metrics": {
+        "Ticket": "AED 70M+ segment",
+        "Plot": "Verify sq ft and lake/golf view",
+        "Condition": "Renovated vs rebuild",
+        "Lead status": "Broker/source relationship required",
+        "Exit": "Ultra-prime buyer match"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.luxuryproperty.com/dubai/villas-for-sale/emirates-hills"
+        }
+      ],
+      "explainer": {
+        "tagline": "A trophy-villa intelligence card focused on matching motivated sellers with qualified ultra-prime buyers.",
+        "whatIsIt": "Ultra-prime villa opportunities are rarely solved by portal scraping alone. The platform should collect public listings, broker notes, price changes, image changes, and private lead status into one seller-intent record.",
+        "howItWorks": "The record separates public facts from relationship notes and flags when a listing changes broker, price, photos, or description. That creates a signal that the seller may be more flexible or the mandate may be shifting.",
+        "whyItMatters": "In Emirates Hills and similar prime areas, scarcity and seller motivation drive outcomes more than generic AED/sqft screens. The value is speed, discretion, and knowing when a public listing masks an off-market negotiation.",
+        "forWho": "Prime brokers, family-office buyers, and seller reps managing discreet mandates.",
+        "tryIt": "https://www.luxuryproperty.com/dubai/villas-for-sale/emirates-hills"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "alt": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "dubai-south-townhouse-handover-rental-play-may-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "rental"
+      ],
+      "title": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+      "org": "Developer / DLD monitor",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.bayut.com/for-sale/townhouses/dubai/dubai-south/",
+      "summary": "Townhouse handovers around Dubai South are monitored for post-handover rent demand, snagging risk, and motivated resale assignments.",
+      "tags": [
+        "dubai-south",
+        "townhouse",
+        "handover",
+        "family-rental",
+        "developer"
       ],
       "importance": "major",
       "tickers": [
-        "GME",
-        "EBAY"
+        "DUBAI-SOUTH",
+        "TOWNHOUSE"
       ],
       "metrics": {
-        "Offer": "$125.00 per share, 50% cash / 50% GME stock",
-        "Aggregate equity value": "~$55.5B",
-        "Premium (unaffected)": "46% vs eBay's Feb 4 close",
-        "Premium (90-day VWAP)": "36%",
-        "Cash on hand (1/31/26)": "~$9.4B",
-        "Debt financing": "Up to $20B highly-confident letter from TD Securities",
-        "Targeted run-rate savings": "$2B within 12 months of close",
-        "EBAY move": "~+5% intraday May 4",
-        "GME move": "~-10% May 4 close"
+        "Ask": "AED 2.2M\u20133.5M screen",
+        "Rent thesis": "Family tenant demand near airport corridor",
+        "Handover": "Verify notice and snagging",
+        "Payment": "Post-handover plan matters",
+        "Risk": "Supply clustering"
       },
       "links": [
         {
-          "label": "GameStop Proposal",
-          "url": "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Proposes-to-Acquire-eBay-at-125-00-Per-Share/"
-        },
-        {
-          "label": "Al Jazeera Coverage",
-          "url": "https://www.aljazeera.com/economy/2026/5/4/gamestop-targets-ebay-with-unsolicited-56bn-acquisition-offer"
-        },
-        {
-          "label": "ABC News Coverage",
-          "url": "https://abcnews.com/Business/gamestop-offers-56-billion-buy-ebay/story?id=132631557"
-        },
-        {
-          "label": "Yahoo Finance — EBAY",
-          "url": "https://finance.yahoo.com/quote/EBAY"
-        },
-        {
-          "label": "Yahoo Finance — GME",
-          "url": "https://finance.yahoo.com/quote/GME"
+          "label": "Source listing / search",
+          "url": "https://www.bayut.com/for-sale/townhouses/dubai/dubai-south/"
         }
       ],
       "explainer": {
-        "tagline": "Ryan Cohen's GameStop offers $125/share for eBay, a market cap roughly four times its own.",
-        "whatIsIt": "GameStop publicly disclosed an unsolicited proposal to acquire eBay for $125 per share in a 50/50 cash-and-stock structure, valuing the target at about $55.5B in aggregate equity. The offer was sent to eBay's board on May 3 and the company published the proposal letter the same day. eBay confirmed receipt and said its board would review the proposal.",
-        "howItWorks": "GameStop says the offer represents a 46% premium to eBay's unaffected closing price on February 4, 2026, a 27% premium to the 30-day VWAP and a 36% premium to the 90-day VWAP. The cash leg would be funded from GameStop's roughly $9.4B of balance-sheet cash as of January 31 plus a highly-confident letter from TD Securities for up to $20B of acquisition debt. GameStop has built a stake of roughly 5% in eBay and projects $2B of annualized cost reductions within twelve months of any close.",
-        "whyItMatters": "The math is the story — GameStop, with an equity market value near $12B, is bidding for a target several times larger than itself, with a financing stack that depends on a non-binding bank letter and a heavy stock component. eBay's stock rose around 5% on the news while GameStop fell about 10%, signaling that the market is pricing both target accretion and meaningful execution risk. eBay's review process and financing certainty are the next gates.",
-        "forWho": "M&A arb desks, e-commerce and collectibles investors",
-        "tryIt": "https://finance.yahoo.com/quote/EBAY"
+        "tagline": "A Dubai South townhouse pipeline card for buyers betting on family rental demand after handover.",
+        "whatIsIt": "The screen tracks developer handover dates, resale assignments, payment-plan stress, and listed rents for comparable completed homes. It should flag sellers facing final installments or handover fees.",
+        "howItWorks": "Each card stores the project, layout, plot size, paid/outstanding amount, expected rent, and snagging notes. It also distinguishes genuine ready keys from ads posted before handover.",
+        "whyItMatters": "Dubai South can benefit from infrastructure and family demand, but supply arrives in clusters. The best opportunities are where seller pressure offsets near-term supply risk.",
+        "forWho": "Family-rental investors, end users, and agents tracking handover-motivated sellers.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
       },
       "image": {
-        "url": "https://i.abcnewsfe.com/a/3f9710c9-f220-4111-8413-65fe5a45d019/gamestop-gty-jef-260504_1777920171603_hpMain_16x9.jpg?w=1600",
-        "alt": "Exterior of a GameStop retail store",
-        "fit": "cover",
-        "credit": "Getty Images / ABC News"
-      },
-      "publishDate": "2026-05-05T18:45:18.727Z"
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
+        "alt": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
     },
     {
-      "id": "amzn-supply-chain-services-launch-may-2026",
+      "id": "palm-jumeirah-short-let-furnishing-arbitrage-may-2026",
       "categories": [
-        "sector",
-        "mover"
+        "rental",
+        "luxury",
+        "flip"
       ],
-      "title": "Amazon opens its full logistics network to outside businesses, sending UPS ~10% lower and FedEx ~9% lower",
-      "org": "Amazon",
-      "date": "2026-05-04",
-      "url": "https://press.aboutamazon.com/2026/5/amazon-launches-amazon-supply-chain-services-opening-its-logistics-network-to-all-businesses",
-      "summary": "Amazon launched Amazon Supply Chain Services, exposing its freight, fulfillment and parcel network to any business; UPS fell about 10% and FedEx fell roughly 9% on the day.",
+      "title": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+      "org": "Property Finder",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&l=14&ob=pa&page=1&rp=y&t=1",
+      "summary": "Palm apartments are tagged when dated interiors, view, and building rules could create short-let upside after furnishing.",
       "tags": [
-        "logistics",
-        "parcel",
-        "supply-chain",
-        "amazon",
-        "ups",
-        "fedex",
-        "ecommerce",
-        "competitive-shift"
-      ],
-      "importance": "major",
-      "tickers": [
-        "AMZN",
-        "UPS",
-        "FDX"
-      ],
-      "metrics": {
-        "UPS move": "~-10% on May 4",
-        "FDX move": "~-9% on May 4",
-        "Anchor customers disclosed": "Procter & Gamble, 3M, Lands' End, American Eagle Outfitters",
-        "Service entry point": "supplychain.amazon.com",
-        "Channels supported": "Amazon, Walmart, Shopify, TikTok and others"
-      },
-      "links": [
-        {
-          "label": "Amazon Press Release",
-          "url": "https://press.aboutamazon.com/2026/5/amazon-launches-amazon-supply-chain-services-opening-its-logistics-network-to-all-businesses"
-        },
-        {
-          "label": "Amazon Blog Post",
-          "url": "https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business"
-        },
-        {
-          "label": "GeekWire",
-          "url": "https://www.geekwire.com/2026/amazon-turns-its-logistics-empire-into-a-new-business-taking-on-ups-and-fedex-in-freight-and-shipping/"
-        },
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/"
-        },
-        {
-          "label": "Yahoo Finance — UPS",
-          "url": "https://finance.yahoo.com/quote/UPS"
-        }
-      ],
-      "explainer": {
-        "tagline": "Amazon turns its logistics stack into a third-party offering, branded Amazon Supply Chain Services.",
-        "whatIsIt": "Amazon launched Amazon Supply Chain Services on May 4, packaging its freight (ocean, air, ground, rail), distribution, fulfillment and parcel-shipping operations into a single offering open to any business — including sellers on Walmart, Shopify, TikTok and other competing marketplaces. The launch was framed by Amazon as a logistics analogue to AWS, and Procter & Gamble, 3M, Lands' End and American Eagle Outfitters were named as initial customers.",
-        "howItWorks": "Customers sign up through a single portal at supplychain.amazon.com and can mix-and-match freight, distribution, fulfillment and parcel services. Amazon says the network is the same one used internally for its own retail operations and existing third-party seller fulfillment, with optimization driven by its AI demand-forecasting models. Peter Larsen, VP of Amazon Supply Chain Services, drew an explicit comparison to AWS in the launch materials.",
-        "whyItMatters": "UPS fell roughly 10% and FedEx fell about 9% on the launch day, with sell-side notes flagging it as a direct competitive blow to traditional parcel carriers. Contract logistics and 3PL operators including DHL Supply Chain, GXO and Maersk Logistics are also exposed if Amazon scales the offering aggressively. The next read-throughs are pricing and contract terms versus incumbent quotes — UPS and FedEx Q1 commentary becomes the sector's pressure point.",
-        "forWho": "logistics, transports and large-cap e-commerce investors",
-        "tryIt": "https://finance.yahoo.com/quote/UPS"
-      },
-      "image": {
-        "url": "https://assets.aboutamazon.com/dims4/default/4e6366b/2147483647/strip/true/crop/2000x1000+0+17/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0a%2F17%2F9835cc404d2b93033b27b68b0f5f%2Fascs-plane-amazon-news-nb-050426.jpg",
-        "alt": "Amazon Air freighter on a runway, used to launch Amazon Supply Chain Services",
-        "fit": "cover",
-        "credit": "Amazon"
-      },
-      "publishDate": "2026-05-05T18:45:18.727Z"
-    },
-    {
-      "id": "tsn-q2-fy2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Tyson Foods FQ2 2026 — adj EPS $0.87 beats $0.76, raises FY26 op income guide; shares jump ~8%",
-      "org": "Tyson Foods",
-      "date": "2026-05-05",
-      "url": "https://www.tysonfoods.com/news/news-releases/2026/5/tyson-foods-reports-second-quarter-2026-results",
-      "summary": "Tyson posted FQ2 adjusted EPS of $0.87 versus a $0.76 consensus, revenue +4.4% to $13.65B and lifted FY26 adjusted operating income guidance to $2.2–$2.4B; shares rallied about 8%.",
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "guidance-raise",
-        "chicken",
-        "prepared-foods",
-        "tariffs",
-        "fq2-2026"
-      ],
-      "importance": "major",
-      "tickers": [
-        "TSN"
-      ],
-      "metrics": {
-        "Adj EPS": "$0.87 vs ~$0.76 est",
-        "GAAP EPS": "$0.73",
-        "Revenue": "$13.65B (+4.4% Y/Y)",
-        "FY26 Adj Op Income guide": "$2.2B–$2.4B (raised)",
-        "FY26 Chicken Op Income guide": "$1.9B–$2.05B (raised)",
-        "FY26 Beef segment guide": "$(350)M–$(500)M loss",
-        "FY26 Free cash flow": "$1.2B–$1.8B",
-        "Move": "~+8%"
-      },
-      "links": [
-        {
-          "label": "Tyson Press Release",
-          "url": "https://www.tysonfoods.com/news/news-releases/2026/5/tyson-foods-reports-second-quarter-2026-results"
-        },
-        {
-          "label": "Yahoo Finance Coverage",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-delivers-q2-earnings-144800039.html"
-        },
-        {
-          "label": "Yahoo Finance — TSN",
-          "url": "https://finance.yahoo.com/quote/TSN"
-        },
-        {
-          "label": "8-K (StockTitan mirror)",
-          "url": "https://www.stocktitan.net/sec-filings/TSN/8-k-tyson-foods-inc-reports-material-event-ad9309fdc09b.html"
-        }
-      ],
-      "explainer": {
-        "tagline": "Chicken-led FQ2 beat plus a raised FY26 guide drives Tyson shares ~8% higher.",
-        "whatIsIt": "Tyson Foods reported fiscal Q2 2026 results on May 5, with adjusted EPS of $0.87 topping the ~$0.76 consensus by 11 cents and revenue of $13.65B up 4.4% year over year. Reported GAAP EPS was $0.73. Management raised full-year guidance and shares moved roughly 8% higher in response.",
-        "howItWorks": "Chicken remained the standout segment, driving the operating-income beat, while Prepared Foods contributed $352M of segment operating income at a 14% margin on +4.8% sales. Beef remained pressured and is now guided to a $350–$500M segment operating loss for FY26. Tyson lifted FY26 total adjusted operating income guidance to $2.2B–$2.4B, raised the Chicken segment outlook to $1.9B–$2.05B, and set free-cash-flow guidance at $1.2B–$1.8B with $3.7B of liquidity at quarter-end.",
-        "whyItMatters": "The print confirms that Chicken margins are absorbing both grain-cost normalization and the structural shift toward branded/prepared products, allowing Tyson to over-earn against still-loss-making Beef. The raised FY26 guide makes Tyson the cleanest beat in the protein complex this earnings season and pulls peers like Pilgrim's Pride and Hormel into the read-across. Tariff exposure remains a watch item — management called out a meaningful FY26 EBITDA headwind from current tariff policy.",
-        "forWho": "consumer-staples and protein-complex investors",
-        "tryIt": "https://finance.yahoo.com/quote/TSN"
-      },
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tyson_Foods_corporate_logo_%282024%29.svg/1280px-Tyson_Foods_corporate_logo_%282024%29.svg.png",
-        "alt": "Tyson Foods corporate logo",
-        "fit": "contain",
-        "credit": "Tyson Foods / Wikimedia Commons"
-      },
-      "publishDate": "2026-05-05T18:45:18.727Z"
-    },
-    {
-      "id": "pins-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Pinterest Q1 2026 — revenue +18%, raised Q2 guide and $2B buyback send shares ~15% higher",
-      "org": "Pinterest",
-      "date": "2026-05-04",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-announces-first-quarter-2026-200600038.html",
-      "summary": "Pinterest beat on revenue and EPS, lifted Q2 guidance above Street and disclosed about $2B of share repurchases in the quarter; stock surged about 15%.",
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "revenue-beat",
-        "guidance-raise",
-        "buyback",
-        "social-media",
-        "ad-tech",
-        "q1-2026"
-      ],
-      "importance": "major",
-      "tickers": [
-        "PINS"
-      ],
-      "metrics": {
-        "Revenue": "$1.01B (+18% Y/Y) vs $966M est",
-        "Adj EPS": "$0.27 vs $0.23 est",
-        "MAU": "631M (+11% Y/Y)",
-        "ARPU (global)": "$1.61 (+6% Y/Y)",
-        "Q2 Revenue guide": "$1.13B–$1.15B (vs $1.11B est)",
-        "Buybacks": "~$2B in Q1",
-        "Move": "~+15%"
-      },
-      "links": [
-        {
-          "label": "Press Release",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-announces-first-quarter-2026-200600038.html"
-        },
-        {
-          "label": "CNBC Coverage",
-          "url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html"
-        },
-        {
-          "label": "Yahoo Finance — PINS",
-          "url": "https://finance.yahoo.com/quote/PINS"
-        },
-        {
-          "label": "Analyst Reaction",
-          "url": "https://247wallst.com/investing/2026/05/05/pinterest-just-got-a-wall-street-pile-on-six-firms-hike-price-targets-after-q1-beat-crushes-estimates/"
-        }
-      ],
-      "explainer": {
-        "tagline": "Pinterest tops Q1 estimates, raises Q2 outlook above consensus and books ~$2B of buybacks; shares rip ~15%.",
-        "whatIsIt": "Pinterest reported Q1 2026 results after the bell on May 4. Revenue grew 18% year over year to $1.01B, monthly active users hit a record 631M (+11% Y/Y), and global ARPU climbed 6% to $1.61. Adjusted EPS came in at $0.27 versus the $0.23 consensus.",
-        "howItWorks": "Adjusted EBITDA was $207M, ahead of the ~$176M consensus. Q2 revenue guidance of $1.13B–$1.15B implies 14–16% Y/Y growth and sits above the $1.11B Street view. The company also disclosed approximately $2B of near-term share repurchases completed in the quarter, alongside the previously announced February acquisition of connected-TV ad-tech firm tvScientific for ~$465M.",
-        "whyItMatters": "The print confirms ad-spend strength on lower-funnel social platforms despite a fragile macro backdrop. Pinterest's outperformance contrasts with cautious guides from peers (Pinterest's gain came alongside Shopify and Duolingo guides that disappointed) and reframes the digital-ad debate going into Meta and Snap commentary windows. At least seven sell-side firms hiked price targets the next morning.",
-        "forWho": "ad-tech and consumer-internet investors",
-        "tryIt": "https://finance.yahoo.com/quote/PINS"
-      },
-      "image": {
-        "url": "https://s.yimg.com/os/en/business-wire.com/593764c19e968e25cd56d23eb8290c36",
-        "alt": "Pinterest Q1 2026 earnings press release header",
-        "fit": "cover",
-        "credit": "Pinterest / Business Wire"
-      },
-      "publishDate": "2026-05-05T16:52:23.456Z"
-    },
-    {
-      "id": "shop-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Shopify Q1 2026 — revenue +34% with $100B GMV but stock falls ~7% as Q2 guide signals slower growth",
-      "org": "Shopify",
-      "date": "2026-05-05",
-      "url": "https://www.shopify.com/news/shopify-q1-2026-financial-results",
-      "summary": "Shopify topped Q1 revenue forecasts on $3.17B in sales and over $100B of merchant GMV, but Q2 guidance pointing to high-twenties revenue growth implied a deceleration and pushed shares down about 7%.",
-      "tags": [
-        "earnings",
-        "revenue-beat",
-        "guidance",
-        "deceleration",
-        "ecommerce",
-        "gmv",
-        "q1-2026"
-      ],
-      "importance": "major",
-      "tickers": [
-        "SHOP"
-      ],
-      "metrics": {
-        "Revenue": "$3.17B (+34% Y/Y) vs ~$3.09B–$3.12B est",
-        "GMV": ">$100B (+35% Y/Y)",
-        "FCF margin": "15%",
-        "Q2 Revenue guide": "high-twenties % Y/Y growth",
-        "Q2 FCF margin guide": "mid-teens",
-        "Q2 OpEx guide": "35–36% of revenue",
-        "Move": "~-7%"
-      },
-      "links": [
-        {
-          "label": "Shopify Press Release",
-          "url": "https://www.shopify.com/news/shopify-q1-2026-financial-results"
-        },
-        {
-          "label": "8-K Filing",
-          "url": "https://www.stocktitan.net/sec-filings/SHOP/8-k-shopify-inc-reports-material-event-c489d9aecc72.html"
-        },
-        {
-          "label": "TradingView Summary",
-          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3284663:0-shop-q1-2026-revenue-rose-34-to-3-2b-with-gmv-up-35-and-net-loss-narrowing-to-581m/"
-        },
-        {
-          "label": "Yahoo Finance — SHOP",
-          "url": "https://finance.yahoo.com/quote/SHOP"
-        }
-      ],
-      "explainer": {
-        "tagline": "Top-line beats, GMV crosses $100B for the quarter, but Q2's slower-growth guide takes the air out of the stock.",
-        "whatIsIt": "Shopify reported Q1 2026 results before the open on May 5. Revenue of $3.17B grew 34% Y/Y and beat the ~$3.10B consensus, with merchant GMV crossing $100B in a single quarter for the first time and free cash flow margin holding at 15%.",
-        "howItWorks": "Headline numbers were strong, but the Q2 outlook is what investors are reacting to: management guided to revenue growth in the high-twenties percent range, gross profit growth in the mid-twenties, OpEx at 35–36% of revenue and a mid-teens FCF margin. The high-twenties revenue print would be a step down from Q1's 34% pace.",
-        "whyItMatters": "Shopify has been a comp for the broader e-commerce/SMB ad-spend complex; a deceleration here amplifies tariff- and consumer-spending concerns flagged by other guides this week. The ~7% sell-off — on a name that was a momentum favorite — also tightens the leash on aggressive 2026 take-rate and AI-monetization narratives.",
-        "forWho": "growth-tech and e-commerce investors",
-        "tryIt": "https://finance.yahoo.com/quote/SHOP"
-      },
-      "image": {
-        "url": "https://cdn.shopify.com/shopifycloud/brochure/assets/shared/social-image-default-large-57a90e6a8ae96f7277e9664ebfede1f143995ce7663119c832f9a7d4dd51f7e1.png",
-        "alt": "Shopify wordmark on brand-green social card",
-        "fit": "cover",
-        "credit": "Shopify"
-      },
-      "publishDate": "2026-05-05T16:52:23.456Z"
-    },
-    {
-      "id": "duol-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Duolingo Q1 2026 — revenue +27% but full-year bookings guide of 10.5% growth knocks shares ~13%",
-      "org": "Duolingo",
-      "date": "2026-05-04",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287111/0/en/Duolingo-Reports-First-Quarter-2026-Results.html",
-      "summary": "Duolingo beat on revenue and DAUs but its 2026 bookings growth guide of 10.5% implied a sharp deceleration from Q1's 14% pace, sending shares down about 13%.",
-      "tags": [
-        "earnings",
-        "revenue-beat",
-        "guidance-cut",
-        "bookings",
-        "consumer-subscription",
-        "ai",
-        "edtech",
-        "q1-2026"
-      ],
-      "importance": "major",
-      "tickers": [
-        "DUOL"
-      ],
-      "metrics": {
-        "Revenue": "$291.9M (+27% Y/Y)",
-        "Bookings": "$308.5M (+14% Y/Y)",
-        "DAU": "56.5M (+21% Y/Y)",
-        "Paid subs": "12.5M (+21% Y/Y)",
-        "Adj EBITDA": "$83.4M (28.6% margin)",
-        "FY26 Bookings guide": "$1.28B (+10.5% Y/Y)",
-        "FY26 Revenue guide": "$1.205B (+16.1% Y/Y)",
-        "Move": "~-13%"
-      },
-      "links": [
-        {
-          "label": "Press Release",
-          "url": "https://www.globenewswire.com/news-release/2026/05/04/3287111/0/en/Duolingo-Reports-First-Quarter-2026-Results.html"
-        },
-        {
-          "label": "8-K Filing",
-          "url": "https://www.stocktitan.net/sec-filings/DUOL/8-k-duolingo-inc-reports-material-event-6974ab47316e.html"
-        },
-        {
-          "label": "Earnings Transcript",
-          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/04/duolingo-duol-q1-2026-earnings-transcript/"
-        },
-        {
-          "label": "Yahoo Finance — DUOL",
-          "url": "https://finance.yahoo.com/quote/DUOL"
-        }
-      ],
-      "explainer": {
-        "tagline": "Duolingo's quarter is fine; its bookings guide isn't. Buyers reset multiple on slowing top-of-funnel monetization.",
-        "whatIsIt": "Duolingo reported Q1 2026 after the bell on May 4. Revenue of $291.9M (+27% Y/Y) and DAUs of 56.5M (+21%) topped consensus. Adjusted EBITDA was $83.4M at a 28.6% margin and free cash flow margin came in at 50.6%.",
-        "howItWorks": "The market reaction was driven by guidance, not the print. Full-year 2026 bookings guidance of $1.28B implies 10.5% Y/Y growth, a step down from the 14% bookings pace in Q1. Revenue guidance of $1.205B (+16.1% Y/Y) and adjusted EBITDA of $310M (25.7% margin) were largely in line with prior framing, but the bookings deceleration — bookings lead future revenue in a subscription model — drove the de-rating.",
-        "whyItMatters": "DUOL has traded as a high-growth, AI-narrative consumer subscription compounder. A bookings guide that decelerates this hard reframes the AI-translation moat story and forces a multiple compression conversation. Sets up a cautious read-through for other consumer-subscription names with rich multiples and Q2 prints ahead.",
-        "forWho": "growth and consumer-subscription investors",
-        "tryIt": "https://finance.yahoo.com/quote/DUOL"
-      },
-      "image": {
-        "url": "https://s.yimg.com/os/en/moby_896/a0083e60c93bc6c23a3416ef8b94dd81",
-        "alt": "Duolingo Q1 2026 earnings article header",
-        "fit": "cover",
-        "credit": "Duolingo / Yahoo Finance"
-      },
-      "publishDate": "2026-05-05T16:52:23.456Z"
-    },
-    {
-      "id": "hubb-nsi-acquisition-may-2026",
-      "categories": [
-        "mna"
-      ],
-      "title": "Hubbell to acquire NSI Industries from Sentinel for $3B in cash, betting on electrification and datacenter buildout",
-      "org": "Hubbell",
-      "date": "2026-05-04",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3286597/0/en/Hubbell-to-Acquire-NSI-Industries.html",
-      "summary": "Hubbell agreed to buy NSI Industries from Sentinel Capital Partners for $3B cash at ~15.5x EBITDA, expanding its electrical-fittings portfolio into datacenter and light-industrial verticals.",
-      "tags": [
-        "mna",
-        "electrical",
-        "datacenter",
-        "industrial",
-        "private-equity-exit",
-        "cash-deal"
-      ],
-      "importance": "major",
-      "tickers": [
-        "HUBB"
-      ],
-      "metrics": {
-        "Deal": "$3.0B all-cash",
-        "Multiple": "~15.5x 2026E EBITDA",
-        "NSI 2026E revenue": "~$570M",
-        "Bridge financing": "up to $2.8B (JPMorgan, BofA, HSBC)",
-        "Expected close": "mid-2026"
-      },
-      "links": [
-        {
-          "label": "Hubbell Press Release",
-          "url": "https://www.globenewswire.com/news-release/2026/05/04/3286597/0/en/Hubbell-to-Acquire-NSI-Industries.html"
-        },
-        {
-          "label": "8-K Filing",
-          "url": "https://www.stocktitan.net/sec-filings/HUBB/8-k-hubbell-inc-reports-material-event-5ebb1eb9aaf8.html"
-        },
-        {
-          "label": "Benzinga Coverage",
-          "url": "https://www.benzinga.com/m-a/26/05/52258600/hubbell-strikes-3-billion-deal-to-acquire-nsi-bets-big-on-electrification-boom"
-        },
-        {
-          "label": "RTTNews Coverage",
-          "url": "https://www.rttnews.com/3646763/hubbell-to-acquire-nsi-industries-for-3-bln.aspx"
-        }
-      ],
-      "explainer": {
-        "tagline": "Hubbell adds NSI's electrical-fittings franchise for $3B cash, leaning further into datacenter power and electrification.",
-        "whatIsIt": "Hubbell signed a definitive agreement on May 4 to acquire NSI Industries — a portfolio company of Sentinel Capital Partners that supplies electrical fittings, connectors and wire-management products — for $3.0B in cash. NSI is expected to generate about $570M of revenue in 2026.",
-        "howItWorks": "The deal values NSI at roughly 15.5x 2026 EBITDA. Hubbell will fund it with cash on hand and debt, backed by up to $2.8B of fully committed senior unsecured bridge financing from JPMorgan, Bank of America and HSBC. Closing is expected in mid-2026 subject to Hart-Scott-Rodino antitrust clearance and customary conditions, and Hubbell expects the transaction to be accretive to adjusted EPS in 2026 and lift Electrical Solutions adjusted operating margins.",
-        "whyItMatters": "It's another large-cap industrial bolt-on aimed squarely at the AI/datacenter electrification capex cycle, alongside light-industrial and network-infrastructure end markets. The 15.5x multiple sets a fresh comp for electrical-fittings PE exits, and the all-cash + bridge structure highlights the still-open IG debt window for strategic acquirers.",
-        "forWho": "industrial and capital-goods investors",
-        "tryIt": "https://finance.yahoo.com/quote/HUBB"
-      },
-      "image": {
-        "url": "https://static.stocktitan.net/filing-covers/hubb_8-K.webp",
-        "alt": "Hubbell 8-K filing cover for NSI Industries acquisition",
-        "fit": "cover",
-        "credit": "Stock Titan / Hubbell 8-K"
-      },
-      "publishDate": "2026-05-05T16:52:23.456Z"
-    },
-    {
-      "id": "pfe-q1-2026-earnings",
-      "categories": [
-        "earnings"
-      ],
-      "title": "Pfizer Q1 2026 — beats on EPS and revenue, reaffirms full-year outlook",
-      "org": "Pfizer",
-      "date": "2026-05-05",
-      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-first-quarter-results-and-reaffirms",
-      "summary": "Pfizer posted Q1 adjusted EPS of $0.75 vs $0.72 est on $14.45B revenue vs $13.79B est, with Eliquis up 13% YoY offsetting Covid-product declines. 2026 guidance reaffirmed.",
-      "tickers": [
-        "PFE"
-      ],
-      "tags": [
-        "earnings",
-        "eps-beat",
-        "revenue-beat",
-        "q1-2026",
-        "pharma",
-        "eliquis",
-        "guidance-reaffirmed",
-        "covid-rolloff"
-      ],
-      "importance": "major",
-      "metrics": {
-        "EPS (Adj.)": "$0.75 vs $0.72 est",
-        "Revenue": "$14.45B vs $13.79B est",
-        "Eliquis": "$2.17B (+13% Y/Y)",
-        "Comirnaty": "$232M (-59% Y/Y)",
-        "Paxlovid": "$186M (-62% Y/Y)",
-        "FY26 Rev Guide": "$59.5–62.5B",
-        "FY26 EPS Guide": "$2.80–3.00",
-        "Move": "+1.6% premarket"
-      },
-      "explainer": {
-        "tagline": "Pfizer beats Q1 estimates as new launches and Eliquis offset the Covid revenue cliff.",
-        "whatIsIt": "Pfizer reported first-quarter 2026 results before the open on May 5. Adjusted EPS came in at $0.75 versus the $0.72 consensus, and revenue of $14.45B beat the $13.79B Street estimate. The company reaffirmed its full-year 2026 guidance.",
-        "howItWorks": "Recently launched and acquired products grew 22% operationally on the quarter. Top-selling blood thinner Eliquis added $2.17B (+13% Y/Y), while Covid-vaccine Comirnaty fell 59% to $232M and Paxlovid dropped 62% to $186M. FY 2026 revenue is still guided to $59.5–62.5B with adjusted EPS of $2.80–3.00.",
-        "whyItMatters": "The print confirms Pfizer's pivot away from the post-Covid revenue cliff is on track via Eliquis durability and new oncology/GLP-1 assets. Guidance reaffirmation removes a near-term overhang ahead of upcoming patent expirations on Eliquis and Ibrance.",
-        "forWho": "pharma analysts, dividend-focused holders",
-        "tryIt": "https://finance.yahoo.com/quote/PFE/"
-      },
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfizer_%282021%29.svg/1280px-Pfizer_%282021%29.svg.png",
-        "alt": "Pfizer corporate logo",
-        "fit": "contain"
-      },
-      "links": [
-        {
-          "label": "Pfizer Press Release",
-          "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-first-quarter-results-and-reaffirms"
-        },
-        {
-          "label": "Sherwood Recap",
-          "url": "https://sherwood.news/markets/pfizer-earnings-q1-2026-results-above-consensus-reaffirms-guidance/"
-        },
-        {
-          "label": "StockStory Recap",
-          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-5-pfizer-nysepfe-posts-better-than-expected-sales-in-q1-cy2026"
-        },
-        {
-          "label": "Yahoo Quote",
-          "url": "https://finance.yahoo.com/quote/PFE/"
-        }
-      ],
-      "publishDate": "2026-05-05T16:08:03.094Z"
-    },
-    {
-      "id": "pltr-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "Palantir Q1 2026 — revenue +85% Y/Y, raises FY26 guide to 71% growth, stock dips on valuation",
-      "org": "Palantir Technologies",
-      "date": "2026-05-04",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q1-2026-u-200500041.html",
-      "summary": "Palantir grew revenue 85% Y/Y to $1.63B, lifted FY26 guidance to 71% growth ($7.65–7.66B), and posted a 145% Rule of 40. Stock opened down ~3.8% the next day on stretched valuation.",
-      "tickers": [
-        "PLTR"
-      ],
-      "tags": [
-        "earnings",
-        "ai",
-        "government-tech",
-        "us-commercial",
-        "rule-of-40",
-        "guidance-raise",
-        "sell-the-news",
-        "q1-2026"
-      ],
-      "importance": "major",
-      "metrics": {
-        "Revenue": "$1.63B (+85% Y/Y)",
-        "Adj. EPS": "$0.33 vs $0.28 est",
-        "US Revenue": "$1.282B (+104% Y/Y)",
-        "US Commercial": "$595M (+133% Y/Y)",
-        "US Government": "$687M (+84% Y/Y)",
-        "Adj. FCF": "$925M (57% margin)",
-        "FY26 Rev Guide": "$7.650–7.662B (+71% Y/Y)",
-        "Rule of 40": "145%",
-        "Move (next day open)": "-3.8%"
-      },
-      "explainer": {
-        "tagline": "Palantir's fastest-ever revenue quarter and a 10-point guidance raise still couldn't outrun a sell-the-news drop.",
-        "whatIsIt": "Palantir reported Q1 2026 after the close on May 4. Revenue of $1.63B grew 85% Y/Y — the fastest growth since at least 2020 — with adjusted EPS of $0.33 beating the $0.28 estimate. Management raised FY 2026 guidance to 71% growth from 61% prior.",
-        "howItWorks": "U.S. revenue jumped 104% Y/Y to $1.28B, with U.S. commercial up 133% to $595M and U.S. government up 84% to $687M. Adjusted free cash flow hit $925M at a 57% margin. Full-year U.S. commercial guidance was raised to $3.224B+ (+120% Y/Y). Despite the print, PLTR opened the next session down about 3.8% as traders pointed to the elevated multiple ahead of results.",
-        "whyItMatters": "Palantir is the cleanest read on enterprise + government AI deployment velocity. The 145% Rule of 40 and another quarter of accelerating U.S. commercial growth strengthen the case that Foundry/AIP wins are still expanding, even as a stretched valuation continues to cap upside on prints. The next-day drawdown is the read-through to watch for other high-multiple AI names.",
-        "forWho": "AI-software equity analysts, growth funds",
-        "tryIt": "https://finance.yahoo.com/quote/PLTR/"
-      },
-      "image": {
-        "url": "https://s.yimg.com/ny/api/res/1.2/VT8JXhqw_2pMXuvCwY2x7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0yOTc-/https://media.zenfs.com/en/business-wire.com/6d70e33ede6d3291654ac2c0e556fcdf",
-        "alt": "Palantir Q1 2026 earnings press graphic",
-        "fit": "cover",
-        "credit": "Business Wire"
-      },
-      "links": [
-        {
-          "label": "Yahoo Finance Recap",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q1-2026-u-200500041.html"
-        },
-        {
-          "label": "Stocktitan Recap",
-          "url": "https://www.stocktitan.net/news/PLTR/palantir-reports-q1-2026-u-s-revenue-growth-of-104-y-y-and-revenue-2er5cxji64hm.html"
-        },
-        {
-          "label": "PLTR Quote",
-          "url": "https://finance.yahoo.com/quote/PLTR/"
-        }
-      ],
-      "publishDate": "2026-05-05T16:08:03.094Z"
-    },
-    {
-      "id": "pypl-q1-2026-earnings",
-      "categories": [
-        "earnings",
-        "mover"
-      ],
-      "title": "PayPal Q1 2026 — beats top and bottom but stock plunges ~10% on cautious guidance",
-      "org": "PayPal Holdings",
-      "date": "2026-05-05",
-      "url": "https://newsroom.paypal-corp.com/2026-05-05-PayPal-Reports-First-Quarter-2026-Results",
-      "summary": "PayPal beat Q1 with $1.34 adj. EPS on $8.35B revenue and $464B TPV, but transaction margin compressed to 45.6% and FY26 guidance flagged a slight decline in transaction-margin dollars. Stock fell ~9.8% premarket.",
-      "tickers": [
-        "PYPL"
-      ],
-      "tags": [
-        "earnings",
-        "fintech",
-        "tpv",
-        "transaction-margin",
-        "guidance-cut",
-        "buyback",
-        "q1-2026"
-      ],
-      "importance": "major",
-      "metrics": {
-        "Revenue": "$8.35B vs $8.05B est",
-        "Adj. EPS": "$1.34 vs $1.27 est",
-        "TPV": "$464B (+11% Y/Y)",
-        "US TPV": "$300.1B (+11% Y/Y)",
-        "Transaction margin %": "45.6% (vs 47.7% Y/Y)",
-        "Operating margin": "18.4% (-229 bp Y/Y)",
-        "FY26 Adj. EPS Guide": "low-single-digit decline to slightly positive",
-        "FY26 Buyback": "$6B authorized",
-        "Move": "-9.8% premarket to $45.45"
-      },
-      "explainer": {
-        "tagline": "PayPal beat Q1 numbers but a softer 2026 margin trajectory triggered a ~10% premarket drop.",
-        "whatIsIt": "PayPal reported Q1 2026 on the morning of May 5. Adjusted EPS of $1.34 beat the $1.27 consensus and revenue of $8.35B beat $8.05B. TPV grew 11% to $464B. But guidance and margin compression dominated the reaction.",
-        "howItWorks": "Transaction margin compressed to 45.6% from 47.7% Y/Y, with transaction-margin dollars only up 3%. Operating margin fell 229bp to 18.4% on heavier tech and marketing spend. FY 2026 guidance now calls for transaction-margin dollars to show a slight decline and adjusted EPS to range from a low-single-digit decline to slightly positive vs FY25's $5.31. The company kept a $6B buyback authorization and at least $6B of adjusted FCF for the year.",
-        "whyItMatters": "The print is the cleanest signal yet that PayPal's branded-checkout reacceleration is being paid for with margin. A slight FY transaction-margin-dollar decline coming into the year was not in the buy-side base case, and the ~10% drop reprices a name that had been working as a low-multiple turnaround.",
-        "forWho": "fintech analysts, value/turnaround funds",
-        "tryIt": "https://finance.yahoo.com/quote/PYPL/"
-      },
-      "image": {
-        "url": "https://newsroom.paypal-corp.com/image/PayPal_Logo_White_3x2.png",
-        "alt": "PayPal corporate logo",
-        "fit": "contain"
-      },
-      "links": [
-        {
-          "label": "PayPal Press Release",
-          "url": "https://newsroom.paypal-corp.com/2026-05-05-PayPal-Reports-First-Quarter-2026-Results"
-        },
-        {
-          "label": "Yahoo Finance Recap",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-reports-first-quarter-2026-110000451.html"
-        },
-        {
-          "label": "PYPL Quote",
-          "url": "https://finance.yahoo.com/quote/PYPL/"
-        }
-      ],
-      "publishDate": "2026-05-05T16:08:03.094Z"
-    },
-    {
-      "id": "fujairah-drone-strike-oil-may-2026",
-      "categories": [
-        "macro",
-        "commodity"
-      ],
-      "title": "Iran drone strike sets fire at UAE Fujairah oil hub; Brent jumps 5.8% to $114",
-      "org": "United Arab Emirates",
-      "date": "2026-05-04",
-      "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran",
-      "summary": "An Iranian drone strike ignited a fire at the UAE's Fujairah Oil Industry Zone on May 4, breaking the April 8 ceasefire. UAE intercepted three of four Iranian missiles. Brent crude settled +5.8% at $114.44; WTI +4.39% at $106.42.",
-      "tags": [
-        "geopolitics",
-        "iran",
-        "uae",
-        "fujairah",
-        "strait-of-hormuz",
-        "oil",
-        "brent",
-        "wti",
-        "ceasefire-break",
-        "energy"
-      ],
-      "importance": "major",
-      "metrics": {
-        "Brent": "$114.44 (+5.8%)",
-        "WTI": "$106.42 (+4.39%)",
-        "Cruise missiles intercepted": "3 of 4",
-        "Injured": "3 (Indian nationals)",
-        "Days since ceasefire start": "26 (since Apr 8)"
-      },
-      "explainer": {
-        "tagline": "First Iranian strike on UAE soil since the April 8 ceasefire reignites the Gulf war premium and sends Brent to four-year highs.",
-        "whatIsIt": "On May 4 the Fujairah Oil Industry Zone caught fire after an Iranian drone strike, while UAE air defenses intercepted three of four incoming Iranian cruise missiles, with a fourth crashing at sea. Three Indian nationals were injured. It was the first attack on the UAE since the April 8 U.S.–Iran ceasefire.",
-        "howItWorks": "Iran's Revolutionary Guard Corps published a map expanding its claimed control zone to cover Fujairah and Khorfakkan ports and the Umm Al Quwain coast. Fujairah sits at the end of the Abu Dhabi Crude Oil Pipeline that bypasses the Strait of Hormuz, making it critical to UAE exports during the conflict. Brent settled +5.8% at $114.44 and WTI +4.39% at $106.42.",
-        "whyItMatters": "The break in the ceasefire reopens the path to a sustained oil-supply premium and feeds inflation expectations: rate-cut odds for the next FOMC moved further out, and 30Y Treasury yields breached 5% the same day on the inflation read-through. Energy desks now have to price the option that Fujairah-style strikes recur and Hormuz transit risk gets repriced higher.",
-        "forWho": "energy desks, macro traders",
-        "tryIt": "https://finance.yahoo.com/quote/CL=F/"
-      },
-      "image": {
-        "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-10.07.06-AM-1777965082.png?resize=1920%2C1238",
-        "alt": "Smoke rising from the Fujairah oil zone after the May 4 drone strike",
-        "fit": "cover",
-        "credit": "Al Jazeera"
-      },
-      "links": [
-        {
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran"
-        },
-        {
-          "label": "OilPrice",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Surges-to-114-Following-Iranian-Strikes-on-UAE-Port.html"
-        },
-        {
-          "label": "WTI Quote",
-          "url": "https://finance.yahoo.com/quote/CL=F/"
-        }
-      ],
-      "publishDate": "2026-05-05T16:08:03.094Z"
-    },
-    {
-      "id": "us30y-tops-5-percent-may-2026",
-      "categories": [
-        "rates",
-        "macro"
-      ],
-      "title": "30-year Treasury yield breaches 5% for first time since July 2025 as oil-driven inflation bites",
-      "org": "U.S. Treasury",
-      "date": "2026-05-04",
-      "url": "https://finance.biggo.com/news/Vhn-9Z0BmHHDnbgyZBiT",
-      "summary": "The 30Y UST yield touched 5.03% on May 4, breaching 5% for the first time since July 2025, as the Fujairah strike and rising oil pushed inflation expectations higher. 10Y rose to 4.456%; mortgage rates climbed to 6.52%.",
-      "tickers": [
-        "^TYX",
-        "^TNX"
-      ],
-      "tags": [
-        "rates",
-        "treasuries",
-        "30-year",
-        "yield-curve",
-        "inflation-expectations",
-        "oil-shock",
-        "long-end"
-      ],
-      "importance": "major",
-      "metrics": {
-        "30Y yield": "5.021% (+5bp+)",
-        "30Y intraday high": "5.03%",
-        "10Y yield": "4.456% (+5bp)",
-        "30Y mortgage": "6.52%",
-        "Last >5% on 30Y": "July 2025"
-      },
-      "explainer": {
-        "tagline": "Long-end Treasuries crack 5% as the Iran-driven oil spike pulls inflation expectations higher.",
-        "whatIsIt": "On May 4 the U.S. 30-year Treasury yield gained more than 5 basis points to 5.021%, with an intraday high of 5.03% — the first close above 5% since July 2025. The 10-year rose to 4.456%, the highest since July 2025.",
-        "howItWorks": "The move came alongside Brent +5.8% to $114 after the Iranian drone strike on Fujairah. Long-end yields lead because the inflation pass-through from oil compounds across the curve. Per market pricing on the day, Fed-rate-hike odds moved up to roughly 80% for the next meeting, and Barclays and Morgan Stanley pushed back their rate-cut expectations.",
-        "whyItMatters": "5% on the long bond is a psychological line that ties refi-sensitive sectors (housing, REITs, regional banks) to a fresh leg of duration risk. The 30Y mortgage rate climbing to 6.52% extends the housing-affordability squeeze. For risk assets, the move is the second-order effect of the Gulf escalation — even if oil pulls back, the inflation-expectations channel has been re-anchored higher.",
-        "forWho": "rates desks, mortgage REIT and bank holders",
-        "tryIt": "https://fred.stlouisfed.org/series/DGS30"
-      },
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FFR_treasuries.webp/1280px-FFR_treasuries.webp.png",
-        "alt": "Federal Funds Rate vs Treasury yields chart",
-        "fit": "contain",
-        "credit": "Wikimedia Commons"
-      },
-      "links": [
-        {
-          "label": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/Vhn-9Z0BmHHDnbgyZBiT"
-        },
-        {
-          "label": "FRED 30Y Series",
-          "url": "https://fred.stlouisfed.org/series/DGS30"
-        },
-        {
-          "label": "Treasury Yield Curve",
-          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
-        }
-      ],
-      "publishDate": "2026-05-05T16:08:03.094Z"
-    },
-    {
-      "id": "btc-spot-etfs-532m-inflows-may-4-2026",
-      "categories": [
-        "crypto"
-      ],
-      "title": "U.S. spot bitcoin ETFs draw $532M on May 4 — third straight day of net inflows",
-      "org": "Spot Bitcoin ETF complex",
-      "date": "2026-05-04",
-      "url": "https://en.bloomingbit.io/feed/news/111390",
-      "summary": "U.S. spot bitcoin ETFs took in $532.19M on May 4, a third consecutive day of inflows. BlackRock IBIT led with $335M, Fidelity FBTC added $185M, Morgan Stanley MSBT pulled $12M.",
-      "tickers": [
-        "BTC-USD",
-        "IBIT",
-        "FBTC"
-      ],
-      "tags": [
-        "bitcoin",
-        "spot-etf",
-        "ibit",
-        "fbtc",
-        "etf-flows",
-        "institutional",
-        "crypto"
+        "palm-jumeirah",
+        "short-let",
+        "furnishing",
+        "holiday-home",
+        "luxury"
       ],
       "importance": "notable",
+      "tickers": [
+        "PALM",
+        "SHORTLET"
+      ],
       "metrics": {
-        "Net inflow (May 4)": "$532.19M",
-        "BlackRock IBIT": "$335.46M",
-        "Fidelity FBTC": "$184.57M",
-        "Morgan Stanley MSBT": "$12.16M",
-        "Consecutive positive days": "3"
-      },
-      "explainer": {
-        "tagline": "Spot BTC ETFs took in another $532M on May 4, with BlackRock and Fidelity capturing nearly all of it.",
-        "whatIsIt": "U.S.-listed spot bitcoin ETFs recorded net inflows of $532.19M on Monday, May 4 — the third consecutive day of net additions. BlackRock's IBIT pulled $335.46M, Fidelity's FBTC took $184.57M, and Morgan Stanley's MSBT added $12.16M.",
-        "howItWorks": "The cluster of inflows comes against an Iran-driven risk-off backdrop and follows a $629M day on Friday May 1. April logged $2.44B in net inflows — the strongest monthly figure since October 2025. Cumulative net inflows since the January 2024 launch sit at roughly $58.7B, still shy of the October peak around $61.2B.",
-        "whyItMatters": "BTC ETF flows are the cleanest read on incremental institutional bid. Three straight days of net inflows during a Gulf-driven oil and rates spike suggests bitcoin is being treated as a duration-light hedge by some of the same allocators selling long Treasuries. Watch the IBIT/FBTC concentration — flows remain dominated by two issuers.",
-        "forWho": "crypto allocators, ETF-flow watchers",
-        "tryIt": "https://farside.co.uk/btc/"
-      },
-      "image": {
-        "url": "https://cdn.sanity.io/images/s3y3vcno/production/b5cd3bf36d1eac21a178cc65ec243a52a29b099a-1280x854.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "alt": "Bitcoin ETF flows visualization",
-        "fit": "cover",
-        "credit": "CoinDesk"
+        "Ask": "AED 3M\u20136M screen",
+        "Capex": "Furnishing + refresh budget required",
+        "Revenue": "Verify holiday-home seasonality",
+        "Building rules": "Short-let permission required",
+        "Risk": "Service charges + occupancy volatility"
       },
       "links": [
         {
-          "label": "BloomingBit Flow Recap",
-          "url": "https://en.bloomingbit.io/feed/news/111390"
-        },
-        {
-          "label": "CoinDesk Flow Analysis",
-          "url": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet"
-        },
-        {
-          "label": "Farside ETF Flow Tracker",
-          "url": "https://farside.co.uk/btc/"
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&l=14&ob=pa&page=1&rp=y&t=1"
         }
       ],
-      "publishDate": "2026-05-05T16:08:03.094Z"
+      "explainer": {
+        "tagline": "A Palm short-let candidate where the spread may come from better furnishing and revenue management, not just lower ask.",
+        "whatIsIt": "The opportunity starts as a public listing but needs operational underwriting: holiday-home rules, view, furnishing capex, cleaning, platform fees, and seasonal occupancy. The platform should track those assumptions separately from simple long-let rent.",
+        "howItWorks": "The card keeps images, floor/view notes, active comps, projected nightly-rate assumptions, and capex. If photos are dated but the building and view are strong, it gets a flip/rental tag for deeper review.",
+        "whyItMatters": "Palm liquidity and tourist demand are strong, but returns can be overstated. A real opportunity needs legal short-let ability, realistic occupancy, and a renovation budget that does not erase the spread.",
+        "forWho": "Holiday-home operators, furnishing-led flippers, and luxury apartment buyers.",
+        "tryIt": "https://www.dubaitourism.gov.ae/en/legislation-regulations/holiday-homes"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "alt": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "duplicate-detector-same-unit-different-broker-marina-may-2026",
+      "categories": [
+        "duplicate",
+        "legal",
+        "lead"
+      ],
+      "title": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+      "org": "Internal matcher",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&l=50&ob=mr&page=1&rp=y&t=1",
+      "summary": "A matching workflow compares photos, tower, floor clues, size, and description text to merge likely same-unit ads and reveal price dispersion.",
+      "tags": [
+        "duplicate-detection",
+        "broker-spread",
+        "marina",
+        "data-quality",
+        "lead-routing"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARINA",
+        "DATA"
+      ],
+      "metrics": {
+        "Price spread": "Flag when asks differ by >2%",
+        "Signals": "Photos, sqft, tower, floor, view, description",
+        "Action": "Merge records before outreach",
+        "Risk": "False positives need human review",
+        "Value": "Find true lowest mandate"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&l=50&ob=mr&page=1&rp=y&t=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "A data-quality card that turns duplicate listings into negotiating intelligence instead of clutter.",
+        "whatIsIt": "Dubai portals often show the same unit through several brokers, sometimes at different prices or with stale availability. The matcher should group probable duplicates and preserve each broker/source as a separate lead under one opportunity.",
+        "howItWorks": "The workflow compares canonical URLs, image fingerprints, unit attributes, description phrases, tower/community, and price history. A human verifies high-value matches before outreach or seller conversations.",
+        "whyItMatters": "Duplicate detection prevents chasing fake inventory and can reveal the most direct or lowest-priced mandate. It also helps sellers see whether their unit is being diluted by inconsistent broker advertising.",
+        "forWho": "Buyer agents, seller reps, and anyone building a clean CRM from portal inventory.",
+        "tryIt": "https://www.propertyfinder.ae/en/search?c=2&l=50"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "alt": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
     }
   ]
 }

@@ -18,7 +18,7 @@ name: Generate daily digest
 
 on:
   schedule:
-    # Daily at 9:00 AM UTC (after the release sweeps have run)
+    # Daily at 9:00 AM UTC (after the opportunity sweeps have run)
     - cron: "0 9 * * *"
   workflow_dispatch: {}
 
@@ -59,7 +59,7 @@ jobs:
           # placeholders would be passed literally to Claude. Substitute
           # via GitHub Actions templating at workflow-render time instead.
           prompt: |
-            You are running as the Stock/TLDR daily digest generator inside a
+            You are running as the DxbEstate Intel daily digest generator inside a
             GitHub Actions workflow. The working directory is the repo root.
 
             TODAY'S DATE IS ${{ steps.now.outputs.date }}.
@@ -73,14 +73,14 @@ jobs:
             table-based, email-safe).
 
             STEP 2. Read `src/data/releases.json` and select 5-8 of the most
-            important recent releases (last 1-3 days). Prioritize:
+            important recent opportunities (last 1-3 days). Prioritize:
             - seismic > major > notable importance
-            - Releases with images
-            - Mix of categories (earnings, mover, macro, mna, analyst, etc.)
+            - Opportunities with images
+            - Mix of categories (distress, offplan, ready, rental, developer, luxury, commercial, duplicate, etc.)
 
             STEP 3. Generate the digest file following the template exactly:
             - Open with the outermost dark-bg `<table>` and the header
-              block ("Stock/TLDR · Daily Digest" + display date)
+              block ("DxbEstate Intel · Daily Digest" + display date)
             - Use dark theme with `bgcolor` attributes
             - Include SHORT explainers (1-2 sentences per What/How/Why/Who)
             - All links must be active
@@ -96,7 +96,7 @@ jobs:
             STEP 5. Stop. Do NOT commit or push — the next workflow step
             handles git ops.
 
-            Return a short summary of what releases were included.
+            Return a short summary of what opportunities were included.
           claude_args: |
             --model claude-sonnet-4-6
             --verbose
@@ -131,8 +131,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name  "stock-tldr-bot"
-          git config user.email "41898282+stock-tldr-bot@users.noreply.github.com"
+          git config user.name  "dxb-estate-intel-bot"
+          git config user.email "41898282+dxb-estate-intel-bot@users.noreply.github.com"
           git add "$DIGEST_FILE"
           git commit -m "feat(newsletter): daily digest ${DIGEST_DATE}
 
@@ -168,7 +168,7 @@ jobs:
           node -e '
             const fs = require("fs");
             const html = fs.readFileSync(process.env.DIGEST_FILE, "utf8");
-            const subject = `Stock/TLDR Daily Digest — ${process.env.DIGEST_DISPLAY_DATE}`;
+            const subject = `DxbEstate Intel Daily Digest — ${process.env.DIGEST_DISPLAY_DATE}`;
             (async () => {
               const res = await fetch("https://api.resend.com/broadcasts", {
                 method: "POST",
@@ -178,8 +178,8 @@ jobs:
                 },
                 body: JSON.stringify({
                   segment_id: process.env.RESEND_SEGMENT_ID,
-                  from: "Stock/TLDR <digest@stock-tldr.xyz>",
-                  reply_to: ["digest@stock-tldr.xyz"],
+                  from: "DxbEstate Intel <digest@dxb-estate-intel.xyz>",
+                  reply_to: ["digest@dxb-estate-intel.xyz"],
                   subject,
                   name: `daily-digest-${process.env.DIGEST_FILE_DATE}`,
                   html,

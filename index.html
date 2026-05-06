@@ -14,7 +14,7 @@
     <script>
       (function () {
         try {
-          var t = localStorage.getItem("stock-tldr-theme");
+          var t = localStorage.getItem("dxb-estate-intel-theme");
           if (t === "light" || t === "dark") {
             document.documentElement.setAttribute("data-theme", t);
           }
@@ -26,20 +26,20 @@
       Per-page <title>, <meta name="description">, <link rel="canonical">,
       all og:*/twitter:*/article:* tags, and the JSON-LD block below are
       ALL stripped and replaced at build time by scripts/prerender.ts —
-      one set per release + one for each static page (home, influencers,
+      one set per opportunity + one for each static page (home, sources,
       log). The tags here are the dev-mode fallback for `bun dev`; they
       get swapped out in the production build, so the homepage variants
       are the only ones that actually matter at runtime.
     -->
-    <title>What Just Moved Markets — Earnings, Fed, M&A | Stock/TLDR</title>
-    <meta name="description" content="Every market-moving release worth knowing — earnings prints, Fed decisions, M&A, big single-name moves — refreshed every 2 hours and explained in plain English." />
+    <title>Dubai Real-Estate Intelligence — Listings, Leads, Deals | DxbEstate Intel</title>
+    <meta name="description" content="Dubai real-estate opportunities, listing changes, duplicate ads, developer launches, seller leads, and rent/yield signals — refreshed every 2 hours and explained in plain English." />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/favicon.png" />
 
     <!-- Additional SEO -->
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
-    <meta name="author" content="Stock/TLDR" />
-    <meta name="keywords" content="stock market news, earnings tracker, Fed decisions, market movers, M&A news, IPO calendar, analyst upgrades, macro news, CPI, jobs report, crypto news, market changelog" />
+    <meta name="author" content="DxbEstate Intel" />
+    <meta name="keywords" content="Dubai real estate, Dubai property listings, Property Finder, Bayut, DLD transactions, RERA, off-plan Dubai, Dubai rental yield, Dubai villas, Dubai apartments, real estate leads" />
     <meta name="theme-color" content="#050505" />
 
     <!-- Structured Data (JSON-LD) — dev-mode fallback; prerender rewrites for prod -->
@@ -49,22 +49,22 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": "https://stock-tldr.xyz/#website",
-          "url": "https://stock-tldr.xyz/",
-          "name": "Stock/TLDR",
-          "alternateName": "Stock TLDR",
-          "description": "Every market-moving release worth knowing — earnings, Fed, M&A, movers, macro — refreshed every 2 hours and explained in plain English.",
+          "@id": "https://dxb-estate-intel.xyz/#website",
+          "url": "https://dxb-estate-intel.xyz/",
+          "name": "DxbEstate Intel",
+          "alternateName": "DxbEstate Intel",
+          "description": "Dubai property opportunities, duplicate listings, seller leads, developer launches, and rent/yield signals — refreshed every 2 hours and explained in plain English.",
           "inLanguage": "en-US",
-          "publisher": { "@id": "https://stock-tldr.xyz/#org" }
+          "publisher": { "@id": "https://dxb-estate-intel.xyz/#org" }
         },
         {
           "@type": "Organization",
-          "@id": "https://stock-tldr.xyz/#org",
-          "name": "Stock/TLDR",
-          "url": "https://stock-tldr.xyz/",
+          "@id": "https://dxb-estate-intel.xyz/#org",
+          "name": "DxbEstate Intel",
+          "url": "https://dxb-estate-intel.xyz/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://stock-tldr.xyz/og-image.png",
+            "url": "https://dxb-estate-intel.xyz/og-image.png",
             "width": 1200,
             "height": 630
           }
@@ -83,10 +83,10 @@
   </head>
   <body>
     <noscript>
-      <h1>Stock/TLDR — What Just Moved Markets: Earnings, Fed, M&amp;A, Movers</h1>
-      <p>A high-volume feed of market-moving releases — quarterly earnings, FOMC decisions, M&amp;A, regulatory actions, big single-name moves, macro prints, commodities and crypto — refreshed every 2 hours. Each release is explained in plain English so you actually understand what just happened and which tickers it touches.</p>
+      <h1>DxbEstate Intel — Dubai Real-Estate Intelligence: Listings, Leads, Deals</h1>
+      <p>A high-volume feed of Dubai property opportunities — portal listings, duplicate ads, developer launches, DLD/rent signals, distressed sellers, and broker leads — refreshed every 2 hours. Each opportunity is explained in plain English so you understand the numbers, risks, and next action.</p>
       <p>This site uses JavaScript to render the interactive feed. Enable JavaScript to use it.</p>
-      <p><strong>Stock/TLDR is not investment advice.</strong> Verify everything against primary sources before trading.</p>
+      <p><strong>DxbEstate Intel is not legal, tax, investment, or brokerage advice.</strong> Verify every listing, title, tenancy, fee, source, and comp before acting.</p>
     </noscript>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>

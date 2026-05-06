@@ -37,7 +37,7 @@ if (!/^[\w.-]+\/[\w.-]+$/.test(slug)) {
 }
 
 const headers: Record<string, string> = {
-  "User-Agent": "stock-tldr-sweep-bot",
+  "User-Agent": "dxb-estate-intel-sweep-bot",
   Accept: "application/vnd.github+json",
   "X-GitHub-Api-Version": "2022-11-28",
 };

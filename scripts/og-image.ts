@@ -18,7 +18,7 @@ if (!arg) {
   process.exit(1);
 }
 
-const UA = "stock-tldr-sweep-bot";
+const UA = "dxb-estate-intel-sweep-bot";
 
 async function fetchHead(url: string) {
   const res = await fetch(url, {

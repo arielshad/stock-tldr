@@ -1,5 +1,5 @@
 /* ============================================================
- * Stock/TLDR — brutalist editorial layout
+ * DxbEstate Intel — brutalist editorial layout
  * ============================================================ */
 
 .page {
@@ -1022,7 +1022,7 @@
  * down. Auto-rendered by ReleaseCard / ReleaseModal when the agent
  * provides a `Move` (or `Move (next day open)`, `Move (24h)`, etc)
  * key in `metrics`. The arrow + colour pair is the eye-lock for
- * traders skimming the feed; matching Yahoo / Bloomberg conventions
+ * operators scanning the feed; matching deal-desk conventions
  * lets readers process direction without reading the number. */
 .move {
   display: inline-flex;
@@ -1094,10 +1094,10 @@
   border-color: var(--rumor);
 }
 
-/* Ticker chips. Filled with the finance-link colour so they pop
- * against the rest of the badge row — tickers are the primary
- * eye-lock for traders, and a row of distinct chips makes it
- * obvious at a glance which names a release touches. */
+/* Area/building chips. Filled with the intelligence-link colour so they pop
+ * against the rest of the badge row — area/building codes are the primary
+ * eye-lock for operators, and a row of distinct chips makes it
+ * obvious at a glance which areas or buildings an opportunity touches. */
 .badge-ticker {
   font-weight: 800;
   background: var(--link);
@@ -1541,9 +1541,9 @@
   line-height: 1.2;
 }
 
-/* Metric table — used in the modal footer for dense earnings prints
- * and macro releases. Two-column grid with the key in mono-muted and
- * the value in mono-bold so digits eye-lock for traders skimming. */
+/* Metric table — used in the modal footer for dense listing comps
+ * and underwriting notes. Two-column grid with the key in mono-muted and
+ * the value in mono-bold so digits eye-lock for operators scanning. */
 .metric-table {
   margin: 0;
   padding: 0;

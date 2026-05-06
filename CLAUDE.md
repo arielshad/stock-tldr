@@ -2,9 +2,7 @@
 
 ## Project
 
-Stock/TLDR — a high-volume markets tracker covering equities, macro,
-rates, FX, commodities, and crypto. Single-page React app powered by
-a JSON feed that an automated agent refreshes every 2 hours.
+DxbEstate Intel — a high-volume Dubai real-estate intelligence platform covering listings, duplicate ads, developer launches, DLD/RERA signals, distressed sellers, rent/yield screens, commercial stock, luxury leads, and off-plan assignments. Single-page React app powered by a JSON feed that an automated agent refreshes every 2 hours.
 
 ## Quick commands
 
@@ -19,32 +17,33 @@ bun run build      # production build (vite + scripts/prerender.ts)
 
 Path-based, not hash-based:
 - `/` → feed home
-- `/influencers` → influencers page
-- `/releases/<id>` → feed with the modal open for that release
+- `/sources` → sources page
+- `/opportunities/<id>` → feed with the modal open for that opportunity
 
 `src/App.tsx` parses `window.location.pathname`. Modal open/close uses
 `pushState` / `replaceState` — no page reloads. Legacy hash URLs
-(`#<id>`, `#influencers`) still work as a fallback for old bookmarks.
+(`#<id>`, `#sources`) still work as a fallback for old bookmarks.
 
 ## Build pipeline
 
 `bun run build` runs three steps in order:
 
 1. `tsc -b` — type-check the whole project
-2. `vite build` — bundle the SPA into `dist/index.html` + assets
-3. `bun scripts/prerender.ts` — post-processes `dist/` to generate:
-   - `dist/index.html` (homepage with correct meta tags)
-   - `dist/influencers/index.html`
-   - `dist/releases/<id>/index.html` — one per release, with
+2. `bun scripts/check-feed.ts` — verify feed ids/URLs do not collide
+3. `vite build` — bundle the SPA into `dist/client/index.html` + assets
+4. `bun scripts/prerender.ts` — post-processes `dist/client/` to generate:
+   - `dist/client/index.html` (homepage with correct meta tags)
+   - `dist/client/sources/index.html`
+   - `dist/client/opportunities/<id>/index.html` — one per opportunity, with
      per-item `<title>`, `<meta>`, OG tags, Twitter card, and
-     Article JSON-LD injected from `src/data/releases.json`
+     Article JSON-LD injected from `src/data/opportunities.json`
    - `dist/sitemap.xml` (all URLs)
    - `dist/robots.txt`
 
 The prerender script is the **single source of truth for SEO**. It
-reads `releases.json` directly, so whenever the agent updates the
+reads `opportunities.json` directly, so whenever the agent updates the
 feed, the next build produces a fresh static HTML file for every new
-release without any manual work.
+opportunity without any manual work.
 
 `public/_redirects` tells Cloudflare Pages to fall back to
 `/index.html` with a 200 for any path that doesn't match a generated
@@ -52,7 +51,7 @@ file, so the SPA's client-side router handles unknown paths.
 
 To override the base URL used in canonical tags + sitemap, set the
 `SITE_URL` env var before running `bun run build`. Default is
-`https://stock-tldr.xyz` (the public domain).
+`https://dxb-estate-intel.xyz` (the public domain).
 
 ## Key conventions
 
@@ -69,7 +68,7 @@ one publishDate-ordered list.
 
 Each item has two dates, with separate jobs:
 
-- `date` (YYYY-MM-DD) — the public release date. Shown on cards,
+- `date` (YYYY-MM-DD) — the public opportunity date. Shown on cards,
   meta tags, Article JSON-LD. The agent sets this from WebFetch.
 - `publishDate` (ISO timestamp) — when finalize-sweep ingested the
   item. Drives sort order. **Stamped automatically by
@@ -80,8 +79,8 @@ The 72h hard cap in `finalize-sweep.ts` is on `date`, not
 
 ### Content updates
 
-All content lives in `src/data/releases.json`. The agent prompt is
-`prompts/update-releases.md` — that file is the single source of truth for
+All content lives in `src/data/releases.json` with `src/data/opportunities.json` kept as a product-language symlink. The agent prompt is
+`prompts/update-opportunities.md` — that file is the single source of truth for
 how the feed gets updated. The agent must use web search/fetch and verify
 every URL. No hallucination.
 

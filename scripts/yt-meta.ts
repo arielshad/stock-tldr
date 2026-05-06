@@ -50,7 +50,7 @@ async function fetchUploadDate(id: string): Promise<string | null> {
     const res = await fetch(`https://www.youtube.com/watch?v=${id}`, {
       headers: {
         "User-Agent":
-          "Mozilla/5.0 (compatible; stock-tldr-sweep-bot; +https://stock-tldr.xyz)",
+          "Mozilla/5.0 (compatible; dxb-estate-intel-sweep-bot; +https://dxb-estate-intel.xyz)",
         "Accept-Language": "en-US,en;q=0.9",
       },
     });
@@ -68,7 +68,7 @@ async function fetchUploadDate(id: string): Promise<string | null> {
 
 try {
   const res = await fetch(oembedUrl, {
-    headers: { "User-Agent": "stock-tldr-sweep-bot" },
+    headers: { "User-Agent": "dxb-estate-intel-sweep-bot" },
   });
   if (!res.ok) {
     console.error(`oembed returned ${res.status} for ${videoId}`);

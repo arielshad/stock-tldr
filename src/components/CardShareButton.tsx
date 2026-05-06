@@ -17,11 +17,11 @@ import { track } from "../lib/analytics";
  * LinkedIn, Reddit, Hacker News).
  *
  * All click events are `stopPropagation`'d because the card itself has
- * an `onClick={() => onOpen(item)}` handler that opens the release
+ * an `onClick={() => onOpen(item)}` handler that opens the opportunity
  * modal — we don't want the share button to also open the modal.
  *
  * Escape key + outside click close the popup. Escape uses capture
- * phase + stopPropagation so it doesn't bubble up to the release
+ * phase + stopPropagation so it doesn't bubble up to the opportunity
  * modal's own ESC handler (which would also close the modal if it
  * were open on top of the card — shouldn't happen, but defensive).
  */
@@ -75,7 +75,7 @@ export function CardShareButton({ item }: { item: ReleaseItem }) {
           setOpen((o) => !o);
         }}
         title="Share"
-        aria-label={open ? "Close share menu" : "Share this release"}
+        aria-label={open ? "Close share menu" : "Share this opportunity"}
         aria-expanded={open}
         aria-haspopup="menu"
       >
@@ -91,7 +91,7 @@ export function CardShareButton({ item }: { item: ReleaseItem }) {
               data-platform="native"
               onClick={(e) => {
                 e.stopPropagation();
-                track("release:share", {
+                track("opportunity:share", {
                   id: item.id,
                   platform: "native",
                   source: "card",
@@ -112,7 +112,7 @@ export function CardShareButton({ item }: { item: ReleaseItem }) {
             data-platform="copy"
             onClick={(e) => {
               e.stopPropagation();
-              track("release:share", {
+              track("opportunity:share", {
                 id: item.id,
                 platform: "copy",
                 source: "card",
@@ -125,7 +125,7 @@ export function CardShareButton({ item }: { item: ReleaseItem }) {
               setTimeout(() => setOpen(false), 1400);
             }}
             title={copied ? "Copied!" : "Copy link"}
-            aria-label={copied ? "Link copied" : "Copy link to this release"}
+            aria-label={copied ? "Link copied" : "Copy link to this opportunity"}
             role="menuitem"
           >
             {copied ? <IconCheck /> : <IconCopy />}
@@ -143,7 +143,7 @@ export function CardShareButton({ item }: { item: ReleaseItem }) {
               role="menuitem"
               onClick={(e) => {
                 e.stopPropagation();
-                track("release:share", {
+                track("opportunity:share", {
                   id: item.id,
                   platform: p.id,
                   source: "card",

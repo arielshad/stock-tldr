@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { track } from "../lib/analytics";
 
-const STORAGE_KEY = "stock-tldr-theme";
+const STORAGE_KEY = "dxb-estate-intel-theme";
 
 type Theme = "light" | "dark";
 

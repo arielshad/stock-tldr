@@ -1,439 +1,84 @@
 {
   "sweeps": [
     {
-      "id": "sweep-20260505t160803z",
-      "timestamp": "2026-05-05T16:08:03.094Z",
-      "source": "github-actions-sweep",
-      "summary": "Six items added: PFE, PLTR and PYPL Q1 2026 earnings; the May 4 Iranian drone strike on UAE's Fujairah oil hub that pushed Brent +5.8%; the 30Y UST yield breaching 5% for the first time since July 2025; and the third straight day of U.S. spot bitcoin ETF net inflows ($532M).",
+      "id": "sweep-2026-05-06t0800z",
+      "timestamp": "2026-05-06T08:00:00.000Z",
+      "source": "manual-platform-seed",
+      "summary": "Seeded the Dubai real-estate intelligence feed with opportunity archetypes covering distress, off-plan, ready rental, commercial, luxury, developer handover, short-let and duplicate-detection workflows.",
       "counts": {
-        "added": 6,
+        "added": 8,
         "updated": 0,
         "removed": 0
       },
       "added": [
         {
-          "id": "pfe-q1-2026-earnings",
-          "title": "Pfizer Q1 2026 — beats on EPS and revenue, reaffirms full-year outlook",
-          "category": "earnings",
-          "note": "Mega-cap pharma earnings beat with reaffirmed FY guidance — primary-source confirmed."
+          "id": "dubai-marina-distress-2br-under-comp-may-2026",
+          "title": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+          "category": "distress",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
         },
         {
-          "id": "pltr-q1-2026-earnings",
-          "title": "Palantir Q1 2026 — revenue +85% Y/Y, raises FY26 guide to 71% growth, stock dips on valuation",
-          "category": "earnings",
-          "note": "85% Y/Y growth + 10pt guide raise, but next-day stock dropped ~3.8% — earnings + mover."
+          "id": "jvc-studio-gross-yield-watchlist-may-2026",
+          "title": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+          "category": "rental",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
         },
         {
-          "id": "pypl-q1-2026-earnings",
-          "title": "PayPal Q1 2026 — beats top and bottom but stock plunges ~10% on cautious guidance",
-          "category": "earnings",
-          "note": "Beat Q1 but ~10% premarket drop on cautious 2026 transaction-margin guidance — earnings + mover."
+          "id": "downtown-branded-residence-assignment-spread-may-2026",
+          "title": "Downtown branded residence assignment watch: resale spread vs developer stock",
+          "category": "offplan",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
         },
         {
-          "id": "fujairah-drone-strike-oil-may-2026",
-          "title": "Iran drone strike sets fire at UAE Fujairah oil hub; Brent jumps 5.8% to $114",
-          "category": "macro",
-          "note": "First Iranian strike on UAE since April 8 ceasefire; Brent +5.8% to $114.44 — primary geopolitical+commodity."
+          "id": "business-bay-office-vacant-cap-rate-may-2026",
+          "title": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+          "category": "commercial",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
         },
         {
-          "id": "us30y-tops-5-percent-may-2026",
-          "title": "30-year Treasury yield breaches 5% for first time since July 2025 as oil-driven inflation bites",
-          "category": "rates",
-          "note": "30Y yield closed above 5% (5.021%) for first time since July 2025 — major rates milestone."
+          "id": "emirates-hills-villa-prime-listing-intel-may-2026",
+          "title": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+          "category": "luxury",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
         },
         {
-          "id": "btc-spot-etfs-532m-inflows-may-4-2026",
-          "title": "U.S. spot bitcoin ETFs draw $532M on May 4 — third straight day of net inflows",
-          "category": "crypto",
-          "note": "Third straight day of net inflows totaling $532M led by BlackRock IBIT — notable crypto flow signal."
+          "id": "dubai-south-townhouse-handover-rental-play-may-2026",
+          "title": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+          "category": "developer",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "palm-jumeirah-short-let-furnishing-arbitrage-may-2026",
+          "title": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+          "category": "rental",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "duplicate-detector-same-unit-different-broker-marina-may-2026",
+          "title": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+          "category": "duplicate",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
         }
       ],
       "updated": [],
       "removed": [],
       "coverage": [
-        "earnings",
-        "mover",
-        "macro",
-        "rates",
-        "commodity",
-        "crypto",
-        "regulatory",
-        "mna",
-        "analyst"
-      ]
-    },
-    {
-      "id": "sweep-20260505t165223z",
-      "timestamp": "2026-05-05T16:52:23.456Z",
-      "source": "github-actions-sweep",
-      "summary": "Four new releases: Pinterest's Q1 beat + raised guide + ~$2B buyback (~+15%), Shopify's Q1 revenue beat with a slower-growth Q2 guide (~-7%), Duolingo's Q1 beat undercut by a 10.5% FY bookings guide (~-13%), and Hubbell's $3B cash acquisition of NSI Industries.",
-      "counts": {
-        "added": 4,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "pins-q1-2026-earnings",
-          "title": "Pinterest Q1 2026 — revenue +18%, raised Q2 guide and $2B buyback send shares ~15% higher",
-          "category": "earnings",
-          "note": "Beat + raise + $2B buyback with ~+15% move clears the major bar (≥3% single-name and ≥2 tier-1 outlets)."
-        },
-        {
-          "id": "shop-q1-2026-earnings",
-          "title": "Shopify Q1 2026 — revenue +34% with $100B GMV but stock falls ~7% as Q2 guide signals slower growth",
-          "category": "earnings",
-          "note": "Mega-cap-relevant SaaS with named guidance catalyst and ~7% sell-off; primary IR press release plus 8-K available."
-        },
-        {
-          "id": "duol-q1-2026-earnings",
-          "title": "Duolingo Q1 2026 — revenue +27% but full-year bookings guide of 10.5% growth knocks shares ~13%",
-          "category": "earnings",
-          "note": "Named bookings-guide catalyst with ~13% move clears mover bar; primary press release on globenewswire plus SEC 8-K."
-        },
-        {
-          "id": "hubb-nsi-acquisition-may-2026",
-          "title": "Hubbell to acquire NSI Industries from Sentinel for $3B in cash, betting on electrification and datacenter buildout",
-          "category": "mna",
-          "note": "$3B all-cash deal with ~15.5x EBITDA multiple disclosed via Hubbell's official press release and 8-K — clean primary M&A item."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "mna",
-        "macro",
-        "rates",
-        "commodity",
-        "crypto"
-      ]
-    },
-    {
-      "id": "sweep-20260505t184518z",
-      "timestamp": "2026-05-05T18:45:18.727Z",
-      "source": "github-actions-sweep",
-      "summary": "Three additions: GameStop's unsolicited $56B bid for eBay (May 3); Amazon's launch of Amazon Supply Chain Services (May 4) that knocked UPS ~10% and FedEx ~9%; and Tyson Foods' FQ2 2026 beat with a raised FY26 guide.",
-      "counts": {
-        "added": 3,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "gme-ebay-bid-may-2026",
-          "title": "GameStop offers ~$56B unsolicited bid for eBay at $125/share, half cash and half stock",
-          "category": "mna",
-          "note": "Unsolicited $56B bid disclosed publicly by GameStop on May 3, with eBay board acknowledging receipt; widely covered tier-1 today."
-        },
-        {
-          "id": "amzn-supply-chain-services-launch-may-2026",
-          "title": "Amazon opens its full logistics network to outside businesses, sending UPS ~10% lower and FedEx ~9% lower",
-          "category": "sector",
-          "note": "Sector-defining launch with named anchor customers and clear single-day moves in UPS and FDX."
-        },
-        {
-          "id": "tsn-q2-fy2026-earnings",
-          "title": "Tyson Foods FQ2 2026 — adj EPS $0.87 beats $0.76, raises FY26 op income guide; shares jump ~8%",
-          "category": "earnings",
-          "note": "Beat consensus, raised FY26 guidance, ~+8% on the day."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mna",
-        "mover",
-        "sector",
-        "macro",
-        "commodity",
-        "rates",
-        "crypto"
-      ]
-    },
-    {
-      "id": "sweep-20260505t204132z",
-      "timestamp": "2026-05-05T20:41:32.803Z",
-      "source": "github-actions-sweep",
-      "summary": "Four adds: AMD Q1 2026 (beat + raised Q2 guide on 57% Data Center growth), a Bloomberg-sourced rumor that Apple is exploring Intel and Samsung as US chipmaking alternatives (INTC +13%), Micron crossing $700B in market cap on the AI-memory rally, and Ferrari Q1 2026 (EPS beat, full-year guide reaffirmed).",
-      "counts": {
-        "added": 4,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "amd-q1-2026-earnings",
-          "title": "AMD Q1 2026 — revenue $10.25B, data center +57%; Q2 guide $11.2B above Street",
-          "category": "earnings",
-          "note": "Mega-cap AI semis print just after the close on May 5; revenue and Q2 guide both above consensus, Data Center revenue +57% — primary AI-accelerator read for the quarter."
-        },
-        {
-          "id": "intc-apple-chip-rumor-may-2026",
-          "title": "Apple reportedly in early talks with Intel and Samsung on US chipmaking; INTC closes ~+13%",
-          "category": "rumor",
-          "note": "Bloomberg-sourced rumor of Apple exploring Intel/Samsung as US foundry alternatives; INTC closed +12.9% on the report — clear single-name catalyst-driven mover."
-        },
-        {
-          "id": "mu-700b-market-cap-may-2026",
-          "title": "Micron tops $700B market cap as memory rally accelerates; MU surges ~11%",
-          "category": "mover",
-          "note": "First time Micron has crossed $700B in market cap; CNBC ran the milestone as a story today and the broader memory complex rallied alongside."
-        },
-        {
-          "id": "race-q1-2026-earnings",
-          "title": "Ferrari Q1 2026 — adj EPS €2.33 beats, full-year 2026 guide reaffirmed",
-          "category": "earnings",
-          "note": "Q1 2026 print on May 5 with EPS and revenue ahead of consensus and full-year guide reaffirmed — distinct sector (European luxury auto) versus today's other prints."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "rumor",
-        "sector",
-        "macro",
-        "rates",
-        "fx",
-        "commodity",
-        "crypto",
-        "mna",
-        "regulatory",
-        "insider",
-        "analyst",
-        "ipo"
-      ]
-    },
-    {
-      "id": "sweep-20260505t223341z",
-      "timestamp": "2026-05-05T22:33:41.057Z",
-      "source": "github-actions-sweep",
-      "summary": "Two adds: Astera Labs Q1 2026 earnings beat with a strong Q2 guide (AI-infra read-through), and the launch of the U.S. Navy's 'Project Freedom' Hormuz escort, which let Brent give back most of Monday's geopolitical spike.",
-      "counts": {
-        "added": 2,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "alab-q1-2026-earnings",
-          "title": "Astera Labs Q1 2026 — revenue $308.4M (+93% Y/Y), strong Q2 guide, ALAB +8.8% on the day",
-          "category": "earnings",
-          "note": "Clean major-tier AI-infra earnings beat with a guide raise, +93% Y/Y revenue and +8.8% intraday move; not in feed."
-        },
-        {
-          "id": "project-freedom-hormuz-may-2026",
-          "title": "U.S. Navy 'Project Freedom' Hormuz escort begins; Brent retraces ~4% to ~$110 as Iran ceasefire holds",
-          "category": "macro",
-          "note": "Distinct event from the Fujairah strike already in feed — this is the U.S. military response and the resulting ~4% retracement in Brent as the ceasefire holds."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "macro",
-        "commodity",
-        "rates",
-        "crypto",
-        "mna",
-        "regulatory"
-      ]
-    },
-    {
-      "id": "sweep-20260506t010521z",
-      "timestamp": "2026-05-06T01:05:21.583Z",
-      "source": "github-actions-sweep",
-      "summary": "Two fresh single-name earnings stories from Tuesday's after-hours: Lucid badly missed the Street on Q1 revenue with widening losses, and AMC posted its strongest Q1 EBITDA since 2019 on a 21% revenue beat.",
-      "counts": {
-        "added": 2,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "lcid-q1-2026-earnings",
-          "title": "Lucid Q1 2026 — revenue $282M misses big on $440M est, adj loss $2.82/share, GAAP gross margin -110%",
-          "category": "earnings",
-          "note": "Earnings miss with -6.3% intraday move, large Street-revenue gap, Uber 35K robotaxi context — clear single-name catalyst."
-        },
-        {
-          "id": "amc-q1-2026-earnings",
-          "title": "AMC Q1 2026 — revenue +21% to $1.05B, best Q1 EBITDA since 2019; AMC closes +9.7% on box-office strength",
-          "category": "earnings",
-          "note": "Revenue beat + best Q1 EBITDA since 2019; +9.7% close ahead of print confirms broad market interest in the box-office recovery thesis."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "macro",
-        "rates",
-        "crypto",
-        "mna"
-      ]
-    },
-    {
-      "id": "sweep-20260506t032823z",
-      "timestamp": "2026-05-06T03:28:23.263Z",
-      "source": "github-actions-sweep",
-      "summary": "Three new earnings-day items: Devon Energy's Q1 miss arrives the same week as the Coterra merger close (~May 7); Fiserv beats EPS but tanks ~9% on a revenue miss and 4% organic decline; Primoris cuts FY guidance on renewables-project pain and gaps ~31% lower AH.",
-      "counts": {
-        "added": 3,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "dvn-q1-2026-earnings-ctra-merger",
-          "title": "Devon Q1 2026 misses on revenue and EPS; Coterra all-stock merger expected to close on or around May 7",
-          "category": "earnings",
-          "note": "Q1 miss + imminent Coterra all-stock close = clean energy-sector M&A + earnings combo within 72h."
-        },
-        {
-          "id": "fisv-q1-2026-earnings",
-          "title": "Fiserv Q1 2026 — adj EPS $1.79 beats but revenue and organic growth miss; FISV closes ~9% lower",
-          "category": "earnings",
-          "note": "Mega-cap fintech, ~9% one-day move with named earnings catalyst, multiple tier-1 takes."
-        },
-        {
-          "id": "prim-q1-2026-earnings",
-          "title": "Primoris Q1 2026 — revenue and EPS miss, FY26 guidance cut on weak renewables projects; PRIM falls ~31% in after-hours",
-          "category": "earnings",
-          "note": "Mid-cap industrials with ~31% AH move + FY26 guide cut on renewables project execution; narrow but high-conviction notable."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "mna",
-        "macro",
-        "rates",
-        "commodity",
-        "crypto"
-      ]
-    },
-    {
-      "id": "sweep-20260506t052241z",
-      "timestamp": "2026-05-06T05:22:41.332Z",
-      "source": "github-actions-sweep",
-      "summary": "Added 4 items from the May 5 PM / May 6 AM cycle: Samsung's $1T market-cap milestone (KOSPI +5.4% on AI memory), Sterling Infrastructure's +52% Q1 beat-and-raise on data-center/semis-fab backlog, Marathon Petroleum's refining-margin blowout with a $5B buyback bump, and Supermicro's mixed FQ3 with a margin-recovery story.",
-      "counts": {
-        "added": 4,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "samsung-1t-market-cap-may-2026",
-          "title": "Samsung Electronics tops $1T market cap as AI memory rally lifts shares ~12%; KOSPI jumps 5.4% to record",
-          "category": "mover",
-          "note": "Historic milestone: Samsung becomes second Asian company to cross $1T, with KOSPI rallying 5.4% on AI memory demand — broad-market relevance, not yet in feed."
-        },
-        {
-          "id": "strl-q1-2026-earnings",
-          "title": "Sterling Infrastructure Q1 2026 — adj EPS $3.59 trounces $2.28 est, raises FY26 guide ~30%; STRL closes +52%",
-          "category": "earnings",
-          "note": "Q1 beat-and-raise drove a 52% intraday move and a fresh 52-week high; primary read-through to AI-infrastructure capex flowing to specialty builders."
-        },
-        {
-          "id": "mpc-q1-2026-earnings-buyback",
-          "title": "Marathon Petroleum Q1 2026 — adj EPS $1.65 crushes $0.75 est on refining margins, adds $5B to buyback; MPC at 52-week high",
-          "category": "earnings",
-          "note": "Largest US refiner posts +120% EPS beat and adds $5B to buyback authorization on Iran-driven refining margins; new 52-week high; complements existing oil/Iran narrative."
-        },
-        {
-          "id": "smci-q3-fy26-earnings",
-          "title": "Supermicro FQ3 2026 — adj EPS $0.84 beats but revenue $10.2B misses $12.4B est; AI GPU >80% of revenue",
-          "category": "earnings",
-          "note": "AI-server bellwether: $10.2B revenue +123% Y/Y but a $2B miss; non-GAAP gross margin recovers to 10.1%, important read-through for hyperscaler AI spend cadence."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "sector"
-      ]
-    },
-    {
-      "id": "sweep-20260506t105406z",
-      "timestamp": "2026-05-06T10:54:06.395Z",
-      "source": "github-actions-sweep",
-      "summary": "Searched today's earnings (Disney, Uber, Novo Nordisk, Marriott reported pre-market; AppLovin/Arm/DoorDash AC) plus macro/M&A/crypto. Only Novo Nordisk Q1 was indexed and primary-source verifiable at sweep timestamp. Disney/Uber too fresh to verify numbers; deferred to next sweep.",
-      "counts": {
-        "added": 1,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "nvo-q1-2026-earnings",
-          "title": "Novo Nordisk Q1 2026 — Wegovy pill drives 'strongest-ever' GLP-1 launch, raises FY26 guide; NVO +6.7% in Copenhagen",
-          "category": "earnings",
-          "note": "Largest verified market-mover at sweep time: NVO +6.7% Copenhagen on Wegovy-pill blowout and FY26 guide raise; reframes the Lilly Foundayo competitive narrative."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "macro",
-        "mna",
-        "crypto",
-        "rates"
-      ]
-    },
-    {
-      "id": "sweep-20260506t130340z",
-      "timestamp": "2026-05-06T13:03:40.910Z",
-      "source": "github-actions-sweep",
-      "summary": "Three fresh, primary-source-confirmed items for May 6, 2026: NVIDIA + Corning announce multi-year AI optical fiber partnership with $500M warrant deal (GLW +14% premarket); Disney FQ2 beats with streaming op income +88%; Uber Q1 prints +25% bookings growth with raised Q2 guide.",
-      "counts": {
-        "added": 3,
-        "updated": 0,
-        "removed": 0
-      },
-      "added": [
-        {
-          "id": "glw-nvda-ai-fiber-partnership-may-2026",
-          "title": "NVIDIA + Corning sign multi-year AI optics partnership; NVDA buys $500M in GLW warrants, GLW surges ~14% premarket",
-          "category": "mover",
-          "note": "Major AI infrastructure deal — $500M warrant, 10x US manufacturing buildout, 3 new plants, GLW +14% premarket. Confirmed by NVDA, GLW press releases and 8-K."
-        },
-        {
-          "id": "dis-q2-fy2026-earnings",
-          "title": "Disney FQ2 2026 — revenue $25.2B beats, streaming op income +88% to $582M; raises FY26 EPS guide to ~12%",
-          "category": "earnings",
-          "note": "Mega-cap earnings beat with raised FY26 guide and streaming op income +88% Y/Y. DIS +5% premarket."
-        },
-        {
-          "id": "uber-q1-2026-earnings",
-          "title": "Uber Q1 2026 — gross bookings $53.7B (+25%) beat, adj EBITDA +33% to $2.5B; Q2 guide above Street; UBER +10%",
-          "category": "earnings",
-          "note": "Mega-cap earnings beat: 25% bookings growth, 33% EBITDA growth, Q2 guide above Street; UBER +10%."
-        }
-      ],
-      "updated": [],
-      "removed": [],
-      "coverage": [
-        "earnings",
-        "mover",
-        "sector",
-        "macro",
-        "commodity",
-        "crypto"
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "flip",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "media"
       ]
     }
   ]

@@ -47,7 +47,7 @@ export function ReleaseCard({
         rel="noreferrer noopener"
         onClick={(e) => {
           e.stopPropagation();
-          track("release:url-click", {
+          track("opportunity:url-click", {
             id: item.id,
             category: item.categories[0],
             source: "card",

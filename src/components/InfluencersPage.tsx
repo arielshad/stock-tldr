@@ -1,20 +1,20 @@
 import { useMemo, useState } from "react";
 import {
-  influencers,
+  sources,
   PLATFORM_META,
-  type Influencer,
+  type Source,
   type Platform,
-} from "../data/influencers";
+} from "../data/sources";
 import { track } from "../lib/analytics";
 
 const ALL_PLATFORMS: Platform[] = [
-  "youtube",
-  "twitter",
-  "github",
-  "blog",
-  "podcast",
-  "linkedin",
-  "substack",
+  "portal",
+  "government",
+  "developer",
+  "brokerage",
+  "auction",
+  "data",
+  "media",
 ];
 
 function tierClass(raw: number): string {
@@ -25,9 +25,9 @@ function tierClass(raw: number): string {
 }
 
 /**
- * Build the avatar URL for an influencer from their platform + handle.
+ * Build the avatar URL for an source from their platform + handle.
  *
- * We don't rely on `person.image` (which used to be a local /influencers/
+ * We don't rely on `person.image` (which used to be a local /sources/
  * file path) because those files were never populated for the current
  * roster — every entry would 404. Instead we derive a URL that is
  * actually live on the relevant platform:
@@ -40,27 +40,24 @@ function tierClass(raw: number): string {
  * For platforms unavatar doesn't reliably handle (blog, podcast,
  * linkedin, twitch) we look at `links[]` for a Twitter handle and use
  * unavatar/twitter on it. If we can't find any platform-derived URL,
- * we return null and the <InfluencerAvatar> component falls through to
+ * we return null and the <SourceAvatar> component falls through to
  * the deterministic letter avatar — never a broken-image icon.
  */
-function avatarUrlFor(person: Influencer): string | null {
+function avatarUrlFor(person: Source): string | null {
   switch (person.platform) {
-    case "github":
-      return `https://github.com/${person.handle}.png`;
-    case "twitter":
-    case "youtube":
-    case "substack":
-      return `https://unavatar.io/${person.platform}/${person.handle}`;
-  }
-  const tw = person.links?.find((l) => l.platform === "twitter");
-  if (tw) {
-    const handle = tw.url.split("/").filter(Boolean).pop();
-    if (handle) return `https://unavatar.io/twitter/${handle}`;
+    case "portal":
+    case "government":
+    case "developer":
+    case "brokerage":
+    case "auction":
+    case "data":
+    case "media":
+      return null;
   }
   return null;
 }
 
-/** Stable djb2-style hash so a given influencer always lands on the
+/** Stable djb2-style hash so a given source always lands on the
  *  same letter-avatar hue, regardless of session. */
 function hueFor(id: string): number {
   let h = 5381;
@@ -68,7 +65,7 @@ function hueFor(id: string): number {
   return Math.abs(h) % 360;
 }
 
-function InfluencerAvatar({ person }: { person: Influencer }) {
+function SourceAvatar({ person }: { person: Source }) {
   const url = avatarUrlFor(person);
   // `failed` flips when the live <img> 404s or errors. Once true we
   // never re-attempt — switch permanently to the letter avatar.
@@ -101,7 +98,7 @@ function InfluencerAvatar({ person }: { person: Influencer }) {
   );
 }
 
-function InfluencerCard({ person, rank }: { person: Influencer; rank: number }) {
+function SourceCard({ person, rank }: { person: Source; rank: number }) {
   const meta = PLATFORM_META[person.platform];
   return (
     <a
@@ -110,14 +107,14 @@ function InfluencerCard({ person, rank }: { person: Influencer; rank: number }) 
       target="_blank"
       rel="noreferrer noopener"
       onClick={() =>
-        track("influencer:click", {
+        track("source:click", {
           id: person.id,
           platform: person.platform,
         })
       }
     >
       <span className="inf-rank">#{rank}</span>
-      <InfluencerAvatar person={person} />
+      <SourceAvatar person={person} />
       <div className="inf-body">
         <div className="inf-top">
           <span className={`badge inf-plat-badge plat-${person.platform}`}>
@@ -160,12 +157,12 @@ function InfluencerCard({ person, rank }: { person: Influencer; rank: number }) 
   );
 }
 
-export function InfluencersPage() {
+export function SourcesPage() {
   const [activePlatform, setActivePlatform] = useState<Platform | null>(null);
   const [query, setQuery] = useState("");
 
   const filtered = useMemo(() => {
-    let list = [...influencers].sort(
+    let list = [...sources].sort(
       (a, b) => b.followersRaw - a.followersRaw,
     );
     if (activePlatform) {
@@ -187,9 +184,9 @@ export function InfluencersPage() {
   return (
     <>
       <div className="inf-header">
-        <h1 className="inf-title">Top Markets Voices to Follow</h1>
+        <h1 className="inf-title">Dubai Property Source Map</h1>
         <span className="inf-subtitle">
-          {influencers.length} traders, analysts &amp; commentators · sorted by reach
+          {sources.length} portals, government datasets, developers, auction feeds and market-data sources · sorted by workflow priority
         </span>
       </div>
 
@@ -203,7 +200,7 @@ export function InfluencersPage() {
             ALL
           </button>
           {ALL_PLATFORMS.map((p) => {
-            const count = influencers.filter((i) => i.platform === p).length;
+            const count = sources.filter((i) => i.platform === p).length;
             if (count === 0) return null;
             return (
               <button
@@ -226,8 +223,8 @@ export function InfluencersPage() {
             type="search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="search name, handle, topic…"
-            aria-label="Search influencers"
+            placeholder="search source, area, workflow…"
+            aria-label="Search sources"
           />
         </div>
       </div>
@@ -237,7 +234,7 @@ export function InfluencersPage() {
           <div className="inf-empty">// no matches</div>
         ) : (
           filtered.map((person, i) => (
-            <InfluencerCard key={person.id} person={person} rank={i + 1} />
+            <SourceCard key={person.id} person={person} rank={i + 1} />
           ))
         )}
       </div>
