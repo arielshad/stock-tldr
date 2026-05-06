@@ -244,6 +244,41 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260506t010521z",
+      "timestamp": "2026-05-06T01:05:21.583Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh single-name earnings stories from Tuesday's after-hours: Lucid badly missed the Street on Q1 revenue with widening losses, and AMC posted its strongest Q1 EBITDA since 2019 on a 21% revenue beat.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lcid-q1-2026-earnings",
+          "title": "Lucid Q1 2026 — revenue $282M misses big on $440M est, adj loss $2.82/share, GAAP gross margin -110%",
+          "category": "earnings",
+          "note": "Earnings miss with -6.3% intraday move, large Street-revenue gap, Uber 35K robotaxi context — clear single-name catalyst."
+        },
+        {
+          "id": "amc-q1-2026-earnings",
+          "title": "AMC Q1 2026 — revenue +21% to $1.05B, best Q1 EBITDA since 2019; AMC closes +9.7% on box-office strength",
+          "category": "earnings",
+          "note": "Revenue beat + best Q1 EBITDA since 2019; +9.7% close ahead of print confirms broad market interest in the box-office recovery thesis."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }

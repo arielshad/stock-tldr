@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-05-05T22:33:41.057Z",
+  "generatedAt": "2026-05-06T01:05:21.583Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "lcid-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lucid Q1 2026 — revenue $282M misses big on $440M est, adj loss $2.82/share, GAAP gross margin -110%",
+      "org": "Lucid Group",
+      "date": "2026-05-05",
+      "url": "https://www.prnewswire.com/news-releases/lucid-announces-first-quarter-2026-financial-results-302763127.html",
+      "summary": "Lucid produced 5,500 vehicles and delivered 3,093 but a Gravity seat-supplier issue cost 29 days of output. Revenue grew 20% Y/Y to $282M yet badly missed the $440M Street view; LCID closed -6.3% before earnings.",
+      "tickers": [
+        "LCID",
+        "UBER"
+      ],
+      "metrics": {
+        "Revenue": "$282.5M (+20% Y/Y vs $440M est)",
+        "Adj EPS": "-$2.82 vs -$2.64 est",
+        "Production": "5,500 (+149% Y/Y)",
+        "Deliveries": "3,093",
+        "Liquidity": "$3.2B",
+        "Move (intraday)": "-6.3%"
+      },
+      "tags": [
+        "earnings",
+        "ev",
+        "auto",
+        "revenue-miss",
+        "eps-miss",
+        "uber-robotaxi",
+        "q1-2026",
+        "gross-margin",
+        "supplier-issue"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Lucid's Q1 print missed Street revenue badly even as production jumped 149%; supplier-driven Gravity downtime kept the top line stuck.",
+        "whatIsIt": "Lucid Group reported Q1 2026 results after the bell on May 5. Revenue rose 20% year over year to $282.5 million but landed roughly $158 million below the analyst consensus of $440 million, and the adjusted loss widened to $2.82 a share versus a $2.64 estimate.",
+        "howItWorks": "The company built 5,500 vehicles, up 149% year over year, but only delivered 3,093 — a flat number versus Q1 2025 — after a seat-supplier issue knocked Lucid Gravity production offline for 29 days in February. GAAP gross margin deteriorated to -110% on lower volumes and reduced regulatory-credit sales. Lucid finished the quarter with $0.7B of cash and $3.2B of total liquidity, pro forma $4.7B after April's $1.05B capital raise (PIF $550M convertible preferred, $300M common offering, $200M from Uber).",
+        "whyItMatters": "The miss undercuts the bull case that Gravity ramps would deliver an inflection in 2026, and inventory is now elevated heading into Q2, with management saying it will adjust production to demand. The Uber robotaxi expansion to a 35,000-vehicle minimum and Saudi PIF support keep the runway intact, but the gap between production and deliveries plus a -110% gross margin keep the cash-burn question front and center.",
+        "forWho": "EV equity investors, autos analysts",
+        "tryIt": "https://finance.yahoo.com/quote/LCID/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/1080273/LucidMotors_Logo.jpg?p=facebook",
+        "alt": "Lucid Motors corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Lucid Press Release",
+          "url": "https://www.prnewswire.com/news-releases/lucid-announces-first-quarter-2026-financial-results-302763127.html"
+        },
+        {
+          "label": "Electrek Coverage",
+          "url": "https://electrek.co/2026/05/05/lucid-lcid-adjust-ev-production-bloated-q1-inventory/"
+        },
+        {
+          "label": "Benzinga Reaction",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52303153/lucid-stock-moves-lower-on-q1-earnings-what-investors-need-to-know"
+        },
+        {
+          "label": "LCID Chart",
+          "url": "https://finance.yahoo.com/quote/LCID/"
+        }
+      ],
+      "publishDate": "2026-05-06T01:05:21.583Z"
+    },
+    {
+      "id": "amc-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AMC Q1 2026 — revenue +21% to $1.05B, best Q1 EBITDA since 2019; AMC closes +9.7% on box-office strength",
+      "org": "AMC Entertainment",
+      "date": "2026-05-05",
+      "url": "https://investor.amctheatres.com/news-events/press-releases/detail/423/amc-entertainment-holdings-inc-reports-first-quarter-2026-results",
+      "summary": "AMC posted $1.05B in Q1 revenue, up 21% Y/Y and well ahead of the $959M Street view, with $38.3M of adjusted EBITDA — the best Q1 since 2019 — as global attendance jumped 13.6% to 47.6M.",
+      "tickers": [
+        "AMC"
+      ],
+      "metrics": {
+        "Revenue": "$1.05B (+21.2% Y/Y vs $959M est)",
+        "Adj EBITDA": "$38.3M vs -$57.7M Y/Y",
+        "Net loss": "-$117.1M vs -$202.1M Y/Y",
+        "GAAP EPS": "-$0.22 vs -$0.47 Y/Y",
+        "Attendance": "47.6M (+13.6% Y/Y)",
+        "Move": "+9.7% (May 5 close)"
+      },
+      "tags": [
+        "earnings",
+        "movie-theaters",
+        "consumer-discretionary",
+        "revenue-beat",
+        "ebitda",
+        "box-office",
+        "attendance",
+        "q1-2026"
+      ],
+      "importance": "notable",
+      "explainer": {
+        "tagline": "AMC turned its first profitable Q1 EBITDA since the pandemic as box-office attendance climbed double digits.",
+        "whatIsIt": "AMC Entertainment reported Q1 2026 results after the bell on May 5. Revenue of $1.045 billion came in 21% above last year and roughly $86 million ahead of the $959 million consensus, driven by attendance of 47.6 million patrons across U.S. and international screens — up 13.6% year over year.",
+        "howItWorks": "Adjusted EBITDA flipped to a positive $38.3 million from a $57.7 million loss in the prior-year quarter, the best first-quarter EBITDA since 2019. GAAP net loss narrowed to $117.1 million from $202.1 million and diluted EPS came in at -$0.22 versus -$0.47. Free cash flow was still negative $174.7 million but improved sharply from -$417.0 million a year ago. Total debt of $3.96 billion remains the longer-term overhang.",
+        "whyItMatters": "Attendance leverage on a healthier release slate is finally translating into operating profit, which strengthens the case that the post-COVID box-office recovery has staying power. AMC closed +9.7% on May 5 ahead of the print and ticked higher in after-hours, while comp exhibitors (Cinemark, IMAX) screen against the same setup; the cash-burn and balance-sheet drag still cap the upside narrative.",
+        "forWho": "Consumer-discretionary and meme-stock traders",
+        "tryIt": "https://finance.yahoo.com/quote/AMC/"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_72cd204832b28bf4fc76deb0736614de/amctheatres/db/2287/20608/social_image_resized.jpg",
+        "alt": "AMC Entertainment investor relations social card",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "AMC IR Release",
+          "url": "https://investor.amctheatres.com/news-events/press-releases/detail/423/amc-entertainment-holdings-inc-reports-first-quarter-2026-results"
+        },
+        {
+          "label": "8-K via StockTitan",
+          "url": "https://www.stocktitan.net/sec-filings/AMC/8-k-amc-entertainment-holdings-inc-reports-material-event-bb260246e87f.html"
+        },
+        {
+          "label": "Deadline Recap",
+          "url": "https://deadline.com/2026/05/amc-entertainment-q1-revenue-jumps-box-office-recovery-1236882032/"
+        },
+        {
+          "label": "AMC Chart",
+          "url": "https://finance.yahoo.com/quote/AMC/"
+        }
+      ],
+      "publishDate": "2026-05-06T01:05:21.583Z"
+    },
     {
       "id": "alab-q1-2026-earnings",
       "categories": [
