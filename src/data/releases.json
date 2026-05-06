@@ -1,8 +1,209 @@
 {
-  "generatedAt": "2026-05-06T01:05:21.583Z",
+  "generatedAt": "2026-05-06T03:28:23.263Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dvn-q1-2026-earnings-ctra-merger",
+      "categories": [
+        "earnings",
+        "mna"
+      ],
+      "title": "Devon Q1 2026 misses on revenue and EPS; Coterra all-stock merger expected to close on or around May 7",
+      "org": "Devon Energy",
+      "date": "2026-05-05",
+      "url": "https://www.globenewswire.com/news-release/2026/05/05/3288239/0/en/Devon-Energy-Reports-First-Quarter-2026-Results.html",
+      "summary": "Devon posted Q1 revenue of $3.81B and EPS of $1.04, both below Street; days earlier Devon and Coterra shareholders approved the all-stock combination, set to close around May 7.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-miss",
+        "revenue-miss",
+        "mna",
+        "all-stock",
+        "shale",
+        "permian",
+        "anadarko",
+        "energy"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DVN",
+        "CTRA"
+      ],
+      "metrics": {
+        "Revenue": "$3.81B (miss vs ~$3.96B est)",
+        "Adj EPS": "$1.04 (miss vs $1.07 est)",
+        "Operating cash flow": "$1.7B",
+        "Exchange ratio": "0.70 DVN per CTRA share",
+        "Combined ownership": "~54% DVN / ~46% CTRA",
+        "Expected close": "on or around May 7, 2026"
+      },
+      "explainer": {
+        "tagline": "Devon misses Q1 on the day Coterra merger barrels toward a May 7 close",
+        "whatIsIt": "Devon Energy reported Q1 2026 results on May 5, with revenue of $3.81B and adjusted EPS of $1.04 missing analyst expectations of roughly $3.96B and $1.07. The miss came one day after Devon and Coterra shareholders overwhelmingly approved their previously announced all-stock combination, which is expected to close on or around May 7.",
+        "howItWorks": "Devon reported $120M of net earnings, $1.04 of core EPS, and $1.7B of operating cash flow for the quarter, with CEO Clay Gaspar saying Devon beat its own guidance on oil production and capital spend. Under the merger, each Coterra share converts into 0.70 Devon shares, leaving Devon holders with roughly 54% of the combined company and Coterra holders with roughly 46%. At Devon's special meeting more than 98% of votes cast were in favor; at Coterra's more than 99% of votes cast were in favor.",
+        "whyItMatters": "The Q1 print is the last set of standalone numbers before Devon and Coterra merge into one of the largest U.S. independent shale operators, spanning Permian, Anadarko and Marcellus assets. Investors are now focused less on the headline miss than on the synergy and capital-allocation pitch the combined company will make once the deal closes, including the size of any post-close buyback or guidance refresh.",
+        "forWho": "energy desks, M&A arb, U.S. shale specialists",
+        "tryIt": "https://www.devonenergy.com/dvn-ctra-merger"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Devon-Energy-Logo.svg/1280px-Devon-Energy-Logo.svg.png",
+        "alt": "Devon Energy corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q1 Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/05/3288239/0/en/Devon-Energy-Reports-First-Quarter-2026-Results.html"
+        },
+        {
+          "label": "Merger Vote",
+          "url": "https://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-and-Coterra-Energy-Shareholders-Approve-Merger/"
+        },
+        {
+          "label": "DVN-CTRA Hub",
+          "url": "https://www.devonenergy.com/dvn-ctra-merger"
+        },
+        {
+          "label": "DVN Quote",
+          "url": "https://finance.yahoo.com/quote/DVN/"
+        },
+        {
+          "label": "CTRA Quote",
+          "url": "https://finance.yahoo.com/quote/CTRA/"
+        }
+      ],
+      "publishDate": "2026-05-06T03:28:23.263Z"
+    },
+    {
+      "id": "fisv-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Fiserv Q1 2026 — adj EPS $1.79 beats but revenue and organic growth miss; FISV closes ~9% lower",
+      "org": "Fiserv",
+      "date": "2026-05-05",
+      "url": "https://www.globenewswire.com/news-release/2026/05/05/3287513/0/en/Fiserv-Reports-First-Quarter-2026-Results.html",
+      "summary": "Fiserv beat on adjusted EPS but adjusted revenue of $4.68B missed and organic revenue contracted 4%, with adj operating margin sliding 8 pts to 29.7%; FISV fell roughly 9% on May 5.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-beat",
+        "revenue-miss",
+        "organic-growth-decline",
+        "margin-compression",
+        "fintech",
+        "payments"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FISV"
+      ],
+      "metrics": {
+        "Adj EPS": "$1.79 (beat ~$1.57 est)",
+        "GAAP EPS": "$1.07 (-29% Y/Y)",
+        "Adj revenue": "$4.68B (-2% Y/Y, miss)",
+        "GAAP revenue": "$5.03B (-2% Y/Y)",
+        "Organic revenue": "-4% Y/Y (Merchant flat, Financial -5% GAAP)",
+        "Adj operating margin": "29.7% (-8.1 pts Y/Y)",
+        "FY26 guide": "Organic 1–3%, Adj EPS $8.00–$8.30 (affirmed)",
+        "Move": "~-9% on the day"
+      },
+      "explainer": {
+        "tagline": "EPS beat doesn't save Fiserv as organic revenue and margins both go the wrong way",
+        "whatIsIt": "Fiserv reported Q1 2026 results before the open on May 5 and the stock fell roughly 9% during the regular session. Adjusted EPS of $1.79 beat consensus near $1.57, but adjusted revenue of $4.68B fell short of the ~$4.73B Street estimate and organic revenue declined 4% year-over-year.",
+        "howItWorks": "GAAP revenue was $5.03B with Merchant Solutions flat and Financial Solutions GAAP down 5%; on an organic basis Merchant was down 1% and Financial down 6%. Adjusted operating margin contracted to 29.7% from 37.8% a year ago as the company absorbed costs tied to its 'One Fiserv Action Plan' transformation and severance charges. Free cash flow fell to roughly $259M from $371M in the prior-year quarter. Management affirmed full-year 2026 guidance for 1–3% organic revenue growth and adjusted EPS of $8.00–$8.30.",
+        "whyItMatters": "Fiserv had been priced as a defensive payments compounder; a second straight quarter of decelerating organic growth and a sharp margin step-down resets that thesis and pulls the rest of the merchant-acquiring complex with it. The current quarter is now the implied trough in the company's own framing, so the bar for Q2 sequential improvement is high.",
+        "forWho": "payments analysts, fintech long-onlies, merchant-acquirer pair traders",
+        "tryIt": "https://www.fool.com/investing/2026/05/05/why-fiserv-stock-is-sinking-today/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/7111802d-4b4a-487f-a8cf-a7ccda50586e",
+        "alt": "Fiserv Q1 2026 results press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/05/3287513/0/en/Fiserv-Reports-First-Quarter-2026-Results.html"
+        },
+        {
+          "label": "Why FISV Sank",
+          "url": "https://www.fool.com/investing/2026/05/05/why-fiserv-stock-is-sinking-today/"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52280737/fiserv-earnings-beat-masks-deeper-trouble-revenue-slips-margins-slide"
+        }
+      ],
+      "publishDate": "2026-05-06T03:28:23.263Z"
+    },
+    {
+      "id": "prim-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Primoris Q1 2026 — revenue and EPS miss, FY26 guidance cut on weak renewables projects; PRIM falls ~31% in after-hours",
+      "org": "Primoris Services",
+      "date": "2026-05-05",
+      "url": "https://www.stocktitan.net/news/PRIM/primoris-services-corporation-reports-first-quarter-2026-94b2lyzh9ded.html",
+      "summary": "Primoris missed on Q1 revenue ($1.6B) and adj EPS ($0.59), cut FY26 EPS guide to $4.05–$4.25 GAAP citing 'cost pressures' on renewables jobs; PRIM dropped ~31% in after-hours on the print.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-miss",
+        "revenue-miss",
+        "guidance-cut",
+        "renewables",
+        "utilities",
+        "energy-services",
+        "mover"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "PRIM"
+      ],
+      "metrics": {
+        "Revenue": "$1.6B (-5.4% Y/Y, miss)",
+        "Diluted EPS": "$0.32 (vs $0.81 Y/Y)",
+        "Adj EPS": "$0.59 (vs $0.84 est)",
+        "Adj EBITDA": "$60.5M (miss)",
+        "FY26 EPS guide": "$4.05–$4.25 (cut)",
+        "FY26 Adj EBITDA guide": "$480M–$500M (cut)",
+        "Move": "~-31% in AH"
+      },
+      "explainer": {
+        "tagline": "Renewables project trouble drags Primoris into a guide cut and a 31% AH gap-down",
+        "whatIsIt": "Primoris Services reported Q1 2026 results after the close on May 5 and the stock dropped roughly 31% in after-hours trading. Revenue fell 5.4% year-over-year to $1.6B, well below the ~$1.74B Street estimate, while adjusted EPS of $0.59 missed consensus near $0.84.",
+        "howItWorks": "Operating income in the Energy segment fell about 62% as Energy revenue dropped $152.9M; the Utilities segment grew revenue 12.3% and offset only part of the weakness. Management cut full-year 2026 guidance to GAAP EPS of $4.05–$4.25, adjusted EPS of $4.80–$5.00, and adjusted EBITDA of $480M–$500M, blaming 'cost pressures on a limited number of renewables projects' tied to project redesign, sequencing, labor productivity, and weather. Total backlog stood at $11.6B with $7.5B in MSAs.",
+        "whyItMatters": "Primoris had been a quiet beneficiary of the data-center power buildout and grid-electrification capex theme; a guidance cut sourced specifically to renewables execution risk re-prices that exposure and reads negatively for other contractors with similar utility-scale solar and storage backlogs. The May 1 close of the $399.5M PayneCrest Electric acquisition will now be looked at as a leverage decision under a softer earnings outlook.",
+        "forWho": "industrials traders, renewables-services pair books, utility-capex specialists",
+        "tryIt": "https://finance.yahoo.com/quote/PRIM/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Primoris_Services_Corporation_Reports_First_Quarter_2026_Results_1051566.webp",
+        "alt": "Primoris Services Q1 2026 results header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/PRIM/primoris-services-corporation-reports-first-quarter-2026-94b2lyzh9ded.html"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-5-primoris-nyseprim-misses-q1-cy2026-revenue-estimates-stock-drops-311"
+        },
+        {
+          "label": "PRIM Quote",
+          "url": "https://finance.yahoo.com/quote/PRIM/"
+        }
+      ],
+      "publishDate": "2026-05-06T03:28:23.263Z"
+    },
     {
       "id": "lcid-q1-2026-earnings",
       "categories": [

@@ -279,6 +279,48 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260506t032823z",
+      "timestamp": "2026-05-06T03:28:23.263Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new earnings-day items: Devon Energy's Q1 miss arrives the same week as the Coterra merger close (~May 7); Fiserv beats EPS but tanks ~9% on a revenue miss and 4% organic decline; Primoris cuts FY guidance on renewables-project pain and gaps ~31% lower AH.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dvn-q1-2026-earnings-ctra-merger",
+          "title": "Devon Q1 2026 misses on revenue and EPS; Coterra all-stock merger expected to close on or around May 7",
+          "category": "earnings",
+          "note": "Q1 miss + imminent Coterra all-stock close = clean energy-sector M&A + earnings combo within 72h."
+        },
+        {
+          "id": "fisv-q1-2026-earnings",
+          "title": "Fiserv Q1 2026 — adj EPS $1.79 beats but revenue and organic growth miss; FISV closes ~9% lower",
+          "category": "earnings",
+          "note": "Mega-cap fintech, ~9% one-day move with named earnings catalyst, multiple tier-1 takes."
+        },
+        {
+          "id": "prim-q1-2026-earnings",
+          "title": "Primoris Q1 2026 — revenue and EPS miss, FY26 guidance cut on weak renewables projects; PRIM falls ~31% in after-hours",
+          "category": "earnings",
+          "note": "Mid-cap industrials with ~31% AH move + FY26 guide cut on renewables project execution; narrow but high-conviction notable."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "rates",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
