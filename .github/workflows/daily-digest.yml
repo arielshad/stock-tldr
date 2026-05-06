@@ -7,8 +7,9 @@ name: Generate daily digest
 #   2. Runs Claude Code with the daily-digest skill
 #   3. Generates newsletters/daily/YYYY_MM_DD_daily_digest.md
 #   4. Commits + pushes to main
-#   5. Creates a Resend Broadcast as DRAFT — review at
-#      https://resend.com/broadcasts and send manually.
+#   5. Creates a Resend Broadcast and SENDS it immediately to the
+#      configured segment. To pause auto-send and review drafts in the
+#      Resend dashboard instead, remove `send: true` from the JSON body.
 #
 # Required secrets:
 #   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
@@ -141,10 +142,10 @@ jobs:
 
           git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
 
-      # Creates today's digest as a DRAFT broadcast in Resend. The user
-      # reviews it at https://resend.com/broadcasts and clicks Send. To
-      # auto-send instead of drafting, set send=true in the JSON body.
-      - name: Create Resend broadcast (draft)
+      # Creates and IMMEDIATELY SENDS today's digest as a Resend Broadcast
+      # to the configured segment (send: true). To pause auto-send and
+      # review drafts manually instead, remove the `send: true` field.
+      - name: Create and send Resend broadcast
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
@@ -182,6 +183,7 @@ jobs:
                   subject,
                   name: `daily-digest-${process.env.DIGEST_FILE_DATE}`,
                   html,
+                  send: true,
                 }),
               });
               const text = await res.text();
