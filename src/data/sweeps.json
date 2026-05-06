@@ -515,6 +515,43 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260506t204438z",
+      "timestamp": "2026-05-06T20:44:38.753Z",
+      "source": "github-actions-sweep",
+      "summary": "Three earnings adds for the May 6 sweep: DoorDash Q1 (margin beat, ~+12% AH), Sphere Entertainment Q1 (Wizard of Oz drives 70% segment growth, ~+8% to record), and Snap Q1 (cautious guidance + ended Perplexity deal, ~-4% AH).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dash-q1-2026-earnings",
+          "title": "DoorDash Q1 2026 — adj EPS $0.42 beats $0.36, GOV $31.6B (+37%) but revenue misses; DASH ~+12% AH",
+          "category": "earnings",
+          "note": "AMC May 6 print: EPS beat, revenue miss, ~+12% AH on margin strength + Q2 guidance."
+        },
+        {
+          "id": "sphr-q1-2026-earnings",
+          "title": "Sphere Entertainment Q1 2026 — revenue $386M (+38%), Sphere segment +70% on Wizard of Oz; SPHR ~+8% to record",
+          "category": "earnings",
+          "note": "AMC May 5 print: revenue +38%, Sphere segment +70%, stock to record on Wizard of Oz traction."
+        },
+        {
+          "id": "snap-q1-2026-earnings",
+          "title": "Snap Q1 2026 — revenue $1.53B (+12%), DAUs +5%; ends $400M Perplexity deal, SNAP ~-4% AH",
+          "category": "earnings",
+          "note": "AMC May 6 print: revenue +12% but ended $400M Perplexity deal and pulled cautious Q2; ~-4% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

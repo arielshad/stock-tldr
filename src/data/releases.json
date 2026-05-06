@@ -1,8 +1,208 @@
 {
-  "generatedAt": "2026-05-06T18:46:58.511Z",
+  "generatedAt": "2026-05-06T20:44:38.753Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dash-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "DoorDash Q1 2026 — adj EPS $0.42 beats $0.36, GOV $31.6B (+37%) but revenue misses; DASH ~+12% AH",
+      "org": "DoorDash",
+      "tickers": [
+        "DASH"
+      ],
+      "date": "2026-05-06",
+      "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-First-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "DoorDash beat on profitability with adj EPS $0.42 and adj EBITDA $754M (+28%) on Marketplace GOV $31.6B (+37%). Revenue of $4.04B missed the $4.14B estimate; shares jumped ~12% AH on margin strength.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-miss",
+        "q1-2026",
+        "delivery",
+        "gig-economy",
+        "guidance",
+        "after-hours-mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj EPS": "$0.42 vs $0.36 est",
+        "Revenue": "$4.04B (+33% Y/Y) vs $4.14B est",
+        "Marketplace GOV": "$31.6B (+37% Y/Y)",
+        "Total orders": "933M (+27% Y/Y)",
+        "Adj EBITDA": "$754M (+28% Y/Y)",
+        "Q2 GOV guide": "$32.4B–$33.4B",
+        "Q2 adj EBITDA guide": "$770M–$870M",
+        "Move": "~+12% AH"
+      },
+      "explainer": {
+        "tagline": "DoorDash beats on the bottom line and ships solid Q2 guidance, with shares popping ~12% after hours.",
+        "whatIsIt": "DoorDash reported its first quarter 2026 financial results after the close on May 6. The local-commerce platform topped EPS expectations and grew gross order value 37% year-over-year, while revenue came in slightly below the Street.",
+        "howItWorks": "Adjusted EPS landed at $0.42 versus a $0.36 estimate. Revenue of $4.04B missed the $4.14B consensus, but Marketplace GOV of $31.6B beat the $31.5B estimate and adj EBITDA of $754M grew 28% Y/Y. Total orders rose 27% to 933M, with record DashPass signups. For Q2 the company guided GOV to $32.4B–$33.4B and adj EBITDA to $770M–$870M, the midpoint of which falls just below the $830M Street estimate.",
+        "whyItMatters": "DoorDash continues to widen the profitability gap with delivery peers. The market read past the slim revenue miss because contribution margins held up, DashPass adoption accelerated, and Q2 GOV guidance came in at the high end. UBER and other gig-economy comps now have a higher Q2 bar to clear.",
+        "forWho": "consumer internet and gig-economy investors",
+        "tryIt": "https://ir.doordash.com/financials/quarterly-results/default.aspx"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DoorDash_Logo.svg/1280px-DoorDash_Logo.svg.png",
+        "alt": "DoorDash wordmark logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "DoorDash IR Release",
+          "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/DASH/door-dash-releases-first-quarter-2026-financial-xv1x0z0c6w1h.html"
+        },
+        {
+          "label": "DASH on Yahoo",
+          "url": "https://finance.yahoo.com/quote/DASH/"
+        },
+        {
+          "label": "Quarterly Results Hub",
+          "url": "https://ir.doordash.com/financials/quarterly-results/default.aspx"
+        }
+      ],
+      "publishDate": "2026-05-06T20:44:38.753Z"
+    },
+    {
+      "id": "sphr-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Sphere Entertainment Q1 2026 — revenue $386M (+38%), Sphere segment +70% on Wizard of Oz; SPHR ~+8% to record",
+      "org": "Sphere Entertainment",
+      "tickers": [
+        "SPHR"
+      ],
+      "date": "2026-05-05",
+      "url": "https://investor.sphereentertainmentco.com/press-releases/news-details/2026/Sphere-Entertainment-Co--Reports-First-Quarter-2026-Results/default.aspx",
+      "summary": "Sphere Entertainment posted Q1 revenue of $386.4M (+38% Y/Y) and adjusted operating income of $110M, with the Sphere segment up 70% on Wizard of Oz and concert residencies. SPHR popped roughly 8% to a record.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "eps-beat",
+        "q1-2026",
+        "live-entertainment",
+        "sphere",
+        "wizard-of-oz",
+        "msg-networks"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$386.4M (+38% Y/Y) vs $368.3M est",
+        "EPS (GAAP)": "-$0.04 vs -$0.45 est",
+        "Adj operating income": "$110M (+$74M Y/Y)",
+        "Operating income": "$7.2M (+$85.8M Y/Y)",
+        "Sphere segment revenue": "$266M (+70% Y/Y)",
+        "MSG Networks revenue": "$120.4M",
+        "Move": "~+8% to record ~$147"
+      },
+      "explainer": {
+        "tagline": "Sphere's Q1 print blows past estimates, with the Las Vegas venue's Wizard of Oz experience driving a 70% segment revenue jump.",
+        "whatIsIt": "Sphere Entertainment Co. reported first-quarter results after the close on May 5. Revenue jumped 38% year-over-year as the Sphere segment surged on The Wizard of Oz residency, original concert residencies, and Exosphere advertising.",
+        "howItWorks": "Total revenue was $386.4M versus a $368.3M estimate, with adjusted operating income of $110M (up $74M Y/Y). The Sphere segment delivered $266M in revenue (+70%) and AOI of $74.3M as Wizard of Oz surpassed its 500th showing and announced new residencies including Metallica (24 nights from October 2026) and an extended Backstreet Boys run. MSG Networks revenue slipped to $120.4M amid a 16% subscriber decline.",
+        "whyItMatters": "Sphere is converting a single venue into a high-margin events business, and management's pipeline (Abu Dhabi, National Harbor, plus active discussions with multiple cities) points to scale beyond Las Vegas. The print pushed SPHR to all-time highs and validates the bet on premium experiential entertainment formats.",
+        "forWho": "live-entertainment, media, and small-cap consumer investors",
+        "tryIt": "https://finance.yahoo.com/quote/SPHR/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MSG_Sphere_logo.svg/1280px-MSG_Sphere_logo.svg.png",
+        "alt": "Sphere venue logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Sphere IR Release",
+          "url": "https://investor.sphereentertainmentco.com/press-releases/news-details/2026/Sphere-Entertainment-Co--Reports-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/SPHR/sphere-entertainment-co-reports-first-quarter-2026-o7xk82swnht4.html"
+        },
+        {
+          "label": "Billboard Coverage",
+          "url": "https://www.billboard.com/pro/sphere-entertainment-q1-2026-earnings/"
+        },
+        {
+          "label": "SPHR on TradingView",
+          "url": "https://www.tradingview.com/symbols/NYSE-SPHR/"
+        }
+      ],
+      "publishDate": "2026-05-06T20:44:38.753Z"
+    },
+    {
+      "id": "snap-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Snap Q1 2026 — revenue $1.53B (+12%), DAUs +5%; ends $400M Perplexity deal, SNAP ~-4% AH",
+      "org": "Snap",
+      "tickers": [
+        "SNAP"
+      ],
+      "date": "2026-05-06",
+      "url": "https://investor.snap.com/news/default.aspx",
+      "summary": "Snap reported Q1 revenue of $1.53B (+12% Y/Y) and a narrower $89M net loss, but disclosed it amicably ended its $400M Perplexity AI partnership. Cautious Q2 guidance and Middle East uncertainty pushed shares ~4% lower in extended trading.",
+      "tags": [
+        "earnings",
+        "social-media",
+        "advertising",
+        "q1-2026",
+        "perplexity",
+        "ai-search",
+        "guidance-cut",
+        "after-hours-mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1.529B (+12% Y/Y)",
+        "Net loss": "$89M (vs $140M Y/Y)",
+        "Daily active users": "+5% Y/Y",
+        "Perplexity deal": "$400M, ended in Q1",
+        "Move": "~-4% AH"
+      },
+      "explainer": {
+        "tagline": "Snap beats on revenue but pulls cautious Q2 guidance and unwinds its $400M Perplexity AI deal, sending shares ~4% lower in extended trading.",
+        "whatIsIt": "Snap Inc. reported Q1 2026 results after the close on May 6. Revenue grew 12% year-over-year and the net loss narrowed sharply, but the company's investor letter disclosed the end of a $400M generative-AI partnership with Perplexity announced last November.",
+        "howItWorks": "Revenue came in at $1.529B versus $1.363B a year earlier, a 12% gain, while the net loss narrowed to $89M from $140M. Daily active users rose 5% Y/Y, helped by Lenses and Snap Map updates. Q2 sales guidance excludes any contribution from Perplexity and reflects what the company called Middle East 'geopolitical situation' uncertainty plus weakness from large North American advertisers.",
+        "whyItMatters": "Snap had pitched the November Perplexity deal as a $400M revenue catalyst beginning in 2026; its disappearance materially changes the 2026 setup. The cautious tone reads across to other ad-funded platforms exposed to North American brand spend and Middle East risk, and underscores the difficulty smaller social platforms are having monetizing AI-search partnerships.",
+        "forWho": "social-media, ad-tech, and AI partnership investors",
+        "tryIt": "https://finance.yahoo.com/quote/SNAP/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Snap_Inc._logo.svg/1280px-Snap_Inc._logo.svg.png",
+        "alt": "Snap Inc. logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Snap IR News",
+          "url": "https://investor.snap.com/news/default.aspx"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/SNAP/snap-inc-announces-first-quarter-2026-financial-lfhn0oi97dlm.html"
+        },
+        {
+          "label": "Quarterly Results Hub",
+          "url": "https://investor.snap.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "SNAP on Yahoo",
+          "url": "https://finance.yahoo.com/quote/SNAP/"
+        }
+      ],
+      "publishDate": "2026-05-06T20:44:38.753Z"
+    },
     {
       "id": "anet-q1-2026-earnings",
       "categories": [
