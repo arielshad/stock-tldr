@@ -730,6 +730,34 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260507t091148z",
+      "timestamp": "2026-05-07T09:11:48.402Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: AB InBev Q1 2026 earnings beat (May 5). Backfill of a gap in prior sweeps — Corona-driven 20.8% EPS growth and 7.9% premarket move qualify as major. No other fresh qualifying items in the last ~100 minutes; McDonald's Q1 not yet released at sweep time.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bud-q1-2026-earnings",
+          "title": "AB InBev Q1 2026 — revenue +5.8% to $15.27B, underlying EPS +20.8% to $0.97 beats $0.91 est on Corona +16% growth; BUD +7.9% premarket",
+          "category": "earnings",
+          "note": "Backfill of May 5 print missed by prior sweep; 20.8% underlying EPS growth and 7.9% premarket move qualify as major. Within 72h cap (date 2026-05-05, sweep 2026-05-07T09:02Z)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

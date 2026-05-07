@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-05-07T07:21:22.693Z",
+  "generatedAt": "2026-05-07T09:11:48.402Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bud-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AB InBev Q1 2026 — revenue +5.8% to $15.27B, underlying EPS +20.8% to $0.97 beats $0.91 est on Corona +16% growth; BUD +7.9% premarket",
+      "org": "Anheuser-Busch InBev",
+      "tickers": [
+        "BUD"
+      ],
+      "date": "2026-05-05",
+      "url": "https://www.ab-inbev.com/news-media/news-stories/ab-in-bev-reports-first-quarter-2026-results",
+      "summary": "AB InBev's underlying EPS jumped 20.8% to $0.97, beating $0.91 consensus, on 5.8% revenue growth, 1.2% beer volume gains and Corona +16%. Shares popped ~7.9% near 52-week high.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-beat",
+        "revenue-beat",
+        "beer",
+        "consumer-staples",
+        "premiumization",
+        "corona",
+        "michelob-ultra",
+        "beyond-beer",
+        "mexico",
+        "bees-marketplace"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$15.27B (+5.8% organic)",
+        "Underlying EPS": "$0.97 vs $0.91 est (+20.8% Y/Y)",
+        "Normalized EBITDA": "$5.44B (+5.3%)",
+        "Beer volumes": "+1.2% Y/Y",
+        "Corona revenue": "+16%",
+        "BEES GMV": "$1.1B (+55%)",
+        "Move": "+7.9% premarket"
+      },
+      "explainer": {
+        "tagline": "AB InBev returns to volume growth as Corona surges 16% and Underlying EPS jumps 20.8% to a record Q1 high.",
+        "whatIsIt": "Anheuser-Busch InBev — the world's largest brewer, behind Budweiser, Stella Artois, Corona and Michelob Ultra — reported Q1 2026 results on May 5. Organic revenue rose 5.8% to $15.27B and underlying EPS climbed 20.8% to $0.97, both ahead of consensus.",
+        "howItWorks": "Beer volumes rose 1.2% and total volumes 0.8%. Revenue per hectoliter grew 4.5% on premiumization and pricing. Normalized EBITDA grew 5.3% to $5.44B. Corona revenue jumped 16% with volumes +14%; Corona Cero led no-alcohol +46%. The full no-alcohol portfolio grew 27% and Beyond Beer 37%. BEES marketplace GMV climbed 55% to $1.1B. Mexico hit record Q1 volumes. Management reaffirmed FY26 organic EBITDA growth guidance of 4–8%.",
+        "whyItMatters": "BUD shares popped ~7.9% premarket toward $79.78, near the 52-week high of $81.56. The print confirms premiumization is still working post-pandemic and that the Corona-led rebound is real — Michelob Ultra and Budweiser were the top volume share gainers in North America. Reaffirmed guidance helps close the perception gap that opened after weaker prints from peers.",
+        "forWho": "consumer-staples allocators, beer-category trackers"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/company-logo/bud-lg.png?v=d5146e9ed3",
+        "alt": "Anheuser-Busch InBev BUD ticker logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "AB InBev Press Release",
+          "url": "https://www.ab-inbev.com/news-media/news-stories/ab-in-bev-reports-first-quarter-2026-results"
+        },
+        {
+          "label": "SEC 6-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/BUD/6-k-anheuser-busch-in-bev-sa-nv-current-report-foreign-issuer-8f4e697f4987.html"
+        },
+        {
+          "label": "BUD Quote",
+          "url": "https://finance.yahoo.com/quote/BUD"
+        }
+      ],
+      "publishDate": "2026-05-07T09:11:48.402Z"
+    },
     {
       "id": "shel-q1-2026-earnings",
       "categories": [
