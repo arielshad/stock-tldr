@@ -1,8 +1,330 @@
 {
-  "generatedAt": "2026-05-07T20:43:49.178Z",
+  "generatedAt": "2026-05-07T22:36:44.517Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "abnb-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Airbnb Q1 2026 — revenue $2.7B (+18%) beats but EPS $0.26 misses $0.30; raises FY26 to low-mid teens growth despite Iran-driven cancellations in EMEA/APAC",
+      "org": "Airbnb",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/news/ABNB/airbnb-announces-first-quarter-2026-xpwvxmdf03vw.html",
+      "summary": "Airbnb posted Q1 2026 revenue of $2.7B (+18%), adj EBITDA $519M (+24%), and free cash flow $1.7B. EPS of $0.26 missed the $0.30 consensus and ABNB slipped ~2% AH as Mideast cancellations bite, but FY26 guide goes up.",
+      "tags": [
+        "earnings",
+        "travel",
+        "q1-2026",
+        "fy26-guide-raise",
+        "iran-conflict",
+        "share-buyback",
+        "emea-cancellations"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ABNB",
+        "BKNG"
+      ],
+      "metrics": {
+        "Revenue": "$2.7B (+18% Y/Y)",
+        "EPS": "$0.26 vs $0.30 est",
+        "Adj EBITDA": "$519M (+24% Y/Y, 19% margin)",
+        "Gross Bookings": "$29.2B (+19% Y/Y)",
+        "Nights & Experiences": "156.2M (+9% Y/Y)",
+        "Free Cash Flow": "$1.7B (Q1)",
+        "Move": "-2% AH"
+      },
+      "explainer": {
+        "tagline": "Travel demand stayed strong in Q1 but Mideast bookings softened, leaving ABNB stuck between a beat on revenue and a miss on EPS.",
+        "whatIsIt": "Airbnb posted Q1 2026 results after the close on May 7, 2026. Revenue grew 18% to $2.7B, gross booking value rose 19% to $29.2B, and the company guided FY26 revenue growth to a low-to-mid teens range — up from a prior 12% outlook.",
+        "howItWorks": "Net income came in at $160M (6% margin); adjusted EBITDA was $519M, +24% Y/Y at a 19% margin. Free cash flow hit $1.7B for the quarter. EPS of $0.26 missed the $0.30 LSEG consensus. Q2 revenue guide of $3.54–$3.60B is above Street and FY26 adjusted EBITDA margin is now expected to be at least 35%.",
+        "whyItMatters": "Airbnb flagged 'slightly elevated' cancellations in EMEA and APAC tied to the Middle East conflict — a direct read-through to other travel names. The raised FY26 guide and the FCF print give cover to repurchases, but the EPS miss and Mideast drag are why the stock fell ~2% AH.",
+        "forWho": "travel/leisure desks, consumer-discretionary investors",
+        "tryIt": "https://finance.yahoo.com/quote/ABNB/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Airbnb_Announces_First_Quarter_2026_Results_1053750.webp",
+        "alt": "Airbnb Q1 2026 earnings cover image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/ABNB/airbnb-announces-first-quarter-2026-xpwvxmdf03vw.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-reports-mixed-results-q1-202400991.html"
+        },
+        {
+          "label": "ABNB Quote",
+          "url": "https://finance.yahoo.com/quote/ABNB/"
+        }
+      ],
+      "publishDate": "2026-05-07T22:36:44.517Z"
+    },
+    {
+      "id": "crwv-q1-2026-earnings-nvda-stake",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CoreWeave Q1 2026 — revenue $2.08B (2x Y/Y) beats $1.97B est, $99.4B backlog, NVIDIA buys $2B equity stake; CRWV ~-10% AH on capex creep",
+      "org": "CoreWeave",
+      "date": "2026-05-07",
+      "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-First-Quarter-2026-Results/",
+      "summary": "CoreWeave doubled revenue to $2.08B and ended Q1 with a $99.4B backlog and 3.5GW of contracted power. NVIDIA committed a $2B equity investment and CRWV closed an $8.5B DDTL term loan, but shares fell ~10% AH as 2026 capex moved up to $31–35B.",
+      "tags": [
+        "earnings",
+        "ai-infrastructure",
+        "q1-2026",
+        "nvidia-investment",
+        "capex",
+        "data-center",
+        "gpu-cloud"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CRWV",
+        "NVDA"
+      ],
+      "metrics": {
+        "Revenue": "$2.08B vs $1.97B est (+112% Y/Y)",
+        "EPS": "$(1.40) GAAP",
+        "Net Loss": "$740M",
+        "Backlog": "$99.4B",
+        "Active Power": ">1 GW",
+        "Contracted Power": ">3.5 GW",
+        "NVIDIA Stake": "$2B Class A",
+        "Term Loan": "$8.5B DDTL 4.0",
+        "FY26 Capex": "$31–$35B",
+        "Move": "-10% AH"
+      },
+      "explainer": {
+        "tagline": "Revenue more than doubled and the backlog hit $99B, but capex creeping up and a soft Q2 framing knocked CRWV ~10% after hours.",
+        "whatIsIt": "CoreWeave reported its first quarter as a public company that lapped a comparable Q1 — revenue of $2.08B versus $982M a year ago. The bigger headlines: a $2B equity investment from NVIDIA, an $8.5B non-recourse DDTL 4.0 facility, and a contracted power footprint above 3.5 GW with active power crossing 1 GW.",
+        "howItWorks": "GAAP net loss widened to $740M ($1.40 per share) from $315M as financing costs and depreciation on the new fleet ramped. The $99.4B revenue backlog, up sharply Q/Q, signals multi-year visibility. Management raised the high end of 2026 capex guidance to $31–$35B from $30–$35B.",
+        "whyItMatters": "CRWV is the cleanest pure-play on AI compute capex — backlog growth and the NVIDIA equity tie show demand intact, but the higher capex and lack of a strong Q2 revenue print left holders looking at deeper losses for longer. Read-throughs: $NVDA, $AMD, $VRT, $ETN.",
+        "forWho": "AI infra and data-center investors",
+        "tryIt": "https://finance.yahoo.com/quote/CRWV/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CoreWeave_logo.svg/1280px-CoreWeave_logo.svg.png",
+        "alt": "CoreWeave logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-First-Quarter-2026-Results/"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html"
+        },
+        {
+          "label": "CRWV Quote",
+          "url": "https://finance.yahoo.com/quote/CRWV/"
+        }
+      ],
+      "publishDate": "2026-05-07T22:36:44.517Z"
+    },
+    {
+      "id": "rklb-q1-2026-earnings-record",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Rocket Lab Q1 2026 — record $200.3M revenue (+63.5%), GAAP gross margin 38.2%, $2.2B backlog; Q2 guide $225–240M after Mynaric close + Motiv deal",
+      "org": "Rocket Lab",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3290563/0/en/rocket-lab-announces-first-quarter-2026-financial-results-surpasses-all-guidance-metrics-including-revenue-margin-and-adjusted-ebitda-posts-record-200m-quarterly-revenue-and-over-2.html",
+      "summary": "Rocket Lab beat all Q1 2026 guidance metrics: $200.3M revenue (+63.5%), record GAAP gross margin 38.2%, adjusted EBITDA loss narrowed to $11.8M, and backlog hit $2.2B. Q2 revenue guide of $225–240M sets up another record. Mynaric closed; Motiv agreement signed.",
+      "tags": [
+        "earnings",
+        "space",
+        "q1-2026",
+        "neutron",
+        "mynaric",
+        "motiv",
+        "space-systems"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RKLB"
+      ],
+      "metrics": {
+        "Revenue": "$200.3M (+63.5% Y/Y)",
+        "GAAP Gross Margin": "38.2%",
+        "Non-GAAP Gross Margin": "43.0%",
+        "Adj EBITDA": "$(11.8)M (vs $(30.0)M Y/Y)",
+        "EPS": "$(0.07)",
+        "Backlog": "$2.2B (+20% Q/Q)",
+        "Liquidity": ">$2B",
+        "Q2 Revenue Guide": "$225–$240M"
+      },
+      "explainer": {
+        "tagline": "Rocket Lab beat every guidance metric this quarter, signed a Mars-robotics deal, and pre-printed another record in Q2.",
+        "whatIsIt": "Rocket Lab's Q1 2026 results posted record revenue of $200.3M, a 63.5% Y/Y jump, with GAAP gross margin of 38.2% and non-GAAP gross margin of 43.0% — both the highest the company has reported.",
+        "howItWorks": "Adjusted EBITDA loss narrowed to $(11.8)M from $(30.0)M as scale leveraged across Electron, Space Systems, and Neutron-related work. Backlog grew 20% Q/Q to $2.2B; total launch manifest now exceeds 70 contracted missions. Rocket Lab guided Q2 revenue to $225–$240M with non-GAAP gross margin of 38–40%.",
+        "whyItMatters": "The Mynaric close gives Rocket Lab a European laser-comms footprint for sat constellations, and the Motiv Space Systems agreement adds Mars-proven robotics. With the Neutron program advancing and government work building, RKLB extended its lead among small/medium-launch listed names while SpaceX stays private.",
+        "forWho": "space-sector traders and defense-tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/RKLB/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/d5785cc8-1501-4a8f-8c5c-ca3e966db143",
+        "alt": "Rocket Lab Q1 2026 earnings header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3290563/0/en/rocket-lab-announces-first-quarter-2026-financial-results-surpasses-all-guidance-metrics-including-revenue-margin-and-adjusted-ebitda-posts-record-200m-quarterly-revenue-and-over-2.html"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/RKLB/rocket-lab-announces-first-quarter-2026-financial-results-surpasses-cznv7fzbueb0.html"
+        },
+        {
+          "label": "RKLB Quote",
+          "url": "https://finance.yahoo.com/quote/RKLB/"
+        }
+      ],
+      "publishDate": "2026-05-07T22:36:44.517Z"
+    },
+    {
+      "id": "net-q1-2026-ai-restructuring",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cloudflare Q1 2026 — revenue $639.8M (+34%), non-GAAP NI $94M; announces ~1,100-employee layoff (~20%) in 'agentic AI-first' reorg, $140–150M charge",
+      "org": "Cloudflare",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/sec-filings/NET/8-k-cloudflare-inc-reports-material-event-070b89301d60.html",
+      "summary": "Cloudflare posted Q1 2026 revenue of $639.8M (+34%), non-GAAP net income $94M, and FCF $84.1M. Alongside results it announced a ~1,100-employee (~20%) workforce cut to pivot to an 'agentic AI-first' operating model, taking a $140–150M restructuring charge.",
+      "tags": [
+        "earnings",
+        "layoffs",
+        "ai-restructuring",
+        "q1-2026",
+        "edge-network",
+        "guide-raise",
+        "headcount-cut"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NET"
+      ],
+      "metrics": {
+        "Revenue": "$639.8M (+34% Y/Y)",
+        "GAAP Op Loss": "$(62.0)M",
+        "Non-GAAP Op Income": "$73.1M",
+        "Non-GAAP Net Income": "$94.0M",
+        "Free Cash Flow": "$84.1M (13% margin)",
+        "FY26 Revenue Guide": "$2,805–$2,813M",
+        "FY26 Non-GAAP EPS": "$1.19–$1.20",
+        "Layoffs": "~1,100 (~20%)",
+        "Restructuring Charge": "$140–$150M"
+      },
+      "explainer": {
+        "tagline": "Cloudflare beat the print and raised the FY guide, then announced a 20% headcount cut to retool around 'agentic AI-first' workflows.",
+        "whatIsIt": "Cloudflare reported Q1 2026 revenue of $639.8M (+34% Y/Y), non-GAAP net income of $94M, and free cash flow of $84.1M. The FY26 revenue guide moved up to $2,805–$2,813M with non-GAAP EPS of $1.19–$1.20.",
+        "howItWorks": "GAAP loss from operations was $62M; non-GAAP operating income rose to $73.1M from $56M Y/Y. Alongside results, Cloudflare disclosed a workforce reduction of about 1,100 employees (~20% of headcount), with $140–$150M in charges — $105–$110M in cash for severance and notice and $35–$40M in stock-based vesting. Most of the charges are expected in Q2–Q3 2026.",
+        "whyItMatters": "A 20% AI-driven headcount cut at a profitable, high-growth software vendor is the clearest signal yet that 'agentic AI' is moving from a margin tailwind to an org redesign. Watch read-throughs to other developer-platform names (DDOG, NET, FSLY, ESTC) and to the broader hiring/SaaS labor mix.",
+        "forWho": "software/SaaS, AI-pivot, labor-market trackers",
+        "tryIt": "https://finance.yahoo.com/quote/NET/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/net_8-K.webp",
+        "alt": "Cloudflare 8-K filing cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/NET/8-k-cloudflare-inc-reports-material-event-070b89301d60.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-announces-first-quarter-2026-201500778.html"
+        },
+        {
+          "label": "NET Quote",
+          "url": "https://finance.yahoo.com/quote/NET/"
+        }
+      ],
+      "publishDate": "2026-05-07T22:36:44.517Z"
+    },
+    {
+      "id": "expe-q1-2026-earnings-buyback",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Expedia Q1 2026 — revenue $3.43B (+15%), adj EPS $1.96 trounces $1.25 est, new $5B buyback; EXPE ~-7% AH on soft Q2 guide ($4.11–4.19B)",
+      "org": "Expedia Group",
+      "date": "2026-05-07",
+      "url": "https://www.morningstar.com/news/business-wire/20260507466383/expedia-group-reports-first-quarter-2026-results",
+      "summary": "Expedia posted Q1 2026 revenue of $3.43B (+15%), adjusted EPS of $1.96 versus $1.25 expected, gross bookings +13% with B2B +22%. The board added a new $5B buyback authorization, but EXPE fell ~7% AH on a Q2 revenue guide ($4.11–$4.19B) light of consensus.",
+      "tags": [
+        "earnings",
+        "travel",
+        "q1-2026",
+        "buyback",
+        "b2b",
+        "soft-q2-guide"
+      ],
+      "importance": "major",
+      "tickers": [
+        "EXPE",
+        "ABNB",
+        "BKNG"
+      ],
+      "metrics": {
+        "Revenue": "$3.43B (+15% Y/Y)",
+        "Adj EPS": "$1.96 vs $1.25 est",
+        "Gross Bookings": "+13% Y/Y",
+        "B2B Bookings": "+22% Y/Y",
+        "B2C Bookings": "+10% Y/Y",
+        "Adj EBITDA": "+83% Y/Y",
+        "Q1 Buyback": "$700M (3.3M shares)",
+        "New Authorization": "$5B",
+        "Q2 Revenue Guide": "$4.11–$4.19B (light)",
+        "Move": "-7% AH"
+      },
+      "explainer": {
+        "tagline": "Expedia delivered the highest Q1 profitability in its history and a new $5B buyback, but a soft Q2 revenue guide left holders unconvinced.",
+        "whatIsIt": "Expedia Group reported Q1 2026 results after the close on May 7, 2026. Revenue grew 15% to $3.43B and adjusted EPS came in at $1.96 versus a $1.25 consensus — the highest Q1 profitability in the company's history per management.",
+        "howItWorks": "Total gross bookings rose 13%, with B2B up 22% and B2C up 10%. GAAP net loss narrowed 97% Y/Y while adjusted EBITDA grew 83%. Expedia repurchased $700M of stock (3.3M shares) in the quarter and authorized a new $5B buyback. The Q2 revenue guide of $4.11–$4.19B is below Street, and full-year guidance was reaffirmed rather than raised.",
+        "whyItMatters": "Travel demand at the print looked solid, but the Q2 framing — same FY guide, soft Q2 — is the read-through. Pair this with Airbnb's Mideast cancellation commentary (also May 7) and a wobble in OTA / leisure-travel sentiment is harder to brush aside. Watch ABNB, BKNG and the major airline names into Q2.",
+        "forWho": "travel/leisure desks, OTA equity investors",
+        "tryIt": "https://finance.yahoo.com/quote/EXPE/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Expedia_Group_logo.svg/1280px-Expedia_Group_logo.svg.png",
+        "alt": "Expedia Group logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.morningstar.com/news/business-wire/20260507466383/expedia-group-reports-first-quarter-2026-results"
+        },
+        {
+          "label": "ChartMill Recap",
+          "url": "https://www.chartmill.com/news/EXPE/Chartmill-47784-Expedia-Group-NASDAQEXPE-Stock-Plunges-Despite-Q1-Earnings-Beat"
+        },
+        {
+          "label": "EXPE Quote",
+          "url": "https://finance.yahoo.com/quote/EXPE/"
+        }
+      ],
+      "publishDate": "2026-05-07T22:36:44.517Z"
+    },
     {
       "id": "vst-q1-2026-earnings",
       "categories": [

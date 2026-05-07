@@ -995,6 +995,55 @@
         "mna",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260507t223644z",
+      "timestamp": "2026-05-07T22:36:44.517Z",
+      "source": "github-actions-sweep",
+      "summary": "Five after-close May 7, 2026 earnings landed: ABNB (revenue beat, EPS miss, raised FY guide despite Iran-driven cancellations), CRWV (revenue 2x with NVIDIA $2B equity, capex creep weighed -10% AH), RKLB (record $200M, beat all metrics, Mynaric close), NET (+34% revenue with a 20% AI-first layoff plan), and EXPE (huge EPS beat, $5B buyback, but -7% AH on soft Q2).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "abnb-q1-2026-earnings",
+          "title": "Airbnb Q1 2026 — revenue $2.7B (+18%) beats but EPS $0.26 misses $0.30; raises FY26 to low-mid teens growth despite Iran-driven cancellations in EMEA/APAC",
+          "category": "earnings",
+          "note": "Travel mega-cap Q1 print with raised FY26 guide and explicit Iran-conflict cancellation commentary tied to a >5% AH move call."
+        },
+        {
+          "id": "crwv-q1-2026-earnings-nvda-stake",
+          "title": "CoreWeave Q1 2026 — revenue $2.08B (2x Y/Y) beats $1.97B est, $99.4B backlog, NVIDIA buys $2B equity stake; CRWV ~-10% AH on capex creep",
+          "category": "earnings",
+          "note": "Cleanest AI-infra read with NVIDIA $2B equity investment, $99.4B backlog and 10% AH drop on capex creep."
+        },
+        {
+          "id": "rklb-q1-2026-earnings-record",
+          "title": "Rocket Lab Q1 2026 — record $200.3M revenue (+63.5%), GAAP gross margin 38.2%, $2.2B backlog; Q2 guide $225–240M after Mynaric close + Motiv deal",
+          "category": "earnings",
+          "note": "Record revenue, beats all guidance metrics, plus Mynaric close and Motiv definitive agreement."
+        },
+        {
+          "id": "net-q1-2026-ai-restructuring",
+          "title": "Cloudflare Q1 2026 — revenue $639.8M (+34%), non-GAAP NI $94M; announces ~1,100-employee layoff (~20%) in 'agentic AI-first' reorg, $140–150M charge",
+          "category": "earnings",
+          "note": "Q1 beat plus a 20% (~1,100) AI-first headcount cut — the biggest 'agentic AI' org redesign at a software vendor this cycle."
+        },
+        {
+          "id": "expe-q1-2026-earnings-buyback",
+          "title": "Expedia Q1 2026 — revenue $3.43B (+15%), adj EPS $1.96 trounces $1.25 est, new $5B buyback; EXPE ~-7% AH on soft Q2 guide ($4.11–4.19B)",
+          "category": "earnings",
+          "note": "Big EPS beat and new $5B buyback, but -7% AH on a soft Q2 outlook — a clean travel-demand read alongside ABNB."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
