@@ -789,6 +789,44 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260507t125807z",
+      "timestamp": "2026-05-07T12:58:07.019Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds: McDonald's Q1 beat, Zoetis Q1 with FY26 guide cut, and Nikkei 225's first-ever close above 62,000 on a tech/semis rally tied to Iran-deal optimism.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mcd-q1-2026-earnings",
+          "title": "McDonald's Q1 2026 — adj EPS $2.83 beats $2.74 est, revenue $6.52B beats; global comp +3.8%, US +3.9%; MCD ~+3% premarket",
+          "category": "earnings",
+          "note": "Mega-cap consumer-discretionary beat with ~+3% premarket move and US comp recovery to +3.9%."
+        },
+        {
+          "id": "zts-q1-2026-earnings-guide-cut",
+          "title": "Zoetis Q1 2026 — adj EPS $1.53 in line; US revenue -8% on companion-animal weakness, FY26 EPS guide cut to $6.85–$7.00; ZTS drops ~13%",
+          "category": "earnings",
+          "note": "Single-name >5% drop with named catalyst — FY26 guide cut + US -8% — and animal-health bellwether read-through."
+        },
+        {
+          "id": "nikkei-tops-62k-may-7-2026",
+          "title": "Nikkei 225 tops 62,000 for first time ever — index +5.76%, SoftBank +13%, semis lead as Iran-deal hopes and Nasdaq record fuel rally",
+          "category": "sector",
+          "note": "First-ever close above 62,000; broad Japan equity rally with named drivers (Iran-deal hopes, Nasdaq record, AI/semis) — distinct from May 6 Samsung/KOSPI story already in feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector"
+      ]
     }
   ]
 }

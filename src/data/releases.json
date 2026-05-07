@@ -1,8 +1,209 @@
 {
-  "generatedAt": "2026-05-07T11:16:20.099Z",
+  "generatedAt": "2026-05-07T12:58:07.019Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mcd-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "McDonald's Q1 2026 — adj EPS $2.83 beats $2.74 est, revenue $6.52B beats; global comp +3.8%, US +3.9%; MCD ~+3% premarket",
+      "org": "McDonald's",
+      "date": "2026-05-07",
+      "url": "https://www.prnewswire.com/news-releases/mcdonalds-reports-first-quarter-2026-results-302764628.html",
+      "tickers": [
+        "MCD"
+      ],
+      "summary": "MCD tops Q1 estimates with adj EPS $2.83 vs $2.74 est on +3.9% US comp. Consolidated revenue +9% to $6.52B; shares climb ~3% premarket after stock hit a 52-week low ahead of the print.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "same-store-sales",
+        "q1-2026",
+        "fast-food",
+        "consumer-discretionary"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adjusted EPS": "$2.83 vs $2.74 est",
+        "GAAP EPS": "$2.78 (+7%)",
+        "Revenue": "$6.52B vs $6.47B est (+9%)",
+        "US comp": "+3.9%",
+        "IOM comp": "+3.9%",
+        "IDL comp": "+3.4%",
+        "Global comp": "+3.8%",
+        "Operating income": "$2.95B (+12%)",
+        "Move": "~+3% premarket"
+      },
+      "explainer": {
+        "tagline": "McDonald's beats Q1 on US traffic-light recovery; revenue up 9% as customers spend more per visit.",
+        "whatIsIt": "McDonald's reported Q1 2026 earnings on May 7. Adjusted EPS of $2.83 beat the $2.74 consensus and revenue of $6.52B beat $6.47B. Global comparable sales grew 3.8%, with the US segment turning positive at +3.9%.",
+        "howItWorks": "GAAP EPS came in at $2.78 (+7% Y/Y). Consolidated operating income rose 12% to $2.95B, and systemwide sales increased 11% to over $34B. CEO Chris Kempczinski credited 'value leadership, breakthrough marketing, and menu innovation' even in what he called 'a challenging environment.' International Operated Markets and IDL each grew comp sales above 3%.",
+        "whyItMatters": "MCD entered the print at a 15-month low after rolling off January's record. The +3% premarket move signals consumer-discretionary relief: traffic-light US comp recovered to +3.9% on higher per-visit spend, a tell for QSR peers (YUM, CMG, WEN). Helpful read-through for the staples-vs-discretionary trade.",
+        "forWho": "consumer-discretionary equity, QSR sector traders",
+        "tryIt": "https://finance.yahoo.com/quote/MCD"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/McDONALD_S_REPORTS_FIRST_QUARTER_2026_RESULTS_1053137.webp",
+        "alt": "McDonald's Q1 2026 earnings press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/mcdonalds-reports-first-quarter-2026-results-302764628.html"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html"
+        },
+        {
+          "label": "MCD Quote",
+          "url": "https://finance.yahoo.com/quote/MCD"
+        },
+        {
+          "label": "Investor Page",
+          "url": "https://corporate.mcdonalds.com/corpmcd/investors/financial-information.html"
+        }
+      ],
+      "publishDate": "2026-05-07T12:58:07.019Z"
+    },
+    {
+      "id": "zts-q1-2026-earnings-guide-cut",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Zoetis Q1 2026 — adj EPS $1.53 in line; US revenue -8% on companion-animal weakness, FY26 EPS guide cut to $6.85–$7.00; ZTS drops ~13%",
+      "org": "Zoetis",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/news/ZTS/zoetis-announces-first-quarter-2026-hu2wa7hxrfbb.html",
+      "tickers": [
+        "ZTS"
+      ],
+      "summary": "Zoetis posts Q1 revenue $2.26B (+3% reported, flat organic) with adj EPS $1.53. US sales fall 8% on softer companion-animal demand and intensified competition; cuts FY26 EPS guide to $6.85–$7.00. ZTS slides ~13%.",
+      "tags": [
+        "earnings",
+        "guidance-cut",
+        "mover",
+        "q1-2026",
+        "animal-health",
+        "companion-animal",
+        "livestock",
+        "healthcare"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adjusted EPS": "$1.53 (+9% reported, +1% organic)",
+        "GAAP EPS": "$1.42",
+        "Revenue": "$2.26B (+3% reported, flat organic)",
+        "US revenue": "-8%",
+        "International revenue": "+17% (+10% organic)",
+        "Livestock revenue": "$720M (+15%)",
+        "FY26 revenue guide": "$9.68B–$9.96B",
+        "FY26 adj EPS guide": "$6.85–$7.00",
+        "Move": "~-13%"
+      },
+      "explainer": {
+        "tagline": "Zoetis cuts FY26 guide as US companion-animal demand cools; stock drops ~13% on the print.",
+        "whatIsIt": "Zoetis reported Q1 2026 revenue of $2.26B (+3% reported, flat organic) with adj EPS of $1.53. US revenue fell 8%, with companion-animal sales hit by price sensitivity and competition in dermatology and parasiticides. Management cut FY26 guidance.",
+        "howItWorks": "GAAP diluted EPS was $1.42 on $601M net income. International revenue rose 17% (+10% organic) on broad-based livestock strength. CEO Kristin Peck cited 'a more challenging operating environment than we anticipated' — fewer vet visits and softer demand for premium products. New FY26 guide: revenue $9.68–9.96B, organic growth 2–5%, adj EPS $6.85–$7.00.",
+        "whyItMatters": "ZTS is the dominant animal-health name and a bellwether for vet-visit spend. The ~13% drop reflects guidance cut + competitive pressure on the franchise dermatology and parasiticides products. Read-through for IDXX (vet diagnostics) and Elanco (ELAN). The Neogen genomics deal is still slated to close 2H 2026.",
+        "forWho": "healthcare equity, animal-health specialists",
+        "tryIt": "https://finance.yahoo.com/quote/ZTS"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Zoetis_Announces_First_Quarter_2026_Results_1053135.webp",
+        "alt": "Zoetis Q1 2026 earnings release",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/ZTS/zoetis-announces-first-quarter-2026-hu2wa7hxrfbb.html"
+        },
+        {
+          "label": "Investor Site",
+          "url": "https://investor.zoetis.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://stockstory.org/us/stocks/nyse/zts/news/earnings/zoetis-nysezts-misses-q1-cy2026-revenue-estimates-stock-drops-13percent"
+        },
+        {
+          "label": "ZTS Quote",
+          "url": "https://finance.yahoo.com/quote/ZTS"
+        }
+      ],
+      "publishDate": "2026-05-07T12:58:07.019Z"
+    },
+    {
+      "id": "nikkei-tops-62k-may-7-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Nikkei 225 tops 62,000 for first time ever — index +5.76%, SoftBank +13%, semis lead as Iran-deal hopes and Nasdaq record fuel rally",
+      "org": "Tokyo Stock Exchange",
+      "date": "2026-05-07",
+      "url": "https://www.icmarkets.com.au/blog/thursday-7th-may-2026-asia-markets-rally-as-nikkei-hits-record-62000-despite-middle-east-tensions/",
+      "tickers": [
+        "^N225"
+      ],
+      "summary": "Nikkei 225 surges 5.76% to clear 62,000 for the first time, led by SoftBank +13% and semis (Ibiden +17%, Renesas +13%). Topix +2.37%, Hang Seng +1.47%. Driven by US Nasdaq record close and Trump–Iran peace-deal optimism.",
+      "tags": [
+        "nikkei",
+        "japan",
+        "asia",
+        "tech-rally",
+        "semis",
+        "softbank",
+        "iran",
+        "ai-rally",
+        "record-high"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Nikkei 225": "+5.76% (>62,000 first time)",
+        "SoftBank (9984.T)": "+13%",
+        "Ibiden": "+17%",
+        "Renesas": "+13%",
+        "Topix": "+2.37%",
+        "KOSPI": "-0.68%",
+        "Hang Seng": "+1.47%"
+      },
+      "explainer": {
+        "tagline": "Nikkei 225 punches through 62,000 for the first time ever as Japan tech and semis rip higher on AI demand and Iran-deal hopes.",
+        "whatIsIt": "Japan's Nikkei 225 closed above 62,000 for the first time in its history on Thursday, May 7, jumping 5.76% as Tokyo markets reopened from Golden Week holidays. Buying concentrated in tech, financials, and basic materials — particularly AI-linked semis.",
+        "howItWorks": "SoftBank Group surged ~13% on the day, with semis leaders Ibiden (+17%) and Renesas (+13%) leading the rally. The broader Topix added 2.37%. Asia traded mixed elsewhere — Hang Seng +1.47%, KOSPI -0.68%. Triggers: US Nasdaq's record close on Wednesday, easing Middle East tensions as Tehran reviews a US peace MOU, and Trump warning Iran would face bombing 'at a much higher level' absent a deal.",
+        "whyItMatters": "First-ever close above 62,000 marks a regime shift for Japan equities — a market that traders had pegged as range-bound below 60K just months ago. The semi/AI bid mirrors what's driving Nasdaq, MU, NVDA stateside; SoftBank's vol pull through ARM positioning is back in focus. KOSPI's failure to confirm (-0.68%) breaks a recent Asia tech-correlation pattern.",
+        "forWho": "Japan equity, Asia-Pacific, AI/semis traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5EN225"
+      },
+      "image": {
+        "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/07/539265.jpg?v=3.1",
+        "alt": "Tokyo Stock Exchange trading floor as Nikkei 225 hits record",
+        "fit": "cover",
+        "credit": "The Japan Times"
+      },
+      "links": [
+        {
+          "label": "IC Markets Recap",
+          "url": "https://www.icmarkets.com.au/blog/thursday-7th-may-2026-asia-markets-rally-as-nikkei-hits-record-62000-despite-middle-east-tensions/"
+        },
+        {
+          "label": "Invezz Coverage",
+          "url": "https://invezz.com/news/2026/05/07/nikkei-225-crosses-62000-as-asian-markets-rally-on-relief-hopes/"
+        },
+        {
+          "label": "Nikkei Quote",
+          "url": "https://finance.yahoo.com/quote/%5EN225"
+        }
+      ],
+      "publishDate": "2026-05-07T12:58:07.019Z"
+    },
     {
       "id": "adm-q1-2026-earnings",
       "categories": [
