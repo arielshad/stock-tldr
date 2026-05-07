@@ -827,6 +827,50 @@
         "mover",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260507t150844z",
+      "timestamp": "2026-05-07T15:08:44.768Z",
+      "source": "github-actions-sweep",
+      "summary": "Four Q1/FQ3 prints with raised guidance: Celsius blowout post-Alani Nu, IonQ revenue +755% with raised FY guide, Cheniere lifts FY26 EBITDA by $500M on record cargoes, Tapestry rides Coach + China to a guide hike.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "celh-q1-2026-earnings",
+          "title": "Celsius Q1 2026 — revenue +138% to record $782.6M on Alani Nu/Rockstar; adj EPS $0.41 trounces $0.29 est, gross margin -400bp; CELH +4% premarket",
+          "category": "earnings",
+          "note": "First post-Alani Nu/Rockstar quarter, +138% revenue, raised on Bloomberg coverage and primary press release."
+        },
+        {
+          "id": "ionq-q1-2026-earnings",
+          "title": "IonQ Q1 2026 — revenue $64.7M (+755% Y/Y) blows past $50.7M est, Q2 guide $65–68M, FY26 guide raised to $260–270M; non-GAAP EPS still ($0.34)",
+          "category": "earnings",
+          "note": "Revenue +755% Y/Y blows past consensus, FY guide raised — flagship quantum-computing print this week."
+        },
+        {
+          "id": "lng-q1-2026-earnings-guide-raise",
+          "title": "Cheniere Q1 2026 — revenue $5.87B, record 187 LNG cargoes, raises FY26 EBITDA guide to $7.25–7.75B; LNG +6.8% on operational beat despite $3.5B GAAP loss on derivative MTM",
+          "category": "earnings",
+          "note": "Largest U.S. LNG exporter raises FY26 EBITDA guide $500M after record 187-cargo quarter; stock +6.8%."
+        },
+        {
+          "id": "tpr-q3-fy2026-earnings",
+          "title": "Tapestry Q3 FY26 — revenue $1.92B (+21%), Coach +29% CC, non-GAAP EPS $1.66 vs $1.31 est; raises FY26 EPS guide to ~$6.95 (+35% Y/Y); TPR +3.9%",
+          "category": "earnings",
+          "note": "Coach +29% constant-currency, Greater China +55%, FY26 EPS guide raised to ~$6.95 (+35% Y/Y)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "commodity"
+      ]
     }
   ]
 }
