@@ -581,6 +581,37 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260507t010341z",
+      "timestamp": "2026-05-07T01:03:41.579Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Q1 2026 single-name prints land within the 72h window: AppLovin posts a 59% Y/Y revenue beat with raised Q2 guide, and Whirlpool's revenue miss + ongoing EPS swing-to-loss sends shares down ~19.5%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "app-q1-2026-earnings",
+          "title": "AppLovin Q1 2026 — revenue $1.84B (+59%) beats, GAAP EPS $3.56, Q2 guide $1.93B above Street",
+          "category": "earnings",
+          "note": "Mega-cap adtech beat with raised Q2 guide and continued AI/Axon-driven momentum; +2.9% AH but high-conviction major print with multi-tier-1 coverage."
+        },
+        {
+          "id": "whr-q1-2026-earnings",
+          "title": "Whirlpool Q1 2026 — revenue -10% to $3.27B, ongoing EPS swings to -$0.56; WHR drops 19.5%",
+          "category": "earnings",
+          "note": "Single-name -19.5% mover with named catalyst (Q1 miss + tariff/cost actions + lowered ongoing EPS profile)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

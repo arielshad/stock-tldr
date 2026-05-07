@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-06T22:26:25.469Z",
+  "generatedAt": "2026-05-07T01:03:41.579Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "app-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "AppLovin Q1 2026 — revenue $1.84B (+59%) beats, GAAP EPS $3.56, Q2 guide $1.93B above Street",
+      "org": "AppLovin",
+      "date": "2026-05-06",
+      "url": "https://investors.applovin.com/news/news-details/2026/AppLovin-Announces-First-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "AppLovin posts Q1 revenue of $1.84B (+59% Y/Y), GAAP EPS $3.56, and adjusted EBITDA of $1.56B at an 85% margin; Q2 guide of $1.93B and ~84-85% EBITDA margin tops sell-side.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q1-2026",
+        "adtech",
+        "mobile-ads",
+        "axon",
+        "ai-ads",
+        "guide-raise",
+        "share-buyback"
+      ],
+      "importance": "major",
+      "tickers": [
+        "APP"
+      ],
+      "metrics": {
+        "Revenue": "$1.84B (+59% Y/Y)",
+        "GAAP EPS": "$3.56 (vs ~$3.46 est)",
+        "Adj EBITDA": "$1.56B (+66%, 85% margin)",
+        "Free cash flow": "$1.3B",
+        "Q2 revenue guide": "$1.92–$1.95B (above ~$1.89B est)",
+        "Q1 buyback": "$1.0B (2.2M shares)",
+        "Move": "+2.9% AH"
+      },
+      "explainer": {
+        "tagline": "AppLovin's AI-driven mobile-ads engine keeps compounding — revenue +59% Y/Y, 85% EBITDA margin, Q2 guide above Street.",
+        "whatIsIt": "Adtech firm AppLovin reported Q1 2026 results after the bell on May 6, blowing past consensus on revenue, earnings, and EBITDA as its AI-powered Axon ad system continues to drive mobile-game advertiser spend. Management also raised Q2 guidance and disclosed a $1B Q1 share buyback.",
+        "howItWorks": "Revenue came in at $1.84B versus the $1.78B Street estimate, up 59% from $1.16B a year earlier. Net income more than doubled to $1.21B (+109%), GAAP diluted EPS hit $3.56, and adjusted EBITDA reached $1.56B with an 85% margin. Free cash flow was $1.3B and AppLovin repurchased 2.2M Class A shares for $1.0B, leaving roughly $2.3B remaining on its buyback authorization. Q2 guide: revenue $1.92–$1.95B and adj EBITDA $1.62–$1.64B, both above sell-side.",
+        "whyItMatters": "Strong AI-driven advertising growth echoes recent Meta and Alphabet prints and reinforces the bull case for ad-tech platforms riding model-driven targeting. Read-through to peers like The Trade Desk (TTD) and DoubleVerify (DV); APP's outsized buyback also keeps it on capital-return-focused screens.",
+        "forWho": "ad-tech / large-cap growth investors",
+        "tryIt": "https://finance.yahoo.com/quote/APP/"
+      },
+      "image": {
+        "url": "https://investors.applovin.com/files/images/Open-Graph_AppLovin_Logo_1200x630.jpg",
+        "alt": "AppLovin corporate logo on Open Graph banner",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "AppLovin IR Release",
+          "url": "https://investors.applovin.com/news/news-details/2026/AppLovin-Announces-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Sherwood: APP Soars on Q1",
+          "url": "https://sherwood.news/markets/applovin-q1-2026-earnings-report-adtech-software/"
+        },
+        {
+          "label": "StockTitan: APP Q1 Recap",
+          "url": "https://www.stocktitan.net/news/APP/app-lovin-announces-first-quarter-2026-financial-5aiohgg3ri3s.html"
+        },
+        {
+          "label": "APP on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/APP/"
+        }
+      ],
+      "publishDate": "2026-05-07T01:03:41.579Z"
+    },
+    {
+      "id": "whr-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Whirlpool Q1 2026 — revenue -10% to $3.27B, ongoing EPS swings to -$0.56; WHR drops 19.5%",
+      "org": "Whirlpool",
+      "date": "2026-05-06",
+      "url": "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/Whirlpool-Corporation-Announces-First-Quarter-Results-Accelerates-Cost-and-Pricing-Actions-to-Restore-Margins/default.aspx",
+      "summary": "Whirlpool Q1 revenue $3.27B (-9.6% Y/Y), GAAP EPS -$1.43, ongoing EPS -$0.56 vs $1.70 prior; FY26 ongoing EPS guide $3.00–$3.50; shares fall ~19.5% on the day.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-miss",
+        "q1-2026",
+        "appliances",
+        "consumer-durables",
+        "north-america",
+        "tariffs",
+        "price-increase",
+        "guide-cut",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "WHR"
+      ],
+      "metrics": {
+        "Revenue": "$3.27B (-9.6% Y/Y)",
+        "Organic revenue": "$3.19B (-6.1% Y/Y)",
+        "GAAP EPS": "-$1.43",
+        "Ongoing EPS": "-$0.56 vs $1.70 Q1 2025",
+        "MDA North America revenue": "$2.24B (-7.5%)",
+        "FY26 ongoing EPS guide": "$3.00–$3.50",
+        "FY26 revenue guide": "~$15.0B",
+        "Move": "-19.5%"
+      },
+      "explainer": {
+        "tagline": "Whirlpool's North America appliance demand cratered — sales -9.6%, ongoing EPS swings to a loss, stock down nearly 20%.",
+        "whatIsIt": "Home-appliance maker Whirlpool reported Q1 2026 results before the open on May 6, posting a 9.6% Y/Y revenue decline, a swing to an ongoing loss, and lowered margin profile. Management announced its largest price increase in a decade and >$150M in structural cost cuts to recover margins.",
+        "howItWorks": "Net sales of $3.27B were down from $3.62B a year earlier, with MDA North America down 7.5% to $2.24B, MDA Latin America +5.0% to $774M, and SDA Global +13.4% to $222M. GAAP loss was $1.43/share against a $1.28 profit a year earlier; ongoing EPS swung to -$0.56 from $1.70. Operating margin fell to 0.5% from 5.1%. FY26 guide: revenue ~$15B, GAAP EPS $2.45–$2.95, ongoing EPS $3.00–$3.50, free cash flow ~$300M, and >$900M of debt reduction.",
+        "whyItMatters": "Headline points to softening U.S. discretionary durables demand and ongoing tariff drag on appliance pricing, with management framing pricing actions as cost-recovery rather than market-share-led. Read-through to other tariff- and housing-exposed names — Home Depot (HD), Lowe's (LOW), Masco (MAS), Mohawk (MHK), and Stanley Black & Decker (SWK).",
+        "forWho": "consumer durables / housing-cycle investors",
+        "tryIt": "https://finance.yahoo.com/quote/WHR/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/459726/whirlpool_corporation_logo_Logo.jpg",
+        "alt": "Whirlpool Corporation logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Whirlpool IR Release",
+          "url": "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/Whirlpool-Corporation-Announces-First-Quarter-Results-Accelerates-Cost-and-Pricing-Actions-to-Restore-Margins/default.aspx"
+        },
+        {
+          "label": "PRNewswire Press Release",
+          "url": "https://www.prnewswire.com/news-releases/whirlpool-corporation-announces-first-quarter-results-accelerates-cost-and-pricing-actions-to-restore-margins-302764444.html"
+        },
+        {
+          "label": "StockStory: WHR Misses, -19.5%",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-6-whirlpool-nysewhr-misses-q1-cy2026-sales-expectations-stock-drops-195"
+        },
+        {
+          "label": "WHR on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/WHR/"
+        }
+      ],
+      "publishDate": "2026-05-07T01:03:41.579Z"
+    },
     {
       "id": "arm-q4-fy26-earnings",
       "categories": [
