@@ -1,8 +1,270 @@
 {
-  "generatedAt": "2026-05-07T03:29:55.990Z",
+  "generatedAt": "2026-05-07T05:27:40.456Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "doc-q1-2026-earnings-janus-ipo",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Healthpeak Q1 2026 — FFO/sh $0.45 beats, raises FY26 EPS guide to $0.46–$0.50 after Janus Living IPO; DOC +13.6%",
+      "org": "Healthpeak Properties",
+      "date": "2026-05-05",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/healthpeak-properties-raises-2026-earnings-201500658.html",
+      "summary": "Healthpeak posted Q1 revenue of $753M and FFO as adjusted of $0.45/sh, then more than doubled its diluted EPS guide on the back of the Janus Living IPO and senior-housing buys. Stock surged ~13.6%.",
+      "tags": [
+        "earnings",
+        "ffo-beat",
+        "guide-raise",
+        "reit",
+        "senior-housing",
+        "janus-living-ipo",
+        "buyback",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DOC"
+      ],
+      "metrics": {
+        "Revenue": "$753M (+7% Y/Y)",
+        "FFO/sh (adj)": "$0.45 vs ~$0.43 est",
+        "Net income/sh": "$0.28",
+        "FY26 EPS guide": "$0.46–$0.50 (was $0.34–$0.38)",
+        "FY26 FFO/sh (adj) guide": "$1.71–$1.75",
+        "Janus IPO net proceeds": "$880M",
+        "Senior housing acquisitions": "$714M",
+        "Buyback": "5.9M shares at $16.81 (~$100M)",
+        "Move": "+13.6%"
+      },
+      "links": [
+        {
+          "label": "Yahoo Press Release",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/healthpeak-properties-raises-2026-earnings-201500658.html"
+        },
+        {
+          "label": "DOC 8-K (Stocktitan)",
+          "url": "https://www.stocktitan.net/sec-filings/DOC/8-k-healthpeak-properties-inc-reports-material-event-02795670a7cd.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/healthpeak-doc-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "DOC Quote",
+          "url": "https://www.cnbc.com/quotes/DOC"
+        }
+      ],
+      "explainer": {
+        "tagline": "Healthpeak crushes Q1 FFO and double-clicks 2026 EPS guidance after Janus Living IPO completes.",
+        "whatIsIt": "Healthpeak Properties, the medical-office and senior-housing REIT, reported Q1 2026 results on May 5 and simultaneously updated its full-year guidance to reflect the just-completed IPO of subsidiary Janus Living. Markets reacted with a ~13.6% pop on May 6.",
+        "howItWorks": "Q1 revenue came in at $753M vs $702.9M a year ago, with FFO as adjusted of $0.45/sh and net income of $0.28/sh — both topping the Street. The Janus Living IPO generated approximately $880M in net proceeds with Healthpeak retaining 81.6% ownership; on top of that the REIT closed $714M of senior-housing acquisitions and bought back 5.9M shares at an average $16.81. FY26 diluted EPS guide moved to $0.46–$0.50 from $0.34–$0.38 and FFO as adjusted to $1.71–$1.75/sh.",
+        "whyItMatters": "REIT earnings rarely move ≥10% on a print, so the size of the DOC move is the signal: the Janus IPO removed a sub-scale operating drag, the senior-housing buys are accretive at scale, and management raised the guide aggressively. Read-through goes to peer healthcare REITs (VTR, WELL) that share the same senior-housing recovery thesis.",
+        "forWho": "REIT and healthcare specialists",
+        "tryIt": "https://finance.yahoo.com/quote/DOC/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Healthpeak_Properties_logo.svg",
+        "alt": "Healthpeak Properties logo",
+        "fit": "contain"
+      },
+      "publishDate": "2026-05-07T05:27:40.456Z"
+    },
+    {
+      "id": "upst-q1-2026-earnings-margin-miss",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Upstart Q1 2026 — revenue +44% to $308M but adj EBITDA margin halves to 13% on $104M marketing spend; UPST -7.9%",
+      "org": "Upstart Holdings",
+      "date": "2026-05-05",
+      "url": "https://www.stocktitan.net/news/UPST/upstart-announces-first-quarter-2026-tt6aqny7vecq.html",
+      "summary": "Upstart's Q1 print beat on revenue (+44% Y/Y) and originations (+61%) but the adjusted EBITDA margin compressed to 13% from 20% as sales-and-marketing spending ballooned to $104.5M. Stock fell ~7.9% on May 6 with Piper Sandler cutting its price target.",
+      "tags": [
+        "earnings",
+        "fintech",
+        "ai-lending",
+        "margin-compression",
+        "marketing-spend",
+        "ebitda-miss",
+        "buyback",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UPST"
+      ],
+      "metrics": {
+        "Revenue": "$308M (+44% Y/Y)",
+        "Fee revenue": "$277M (+49% Y/Y)",
+        "Originations": "$3.4B (+61%) / 425,356 loans (+77%)",
+        "GAAP EPS": "-$0.07",
+        "Adj EBITDA": "$40.5M (margin 13% vs 20% Y/Y)",
+        "S&M expense": "$104.5M vs $59.0M Y/Y",
+        "FY26 revenue guide": "~$1.4B",
+        "FY26 adj EBITDA guide": "~$294M (~21% margin)",
+        "Buyback": "3.2M shares for $100M",
+        "Move": "-7.9% (May 6 close)"
+      },
+      "links": [
+        {
+          "label": "Upstart Q1 Press Release",
+          "url": "https://www.stocktitan.net/news/UPST/upstart-announces-first-quarter-2026-tt6aqny7vecq.html"
+        },
+        {
+          "label": "Why UPST Fell (Fool)",
+          "url": "https://www.fool.com/investing/2026/05/06/why-upstart-was-falling-today/"
+        },
+        {
+          "label": "UPST Quote",
+          "url": "https://www.cnbc.com/quotes/UPST"
+        }
+      ],
+      "explainer": {
+        "tagline": "AI lender's top-line accelerates, but a doubling of marketing spend cuts the EBITDA margin in half.",
+        "whatIsIt": "Upstart, the AI consumer-lending platform, reported Q1 2026 results on May 5. Revenue and originations both grew sharply, but adjusted EBITDA dollars fell year over year and the margin halved as the company aggressively scaled paid acquisition. The market took it as a Q1 quality-of-growth miss.",
+        "howItWorks": "Revenue rose 44% to $308M and originations climbed 61% to $3.4B (425,356 loans, +77% by count). Fee revenue alone grew 49% to $277M. But sales-and-marketing expense jumped to $104.5M from $59.0M a year ago, dragging adjusted EBITDA down to $40.5M (13% margin) versus $42.6M (20%) in Q1 2025. GAAP loss widened to $0.07/sh from $0.03/sh. Full-year guidance was reiterated at ~$1.4B revenue and ~$294M adjusted EBITDA, with management calling Q1 the low-margin quarter for the year.",
+        "whyItMatters": "Piper Sandler cut its price target to $46 the day after the print. The bull case on UPST is that AI-driven underwriting compounds at expanding margins; a 7-point margin haircut, even with full-year guide held, undermines the unit-economics narrative. Read-through to other AI-lending and fintech names that are leaning on paid acquisition to drive originations.",
+        "forWho": "Fintech specialists, growth-at-margin investors",
+        "tryIt": "https://finance.yahoo.com/quote/UPST/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/motleyfool.com/992fdb9efae038ba6474677beaf191b2",
+        "alt": "Upstart fintech loan approval app",
+        "fit": "cover"
+      },
+      "publishDate": "2026-05-07T05:27:40.456Z"
+    },
+    {
+      "id": "trump-tariff-refunds-cape-may-2026",
+      "categories": [
+        "regulatory",
+        "macro"
+      ],
+      "title": "First wave of $166B Trump tariff refunds begins paying out via CBP CAPE system; refunds scheduled to ramp from May 12",
+      "org": "U.S. Customs and Border Protection",
+      "date": "2026-05-06",
+      "url": "https://www.cbp.gov/trade/programs-administration/trade-remedies/ieepa-duty-refunds",
+      "summary": "Trade lawyers told Bloomberg some clients have received tariff refund payments as of May 6, with the first batch of broad refunds scheduled to start May 12. CBP is consolidating ~$166B in IEEPA duties paid by 333,000+ importers via a new CAPE portal.",
+      "tags": [
+        "tariffs",
+        "trump-tariffs",
+        "ieepa",
+        "refunds",
+        "cbp",
+        "supreme-court",
+        "trade",
+        "cape-portal"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Refunds total": "~$166B",
+        "Importers affected": ">333,000",
+        "Shipments covered": "~53M",
+        "First refunds paid": "May 6, 2026",
+        "Broad ramp begins": "May 12, 2026",
+        "Refund timeline (per CBP)": "60–90 days post-acceptance"
+      },
+      "links": [
+        {
+          "label": "CBP IEEPA Refunds",
+          "url": "https://www.cbp.gov/trade/programs-administration/trade-remedies/ieepa-duty-refunds"
+        },
+        {
+          "label": "CBP Fact Sheet",
+          "url": "https://www.cbp.gov/document/fact-sheets/fact-sheet-ieepa-duty-refunds"
+        },
+        {
+          "label": "Fox: Refund Portal Launch",
+          "url": "https://www.foxnews.com/politics/supreme-court-blow-trump-admin-launches-166b-tariff-refund-portal"
+        },
+        {
+          "label": "Fortune: Tariff Damage",
+          "url": "https://fortune.com/2026/05/06/liberation-day-trump-tariffs-damage-economy-moody-zandi/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Importers start cashing in on the Supreme Court's IEEPA tariff ruling.",
+        "whatIsIt": "U.S. Customs and Border Protection's Consolidated Administration and Processing of Entries (CAPE) tool, launched April 20, is now actively paying refunds to importers who paid tariffs imposed under the International Emergency Economic Powers Act (IEEPA) before the Supreme Court invalidated those tariffs in February 2026. Bloomberg reported on May 6 that the first refund payments have hit importers' bank accounts.",
+        "howItWorks": "More than 333,000 importers paid roughly $166B across ~53M shipments while the IEEPA tariffs were in effect. CAPE consolidates refund claims rather than processing entry-by-entry; CBP estimates 60–90 days from claim acceptance to payout. The first wave of broad refunds is scheduled to begin May 12. The Supreme Court ruled in February that the use of IEEPA to impose global tariffs exceeded presidential authority, with Congress holding the constitutional power to impose tariffs.",
+        "whyItMatters": "$166B is a meaningful liquidity injection back into U.S. importers — retailers, electronics distributors, auto-parts firms — and removes a tail risk that has been weighing on covered names. It also underscores that any future tariff strategy needs a different statutory basis (Section 122 has been used for a 10% global rate through July 24). Watch retailer margins, freight forwarders, and small-cap consumer names that disclosed material tariff exposure for upgrades on confirmed cash receipts.",
+        "forWho": "Macro traders, retail / freight / consumer discretionary specialists"
+      },
+      "image": {
+        "url": "https://www.cbp.gov/sites/default/files/cbp-seal-1200-630-px-2021.jpg",
+        "alt": "U.S. Customs and Border Protection seal",
+        "fit": "contain"
+      },
+      "publishDate": "2026-05-07T05:27:40.456Z"
+    },
+    {
+      "id": "btc-tops-82k-may-6-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Bitcoin tops $82K — highest since January — as April spot ETF inflows hit $2.44B and Iran de-escalation boosts risk",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-05-06",
+      "url": "https://news.bitcoin.com/bitcoin-breaks-81000-etf-inflows-iran-deescalation-short-squeeze-may-2026/",
+      "summary": "Bitcoin pushed through $82,000 on May 6 to its highest level since January 31, propelled by $2.44B of April U.S. spot ETF inflows (BlackRock IBIT 70% market share), Iran de-escalation, and a $80K options short squeeze.",
+      "tags": [
+        "btc",
+        "spot-etf",
+        "ibit",
+        "iran-deescalation",
+        "short-squeeze",
+        "macro-tailwind",
+        "blackrock"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD"
+      ],
+      "metrics": {
+        "BTC price (May 6 high)": "~$82,305",
+        "Highest since": "January 31, 2026",
+        "April spot ETF inflows": "$2.44B (best month since Oct-2025)",
+        "IBIT share of April flows": "$1.71B (~70%)",
+        "Largest May options OI": "$80K strike (May 29 expiry)",
+        "Drawdown from Oct-2025 peak": "~-35% from $126K"
+      },
+      "links": [
+        {
+          "label": "News.Bitcoin: $81K Break",
+          "url": "https://news.bitcoin.com/bitcoin-breaks-81000-etf-inflows-iran-deescalation-short-squeeze-may-2026/"
+        },
+        {
+          "label": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crosses-81000-january"
+        },
+        {
+          "label": "Yahoo: BTC at Multi-Month High",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html"
+        },
+        {
+          "label": "Fortune: BTC Price",
+          "url": "https://fortune.com/article/price-of-bitcoin-05-06-2026/"
+        }
+      ],
+      "explainer": {
+        "tagline": "BTC reclaims a four-month high as institutional ETF demand and Iran de-escalation align.",
+        "whatIsIt": "Bitcoin traded above $82,000 on May 6, its highest level since January 31. The move came on the back of three concurrent forces: heavy April spot-ETF inflows ($2.44B, the best month since October 2025), reports of progress toward a U.S.–Iran memorandum of understanding, and a derivatives setup with the largest open-interest concentrated at the $80K strike.",
+        "howItWorks": "U.S. spot bitcoin ETFs absorbed $2.44B of net inflows in April; BlackRock's IBIT alone took ~$1.71B of that, holding roughly a 70% market share among issuers. The price had been pinned below $80K for weeks, with options traders piling into cheap upside calls anchored at the $80K May 29 strike — once spot pushed through, that positioning catalyzed a short squeeze. Daily May 4 net inflows were a separately tracked $532M, the third straight day of net buying.",
+        "whyItMatters": "$82K marks a clean break above the multi-month range and the next resistance bands at $85K / $90K become the focus. From here, BTC's path is more dependent on continued ETF demand and macro risk-on (DXY softness, Iran ceasefire holding) than on retail-driven flows. Read-through hits MSTR, COIN, miners and BTC-tracking equities.",
+        "forWho": "Crypto desks, macro traders",
+        "tryIt": "https://finance.yahoo.com/quote/BTC-USD/"
+      },
+      "image": {
+        "url": "https://static.news.bitcoin.com/wp-content/uploads/2026/05/bitcoin-breaks-81000-behind-etf-inflows-iran-de-escalation-and-a-short-squeeze.jpg",
+        "alt": "Bitcoin breaks $81,000 amid ETF inflows and Iran de-escalation",
+        "fit": "cover"
+      },
+      "publishDate": "2026-05-07T05:27:40.456Z"
+    },
     {
       "id": "ftnt-q1-2026-earnings",
       "categories": [

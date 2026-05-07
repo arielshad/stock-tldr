@@ -647,6 +647,52 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260507t052740z",
+      "timestamp": "2026-05-07T05:27:40.456Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh adds: Healthpeak (DOC) Q1 with Janus Living IPO drives a 13.6% pop and a doubled FY26 EPS guide; Upstart (UPST) -7.9% as Q1 EBITDA margin halves on $104M marketing spend; Trump tariff refunds ($166B IEEPA) start paying out via CBP's CAPE portal; Bitcoin breaks $82K — highest since January — on $2.44B April ETF inflows.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "doc-q1-2026-earnings-janus-ipo",
+          "title": "Healthpeak Q1 2026 — FFO/sh $0.45 beats, raises FY26 EPS guide to $0.46–$0.50 after Janus Living IPO; DOC +13.6%",
+          "category": "earnings",
+          "note": "DOC ripped 13.6% on a Q1 FFO beat plus a >2x lift to FY26 EPS guide following the Janus Living IPO completion — significant for a REIT."
+        },
+        {
+          "id": "upst-q1-2026-earnings-margin-miss",
+          "title": "Upstart Q1 2026 — revenue +44% to $308M but adj EBITDA margin halves to 13% on $104M marketing spend; UPST -7.9%",
+          "category": "mover",
+          "note": "Stock down ~7.9% with named catalyst (margin halving on marketing spend) and Piper Sandler PT cut — clean mover with primary-source-confirmed prints."
+        },
+        {
+          "id": "trump-tariff-refunds-cape-may-2026",
+          "title": "First wave of $166B Trump tariff refunds begins paying out via CBP CAPE system; refunds scheduled to ramp from May 12",
+          "category": "regulatory",
+          "note": "First refund payouts of $166B in IEEPA tariffs began hitting importer accounts May 6 per Bloomberg; macro/regulatory event with broad consumer-discretionary read-through."
+        },
+        {
+          "id": "btc-tops-82k-may-6-2026",
+          "title": "Bitcoin tops $82K — highest since January — as April spot ETF inflows hit $2.44B and Iran de-escalation boosts risk",
+          "category": "crypto",
+          "note": "Distinct from the existing May 4 $532M ETF flows item — this is the price-level breakout above $80K (highest since Jan 31) driven by April aggregate flows and Iran de-escalation."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "macro",
+        "crypto"
+      ]
     }
   ]
 }
