@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-05-07T16:53:26.483Z",
+  "generatedAt": "2026-05-07T18:50:29.859Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ddog-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Datadog Q1 2026 — revenue $1.006B (+32%) crosses $1B for the first time, non-GAAP EPS $0.60 vs $0.51 est, raises FY26 guide; DDOG ~+28% intraday",
+      "org": "Datadog",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3289822/0/en/datadog-announces-first-quarter-2026-financial-results.html",
+      "summary": "Datadog Q1 revenue $1.006B grows 32% Y/Y, first $1B quarter; non-GAAP EPS $0.60 beats $0.51 est, FCF $289M, $100k+ ARR customers +21% Y/Y; raises FY26 revenue guide to $4.30–$4.34B. DDOG ~+28%.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "ai-observability",
+        "q1-2026",
+        "saas",
+        "free-cash-flow"
+      ],
+      "tickers": [
+        "DDOG"
+      ],
+      "metrics": {
+        "Revenue": "$1.006B (+32% Y/Y)",
+        "EPS (non-GAAP)": "$0.60 vs $0.51 est",
+        "Op. income (non-GAAP)": "$223M (22% margin)",
+        "Free cash flow": "$289M",
+        "$100k+ ARR customers": "~4,550 (+21% Y/Y)",
+        "FY26 rev. guide": "$4.30–$4.34B (raised)",
+        "Move": "~+28% intraday"
+      },
+      "importance": "major",
+      "explainer": {
+        "tagline": "Datadog crosses $1B in quarterly revenue for the first time as AI workloads keep flowing into observability.",
+        "whatIsIt": "Datadog reported Q1 2026 results on May 7. Revenue and earnings beat consensus and the company raised its full-year outlook, with management citing AI-driven workload growth and faster expansion among its largest customers.",
+        "howItWorks": "Revenue was $1,006M, up 32% Y/Y — the first $1B+ quarter. Non-GAAP EPS was $0.60 vs $0.51 est. Non-GAAP operating income hit $223M (22% margin); GAAP operating income was $7M (1% margin). Free cash flow was $289M. $100k+ ARR customers grew to ~4,550 from ~3,770 a year earlier. FY26 guide was lifted to $4.30–$4.34B revenue (25–27% growth) and $2.36–$2.44 non-GAAP EPS. Q2 revenue guide is $1.07–$1.08B, above Street.",
+        "whyItMatters": "Shares ran roughly 28% on the day, the largest single-session move in years, on confirmation that AI inference and agent workloads are translating into higher cloud-monitoring spend. The print reads through positively to infra-software peers (Dynatrace, MongoDB, Snowflake) and reinforces the AI-capex-meets-software thesis after AMD's Q1 beat earlier in the week.",
+        "forWho": "software/infra equity desks, AI capex bulls",
+        "tryIt": "https://finance.yahoo.com/quote/DDOG"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/edde3b32-cb96-4a2a-a453-0e3710949ddc",
+        "alt": "Datadog Q1 2026 earnings press release header",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire PR",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3289822/0/en/datadog-announces-first-quarter-2026-financial-results.html"
+        },
+        {
+          "label": "StockTitan PR Mirror",
+          "url": "https://www.stocktitan.net/news/DDOG/datadog-announces-first-quarter-2026-financial-wceudctqtekl.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-announces-first-quarter-2026-110000045.html"
+        },
+        {
+          "label": "DDOG Quote",
+          "url": "https://finance.yahoo.com/quote/DDOG"
+        }
+      ],
+      "publishDate": "2026-05-07T18:50:29.859Z"
+    },
+    {
+      "id": "hawk-ipo-debut-may-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "HawkEye 360 (HAWK) NYSE debut — prices $416M IPO at $26 top of range, opens $33.92 (~+30%) at ~$2.4B implied valuation",
+      "org": "HawkEye 360",
+      "date": "2026-05-07",
+      "url": "https://www.prnewswire.com/news-releases/hawkeye-360-announces-pricing-of-initial-public-offering-302764833.html",
+      "summary": "Space-based RF intelligence firm HawkEye 360 prices 16M shares at $26 (top of $24–$26 range), raises $416M, opens +30% at $33.92 on NYSE debut at ~$2.4B valuation; Goldman/Morgan Stanley led.",
+      "tags": [
+        "ipo",
+        "nyse-debut",
+        "defense-tech",
+        "space",
+        "rf-intelligence",
+        "signals-intelligence",
+        "goldman-sachs",
+        "morgan-stanley"
+      ],
+      "tickers": [
+        "HAWK"
+      ],
+      "metrics": {
+        "IPO price": "$26.00 (top of $24–$26)",
+        "Shares offered": "16M (+2.4M overallotment)",
+        "Gross proceeds": "$416M",
+        "Opening price": "$33.92",
+        "First-day pop": "~+30%",
+        "Implied valuation": "~$2.4B",
+        "Lead bookrunners": "Goldman Sachs, Morgan Stanley"
+      },
+      "importance": "notable",
+      "explainer": {
+        "tagline": "Space-based RF intelligence firm HawkEye 360 lands on the NYSE at $33.92, ~+30% above its $26 IPO price.",
+        "whatIsIt": "HawkEye 360 began trading under the ticker HAWK on the NYSE on May 7. The deal priced on May 6 at $26 — top of the marketed $24–$26 range — placing 16 million shares for $416M in gross proceeds. Underwriters hold a 30-day overallotment for an additional 2.4M shares.",
+        "howItWorks": "Shares opened at $33.92, roughly 30% above the IPO price. The deal valued the company at ~$2.4B at the issue price. Goldman Sachs and Morgan Stanley led as joint book-running managers, with RBC Capital Markets, Jefferies, and BofA Securities as additional bookrunners. The company operates a constellation of small satellites that detects, geolocates, and characterizes radio-frequency emissions for U.S. and allied defense, intelligence, and national security customers.",
+        "whyItMatters": "HAWK is the most-watched defense-tech IPO of 2026 to date and a reference point for the late-stage defense-and-space pipeline (Anduril, Voyager, K2 Space) eyeing a 2026 window. A clean +30% open through Goldman/Morgan Stanley validates investor appetite for primary defense-tech paper and reads positively for Seraphim Space Investment Trust (LON: SSIT), a pre-IPO holder.",
+        "forWho": "IPO desks, defense-tech allocators",
+        "tryIt": "https://finance.yahoo.com/quote/HAWK"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1713077/HawkEye-360-Corp-Logo.jpg?id=OA2632787&p=facebook",
+        "alt": "HawkEye 360 corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Pricing Press Release",
+          "url": "https://www.prnewswire.com/news-releases/hawkeye-360-announces-pricing-of-initial-public-offering-302764833.html"
+        },
+        {
+          "label": "NYSE Update",
+          "url": "https://www.prnewswire.com/apac/news-releases/nyse-content-update-hawkeye-360-to-start-trading-after-its-416-million-ipo-302765708.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hawkeye-360-ipo-raises-416-121551733.html"
+        },
+        {
+          "label": "Seraphim Note",
+          "url": "https://www.lse.co.uk/news/seraphim-space-notes-hawkeye-360-ipo-equity-valuation-usd284-billion-wut65t5uib0bv6x.html"
+        }
+      ],
+      "publishDate": "2026-05-07T18:50:29.859Z"
+    },
     {
       "id": "rxt-q1-2026-earnings-amd-pact",
       "categories": [

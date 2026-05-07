@@ -908,6 +908,41 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260507t185029z",
+      "timestamp": "2026-05-07T18:50:29.859Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items: Datadog Q1 2026 (first $1B+ quarter, raised guide, ~+28% on the day) and HawkEye 360's NYSE IPO debut (HAWK +30% pop). Skipped padding on smaller earnings/M&A names already adjacent to the existing 64-item feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ddog-q1-2026-earnings",
+          "title": "Datadog Q1 2026 — revenue $1.006B (+32%) crosses $1B for the first time, non-GAAP EPS $0.60 vs $0.51 est, raises FY26 guide; DDOG ~+28% intraday",
+          "category": "earnings",
+          "note": "First $1B+ quarter, raised FY26 guide, ~+28% intraday — clearest big-cap software earnings move on the day. Confirmed via globenewswire press release."
+        },
+        {
+          "id": "hawk-ipo-debut-may-2026",
+          "title": "HawkEye 360 (HAWK) NYSE debut — prices $416M IPO at $26 top of range, opens $33.92 (~+30%) at ~$2.4B implied valuation",
+          "category": "ipo",
+          "note": "Largest defense-tech IPO of 2026 so far; +30% NYSE debut and a clean read-through to the late-stage defense pipeline. Prices/shares confirmed in PRNewswire pricing release."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "ipo",
+        "mover",
+        "macro",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
