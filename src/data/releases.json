@@ -1,8 +1,352 @@
 {
-  "generatedAt": "2026-05-07T18:50:29.859Z",
+  "generatedAt": "2026-05-07T20:43:49.178Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "vst-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mna"
+      ],
+      "title": "Vistra Q1 2026 — net income $1.03B vs ($268M) loss prior year, EBITDA $1.49B; reaffirms FY26 guide while Cogentrix close and Meta nuclear PPA still ahead",
+      "org": "Vistra",
+      "date": "2026-05-07",
+      "url": "https://www.prnewswire.com/news-releases/vistra-reports-first-quarter-2026-results-302765015.html",
+      "summary": "Vistra swung to a $1.03B Q1 profit on $1.49B Adjusted EBITDA, reaffirmed FY26 guidance of $6.8–$7.6B EBITDA, and pointed to the pending 5,500-MW Cogentrix close and Meta PJM nuclear PPAs as upside.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "power",
+        "ipps",
+        "natural-gas",
+        "nuclear",
+        "ai-power",
+        "data-center",
+        "cogentrix",
+        "meta-ppa",
+        "guidance-reaffirmed"
+      ],
+      "importance": "major",
+      "tickers": [
+        "VST",
+        "META"
+      ],
+      "metrics": {
+        "Net Income": "$1,029M (vs -$268M Q1 2025)",
+        "Adj EBITDA": "$1,494M (vs $1,240M)",
+        "Revenue": "$5,640M (vs $3,933M)",
+        "FY26 EBITDA Guide": "$6.80–$7.60B (reaffirmed)",
+        "Move": "-1.8%"
+      },
+      "explainer": {
+        "tagline": "Vistra prints $1.03B Q1 profit and points to Cogentrix + Meta nuclear PPAs as the next legs of the AI-power story.",
+        "whatIsIt": "Vistra Corp., the largest U.S. independent power producer with the country's second-biggest nuclear fleet, reported Q1 2026 results before the bell on May 7. The company swung from a Q1 2025 GAAP net loss of $268M to net income of $1,029M, helped by a $723M unrealized hedge gain.",
+        "howItWorks": "Operating revenues rose to $5.64B from $3.93B a year earlier and Ongoing Operations Adjusted EBITDA reached $1,494M (vs $1,240M). Management reaffirmed full-year 2026 Ongoing Operations Adjusted EBITDA guidance of $6.8–$7.6B and Adjusted FCFbG guidance of $3.925–$4.725B. The $1.5B remaining buyback authorization stays in place after roughly $6.3B repurchased since November 2021, cutting share count ~30%.",
+        "whyItMatters": "The reaffirmed guide explicitly excludes the 5,500-MW Cogentrix natural-gas portfolio, which Vistra still expects to close in H2 2026, and the recently signed long-term Meta power purchase agreements at PJM nuclear sites that begin contributing to EBITDA in 2027. With Fitch joining S&P at investment grade, Vistra is positioning itself as the lowest-cost option for hyperscalers signing 24/7 clean-power contracts. Stock fell ~1.8% on the day as the print included no headline guide raise.",
+        "forWho": "AI-power and IPP traders, utilities desks",
+        "tryIt": "https://finance.yahoo.com/quote/VST"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/1393749/Vistra_Corp_Logo.jpg?p=facebook",
+        "alt": "Vistra Corp. logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/vistra-reports-first-quarter-2026-results-302765015.html"
+        },
+        {
+          "label": "8-K Summary",
+          "url": "https://www.stocktitan.net/news/VST/vistra-reports-first-quarter-2026-3bxu8ev9jw5b.html"
+        },
+        {
+          "label": "Yahoo Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eyes-vistras-q1-earnings-lies-141600633.html"
+        },
+        {
+          "label": "VST Quote",
+          "url": "https://finance.yahoo.com/quote/VST"
+        }
+      ],
+      "publishDate": "2026-05-07T20:43:49.178Z"
+    },
+    {
+      "id": "ttd-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Trade Desk Q1 2026 — revenue $689M (+12%) beats but adj EPS $0.28 misses $0.32; Q2 guide above Street, stock plunges ~14% AH",
+      "org": "The Trade Desk",
+      "date": "2026-05-07",
+      "url": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "Trade Desk beat on revenue at $689M (+12%) but adj EPS of $0.28 missed $0.32 estimates and adj EBITDA was flat at $206M; Q2 guide of $750M+ revenue and $260M EBITDA fell short of the bull case and TTD plunged ~14% AH.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "adtech",
+        "programmatic",
+        "ctv",
+        "guidance",
+        "eps-miss",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TTD"
+      ],
+      "metrics": {
+        "Revenue": "$689M (+12% Y/Y)",
+        "Adj EBITDA": "$206M (vs $208M Y/Y)",
+        "Non-GAAP EPS": "$0.28 (vs $0.32 est)",
+        "GAAP EPS": "$0.08",
+        "Q2 Revenue Guide": "≥$750M",
+        "Q2 EBITDA Guide": "~$260M",
+        "Move": "~-14% AH"
+      },
+      "explainer": {
+        "tagline": "Top-line beat and a $750M+ Q2 guide weren't enough — Trade Desk shares cratered ~14% AH on EPS miss and shrinking margins.",
+        "whatIsIt": "The Trade Desk, the largest independent demand-side advertising platform, reported Q1 2026 results after the bell on May 7. The print was a textbook beat-and-miss: revenue of $689M beat the $679M consensus but non-GAAP EPS of $0.28 missed by 4 cents, and adjusted EBITDA was flat at $206M.",
+        "howItWorks": "Revenue grew 12% Y/Y, a sharp deceleration from the prior year's 25%. Adjusted EBITDA margin contracted from 34% to 30% and GAAP net income fell to $40M from $51M. Q2 guidance called for revenue of at least $750M and adjusted EBITDA of approximately $260M. Customer retention stayed above 95% and TTD repurchased $164M of stock during the quarter, leaving $327M authorized.",
+        "whyItMatters": "The 14% AH plunge takes TTD back near its 52-week lows and signals investors are no longer willing to pay a premium for sub-15% growth. The miss raises questions about how Kokai (the AI-powered platform overhaul rolled out last year) is actually scaling, and whether agency-tier ad budgets are reallocating to walled gardens (Amazon, YouTube). Comp tickers PUBM, MGNI and ad-name DV likely take a sympathy hit on the open.",
+        "forWho": "Adtech/CTV traders, growth-equity desks",
+        "tryIt": "https://finance.yahoo.com/quote/TTD"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Trade_Desk.svg/1280px-The_Trade_Desk.svg.png",
+        "alt": "The Trade Desk wordmark logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Reports-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52390082/the-trade-desk-stock-tumbles-after-q1-earnings-miss-estimates"
+        },
+        {
+          "label": "Stocktitan 8-K",
+          "url": "https://www.stocktitan.net/sec-filings/TTD/8-k-trade-desk-inc-reports-material-event-49ff1c8ccedc.html"
+        },
+        {
+          "label": "TTD Quote",
+          "url": "https://finance.yahoo.com/quote/TTD"
+        }
+      ],
+      "publishDate": "2026-05-07T20:43:49.178Z"
+    },
+    {
+      "id": "coin-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "crypto"
+      ],
+      "title": "Coinbase Q1 2026 — net loss $394M and adj EBITDA $303M; trading-volume share hits ATH 8.6%, derivatives revenue tops $200M annualized, prediction markets at $100M ARR",
+      "org": "Coinbase",
+      "date": "2026-05-07",
+      "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx",
+      "summary": "Coinbase posted Q1 net loss of $394M and Adjusted EBITDA of $303M, but flagged a record 8.6% global crypto trading-volume market share, $200M+ annualized retail derivatives revenue and prediction markets ramping to $100M ARR in two months.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "crypto",
+        "derivatives",
+        "prediction-markets",
+        "stablecoins",
+        "usdc",
+        "base-l2",
+        "coinbase",
+        "layoffs"
+      ],
+      "importance": "major",
+      "tickers": [
+        "COIN",
+        "BTC-USD",
+        "ETH-USD"
+      ],
+      "metrics": {
+        "Net Loss": "$(394.1)M",
+        "Adj EBITDA": "$303.3M",
+        "Crypto Trading Volume Share": "8.6% (ATH)",
+        "Retail Derivatives Revenue (annualized)": ">$200M",
+        "Prediction Markets ARR": ">$100M",
+        "USDC On-Platform (avg)": "$19B (>25% of supply)"
+      },
+      "explainer": {
+        "tagline": "Net loss but record trading-volume share — and derivatives + prediction markets are scaling faster than the legacy spot business is shrinking.",
+        "whatIsIt": "Coinbase Global, the largest U.S.-listed crypto exchange, reported Q1 2026 results after the bell on May 7. Q1 was a tough macro backdrop — BTC fell 22% in the quarter and ETH dropped 41%, hitting trading volumes industry-wide — but Coinbase took share and showed traction in adjacent product lines.",
+        "howItWorks": "GAAP net loss came in at $394.1M with Adjusted EBITDA of $303.3M. Global crypto trading-volume market share hit a new all-time-high of 8.6%, trailing-twelve-month derivatives volume grew 169% Y/Y, and retail derivatives are now generating over $200M of annualized revenue. Prediction markets — barely two months live — are at over $100M annualized run-rate. Coinbase carries roughly $19B of average USDC on-platform (>25% of total USDC supply), and Base settled 62% of all global onchain stablecoin transaction volume in the quarter.",
+        "whyItMatters": "The print lands two days after CEO Brian Armstrong cut 700 jobs (14% of headcount), citing cost growth that outran the bull market. Net loss is dominated by non-cash markdowns on Coinbase's crypto holdings and Circle stake, not core ops, so the bull thesis hinges on whether derivatives + stablecoins + prediction markets can offset a structurally smaller spot-trading business. COIN is a key barometer for crypto-equity proxies and ETH-Layer-2 names alike.",
+        "forWho": "Crypto-equity traders, fintech desks",
+        "tryIt": "https://finance.yahoo.com/quote/COIN"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Coinbase.svg/1280px-Coinbase.svg.png",
+        "alt": "Coinbase wordmark logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx"
+        },
+        {
+          "label": "Quarterly Results Hub",
+          "url": "https://investor.coinbase.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "Layoff Coverage",
+          "url": "https://www.cnbc.com/2026/05/05/coinbase-cuts-headcount-by-14percent-citing-ai-acceleration-the-shares-are-gaining.html"
+        },
+        {
+          "label": "COIN Quote",
+          "url": "https://finance.yahoo.com/quote/COIN"
+        }
+      ],
+      "publishDate": "2026-05-07T20:43:49.178Z"
+    },
+    {
+      "id": "mchp-q4-fy26-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Microchip Q4 FY26 — revenue $1.311B (+35% Y/Y, +11% Q/Q) tops guide, non-GAAP EPS $0.57 vs $0.48–$0.52 guide; Q1 FY27 revenue guide $1.456B as AI/data-center design wins build",
+      "org": "Microchip Technology",
+      "date": "2026-05-07",
+      "url": "https://ir.microchip.com/news-events/press-releases/detail/1387/microchip-technology-announces-financial-results-for-fourth-quarter-and-fiscal-year-2026",
+      "summary": "Microchip's FQ4 print blew through the high end of guidance — revenue $1.311B (+35% Y/Y), non-GAAP EPS $0.57, gross margin 61.6% — and the FQ1 FY27 guide of $1.456B (+11% Q/Q) added to the analog-recovery + AI-datacenter narrative.",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "semis",
+        "analog",
+        "microcontrollers",
+        "ai-data-center",
+        "pcie-gen6",
+        "guidance-raise",
+        "recovery"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MCHP",
+        "ON",
+        "TXN",
+        "ADI"
+      ],
+      "metrics": {
+        "Revenue": "$1,311M (+35.1% Y/Y, +10.6% Q/Q)",
+        "Non-GAAP EPS": "$0.57 (vs $0.48–$0.52 guide)",
+        "GAAP EPS": "$0.21",
+        "Non-GAAP Gross Margin": "61.6%",
+        "FQ1 FY27 Revenue Guide": "$1.456B midpoint (+35% Y/Y, +11% Q/Q)",
+        "FQ1 FY27 EPS Guide": "$0.67–$0.71"
+      },
+      "explainer": {
+        "tagline": "Microchip blows past the high end of guide and signals another sequential step-up — analog/MCU cycle has clearly turned.",
+        "whatIsIt": "Microchip Technology, the analog/microcontroller and FPGA supplier, reported its FQ4 (March 2026 quarter) and full-year results after the bell on May 7. Both top and bottom lines came in well above the company's own guidance, capping a steep recovery from the late-2024 inventory trough.",
+        "howItWorks": "Q4 revenue of $1.311B beat the $1.27B Street estimate and topped Microchip's own $1.26B (+/- $20M) guide midpoint, growing 35.1% Y/Y and 10.6% sequentially. Non-GAAP EPS of $0.57 cleared the $0.48–$0.52 guide range; non-GAAP gross margin reached 61.6%. Management guided FQ1 FY27 to revenue of $1.456B at the midpoint (+35.3% Y/Y, +11.0% Q/Q) and non-GAAP EPS of $0.67–$0.71. CEO Steve Sanghi flagged 'broad-based improvement' and continued progress on the nine-point recovery plan.",
+        "whyItMatters": "MCHP's print is one of the cleanest data points yet that the broad analog/MCU cycle has turned, with management explicitly calling out 'strong customer engagement and expanding design activity in data center and AI applications' driven by Gen6 PCIe retimer wins. Reads through to ADI, ON, TXN and STM, and supports the narrative that the AI capex wave is now broadening beyond GPUs into power-management, optics, retimers and connectivity silicon.",
+        "forWho": "Semis traders, analog/AI-infrastructure desks",
+        "tryIt": "https://finance.yahoo.com/quote/MCHP"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_2ffc281f6a8ad1069df986a764dd052f/microchip/db/939/7884/social_image_resized.jpg",
+        "alt": "Microchip Technology Q4 FY2026 financial results announcement",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://ir.microchip.com/news-events/press-releases/detail/1387/microchip-technology-announces-financial-results-for-fourth-quarter-and-fiscal-year-2026"
+        },
+        {
+          "label": "Yahoo Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-report-q4-earnings-whats-164100474.html"
+        },
+        {
+          "label": "Q3 FY26 Comparable",
+          "url": "https://ir.microchip.com/news-events/press-releases/detail/1364/microchip-technology-announces-financial-results-for-third-quarter-of-fiscal-year-2026"
+        },
+        {
+          "label": "MCHP Quote",
+          "url": "https://finance.yahoo.com/quote/MCHP"
+        }
+      ],
+      "publishDate": "2026-05-07T20:43:49.178Z"
+    },
+    {
+      "id": "soun-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "SoundHound AI Q1 2026 — record $44.2M revenue (+52%, +88% ex-acquisitions in core auto/IoT); launches OASYS agentic-AI platform, reaffirms 2026 guide $225–260M",
+      "org": "SoundHound AI",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3290524/0/en/soundhound-ai-reports-record-q1-revenue-of-44-2-million-up-52.html",
+      "summary": "SoundHound AI posted record Q1 revenue of $44.2M (+52% Y/Y, +88% ex-acquisitions in core auto/IoT), launched its 'OASYS' agentic-AI platform, and reaffirmed FY26 guide of $225–260M with a 2027 outlook of $350–400M including LivePerson.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "voice-ai",
+        "agentic-ai",
+        "oasys",
+        "liveperson",
+        "small-cap",
+        "automotive-ai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "SOUN",
+        "LPSN"
+      ],
+      "metrics": {
+        "Revenue": "$44.2M (+52% Y/Y)",
+        "Revenue ex-acquisitions (auto/IoT)": "+88% Y/Y",
+        "GAAP Net Loss": "$25.0M",
+        "GAAP Gross Margin": "31.1%",
+        "Non-GAAP Gross Margin": "49.7%",
+        "Cash": "$216M (no debt)",
+        "FY26 Revenue Guide": "$225–$260M (reaffirmed)",
+        "FY27 Revenue Guide (incl LivePerson)": "$350–$400M"
+      },
+      "explainer": {
+        "tagline": "Record Q1 print, agentic-AI platform launch, and a 2027 guide that bakes in the pending LivePerson deal — SoundHound is hunting Fortune 100 enterprise budgets.",
+        "whatIsIt": "SoundHound AI, the conversational/voice-AI vendor, reported Q1 2026 results after the bell on May 7. The company also launched OASYS, which it pitches as a self-learning orchestrated agentic-AI platform that can spin up, evaluate and improve agents autonomously.",
+        "howItWorks": "Q1 revenue of $44.2M was up 52% Y/Y (a Q1 record) and the core automotive/IoT vertical grew 88% Y/Y excluding the impact of acquisitions. GAAP net loss was $25.0M; gross margin was 31.1% GAAP / 49.7% non-GAAP. The company exited Q1 with $216M of cash and no debt. FY26 revenue guidance of $225–$260M was reaffirmed; the 2027 outlook of $350–$400M is contingent on closing the previously announced LivePerson acquisition (all-stock, ~$43M equity / ~$250M EV, expected H2 2026).",
+        "whyItMatters": "SoundHound's Q1 puts a number on its claim of 88% organic growth in the AI vertical that's hardest to fake (in-vehicle voice). Combined with the OASYS launch, the company is making a play to compete with the big-vendor agentic-AI stacks (Salesforce, ServiceNow, Microsoft Copilot) in customer-experience workflows. The reaffirmed guide gives bulls a clean target; the LivePerson close gives bears something to pick at.",
+        "forWho": "Voice/agentic-AI traders, small-cap growth desks"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/c9de3685-42dc-4886-af0e-ba6a91e710db",
+        "alt": "SoundHound AI Q1 2026 results announcement",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3290524/0/en/soundhound-ai-reports-record-q1-revenue-of-44-2-million-up-52.html"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investors.soundhound.com/"
+        },
+        {
+          "label": "Q1 Earnings Call Coverage",
+          "url": "https://247wallst.com/investing/2026/05/07/live-soundhound-ais-q1-earnings-could-strong-results-tonight-drive-a-rebound/"
+        },
+        {
+          "label": "SOUN Quote",
+          "url": "https://finance.yahoo.com/quote/SOUN"
+        }
+      ],
+      "publishDate": "2026-05-07T20:43:49.178Z"
+    },
     {
       "id": "ddog-q1-2026-earnings",
       "categories": [

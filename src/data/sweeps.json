@@ -943,6 +943,58 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260507t204349z",
+      "timestamp": "2026-05-07T20:43:49.178Z",
+      "source": "github-actions-sweep",
+      "summary": "Heavy after-hours earnings sweep on a busy May 7: Vistra Q1 + Cogentrix/Meta context, Trade Desk's 14% AH plunge on adj-EPS miss, Coinbase's resilient Q1 with derivatives + prediction-markets traction, Microchip beating the high end of its guide on AI/data-center demand, and SoundHound's record Q1 print with OASYS launch.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "vst-q1-2026-earnings",
+          "title": "Vistra Q1 2026 — net income $1.03B vs ($268M) loss prior year, EBITDA $1.49B; reaffirms FY26 guide while Cogentrix close and Meta nuclear PPA still ahead",
+          "category": "earnings",
+          "note": "Strong Q1 swing to profit and reaffirmed FY26 guide that explicitly excludes pending Cogentrix M&A close and Meta nuclear PPAs — clear AI-power read-through."
+        },
+        {
+          "id": "ttd-q1-2026-earnings",
+          "title": "Trade Desk Q1 2026 — revenue $689M (+12%) beats but adj EPS $0.28 misses $0.32; Q2 guide above Street, stock plunges ~14% AH",
+          "category": "earnings",
+          "note": "Single-name ~14% AH plunge on adj EPS miss despite revenue beat and Q2 guide above Street — meets mover bar, big adtech bellwether."
+        },
+        {
+          "id": "coin-q1-2026-earnings",
+          "title": "Coinbase Q1 2026 — net loss $394M and adj EBITDA $303M; trading-volume share hits ATH 8.6%, derivatives revenue tops $200M annualized, prediction markets at $100M ARR",
+          "category": "earnings",
+          "note": "Crypto-industry barometer print: net loss but ATH market share, derivatives revenue >$200M annualized, prediction markets at $100M ARR."
+        },
+        {
+          "id": "mchp-q4-fy26-earnings",
+          "title": "Microchip Q4 FY26 — revenue $1.311B (+35% Y/Y, +11% Q/Q) tops guide, non-GAAP EPS $0.57 vs $0.48–$0.52 guide; Q1 FY27 revenue guide $1.456B as AI/data-center design wins build",
+          "category": "earnings",
+          "note": "FQ4 FY26 revenue and EPS both above the high end of guidance with FQ1 FY27 guide implying continued sequential acceleration; AI/data-center design-win commentary key for analog-cycle thesis."
+        },
+        {
+          "id": "soun-q1-2026-earnings",
+          "title": "SoundHound AI Q1 2026 — record $44.2M revenue (+52%, +88% ex-acquisitions in core auto/IoT); launches OASYS agentic-AI platform, reaffirms 2026 guide $225–260M",
+          "category": "earnings",
+          "note": "Record Q1 + OASYS agentic-AI platform launch; reaffirmed FY26 + 2027 outlook contingent on LivePerson close."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "crypto",
+        "mna",
+        "macro"
+      ]
     }
   ]
 }
