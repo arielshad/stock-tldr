@@ -1,8 +1,138 @@
 {
-  "generatedAt": "2026-05-07T01:03:41.579Z",
+  "generatedAt": "2026-05-07T03:29:55.990Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ftnt-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Fortinet Q1 2026 — revenue $1.85B (+20%), non-GAAP EPS $0.82 vs $0.61 est, raises FY26 guide; FTNT +15% AH",
+      "org": "Fortinet",
+      "date": "2026-05-06",
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3289336/0/en/fortinet-reports-strong-first-quarter-2026-financial-results.html",
+      "summary": "Fortinet posted Q1 revenue of $1.85B (+20% Y/Y) with billings up 31% to $2.09B, non-GAAP EPS of $0.82 vs $0.61 est, and lifted FY26 revenue guidance to $7.71–$7.87B.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "cybersecurity",
+        "sase",
+        "ai-security",
+        "ftnt"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FTNT"
+      ],
+      "metrics": {
+        "Revenue": "$1.85B (+20% Y/Y)",
+        "Billings": "$2.09B (+31% Y/Y)",
+        "Non-GAAP EPS": "$0.82 vs $0.61 est",
+        "FY26 revenue guide": "$7.71–$7.87B (raised)",
+        "Move": "+15% post-results"
+      },
+      "explainer": {
+        "tagline": "Fortinet beats top and bottom lines on AI-driven security demand and lifts the full-year revenue and margin guide.",
+        "whatIsIt": "Fortinet released first-quarter 2026 results after the close on May 6 and raised its 2026 outlook. Total revenue of $1.85 billion grew 20% year over year, product revenue grew 41%, and non-GAAP diluted EPS of $0.82 was up 41% Y/Y.",
+        "howItWorks": "Service revenue reached $1.20B (vs $1.08B a year ago) on subscription growth across the security portfolio. Billings, which lead revenue, rose 31% Y/Y to $2.09B. GAAP operating margin came in at 31%; non-GAAP at 35.8%. Free cash flow set a record at $1.01B. Management raised the full-year revenue guide to ~$7.71–$7.87B (~15% growth) and non-GAAP operating margin guide to 33–36%, with non-GAAP EPS guided to $3.10–$3.16.",
+        "whyItMatters": "FTNT shares jumped about 15% in after-hours trading, repricing the stock as a beneficiary of enterprise SASE adoption and AI-driven firewall refresh. The print and raised guide also lift sentiment for peers in network/security (PANW, CRWD, NET) into their own prints.",
+        "forWho": "Cybersecurity sector traders, software desks",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-FTNT/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/5ff95cf2-3889-43ac-b81c-1d5cffe84868",
+        "alt": "Fortinet Q1 2026 earnings press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/06/3289336/0/en/fortinet-reports-strong-first-quarter-2026-financial-results.html"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/fortinet-ftnt-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "FTNT Quote (CNBC)",
+          "url": "https://www.cnbc.com/quotes/FTNT"
+        },
+        {
+          "label": "FTNT Chart (TradingView)",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-FTNT/"
+        }
+      ],
+      "publishDate": "2026-05-07T03:29:55.990Z"
+    },
+    {
+      "id": "cdw-q1-2026-earnings",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "CDW Q1 2026 — revenue $5.68B beats but stock crashes ~19% as gross margin compresses 60bps to 21.0%",
+      "org": "CDW",
+      "date": "2026-05-06",
+      "url": "https://investor.cdw.com/news/news-details/2026/CDW-Reports-First-Quarter-2026-Earnings/default.aspx",
+      "summary": "CDW posted Q1 net sales of $5.68B (+9.2% Y/Y) and non-GAAP EPS of $2.28, but shares dropped ~19% as gross margin slipped 60bps to 21.0% and operating margin contracted, signaling pressure across the IT reseller channel.",
+      "tags": [
+        "earnings",
+        "mover",
+        "q1-2026",
+        "margin-pressure",
+        "it-reseller",
+        "memory-supply",
+        "cdw"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CDW"
+      ],
+      "metrics": {
+        "Revenue": "$5.68B (+9.2% Y/Y)",
+        "Non-GAAP EPS": "$2.28 (+6.3% Y/Y)",
+        "GAAP EPS": "$1.82 (+7.9% Y/Y)",
+        "Gross margin": "21.0% (-60bps Y/Y)",
+        "Move": "-19% on the day"
+      },
+      "explainer": {
+        "tagline": "CDW beats on the top and bottom line but the stock plunges as gross-margin compression and supply-chain costs spook the channel.",
+        "whatIsIt": "Technology reseller CDW reported first-quarter 2026 results before the open on May 6. Net sales of $5.68B rose 9.2% Y/Y (8.4% constant currency); non-GAAP diluted EPS rose 6.3% to $2.28; GAAP diluted EPS rose 7.9% to $1.82. The company also declared a $0.63 quarterly dividend.",
+        "howItWorks": "Gross profit rose 6% Y/Y to $1.19B, but gross margin fell 60bps to 21.0% on a lower contribution from netted-down revenue. Non-GAAP operating margin contracted to 8.0% from 8.5%; GAAP operating margin to 6.6% from 7.0%. Commercial segment net sales rose 9.6%, with Financial Services +28.2%, Corporate +8.4%, and Healthcare +4.9%. CDW returned $282M to shareholders in the quarter and reaffirmed its mid-single-digit non-GAAP EPS growth view for 2026.",
+        "whyItMatters": "Despite the headline beat, CDW shares closed down ~19% to $108.93 from a $135.30 prior close — the largest single-day drop since 2023 — as memory and netcomm supply costs and a richer mix shift compressed margins. The print is a margin-pressure read-through for the IT reseller channel and hardware-heavy distributors (e.g. INSGT, ARW, AVT).",
+        "forWho": "Tech distribution traders, channel-sector PMs",
+        "tryIt": "https://www.cnbc.com/quotes/CDW"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cdw-c-orbital-logo-2023-rgb.svg/1280px-Cdw-c-orbital-logo-2023-rgb.svg.png",
+        "alt": "CDW Corporation logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "CDW Press Release",
+          "url": "https://investor.cdw.com/news/news-details/2026/CDW-Reports-First-Quarter-2026-Earnings/default.aspx"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/cdw-cdw-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "Investing.com Recap",
+          "url": "https://www.investing.com/news/company-news/cdw-q1-2026-slides-revenue-tops-57b-amid-margin-pressure-93CH-4664182"
+        },
+        {
+          "label": "CDW Quote (CNBC)",
+          "url": "https://www.cnbc.com/quotes/CDW"
+        }
+      ],
+      "publishDate": "2026-05-07T03:29:55.990Z"
+    },
     {
       "id": "app-q1-2026-earnings",
       "categories": [

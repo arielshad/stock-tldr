@@ -612,6 +612,41 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260507t032955z",
+      "timestamp": "2026-05-07T03:29:55.990Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two May 6 earnings/movers: Fortinet's Q1 2026 beat-and-raise (FTNT +15% AH) and CDW's Q1 2026 beat that triggered a ~19% sell-off on margin pressure.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ftnt-q1-2026-earnings",
+          "title": "Fortinet Q1 2026 — revenue $1.85B (+20%), non-GAAP EPS $0.82 vs $0.61 est, raises FY26 guide; FTNT +15% AH",
+          "category": "earnings",
+          "note": "Q1 print beat on revenue and EPS, raised FY26 guide; +15% post-close move and clear sector-leader read-through on AI-driven cybersecurity demand."
+        },
+        {
+          "id": "cdw-q1-2026-earnings",
+          "title": "CDW Q1 2026 — revenue $5.68B beats but stock crashes ~19% as gross margin compresses 60bps to 21.0%",
+          "category": "mover",
+          "note": "Headline beat but shares plunged ~19% on gross-margin compression — material single-name move that informs the IT reseller channel."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
