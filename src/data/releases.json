@@ -1,8 +1,143 @@
 {
-  "generatedAt": "2026-05-07T05:27:40.456Z",
+  "generatedAt": "2026-05-07T07:21:22.693Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "shel-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "commodity"
+      ],
+      "title": "Shell Q1 2026 — adj earnings $6.9B beat $6.36B est on refining strength; trims buyback to $3B from $3.5B, hikes dividend 5%",
+      "org": "Shell plc",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3289611/0/en/shell-plc-publishes-first-quarter-2026-press-release.html",
+      "summary": "Shell posted Q1 2026 adjusted earnings of $6.9B, topping the $6.36B company-compiled consensus on stronger refining margins and trading. Quarterly buyback cut to $3B from $3.5B; dividend +5% to $0.3906; ARC Resources acquisition closed.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "oil-major",
+        "refining",
+        "buyback",
+        "dividend",
+        "arc-resources",
+        "supermajor"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SHEL"
+      ],
+      "metrics": {
+        "Adj earnings": "$6.92B vs $6.36B est",
+        "CFFO ex-WC": "$17.2B",
+        "Buyback (3 mo)": "$3.0B (was $3.5B)",
+        "Dividend": "$0.3906/sh (+5%)",
+        "Net debt": "$52.6B (gearing 23%)"
+      },
+      "explainer": {
+        "tagline": "Shell's Q1 profit beats on refining and trading, but the headline is a smaller-than-expected buyback alongside a 5% dividend hike.",
+        "whatIsIt": "Shell's first-quarter 2026 update, the first full quarter to incorporate the ARC Resources Canadian gas acquisition and the spillover of Iran-war volatility on commodity trading and refining. Adjusted earnings rose to $6.92B from $5.58B a year earlier.",
+        "howItWorks": "Adjusted earnings of $6.92B beat the company-compiled $6.36B consensus, with refining margins lifted by elevated fuel prices during the Strait of Hormuz disruption. CFFO excluding working capital was $17.2B, but a $11.2B working-capital outflow on commodity volatility kept reported cash generation lighter. The board declared a $0.3906/sh dividend (+5% Y/Y) and announced a $3.0B share buyback for the next three months — down from $3.5B in Q4 — citing the ARC funding period. ARC Resources adds ~370 kboe/d and ~$4B of 2026 capex inside the $24–26B program.",
+        "whyItMatters": "Buyback cadence is the single number Shell shareholders track — trimming to $3B keeps Shell still inside its 40–50% distribution policy but undershoots the $3.5B run-rate Street had pencilled in. Refining strength signals continued margin tailwinds for the wider integrated complex (XOM, CVX, BP) while the working-capital drain explains why net debt and gearing crept up. ARC closing locks in a 4% production CAGR target through 2030.",
+        "forWho": "energy desks, dividend funds, supermajor watchers"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Shell_plc_publishes_first_quarter_2026_press_release_1052900.webp",
+        "alt": "Shell pecten logo with Q1 2026 results headline",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3289611/0/en/shell-plc-publishes-first-quarter-2026-press-release.html"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/SHEL/shell-plc-publishes-first-quarter-2026-press-ryj3v8w59g1u.html"
+        },
+        {
+          "label": "SHEL Quote",
+          "url": "https://finance.yahoo.com/quote/SHEL/"
+        },
+        {
+          "label": "Quarterly Reports",
+          "url": "https://www.shell.com/investors/results-and-reporting/quarterly-results.html"
+        }
+      ],
+      "publishDate": "2026-05-07T07:21:22.693Z"
+    },
+    {
+      "id": "alb-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover",
+        "commodity"
+      ],
+      "title": "Albemarle Q1 2026 — sales +33% to $1.43B, adj EPS $2.95 trounces $1.19 est on lithium recovery; ALB +7% AH",
+      "org": "Albemarle Corporation",
+      "date": "2026-05-06",
+      "url": "https://www.prnewswire.com/news-releases/albemarle-reports-first-quarter-2026-results-302764556.html",
+      "summary": "Albemarle's Q1 2026 net sales rose 33% to $1.43B and adj EBITDA jumped 148% to $664M as lithium pricing recovered to ~$20/kg LCE (from ~$10 in 2025). Adj EPS $2.95 vs $1.19 est. Paid down $1.3B of debt; ALB jumped ~7% in extended trading.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "lithium",
+        "mining",
+        "energy-storage",
+        "ev-supply-chain",
+        "debt-reduction",
+        "specialty-chemicals"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ALB",
+        "SQM",
+        "LAC"
+      ],
+      "metrics": {
+        "Net sales": "$1.43B (+33% Y/Y)",
+        "Adj EPS": "$2.95 vs $1.19 est",
+        "GAAP EPS": "$2.34",
+        "Adj EBITDA": "$664M (+148% Y/Y)",
+        "Energy Storage sales": "$891M (+70% Y/Y)",
+        "Lithium price (Q1 26)": "~$20/kg LCE vs ~$10/kg in FY25",
+        "Debt paydown": "$1.3B",
+        "Move (AH)": "+6.96%"
+      },
+      "explainer": {
+        "tagline": "Lithium prices roughly doubled off the 2025 trough, and Albemarle's Q1 print blew through estimates with EBITDA up 148%.",
+        "whatIsIt": "Albemarle's first quarter as the lithium price recovery thesis stops being a forecast and starts showing up in the numbers. Q1 2026 averaged ~$20/kg LCE versus the ~$10 average that crushed lithium producers all of 2025.",
+        "howItWorks": "Net sales reached $1.4B, up 33% Y/Y. The Energy Storage segment did the heavy lifting: sales +70% to $891M and adjusted EBITDA +196% to $551M, driven by +51% pricing and +14% volumes. Specialties grew sales 12% to $358M with EBITDA +30% to $76M. The company posted GAAP EPS of $2.34 and adjusted EPS of $2.95 versus the $1.19 consensus, and used the windfall plus $648M of divestiture proceeds to retire $1.3B of debt.",
+        "whyItMatters": "Albemarle is the cleanest single-stock proxy for lithium pricing on US listed exchanges, and a beat of this magnitude validates the thesis that 2025 was the bottom of the cycle. Read-through to SQM, Lithium Americas (LAC), Pilbara and the broader battery-metals complex; also positive read-through to EV demand assumptions baked into FY26 guidance from Tesla, BYD and the China BEV makers. ALB jumped ~7% in extended trading.",
+        "forWho": "battery-materials investors, EV-supply-chain analysts, mining desks",
+        "tryIt": "https://finance.yahoo.com/quote/ALB/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/75024/ALBEMARLE_CORPORATION_LOGO_updated.jpg?p=facebook",
+        "alt": "Albemarle Corporation corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/albemarle-reports-first-quarter-2026-results-302764556.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/ALB/8-k-albemarle-corp-reports-material-event-5b1602686828.html"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/ALB/albemarle-reports-first-quarter-2026-3zzk703vbwlv.html"
+        },
+        {
+          "label": "ALB Quote",
+          "url": "https://finance.yahoo.com/quote/ALB/"
+        }
+      ],
+      "publishDate": "2026-05-07T07:21:22.693Z"
+    },
     {
       "id": "doc-q1-2026-earnings-janus-ipo",
       "categories": [

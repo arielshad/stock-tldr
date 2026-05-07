@@ -693,6 +693,43 @@
         "macro",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260507t072122z",
+      "timestamp": "2026-05-07T07:21:22.693Z",
+      "source": "github-actions-sweep",
+      "summary": "Two qualifying adds for the May 7 morning sweep: Shell's Q1 print (beat on refining, smaller buyback) and Albemarle's Q1 print (lithium recovery delivers a 148% EBITDA jump and sends ALB +7% AH). Skipped Lyft, Coinbase, McDonald's: results not yet released as of sweep timestamp. Iran/oil and BTC catalysts already covered by existing items.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "shel-q1-2026-earnings",
+          "title": "Shell Q1 2026 — adj earnings $6.9B beat $6.36B est on refining strength; trims buyback to $3B from $3.5B, hikes dividend 5%",
+          "category": "earnings",
+          "note": "First quarterly print from a supermajor for Q1 2026 in the feed; primary-source globenewswire press release with metrics and capital-return reset."
+        },
+        {
+          "id": "alb-q1-2026-earnings",
+          "title": "Albemarle Q1 2026 — sales +33% to $1.43B, adj EPS $2.95 trounces $1.19 est on lithium recovery; ALB +7% AH",
+          "category": "earnings",
+          "note": "Cleanest single-name read on the lithium price recovery; massive beat of consensus with concrete pricing/volume drivers and verifiable AH stock move."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }
