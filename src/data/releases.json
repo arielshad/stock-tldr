@@ -1,8 +1,157 @@
 {
-  "generatedAt": "2026-05-07T09:11:48.402Z",
+  "generatedAt": "2026-05-07T11:16:20.099Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "adm-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "ADM Q1 2026 — adj EPS $0.71 beats $0.66 est, raises FY26 guide to $4.15–$4.70 on biofuels tailwind; ADM +5.5% to 52-week high",
+      "org": "Archer-Daniels-Midland",
+      "date": "2026-05-05",
+      "url": "https://investors.adm.com/news/news-details/2026/ADM-Reports-First-Quarter-2026-Results/default.aspx",
+      "summary": "Ag giant ADM beat Q1 estimates and raised full-year EPS guidance after the EPA's renewable volume obligations lifted soybean crush and ethanol margins. Stock hit a 52-week high.",
+      "tickers": [
+        "ADM"
+      ],
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q1-2026",
+        "agriculture",
+        "ethanol",
+        "soybean",
+        "biofuels",
+        "renewable-volume-obligations",
+        "52-week-high"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj EPS": "$0.71 vs $0.66 est",
+        "GAAP EPS": "$0.62",
+        "Revenue": "$20.49B vs $20.42B est",
+        "Segment OP": "$764M",
+        "FY26 EPS guide": "$4.15–$4.70 (was $3.60–$4.25)",
+        "Move": "+5.5% to $80.48"
+      },
+      "links": [
+        {
+          "label": "ADM IR Press Release",
+          "url": "https://investors.adm.com/news/news-details/2026/ADM-Reports-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-q1-earnings-beat-153000216.html"
+        },
+        {
+          "label": "Benzinga 52-Week High",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52295490/archer-daniels-midland-stock-hits-52-week-high-heres-why"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.benzinga.com/insights/news/26/05/52282444/archer-daniels-midland-q1-2026-earnings-call-transcript"
+        },
+        {
+          "label": "ADM Quote",
+          "url": "https://finance.yahoo.com/quote/ADM/"
+        }
+      ],
+      "explainer": {
+        "tagline": "ADM beats Q1 and raises FY26 guidance as biofuels policy lifts crush and ethanol margins.",
+        "whatIsIt": "Archer-Daniels-Midland reported Q1 2026 results before the open on May 5, posting adjusted EPS of $0.71 on $20.49B of revenue, both ahead of consensus. Management lifted FY26 adjusted EPS guidance to $4.15–$4.70 from $3.60–$4.25.",
+        "howItWorks": "Total segment operating profit was $764M. Carbohydrate Solutions OP rose 48% Y/Y to $356M on stronger ethanol margins. Nutrition OP jumped 42% to $135M. Ag Services & Oilseeds OP fell 34% to $273M, weighed by ~$275M of negative mark-to-market and timing impacts (~70% in crushing). The company paid its 377th consecutive quarterly dividend.",
+        "whyItMatters": "The guidance raise is anchored to EPA's March 27 finalization of 2026 and 2027 renewable volume obligations, which is widening soybean crush and ethanol margins for U.S. processors. The print sent ADM to a 52-week high of $80.48 (+5.5%) and supports comparable processors like Bunge that benefit from the same RFS tailwind.",
+        "forWho": "Ags, biofuels and policy traders.",
+        "tryIt": "https://finance.yahoo.com/quote/ADM/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/files/images/story/2026/05/05/Archer-Daniels-Midland-Company.jpeg?width=1200&height=800&fit=crop",
+        "alt": "Archer-Daniels-Midland brand and logo image",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "publishDate": "2026-05-07T11:16:20.099Z"
+    },
+    {
+      "id": "eqnr-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Equinor Q1 2026 — adj op income $9.77B, record output 2.31 mboe/d, adj EPS $1.48 trounces $1.01 est; EQNR -10.6% premarket on tax/cash drag",
+      "org": "Equinor",
+      "date": "2026-05-06",
+      "url": "https://www.equinor.com/news/equinor-first-quarter-2026-results",
+      "summary": "Equinor delivered all-time-high production and an EPS beat in Q1, but the ADRs fell ~10.6% in premarket as taxes climbed to $4.27B and operating cash flow after tax dropped to $6.0B from $7.4B Y/Y.",
+      "tickers": [
+        "EQNR"
+      ],
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "q1-2026",
+        "energy",
+        "oil-gas",
+        "norway",
+        "production-record",
+        "buyback",
+        "ncs",
+        "tax-headwind"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj EPS": "$1.48 vs $1.01 est",
+        "Adj operating income": "$9.77B",
+        "Adj net income": "$3.70B",
+        "Production": "2,313 mboe/d (+9% Y/Y, record)",
+        "Cash flow from ops (after tax)": "$6.0B (was $7.4B Y/Y)",
+        "Taxes paid": "$4.27B (was $3.23B Y/Y)",
+        "Q1 dividend": "$0.39/share",
+        "Buyback (next tranche)": "up to $375M",
+        "Move": "-10.6% premarket ADR"
+      },
+      "links": [
+        {
+          "label": "Equinor Press Release",
+          "url": "https://www.equinor.com/news/equinor-first-quarter-2026-results"
+        },
+        {
+          "label": "GlobeNewswire Filing",
+          "url": "https://www.globenewswire.com/news-release/2026/05/06/3288464/0/en/Equinor-first-quarter-2026-results.html"
+        },
+        {
+          "label": "Oilprice Coverage",
+          "url": "https://oilprice.com/Company-News/Equinor-Posts-Strong-Q1-on-Record-Output-and-Higher-Energy-Prices.html"
+        },
+        {
+          "label": "Rigzone Recap",
+          "url": "https://www.rigzone.com/news/gas_trading_boosts_equinor_profit-06-may-2026-183621-article/"
+        },
+        {
+          "label": "EQNR Quote",
+          "url": "https://finance.yahoo.com/quote/EQNR/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Equinor posts record Q1 production and easy EPS beat, but cash flow drops on heavier Norwegian tax bill — ADRs gap down ~10%.",
+        "whatIsIt": "Norway's state-controlled oil major reported Q1 2026 results on May 6. Adjusted operating income hit $9.77B with adjusted EPS of $1.48 versus $1.01 consensus. Equity production set a record at 2,313 mboe/d (+9% Y/Y).",
+        "howItWorks": "NCS production rose 10% on Johan Castberg, Halten East and Verdande ramping; U.S. onshore gas and Caesar/Tonga added more barrels. The headline number was overshadowed by Q1 cash flow from operations after tax of $6.0B (down from $7.4B Y/Y) and $4.27B of taxes paid (up from $3.23B). The board kept the $0.39 cash dividend and authorised a second 2026 buyback tranche of up to $375M.",
+        "whyItMatters": "Strong volumes and gas-price realisations met heavy Norwegian tax-installment timing, leaving free cash thinner than the headline beat suggests. EQNR ADRs fell ~10.6% in premarket toward $36.97 — a reset for the European integrated oil trade as Brent has retraced from $114 to ~$101 on Iran de-escalation.",
+        "forWho": "Energy desks, dividend & buyback investors, Norwegian-tax watchers.",
+        "tryIt": "https://finance.yahoo.com/quote/EQNR/"
+      },
+      "image": {
+        "url": "https://cdn.equinor.com/images/h61q9gi9/global/930925911e9583c9b8270d20a07856bfa418973a-9504x6336.jpg?rect=0,216,9504,4990&w=1200&h=630",
+        "alt": "Shuttle tanker Eagle Balder in position off the Gullfaks field",
+        "fit": "cover",
+        "credit": "Equinor"
+      },
+      "publishDate": "2026-05-07T11:16:20.099Z"
+    },
     {
       "id": "bud-q1-2026-earnings",
       "categories": [

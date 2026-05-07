@@ -758,6 +758,37 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260507t111620z",
+      "timestamp": "2026-05-07T11:16:20.099Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh Q1 prints surfaced in the earnings stream: ADM (May 5) beat and raised FY26 guidance on biofuels-policy tailwinds, while Equinor (May 6) posted record production and an easy EPS beat that the market sold ~10% on heavier Norwegian tax timing.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "adm-q1-2026-earnings",
+          "title": "ADM Q1 2026 — adj EPS $0.71 beats $0.66 est, raises FY26 guide to $4.15–$4.70 on biofuels tailwind; ADM +5.5% to 52-week high",
+          "category": "earnings",
+          "note": "Major-cap ag processor, EPS+revenue beat plus a ~15% midpoint guidance raise; stock to 52-wk high. Not in existing feed."
+        },
+        {
+          "id": "eqnr-q1-2026-earnings",
+          "title": "Equinor Q1 2026 — adj op income $9.77B, record output 2.31 mboe/d, adj EPS $1.48 trounces $1.01 est; EQNR -10.6% premarket on tax/cash drag",
+          "category": "earnings",
+          "note": "European oil major Q1 — record output and a clean EPS beat, but stock dropped ~10% on tax-driven cash flow miss. Not in existing feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
