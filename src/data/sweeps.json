@@ -871,6 +871,43 @@
         "mover",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260507t165326z",
+      "timestamp": "2026-05-07T16:53:26.483Z",
+      "source": "github-actions-sweep",
+      "summary": "Three single-name earnings movers added: RXT (Q1 + AMD AI MOU, ~+88% intraday), FLNC (FQ2 record $5.6B backlog and hyperscaler MSAs, +20–27% AH), and FSLY (record Q1 + raised guide but ~-27% as the AI-edge trade resets).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rxt-q1-2026-earnings-amd-pact",
+          "title": "Rackspace Q1 2026 + AMD AI pact — revenue $678M beats, swings to $8M GAAP profit; AMD MOU on governed AI infrastructure sends RXT ~+88% intraday",
+          "category": "earnings",
+          "note": "Rackspace's AMD MOU plus the Q1 swing-to-profit produced an ~88% intraday move and a clear AI-infrastructure narrative."
+        },
+        {
+          "id": "flnc-q2-fy26-record-backlog",
+          "title": "Fluence Energy FQ2 2026 — revenue $464.9M misses big but record $5.6B backlog and two hyperscaler MSAs send FLNC ~+20–27% AH",
+          "category": "earnings",
+          "note": "Big revenue miss but record $5.6B backlog plus two hyperscaler MSAs drove a 20–27% AH rally — first tangible storage/data-center link."
+        },
+        {
+          "id": "fsly-q1-2026-earnings-stock-drop",
+          "title": "Fastly Q1 2026 — revenue $173M (+20%) and raised FY26 guide weren't enough; FSLY plunges ~27% as AI-driven 270%-3-month rally meets its first reality check",
+          "category": "earnings",
+          "note": "Beat-and-raise that still triggered a ~27% drawdown — clean read-through to the broader AI-edge trade."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

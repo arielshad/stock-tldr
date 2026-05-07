@@ -1,8 +1,218 @@
 {
-  "generatedAt": "2026-05-07T15:08:44.768Z",
+  "generatedAt": "2026-05-07T16:53:26.483Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rxt-q1-2026-earnings-amd-pact",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Rackspace Q1 2026 + AMD AI pact — revenue $678M beats, swings to $8M GAAP profit; AMD MOU on governed AI infrastructure sends RXT ~+88% intraday",
+      "org": "Rackspace Technology",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3289934/0/en/rackspace-technology-reports-first-quarter-2026-results.html",
+      "summary": "Rackspace beat on Q1 revenue ($678M, +2%) and swung to an $8M GAAP profit, but the real catalyst is a multi-year MOU with AMD to build a governed enterprise AI cloud on Instinct GPUs and EPYC CPUs.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "q1-2026",
+        "amd-partnership",
+        "ai-infrastructure",
+        "governed-ai",
+        "instinct-gpu",
+        "epyc",
+        "managed-cloud",
+        "rxt",
+        "amd"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RXT",
+        "AMD"
+      ],
+      "metrics": {
+        "Revenue": "$678M (+2% Y/Y, +1% CC)",
+        "Public cloud": "$443M (+7%)",
+        "Private cloud": "$235M (-6%)",
+        "GAAP EPS": "$0.03",
+        "Non-GAAP EPS": "($0.06)",
+        "Net income": "$8M",
+        "FY26 revenue guide": "$2.6–2.7B",
+        "FY26 EPS guide": "($0.20)–($0.15)",
+        "Move": "~+88% intraday"
+      },
+      "explainer": {
+        "tagline": "Rackspace prints a clean Q1 beat and pairs it with an AMD MOU to build a governed, fully managed AI cloud — RXT roughly doubles intraday.",
+        "whatIsIt": "Rackspace Technology released Q1 2026 results pre-market on May 7 and simultaneously announced a non-binding multi-year MOU with AMD. The deal positions Rackspace to operate a fully managed enterprise AI stack — from AMD Instinct GPUs and EPYC CPUs up through inference runtime and SLA — pitched at regulated and sovereign workloads. RXT shares spiked about 88% intraday to roughly $4.28.",
+        "howItWorks": "Q1 revenue was $678M (+2% reported, +1% constant currency), narrowly above the $675M consensus. Public cloud grew 7% to $443M while private cloud declined 6% to $235M. Rackspace swung to $8M of net income and $0.03 GAAP EPS, with adjusted loss of ($0.06). Full-year 2026 guidance is for $2.6–2.7B in revenue and an adjusted loss of ($0.20)–($0.15) per share. The AMD pact — outlined as Enterprise AI Cloud, Enterprise Inference Engine, Inference-as-a-Service and bare-metal Instinct compute — is non-binding but moves Rackspace from hourly GPU rental into a fully governed managed stack.",
+        "whyItMatters": "Rackspace is leveraging the only piece of moat it still has (multi-cloud managed services) to ride the AI infrastructure capex cycle. The AMD partnership is a credibility marker for AMD's Instinct roadmap and a re-rating catalyst for RXT, which has spent three years de-rating on private-cloud declines. Watch comp names AMD, NVDA, ORCL (sovereign-cloud overlap), and AI-managed-services peers like CRWV and IRDM.",
+        "forWho": "AI-infrastructure investors, cloud sector analysts, AMD followers",
+        "tryIt": "https://finance.yahoo.com/quote/RXT/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/3397ed0c-def0-4eb1-a4f0-1408e03161e0",
+        "alt": "Rackspace Technology Q1 2026 earnings press release graphic",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire (Q1)",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3289934/0/en/rackspace-technology-reports-first-quarter-2026-results.html"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/rackspace-technology-amd-sign-memorandum-120000626.html"
+        },
+        {
+          "label": "Q1 Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rackspace-technology-reports-first-quarter-120000297.html"
+        },
+        {
+          "label": "RXT Quote",
+          "url": "https://finance.yahoo.com/quote/RXT/"
+        }
+      ],
+      "publishDate": "2026-05-07T16:53:26.483Z"
+    },
+    {
+      "id": "flnc-q2-fy26-record-backlog",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Fluence Energy FQ2 2026 — revenue $464.9M misses big but record $5.6B backlog and two hyperscaler MSAs send FLNC ~+20–27% AH",
+      "org": "Fluence Energy",
+      "date": "2026-05-06",
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3289316/0/en/Fluence-Energy-Inc-Reports-Second-Quarter-2026-Results-Reaffirms-Fiscal-Year-2026-Guidance.html",
+      "summary": "Fluence Energy revenue +7.7% to $464.9M missed the $635.5M consensus, but a record $5.6B backlog, doubled YTD order intake and master supply agreements with two hyperscalers drove FLNC up sharply after-hours.",
+      "tags": [
+        "earnings",
+        "revenue-miss",
+        "fq2-2026",
+        "record-backlog",
+        "hyperscaler",
+        "data-center",
+        "energy-storage",
+        "battery-storage",
+        "flnc",
+        "guidance-reaffirmed"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FLNC"
+      ],
+      "metrics": {
+        "Revenue": "$464.9M (+7.7% Y/Y)",
+        "Revenue est": "$635.5M",
+        "GAAP EPS": "($0.16)",
+        "Adj EBITDA": "($9.4M)",
+        "Backlog": "$5.6B (record)",
+        "YTD order intake": "$2.0B (≈2×)",
+        "FY26 revenue guide": "$3.2–3.6B (reaffirmed)",
+        "FY26 EBITDA guide": "$40–60M (reaffirmed)",
+        "Liquidity": "$900M",
+        "Move": "+20% to +27% AH"
+      },
+      "explainer": {
+        "tagline": "Fluence's revenue line missed by ~$170M but the backlog hit a record $5.6B and two hyperscaler MSAs validated the data-center pivot.",
+        "whatIsIt": "Battery-storage integrator Fluence Energy reported FQ2 fiscal 2026 results after the close on May 6. The headline revenue print fell well short of consensus, but the company posted a record backlog, doubled year-to-date order intake, and signed master supply agreements with two unnamed hyperscaler customers. Shares surged 20–27% in after-hours trading.",
+        "howItWorks": "Q2 revenue of $464.9M was up 7.7% Y/Y but missed the $635.5M Street estimate. Net loss narrowed to $29.2M from $41.9M; GAAP gross margin expanded to 10.0% and adjusted gross margin to 11.1%. Adjusted EBITDA was ($9.4M), an improvement on the prior year. Backlog reached $5.6B at March 31 — a company record — while year-to-date order intake doubled to about $2.0B. Total liquidity stood at roughly $900M including $412.9M of cash. The company reaffirmed FY26 guidance for revenue of $3.2–3.6B, adjusted EBITDA of $40–60M, and ARR of about $180M by year-end.",
+        "whyItMatters": "The print resets the narrative for FLNC: forward demand has clearly inflected even as quarterly revenue is lumpy. The hyperscaler MSAs are the first tangible link between data-center capex and grid-scale storage, and the read-through is positive for storage peers TSLA Energy, STEM, and EOSE. The reaffirmed full-year guide combined with the $5.6B backlog makes the FY27 setup easier to underwrite.",
+        "forWho": "energy-transition funds, growth-equity investors, AI-power-thesis traders",
+        "tryIt": "https://finance.yahoo.com/quote/FLNC/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/97a6e0de-a2d0-4d11-8ecb-6d1e2ad762bc",
+        "alt": "Fluence Energy FQ2 2026 earnings press release graphic",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire (Q2)",
+          "url": "https://www.globenewswire.com/news-release/2026/05/06/3289316/0/en/Fluence-Energy-Inc-Reports-Second-Quarter-2026-Results-Reaffirms-Fiscal-Year-2026-Guidance.html"
+        },
+        {
+          "label": "Backlog Recap",
+          "url": "https://finance.yahoo.com/news/record-backlog-2026-revenue-guidance-101025495.html"
+        },
+        {
+          "label": "FLNC Quote",
+          "url": "https://finance.yahoo.com/quote/FLNC/"
+        }
+      ],
+      "publishDate": "2026-05-07T16:53:26.483Z"
+    },
+    {
+      "id": "fsly-q1-2026-earnings-stock-drop",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Fastly Q1 2026 — revenue $173M (+20%) and raised FY26 guide weren't enough; FSLY plunges ~27% as AI-driven 270%-3-month rally meets its first reality check",
+      "org": "Fastly",
+      "date": "2026-05-06",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-announces-record-first-quarter-200500640.html",
+      "summary": "Fastly delivered a record Q1 — $173M revenue (+20%), security +47%, non-GAAP EPS $0.13 — and raised FY26 guidance to $710–725M, but with the stock up ~270% in three months on AI hype, FSLY tanked ~27% on the print.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "q1-2026",
+        "guidance-raise",
+        "guidance-disappointment",
+        "ai-edge",
+        "cdn",
+        "security",
+        "fsly",
+        "high-bar"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FSLY"
+      ],
+      "metrics": {
+        "Revenue": "$173.0M (+20% Y/Y)",
+        "Security revenue": "$38.8M (+47% Y/Y)",
+        "Non-GAAP EPS": "$0.13",
+        "GAAP net loss": "($20.5M)",
+        "GAAP gross margin": "62.5%",
+        "Non-GAAP gross margin": "65.1%",
+        "RPO": "$369M (+63% Y/Y)",
+        "LTM net retention": "113%",
+        "FY26 revenue guide": "$710–725M (raised)",
+        "FY26 non-GAAP EPS guide": "$0.27–0.33 (raised)",
+        "Move": "-27.3% to ~$22.95"
+      },
+      "explainer": {
+        "tagline": "A record Q1 and a raised full-year guide were not enough — Fastly's AI-edge rally got a sharp valuation reset.",
+        "whatIsIt": "Edge-and-security platform Fastly reported Q1 2026 results after the close on May 6. The print beat on revenue and EPS and the company raised full-year guidance, but the stock had run roughly 270% in the prior three months on AI-edge enthusiasm. The reaction was a ~27% drawdown to about $22.95, illustrating how unforgiving valuation has become for high-multiple infrastructure software.",
+        "howItWorks": "Q1 revenue was $173.0M (+20% Y/Y), with high-growth security revenue of $38.8M (+47%) representing 22% of the total. GAAP net loss narrowed to $20.5M from $39.1M; non-GAAP EPS was $0.13 versus a non-GAAP loss a year earlier. GAAP gross margin expanded to 62.5% and non-GAAP gross margin reached 65.1%. Remaining performance obligations rose 63% Y/Y to $369M, and last-twelve-month net retention improved to 113%. Management raised FY26 guidance to $710–725M revenue and $0.27–0.33 non-GAAP EPS.",
+        "whyItMatters": "The decline says less about Fastly's fundamentals than about how hot the AI-edge trade had gotten. Comp names like NET (Cloudflare), AKAM and DDOG already saw multiple compression earlier this year; Fastly's selloff brings the cohort closer to alignment. Watch how guidance is parsed at NET on its next print — Fastly's bar-vs-print delta is the new tape.",
+        "forWho": "growth-software investors, edge-network analysts, momentum traders",
+        "tryIt": "https://finance.yahoo.com/quote/FSLY/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/1280px-Fastly_logo.svg.png",
+        "alt": "Fastly company logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-announces-record-first-quarter-200500640.html"
+        },
+        {
+          "label": "Drop Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-nasdaq-fsly-surprises-q1-204153277.html"
+        },
+        {
+          "label": "FSLY Quote",
+          "url": "https://finance.yahoo.com/quote/FSLY/"
+        }
+      ],
+      "publishDate": "2026-05-07T16:53:26.483Z"
+    },
     {
       "id": "celh-q1-2026-earnings",
       "categories": [
