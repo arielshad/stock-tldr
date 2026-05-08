@@ -1,8 +1,260 @@
 {
-  "generatedAt": "2026-05-08T01:02:00.347Z",
+  "generatedAt": "2026-05-08T03:21:46.830Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "akam-q1-2026-1-8b-ai-deal",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Akamai Q1 2026 — revenue $1.07B in line, but $1.8B/7-yr AI cloud commitment from frontier-model provider sends AKAM ~+26%",
+      "org": "Akamai",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3287949/0/en/Akamai-Reports-First-Quarter-2026-Financial-Results.html",
+      "summary": "Akamai delivered an in-line print (revenue $1.074B +6%, non-GAAP EPS $1.61) but disclosed the largest customer deal in its history: a leading frontier-model provider committing $1.8B over seven years for Cloud Infrastructure Services. AKAM surged ~26% to a 52-week high.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "ai-infrastructure",
+        "cloud-infrastructure",
+        "security",
+        "edge-computing",
+        "fy26-guidance",
+        "52-week-high"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AKAM"
+      ],
+      "metrics": {
+        "Revenue": "$1.074B (+6% Y/Y; +4% cc)",
+        "Security Revenue": "$590M (+11% Y/Y)",
+        "Cloud Infra Services": "$95M (+40% Y/Y)",
+        "Delivery Revenue": "$389M (-7% Y/Y)",
+        "Non-GAAP EPS": "$1.61 (-5% Y/Y)",
+        "GAAP EPS": "$0.71 (-13% Y/Y)",
+        "AI Customer Commit": "$1.8B over 7 years",
+        "Move": "~+26% (close $147)"
+      },
+      "explainer": {
+        "tagline": "Boring earnings, blockbuster customer disclosure: a frontier-model lab just signed Akamai's largest deal ever.",
+        "whatIsIt": "Akamai posted Q1 2026 results after the close on May 7, 2026. Revenue of $1.074B (+6%) and non-GAAP EPS of $1.61 were both effectively in line with Street, but the company separately disclosed that 'a leading U.S.-based frontier model provider' committed $1.8B over seven years for Cloud Infrastructure Services — the largest customer contract in Akamai's history.",
+        "howItWorks": "Security revenue grew 11% to $590M, Cloud Infrastructure Services accelerated to +40% Y/Y at $95M, and the legacy Delivery business shrank 7% to $389M. Non-GAAP operating margin was about 26%. Akamai guided Q2 revenue of $1.075–$1.10B and FY26 of $4.445–$4.55B with non-GAAP EPS of $6.40–$7.15. The $1.8B AI deal is a multi-year compute commitment, not a one-time payment.",
+        "whyItMatters": "Akamai has been an awkward AI story — a CDN whose core delivery franchise is bleeding to hyperscalers — but the frontier-lab contract reframes the cloud-infrastructure unit as a credible neocloud. AKAM closed up ~26% to ~$147, a 52-week high, with read-throughs to other AI-adjacent infra names like CRWV, NBIS, and APLD.",
+        "forWho": "AI-infrastructure investors, cloud-CDN watchers",
+        "tryIt": "https://finance.yahoo.com/quote/AKAM/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/2d2ac8cb-6c76-41d8-bfd0-265f91061a47",
+        "alt": "Akamai Technologies Q1 2026 earnings release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3287949/0/en/Akamai-Reports-First-Quarter-2026-Financial-Results.html"
+        },
+        {
+          "label": "SiliconANGLE Recap",
+          "url": "https://siliconangle.com/2026/05/07/akamai-shares-surge-26-1-8b-ai-infrastructure-deal-q1-results-meet-estimates/"
+        },
+        {
+          "label": "AKAM Quote",
+          "url": "https://finance.yahoo.com/quote/AKAM/"
+        }
+      ],
+      "publishDate": "2026-05-08T03:21:46.830Z"
+    },
+    {
+      "id": "xyz-q1-2026-earnings-guide-raise",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Block Q1 2026 — adj EPS $0.85 (+52%), record 25% adj op margin and FY26 guide raised; XYZ ~+8% AH despite $309M GAAP loss",
+      "org": "Block",
+      "date": "2026-05-07",
+      "url": "https://investors.block.xyz/investor-news/news-details/2026/Block-Announces-First-Quarter-2026-Results/default.aspx",
+      "summary": "Block grew gross profit 27% to $2.91B and lifted adjusted EPS 52% to $0.85, with Cash App gross profit up 38% and a record 25% adjusted operating margin. The company raised FY26 guidance and shares climbed ~8% AH despite a $309M GAAP net loss tied to restructuring.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "fintech",
+        "cash-app",
+        "square",
+        "fy26-guide-raise",
+        "restructuring",
+        "bitcoin"
+      ],
+      "importance": "major",
+      "tickers": [
+        "XYZ",
+        "PYPL"
+      ],
+      "metrics": {
+        "Net Revenue": "$6.06B",
+        "Gross Profit": "$2.91B (+27% Y/Y)",
+        "Cash App GP": "$1.91B (+38% Y/Y)",
+        "Square GP": "$982M (+9% Y/Y)",
+        "Adj Op Income": "$728M (25% margin)",
+        "Adj Diluted EPS": "$0.85 (+52% Y/Y)",
+        "GAAP Net Loss": "($309M)",
+        "Restructuring": "$852M",
+        "BTC Remeasurement": "($173M)",
+        "Move": "~+8% AH"
+      },
+      "explainer": {
+        "tagline": "Cash App reaccelerated, margins hit a record, and Block raised every line of FY26 guidance — even with a messy GAAP print.",
+        "whatIsIt": "Block reported Q1 2026 after the close on May 7, 2026. Net revenue was $6.06B, gross profit grew 27% to $2.91B, and adjusted operating income hit $728M — a record 25% margin — as adjusted diluted EPS rose 52% to $0.85.",
+        "howItWorks": "Cash App gross profit rose 38% to $1.91B; Square gross profit grew 9% to $982M. The company recorded a $309M GAAP net loss after $852M of restructuring/other charges and a $173M bitcoin remeasurement loss tied to lower BTC prices. Block raised FY26 guidance to $12.33B in gross profit (+19%), $3.34B adjusted operating income at a 27% margin, and $3.85 adjusted EPS (+62%).",
+        "whyItMatters": "After a brutal early-2026, Block's reaccelerating Cash App and record margin print is a meaningful 'fintech is back' signal. The raised FY guide cuts the other way from PayPal's cautious tone earlier in the week, and shares jumped ~8% AH.",
+        "forWho": "fintech / payments investors, Cash App and Square watchers",
+        "tryIt": "https://finance.yahoo.com/quote/XYZ/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/xyz_8-K.webp",
+        "alt": "Block Q1 2026 8-K filing cover image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Block IR",
+          "url": "https://investors.block.xyz/investor-news/news-details/2026/Block-Announces-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "Block 8-K",
+          "url": "https://www.stocktitan.net/sec-filings/XYZ/8-k-block-inc-reports-material-event-e61e67c1e641.html"
+        },
+        {
+          "label": "XYZ Quote",
+          "url": "https://stockanalysis.com/stocks/xyz/"
+        }
+      ],
+      "publishDate": "2026-05-08T03:21:46.830Z"
+    },
+    {
+      "id": "mnst-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Monster Beverage Q1 2026 — net sales +27% to $2.35B, adj EPS $0.58 beats $0.53 est on international and Strategic Brands strength; MNST +4%",
+      "org": "Monster Beverage",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3290614/10193/en/Monster-Beverage-Reports-2026-First-Quarter-Financial-Results.html",
+      "summary": "Monster Beverage's Q1 2026 net sales jumped 26.9% to $2.35B with adj EPS $0.58 beating the $0.53 consensus. Monster Energy segment grew 27.6%, Strategic Brands +28.9%, and gross margin slipped 150bp to 55.0% on aluminum and freight. MNST +4.2% AH.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "beverages",
+        "consumer-staples",
+        "international",
+        "monster-energy",
+        "strategic-brands",
+        "margin-pressure"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MNST",
+        "KO",
+        "CELH"
+      ],
+      "metrics": {
+        "Net Sales": "$2.35B (+26.9% Y/Y)",
+        "Adj EPS": "$0.58 vs $0.53 est",
+        "Monster Energy Segment": "$2.19B (+27.6% Y/Y)",
+        "Strategic Brands": "$126.7M (+28.9% Y/Y)",
+        "Gross Margin": "55.0% (-150bp Y/Y)",
+        "Move": "+4.2% AH"
+      },
+      "explainer": {
+        "tagline": "Monster's energy-drink franchise reaccelerated and Strategic Brands carried the international story, even as gross margin compressed 150bp.",
+        "whatIsIt": "Monster Beverage reported Q1 2026 after the close on May 7, 2026. Net sales rose 26.9% to $2.35B and adjusted EPS of $0.58 topped the $0.53 consensus, helped by international and the Strategic Brands portfolio.",
+        "howItWorks": "Monster Energy segment sales rose 27.6% to $2.19B; Strategic Brands jumped 28.9% to $126.7M. Gross margin compressed to 55.0% from 56.5% on geographic mix, higher aluminum can costs and freight-in, partly offset by pricing actions.",
+        "whyItMatters": "Coming after Celsius posted a record Q1 with margin compression of its own, Monster's print confirms the energy-drink category is still expanding even as inputs bite. The +4.2% AH move puts MNST back near its multi-year highs.",
+        "forWho": "consumer-staples investors, beverage-category watchers",
+        "tryIt": "https://finance.yahoo.com/quote/MNST/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/b94e27d0-b76d-4c84-8e68-dc508643b8b6",
+        "alt": "Monster Beverage Q1 2026 earnings release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3290614/10193/en/Monster-Beverage-Reports-2026-First-Quarter-Financial-Results.html"
+        },
+        {
+          "label": "MNST Quote",
+          "url": "https://finance.yahoo.com/quote/MNST/"
+        }
+      ],
+      "publishDate": "2026-05-08T03:21:46.830Z"
+    },
+    {
+      "id": "txrh-q1-2026-earnings-divvy-raise",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Texas Roadhouse Q1 2026 — revenue +12.8% to $1.63B, EPS $1.87 beats, comp sales +7.1%; raises dividend to $0.75 and TXRH +6%",
+      "org": "Texas Roadhouse",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3290525/0/en/Texas-Roadhouse-Inc-Announces-First-Quarter-2026-Results.html",
+      "summary": "Texas Roadhouse grew Q1 revenue 12.8% to $1.63B with comparable sales +7.1% and EPS $1.87, ahead of the $1.79 consensus. The board raised the quarterly dividend to $0.75 from $0.68 and the stock climbed ~6% on the print.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "casual-dining",
+        "comp-sales",
+        "dividend-raise",
+        "consumer",
+        "traffic"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "TXRH",
+        "DRI",
+        "EAT"
+      ],
+      "metrics": {
+        "Revenue": "$1.63B (+12.8% Y/Y)",
+        "Diluted EPS": "$1.87 vs $1.79 est (+9.6% Y/Y)",
+        "Comp Sales": "+7.1%",
+        "Restaurant Margin": "16.3% (-30bp Y/Y)",
+        "Quarterly Dividend": "$0.75 (from $0.68)",
+        "Move": "+6.1% on day"
+      },
+      "explainer": {
+        "tagline": "Traffic-led comps, a beat on EPS and a dividend raise — casual dining's standout keeps printing in a soft consumer.",
+        "whatIsIt": "Texas Roadhouse reported Q1 2026 results on May 7, 2026. Revenue rose 12.8% to $1.63B, comparable restaurant sales grew 7.1% (with a roughly 1.9% April price increase), and diluted EPS climbed to $1.87 from $1.70.",
+        "howItWorks": "Net income rose to $123M. Restaurant-level margin slipped to 16.3% from 16.6% Y/Y on labor and commodity inflation. The board approved a $0.75 quarterly dividend (from $0.68), payable June 30 to holders of record June 2. The system ended the quarter with 822 restaurants.",
+        "whyItMatters": "While Sweetgreen flagged a -12.8% comp and Whirlpool blamed Iran for soft consumer confidence, Texas Roadhouse continued to take traffic share. The +6% move and dividend hike reinforce TXRH's status as the casual-dining bellwether.",
+        "forWho": "restaurant analysts, consumer-discretionary investors",
+        "tryIt": "https://finance.yahoo.com/quote/TXRH/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/f47d8d9e-49a2-4d13-b1aa-93e6b3e1ac00",
+        "alt": "Texas Roadhouse Q1 2026 earnings release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3290525/0/en/Texas-Roadhouse-Inc-Announces-First-Quarter-2026-Results.html"
+        },
+        {
+          "label": "8-K",
+          "url": "https://www.stocktitan.net/sec-filings/TXRH/8-k-texas-roadhouse-inc-reports-material-event-ba4007ba1538.html"
+        },
+        {
+          "label": "TXRH Quote",
+          "url": "https://stockanalysis.com/stocks/txrh/"
+        }
+      ],
+      "publishDate": "2026-05-08T03:21:46.830Z"
+    },
     {
       "id": "plnt-q1-2026-guide-cut",
       "categories": [

@@ -1088,6 +1088,58 @@
         "regulatory",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260508t032146z",
+      "timestamp": "2026-05-08T03:21:46.830Z",
+      "source": "github-actions-sweep",
+      "summary": "Added four May 7 after-the-close earnings prints not yet in the feed: Akamai (in-line revenue but a $1.8B/7-year AI cloud commitment sends shares ~+26%), Block (record 25% adjusted op margin, FY26 guide raised, +8% AH), Monster Beverage (+27% sales, +4% AH) and Texas Roadhouse (+7.1% comps, dividend raise, +6%).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "akam-q1-2026-1-8b-ai-deal",
+          "title": "Akamai Q1 2026 — revenue $1.07B in line, but $1.8B/7-yr AI cloud commitment from frontier-model provider sends AKAM ~+26%",
+          "category": "earnings",
+          "note": "Largest customer contract in Akamai history ($1.8B/7yr from a frontier-model lab) drove +26% move and a 52-week high."
+        },
+        {
+          "id": "xyz-q1-2026-earnings-guide-raise",
+          "title": "Block Q1 2026 — adj EPS $0.85 (+52%), record 25% adj op margin and FY26 guide raised; XYZ ~+8% AH despite $309M GAAP loss",
+          "category": "earnings",
+          "note": "Cash App reaccelerated to +38% GP growth, FY26 guide raised across the board, +8% AH."
+        },
+        {
+          "id": "mnst-q1-2026-earnings",
+          "title": "Monster Beverage Q1 2026 — net sales +27% to $2.35B, adj EPS $0.58 beats $0.53 est on international and Strategic Brands strength; MNST +4%",
+          "category": "earnings",
+          "note": "+27% net sales beat with international/Strategic Brands strength, despite -150bp gross margin compression."
+        },
+        {
+          "id": "txrh-q1-2026-earnings-divvy-raise",
+          "title": "Texas Roadhouse Q1 2026 — revenue +12.8% to $1.63B, EPS $1.87 beats, comp sales +7.1%; raises dividend to $0.75 and TXRH +6%",
+          "category": "earnings",
+          "note": "+12.8% revenue, +7.1% comps, EPS beat and $0.75 dividend (from $0.68); +6% on day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "mna",
+        "ipo",
+        "regulatory",
+        "analyst"
+      ]
     }
   ]
 }
