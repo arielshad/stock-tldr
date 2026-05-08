@@ -1,8 +1,212 @@
 {
-  "generatedAt": "2026-05-07T22:36:44.517Z",
+  "generatedAt": "2026-05-08T01:02:00.347Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "plnt-q1-2026-guide-cut",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Planet Fitness Q1 2026 — beats on Q1 (rev $337M, EPS $0.65) but pauses Black Card price hike and cuts FY26 EPS guide to $3.19; PLNT crashes ~30%",
+      "org": "Planet Fitness",
+      "date": "2026-05-07",
+      "url": "https://www.prnewswire.com/news-releases/planet-fitness-inc-announces-first-quarter-2026-results-302764905.html",
+      "summary": "PLNT beat Q1 (rev +21.9% to $337.2M, EPS $0.65) but slashed 2026 guide and cancelled the planned Black Card price hike after net new member adds fell 36% Y/Y. Stock plunged ~30% to a 52-week low.",
+      "tags": [
+        "earnings",
+        "guidance-cut",
+        "fy26-guide-cut",
+        "consumer-discretionary",
+        "fitness",
+        "price-hike-paused",
+        "membership-decline"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PLNT"
+      ],
+      "metrics": {
+        "Revenue": "$337.2M (+21.9% Y/Y)",
+        "EPS (GAAP)": "$0.65 vs $0.50 prior",
+        "Adj EPS": "$0.74 vs $0.63 est",
+        "Adj EBITDA": "$139.9M (+19.5% Y/Y)",
+        "Members": "21.5M (700K net adds Q1)",
+        "Same-club sales": "+3.5%",
+        "FY26 Adj EPS guide": "$3.19 (from $3.35–$3.38)",
+        "FY26 Revenue guide": "$1.41B (from $1.44B)",
+        "Move": "-30% intraday"
+      },
+      "explainer": {
+        "tagline": "Strong Q1 print, but the FY guide cut and the cancelled Black Card price hike send PLNT to a 52-week low.",
+        "whatIsIt": "Planet Fitness reported Q1 2026 results before the bell on May 7, 2026. The Q1 numbers cleared the Street, but management lowered FY26 guidance and paused a planned national Black Card price increase pending a broader pricing review.",
+        "howItWorks": "Q1 revenue rose 21.9% to $337.2M, adjusted EBITDA was $139.9M (+19.5% Y/Y) and adjusted EPS of $0.74 beat the $0.63 consensus. But net new member adds fell 36% Y/Y in the peak January–March sign-up season, with management citing weather, weaker resonance with beginner customers, and competitive pressure in the Sunbelt. FY26 adjusted EPS guide was cut to $3.19 (from a $3.35–$3.38 range), and revenue guide was cut to $1.41B from $1.44B.",
+        "whyItMatters": "The Black Card price hike was a key bull-case lever for 2026 EPS, and pulling it forces a rethink of unit economics. PLNT shares fell ~30% to a 52-week low — the steepest drop since 2020 — and the move drags on consumer-discretionary peers exposed to membership-based business models.",
+        "forWho": "consumer-discretionary investors, small-cap retail",
+        "tryIt": "https://www.tradingview.com/symbols/NYSE-PLNT/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/plnt_8-K.webp",
+        "alt": "Planet Fitness 8-K filing cover for Q1 2026 results",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/planet-fitness-inc-announces-first-quarter-2026-results-302764905.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/PLNT/8-k-planet-fitness-inc-reports-material-event-de40debe7fbf.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/1781798/planet-fitness-plnt-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "PLNT Chart",
+          "url": "https://www.tradingview.com/symbols/NYSE-PLNT/"
+        }
+      ],
+      "publishDate": "2026-05-08T01:02:00.347Z"
+    },
+    {
+      "id": "sitm-q1-2026-ai-timing",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "SiTime Q1 2026 — revenue $113.6M (+88% Y/Y), non-GAAP EPS $1.44 vs $1.16 est; AI/data-center timing demand drives Barclays upgrade with $850 PT, SITM +24%",
+      "org": "SiTime",
+      "date": "2026-05-06",
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3290487/0/en/sitime-reports-first-quarter-2026-financial-results.html",
+      "summary": "SiTime's Q1 revenue jumped 88% to $113.6M, beating $105.5M est. Non-GAAP EPS was $1.44 vs $1.16 est; CED segment grew 158% Y/Y on AI XPUs and 1.6Tb optical modules. Barclays double-upgraded to OW with PT $850, sending SITM +24% on May 7.",
+      "tags": [
+        "earnings",
+        "ai-infrastructure",
+        "precision-timing",
+        "data-center",
+        "semiconductors",
+        "analyst-upgrade",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SITM"
+      ],
+      "metrics": {
+        "Revenue": "$113.6M (+88.3% Y/Y) vs $105.5M est",
+        "GAAP EPS": "$(0.20)",
+        "Non-GAAP EPS": "$1.44 vs $1.16 est",
+        "GAAP Gross margin": "59.0%",
+        "Non-GAAP Gross margin": "64.5%",
+        "CED segment growth": "+158% Y/Y",
+        "Cash & ST inv": "$788.7M",
+        "Barclays PT": "$850 (from $400)",
+        "Move": "+24% on May 7"
+      },
+      "explainer": {
+        "tagline": "SiTime's MEMS timing chips ride the AI infrastructure build — and the Q1 print plus a Barclays double-upgrade re-rate the stock.",
+        "whatIsIt": "SiTime designs precision MEMS timing solutions used to synchronize signals across AI data center clusters, optical modules, and high-performance compute. The company reported Q1 2026 results after the close on May 6, 2026.",
+        "howItWorks": "Revenue grew 88.3% Y/Y to $113.6M, beating the $105.5M consensus. Non-GAAP EPS was $1.44 versus $1.16 estimated; non-GAAP gross margin was 64.5%. The Communications, Enterprise & Data Center (CED) segment grew 158% Y/Y, driven by AI inference XPUs, 1.6Tb optical modules, switches, co-packaged optics, and the new Elite 2 Super-TCXO. The company ended Q1 with $788.7M in cash and short-term investments.",
+        "whyItMatters": "SITM is one of the cleanest small-cap reads on AI cluster build-out — every GPU/XPU and 1.6Tb optical module needs precision timing. A Barclays double-upgrade to Overweight with a PT lifted to $850 (from $400) layered onto the print, sending shares +24% intraday May 7. Read-throughs to other AI infrastructure picks: AVGO, MRVL, COHR.",
+        "forWho": "semiconductor and AI infrastructure investors",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-SITM/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/a8004247-18ca-4cc8-897a-6cdc52b4a708",
+        "alt": "SiTime Q1 2026 earnings press release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/06/3290487/0/en/sitime-reports-first-quarter-2026-financial-results.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/SITM/8-k-sitime-corp-reports-material-event-454be161928b.html"
+        },
+        {
+          "label": "Stock News",
+          "url": "https://www.stocktitan.net/news/SITM/si-time-reports-first-quarter-2026-financial-s5ny9wwdrc3y.html"
+        },
+        {
+          "label": "SITM Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-SITM/"
+        }
+      ],
+      "publishDate": "2026-05-08T01:02:00.347Z"
+    },
+    {
+      "id": "agl-q1-2026-guide-raise",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "agilon health Q1 2026 — adj EBITDA $54M (vs $20.6M Y/Y), EPS $1.80 trounces $1.04 est; raises FY26 EBITDA to $10–$40M, AGL +28%",
+      "org": "agilon health",
+      "date": "2026-05-06",
+      "url": "https://www.stocktitan.net/sec-filings/AGL/8-k-agilon-health-inc-reports-material-event-7c5d80a0fc71.html",
+      "summary": "Value-based care platform agilon swung to $48.9M net income on $1.42B revenue (-7% Y/Y); adj EBITDA jumped to $53.8M from $20.6M. Management lifted FY26 adj EBITDA midpoint to $25M (range $10–$40M, vs prior -$15 to $15M). AGL +27.9%.",
+      "tags": [
+        "earnings",
+        "value-based-care",
+        "medicare-advantage",
+        "guide-raise",
+        "fy26-guide-raise",
+        "ceo-transition",
+        "managed-care"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AGL"
+      ],
+      "metrics": {
+        "Revenue": "$1.42B (-7% Y/Y)",
+        "Adj EPS": "$1.80 vs $1.04 est",
+        "Net income": "$48.9M (vs $12.1M Y/Y)",
+        "Adj EBITDA": "$53.8M (+157% Y/Y)",
+        "Medical margin": "$149M",
+        "MA members": "426K (vs 491K Y/Y)",
+        "FY26 Revenue guide": "$5.68–$5.81B",
+        "FY26 Adj EBITDA guide": "$10–$40M (from -$15 to $15M)",
+        "Move": "+27.9%"
+      },
+      "explainer": {
+        "tagline": "agilon's data overhaul lands — Q1 EBITDA more than doubles, FY guide gets a sharp raise, and AGL pops on a bullish CEO handoff.",
+        "whatIsIt": "agilon health is a value-based care platform that partners with primary care physicians on Medicare Advantage and ACO REACH risk-bearing contracts. The company reported Q1 2026 results on May 6, 2026 — the same day Tim O'Rourke took over as CEO.",
+        "howItWorks": "Revenue fell 7% Y/Y to $1.42B as MA membership dropped to 426K from 491K (a deliberate book pruning). But profitability surged: net income climbed to $48.9M from $12.1M, adjusted EBITDA jumped to $53.8M from $20.6M, and adjusted EPS of $1.80 crushed the $1.04 consensus. Management lifted FY26 adjusted EBITDA guidance to a $10–$40M range from prior $(15)–$15M; FY26 revenue guide is $5.68–$5.81B; medical margin guide $350–$400M. Enhanced data pipelines now provide validated claims/risk scores on ~85% of members, with the new CHF pathway shifting heart-failure diagnosis earlier in the care cycle (inpatient first-diagnosis rate from ~25% to <5%).",
+        "whyItMatters": "agilon spent 2025 in turnaround mode after a series of guide cuts; this is the first quarter where the data/risk-management investments show up in the numbers. The +27.9% move is the biggest single-day re-rating since 2024, and the read-through hits other risk-bearing managed-care names (HUM, OSCR, CLOV).",
+        "forWho": "managed-care and healthcare investors",
+        "tryIt": "https://www.tradingview.com/symbols/NYSE-AGL/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/agl_8-K.webp",
+        "alt": "agilon health 8-K filing cover for Q1 2026 results",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/AGL/8-k-agilon-health-inc-reports-material-event-7c5d80a0fc71.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/1756450/agilon-health-agl-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "Investor Site",
+          "url": "https://investors.agilonhealth.com/news/news-details/2026/agilon-health-Sets-Date-to-Report-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "AGL Chart",
+          "url": "https://www.tradingview.com/symbols/NYSE-AGL/"
+        }
+      ],
+      "publishDate": "2026-05-08T01:02:00.347Z"
+    },
     {
       "id": "abnb-q1-2026-earnings",
       "categories": [

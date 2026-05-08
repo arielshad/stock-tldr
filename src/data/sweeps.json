@@ -1044,6 +1044,50 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260508t010200z",
+      "timestamp": "2026-05-08T01:02:00.347Z",
+      "source": "github-actions-sweep",
+      "summary": "Three high-conviction May 6–7 2026 earnings movers: Planet Fitness (-30% on cut FY guide and cancelled Black Card hike), SiTime (+24% on a +88% Y/Y AI-timing print and Barclays double-upgrade), and agilon health (+28% on more-than-doubled adj EBITDA and a sharp FY guide raise).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "plnt-q1-2026-guide-cut",
+          "title": "Planet Fitness Q1 2026 — beats on Q1 (rev $337M, EPS $0.65) but pauses Black Card price hike and cuts FY26 EPS guide to $3.19; PLNT crashes ~30%",
+          "category": "earnings",
+          "note": "PLNT crashed ~30% on a cut FY26 guide and cancelled Black Card price hike — the biggest single-day move since 2020 and a clean catalyst-driven major mover."
+        },
+        {
+          "id": "sitm-q1-2026-ai-timing",
+          "title": "SiTime Q1 2026 — revenue $113.6M (+88% Y/Y), non-GAAP EPS $1.44 vs $1.16 est; AI/data-center timing demand drives Barclays upgrade with $850 PT, SITM +24%",
+          "category": "earnings",
+          "note": "SiTime's Q1 +88% revenue beat plus a Barclays double-upgrade to OW with $850 PT make this a high-conviction AI-infrastructure read-through; SITM +24% intraday May 7."
+        },
+        {
+          "id": "agl-q1-2026-guide-raise",
+          "title": "agilon health Q1 2026 — adj EBITDA $54M (vs $20.6M Y/Y), EPS $1.80 trounces $1.04 est; raises FY26 EBITDA to $10–$40M, AGL +28%",
+          "category": "earnings",
+          "note": "agilon adj EBITDA more than doubled and management raised FY26 guide sharply on the same day Tim O'Rourke took over as CEO; +27.9% one-day move re-rates the value-based-care complex."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "rates",
+        "commodity",
+        "mna",
+        "regulatory",
+        "analyst"
+      ]
     }
   ]
 }
