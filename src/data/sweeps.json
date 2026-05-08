@@ -1299,6 +1299,35 @@
         "mover",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260508t124733z",
+      "timestamp": "2026-05-08T12:47:33.947Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep adds the April 2026 BLS Employment Situation released this morning: payrolls +115K beat 62K consensus, unemployment held at 4.3%, March revised up to +185K. No other May 7 PM / May 8 AM news cleared the inclusion bar without colliding with existing items.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bls-april-2026-jobs-report",
+          "title": "U.S. April 2026 jobs report — payrolls +115K beat 62K est, unemployment steady at 4.3%, March revised up to +185K",
+          "category": "macro",
+          "note": "Major macro print released today — back-to-back monthly gains for the first time in nearly a year, beat consensus, primary BLS source plus Bloomberg/CNN/Fox Business confirm."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "rates",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,67 @@
 {
-  "generatedAt": "2026-05-08T10:54:50.368Z",
+  "generatedAt": "2026-05-08T12:47:33.947Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bls-april-2026-jobs-report",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. April 2026 jobs report — payrolls +115K beat 62K est, unemployment steady at 4.3%, March revised up to +185K",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-05-08",
+      "url": "https://www.bls.gov/news.release/archives/empsit_05082026.htm",
+      "summary": "Nonfarm payrolls rose 115,000 in April, nearly double the 62K LSEG consensus. Unemployment held at 4.3%. February revised down 23K to -156K; March revised up 7K to +185K. Healthcare, transport and retail led gains; federal employment fell.",
+      "tags": [
+        "jobs-report",
+        "nonfarm-payrolls",
+        "bls",
+        "april-2026",
+        "unemployment",
+        "macro",
+        "labor-market"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Nonfarm payrolls": "+115K vs +62K est",
+        "Unemployment rate": "4.3% (unchanged)",
+        "March revision": "+178K → +185K",
+        "Feb revision": "-133K → -156K"
+      },
+      "links": [
+        {
+          "label": "BLS Press Release",
+          "url": "https://www.bls.gov/news.release/archives/empsit_05082026.htm"
+        },
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/us-jobs-report-april-2026"
+        },
+        {
+          "label": "CNN Business",
+          "url": "https://www.cnn.com/2026/05/08/economy/us-jobs-report-april"
+        },
+        {
+          "label": "FRED PAYEMS",
+          "url": "https://fred.stlouisfed.org/series/PAYEMS"
+        }
+      ],
+      "explainer": {
+        "tagline": "April payrolls almost double consensus and March revised higher — labor market still resilient as Fed weighs cuts.",
+        "whatIsIt": "The Bureau of Labor Statistics released the April 2026 Employment Situation report on Friday, May 8 at 8:30 a.m. ET. It is the first jobs print since the FOMC's late-April hold, and the input most watched into the June 16–17 meeting.",
+        "howItWorks": "Total nonfarm payrolls rose 115,000 in April vs the 62,000 LSEG / 65,000 FactSet consensus. The unemployment rate was unchanged at 4.3%. February was revised down 23K to -156K and March revised up 7K to +185K, leaving the two-month net 16K lower. Health care, transportation and warehousing, and retail trade were the largest contributors; federal government payrolls continued to fall. Average workweek ticked up 0.1 hr to 34.3.",
+        "whyItMatters": "Back-to-back monthly gains for the first time in roughly a year argue against the recession framing some had built around February's negative print. With unemployment steady, the cooling-but-resilient narrative holds: rates desks priced odds of a June cut lower, and longer-end Treasury yields had spent the week hovering around the 5% line on the 30-year. Growth-sensitive equities and small caps benefit if prints keep landing in the 'soft landing' window.",
+        "forWho": "macro traders, rates desks, equity index strategists",
+        "tryIt": "https://fred.stlouisfed.org/series/PAYEMS"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bureau_of_Labor_Statistics_logo.svg/1280px-Bureau_of_Labor_Statistics_logo.svg.png",
+        "alt": "U.S. Bureau of Labor Statistics seal",
+        "fit": "contain"
+      },
+      "publishDate": "2026-05-08T12:47:33.947Z"
+    },
     {
       "id": "rhhby-pathai-1-05b-acquisition",
       "categories": [
