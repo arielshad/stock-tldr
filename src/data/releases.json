@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-08T12:47:33.947Z",
+  "generatedAt": "2026-05-08T14:56:47.880Z",
   "promptVersion": "1.0.0",
-  "source": "github-actions-sweep",
+  "source": "github-actions-sweep-retry",
   "items": [
+    {
+      "id": "bam-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Brookfield Asset Management Q1 2026 — FRE +11% to $772M, fee-bearing capital tops $614B (+12%) on $21B fundraise; AUM crosses $1T",
+      "org": "Brookfield Asset Management",
+      "date": "2026-05-08",
+      "url": "https://www.globenewswire.com/news-release/2026/05/08/3290968/0/en/brookfield-asset-management-announces-strong-first-quarter-results.html",
+      "summary": "Brookfield's pure-play asset manager posts $772M Q1 fee-related earnings (+11% Y/Y), $702M distributable earnings ($0.43/sh, beats $0.42 est), $21B raised in the quarter and $614B fee-bearing capital.",
+      "tags": [
+        "earnings",
+        "asset-management",
+        "alternative-assets",
+        "fee-related-earnings",
+        "fundraising",
+        "private-credit",
+        "infrastructure",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BAM"
+      ],
+      "metrics": {
+        "Fee-related earnings": "$772M (+11% Y/Y)",
+        "Distributable earnings": "$702M / $0.43 per share",
+        "Net income": "$617M / $0.38 per share",
+        "Fee-bearing capital": "$614B (+12% Y/Y)",
+        "Capital raised (Q1)": "$21B",
+        "Capital raised (YTD)": "$67B",
+        "Capital deployed (Q1)": "$34B",
+        "Quarterly dividend": "$0.5025 per share",
+        "Buybacks (Q1)": "$375M"
+      },
+      "links": [
+        {
+          "label": "Press Release Wire",
+          "url": "https://www.globenewswire.com/news-release/2026/05/08/3290968/0/en/brookfield-asset-management-announces-strong-first-quarter-results.html"
+        },
+        {
+          "label": "Bloomberg Coverage",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-08/brookfield-s-profit-rises-on-fundraising-fee-paying-asset-gains"
+        },
+        {
+          "label": "Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/article-brookfield-asset-management-posts-11-profit-boost-in-first-quarter/"
+        },
+        {
+          "label": "BAM TradingView",
+          "url": "https://www.tradingview.com/symbols/NYSE-BAM/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Brookfield's pure-play manager hits $1T AUM and $614B fee-bearing capital with $21B of new dry powder added in Q1.",
+        "whatIsIt": "Brookfield Asset Management — the publicly traded pure-play arm of the Brookfield ecosystem covering infrastructure, private equity, real estate, credit and energy transition — reported first-quarter 2026 results on May 8. Fee-related earnings, the metric the Street tracks for an alts manager, rose 11% to $772 million; distributable earnings of $0.43 per share beat the $0.42 consensus.",
+        "howItWorks": "BAM raised $21B in the quarter ($67B YTD), bringing fee-bearing capital to $614B (+12% Y/Y) and total AUM north of $1T after the Just Group $40B mandate from Brookfield Wealth Solutions and the closing of the Oaktree integration. The firm deployed or committed $34B in Q1 across infrastructure, energy, PE and credit, monetized $8B, and returned $375M to shareholders via buybacks plus a $0.5025/sh quarterly dividend. Net income was $617M ($0.38 EPS).",
+        "whyItMatters": "Confirms the alternative-asset megaplatform thesis: BAM's flagship infrastructure and private equity vintages are tracking to be its largest ever, fee-bearing capital is compounding double digits, and the firm signaled minimal exposure to the private-credit lending stress that's been pressuring smaller managers. CEO Connor Teskey said 2026 growth should exceed long-term targets.",
+        "forWho": "alts allocators, asset-manager equity desks",
+        "tryIt": "https://www.tradingview.com/symbols/NYSE-BAM/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/3a57691b-db18-4432-b333-64c887278a17",
+        "alt": "Brookfield Asset Management Q1 2026 results header",
+        "fit": "cover"
+      },
+      "publishDate": "2026-05-08T14:56:47.880Z"
+    },
+    {
+      "id": "wen-q1-2026-earnings-mover",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Wendy's Q1 2026 — global same-store sales -6.8% (US -7.8%) and 146 net store closures, but EPS/EBITDA top lowered bar; WEN +7.6%",
+      "org": "The Wendy's Company",
+      "date": "2026-05-08",
+      "url": "https://www.irwendys.com/news/news-details/2026/THE-WENDYS-COMPANY-REPORTS-FIRST-QUARTER-2026-RESULTS/default.aspx",
+      "summary": "Wendy's posts Q1 revenue $540.6M (+3.3%) and adj EPS $0.12 above the lowered Street bar, but US same-store sales fell 7.8% and the chain shrunk by 146 restaurants in the quarter; WEN bounces 7.6% off a 52-week low.",
+      "tags": [
+        "earnings",
+        "mover",
+        "restaurants",
+        "qsr",
+        "store-closures",
+        "turnaround",
+        "same-store-sales",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "WEN"
+      ],
+      "metrics": {
+        "Revenue": "$540.6M (+3.3% Y/Y, beat $518.1M est)",
+        "Adj EPS": "$0.12 (beat $0.10 est, vs $0.20 prior)",
+        "Net income": "$22.7M (-42.1% Y/Y)",
+        "Adj EBITDA": "$111.3M (-10.6% Y/Y, beat $102.8M est)",
+        "Global same-store sales": "-6.8%",
+        "US same-store sales": "-7.8%",
+        "International same-store sales": "-0.4%",
+        "Net store closures": "146 globally (US -164, Intl +18)",
+        "FY26 guide adj EPS": "$0.56–$0.60",
+        "FY26 guide adj EBITDA": "$460–$480M",
+        "Move": "+7.6% to $7.43"
+      },
+      "links": [
+        {
+          "label": "Wendy's IR Press Release",
+          "url": "https://www.irwendys.com/news/news-details/2026/THE-WENDYS-COMPANY-REPORTS-FIRST-QUARTER-2026-RESULTS/default.aspx"
+        },
+        {
+          "label": "PR Newswire Wire",
+          "url": "https://www.prnewswire.com/news-releases/the-wendys-company-reports-first-quarter-2026-results-302766438.html"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-8-wendys-nasdaqwen-delivers-strong-q1-cy2026-numbers-stock-soars"
+        },
+        {
+          "label": "WEN TradingView",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-WEN/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Wendy's beats lowered estimates but US comps -7.8% and 146 net store closures lay bare the depth of the QSR's turnaround challenge.",
+        "whatIsIt": "Wendy's reported Q1 2026 results on May 8 with adjusted EPS of $0.12 beating the $0.10 consensus on revenue of $540.6 million (+3.3% Y/Y, vs $518.1M est). Adjusted EBITDA of $111.3M topped the $102.8M Street view but fell 10.6% Y/Y. Adj EPS itself dropped from $0.20 a year ago.",
+        "howItWorks": "Global same-store sales declined 6.8%, with the US off 7.8% and international down 0.4%; systemwide sales fell 5.5% globally to $3.2B. The chain executed 146 net restaurant closures in the quarter (US net -164, international net +18), ending at 7,251 stores. Interim CEO Ken Cook reaffirmed FY26 guide for roughly flat systemwide sales, adj EBITDA $460–480M, adj EPS $0.56–0.60 and FCF $190–205M.",
+        "whyItMatters": "The +7.6% pop to $7.43 reflects relief that Q1 wasn't worse — Wendy's had hit a 52-week low of $6.52 earlier in the week — but the underlying picture (deeply negative US comps, accelerating store closures, FY26 EPS guide ~50% below 2025) shows McDonald's-style scale + value pricing is squeezing the #2 burger chain. International is the only growth pocket. Read in tandem with MCD's already-reported Q1 (US comps +3.9%) to see the gap.",
+        "forWho": "QSR / consumer discretionary desks",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-WEN/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2975172/THE_WENDY_S_COMPANY_LOGO_Logo_Logo.jpg?p=facebook",
+        "alt": "The Wendy's Company logo",
+        "fit": "contain"
+      },
+      "publishDate": "2026-05-08T14:56:47.880Z"
+    },
     {
       "id": "bls-april-2026-jobs-report",
       "categories": [

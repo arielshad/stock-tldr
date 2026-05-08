@@ -1328,6 +1328,37 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260508t145647z",
+      "timestamp": "2026-05-08T14:56:47.880Z",
+      "source": "github-actions-sweep-retry",
+      "summary": "Two Friday-morning Q1 prints surfaced: Brookfield Asset Management's $1T AUM milestone with fee-related earnings +11% to $772M, and Wendy's beat-the-lowered-bar quarter that still leaves US comps -7.8% and 146 net store closures.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bam-q1-2026-earnings",
+          "title": "Brookfield Asset Management Q1 2026 — FRE +11% to $772M, fee-bearing capital tops $614B (+12%) on $21B fundraise; AUM crosses $1T",
+          "category": "earnings",
+          "note": "Q1 print with $1T AUM, $614B fee-bearing capital, $21B Q1 fundraise — confirmed by Bloomberg, Globe and Mail, GlobeNewswire press release."
+        },
+        {
+          "id": "wen-q1-2026-earnings-mover",
+          "title": "Wendy's Q1 2026 — global same-store sales -6.8% (US -7.8%) and 146 net store closures, but EPS/EBITDA top lowered bar; WEN +7.6%",
+          "category": "earnings",
+          "note": "+7.6% mover (≥3% bar) with named catalyst (Q1 earnings beat lowered bar despite -6.8% global comps and 146 store closures); IR press release primary, StockStory and PR Newswire secondary."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
