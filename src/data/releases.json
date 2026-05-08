@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-08T14:56:47.880Z",
+  "generatedAt": "2026-05-08T16:48:40.893Z",
   "promptVersion": "1.0.0",
-  "source": "github-actions-sweep-retry",
+  "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "cit-trump-section-122-tariffs-may-2026",
+      "categories": [
+        "regulatory",
+        "macro"
+      ],
+      "title": "U.S. Court of International Trade rules Trump's 10% global Section 122 tariffs unlawful in 2-1 panel decision",
+      "org": "U.S. Court of International Trade",
+      "date": "2026-05-07",
+      "url": "https://www.cbsnews.com/news/u-s-trade-court-rules-against-trump-10-percent-tariffs/",
+      "summary": "A three-judge CIT panel ruled 2-1 that Trump exceeded his authority under Section 122 of the Trade Act when he imposed the February 2026 10% global tariff. Permanent injunction applies only to the named plaintiffs.",
+      "tags": [
+        "tariffs",
+        "trade",
+        "section-122",
+        "court-of-international-trade",
+        "trump-tariffs",
+        "burlap-and-barrel",
+        "regulatory",
+        "trade-act-1974"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Decision": "2-1 panel",
+        "Tariff": "10% global Section 122",
+        "Plaintiffs covered": "3 (Burlap & Barrel, Basic Fun, Washington State)",
+        "Filing date": "March 9, 2026",
+        "Ruling date": "May 7, 2026"
+      },
+      "explainer": {
+        "tagline": "CIT strikes down Trump's second-attempt 10% global tariffs as unlawful under Section 122 — but only the three plaintiffs get relief.",
+        "whatIsIt": "The U.S. Court of International Trade ruled 2-1 in Burlap and Barrel, Inc. v. Trump that the 10% global import surcharge Trump imposed in February 2026 — after the Supreme Court struck down his earlier IEEPA-based 'Liberation Day' tariffs — was unlawful. The court held the administration could not invoke Section 122 of the Trade Act of 1974 because that statute requires a balance-of-payments deficit, not a goods trade deficit.",
+        "howItWorks": "A three-judge CIT panel issued a 53-page opinion finding the administration conflated balance-of-payments deficits with trade deficits to justify the tariffs. The permanent injunction was narrow: tariffs cannot be charged on imports of the three plaintiffs (Burlap and Barrel, Basic Fun, the State of Washington) and refunds with interest are owed on duties already paid by them. Claims by 23 other states were dismissed for lack of standing. The administration is expected to appeal to the Federal Circuit and ultimately the Supreme Court.",
+        "whyItMatters": "Two of Trump's two tariff legal vehicles have now been struck down — IEEPA at the Supreme Court in February and Section 122 at the CIT now. With CBP CAPE refunds already starting on the IEEPA tariffs, importers and corporates are running scenarios for either a third legal theory or a Federal Circuit reversal. The narrow injunction means most importers still pay the 10% for now, but the precedent makes a broader injunction or class-wide refund more likely if the appeal fails.",
+        "forWho": "macro traders, importers, retailers, supply-chain analysts",
+        "tryIt": "https://libertyjusticecenter.org/wp-content/uploads/CIT-Opinion.pdf"
+      },
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/02/1a97f792-6202-466e-9ac0-e8a6a93012a0/thumbnail/1200x630/fcbe920e2676653e062c156bda65e0c9/gettyimages-2274039720.jpg",
+        "alt": "Cargo containers stacked at a U.S. port amid the Trump tariff dispute",
+        "fit": "cover",
+        "credit": "Getty Images via CBS News"
+      },
+      "links": [
+        {
+          "label": "CBS News Coverage",
+          "url": "https://www.cbsnews.com/news/u-s-trade-court-rules-against-trump-10-percent-tariffs/"
+        },
+        {
+          "label": "Liberty Justice Ctr",
+          "url": "https://libertyjusticecenter.org/pressrelease/liberty-justice-center-victorious-in-lawsuit-challenging-trumps-section-122-tariffs/"
+        },
+        {
+          "label": "CIT Opinion (PDF)",
+          "url": "https://libertyjusticecenter.org/wp-content/uploads/CIT-Opinion.pdf"
+        },
+        {
+          "label": "CNN Business",
+          "url": "https://www.cnn.com/2026/05/07/business/tariff-case-ten-percent-trump-court-international-trade"
+        },
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs"
+        }
+      ],
+      "publishDate": "2026-05-08T16:48:40.893Z"
+    },
+    {
+      "id": "iren-nvda-5gw-ai-partnership-may-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "NVIDIA and IREN announce up to 5GW AI infrastructure partnership; NVIDIA gets warrant for $2.1B IREN stake",
+      "org": "IREN",
+      "date": "2026-05-07",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+      "summary": "IREN and NVIDIA tie up on up to 5 GW of DSX-aligned AI infrastructure across IREN's pipeline, anchored at the 2 GW Sweetwater Texas campus. NVIDIA gets a 5-year warrant for 30M IREN shares at $70 (up to $2.1B). IREN spikes ~27% AH and closes ~+13%.",
+      "tags": [
+        "ai-infrastructure",
+        "data-center",
+        "ai-capex",
+        "nvidia-stake",
+        "warrant",
+        "dsx",
+        "sweetwater",
+        "texas",
+        "5gw"
+      ],
+      "importance": "major",
+      "tickers": [
+        "IREN",
+        "NVDA"
+      ],
+      "metrics": {
+        "Capacity": "Up to 5 GW",
+        "Anchor site": "Sweetwater TX (2 GW)",
+        "Warrant": "30M IREN shares @ $70 (5y)",
+        "Max NVDA stake": "Up to $2.1B",
+        "Move": "IREN +27% AH, ~+13% Friday close"
+      },
+      "explainer": {
+        "tagline": "NVIDIA pays its way into another AI data-center customer — IREN gets the GPU pipeline; Jensen gets a $2.1B warrant.",
+        "whatIsIt": "On May 7, IREN and NVIDIA announced a strategic partnership to deploy up to 5 GW of NVIDIA DSX-aligned AI infrastructure across IREN's global data-center pipeline, with the 2 GW Sweetwater, Texas campus as the flagship site. As part of the deal, IREN issued NVIDIA a five-year warrant to buy up to 30 million IREN ordinary shares at $70 — up to $2.1B in equity if fully exercised.",
+        "howItWorks": "IREN, an Australian-listed bitcoin miner that has pivoted to AI cloud, will deploy NVIDIA-aligned compute, networking, and software stacks across the campuses, including a separately reported five-year, $3.4B managed GPU cloud services contract for NVIDIA's internal AI/research workloads. The warrant is contingent on regulatory approvals. NVDA captures upside via the warrant; IREN gets a marquee design partner and demand backstop.",
+        "whyItMatters": "This is the third NVIDIA-as-investor announcement of the past 10 days (CRWV $2B equity, GLW $500M warrants, and now IREN), and it tightens NVIDIA's strategy of using its balance sheet to seed and lock in AI compute build-outs. IREN closed ~+13% on Friday after spiking ~27% in late trade on the announcement; the deal also reframes IREN from bitcoin miner to AI infra play and sets a new comparison point for VRT, CRWV, NBIS, and other AI-data-center names.",
+        "forWho": "AI infra investors, semis traders, data-center watchers",
+        "tryIt": "https://finance.yahoo.com/quote/IREN/"
+      },
+      "image": {
+        "url": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv.jpg",
+        "alt": "NVIDIA AI factory data-center hardware imagery from the partnership press release",
+        "fit": "cover",
+        "credit": "NVIDIA Newsroom"
+      },
+      "links": [
+        {
+          "label": "NVIDIA Press Release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure"
+        },
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3290674/0/en/NVIDIA-and-IREN-Announce-Strategic-Partnership-to-Accelerate-Deployment-of-up-to-5-Gigawatts-of-AI-Infrastructure.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-invest-2-1-billion-220154406.html"
+        },
+        {
+          "label": "IREN Quote",
+          "url": "https://finance.yahoo.com/quote/IREN/"
+        }
+      ],
+      "publishDate": "2026-05-08T16:48:40.893Z"
+    },
     {
       "id": "bam-q1-2026-earnings",
       "categories": [

@@ -1359,6 +1359,43 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260508t164840z",
+      "timestamp": "2026-05-08T16:48:40.893Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items: U.S. Court of International Trade strikes down Trump's 10% Section 122 global tariffs on narrow plaintiffs (Burlap and Barrel v. Trump), and NVIDIA + IREN announce up to 5 GW AI infrastructure partnership with NVIDIA receiving a 5-year warrant for up to $2.1B in IREN equity.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cit-trump-section-122-tariffs-may-2026",
+          "title": "U.S. Court of International Trade rules Trump's 10% global Section 122 tariffs unlawful in 2-1 panel decision",
+          "category": "regulatory",
+          "note": "Major regulatory milestone — second judicial defeat for the Trump tariff regime after the Supreme Court IEEPA ruling; distinct from the existing CAPE refund item."
+        },
+        {
+          "id": "iren-nvda-5gw-ai-partnership-may-2026",
+          "title": "NVIDIA and IREN announce up to 5GW AI infrastructure partnership; NVIDIA gets warrant for $2.1B IREN stake",
+          "category": "mover",
+          "note": "Single-name mover with named NVIDIA-stake catalyst; IREN +13% close, +27% AH; reframes IREN as an AI infra play and adds to NVIDIA's recent equity-seeded customer pattern."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "regulatory",
+        "macro",
+        "mover",
+        "sector",
+        "earnings",
+        "mna",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
