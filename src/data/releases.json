@@ -1,8 +1,149 @@
 {
-  "generatedAt": "2026-05-08T16:48:40.893Z",
+  "generatedAt": "2026-05-08T18:45:35.830Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "aws-us-east-1-thermal-outage-may-2026",
+      "categories": [
+        "sector",
+        "crypto"
+      ],
+      "title": "AWS US-East-1 thermal event takes Coinbase offline ~7 hours, hits FanDuel and CME — single-AZ outage cascades",
+      "org": "Amazon Web Services",
+      "tickers": [
+        "AMZN",
+        "COIN",
+        "FLUT",
+        "CME"
+      ],
+      "date": "2026-05-08",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/aws-data-center-outage-knocks-115048854.html",
+      "summary": "AWS Northern Virginia data center overheated late May 7, knocking out the use1-az4 availability zone. Coinbase trading was down ~7 hours; FanDuel and CME Group also hit. Several services still impaired into May 8.",
+      "tags": [
+        "aws",
+        "cloud",
+        "outage",
+        "us-east-1",
+        "thermal-event",
+        "coinbase",
+        "fanduel",
+        "cme",
+        "single-point-of-failure",
+        "infrastructure"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Coinbase downtime": "~7 hours",
+        "Affected zone": "use1-az4 (US-East-1)",
+        "Outage start": "~4:20 PM PDT, May 7",
+        "Power restored": "9:12 PM PDT, May 7"
+      },
+      "explainer": {
+        "tagline": "An overheated data hall in northern Virginia took down a slice of the cloud — and the consumer apps that quietly run on it.",
+        "whatIsIt": "On May 7 around 4:20 PM PDT, AWS reported a thermal event in a single availability zone (use1-az4) of its US-East-1 region in Northern Virginia. EC2 instances and EBS volumes lost power, and a slate of higher-level services degraded as failover did not behave as designed. Recovery extended into May 8 as cooling capacity was rebuilt incrementally.",
+        "howItWorks": "Power to the affected hardware was restored by 9:12 PM PDT, but services like ElastiCache, MSK (Kafka) and OpenSearch remained impaired hours later. Coinbase users were locked out of trades, balance checks and withdrawals for roughly seven hours; the exchange noted custody systems were unaffected. FanDuel users could not cash out mid-game; CME Group's trading platform was also disrupted.",
+        "whyItMatters": "It is the second material AWS-driven Coinbase outage since October 2025 and lands the same day Coinbase reported a $394M Q1 GAAP loss. The pattern keeps reopening the question of single-region concentration risk for crypto exchanges, sportsbooks and U.S. derivatives venues that all sit on the same Virginia footprint.",
+        "forWho": "infra teams, crypto traders, sportsbook bettors, exchange-risk desks",
+        "tryIt": "https://health.aws.amazon.com/health/status"
+      },
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/NjosjQpW3fVvVte7DRtAjV-1920-80.jpg",
+        "alt": "AWS data center server racks",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/aws-data-center-outage-knocks-115048854.html"
+        },
+        {
+          "label": "IT Pro Timeline",
+          "url": "https://www.itpro.com/infrastructure/aws-outage-explained-may-2026-data-center-overheating"
+        },
+        {
+          "label": "BanklessTimes",
+          "url": "https://www.banklesstimes.com/articles/2026/05/08/coinbase-hit-by-service-disruptions-as-heat-surge-impacts-aws-us-east-1-zone/"
+        },
+        {
+          "label": "AMZN Quote",
+          "url": "https://finance.yahoo.com/quote/AMZN/"
+        },
+        {
+          "label": "COIN Quote",
+          "url": "https://finance.yahoo.com/quote/COIN/"
+        }
+      ],
+      "publishDate": "2026-05-08T18:45:35.830Z"
+    },
+    {
+      "id": "vitl-q1-2026-earnings-butter-exit",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Vital Farms Q1 2026 — revenue +15.4% to $187.2M but loss of $0.03/sh, FY26 EBITDA guide cut to $0–$10M and butter business wound down; VITL ~-24%",
+      "org": "Vital Farms",
+      "tickers": [
+        "VITL"
+      ],
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/news/VITL/vital-farms-reports-first-quarter-2026-financial-b2fz4jdszsl8.html",
+      "summary": "Vital Farms beat on revenue ($187.2M, +15.4%) but flipped to a $1.5M net loss as gross margin collapsed from 38.5% to 28.3% on egg oversupply. FY26 EBITDA guide slashed to $0–$10M and the butter business is being wound down; VITL fell ~24% to $9.11.",
+      "tags": [
+        "earnings",
+        "miss",
+        "guide-cut",
+        "consumer-staples",
+        "eggs",
+        "butter-exit",
+        "gross-margin",
+        "q1-2026"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$187.2M (+15.4% Y/Y)",
+        "GAAP EPS": "($0.03) vs $0.05 est",
+        "Adj EBITDA": "$5.0M (2.7% margin)",
+        "Gross margin": "28.3% vs 38.5% Y/Y",
+        "FY26 revenue guide": "$775–$800M",
+        "FY26 adj EBITDA guide": "$0–$10M",
+        "FY26 capex guide": "$70–$75M (cut from $140–$150M)",
+        "Move": "~-24%"
+      },
+      "explainer": {
+        "tagline": "An egg oversupply blew up Vital Farms' margin, dragged Q1 to a loss and forced a deep guide cut plus a butter exit.",
+        "whatIsIt": "Vital Farms reported Q1 2026 results after the close on May 7. Revenue grew 15.4% Y/Y to $187.2M, but GAAP swung to a $1.5M net loss versus a $16.9M profit a year earlier. The company also said it will wind down its butter product line by year-end to refocus on the core egg business.",
+        "howItWorks": "Gross margin compressed from 38.5% to 28.3% as egg oversupply pushed sales into lower-priced wholesale and breaker channels. Adjusted EBITDA fell to $5.0M from $27.5M. Management cut FY26 revenue guide to $775–$800M (still ≥5% growth), adjusted EBITDA guide to $0–$10M (which embeds about $32M of oversupply-management costs), and capex to $70–$75M from a prior $140–$150M plan.",
+        "whyItMatters": "The print recasts VITL from a high-multiple consumer-staples grower into a margin-restoration story. The butter exit and capex cut signal management is conserving cash through an industry oversupply cycle. Shares dropped roughly 24% to $9.11, near a 52-week low.",
+        "forWho": "consumer-staples PMs, small-cap growth funds, ag-economy watchers",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-VITL/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Vital_Farms_Reports_First_Quarter_2026_Financial_Results_1053145.webp",
+        "alt": "Vital Farms Q1 2026 earnings press release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/VITL/vital-farms-reports-first-quarter-2026-financial-b2fz4jdszsl8.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/VITL/8-k-vital-farms-inc-reports-material-event-a64da8e94122.html"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vital-farms-nasdaq-vitl-posts-114553125.html"
+        },
+        {
+          "label": "VITL Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-VITL/"
+        }
+      ],
+      "publishDate": "2026-05-08T18:45:35.830Z"
+    },
     {
       "id": "cit-trump-section-122-tariffs-may-2026",
       "categories": [

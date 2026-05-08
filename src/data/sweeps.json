@@ -1396,6 +1396,39 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260508t184535z",
+      "timestamp": "2026-05-08T18:45:35.830Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: AWS US-East-1 thermal-event outage that knocked out Coinbase ~7h and hit FanDuel + CME, and Vital Farms Q1 (revenue +15% but margin collapse, FY26 EBITDA guide gutted, butter business wound down — VITL ~-24%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "aws-us-east-1-thermal-outage-may-2026",
+          "title": "AWS US-East-1 thermal event takes Coinbase offline ~7 hours, hits FanDuel and CME — single-AZ outage cascades",
+          "category": "sector",
+          "note": "Material multi-zone cloud outage with named operational impact on COIN, FLUT (FanDuel) and CME — second AWS-driven Coinbase outage since Oct 2025; tier-1 covered (CNBC, Yahoo)."
+        },
+        {
+          "id": "vitl-q1-2026-earnings-butter-exit",
+          "title": "Vital Farms Q1 2026 — revenue +15.4% to $187.2M but loss of $0.03/sh, FY26 EBITDA guide cut to $0–$10M and butter business wound down; VITL ~-24%",
+          "category": "earnings",
+          "note": "Clear mover with named catalyst — Q1 EPS miss + 24%+ drop + FY26 EBITDA guide slashed and full butter line discontinued."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "crypto"
+      ]
     }
   ]
 }
