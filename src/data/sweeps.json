@@ -1177,6 +1177,47 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260508t065514z",
+      "timestamp": "2026-05-08T06:55:14.861Z",
+      "source": "github-actions-sweep",
+      "summary": "Three additions from May 7's late-day earnings tape: JFrog (FROG) +17.5% on a 26% revenue print, raised cloud guide and $300M buyback; Innodata (INOD) ~+30% AH on a 54% revenue beat, $51M Big Tech engagement, FY26 guide to 40%+; MercadoLibre (MELI) -5.9% AH as 49% revenue growth was overshadowed by a fourth straight EPS miss.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "frog-q1-2026-earnings-buyback",
+          "title": "JFrog Q1 2026 — revenue $154M (+26%), cloud +50%, raises FY26 cloud guide and adds $300M buyback; FROG +17.5%",
+          "category": "earnings",
+          "note": "Major mover, +17.5% on raised cloud guide, $300M buyback authorization, and 50% cloud growth."
+        },
+        {
+          "id": "inod-q1-2026-earnings-bigtech",
+          "title": "Innodata Q1 2026 — revenue $90.1M (+54%), EPS $0.42; new $51M Big Tech engagement, raises FY26 growth guide to 40%+; INOD +30% AH",
+          "category": "earnings",
+          "note": "Small-cap mover, +30% AH on $51M Big Tech engagement and FY26 guide raise to 40%+."
+        },
+        {
+          "id": "meli-q1-2026-earnings",
+          "title": "MercadoLibre Q1 2026 — revenue $8.85B (+49% Y/Y, fastest since 2022) but EPS $8.23 misses $8.83 est; MELI -5.9% AH",
+          "category": "earnings",
+          "note": "LatAm bellwether print: revenue beat with 49% Y/Y growth, but fourth straight EPS miss sent shares -5.9% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }

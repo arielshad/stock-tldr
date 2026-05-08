@@ -1,8 +1,213 @@
 {
-  "generatedAt": "2026-05-08T05:21:09.502Z",
+  "generatedAt": "2026-05-08T06:55:14.861Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "frog-q1-2026-earnings-buyback",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "JFrog Q1 2026 — revenue $154M (+26%), cloud +50%, raises FY26 cloud guide and adds $300M buyback; FROG +17.5%",
+      "org": "JFrog",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/news/FROG/j-frog-announces-first-quarter-2026-a22bo5eljfxb.html",
+      "summary": "JFrog reported Q1 2026 revenue of $154M (+26% Y/Y), cloud revenue $78.9M (+50%), non-GAAP EPS $0.27; raised FY26 cloud growth guide to 33-35% and authorized a $300M buyback. Stock jumped 17.5% post-print.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "devops",
+        "software-supply-chain",
+        "cloud-growth",
+        "guide-raise",
+        "buyback",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FROG"
+      ],
+      "metrics": {
+        "Revenue": "$154M (+26% Y/Y)",
+        "Cloud Revenue": "$78.9M (+50% Y/Y)",
+        "Non-GAAP EPS": "$0.27 vs $0.21 est",
+        "Net Dollar Retention": "120%",
+        "$1M+ ARR Customers": "80 (+48% Y/Y)",
+        "Move": "+17.5%",
+        "Buyback": "$300M authorized",
+        "FY26 Revenue Guide": "$628-632M"
+      },
+      "explainer": {
+        "tagline": "JFrog's cloud business crosses 51% of revenue; FY26 cloud growth guide raised to 33-35% with a fresh $300M buyback.",
+        "whatIsIt": "JFrog reported Q1 2026 results on May 7. Revenue rose 26% to $154M, cloud revenue jumped 50% to $78.9M and now makes up 51% of the mix for the first time. Non-GAAP EPS came in at $0.27, beating the ~$0.21 consensus.",
+        "howItWorks": "Net dollar retention was 120%, gross retention 97%, and customers spending over $1M annually grew 48% Y/Y to 80. Management raised the FY26 cloud growth target to 33-35%, set the net dollar retention floor at 118%, and authorized a fresh $300M share repurchase. Q2 revenue guide is $154-156M; FY26 revenue guide is $628-632M (~18.5% growth at the midpoint).",
+        "whyItMatters": "The print extends a string of strong Q1 software prints (DDOG, FTNT) and reinforces that DevOps spend on AI-era artifact security is still scaling. The buyback signals confidence in cash generation despite continued reinvestment. FROG closed up 17.5% on the day.",
+        "forWho": "software/dev-tools investors",
+        "tryIt": "https://finance.yahoo.com/quote/FROG"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/JFrog_Announces_First_Quarter_2026_Results_1053845.webp",
+        "alt": "JFrog Q1 2026 earnings press release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/FROG/j-frog-announces-first-quarter-2026-a22bo5eljfxb.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/FROG/8-k-j-frog-ltd-reports-material-event-3fdecffe4da2.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/07/jfrog-frog-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "FROG Quote",
+          "url": "https://finance.yahoo.com/quote/FROG"
+        }
+      ],
+      "publishDate": "2026-05-08T06:55:14.861Z"
+    },
+    {
+      "id": "inod-q1-2026-earnings-bigtech",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Innodata Q1 2026 — revenue $90.1M (+54%), EPS $0.42; new $51M Big Tech engagement, raises FY26 growth guide to 40%+; INOD +30% AH",
+      "org": "Innodata",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/news/INOD/innodata-reports-record-first-quarter-2026-n7ay3w0n5eiu.html",
+      "summary": "Innodata posted record Q1 revenue of $90.1M (+54% Y/Y), EPS $0.42 (vs $0.22 prior), adj EBITDA $25M; signed a new $51M-in-2026 Big Tech AI deal and raised FY26 growth guide to ~40%+. INOD spiked from mid-$40s to low $60s in extended trade.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "ai-data",
+        "ai-services",
+        "big-tech",
+        "guide-raise",
+        "small-cap",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INOD"
+      ],
+      "metrics": {
+        "Revenue": "$90.1M (+54% Y/Y)",
+        "Net Income": "$14.9M",
+        "Diluted EPS": "$0.42 vs $0.22 prior",
+        "Adj EBITDA": "$25M (28% margin)",
+        "Cash": "$117.4M",
+        "Move": "~+30% AH",
+        "FY26 Revenue Guide": "approx +40% Y/Y",
+        "New Big Tech Deal": "~$51M of 2026 revenue"
+      },
+      "explainer": {
+        "tagline": "Innodata's AI-services run rate accelerates: Q1 revenue +54%, raises FY26 growth target to 40%+, and lands a $51M Big Tech engagement.",
+        "whatIsIt": "Innodata, an AI training-data and engineering services provider for hyperscalers, reported Q1 2026 results on May 7. Revenue hit a record $90.1M (+54% Y/Y), net income nearly doubled to $14.9M ($0.42 per diluted share), and adjusted EBITDA rose to $25M (28% margin).",
+        "howItWorks": "Management disclosed a new engagement with a leading Big Tech customer expected to add about $51M of 2026 revenue and raised full-year guidance to ~40%+ Y/Y growth, well above prior 'at least 40%' framing. Cash and short-term investments climbed to $117.4M from $82.2M at year-end. Adjusted gross margin expanded as new programs ramped.",
+        "whyItMatters": "INOD has become a small-cap proxy for hyperscaler AI training-data spend; Q1 puts the company on track for $360M+ FY26 revenue versus ~$255M in 2025. Shares spiked from the mid-$40s to the low $60s in extended trading, a roughly 30% move, on the deal disclosure and guide raise.",
+        "forWho": "small-cap AI growth, hyperscaler-supplier specialists",
+        "tryIt": "https://finance.yahoo.com/quote/INOD"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Innodata_Reports_Record_First_Quarter_2026_Results_1053821.webp",
+        "alt": "Innodata Q1 2026 earnings press release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/INOD/innodata-reports-record-first-quarter-2026-n7ay3w0n5eiu.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/INOD/8-k-innodata-inc-reports-material-event-ad2e74c3a155.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/07/innodata-inod-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "INOD Quote",
+          "url": "https://finance.yahoo.com/quote/INOD"
+        }
+      ],
+      "publishDate": "2026-05-08T06:55:14.861Z"
+    },
+    {
+      "id": "meli-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "MercadoLibre Q1 2026 — revenue $8.85B (+49% Y/Y, fastest since 2022) but EPS $8.23 misses $8.83 est; MELI -5.9% AH",
+      "org": "MercadoLibre",
+      "date": "2026-05-07",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-q1-2026-earnings-000045677.html",
+      "summary": "MercadoLibre reported Q1 net revenue $8.85B (+49% Y/Y, fastest since Q2 2022) topping Street, but EPS $8.23 missed $8.83 est on heavy fintech/credit and 1P investment. Brazil GMV +38%, Mexico +28%; MELI dropped ~5.9% AH.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "latam",
+        "ecommerce",
+        "fintech",
+        "credit-cards",
+        "mercado-pago",
+        "brazil",
+        "mover",
+        "miss"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MELI"
+      ],
+      "metrics": {
+        "Revenue": "$8.85B (+49% Y/Y)",
+        "EPS": "$8.23 vs $8.83 est",
+        "Brazil GMV": "+38% Y/Y",
+        "Mexico GMV": "+28% Y/Y",
+        "Argentina GMV": "+41% Y/Y",
+        "Credit Portfolio": "$14.6B (~2x Y/Y)",
+        "Move": "-5.9% AH"
+      },
+      "explainer": {
+        "tagline": "Revenue tops Street with 49% growth — best since 2022 — but credit-card buildout drags margins and EPS misses for a fourth straight quarter.",
+        "whatIsIt": "MercadoLibre reported Q1 2026 results on May 7. Net revenue rose 49% Y/Y to $8.85B, the fastest pace since Q2 2022, beating analyst expectations near $8.46B. EPS came in at $8.23 versus $8.83 consensus on heavy fintech and 1P/CBT spend.",
+        "howItWorks": "Brazil GMV grew 38% Y/Y with items sold accelerating to +56% after a lower free-shipping threshold; Mexico GMV +28% and Argentina +41%. Mercado Pago issued 2.7M new credit cards, lifting the credit portfolio to ~$14.6B (close to 2x Y/Y); credit-card TPV grew 90% Y/Y. Free shipping, 1P expansion and credit card scaling all weighed on margins.",
+        "whyItMatters": "MELI is the LatAm bellwether for both ecommerce and fintech; the revenue acceleration validates investment in shipping and credit, but the fourth straight EPS miss tested patience and sent shares down ~5.9% in after-hours trading. The credit portfolio doubling is a structural growth unlock and a credit-quality watch item.",
+        "forWho": "EM equity, LatAm/fintech, ecommerce investors",
+        "tryIt": "https://investor.mercadolibre.com/news-and-events"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/MercadoLibre_Inc_Reports_First_Quarter_2026_Financial_Results_1053675.webp",
+        "alt": "MercadoLibre Q1 2026 results cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/MELI/mercado-libre-inc-reports-first-quarter-2026-financial-8s8w1ccqwljm.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-q1-2026-earnings-000045677.html"
+        },
+        {
+          "label": "Investor Relations",
+          "url": "https://investor.mercadolibre.com/news-and-events"
+        },
+        {
+          "label": "MELI Quote",
+          "url": "https://finance.yahoo.com/quote/MELI"
+        }
+      ],
+      "publishDate": "2026-05-08T06:55:14.861Z"
+    },
     {
       "id": "hubs-q1-2026-agent-pricing-cut",
       "categories": [
