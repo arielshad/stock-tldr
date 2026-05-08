@@ -1,8 +1,334 @@
 {
-  "generatedAt": "2026-05-08T08:45:55.868Z",
+  "generatedAt": "2026-05-08T10:54:50.368Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rhhby-pathai-1-05b-acquisition",
+      "categories": [
+        "mna"
+      ],
+      "title": "Roche to acquire PathAI in deal worth up to $1.05B — $750M upfront + $300M milestones to consolidate AI digital pathology",
+      "org": "Roche",
+      "date": "2026-05-07",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-05-07",
+      "summary": "Roche signs definitive merger to acquire US digital pathology firm PathAI for $750M upfront plus up to $300M in milestones; integration into Roche Diagnostics targeted to begin H2 2026.",
+      "tags": [
+        "mna",
+        "digital-pathology",
+        "ai-diagnostics",
+        "oncology",
+        "medtech",
+        "roche",
+        "pathai"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RHHBY"
+      ],
+      "metrics": {
+        "Deal": "$750M upfront + up to $300M milestones (~$1.05B)",
+        "Close target": "H2 2026"
+      },
+      "links": [
+        {
+          "label": "Roche Press Release",
+          "url": "https://www.roche.com/media/releases/med-cor-2026-05-07"
+        },
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3289569/0/en/roche-enters-into-a-definitive-merger-agreement-to-acquire-pathai-to-transform-ai-driven-diagnostics.html"
+        },
+        {
+          "label": "Benzinga M&A",
+          "url": "https://www.benzinga.com/m-a/26/05/52383978/roche-to-acquire-pathai-in-up-to-1-05-billion-deal-to-expand-digital-pathology-push"
+        },
+        {
+          "label": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/medtech/roche-shell-out-1b-acquire-pathai-move-boost-ai-based-dx-algorithms"
+        }
+      ],
+      "explainer": {
+        "tagline": "Roche bets up to $1.05B on PathAI to fold AI digital pathology into its oncology diagnostics stack.",
+        "whatIsIt": "Swiss pharma giant Roche has signed a definitive merger agreement to acquire PathAI, a US-based digital pathology and AI software company. The deal is valued at $750M upfront with up to $300M of milestone payments — about $1.05B total.",
+        "howItWorks": "PathAI's AISight image-management software and AI-driven pathology algorithms will be folded into Roche Diagnostics, sitting alongside Roche's existing companion-diagnostics platform. Closing is expected in H2 2026 subject to customary regulatory approvals. PathAI also brings clinical-trial and translational-research tools used by biopharma to find biomarkers.",
+        "whyItMatters": "It is one of the larger digital-pathology M&A deals to date and another data point that Big Pharma is consolidating AI diagnostics in-house rather than partnering. Combined with Roche's installed pathology base, it pressures rival diagnostic platforms (Danaher, Thermo Fisher, Agilent) to respond on AI-pathology.",
+        "forWho": "medtech and life-sciences investors, AI healthcare watchers",
+        "tryIt": "https://www.globenewswire.com/news-release/2026/05/07/3289569/0/en/roche-enters-into-a-definitive-merger-agreement-to-acquire-pathai-to-transform-ai-driven-diagnostics.html"
+      },
+      "image": {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/696b7c85-2d23-4f5e-a77b-8c6b2fa45d47",
+        "alt": "Roche logo on the announcement of its definitive merger with PathAI",
+        "fit": "contain",
+        "credit": "Roche / GlobeNewswire"
+      },
+      "publishDate": "2026-05-08T10:54:50.368Z"
+    },
+    {
+      "id": "shak-q1-2026-earnings-miss",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Shake Shack Q1 2026 — revenue $366.7M (+14.3%), same-Shack +4.6%, but adj EBITDA margin -260bp; SHAK -23%",
+      "org": "Shake Shack",
+      "date": "2026-05-07",
+      "url": "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-Announces-First-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "Shake Shack Q1 revenue $366.7M (+14.3%) and same-Shack sales +4.6%, but adj EBITDA $37.0M (-9.3%) and an operating loss of $2.6M; shares plunge ~23% as the FY26 EBITDA range is broadened on Middle East drag.",
+      "tags": [
+        "earnings",
+        "mover",
+        "restaurants",
+        "consumer",
+        "q1-2026",
+        "ebitda-miss",
+        "guide-cut",
+        "shak"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SHAK"
+      ],
+      "metrics": {
+        "Revenue": "$366.7M (+14.3% Y/Y)",
+        "EPS": "-$0.01 vs +$0.12 est",
+        "Same-Shack sales": "+4.6%",
+        "Adj EBITDA": "$37.0M (margin 10.1%, -260bp Y/Y)",
+        "FY26 Adj EBITDA guide": "$230–$245M",
+        "Move": "-23.4%"
+      },
+      "links": [
+        {
+          "label": "Shake Shack IR",
+          "url": "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-Announces-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/investing/2026/05/07/heres-why-shake-shack-stock-got-pummeled-today/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shake-shack-shares-plunge-disappointing-165200596.html"
+        },
+        {
+          "label": "Q1 Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/07/shake-shack-shak-q1-2026-earnings-transcript/"
+        }
+      ],
+      "explainer": {
+        "tagline": "SHAK plunges ~23% as same-Shack growth slows and margins compress despite a 14% revenue line.",
+        "whatIsIt": "Shake Shack reported Q1 2026 results on May 7 showing 14.3% revenue growth that missed Wall Street, an EPS of roughly zero versus a $0.12 consensus, and a year-over-year drop in adjusted EBITDA margins. Shares closed down about 23%.",
+        "howItWorks": "Total revenue was $366.7M, with $354.0M of Shack sales and $12.7M of licensing. Same-Shack sales rose 4.6%; the company opened 17 new company-operated Shacks and 5 licensed locations. Adjusted EBITDA fell 9.3% to $37.0M with margin compressing from 12.7% to 10.1%; operating result swung to a $2.6M loss. Management broadened FY26 adj EBITDA guide to $230–$245M and pointed to lingering Middle East-licensee disruption.",
+        "whyItMatters": "Shake Shack's slowdown joins a broader fast-casual softening narrative (Sweetgreen, Cava). The 260bp margin compression and the FY26 guide widening — even after raising the new-Shack target to 60–65 — frames the print as a demand-and-cost problem, not just weather. Restaurant peers (CMG, CAVA, WING) trade in sympathy.",
+        "forWho": "consumer-discretionary and restaurant analysts",
+        "tryIt": "https://finance.yahoo.com/quote/SHAK/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Shake_Shack_Madison_Square.jpg/1280px-Shake_Shack_Madison_Square.jpg",
+        "alt": "Shake Shack flagship in Madison Square Park, New York",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-08T10:54:50.368Z"
+    },
+    {
+      "id": "bdx-q2-fy26-earnings-buyback",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Becton Dickinson Q2 FY26 — adj EPS $2.90 beats $2.78 est, raises FY26 EPS guide; $2B accelerated buyback; BDX +5.7%",
+      "org": "Becton Dickinson",
+      "date": "2026-05-07",
+      "url": "https://investors.bd.com/news-events/press-releases/detail/958/bd-reports-second-quarter-fiscal-2026-financial-results",
+      "summary": "BD posts Q2 FY26 revenue $4.71B (+5.2%), adj EPS $2.90 (+3.9%); raises FY26 adj EPS guide to $12.52–$12.72; executes $2B accelerated buyback and retires $2.1B debt — BDX rallies ~5.7%.",
+      "tags": [
+        "earnings",
+        "medtech",
+        "guide-raise",
+        "buyback",
+        "q2-fy26",
+        "bdx"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BDX"
+      ],
+      "metrics": {
+        "Revenue": "$4.714B (+5.2% reported, +2.6% FXN)",
+        "Adj EPS": "$2.90 vs $2.78 est (+3.9%)",
+        "GAAP EPS": "-$0.13",
+        "Adj op margin": "24.2%",
+        "FY26 adj EPS guide": "$12.52–$12.72 (from $12.35–$12.65)",
+        "Buyback": "$2.0B accelerated, plus $2.1B debt retired",
+        "Move": "+5.7%"
+      },
+      "links": [
+        {
+          "label": "BD Press Release",
+          "url": "https://investors.bd.com/news-events/press-releases/detail/958/bd-reports-second-quarter-fiscal-2026-financial-results"
+        },
+        {
+          "label": "Quiver Quant",
+          "url": "https://www.quiverquant.com/news/BDX+jumps+after+Q2+results+and+raised+FY2026+EPS+outlook"
+        },
+        {
+          "label": "Q2 Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/07/becton-dickinson-bdx-q2-2026-earnings-transcript/"
+        },
+        {
+          "label": "BDX Quote",
+          "url": "https://finance.yahoo.com/quote/BDX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "BD beats on EPS, raises FY26 guide, and follows through with a $2B accelerated buyback.",
+        "whatIsIt": "Becton Dickinson reported fiscal Q2 2026 results on May 7. Revenue was $4.714B (+5.2% reported, +2.6% FXN), and adj EPS was $2.90, ahead of the $2.78 consensus. GAAP EPS was -$0.13 on restructuring/separation costs.",
+        "howItWorks": "Adjusted operating margin of 24.2% expanded from the prior year. Management raised FY26 adj EPS guide to $12.52–$12.72 from the prior $12.35–$12.65 range, citing first-half performance and improved second-half visibility. Capital actions: a $2.0B accelerated share repurchase executed in the quarter and ~$2.1B of debt retired.",
+        "whyItMatters": "BD is one of the larger medtech bellwethers; a beat-and-raise paired with a sizable buyback supports the medtech recovery narrative going into the BD-Solventum spin work. Read-throughs to large-cap diversified medtech (MDT, ABT, SYK) and to medical-supplies pricing.",
+        "forWho": "medtech investors and healthcare allocators",
+        "tryIt": "https://finance.yahoo.com/quote/BDX/"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_912b6caa5c0d7167a14a64f32c3c3fa6/bd/db/2440/22365/social_image_resized.jpg",
+        "alt": "BD (Becton, Dickinson and Company) corporate banner",
+        "fit": "cover",
+        "credit": "BD / IR"
+      },
+      "publishDate": "2026-05-08T10:54:50.368Z"
+    },
+    {
+      "id": "podd-q1-2026-earnings-stock-drop",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Insulet Q1 2026 — revenue $761.7M (+33.9%), adj EPS $1.42 beats $1.19 est; FY26 guide raised but PODD -10% on full-year EPS read",
+      "org": "Insulet",
+      "date": "2026-05-06",
+      "url": "https://investor.insulet.com/news/news-details/2026/Insulet-Reports-First-Quarter-2026-Results/default.aspx",
+      "summary": "Insulet posts Q1 revenue $761.7M (+33.9%, +30.1% cc) and adj EPS $1.42 vs $1.19 est, lifting FY26 revenue growth to 21–23% cc; PODD still falls ~10% as full-year EPS implication trails consensus.",
+      "tags": [
+        "earnings",
+        "mover",
+        "diabetes",
+        "medtech",
+        "omnipod",
+        "q1-2026",
+        "guide-raise",
+        "podd"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PODD"
+      ],
+      "metrics": {
+        "Revenue": "$761.7M (+33.9% Y/Y, +30.1% cc)",
+        "Omnipod revenue": "$758.4M (+36.9%)",
+        "Adj EPS": "$1.42 vs $1.19 est",
+        "GAAP EPS": "$1.30 vs $0.50 Y/Y",
+        "FY26 revenue growth guide": "21–23% cc (from 20–22%)",
+        "Move": "-10.2%"
+      },
+      "links": [
+        {
+          "label": "Insulet IR",
+          "url": "https://investor.insulet.com/news/news-details/2026/Insulet-Reports-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "8-K (StockTitan)",
+          "url": "https://www.stocktitan.net/sec-filings/PODD/8-k-insulet-corp-reports-material-event-ffb2065e126d.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52318227/insulet-boosts-2026-outlook-fueled-by-strong-omnipod-growth"
+        },
+        {
+          "label": "Q1 Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/insulet-podd-q1-2026-earnings-transcript/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Insulet beats and raises but PODD slides ~10% as the implied FY EPS lands below the Street.",
+        "whatIsIt": "Insulet reported Q1 2026 results on May 6. Revenue rose 33.9% to $761.7M with Omnipod revenue +36.9% to $758.4M; international Omnipod was +59.4%. Adjusted EPS of $1.42 beat the $1.19 consensus.",
+        "howItWorks": "Q1 GAAP EPS was $1.30 versus $0.50 a year ago. Insulet raised FY26 revenue growth guidance to 21–23% in constant currency (from 20–22%) and reiterated ~100bp adj operating margin expansion. The company also flagged enrollment of the first patient in the EVOLVE pivotal trial for its fully closed-loop AID system in type-2 diabetes, intended to support a planned 2027 510(k) filing.",
+        "whyItMatters": "PODD is the dominant patch-pump platform and a key read on diabetes-tech adoption versus Tandem and Medtronic. The 10% drop after a beat shows how tightly the stock is priced for the FY EPS line — BTIG cut its PT from $320 to $260 while keeping a Buy. Read-throughs to TNDM, MDT, DXCM.",
+        "forWho": "medtech / diabetes-tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/PODD/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Insulet_Reports_First_Quarter_2026_Results_1051922.webp",
+        "alt": "Insulet Corporation Q1 2026 earnings cover graphic",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "publishDate": "2026-05-08T10:54:50.368Z"
+    },
+    {
+      "id": "lyft-q1-2026-earnings",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Lyft Q1 2026 — gross bookings $4.9B (+19%), revenue $1.65B (+14%), adj EBITDA $132.8M (+25%); Q2 GB guide $5.30–$5.43B",
+      "org": "Lyft",
+      "date": "2026-05-07",
+      "url": "https://investor.lyft.com/news-events-presentations/press-releases/detail/197/lyft-reports-strong-q1-2026-financial-results",
+      "summary": "Lyft Q1 gross bookings $4.9B (+19%), revenue $1.65B (+14%), 28.3M active riders (+17%); adj EBITDA $132.8M (+25%); Q2 guide gross bookings $5.30–$5.43B and adj EBITDA $160–$180M.",
+      "tags": [
+        "earnings",
+        "rideshare",
+        "q1-2026",
+        "gross-bookings",
+        "lyft"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "LYFT",
+        "UBER"
+      ],
+      "metrics": {
+        "Gross bookings": "$4.9B (+19% Y/Y)",
+        "Revenue": "$1.65B (+14% Y/Y)",
+        "Active riders": "28.3M (+17%)",
+        "Adj EBITDA": "$132.8M (+25%)",
+        "Diluted EPS": "$0.04",
+        "Q2 GB guide": "$5.30–$5.43B (+18–21%)",
+        "Q2 Adj EBITDA guide": "$160–$180M",
+        "Move": "-3.1%"
+      },
+      "links": [
+        {
+          "label": "Lyft IR",
+          "url": "https://investor.lyft.com/news-events-presentations/press-releases/detail/197/lyft-reports-strong-q1-2026-financial-results"
+        },
+        {
+          "label": "StockTitan",
+          "url": "https://www.stocktitan.net/news/LYFT/lyft-reports-strong-q1-2026-financial-gj3i9yb2217l.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lyft-q1-earnings-call-highlights-072541294.html"
+        },
+        {
+          "label": "LYFT Quote",
+          "url": "https://finance.yahoo.com/quote/LYFT/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Lyft delivers a record FCF quarter and 19% gross-bookings growth — but a small EPS miss caps the move.",
+        "whatIsIt": "Lyft reported Q1 2026 results on May 7. Gross bookings grew 19% year-over-year to $4.9B, revenue rose 14% to $1.65B, and active riders climbed 17% to 28.3M. Adjusted EBITDA was $132.8M, up 25%, and the company posted its highest-ever trailing-twelve-month free cash flow.",
+        "howItWorks": "Diluted EPS of $0.04 was a small miss versus consensus near $0.06. For Q2, Lyft guided gross bookings to $5.30–$5.43B (18–21% growth) and adjusted EBITDA to $160–$180M, both above Street expectations.",
+        "whyItMatters": "Lyft is the cleanest pure-play comparable to Uber's mobility segment. Q1 2026 strength suggests rideshare demand is holding up; the gap between Lyft's operating momentum and its share-price reaction (-3% on the print) frames the rideshare-vs-robotaxi narrative running into Q2.",
+        "forWho": "rideshare and consumer-tech analysts",
+        "tryIt": "https://finance.yahoo.com/quote/LYFT/"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_2027c2069873875dd570b95b37295382/lyft/db/3704/33644/social_image_resized.jpg",
+        "alt": "Lyft Q1 2026 financial results banner",
+        "fit": "cover",
+        "credit": "Lyft / IR"
+      },
+      "publishDate": "2026-05-08T10:54:50.368Z"
+    },
     {
       "id": "cvs-q1-2026-earnings-guide-raise",
       "categories": [

@@ -1249,6 +1249,56 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260508t105450z",
+      "timestamp": "2026-05-08T10:54:50.368Z",
+      "source": "github-actions-sweep",
+      "summary": "Five new items: Roche/PathAI $1.05B digital-pathology M&A, Shake Shack Q1 -23% on margin compression, BD Q2 FY26 beat-and-raise with $2B buyback, Insulet Q1 beat-and-raise that still drew a 10% sell-off, and Lyft Q1 beat with raised Q2 guide.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rhhby-pathai-1-05b-acquisition",
+          "title": "Roche to acquire PathAI in deal worth up to $1.05B — $750M upfront + $300M milestones to consolidate AI digital pathology",
+          "category": "mna",
+          "note": "Largest digital pathology M&A of 2026 to date — primary source from Roche newsroom plus tier-1 medtech outlets."
+        },
+        {
+          "id": "shak-q1-2026-earnings-miss",
+          "title": "Shake Shack Q1 2026 — revenue $366.7M (+14.3%), same-Shack +4.6%, but adj EBITDA margin -260bp; SHAK -23%",
+          "category": "earnings",
+          "note": "SHAK -23%, EBITDA margin compresses 260bp, broader FY26 EBITDA guide; restaurant softness data point."
+        },
+        {
+          "id": "bdx-q2-fy26-earnings-buyback",
+          "title": "Becton Dickinson Q2 FY26 — adj EPS $2.90 beats $2.78 est, raises FY26 EPS guide; $2B accelerated buyback; BDX +5.7%",
+          "category": "earnings",
+          "note": "Large-cap medtech beat-and-raise with a $2B accelerated buyback; broad medtech read-through."
+        },
+        {
+          "id": "podd-q1-2026-earnings-stock-drop",
+          "title": "Insulet Q1 2026 — revenue $761.7M (+33.9%), adj EPS $1.42 beats $1.19 est; FY26 guide raised but PODD -10% on full-year EPS read",
+          "category": "earnings",
+          "note": "Diabetes-tech beat-and-raise but stock falls 10% on FY EPS implication; relevant for medtech allocators."
+        },
+        {
+          "id": "lyft-q1-2026-earnings",
+          "title": "Lyft Q1 2026 — gross bookings $4.9B (+19%), revenue $1.65B (+14%), adj EBITDA $132.8M (+25%); Q2 GB guide $5.30–$5.43B",
+          "category": "earnings",
+          "note": "Q1 rideshare comp to UBER — 19% gross bookings growth and Q2 guide above Street."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna"
+      ]
     }
   ]
 }
