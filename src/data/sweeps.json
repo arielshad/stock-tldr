@@ -1218,6 +1218,37 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260508t084555z",
+      "timestamp": "2026-05-08T08:45:55.868Z",
+      "source": "github-actions-sweep",
+      "summary": "Two May 6–7 mega-cap and large-cap earnings prints not yet in the feed: CVS Health's clean Aetna-led Q1 beat with a four-point EPS guide raise, and Gen Digital's first $5B year with a step-change FY27 growth guide.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cvs-q1-2026-earnings-guide-raise",
+          "title": "CVS Health Q1 2026 — revenue $100.4B (+6.2%), adj EPS $2.57 vs $2.20 est, raises FY26 EPS guide to $7.30–$7.50; CVS +7%",
+          "category": "earnings",
+          "note": "Mega-cap healthcare beat, 7% day move, every segment topped Street, every line of guide raised — clear major."
+        },
+        {
+          "id": "gen-q4-fy26-earnings-guide-raise",
+          "title": "Gen Digital FQ4 FY26 — first $5B revenue year, non-GAAP EPS $2.56 (+15%); raises FY27 revenue growth guide to 8–10%; GEN +8% AH",
+          "category": "earnings",
+          "note": "FY26 hits $5B for first time and FY27 revenue growth guide steps from mid-single digits to 8–10%; +8% AH meets mover bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

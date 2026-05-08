@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-05-08T06:55:14.861Z",
+  "generatedAt": "2026-05-08T08:45:55.868Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "cvs-q1-2026-earnings-guide-raise",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CVS Health Q1 2026 — revenue $100.4B (+6.2%), adj EPS $2.57 vs $2.20 est, raises FY26 EPS guide to $7.30–$7.50; CVS +7%",
+      "org": "CVS Health",
+      "date": "2026-05-06",
+      "url": "https://investors.cvshealth.com/news/news-details/2026/CVS-HEALTH-CORPORATION-REPORTS-STRONG-FIRST-QUARTER-2026-RESULTS-AND-RAISES-FULL-YEAR-2026-GUIDANCE/default.aspx",
+      "summary": "CVS beat across every segment, with Aetna driving over $1B of Y/Y operating-income improvement. Management lifted FY26 adj EPS guide to $7.30–$7.50, revenue to ≥$405B and OCF to ≥$9.5B.",
+      "tickers": [
+        "CVS"
+      ],
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "eps-beat",
+        "guidance-raise",
+        "healthcare",
+        "managed-care",
+        "aetna",
+        "pharmacy"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$100.4B (+6.2% Y/Y)",
+        "Adj EPS": "$2.57 vs $2.20 est",
+        "GAAP EPS": "$2.30 (+63% Y/Y)",
+        "Aetna Adj OI": "$3.04B (+52.6%)",
+        "FY26 Adj EPS guide": "$7.30–$7.50 (was $7.00–$7.20)",
+        "Move": "+7% on the day"
+      },
+      "explainer": {
+        "tagline": "Aetna's turnaround drives CVS's biggest beat in years and a meaningful guidance raise.",
+        "whatIsIt": "CVS Health reported Q1 2026 results that topped expectations across all three segments — Health Care Benefits, Health Services and Pharmacy & Consumer Wellness — and raised every line of full-year guidance.",
+        "howItWorks": "Total revenue rose 6.2% Y/Y to $100.4B vs $95.0B est. Adj EPS came in at $2.57 vs $2.20 consensus; GAAP EPS jumped 63% to $2.30. Health Care Benefits adj operating income rose 52.6% to $3.04B as Aetna's medical-cost trends improved. FY26 adj EPS guide raised to $7.30–$7.50 (from $7.00–$7.20), revenue to ≥$405B, and operating cash flow to ≥$9.5B.",
+        "whyItMatters": "CVS shares had been a multi-year underperformer on Aetna cost concerns and PBM regulatory overhang. A clean beat with a Y/Y operating-income jump at Aetna and a four-point EPS guide bump is the strongest signal yet that the insurance turnaround is taking hold. Other managed-care names (UNH, ELV, HUM, CI) trade off the same medical-loss-ratio backdrop.",
+        "forWho": "managed-care and healthcare allocators",
+        "tryIt": "https://finance.yahoo.com/quote/CVS/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/143455/cvs_health_logo.jpg",
+        "alt": "CVS Health logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "CVS Press Release",
+          "url": "https://investors.cvshealth.com/news/news-details/2026/CVS-HEALTH-CORPORATION-REPORTS-STRONG-FIRST-QUARTER-2026-RESULTS-AND-RAISES-FULL-YEAR-2026-GUIDANCE/default.aspx"
+        },
+        {
+          "label": "Earnings Release PDF",
+          "url": "https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/pdfs/2026/Q1-2026-EarningsRelease.pdf"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html"
+        },
+        {
+          "label": "CVS Quote",
+          "url": "https://finance.yahoo.com/quote/CVS/"
+        }
+      ],
+      "publishDate": "2026-05-08T08:45:55.868Z"
+    },
+    {
+      "id": "gen-q4-fy26-earnings-guide-raise",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Gen Digital FQ4 FY26 — first $5B revenue year, non-GAAP EPS $2.56 (+15%); raises FY27 revenue growth guide to 8–10%; GEN +8% AH",
+      "org": "Gen Digital",
+      "date": "2026-05-07",
+      "url": "https://www.prnewswire.com/news-releases/gen-crosses-5b-in-fy26-revenue-with-growth-accelerating-to-double-digits-302766086.html",
+      "summary": "Norton/LifeLock parent crossed $5B in annual revenue for the first time as the MoneyLion-led Trust-Based Solutions segment grew 20%+. Management lifted FY27 growth guide to 8–10% and EPS to $2.85–$2.95.",
+      "tickers": [
+        "GEN"
+      ],
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "fy26",
+        "guidance-raise",
+        "cybersecurity",
+        "norton",
+        "lifelock",
+        "moneylion",
+        "consumer-fintech"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q4 Revenue": "$1.28B (+27% Y/Y reported)",
+        "FY26 Revenue": "$5.00B (+27% reported, +9% pro forma)",
+        "FY26 Non-GAAP EPS": "$2.56 (+15%)",
+        "FY27 Revenue guide": "$5.325–$5.425B (+8–10%)",
+        "FY27 Non-GAAP EPS guide": "$2.85–$2.95",
+        "Move": "+8% AH"
+      },
+      "explainer": {
+        "tagline": "Gen's first $5B year — and a step-change in growth — say the MoneyLion bet is paying off.",
+        "whatIsIt": "Gen Digital, the consumer-cyber group behind Norton, LifeLock, Avast, Avira and CCleaner, reported FQ4 and FY26 results. The MoneyLion acquisition closed last year boosted reported numbers, but pro forma growth still re-accelerated.",
+        "howItWorks": "FY26 revenue $5.00B (+27% reported, +9% pro forma) with Q4 $1.28B (+27% reported). Non-GAAP FY26 EPS $2.56 (+15%); GAAP EPS $1.57 (+53%). Trust-Based Solutions (MoneyLion) grew 20%+; Cyber Safety grew mid-single digits. FY27 guide: revenue $5.325–$5.425B (+8–10%), non-GAAP EPS $2.85–$2.95 (mid-teens growth), with leverage already at the 3x EBITDA target a year ahead of plan.",
+        "whyItMatters": "Gen had been a low-growth subscription-cyber name. Lifting the growth guide from mid-single digits to 8–10% and the EPS bracket above the prior consensus $2.78 is the meaningful change — it puts Gen in the same growth conversation as some pure-play cybersecurity peers. MoneyLion turning into a near-$1B run-rate consumer-fintech engine inside Gen is the new bull story.",
+        "forWho": "cybersecurity and consumer-fintech allocators",
+        "tryIt": "https://finance.yahoo.com/quote/GEN/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2974469/Gen_Digital_Inc_Q4_FY26_One_Page_Graphic.jpg",
+        "alt": "Gen Digital Q4 FY26 results — one-page summary graphic",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Gen Press Release",
+          "url": "https://www.prnewswire.com/news-releases/gen-crosses-5b-in-fy26-revenue-with-growth-accelerating-to-double-digits-302766086.html"
+        },
+        {
+          "label": "8-K Filing Summary",
+          "url": "https://www.stocktitan.net/sec-filings/GEN/8-k-gen-digital-inc-reports-material-event-5b1dada4fb73.html"
+        },
+        {
+          "label": "Gen Investor Page",
+          "url": "https://investor.gendigital.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "GEN Quote",
+          "url": "https://finance.yahoo.com/quote/GEN/"
+        }
+      ],
+      "publishDate": "2026-05-08T08:45:55.868Z"
+    },
     {
       "id": "frog-q1-2026-earnings-buyback",
       "categories": [
