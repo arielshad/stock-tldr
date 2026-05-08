@@ -1,8 +1,83 @@
 {
-  "generatedAt": "2026-05-08T18:45:35.830Z",
+  "generatedAt": "2026-05-08T20:33:50.721Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "tm-q4-fy26-earnings-tariff-hit",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Toyota FY26 — record ¥50.7T revenue but op income -21.5% on ¥1.38T US tariff hit; FY27 guide cuts another 20% to ¥3T",
+      "org": "Toyota Motor Corporation",
+      "date": "2026-05-08",
+      "url": "https://pressroom.toyota.com/tmc-announces-april-through-march-2026-financial-results/",
+      "summary": "Toyota's fiscal 2026 (Apr 2025–Mar 2026) printed record net revenue of ¥50.7T and 9.6M global units, but op income fell 21.5% to ¥3.77T as US tariffs cost ¥1.38T and dragged North America to a ¥298.6B loss.",
+      "tickers": [
+        "TM",
+        "7203.T"
+      ],
+      "metrics": {
+        "Q4 op income": "¥569.4B vs ¥813.3B est (-49% Y/Y)",
+        "FY26 revenue": "¥50.68T (+5.5%)",
+        "FY26 op income": "¥3.77T (-21.5%)",
+        "FY26 net income": "¥3.85T (-19%)",
+        "FY26 NA op (ex-swaps)": "-¥298.6B vs +¥108.8B Y/Y",
+        "FY26 US tariff hit": "¥1.38T (~$9B)",
+        "FY27 op income guide": "¥3.0T (~-20% vs FY26)",
+        "FY27 tariff hit (est)": "¥670B",
+        "Move (7203.T)": "-2.18% to ¥2,913"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "fy26",
+        "autos",
+        "japan",
+        "tariffs",
+        "section-122",
+        "north-america",
+        "ev-investment",
+        "guidance-cut"
+      ],
+      "explainer": {
+        "tagline": "Record sales year, but the US tariff bill turned Toyota's North American operation into a $2B loss.",
+        "whatIsIt": "Toyota Motor Corporation reported full-year FY2026 results on May 8 (covering April 2025–March 2026). Vehicle sales hit a record 9.595M units, revenue rose 5.5% to ¥50.68T, but operating income fell 21.5% to ¥3.77T and Q4 op income missed badly at ¥569.4B vs ¥813.3B Street estimate.",
+        "howItWorks": "Toyota disclosed a ¥1.38T (~$9B) operating-income hit from US tariffs in FY26, plus a ¥2.03T currency drag. North America (excluding interest-rate-swap valuation effects) swung from a ¥108.8B profit to a ¥298.6B (~$2.0B) operating loss even though regional volumes grew 8.5%. Europe and Asia held positive, but Q4 group volume slipped to 2.29M units. For FY27 (ending March 2027), Toyota guides operating income to ¥3.0T — another roughly 20% reduction — including an additional ¥670B tariff hit on a 150 yen/USD assumption.",
+        "whyItMatters": "Toyota is the world's largest automaker by units, and this is the cleanest read yet on how Section 232/IEEPA-era US auto tariffs flow through a Japanese OEM's P&L. Tokyo shares closed -2.18% at ¥2,913. The tariff regime here is the same one the US Court of International Trade ruled unlawful for the 10% Section 122 duties this week — but auto tariffs were on a separate authority and are not affected by that ruling, so the FY27 guide builds them in. Read-through to other Japanese/Korean OEMs (Honda, Nissan, Hyundai) and US-listed parts suppliers (BWA, MGA, ALV).",
+        "forWho": "auto desks, macro/tariff watchers, Japan/EM equity",
+        "tryIt": "https://global.toyota/en/ir/financial-results/index.html"
+      },
+      "image": {
+        "url": "https://global.toyota/pages/news/images/2026/05/financial_results/financial_results_01_ogp_2.jpg",
+        "alt": "Toyota Motor Corporation FY2026 financial results presentation",
+        "fit": "cover",
+        "credit": "Toyota Motor Corporation"
+      },
+      "links": [
+        {
+          "label": "Toyota Press Release",
+          "url": "https://pressroom.toyota.com/tmc-announces-april-through-march-2026-financial-results/"
+        },
+        {
+          "label": "Toyota IR Page",
+          "url": "https://global.toyota/en/ir/financial-results/index.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/08/toyota-1q-2026-earnings.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-fy2026-earnings-miss-u-112836495.html"
+        },
+        {
+          "label": "TM Quote",
+          "url": "https://finance.yahoo.com/quote/TM/"
+        }
+      ],
+      "publishDate": "2026-05-08T20:33:50.721Z"
+    },
     {
       "id": "aws-us-east-1-thermal-outage-may-2026",
       "categories": [

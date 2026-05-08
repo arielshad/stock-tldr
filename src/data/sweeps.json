@@ -1429,6 +1429,33 @@
         "sector",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260508t203350z",
+      "timestamp": "2026-05-08T20:33:50.721Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Toyota FY2026 results — record revenue but op income -21.5% on $9B US tariff hit, North America swings to a $2B operating loss, FY27 guide cuts another 20%. Already-covered Friday May 8 prints (Brookfield, Wendy's, Vital Farms) skipped; Enbridge Q1 in-line beat with no >5% move skipped as borderline.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tm-q4-fy26-earnings-tariff-hit",
+          "title": "Toyota FY26 — record ¥50.7T revenue but op income -21.5% on ¥1.38T US tariff hit; FY27 guide cuts another 20% to ¥3T",
+          "category": "earnings",
+          "note": "Mega-cap global auto OEM disclosed $9B FY26 tariff hit and FY27 guide cut another 20%; primary-source confirmed via Toyota IR press release."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "regulatory"
+      ]
     }
   ]
 }
