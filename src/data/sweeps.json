@@ -1456,6 +1456,51 @@
         "mover",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260508t223723z",
+      "timestamp": "2026-05-08T22:37:23.443Z",
+      "source": "github-actions-sweep",
+      "summary": "Friday May 8 sweep — added three earnings-driven items from May 6–7 prints: Western Midstream's record Q1 paired with a $1.6B Brazos Delaware II deal, Corpay's Q1 beat-and-raise (+11%), and Aeva's record Q1 alongside Daimler Truck production milestone and NVIDIA DRIVE Hyperion reference selection. Today's headline events (BLS jobs, Toyota FY26, AWS US-East-1 outage, Trump tariff court ruling, IREN-NVIDIA, Brookfield, Wendy's, BD, CVS, Roche-PathAI etc.) were already in the feed.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wes-q1-2026-earnings-brazos-deal",
+          "title": "Western Midstream Q1 2026 — record $683M EBITDA (+15%), agrees to acquire Brazos Delaware II for ~$1.6B in cash + units",
+          "category": "earnings",
+          "note": "Record Q1 EBITDA + $1.6B Brazos Delaware II acquisition is a clean MLP earnings/M&A combo that wasn't in the existing feed."
+        },
+        {
+          "id": "cpay-q1-2026-earnings-guide-raise",
+          "title": "Corpay Q1 2026 — revenue $1.26B (+25%), adj EPS $5.80 (+29%), 11% organic growth; raises FY26 cash EPS guide to $26.30–$27.10; CPAY ~+11%",
+          "category": "earnings",
+          "note": "Mid-large-cap payments name with +11% move on guide raise materially exceeding the Q1 beat — meets `major` mover bar with primary ticker move and tier-1 coverage."
+        },
+        {
+          "id": "aeva-q1-2026-earnings-daimler-nvidia",
+          "title": "Aeva Q1 2026 — record $6.3M revenue (+86%), ships production-intent Atlas LiDAR to Daimler Truck; named NVIDIA DRIVE Hyperion reference outside China",
+          "category": "earnings",
+          "note": "Small-cap but the Daimler production-intent LiDAR shipment + NVIDIA DRIVE Hyperion reference selection are concrete milestones that read across to LIDR/INVZ/OUST."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "sector",
+        "regulatory"
+      ]
     }
   ]
 }
