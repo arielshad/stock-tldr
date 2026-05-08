@@ -1,8 +1,215 @@
 {
-  "generatedAt": "2026-05-08T03:21:46.830Z",
+  "generatedAt": "2026-05-08T05:21:09.502Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hubs-q1-2026-agent-pricing-cut",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "HubSpot Q1 2026 — revenue $881M (+23%), non-GAAP EPS $2.72 beats; HUBS drops ~12% on Customer Agent price cut, slow Q2 start",
+      "org": "HubSpot",
+      "date": "2026-05-07",
+      "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-strong-q1-2026-results",
+      "summary": "HubSpot beat on Q1 revenue and EPS and raised FY26 guidance, but the stock fell ~12% post-print as management lowered Customer Agent pricing, shifted to outcome-based pricing for AI agents, and flagged a slow Q2 start.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "saas",
+        "ai-agents",
+        "agentic-ai",
+        "fy26-guidance",
+        "buyback",
+        "outcome-based-pricing"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HUBS"
+      ],
+      "metrics": {
+        "Revenue": "$881.0M (+23% Y/Y; +18% cc)",
+        "Subscription Revenue": "$862.3M (+23% Y/Y)",
+        "Non-GAAP EPS": "$2.72 (vs $1.78 Y/Y)",
+        "GAAP EPS": "$0.62 (vs -$0.42 Y/Y)",
+        "Non-GAAP Op Margin": "17.8% (+380bp)",
+        "Customers": "299,458 (+16% Y/Y)",
+        "ASRPC": "$11,722 (+6% Y/Y)",
+        "FY26 Revenue Guide": "$3.700–$3.708B (+18%)",
+        "FY26 Non-GAAP EPS Guide": "$13.04–$13.12",
+        "Buyback (Q1)": "$211M",
+        "Move": "~-11.9%"
+      },
+      "explainer": {
+        "tagline": "Beat-and-raise wasn't enough — pricing cuts on AI agents and a slow Q2 start sent HUBS down ~12%.",
+        "whatIsIt": "HubSpot reported Q1 2026 results after the close on May 7, 2026. Revenue of $881M (+23% Y/Y) and non-GAAP EPS of $2.72 both beat consensus, GAAP swung to a $32.6M profit, and the company raised FY26 revenue and EPS guidance. Despite this, shares dropped ~11.9% post-print to ~$214.86.",
+        "howItWorks": "Subscription revenue grew 23% to $862.3M, customers crossed ~300K (+16%), and non-GAAP operating margin expanded ~380bp to 17.8%. FY26 guidance moved up to $3.700–$3.708B revenue (+18%) and $13.04–$13.12 in non-GAAP diluted EPS. The catch: management lowered the price of Customer Agent, moved Customer and Prospecting Agents to outcome-based pricing, introduced 28-day agent free trials, and warned Q2 had a slow start with extended sales cycles.",
+        "whyItMatters": "HubSpot has been pitching itself as the agentic CRM, but Wall Street read the pricing changes as a signal that AI agents aren't yet pulling their weight in commercial terms. Read-through to other AI-monetization stories (CRM, NOW, FRSH) and to the broader 'agents are commoditizing' debate. Buyback ramped to $211M in the quarter against a $1.8B cash position.",
+        "forWho": "SaaS investors, AI-monetization watchers",
+        "tryIt": "https://finance.yahoo.com/quote/HUBS/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/hubs_8-K.webp",
+        "alt": "HubSpot Q1 2026 8-K filing cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-strong-q1-2026-results"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/HUBS/8-k-hubspot-inc-reports-material-event-50e231bc3835.html"
+        },
+        {
+          "label": "Earnings Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-7-hubspot-nysehubs-surprises-with-q1-cy2026-sales-but-stock-drops-119"
+        },
+        {
+          "label": "HUBS Quote",
+          "url": "https://finance.yahoo.com/quote/HUBS/"
+        }
+      ],
+      "publishDate": "2026-05-08T05:21:09.502Z"
+    },
+    {
+      "id": "tost-q1-2026-guide-raise",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Toast Q1 2026 — revenue $1.63B (+22%), net income doubles to $126M, raises FY26 EBITDA guide to $790–$810M; TOST -10.5%",
+      "org": "Toast",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/sec-filings/TOST/8-k-toast-inc-reports-material-event-4deffd3a73ea.html",
+      "summary": "Toast beat on EPS ($0.29 vs $0.16 est), revenue in line at $1.63B (+22%), added ~7K net locations and raised FY26 adj EBITDA guide to $790–$810M; TOST still fell 10.5% on richly-priced expectations and 2026 setup.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "restaurant-tech",
+        "payments",
+        "ai-agents",
+        "fy26-guidance",
+        "free-cash-flow"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TOST"
+      ],
+      "metrics": {
+        "Revenue": "$1.63B (+22% Y/Y)",
+        "EPS": "$0.29 (vs $0.16 est)",
+        "Net Income": "$126M (vs $56M Y/Y)",
+        "Adj EBITDA": "$179M (vs $133M Y/Y)",
+        "GPV": "$51.3B (+22% Y/Y)",
+        "Locations": "~171,000 (+22% Y/Y)",
+        "Net New Locations": "~7,000",
+        "ARR": "$2.2B (+26% Y/Y)",
+        "Free Cash Flow": "$115M (vs $69M Y/Y)",
+        "FY26 Adj EBITDA Guide": "$790–$810M (raised from $775–$795M)",
+        "Move": "~-10.5%"
+      },
+      "explainer": {
+        "tagline": "Strong print, raised guide — but TOST still slid ~10% as the bar was already very high.",
+        "whatIsIt": "Toast posted Q1 2026 results after the close on May 7, 2026. Revenue of $1.63B (+22%) was in line with Street, EPS of $0.29 nearly doubled the $0.16 consensus, and FY26 adjusted EBITDA guidance was raised to $790–$810M from $775–$795M. Despite the beat-and-raise, shares dropped ~10.5%.",
+        "howItWorks": "Annualized recurring run-rate climbed 26% to $2.2B, gross payment volume reached $51.3B (+22%), and the platform added roughly 7K net new restaurant locations to ~171K total. Adjusted EBITDA rose to $179M from $133M, free cash flow grew to $115M, and the company launched Toast IQ Grow with its first AI agent for restaurants. Net income more than doubled to $126M.",
+        "whyItMatters": "Toast had rallied into the print on payments scale-economics and AI optionality, so a clean beat that wasn't a blowout was punished. The ~7K net adds is decelerating versus prior quarters, and Q2 commentary on macro restaurant softness drove most of the move. Read-through to other restaurant tech and SMB payments names like SQ/XYZ, FOUR, and Olo.",
+        "forWho": "Payments and restaurant-tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/TOST/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/tost_8-K.webp",
+        "alt": "Toast Q1 2026 8-K filing cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/TOST/8-k-toast-inc-reports-material-event-4deffd3a73ea.html"
+        },
+        {
+          "label": "Earnings Recap",
+          "url": "https://stockstory.org/us/stocks/nyse/tost/news/earnings/toasts-nysetost-q1-cy2026-earnings-results-revenue-in-line-with-expectations-but-stock-drops-105percent"
+        },
+        {
+          "label": "Quarterly Results",
+          "url": "https://investors.toasttab.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "TOST Quote",
+          "url": "https://finance.yahoo.com/quote/TOST/"
+        }
+      ],
+      "publishDate": "2026-05-08T05:21:09.502Z"
+    },
+    {
+      "id": "afrm-q3-fy26-earnings-guide-raise",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Affirm FQ3 2026 — revenue $1.04B (+33%), EPS $0.30 trounces $0.19 est, GMV $11.6B (+35%); raises FY26 revenue guide to $4.175–$4.205B",
+      "org": "Affirm",
+      "date": "2026-05-07",
+      "url": "https://www.stocktitan.net/news/AFRM/affirm-reports-third-fiscal-quarter-2026-hskizgv8803v.html",
+      "summary": "Affirm beat on revenue and EPS, hit $11.6B GMV (+35% Y/Y), grew Affirm Card cardholders to 4.4M, and raised FY26 revenue guidance to $4.175–$4.205B; AH stock barely budged on stretched-valuation concerns.",
+      "tags": [
+        "earnings",
+        "fq3-2026",
+        "fintech",
+        "bnpl",
+        "affirm-card",
+        "gmv",
+        "fy26-guidance"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AFRM"
+      ],
+      "metrics": {
+        "Revenue": "$1.04B (+33% Y/Y)",
+        "EPS": "$0.30 (vs $0.19 est)",
+        "GMV": "$11.6B (+35% Y/Y)",
+        "DTC GMV": "$3.7B (+48% Y/Y)",
+        "Total Transactions": "45M (+45% Y/Y)",
+        "Active Consumers": "26.8M (+22% Y/Y)",
+        "Active Merchants": "515,000 (+47% Y/Y)",
+        "Affirm Card Cardholders": "4.4M",
+        "Affirm Card GMV": "$2.1B",
+        "FY26 Revenue Guide": "$4.175–$4.205B (raised from $4.086–$4.146B)",
+        "FQ4 Revenue Guide": "$1.08–$1.11B",
+        "Move (AH)": "~-0.2%"
+      },
+      "explainer": {
+        "tagline": "Big beat-and-raise, but the stock had run into the print — flat AH despite GMV +35% and revenue +33%.",
+        "whatIsIt": "Affirm reported fiscal Q3 2026 (quarter ended March 31, 2026) on May 7, 2026. Revenue of $1.04B beat the $993M consensus, adjusted EPS of $0.30 trounced the $0.19 estimate, and GMV grew 35% to $11.6B. Management raised the FY26 revenue guide to $4.175–$4.205B and FQ4 to $1.08–$1.11B.",
+        "howItWorks": "Active consumers grew 22% to 26.8M, active merchants 47% to 515K, and total transactions 45% to 45M. Affirm Card cardholders reached 4.4M with $2.1B of card GMV in the quarter. Direct-to-consumer GMV grew 48% to $3.7B. CEO Max Levchin said the Affirm consumer is 'financially healthy' with stable credit and an 'unusually supportive funding environment.'",
+        "whyItMatters": "Affirm has been the bellwether BNPL/fintech name and the print confirms the model is scaling with stable credit even as the stock has more than doubled off 52-week lows. Modest AH reaction (-0.2% to ~$67.50) reflects valuation rather than results, with read-throughs to PYPL, KLAR, SOFI and the broader 'consumer is fine' macro debate.",
+        "forWho": "Fintech and consumer-credit investors",
+        "tryIt": "https://finance.yahoo.com/quote/AFRM/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Affirm_reports_third_fiscal_quarter_2026_results_1053934.webp",
+        "alt": "Affirm FQ3 2026 earnings press release",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/AFRM/affirm-reports-third-fiscal-quarter-2026-hskizgv8803v.html"
+        },
+        {
+          "label": "Earnings Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52395738/affirm-stock-trades-lower-on-q3-results-raised-guidance"
+        },
+        {
+          "label": "AFRM Quote",
+          "url": "https://finance.yahoo.com/quote/AFRM/"
+        }
+      ],
+      "publishDate": "2026-05-08T05:21:09.502Z"
+    },
     {
       "id": "akam-q1-2026-1-8b-ai-deal",
       "categories": [

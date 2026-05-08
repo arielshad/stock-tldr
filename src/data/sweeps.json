@@ -1140,6 +1140,43 @@
         "regulatory",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260508t052109z",
+      "timestamp": "2026-05-08T05:21:09.502Z",
+      "source": "github-actions-sweep",
+      "summary": "Three May 7 after-hours earnings prints not yet covered: HubSpot's beat-and-raise undone by AI agent pricing cuts (HUBS -12%), Toast's record locations and raised EBITDA guide (TOST -10.5% on stretched valuation), and Affirm's clean GMV/revenue beat with raised FY26 guide.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hubs-q1-2026-agent-pricing-cut",
+          "title": "HubSpot Q1 2026 — revenue $881M (+23%), non-GAAP EPS $2.72 beats; HUBS drops ~12% on Customer Agent price cut, slow Q2 start",
+          "category": "earnings",
+          "note": "HUBS dropped ~12% on AI agent pricing cuts despite revenue/EPS beat — clear single-name mover with named catalyst."
+        },
+        {
+          "id": "tost-q1-2026-guide-raise",
+          "title": "Toast Q1 2026 — revenue $1.63B (+22%), net income doubles to $126M, raises FY26 EBITDA guide to $790–$810M; TOST -10.5%",
+          "category": "earnings",
+          "note": "TOST -10.5% on beat-and-raise as expectations were richly priced; raised FY26 EBITDA guide to $790–$810M."
+        },
+        {
+          "id": "afrm-q3-fy26-earnings-guide-raise",
+          "title": "Affirm FQ3 2026 — revenue $1.04B (+33%), EPS $0.30 trounces $0.19 est, GMV $11.6B (+35%); raises FY26 revenue guide to $4.175–$4.205B",
+          "category": "earnings",
+          "note": "AFRM revenue +33%, EPS trouncing, GMV +35%, FY26 raised — bellwether BNPL print even though stock was muted post-print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
