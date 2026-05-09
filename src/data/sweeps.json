@@ -1582,6 +1582,28 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260509t051812z",
+      "timestamp": "2026-05-09T05:18:12.589Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep. Scanned May 6–8 prints, M&A, macro and crypto: Bayer's $2.45B Perfuse buy (announced May 6 at 11:24 UTC) was the only candidate I'd otherwise have shipped, but at 77h since 2026-05-06T00:00Z it sits just past the script's midnight-UTC 72h cap, so it stays un-added rather than bypass the rule. Apple-Intel's May 8 WSJ 'preliminary agreement' is the same deal arc as the existing intc-apple-chip-rumor-may-2026 entry; rest of the May 5–8 wave (jobs print, Iran ceasefire/Brent, Berkshire AGM, AWS outage, Q1 earnings deluge incl. AMD/Palantir/Disney/Uber/Coreweave/Datadog) is already in the feed.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "earnings",
+        "macro",
+        "crypto",
+        "regulatory",
+        "rumor"
+      ]
     }
   ]
 }
