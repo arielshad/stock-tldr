@@ -1798,6 +1798,34 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260509t202405z",
+      "timestamp": "2026-05-09T20:24:05.549Z",
+      "source": "github-actions-sweep",
+      "summary": "Saturday sweep at 2026-05-09T20:20Z. The feed already captures the full Mon–Fri (May 4–8) news cycle: April BLS jobs print (+115K, UE 4.3%), S&P 500 / Nasdaq 6th-straight weekly gain to records, Apple/Intel chip-talks rumor, NVIDIA partnerships (IREN 5GW, GLW), and the broad Q1 2026 earnings wave (DDOG, AKAM, RXT-AMD, AFRM, FTNT, TPR, BLOCK, EXPE, MELI, TTD, COIN, MCD, etc.). Searched May 8–9 incremental flow: Saturday US markets closed, no new SEC 8-K material events, no fresh Fed speakers, no new Lyn Alden / Howard Marks / Levine releases verified, no new Boyle/Coffeezilla videos verifiable. The one fresh M&A candidate found (Bayer–Perfuse Therapeutics $2.45B ophthalmology deal) is dated 2026-05-06, which is ~92h before the sweep timestamp and would be hard-failed by finalize-sweep's 72h cap. Ship zero — empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mna",
+        "mover",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "analyst",
+        "regulatory",
+        "video",
+        "article"
+      ]
     }
   ]
 }
