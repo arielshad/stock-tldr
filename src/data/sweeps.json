@@ -1501,6 +1501,48 @@
         "sector",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260509t010713z",
+      "timestamp": "2026-05-09T01:07:13.391Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds from Friday May 8 / Thursday May 7 prints. Enbridge Q1 lands in line but secures a 300 MW Texas wind project for Meta data centers, taking the secured backlog to $40B. Artivion's Q1 beats but the FY26 guide cut + Endospan acquisition exercise crater the stock ~30% intraday.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "enb-q1-2026-earnings-meta-wind",
+          "title": "Enbridge Q1 2026 — adj EBITDA $5.8B in line, secured backlog grows to $40B incl. 300 MW Cone Wind project for Meta",
+          "category": "earnings",
+          "note": "May 8 Q1 print sanctioning $2B of new projects including 300 MW Cone Wind for Meta — strategic AI-power angle on a $130B+ midstream giant; reaffirms FY guide."
+        },
+        {
+          "id": "aort-q1-2026-endospan-guide-cut",
+          "title": "Artivion Q1 2026 — revenue $116.3M (+18%), adj EBITDA +26% to $22.1M, but FY26 guide trimmed; exercises option to acquire Endospan for $175M",
+          "category": "mover",
+          "note": "Clear single-name mover with two named catalysts on May 7–8: FY26 guide cut + $175M Endospan acquisition exercise; AORT ~-30% intraday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "ipo",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "rumor",
+        "article",
+        "video"
+      ]
     }
   ]
 }

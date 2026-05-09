@@ -1,8 +1,145 @@
 {
-  "generatedAt": "2026-05-08T22:37:23.443Z",
+  "generatedAt": "2026-05-09T01:07:13.391Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "enb-q1-2026-earnings-meta-wind",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Enbridge Q1 2026 — adj EBITDA $5.8B in line, secured backlog grows to $40B incl. 300 MW Cone Wind project for Meta",
+      "org": "Enbridge",
+      "date": "2026-05-08",
+      "url": "https://www.prnewswire.com/news-releases/enbridge-reports-strong-first-quarter-results-reaffirms-2026-financial-guidance-and-grows-secured-backlog-to-40-billion-302766377.html",
+      "summary": "Enbridge posts adj EPS $0.98 (vs $1.03 Y/Y), adj EBITDA $5.8B and DCF $3.9B; reaffirms FY26 guide. Sanctions ~$2B of new projects, including a 300 MW Cone Wind facility for Meta in Texas, lifting secured backlog to ~$40B.",
+      "tags": [
+        "earnings",
+        "midstream",
+        "natural-gas",
+        "pipelines",
+        "renewables",
+        "ai-power",
+        "meta",
+        "data-centers",
+        "q1-2026",
+        "backlog"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "ENB"
+      ],
+      "metrics": {
+        "GAAP EPS": "$0.77 (vs $1.04 Y/Y)",
+        "Adj EPS": "$0.98 (vs $1.03 Y/Y)",
+        "Adj EBITDA": "$5.8B (~flat Y/Y)",
+        "DCF": "$3.9B (vs $3.8B Y/Y)",
+        "Secured backlog": "~$40B",
+        "FY26 EBITDA guide": "$20.2–$20.8B (reaffirmed)",
+        "FY26 DCF/sh guide": "$5.70–$6.10 (reaffirmed)"
+      },
+      "explainer": {
+        "tagline": "Enbridge's Q1 lands in line, but the headline is a $40B secured backlog and a 300 MW Texas wind project tied to Meta data centers.",
+        "whatIsIt": "Enbridge — North America's largest energy infrastructure company — reported Q1 2026 GAAP earnings of $1.7B ($0.77/sh) and adjusted earnings of $2.1B ($0.98/sh), with adjusted EBITDA of $5.8B essentially flat versus Q1 2025. Distributable cash flow rose to $3.9B from $3.8B and management reaffirmed FY26 guidance.",
+        "howItWorks": "The bigger story is project sanctioning. ENB approved roughly $2B of new investments this quarter, including a US$0.7B / 300 MW Cone Wind facility in Texas supporting Meta data center load, a US$0.4B Tres Palacios gas storage expansion (25 Bcf), a Vector Pipeline expansion (400 MMcf/d westbound) and an 8 Bcf Dawn Hub storage expansion in Ontario. Combined, the secured capital backlog stepped up to ~$40B, with another ~$50B of unsanctioned opportunities in development.",
+        "whyItMatters": "ENB is now openly booking renewables capacity into its backlog as AI-driven data center demand pulls hyperscalers into long-dated power deals — a structural shift for a name historically read as a midstream proxy. Reaffirming the $20.2–$20.8B EBITDA guide signals stability while the wind/storage sanctions push the post-2026 ~5% growth case.",
+        "forWho": "midstream / energy infrastructure investors, AI-power thematic readers",
+        "tryIt": "https://stockanalysis.com/stocks/enb/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/enb_8-K.webp",
+        "alt": "Enbridge Q1 2026 8-K filing cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/enbridge-reports-strong-first-quarter-results-reaffirms-2026-financial-guidance-and-grows-secured-backlog-to-40-billion-302766377.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/ENB/8-k-enbridge-inc-reports-material-event-a456de052a82.html"
+        },
+        {
+          "label": "Earnings Recap",
+          "url": "https://www.stocktitan.net/news/ENB/enbridge-reports-strong-first-quarter-results-reaffirms-2026-pdl8v8eqrlu7.html"
+        },
+        {
+          "label": "ENB Quote",
+          "url": "https://stockanalysis.com/stocks/enb/"
+        }
+      ],
+      "publishDate": "2026-05-09T01:07:13.391Z"
+    },
+    {
+      "id": "aort-q1-2026-endospan-guide-cut",
+      "categories": [
+        "mover",
+        "earnings",
+        "mna"
+      ],
+      "title": "Artivion Q1 2026 — revenue $116.3M (+18%), adj EBITDA +26% to $22.1M, but FY26 guide trimmed; exercises option to acquire Endospan for $175M",
+      "org": "Artivion",
+      "date": "2026-05-07",
+      "url": "https://www.prnewswire.com/news-releases/artivion-reports-first-quarter-2026-financial-results-and-announces-exercise-of-option-to-acquire-endospan-302766107.html",
+      "summary": "Q1 revenue $116.3M (+18% reported, +12% cc), adj EBITDA $22.1M (+26%); but FY26 revenue guide trimmed to $480–$496M and EBITDA to $100–$107M on US AMDS and international weakness. AORT also exercises the Endospan option for $175M cash + up to $200M earn-outs.",
+      "tags": [
+        "earnings",
+        "guidance-cut",
+        "mover",
+        "mna",
+        "medtech",
+        "aortic-stents",
+        "endospan",
+        "nexus-aortic",
+        "q1-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AORT"
+      ],
+      "metrics": {
+        "Revenue": "$116.3M (+18% Y/Y, +12% cc)",
+        "Adj EBITDA": "$22.1M (+26% Y/Y)",
+        "Non-GAAP EPS": "$0.08 (vs $0.06 Y/Y)",
+        "FY26 revenue guide": "$480–$496M (was $486–$504M)",
+        "FY26 adj EBITDA guide": "$100–$107M (was $105–$110M)",
+        "Endospan deal": "$175M cash + up to $200M contingent",
+        "Move": "~-30% intraday"
+      },
+      "explainer": {
+        "tagline": "Solid Q1 with stent grafts +21% and On-X +20%, but a softer FY guide and a $175M Endospan close knock AORT down hard.",
+        "whatIsIt": "Artivion, the cardiac- and aortic-surgery medtech, reported Q1 2026 revenue of $116.3M (+18% GAAP, +12% constant currency) with adjusted EBITDA up 26% to $22.1M. Net income was $1.4M ($0.03/sh GAAP); non-GAAP EPS of $0.08 beat the Street's $0.06 print.",
+        "howItWorks": "Product growth was led by stent grafts (+21%), On-X mechanical valves (+20%) and preservation services (+23%); BioGlue grew 4%. Despite the beat, management cut FY26 revenue guide to $480–$496M (from $486–$504M) and adjusted EBITDA to $100–$107M (from $105–$110M), citing US AMDS starter-set softness, weakness in Middle East stent-graft channels, supply chain bottlenecks and a 23% Latin America revenue decline. Separately, Artivion exercised its option to acquire Endospan now that the FDA PMA-approved NEXUS Aortic Arch System is in hand: base price $175M (net ~$135M after loan offsets), plus up to $200M of contingent consideration tied to future NEXUS performance, expected to close in Q2 2026.",
+        "whyItMatters": "Two stories collide on one print — a clean operational quarter and a real guidance reset that the market punished hard, with shares dropping ~30% intraday. The Endospan exercise locks in NEXUS, the only PMA-approved aortic arch system, and signals AORT is willing to lever up the existing term loan to secure long-cycle stent-graft growth even as near-term execution slips.",
+        "forWho": "medtech and small-cap healthcare investors",
+        "tryIt": "https://stockanalysis.com/stocks/aort/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/aort_8-K.webp",
+        "alt": "Artivion Q1 2026 8-K filing cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/artivion-reports-first-quarter-2026-financial-results-and-announces-exercise-of-option-to-acquire-endospan-302766107.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/AORT/8-k-artivion-inc-reports-material-event-7862604323de.html"
+        },
+        {
+          "label": "Earnings Call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/07/artivion-aort-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "AORT Quote",
+          "url": "https://stockanalysis.com/stocks/aort/"
+        }
+      ],
+      "publishDate": "2026-05-09T01:07:13.391Z"
+    },
     {
       "id": "wes-q1-2026-earnings-brazos-deal",
       "categories": [
