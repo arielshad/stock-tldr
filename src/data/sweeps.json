@@ -1660,6 +1660,39 @@
       "coverage": [
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260509t103343z",
+      "timestamp": "2026-05-09T10:33:43.327Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet Saturday morning sweep — most of Friday's tape (S&P/Nasdaq records, jobs report, Friday earnings flood) was already in the feed. Adds one new item: Bloomberg's May 8 scoop that Apollo and Blackstone are in talks with Broadcom on a ~$35B private-credit financing for AI chips, which would be among the largest such deals ever and sent AVGO +3.8% on the day.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "avgo-apollo-blackstone-35b-private-credit-rumor-may-2026",
+          "title": "Reportedly: Apollo + Blackstone weigh ~$35B private-credit financing for Broadcom AI chip build — would rank among largest-ever private credit deals; AVGO +3.8%",
+          "category": "rumor",
+          "note": "Bloomberg-sourced rumor (May 8) of a record-sized private-credit deal that moved AVGO ~5% intraday; not duplicative of any existing feed item."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "rumor",
+        "crypto",
+        "commodity",
+        "rates",
+        "regulatory",
+        "fx"
+      ]
     }
   ]
 }

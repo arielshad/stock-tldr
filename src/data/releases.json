@@ -1,8 +1,72 @@
 {
-  "generatedAt": "2026-05-09T08:43:55.181Z",
+  "generatedAt": "2026-05-09T10:33:43.327Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "avgo-apollo-blackstone-35b-private-credit-rumor-may-2026",
+      "categories": [
+        "rumor",
+        "mover"
+      ],
+      "title": "Reportedly: Apollo + Blackstone weigh ~$35B private-credit financing for Broadcom AI chip build — would rank among largest-ever private credit deals; AVGO +3.8%",
+      "org": "Bloomberg",
+      "date": "2026-05-08",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-blackstone-weigh-35-billion-180202891.html",
+      "summary": "Bloomberg reports Apollo and Blackstone are in talks with Broadcom on a ~$35B private-credit package to fund AI-chip development. AVGO closed +3.8% (peaked +5%); negotiations ongoing per people familiar.",
+      "tags": [
+        "rumor",
+        "private-credit",
+        "ai-capex",
+        "semis",
+        "broadcom",
+        "apollo",
+        "blackstone",
+        "alt-credit",
+        "hyperscaler"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "AVGO",
+        "APO",
+        "BX"
+      ],
+      "metrics": {
+        "Reported deal size": "~$35B",
+        "AVGO move (intraday)": "+5%",
+        "AVGO close": "+3.8%",
+        "Reference comp": "~$30B Meta/Apollo Louisiana DC financing (2025)"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-blackstone-weigh-35-billion-180202891.html"
+        },
+        {
+          "label": "Yahoo Tech Recap",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/apollo-blackstone-reportedly-talks-35b-181516138.html"
+        },
+        {
+          "label": "AVGO Chart",
+          "url": "https://finance.yahoo.com/quote/AVGO"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bloomberg: Apollo and Blackstone in talks on ~$35B private-credit financing for Broadcom AI chips — possibly the largest such deal ever.",
+        "whatIsIt": "Bloomberg reported on May 8 that Apollo Global Management and Blackstone are among private-credit lenders in talks with Broadcom on a roughly $35B financing package. The capital would fund Broadcom's AI-chip development. People familiar said negotiations are ongoing and terms could change.",
+        "howItWorks": "If completed at the reported size, this would rank among the largest private-credit deals on record — for context, Meta closed a ~$30B Apollo-led package for a Louisiana data-center site in 2025. Broadcom is investment-grade, an unusual borrower for private credit, but Apollo has been pushing into blue-chip lending. Bloomberg cited people familiar; representatives for all three firms declined to comment.",
+        "whyItMatters": "AVGO extended to +5% intraday on the report and closed +3.8%. The story tracks a broader theme: hyperscalers and AI chipmakers tapping non-bank capital pools to fund the AI build-out, with Apollo and Blackstone both pivoting into investment-grade direct lending. Confirmation would also expand the dollar pool of single private-credit deals well past prior peaks.",
+        "forWho": "credit traders, semis desks, alt-credit allocators",
+        "tryIt": "https://finance.yahoo.com/quote/AVGO"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Broadcom_Headquarters_San_Jose.jpg/1280px-Broadcom_Headquarters_San_Jose.jpg",
+        "alt": "Broadcom corporate headquarters in San Jose, California",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-09T10:33:43.327Z"
+    },
     {
       "id": "umich-may-2026-sentiment-record-low",
       "categories": [
