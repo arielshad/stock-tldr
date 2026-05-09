@@ -1543,6 +1543,45 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260509t032912z",
+      "timestamp": "2026-05-09T03:29:12.226Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: U.S. indexes notched a record close + sixth straight weekly gain on May 8 (S&P 7,398.93, Nasdaq tops 26K), and FIS posted a clean Q1 beat with strong Banking Solutions growth but the stock dropped ~6% as management paused buybacks to deleverage.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "sp500-nasdaq-records-may-8-2026",
+          "title": "S&P 500 closes at record 7,398.93 and Nasdaq tops 26,000 for first time — sixth straight weekly gain (longest streak since 2024)",
+          "category": "sector",
+          "note": "Record close + 6-week streak (longest since 2024) is a distinct indexes story from the BLS jobs print already in the feed; primary-source data and tier-1 coverage from Yahoo, Kiplinger, Schaeffer's."
+        },
+        {
+          "id": "fis-q1-2026-earnings-leverage",
+          "title": "Fidelity National Information Services Q1 2026 — adj EPS $1.36 beats $1.30 est, Banking Solutions +45%; FIS drops ~6% as buybacks and tuck-ins paused to hit 2.8x leverage",
+          "category": "earnings",
+          "note": "Material earnings event from a household-name payments issuer, adj EPS beat by $0.06 with stock dropping ~6% on leverage concerns and paused buyback — distinct issuer from existing Fiserv (FI) item."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "sector",
+        "mover",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }

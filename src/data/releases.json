@@ -1,8 +1,149 @@
 {
-  "generatedAt": "2026-05-09T01:07:13.391Z",
+  "generatedAt": "2026-05-09T03:29:12.226Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "sp500-nasdaq-records-may-8-2026",
+      "categories": [
+        "sector",
+        "macro"
+      ],
+      "title": "S&P 500 closes at record 7,398.93 and Nasdaq tops 26,000 for first time — sixth straight weekly gain (longest streak since 2024)",
+      "org": "U.S. equity markets",
+      "date": "2026-05-08",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-sp-500-nasdaq-post-6th-weekly-win-as-chip-stocks-rally-jobs-data-boosts-sentiment-232854301.html",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "summary": "S&P 500 +0.84% to 7,398.93, Nasdaq +1.71% to 26,247.08 (first close above 26K), Dow +0.02% to 49,609.16. Both major indexes notch sixth straight weekly gain — longest run since October 2024 — after the April jobs beat and a chip-led rally.",
+      "tags": [
+        "sp500",
+        "nasdaq",
+        "record-high",
+        "weekly-streak",
+        "ai-rally",
+        "semis",
+        "jobs-report",
+        "iran-deescalation",
+        "may-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "S&P 500": "7,398.93 (+0.84%)",
+        "Nasdaq Composite": "26,247.08 (+1.71%)",
+        "Dow Jones": "49,609.16 (+0.02%)",
+        "S&P 500 weekly": "+2.3%",
+        "Nasdaq weekly": "+4.5%",
+        "Streak": "6 weeks (longest since Oct 2024)"
+      },
+      "explainer": {
+        "tagline": "S&P 500 and Nasdaq close at fresh records as AI/chip rally and a hot April jobs print extend the longest weekly winning streak since 2024.",
+        "whatIsIt": "U.S. equity benchmarks closed Friday at all-time highs to cap a sixth straight weekly gain. The S&P 500 added 0.84% to 7,398.93, the Nasdaq Composite jumped 1.71% to 26,247.08 — its first close above 26,000 — and the Dow eked out 12 points to 49,609.16. The Russell 2000 rose 0.76% to 2,861.19.",
+        "howItWorks": "On the week the S&P 500 gained 2.3% and the Nasdaq added 4.5%, both posting six straight winning weeks for the first time since October 2024. Friday's drivers: April nonfarm payrolls of +115K nearly doubled the +65K consensus while unemployment held at 4.3%, and a WSJ scoop on Apple/Intel chipmaking talks sent Intel up ~14% and dragged the wider semi complex higher (Micron +15.5%, Rocket Lab +34%). Cloudflare was the worst S&P performer at -23.6% after its Q1 layoff announcement.",
+        "whyItMatters": "The combination of resilient labor data, cooling Iran-driven oil pressure and an AI capex theme that has now lifted AMD past $700B and Micron past $700B in market cap is producing the broadest U.S. equity rally since 2024. Six-week winning streaks are rare and tend to be followed by single-digit pullbacks; macro desks will watch Tuesday's CPI print as the next test of the soft-landing trade.",
+        "forWho": "macro and index traders, asset allocators tracking risk-on regimes",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/kVnt2JjcikIJhPF7NbuwJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/8ac8841a-377f-43ef-80ad-ab41e8bf3b9f",
+        "alt": "Trader on the floor of the New York Stock Exchange as U.S. indexes hit fresh records on May 8, 2026",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Reuters"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-sp-500-nasdaq-post-6th-weekly-win-as-chip-stocks-rally-jobs-data-boosts-sentiment-232854301.html"
+        },
+        {
+          "label": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/s-and-p-500-nasdaq-close-week-at-new-highs-stock-market-today"
+        },
+        {
+          "label": "Schaeffer's",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/05/08/nasdaq-s-p-500-enjoy-another-record-breaking-week"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/05/08/stock-market-today-may-8-ambev-gained-13-this-week-on-strong-earnings/"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "publishDate": "2026-05-09T03:29:12.226Z"
+    },
+    {
+      "id": "fis-q1-2026-earnings-leverage",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Fidelity National Information Services Q1 2026 — adj EPS $1.36 beats $1.30 est, Banking Solutions +45%; FIS drops ~6% as buybacks and tuck-ins paused to hit 2.8x leverage",
+      "org": "Fidelity National Information Services",
+      "date": "2026-05-08",
+      "url": "https://www.stocktitan.net/sec-filings/FIS/8-k-fidelity-national-information-services-inc-reports-material-event-6efecc9aa135.html",
+      "tickers": [
+        "FIS"
+      ],
+      "summary": "FIS Q1 GAAP revenue $3.295B (+30% Y/Y, +6.5% pro forma), adj EBITDA +36% to $1.30B, adj EPS $1.36 beats $1.30. Banking Solutions revenue $2.374B (+45% GAAP / +7.7% pro forma); FCF +111% to $474M. Buybacks and M&A paused to hit 2.8x gross leverage.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "banking-solutions",
+        "capital-markets-solutions",
+        "buyback-paused",
+        "deleveraging",
+        "fintech",
+        "q1-2026"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$3.295B (+30% GAAP, +6.5% pro forma)",
+        "Adj EBITDA": "$1.304B (+36% Y/Y, 39.6% margin)",
+        "Adj EPS": "$1.36 vs $1.30 est",
+        "Banking Solutions revenue": "$2.374B (+45% GAAP, +7.7% pro forma)",
+        "Capital Market Solutions revenue": "$823M (+5% GAAP, +2.9% pro forma)",
+        "Free cash flow": "$474M (+111% Y/Y)",
+        "FY26 guide": "Reiterated; pro forma rev +5.1–5.7%, adj EPS $6.22–$6.32",
+        "Move": "~-6% intraday to ~$44.50"
+      },
+      "explainer": {
+        "tagline": "Strong segment growth and a 111% free cash flow surge get overshadowed by a guide-reiteration, soft Q2 outlook and management's deleveraging pause.",
+        "whatIsIt": "FIS posted Q1 2026 results before the open Friday. Adjusted EPS of $1.36 topped consensus by ~$0.06 and adjusted EBITDA grew 36% to $1.304B with margin expanding ~290bp to 39.6%. Banking Solutions led the print, with revenue up 45% on a GAAP basis (and 7.7% pro forma) to $2.374B and segment EBITDA margin reaching 43.7%. Capital Market Solutions revenue grew 5% GAAP / 2.9% pro forma to $823M.",
+        "howItWorks": "GAAP top-line growth is flattered by the prior-year comp, which excludes the Worldpay business that has since been folded back into FIS's revenue base — pro forma revenue growth was 6.5%. FIS reiterated its full-year 2026 outlook (adjusted revenue +30–31% headline / +5.1–5.7% pro forma, adjusted EPS $6.22–$6.32, free cash flow $2.05–$2.15B, on track for >$3B by 2028). Q2 adjusted EPS guide of $1.45–$1.49 only matches Street consensus. Management has temporarily paused share repurchases and tuck-in M&A to accelerate deleveraging toward a 2.8x gross-leverage target; total debt at quarter end was $21.1B.",
+        "whyItMatters": "FIS has lagged Fiserv and other payments peers and was already trading near 52-week lows entering the print; the buyback pause removes a near-term equity bid and pushes the FIS-vs-FI relative trade further apart. Banking Solutions' 7.7% pro forma growth and 299bp EBITDA margin expansion are the cleanest read on the underlying franchise and remain ahead of the Street's mid-single-digit assumption. Investors are left weighing strong unit economics against macro/credit-cycle exposure and ~$21B of debt.",
+        "forWho": "fintech / payments analysts, leveraged-credit desks, FIS holders",
+        "tryIt": "https://finance.yahoo.com/quote/FIS"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/fis_8-K.webp",
+        "alt": "Cover of Fidelity National Information Services Q1 2026 8-K filing",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "FIS 8-K (StockTitan)",
+          "url": "https://www.stocktitan.net/sec-filings/FIS/8-k-fidelity-national-information-services-inc-reports-material-event-6efecc9aa135.html"
+        },
+        {
+          "label": "Press Release",
+          "url": "https://sg.finance.yahoo.com/news/fis-reports-first-quarter-2026-113000681.html"
+        },
+        {
+          "label": "Investing News",
+          "url": "https://investingnews.com/fis-reports-first-quarter-2026-results-and-reiterates-full-year-outlook/"
+        },
+        {
+          "label": "FIS Stock Page",
+          "url": "https://finance.yahoo.com/quote/FIS"
+        }
+      ],
+      "publishDate": "2026-05-09T03:29:12.226Z"
+    },
     {
       "id": "enb-q1-2026-earnings-meta-wind",
       "categories": [
