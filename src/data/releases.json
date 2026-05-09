@@ -1,8 +1,75 @@
 {
-  "generatedAt": "2026-05-09T05:18:12.589Z",
+  "generatedAt": "2026-05-09T07:03:21.888Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "lime-ipo-filing-may-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "Lime (Neutron Holdings) files S-1 for Nasdaq IPO under 'LIME' — flags going-concern risk on $846M debt due in 12 months",
+      "org": "Lime",
+      "date": "2026-05-08",
+      "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
+      "summary": "Uber-backed e-scooter and e-bike platform Lime files for an estimated $250M Nasdaq IPO. Revenue grew to $886.7M in 2025 but the prospectus warns of substantial doubt about its ability to continue as a going concern.",
+      "tags": [
+        "ipo",
+        "s-1",
+        "micromobility",
+        "going-concern",
+        "uber-backed",
+        "scooters",
+        "nasdaq",
+        "debt-maturity"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "LIME"
+      ],
+      "metrics": {
+        "Estimated raise": "~$250M",
+        "Listing": "Nasdaq Global Select (LIME)",
+        "2025 revenue": "$886.7M (+29% Y/Y)",
+        "2025 net loss": "$59.3M",
+        "2025 free cash flow": "$104M",
+        "Cash 3/31/26": "$261M",
+        "Debt due ≤12mo": "$846M",
+        "Uber-partnership revenue": "14.3% of 2025"
+      },
+      "explainer": {
+        "tagline": "Uber-backed micromobility platform files to go public with a going-concern warning attached.",
+        "whatIsIt": "Neutron Holdings, parent of e-scooter and e-bike rental company Lime, filed an S-1 to list on Nasdaq under the ticker LIME. The filing — preceded by a confidential submission in October 2025 — pegs the deal at roughly $250M, led by Goldman Sachs, JPMorgan, Jefferies, Evercore ISI, Citizens JMP and KeyBanc.",
+        "howItWorks": "Lime grew gross revenue from $686.6M in 2024 to $886.7M in 2025 and produced $104M of free cash flow last year, but recorded a $59.3M net loss. As of March 31, 2026 it held $261M of cash against ~$1B of current liabilities — including roughly $846M of debt due within 12 months — and the prospectus flags 'substantial doubt' about going-concern unless the IPO or alternative financing closes. About 14.3% of 2025 revenue came through the Uber app integration.",
+        "whyItMatters": "First sizeable post-shakeout micromobility IPO and a real-world test of public-market appetite for cash-burning consumer-mobility platforms. The going-concern flag links the deal's success directly to refinancing risk, which makes pricing day a forced-sale event rather than a typical growth-IPO. Uber, which sold its Jump bike unit to Lime in 2020, is the largest outside investor and benefits from a successful listing.",
+        "forWho": "IPO desks, micromobility/Uber watchers",
+        "tryIt": "https://www.renaissancecapital.com/IPO-Center/News/118890/E-scooter-rental-platform-Lime-files-for-an-estimated-$250-million-IPO"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1233317109.jpg?resize=1200,800",
+        "alt": "Lime e-scooters parked on a city sidewalk",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lime-uber-backed-micromobility-company-132134639.html"
+        },
+        {
+          "label": "Renaissance Capital",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/118890/E-scooter-rental-platform-Lime-files-for-an-estimated-$250-million-IPO"
+        },
+        {
+          "label": "TradingView Brief",
+          "url": "https://www.tradingview.com/news/tradingview:f1aaf33faeb3a:0-lime-shared-micromobility-platform-files-for-nasdaq-global-select-market-ipo/"
+        }
+      ],
+      "publishDate": "2026-05-09T07:03:21.888Z"
+    },
     {
       "id": "sp500-nasdaq-records-may-8-2026",
       "categories": [

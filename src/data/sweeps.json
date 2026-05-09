@@ -1604,6 +1604,38 @@
         "regulatory",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260509t070321z",
+      "timestamp": "2026-05-09T07:03:21.888Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Lime/Neutron Holdings S-1 filing for ~$250M Nasdaq IPO with a going-concern warning on $846M of near-term debt (May 8). Other Friday/Saturday news (S&P 500 record close, April jobs report, AWS US-East thermal outage, Section 122 tariff court ruling, AMD/AKAM/MELI/CRWV/HUBS/TTD/AFRM/DDOG Q1 2026 prints) was already in the feed from the prior sweep. Bayer/Perfuse Therapeutics M&A is real but its date (May 6) is past the 72h hard cap. Cerebras roadshow (May 4-6) and Berkshire annual meeting (May 2-3) likewise fall outside the window.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lime-ipo-filing-may-2026",
+          "title": "Lime (Neutron Holdings) files S-1 for Nasdaq IPO under 'LIME' — flags going-concern risk on $846M debt due in 12 months",
+          "category": "ipo",
+          "note": "S-1 dropped May 8 with a going-concern flag — turns the IPO into a forced-refi event and revives the micromobility-IPO debate."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "ipo",
+        "earnings",
+        "macro",
+        "mover",
+        "rates",
+        "crypto",
+        "fx",
+        "regulatory"
+      ]
     }
   ]
 }
