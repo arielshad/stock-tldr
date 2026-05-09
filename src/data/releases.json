@@ -1,8 +1,83 @@
 {
-  "generatedAt": "2026-05-09T10:33:43.327Z",
+  "generatedAt": "2026-05-09T12:37:03.531Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "gild-q1-2026-earnings-guide-split",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Gilead Q1 2026 — adj EPS $2.03 beats $1.90 est, raises FY26 sales guide to $30.0–$30.4B; FY EPS guide cut to ($1.05)–($0.65) on $11.5B M&A IPR&D charges; GILD -1.6% AH",
+      "org": "Gilead Sciences",
+      "date": "2026-05-07",
+      "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-first-quarter-financial-results",
+      "summary": "Gilead Q1 product sales $6.95B (+5%); HIV +10% to $5.0B with Biktarvy $3.36B and Descovy $807M (+38%); Yeztugo PrEP launch $166M with FY guide raised to ~$1B. FY26 product sales guide raised by $400M; non-GAAP EPS guide cut $9.50 on Arcellx/Ouro/Tubulis acquisition charges.",
+      "tags": [
+        "earnings",
+        "mover",
+        "pharma",
+        "biotech",
+        "hiv",
+        "biktarvy",
+        "descovy",
+        "yeztugo",
+        "prep",
+        "ma-charges",
+        "guide-raise",
+        "guide-cut",
+        "q1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GILD"
+      ],
+      "metrics": {
+        "Revenue": "$6.96B (+4% Y/Y)",
+        "Product sales": "$6.95B (+5% Y/Y)",
+        "HIV sales": "$5.03B (+10% Y/Y)",
+        "Non-GAAP EPS": "$2.03 vs $1.90 est",
+        "GAAP EPS": "$1.61",
+        "FY26 product sales guide": "$30.0–$30.4B (raised $400M)",
+        "FY26 Yeztugo guide": "~$1.0B",
+        "FY26 non-GAAP EPS guide": "$(1.05)–$(0.65) (cut from $8.45–$8.85)",
+        "Move (AH May 7)": "-1.6%"
+      },
+      "links": [
+        {
+          "label": "Gilead Press Release",
+          "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-first-quarter-financial-results"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/gild-beats-q1-earnings-sales-152200686.html"
+        },
+        {
+          "label": "Motley Fool Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/08/gilead-gild-q1-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "Pharma Tech",
+          "url": "https://www.pharmaceutical-technology.com/news/gilead-sciences-q1-results-hiv-biktarvy-yeztugo/"
+        }
+      ],
+      "explainer": {
+        "tagline": "HIV-driven Q1 beat and a $400M sales-guide bump, undone for now by $11.5B in deal-related EPS charges.",
+        "whatIsIt": "Gilead reported Q1 2026 product sales of $6.95B (+5% Y/Y) and non-GAAP diluted EPS of $2.03 vs $1.90 est. The HIV franchise grew 10% to $5.03B led by Biktarvy ($3.36B, +7%) and Descovy ($807M, +38%, with US PrEP +87%). New PrEP product Yeztugo posted $166M in its first full quarter and is now guided to ~$1B for the year.",
+        "howItWorks": "Management raised FY26 product-sales guidance to $30.0–$30.4B (from $29.6–$30.0B) and lifted FY26 HIV growth to ~8% from ~6%. But it cut FY26 non-GAAP diluted EPS to a range of $(1.05)–$(0.65) — versus prior $8.45–$8.85 — citing roughly $11.5B in upfront acquired IPR&D plus financing costs from the Arcellx, Ouro Medicines and Tubulis transactions, equating to about $9.50/share of headwind. Q1 GAAP diluted EPS was $1.61, up from $1.04 a year earlier.",
+        "whyItMatters": "GILD slid ~1.6% in after-hours and continued lower into Friday's session as investors weighed the optical EPS hit against an underlying step-up in operating performance. The print confirms PrEP/Yeztugo and HIV are running ahead of plan, but it also crystallizes how aggressively Gilead is leaning into oncology and autoimmune via M&A — a profile shift that mirrors Pfizer's post-Seagen pattern.",
+        "forWho": "biotech and large-cap pharma investors",
+        "tryIt": "https://finance.yahoo.com/quote/GILD"
+      },
+      "image": {
+        "url": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2026/05/shutterstock_1667251990-1.jpg",
+        "alt": "Gilead Sciences logo signage outside the company's offices",
+        "fit": "cover",
+        "credit": "Pharmaceutical Technology / Shutterstock"
+      },
+      "publishDate": "2026-05-09T12:37:03.531Z"
+    },
     {
       "id": "avgo-apollo-blackstone-35b-private-credit-rumor-may-2026",
       "categories": [

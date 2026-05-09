@@ -1693,6 +1693,37 @@
         "regulatory",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260509t123703z",
+      "timestamp": "2026-05-09T12:37:03.531Z",
+      "source": "github-actions-sweep",
+      "summary": "One add for May 9 weekend sweep — Gilead Q1 2026 (HIV-driven beat + sales guide raise, but FY EPS guide slashed on $11.5B M&A IPR&D charges from Arcellx/Ouro/Tubulis). Considered Bayer's $2.45B Perfuse Therapeutics M&A but dropped — announcement at 84h was just outside the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gild-q1-2026-earnings-guide-split",
+          "title": "Gilead Q1 2026 — adj EPS $2.03 beats $1.90 est, raises FY26 sales guide to $30.0–$30.4B; FY EPS guide cut to ($1.05)–($0.65) on $11.5B M&A IPR&D charges; GILD -1.6% AH",
+          "category": "earnings",
+          "note": "Mega-cap pharma Q1 with raised sales guide but EPS-guide slashed on M&A IPR&D, primary source confirmed via Gilead IR."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
