@@ -1724,6 +1724,50 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260509t144127z",
+      "timestamp": "2026-05-09T14:41:27.522Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds for the May 6–9 window: two IPO milestones (Cerebras range bump on >20× oversubscription; Quantinuum public S-1 filing), Moderna's hantavirus-vaccine-driven 14% rally, and Upwork's Q1 print + 24% layoff plan.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cbrs-ipo-pricing-bump-may-2026",
+          "title": "Cerebras (CBRS) plans to raise IPO range to $125–$135 from $115–$125 — books >20× covered, ~$28B valuation in play",
+          "category": "ipo",
+          "note": "May 8 Bloomberg-driven IPO range bump; >20× oversubscribed; pricing expected ~May 13."
+        },
+        {
+          "id": "qnt-ipo-filing-may-2026",
+          "title": "Quantinuum files S-1 for Nasdaq IPO under 'QNT' — first major quantum-computing pure-play to publicly file",
+          "category": "ipo",
+          "note": "First major quantum pure-play S-1 — Honeywell-backed, NVIDIA-VC-invested."
+        },
+        {
+          "id": "mrna-hantavirus-vaccine-may-2026",
+          "title": "Moderna +~14% to two-month high after confirming early-stage hantavirus vaccine work amid MV Hondius outbreak",
+          "category": "mover",
+          "note": "MRNA +14% on Bloomberg-confirmed hantavirus vaccine R&D amid MV Hondius outbreak."
+        },
+        {
+          "id": "upwk-q1-2026-restructuring",
+          "title": "Upwork Q1 2026 — revenue $195.5M (+1.4%); cuts ~24% of workforce in $70M restructuring as AI hits low-value gig demand; UPWK -19%",
+          "category": "earnings",
+          "note": "Q1 print + 24% layoffs as AI displaces lower-value gig demand; UPWK -19%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "ipo"
+      ]
     }
   ]
 }

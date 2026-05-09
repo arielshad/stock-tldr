@@ -1,8 +1,279 @@
 {
-  "generatedAt": "2026-05-09T12:37:03.531Z",
+  "generatedAt": "2026-05-09T14:41:27.522Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "cbrs-ipo-pricing-bump-may-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "Cerebras (CBRS) plans to raise IPO range to $125–$135 from $115–$125 — books >20× covered, ~$28B valuation in play",
+      "org": "Cerebras Systems",
+      "date": "2026-05-08",
+      "url": "https://letsdatascience.com/news/cerebras-raises-expected-ipo-price-range-8f5c8fcf",
+      "summary": "Bloomberg: AI-chip rival Cerebras is set to raise its Nasdaq IPO range to $125–$135 (from $115–$125) on >20× oversubscribed demand. ~28M shares + 4.2M greenshoe; pricing eyed for May 13.",
+      "tags": [
+        "ipo",
+        "ai-chips",
+        "semis",
+        "cerebras",
+        "openai",
+        "aws",
+        "nasdaq",
+        "oversubscribed",
+        "s-1"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CBRS"
+      ],
+      "metrics": {
+        "Old range": "$115–$125",
+        "New range": "$125–$135",
+        "Shares": "28.0M Class A + 4.2M greenshoe",
+        "Oversubscription": ">20× orders",
+        "Indications of interest": ">$10B on $3.5B deal",
+        "Implied valuation": "~$28B at top of new range",
+        "Expected pricing": "~May 13, 2026"
+      },
+      "links": [
+        {
+          "label": "May 8 raise (LDS)",
+          "url": "https://letsdatascience.com/news/cerebras-raises-expected-ipo-price-range-8f5c8fcf"
+        },
+        {
+          "label": "Cerebras IR Filing",
+          "url": "https://www.cerebras.ai/press-release/cerebras-systems-announces-filing-of-registration-statement-for-proposed-initial-ipo"
+        },
+        {
+          "label": "Amended S-1 on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026025762/cerebras-sx1april2026.htm"
+        },
+        {
+          "label": "Motley Fool Deep-Dive",
+          "url": "https://www.fool.com/investing/2026/05/05/nvidia-rival-cerebras-unveils-ipo-details-heres-wh/"
+        },
+        {
+          "label": "Access IPOs Profile",
+          "url": "https://accessipos.com/cerebras-stock-ipo/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Demand for Cerebras pushes its Nasdaq IPO range up a notch with books >20× covered.",
+        "whatIsIt": "Cerebras Systems, the AI-chip rival to NVIDIA whose largest customer is OpenAI, is preparing to raise its IPO price range to $125–$135 per share from $115–$125. The company filed its amended S-1 May 4 at the lower range; Bloomberg reported on May 8 that books are now more than 20× oversubscribed.",
+        "howItWorks": "Cerebras is offering 28M Class A shares plus a 4.2M-share underwriter option, listing on Nasdaq under proposed ticker 'CBRS'. At the new range, the deal raises ~$3.5–$3.8B and implies an ~$28B market cap. Underwriters had already received indications of interest exceeding $10B, prompting Cerebras to require limit orders from institutional buyers.",
+        "whyItMatters": "If priced May 13 as planned, this is on track to be the largest tech IPO of 2026 and a clean read on AI-infrastructure demand outside NVIDIA. OpenAI is on the hook for a $20B+ compute commitment through 2028, AWS signed a binding term sheet to deploy Cerebras chips, and AMD participated in the company's February Series H.",
+        "forWho": "AI-infra and growth-equity desks",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002021728"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/e4qjo92p/production/21fa43f6d541115e57887beb1155bddc7541ae71-2400x1260.jpg",
+        "alt": "Cerebras Systems IPO press-release header artwork",
+        "fit": "cover",
+        "credit": "Cerebras Systems"
+      },
+      "publishDate": "2026-05-09T14:41:27.522Z"
+    },
+    {
+      "id": "qnt-ipo-filing-may-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "Quantinuum files S-1 for Nasdaq IPO under 'QNT' — first major quantum-computing pure-play to publicly file",
+      "org": "Quantinuum",
+      "date": "2026-05-08",
+      "url": "https://www.prnewswire.com/news-releases/honeywell-announces-quantinuums-filing-of-registration-statement-for-proposed-initial-public-offering-302767312.html",
+      "summary": "Honeywell-backed Quantinuum publicly filed a Form S-1 with the SEC for a Nasdaq IPO under proposed ticker 'QNT' — the first major quantum-computing pure-play to publicly file. JPM, MS, Jefferies, Evercore lead.",
+      "tags": [
+        "ipo",
+        "quantum-computing",
+        "qnt",
+        "honeywell",
+        "nvidia-vc",
+        "nasdaq",
+        "s-1"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HON"
+      ],
+      "metrics": {
+        "Ticker (proposed)": "QNT",
+        "Exchange": "Nasdaq Global Select",
+        "FY24 revenue": "$30.9M",
+        "FY24 net loss": "$192.6M",
+        "Pre-money valuation (last round)": "~$10B (2024)",
+        "Lead bookrunners": "JPM, MS, Jefferies, Evercore"
+      },
+      "links": [
+        {
+          "label": "Honeywell PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/honeywell-announces-quantinuums-filing-of-registration-statement-for-proposed-initial-public-offering-302767312.html"
+        },
+        {
+          "label": "Quantinuum IR",
+          "url": "https://www.quantinuum.com/press-releases/honeywell-announces-quantinuums-confidential-submission-of-draft-registration-statement-for-proposed-initial-public-offering"
+        },
+        {
+          "label": "Quantum Insider",
+          "url": "https://thequantuminsider.com/2026/05/08/honeywell-announces-quantinuums-filing-of-registration-statement-for-ipo/"
+        },
+        {
+          "label": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/HON/honeywell-announces-quantinuum-s-filing-of-registration-statement-e1fmg4e9lt5i.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "Honeywell-backed Quantinuum publicly files S-1 to list on Nasdaq as 'QNT' — the first major quantum-computing pure-play to do so.",
+        "whatIsIt": "Quantinuum filed a public Form S-1 registration statement with the SEC for an IPO on the Nasdaq Global Select Market under the proposed ticker 'QNT'. The number of shares and price range have not yet been set; the company first submitted a confidential draft on Feb 17, 2026.",
+        "howItWorks": "JPMorgan and Morgan Stanley are joint lead active book-running managers; Jefferies and Evercore ISI are also active book-runners. Quantinuum reported FY24 revenue of $30.9M and a net loss of $192.6M (vs $23.0M / $144.1M prior year). Its 2024 round priced at a $10B pre-money valuation with NVIDIA's NVentures arm participating.",
+        "whyItMatters": "If priced, QNT would set a public benchmark for quantum-computing valuations alongside IonQ, Rigetti and D-Wave — but at far higher revenue scale. Parent Honeywell (HON) retains majority ownership and would unlock a strategic standalone with public-equity currency.",
+        "forWho": "quantum-tech and growth-equity desks",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=quantinuum&type=S-1&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/1420781/Honeywell_Logo.jpg?p=facebook",
+        "alt": "Honeywell corporate logo",
+        "fit": "contain",
+        "credit": "Honeywell / PR Newswire"
+      },
+      "publishDate": "2026-05-09T14:41:27.522Z"
+    },
+    {
+      "id": "mrna-hantavirus-vaccine-may-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Moderna +~14% to two-month high after confirming early-stage hantavirus vaccine work amid MV Hondius outbreak",
+      "org": "Moderna",
+      "date": "2026-05-08",
+      "url": "https://www.barchart.com/story/news/1814911/mrna-stock-alert-moderna-surges-on-hantavirus-vaccine-hopes",
+      "summary": "MRNA jumps ~14% Friday after Bloomberg reports Moderna has been running early-stage mRNA hantavirus vaccine research with the U.S. Army and Korea University; trigger is a fatal cruise-ship cluster aboard MV Hondius.",
+      "tags": [
+        "biotech",
+        "mrna",
+        "vaccines",
+        "hantavirus",
+        "mover",
+        "korea-university",
+        "us-army"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MRNA"
+      ],
+      "metrics": {
+        "Move": "~+14% on the day",
+        "Volume": "~12M shares (~2× 25-day avg of 5.77M)",
+        "Catalyst": "Bloomberg confirms hantavirus vaccine R&D",
+        "Outbreak": "MV Hondius cluster — 8 cases, 3 deaths"
+      },
+      "links": [
+        {
+          "label": "Barchart",
+          "url": "https://www.barchart.com/story/news/1814911/mrna-stock-alert-moderna-surges-on-hantavirus-vaccine-hopes"
+        },
+        {
+          "label": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/05/08/business/moderna-hantavirus-vaccines-cruise-outbreak/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/moderna-stock-jumps-10-amid-140754662.html"
+        },
+        {
+          "label": "Brussels Signal",
+          "url": "https://brusselssignal.eu/2026/05/korea-university-and-moderna-have-been-working-on-mrna-hantavirus-vaccine-since-2023/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bloomberg story that Moderna has quiet hantavirus vaccine work in flight sends MRNA to a two-month high.",
+        "whatIsIt": "Moderna confirmed it has been running early-stage mRNA-based hantavirus vaccine research with the U.S. Army Medical Research Institute of Infectious Diseases, plus a separate 2023 program with the Vaccine Innovation Center at Korea University College of Medicine. The disclosure followed a Bloomberg story published Friday.",
+        "howItWorks": "MRNA jumped roughly 14% on the day to a two-month high on volume of ~12M shares — about double the 25-day average of 5.77M. The trigger was renewed public attention on the Dutch-flagged cruise ship MV Hondius, where a hantavirus cluster has caused at least three deaths and prompted a WHO disclosure. No hantavirus vaccine is approved anywhere globally, and human clinical trials for Moderna's candidates have not yet begun.",
+        "whyItMatters": "The move reframes Moderna's near-term mRNA pipeline beyond COVID and seasonal flu at a moment when investors have been hunting any non-COVID demand catalyst. The work is preclinical — actual revenue is years away — and the rally is sentiment-led, not contracted-revenue-led.",
+        "forWho": "biotech traders",
+        "tryIt": "https://investors.modernatx.com/"
+      },
+      "image": {
+        "url": "https://media.barchart.com/contributors-admin/common-images/images/Healthcare/Medical%20research%20and%20development%20by%20Gorodenkoff%20via%20Shutterstock.jpg",
+        "alt": "Medical research scientists in a vaccine lab",
+        "fit": "cover",
+        "credit": "Gorodenkoff via Shutterstock / Barchart"
+      },
+      "publishDate": "2026-05-09T14:41:27.522Z"
+    },
+    {
+      "id": "upwk-q1-2026-restructuring",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Upwork Q1 2026 — revenue $195.5M (+1.4%); cuts ~24% of workforce in $70M restructuring as AI hits low-value gig demand; UPWK -19%",
+      "org": "Upwork",
+      "date": "2026-05-07",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3290664/0/en/Upwork-Reports-First-Quarter-2026-Financial-Results.html",
+      "summary": "Upwork posts Q1 revenue $195.5M (+1.4%) and adj EPS $0.35; cuts ~24% of staff (~145 roles) for ~$70M annual savings; raises FY26 EBITDA guide but Q2 outlook soft. UPWK -19% Thursday.",
+      "tags": [
+        "earnings",
+        "upwk",
+        "layoffs",
+        "restructuring",
+        "ai-disruption",
+        "q1-2026",
+        "guide-raise"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UPWK"
+      ],
+      "metrics": {
+        "Revenue": "$195.5M (+1.4% Y/Y)",
+        "GAAP EPS": "$0.24 vs $0.27 Y/Y",
+        "Adj EPS": "$0.35 vs $0.34 Y/Y",
+        "GSV": "$987.1M flat Y/Y; AI-related GSV +40% to >$300M",
+        "Layoffs": "~145 roles (~24% of workforce)",
+        "Restructuring charge": "$16–$23M (mostly Q2 cash)",
+        "Annual savings target": "~$70M",
+        "FY26 revenue guide": "$760–$790M",
+        "FY26 adj EBITDA guide": "$250–$260M (raised)",
+        "FY26 adj EPS guide": "$1.50–$1.55",
+        "Move": "-19.3%"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/07/3290664/0/en/Upwork-Reports-First-Quarter-2026-Financial-Results.html"
+        },
+        {
+          "label": "Staffing Industry",
+          "url": "https://www.staffingindustry.com/news/global-daily-news/upwork-reports-q1-revenue-rises-14-layoffs-ahead"
+        },
+        {
+          "label": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/UPWK/upwork-reports-first-quarter-2026-financial-xwa6z91j2oy4.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52396302/upwork-stock-plunges-on-q1-earnings-softer-revenue-outlook-restructuring-plan"
+        }
+      ],
+      "explainer": {
+        "tagline": "Upwork prints in line on Q1 but cuts ~145 jobs as AI displaces lower-value gig demand; UPWK -19%.",
+        "whatIsIt": "Upwork reported Q1 2026 revenue of $195.5M (+1.4% Y/Y), GAAP diluted EPS $0.24 and adj diluted EPS $0.35 — beating bottom-line consensus. Alongside, the company laid out a restructuring plan that cuts ~24% of its workforce, roughly 145 of ~600 employees.",
+        "howItWorks": "GSV came in at $987.1M, approximately flat Y/Y, but AI-related GSV grew >40% Y/Y to over $300M. Upwork expects $16–$23M of pre-tax restructuring charges (primarily severance, mostly cash, mostly recognized in Q2 2026) and is targeting ~$70M of annualized savings. FY26 revenue guide is $760–$790M; adj EBITDA guide rises to $250–$260M and adj EPS to $1.50–$1.55.",
+        "whyItMatters": "CEO Hayden Brown explicitly attributed the cuts to AI: lower-value freelance work is being absorbed by AI tools, while larger Business Plus and Lifted segments grow. The print and the cuts crystallize the AI-displacement debate at the demand-side end of the labor market — UPWK -19.3% on the day shows the market reading the Q2 deceleration, not the EBITDA raise.",
+        "forWho": "labor-economy and SaaS traders",
+        "tryIt": "https://investors.upwork.com/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/15ddbb23-7272-49b1-8aa1-517bcdcb21a4",
+        "alt": "Upwork corporate logo and Q1 2026 earnings header",
+        "fit": "contain",
+        "credit": "Upwork / GlobeNewswire"
+      },
+      "publishDate": "2026-05-09T14:41:27.522Z"
+    },
     {
       "id": "gild-q1-2026-earnings-guide-split",
       "categories": [
