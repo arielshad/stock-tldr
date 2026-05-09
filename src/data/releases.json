@@ -1,8 +1,73 @@
 {
-  "generatedAt": "2026-05-09T07:03:21.888Z",
+  "generatedAt": "2026-05-09T08:43:55.181Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "umich-may-2026-sentiment-record-low",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. consumer sentiment hits record low — U-Michigan May prelim 48.2 (lowest since 1952); gas prices and tariffs cited by ~63% of respondents",
+      "org": "University of Michigan Surveys of Consumers",
+      "date": "2026-05-08",
+      "url": "https://www.sca.isr.umich.edu/",
+      "summary": "U-Michigan's preliminary May 2026 Index of Consumer Sentiment fell to 48.2 from April's 49.8, missing the 49.5 estimate and marking the lowest reading in the survey's 74-year history. ~33% cited gas prices, ~30% cited tariffs.",
+      "tags": [
+        "consumer-sentiment",
+        "umich",
+        "macro",
+        "record-low",
+        "gas-prices",
+        "tariffs",
+        "may-2026",
+        "preliminary",
+        "iran-war",
+        "inflation-expectations"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline (May prelim)": "48.2 vs 49.5 est",
+        "April final": "49.8",
+        "Current Conditions": "47.8 (-9.0% M/M)",
+        "Expectations": "48.5 (+0.8% M/M)",
+        "1Y inflation exp.": "4.5% (down from 4.7%)",
+        "5Y inflation exp.": "3.4% (down from 3.5%)"
+      },
+      "explainer": {
+        "tagline": "U-Michigan's May prelim consumer sentiment falls to 48.2 — the lowest reading in the survey's 74-year history.",
+        "whatIsIt": "The University of Michigan's monthly Surveys of Consumers, released Friday May 8 2026, posted a preliminary May Index of Consumer Sentiment of 48.2, down 3.2% from April's final 49.8 and below the 49.5 consensus estimate. The Current Economic Conditions sub-index plunged 9% month-over-month to 47.8, while the Expectations sub-index ticked slightly higher to 48.5.",
+        "howItWorks": "ICS surveys roughly 600 U.S. households each month on personal finances, business conditions and buying intentions. The 48.2 print marks the lowest in the data series going back to November 1952 — below readings from the 2008 financial crisis and the 1980 stagflation cycle. Director Joanne Hsu noted about one-third of respondents spontaneously mentioned gasoline prices and about 30% mentioned tariffs as top concerns. One-year inflation expectations moderated to 4.5% from 4.7%; long-run expectations eased to 3.4% from 3.5%.",
+        "whyItMatters": "Sentiment is a leading indicator for retail and discretionary spending; sub-50 readings have historically aligned with recession periods. The print stands in stark contrast to the same day's strong April payrolls report (+115K) and the S&P 500 / Nasdaq record closes — equities shrugged it off, focusing on the labor data, but Fed officials track sentiment when assessing the consumer side of the dual mandate. With Iran-conflict-driven gasoline prices still elevated and tariff overhang unresolved, follow-through into hard data prints (retail sales, PCE) would pressure consumer-discretionary names.",
+        "forWho": "macro traders, consumer/retail analysts",
+        "tryIt": "https://fred.stlouisfed.org/series/UMCSENT"
+      },
+      "image": {
+        "url": "https://images.investinglive.com/images/consumer%20sentiment%20USA_id_23703e05-7376-4417-9a37-6af0da18113b_size975.jpg",
+        "alt": "Article art accompanying U.S. consumer sentiment May 2026 coverage",
+        "fit": "cover",
+        "credit": "investingLive"
+      },
+      "links": [
+        {
+          "label": "Surveys of Consumers",
+          "url": "https://www.sca.isr.umich.edu/"
+        },
+        {
+          "label": "Scotsman Guide",
+          "url": "https://www.scotsmanguide.com/news/consumer-sentiment-survey-hits-lowest-mark-since-tracking-began-in-1952/"
+        },
+        {
+          "label": "investingLive Recap",
+          "url": "https://investinglive.com/news/university-of-michigan-sentiment-for-may-482-versus-495-estimate-20260508/"
+        },
+        {
+          "label": "FRED Chart",
+          "url": "https://fred.stlouisfed.org/series/UMCSENT"
+        }
+      ],
+      "publishDate": "2026-05-09T08:43:55.181Z"
+    },
     {
       "id": "lime-ipo-filing-may-2026",
       "categories": [

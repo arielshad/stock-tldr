@@ -1636,6 +1636,30 @@
         "fx",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260509t084355z",
+      "timestamp": "2026-05-09T08:43:55.181Z",
+      "source": "github-actions-sweep",
+      "summary": "Saturday sweep on a closed-market day, ~1.5h after the prior cron. Adds one fresh macro print: U-Michigan May 2026 preliminary consumer sentiment fell to 48.2 — the lowest reading in the survey's 74-year history, released Friday May 8. No other 72h-fresh, non-duplicate items met the bar; equity earnings flow already covered in the prior sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "umich-may-2026-sentiment-record-low",
+          "title": "U.S. consumer sentiment hits record low — U-Michigan May prelim 48.2 (lowest since 1952); gas prices and tariffs cited by ~63% of respondents",
+          "category": "macro",
+          "note": "Released May 8 by U-Michigan; preliminary May ICS 48.2 is an all-time low since 1952. Multi-outlet (Bloomberg, CNN, CNBC, Scotsman, investingLive) tier-1 coverage and primary-source confirmed. Distinct from the BLS jobs print already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro"
+      ]
     }
   ]
 }
