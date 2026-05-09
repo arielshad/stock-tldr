@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-05-09T20:24:05.549Z",
+  "generatedAt": "2026-05-09T22:32:38.818Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "china-apr-2026-trade-data",
+      "categories": [
+        "macro",
+        "sector"
+      ],
+      "title": "China April 2026 trade — exports +14.1% Y/Y in USD beat 7.9% est, imports +25.3% beat 15.2%; surplus widens to $84.8B",
+      "org": "General Administration of Customs",
+      "date": "2026-05-09",
+      "url": "https://www.933thedrive.com/2026/05/08/china-april-exports-rebound-strongly-after-sluggish-march-trade-surplus-widens/",
+      "summary": "China's April exports jumped 14.1% Y/Y in USD terms, sharply outpacing March's +2.5% and the +7.9% Reuters poll. Imports surged 25.3% Y/Y vs +15.2% est. Trade surplus widened to $84.8B from $51.13B in March. GACC released the data Saturday ahead of the May 14-15 Trump-Xi summit.",
+      "tags": [
+        "macro",
+        "china",
+        "trade-data",
+        "exports",
+        "imports",
+        "gacc",
+        "trade-surplus",
+        "trump-xi-summit",
+        "tariff-frontrunning",
+        "april-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Exports YoY (USD)": "+14.1% vs +7.9% est",
+        "Imports YoY (USD)": "+25.3% vs +15.2% est",
+        "March exports YoY": "+2.5%",
+        "Trade surplus (April)": "$84.8B",
+        "Trade surplus (March)": "$51.13B",
+        "Exports to U.S. YoY": "+11.3% vs -26.5% in March"
+      },
+      "explainer": {
+        "tagline": "China April exports jump 14.1% Y/Y in USD, blowing past 7.9% consensus as factories race to fulfill orders ahead of Trump-Xi summit.",
+        "whatIsIt": "The General Administration of Customs (GACC) released April trade data Saturday morning Beijing time. Exports rose 14.1% Y/Y in USD terms — well above the 7.9% Reuters poll consensus and a sharp rebound from March's 2.5%. Imports surged 25.3% Y/Y vs 15.2% est.",
+        "howItWorks": "Trade surplus widened to $84.8B from $51.13B in March. Exports to the U.S. swung from -26.5% in March to +11.3% in April, suggesting front-loading by importers ahead of any Trump-Xi summit outcome. ING's Lynn Song flagged solid external demand in semiconductors and autos.",
+        "whyItMatters": "Strong April reflects factories racing to deliver overseas orders amid Iran-war energy worries — buyers stockpiling components. The data lands days before the May 14-15 Trump-Xi summit in Beijing, where tariffs and rare earths are on the agenda. Outsized imports growth is read as a sign of stronger China domestic demand.",
+        "forWho": "macro traders, China-exposed multinationals, commodity desks",
+        "tryIt": "https://www.chinadailyasia.com/hk/article/633248"
+      },
+      "image": {
+        "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-05/09/2026-05-09T042330Z_1_LYNXMPEM4801L_RTROPTP_3_USA-TRUMP-TARIFFS-CHINA.JPG",
+        "alt": "Stacks of shipping containers at a Chinese port",
+        "fit": "cover",
+        "credit": "Reuters"
+      },
+      "links": [
+        {
+          "label": "Reuters via 93.3 The Drive",
+          "url": "https://www.933thedrive.com/2026/05/08/china-april-exports-rebound-strongly-after-sluggish-march-trade-surplus-widens/"
+        },
+        {
+          "label": "ABC News Coverage",
+          "url": "https://abcnews.com/International/wireStory/china-april-exports-jump-141-year-ago-ahead-132804345"
+        },
+        {
+          "label": "GACC Newsroom",
+          "url": "http://english.customs.gov.cn/statics/report/monthly.html"
+        },
+        {
+          "label": "China Daily Coverage",
+          "url": "https://www.chinadailyasia.com/hk/article/633248"
+        }
+      ],
+      "publishDate": "2026-05-09T22:32:38.818Z"
+    },
     {
       "id": "cbrs-ipo-pricing-bump-may-2026",
       "categories": [
@@ -7002,49 +7068,47 @@
     {
       "id": "intc-apple-chip-rumor-may-2026",
       "categories": [
-        "rumor",
+        "sector",
         "mover"
       ],
-      "title": "Apple reportedly in early talks with Intel and Samsung on US chipmaking; INTC closes ~+13%",
+      "title": "Apple-Intel reach preliminary chip-making deal — WSJ; INTC closes +15.3% to $124.92",
       "org": "Apple",
-      "date": "2026-05-05",
-      "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
-      "summary": "Bloomberg reported that Apple held early-stage talks with Intel and visited a Samsung facility in Texas about producing main device chips in the US, alongside longtime partner TSMC. Intel closed up ~12.9% at $108.15 on the report.",
+      "date": "2026-05-08",
+      "url": "https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/",
+      "summary": "WSJ reported Friday that Apple and Intel reached a preliminary chip-making agreement after more than a year of intensive talks, hammered out in recent months. INTC surged ~15.3% to $124.92, AAPL +1.7%. Commerce Secretary Lutnick reportedly facilitated.",
       "tags": [
-        "rumor",
-        "bloomberg",
+        "sector",
         "semis",
         "us-chipmaking",
         "tsmc-alternative",
         "ai-supply",
         "apple-silicon",
-        "intel-foundry"
+        "intel-foundry",
+        "preliminary-deal",
+        "wsj",
+        "lutnick"
       ],
-      "importance": "rumor",
+      "importance": "major",
       "tickers": [
         "INTC",
         "AAPL",
         "TSM"
       ],
       "metrics": {
-        "INTC close": "$108.15 (+12.92%)",
-        "INTC volume": "185.59M shares",
-        "Status": "early-stage, no orders placed",
-        "Sources cited": "Bloomberg News, Reuters mirror",
+        "INTC close": "$124.92 (+15.3%)",
+        "AAPL move": "+1.7%",
+        "Status": "preliminary chip-making agreement",
+        "Sources cited": "WSJ; Reuters mirror",
         "Apple's incumbent foundry partner": "TSMC"
       },
       "links": [
         {
           "label": "MacRumors Recap",
-          "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/"
+          "url": "https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/"
         },
         {
-          "label": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/apple-explores-using-intel-samsung-to-build-main-device-chips-in-the-us-bloomberg-news-reports-ce7f58dfdf89f022"
-        },
-        {
-          "label": "Yahoo Finance Coverage",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-using-intel-samsung-030010009.html"
+          "label": "U.S. News Coverage",
+          "url": "https://money.usnews.com/investing/news/articles/2026-05-08/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports"
         },
         {
           "label": "Yahoo Finance — INTC",
@@ -7056,10 +7120,10 @@
         }
       ],
       "explainer": {
-        "tagline": "Bloomberg reports Apple is exploring Intel and Samsung as a US-side backstop to TSMC for main device chips.",
-        "whatIsIt": "Bloomberg News reported Apple has held exploratory discussions with Intel about chipmaking services and that Apple executives have visited a Samsung plant under construction in Texas that will also make advanced chips. The talks are described as preliminary, with no orders placed and Apple still expressing concerns about reliability and scale outside TSMC.",
-        "howItWorks": "The motivation cited by Bloomberg is supply diversification away from TSMC, after AI-data-center buildout consumed leading-edge wafer capacity and Apple's own Mac mini and Mac Studio lines hit demand-driven shortages. The Samsung Taylor, Texas facility is under development; Intel's foundry is the company's reset story under restructured manufacturing leadership. Reuters could not independently verify the report and Intel declined to comment.",
-        "whyItMatters": "Intel jumped about 12.9% to $108.15 with 185.6M shares traded, the largest single-name reaction of the day, on the implied option value of an Apple foundry win. The same setup is a marginal negative for TSM if the talks progress, though all parties stress nothing has been ordered. Confirm/deny gates: any concrete tape-out commitment, any Apple-issued statement, or any 8-K from Intel or Samsung referencing a foundry agreement.",
+        "tagline": "WSJ reports Apple and Intel have reached a preliminary chip-making agreement; INTC closes +15.3% on the day.",
+        "whatIsIt": "The Wall Street Journal reported Friday that Apple and Intel have reached a preliminary chip-making deal in a major boost to Intel's contract-manufacturing business. The companies were in intensive talks for more than a year and hammered out a formal arrangement in recent months. Reuters mirrored the report.",
+        "howItWorks": "Intel stock rose ~15.3% to close at $124.92 (a $15.30 gain), the largest single-name reaction of the day; Apple gained ~1.7% in the afternoon. Commerce Secretary Howard Lutnick reportedly met repeatedly with Tim Cook and other CEOs to encourage Intel-foundry use. The U.S. government — Intel's largest shareholder under last year's deal with CEO Lip-Bu Tan — played a role. Specific products and ramp timing were not disclosed.",
+        "whyItMatters": "Confirms the May 5 Bloomberg rumor of early talks and validates Intel's reset story under restructured manufacturing leadership. For Apple, it diversifies a chip supply chain that leans heavily on TSMC, whose advanced nodes are in high demand from NVDA and AMD AI buildouts. Marginal negative for TSM if production migrates over time, but no orders or tape-outs have been disclosed.",
         "forWho": "semis, foundry and large-cap tech investors",
         "tryIt": "https://finance.yahoo.com/quote/INTC"
       },

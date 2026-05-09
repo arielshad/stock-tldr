@@ -1826,6 +1826,43 @@
         "video",
         "article"
       ]
+    },
+    {
+      "id": "sweep-20260509t223238z",
+      "timestamp": "2026-05-09T22:32:38.818Z",
+      "source": "github-actions-sweep",
+      "summary": "Light Saturday sweep: added the GACC April 2026 China trade-data print (exports +14.1% YoY USD beat 7.9% est, imports +25.3% beat 15.2%, surplus widened to $84.8B) and converted the May 5 Apple-Intel rumor entry into a confirmed-deal update after WSJ reported a preliminary chip-making agreement and INTC closed +15.3% at $124.92.",
+      "counts": {
+        "added": 1,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "china-apr-2026-trade-data",
+          "title": "China April 2026 trade — exports +14.1% Y/Y in USD beat 7.9% est, imports +25.3% beat 15.2%; surplus widens to $84.8B",
+          "category": "macro",
+          "note": "Saturday GACC release; biggest April beat vs consensus in over a year; lands days before Trump-Xi summit."
+        }
+      ],
+      "updated": [
+        {
+          "id": "intc-apple-chip-rumor-may-2026",
+          "title": "Apple-Intel reach preliminary chip-making deal — WSJ; INTC closes +15.3% to $124.92",
+          "note": "Rumor confirmed: WSJ reports Apple-Intel preliminary chip-making deal; INTC +15.3% to $124.92 on May 8."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "sector",
+        "mover",
+        "earnings",
+        "mna",
+        "crypto",
+        "rates",
+        "commodity"
+      ]
     }
   ]
 }
