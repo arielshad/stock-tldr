@@ -2002,6 +2002,30 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260510t103625z",
+      "timestamp": "2026-05-10T10:36:25.546Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday 2026-05-10 sweep: feed already covers all major events from the May 7-9 window — Friday's Q1 2026 earnings (CART, AKAM, AMD, AMZN, AVGO, CRWV, FLNC, NET, RKLB, TTD, etc.), Wendy's China deal, AWS US-East-1 outage, April jobs, China April trade, Trump-EU tariff deadline, Russia-Ukraine 3-day ceasefire start, U.S. CIT ruling on Section 122 tariffs, Toyota FY26, IPO docket (CBRS, QNT, LIME, HAWK), and the BTC $82K push. Saturday/Sunday news (Putin 'war coming to an end' + open-to-Zelenskyy-meeting comments, Trump admin's Friday appeal of the CIT tariff ruling) extend stories already in the feed and have no market-impact print yet — markets closed weekend. Zero qualifying new items, zero updates, zero removals.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "mna",
+        "ipo",
+        "regulatory",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }
