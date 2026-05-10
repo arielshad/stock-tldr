@@ -2088,6 +2088,21 @@
         "crypto",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260510t162603z",
+      "timestamp": "2026-05-10T16:26:03.875Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday 2026-05-10 sweep ~1.7h after the prior cron run. Searched markets, crypto, geopolitics, weekend M&A and SEC filings. No new market-moving events surfaced that meet the 72h + primary-source bar without colliding with existing feed entries. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": []
     }
   ]
 }
