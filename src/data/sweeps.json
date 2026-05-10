@@ -1973,6 +1973,35 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260510t085236z",
+      "timestamp": "2026-05-10T08:52:36.201Z",
+      "source": "github-actions-sweep",
+      "summary": "Saturday weekend sweep: most Friday market-moving news was already in the feed (jobs report, S&P/Nasdaq records, Friday earnings, Iran tankers). Added one fresh macro/tariff item — Trump's Truth Social post setting a July 4 deadline for EU ratification with 25% auto tariff threat.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-eu-july-4-tariff-deadline-may-2026",
+          "title": "Trump sets July 4 deadline for EU to ratify Turnberry trade deal — threatens tariffs jump to 'much higher' levels with 25% on EU autos and trucks",
+          "category": "macro",
+          "note": "Fresh May 8 macro/tariff escalation: Trump gives EU 57 days to ratify Turnberry deal or face 25% auto duties. Distinct from existing CIT Section 122 ruling and CAPE refund items in feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "earnings",
+        "mna",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

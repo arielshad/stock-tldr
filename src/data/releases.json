@@ -1,8 +1,66 @@
 {
-  "generatedAt": "2026-05-10T07:14:50.783Z",
+  "generatedAt": "2026-05-10T08:52:36.201Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-eu-july-4-tariff-deadline-may-2026",
+      "categories": [
+        "macro",
+        "regulatory"
+      ],
+      "title": "Trump sets July 4 deadline for EU to ratify Turnberry trade deal — threatens tariffs jump to 'much higher' levels with 25% on EU autos and trucks",
+      "org": "Donald Trump",
+      "date": "2026-05-08",
+      "url": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision",
+      "summary": "Trump's Truth Social post gives the EU until July 4 to ratify the Turnberry trade deal or tariffs 'immediately jump to much higher levels'; auto duties threatened to rise from 15% to 25%.",
+      "tags": [
+        "tariffs",
+        "eu",
+        "trump",
+        "trade-deal",
+        "turnberry",
+        "autos",
+        "july-4",
+        "von-der-leyen",
+        "truth-social"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deadline": "July 4, 2026",
+        "Current EU rate": "15% flat on most EU goods",
+        "Threatened auto rate": "25% (from 15%)",
+        "Negotiation resumes": "May 19"
+      },
+      "explainer": {
+        "tagline": "Trump gives the EU 57 days to ratify the Turnberry trade deal or watch tariffs spike — autos in the crosshairs at 25%.",
+        "whatIsIt": "President Trump posted on Truth Social that the EU has until July 4, 2026 — the U.S. 250th birthday — to finalize last summer's Turnberry trade agreement. If the bloc fails to ratify, Trump says tariffs will 'immediately jump to much higher levels,' with EU cars and trucks specifically threatened to climb from the current 15% all-inclusive rate to 25%.",
+        "howItWorks": "Under the deal struck in Turnberry, Scotland in 2025, the EU agreed to eliminate remaining tariffs on U.S. goods while the U.S. applied a flat 15% on most EU products. The European Parliament and member states are still negotiating enabling legislation. Wednesday's talks failed; the next round resumes May 19. The main sticking point is whether to include safeguards against a unilateral U.S. breach. Commission President Ursula von der Leyen said 'good progress is being made towards tariff reduction by early July.'",
+        "whyItMatters": "EU autos are the most exposed: Germany, Italy and Sweden combined ship roughly $50B+ of vehicles to the U.S. each year. A jump to 25% would mark a return to the pre-Turnberry posture and pressure BMW, Mercedes-Benz, Volkswagen, Stellantis and Volvo Cars. The deadline narrows the window for European legislators and reintroduces tariff-headline risk for the euro and Stoxx 600 industrials — categories that had largely faded from front-page concern after the Turnberry framework was announced.",
+        "forWho": "Macro traders, EU equity desks, auto analysts"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-06T190916Z_1953626497_RC2V3LAVFQ3I_RTRMADP_3_USA-TRUMP-1778183836.jpg?resize=1920%2C1440",
+        "alt": "President Donald Trump speaking at a White House event ahead of his Truth Social post setting a July 4 EU tariff deadline",
+        "fit": "cover",
+        "credit": "Reuters via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera Coverage",
+          "url": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision"
+        },
+        {
+          "label": "Euronews Detail",
+          "url": "https://www.euronews.com/my-europe/2026/05/07/trump-gives-eu-until-4-july-to-implement-trade-deal-or-face-much-higher-tariffs"
+        },
+        {
+          "label": "Political Wire Recap",
+          "url": "https://politicalwire.com/2026/05/08/trump-threatens-europe-with-much-higher-tariffs/"
+        }
+      ],
+      "publishDate": "2026-05-10T08:52:36.201Z"
+    },
     {
       "id": "ui-q3-fy26-earnings-miss",
       "categories": [
