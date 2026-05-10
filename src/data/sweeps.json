@@ -1863,6 +1863,39 @@
         "rates",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260510t010901z",
+      "timestamp": "2026-05-10T01:09:01.249Z",
+      "source": "github-actions-sweep",
+      "summary": "Sole add this sweep: Trump-brokered 72h Russia-Ukraine ceasefire (May 9-11) with 1,000/1,000 POW swap, paired with Putin's scaled-back Victory Day parade — already disputed within hours. Other May 8-9 candidates (Ubiquiti UI Q3 miss, tariff appeal, China-Wendy's franchise expansion) were too narrow or already covered semantically by existing items.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-ru-ua-3day-ceasefire-may-2026",
+          "title": "Trump-brokered Russia-Ukraine 3-day ceasefire (May 9-11) takes hold over Victory Day weekend; both sides exchange ~1,000 POWs each but trade accusations of violations within hours",
+          "category": "macro",
+          "note": "Genuine new geopolitical development announced May 8 — multi-source primary confirmation (Trump, Kremlin, Zelenskyy), tier-1 wall of coverage (NPR, CBS, CNN, Al Jazeera, Bloomberg), and clear cross-asset relevance (defense, oil, wheat, EU equity). Importance kept at major — not seismic — because markets were closed and ceasefire was already disputed within hours."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "mna",
+        "regulatory",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }

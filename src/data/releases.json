@@ -1,8 +1,70 @@
 {
-  "generatedAt": "2026-05-09T22:32:38.818Z",
+  "generatedAt": "2026-05-10T01:09:01.249Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-ru-ua-3day-ceasefire-may-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "Trump-brokered Russia-Ukraine 3-day ceasefire (May 9-11) takes hold over Victory Day weekend; both sides exchange ~1,000 POWs each but trade accusations of violations within hours",
+      "org": "The White House",
+      "date": "2026-05-08",
+      "url": "https://www.cbsnews.com/news/putin-russia-fighting-victory-day-parade-under-tight-security/",
+      "summary": "Trump announces 72h Russia-Ukraine ceasefire May 9-11 with 1,000-for-1,000 prisoner swap; Putin holds scaled-back Victory Day parade in Moscow as both sides immediately accuse each other of violations.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "ceasefire",
+        "geopolitics",
+        "trump",
+        "victory-day",
+        "prisoner-swap",
+        "defense",
+        "putin",
+        "zelenskyy"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Ceasefire window": "May 9-11 2026 (72h)",
+        "Prisoner swap": "1,000 for 1,000",
+        "Status": "disputed within hours"
+      },
+      "explainer": {
+        "tagline": "First Trump-brokered pause in the Russia-Ukraine war coincides with Putin's scaled-back Victory Day parade — already shaky.",
+        "whatIsIt": "U.S. President Donald Trump announced Friday May 8 on Truth Social that Russia and Ukraine had agreed to a 72-hour ceasefire running Saturday May 9 through Monday May 11, paired with a 1,000-for-1,000 prisoner exchange. The window deliberately covers Russia's Victory Day commemorations on May 9. Both Ukrainian President Volodymyr Zelenskyy (on X) and Kremlin foreign-affairs adviser Yuri Ushakov confirmed the agreement.",
+        "howItWorks": "The deal is verbal-only — no formal document, no neutral monitors, no defined penalty for violations. Trump described it as 'the beginning of the end of a very long, deadly, and hard fought War'. Putin used his parade speech to declare 'Victory has always been and will be ours' and that the conflict is 'heading to an end but it's still a serious matter'. The Moscow parade itself was sharply downsized — no tanks or missiles for the first time in nearly 20 years, only a jet flyover and infantry, with North Korean troops marching for the first time. Within hours, Russia and Ukraine were already accusing each other of breaking the truce.",
+        "whyItMatters": "Markets closed Friday before the announcement, so the first read comes from Sunday-night futures. Defense primes (LMT, RTX, NOC, GD), European defense names (Rheinmetall, BAE, Saab), wheat (ZW=F), gas (TTF) and Brent crude all carry a 'peace premium/discount' that could repress on any sign of durable de-escalation — but the speed of mutual violation accusations argues against pricing-in much. The bigger trade is what doesn't happen: no formal framework, no monitors, no hint of border lines. Sequenced behind the parallel U.S.-Iran MOU talks, this is the second weekend in a row Trump has brokered a fragile geopolitical pause.",
+        "forWho": "macro / geopolitics / defense desks",
+        "tryIt": "https://truthsocial.com/@realDonaldTrump"
+      },
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/09/2da79bf8-45ba-46f4-bf3c-58e2d9844504/thumbnail/1200x630/e8de956b7d2f847faa52527f729618a3/ap26129352529747.jpg",
+        "alt": "Russian troops march in scaled-back Victory Day parade on Moscow's Red Square, May 9 2026",
+        "fit": "cover",
+        "credit": "AP via CBS News"
+      },
+      "links": [
+        {
+          "label": "CBS — Putin Victory Day",
+          "url": "https://www.cbsnews.com/news/putin-russia-fighting-victory-day-parade-under-tight-security/"
+        },
+        {
+          "label": "Al Jazeera — Russia Parade",
+          "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day"
+        },
+        {
+          "label": "CNN — Moscow Parade",
+          "url": "https://www.cnn.com/2026/05/09/europe/russia-military-parade-ceasefire-intl-hnk"
+        },
+        {
+          "label": "Al Jazeera — Trump Truce",
+          "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war"
+        }
+      ],
+      "publishDate": "2026-05-10T01:09:01.249Z"
+    },
     {
       "id": "china-apr-2026-trade-data",
       "categories": [
