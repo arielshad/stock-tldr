@@ -2128,6 +2128,32 @@
         "fx",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260510t202603z",
+      "timestamp": "2026-05-10T20:26:03.006Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday 2026-05-10 sweep: searched weekend headlines (Trump-Xi Beijing summit prep May 14-15, Warsh Fed-chair confirmation vote week of May 11, US-China rare-earths official briefing, Iran-war diplomatic stasis, BTC ETF flows, Friday IPO debuts MOBI/ODTX). All material moves are already in the feed; pending items (Warsh vote, Trump-Xi, Cerebras May-14 debut) have not occurred yet. Zero adds.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "ipo",
+        "mna",
+        "earnings",
+        "rumor",
+        "regulatory"
+      ]
     }
   ]
 }
