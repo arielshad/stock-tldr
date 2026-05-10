@@ -2154,6 +2154,28 @@
         "rumor",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260510t222606z",
+      "timestamp": "2026-05-10T22:26:06.615Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep. Feed already covers May 8 primary releases (jobs report, China trade data, S&P/Nasdaq records, Apple-Intel deal, multiple Q1 earnings) and the May 9-10 weekend was dominated by the Trump-brokered Russia-Ukraine 3-day ceasefire and Victory Day parade — both captured in trump-ru-ua-3day-ceasefire-may-2026, including the mutual violation accusations that surfaced Sunday. Anthropic $900B funding round is still in talks (originated April 29-30, outside 72h cap). CPI April release scheduled Tuesday May 12, not yet out. Powell-Warsh Senate vote also next week. No new qualifying items.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "geopolitics",
+        "earnings",
+        "mna",
+        "crypto",
+        "ipo"
+      ]
     }
   ]
 }
