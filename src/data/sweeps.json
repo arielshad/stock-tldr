@@ -2054,6 +2054,40 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260510t144030z",
+      "timestamp": "2026-05-10T14:40:30.515Z",
+      "source": "github-actions-sweep",
+      "summary": "Saturday sweep: feed already covers the May 7-9 earnings/macro/M&A wave. Adds one item — Forward Air Q1 2026, where two material disclosures (largest customer departing in 2027 + asset-sale pivot after no actionable buyout) sent FWRD ~-45% AH.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fwrd-q1-2026-customer-loss",
+          "title": "Forward Air Q1 2026 — discloses largest customer (~$250M / ~10% of revenue) shifting business to other providers; non-core asset sale plan; FWRD plunges ~45% to ~$9.50",
+          "category": "mover",
+          "note": "Single-name -45% AH on Q1 release with a named, primary-source catalyst (8-K disclosure of customer transition + failed strategic review)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "ipo",
+        "regulatory",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }

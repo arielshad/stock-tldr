@@ -1,8 +1,82 @@
 {
-  "generatedAt": "2026-05-10T12:32:29.616Z",
+  "generatedAt": "2026-05-10T14:40:30.515Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fwrd-q1-2026-customer-loss",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Forward Air Q1 2026 — discloses largest customer (~$250M / ~10% of revenue) shifting business to other providers; non-core asset sale plan; FWRD plunges ~45% to ~$9.50",
+      "org": "Forward Air",
+      "date": "2026-05-08",
+      "url": "https://ir.forwardaircorp.com/news-events/press-releases/detail/414/forward-air-corporation-reports-first-quarter-2026-results",
+      "summary": "Forward Air's largest customer (~$250M / ~10% of 2025 revenue) is shifting business to other providers starting early 2027; strategic review yielded no full-company sale, board pursues asset sales. FWRD -45% AH.",
+      "tickers": [
+        "FWRD"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "customer-loss",
+        "asset-sale",
+        "logistics",
+        "freight",
+        "omni",
+        "intermodal",
+        "strategic-review",
+        "q1-2026",
+        "mover"
+      ],
+      "metrics": {
+        "Revenue": "$582.0M (-5.1% Y/Y)",
+        "EPS": "($1.09) vs ($0.35) est",
+        "Operating Income": "$20.4M vs $4.8M Y/Y",
+        "Liquidity": "$402M ($141M cash + $261M revolver)",
+        "Customer at risk": "~$250M / ~10% of 2025 rev",
+        "Move": "-45% AH to ~$9.50"
+      },
+      "explainer": {
+        "tagline": "Forward Air's biggest customer is leaving and the strategic-review sale process collapsed — stock loses nearly half its value.",
+        "whatIsIt": "Forward Air reported Q1 2026 results alongside two material disclosures that crushed the stock: one of its largest customers, representing roughly $250M (about 10%) of 2025 revenue, plans to transition the majority of its business to other providers beginning in early 2027. Separately, the company's strategic-alternatives review produced no actionable proposals for a sale of the whole company, so the board has pivoted to selling non-core assets — the Intermodal segment and two smaller Omni businesses — to pay down debt.",
+        "howItWorks": "Q1 revenue came in at $582.0M, down 5.1% Y/Y, with a net loss of $40.2M ($1.09 per share) versus a Zacks consensus loss of $0.35. Operating income improved to $20.4M from $4.8M a year ago and free cash flow rose to $40.2M. Liquidity ended the quarter at $402M ($141M cash + $261M revolver). Expedited Freight revenue grew 9.4% with a stable 10.4% EBITDA margin, while Intermodal revenue fell 15%. Shares closed the regular session at $17.33 and traded down ~45% to ~$9.50 in after-hours.",
+        "whyItMatters": "The customer disclosure removes ~10% of forward revenue at a company already running a net loss and stretched balance sheet, and the failed sale process strips out the strategic-bid floor that retail had been pricing in. The asset-sale path (Intermodal + smaller Omni businesses) is now the deleveraging plan. Expect a re-rating of asset-light/asset-heavy logistics peers — and read-throughs to Omni Logistics' large-customer concentration risk across third-party freight platforms.",
+        "forWho": "small-cap logistics specialists, special-situation/restructuring desks",
+        "tryIt": "https://finance.yahoo.com/quote/FWRD"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_f05249ed5e71efad189e664ad8dea8e9/forwardair/db/515/3591/social_image_resized.jpg",
+        "alt": "Forward Air Corporation Q1 2026 results press release banner",
+        "fit": "cover",
+        "credit": "Forward Air Corporation"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://ir.forwardaircorp.com/news-events/press-releases/detail/414/forward-air-corporation-reports-first-quarter-2026-results"
+        },
+        {
+          "label": "8-K (StockTitan)",
+          "url": "https://www.stocktitan.net/sec-filings/FWRD/8-k-forward-air-corp-reports-material-event-173da81f1091.html"
+        },
+        {
+          "label": "Q1 Release (StockTitan)",
+          "url": "https://www.stocktitan.net/news/FWRD/forward-air-corporation-reports-first-quarter-2026-c496gdht61pp.html"
+        },
+        {
+          "label": "Benzinga: -45% AH",
+          "url": "https://www.benzinga.com/markets/equities/26/05/52399969/forward-air-stock-sinks-45-after-hours-whats-going-on"
+        },
+        {
+          "label": "FWRD on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/FWRD"
+        }
+      ],
+      "publishDate": "2026-05-10T14:40:30.515Z"
+    },
     {
       "id": "trump-eu-july-4-tariff-deadline-may-2026",
       "categories": [
