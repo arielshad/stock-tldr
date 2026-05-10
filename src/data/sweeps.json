@@ -1896,6 +1896,30 @@
         "crypto",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260510t031930z",
+      "timestamp": "2026-05-10T03:19:30.328Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday 03:15 UTC sweep — feed already saturated by the prior sweep (01:09Z) which captured the Friday May 8 close: AKAM AI cloud deal, BLS jobs print, S&P/Nasdaq record, Cloudflare layoff, Trade Desk drop, Wendy's beat, Enbridge Q1, plus the Trump-brokered Russia-Ukraine 3-day Victory Day ceasefire. Re-ran searches across earnings, macro, M&A, IPOs, FX/commodities, crypto, geopolitics, and influential voices. Bayer-Perfuse ($2.45B, May 6) and Bullish-Equiniti ($4.2B, May 5) are interesting but fall outside the 72h cap. Yelp Q1 (May 7 evening) is also borderline-stale at ~80h. No new May 8-after-close or May 9-10 weekend qualifying items found that aren't already covered. Markets closed Saturday/Sunday — no fresh price action.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mna",
+        "ipo",
+        "fx",
+        "commodity",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }
