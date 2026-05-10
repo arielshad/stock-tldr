@@ -2103,6 +2103,31 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260510t183042z",
+      "timestamp": "2026-05-10T18:30:42.448Z",
+      "source": "github-actions-sweep",
+      "summary": "No new qualifying items. Sweep timestamp 2026-05-10T18:26Z (Sunday); markets closed Sat-Sun. The 72h window (May 7-10) is already saturated by the prior sweep: Apple-Intel chip deal, Russia-Ukraine three-day ceasefire and violations, BLS April jobs, S&P/Nasdaq record close, Trump-EU July 4 tariff deadline, CIT Section 122 ruling, Brent below $100 on Iran MoU progress, and the Friday batch of Q1 earnings (FWRD, UI, FLR, GILD, UPWK, MRNA hantavirus, etc.) are all present. Iran 14-point MoU progress and Hormuz reopening priority shift are already captured by existing entries. No genuinely new market-moving item surfaced over the weekend. Empty sweep is success per inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "geopolitics",
+        "crypto",
+        "rates",
+        "fx",
+        "commodity"
+      ]
     }
   ]
 }
