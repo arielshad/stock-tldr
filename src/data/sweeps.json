@@ -2026,6 +2026,34 @@
         "crypto",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260510t123229z",
+      "timestamp": "2026-05-10T12:32:29.616Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep. Last sweep (~2h prior) already ingested all Friday May 8 movers (AKAM +24% on $1.8B AI deal, NET -14% on layoffs, TTD -13%, AMD blowout, RKLB record Q1, TOST guide raise, Block earnings, Wendy's, etc.) plus the Trump-brokered Russia-Ukraine 3-day ceasefire (May 9-11). Saturday US markets are closed; remaining May 6-7 candidates fall outside the 72h cap or are procedural duplicates of already-shipped items.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mna",
+        "ipo",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "rumor",
+        "article",
+        "video"
+      ]
     }
   ]
 }
