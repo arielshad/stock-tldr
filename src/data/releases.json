@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-05-10T05:27:51.756Z",
+  "generatedAt": "2026-05-10T07:14:50.783Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ui-q3-fy26-earnings-miss",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Ubiquiti Q3 FY26 — non-GAAP EPS $3.88 misses ~$4.29 est, revenue $788.2M (+18.7% Y/Y but -3.3% Q/Q); UI gaps -9.1% on top-line miss and FCC router-ban margin worry",
+      "org": "Ubiquiti",
+      "date": "2026-05-08",
+      "url": "https://www.stocktitan.net/news/UI/ubiquiti-inc-reports-third-quarter-fiscal-2026-financial-k44gscbi71ft.html",
+      "tickers": [
+        "UI"
+      ],
+      "summary": "Ubiquiti's Q3 FY26 non-GAAP EPS $3.88 missed Street near $4.29 and revenue $788.2M missed ~$815M, the first sequential decline in five quarters. Shares gapped down ~9% to $842.10 on a 70x P/E and FCC router-ban margin worries.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-miss",
+        "q3-fy2026",
+        "networking",
+        "router-ban",
+        "fcc",
+        "dividend"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$788.2M (+18.7% Y/Y, -3.3% Q/Q)",
+        "Non-GAAP EPS": "$3.88 (miss vs ~$4.29 est)",
+        "GAAP EPS": "$3.86 (+29.5% Y/Y)",
+        "GAAP gross margin": "47.0% (+1.1pp Q/Q)",
+        "Move": "-9.1% to $842.10",
+        "Dividend": "$0.80/sh declared (May 26 payable)"
+      },
+      "explainer": {
+        "tagline": "Niche networking-gear maker breaks its top-line streak — sequential decline plus a regulatory overhang trip a 70x P/E.",
+        "whatIsIt": "Ubiquiti, the prosumer networking-gear maker known for UniFi access points and routers, posted Q3 fiscal-2026 results on May 8. Both EPS and revenue missed Street, and revenue declined 3.3% sequentially even as it climbed 18.7% Y/Y.",
+        "howItWorks": "Revenue $788.2M missed the ~$815M consensus while non-GAAP EPS of $3.88 fell short of the ~$4.29 estimate. GAAP gross margin held at 47.0% (+1.1pp Q/Q) and GAAP EPS of $3.86 was still +29.5% Y/Y. Management noted all outstanding debt was repaid by the end of March, and the board declared a $0.80/share dividend payable May 26. No forward guidance was issued.",
+        "whyItMatters": "UI is one of the higher-multiple networking names trading at roughly 70x earnings, leaving little room for a top-line miss. Investors are also weighing the FCC's proposed ban on certain foreign-made routers as a possible margin headwind. Stock gapped down to $842.10, locking in a -9.1% session and -17.4% week. No 13F-style demand catalyst is in sight before fiscal Q4.",
+        "forWho": "small/mid-cap networking traders, FCC regulatory watchers"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ubiquiti_Logo_2023.svg",
+        "alt": "Ubiquiti logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/UI/ubiquiti-inc-reports-third-quarter-fiscal-2026-financial-k44gscbi71ft.html"
+        },
+        {
+          "label": "Morningstar Wire",
+          "url": "https://www.morningstar.com/news/business-wire/20260507079305/ubiquiti-inc-reports-third-quarter-fiscal-2026-financial-results"
+        },
+        {
+          "label": "Marketbeat Alert",
+          "url": "https://www.marketbeat.com/instant-alerts/ubiquiti-nyseui-shares-gap-down-on-disappointing-earnings-2026-05-08/"
+        },
+        {
+          "label": "ChartMill Recap",
+          "url": "https://www.chartmill.com/news/UI/Chartmill-48021-Ubiquiti-Inc-NYSEUI-Plunges-on-Q3-Earnings-and-Revenue-Miss"
+        }
+      ],
+      "publishDate": "2026-05-10T07:14:50.783Z"
+    },
+    {
+      "id": "flr-q1-2026-earnings-guide-trim",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Fluor Q1 2026 — adj EPS $0.14 misses $0.62 est on $96M Mission Solutions ruling and mining cost growth; FY26 EBITDA guide trimmed to $525–$560M; FLR -5.8% to $51.08",
+      "org": "Fluor",
+      "date": "2026-05-08",
+      "url": "https://newsroom.fluor.com/news-releases/news-details/2026/Fluor-Reports-First-Quarter-2026-Results/default.aspx",
+      "tickers": [
+        "FLR"
+      ],
+      "summary": "Fluor missed Q1 by a wide margin — adj EPS $0.14 vs $0.62 est on a $96M court ruling and mining-project cost growth — and trimmed the FY26 adj EBITDA top-end. Shares closed -5.8% as the company kept its $1.4B 2026 buyback target.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-miss",
+        "q1-2026",
+        "guide-cut",
+        "engineering-construction",
+        "buyback",
+        "mining",
+        "middle-east"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$3.66B (-8% Y/Y)",
+        "Adj EPS": "$0.14 vs $0.62 est",
+        "GAAP EPS": "$1.08",
+        "Q1 buyback": "$516M",
+        "FY26 buyback target": "$1.4B",
+        "FY26 adj EBITDA guide": "$525–$560M (trimmed from $525–$585M)",
+        "Backlog": "$25.7B (82% reimbursable)",
+        "Move": "-5.8% to $51.08"
+      },
+      "explainer": {
+        "tagline": "Engineering & construction giant misses Q1 by ~78% on EPS, narrows FY26 EBITDA guide as mining cost growth and a $96M court ruling bite.",
+        "whatIsIt": "Fluor, a Texas-based engineering, procurement and construction firm, reported Q1 2026 on May 8 before market open. Adjusted EPS of $0.14 came in well below the $0.62 consensus, with revenue of $3.66B also light vs the ~$3.93B Street view.",
+        "howItWorks": "Mission Solutions swung to a $71M loss from a $5M profit on a $96M court-ruling charge, while Urban Solutions saw $6M profit (vs $70M) on a $37M mining-project cost increase. Energy Solutions grew to $74M profit on favorable closeouts. The company narrowed the FY26 adj EBITDA top-end to $525–$560M from $525–$585M, citing Q1 cost growth and Middle East-related project delays. Q1 buyback hit $516M and the FY26 buyback target stays at $1.4B; backlog of $25.7B is 82% reimbursable.",
+        "whyItMatters": "FLR is a barometer for big-ticket EPC project execution; the magnitude of the miss and the mention of geopolitical delays add to a string of project-charge surprises across the sector. The FY26 EBITDA guide cut is modest in dollar terms but signals visibility issues that pressured the multiple.",
+        "forWho": "industrials and infrastructure desks, AI-data-center build-out watchers"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_FLUOR.svg",
+        "alt": "Fluor Corporation logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://newsroom.fluor.com/news-releases/news-details/2026/Fluor-Reports-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "8-K (StockTitan)",
+          "url": "https://www.stocktitan.net/sec-filings/FLR/8-k-fluor-corp-reports-material-event-5908f14d6460.html"
+        },
+        {
+          "label": "Marketbeat Alert",
+          "url": "https://www.marketbeat.com/instant-alerts/fluor-nyseflr-releases-quarterly-earnings-results-misses-estimates-by-052-eps-2026-05-08/"
+        },
+        {
+          "label": "PharmiWeb Wire",
+          "url": "https://www.pharmiweb.com/press-release/2026-05-08/fluor-reports-first-quarter-2026-results"
+        }
+      ],
+      "publishDate": "2026-05-10T07:14:50.783Z"
+    },
     {
       "id": "trump-ru-ua-3day-ceasefire-may-2026",
       "categories": [

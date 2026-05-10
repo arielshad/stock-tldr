@@ -1942,6 +1942,37 @@
         "crypto",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20260510t071450z",
+      "timestamp": "2026-05-10T07:14:50.783Z",
+      "source": "github-actions-sweep",
+      "summary": "Saturday sweep against a market that closed Friday at S&P 500 records. Two May 8 single-name earnings misses pass the bar: Fluor (-5.8% on adj EPS $0.14 vs $0.62 est plus FY26 EBITDA guide trim) and Ubiquiti (-9.1% on revenue and EPS misses against a 70x P/E). Weekend-only news (Russia-Ukraine ceasefire) was already covered.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ui-q3-fy26-earnings-miss",
+          "title": "Ubiquiti Q3 FY26 — non-GAAP EPS $3.88 misses ~$4.29 est, revenue $788.2M (+18.7% Y/Y but -3.3% Q/Q); UI gaps -9.1% on top-line miss and FCC router-ban margin worry",
+          "category": "earnings",
+          "note": "Single-name -9.1% with two named catalysts (top-line miss, FCC router-ban regulatory worry); IR press release dated 05/08/26."
+        },
+        {
+          "id": "flr-q1-2026-earnings-guide-trim",
+          "title": "Fluor Q1 2026 — adj EPS $0.14 misses $0.62 est on $96M Mission Solutions ruling and mining cost growth; FY26 EBITDA guide trimmed to $525–$560M; FLR -5.8% to $51.08",
+          "category": "earnings",
+          "note": "Single-name -5.8% with EPS miss + guide trim; release at 8:30 AM ET on May 8."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
