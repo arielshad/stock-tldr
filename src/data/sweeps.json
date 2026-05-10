@@ -1920,6 +1920,28 @@
         "crypto",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260510t052751z",
+      "timestamp": "2026-05-10T05:27:51.756Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet Sunday sweep (May 10): scanned earnings (FWRD Q1 customer-loss disclosure was the closest call but its 2026-05-07 date is 77h old, outside the strict 72h cap), macro (no fresh prints over the weekend), Russia-Ukraine 3-day truce + Iran MOU + China Apr trade already in feed, crypto BTC holding $80K with no fresh primary catalyst, M&A (Bayer-Perfuse $2.45B small for buyer; Roche-PathAI already in feed). Trump Media Q1 had ~no stock reaction. Saudi Aramco Q1 not yet released. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "crypto",
+        "geopolitics"
+      ]
     }
   ]
 }
