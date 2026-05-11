@@ -2240,6 +2240,32 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260511t053204z",
+      "timestamp": "2026-05-11T05:32:04.587Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep. The 72h window (2026-05-08 to 2026-05-11) is well covered: Trump-Iran rejection + oil spike, Aramco Q1, Cerebras IPO range bump, Lime/Quantinuum IPO filings, Forward Air customer loss, China April trade, Trump-RU-UA ceasefire, UMich May sentiment, AWS US-East-1 outage, CIT Section 122 ruling, Apple-Intel WSJ rumor, BLS April jobs, Apollo-Blackstone-AVGO private-credit rumor, and the S&P/Nasdaq record close are all already in the feed. Sweep runs at 05:26 UTC (01:26 AM EDT) — pre-market is closed, no Monday earnings are out yet, and the few candidates I scanned (Project Eleven quantum report, Section 122 appeal filing) don't clear the inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "ipo",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }
