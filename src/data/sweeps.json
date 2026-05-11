@@ -2420,6 +2420,38 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260511t151729z",
+      "timestamp": "2026-05-11T15:17:29.669Z",
+      "source": "github-actions-sweep",
+      "summary": "Added one sector item: the Roundhill Memory ETF (DRAM) crossing $5B AUM in 25 trading days — the fastest US ETF launch on record — as a clean marker of the AI-memory trade now visibly covered in the feed via Samsung $1T, Micron $700B, KOSPI 7,800, and Nikkei 62,000.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dram-etf-fastest-5b-aum-may-2026",
+          "title": "Roundhill Memory ETF (DRAM) becomes fastest US ETF ever to $5B AUM — record $1.1B single-day inflow; +13.4% Friday close as AI memory rally accelerates",
+          "category": "sector",
+          "note": "AI-memory rally story now has a flows-side marker; complements existing single-name memory items (Samsung, SK Hynix, Micron) without overlapping any."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "ipo",
+        "crypto",
+        "sector",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }

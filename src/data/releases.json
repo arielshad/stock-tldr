@@ -1,8 +1,73 @@
 {
-  "generatedAt": "2026-05-11T13:18:45.914Z",
+  "generatedAt": "2026-05-11T15:17:29.669Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dram-etf-fastest-5b-aum-may-2026",
+      "categories": [
+        "sector"
+      ],
+      "title": "Roundhill Memory ETF (DRAM) becomes fastest US ETF ever to $5B AUM — record $1.1B single-day inflow; +13.4% Friday close as AI memory rally accelerates",
+      "org": "Roundhill Investments",
+      "date": "2026-05-11",
+      "url": "https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html",
+      "summary": "DRAM, Roundhill's pure-play memory-chip ETF, crossed $5B in AUM 25 trading days after its April 2 launch — the fastest of any US ETF on record, beating spot bitcoin ETFs. Up ~70% since launch, AUM ~$6.25B by May 10.",
+      "tickers": [
+        "DRAM"
+      ],
+      "tags": [
+        "etf",
+        "etf-flows",
+        "memory",
+        "dram",
+        "hbm",
+        "ai-infrastructure",
+        "semis",
+        "samsung",
+        "sk-hynix",
+        "micron",
+        "sector"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "AUM (May 7 close)": "$5B+",
+        "AUM (May 10)": "~$6.25B",
+        "Record single-day inflow": "$1.1B (May 7)",
+        "Trading days to $5B": "~25 (fastest on record)",
+        "Return since launch (Apr 2)": "~+70%",
+        "Friday close move": "+13.43% to $52.80"
+      },
+      "explainer": {
+        "tagline": "Roundhill's memory-chip ETF DRAM became the fastest US ETF ever to $5B AUM — a clean readout on how hard the AI-memory trade is being chased.",
+        "whatIsIt": "DRAM is an actively managed ETF run by Roundhill Investments that gives pure-play exposure to global memory-chip names — DRAM, HBM, NAND, and storage. It launched April 2, 2026 with the AI-memory bottleneck thesis (Samsung and SK Hynix together represent nearly half the fund). On Thursday May 7 it pulled in a record $1.1B in a single day, crossing $5B in AUM after just 25 trading sessions.",
+        "howItWorks": "Top holdings are Samsung Electronics and SK Hynix (largest weights), Micron, Kioxia, and SanDisk. AUM growth: $1B in 10 trading days, $2.5B by early May, $5B on May 7, ~$6.25B by May 10. Expense ratio 0.65%, active management. The fund closed Friday May 8 up +13.43% at $52.80 as Micron and SanDisk each gained more than 15% on the AI-memory rally and a stronger-than-expected April jobs report.",
+        "whyItMatters": "The pace beats every prior ETF launch including the spot bitcoin ETFs of January 2024 — VettaFi's head of research called it 'one of the most successful ETF launches in history.' Flow concentration tells the same story as Samsung crossing $1T market cap and Micron at $700B+: the AI-bottleneck is widely diagnosed as memory, and capital is piling into the cleanest vehicle. Risk: a fund this concentrated in two Korean names and Micron magnifies any pullback in the memory cycle.",
+        "forWho": "ETF-flow watchers, AI semis traders, sector rotation desks",
+        "tryIt": "https://www.roundhillinvestments.com/etf/dram/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108243546-1766065451693-gettyimages-2251668325-MICRON_EARNS.jpeg?v=1774904482&w=1920&h=1080",
+        "alt": "Memory chip wafers and AI infrastructure imagery accompanying CNBC coverage of the Roundhill Memory ETF's record inflows.",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "CNBC: ETF Adds $1B in Day",
+          "url": "https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html"
+        },
+        {
+          "label": "Roundhill DRAM ETF",
+          "url": "https://www.roundhillinvestments.com/etf/dram/"
+        },
+        {
+          "label": "InvestmentNews $1B Milestone",
+          "url": "https://www.investmentnews.com/etfs/billion-dollar-bonanza-roundhills-memory-etf-hits-1b-in-assets-within-10-trading-days/266280"
+        }
+      ],
+      "publishDate": "2026-05-11T15:17:29.669Z"
+    },
     {
       "id": "ceg-q1-2026-calpine-beat",
       "categories": [
