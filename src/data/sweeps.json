@@ -2452,6 +2452,44 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260511t171248z",
+      "timestamp": "2026-05-11T17:12:48.703Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: (1) Fervo Energy's geothermal IPO upsized 26% to ~$1.82B at $25–$26 with 20×+ demand, the largest climate-tech IPO of 2026; (2) Santa Clara County's California-Superior-Court suit accusing Meta of profiting up to $7B/yr from Facebook/Instagram scam ads.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "frvo-ipo-upsize-may-2026",
+          "title": "Fervo Energy upsizes IPO to ~$1.82B — 70M shares at $25–$26 (up from 55.6M at $21–$24); FRVO targets Nasdaq debut at up to ~$7.4B",
+          "category": "ipo",
+          "note": "Fresh, today: Fervo filed an upsized S-1/A on EDGAR Monday raising IPO target ~$500M, ahead of expected May 14 pricing."
+        },
+        {
+          "id": "meta-santa-clara-scam-ads-suit-may-2026",
+          "title": "Santa Clara County sues Meta over Facebook/Instagram scam ads — complaint alleges up to $7B/yr in 'high-risk' fraud-ad revenue",
+          "category": "regulatory",
+          "note": "Fresh, today: Reuters-broken story, Santa Clara County Superior Court filing, multiple tier-1 outlets in the last 24h; alleges $7B/yr fraud-ad revenue."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "regulatory",
+        "earnings",
+        "macro",
+        "commodity",
+        "crypto",
+        "rates",
+        "video",
+        "article"
+      ]
     }
   ]
 }
