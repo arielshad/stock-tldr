@@ -2312,6 +2312,41 @@
         "ipo",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260511t094545z",
+      "timestamp": "2026-05-11T09:45:45.136Z",
+      "source": "github-actions-sweep",
+      "summary": "Single-add sweep: CSL Limited's interim-CEO 90-day review triggers FY26 guide cut, ~US$5B impairment (mostly Vifor), and a record ~18% one-day crash. US session light on new market-moving primary catalysts — most May 9–11 stories (Iran, KOSPI, ASX/Aramco, China prints) already in feed; today's US earnings (CEG, FOX, MOS, SPG, PBR) post their numbers after sweep context.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "csl-fy26-guide-cut-vifor-impairment-may-2026",
+          "title": "CSL Limited cuts FY26 guidance and flags ~US$5B in impairments — interim CEO 90-day review takes Vifor knife as shares crash ~18% to 11-year low",
+          "category": "earnings",
+          "note": "Major guidance cut + impairment + record one-day plunge in a top-50 global biotech; ASX 200 single-stock drag; primary-source confirmed by CSL ASX announcement and tier-1 wires."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "ipo",
+        "regulatory",
+        "rates",
+        "commodity",
+        "crypto",
+        "fx",
+        "analyst",
+        "rumor"
+      ]
     }
   ]
 }
