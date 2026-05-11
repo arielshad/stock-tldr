@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T01:07:43.297Z",
+  "generatedAt": "2026-05-11T03:24:02.404Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
@@ -540,11 +540,11 @@
       "categories": [
         "ipo"
       ],
-      "title": "Cerebras (CBRS) plans to raise IPO range to $125–$135 from $115–$125 — books >20× covered, ~$28B valuation in play",
+      "title": "Cerebras (CBRS) raises IPO range to $150–$160 (from $115–$125) on >20× demand; deal up to ~$4.8B with pricing May 13",
       "org": "Cerebras Systems",
-      "date": "2026-05-08",
-      "url": "https://letsdatascience.com/news/cerebras-raises-expected-ipo-price-range-8f5c8fcf",
-      "summary": "Bloomberg: AI-chip rival Cerebras is set to raise its Nasdaq IPO range to $125–$135 (from $115–$125) on >20× oversubscribed demand. ~28M shares + 4.2M greenshoe; pricing eyed for May 13.",
+      "date": "2026-05-10",
+      "url": "https://money.usnews.com/investing/news/articles/2026-05-10/exclusive-cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges-sources-say",
+      "summary": "Reuters: Cerebras lifts Nasdaq IPO range to $150–$160/share (from a May 8 bump to $125–$135 off the original $115–$125 filed May 4) and lifts share count to 30M from 28M. Books still >20× covered; pricing eyed May 13.",
       "tags": [
         "ipo",
         "ai-chips",
@@ -552,8 +552,10 @@
         "cerebras",
         "openai",
         "aws",
+        "amazon",
         "nasdaq",
         "oversubscribed",
+        "price-bump",
         "s-1"
       ],
       "importance": "major",
@@ -561,41 +563,44 @@
         "CBRS"
       ],
       "metrics": {
-        "Old range": "$115–$125",
-        "New range": "$125–$135",
-        "Shares": "28.0M Class A + 4.2M greenshoe",
+        "Original range (May 4)": "$115–$125",
+        "First bump (May 8)": "$125–$135",
+        "Latest bump (May 10)": "$150–$160",
+        "Shares": "30M (raised from 28M)",
+        "Deal size at top of range": "~$4.8B (vs ~$3.5B initial)",
         "Oversubscription": ">20× orders",
-        "Indications of interest": ">$10B on $3.5B deal",
-        "Implied valuation": "~$28B at top of new range",
-        "Expected pricing": "~May 13, 2026"
+        "Pricing date": "May 13, 2026",
+        "Listing": "Nasdaq Global Select Market (CBRS)",
+        "Book-runners": "Morgan Stanley, Citi, Barclays, UBS",
+        "Per Dealogic": "Largest global IPO of 2026 YTD"
       },
       "links": [
         {
-          "label": "May 8 raise (LDS)",
-          "url": "https://letsdatascience.com/news/cerebras-raises-expected-ipo-price-range-8f5c8fcf"
+          "label": "May 10 raise (Reuters via USNews)",
+          "url": "https://money.usnews.com/investing/news/articles/2026-05-10/exclusive-cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges-sources-say"
         },
         {
-          "label": "Cerebras IR Filing",
-          "url": "https://www.cerebras.ai/press-release/cerebras-systems-announces-filing-of-registration-statement-for-proposed-initial-ipo"
+          "label": "CNBC: $150–$160 range",
+          "url": "https://www.cnbc.com/2026/05/10/cerebras-ipo-price-range.html"
+        },
+        {
+          "label": "May 8 raise (LDS)",
+          "url": "https://letsdatascience.com/news/cerebras-raises-expected-ipo-price-range-8f5c8fcf"
         },
         {
           "label": "Amended S-1 on EDGAR",
           "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026025762/cerebras-sx1april2026.htm"
         },
         {
-          "label": "Motley Fool Deep-Dive",
-          "url": "https://www.fool.com/investing/2026/05/05/nvidia-rival-cerebras-unveils-ipo-details-heres-wh/"
-        },
-        {
-          "label": "Access IPOs Profile",
-          "url": "https://accessipos.com/cerebras-stock-ipo/"
+          "label": "Cerebras IR Filing",
+          "url": "https://www.cerebras.ai/press-release/cerebras-systems-announces-filing-of-registration-statement-for-proposed-initial-ipo"
         }
       ],
       "explainer": {
-        "tagline": "Demand for Cerebras pushes its Nasdaq IPO range up a notch with books >20× covered.",
-        "whatIsIt": "Cerebras Systems, the AI-chip rival to NVIDIA whose largest customer is OpenAI, is preparing to raise its IPO price range to $125–$135 per share from $115–$125. The company filed its amended S-1 May 4 at the lower range; Bloomberg reported on May 8 that books are now more than 20× oversubscribed.",
-        "howItWorks": "Cerebras is offering 28M Class A shares plus a 4.2M-share underwriter option, listing on Nasdaq under proposed ticker 'CBRS'. At the new range, the deal raises ~$3.5–$3.8B and implies an ~$28B market cap. Underwriters had already received indications of interest exceeding $10B, prompting Cerebras to require limit orders from institutional buyers.",
-        "whyItMatters": "If priced May 13 as planned, this is on track to be the largest tech IPO of 2026 and a clean read on AI-infrastructure demand outside NVIDIA. OpenAI is on the hook for a $20B+ compute commitment through 2028, AWS signed a binding term sheet to deploy Cerebras chips, and AMD participated in the company's February Series H.",
+        "tagline": "Cerebras lifts its IPO range to $150–$160 — a second bump in three days — as demand stays >20× covered.",
+        "whatIsIt": "Cerebras Systems, the AI-chip rival to NVIDIA whose customers include OpenAI and Amazon, has raised the price range on its Nasdaq IPO to $150–$160 per share, up from $125–$135 set May 8 and the original $115–$125 in the May 4 amended S-1. The company also lifted the share count to 30M from 28M.",
+        "howItWorks": "At the new $150–$160 range with 30M shares, the deal raises ~$4.5–$4.8B — versus the initial ~$3.5B target. Books remain >20× oversubscribed per Reuters sources, and the bookrunners (Morgan Stanley, Citi, Barclays, UBS) continue requiring limit orders from institutional buyers. Pricing is still slated for May 13, with a Nasdaq debut to follow.",
+        "whyItMatters": "Per Dealogic, Cerebras is now on track to be the largest global IPO of 2026 YTD at ~$4.8B. Customers include Amazon and OpenAI; G42 — the UAE AI firm whose ties forced the company to scrap its 2024 IPO attempt — was previously its biggest revenue source. A successful $150-plus print sets a fresh high-water mark for AI-infrastructure capital-markets demand outside NVIDIA.",
         "forWho": "AI-infra and growth-equity desks",
         "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002021728"
       },

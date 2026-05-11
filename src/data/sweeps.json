@@ -2208,6 +2208,38 @@
         "commodity",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260511t032402z",
+      "timestamp": "2026-05-11T03:24:02.404Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet sweep over the 2026-05-08→2026-05-11 window: no qualifying new items. Major Sunday/Monday catalysts (Trump's rejection of Iran's response and the futures slide / Brent jump to ~$104.80, Russia-Ukraine 3-day ceasefire over Victory Day, Apple-Intel preliminary chip deal, Aramco Q1, Forward Air, Ubiquiti FQ3, BLS April jobs, China April trade, S&P/Nasdaq weekly records) all already in the feed. One update: Cerebras (CBRS) raised its Nasdaq IPO range a second time on May 10 to $150–$160 from $125–$135 with 30M shares (vs 28M) and ~$4.8B target raise — pricing still slated for May 13.",
+      "counts": {
+        "added": 0,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [
+        {
+          "id": "cbrs-ipo-pricing-bump-may-2026",
+          "title": "Cerebras (CBRS) raises IPO range to $150–$160 (from $115–$125) on >20× demand; deal up to ~$4.8B with pricing May 13",
+          "note": "Refresh with May 10 Reuters/CNBC scoop: range bumped again to $150–$160 (from $125–$135 on May 8); shares lifted to 30M (from 28M); deal size now up to ~$4.8B. Pricing still May 13 per sources."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "earnings",
+        "macro",
+        "mna",
+        "mover",
+        "commodity",
+        "crypto",
+        "rates",
+        "article",
+        "video"
+      ]
     }
   ]
 }
