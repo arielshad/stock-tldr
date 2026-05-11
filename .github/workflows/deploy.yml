@@ -3,7 +3,7 @@ name: Deploy to Cloudflare Workers
 # Builds and deploys the Workers Static Assets site to Cloudflare on
 # every push to master that touches anything visible (code, content,
 # or assets). The release sweep workflow commits releases.json /
-# sweeps.json updates every 2h — this workflow then ships those
+# sweeps.json updates every 12h — this workflow then ships those
 # changes to the live site automatically.
 #
 # Required secrets:
@@ -39,7 +39,7 @@ on:
   # are gated on conclusion: success below.
   workflow_run:
     workflows:
-      - "Update releases (every 2h)"
+      - "Update releases (every 12h)"
       - "Propose new release"
     types: [completed]
     branches: [main]

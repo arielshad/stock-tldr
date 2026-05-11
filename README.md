@@ -35,7 +35,7 @@ making any financial decision.
 
 1. **Content lives in a single JSON file** (`src/data/releases.json`)
    that conforms to the schema in `src/data/schema.ts`.
-2. **An automated agent** runs on a cron schedule (every 2 hours via
+2. **An automated agent** runs on a cron schedule (every 12 hours via
    GitHub Actions) and refreshes the feed by following the prompt in
    `prompts/update-releases.md`. The agent uses web search and fetch
    to discover and verify every release — no hallucination, no
@@ -103,7 +103,7 @@ prompts/
   update-releases.md    # The agent prompt — single source of truth for content updates
 
 .github/workflows/
-  update-releases.yml   # Cron job that runs the agent every 2 hours
+  update-releases.yml   # Cron job that runs the agent every 12 hours
 ```
 
 ## Running locally
@@ -125,7 +125,7 @@ bun dev
 The feed updates automatically via GitHub Actions. To trigger manually:
 
 ```bash
-gh workflow run "Update releases (every 2h)"
+gh workflow run "Update releases (every 12h)"
 ```
 
 Or run the agent locally by spawning a Claude Code subagent with

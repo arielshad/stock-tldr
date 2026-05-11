@@ -9,7 +9,7 @@ invoke-as: subagent
 # Stock/TLDR — Markets Sweep
 
 Single source of truth for refreshing `src/data/releases.json`. Invoked
-on cron (every 2h) and manually. The agent's output is `sweep-draft.json`
+on cron (every 12h) and manually. The agent's output is `sweep-draft.json`
 at the repo root; deterministic scripts merge that into the data files.
 
 ## Mission

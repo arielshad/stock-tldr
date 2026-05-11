@@ -4,7 +4,7 @@
 
 Stock/TLDR — a high-volume markets tracker covering equities, macro,
 rates, FX, commodities, and crypto. Single-page React app powered by
-a JSON feed that an automated agent refreshes every 2 hours.
+a JSON feed that an automated agent refreshes every 12 hours.
 
 ## Quick commands
 

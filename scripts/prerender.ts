@@ -115,7 +115,7 @@ const WEBSITE_REF = {
   name: "Stock/TLDR",
   alternateName: "Stock TLDR",
   description:
-    "Every market-moving release worth knowing — earnings, Fed, M&A, movers, macro, crypto — refreshed every 2 hours and explained in plain English.",
+    "Every market-moving release worth knowing — earnings, Fed, M&A, movers, macro, crypto — refreshed every 12 hours and explained in plain English.",
   inLanguage: "en-US",
   publisher: { "@id": `${SITE_URL}/#org` },
 };
@@ -349,11 +349,11 @@ function releaseMeta(item: ReleaseItem): PageMeta {
 const HOME_META: PageMeta = {
   title: "What Just Moved Markets — Earnings, Fed, M&A | Stock/TLDR",
   description:
-    "Every market-moving release worth knowing — earnings prints, Fed decisions, M&A, movers, macro, crypto — refreshed every 2 hours and explained in plain English.",
+    "Every market-moving release worth knowing — earnings prints, Fed decisions, M&A, movers, macro, crypto — refreshed every 12 hours and explained in plain English.",
   canonical: `${SITE_URL}/`,
   ogType: "website",
   ogImage: DEFAULT_OG_IMAGE,
-  ogImageAlt: "Stock/TLDR — markets news explained every 2 hours",
+  ogImageAlt: "Stock/TLDR — markets news explained every 12 hours",
 };
 
 const INFLUENCERS_META: PageMeta = {
