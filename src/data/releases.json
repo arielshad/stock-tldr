@@ -1,8 +1,218 @@
 {
-  "generatedAt": "2026-05-11T11:19:07.370Z",
+  "generatedAt": "2026-05-11T13:18:45.914Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ceg-q1-2026-calpine-beat",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Constellation Energy Q1 2026 — adj EPS $2.74 beats $2.56 est on Calpine boost; revenue $11.12B (+64% Y/Y) tops $8.21B est; affirms FY26 EPS guide $11.00–$12.00",
+      "org": "Constellation Energy",
+      "date": "2026-05-11",
+      "url": "https://www.stocktitan.net/news/CEG/constellation-reports-first-quarter-2026-djifmhf7ey7x.html",
+      "summary": "Constellation Q1 2026 — GAAP EPS $4.49 (vs $0.38 prior), adj op EPS $2.74 beats $2.56 est on Calpine close and nuclear PTC tailwind; revenue $11.12B vs $6.79B prior; FY26 guide $11–$12 reaffirmed; CEG +5.6% premarket to $320.",
+      "tickers": [
+        "CEG",
+        "VST"
+      ],
+      "metrics": {
+        "GAAP EPS": "$4.49 vs $0.38 prior",
+        "Adj EPS": "$2.74 vs $2.56 est",
+        "Revenue": "$11.12B (+64% Y/Y) vs $8.21B est",
+        "Nuclear output": "44,666 GWh @ 92.3% capacity factor",
+        "FY26 guide": "$11.00–$12.00 adj EPS (reaffirmed)",
+        "Move": "+5.6% premarket to ~$320.75"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q1-2026",
+        "utility",
+        "nuclear",
+        "ai-power",
+        "calpine-integration",
+        "guidance-affirmed"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Calpine deal + nuclear PTC drive 64% revenue jump as Constellation reaffirms FY26 $11–$12 EPS guide; stock +5.6% premarket.",
+        "whatIsIt": "Constellation Energy released Q1 2026 results on May 11, the first full quarter that includes Calpine after the January 2026 close. GAAP net income jumped to $1.59B ($4.49/sh) from $118M ($0.38/sh) a year earlier. Adjusted operating EPS came in at $2.74 versus $2.56 consensus and $2.14 a year ago.",
+        "howItWorks": "Operating revenue more than doubled to $11.12B from $6.79B as Calpine's natural-gas fleet rolled in and nuclear production tax credits added a portfolio-wide tailwind. Nuclear output was 44,666 GWh at a 92.3% capacity factor (excluding certain units); higher planned outages were the main offset. Management affirmed full-year 2026 adjusted operating earnings guidance at $11.00–$12.00 per share.",
+        "whyItMatters": "CEG is the largest pure-play U.S. nuclear operator and now also the biggest combined nuclear-plus-gas independent generator after Calpine. The print + held guide validate the AI-data-center power thesis and underwrite the long-dated PPAs Constellation has been signing with hyperscalers. Peer Vistra (VST) trades on the same setup.",
+        "forWho": "utility/power desks and AI infrastructure traders",
+        "tryIt": "https://investors.constellationenergy.com/news-releases/news-release-details/constellation-reports-first-quarter-2026-results"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Constellation_Reports_First_Quarter_2026_Results_1054801.webp",
+        "alt": "Constellation Energy Q1 2026 earnings release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Coverage",
+          "url": "https://www.stocktitan.net/news/CEG/constellation-reports-first-quarter-2026-djifmhf7ey7x.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/CEG/8-k-constellation-energy-corp-reports-material-event-111d3b4cfb03.html"
+        },
+        {
+          "label": "CEG Quote",
+          "url": "https://finance.yahoo.com/quote/CEG/"
+        },
+        {
+          "label": "TradingView Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-CEG/"
+        }
+      ],
+      "publishDate": "2026-05-11T13:18:45.914Z"
+    },
+    {
+      "id": "fox-q3-fy26-ad-strength",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Fox Corp FQ3 2026 — revenue $3.99B beats $3.82B est, adj EPS $1.32 vs $0.97 est; adj EBITDA $954M (+11% Y/Y) on Tubi + NFL Wild Card strength",
+      "org": "Fox Corporation",
+      "date": "2026-05-11",
+      "url": "https://www.stocktitan.net/news/FOX/fox-reports-third-quarter-fiscal-2026-revenue-of-3-99-billion-net-qzf5e16a3ypg.html",
+      "summary": "Fox FQ3 2026 (qtr-end March 2026) — revenue $3.99B beats $3.82B est on Tubi and NFL Wild Card; adj EPS $1.32 beats ~$0.97; adj EBITDA $954M (+11% Y/Y); Cable +6%, no-Super-Bowl comp drops total ad rev to $1.56B.",
+      "tickers": [
+        "FOX",
+        "FOXA"
+      ],
+      "metrics": {
+        "Revenue": "$3.99B (-8.7% Y/Y; no Super Bowl) vs $3.82B est",
+        "Adj EPS": "$1.32 vs ~$0.97 est ($1.10 prior)",
+        "Net income": "$175M vs $354M prior",
+        "Adj EBITDA": "$954M (+11% / +$98M Y/Y)",
+        "Cable Network Programming rev": "$1.74B (+6% Y/Y)",
+        "Television rev": "$2.20B vs $2.70B prior",
+        "Ad revenue": "$1.56B vs $2.04B prior (Super Bowl comp)",
+        "Buyback remaining": "$3.5B"
+      },
+      "tags": [
+        "earnings",
+        "fq3-2026",
+        "revenue-beat",
+        "eps-beat",
+        "tubi",
+        "advertising",
+        "media",
+        "nfl",
+        "super-bowl-comp"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Fox beats on top and bottom for FQ3 as Tubi growth and an extra NFL Wild Card game offset the loss of last year's Super Bowl.",
+        "whatIsIt": "Fox Corporation released its fiscal-Q3 2026 results (quarter ended March 31, 2026) on the morning of May 11. Revenue of $3.99B topped the $3.82B Street estimate, and adjusted EPS of $1.32 trounced the ~$0.97 consensus.",
+        "howItWorks": "Adjusted EBITDA rose 11% Y/Y to $954M on lower expenses and Cable Network Programming revenue +6% to $1.74B. Television revenue fell to $2.20B from $2.70B as the prior-year quarter included Super Bowl LIX; total ad revenue dropped to $1.56B from $2.04B but the Tubi free-streaming service and an additional NFL Wild Card broadcast cushioned the comp. The company has $3.5B remaining under its existing buyback after $8.5B in cumulative repurchases.",
+        "whyItMatters": "Fox is a clean play on linear-sports + free streaming and the print confirms Tubi's ad scale is meaningful enough to backfill broadcast attrition. CEO Lachlan Murdoch leaned into the 'live programming + free streaming' framing ahead of the 2026 FIFA World Cup which Fox carries in the U.S. Peers Disney (DIS) and Warner Bros (WBD) face the same ad-and-streaming setup.",
+        "forWho": "media and ad-cycle traders",
+        "tryIt": "https://investor.foxcorporation.com/reports/quarterly-reports/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/FOX_REPORTS_THIRD_QUARTER_FISCAL_2026_REVENUE_OF_3_99_BILLION_NET_INCOME_OF_175_MILLION_AND_ADJU_1054900.webp",
+        "alt": "Fox Corp FQ3 2026 earnings release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Fox FQ3 Release",
+          "url": "https://www.stocktitan.net/news/FOX/fox-reports-third-quarter-fiscal-2026-revenue-of-3-99-billion-net-qzf5e16a3ypg.html"
+        },
+        {
+          "label": "Fox IR Quarterly",
+          "url": "https://investor.foxcorporation.com/reports/quarterly-reports/"
+        },
+        {
+          "label": "Fox PR Webcast",
+          "url": "https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-executives-to-discuss-third-quarter-fiscal-2026-financial-results-via-webcast/"
+        },
+        {
+          "label": "TradingView Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-FOXA/"
+        }
+      ],
+      "publishDate": "2026-05-11T13:18:45.914Z"
+    },
+    {
+      "id": "mndy-q1-2026-ai-buyback",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "monday.com Q1 2026 — revenue $351.3M (+24% Y/Y), non-GAAP EPS $1.15 vs $0.96 est; $553M Q1 buyback and AI Work Platform launch send MNDY ~+25% premarket",
+      "org": "monday.com",
+      "date": "2026-05-11",
+      "url": "https://www.stocktitan.net/news/MNDY/monday-com-announces-first-quarter-2026-pi8co2pstx16.html",
+      "summary": "monday.com Q1 2026 — revenue $351.3M (+24%), non-GAAP EPS $1.15 beats $0.96, adj FCF $102.8M (29% margin); 99 $500K+ ARR customers (+74%); $553M buyback in Q1; AI Work Platform launch lifts MNDY ~+25% premarket.",
+      "tickers": [
+        "MNDY"
+      ],
+      "metrics": {
+        "Revenue": "$351.3M (+24% Y/Y)",
+        "Non-GAAP EPS": "$1.15 vs $0.96 est",
+        "GAAP EPS": "$0.57",
+        "Non-GAAP op income": "$49.0M (14% margin)",
+        "GAAP op income": "$19.8M (6% margin)",
+        "Adj FCF": "$102.8M (29% margin)",
+        "$500K+ ARR customers": "99 (+74% Y/Y)",
+        "Net dollar retention": "110%",
+        "Q1 buyback": "$553M / 7.27M shares",
+        "FY26 revenue guide": "$1.466–$1.474B (+19–20%) — raised",
+        "Move": "+25% premarket"
+      },
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "revenue-beat",
+        "eps-beat",
+        "guidance-raise",
+        "saas",
+        "ai",
+        "agentic-ai",
+        "buyback",
+        "net-retention"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "monday.com prints record Q1, hikes FY26 guide, launches AI Work Platform with native agents — and MNDY jumps ~25% premarket.",
+        "whatIsIt": "Israeli work-management vendor monday.com reported Q1 2026 results before the U.S. open on May 11. Revenue of $351.3M came in +24% Y/Y, non-GAAP EPS of $1.15 trounced the $0.96 consensus, and adjusted free cash flow was $102.8M at a 29% margin.",
+        "howItWorks": "Customers with more than $500K of ARR rose 74% Y/Y to 99 accounts and net dollar retention sat at 110%. Non-GAAP operating margin expanded to 14% from 13%, and the company put $552.6M of cash to work on 7.27M shares of buybacks — drawing the cash balance down to $997M from $1.50B. FY26 revenue guidance was raised to $1.466–$1.474B (+19–20%), and management unveiled the rebuild of the platform into 'AI Work Platform' with native agents and consumption-based pricing.",
+        "whyItMatters": "MNDY is one of the cleanest SaaS prints of the cycle — strong large-account adds during a period when AI was supposed to compress seat-based SaaS. The +25% premarket reaction has direct read-through to peers Asana (ASAN), Smartsheet (private/SMAR), and Atlassian (TEAM), and pressures the bear thesis that AI eats horizontal SaaS budgets.",
+        "forWho": "software / SaaS traders and AI-disruption bears",
+        "tryIt": "https://ir.monday.com/financials-and-filings/quarterly-results/default.aspx"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/monday_com_Announces_First_Quarter_2026_Results_1054775.webp",
+        "alt": "monday.com Q1 2026 earnings release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Coverage",
+          "url": "https://www.stocktitan.net/news/MNDY/monday-com-announces-first-quarter-2026-pi8co2pstx16.html"
+        },
+        {
+          "label": "monday.com IR Release",
+          "url": "https://ir.monday.com/news-and-events/news-releases/news-details/2026/monday-com-Announces-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "6-K SEC Filing",
+          "url": "https://www.stocktitan.net/sec-filings/MNDY/6-k-monday-com-ltd-current-report-foreign-issuer-9c9b7910d137.html"
+        },
+        {
+          "label": "MNDY Quote",
+          "url": "https://finance.yahoo.com/quote/MNDY/"
+        }
+      ],
+      "publishDate": "2026-05-11T13:18:45.914Z"
+    },
     {
       "id": "b-q1-2026-earnings-buyback",
       "categories": [

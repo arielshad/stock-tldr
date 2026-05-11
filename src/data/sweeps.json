@@ -2383,6 +2383,43 @@
         "video",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260511t131845z",
+      "timestamp": "2026-05-11T13:18:45.914Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new May 11 earnings prints: Constellation Energy Q1 (Calpine boost, FY26 guide held), Fox Corp FQ3 (Tubi + NFL Wild Card offset Super Bowl comp), and monday.com Q1 (record print, FY26 guide raise, $553M buyback, AI Work Platform launch — stock +25% premarket).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ceg-q1-2026-calpine-beat",
+          "title": "Constellation Energy Q1 2026 — adj EPS $2.74 beats $2.56 est on Calpine boost; revenue $11.12B (+64% Y/Y) tops $8.21B est; affirms FY26 EPS guide $11.00–$12.00",
+          "category": "earnings",
+          "note": "First full Constellation quarter post-Calpine close — material beat + held FY26 guide drives premarket +5.6%."
+        },
+        {
+          "id": "fox-q3-fy26-ad-strength",
+          "title": "Fox Corp FQ3 2026 — revenue $3.99B beats $3.82B est, adj EPS $1.32 vs $0.97 est; adj EBITDA $954M (+11% Y/Y) on Tubi + NFL Wild Card strength",
+          "category": "earnings",
+          "note": "Clean beat on top and bottom for Fox; first earnings to clearly show Tubi backfilling Super Bowl ad gap."
+        },
+        {
+          "id": "mndy-q1-2026-ai-buyback",
+          "title": "monday.com Q1 2026 — revenue $351.3M (+24% Y/Y), non-GAAP EPS $1.15 vs $0.96 est; $553M Q1 buyback and AI Work Platform launch send MNDY ~+25% premarket",
+          "category": "earnings",
+          "note": "Headline SaaS beat: +24% revenue, +25% premarket, FY26 guide raise, $553M Q1 buyback, AI Work Platform pivot."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
