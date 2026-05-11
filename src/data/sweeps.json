@@ -2347,6 +2347,42 @@
         "analyst",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260511t111907z",
+      "timestamp": "2026-05-11T11:19:07.370Z",
+      "source": "github-actions-sweep",
+      "summary": "Added one Q1 2026 print: Barrick Mining's pre-open beat — adj EPS $0.98 vs $0.78 est, $5.22B revenue, 719k oz gold over guide — paired with a $3.0B buyback authorization and reaffirmed FY26 guidance. Surveyed earnings, macro/Fed, M&A, IPOs, rates, FX, commodities, crypto, influential voices, and YouTube; the rest of today's news (KOSPI 7,800, China April CPI/PPI, Nintendo Switch 2 hike, Aramco Q1, Forward Air Q1, CSL profit warning, Trump-Iran peace rejection, Brent +3.5%) was already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "b-q1-2026-earnings-buyback",
+          "title": "Barrick Mining Q1 2026 — adj EPS $0.98 trounces $0.78 est on $5.22B revenue (+67% Y/Y); 719k oz gold beats guide and Board authorizes $3.0B share buyback",
+          "category": "earnings",
+          "note": "Major gold-miner print with rare AISC down + realized price up combo, big revenue beat (+67% Y/Y), and a sizeable $3B buyback authorization — material capital-allocation news on top of an earnings beat."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mna",
+        "ipo",
+        "analyst",
+        "regulatory",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "article",
+        "video",
+        "rumor"
+      ]
     }
   ]
 }

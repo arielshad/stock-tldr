@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-05-11T09:45:45.136Z",
+  "generatedAt": "2026-05-11T11:19:07.370Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "b-q1-2026-earnings-buyback",
+      "categories": [
+        "earnings",
+        "commodity"
+      ],
+      "title": "Barrick Mining Q1 2026 — adj EPS $0.98 trounces $0.78 est on $5.22B revenue (+67% Y/Y); 719k oz gold beats guide and Board authorizes $3.0B share buyback",
+      "org": "Barrick Mining",
+      "date": "2026-05-11",
+      "url": "https://uk.finance.yahoo.com/news/barrick-reports-first-quarter-2026-100000696.html",
+      "summary": "Barrick Mining posted adj EPS $0.98 (+180% Y/Y) on $5.22B revenue (+67% Y/Y), with 719k oz of gold topping the 640–680k oz guide; Board authorized a $3.0B share repurchase and $0.175 quarterly dividend.",
+      "tickers": [
+        "B",
+        "GC=F"
+      ],
+      "metrics": {
+        "Adj EPS": "$0.98 vs $0.78 est (+180% Y/Y)",
+        "Net EPS": "$0.96 (+256% Y/Y)",
+        "Revenue": "$5.22B (+67% Y/Y)",
+        "Gold production": "719k oz (vs 640–680k oz guide)",
+        "Copper production": "49kt (+11% Y/Y)",
+        "Gold AISC": "$1,708/oz (-4% Y/Y)",
+        "Buyback": "$3.0B authorized",
+        "Dividend": "$0.175/sh quarterly"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "gold-miner",
+        "buyback",
+        "dividend",
+        "production-beat",
+        "aisc",
+        "copper",
+        "lumwana",
+        "north-american-ipo"
+      ],
+      "explainer": {
+        "tagline": "Barrick prints a 256% Y/Y net-EPS jump, beats production guide, and pairs results with a $3B buyback authorization.",
+        "whatIsIt": "Barrick Mining (NYSE: B) reported Q1 2026 results before the open on May 11. Adjusted EPS came in at $0.98 versus the $0.78 sell-side consensus, on $5.22B of revenue — up 67% year over year as record gold prices flowed through the realized price line.",
+        "howItWorks": "Gold production of 719,000 oz beat the company's own 640–680k oz guide, with NGM underground throughput, higher Veladero grades, and a faster Loulo-Gounkoto ramp doing the heavy lifting. Copper output rose 11% Y/Y to 49kt; all-in sustaining costs on gold fell 4% Y/Y to $1,708/oz, and operating cash flow jumped 111% Y/Y to $2.55B. The board declared a $0.175/sh quarterly dividend and authorized up to $3.0B of share repurchases at prevailing market prices.",
+        "whyItMatters": "It's the cleanest 'gold operating leverage' print this cycle: AISC moving down while the average realized price moves up. The $3B buyback is roughly 7% of the company's market cap on top of the dividend, and management reaffirmed FY26 guidance (2.90–3.25 Moz gold, 190–220kt copper) while flagging the planned North American Barrick IPO is still on track for year-end. Read-throughs to NEM, AEM, GOLD ETFs as the senior-producer margin trade.",
+        "forWho": "gold equity holders, mining-sector and macro desks",
+        "tryIt": "https://finance.yahoo.com/quote/B/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/globenewswire.com/445f7766e171c83bba0b1f0798f7642d",
+        "alt": "Barrick Mining Corporation logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q1 2026 Press Release",
+          "url": "https://uk.finance.yahoo.com/news/barrick-reports-first-quarter-2026-100000696.html"
+        },
+        {
+          "label": "Stocktitan Filing",
+          "url": "https://www.stocktitan.net/news/B/barrick-reports-first-quarter-2026-lchzdf3ag8jp.html"
+        },
+        {
+          "label": "Q1 2026 Results Event",
+          "url": "https://www.barrick.com/English/investors/presentations/event-details/2026/q1-2026-results/default.aspx"
+        },
+        {
+          "label": "Barrick (B) Quote",
+          "url": "https://finance.yahoo.com/quote/B/"
+        }
+      ],
+      "publishDate": "2026-05-11T11:19:07.370Z"
+    },
     {
       "id": "csl-fy26-guide-cut-vifor-impairment-may-2026",
       "categories": [
