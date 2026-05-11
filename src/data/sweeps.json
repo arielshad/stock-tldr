@@ -2176,6 +2176,38 @@
         "crypto",
         "ipo"
       ]
+    },
+    {
+      "id": "sweep-20260511t010743z",
+      "timestamp": "2026-05-11T01:07:43.297Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: Trump rejects Iran's Sunday peace response sending Brent up ~3.5% to ~$104.80 and equity futures lower; Saudi Aramco Q1 2026 prints +26% adjusted profit at $33.6B as the East-West pipeline runs at its 7 mb/d max while the Strait of Hormuz remains blocked.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-rejects-iran-peace-may-10-2026",
+          "title": "Trump rejects Iran's peace response as 'totally unacceptable' — Brent jumps +3.5% to ~$104.80, equity futures drop",
+          "category": "macro",
+          "note": "Sunday May 10 Trump Truth Social rejection of Iran's Pakistan-relayed response; oil and equity futures moved on the news; distinct event from the May 6 MOU-progress item already in the feed."
+        },
+        {
+          "id": "aramco-q1-2026-earnings",
+          "title": "Saudi Aramco Q1 2026 — net income $32.5B, adj $33.6B (+26% Y/Y) beats; East-West pipeline running at 7 mb/d max as Hormuz stays blocked",
+          "category": "earnings",
+          "note": "World's largest oil exporter Q1 print on Sunday May 10; concrete numbers, $21.9B dividend, beats LSEG est; East-West pipeline at theoretical max is the key Hormuz-bypass detail."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "earnings"
+      ]
     }
   ]
 }

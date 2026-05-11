@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-10T22:26:06.615Z",
+  "generatedAt": "2026-05-11T01:07:43.297Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-rejects-iran-peace-may-10-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump rejects Iran's peace response as 'totally unacceptable' — Brent jumps +3.5% to ~$104.80, equity futures drop",
+      "org": "White House",
+      "date": "2026-05-10",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-11-oil-rise-trump-rejects-peace-225625559.html",
+      "summary": "Trump rejects Iran's latest peace proposal — delivered via Pakistan on Sunday — as 'TOTALLY UNACCEPTABLE'. Brent oil futures jump as much as 3.5% to $104.80; Dow futures fall ~200 points.",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "tags": [
+        "iran",
+        "oil",
+        "brent",
+        "wti",
+        "strait-of-hormuz",
+        "geopolitics",
+        "trump",
+        "ceasefire",
+        "peace-talks",
+        "weekend-news"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Brent": "$104.80 (+3.5%)",
+        "WTI": "~$99 (+~2.7%)",
+        "Dow futures": "-200 pts (-0.40%)",
+        "S&P futures": "-0.33%",
+        "Nasdaq futures": "-0.28%",
+        "Gold": "$4,695 (-0.76%)"
+      },
+      "explainer": {
+        "tagline": "Trump rejects Iran's Sunday peace response; oil jumps and US equity futures slide.",
+        "whatIsIt": "Iran on Sunday May 10 sent its formal response to the U.S. peace proposal via Pakistani mediators, asking for the naval blockade to be lifted and rejecting U.S. demands to dismantle nuclear facilities and suspend uranium enrichment for 20 years. President Trump read the response and posted on Truth Social: 'I have just read the response from Iran's so-called Representatives. I don't like it — TOTALLY UNACCEPTABLE!' The 10-week U.S.-Iran war and Strait of Hormuz blockade therefore continue.",
+        "howItWorks": "Iran's counter-proposal — relayed by Pakistan's IRNA — called for an immediate end to hostilities on all fronts including Lebanon, a halt to the U.S. naval blockade, sanctions relief and a 30-day window to negotiate nuclear issues. The U.S. proposal had demanded Iran cease enrichment for 12+ years and surrender 440kg of 60% enriched uranium in exchange for gradual sanctions relief. Iran's parliamentary speaker Mohammad Bagher Ghalibaf said any ceasefire requires the U.S. lift its blockade first.",
+        "whyItMatters": "Brent crude jumped as much as 3.5% to $104.80 a barrel and WTI rose to near $99, reversing last week's relief rally that took Brent below $100 on hopes of a deal. Dow futures fell ~200 points (-0.40%), S&P 500 futures -0.33% and Nasdaq -0.28% as Sunday electronic trading opened. Energy Secretary Chris Wright signaled the U.S. could resume military operations to reopen the Strait within 'the next few days' if diplomatic progress stalls, keeping the largest oil supply disruption in IEA history in play.",
+        "forWho": "macro traders, oil desks, geopolitical risk",
+        "tryIt": "https://finance.yahoo.com/quote/BZ%3DF"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108277789-1773408387563-gettyimages-2265640676-202600312-mum-rs-mn_shenlong_oil_tanker_004.jpeg?v=1776061298&w=1920&h=1080",
+        "alt": "Oil tanker in choppy waters near the Strait of Hormuz",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Live",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-11-oil-rise-trump-rejects-peace-225625559.html"
+        },
+        {
+          "label": "CNBC Oil Update",
+          "url": "https://www.cnbc.com/2026/05/11/oil-price-today-brent-wti-iran-war-trump.html"
+        },
+        {
+          "label": "Al Jazeera (Iran Response)",
+          "url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan"
+        },
+        {
+          "label": "Brent Futures Chart",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        }
+      ],
+      "publishDate": "2026-05-11T01:07:43.297Z"
+    },
+    {
+      "id": "aramco-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "commodity"
+      ],
+      "title": "Saudi Aramco Q1 2026 — net income $32.5B, adj $33.6B (+26% Y/Y) beats; East-West pipeline running at 7 mb/d max as Hormuz stays blocked",
+      "org": "Saudi Aramco",
+      "date": "2026-05-10",
+      "url": "https://www.aramco.com/en/news-media/news/2026/aramco-announces-first-quarter-2026-results",
+      "summary": "Aramco Q1 2026 — net income $32.5B beats $30.95B LSEG est, adj NI $33.6B (+26% Y/Y), revenue $115.5B (+7%); East-West pipeline at maximum 7 mb/d capacity as Strait of Hormuz blockade reroutes Saudi crude.",
+      "tickers": [
+        "2222.SR"
+      ],
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "saudi-aramco",
+        "oil",
+        "strait-of-hormuz",
+        "east-west-pipeline",
+        "dividend",
+        "capex"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net income": "$32.5B (+25% Y/Y)",
+        "Adj NI": "$33.6B (+26% Y/Y) vs $31.16B est",
+        "Revenue": "$115.49B (+6.9% Y/Y)",
+        "Dividend": "$21.89B (+3.5% Y/Y)",
+        "Capex": "$12.1B",
+        "Free cash flow": "$18.6B",
+        "Gearing": "4.8%",
+        "Realised crude": "$76.90/bbl"
+      },
+      "explainer": {
+        "tagline": "Aramco posts $33.6B adjusted profit (+26%) as Hormuz blockade reroutes Saudi crude through the East-West pipeline at full 7 mb/d capacity.",
+        "whatIsIt": "Saudi Aramco — the world's largest oil exporter — reported Q1 2026 results on Sunday May 10. Net income hit $32.5B (+25% Y/Y) and adjusted net income reached $33.6B (+26% Y/Y), beating the LSEG consensus of $31.16B. Total revenue rose ~6.9% to $115.49B. CEO Amin Nasser said the East-West Pipeline — which crosses the Arabian Peninsula bypassing the Strait of Hormuz — 'reached its maximum capacity of 7.0 million barrels of oil per day.'",
+        "howItWorks": "Higher realised prices ($76.90/bbl vs $76.30 Y/Y, $64.10 Q/Q) and higher crude/refined/chemical volumes drove the beat. Aramco declared a Q1 base dividend of SR82.08B ($21.89B), up 3.5% Y/Y, equal to SR0.3393 per share. Capex was $12.1B (down from $12.5B Y/Y). Free cash flow eased to $18.6B from $19.2B Y/Y. Gearing came in at 4.8%. Aramco also flagged it reduced output by ~2 mb/d in response to the Iran-related geopolitical disruption.",
+        "whyItMatters": "Aramco is a proxy for global oil-supply economics in the Iran war: with the Strait of Hormuz blocked since late February, the East-West pipeline running at its theoretical max is the marginal hard cap on Saudi seaborne exports rerouted to the Red Sea. The $21.9B dividend underpins Saudi state finances even as crude prices whipsaw around $100-115 on ceasefire headlines. The beat-and-no-raise pattern keeps Aramco a high-yield defensive in an energy supercycle.",
+        "forWho": "energy investors, dividend funds, geopolitical risk",
+        "tryIt": "https://www.aramco.com/en/investors"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108304695-1778401150466-gettyimages-2263915950-raa-gasoilst260303_npHb1.jpeg?v=1778401168&w=1920&h=1080",
+        "alt": "Aramco gas-oil separation plant in the Saudi desert",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Aramco IR (Q1 2026)",
+          "url": "https://www.aramco.com/en/news-media/news/2026/aramco-announces-first-quarter-2026-results"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html"
+        },
+        {
+          "label": "Reuters via 93.3",
+          "url": "https://www.933thedrive.com/2026/05/10/aramco-q1-profit-jumps-25-as-hormuz-risks-push-pipeline-to-full-capacity/"
+        },
+        {
+          "label": "Aramco Investor Overview",
+          "url": "https://www.aramco.com/en/investors"
+        }
+      ],
+      "publishDate": "2026-05-11T01:07:43.297Z"
+    },
     {
       "id": "fwrd-q1-2026-customer-loss",
       "categories": [
