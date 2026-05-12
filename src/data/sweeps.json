@@ -2528,6 +2528,65 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260512t125132z",
+      "timestamp": "2026-05-12T12:51:32.708Z",
+      "source": "github-actions-sweep",
+      "summary": "Hot April CPI (3.8% Y/Y, highest since May 2023) lands as Kevin Warsh advances toward Fed Chair confirmation; added strong May 12 BMO earnings from JD.com, Sea Limited and On Holding, plus eBay's formal rejection of GameStop's $56B bid as an update.",
+      "counts": {
+        "added": 5,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-april-2026",
+          "title": "U.S. April 2026 CPI — headline +3.8% Y/Y (highest since May 2023) beats 3.7% est; core +2.8% Y/Y vs 2.7% est on energy spike",
+          "category": "macro",
+          "note": "Tier-1 BLS primary print on May 12 — hottest YoY since May 2023, directly moves SPX/yields/DXY; primary source confirmed and wall-of-coverage today."
+        },
+        {
+          "id": "jd-q1-2026-food-delivery-drag",
+          "title": "JD.com Q1 2026 — net revenue RMB315.7B (+4.9% Y/Y) tops, non-GAAP EPS $0.74 beats $0.54 est, but food-delivery losses cut net income in half to RMB5.1B",
+          "category": "earnings",
+          "note": "Large-cap China e-commerce print May 12 BMO — non-GAAP EPS beat by $0.20 but food-delivery losses cut group net income in half; named catalyst, multiple tier-1 outlets."
+        },
+        {
+          "id": "se-q1-2026-shopee-record",
+          "title": "Sea Limited Q1 2026 — revenue $7.1B (+46.6%) beats $6.4B est, net income $438M; Shopee GMV +30% to record $37.3B and Monee +57.8%",
+          "category": "earnings",
+          "note": "Sea Limited beats $6.4B est on $7.1B revenue (+46.6%); record Shopee GMV reverses Q4 narrative of slowing growth."
+        },
+        {
+          "id": "onon-q1-2026-record-quarter",
+          "title": "On Holding Q1 2026 — net sales CHF 832M (+14.5% rep / +26.4% CC), adj EBITDA margin 21%; raises FY26 CC growth guide to ≥23%",
+          "category": "earnings",
+          "note": "On Holding crosses CHF 800M in a quarter for first time and raises FY26 CC growth guide to 23%+ with EBITDA margin +450bp."
+        },
+        {
+          "id": "warsh-senate-cloture-may-11-2026",
+          "title": "Senate advances Kevin Warsh's Fed nomination 49–44 in May 11 cloture vote; full confirmation votes set for May 12 ahead of Powell's May 15 expiry",
+          "category": "regulatory",
+          "note": "Senate cloture 49–44 May 11 evening; Powell's term ends May 15 — this is the formal start of the Fed Chair handoff and a major macro reference point."
+        }
+      ],
+      "updated": [
+        {
+          "id": "gme-ebay-bid-may-2026",
+          "title": "eBay rejects GameStop's ~$56B unsolicited bid as 'neither credible nor attractive'; Cohen weighs hostile move",
+          "note": "eBay's board formally rejected the bid on May 12 — folding the May 12 rejection into the existing GME-EBAY bid card."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mna",
+        "regulatory",
+        "mover"
+      ]
     }
   ]
 }

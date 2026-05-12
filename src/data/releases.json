@@ -1,8 +1,364 @@
 {
-  "generatedAt": "2026-05-12T00:28:27.106Z",
+  "generatedAt": "2026-05-12T12:51:32.708Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-cpi-april-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "U.S. April 2026 CPI — headline +3.8% Y/Y (highest since May 2023) beats 3.7% est; core +2.8% Y/Y vs 2.7% est on energy spike",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-05-12",
+      "url": "https://www.bls.gov/news.release/cpi.htm",
+      "summary": "April CPI rose 0.6% M/M, putting the YoY pace at 3.8% — the hottest annual reading since May 2023 and one tenth above the 3.7% Dow Jones consensus. Core CPI rose 0.4% M/M and 2.8% Y/Y, both one tenth hot on Iran-driven energy.",
+      "tags": [
+        "cpi",
+        "inflation",
+        "april-2026",
+        "bls",
+        "core-cpi",
+        "energy",
+        "iran-war",
+        "fed",
+        "rate-cuts",
+        "stagflation",
+        "treasury-yields"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "^DJI"
+      ],
+      "metrics": {
+        "Headline CPI Y/Y": "+3.8% vs +3.7% est",
+        "Headline CPI M/M": "+0.6%",
+        "Core CPI Y/Y": "+2.8% vs +2.7% est",
+        "Core CPI M/M": "+0.4% vs +0.3% est",
+        "Energy index M/M": "+3.8%",
+        "Highest YoY since": "May 2023"
+      },
+      "links": [
+        {
+          "label": "BLS Press Release",
+          "url": "https://www.bls.gov/news.release/cpi.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/12/cpi-inflation-april-2026-.html"
+        },
+        {
+          "label": "BLS Schedule",
+          "url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+        },
+        {
+          "label": "S&P 500 Quote",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "explainer": {
+        "tagline": "April CPI runs hotter than expected on both headline and core, with the annual rate climbing to the highest reading in nearly three years.",
+        "whatIsIt": "The Bureau of Labor Statistics released the April 2026 CPI on Tuesday May 12 at 8:30am ET. Headline CPI rose 0.6% on the month — the largest monthly gain since the 2022 inflation peak — and 3.8% over the prior twelve months. Core CPI, which strips out food and energy, rose 0.4% M/M and 2.8% Y/Y.",
+        "howItWorks": "The monthly headline rate matched the Dow Jones consensus, but the YoY pace came in one tenth above the 3.7% poll and is the highest annual reading since May 2023. Core was hotter than the 0.3% M/M and 2.7% Y/Y estimates. Energy drove the print: the energy index rose 3.8% on the month, accounting for more than 40% of the headline increase, on the back of the Iran/Israel oil shock. With this release, several CPI series were rebased to December 2024 = 100.",
+        "whyItMatters": "This is the second straight hot CPI print and lands as Kevin Warsh advances through Senate votes to replace Jerome Powell, whose term expires May 15. Fed-funds futures priced essentially zero 2026 rate cuts ahead of the release; a sticky 2.8% core combined with energy passthrough keeps the cuts-priced-out trade intact. The 10-year, 30-year and DXY all reactive; equity futures faded into the release as the stagflation tape stays in play.",
+        "forWho": "macro and rates desks, asset allocators tracking the Fed-transition trade",
+        "tryIt": "https://www.bls.gov/news.release/cpi.htm"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108305513-1778585897857-gettyimages-2275715922-_m0a5726_jrmpdstk.jpeg?v=1778585926&w=1920&h=1080",
+        "alt": "Shoppers at a US grocery store as April CPI rises to 3.8% Y/Y",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "publishDate": "2026-05-12T12:51:32.708Z"
+    },
+    {
+      "id": "jd-q1-2026-food-delivery-drag",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "JD.com Q1 2026 — net revenue RMB315.7B (+4.9% Y/Y) tops, non-GAAP EPS $0.74 beats $0.54 est, but food-delivery losses cut net income in half to RMB5.1B",
+      "org": "JD.com",
+      "date": "2026-05-12",
+      "url": "https://www.manilatimes.net/2026/05/12/tmt-newswire/globenewswire/jdcom-announces-first-quarter-2026-results/2341484",
+      "summary": "Revenue grew 4.9% to RMB315.7B (~$45.8B); JD Retail op margin expanded 70bp to 5.6% on record profitability. But New Businesses (food delivery) lost RMB10.4B, sending GAAP net income to RMB5.1B vs RMB10.9B a year ago.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "china",
+        "e-commerce",
+        "food-delivery",
+        "meituan",
+        "alibaba",
+        "jd-retail",
+        "jd-logistics",
+        "eps-beat",
+        "margin-compression"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JD",
+        "BABA",
+        "PDD"
+      ],
+      "metrics": {
+        "Revenue": "RMB315.7B / $45.8B (+4.9% Y/Y)",
+        "Service revenue": "+20.6% Y/Y",
+        "Non-GAAP EPS": "$0.74 vs $0.54 est",
+        "GAAP net income": "RMB5.1B vs RMB10.9B Y/Y",
+        "Non-GAAP net income": "RMB7.4B vs RMB12.8B Y/Y",
+        "JD Retail op margin": "5.6% (vs 4.9%)",
+        "New Businesses op loss": "(RMB10.4B)"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.manilatimes.net/2026/05/12/tmt-newswire/globenewswire/jdcom-announces-first-quarter-2026-results/2341484"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/JD/jd-com-to-report-first-quarter-2026-financial-results-on-may-12-diwm8l4kf9zb.html"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/JD/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Core e-commerce profitability hits a record while a costly food-delivery offensive cuts group net income in half.",
+        "whatIsIt": "JD.com reported Q1 2026 results before US open on May 12. Total net revenue grew 4.9% Y/Y to RMB315.7B (~$45.8B), with service revenues accelerating 20.6%. JD Retail set a record for Q1 profitability with op margin expanding to 5.6% from 4.9%, but the company's push into food delivery via the New Businesses segment produced a RMB10.4B operating loss, dragging consolidated GAAP net income down 53% to RMB5.1B.",
+        "howItWorks": "Non-GAAP EPS came in at $0.74, beating the $0.54 consensus by $0.20. Non-GAAP net income halved to RMB7.4B from RMB12.8B as New Businesses outweighed Retail and Logistics. JD Logistics revenue was RMB60.6B with a 1.7% op margin. CEO Sandy Xu said annual active customers hit a record and that New Businesses showed 'meaningful bottom-line improvements' sequentially. JD opened in premarket trading up roughly 1% on the EPS beat after sliding into the print.",
+        "whyItMatters": "JD's food-delivery push is the direct response to Meituan and Alibaba's instant-commerce build-outs, but the Q1 hit confirms the cash cost of that fight. Investors now have to underwrite a parallel China consumer business plus a multi-billion-RMB quarterly burn until New Businesses gets to scale. Read-throughs: Meituan (3690.HK) and Alibaba (BABA) on competitive intensity in instant commerce; PDD on whether the Q1 RMB-deflation backdrop is bottoming.",
+        "forWho": "China-internet, EM and consumer-staples investors",
+        "tryIt": "https://finance.yahoo.com/quote/JD/"
+      },
+      "image": {
+        "url": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/12/1052951.jpg",
+        "alt": "JD.com warehouse with workers preparing parcels for delivery",
+        "fit": "cover",
+        "credit": "JD.com via GlobeNewswire"
+      },
+      "publishDate": "2026-05-12T12:51:32.708Z"
+    },
+    {
+      "id": "se-q1-2026-shopee-record",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Sea Limited Q1 2026 — revenue $7.1B (+46.6%) beats $6.4B est, net income $438M; Shopee GMV +30% to record $37.3B and Monee +57.8%",
+      "org": "Sea Limited",
+      "date": "2026-05-12",
+      "url": "https://www.stocktitan.net/news/SE/sea-limited-reports-first-quarter-2026-ggmlap7rx4n0.html",
+      "summary": "Sea posted Q1 revenue $7.1B (+46.6%) handily ahead of $6.4B consensus, with Shopee GMV at a record $37.3B (+30%), Monee revenue +57.8% to $1.2B and Garena +40.6%. Net income +6.7% to $438M and the company repurchased 1.8M shares.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "shopee",
+        "garena",
+        "monee",
+        "sea-money",
+        "free-fire",
+        "se-asia",
+        "e-commerce",
+        "fintech",
+        "buyback",
+        "revenue-beat"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SE"
+      ],
+      "metrics": {
+        "Revenue": "$7.1B (+46.6%) vs $6.4B est",
+        "Net income": "$438.2M (+6.7%)",
+        "Adj EBITDA": "$1.0B (+9.3%)",
+        "Shopee revenue": "$5.1B (+44.4%)",
+        "Shopee GMV": "$37.3B (+30.2%)",
+        "Shopee orders": "4.0B (+29.3%)",
+        "Monee revenue": "$1.2B (+57.8%)",
+        "Garena revenue": "$697M (+40.6%)",
+        "Diluted EPS": "$0.67 vs $0.65 Y/Y",
+        "Buyback (Q1)": "1.8M shares"
+      },
+      "links": [
+        {
+          "label": "Sea Limited Q1 Press Release",
+          "url": "https://www.stocktitan.net/news/SE/sea-limited-reports-first-quarter-2026-ggmlap7rx4n0.html"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-reports-first-quarter-103000179.html"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/SE/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Shopee, Monee and Garena all post their strongest quarters on record as Sea's flywheel re-accelerates.",
+        "whatIsIt": "Sea Limited reported Q1 2026 results before US open on May 12, with GAAP revenue of $7.1B up 46.6% Y/Y and well ahead of the $6.4B Zacks consensus. All three segments contributed: Shopee revenue $5.1B (+44.4%) on a record $37.3B GMV and 4.0 billion orders, Monee revenue $1.2B (+57.8%) on credit-business growth, and Garena $697M (+40.6%) as Free Fire and the gaming portfolio re-accelerated.",
+        "howItWorks": "Group net income rose 6.7% to $438.2M and adjusted EBITDA was $1.0B (+9.3%). Diluted EPS came in at $0.67 vs $0.65 Y/Y. Shopee adjusted EBITDA was $223.2M with order volume up 29.3% Y/Y, GMV per active buyer expanding, and unit economics stable. Sea repurchased 1.8 million shares during the quarter.",
+        "whyItMatters": "Sea's Q4 print on March 3 had sent the stock down ~15% as the market questioned whether Shopee's growth was rolling. Q1's record GMV, 30% growth and continued profit at the Shopee level reverse that narrative cleanly. Read-throughs: SE-Asia consumer is still expanding (compare Grab GRAB, GoTo); Monee's credit growth gives optionality on a fintech multiple; Garena's revival removes one of the bear cases on group margin mix.",
+        "forWho": "EM and growth equity investors, Southeast Asia desks",
+        "tryIt": "https://finance.yahoo.com/quote/SE/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Sea_Limited_Reports_First_Quarter_2026_Results_1055533.webp",
+        "alt": "Sea Limited Q1 2026 results cover image",
+        "fit": "cover",
+        "credit": "Sea Limited via Stock Titan"
+      },
+      "publishDate": "2026-05-12T12:51:32.708Z"
+    },
+    {
+      "id": "onon-q1-2026-record-quarter",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "On Holding Q1 2026 — net sales CHF 832M (+14.5% rep / +26.4% CC), adj EBITDA margin 21%; raises FY26 CC growth guide to ≥23%",
+      "org": "On Holding",
+      "date": "2026-05-12",
+      "url": "https://press.on-running.com/on-reports-first-quarter-2026-results",
+      "summary": "On posted its first ≥CHF 800M quarter with sales CHF 831.9M (+14.5% rep, +26.4% CC), adjusted EBITDA margin expanding 450bp to 21.0%, and net income +82% to CHF 103.3M. FY26 guidance raised to ≥23% CC sales growth.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "swiss-franc",
+        "athletic-footwear",
+        "running",
+        "apparel",
+        "apac-growth",
+        "premium-pricing",
+        "guide-raise",
+        "constant-currency"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ONON",
+        "NKE",
+        "DECK"
+      ],
+      "metrics": {
+        "Net sales": "CHF 831.9M (+14.5% rep / +26.4% CC)",
+        "Net income": "CHF 103.3M (+82%)",
+        "Adj EBITDA margin": "21.0% (vs 16.5%)",
+        "Gross profit margin": "64.2%",
+        "APAC growth (CC)": "+61.4%",
+        "Apparel growth (CC)": "+57.5%",
+        "FY26 sales growth guide": "≥23% CC (raised)",
+        "FY26 adj EBITDA margin guide": "19.5–20.0%"
+      },
+      "links": [
+        {
+          "label": "On Holding Press Release",
+          "url": "https://press.on-running.com/on-reports-first-quarter-2026-results"
+        },
+        {
+          "label": "Benzinga Preview",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/05/52476136/top-wall-street-forecasters-revamp-on-holding-expectations-ahead-of-q1-earning"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/ONON/"
+        }
+      ],
+      "explainer": {
+        "tagline": "On crosses CHF 800M in a quarter for the first time, with APAC up 61% and the FY26 growth guide bumped to 23%+.",
+        "whatIsIt": "On Holding reported Q1 2026 results before US open on May 12. Net sales of CHF 831.9M grew 14.5% on a reported basis and 26.4% in constant currency — the first quarter above CHF 800M in the company's history. Adjusted EBITDA margin expanded 450 basis points to 21.0% and net income jumped 82% Y/Y to CHF 103.3M.",
+        "howItWorks": "Asia-Pacific revenue rose 61.4% on a constant-currency basis, with apparel up 57.5% CC, both running well ahead of group. Gross margin held at 64.2%. The company raised FY26 guidance to at least 23% constant-currency net-sales growth (from prior 27% growth in CC sales translated to a more conservative reported view), gross-profit margin at least 64.5%, and adjusted EBITDA margin 19.5–20.0%. CHF strength versus the dollar provides a multi-hundred-basis-point headwind to reported numbers.",
+        "whyItMatters": "Nike and Deckers (HOKA) both flagged slowing premium running demand earlier this year; On's data argues the slowdown is brand-specific, not category-wide. The print sets up a wider premium-vs-mass divide in performance footwear and validates On's expansion runway in apparel and APAC. ONON had closed Monday down 3.4% to $34.04; options had been pricing a ±9.66% move.",
+        "forWho": "Consumer discretionary and athletic-footwear investors",
+        "tryIt": "https://finance.yahoo.com/quote/ONON/"
+      },
+      "image": {
+        "url": "https://cdn.uc.assets.prezly.com/e45eb48b-4e9f-4f93-957b-4dad2d20cee8/-/crop/1024x538/0,200/-/preview/-/preview/600x600/",
+        "alt": "On Holding Q1 2026 press release header image",
+        "fit": "cover",
+        "credit": "On Holding via Prezly"
+      },
+      "publishDate": "2026-05-12T12:51:32.708Z"
+    },
+    {
+      "id": "warsh-senate-cloture-may-11-2026",
+      "categories": [
+        "regulatory",
+        "macro"
+      ],
+      "title": "Senate advances Kevin Warsh's Fed nomination 49–44 in May 11 cloture vote; full confirmation votes set for May 12 ahead of Powell's May 15 expiry",
+      "org": "U.S. Senate",
+      "date": "2026-05-11",
+      "url": "https://rollcall.com/2026/05/11/warsh-moves-closer-to-fed-role-with-senate-cloture-vote/",
+      "summary": "The Senate voted 49–44 Monday evening to advance Kevin Warsh's nomination, setting up a May 12 roll-call to confirm him to a 14-year Fed Board seat. A separate Senate vote to confirm Warsh as Chair, succeeding Powell, is expected later in the week.",
+      "tags": [
+        "fed",
+        "fomc",
+        "warsh",
+        "powell",
+        "senate-confirmation",
+        "cloture",
+        "fed-chair",
+        "kevin-warsh",
+        "trump",
+        "monetary-policy",
+        "may-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TNX",
+        "^GSPC",
+        "DX-Y.NYB"
+      ],
+      "metrics": {
+        "Cloture vote": "49–44 (May 11 evening)",
+        "Board confirmation vote scheduled": "May 12, 11:30am ET",
+        "Term length": "14 years from Feb 1",
+        "Powell term expires": "May 15, 2026",
+        "Next FOMC": "June 16–17 (likely Warsh's first)"
+      },
+      "links": [
+        {
+          "label": "Roll Call — Cloture Vote",
+          "url": "https://rollcall.com/2026/05/11/warsh-moves-closer-to-fed-role-with-senate-cloture-vote/"
+        },
+        {
+          "label": "Yahoo Finance — Committee Vote",
+          "url": "https://finance.yahoo.com/economy/article/senate-committee-confirms-kevin-warsh-sets-up-full-senate-vote-for-new-fed-chair-141614334.html"
+        },
+        {
+          "label": "Al Jazeera — Banking Panel",
+          "url": "https://www.aljazeera.com/economy/2026/4/29/senate-panel-advances-kevin-warshs-nomination-for-us-fed-chair"
+        },
+        {
+          "label": "CNBC — Earlier Hurdle Cleared",
+          "url": "https://www.cnbc.com/2026/04/29/trump-fed-nominee-kevin-warsh-senate-approval.html"
+        },
+        {
+          "label": "C-SPAN Senate Session",
+          "url": "https://www.c-span.org/program/us-senate/senate-session/678978"
+        }
+      ],
+      "explainer": {
+        "tagline": "Warsh is one procedural step away from a Fed Board seat and is expected to be confirmed as Chair later this week.",
+        "whatIsIt": "The U.S. Senate voted 49–44 on Monday evening to invoke cloture on Kevin Warsh's nomination to the Federal Reserve Board of Governors, advancing past a procedural hurdle. A confirmation roll-call was scheduled for Tuesday May 12, with a separate vote to confirm Warsh as Chair — succeeding Jerome Powell — expected later in the week. Powell's term as Chair expires May 15.",
+        "howItWorks": "Warsh would first take a 14-year seat as Governor beginning February 1, then succeed Powell as Chair if confirmed. The Senate Banking Committee had previously approved his nomination on largely party lines on April 29. Warsh, a former Fed Governor (2006–2011) under Bernanke, has signaled a preference for a smaller Fed balance sheet and a higher bar for rate cuts, broadly aligning with the Trump administration's policy mix.",
+        "whyItMatters": "The transition lands the same week as a hot April CPI print, with futures pricing essentially zero 2026 cuts. Warsh's confirmation removes the last source of Fed-chair uncertainty and pins the early-cycle reaction function on his prior hawkish tilt and balance-sheet preferences. Watch the 10Y (recently 4.41%), the 30Y (above 5% for the first time since July 2025), DXY and SPX as the chair vote completes.",
+        "forWho": "macro, rates and FX desks",
+        "tryIt": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm"
+      },
+      "image": {
+        "url": "https://rollcall.com/app/uploads/2026/05/warsh_senate_418_042126.jpg",
+        "alt": "Kevin Warsh testifies before the Senate Banking Committee",
+        "fit": "cover",
+        "credit": "Roll Call / Tom Williams"
+      },
+      "publishDate": "2026-05-12T12:51:32.708Z"
+    },
     {
       "id": "hims-q1-2026-glp1-pivot-loss",
       "categories": [
@@ -8632,11 +8988,11 @@
         "mna",
         "mover"
       ],
-      "title": "GameStop offers ~$56B unsolicited bid for eBay at $125/share, half cash and half stock",
+      "title": "eBay rejects GameStop's ~$56B unsolicited bid as 'neither credible nor attractive'; Cohen weighs hostile move",
       "org": "GameStop",
       "date": "2026-05-03",
       "url": "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Proposes-to-Acquire-eBay-at-125-00-Per-Share/",
-      "summary": "GameStop disclosed an unsolicited proposal to acquire eBay at $125/share, half cash and half stock, citing a 46% premium to eBay's unaffected close on Feb 4 and pledging $2B of run-rate cost cuts.",
+      "summary": "eBay's board on May 12 formally rejected GameStop's $125/share offer, citing financing uncertainty around TD Securities' $20B letter, governance concerns and 'operational risks'. Chair Paul Pressler called it 'neither credible nor attractive'; CEO Ryan Cohen may take the bid hostile.",
       "tags": [
         "mna",
         "unsolicited-bid",
@@ -8659,21 +9015,21 @@
         "Cash on hand (1/31/26)": "~$9.4B",
         "Debt financing": "Up to $20B highly-confident letter from TD Securities",
         "Targeted run-rate savings": "$2B within 12 months of close",
-        "EBAY move": "~+5% intraday May 4",
-        "GME move": "~-10% May 4 close"
+        "eBay decision (May 12)": "Rejected — 'neither credible nor attractive'",
+        "Possible next step": "Hostile tender / proxy at eBay shareholders"
       },
       "links": [
         {
+          "label": "eBay Rejection PR (May 12)",
+          "url": "https://www.prnewswire.com/news-releases/ebay-rejects-unsolicited-proposal-from-gamestop-302769000.html"
+        },
+        {
+          "label": "CNBC — Rejection Coverage",
+          "url": "https://www.cnbc.com/2026/05/12/ebay-rejects-gamestops-takeover-bid.html"
+        },
+        {
           "label": "GameStop Proposal",
           "url": "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Proposes-to-Acquire-eBay-at-125-00-Per-Share/"
-        },
-        {
-          "label": "Al Jazeera Coverage",
-          "url": "https://www.aljazeera.com/economy/2026/5/4/gamestop-targets-ebay-with-unsolicited-56bn-acquisition-offer"
-        },
-        {
-          "label": "ABC News Coverage",
-          "url": "https://abcnews.com/Business/gamestop-offers-56-billion-buy-ebay/story?id=132631557"
         },
         {
           "label": "Yahoo Finance — EBAY",
@@ -8685,10 +9041,10 @@
         }
       ],
       "explainer": {
-        "tagline": "Ryan Cohen's GameStop offers $125/share for eBay, a market cap roughly four times its own.",
-        "whatIsIt": "GameStop publicly disclosed an unsolicited proposal to acquire eBay for $125 per share in a 50/50 cash-and-stock structure, valuing the target at about $55.5B in aggregate equity. The offer was sent to eBay's board on May 3 and the company published the proposal letter the same day. eBay confirmed receipt and said its board would review the proposal.",
-        "howItWorks": "GameStop says the offer represents a 46% premium to eBay's unaffected closing price on February 4, 2026, a 27% premium to the 30-day VWAP and a 36% premium to the 90-day VWAP. The cash leg would be funded from GameStop's roughly $9.4B of balance-sheet cash as of January 31 plus a highly-confident letter from TD Securities for up to $20B of acquisition debt. GameStop has built a stake of roughly 5% in eBay and projects $2B of annualized cost reductions within twelve months of any close.",
-        "whyItMatters": "The math is the story — GameStop, with an equity market value near $12B, is bidding for a target several times larger than itself, with a financing stack that depends on a non-binding bank letter and a heavy stock component. eBay's stock rose around 5% on the news while GameStop fell about 10%, signaling that the market is pricing both target accretion and meaningful execution risk. eBay's review process and financing certainty are the next gates.",
+        "tagline": "eBay's board calls GameStop's $125/share bid not credible and unattractive, leaving Ryan Cohen with a hostile path or a walk-away.",
+        "whatIsIt": "On May 12, eBay's board formally rejected GameStop's unsolicited $125/share, 50% cash / 50% stock proposal first announced May 3. Chair Paul Pressler said the offer was 'neither credible nor attractive', citing six factors including financing uncertainty, governance and operational risks, and a leadership structure the board found unworkable. CEO Ryan Cohen had previewed willingness to take the bid hostile if the board demurred.",
+        "howItWorks": "GameStop's offer represented a 46% premium to eBay's unaffected Feb 4 close and a 36% premium to its 90-day VWAP, structured as roughly $9.4B of GameStop balance-sheet cash plus a highly-confident $20B debt letter from TD Securities. eBay's board flagged the cash leg as effectively unfunded given the size, and questioned whether a combined entity could absorb the leverage. A hostile tender or proxy at eBay's shareholders is the next available lever for Cohen.",
+        "whyItMatters": "The rejection caps the formal courtship phase and shifts the next move to GameStop. EBAY rose ~5% on the original news May 4 and GameStop fell about 10%; M&A arb spreads are now functions of whether Cohen finances a sweetened bid or attempts a shareholder end-run. Without a stronger financing package, the deal probability tightens.",
         "forWho": "M&A arb desks, e-commerce and collectibles investors",
         "tryIt": "https://finance.yahoo.com/quote/EBAY"
       },
