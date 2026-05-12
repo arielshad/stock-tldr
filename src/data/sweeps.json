@@ -2490,6 +2490,44 @@
         "video",
         "article"
       ]
+    },
+    {
+      "id": "sweep-20260512t002827z",
+      "timestamp": "2026-05-12T00:28:27.106Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds from May 11 post-close: HIMS posts a wide Q1 GAAP loss on the compounded-to-branded GLP-1 pivot and gaps ~10% lower; Plug Power tops Q1 revenue estimates with sharp margin improvement and rallies ~12%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hims-q1-2026-glp1-pivot-loss",
+          "title": "Hims & Hers Q1 2026 — revenue $608M (+4% Y/Y) but GLP-1 pivot drives $92.1M net loss; gross margin -800bp to 65% and HIMS drops ~10%",
+          "category": "earnings",
+          "note": "Q1 print May 11 with -10% move and a clean named catalyst (GLP-1 strategic pivot); not in existing feed; primary source on Hims IR."
+        },
+        {
+          "id": "plug-q1-2026-margin-improvement",
+          "title": "Plug Power Q1 2026 — revenue $163.5M (+22% Y/Y) beats $144M est; gross margin improves 42pp to -13%, Q4 EBITDAS breakeven target reaffirmed; PLUG ~+12%",
+          "category": "earnings",
+          "note": "Q1 print May 11 with +12% move and revenue beat; not in existing feed; primary source on GlobeNewswire (PLUG distribution)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }

@@ -1,8 +1,145 @@
 {
-  "generatedAt": "2026-05-11T17:12:48.703Z",
+  "generatedAt": "2026-05-12T00:28:27.106Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hims-q1-2026-glp1-pivot-loss",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Hims & Hers Q1 2026 — revenue $608M (+4% Y/Y) but GLP-1 pivot drives $92.1M net loss; gross margin -800bp to 65% and HIMS drops ~10%",
+      "org": "Hims & Hers Health",
+      "date": "2026-05-11",
+      "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-Health-Inc--Reports-First-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "Q1 revenue $608M (+4%) misses on growth slowdown as compounded-semaglutide wind-down hits margins. Net loss $92.1M / -$0.40 EPS reverses $49.5M prior-year profit; FY26 sales guide raised to $2.8–3.0B but EBITDA guide $275–350M.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "telehealth",
+        "glp-1",
+        "weight-loss",
+        "semaglutide",
+        "wegovy",
+        "novo-nordisk",
+        "eli-lilly",
+        "gross-margin",
+        "restructuring",
+        "guide-raise"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HIMS",
+        "NVO",
+        "LLY"
+      ],
+      "metrics": {
+        "Revenue": "$608M (+4% Y/Y)",
+        "EPS": "-$0.40 vs $0.04 est",
+        "Net loss": "$92.1M vs $49.5M profit Y/Y",
+        "Gross margin": "65% vs 73% Y/Y",
+        "Adj EBITDA": "$44.3M vs $91.1M Y/Y",
+        "FY26 rev guide": "$2.8–3.0B",
+        "Move": "~-10%"
+      },
+      "explainer": {
+        "tagline": "Strategic pivot away from compounded semaglutide collapses margins as Hims pivots to branded GLP-1s from Novo and Lilly.",
+        "whatIsIt": "Hims & Hers reported Q1 2026 earnings after the close on May 11. Revenue of $608.1M grew just 4% Y/Y against tougher comps, and the company swung from a $49.5M profit a year ago to a $92.1M net loss as the company exits compounded GLP-1 and transitions to branded supply.",
+        "howItWorks": "Gross margin compressed to 65% (from 73%) on the GLP-1 mix shift, and adj EBITDA fell to $44.3M from $91.1M. Q1 took $33.5M in restructuring charges plus $17.6M of fair-value losses on liabilities and $9.7M on equity securities. Subscribers grew 9% to ~2.6M, but ASPs fell. Management raised FY26 revenue guide to $2.8–3.0B and set adj EBITDA guide at $275–350M.",
+        "whyItMatters": "HIMS gapped ~10% lower after-hours as the print confirmed the compounded-GLP-1 cash cow is gone faster than the branded partnerships can replace it. The Novo Nordisk and Eli Lilly deals will eventually broaden reach, but near-term margin compression makes the 'platform' story expensive to underwrite. Telehealth peers like LFMD and TDOC trade off the same compounded-to-branded transition.",
+        "forWho": "Healthcare growth and telehealth investors",
+        "tryIt": "https://finance.yahoo.com/quote/HIMS/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/XTqAyA9i4Qs12jYdYaNLOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xOTE-/https://media.zenfs.com/en/business-wire.com/fc8803299e0c3b028f83d87be9e67322",
+        "alt": "Hims & Hers Health Q1 2026 results press image",
+        "fit": "cover",
+        "credit": "Business Wire via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-Health-Inc--Reports-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "10-Q Filing",
+          "url": "https://www.stocktitan.net/sec-filings/HIMS/10-q-hims-hers-health-inc-quarterly-earnings-report-83cc8dd9e284.html"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/HIMS/"
+        }
+      ],
+      "publishDate": "2026-05-12T00:28:27.106Z"
+    },
+    {
+      "id": "plug-q1-2026-margin-improvement",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Plug Power Q1 2026 — revenue $163.5M (+22% Y/Y) beats $144M est; gross margin improves 42pp to -13%, Q4 EBITDAS breakeven target reaffirmed; PLUG ~+12%",
+      "org": "Plug Power",
+      "date": "2026-05-11",
+      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292288/9619/en/Plug-Power-Reports-Strong-Q1-2026-Results-with-22-Revenue-Growth-and-71-Margin-Improvement-Year-over-Year.html",
+      "summary": "Q1 revenue $163.5M (+22%) tops $144M est on electrolyzer and material-handling growth. Gross margin improves 42pp to -13%, adj EPS -$0.08 vs -$0.17 prior year; Project Quantum Leap cost actions on track for positive Q4 EBITDAS.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "hydrogen",
+        "electrolyzer",
+        "fuel-cell",
+        "material-handling",
+        "amazon",
+        "walmart",
+        "project-quantum-leap",
+        "rev-beat",
+        "guide-confirm"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "PLUG"
+      ],
+      "metrics": {
+        "Revenue": "$163.5M (+22% Y/Y) vs $144M est",
+        "Adj EPS": "-$0.08 vs -$0.17 Y/Y",
+        "Gross margin": "-13% vs -55% Y/Y (+42pp)",
+        "Electrolyzer capacity deployed": "320+ MW",
+        "Project pipeline": "$8B+",
+        "FY26 rev growth guide": "13–15%",
+        "Move": "~+11.7%"
+      },
+      "explainer": {
+        "tagline": "Plug's first quarter beats on revenue and shows margin progress as Project Quantum Leap cost-cuts drag losses narrower.",
+        "whatIsIt": "Plug Power reported Q1 2026 results on May 11 — revenue grew 22% Y/Y to $163.5M and beat the ~$144M Street estimate. Electrolyzer deployments and material-handling growth drove the top line, while gross margin improved sharply on the company's Project Quantum Leap cost actions.",
+        "howItWorks": "Gross margin came in at -13% vs -55% a year ago — a 42-percentage-point improvement. Adjusted EPS narrowed to -$0.08 from -$0.17. Material handling grew 15% Y/Y (ex-warrants) with Amazon and Walmart planning new deployments and fleet refreshes starting late 2026. Management reiterated the FY26 revenue growth target of 13–15% and the goal of reaching positive EBITDAS in Q4 2026. A $39.2M Section 48 tax credit sale on the Louisiana JV is expected in May.",
+        "whyItMatters": "PLUG rallied roughly 12% on May 11 as the print broke a multi-quarter pattern of revenue misses and cash burn. The story is now about getting to positive EBITDAS by Q4 — if margins keep improving, the hydrogen economy thesis gets a real fundamental anchor instead of just a story. Peers like BE and BLDP trade off the same hydrogen-economy expectations.",
+        "forWho": "Energy transition and small-cap growth investors",
+        "tryIt": "https://finance.yahoo.com/quote/PLUG/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/fca44a9a-2cd2-4474-8fa6-9fa45a133088",
+        "alt": "Plug Power Q1 2026 press release header",
+        "fit": "cover",
+        "credit": "Plug Power via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/11/3292288/9619/en/Plug-Power-Reports-Strong-Q1-2026-Results-with-22-Revenue-Growth-and-71-Margin-Improvement-Year-over-Year.html"
+        },
+        {
+          "label": "IR Page",
+          "url": "https://www.ir.plugpower.com/press-releases/news-details/2026/Plug-Power-Reports-Strong-Q1-2026-Results-with-22-Revenue-Growth-and-71-Margin-Improvement-Year-over-Year/default.aspx"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/PLUG/"
+        }
+      ],
+      "publishDate": "2026-05-12T00:28:27.106Z"
+    },
     {
       "id": "frvo-ipo-upsize-may-2026",
       "categories": [
