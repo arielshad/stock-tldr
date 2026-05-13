@@ -1,8 +1,82 @@
 {
-  "generatedAt": "2026-05-13T00:30:38.370Z",
+  "generatedAt": "2026-05-13T12:43:29.903Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nbis-q1-2026-earnings",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Nebius Q1 2026 — revenue $399M (+684% Y/Y) blows past $379M est, net income $621.2M; secures 1.2GW Pennsylvania AI factory, NBIS +14% intraday",
+      "org": "Nebius Group",
+      "date": "2026-05-13",
+      "url": "https://nebius.com/newsroom/nebius-reports-first-quarter-2026-financial-results",
+      "summary": "AI cloud's first Q1 as a public reporting standalone: revenue $399M (~7× Y/Y), adj EBITDA $129.5M flips from loss, and a 1.2 GW Pennsylvania site builds the next leg of the GPU buildout. NBIS +14%.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "ai-cloud",
+        "neocloud",
+        "gpu",
+        "hyperscaler",
+        "data-center",
+        "revenue-beat",
+        "ebitda-flip",
+        "pennsylvania"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NBIS",
+        "CRWV",
+        "NVDA"
+      ],
+      "metrics": {
+        "Revenue": "$399.0M (+684% Y/Y vs $50.9M)",
+        "Net Income": "$621.2M (continuing ops)",
+        "Diluted EPS": "$2.11",
+        "Adj EBITDA": "$129.5M vs ($53.7M) Y/Y",
+        "PA Site": "up to 1.2 GW",
+        "Move": "+14% intraday"
+      },
+      "explainer": {
+        "tagline": "Neocloud Nebius posts a 684% revenue surge, swings adj EBITDA positive, and locks 1.2 GW for a Pennsylvania AI factory.",
+        "whatIsIt": "Nebius Group, the AI cloud company spun out of Yandex N.V. and relisted on Nasdaq as NBIS, reported its first-quarter 2026 results before the open on May 13. The print sent shares up ~12% in premarket and ~14% intraday to a record, with the stock now well clear of its early-2026 lows on top of a strong run since its $643M Eigen AI acquisition on May 1.",
+        "howItWorks": "Q1 revenue came in at $399.0M, up 684% from $50.9M a year ago and ~$20M above the $379M consensus. Net income from continuing operations was $621.2M ($2.40 basic / $2.11 diluted), boosted by a non-cash mark on equity holdings. Adjusted EBITDA flipped to +$129.5M from -$53.7M Y/Y, and operating cash flow was $2.26B. Separately, Nebius said it has secured up to 1.2 gigawatts of power and land for a new owned AI factory in Pennsylvania.",
+        "whyItMatters": "Nebius is one of three pure-play AI-cloud comps alongside CoreWeave and Lambda; the print confirms that hyperscale demand for rented Nvidia capacity is still outrunning supply rather than rolling over. The 1.2 GW Pennsylvania commitment puts NBIS in the same on-shore power-and-land race as CRWV and the cloud arms of MSFT, GOOG, AMZN — and the Eigen AI tuck-in points to a software/services layer on top of the bare-metal GPU rental business.",
+        "forWho": "AI-infrastructure long-onlys, NVDA derivatives traders",
+        "tryIt": "https://finance.yahoo.com/quote/NBIS/"
+      },
+      "image": {
+        "url": "https://assets.nebius.com/share-image/newsroom/nebius-reports-first-quarter-2026-financial-results?v=2026-05-13T11%3A59%3A34.158Z",
+        "alt": "Nebius Group Q1 2026 results share image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Nebius Press Release",
+          "url": "https://nebius.com/newsroom/nebius-reports-first-quarter-2026-financial-results"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/NBIS/nebius-reports-first-quarter-2026-financial-83ppz0unmqy3.html"
+        },
+        {
+          "label": "MarketScreener Recap",
+          "url": "https://www.marketscreener.com/news/nebius-reports-first-quarter-2026-financial-results-ce7f5bdfd080f520"
+        },
+        {
+          "label": "Benzinga Mover",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52463046/nebius-stock-is-jumping-whats-behind-the-surge"
+        },
+        {
+          "label": "NBIS Chart",
+          "url": "https://finance.yahoo.com/quote/NBIS/"
+        }
+      ],
+      "publishDate": "2026-05-13T12:43:29.903Z"
+    },
     {
       "id": "ua-q4-fy26-earnings-guide-cut",
       "categories": [
@@ -426,11 +500,11 @@
         "regulatory",
         "macro"
       ],
-      "title": "Senate advances Kevin Warsh's Fed nomination 49–44 in May 11 cloture vote; full confirmation votes set for May 12 ahead of Powell's May 15 expiry",
+      "title": "Senate confirms Kevin Warsh to Fed Board of Governors 51–45 on May 12; final chair-confirmation vote teed up for May 13 ahead of Powell's May 15 expiry",
       "org": "U.S. Senate",
       "date": "2026-05-11",
-      "url": "https://rollcall.com/2026/05/11/warsh-moves-closer-to-fed-role-with-senate-cloture-vote/",
-      "summary": "The Senate voted 49–44 Monday evening to advance Kevin Warsh's nomination, setting up a May 12 roll-call to confirm him to a 14-year Fed Board seat. A separate Senate vote to confirm Warsh as Chair, succeeding Powell, is expected later in the week.",
+      "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
+      "summary": "Warsh wins his Board seat 51–45 (Fetterman the only Democrat in favor) and the Senate immediately moves to limit debate on the separate chair vote, expected May 13. Powell's chair term ends Friday.",
       "tags": [
         "fed",
         "fomc",
@@ -451,11 +525,10 @@
         "DX-Y.NYB"
       ],
       "metrics": {
-        "Cloture vote": "49–44 (May 11 evening)",
-        "Board confirmation vote scheduled": "May 12, 11:30am ET",
-        "Term length": "14 years from Feb 1",
-        "Powell term expires": "May 15, 2026",
-        "Next FOMC": "June 16–17 (likely Warsh's first)"
+        "Board vote": "51–45 (May 12)",
+        "Crossover": "Sen. Fetterman (D-PA) only Democrat aye",
+        "Powell chair term ends": "2026-05-15",
+        "Chair vote": "Scheduled May 13"
       },
       "links": [
         {

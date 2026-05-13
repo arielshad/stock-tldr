@@ -2622,6 +2622,38 @@
         "regulatory",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260513t124329z",
+      "timestamp": "2026-05-13T12:43:29.903Z",
+      "source": "github-actions-sweep",
+      "summary": "Adds Nebius Q1 2026 earnings (revenue +684% Y/Y, 1.2 GW Pennsylvania site, NBIS +14%) and updates the Warsh nomination thread to reflect the May 12 51–45 Senate confirmation to the Fed Board, with the final chair vote teed up for May 13.",
+      "counts": {
+        "added": 1,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nbis-q1-2026-earnings",
+          "title": "Nebius Q1 2026 — revenue $399M (+684% Y/Y) blows past $379M est, net income $621.2M; secures 1.2GW Pennsylvania AI factory, NBIS +14% intraday",
+          "category": "earnings",
+          "note": "AI-cloud Q1 print: 684% Y/Y revenue, EBITDA flip, 1.2 GW Pennsylvania commitment, stock +14% — confirms hyperscale GPU demand still ahead of supply."
+        }
+      ],
+      "updated": [
+        {
+          "id": "warsh-senate-cloture-may-11-2026",
+          "title": "Senate confirms Kevin Warsh to Fed Board of Governors 51–45 on May 12; final chair-confirmation vote teed up for May 13 ahead of Powell's May 15 expiry",
+          "note": "Cloture (May 11, 49-44) advanced to actual Senate confirmation (May 12, 51-45); chair vote now scheduled May 13."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
