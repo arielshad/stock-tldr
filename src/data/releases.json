@@ -1,8 +1,144 @@
 {
-  "generatedAt": "2026-05-12T12:51:32.708Z",
+  "generatedAt": "2026-05-13T00:30:38.370Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ua-q4-fy26-earnings-guide-cut",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Under Armour FQ4 FY26 — revenue $1.17B (-1% rep / -4% CC), adj loss $0.03/sh misses; FY27 EPS guide $0.08–$0.12 vs $0.23 est; UAA -17%",
+      "org": "Under Armour",
+      "date": "2026-05-12",
+      "url": "https://about.underarmour.com/en/stories/press-releases/release.553941d2-7cb3-415e-9b34-226dce838cb1.html",
+      "summary": "Under Armour reported a wider-than-expected Q4 loss as gross margin contracted 470bp to 42% and initial FY27 EPS guide of $0.08–$0.12 came in well below consensus, sending UAA ~17% lower.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "guidance-cut",
+        "fy27",
+        "apparel",
+        "footwear",
+        "gross-margin",
+        "north-america"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UA",
+        "UAA"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$1.171B (-0.8% rep / -4.2% CC)",
+        "Adj EPS": "-$0.03 vs -$0.02 est",
+        "GAAP EPS": "-$0.10",
+        "Q4 Gross Margin": "42.0% (-470bp)",
+        "FY26 Revenue": "$4.966B (-3.8%)",
+        "FY27 Adj EPS guide": "$0.08–$0.12 vs $0.23 est",
+        "Move": "-17.0% (UAA)"
+      },
+      "explainer": {
+        "tagline": "Q4 loss wider than feared and FY27 guide undershoots Street by half — UAA drops to $5.03.",
+        "whatIsIt": "Under Armour closed fiscal 2026 with a Q4 net loss of $43M on revenue of $1.17B, capping a year in which sales fell 4% to $5.0B. CEO Kevin Plank framed the initial FY27 outlook as a deliberate reset toward 'controlled and predictable' execution.",
+        "howItWorks": "Q4 revenue dropped 0.8% reported (-4.2% constant currency) with North America down 8% offset partly by EMEA +9% and LatAm +9%. Gross margin compressed 470bp to 42.0% on tariff and cost pressure, producing a GAAP diluted loss of $0.10 and adjusted loss of $0.03 vs the $0.02 consensus loss. For FY27 the company guided to a slight revenue decline, gross margin +220–270bp, adjusted operating income of $140–$160M, and adjusted EPS of $0.08–$0.12 — roughly half the $0.23 Street estimate.",
+        "whyItMatters": "The reset cements Under Armour as a North America turnaround story rather than a growth name and contrasts with On Holding's record CHF 832M quarter the same week. Apparel and footwear traders are recalibrating expectations for a fiscal-year recovery that now arrives later and starts from a smaller base, while tariff-driven gross-margin pressure remains a sector-wide read-through.",
+        "forWho": "consumer-discretionary and apparel investors",
+        "tryIt": "https://finance.yahoo.com/quote/UAA"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/340474/UNDER_ARMOUR_INC_LOGO_V2.jpg?p=facebook",
+        "alt": "Under Armour corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press release",
+          "url": "https://about.underarmour.com/en/stories/press-releases/release.553941d2-7cb3-415e-9b34-226dce838cb1.html"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/under-armour-reports-fourth-quarter-and-full-year-fiscal-2026-results-provides-initial-fiscal-2027-outlook-302768815.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/under-armour-q4-fiscal-2026-131019329.html"
+        },
+        {
+          "label": "UAA quote",
+          "url": "https://finance.yahoo.com/quote/UAA"
+        }
+      ],
+      "publishDate": "2026-05-13T00:30:38.370Z"
+    },
+    {
+      "id": "zbra-q1-2026-earnings-guide-raise",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Zebra Technologies Q1 2026 — revenue $1.495B (+14.3%), non-GAAP EPS $4.75 beats $4.26 est; raises FY26 EPS guide to $18.30–$18.70; ZBRA ~+19%",
+      "org": "Zebra Technologies",
+      "date": "2026-05-12",
+      "url": "https://www.stocktitan.net/news/ZBRA/zebra-technologies-announces-first-quarter-2026-zi9f7eizkjng.html",
+      "summary": "Zebra topped Q1 estimates on 14% revenue growth, Connected Frontline +20.6%, adjusted EBITDA margin +90bp to 23.2%, and raised the FY26 EPS guide above Street; ZBRA spiked 19% intraday.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "fy26",
+        "industrial-tech",
+        "supply-chain",
+        "elo-touch",
+        "manufacturing"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ZBRA"
+      ],
+      "metrics": {
+        "Q1 Revenue": "$1.495B (+14.3% Y/Y; +4.3% organic)",
+        "Non-GAAP EPS": "$4.75 vs $4.26 est (+18% Y/Y)",
+        "GAAP EPS": "$2.72",
+        "Connected Frontline": "$825M (+20.6%)",
+        "Asset Visibility & Automation": "$670M (+4.8%)",
+        "Adj EBITDA Margin": "23.2% (+90bp)",
+        "FY26 EPS guide": "$18.30–$18.70 vs $17.50 est",
+        "Move": "+19.5% intraday"
+      },
+      "explainer": {
+        "tagline": "Industrial-scanning leader posts double-digit revenue growth, raises full-year guide above Street — ZBRA up as much as 19%.",
+        "whatIsIt": "Zebra Technologies, the dominant supplier of barcode scanners, mobile computers, RFID and machine-vision gear for warehouses and retail, reported Q1 2026 results that beat top and bottom-line estimates and raised the full-year outlook. The quarter included the first full period of the Elo Touch acquisition.",
+        "howItWorks": "Net sales rose 14.3% Y/Y to $1.495B (4.3% organic), with Connected Frontline up 20.6% on Elo and mobile computing strength and Asset Visibility & Automation up 4.8%. Adjusted gross margin expanded 80bp to 50.4%, adj EBITDA margin +90bp to 23.2%, and non-GAAP diluted EPS hit $4.75 vs $4.26 est. FY26 guide moves to 10–14% sales growth and $18.30–$18.70 non-GAAP EPS (above the $17.50 consensus) with free cash flow >$900M; Zebra also flagged $300M of Q1 buybacks.",
+        "whyItMatters": "Zebra is a real-economy AI read-through — its scanners and machine-vision sensors are what factories and retailers buy when they actually deploy automation. The double-digit organic + acquisition growth and raised guide push back on tariff/margin concerns that hit names like Under Armour the same morning and reinforce the manufacturing-end-market strength that's already been visible in other industrial-tech prints.",
+        "forWho": "industrial-tech and supply-chain investors",
+        "tryIt": "https://finance.yahoo.com/quote/ZBRA"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Zebra_Technologies_Announces_First_Quarter_2026_Results_1055534.webp",
+        "alt": "Zebra Technologies Q1 2026 results announcement",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press release",
+          "url": "https://www.stocktitan.net/news/ZBRA/zebra-technologies-announces-first-quarter-2026-zi9f7eizkjng.html"
+        },
+        {
+          "label": "Motley Fool +19.5%",
+          "url": "https://www.fool.com/investing/2026/05/12/why-zebra-technologies-stock-jumped-195-this-morni/"
+        },
+        {
+          "label": "Earnings transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/12/zebra-zbra-q1-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "ZBRA quote",
+          "url": "https://finance.yahoo.com/quote/ZBRA"
+        }
+      ],
+      "publishDate": "2026-05-13T00:30:38.370Z"
+    },
     {
       "id": "us-cpi-april-2026",
       "categories": [

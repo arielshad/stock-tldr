@@ -2587,6 +2587,41 @@
         "regulatory",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260513t003038z",
+      "timestamp": "2026-05-13T00:30:38.370Z",
+      "source": "github-actions-sweep",
+      "summary": "Two May 12 earnings adds: Under Armour's FQ4 loss + soft FY27 guide knock UAA ~17%, and Zebra Technologies' Q1 beat + raised FY26 guide sends ZBRA up ~19%. Skipped Warsh's May 12 Fed Board confirmation (already covered by the May 11 cloture entry) and the May 12 hot-CPI market reaction (subsumed by us-cpi-april-2026 and us30y-tops-5-percent-may-2026).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ua-q4-fy26-earnings-guide-cut",
+          "title": "Under Armour FQ4 FY26 — revenue $1.17B (-1% rep / -4% CC), adj loss $0.03/sh misses; FY27 EPS guide $0.08–$0.12 vs $0.23 est; UAA -17%",
+          "category": "earnings",
+          "note": "May 12 FQ4 earnings — wider-than-expected loss, gross margin -470bp, FY27 EPS guide $0.08–$0.12 vs $0.23 consensus; UAA -17% to $5.03."
+        },
+        {
+          "id": "zbra-q1-2026-earnings-guide-raise",
+          "title": "Zebra Technologies Q1 2026 — revenue $1.495B (+14.3%), non-GAAP EPS $4.75 beats $4.26 est; raises FY26 EPS guide to $18.30–$18.70; ZBRA ~+19%",
+          "category": "earnings",
+          "note": "May 12 Q1 earnings — revenue +14.3% to $1.50B, non-GAAP EPS $4.75 vs $4.26 est, raises FY26 EPS guide to $18.30–$18.70 vs $17.50; ZBRA ~+19%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "ipo",
+        "regulatory",
+        "crypto"
+      ]
     }
   ]
 }
