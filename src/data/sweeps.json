@@ -2654,6 +2654,79 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260514t003957z",
+      "timestamp": "2026-05-14T00:39:57.660Z",
+      "source": "github-actions-sweep",
+      "summary": "Seven adds on the May 13 print-and-policy day: April PPI's 6.0% Y/Y shock the day after CPI; Cisco's record quarter, $9B AI-order outlook and 4k layoffs; Alibaba's AI-capex profit collapse; Senate confirms Warsh as Fed chair 54-45; FCC clears the $40B EchoStar/AT&T/SpaceX spectrum deal; Birkenstock and Doximity miss and slide.",
+      "counts": {
+        "added": 7,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-ppi-april-2026",
+          "title": "U.S. April 2026 PPI — headline +6.0% Y/Y (highest since Dec 2022), M/M +1.4% vs +0.5% est; core +1.0% M/M nearly 3x est on energy + services spike",
+          "category": "macro",
+          "note": "Headline 6.0% Y/Y is the hottest annual PPI since Dec 2022; lands hours after Warsh confirmation and the day before Powell's chair term expires."
+        },
+        {
+          "id": "csco-q3-fy26-earnings-ai-restructuring",
+          "title": "Cisco Q3 FY26 — revenue $15.8B (+12% Y/Y), non-GAAP EPS $1.06 beats $1.00 est; AI hyperscaler orders raised to $9B for FY26; ~4,000 layoffs and $1B restructuring; CSCO +17% AH",
+          "category": "earnings",
+          "note": "Mega-cap +17% AH on hyperscaler AI order ramp from $5B to $9B and a $1B restructuring + 4k layoffs."
+        },
+        {
+          "id": "baba-q4-fy26-earnings-ai-capex",
+          "title": "Alibaba Q4 FY26 — revenue RMB243.4B (+3% Y/Y) misses, but Cloud Intelligence +38% on AI; non-GAAP net income RMB86M ($12M) collapses 100% Y/Y on AI capex + quick-commerce losses; BABA -3%",
+          "category": "earnings",
+          "note": "First operating loss since 2021 on AI capex + quick-commerce; Cloud Intelligence +38% Y/Y shows the AI revenue is real even as profit collapses."
+        },
+        {
+          "id": "warsh-fed-chair-confirmed-may-13-2026",
+          "title": "Senate confirms Kevin Warsh as next Fed Chair 54-45 — narrowest margin in Fed history; takes over from Powell on May 15 with Powell staying as governor through Jan 2028",
+          "category": "macro",
+          "note": "Narrowest Fed-chair vote in history (54-45); Powell stays on as governor through 2028 — an unusual setup not seen since 1948."
+        },
+        {
+          "id": "sats-fcc-att-spacex-spectrum-approval-may-2026",
+          "title": "FCC approves EchoStar's $40B spectrum sale on May 13 — AT&T pays $23B for 50MHz, SpaceX pays $17B for 65MHz; SATS +5.7% to $134.74",
+          "category": "regulatory",
+          "note": "Largest single spectrum sale in U.S. history clears regulatory hurdle; spectrum split between AT&T 5G and SpaceX direct-to-cell."
+        },
+        {
+          "id": "birk-q2-fy26-earnings-mideast-tariff-drag",
+          "title": "Birkenstock FQ2 2026 — revenue €618M (+14% CC) tops on Americas + APAC strength but misses Street; adj EPS €0.50 (-9%) misses €0.59 est; Iran war cuts EMEA by €6M and tariffs trim margin 90bp; BIRK -5.5%",
+          "category": "earnings",
+          "note": "Quantified war + tariff drag and -5.5% move stress-test the post-Iran-war global consumer trade."
+        },
+        {
+          "id": "docs-q4-fy26-earnings-fy27-guide-cut",
+          "title": "Doximity FQ4 2026 — revenue $145M (+5% Y/Y) tops est but adj EPS $0.26 misses $0.28; FY27 revenue guide $664M–$676M well below $697M consensus; DOCS -11.6%",
+          "category": "mover",
+          "note": "FY27 4% growth guide vs ~13% FY26 reset the digital-health growth narrative; DOCS -11.6%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover",
+        "regulatory",
+        "mna",
+        "crypto",
+        "commodity",
+        "fx",
+        "analyst",
+        "ipo",
+        "rumor",
+        "article",
+        "video"
+      ]
     }
   ]
 }

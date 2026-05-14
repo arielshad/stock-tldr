@@ -1,8 +1,530 @@
 {
-  "generatedAt": "2026-05-13T12:43:29.903Z",
+  "generatedAt": "2026-05-14T00:39:57.660Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-ppi-april-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "U.S. April 2026 PPI — headline +6.0% Y/Y (highest since Dec 2022), M/M +1.4% vs +0.5% est; core +1.0% M/M nearly 3x est on energy + services spike",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-05-13",
+      "url": "https://www.bls.gov/news.release/ppi.htm",
+      "summary": "Final-demand PPI rose 1.4% in April — largest monthly gain since March 2022 — pushing the YoY pace to 6.0%, far above the 0.5% M/M and 4.9% Y/Y consensus. Core PPI ran 1.0% M/M vs 0.4% est.",
+      "tags": [
+        "ppi",
+        "inflation",
+        "april-2026",
+        "bls",
+        "core-ppi",
+        "energy",
+        "gasoline",
+        "iran-war",
+        "services-inflation",
+        "stagflation",
+        "treasury-yields",
+        "fed",
+        "rate-cuts"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "^DJI"
+      ],
+      "metrics": {
+        "Headline PPI Y/Y": "+6.0% (highest since Dec 2022)",
+        "Headline PPI M/M": "+1.4% vs +0.5% est",
+        "Core PPI M/M": "+1.0% vs +0.4% est",
+        "Final-demand energy M/M": "+7.8%",
+        "Gasoline M/M": "+15.6%",
+        "Final-demand services M/M": "+1.2% (most since Mar 2022)",
+        "10Y reaction": "Hit 4.49%, highest since July"
+      },
+      "links": [
+        {
+          "label": "BLS Press Release",
+          "url": "https://www.bls.gov/news.release/ppi.htm"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/investing/2026/05/13/wholesale-prices-in-april-just-increased-at-the-fa/"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/05/52520372/us-producer-inflation-april-2026-fed-rates"
+        },
+        {
+          "label": "BLS PPI Home",
+          "url": "https://www.bls.gov/ppi/"
+        },
+        {
+          "label": "10Y Treasury Quote",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "explainer": {
+        "tagline": "Wholesale prices surge to the hottest annual reading since 2022 as gasoline and services pipe through, one day after a hot CPI.",
+        "whatIsIt": "The Bureau of Labor Statistics released the April 2026 Producer Price Index on Wednesday May 13. Final-demand PPI rose 1.4% on the month and 6.0% over the prior twelve months — the biggest monthly print since March 2022 and the highest annual rate since December 2022.",
+        "howItWorks": "Headline PPI ran almost triple the 0.5% M/M consensus, and the 6.0% Y/Y handily beat the 4.9% poll. Core PPI (ex food + energy) rose 1.0% M/M versus 0.4% est. Roughly three-quarters of the goods gain traced to a 7.8% jump in final-demand energy, with a 15.6% surge in gasoline doing the heavy lifting as the Iran war keeps Brent above $100. But the services side was just as hot — final-demand services rose 1.2%, the biggest monthly increase since March 2022.",
+        "whyItMatters": "Back-to-back hot CPI and PPI prints land hours after the Senate confirms Kevin Warsh as Fed chair and a day before Powell's term expires. The 10-year Treasury yield touched 4.49%, the highest since July, and Kalshi rate-hike odds for the next year more than doubled to ~35%. Equities split — tech grinds to fresh highs on AI flows while rates-sensitive sectors lag.",
+        "forWho": "macro and rates desks tracking the Fed-transition trade",
+        "tryIt": "https://fred.stlouisfed.org/series/PPIACO"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108305513-1778585897857-gettyimages-2275715922-_m0a5726_jrmpdstk.jpeg?v=1778585926&w=1920&h=1080",
+        "alt": "Shoppers at a U.S. grocery store as April PPI hits 6.0% Y/Y",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
+    {
+      "id": "csco-q3-fy26-earnings-ai-restructuring",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cisco Q3 FY26 — revenue $15.8B (+12% Y/Y), non-GAAP EPS $1.06 beats $1.00 est; AI hyperscaler orders raised to $9B for FY26; ~4,000 layoffs and $1B restructuring; CSCO +17% AH",
+      "org": "Cisco",
+      "date": "2026-05-13",
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m05/cisco-reports-third-quarter-earnings.html",
+      "summary": "Record-quarter revenue $15.8B (+12% Y/Y) and adj EPS $1.06 beat. FY26 AI-hyperscaler orders raised to $9B from $5B (4.5x FY25). FY26 EPS guide lifted to $4.27–$4.29; ~4,000 layoffs + $1B restructuring announced.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "ai-infrastructure",
+        "hyperscaler",
+        "networking",
+        "splunk",
+        "restructuring",
+        "layoffs",
+        "q3-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CSCO",
+        "ANET",
+        "JNPR",
+        "NVDA"
+      ],
+      "metrics": {
+        "Revenue": "$15.8B (+12% Y/Y, record)",
+        "GAAP EPS": "$0.85",
+        "Non-GAAP EPS": "$1.06 vs $1.00 est",
+        "Q4 FY26 revenue guide": "$16.7B–$16.9B",
+        "Q4 FY26 EPS guide": "$1.16–$1.18",
+        "FY26 revenue guide": "$62.8B–$63.0B (raised)",
+        "FY26 EPS guide": "$4.27–$4.29 (raised)",
+        "FY26 AI hyperscaler orders": "$9B (up from $5B prior; ~4.5x FY25)",
+        "Restructuring charge": "Up to $1B; ~$450M in Q4",
+        "Layoffs": "~4,000 jobs (<5% of workforce)",
+        "Move": "+17% after-hours"
+      },
+      "links": [
+        {
+          "label": "Cisco Press Release",
+          "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m05/cisco-reports-third-quarter-earnings.html"
+        },
+        {
+          "label": "Cisco IR Page",
+          "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-THIRD-QUARTER-EARNINGS/default.aspx"
+        },
+        {
+          "label": "Cisco Quarterly Results",
+          "url": "https://investor.cisco.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "CSCO Quote",
+          "url": "https://finance.yahoo.com/quote/CSCO"
+        }
+      ],
+      "explainer": {
+        "tagline": "Networking giant smashes the quarter and quadruples its AI-hyperscaler order outlook, paying for the pivot with a $1B restructuring and ~4,000 job cuts.",
+        "whatIsIt": "Cisco reported fiscal Q3 2026 results after the May 13 close. Revenue was a record $15.8B, up 12% Y/Y, with GAAP EPS of $0.85 and non-GAAP EPS of $1.06 versus $1.00 consensus. The company raised FY26 revenue to $62.8B–$63.0B and FY26 non-GAAP EPS to $4.27–$4.29 — its third consecutive quarterly guidance raise.",
+        "howItWorks": "Total product orders climbed 35% and networking orders jumped 50%. Cisco said it has already taken $5.3B in AI-infrastructure orders from hyperscalers this fiscal year and now expects $9B in such orders for FY26 — 4.5x FY25 — with about $4B recognized as revenue. Alongside the print, the company announced a restructuring plan of up to $1B (about $450M in Q4) and disclosed it will cut fewer than 4,000 jobs, less than 5% of its workforce.",
+        "whyItMatters": "Shares surged ~17% after-hours, a rare double-digit AH move for a mega-cap. The print confirms hyperscaler AI capex is still expanding — supportive for ANET, JNPR, NVDA and the broader networking complex — and pushes back on the 'AI orders are stalling' narrative. Watch CSCO's reaction at Thursday's open against the cooling US-equity tape after the hot CPI/PPI prints.",
+        "forWho": "AI-infrastructure investors, dividend funds, large-cap tech desks",
+        "tryIt": "https://finance.yahoo.com/quote/CSCO"
+      },
+      "image": {
+        "url": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/earnings/cisco-building-angled-800x450.jpg",
+        "alt": "Cisco Systems headquarters building at angle",
+        "fit": "cover",
+        "credit": "Cisco Newsroom"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
+    {
+      "id": "baba-q4-fy26-earnings-ai-capex",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Alibaba Q4 FY26 — revenue RMB243.4B (+3% Y/Y) misses, but Cloud Intelligence +38% on AI; non-GAAP net income RMB86M ($12M) collapses 100% Y/Y on AI capex + quick-commerce losses; BABA -3%",
+      "org": "Alibaba",
+      "date": "2026-05-13",
+      "url": "https://finance.yahoo.com/news/alibaba-group-announces-march-quarter-093000498.html",
+      "summary": "Revenue RMB243.4B ($35.3B) up 3% Y/Y. Cloud Intelligence revenue surged 38% on AI products with the 11th straight triple-digit AI-revenue quarter. But adj net income collapsed from RMB29.8B to RMB86M as AI infrastructure spend and Quick Commerce losses bit.",
+      "tags": [
+        "earnings",
+        "china-tech",
+        "ai-cloud",
+        "qwen",
+        "cloud-intelligence",
+        "quick-commerce",
+        "food-delivery",
+        "revenue-miss",
+        "ai-capex",
+        "q4-fy26",
+        "dividend"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BABA",
+        "9988.HK",
+        "PDD",
+        "JD"
+      ],
+      "metrics": {
+        "Revenue": "RMB243.4B ($35.3B, +3% Y/Y)",
+        "Like-for-like revenue ex-disposals": "+11% Y/Y",
+        "Cloud Intelligence revenue": "RMB41.6B (+38% Y/Y)",
+        "AI-related product revenue": "RMB8.97B (11th consecutive triple-digit Y/Y)",
+        "Non-GAAP net income": "RMB86M ($12M) vs RMB29.85B prior-year",
+        "Operating loss": "RMB848M ($123M) — first since 2021",
+        "Quick commerce revenue": "+57% Y/Y",
+        "Adj EBITA 'All others' segment": "-RMB21.2B",
+        "Annual dividend": "$0.13125/share ($1.05/ADS; ~$2.5B total)",
+        "Move": "-3% pre-market"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/news/alibaba-group-announces-march-quarter-093000498.html"
+        },
+        {
+          "label": "Earnings Profit Coverage",
+          "url": "https://finance.yahoo.com/news/alibaba-q4-2026-earnings-profit-111304555.html"
+        },
+        {
+          "label": "Alibaba IR",
+          "url": "https://www.alibabagroup.com/en-US/investor-relations"
+        },
+        {
+          "label": "BABA Quote",
+          "url": "https://www.google.com/finance/quote/BABA:NYSE"
+        }
+      ],
+      "explainer": {
+        "tagline": "Alibaba's March-quarter AI cloud and quick-commerce growth is real — but capex spend and food-delivery losses crush adjusted profit to near zero.",
+        "whatIsIt": "Alibaba reported fiscal Q4 (March quarter) 2026 results on May 13. Revenue of RMB243.4B ($35.3B) grew 3% Y/Y, accelerating to 11% on a like-for-like basis excluding disposed businesses. The headline result: non-GAAP net income fell ~100% from RMB29.85B to RMB86M ($12M), and the company posted its first operating loss since 2021.",
+        "howItWorks": "Cloud Intelligence revenue rose 38% Y/Y to RMB41.6B, with AI-related product revenue at RMB8.97B and an eleventh consecutive triple-digit Y/Y growth quarter. China commerce customer management revenue grew 1% (+8% LFL). Quick commerce revenue surged 57%, but the 'All others' segment swung to a RMB21.2B EBITA loss on AI capex and Qwen app acquisition spend. Free cash flow swung to an outflow of RMB46.6B for the year. The board declared an annual dividend of $0.13125/share (~$2.5B).",
+        "whyItMatters": "BABA traded down ~3% pre-market as adjusted earnings missed by a wide margin. The print frames the China big-tech AI debate the same way US hyperscaler capex debates went last year: cloud is growing, but profits are now hostage to the capex cycle and quick-commerce price war. Read-across to PDD and JD on quick commerce, and to AMD/NVDA on China AI demand.",
+        "forWho": "China tech desks, AI infrastructure analysts, EM growth funds",
+        "tryIt": "https://finance.yahoo.com/quote/BABA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/1T8Zd7foTFQdK2F0NnD5jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NTM-/https://media.zenfs.com/en/business-wire.com/f07247a84aa92762356c022631e8a1ea",
+        "alt": "Alibaba Q4 FY26 results banner",
+        "fit": "cover",
+        "credit": "BusinessWire via Yahoo Finance"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
+    {
+      "id": "warsh-fed-chair-confirmed-may-13-2026",
+      "categories": [
+        "macro",
+        "regulatory"
+      ],
+      "title": "Senate confirms Kevin Warsh as next Fed Chair 54-45 — narrowest margin in Fed history; takes over from Powell on May 15 with Powell staying as governor through Jan 2028",
+      "org": "U.S. Senate",
+      "date": "2026-05-13",
+      "url": "https://www.pbs.org/newshour/politics/senate-confirms-trump-pick-warsh-as-chairman-of-the-federal-reserve-following-powell",
+      "summary": "Senate voted 54-45 along party lines (Fetterman only crossover) to confirm Kevin Warsh as Fed chair on May 13, the narrowest confirmation margin in Fed history. Replaces Powell on May 15; Powell stays on as governor until DOJ Fed-renovation probe closes.",
+      "tags": [
+        "fed",
+        "warsh",
+        "powell",
+        "senate",
+        "confirmation",
+        "fed-chair",
+        "monetary-policy",
+        "trump",
+        "fed-independence"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB",
+        "^GSPC"
+      ],
+      "metrics": {
+        "Confirmation vote": "54-45 (narrowest in Fed history)",
+        "Crossover Democrat": "Sen. John Fetterman (PA)",
+        "Powell's chair term ends": "Friday May 15, 2026",
+        "Powell's governor term ends": "January 2028",
+        "Warsh prior Fed governor stint": "2006–2011"
+      },
+      "links": [
+        {
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/senate-confirms-trump-pick-warsh-as-chairman-of-the-federal-reserve-following-powell"
+        },
+        {
+          "label": "Fox News Coverage",
+          "url": "https://www.foxnews.com/politics/senate-confirms-kevin-warsh-fed-chair-trumps-economic-vision-comes-focus"
+        },
+        {
+          "label": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm"
+        },
+        {
+          "label": "10Y Treasury Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "explainer": {
+        "tagline": "Warsh inherits the Fed chair as the May CPI and PPI come in hot — and Powell sticks around as governor through 2028, an unusual setup.",
+        "whatIsIt": "The U.S. Senate voted 54-45 on Wednesday May 13 to confirm former Fed governor Kevin Warsh as the next chair of the Federal Reserve Board, replacing Jerome Powell whose chair term expires Friday May 15. Only Pennsylvania Democrat John Fetterman crossed party lines to vote yes; the margin is the narrowest for any Fed chair confirmation in history.",
+        "howItWorks": "Warsh served as a Fed governor from 2006 to 2011, was on the FOMC during the 2008 financial crisis, and was a Morgan Stanley M&A banker before that. Powell announced April 29 he would remain on the Board as a governor — a seat that runs through January 2028 — at least until the DOJ closes its investigation into the Fed's $2.5B headquarters renovation project. That makes Warsh the first chair in nearly 80 years to inherit the role with his predecessor still on the board.",
+        "whyItMatters": "Warsh takes over with back-to-back hot inflation prints (April CPI +3.8% Y/Y, April PPI +6.0% Y/Y) and Fed-funds futures pricing essentially zero 2026 cuts. He's perceived as more hawkish than Powell, but markets are now watching how he balances Trump's public push for cuts against the inflation data. The 10-year yield touched a 2026 high of 4.49% on the day.",
+        "forWho": "rates traders, dollar/EM macro desks, Fed-watchers",
+        "tryIt": "https://www.federalreserve.gov/aboutthefed/bios/board/default.htm"
+      },
+      "image": {
+        "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-13T100042Z_161621604_RC2RTKA6NYHE_RTRMADP_3_USA-FED-WARSH-PLANS-1024x683.jpg",
+        "alt": "Kevin Warsh during Federal Reserve chair confirmation week",
+        "fit": "cover",
+        "credit": "Reuters via PBS NewsHour"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
+    {
+      "id": "sats-fcc-att-spacex-spectrum-approval-may-2026",
+      "categories": [
+        "regulatory",
+        "mna",
+        "mover"
+      ],
+      "title": "FCC approves EchoStar's $40B spectrum sale on May 13 — AT&T pays $23B for 50MHz, SpaceX pays $17B for 65MHz; SATS +5.7% to $134.74",
+      "org": "Federal Communications Commission",
+      "date": "2026-05-13",
+      "url": "https://www.advanced-television.com/2026/05/13/fcc-approves-echostars-spectrum-sale-to-spacex-att/",
+      "summary": "FCC cleared EchoStar's twin spectrum sales May 13: AT&T gets ~50MHz mid-band + low-band for $23B to expand 5G; SpaceX gets ~65MHz for $17B for direct-to-cell Starlink. EchoStar must post a $2.4B escrow for license disputes.",
+      "tags": [
+        "fcc",
+        "spectrum",
+        "5g",
+        "starlink",
+        "direct-to-cell",
+        "echostar",
+        "att",
+        "spacex",
+        "regulatory-approval",
+        "boost-mobile"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SATS",
+        "T",
+        "TMUS"
+      ],
+      "metrics": {
+        "Total deal value": "$40B",
+        "AT&T spectrum + price": "~50MHz mid + low-band for $23B",
+        "SpaceX spectrum + price": "~65MHz for $17B",
+        "Escrow requirement (EchoStar)": "$2.4B for license dispute claims",
+        "SATS price reaction": "+5.7% to $134.74 (from $129.38)"
+      },
+      "links": [
+        {
+          "label": "Advanced Television",
+          "url": "https://www.advanced-television.com/2026/05/13/fcc-approves-echostars-spectrum-sale-to-spacex-att/"
+        },
+        {
+          "label": "Cord Cutters Coverage",
+          "url": "https://cordcuttersnews.com/fcc-approves-dishs-sale-of-spectrum-from-echostar-to-spacex-and-att-in-40-billion-deal/"
+        },
+        {
+          "label": "DCD Coverage",
+          "url": "https://www.datacenterdynamics.com/en/news/fcc-approves-echostars-40bn-spectrum-sales-to-att-spacex/"
+        },
+        {
+          "label": "SATS Quote",
+          "url": "https://finance.yahoo.com/quote/SATS"
+        }
+      ],
+      "explainer": {
+        "tagline": "FCC unlocks the largest single spectrum sale in U.S. history — $40B split between AT&T's 5G build and SpaceX's direct-to-cell Starlink push.",
+        "whatIsIt": "The U.S. Federal Communications Commission on Wednesday May 13 approved EchoStar's twin spectrum sales, totaling about $40B. AT&T pays $23B for roughly 50MHz of mid-band and low-band spectrum to extend its 5G coverage. SpaceX pays $17B for about 65MHz of EchoStar's higher-band spectrum to power its next-generation direct-to-cell Starlink service.",
+        "howItWorks": "The FCC permits SpaceX to use the acquired spectrum for 'terrestrial, space-based and hybrid network architectures' — a meaningful broadening of how satellite operators can use cellular spectrum. AT&T is subject to accelerated build-out timelines, faster than auction defaults. AT&T and EchoStar also signed a hybrid MVNO arrangement so Boost Mobile customers stay served. EchoStar must establish a $2.4B escrow account to cover any contested obligations tied to the licenses, which EchoStar called an 'unprecedented involuntary escrow condition.'",
+        "whyItMatters": "EchoStar shares rose ~5.7% to $134.74 from Tuesday's $129.38 close. The deal recapitalizes EchoStar after years of debt stress and pours new spectrum into both AT&T's terrestrial 5G and SpaceX's direct-to-cell. Read-through to TMUS (incumbent direct-to-cell partner with Starlink), AAPL/GOOGL (carrier negotiations), and the satellite-comms complex (ASTS, IRDM).",
+        "forWho": "telecom analysts, satellite-comms desks, AT&T/SpaceX strategy watchers",
+        "tryIt": "https://finance.yahoo.com/quote/SATS"
+      },
+      "image": {
+        "url": "https://www.advanced-television.com/wp-content/uploads/2022/05/echostar-e1651827986369.jpg",
+        "alt": "EchoStar satellite communications building exterior",
+        "fit": "cover",
+        "credit": "Advanced Television"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
+    {
+      "id": "birk-q2-fy26-earnings-mideast-tariff-drag",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Birkenstock FQ2 2026 — revenue €618M (+14% CC) tops on Americas + APAC strength but misses Street; adj EPS €0.50 (-9%) misses €0.59 est; Iran war cuts EMEA by €6M and tariffs trim margin 90bp; BIRK -5.5%",
+      "org": "Birkenstock",
+      "date": "2026-05-13",
+      "url": "https://www.stocktitan.net/news/BIRK/birkenstock-reports-fiscal-second-quarter-2026-results-with-revenue-8yiv9raf0wn3.html",
+      "summary": "Revenue €618M (+8% reported / +14% constant-currency). Americas +14%, EMEA +11%, APAC +30%. Adj EPS €0.50 missed €0.59 est. Mideast war cut EMEA by €6M and US tariffs trimmed gross margin 90bp; FY26 13–15% revenue growth target reaffirmed.",
+      "tags": [
+        "earnings",
+        "consumer-discretionary",
+        "footwear",
+        "tariffs",
+        "iran-war",
+        "eps-miss",
+        "europe-middle-east",
+        "americas-growth",
+        "apac-growth",
+        "q2-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BIRK"
+      ],
+      "metrics": {
+        "Revenue": "€618M (+8% rep / +14% CC)",
+        "Americas revenue growth": "+14% CC",
+        "EMEA revenue growth": "+11% CC",
+        "APAC revenue growth": "+30% CC",
+        "Adj EBITDA": "€198M (32.1% margin, -270bp)",
+        "Adj net profit": "€93M",
+        "Adj EPS": "€0.50 (-9% Y/Y) vs €0.59 est",
+        "Mideast war EMEA hit": "~€6M",
+        "Tariff gross-margin drag": "~90bp",
+        "FY26 revenue growth target": "13–15% CC (reaffirmed)",
+        "FY26 EPS guide": "€1.90–€2.05",
+        "Move": "-5.5%"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Recap",
+          "url": "https://www.stocktitan.net/news/BIRK/birkenstock-reports-fiscal-second-quarter-2026-results-with-revenue-8yiv9raf0wn3.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/birkenstock-reports-fiscal-second-quarter-093000741.html"
+        },
+        {
+          "label": "WWD Coverage",
+          "url": "https://wwd.com/footwear-news/shoe-industry-news/birkenstock-birk-q2-2026-earnings-revenue-middle-east-war-1238952513/"
+        },
+        {
+          "label": "BIRK Quote",
+          "url": "https://www.google.com/finance/quote/BIRK:NYSE"
+        }
+      ],
+      "explainer": {
+        "tagline": "Birkenstock keeps its 13–15% FY revenue target intact even with the Iran war hitting Europe and U.S. tariffs trimming margins.",
+        "whatIsIt": "Birkenstock reported fiscal Q2 2026 (March quarter) results on May 13. Revenue was €618M, up 8% reported and 14% in constant currency. Americas grew 14% CC, EMEA 11% CC, and APAC a standout 30% CC. Adjusted EBITDA was €198M with a 32.1% margin, and adjusted EPS of €0.50 missed the €0.59 Street estimate by ~15%.",
+        "howItWorks": "Management quantified two specific drags: 'conflicts in the Middle East' reduced EMEA revenue by roughly €6M, and U.S. tariffs cut gross margin by about 90bp. Unfavorable FX translation cost another 230–240bp of margin. The company reaffirmed its FY26 outlook: 13–15% revenue growth in constant currency, at least €700M of adjusted EBITDA, an adjusted EBITDA margin of 30.0–30.5%, and adjusted EPS of €1.90–€2.05. Reported revenue is guided to €2.3B–€2.35B.",
+        "whyItMatters": "BIRK fell ~5.5% intraday — one of the bigger consumer-discretionary moves on May 13. The print is a real-world stress test of the post-Iran-war global consumer trade: tariffs are biting, Mideast EMEA is softening, but Americas and APAC growth still hit double-digits. Read-through to other premium-priced lifestyle brands (LULU, ONON, DECK) with similar geo mix.",
+        "forWho": "consumer-discretionary desks, tariff-exposed importer watchers",
+        "tryIt": "https://finance.yahoo.com/quote/BIRK"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Birkenstock_Reports_Fiscal_Second_Quarter_2026_Results_with_Revenue_Growth_Of_14_In_Constant_FX_Des_1056467.webp",
+        "alt": "Birkenstock fiscal Q2 2026 results cover image",
+        "fit": "cover",
+        "credit": "Stocktitan via Birkenstock IR"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
+    {
+      "id": "docs-q4-fy26-earnings-fy27-guide-cut",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Doximity FQ4 2026 — revenue $145M (+5% Y/Y) tops est but adj EPS $0.26 misses $0.28; FY27 revenue guide $664M–$676M well below $697M consensus; DOCS -11.6%",
+      "org": "Doximity",
+      "date": "2026-05-13",
+      "url": "https://www.stocktitan.net/news/DOCS/doximity-announces-fourth-quarter-and-fiscal-year-2026-financial-h5nth2494cq6.html",
+      "summary": "Q4 revenue $145.4M (+5% Y/Y) beat $144M est. Adj EBITDA margin 45%. But adj EPS $0.26 missed $0.28 est, FY27 revenue guide $664–$676M sits well below $697M consensus and FY27 EBITDA margin guide of 49% prints flat. DOCS -11.6%.",
+      "tags": [
+        "earnings",
+        "guide-miss",
+        "healthtech",
+        "digital-health",
+        "clinical-ai",
+        "physicians",
+        "eps-miss",
+        "fy27-guide",
+        "q4-fy26"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DOCS"
+      ],
+      "metrics": {
+        "Q4 revenue": "$145.4M (+5% Y/Y) vs $144M est",
+        "Q4 adj EBITDA margin": "45%",
+        "Q4 free cash flow": "$107M (first 9-digit FCF quarter)",
+        "Q4 adj EPS": "$0.26 vs $0.28 est",
+        "FY26 revenue": "$645M (+13% Y/Y)",
+        "FY26 adj EBITDA margin": "55%",
+        "FY26 free cash flow": "$317M (+19% Y/Y)",
+        "Q1 FY27 revenue guide": "$151M–$152M vs $153.7M est",
+        "FY27 revenue guide": "$664M–$676M vs $697M consensus",
+        "FY27 adj EBITDA margin guide": "49%",
+        "Move": "-11.6%"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Recap",
+          "url": "https://www.stocktitan.net/news/DOCS/doximity-announces-fourth-quarter-and-fiscal-year-2026-financial-h5nth2494cq6.html"
+        },
+        {
+          "label": "Doximity IR",
+          "url": "https://investors.doximity.com/overview/default.aspx"
+        },
+        {
+          "label": "Doximity Quarterly Results",
+          "url": "https://investors.doximity.com/financials/quarterly-results/default.aspx"
+        },
+        {
+          "label": "DOCS Quote",
+          "url": "https://finance.yahoo.com/quote/DOCS"
+        }
+      ],
+      "explainer": {
+        "tagline": "Doximity beats Q4 revenue but issues an FY27 guide that pegs growth at ~4% — the slowdown spooks the AI-physician growth bull thesis.",
+        "whatIsIt": "Doximity reported fiscal Q4 2026 (March quarter) and full-year results on May 13. Q4 revenue was $145.4M, up 5% Y/Y and slightly above the $144M consensus. Free cash flow hit $107M — the company's first 9-digit FCF quarter. But adjusted EPS of $0.26 missed the $0.28 consensus, and forward guidance came in soft.",
+        "howItWorks": "Q1 FY27 revenue is guided to $151M–$152M versus $153.7M est. Full-year FY27 revenue is guided to $664M–$676M (~4% growth at midpoint) versus $697M consensus, with adjusted EBITDA of $323M–$335M and a 49% margin (flat vs FY26's 55%). The bright spots: 800k+ active prescribers using workflow tools in Q4, with nearly half engaging Doximity's clinical AI and prompts-per-user nearly doubling January-to-April. New partnerships with Aledade and Photon roll the Clinical AI Suite into independent practices.",
+        "whyItMatters": "Shares dropped ~11.6% on the FY27 guide, extending DOCS's drawdown to ~40% YTD. The print frames the digital-health-platform debate: the AI engagement story is real, but it's not yet translating into a revenue re-acceleration. Read-through to other clinician-workflow names and physician-marketing budgets at pharma.",
+        "forWho": "digital-health / SaaS investors, healthtech analysts",
+        "tryIt": "https://finance.yahoo.com/quote/DOCS"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Doximity_Announces_Fourth_Quarter_and_Fiscal_Year_2026_Financial_Results_1057025.webp",
+        "alt": "Doximity FQ4 and FY 2026 results cover",
+        "fit": "cover",
+        "credit": "Stocktitan via Doximity IR"
+      },
+      "publishDate": "2026-05-14T00:39:57.660Z"
+    },
     {
       "id": "nbis-q1-2026-earnings",
       "categories": [
