@@ -1,8 +1,211 @@
 {
-  "generatedAt": "2026-05-14T00:39:57.660Z",
+  "generatedAt": "2026-05-18T00:48:29.537Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nee-dominion-66b-merger-rumor-may-2026",
+      "categories": [
+        "mna",
+        "rumor",
+        "sector"
+      ],
+      "title": "Reportedly: NextEra in talks to buy Dominion for ~$76/share (~$66B) — would be largest US power deal on record",
+      "org": "Bloomberg",
+      "date": "2026-05-17",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/reports-nextera-talks-acquire-dominion-224110634.html",
+      "summary": "Bloomberg reports NextEra is discussing a mostly-stock takeover of Dominion at ~$76/share — a 21% premium and ~$66B equity value, with a combined enterprise value near $400B. Deal could be announced as soon as Monday.",
+      "tags": [
+        "m-and-a",
+        "utilities",
+        "power",
+        "ai-data-centers",
+        "rumor",
+        "nee",
+        "dominion",
+        "stock-deal",
+        "ferc"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "NEE",
+        "D"
+      ],
+      "metrics": {
+        "Offer": "$76/share",
+        "Premium": "~21% over 5/15 close ($62.96)",
+        "Equity value": "~$66B",
+        "Exchange ratio": "~0.8 NEE / D share (mostly stock)",
+        "Combined EV": "~$400B",
+        "NEE pro-forma ownership": "~75%"
+      },
+      "explainer": {
+        "tagline": "Mostly-stock offer for Dominion at a 21% premium would create the largest US power utility by far, aimed at AI data-center demand.",
+        "whatIsIt": "Bloomberg, citing people familiar with the matter, reports that Florida-based NextEra Energy is discussing a takeover of Virginia-based Dominion Energy. The deal would value Dominion at about $76 a share, or roughly $66 billion in equity. An announcement could come as soon as Monday May 18, though terms are still being finalized.",
+        "howItWorks": "NextEra would exchange about 0.8 of its shares for each Dominion share with a small cash kicker. The $76 offer is a ~21% premium to Dominion's May 15 close near $62.96. NextEra shareholders would own about 75% of the combined company, which would carry combined enterprise value (including debt) of about $400 billion. NextEra's market cap is ~$195B; Dominion's is ~$54B.",
+        "whyItMatters": "Dominion's Virginia and Carolinas footprint sits on top of Northern Virginia's 'Data Center Alley', the largest hyperscale cluster in the world. Tying it to NextEra's renewables and gas fleet would lock in supply for AI buildouts that already have utilities scrambling to add capacity. The deal would need FERC plus state PUC approvals in every overlapping jurisdiction — a 12–24 month review with possible divestitures, and the largest US utility M&A test of the decade.",
+        "forWho": "utilities + power + AI infra investors",
+        "tryIt": "https://www.tradingview.com/symbols/NYSE-D/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/16/West-Bangal--India---April-20--2022--Nex.jpeg",
+        "alt": "NextEra Energy signage",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/reports-nextera-talks-acquire-dominion-224110634.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/m-a/26/05/52622139/nextera-energy-dominion-in-talks-to-create-400-billion-utility-giant-as-electricity-demand-surges-amid-ai-boom-report"
+        },
+        {
+          "label": "Energy Connects",
+          "url": "https://www.energyconnects.com/news/utilities/2026/may/nextera-energy-is-said-to-be-in-talks-to-acquire-dominion/"
+        },
+        {
+          "label": "CoinCentral Recap",
+          "url": "https://coincentral.com/nextera-energy-nee-stock-talks-to-acquire-dominion-energy-in-major-utility-deal/"
+        }
+      ],
+      "publishDate": "2026-05-18T00:48:29.537Z"
+    },
+    {
+      "id": "btc-77k-may-16-deleveraging",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Bitcoin slides to ~$77.6K as ~$700M liquidations and ~$1B weekly ETF outflows snap six-week inflow streak",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-05-16",
+      "url": "https://crypto.news/crypto-market-crash-hits-bitcoin-and-alts/",
+      "summary": "Bitcoin fell ~3% over 24h to a session low near $77,598 as a long-skewed liquidation cascade flushed leverage across majors. Spot BTC ETFs lost ~$1B for the week, ending a six-week inflow run that had pulled in ~$3.4B.",
+      "tags": [
+        "bitcoin",
+        "crypto",
+        "btc",
+        "etf-outflows",
+        "liquidation",
+        "30y-yield",
+        "deleveraging"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD"
+      ],
+      "metrics": {
+        "BTC low": "$77,598",
+        "BTC 24h": "-3.2%",
+        "Total liquidations (24h)": "~$700M",
+        "Long liquidations": "~$573M",
+        "Spot BTC ETF flows (week to 5/15)": "-~$1.0B (ended 6-week +$3.4B run)",
+        "SOL 24h": "-5.1%",
+        "ETH 24h": "-3.7%",
+        "Crypto mcap drop (2 days)": "~$80B"
+      },
+      "explainer": {
+        "tagline": "First serious leverage flush in months — sparked by surging real yields, not a single crypto-native catalyst.",
+        "whatIsIt": "Bitcoin extended this week's slide overnight Friday-into-Saturday May 16, dipping to ~$77,598 (-3.2% on 24h) and dragging the majors with it. The move tracked the global bond rout that pushed the US 30Y to ~5.13% and triggered the worst US equity session since March.",
+        "howItWorks": "A long-skewed liquidation cascade wiped out roughly $700M in derivatives positions over 24h, with ~$573M in long liquidations. Solana led the major-alt losers at -5.1%, ETH -3.7%, XRP -3.8%, BNB -4.5%. US spot Bitcoin ETFs shed about $1B for the week ending May 15, snapping a six-week inflow streak that had accumulated ~$3.4B. Total crypto market cap fell roughly $80B over two trading days.",
+        "whyItMatters": "This is the cleanest rates-driven crypto drawdown of the cycle: no exchange failure, no protocol blow-up — just real yields above 5% pulling capital out of zero-yield risk assets. The ETF flow reversal is the bigger signal, since the six-week streak was the backbone of the rally off $70K. Watch the $74–75K and $70K support shelves; a break would put the spring rally fully in question.",
+        "forWho": "crypto traders, ETF allocators",
+        "tryIt": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/1280px-Bitcoin_logo.svg.png",
+        "alt": "Bitcoin logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "crypto.news Recap",
+          "url": "https://crypto.news/crypto-market-crash-hits-bitcoin-and-alts/"
+        },
+        {
+          "label": "Benzinga Liquidations",
+          "url": "https://www.benzinga.com/crypto/26/05/52622618/crypto-market-dives-as-liquidations-jump-107"
+        },
+        {
+          "label": "Spot ETF Flows (Farside)",
+          "url": "https://farside.co.uk/btc"
+        },
+        {
+          "label": "BTC Quote",
+          "url": "https://www.coingecko.com/en/coins/bitcoin"
+        }
+      ],
+      "publishDate": "2026-05-18T00:48:29.537Z"
+    },
+    {
+      "id": "trump-iran-clock-ticking-may-17-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump warns Iran 'clock is ticking' on Truth Social, convenes Situation Room Tuesday; WTI +1.75% in Sunday electronic trade",
+      "org": "Fox News",
+      "date": "2026-05-17",
+      "url": "https://www.foxnews.com/live-news/trump-iran-war-china-hormuz-may-17",
+      "summary": "Trump posted on Sunday that Iran's 'clock is ticking' and 'there won't be anything left of them' if it doesn't 'get moving, FAST'. Top national-security advisers will meet in the Situation Room Tuesday to weigh harder strikes; oil futures gapped higher on the open.",
+      "tags": [
+        "iran",
+        "geopolitics",
+        "oil",
+        "brent",
+        "wti",
+        "white-house",
+        "situation-room",
+        "hormuz"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent (Sun electronic)": "$110.70 (+1.32%)",
+        "WTI (Sun electronic)": "$107.26 (+1.75%)",
+        "Brent week (to 5/15)": "+~8%",
+        "WTI week (to 5/15)": "+~11%",
+        "Situation Room meeting": "Tuesday May 19",
+        "Confirmed attendees": "Vance, Rubio, Witkoff, Ratcliffe"
+      },
+      "explainer": {
+        "tagline": "Sunday escalation puts the 'clock is ticking' label on Tehran and oil futures right ahead of Tuesday's military-options meeting.",
+        "whatIsIt": "President Trump used Truth Social Sunday May 17 to warn Iran that 'the clock is ticking' and the US will 'hit much harder' if Tehran doesn't accept his terms, declaring 'there won't be anything left of them' if Iranian leaders don't 'get moving, FAST'. Axios reports a Situation Room meeting on Tuesday with Vice President JD Vance, Secretary of State Marco Rubio, envoy Steve Witkoff, and CIA Director John Ratcliffe to weigh new strike options.",
+        "howItWorks": "The post follows a week in which crude posted its biggest weekly gain since the war began — Brent +~8%, WTI +~11% — as the Strait of Hormuz stays effectively closed and CENTCOM disclosed 81 vessels diverted plus 4 disabled during the Iranian-port blockade. On Sunday electronic crude trade, Brent jumped to $110.70 (+1.32%) and WTI to $107.26 (+1.75%). Pakistan and Qatar are mediating through Tehran.",
+        "whyItMatters": "Oil moved hard Friday on inflation reports and the bond rout; weekend rhetoric and a Tuesday war-options meeting raise the odds Monday opens with another oil + Treasury-yield gap and renewed pressure on long-duration risk assets. A confirmed expansion of US strikes would reset the entire Q2 macro narrative — energy-driven CPI, FOMC reaction function, and dollar-yen — independent of corporate-earnings flow. Watch front-month crude, BZ vs CL spread, and 10Y breakevens at the open.",
+        "forWho": "macro + energy desks",
+        "tryIt": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      "image": {
+        "url": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/05/443029a4ef4bac20256d9665b59f7978.jpg",
+        "alt": "President Trump speaking to reporters about Iran",
+        "fit": "cover",
+        "credit": "Fox News"
+      },
+      "links": [
+        {
+          "label": "Fox News Live",
+          "url": "https://www.foxnews.com/live-news/trump-iran-war-china-hormuz-may-17"
+        },
+        {
+          "label": "Brent Chart",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        }
+      ],
+      "publishDate": "2026-05-18T00:48:29.537Z"
+    },
     {
       "id": "us-ppi-april-2026",
       "categories": [

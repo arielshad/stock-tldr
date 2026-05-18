@@ -2727,6 +2727,49 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260518t004829z",
+      "timestamp": "2026-05-18T00:48:29.537Z",
+      "source": "github-actions-sweep",
+      "summary": "Three weekend stories advanced past the 72h bar: a Bloomberg scoop that NextEra is discussing a ~$66B mostly-stock takeover of Dominion, a rates-driven crypto deleveraging that dropped BTC to ~$77.6K, and Trump's Sunday 'clock is ticking' Iran warning ahead of a Tuesday Situation Room meeting that pushed Sunday oil futures higher.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nee-dominion-66b-merger-rumor-may-2026",
+          "title": "Reportedly: NextEra in talks to buy Dominion for ~$76/share (~$66B) — would be largest US power deal on record",
+          "category": "mna",
+          "note": "Bloomberg-sourced megadeal rumor at firm terms ($76/sh, ~21% premium); largest US power deal on record if announced."
+        },
+        {
+          "id": "btc-77k-may-16-deleveraging",
+          "title": "Bitcoin slides to ~$77.6K as ~$700M liquidations and ~$1B weekly ETF outflows snap six-week inflow streak",
+          "category": "crypto",
+          "note": "First major leverage flush of the cycle with clean rates catalyst; ETF flow reversal ends six-week inflow streak."
+        },
+        {
+          "id": "trump-iran-clock-ticking-may-17-2026",
+          "title": "Trump warns Iran 'clock is ticking' on Truth Social, convenes Situation Room Tuesday; WTI +1.75% in Sunday electronic trade",
+          "category": "macro",
+          "note": "Truth Social ultimatum plus confirmed Tuesday Situation Room meeting moved Sunday electronic crude (+~1.5% Brent/WTI)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "crypto",
+        "mna",
+        "rumor",
+        "rates",
+        "earnings",
+        "geopolitics"
+      ]
     }
   ]
 }
