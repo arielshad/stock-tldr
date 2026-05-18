@@ -1,77 +1,88 @@
 {
-  "generatedAt": "2026-05-18T00:48:29.537Z",
+  "generatedAt": "2026-05-18T13:12:45.553Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
     {
-      "id": "nee-dominion-66b-merger-rumor-may-2026",
+      "id": "nee-d-67b-merger-announced-may-2026",
       "categories": [
         "mna",
-        "rumor",
-        "sector"
+        "sector",
+        "mover"
       ],
-      "title": "Reportedly: NextEra in talks to buy Dominion for ~$76/share (~$66B) — would be largest US power deal on record",
-      "org": "Bloomberg",
-      "date": "2026-05-17",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/reports-nextera-talks-acquire-dominion-224110634.html",
-      "summary": "Bloomberg reports NextEra is discussing a mostly-stock takeover of Dominion at ~$76/share — a 21% premium and ~$66B equity value, with a combined enterprise value near $400B. Deal could be announced as soon as Monday.",
+      "title": "NextEra to buy Dominion in all-stock ~$67B mega-merger — creates world's largest regulated utility, locks in AI data-center power",
+      "org": "NextEra Energy",
+      "date": "2026-05-18",
+      "url": "https://www.dominionenergy.com/updates/merger",
+      "summary": "NextEra and Dominion confirm all-stock deal: 0.8138 NEE per D share + $360M cash pool, 74.5% / 25.5% ownership. Combined company has ~10M customers across FL/VA/NC/SC and 110 GW generation. Targets 9%+ adj EPS growth through 2032; close H2 2027.",
       "tags": [
         "m-and-a",
         "utilities",
         "power",
         "ai-data-centers",
-        "rumor",
         "nee",
         "dominion",
-        "stock-deal",
-        "ferc"
+        "regulated-utility",
+        "all-stock-deal",
+        "ferc",
+        "nrc",
+        "data-center-alley"
       ],
-      "importance": "rumor",
+      "importance": "seismic",
       "tickers": [
         "NEE",
         "D"
       ],
       "metrics": {
-        "Offer": "$76/share",
-        "Premium": "~21% over 5/15 close ($62.96)",
-        "Equity value": "~$66B",
-        "Exchange ratio": "~0.8 NEE / D share (mostly stock)",
-        "Combined EV": "~$400B",
-        "NEE pro-forma ownership": "~75%"
+        "Deal type": "All-stock + $360M cash pool",
+        "Exchange ratio": "0.8138 NEE per D share",
+        "Implied value": "~$76 per D share",
+        "Ownership split": "NEE 74.5% / D 25.5%",
+        "Combined customers": "~10M (FL/VA/NC/SC)",
+        "Combined generation": "110 GW",
+        "EPS growth target": "9%+ adj EPS through 2032",
+        "Dividend growth target": "6% through 2028",
+        "Bill credits": "$2.25B over 2 yrs post-close",
+        "Expected close": "12–18 months",
+        "D premarket": "+15%"
       },
       "explainer": {
-        "tagline": "Mostly-stock offer for Dominion at a 21% premium would create the largest US power utility by far, aimed at AI data-center demand.",
-        "whatIsIt": "Bloomberg, citing people familiar with the matter, reports that Florida-based NextEra Energy is discussing a takeover of Virginia-based Dominion Energy. The deal would value Dominion at about $76 a share, or roughly $66 billion in equity. An announcement could come as soon as Monday May 18, though terms are still being finalized.",
-        "howItWorks": "NextEra would exchange about 0.8 of its shares for each Dominion share with a small cash kicker. The $76 offer is a ~21% premium to Dominion's May 15 close near $62.96. NextEra shareholders would own about 75% of the combined company, which would carry combined enterprise value (including debt) of about $400 billion. NextEra's market cap is ~$195B; Dominion's is ~$54B.",
-        "whyItMatters": "Dominion's Virginia and Carolinas footprint sits on top of Northern Virginia's 'Data Center Alley', the largest hyperscale cluster in the world. Tying it to NextEra's renewables and gas fleet would lock in supply for AI buildouts that already have utilities scrambling to add capacity. The deal would need FERC plus state PUC approvals in every overlapping jurisdiction — a 12–24 month review with possible divestitures, and the largest US utility M&A test of the decade.",
+        "tagline": "Largest US power M&A on record — NextEra buys Dominion all-stock to corner Northern Virginia's AI-power demand.",
+        "whatIsIt": "NextEra Energy (NYSE: NEE) and Dominion Energy (NYSE: D) announced a definitive agreement on May 18 to combine in an all-stock transaction, confirming last week's Bloomberg-leaked talks. The combined company keeps the Dominion brand and serves about 10 million customers across Florida, Virginia, North Carolina and South Carolina with 110 GW of generation. Closing is expected in 12–18 months.",
+        "howItWorks": "Each Dominion share converts to 0.8138 NEE shares plus a pro-rata cut of a one-time $360M cash payout. Pro-forma ownership is 74.5% NEE / 25.5% Dominion. NextEra CEO John Ketchum chairs and runs the combined company; Dominion's Robert Blue becomes president and CEO of regulated utilities. Customers get $2.25B in bill credits over two years post-close. The deal needs both shareholder votes, FERC, NRC, state PUC sign-offs in VA / NC / SC, and HSR antitrust clearance.",
+        "whyItMatters": "This is the biggest US power M&A on record and pins together Dominion's Virginia/Carolinas footprint — which sits beneath 'Data Center Alley' — with NextEra's renewables, gas fleet and rate-base growth machine. Management targets 9%+ adj EPS growth through 2032 and 6% dividend growth through 2028 on an entity that will be more than 80% regulated. Read-throughs flow to other utility names (AEP, SO, DUK, AEE) on bid-ask for the next round of consolidation, and to natural-gas off-take if Dominion's pipeline buildout accelerates.",
         "forWho": "utilities + power + AI infra investors",
-        "tryIt": "https://www.tradingview.com/symbols/NYSE-D/"
+        "tryIt": "https://www.dominionenergy.com/updates/merger"
       },
       "image": {
-        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/16/West-Bangal--India---April-20--2022--Nex.jpeg",
-        "alt": "NextEra Energy signage",
-        "fit": "cover",
-        "credit": "Benzinga"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NextEra_Energy_logo_%281%29.svg/1280px-NextEra_Energy_logo_%281%29.svg.png",
+        "alt": "NextEra Energy logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
       },
       "links": [
         {
-          "label": "Yahoo Finance Recap",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/reports-nextera-talks-acquire-dominion-224110634.html"
+          "label": "Joint Press Release",
+          "url": "https://www.dominionenergy.com/updates/merger"
         },
         {
-          "label": "Benzinga Coverage",
-          "url": "https://www.benzinga.com/m-a/26/05/52622139/nextera-energy-dominion-in-talks-to-create-400-billion-utility-giant-as-electricity-demand-surges-amid-ai-boom-report"
+          "label": "NEE 8-K (Merger)",
+          "url": "https://www.stocktitan.net/sec-filings/NEE/8-k-nextera-energy-inc-reports-material-event-78e0ee2ce95f.html"
         },
         {
-          "label": "Energy Connects",
-          "url": "https://www.energyconnects.com/news/utilities/2026/may/nextera-energy-is-said-to-be-in-talks-to-acquire-dominion/"
+          "label": "D 425 Filing",
+          "url": "https://www.stocktitan.net/sec-filings/D/425-dominion-energy-inc-business-combination-communication-2b363e34a897.html"
         },
         {
-          "label": "CoinCentral Recap",
-          "url": "https://coincentral.com/nextera-energy-nee-stock-talks-to-acquire-dominion-energy-in-major-utility-deal/"
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-surges-report-76-102047823.html"
+        },
+        {
+          "label": "Yahoo Quote (D)",
+          "url": "https://finance.yahoo.com/quote/D/"
         }
       ],
-      "publishDate": "2026-05-18T00:48:29.537Z"
+      "publishDate": "2026-05-18T13:12:45.553Z"
     },
     {
       "id": "btc-77k-may-16-deleveraging",

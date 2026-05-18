@@ -2770,6 +2770,43 @@
         "earnings",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20260518t131245z",
+      "timestamp": "2026-05-18T13:12:45.553Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep adds 1 seismic item: NextEra–Dominion ~$67B all-stock merger officially announced today, creating the world's largest regulated electric utility. Removes the corresponding rumor entry now that terms are confirmed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 1
+      },
+      "added": [
+        {
+          "id": "nee-d-67b-merger-announced-may-2026",
+          "title": "NextEra to buy Dominion in all-stock ~$67B mega-merger — creates world's largest regulated utility, locks in AI data-center power",
+          "category": "mna",
+          "note": "Largest US power M&A on record, primary-source confirmed via joint press release + 8-K, wall-of-coverage across Bloomberg/Reuters/Axios/CNBC — seismic by every leg of the rubric."
+        }
+      ],
+      "updated": [],
+      "removed": [
+        {
+          "id": "nee-dominion-66b-merger-rumor-may-2026",
+          "title": "Reportedly: NextEra in talks to buy Dominion for ~$76/share (~$66B) — would be largest US power deal on record",
+          "reason": "Superseded by official deal announcement on May 18, 2026 — confirmed all-stock terms in nee-d-67b-merger-announced-may-2026."
+        }
+      ],
+      "coverage": [
+        "mna",
+        "earnings",
+        "macro",
+        "mover",
+        "crypto",
+        "commodity",
+        "rates",
+        "regulatory"
+      ]
     }
   ]
 }
