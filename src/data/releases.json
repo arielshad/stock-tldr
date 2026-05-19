@@ -1,8 +1,145 @@
 {
-  "generatedAt": "2026-05-18T13:12:45.553Z",
+  "generatedAt": "2026-05-19T00:31:25.073Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ramp-publicis-buyout-may-17-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Publicis to acquire LiveRamp in $2.5B all-cash deal — $38.50/share (≈30% premium); RAMP +27%",
+      "org": "Publicis Groupe",
+      "date": "2026-05-17",
+      "url": "https://liveramp.com/news/publicis-to-acquire-liveramp-to-accelerate-data-co-creation-for-smarter-agents",
+      "summary": "Publicis Groupe will buy LiveRamp for $38.50/share in cash — $2.5B equity value, $2.167B enterprise value, ~30% premium to the May 15 close. RAMP gapped +27% on the May 18 open.",
+      "tags": [
+        "mna",
+        "ad-tech",
+        "all-cash",
+        "going-private",
+        "publicis",
+        "data",
+        "ai-agents",
+        "advertising",
+        "premium-buyout"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RAMP"
+      ],
+      "metrics": {
+        "Deal": "$2.5B all-cash ($38.50/sh)",
+        "Premium": "~30% vs May 15 close",
+        "Enterprise Value": "$2.167B",
+        "RAMP Move": "+27%",
+        "Close Target": "By YE 2026"
+      },
+      "links": [
+        {
+          "label": "Publicis/LiveRamp PR",
+          "url": "https://liveramp.com/news/publicis-to-acquire-liveramp-to-accelerate-data-co-creation-for-smarter-agents"
+        },
+        {
+          "label": "8-K Summary",
+          "url": "https://www.stocktitan.net/sec-filings/RAMP/8-k-live-ramp-holdings-inc-reports-material-event-8610a082320f.html"
+        },
+        {
+          "label": "TradingView News",
+          "url": "https://www.tradingview.com/news/tradingview:e60cee455f004:0-liveramp-to-be-acquired-by-publicis-in-38-50-per-share-all-cash-merger/"
+        },
+        {
+          "label": "RAMP Quote",
+          "url": "https://finance.yahoo.com/quote/RAMP/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Publicis takes LiveRamp private at $38.50/share cash — $2.5B equity, 30% premium, RAMP +27% on the open.",
+        "whatIsIt": "Publicis Groupe announced an agreement on May 17, 2026 to acquire ad-tech data-collaboration platform LiveRamp Holdings in an all-cash merger. The price is $38.50 per LiveRamp share, valuing equity at roughly $2.5B and enterprise value at $2.167B after backing out $379M of net cash. Both boards unanimously approved.",
+        "howItWorks": "Cash consideration funded with cash on hand plus debt. The price is a ~30% premium to LiveRamp's May 15 close. Reciprocal break fee is $32.35M. Closing is targeted by year-end 2026 subject to LiveRamp shareholder vote and U.S. and non-U.S. antitrust + CFIUS clearance; outside date is May 16, 2027 with a possible three-month extension. Publicis says the deal will be accretive to headline EPS from year one of consolidation and raised 2027–28 organic guidance to +7–8% net revenue and +8–10% headline EPS growth.",
+        "whyItMatters": "Largest ad-tech deal in years and the second major identity/data-platform buyout in the cycle — Publicis is folding RAMP's RampID identity graph into its CoreAI 'agentic transformation' stack. RAMP gapped to $37.59 (+27%) on May 18 to sit just below the deal price, leaving roughly 2.4% spread for arbs. Comp ad-tech names (TTD, MGNI, PUBM) will be screened as next-leg consolidation targets.",
+        "forWho": "merger-arb desks, ad-tech holders",
+        "tryIt": "https://finance.yahoo.com/quote/RAMP/"
+      },
+      "image": {
+        "url": "https://cdn.prod.website-files.com/68de9c28ee29c8b50967ec08/6980f51742814520512d0dae_Press-Release-02.jpeg",
+        "alt": "LiveRamp and Publicis Groupe press-release graphic announcing the $2.5B all-cash acquisition",
+        "fit": "cover",
+        "credit": "LiveRamp / Publicis Groupe"
+      },
+      "publishDate": "2026-05-19T00:31:25.073Z"
+    },
+    {
+      "id": "jgb-30y-record-may-18-2026",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "Japan 30Y JGB hits record 4.17%, 10Y JGB at 2.8% 29-yr high as Takaichi orders supplementary budget; US 10Y touches 4.63% 15-month high",
+      "org": "Government of Japan",
+      "date": "2026-05-18",
+      "url": "https://www.japantimes.co.jp/news/2026/05/18/japan/politics/japan-extra-budget/",
+      "summary": "Global bond rout: Japan's 30Y JGB hit a record 4.17% and the 10Y reached 2.8% (29-yr high) after PM Takaichi ordered a multi-trillion-yen supplementary budget on May 18. The US 10Y touched 4.63%, highest since Feb 2025.",
+      "tags": [
+        "rates",
+        "bond-rout",
+        "jgb",
+        "japan",
+        "takaichi",
+        "supplementary-budget",
+        "treasuries",
+        "us-10y",
+        "inflation",
+        "oil-shock",
+        "hormuz",
+        "fiscal"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TNX"
+      ],
+      "metrics": {
+        "JGB 30Y": "4.17% (record since 1999)",
+        "JGB 10Y": "~2.80% (29-yr high)",
+        "US 10Y": "~4.63% (highest since Feb 2025)",
+        "Supp Budget": "Several trillion yen",
+        "Brent": ">$110/bbl"
+      },
+      "links": [
+        {
+          "label": "Japan Times: Extra Budget",
+          "url": "https://www.japantimes.co.jp/news/2026/05/18/japan/politics/japan-extra-budget/"
+        },
+        {
+          "label": "Nippon.com: 10Y JGB",
+          "url": "https://www.nippon.com/en/news/yjj2026051800204/"
+        },
+        {
+          "label": "JGB 30Y Chart",
+          "url": "https://tradingeconomics.com/japan/30-year-bond-yield"
+        },
+        {
+          "label": "US 10Y Chart",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+        }
+      ],
+      "explainer": {
+        "tagline": "JGBs lead a global long-end rout — Japan 30Y at record 4.17%, US 10Y at 4.63%, on oil + Takaichi's fiscal pivot.",
+        "whatIsIt": "Japan's 30-year JGB yield rose to 4.17% on May 18, the highest since the tenor began trading in 1999. The 10-year JGB hit roughly 2.80%, a 29-year high. The US 10-year Treasury followed, climbing to about 4.63% intraday — its highest level since February 2025.",
+        "howItWorks": "The proximate driver was PM Sanae Takaichi's request to Finance Minister Satsuki Katayama to compile a supplementary budget 'on the scale of several trillion yen' to extend gasoline subsidies and offset summer utility-bill increases. The framing of new deficit-covering issuance, layered on top of Brent above $110/bbl from the Iran/Hormuz situation, repriced inflation risk and term premium across long-end curves. Tokyo equities (Nikkei, TOPIX) and US Treasury futures both sold off through the morning.",
+        "whyItMatters": "The 30Y JGB is the world's archetypal anchor for long-duration risk — once that breaks higher, life-insurer hedging, FX-hedged Treasury demand from Japanese accounts and global duration positioning all have to be re-marked. The move also sets up an awkward backdrop for the G7 finance ministers meeting in Paris May 18–19, which has bond-market volatility on the agenda, and complicates Kevin Warsh's first week as Fed Chair with the US 10Y now within ~40bp of 5%.",
+        "forWho": "rates desks, JPY-funding traders, global macro",
+        "tryIt": "https://tradingeconomics.com/japan/30-year-bond-yield"
+      },
+      "image": {
+        "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/18/540996.jpg?v=3.1",
+        "alt": "Japan PM Sanae Takaichi at a ruling-coalition meeting on May 18, 2026 where she ordered a supplementary budget",
+        "fit": "cover",
+        "credit": "The Japan Times"
+      },
+      "publishDate": "2026-05-19T00:31:25.073Z"
+    },
     {
       "id": "nee-d-67b-merger-announced-may-2026",
       "categories": [

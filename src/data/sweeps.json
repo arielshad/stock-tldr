@@ -2807,6 +2807,43 @@
         "rates",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260519t003125z",
+      "timestamp": "2026-05-19T00:31:25.073Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items: Publicis to take LiveRamp private at $38.50/share ($2.5B all-cash, RAMP +27%) on May 17; global long-end bond rout on May 18 — Japan 30Y JGB at record 4.17% after Takaichi orders supplementary budget, US 10Y at 4.63% 15-month high.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ramp-publicis-buyout-may-17-2026",
+          "title": "Publicis to acquire LiveRamp in $2.5B all-cash deal — $38.50/share (≈30% premium); RAMP +27%",
+          "category": "mna",
+          "note": "Material all-cash mid-cap M&A: $2.5B equity, 30% premium, RAMP +27%. Largest ad-tech deal in years; advances Publicis's CoreAI/agentic transformation strategy."
+        },
+        {
+          "id": "jgb-30y-record-may-18-2026",
+          "title": "Japan 30Y JGB hits record 4.17%, 10Y JGB at 2.8% 29-yr high as Takaichi orders supplementary budget; US 10Y touches 4.63% 15-month high",
+          "category": "rates",
+          "note": "Major global rates event: JGB 30Y hits historic record 4.17%, 10Y at 2.80% 29-year high; US 10Y at 4.63% 15-mo high. PM Takaichi orders multi-trillion-yen supplementary budget against Hormuz oil shock backdrop."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "rates",
+        "macro",
+        "earnings",
+        "crypto",
+        "commodity",
+        "regulatory"
+      ]
     }
   ]
 }
