@@ -2844,6 +2844,57 @@
         "commodity",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260519t132106z",
+      "timestamp": "2026-05-19T13:21:06.159Z",
+      "source": "github-actions-sweep",
+      "summary": "Four new items: Home Depot Q1 FY26 (mild beat, FY guide reaffirmed), Trump's overnight postponement of the Tuesday Iran strike (Brent pulls back from $112), Seagate-led memory selloff at JPMorgan TMT (-6.9% STX, -5.95% MU), and the Blackstone-Google $5B TPU cloud JV announced Monday afternoon.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hd-q1-fy26-earnings-may-19-2026",
+          "title": "Home Depot Q1 FY26 — net sales $41.8B (+4.8% Y/Y) tops $41.5B est, adj EPS $3.43 beats $3.41; comps +0.6%, FY26 guide reaffirmed; HD ~-1% premarket",
+          "category": "earnings",
+          "note": "Mega-cap retail earnings print — mild beat on a low bar, FY26 guide reaffirmed; key read on rate-sensitive housing-adjacent consumer."
+        },
+        {
+          "id": "trump-iran-attack-postponed-may-18-2026",
+          "title": "Trump postpones Tuesday Iran strike at Gulf allies' request, citing 'serious negotiations' — Brent slips below $110 from $112 high; June WTI settled +3% Monday at $108.66 before pulling back",
+          "category": "macro",
+          "note": "Discrete macro/oil event: Trump's Truth Social postponement of the planned Tuesday strike, with Brent retracing $2+ from intraday $112 high. Distinct from the May 17 'clock is ticking' buildup entry — opposite directional decision."
+        },
+        {
+          "id": "stx-memory-selloff-may-18-2026",
+          "title": "Seagate -6.9% drags memory complex on May 18 — CEO Mosley says new factories 'would take too long' at JPMorgan TMT; Micron -5.95%, SanDisk and WDC also lower as AI capacity fears bite",
+          "category": "mover",
+          "note": "Major named-catalyst single-name move (STX -6.9%) that dragged the entire AI-memory cohort (MU -5.95%, plus SNDK/WDC) on a quotable CEO comment at a tier-1 conference."
+        },
+        {
+          "id": "bx-googl-tpu-jv-may-18-2026",
+          "title": "Blackstone and Google launch new TPU cloud JV — $5B initial Blackstone equity, first 500MW online in 2027; total commitment can reach ~$25B with leverage; Benjamin Treynor Sloss to lead",
+          "category": "mna",
+          "note": "Largest single AI-infrastructure capital-formation event of the week — first multi-billion JV to commercialize Google TPUs outside Google Cloud, with primary source = Blackstone press release."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "commodity",
+        "mover",
+        "sector",
+        "mna",
+        "crypto",
+        "rates",
+        "regulatory",
+        "ipo"
+      ]
     }
   ]
 }

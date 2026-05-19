@@ -1,8 +1,295 @@
 {
-  "generatedAt": "2026-05-19T00:31:25.073Z",
+  "generatedAt": "2026-05-19T13:21:06.159Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hd-q1-fy26-earnings-may-19-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Home Depot Q1 FY26 — net sales $41.8B (+4.8% Y/Y) tops $41.5B est, adj EPS $3.43 beats $3.41; comps +0.6%, FY26 guide reaffirmed; HD ~-1% premarket",
+      "org": "The Home Depot",
+      "date": "2026-05-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000101/hd-20260519.htm",
+      "summary": "Home Depot delivered Q1 FY26 net sales of $41.8B (+4.8% Y/Y) on +0.6% total comps (+0.4% US), beating consensus. Adj diluted EPS $3.43 vs $3.41 est but down from $3.56 a year ago. FY26 guide reaffirmed.",
+      "tags": [
+        "earnings",
+        "q1-fy26",
+        "retail",
+        "housing-adjacent",
+        "comp-sales",
+        "rate-sensitive",
+        "guide-reaffirmed",
+        "ticket-vs-traffic"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HD"
+      ],
+      "metrics": {
+        "Net sales": "$41.8B (+4.8% Y/Y) vs $41.52B est",
+        "Adj EPS": "$3.43 vs $3.41 est (was $3.56 Y/Y)",
+        "GAAP EPS": "$3.30 vs $3.45 Y/Y",
+        "U.S. comps": "+0.4%",
+        "Total comps": "+0.6%",
+        "Transactions": "391.1M (-0.9%)",
+        "Avg ticket": "$92.76 (+2.3%)",
+        "Premarket move": "~-1%"
+      },
+      "links": [
+        {
+          "label": "HD 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000101/hd-20260519.htm"
+        },
+        {
+          "label": "8-K Summary",
+          "url": "https://www.stocktitan.net/sec-filings/HD/8-k-home-depot-inc-reports-material-event-98fdade3aadc.html"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q1-2026-earnings-111523098.html"
+        },
+        {
+          "label": "RTT Earnings",
+          "url": "https://www.rttnews.com/story.aspx?Id=3653495"
+        },
+        {
+          "label": "HD Quote",
+          "url": "https://finance.yahoo.com/quote/HD/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Home Depot Q1 FY26: sales $41.8B (+4.8%) and adj EPS $3.43 narrowly clear consensus; comps barely positive at +0.6%, FY guide untouched.",
+        "whatIsIt": "The Home Depot reported its fiscal Q1 2026 (quarter ended May 3, 2026) on the morning of May 19, 2026. Net sales rose 4.8% Y/Y to $41.8 billion while total comparable sales eked out +0.6% (U.S. +0.4%). Both top line and adjusted EPS landed slightly above Street consensus, though profitability fell versus a year ago.",
+        "howItWorks": "GAAP diluted EPS came in at $3.30 vs $3.45 a year earlier; adjusted diluted EPS was $3.43 vs $3.56 Y/Y and ~$3.41 consensus. Customer transactions slipped to 391.1M (-0.9%) but average ticket rose 2.3% to $92.76 — growth was ticket-driven, not traffic-driven. Operating income fell ~3% to $4.98B as costs outran the modest top-line lift. Management reaffirmed FY26 guidance: total sales growth ~2.5%–4.5%, comps flat to +2%, ~33.1% gross margin, ~12.8%–13.0% adjusted op margin, and adjusted diluted EPS flat to +4.0% off the FY25 base.",
+        "whyItMatters": "HD is the largest U.S. home-improvement retailer and a key read on rate-sensitive housing demand; reaffirming FY guidance after April CPI/PPI hot prints and 10Y yields touching 4.60% argues the housing-adjacent consumer is holding up better than feared. With shares dipping ~1% premarket on a low-quality beat, peers LOW, FND and TTC will trade on the same playbook. Watch the call for pro-vs-DIY mix and Pacific-region read after the Iran-driven energy spike.",
+        "forWho": "retail desks, housing-adjacent traders",
+        "tryIt": "https://www.tradingview.com/symbols/NYSE-HD/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg",
+        "alt": "The Home Depot corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-19T13:21:06.159Z"
+    },
+    {
+      "id": "trump-iran-attack-postponed-may-18-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump postpones Tuesday Iran strike at Gulf allies' request, citing 'serious negotiations' — Brent slips below $110 from $112 high; June WTI settled +3% Monday at $108.66 before pulling back",
+      "org": "White House",
+      "date": "2026-05-18",
+      "url": "https://www.cbsnews.com/news/trump-says-called-off-scheduled-iran-attack-gulf-partners/",
+      "summary": "Trump said on Truth Social Monday afternoon he postponed a 'scheduled attack' on Iran for Tuesday after Saudi Arabia, UAE and Qatar leaders requested time for 'serious negotiations' on a nuclear-free deal. Brent pulled back from $112 toward $109; Pentagon held on standby.",
+      "tags": [
+        "geopolitics",
+        "iran",
+        "saudi-arabia",
+        "uae",
+        "qatar",
+        "oil",
+        "hormuz",
+        "truth-social",
+        "war-postponed",
+        "energy"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent close (Mon)": "~$112.10 (+~2%)",
+        "Brent (Tue early)": "below $110 (-1.8% on the day)",
+        "WTI settle (Mon)": "$108.66 (+~3%)",
+        "Trigger": "Truth Social post Monday afternoon",
+        "Requesters": "Qatar, Saudi Arabia, UAE"
+      },
+      "links": [
+        {
+          "label": "CBS Coverage",
+          "url": "https://www.cbsnews.com/news/trump-says-called-off-scheduled-iran-attack-gulf-partners/"
+        },
+        {
+          "label": "CNBC Detail",
+          "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html"
+        },
+        {
+          "label": "TIME Recap",
+          "url": "https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/"
+        },
+        {
+          "label": "WTI Quote",
+          "url": "https://finance.yahoo.com/quote/CL=F/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Trump backs off planned Tuesday strike on Iran after Saudi/UAE/Qatar lobbied for a negotiating window — oil retreats from $112 Brent.",
+        "whatIsIt": "Monday afternoon (May 18) U.S. President Donald Trump posted on Truth Social that he had postponed a 'scheduled attack of Iran tomorrow' after the leaders of Qatar, Saudi Arabia, and the UAE personally requested time to allow 'serious negotiations' that they believe will produce a deal acceptable to the U.S. — including the condition that Iran does not get nuclear weapons. Trump said the Pentagon remains on standby to 'go forward with a full, large-scale assault' at a moment's notice if no deal lands.",
+        "howItWorks": "Headed into Monday, Brent had pushed to ~$112.10 (+~2% on the session) and June WTI settled +~3% at $108.66 as traders priced in the Tuesday strike risk that Trump had publicly teased over the weekend. Within minutes of the post, Brent shed more than $2 toward $109; by Tuesday morning Brent traded below $110 (-1.8% on the day) and U.S. stock futures pulled back from the prior session's tech selloff. The postponement does not lift sanctions or reopen Hormuz — flows remain disrupted — but it removes the near-term kinetic-strike premium.",
+        "whyItMatters": "Oil is the macro variable still feeding April's hot CPI (+3.8% Y/Y) and PPI (+6.0% Y/Y) prints, and Brent above $110 has been the bond market's go-to inflation worry. A genuine off-ramp would let the 10Y back off its 4.60% one-year high; a breakdown in talks puts the strike option back on the table and re-prices the curve in the other direction. For energy desks (XOM, CVX, OXY, MPC) Trump's 'moment's notice' caveat keeps a binary tail on the next 1–2 weeks.",
+        "forWho": "macro and energy traders",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F/"
+      },
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/18/2f71af8e-bbda-4b4c-9ca3-57949d8d323d/thumbnail/1200x630g4/7e5c3ee228449ad585cfba094a67d17d/cbsn-fusion-where-things-stand-between-the-us-and-iran-as-trump-ramps-up-threats-thumbnail.jpg",
+        "alt": "CBS News graphic on U.S.-Iran tensions as Trump postpones planned strike",
+        "fit": "cover",
+        "credit": "CBS News"
+      },
+      "publishDate": "2026-05-19T13:21:06.159Z"
+    },
+    {
+      "id": "stx-memory-selloff-may-18-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Seagate -6.9% drags memory complex on May 18 — CEO Mosley says new factories 'would take too long' at JPMorgan TMT; Micron -5.95%, SanDisk and WDC also lower as AI capacity fears bite",
+      "org": "Seagate Technology",
+      "date": "2026-05-18",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/seagate-slips-as-ceo-says-new-factories-would-take-too-long",
+      "summary": "Seagate fell ~6.9% Monday — its worst session in ~2 months — after CEO Dave Mosley said at JPMorgan TMT that building new factories 'would take too long' and could leave excess capacity. Micron -5.95%, dragging the memory/storage cohort.",
+      "tags": [
+        "memory",
+        "hdd",
+        "dram",
+        "ai-capex",
+        "jpmorgan-tmt",
+        "capacity-crunch",
+        "mover",
+        "seagate",
+        "micron"
+      ],
+      "importance": "major",
+      "tickers": [
+        "STX",
+        "MU",
+        "SNDK",
+        "WDC"
+      ],
+      "metrics": {
+        "STX Monday move": "-6.9%",
+        "MU Monday close": "$681.54 (-5.95%)",
+        "Nasdaq close": "26,090.73 (-0.51%)",
+        "S&P 500 close": "7,403.05 (-0.07%)",
+        "Catalyst": "Seagate CEO at JPMorgan TMT — no new fabs"
+      },
+      "links": [
+        {
+          "label": "Bloomberg Story",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-18/seagate-slips-as-ceo-says-new-factories-would-take-too-long"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-stock-falls-7-5-161123833.html"
+        },
+        {
+          "label": "Seoul Econ. Recap",
+          "url": "https://en.sedaily.com/international/2026/05/19/memory-chip-stocks-tumble-on-seagate-capacity-warning"
+        },
+        {
+          "label": "STX Quote",
+          "url": "https://finance.yahoo.com/quote/STX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Seagate CEO's 'too long to build new factories' line at JPMorgan TMT shears 6.9% off STX and drags memory peers Monday.",
+        "whatIsIt": "At the JPMorgan Annual Global Technology, Media and Communications Conference on Monday May 18, Seagate CEO Dave Mosley said building new HDD/storage factories 'would take too long' and risk leaving Seagate with more capacity than it needs. He framed mid-20s % CAGR through technology transitions — pushing per-platter density from 3TB to 4 and 5TB — as the path, not new fabs. STX closed -6.9%, its worst day in roughly two months. The comments amplified an already nervous trade in AI memory: Micron settled at $681.54, -5.95%, and SanDisk and Western Digital also fell.",
+        "howItWorks": "Mosley said recording-head wafer lead times already exceed nine months with another quarter to convert into finished drives, so a greenfield fab would not be online in time to matter for the current AI demand cycle. Investor takeaway flipped from 'incumbent operating leverage' to 'incumbents are admitting they can't add supply' — which on the wrong day reads as topped-out volumes rather than tight pricing. The Nasdaq closed -0.51% at 26,090.73 and the S&P 500 -0.07% at 7,403.05; the Dow was up +0.32% as money rotated out of AI-memory leaders.",
+        "whyItMatters": "Memory chips and HDDs have been the second leg of the AI capex trade after compute, and DRAM/HBM/NAND have outrun fundamentals into May. Mosley's comments give bears a quotable reason to argue the cycle has peaked structurally even if pricing stays firm. Confirms the May 12 DRAM ETF flush wasn't a one-off — and sets up Nvidia's Wednesday print as the next gate for the entire AI infrastructure thesis.",
+        "forWho": "semis and AI-infra traders",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-STX/"
+      },
+      "image": {
+        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXfhUqOU5VTA/v1/1200x800.jpg",
+        "alt": "Seagate hard-disk drive manufacturing facility",
+        "fit": "cover",
+        "credit": "Bloomberg"
+      },
+      "publishDate": "2026-05-19T13:21:06.159Z"
+    },
+    {
+      "id": "bx-googl-tpu-jv-may-18-2026",
+      "categories": [
+        "mna",
+        "sector"
+      ],
+      "title": "Blackstone and Google launch new TPU cloud JV — $5B initial Blackstone equity, first 500MW online in 2027; total commitment can reach ~$25B with leverage; Benjamin Treynor Sloss to lead",
+      "org": "Blackstone",
+      "date": "2026-05-18",
+      "url": "https://www.blackstone.com/news/press/blackstone-announces-joint-venture-with-google-to-create-new-tpu-cloud/",
+      "summary": "Blackstone committed $5B initial equity to a new U.S. JV with Google that will sell Google TPU compute as cloud capacity. Blackstone takes majority equity; Google supplies TPUs/software; targets 500MW online in 2027 and up to ~$25B total with leverage. Benjamin Treynor Sloss runs it.",
+      "tags": [
+        "ai-infrastructure",
+        "tpu",
+        "joint-venture",
+        "blackstone",
+        "google",
+        "data-centers",
+        "ai-capex",
+        "compute-as-a-service",
+        "private-credit"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BX",
+        "GOOGL"
+      ],
+      "metrics": {
+        "Initial equity": "$5B from Blackstone funds",
+        "First capacity": "500MW online in 2027",
+        "Total scale (w/ leverage)": "up to ~$25B (Bloomberg)",
+        "Lead": "Benjamin Treynor Sloss (CEO)",
+        "Ownership": "Blackstone majority equity (WSJ)"
+      },
+      "links": [
+        {
+          "label": "Blackstone PR",
+          "url": "https://www.blackstone.com/news/press/blackstone-announces-joint-venture-with-google-to-create-new-tpu-cloud/"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html"
+        },
+        {
+          "label": "Benzinga Detail",
+          "url": "https://www.benzinga.com/markets/tech/26/05/52653665/google-blackstone-ai-cloud-business-data-centers-chips"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/article/google-blackstone-launch-cloud-company-as-wall-street-races-to-fund-ai-boom-023203769.html"
+        },
+        {
+          "label": "BX Quote",
+          "url": "https://finance.yahoo.com/quote/BX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Blackstone-led $5B JV with Google will resell TPU compute as a third-party cloud service, with first 500MW online in 2027.",
+        "whatIsIt": "Blackstone and Alphabet's Google announced on Monday May 18 a new U.S. joint venture that will provide Google TPU compute as a third-party cloud service, sitting alongside Google Cloud's own TPU offering. Blackstone is committing an initial $5 billion of equity from its funds for a majority stake; Google contributes TPU hardware, software, networking and technical know-how. Benjamin Treynor Sloss — most recently Google's chief programs officer and a 20-year Google infrastructure veteran — has been named CEO. The JV plans to bring its first 500 megawatts of data-center capacity online in 2027.",
+        "howItWorks": "Per Blackstone's release, the company is committing 'an initial $5 billion of equity capital' from Blackstone-managed funds. Per Bloomberg, total invested capital could eventually reach roughly $25 billion once debt financing layers on top — making this one of the largest equity-led private-AI-infrastructure vehicles to date. Per WSJ, Blackstone holds majority economic ownership of the new entity. The structure is identical in shape to Blackstone's QTS data-center playbook: lease land, sign offtake, finance with private credit, scale.",
+        "whyItMatters": "This is the second multi-billion private-infrastructure vehicle from a megacap in two weeks (after the AVGO/Apollo+Blackstone $35B private-credit rumor for chip build). It signals two things: (1) hyperscalers want compute capacity off-balance-sheet given the magnitude of AI capex, and (2) Google specifically wants to monetize TPU outside its own cloud — a direct shot at Nvidia GPU economics. BX and GOOGL traded up premarket on the print; data-center landlords (EQIX, DLR) and AI-power names (CEG, VST) trade through this announcement.",
+        "forWho": "AI-infrastructure and private-credit watchers",
+        "tryIt": "https://finance.yahoo.com/quote/BX/"
+      },
+      "image": {
+        "url": "https://www.blackstone.com/wp-content/uploads/sites/2/2022/04/Blackstone-Logo-Tile-e1681304816586.png",
+        "alt": "Blackstone corporate logo",
+        "fit": "contain",
+        "credit": "Blackstone"
+      },
+      "publishDate": "2026-05-19T13:21:06.159Z"
+    },
     {
       "id": "ramp-publicis-buyout-may-17-2026",
       "categories": [
