@@ -2895,6 +2895,43 @@
         "regulatory",
         "ipo"
       ]
+    },
+    {
+      "id": "sweep-20260520t003506z",
+      "timestamp": "2026-05-20T00:35:06.178Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: US 30Y Treasury yield broke to 5.197% (19-year high) on May 19, dragging the S&P -0.67%; and Astera Labs surged ~15% on an Evercore PT hike to $297 plus its JPM TMT keynote on PCIe-6 AI fabric.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-30y-yield-19yr-high-may-19-2026",
+          "title": "US 30-year Treasury yield tops 5.197% on May 19 — highest since July 2007; S&P 500 -0.67% on inflation-from-Iran fears",
+          "category": "rates",
+          "note": "Long-bond yield's 19-year high drove a third straight equity down day — distinct from the May 18 JGB story which was Japan-led."
+        },
+        {
+          "id": "alab-may-19-2026-evercore-pt-rally",
+          "title": "Astera Labs +~15% on May 19 as Evercore lifts PT to $297 (from $215); CEO touts X-Series AI fabric switch at JPMorgan TMT conference",
+          "category": "mover",
+          "note": "Single-name +15% with named analyst + conference catalyst, in a rates-driven down tape — a clean AI-infra mover."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rates",
+        "macro",
+        "mover",
+        "analyst",
+        "earnings",
+        "regulatory",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
