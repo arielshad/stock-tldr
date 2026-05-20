@@ -1,8 +1,212 @@
 {
-  "generatedAt": "2026-05-20T00:35:06.178Z",
+  "generatedAt": "2026-05-20T12:54:10.468Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "low-q1-fy26-earnings-may-20-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lowe's Q1 FY26 — adj EPS $3.03 beats $2.97 est, revenue $23.1B tops $22.97B est; FY26 EPS guide affirmed at $12.25–$12.75 but LOW slips ~2% premarket on guide midpoint below consensus",
+      "org": "Lowe's Companies",
+      "tickers": [
+        "LOW",
+        "HD"
+      ],
+      "author": null,
+      "date": "2026-05-20",
+      "url": "https://www.prnewswire.com/news-releases/lowes-reports-first-quarter-2026-sales-and-earnings-results-302776841.html",
+      "summary": "Lowe's posts EPS and revenue beat with comp sales +0.6% and online +15.5%, but FY26 EPS midpoint of $12.50 sits below ~$12.59 consensus, sending shares about 2% lower premarket.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "fy26-affirmed",
+        "home-improvement",
+        "guide-midpoint-below-consensus",
+        "q1-fy26",
+        "retail"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj EPS": "$3.03 vs $2.97 est",
+        "GAAP EPS": "$2.90 (vs $2.92 PY)",
+        "Revenue": "$23.1B vs $22.97B est",
+        "Comp Sales": "+0.6%",
+        "Online Sales": "+15.5%",
+        "FY26 Adj EPS Guide": "$12.25–$12.75",
+        "Premarket Move": "~-2%"
+      },
+      "explainer": {
+        "tagline": "Lowe's clears the Q1 bar but cautious FY26 guide overshadows the beat.",
+        "whatIsIt": "Lowe's reported first-quarter fiscal 2026 sales and earnings on May 20, 2026, posting net earnings of $1.6 billion. Adjusted diluted EPS rose 3.8% to $3.03, while GAAP diluted EPS was $2.90 after $96M of pre-tax acquisition costs. Total sales hit $23.1 billion versus $20.9 billion a year ago.",
+        "howItWorks": "Comparable sales rose 0.6%, driven by strong spring execution and 15.5% online sales growth. The company affirmed FY26 guidance: total sales of $92.0–94.0 billion (+7–9% Y/Y), comps flat to +2%, adjusted diluted EPS of $12.25–$12.75, and operating margin of 11.2–11.4%. Acquisition-related costs of $96M came out of the GAAP number.",
+        "whyItMatters": "The print extends a divergent home-improvement read: HD slipped on a similar beat yesterday, and LOW followed with shares ~2% lower premarket as the FY26 EPS midpoint of $12.50 came in roughly a dime below ~$12.59 consensus. Online momentum and appliances are offsetting tepid Pro and big-ticket discretionary demand. Read-through is mixed for housing-tied names across the supply chain.",
+        "forWho": "retail-sector traders, housing-cycle watchers"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/26010/LOWES_COMPANIES_INC_LOGO.jpg?p=facebook",
+        "alt": "Lowe's Companies corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/lowes-reports-first-quarter-2026-sales-and-earnings-results-302776841.html"
+        },
+        {
+          "label": "EDGAR 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000060667/000006066726000020/exhibit991-01302026.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        },
+        {
+          "label": "LOW Quote",
+          "url": "https://finance.yahoo.com/quote/LOW/"
+        }
+      ],
+      "publishDate": "2026-05-20T12:54:10.468Z"
+    },
+    {
+      "id": "adi-q2-fy26-earnings-may-20-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Analog Devices FQ2 2026 — record revenue $3.62B (+37% Y/Y), adj EPS $3.09 trounces $2.90 est; Q3 guide $3.9B with adj EPS $3.30 ±$0.15, but ADI slips ~2% premarket as semis hide from euphoria",
+      "org": "Analog Devices",
+      "tickers": [
+        "ADI",
+        "TXN",
+        "NXPI"
+      ],
+      "author": null,
+      "date": "2026-05-20",
+      "url": "https://www.prnewswire.com/news-releases/analog-devices-reports-record-fiscal-second-quarter-2026-financial-results-302776884.html",
+      "summary": "ADI delivered record FQ2 revenue $3.62B (+37%) with adj EPS $3.09, both above the high end of its outlook. Q3 guide of $3.9B revenue and adj EPS $3.30 was strong, but ADI traded ~2% lower premarket.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "record-revenue",
+        "analog-semis",
+        "industrial",
+        "automotive",
+        "q2-fy26",
+        "guide-raise"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$3.62B (+37% Y/Y)",
+        "Adj EPS": "$3.09 vs $2.90 est",
+        "GAAP EPS": "$2.40",
+        "Q3 Rev Guide": "$3.9B ±$100M",
+        "Q3 Adj EPS Guide": "$3.30 ±$0.15",
+        "TTM Op Cash Flow": "$5.1B (40% of rev)",
+        "Capital Return Q2": "$1.3B",
+        "Premarket Move": "~-2%"
+      },
+      "explainer": {
+        "tagline": "ADI prints a record analog quarter — and the stock fades on it.",
+        "whatIsIt": "Analog Devices reported fiscal Q2 2026 results on May 20, 2026 at 7am ET. Revenue of $3.623 billion (+37% Y/Y) and adjusted diluted EPS of $3.09 both topped the high end of company guidance. GAAP diluted EPS came in at $2.40. The dividend was lifted to $1.10/share.",
+        "howItWorks": "CEO Vincent Roche flagged record bookings across Industrial, Automotive and Communications segments. Trailing-twelve-month operating cash flow reached $5.1 billion or 40% of revenue. ADI returned $1.3B to shareholders in Q2 via dividends and buybacks. Q3 guidance: revenue $3.9B ±$100M, reported op margin ~39%, adjusted op margin ~49%, adjusted EPS $3.30 ±$0.15.",
+        "whyItMatters": "The print confirms the broader analog cycle rebound but came against an over-positioned semis tape — options had priced a ~10% move. With ADI down ~2% premarket despite a beat-and-raise, the read-through for Texas Instruments and NXP is that fundamentals are real but sentiment is fragile heading into NVDA's after-bell earnings.",
+        "forWho": "semis traders, capex desks"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2379028/ADI_Logo_Updated.jpg?p=facebook",
+        "alt": "Analog Devices corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/analog-devices-reports-record-fiscal-second-quarter-2026-financial-results-302776884.html"
+        },
+        {
+          "label": "TradingView Summary",
+          "url": "https://www.tradingview.com/news/tradingview:454683b198cfd:0-analog-devices-2q-2026-revenue-3-62b-eps-2-4-10-q-summary/"
+        },
+        {
+          "label": "ADI Quote",
+          "url": "https://finance.yahoo.com/quote/ADI/"
+        }
+      ],
+      "publishDate": "2026-05-20T12:54:10.468Z"
+    },
+    {
+      "id": "cava-q1-2026-earnings-may-19-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CAVA Q1 2026 — revenue $438M (+32% Y/Y) beats, comp sales +9.7% on +6.8% traffic, EPS $0.20 vs $0.18 est; raises FY26 adj EBITDA guide to $181M–$191M; CAVA +6% AH",
+      "org": "CAVA Group",
+      "tickers": [
+        "CAVA"
+      ],
+      "author": null,
+      "date": "2026-05-19",
+      "url": "https://www.stocktitan.net/news/CAVA/cava-group-reports-first-quarter-2026-n9cp22n4581s.html",
+      "summary": "CAVA delivered a clean Q1 beat with same-restaurant sales +9.7% (traffic +6.8%) and 25.1% restaurant-level margin, raising FY26 same-restaurant-sales guide to 4.5–6.5% and lifting adj EBITDA outlook.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "comp-sales",
+        "fast-casual",
+        "guide-raise",
+        "q1-2026",
+        "restaurant"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$438.3M (+32.2% Y/Y)",
+        "EPS": "$0.20 vs $0.18 est",
+        "Same-Restaurant Sales": "+9.7%",
+        "Traffic": "+6.8%",
+        "Adj EBITDA": "$61.7M (+37.6%)",
+        "Restaurant-Level Margin": "25.1%",
+        "Net New Restaurants": "20 (459 total)",
+        "FY26 Same-Restaurant-Sales Guide": "+4.5%–6.5% (raised from +3.0%–5.0%)",
+        "FY26 Adj EBITDA Guide": "$181M–$191M (raised from $176M–$184M)",
+        "Move": "+6% AH"
+      },
+      "explainer": {
+        "tagline": "CAVA prints a 9.7% comp and the market crowns the next Chipotle — for now.",
+        "whatIsIt": "CAVA Group reported Q1 fiscal 2026 results on May 19, 2026 after the close. Revenue rose 32.2% to $438.3 million, EPS of $0.20 beat $0.18 estimates, and adjusted EBITDA grew 37.6% to $61.7 million.",
+        "howItWorks": "Same-restaurant sales jumped 9.7%, including 6.8% traffic growth. The company opened 20 net new restaurants, bringing the total to 459. Restaurant-level profit margin held at 25.1%. CAVA raised FY26 guidance across the board: same-restaurant-sales now seen at +4.5–6.5% (vs +3.0–5.0% prior), net new openings 75–77 (vs 74–76), and adjusted EBITDA $181–191M (vs $176–184M).",
+        "whyItMatters": "The comp print is the standout — 9.7% with positive traffic in a quarter where peers from Wendy's to Shake Shack have flagged consumer weakness. The Mediterranean fast-casual store-base is still small (459 vs Chipotle's 3,700+), giving runway, and shares gained ~6% after-hours.",
+        "forWho": "consumer-discretionary traders, restaurant-sector desks"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/CAVA_Group_Reports_First_Quarter_2026_Results_1059957.webp",
+        "alt": "CAVA Group Q1 2026 earnings announcement card",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/CAVA/cava-group-reports-first-quarter-2026-n9cp22n4581s.html"
+        },
+        {
+          "label": "CAVA IR",
+          "url": "https://investor.cava.com/news/news-details/2026/CAVA-Group-Reports-First-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "Earnings Call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/19/cava-cava-q1-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "CAVA Quote",
+          "url": "https://finance.yahoo.com/quote/CAVA/"
+        }
+      ],
+      "publishDate": "2026-05-20T12:54:10.468Z"
+    },
     {
       "id": "us-30y-yield-19yr-high-may-19-2026",
       "categories": [

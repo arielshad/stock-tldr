@@ -2932,6 +2932,44 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260520t125410z",
+      "timestamp": "2026-05-20T12:54:10.468Z",
+      "source": "github-actions-sweep",
+      "summary": "Three earnings adds: Lowe's Q1 FY26 (beat overshadowed by cautious FY guide, LOW ~-2% premarket), Analog Devices FQ2 (record $3.62B rev +37% Y/Y, ADI ~-2% premarket despite beat-and-raise), CAVA Q1 (comp +9.7% with traffic +6.8%, raised FY26 guide, +6% AH). NVDA reports after the close — outside the sweep window. FOMC minutes due 2pm ET; not yet released.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "low-q1-fy26-earnings-may-20-2026",
+          "title": "Lowe's Q1 FY26 — adj EPS $3.03 beats $2.97 est, revenue $23.1B tops $22.97B est; FY26 EPS guide affirmed at $12.25–$12.75 but LOW slips ~2% premarket on guide midpoint below consensus",
+          "category": "earnings",
+          "note": "Primary-source confirmed (PR Newswire press release); ≥2 tier-1 outlets covered today (CNBC, Reuters, Investing.com); HD already in feed makes the pair natural."
+        },
+        {
+          "id": "adi-q2-fy26-earnings-may-20-2026",
+          "title": "Analog Devices FQ2 2026 — record revenue $3.62B (+37% Y/Y), adj EPS $3.09 trounces $2.90 est; Q3 guide $3.9B with adj EPS $3.30 ±$0.15, but ADI slips ~2% premarket as semis hide from euphoria",
+          "category": "earnings",
+          "note": "Primary-source confirmed; record revenue print on +37% Y/Y, beat-and-raise; semis-cycle read-through."
+        },
+        {
+          "id": "cava-q1-2026-earnings-may-19-2026",
+          "title": "CAVA Q1 2026 — revenue $438M (+32% Y/Y) beats, comp sales +9.7% on +6.8% traffic, EPS $0.20 vs $0.18 est; raises FY26 adj EBITDA guide to $181M–$191M; CAVA +6% AH",
+          "category": "earnings",
+          "note": "Primary-source via stocktitan/businesswire/IR; +9.7% comp + +6% AH move + raised FY guide all clear the bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
