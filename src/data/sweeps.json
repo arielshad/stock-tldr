@@ -3027,6 +3027,55 @@
         "macro",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260521t131312z",
+      "timestamp": "2026-05-21T13:13:12.881Z",
+      "source": "github-actions-sweep",
+      "summary": "Five fresh adds on May 21: Walmart Q1 FY27 beat with soft Q2 EPS guide, Deere Q2 FY26 mixed with $1.2B tariff hit absorbed, NetEase Q1 2026 clean beat on China gaming, NIO Q1 2026 with delivery near-double and vehicle margin expansion, and Intuit's Q3 + 17% workforce cut + Anthropic/OpenAI partnerships from May 20.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wmt-q1-fy27-earnings-may-21-2026",
+          "title": "Walmart Q1 FY27 — revenue $177.8B (+7.3% Y/Y) beats $174.83B est, adj EPS $0.66 in line, e-commerce +26% and advertising +37%; reaffirms FY27 adj EPS guide $2.75–$2.85 but Q2 EPS guide $0.72–$0.74 lands below $0.75 consensus",
+          "category": "earnings",
+          "note": "Bellwether US retailer Q1 FY27 beat on rev + EPS but Q2/FY27 guide undershoots Street."
+        },
+        {
+          "id": "de-q2-fy26-earnings-may-21-2026",
+          "title": "Deere Q2 FY26 — net sales $13.37B (+5% Y/Y) tops, EPS $6.55 vs $6.64 prior; FY26 net income guide $4.5–5.0B with $1.2B pretax tariff absorbed and $272M IEEPA refund recovery; Construction & Forestry +29%, Production Ag -14%",
+          "category": "earnings",
+          "note": "Major industrial cyclical Q2 print with $1.2B tariff absorption and $272M IEEPA refund."
+        },
+        {
+          "id": "ntes-q1-2026-earnings-may-21-2026",
+          "title": "NetEase Q1 2026 — total revenue RMB30.6B / $4.43B (+6.3% Y/Y) tops $4.20B est on games strength; non-GAAP EPS $2.56/ADS trounces $2.02 est; Cloud Music +5.5% to $287M, gross margin expands as cost of revenue -8.7%",
+          "category": "earnings",
+          "note": "Large-cap China internet beat with 26.7% non-GAAP EPS surprise after Q4 2025 miss."
+        },
+        {
+          "id": "nio-q1-2026-earnings-may-21-2026",
+          "title": "NIO Q1 2026 — deliveries 83,465 (+98.3% Y/Y), revenue RMB25.5B / $3.7B with vehicle margin 18.8% (from 10.2%); GAAP net loss narrows to RMB332M, non-GAAP profit RMB44M; Q2 guide 110K–115K vehicles on ES9 + ONVO L80 launches",
+          "category": "earnings",
+          "note": "China EV name with 98% delivery growth and vehicle margin near-doubled; +52–59% Q2 delivery guide."
+        },
+        {
+          "id": "intu-q3-fy26-earnings-17pct-layoff-may-20-2026",
+          "title": "Intuit Q3 FY26 — revenue $8.56B (+10% Y/Y) and non-GAAP EPS $12.80 (+10%) beat, FY26 segment guides raised; but Intuit also discloses 17% workforce cut (~3,000 jobs), $300–340M restructuring charge, plus multi-year Anthropic + OpenAI AI partnerships; INTU -3.95% on the day and another -13.4% AH",
+          "category": "earnings",
+          "note": "Mega-cap fintech SaaS reports Q3 beat AND 17% workforce cut + Anthropic/OpenAI deals; -13.4% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

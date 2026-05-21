@@ -1,8 +1,364 @@
 {
-  "generatedAt": "2026-05-21T00:38:27.759Z",
+  "generatedAt": "2026-05-21T13:13:12.881Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "wmt-q1-fy27-earnings-may-21-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Walmart Q1 FY27 — revenue $177.8B (+7.3% Y/Y) beats $174.83B est, adj EPS $0.66 in line, e-commerce +26% and advertising +37%; reaffirms FY27 adj EPS guide $2.75–$2.85 but Q2 EPS guide $0.72–$0.74 lands below $0.75 consensus",
+      "org": "Walmart",
+      "date": "2026-05-21",
+      "url": "https://corporate.walmart.com/news/2026/05/21/walmart-releases-q1-fy27-earnings",
+      "summary": "Walmart Q1 FY27 revenue $177.8B (+7.3%) beats and global e-commerce +26%, but Q2 adj EPS guide of $0.72–$0.74 sits below the $0.75 Street view as FY27 EPS guide of $2.75–$2.85 stays unchanged.",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "retail",
+        "ecommerce-acceleration",
+        "advertising",
+        "us-consumer",
+        "guide-mixed",
+        "wmt"
+      ],
+      "importance": "major",
+      "tickers": [
+        "WMT"
+      ],
+      "metrics": {
+        "Revenue": "$177.8B (+7.3% Y/Y, +5.9% CC)",
+        "Adj EPS": "$0.66 vs $0.66 est (+8.2% Y/Y)",
+        "GAAP EPS": "$0.67",
+        "Global eCommerce": "+26%",
+        "Global advertising": "+37%",
+        "Membership fee income": "+17.4%",
+        "Q2 FY27 adj EPS guide": "$0.72–$0.74 vs $0.75 est",
+        "FY27 adj EPS guide": "$2.75–$2.85 (reaffirmed) vs $2.92 est"
+      },
+      "links": [
+        {
+          "label": "Walmart Press Release",
+          "url": "https://corporate.walmart.com/news/2026/05/21/walmart-releases-q1-fy27-earnings"
+        },
+        {
+          "label": "Stocktitan Q1 Recap",
+          "url": "https://www.stocktitan.net/news/WMT/walmart-reports-revenue-growth-of-7-3-up-5-9-in-constant-currency-byuunas9wa1t.html"
+        },
+        {
+          "label": "Q2 Guide Disappoints — Yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-falls-after-earnings-match-expectations-q2-outlook-disappoints-143704098.html"
+        },
+        {
+          "label": "WMT Quote — Yahoo",
+          "url": "https://finance.yahoo.com/quote/WMT/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Walmart's top line beats and digital flywheel keeps spinning, but Q2 EPS guide undershoots consensus.",
+        "whatIsIt": "Walmart reported Q1 FY27 (quarter ended early May 2026) before the May 21 US open. Revenue and adjusted EPS topped Street expectations, with global eCommerce +26% and Walmart's advertising business +37%. The company reaffirmed its existing FY27 adjusted EPS range but issued a Q2 EPS view that fell below the analyst average.",
+        "howItWorks": "Total revenue rose 7.3% to $177.8B (+5.9% CC), beating ~$174.83B consensus. Adjusted EPS came in at $0.66 (+8.2% Y/Y) vs $0.66 est, with GAAP EPS $0.67. Operating income +5.0% (+5.1% adjusted CC). Global advertising grew 37% and membership fee income +17.4%. Q2 FY27 guide: adj EPS $0.72–$0.74 vs $0.75 est, constant-currency net sales +4–5%. FY27 adj EPS guide reaffirmed at $2.75–$2.85, which is below the $2.92 consensus.",
+        "whyItMatters": "Walmart is the bellwether US retailer covering ~90% of households, and its print is the cleanest read on the US consumer ahead of CPI/PCE. Strong eCommerce and ad growth confirm Walmart's high-margin diversification thesis remains intact. But a Q2 guide below Street — and an FY27 range that hasn't been lifted to match raised consensus — pressured WMT in premarket and ripples to other big-box names (TGT, COST, AMZN).",
+        "forWho": "retail analysts, macro-curious consumer-spending watchers",
+        "tryIt": "https://corporate.walmart.com/news/2026/05/21/walmart-releases-q1-fy27-earnings"
+      },
+      "image": {
+        "url": "https://corporate.walmart.com/content/dam/corporate/images/newsroom/2026/05/21/walmart-releases-q1-fy27-earnings/corp-lead-social.jpg",
+        "alt": "Walmart corporate Q1 FY27 earnings release graphic",
+        "fit": "cover",
+        "credit": "Walmart"
+      },
+      "publishDate": "2026-05-21T13:13:12.881Z"
+    },
+    {
+      "id": "de-q2-fy26-earnings-may-21-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Deere Q2 FY26 — net sales $13.37B (+5% Y/Y) tops, EPS $6.55 vs $6.64 prior; FY26 net income guide $4.5–5.0B with $1.2B pretax tariff absorbed and $272M IEEPA refund recovery; Construction & Forestry +29%, Production Ag -14%",
+      "org": "Deere & Company",
+      "date": "2026-05-21",
+      "url": "https://www.prnewswire.com/news-releases/deere-reports-second-quarter-net-income-of-1-773-billion-302778847.html",
+      "summary": "Deere Q2 FY26 revenue $13.37B (+5% Y/Y) tops Street; net income $1.773B and EPS $6.55. Construction & Forestry sales +29% offset Production Ag -14%; full-year net income guide $4.5–5.0B includes $1.2B pretax tariff hit.",
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "ag-equipment",
+        "construction-equipment",
+        "tariffs",
+        "ieepa-refund",
+        "production-ag-downturn",
+        "de"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DE"
+      ],
+      "metrics": {
+        "Net sales & revenues": "$13.369B (+5% Y/Y)",
+        "Net income": "$1.773B (-2% Y/Y)",
+        "Diluted EPS": "$6.55 vs $6.64 prior",
+        "Production & Precision Ag sales": "$4.503B (-14% Y/Y)",
+        "Small Ag & Turf sales": "$3.485B (+16% Y/Y)",
+        "Construction & Forestry sales": "$3.790B (+29% Y/Y)",
+        "FY26 net income guide": "$4.5–$5.0B",
+        "Pretax tariff hit (FY26)": "$1.2B",
+        "IEEPA refund recovery": "$272M"
+      },
+      "links": [
+        {
+          "label": "Deere Press Release",
+          "url": "https://www.prnewswire.com/news-releases/deere-reports-second-quarter-net-income-of-1-773-billion-302778847.html"
+        },
+        {
+          "label": "Q2 FY26 8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/DE/8-k-deere-co-reports-material-event-e372d7486f1a.html"
+        },
+        {
+          "label": "DE Quote — Yahoo",
+          "url": "https://finance.yahoo.com/quote/DE/"
+        },
+        {
+          "label": "Tariff Backdrop — Benzinga",
+          "url": "https://www.benzinga.com/markets/earnings/25/11/49102276/deere-braces-for-1-2-billion-tariff-impact-in-fiscal-2026-large-tractor-inventory-hits-17-year-low"
+        }
+      ],
+      "explainer": {
+        "tagline": "Deere prints a 5% revenue beat with a $1.2B tariff drag offset by a $272M IEEPA refund — Production Ag still weak, Construction roars.",
+        "whatIsIt": "John Deere reported Q2 FY26 (quarter ended May 3, 2026) before the US open. Net sales rose 5% to $13.37B and net income was $1.773B ($6.55 EPS). The print also includes Deere's first full quarter accounting for the Supreme Court's Feb 20 IEEPA tariff ruling and a $272M refund booked from CBP.",
+        "howItWorks": "Production & Precision Ag — Deere's biggest profit pool — saw net sales -14% with operating profit -39% as large-tractor demand softened. Small Ag & Turf sales +16% and Construction & Forestry sales +29% (operating profit +48%) drove the consolidated beat. FY26 net income guide is $4.5–5.0B, with management absorbing $1.2B of pretax tariff cost through pricing and efficiencies. US/Canada large ag industry demand still tracking down 15–20%, Small Ag flat to +5%, C&F +5–10%.",
+        "whyItMatters": "Deere is the bellwether for both farm capex (cycle-low) and construction-equipment (cycle-high). The 14% Production Ag decline confirms the multi-year ag-downcycle thesis but the C&F +29% offsets it cleanly. The IEEPA refund + ongoing $1.2B tariff drag is a real-time read on how the Feb 20 Supreme Court ruling reshapes industrial earnings. Watch AGCO, CNHI, CAT, URI for read-across.",
+        "forWho": "industrial / ag equipment analysts, tariff-litigation watchers",
+        "tryIt": "https://www.JohnDeere.com/earnings"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2984799/Deere_Company_1.jpg?p=facebook",
+        "alt": "Deere & Company branded press release header",
+        "fit": "cover",
+        "credit": "Deere & Company via PR Newswire"
+      },
+      "publishDate": "2026-05-21T13:13:12.881Z"
+    },
+    {
+      "id": "ntes-q1-2026-earnings-may-21-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "NetEase Q1 2026 — total revenue RMB30.6B / $4.43B (+6.3% Y/Y) tops $4.20B est on games strength; non-GAAP EPS $2.56/ADS trounces $2.02 est; Cloud Music +5.5% to $287M, gross margin expands as cost of revenue -8.7%",
+      "org": "NetEase",
+      "date": "2026-05-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001110646/000110465926056701/tm2613064d1_ex99-1.pdf",
+      "summary": "NetEase Q1 2026 revenue $4.43B (+6.3% Y/Y) beats $4.20B est and non-GAAP EPS $2.56/ADS smashes $2.02 consensus. Games drive ~79% of revenue; Cloud Music +5.5% to $287M; cost of revenue -8.7% Y/Y as platform fees shrink.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "china-gaming",
+        "cloud-music",
+        "youdao",
+        "ai-gaming",
+        "ntes"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NTES"
+      ],
+      "metrics": {
+        "Total revenue": "$4.43B / RMB30.6B (+6.3% Y/Y) vs $4.20B est",
+        "Non-GAAP EPS": "$2.56/ADS vs $2.02 est (+26.7%)",
+        "GAAP EPS": "$2.42/ADS",
+        "GAAP net income": "$1.5B (+3.9% Y/Y)",
+        "Gross profit": "$3.1B (+14.6% Y/Y)",
+        "Cost of revenue": "-8.7% Y/Y",
+        "Cloud Music revenue": "$287.2M (+5.5% Y/Y)",
+        "Youdao revenue": "$195.4M (flat Y/Y)"
+      },
+      "links": [
+        {
+          "label": "NetEase Q1 2026 6-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001110646/000110465926056701/tm2613064d1_ex99-1.pdf"
+        },
+        {
+          "label": "Q1 2026 Earnings Recap",
+          "url": "https://www.sci-tech-today.com/news/netease-inc-q1-first-quarter-2026-earnings/"
+        },
+        {
+          "label": "Q1 Report Schedule — Stocktitan",
+          "url": "https://www.stocktitan.net/news/NTES/net-ease-to-report-first-quarter-2026-financial-results-on-may-bqkv8izkko43.html"
+        },
+        {
+          "label": "NTES Quote — Yahoo",
+          "url": "https://finance.yahoo.com/quote/NTES/"
+        }
+      ],
+      "explainer": {
+        "tagline": "NetEase reverses a soft Q4 with a clean Q1 beat — games drive ~79% of revenue and margins expand as platform costs fall.",
+        "whatIsIt": "NetEase, China's second-largest game publisher behind Tencent, reported Q1 2026 results before the US open on May 21. Revenue topped consensus by ~5.5% and non-GAAP EPS beat by ~27%, snapping back from Q4 2025's 22% EPS miss that had triggered a sharp post-print decline.",
+        "howItWorks": "Total revenue RMB30.6B ($4.43B), +6.3% Y/Y. Games and related VAS (the dominant segment) drove growth at ~79% of revenue. Cloud Music rev RMB2.0B ($287.2M, +5.5% Y/Y). Youdao education/AI RMB1.3B ($195.4M, flat). Innovative businesses RMB1.5B ($224.6M, slightly down). Gross profit $3.1B (+14.6%); cost of revenue -8.7% Y/Y as platform and revenue-sharing fees fell. Non-GAAP EPS $2.56 vs $2.02 est (+26.7%).",
+        "whyItMatters": "NetEase is one of the most-owned China internet ADRs by US institutional money. The Q1 beat re-anchors the China-gaming earnings cycle after Tencent's solid Q1 print, supporting the broader 'China internet earnings have bottomed' thesis. Watch BIDU, BABA, JD, TCEHY, BILI for read-across.",
+        "forWho": "China internet / gaming analysts, EM equity allocators",
+        "tryIt": "https://ir.netease.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NetEaseHangzhouOffice.jpg/1280px-NetEaseHangzhouOffice.jpg",
+        "alt": "NetEase headquarters building in Hangzhou, China",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-21T13:13:12.881Z"
+    },
+    {
+      "id": "nio-q1-2026-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "NIO Q1 2026 — deliveries 83,465 (+98.3% Y/Y), revenue RMB25.5B / $3.7B with vehicle margin 18.8% (from 10.2%); GAAP net loss narrows to RMB332M, non-GAAP profit RMB44M; Q2 guide 110K–115K vehicles on ES9 + ONVO L80 launches",
+      "org": "NIO",
+      "date": "2026-05-21",
+      "url": "https://www.stocktitan.net/sec-filings/NIO/6-k-nio-inc-current-report-foreign-issuer-bdbb1e6c1028.html",
+      "summary": "NIO Q1 2026 deliveries near doubled to 83,465 with vehicle margin nearly doubling to 18.8% (from 10.2%). GAAP loss narrows to RMB332M and non-GAAP profit turns positive; Q2 delivery guide 110K–115K vehicles signals 52–59% Y/Y growth.",
+      "tags": [
+        "earnings",
+        "mover",
+        "q1-2026",
+        "china-ev",
+        "delivery-growth",
+        "onvo",
+        "firefly",
+        "vehicle-margin-expansion",
+        "nio"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NIO"
+      ],
+      "metrics": {
+        "Total revenue": "$3.7B / RMB25.5B",
+        "Vehicle deliveries": "83,465 (+98.3% Y/Y)",
+        "Vehicle margin": "18.8% (from 10.2% Y/Y)",
+        "Gross margin": "19.0% (from 7.6% Y/Y)",
+        "GAAP net loss": "RMB332.1M (narrowed)",
+        "Non-GAAP net profit": "RMB43.5M (positive)",
+        "Diluted EPS": "RMB(0.20) / $(0.03)",
+        "NIO brand deliveries": "58,543",
+        "ONVO deliveries": "13,339",
+        "FIREFLY deliveries": "11,583",
+        "Q2 delivery guide": "110,000–115,000 vehicles (+52.7–59.6% Y/Y)",
+        "Cash & equivalents": "RMB48.2B (~$6.6B)"
+      },
+      "links": [
+        {
+          "label": "NIO Q1 2026 6-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/NIO/6-k-nio-inc-current-report-foreign-issuer-bdbb1e6c1028.html"
+        },
+        {
+          "label": "Q1 Recap — CnEVPost",
+          "url": "https://cnevpost.com/2026/05/21/nio-q1-2026-earnings/"
+        },
+        {
+          "label": "NIO Q1 2026 6-K Index",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736541&type=6-K&dateb=&owner=include&count=10"
+        },
+        {
+          "label": "NIO Quote — Yahoo",
+          "url": "https://finance.yahoo.com/quote/NIO/"
+        }
+      ],
+      "explainer": {
+        "tagline": "NIO delivers a 98% volume surge and vehicle margins nearly double — its cleanest profitability print in years.",
+        "whatIsIt": "NIO, the Chinese premium-EV maker, reported Q1 2026 (calendar Jan–Mar) before the US open on May 21. Deliveries nearly doubled Y/Y as the new ONVO and FIREFLY brands ramped into volume alongside the legacy NIO premium line. Vehicle margin expanded by 8.6 percentage points and the quarter swung to a non-GAAP profit.",
+        "howItWorks": "Deliveries hit 83,465 (NIO 58,543 + ONVO 13,339 + FIREFLY 11,583) with revenue of RMB25.5B ($3.7B). Vehicle margin 18.8% (vs 10.2% Y/Y) and gross margin 19.0% (vs 7.6% Y/Y). GAAP net loss narrowed sharply to RMB332.1M; non-GAAP net profit turned positive at RMB43.5M (basic/diluted EPS of RMB(0.20) GAAP). Q2 2026 delivery guide of 110,000–115,000 vehicles points to 52.7–59.6% Y/Y growth, driven by upcoming ES9 flagship SUV and ONVO L80 launches. Cash + ST investments RMB48.2B.",
+        "whyItMatters": "China EV unit-economics have been the bear case on NIO for two years. A near-doubling of vehicle margin to 18.8% in a single quarter answers that critique and validates the multi-brand strategy ONVO and FIREFLY were designed to enable. The Q2 guide is aggressive — 110K+ vehicles in a quarter would be a new high — and a credible execution proof point ahead of the ES9 launch. Watch XPEV, LI, TSLA-China for read-across.",
+        "forWho": "China EV traders, auto cyclical / unit-economics analysts",
+        "tryIt": "https://ir.nio.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NIO_House.jpg/1280px-NIO_House.jpg",
+        "alt": "NIO House retail showroom",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-21T13:13:12.881Z"
+    },
+    {
+      "id": "intu-q3-fy26-earnings-17pct-layoff-may-20-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Intuit Q3 FY26 — revenue $8.56B (+10% Y/Y) and non-GAAP EPS $12.80 (+10%) beat, FY26 segment guides raised; but Intuit also discloses 17% workforce cut (~3,000 jobs), $300–340M restructuring charge, plus multi-year Anthropic + OpenAI AI partnerships; INTU -3.95% on the day and another -13.4% AH",
+      "org": "Intuit",
+      "date": "2026-05-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000024/fy26q3earningspressrelease.htm",
+      "summary": "Intuit Q3 FY26 beats with rev $8.56B (+10%) and adj EPS $12.80 (+10%); FY26 segment guides raised. But the same 8-K discloses a 17% workforce cut (~3,000 jobs), $300–340M restructuring charge and multi-year Anthropic + OpenAI AI deals. INTU -3.95% intraday and -13.4% AH.",
+      "tags": [
+        "earnings",
+        "mover",
+        "q3-fy26",
+        "fintech-saas",
+        "layoffs",
+        "ai-restructuring",
+        "anthropic",
+        "openai",
+        "intu"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INTU"
+      ],
+      "metrics": {
+        "Revenue": "$8.558B (+10% Y/Y)",
+        "GAAP operating income": "$4.020B (+8% Y/Y)",
+        "Non-GAAP operating income": "$4.680B (+8% Y/Y)",
+        "GAAP diluted EPS": "$11.09 (+11% Y/Y)",
+        "Non-GAAP diluted EPS": "$12.80 (+10% Y/Y)",
+        "Workforce reduction": "~3,000 jobs (~17%)",
+        "Restructuring charge": "$300–$340M (primarily Q4 FY26)",
+        "FY26 Global Business Solutions growth guide": "~16% (raised)",
+        "FY26 Consumer growth guide": "~10% (raised)",
+        "Q4 FY26 revenue growth guide": "+11–12%",
+        "Q4 FY26 non-GAAP EPS guide": "$3.56–$3.62",
+        "Move": "-3.95% intraday + -13.4% AH"
+      },
+      "links": [
+        {
+          "label": "Intuit Q3 FY26 Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000024/fy26q3earningspressrelease.htm"
+        },
+        {
+          "label": "Intuit 8-K Filing Index",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896878&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "label": "Layoff Detail — Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/intuit-layoffs-3-000-jobs-142453143.html"
+        },
+        {
+          "label": "Intuit Layoff Story — TechCrunch",
+          "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+        },
+        {
+          "label": "Layoff Story — Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-stock-falls-plans-cut-134642594.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "Intuit beats Q3, raises FY26 segment guides — and announces a 17% workforce cut plus multi-year Anthropic + OpenAI deals all in the same 8-K.",
+        "whatIsIt": "On May 20, Intuit dropped a layered 8-K: a Q3 FY26 beat (its FY ends July), raised full-year segment guides, AND a restructuring plan that eliminates ~17% of its ~18,200 employee base (~3,000 jobs). The same release announces multi-year partnerships with Anthropic and OpenAI to embed Claude and ChatGPT into Intuit's tax/accounting/marketing products.",
+        "howItWorks": "Q3 results: revenue $8.558B (+10% Y/Y), GAAP operating income $4.020B (+8%), non-GAAP EPS $12.80 (+10%). FY26 Global Business Solutions growth guide raised to ~16% and Consumer growth raised to ~10%. Q4 FY26 revenue growth guide +11–12%, non-GAAP EPS guide $3.56–$3.62. Separately, Intuit estimates $300–340M in restructuring charges, primarily in Q4 FY26, covering severance and benefits. US-affected employees get 16 weeks of base pay plus 2 weeks per year of tenure; final employment dates set for July 31, 2026. Reno and Woodland Hills offices to close. CEO Sasan Goodarzi told CNBC the cuts were 'simplification' rather than AI-driven, even as the company announced multi-year contracts with both Anthropic and OpenAI to embed their models into Intuit's products and surface Intuit's tools inside Claude and ChatGPT. INTU shares closed -3.95% on May 20 and fell another -13.4% in AH after the announcement.",
+        "whyItMatters": "Intuit's 17% headcount cut is among the largest single-shot reductions a mega-cap US fintech SaaS has announced in 2026, and the simultaneous Anthropic + OpenAI deals — both at the platform/product layer — make Intuit a fresh data point in the 'AI-first reorg' wave that's already touched Meta, Cisco, Cloudflare, and Block. The market's -13.4% AH reaction signals investors saw the layoffs less as efficiency and more as a credibility hit. Watch for read-across to other rules-engine / workflow SaaS names (ADP, PAYC, WDAY).",
+        "forWho": "SaaS / fintech equity analysts, AI-transition watchers",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896878&type=8-K"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2700coastavenue.jpg/1280px-2700coastavenue.jpg",
+        "alt": "Intuit headquarters building at 2700 Coast Avenue, Mountain View, California",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-21T13:13:12.881Z"
+    },
     {
       "id": "nvda-q1-fy27-earnings-may-20-2026",
       "categories": [
