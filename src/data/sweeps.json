@@ -2970,6 +2970,63 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260521t003827z",
+      "timestamp": "2026-05-21T00:38:27.759Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep added six items dated 2026-05-19 and 2026-05-20: the seismic NVDA Q1 FY27 beat-and-raise with $80B buyback, plus SpaceX's S-1 filing, Target & TJX Q1 prints (divergent reactions), the four-dissent FOMC April minutes, and Toll Brothers Q2 FY26.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-q1-fy27-earnings-may-20-2026",
+          "title": "NVIDIA Q1 FY27 — record $81.6B revenue (+85% Y/Y), Data Center $75.2B (+92%); Q2 guide $91B ±2% tops ~$87B est; $80B buyback added and dividend up 25x to $0.25; NVDA seesaws ~-0.7% AH despite beat-and-raise",
+          "category": "earnings",
+          "note": "Mega-cap NVDA earnings — beat-and-raise with record $81.6B revenue, +92% Data Center, $80B buyback, dividend up 25x; muted ~-0.7% AH response. Textbook seismic per the rubric."
+        },
+        {
+          "id": "spacex-s1-filing-may-20-2026",
+          "title": "SpaceX files S-1 for Nasdaq listing under 'SPCX' — targeting $75B raise at up to $1.75T valuation; 2025 revenue $18.67B with $2.59B op loss; June 12 list date eyed",
+          "category": "ipo",
+          "note": "Largest IPO filing ever (target $75B raise at up to $1.75T cap). First-ever audited income statement disclosed for SpaceX/Starlink. Pricing slated for June 11."
+        },
+        {
+          "id": "tgt-q1-2026-earnings-may-20-2026",
+          "title": "Target Q1 2026 — EPS $1.71 trounces $1.35 est, revenue $25.4B (+6.7% Y/Y), comp +5.6% (first +comp in five quarters); raises FY26 sales guide to ~4% growth — but TGT ~-4% on turnaround-durability doubts",
+          "category": "earnings",
+          "note": "First positive comp in 5 quarters with EPS smashing estimates, FY guide raised — yet TGT fell ~4% on durability doubts (also tagged mover)."
+        },
+        {
+          "id": "tjx-q1-fy27-earnings-may-20-2026",
+          "title": "TJX Q1 FY27 — net sales $14.3B (+9% Y/Y), comp +6% across all divisions; diluted EPS $1.19 (+29%) vs ~$1.02 est; raises FY27 EPS guide to $5.08–$5.15 and FY buyback to $2.75–$3.0B; TJX +~5%",
+          "category": "earnings",
+          "note": "Off-price keeps compounding — +6% comp across every division, EPS +29%, FY guide and buyback both raised; TJX +~5%."
+        },
+        {
+          "id": "fomc-april-2026-minutes-may-20",
+          "title": "April 28-29 FOMC minutes released — 8-4 vote to hold rates at 3.50-3.75% (4 dissents, most since Oct 1992); Miran wanted a 25bp cut, Hammack/Kashkari/Logan opposed easing-bias language",
+          "category": "macro",
+          "note": "Powell's last FOMC: first 4-dissent meeting since Oct 1992. Maps the policy split Warsh inherits."
+        },
+        {
+          "id": "tol-q2-fy26-earnings-may-19-2026",
+          "title": "Toll Brothers Q2 FY26 — EPS $2.72 beats $2.59 est on $2.51B home sales rev; signed-contract value +8% Y/Y to $2.81B (units +7%); raises full-year guide despite gross margin compression to 23.9%; TOL +~3%",
+          "category": "earnings",
+          "note": "Beat-and-raise homebuilder print with orders +8% and gross margin compression at 23.9%; TOL ~+3%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "ipo",
+        "macro",
+        "mover"
+      ]
     }
   ]
 }
