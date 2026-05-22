@@ -3132,6 +3132,57 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260522t130116z",
+      "timestamp": "2026-05-22T13:01:16.031Z",
+      "source": "github-actions-sweep",
+      "summary": "Friday sweep adds 4 earnings prints and 1 macro release from the past 24 hours: Zoom Q1 FY27 beat-and-raise plus $1B buyback, Deckers Q4 FY26 with HOKA strength and $3.5B buyback expansion, BJ's Wholesale Q1 FY26 with +28% digital comp, Booz Allen Q4 FY26 with a soft FY27 guide pointing to ongoing federal-IT contract slowdown, and Japan's April core CPI undershoot at +1.4% Y/Y ahead of the June BOJ.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "zm-q1-fy27-earnings-may-21-2026",
+          "title": "Zoom Q1 FY27 — revenue $1.239B (+5.5% Y/Y), non-GAAP EPS $1.55 beats ~$1.42 est; raises FY27 non-GAAP EPS guide to $5.96–$6.00 and adds $1B to buyback; ZM ~+8% AH",
+          "category": "earnings",
+          "note": "Beat-and-raise on revenue and EPS, plus +$1B buyback and AI Companion paid users +184% Y/Y after market close yesterday."
+        },
+        {
+          "id": "deck-q4-fy26-earnings-may-21-2026",
+          "title": "Deckers Q4 FY26 — Q4 revenue $1.119B (+9.6% Y/Y), EPS $0.96 beats $0.85 est; FY26 revenue $5.47B (+9.8%) with HOKA $2.59B (+15.9%) and UGG $2.74B (+8.2%); board adds $3.5B buyback to ~$5B total; DECK +~5% AH",
+          "category": "earnings",
+          "note": "FY26 close with record $5.47B revenue, HOKA at $2.59B (+15.9%), and $3.5B buyback expansion (~$5B total) — covers a separate event from Ross/TJX/Workday already in the feed."
+        },
+        {
+          "id": "bj-q1-fy26-earnings-may-22-2026",
+          "title": "BJ's Wholesale Q1 FY26 — revenue $5.66B (+9.9% Y/Y) beats $5.43B est, comp +6.3% (ex-gas +1.5%), EPS $1.10 vs $1.04 est; membership fee income +9.9% to $132.4M; FY26 adj EPS guide reiterated $4.40–$4.60",
+          "category": "earnings",
+          "note": "Q1 beat with comp +6.3%, digital comp +28%, and membership fee income +9.9% to $132.4M — fills the warehouse-club category alongside the WMT/TGT prints earlier this week."
+        },
+        {
+          "id": "bah-q4-fy26-earnings-may-22-2026",
+          "title": "Booz Allen Q4 FY26 — Q4 revenue $2.8B (-6.4% Y/Y), adj EPS $1.78; FY26 revenue $11.2B (-6.4%), record $38.2B backlog (+3.1%); FY27 revenue guide $11.2–$11.7B (0–4% growth) and adj EPS guide $6.00–$6.35 below FY26's $6.51",
+          "category": "earnings",
+          "note": "FY27 guide implies adj EPS below FY26's $6.51 — confirms federal-IT/DOGE contract slowdown is still binding in Civil work even as National Security accelerates."
+        },
+        {
+          "id": "japan-april-2026-cpi",
+          "title": "Japan April 2026 CPI — core (ex fresh food) +1.4% Y/Y, lowest since March 2022 and well below +1.7% Reuters consensus; headline +1.4% (from +1.5%) and core-core +1.9% (from +2.4%) as energy falls 3.9% and cost-of-living offsets bite",
+          "category": "macro",
+          "note": "Core CPI +1.4% Y/Y undershoots all forecasts, but the June BOJ hike to 1.00% is still consensus — a clean macro update with no prior Japan-CPI item in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "fx",
+        "mover"
+      ]
     }
   ]
 }

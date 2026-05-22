@@ -1,8 +1,355 @@
 {
-  "generatedAt": "2026-05-22T00:37:14.805Z",
+  "generatedAt": "2026-05-22T13:01:16.031Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "zm-q1-fy27-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Zoom Q1 FY27 — revenue $1.239B (+5.5% Y/Y), non-GAAP EPS $1.55 beats ~$1.42 est; raises FY27 non-GAAP EPS guide to $5.96–$6.00 and adds $1B to buyback; ZM ~+8% AH",
+      "org": "Zoom Communications",
+      "date": "2026-05-21",
+      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299724/0/en/Zoom-Communications-Reports-Financial-Results-for-the-First-Quarter-of-Fiscal-Year-2027.html",
+      "summary": "Zoom Q1 FY27: revenue $1.239B (+5.5%), non-GAAP EPS $1.55, FCF $500.5M; raises FY27 EPS guide to $5.96–$6.00; board adds $1.0B to buyback on top of $625M remaining; AI Companion paid users +184% Y/Y.",
+      "tickers": [
+        "ZM"
+      ],
+      "metrics": {
+        "Revenue": "$1.239B (+5.5% Y/Y; +4.6% CC)",
+        "Enterprise revenue": "$755.7M (+7.2% Y/Y)",
+        "GAAP EPS": "$1.42 (vs $0.81 prior)",
+        "Non-GAAP EPS": "$1.55 vs ~$1.42 est",
+        "Free cash flow": "$500.5M (vs $463.4M prior)",
+        "Non-GAAP op margin": "41.1% (+130bp Y/Y)",
+        "$100K+ customers": "4,534 (+8.2% Y/Y)",
+        "AI Companion paid users": "+184% Y/Y",
+        "FY27 revenue guide": "$5.080–$5.090B",
+        "FY27 non-GAAP EPS guide": "$5.96–$6.00",
+        "New buyback authorization": "+$1.0B (on top of $625M remaining)",
+        "Move": "~+8% AH"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q1-fy27",
+        "enterprise-saas",
+        "uc-as-a-service",
+        "ai-companion",
+        "buyback"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Zoom prints a Q1 beat-and-raise, adds $1B to its buyback, and shows AI Companion paid usage up 184% Y/Y.",
+        "whatIsIt": "Video and unified-communications vendor Zoom reported Q1 fiscal 2027 results (quarter ended April 30, 2026) after the close on May 21, 2026. Revenue grew 5.5% to $1.239B and non-GAAP EPS came in at $1.55, both above Street.",
+        "howItWorks": "Enterprise revenue grew 7.2% to $755.7M, now 61% of total. GAAP operating margin expanded 450bp to 25.1% and non-GAAP margin reached 41.1%. Free cash flow was $500.5M. The company has 4,534 customers paying $100K+, up 8.2%, and AI Companion paid users grew 184% Y/Y. Management raised FY27 revenue guide to $5.080–$5.090B and non-GAAP EPS to $5.96–$6.00, and the board approved an additional $1.0B share-repurchase authorization on top of $625M remaining at quarter-end.",
+        "whyItMatters": "Zoom has been treated as a melting-ice-cube post-COVID, so a beat-and-raise plus accelerating AI Companion adoption is a meaningful pivot for the bull case that productivity-SaaS players can monetize agent tooling. The $1B buyback bump puts capital-return back in the story alongside DDOG, WDAY, and other enterprise SaaS prints this quarter.",
+        "forWho": "enterprise SaaS investors, productivity-tech desks",
+        "tryIt": "https://finance.yahoo.com/quote/ZM"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/1a5e6f52-9a8e-432b-84cc-7dfb0e6623e2",
+        "alt": "Zoom Communications corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/21/3299724/0/en/Zoom-Communications-Reports-Financial-Results-for-the-First-Quarter-of-Fiscal-Year-2027.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/21/zoom-zm-q1-2027-earnings-call-transcript/"
+        },
+        {
+          "label": "Globe and Mail Mirror",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/2072360/zoom-communications-reports-financial-results-for-the-first-quarter-of-fiscal-year-2027/"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/ZM"
+        }
+      ],
+      "publishDate": "2026-05-22T13:01:16.031Z"
+    },
+    {
+      "id": "deck-q4-fy26-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Deckers Q4 FY26 — Q4 revenue $1.119B (+9.6% Y/Y), EPS $0.96 beats $0.85 est; FY26 revenue $5.47B (+9.8%) with HOKA $2.59B (+15.9%) and UGG $2.74B (+8.2%); board adds $3.5B buyback to ~$5B total; DECK +~5% AH",
+      "org": "Deckers Brands",
+      "date": "2026-05-21",
+      "url": "https://ir.deckers.com/news-events/press-releases/detail/656/deckers-brands-reports-fourth-quarter-and-full-fiscal-year-2026-financial-results",
+      "summary": "Deckers Q4 FY26: revenue $1.119B (+9.6%) and EPS $0.96 vs $0.85 est. FY26 revenue $5.47B (+9.8%); HOKA $2.59B (+15.9%), UGG $2.74B (+8.2%). FY27 EPS guide $7.30–$7.45 with no tariff refunds. $3.5B buyback added.",
+      "tickers": [
+        "DECK"
+      ],
+      "metrics": {
+        "Q4 revenue": "$1.119B (+9.6% Y/Y)",
+        "Q4 diluted EPS": "$0.96 vs ~$0.85 est",
+        "FY26 revenue": "$5.47B (+9.8% Y/Y)",
+        "FY26 HOKA revenue": "$2.587B (+15.9% Y/Y)",
+        "FY26 UGG revenue": "$2.739B (+8.2% Y/Y)",
+        "FY27 EPS guide": "$7.30–$7.45",
+        "FY27 op margin guide": "~21.5%",
+        "New buyback authorization": "+$3.5B (total ~$5B)",
+        "Move": "~+5% AH"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "fy26-results",
+        "hoka",
+        "ugg",
+        "consumer-discretionary",
+        "footwear",
+        "buyback",
+        "tariffs"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Deckers closes FY26 with $5.47B sales, HOKA up nearly 16%, and a $3.5B buyback expansion — but FY27 guide assumes no tariff refunds.",
+        "whatIsIt": "HOKA and UGG owner Deckers Brands reported Q4 and full-year fiscal 2026 results on May 21, 2026 after the close. Q4 revenue was $1.119B (+9.6%) and diluted EPS $0.96, both above expectations.",
+        "howItWorks": "For the full year, revenue grew 9.8% to a record $5.47B. HOKA generated $2.587B (+15.9%) — its largest year ever — while UGG contributed $2.739B (+8.2%). FY27 guidance calls for ~21.5% operating margin and diluted EPS of $7.30–$7.45; management explicitly excludes any tariff-refund benefit from the outlook. The board added $3.5B to the repurchase authorization, bringing total available to ~$5B.",
+        "whyItMatters": "Deckers is the cleanest single-name read on the premium-athletic and brand-durability story alongside ONON and LULU. HOKA's continued mid-teens growth at a $2.6B base argues the brand isn't peaking, while the buyback expansion signals management's confidence in cash flow despite tariff headwinds. The 'no tariff refund in guide' stance also resets the base for any Section 232/IEEPA settlement upside.",
+        "forWho": "consumer discretionary desks, brand-equity investors",
+        "tryIt": "https://finance.yahoo.com/quote/DECK"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_13092211f8679d51fc31f71545711b07/deckers/db/3588/33213/social_image_resized.jpg",
+        "alt": "Deckers Brands HOKA and UGG logos",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://ir.deckers.com/news-events/press-releases/detail/656/deckers-brands-reports-fourth-quarter-and-full-fiscal-year-2026-financial-results"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/21/deckers-deck-q4-2026-earnings-transcript/"
+        },
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000910521/000091052126000007/deckex991pressrelease-3312.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/DECK"
+        }
+      ],
+      "publishDate": "2026-05-22T13:01:16.031Z"
+    },
+    {
+      "id": "bj-q1-fy26-earnings-may-22-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "BJ's Wholesale Q1 FY26 — revenue $5.66B (+9.9% Y/Y) beats $5.43B est, comp +6.3% (ex-gas +1.5%), EPS $1.10 vs $1.04 est; membership fee income +9.9% to $132.4M; FY26 adj EPS guide reiterated $4.40–$4.60",
+      "org": "BJ's Wholesale Club",
+      "date": "2026-05-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001531152/000153115226000026/bj-2026050226x8kex991.htm",
+      "summary": "BJ's Q1 FY26: revenue $5.66B (+9.9%) and EPS $1.10 vs $1.04 est. Comp sales +6.3% (ex-gas +1.5%); membership fee income +9.9% to $132.4M; digitally enabled comp +28%. FY26 EPS guide reiterated $4.40–$4.60.",
+      "tickers": [
+        "BJ",
+        "COST",
+        "WMT"
+      ],
+      "metrics": {
+        "Revenue": "$5.66B (+9.9% Y/Y) vs $5.43B est",
+        "Comp club sales": "+6.3% Y/Y",
+        "Comp ex-gas": "+1.5% Y/Y",
+        "Digitally enabled comp": "+28% Y/Y",
+        "Adj EPS": "$1.10 vs ~$1.04 est",
+        "Membership fee income": "$132.4M (+9.9% Y/Y)",
+        "Gross profit": "$1.03B (vs $969.5M prior)",
+        "New clubs / gas stations": "1 / 6",
+        "FY26 adj EPS guide": "$4.40–$4.60 (reiterated)",
+        "Move": "~+3%"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "comp-sales",
+        "q1-fy26",
+        "warehouse-club",
+        "membership-fee",
+        "consumer-staples",
+        "digital-grocery"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "BJ's clears Q1 with +6.3% comps, +28% digital comp, and a 10% membership fee bump — but holds its full-year EPS guide steady.",
+        "whatIsIt": "Warehouse club retailer BJ's Wholesale reported fiscal Q1 (13 weeks ended May 2, 2026) before the open on May 22, 2026. Total revenue grew 9.9% to $5.66B and adjusted EPS came in at $1.10, both ahead of consensus.",
+        "howItWorks": "Comparable club sales rose 6.3% Y/Y; excluding gasoline, comps were +1.5% (vs +1.6% prior year — so traffic stayed positive even off a tough compare). Digitally enabled comparable sales surged 28%, layering on a 63% two-year stack. Membership fee income climbed 9.9% to $132.4M, and gross profit reached $1.03B from $969.5M last year. The company opened one new club and six new gas stations during the quarter, and reiterated its FY26 adjusted EPS guide of $4.40–$4.60.",
+        "whyItMatters": "BJ's is the cheapest of the three U.S. warehouse-club reads (vs COST and Sam's at WMT) and arguably the most levered to membership growth and food inflation. The +28% digital comp says the omni stack is finally working, while reiterated rather than raised guide reflects tariff and member-mix uncertainty. The print also fills in the consumer-staples picture next to WMT and TGT this week.",
+        "forWho": "consumer staples desks, retail analysts",
+        "tryIt": "https://finance.yahoo.com/quote/BJ"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1280px-BJs_Wholesale_Club_Logo.svg.png",
+        "alt": "BJ's Wholesale Club corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001531152/000153115226000026/bj-2026050226x8kex991.htm"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-22-bjs-nysebj-surprises-with-strong-q1-cy2026"
+        },
+        {
+          "label": "IR Quarterly Results",
+          "url": "https://investors.bjs.com/financials-and-filings/quarterly-results/default.aspx"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/BJ"
+        }
+      ],
+      "publishDate": "2026-05-22T13:01:16.031Z"
+    },
+    {
+      "id": "bah-q4-fy26-earnings-may-22-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Booz Allen Q4 FY26 — Q4 revenue $2.8B (-6.4% Y/Y), adj EPS $1.78; FY26 revenue $11.2B (-6.4%), record $38.2B backlog (+3.1%); FY27 revenue guide $11.2–$11.7B (0–4% growth) and adj EPS guide $6.00–$6.35 below FY26's $6.51",
+      "org": "Booz Allen Hamilton",
+      "date": "2026-05-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001443646/000162828026037519/bahexhibit991q4fy26_fina.htm",
+      "summary": "Booz Allen Q4 FY26: revenue $2.8B (-6.4%), adj EPS $1.78 (+10.6%). FY26: revenue $11.2B (-6.4%), adj EPS $6.51 (+2.5%), backlog $38.2B. FY27 guide 0–4% revenue growth and adj EPS $6.00–$6.35 below FY26 actual.",
+      "tickers": [
+        "BAH"
+      ],
+      "metrics": {
+        "Q4 revenue": "$2.8B (-6.4% Y/Y)",
+        "Q4 net income": "$205M (+6.2% Y/Y)",
+        "Q4 adj EBITDA": "$309M (11.1% margin)",
+        "Q4 adj diluted EPS": "$1.78 (+10.6% Y/Y)",
+        "Q4 free cash flow": "$212M (vs $194M prior)",
+        "FY26 revenue": "$11.2B (-6.4% Y/Y)",
+        "FY26 adj EPS": "$6.51 (+2.5% Y/Y)",
+        "FY26 FCF": "$951M (+4.4% Y/Y)",
+        "Total backlog": "$38.2B (+3.1% Y/Y)",
+        "TTM book-to-bill": "1.1x",
+        "FY27 revenue guide": "$11.2–$11.7B (0–4%)",
+        "FY27 adj EPS guide": "$6.00–$6.35 (below FY26 $6.51)",
+        "FY27 FCF guide": "$825–$925M",
+        "Quarterly dividend": "$0.59/share"
+      },
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "defense-it",
+        "federal-contracts",
+        "civil-portfolio",
+        "national-security",
+        "doge-overhang",
+        "guidance-cut"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Booz Allen closes a 6.4% down year and guides FY27 EPS below FY26's $6.51 — federal-IT contract pause flips this from growth name to value question.",
+        "whatIsIt": "Defense and federal-IT consultancy Booz Allen Hamilton reported Q4 and full-year fiscal 2026 results before the open on May 22, 2026. Q4 revenue fell 6.4% to $2.8B while adjusted diluted EPS rose 10.6% to $1.78. Full-year revenue declined 6.4% to $11.2B.",
+        "howItWorks": "Q4 net income rose 6.2% to $205M and Q4 free cash flow reached $212M. FY26 adjusted EPS was $6.51 (+2.5%) on $951M FCF (+4.4%). Total backlog hit a record $38.2B (+3.1%) with a 1.1x trailing 12-month book-to-bill. Management's FY27 outlook calls for revenue of $11.2–$11.7B (0–4% growth), adjusted diluted EPS of $6.00–$6.35 — below FY26's $6.51 — and FCF of $825–$925M. The quarterly dividend is held at $0.59/share, payable June 26, 2026.",
+        "whyItMatters": "Booz Allen is the bellwether for U.S. federal IT spend alongside LDOS, SAIC, and CACI. A second straight year of revenue decline and an EPS guide that doesn't grow off FY26 confirms the DOGE-era federal-contract slowdown is still biting Civil work even as National Security demand accelerates. Margins and cash flow are holding up via cost actions and mix, but the topline reset puts BAH back in the federal-services derate trade.",
+        "forWho": "defense and federal-IT desks, gov-services investors",
+        "tryIt": "https://finance.yahoo.com/quote/BAH"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Booz_Allen_Hamilton_logo.svg/1280px-Booz_Allen_Hamilton_logo.svg.png",
+        "alt": "Booz Allen Hamilton corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001443646/000162828026037519/bahexhibit991q4fy26_fina.htm"
+        },
+        {
+          "label": "8-K Exhibit 99.2",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001443646/000162828026037519/bahexhibit992q4fy26_fina.htm"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/sec-filings/BAH/8-k-booz-allen-hamilton-holding-corp-reports-material-event-225f075b71f7.html"
+        },
+        {
+          "label": "CNN Markets Quote",
+          "url": "https://www.cnn.com/markets/stocks/BAH"
+        }
+      ],
+      "publishDate": "2026-05-22T13:01:16.031Z"
+    },
+    {
+      "id": "japan-april-2026-cpi",
+      "categories": [
+        "macro",
+        "fx"
+      ],
+      "title": "Japan April 2026 CPI — core (ex fresh food) +1.4% Y/Y, lowest since March 2022 and well below +1.7% Reuters consensus; headline +1.4% (from +1.5%) and core-core +1.9% (from +2.4%) as energy falls 3.9% and cost-of-living offsets bite",
+      "org": "Statistics Bureau of Japan",
+      "date": "2026-05-22",
+      "url": "https://www.cnbc.com/2026/05/22/japan-april-core-inflation-boj-rate-hike-outlook.html",
+      "summary": "Japan April CPI undershoots: core (ex fresh food) +1.4% Y/Y vs +1.7% Reuters est, headline +1.4%, core-core +1.9%. Energy -3.9% and cost-of-living subsidies cool the print; markets still see BOJ moving to 1.00% in June.",
+      "tickers": [],
+      "metrics": {
+        "Core CPI (ex fresh food)": "+1.4% Y/Y vs +1.7% Reuters est (from +1.8% Mar)",
+        "Headline CPI": "+1.4% Y/Y (from +1.5% Mar)",
+        "Core-core (ex food & energy)": "+1.9% Y/Y (from +2.4% Mar)",
+        "Energy prices": "-3.9% Y/Y (vs -5.7% Mar)",
+        "Months below BOJ 2% target": "4 (headline)",
+        "Expected BOJ June short-rate": "1.00% (from 0.75%)"
+      },
+      "tags": [
+        "macro",
+        "japan",
+        "cpi",
+        "boj",
+        "rate-hike",
+        "core-core",
+        "energy",
+        "yen"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Japan's core CPI slowed to a four-year low of 1.4% in April — but the BOJ is still tracking toward a June hike.",
+        "whatIsIt": "Japan's Statistics Bureau released April 2026 nationwide CPI on May 22, 2026. Headline inflation eased to +1.4% Y/Y (from +1.5% in March) and core CPI (excluding fresh food) — the BOJ's most-watched gauge — slowed to +1.4% from +1.8%, undershooting all forecasts in a Reuters poll that had a +1.7% median.",
+        "howItWorks": "Core-core CPI (ex food and energy), the gauge that tracks underlying services and goods, fell to +1.9% from +2.4% the prior month. Energy prices dropped 3.9% Y/Y, smaller than March's -5.7% decline but still a drag. Headline is now four straight months below the BOJ's 2% target, with government cost-of-living measures and softer processed-food prices cited as the main offsets to the lingering Iran-war energy shock.",
+        "whyItMatters": "Despite the downside surprise, market consensus and Reuters reporting still place the June BOJ meeting as a likely venue for a 25bp hike to 1.00% from 0.75% — i.e., Ueda is treating the slowdown as transitory from energy subsidies. That keeps JPY traders watching tomorrow's MOF/BOJ communications closely. A softer-than-expected print would have meant clear yen weakness, but with the hike still in play, the cross stays in a tight range.",
+        "forWho": "FX/macro traders, BOJ watchers",
+        "tryIt": "https://www.stat.go.jp/english/data/cpi/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108310959-1779406786847-gettyimages-2272149788-AFP_A8TV29F.jpeg?v=1779406815&w=1920&h=1080",
+        "alt": "Bank of Japan headquarters in Tokyo",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/22/japan-april-core-inflation-boj-rate-hike-outlook.html"
+        },
+        {
+          "label": "Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/05/22/economy/cpi-april-rise/"
+        },
+        {
+          "label": "Japan CPI Schedule (Stat Bureau)",
+          "url": "https://www.stat.go.jp/english/data/cpi/1582.html"
+        }
+      ],
+      "publishDate": "2026-05-22T13:01:16.031Z"
+    },
     {
       "id": "rost-q1-fy26-earnings-may-21-2026",
       "categories": [
