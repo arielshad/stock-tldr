@@ -3076,6 +3076,62 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260522t003714z",
+      "timestamp": "2026-05-22T00:37:14.805Z",
+      "source": "github-actions-sweep",
+      "summary": "Five adds for the May 20–21, 2026 window: Ross Stores Q1 FY26 blowout, Workday Q1 FY27 beat-and-raise, Ralph Lauren Q4 FY26 record, the $2B U.S. quantum-computing CHIPS LOIs (multi-stock event), and Applied Digital's 1 GW Polaris Forge 3 hyperscaler lease. No semantic collisions with existing entries.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rost-q1-fy26-earnings-may-21-2026",
+          "title": "Ross Stores Q1 FY26 — revenue $6.0B (+21% Y/Y), comp sales +17%, EPS $2.02 (+37%) trounces ~$1.70 est; raises FY26 EPS guide to $7.50–$7.74 and Q2 EPS guide to $1.85–$1.93; ROST +~5% AH",
+          "category": "earnings",
+          "note": "Off-price retail bellwether posts a +17% comp print with FY26 + Q2 guides above Street — fits earnings tier with strong AH reaction."
+        },
+        {
+          "id": "wday-q1-fy27-earnings-may-21-2026",
+          "title": "Workday Q1 FY27 — revenue $2.542B (+13.5% Y/Y), subscription $2.354B (+14.3%), non-GAAP EPS $2.66 vs ~$2.49 est; FY27 non-GAAP op margin guide lifted to 30.5%; WDAY +~10.8% AH",
+          "category": "earnings",
+          "note": "Enterprise SaaS beat-and-raise with operating margin guide bumped to 30.5%; +~10.8% AH lifted the whole SaaS cohort."
+        },
+        {
+          "id": "rl-q4-fy26-earnings-may-21-2026",
+          "title": "Ralph Lauren Q4 FY26 — revenue $1.98B (+17% reported / +12% CC) beats $1.85B est, FY26 revenue tops $8B for first time; FY27 guide mid-single-digits CC + op margin +40–60bp; RL +~10% on the day",
+          "category": "earnings",
+          "note": "Ralph Lauren clears $8B annual revenue for the first time on +50% China and +16% AUR — moved +10.26% on day."
+        },
+        {
+          "id": "us-quantum-chips-2b-lois-may-21-2026",
+          "title": "U.S. Commerce signs $2.013B CHIPS Act Letters of Intent with 9 quantum-computing firms — IBM $1B for new Albany 'Anderon' foundry, GlobalFoundries $375M, plus $100M each for Rigetti, D-Wave, Atom Computing, Infleqtion, PsiQuantum and Quantinuum (Diraq $38M); government takes minority non-controlling equity stakes",
+          "category": "regulatory",
+          "note": "First federal-scale CHIPS award for quantum — multi-stock catalyst with RGTI/QBTS double-digit rips and a new Albany IBM foundry (Anderon)."
+        },
+        {
+          "id": "apld-polaris-forge-3-hyperscaler-lease-may-20-2026",
+          "title": "Applied Digital signs 300 MW 15-year lease at Polaris Forge 3 with investment-grade U.S. hyperscaler — $7.5B base / up to $18.2B with renewals; total contracted pipeline now ~$31B (or $73B with all renewals) across 1.2 GW; APLD +~8–16%",
+          "category": "mover",
+          "note": "Second 300 MW take-or-pay with the same hyperscaler that anchored Delta Forge 1 — pipeline now $31B / 1 GW contracted, central to AI infrastructure thesis."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "regulatory",
+        "macro",
+        "mna",
+        "rates",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,369 @@
 {
-  "generatedAt": "2026-05-21T13:13:12.881Z",
+  "generatedAt": "2026-05-22T00:37:14.805Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rost-q1-fy26-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Ross Stores Q1 FY26 — revenue $6.0B (+21% Y/Y), comp sales +17%, EPS $2.02 (+37%) trounces ~$1.70 est; raises FY26 EPS guide to $7.50–$7.74 and Q2 EPS guide to $1.85–$1.93; ROST +~5% AH",
+      "org": "Ross Stores",
+      "date": "2026-05-21",
+      "url": "https://www.prnewswire.com/news-releases/ross-stores-reports-robust-first-quarter-sales-and-earnings-results-significantly-exceeding-guidance-302779470.html",
+      "summary": "Off-price retailer trounces Q1 with $6.0B revenue (+21%), 17% comp sales gain, and EPS $2.02 vs $1.70 est. Raises FY26 and Q2 guides; net income $650M.",
+      "tickers": [
+        "ROST",
+        "TJX"
+      ],
+      "metrics": {
+        "EPS": "$2.02 vs ~$1.70 est (+37% Y/Y from $1.47)",
+        "Revenue": "$6.0B (+21% Y/Y)",
+        "Comp sales": "+17%",
+        "Operating margin": "13.4% (vs 11.8–12.1% guide)",
+        "Net income": "$650M (vs $479M prior year)",
+        "FY26 EPS guide": "$7.50–$7.74 (vs $7.31 Street)",
+        "Q2 EPS guide": "$1.85–$1.93 (vs $1.79 est)",
+        "Move": "+~5% AH"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q1-2026",
+        "off-price-retail",
+        "comp-sales",
+        "buyback",
+        "consumer-discretionary"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Ross Stores rips Q1 with +21% revenue and +17% comps — and raises both Q2 and full-year guides above Street.",
+        "whatIsIt": "Off-price retailer Ross Stores reported Q1 FY26 results after the close on May 21, 2026. Sales grew 21% to $6.0B and comparable store sales jumped 17% — well above plan — with EPS $2.02 trouncing the $1.70 Street estimate.",
+        "howItWorks": "Q1 net income was $650M vs $479M prior year (EPS $2.02 vs $1.47, +37%). Operating margin expanded to 13.4%, compared with the company's own 11.8%–12.1% guide. The company raised FY26 EPS guidance to $7.50–$7.74 (13–17% growth) and Q2 EPS to $1.85–$1.93 on +6–7% comp guidance, ahead of consensus. Ross repurchased 1.5M shares for $319M and remains on track for $1.275B FY26 buybacks.",
+        "whyItMatters": "ROST is one of the two bellwethers (alongside TJX) for the U.S. off-price consumer trade-down theme. Comp sales of +17% — versus TJX's +6% — points to share gains as tariffs and inflation push more shoppers into off-price. Strong AH reaction (+~5%) extends a multi-week off-price rally.",
+        "forWho": "retail desks, consumer discretionary investors",
+        "tryIt": "https://finance.yahoo.com/quote/ROST"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/company-logo/rost-lg.png?v=5348beee9b",
+        "alt": "Ross Stores corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/ross-stores-reports-robust-first-quarter-sales-and-earnings-results-significantly-exceeding-guidance-302779470.html"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000745732/000074573226000025/q126exhibit991.htm"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/21/ross-stores-rost-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/ROST"
+        }
+      ],
+      "publishDate": "2026-05-22T00:37:14.805Z"
+    },
+    {
+      "id": "wday-q1-fy27-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Workday Q1 FY27 — revenue $2.542B (+13.5% Y/Y), subscription $2.354B (+14.3%), non-GAAP EPS $2.66 vs ~$2.49 est; FY27 non-GAAP op margin guide lifted to 30.5%; WDAY +~10.8% AH",
+      "org": "Workday",
+      "date": "2026-05-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000024/wday-04302026x991.htm",
+      "summary": "Workday's Q1 FY27 beats: revenue $2.54B (+13.5%) and non-GAAP EPS $2.66 top estimates; operating income $338M up from $39M. FY27 non-GAAP margin guide raised to 30.5%.",
+      "tickers": [
+        "WDAY"
+      ],
+      "metrics": {
+        "Revenue": "$2.542B (+13.5% Y/Y)",
+        "Subscription revenue": "$2.354B (+14.3% Y/Y)",
+        "Non-GAAP EPS": "$2.66 vs ~$2.49 est (vs $2.23 prior)",
+        "GAAP Operating income": "$338M (13.3% margin) vs $39M prior",
+        "Q2 FY27 subscription guide": "$2.455B (+13% Y/Y)",
+        "FY27 subscription guide": "$9.925–$9.950B (+12–13%)",
+        "FY27 non-GAAP op margin guide": "30.5% (raised)",
+        "Move": "+~10.8% AH"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q1-fy27",
+        "enterprise-saas",
+        "hcm",
+        "subscription-revenue",
+        "margin-expansion"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Workday beats Q1 FY27 on revenue, EPS, and margins — and lifts its full-year operating margin guide to 30.5%.",
+        "whatIsIt": "HCM and financials software vendor Workday reported Q1 fiscal 2027 results on May 21, 2026 after the close. Total revenue grew 13.5% to $2.542B with subscription revenue up 14.3% to $2.354B, both ahead of Street.",
+        "howItWorks": "GAAP operating income jumped to $338M (13.3% margin) from $39M (1.8% margin) a year earlier. Non-GAAP diluted EPS was $2.66 vs ~$2.49 consensus and $2.23 prior. Q2 subscription guide is $2.455B (+13%); FY27 subscription range $9.925–$9.950B is unchanged but the non-GAAP operating margin guide was raised to 30.5%.",
+        "whyItMatters": "Workday's margin lift extends the operating-leverage story that drove enterprise SaaS reratings this year, alongside DDOG, HUBS and TEAM prints. Shares jumped ~10.8% AH, dragging up the SaaS cohort after a soft midweek tape. The 13% subscription growth shows enterprise IT spend remains intact despite macro noise.",
+        "forWho": "enterprise SaaS investors, growth desks",
+        "tryIt": "https://finance.yahoo.com/quote/WDAY"
+      },
+      "image": {
+        "url": "https://newsroom.workday.com/image/workday-social-logo.jpg",
+        "alt": "Workday corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000024/wday-04302026x991.htm"
+        },
+        {
+          "label": "Workday Newsroom",
+          "url": "https://newsroom.workday.com/2026-05-21-Workday-Announces-Fiscal-2027-First-Quarter-Financial-Results"
+        },
+        {
+          "label": "Earnings Call Page",
+          "url": "https://investor.workday.com/news-and-events/investor-relations-events/event-details/2026/Workday-Q1-FY27-Earnings-Conference-Call-2026-PmDz55qHvs/default.aspx"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/WDAY"
+        }
+      ],
+      "publishDate": "2026-05-22T00:37:14.805Z"
+    },
+    {
+      "id": "rl-q4-fy26-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Ralph Lauren Q4 FY26 — revenue $1.98B (+17% reported / +12% CC) beats $1.85B est, FY26 revenue tops $8B for first time; FY27 guide mid-single-digits CC + op margin +40–60bp; RL +~10% on the day",
+      "org": "Ralph Lauren",
+      "date": "2026-05-21",
+      "url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw0c79fa78/assets/images/PRESS_RELEASES/Q4FY26_Announcement.pdf",
+      "summary": "Ralph Lauren tops Q4 with $1.98B revenue (+17%) and adj EPS $2.80, FY26 revenue first-ever $8B+; China sales +50%+ and 1.4M new DTC customers added. FY27 guide steady.",
+      "tickers": [
+        "RL"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$1.98B (+17% reported / +12% CC) vs $1.85B est",
+        "Q4 GAAP EPS": "$2.45",
+        "Q4 Adj EPS": "$2.80",
+        "Q4 Adj gross margin": "69.0% (+40bp Y/Y)",
+        "FY26 Revenue": "$8.1B (+15%)",
+        "FY26 Op margin (CC)": "15.4% (+140bp Y/Y)",
+        "China sales": "+50%+ in Q4",
+        "Asia sales": "+~30% in Q4",
+        "FY26 FCF": "~$750M",
+        "Dividend": "+10% annual hike",
+        "Move": "+10.26% on the day"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "q4-fy26",
+        "luxury",
+        "apparel",
+        "dtc",
+        "china",
+        "dividend-raise",
+        "consumer-discretionary"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Ralph Lauren clears $8B in annual revenue for the first time, with Q4 lifted by 50%+ China growth and AUR up 16%.",
+        "whatIsIt": "Polo Ralph Lauren reported fourth-quarter and full-year fiscal 2026 results (period ended March 28, 2026) on May 21, 2026 — beating Street on revenue and gross margin and providing a steady FY27 outlook.",
+        "howItWorks": "Q4 revenue of $1.98B (+17% reported / +12% CC) beat the $1.85B estimate, with global retail comp sales +17%, China +50%+, and Asia +~30%. Adjusted EPS was $2.80 (GAAP $2.45). FY26 revenue surpassed $8B for the first time at $8.1B (+15%), with op margin +140bp to 15.4% CC, ~$750M FCF, and a 10% dividend hike. FY27 guide: mid-single-digit CC revenue growth (~4–5%) + ~1pt from the extra week, and operating margin expansion of 40–60bp.",
+        "whyItMatters": "RL's elevation playbook (AUR +16%, 1.4M new Q4 DTC customers) is delivering at scale even with EMEA softer on Iran-driven tourism. The +10% session gain validated the luxury-resilience narrative versus mass apparel; LVMH, KER, TPR are the obvious read-throughs after TPR's own beat earlier in May.",
+        "forWho": "luxury/apparel desks, consumer discretionary investors",
+        "tryIt": "https://finance.yahoo.com/quote/RL"
+      },
+      "image": {
+        "url": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/460a/0fc4/8f0e/4a77/c17c/4eb5/b51f/4dd5/7f95/043e/043e.jpg",
+        "alt": "Ralph Lauren brand imagery on display",
+        "fit": "cover",
+        "credit": "Fashion Network"
+      },
+      "links": [
+        {
+          "label": "Q4 FY26 Release (PDF)",
+          "url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw0c79fa78/assets/images/PRESS_RELEASES/Q4FY26_Announcement.pdf"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/21/ralph-lauren-rl-q4-2026-earnings-transcript/"
+        },
+        {
+          "label": "Fashion Network Coverage",
+          "url": "https://us.fashionnetwork.com/news/Ralph-lauren-s-fourth-quarter-revenue-beats-analysts-estimates-to-total-1-98-billion,1834105.html"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/RL"
+        }
+      ],
+      "publishDate": "2026-05-22T00:37:14.805Z"
+    },
+    {
+      "id": "us-quantum-chips-2b-lois-may-21-2026",
+      "categories": [
+        "regulatory",
+        "sector",
+        "mover"
+      ],
+      "title": "U.S. Commerce signs $2.013B CHIPS Act Letters of Intent with 9 quantum-computing firms — IBM $1B for new Albany 'Anderon' foundry, GlobalFoundries $375M, plus $100M each for Rigetti, D-Wave, Atom Computing, Infleqtion, PsiQuantum and Quantinuum (Diraq $38M); government takes minority non-controlling equity stakes",
+      "org": "U.S. Department of Commerce",
+      "date": "2026-05-21",
+      "url": "https://newsroom.ibm.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry",
+      "summary": "Commerce Department signs 9 CHIPS Act letters of intent totaling $2.013B for U.S. quantum: IBM $1B, GlobalFoundries $375M, six $100M awards, plus Diraq $38M; RGTI +23%, QBTS +~20%, IBM +6.2%.",
+      "tickers": [
+        "IBM",
+        "RGTI",
+        "QBTS",
+        "GFS",
+        "IONQ"
+      ],
+      "metrics": {
+        "Total CHIPS funding": "$2.013B",
+        "IBM (Anderon foundry)": "$1.0B + IBM $1.0B match",
+        "GlobalFoundries": "$375M",
+        "Atom Computing": "$100M",
+        "D-Wave Quantum": "$100M",
+        "Infleqtion": "$100M",
+        "PsiQuantum": "$100M",
+        "Quantinuum": "$100M",
+        "Rigetti Computing": "$100M",
+        "Diraq": "$38M",
+        "IBM move": "+6.2%",
+        "RGTI move": "+~23%",
+        "QBTS move": "+~20%",
+        "IONQ move": "+6.9% premarket"
+      },
+      "tags": [
+        "chips-act",
+        "quantum-computing",
+        "industrial-policy",
+        "trump-administration",
+        "ibm",
+        "rigetti",
+        "d-wave",
+        "globalfoundries",
+        "psiquantum",
+        "ionq",
+        "sector-rally"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Washington's first big-money quantum bet: $2B in CHIPS Letters of Intent across 9 firms — and Uncle Sam takes minority equity in each.",
+        "whatIsIt": "On May 21, 2026 the U.S. Department of Commerce announced it had signed Letters of Intent with nine American quantum-computing companies for $2.013B in CHIPS and Science Act incentives. The package is anchored by a proposed $1B IBM award to build 'Anderon', a new pure-play 300mm quantum wafer foundry in Albany, NY.",
+        "howItWorks": "Awards: IBM $1B (matched by IBM with $1B cash for Anderon), GlobalFoundries $375M, $100M each to Atom Computing, D-Wave, Infleqtion, PsiQuantum, Quantinuum, and Rigetti, and $38M to Diraq. As a condition of receiving funds, Commerce will take a minority, non-controlling equity stake in each company. Anderon would serve multiple quantum hardware vendors with superconducting qubit wafers first.",
+        "whyItMatters": "First federal-scale industrial policy for U.S. quantum, with the Commerce Department now also a quantum equity holder — mirroring the Intel CHIPS-equity precedent. RGTI ripped ~23%, QBTS ~20%, IBM +6.2%, IONQ +6.9% premarket despite not being on the award list. Quantum stocks turned a sub-sector that traded mostly on press-release tone into a CHIPS Act beneficiary.",
+        "forWho": "policy desks, semis/AI infrastructure, quantum specialists",
+        "tryIt": "https://www.commerce.gov"
+      },
+      "image": {
+        "url": "https://newsroom.ibm.com/image/Anderon_newsroom_SOCIAL1920x1080.png",
+        "alt": "IBM and Commerce Department announce Anderon quantum foundry",
+        "fit": "cover",
+        "credit": "IBM"
+      },
+      "links": [
+        {
+          "label": "IBM Press Release",
+          "url": "https://newsroom.ibm.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry"
+        },
+        {
+          "label": "Quantum Insider Recap",
+          "url": "https://thequantuminsider.com/2026/05/21/u-s-department-of-commerce-announces-letters-of-intent-with-9-companies-for-2-billion/"
+        },
+        {
+          "label": "Rigetti $100M LOI",
+          "url": "https://www.globenewswire.com/news-release/2026/05/21/3299199/0/en/Rigetti-Signs-Letter-of-Intent-with-U-S-Government-for-Quantum-Computing-Research.html"
+        },
+        {
+          "label": "StockTitan IBM Coverage",
+          "url": "https://www.stocktitan.net/news/IBM/ibm-and-u-s-department-of-commerce-announce-america-s-first-purpose-r4g0gtc1gur8.html"
+        }
+      ],
+      "publishDate": "2026-05-22T00:37:14.805Z"
+    },
+    {
+      "id": "apld-polaris-forge-3-hyperscaler-lease-may-20-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Applied Digital signs 300 MW 15-year lease at Polaris Forge 3 with investment-grade U.S. hyperscaler — $7.5B base / up to $18.2B with renewals; total contracted pipeline now ~$31B (or $73B with all renewals) across 1.2 GW; APLD +~8–16%",
+      "org": "Applied Digital",
+      "date": "2026-05-20",
+      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298880/0/en/Applied-Digital-Reaches-Significant-Milestone-Surpassing-1-GW-of-Contracted-Capacity-with-U-S-Based-High-Investment-Grade-Hyperscaler-Lease-at-Fourth-Campus-Polaris-Forge-3.html",
+      "summary": "Applied Digital crosses 1 GW contracted with a 300 MW, 15-year take-or-pay AI-campus lease at Polaris Forge 3 — $7.5B base ramping up to $18.2B with renewals; total pipeline ~$31B.",
+      "tickers": [
+        "APLD"
+      ],
+      "metrics": {
+        "Critical IT load": "300 MW (Polaris Forge 3)",
+        "Term": "15-year take-or-pay",
+        "Base contracted revenue": "~$7.5B",
+        "Total potential value (w/ renewals)": "$18.2B",
+        "Hyperscaler grade": "U.S. investment-grade (existing Delta Forge 1 customer)",
+        "Net contracted IT load": "1,200 MW across four campuses",
+        "Total pipeline": "~$31B (up to ~$73B with renewals)",
+        "First operations": "August 2027",
+        "Move": "+~8–16%"
+      },
+      "tags": [
+        "ai-datacenter",
+        "hyperscaler-lease",
+        "polaris-forge",
+        "take-or-pay",
+        "ai-capex",
+        "data-center-reit-adj",
+        "gigawatt"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Applied Digital crosses the 1 GW contracted line with a second 300 MW AI campus lease, locking in $7.5B base / up to $18.2B over renewals.",
+        "whatIsIt": "AI-infrastructure developer Applied Digital announced on May 20, 2026 that it has signed a 15-year, 300 MW critical IT load lease at its Polaris Forge 3 campus with a U.S.-based investment-grade hyperscaler — the same anchor tenant already at Delta Forge 1.",
+        "howItWorks": "The deal is take-or-pay with ~$7.5B of base contracted revenue and up to $18.2B counting renewal options. It lifts Applied Digital's net contracted IT load to 1,200 MW (1,670 MW gross utility power) across four AI Factory campuses, with total contracted revenue now ~$31B (or ~$73B if all renewals exercised). Polaris Forge 3 is targeted for first operations in August 2027.",
+        "whyItMatters": "Crossing 1 GW of contracted capacity puts APLD in the same tier as the largest pure-play AI campus operators; the repeat business from an existing hyperscaler signals execution credibility. The print fits the broader AI-power buildout narrative also driving CEG, VST, IREN, and NBIS — but unlike utility names, APLD's revenue locks in via long-dated take-or-pay structures.",
+        "forWho": "AI infrastructure, data-center reit-adjacent, power desks",
+        "tryIt": "https://finance.yahoo.com/quote/APLD"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/a09f7f80-1e66-44ed-b53a-6007ec7be92a",
+        "alt": "Applied Digital Polaris Forge AI data center campus",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/20/3298880/0/en/Applied-Digital-Reaches-Significant-Milestone-Surpassing-1-GW-of-Contracted-Capacity-with-U-S-Based-High-Investment-Grade-Hyperscaler-Lease-at-Fourth-Campus-Polaris-Forge-3.html"
+        },
+        {
+          "label": "IR Page",
+          "url": "https://ir.applieddigital.com/news-events/press-releases/detail/152/applied-digital-reaches-significant-milestone-surpassing-1"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001144879/000114487926000036/apld_deltaforgexprxfinal.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/APLD"
+        }
+      ],
+      "publishDate": "2026-05-22T00:37:14.805Z"
+    },
     {
       "id": "wmt-q1-fy27-earnings-may-21-2026",
       "categories": [
