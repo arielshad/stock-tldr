@@ -3240,6 +3240,53 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260523t122435z",
+      "timestamp": "2026-05-23T12:24:35.520Z",
+      "source": "github-actions-sweep",
+      "summary": "Memorial Day weekend sweep: four adds from the May 21–22 window. Take-Two Q4 FY26 print + GTA VI date, Qualcomm/Stellantis Snapdragon expansion + aiMotive LOI, Kevin Warsh sworn in as Fed Chair at the White House, and SEC's pause on the tokenized-stocks Innovation Exemption framework. Existing items already cover the Friday DOW record, Lenovo / Dell / Ross / Workday / Zoom prints, OpenAI S-1 rumor, and UMich sentiment.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ttwo-q4-fy26-earnings-may-21-2026",
+          "title": "Take-Two Q4 FY26 — Q4 net bookings $1.58B above guide; FY26 net bookings $6.72B; FY27 guide $8.0–$8.2B (+~20%) led by Grand Theft Auto VI on November 19, 2026; TTWO ~-6% Friday on GTA VI launch-window math",
+          "category": "earnings",
+          "note": "TTWO Q4 FY26 cleared the high end of guide, set FY27 bookings $8.0–$8.2B with GTA VI dated Nov 19; stock dropped ~6% on May 22 as Street wanted more."
+        },
+        {
+          "id": "qcom-stla-snapdragon-expansion-may-21-2026",
+          "title": "Qualcomm and Stellantis expand multi-year deal — Snapdragon Digital Chassis + Snapdragon Ride Pilot ADAS across STLA Brain next-gen vehicles globally, with non-binding LOI for Stellantis' aiMotive to join Qualcomm; QCOM +12% Friday",
+          "category": "mover",
+          "note": "Qualcomm-Stellantis expand multi-year deal across Snapdragon Digital Chassis + Snapdragon Ride Pilot L2+ ADAS; aiMotive LOI to join QCOM; QCOM +~12% Friday."
+        },
+        {
+          "id": "warsh-sworn-in-white-house-may-22-2026",
+          "title": "Kevin Warsh sworn in as Fed Chair at the White House on May 22 — Justice Clarence Thomas administers oath in the East Room; first Fed Chair sworn in at the White House since Reagan/Greenspan in 1987; Trump says 'I want Kevin to be totally independent' before stumping for faster rate cuts",
+          "category": "macro",
+          "note": "Warsh sworn in as Fed Chair at the White House (East Room) on May 22 with Justice Thomas administering the oath — first WH Fed Chair ceremony since Greenspan 1987."
+        },
+        {
+          "id": "sec-tokenized-stocks-pause-may-22-2026",
+          "title": "SEC pauses Innovation Exemption framework for tokenized stocks on May 22 — pulls planned 'this week' release after Nasdaq, Cboe and CME flag investor-protection concerns; BTC slips ~3.6% below $76K and COIN -~4%",
+          "category": "regulatory",
+          "note": "SEC pauses planned Innovation Exemption framework for tokenized stocks after exchange-side pushback; BTC ~-3.6% below $76K, COIN ~-4%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "regulatory",
+        "crypto",
+        "sector"
+      ]
     }
   ]
 }

@@ -1,8 +1,268 @@
 {
-  "generatedAt": "2026-05-23T00:35:58.201Z",
+  "generatedAt": "2026-05-23T12:24:35.520Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ttwo-q4-fy26-earnings-may-21-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Take-Two Q4 FY26 — Q4 net bookings $1.58B above guide; FY26 net bookings $6.72B; FY27 guide $8.0–$8.2B (+~20%) led by Grand Theft Auto VI on November 19, 2026; TTWO ~-6% Friday on GTA VI launch-window math",
+      "org": "Take-Two Interactive",
+      "date": "2026-05-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026037260/ttwo4q26earningsrelease.htm",
+      "summary": "Take-Two prints record FY26 net bookings $6.72B and guides FY27 to $8.0–$8.2B with Grand Theft Auto VI dated for November 19; TTWO -6.4% Friday as Street had penciled in a steeper GTA VI ramp.",
+      "tags": [
+        "earnings",
+        "video-games",
+        "guide-set",
+        "gta6",
+        "fy27-guide",
+        "recurrent-consumer-spending",
+        "q4-fy26",
+        "mid-cap"
+      ],
+      "tickers": [
+        "TTWO"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q4 net bookings": "$1.58B (vs $1.51–$1.56B guide)",
+        "FY26 net bookings": "$6.72B record",
+        "FY27 net bookings guide": "$8.0–$8.2B (~+20%)",
+        "FY26 operating cash flow": "$624M (vs $450M initial)",
+        "Recurrent spending": "78% of bookings (+17% Y/Y)",
+        "GTA VI launch": "Nov 19, 2026",
+        "Friday move": "-6.4%"
+      },
+      "explainer": {
+        "tagline": "Take-Two beats Q4 and prints first FY27 bookings guide with GTA VI dated Nov 19 — stock slips ~6% as Street wanted a bigger ramp.",
+        "whatIsIt": "Take-Two reported Q4 FY26 (period ended March 31, 2026) on Thursday after the close, then traded down Friday despite a beat and a confirmed Grand Theft Auto VI launch date of November 19, 2026. The company laid out its first FY27 outlook, calling for $8.0–$8.2B of net bookings — roughly 20% growth on the FY26 record of $6.72B.",
+        "howItWorks": "Q4 net bookings of $1.58B cleared the high end of the $1.51–$1.56B guide on GTA, Red Dead Redemption and mobile (Toon Blast +25%, Color Block Jam +15%). NBA 2K26 sold-in topped 10M units (+5% Y/Y); GTA V hit ~230M lifetime, with GTA Plus subscription contribution still growing. Recurrent consumer spending was 78% of bookings (+17% Y/Y). FY26 GAAP net loss was $59.5M, narrowing dramatically from a $3.73B loss in the year-ago period that was inflated by impairments. Operating cash flow finished the year at $624M vs the original $450M plan; FY27 OCF is now guided above $1B. The FY27 net bookings range of $8.0–$8.2B is shaped by the November 19 GTA VI launch.",
+        "whyItMatters": "GTA VI is the single biggest catalyst on the consumer-software calendar — the date pins a ~4-month window into TTWO's FY27 and frames the bull/bear debate on initial launch sell-in, post-launch online monetisation, and the Switch 2 vs PS5/Xbox split. Friday's ~-6% reaction tells you the $8.0–$8.2B initial range — implying GTA VI plus the existing portfolio — was below the highest sell-side scenarios, but Zelnick called FY27 'a new record level of operating performance' and OCF >$1B is the cleaner read for compounders.",
+        "forWho": "video-game sell-side, Switch 2 / next-gen console watchers, recurrent-consumer-spending bulls",
+        "tryIt": "https://finance.yahoo.com/quote/TTWO"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Take_Two_Interactive_Software_Inc_Reports_Results_for_Fourth_Quarter_and_Fiscal_Year_2026_1061373.webp",
+        "alt": "Take-Two Interactive Q4 FY2026 earnings release card",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Earnings Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026037260/ttwo4q26earningsrelease.htm"
+        },
+        {
+          "label": "Stocktitan Recap",
+          "url": "https://www.stocktitan.net/news/TTWO/take-two-interactive-software-inc-reports-results-for-fourth-quarter-b4smbtxrgpw8.html"
+        },
+        {
+          "label": "Fool Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/21/take-two-ttwo-q4-2026-earnings-transcript/"
+        },
+        {
+          "label": "TTWO Quote",
+          "url": "https://finance.yahoo.com/quote/TTWO"
+        }
+      ],
+      "publishDate": "2026-05-23T12:24:35.520Z"
+    },
+    {
+      "id": "qcom-stla-snapdragon-expansion-may-21-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Qualcomm and Stellantis expand multi-year deal — Snapdragon Digital Chassis + Snapdragon Ride Pilot ADAS across STLA Brain next-gen vehicles globally, with non-binding LOI for Stellantis' aiMotive to join Qualcomm; QCOM +12% Friday",
+      "org": "Qualcomm",
+      "date": "2026-05-21",
+      "url": "https://www.stocktitan.net/news/STLA/stellantis-and-qualcomm-expand-partnership-to-adopt-snapdragon-0tszx6ur4yv6.html",
+      "summary": "Stellantis expands its Qualcomm deal to deploy Snapdragon Digital Chassis SoCs and Snapdragon Ride Pilot L2+ ADAS across STLA Brain vehicles; QCOM ~+12% Friday and signs a non-binding LOI to acquire Stellantis' aiMotive.",
+      "tags": [
+        "mover",
+        "automotive",
+        "adas",
+        "snapdragon-ride",
+        "snapdragon-digital-chassis",
+        "stla-brain",
+        "aimotive-loi",
+        "qualcomm-automotive",
+        "level-2-plus",
+        "mega-cap"
+      ],
+      "tickers": [
+        "QCOM",
+        "STLA"
+      ],
+      "importance": "major",
+      "metrics": {
+        "QCOM Friday move": "+~12%",
+        "Scale": "millions of vehicles across global Stellantis portfolio",
+        "ADAS scope": "Snapdragon Ride Pilot for L2+ hands-free",
+        "aiMotive": "non-binding LOI to join Qualcomm"
+      },
+      "explainer": {
+        "tagline": "Qualcomm wins the Stellantis car-software stack — Snapdragon Digital Chassis + Snapdragon Ride Pilot across STLA Brain, plus an LOI to acquire aiMotive.",
+        "whatIsIt": "Stellantis and Qualcomm announced an expansion of their multi-year tech collaboration on Thursday, May 21, sending Qualcomm shares ~12% higher into Friday's close. Future Stellantis vehicles will be powered by Qualcomm's Snapdragon Digital Chassis system-on-chips for cockpit, connectivity, and ADAS, integrated with Stellantis' STLA Brain software platform. The expansion adds Snapdragon Ride Pilot, an L2+ hands-free ADAS stack scalable from active safety to higher autonomy levels. Separately, the two signed a non-binding letter of intent for Stellantis' aiMotive automated-driving subsidiary to join Qualcomm.",
+        "howItWorks": "Snapdragon Digital Chassis combines compute, connectivity and AI silicon in a unified family of SoCs. STLA Brain is Stellantis' EE/software architecture; the deal lets Stellantis standardise across its multi-brand portfolio (Jeep, Ram, Peugeot, Citroën, Fiat, Maserati, etc.) instead of bespoke per-brand stacks. Snapdragon Ride Pilot ships as a globally validated ADAS reference, taking Stellantis from active-safety packs to Level 2+ hands-free without rebuilding the pipeline per region. aiMotive — a Budapest-based simulation and automated-driving outfit Stellantis bought in 2022 — would fold into Qualcomm Automotive subject to diligence and regulatory approvals. No financial terms were disclosed for either the OEM award or the aiMotive LOI.",
+        "whyItMatters": "Qualcomm's automotive run-rate is on a path past $5B in annual revenue, and locking in a top-5 global automaker on both the cockpit/ADAS SoCs and the L2+ stack defends that growth engine against NVIDIA DRIVE and Mobileye. Picking up aiMotive bolts a validated simulation/AD-software team onto Qualcomm Automotive. For Stellantis, the expanded standardisation is a cost-and-time-to-market story for the upcoming STLA-Brain wave. The +12% Friday move on QCOM reflects investors marking up the durability of Qualcomm Automotive's backlog and the optionality on higher-ASP ADAS attach.",
+        "forWho": "auto-tech sell-side, Qualcomm Automotive bulls, ADAS / autonomy investors",
+        "tryIt": "https://finance.yahoo.com/quote/QCOM"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Stellantis_and_Qualcomm_Expand_Partnership_to_Adopt_Snapdragon_Digital_Chassis_Driver_Assistance_C_1061184.webp",
+        "alt": "Stellantis and Qualcomm Snapdragon Digital Chassis partnership graphic",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Release",
+          "url": "https://www.stocktitan.net/news/STLA/stellantis-and-qualcomm-expand-partnership-to-adopt-snapdragon-0tszx6ur4yv6.html"
+        },
+        {
+          "label": "Electric Cars Report",
+          "url": "https://electriccarsreport.com/2026/05/stellantis-expands-qualcomm-partnership-to-power-next-generation-evs/"
+        },
+        {
+          "label": "Automotive World",
+          "url": "https://www.automotiveworld.com/news/stellantis-to-use-qualcomm-snapdragon-ride-pilot-adas/"
+        },
+        {
+          "label": "QCOM Quote",
+          "url": "https://finance.yahoo.com/quote/QCOM"
+        }
+      ],
+      "publishDate": "2026-05-23T12:24:35.520Z"
+    },
+    {
+      "id": "warsh-sworn-in-white-house-may-22-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "Kevin Warsh sworn in as Fed Chair at the White House on May 22 — Justice Clarence Thomas administers oath in the East Room; first Fed Chair sworn in at the White House since Reagan/Greenspan in 1987; Trump says 'I want Kevin to be totally independent' before stumping for faster rate cuts",
+      "org": "Federal Reserve",
+      "date": "2026-05-22",
+      "url": "https://www.ksat.com/business/2026/05/22/warsh-is-sworn-in-as-the-fed-chair-after-trumps-bid-for-greater-control-over-the-independent-bank/",
+      "summary": "Kevin Warsh is sworn in as the 11th modern-era Fed Chair in the White House East Room on May 22, with Justice Clarence Thomas administering the oath — a venue not used for the Fed Chair since Reagan/Greenspan in 1987.",
+      "tags": [
+        "federal-reserve",
+        "fed-chair",
+        "warsh",
+        "powell-handover",
+        "fed-independence",
+        "monetary-policy",
+        "white-house-ceremony",
+        "swearing-in"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Vote (May 13)": "Senate confirmed 54–45",
+        "Predecessor": "Jerome Powell (stays as governor through Jan 2028)",
+        "Oath admin": "Supreme Court Justice Clarence Thomas",
+        "Venue": "East Room, the White House",
+        "Last WH Fed Chair oath": "Greenspan, 1987"
+      },
+      "explainer": {
+        "tagline": "Warsh takes the Fed gavel at a White House ceremony — symbolism that has Powell-era veterans watching independence cues.",
+        "whatIsIt": "President Trump hosted Kevin Warsh's swearing-in as the 11th modern-era Federal Reserve Chair in the White House East Room on Friday, May 22. Supreme Court Justice Clarence Thomas administered the oath. Attendees included Justice Brett Kavanaugh, House Speaker Mike Johnson, NEC Director Kevin Hassett, Cabinet members and Warsh's wife Jane Lauder. The venue is itself the story: the last time a sitting Fed Chair was sworn in at the White House was Ronald Reagan's ceremony for Alan Greenspan in 1987.",
+        "howItWorks": "Warsh, 56, was confirmed to the Fed Board 51–45 on May 12 and to the Chair on May 13, 54–45 — the narrowest Fed Chair confirmation margin on record. He succeeds Jerome Powell, who steps down as Chair after eight years but stays on as a governor through January 2028 (rare for an outgoing chair). Trump said at the ceremony, 'I want Kevin to be totally independent. Don't look at me, don't look at anybody' — but later at a campaign-style rally said interest rates would come down 'very quickly.' Warsh's own remarks emphasised pursuing 'price stability and maximum employment … with wisdom and clarity, independence and resolve.'",
+        "whyItMatters": "The optics of an East Room ceremony followed hours later by the President publicly directing the rate path are exactly the tension the bond market is pricing. The April 28–29 FOMC minutes (released May 20) already showed an 8-4 hold with the most dissents since October 1992. Warsh inherits a curve where the 30Y has been making 19-year highs, headline CPI is +3.8% Y/Y, and the next FOMC is June 16-17. The first real signal will be Warsh's tone in his first FOMC press conference and whether the June dot plot starts pricing the Trump-favoured cut path.",
+        "forWho": "macro traders, rates desks, Fed-independence watchers",
+        "tryIt": "https://www.federalreserve.gov/aboutthefed/bios/board/warsh.htm"
+      },
+      "image": {
+        "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KX6V3PLNIVCZPHKT2GBR5U3UZ4.jpg?_a=DATAg1fkZAA0",
+        "alt": "Kevin Warsh sworn in as Federal Reserve Chair at the White House on May 22, 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "KSAT Coverage",
+          "url": "https://www.ksat.com/business/2026/05/22/warsh-is-sworn-in-as-the-fed-chair-after-trumps-bid-for-greater-control-over-the-independent-bank/"
+        },
+        {
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-kevin-warsh-sworn-in-as-chairman-of-the-federal-reserve"
+        },
+        {
+          "label": "CNBC Story",
+          "url": "https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ],
+      "publishDate": "2026-05-23T12:24:35.520Z"
+    },
+    {
+      "id": "sec-tokenized-stocks-pause-may-22-2026",
+      "categories": [
+        "regulatory",
+        "crypto"
+      ],
+      "title": "SEC pauses Innovation Exemption framework for tokenized stocks on May 22 — pulls planned 'this week' release after Nasdaq, Cboe and CME flag investor-protection concerns; BTC slips ~3.6% below $76K and COIN -~4%",
+      "org": "Securities and Exchange Commission",
+      "date": "2026-05-22",
+      "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+      "summary": "SEC delays its tokenized-stocks Innovation Exemption framework after exchanges raised shareholder-rights and dividend-administration concerns; BTC drops ~3.6% below $76K and COIN ~-4% as the crypto-onto-Wall-Street narrative cools.",
+      "tags": [
+        "sec",
+        "tokenized-stocks",
+        "innovation-exemption",
+        "atkins",
+        "peirce",
+        "regulatory-pause",
+        "tradfi-crypto",
+        "btc-selloff"
+      ],
+      "tickers": [
+        "BTC-USD",
+        "COIN"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BTC move (May 22)": "-~3.6% below $76K",
+        "COIN move": "-~4%",
+        "Framework status": "Delayed; not withdrawn",
+        "Concern source": "Stock exchange officials, market participants"
+      },
+      "explainer": {
+        "tagline": "SEC blinks on tokenized stocks — exchanges flag shareholder-rights gaps and the agency holds the Innovation Exemption past its planned May release.",
+        "whatIsIt": "Bloomberg reported on May 22 that the SEC has paused the rollout of its anticipated Innovation Exemption framework for tokenized stocks after meeting with stock-exchange officials and market participants who raised concerns. SEC staff had been on track to release the framework as soon as this week. The pause hit crypto on Friday: Bitcoin dropped ~3.6% intra-day, slipping under $76K, and Coinbase (COIN) traded ~4% lower, with the broader 'crypto-meets-equities' basket selling off in sympathy.",
+        "howItWorks": "The Innovation Exemption would have created a regulatory sandbox letting crypto firms issue and trade blockchain-based 'tokenized' versions of regular U.S. equities, under a lighter touch than full broker-dealer/exchange registration. The most contentious piece was a provision that would have allowed third-party tokens — tokenized representations of company shares issued without the underlying company's involvement. That triggered exchange-side and corporate concerns about how dividends, voting, and shareholder rights would actually be administered if shares trade off-exchange on blockchain venues. SEC Commissioner Hester Peirce said publicly that the exemption was 'limited in scope and would facilitate trading only of digital representations of the same underlying equity security.' Chair Paul Atkins had signaled the framework would debut soon, but the agency has not formally withdrawn or revised the draft — the timeline is just slipping.",
+        "whyItMatters": "The tokenized-stocks framework was the centerpiece of the Atkins-era SEC's promised 'crypto-onto-Wall-Street' agenda, and a near-term catalyst for COIN, Robinhood, Securitize/BlackRock BUIDL-style products, and the rest of the on-chain RWA complex. A pause — even without a formal kill — pushes out the timeline for spot tokenized equities and clouds Wall Street partnerships (Nasdaq, Cboe, CME) that had been preparing for adjacent infrastructure. BTC's Friday slide and COIN's ~4% drop are the cleanest read on how much of the 'TradFi rails' narrative was already in the tape.",
+        "forWho": "crypto policy / regulatory desks, COIN longs, tokenized-RWA bulls",
+        "tryIt": "https://www.sec.gov/news/press-releases"
+      },
+      "image": {
+        "url": "https://www.cryptotimes.io/wp-content/uploads/2026/05/SEC-Hits-Pause-on-Tokenized-Stocks-as-Concerns-Grow.jpg",
+        "alt": "SEC hits pause on tokenized stocks framework over investor-protection concerns",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Decrypt (Bloomberg)",
+          "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg"
+        },
+        {
+          "label": "Crypto Times",
+          "url": "https://www.cryptotimes.io/2026/05/23/sec-hits-pause-on-tokenized-stocks-as-concerns-grow/"
+        },
+        {
+          "label": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/bitcoin-drops-sec-delays-tokenized-stocks/"
+        },
+        {
+          "label": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases"
+        }
+      ],
+      "publishDate": "2026-05-23T12:24:35.520Z"
+    },
     {
       "id": "lnvgy-q4-fy26-earnings-may-22-2026",
       "categories": [
