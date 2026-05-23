@@ -3183,6 +3183,63 @@
         "fx",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260523t003558z",
+      "timestamp": "2026-05-23T00:35:58.201Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds for the 2026-05-23 sweep: Lenovo's record Q4/FY26 print (the catalyst for Friday's PC complex rally), Dell's +16% surge to a new ATH on a coordinated four-bank PT hike wave, the Estée Lauder/Puig $40B merger termination, and a rumor item on OpenAI's reportedly imminent confidential SEC S-1. One update brings the UMich consumer-sentiment item up to the May final 44.8 print.",
+      "counts": {
+        "added": 4,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lnvgy-q4-fy26-earnings-may-22-2026",
+          "title": "Lenovo Q4 FY26 — record group revenue US$21.6B (+27% Y/Y), AI revenue +84% (38% of group); FY26 revenue US$83.1B with adj net income +42% to US$2.0B; shares +15% in Hong Kong as biggest HSI gainer",
+          "category": "earnings",
+          "note": "Record FY26 (US$83.1B / +42% adj NI) and Q4 AI revenue +84% — directly drove the Dell/HP +14-16% Friday rally, biggest HSI gainer."
+        },
+        {
+          "id": "dell-may-22-2026-pt-rally",
+          "title": "Dell +~16% to record ~$291 as Wells Fargo, JPM, Citi and Mizuho hike PTs into May 28 print; Lenovo blowout fans AI-server demand bid",
+          "category": "mover",
+          "note": "Single-name +~15% to all-time high with named multi-firm PT-hike catalyst eight days before Q1 FY27 earnings; clean mover/analyst item."
+        },
+        {
+          "id": "el-puig-merger-terminated-may-22-2026",
+          "title": "Estée Lauder and Puig terminate ~$40B merger talks — Charlotte Tilbury change-of-control issue sinks deal; EL +~11%, Puig -~14%",
+          "category": "mna",
+          "note": "Tier-1 (Bloomberg/CNBC) confirmed $40B fragrance/skincare deal termination with EL +11%, Puig -14% reaction."
+        },
+        {
+          "id": "openai-confidential-s1-rumor-may-22-2026",
+          "title": "Reportedly: OpenAI preparing to confidentially file S-1 with SEC 'as soon as Friday May 22' at >$850B private-market valuation; Goldman + Morgan Stanley lead, Q4 listing target",
+          "category": "rumor",
+          "note": "Tier-1 (CNBC + WSJ) reported scoop on OpenAI confidential S-1 filing 'as soon as Friday' — rumor framing because the act of filing is not publicly verifiable."
+        }
+      ],
+      "updated": [
+        {
+          "id": "umich-may-2026-sentiment-record-low",
+          "title": "U.S. consumer sentiment crashes — U-Michigan May final 44.8 (vs 48.2 prelim, vs 48.2 expected); now below the June 2022 all-time low as Hormuz gas spike bites",
+          "note": "Updated existing prelim item with final May 44.8 reading (record low, below June 2022 trough), revised-up inflation expectations, and new sources for the final cut."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "analyst",
+        "mna",
+        "ipo",
+        "rumor",
+        "macro",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }

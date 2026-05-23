@@ -1,8 +1,286 @@
 {
-  "generatedAt": "2026-05-22T13:01:16.031Z",
+  "generatedAt": "2026-05-23T00:35:58.201Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "lnvgy-q4-fy26-earnings-may-22-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lenovo Q4 FY26 — record group revenue US$21.6B (+27% Y/Y), AI revenue +84% (38% of group); FY26 revenue US$83.1B with adj net income +42% to US$2.0B; shares +15% in Hong Kong as biggest HSI gainer",
+      "org": "Lenovo Group",
+      "date": "2026-05-22",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lenovo-q4-revenue-tops-estimates-042514266.html",
+      "summary": "Lenovo's March-quarter revenue jumped 27% to US$21.6B with adj net income doubling to US$559M; AI-related revenue grew 84% in Q4. FY26 revenue hit a record US$83.1B; Hong Kong shares +15%, biggest HSI gainer.",
+      "tickers": [
+        "LNVGY",
+        "DELL",
+        "HPQ"
+      ],
+      "tags": [
+        "earnings",
+        "lenovo",
+        "ai-pc",
+        "ai-servers",
+        "fy26",
+        "q4-fy26",
+        "hong-kong",
+        "hang-seng",
+        "record-revenue"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q4 revenue": "US$21.6B (+27% Y/Y)",
+        "Q4 net income": "US$521M",
+        "Q4 adj net income": "US$559M (~2× Y/Y)",
+        "AI revenue (Q4)": "+84% Y/Y, 38% of group revenue",
+        "FY26 revenue": "US$83.1B (record)",
+        "FY26 adj net income": "US$2.0B (+42% Y/Y)",
+        "Stock move": "+15% (Hong Kong)"
+      },
+      "explainer": {
+        "tagline": "Lenovo posts record FY26 with Q4 revenue +27% and AI revenue +84% — Hong Kong shares jump 15%.",
+        "whatIsIt": "Lenovo Group released full-year FY2025-26 results on May 22 2026, capping the strongest fiscal year in the company's history. Group revenue for the March quarter reached US$21.6B (+27% Y/Y); for the full year revenue reached US$83.1B with adj net income up 42% to US$2.0B.",
+        "howItWorks": "Q4 net income was US$521M and adj net income roughly doubled to US$559M. Intelligent Devices Group (PCs) drove the print with 24% revenue growth to US$14.6B and PC + Smart Devices revenue +26%, a five-year high. Infrastructure Solutions Group (servers/storage) achieved full-year profitability with US$19.2B of revenue. AI-related revenue grew 84% in Q4 and accounted for 38% of group revenue; AI revenue doubled for the full year.",
+        "whyItMatters": "Lenovo is the bellwether for the global PC complex and a top-3 AI server vendor by share. The print confirmed that the AI-PC refresh cycle is real, sending Dell ~+16% and HP ~+14% on Friday as US listed peers caught the read-through. Lenovo HK shares ~+15% made the stock the biggest gainer in the Hang Seng Index, and the ISG full-year profitability inflection is a positive datapoint for the broader AI-server margin debate.",
+        "forWho": "hardware analysts, AI-infrastructure traders",
+        "tryIt": "https://finance.yahoo.com/quote/LNVGY/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/reuters-finance.com/b49bb399310529ef080cb169ee8da854",
+        "alt": "Lenovo logo on display at company event",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lenovo-q4-revenue-tops-estimates-042514266.html"
+        },
+        {
+          "label": "Business Upturn Recap",
+          "url": "https://www.businessupturn.com/brand-post/lenovo-group-q4-and-full-year-financial-results-2025-26"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.marketscreener.com/news/transcript-lenovo-group-limited-q4-2026-earnings-call-may-22-2026-ce7f5adfdb8cf22c"
+        },
+        {
+          "label": "LNVGY Quote",
+          "url": "https://stockanalysis.com/stocks/lnvgy/"
+        }
+      ],
+      "publishDate": "2026-05-23T00:35:58.201Z"
+    },
+    {
+      "id": "dell-may-22-2026-pt-rally",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Dell +~16% to record ~$291 as Wells Fargo, JPM, Citi and Mizuho hike PTs into May 28 print; Lenovo blowout fans AI-server demand bid",
+      "org": "Dell Technologies",
+      "date": "2026-05-22",
+      "url": "https://artvoice.com/2026/05/22/dell-stock-surged-15-percent-today-and-here-is-why-its-happening/",
+      "summary": "DELL closed at ~$290.55 (intraday high $291.17), up ~15% on the day, after a coordinated wave of analyst PT hikes and a Lenovo earnings read-through eight days before Dell's Q1 FY27 print on May 28.",
+      "tickers": [
+        "DELL",
+        "HPQ",
+        "LNVGY"
+      ],
+      "tags": [
+        "mover",
+        "analyst",
+        "price-target",
+        "ai-server",
+        "ai-pc",
+        "wells-fargo",
+        "jpmorgan",
+        "citi",
+        "mizuho",
+        "all-time-high",
+        "earnings-preview"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Close": "~$290.55",
+        "Intraday high": "$291.17",
+        "Move": "+~15% on the day",
+        "Wells Fargo PT": "$180 → $270 (Overweight)",
+        "JPMorgan PT": "$205 → $280",
+        "Citi PT": "$235 → $290",
+        "Mizuho PT": "$260 → $300",
+        "Earnings date": "May 28 (Q1 FY27)"
+      },
+      "explainer": {
+        "tagline": "Dell rips ~16% to a new ATH ~$291 as four banks lift PTs and Lenovo's AI revenue +84% print fans server demand.",
+        "whatIsIt": "Dell Technologies surged ~15% on Friday May 22 2026, closing at roughly $290.55 with an intraday high of $291.17, after a coordinated wave of sell-side price target hikes ahead of the company's Q1 FY27 earnings on May 28.",
+        "howItWorks": "Wells Fargo lifted its PT to $270 from $180 (Overweight); JPMorgan moved to $280 from $205; Citi to $290 from $235; and Mizuho to $300 from $260, all citing AI server demand and easing memory cost concerns. The move also fed off Lenovo's earlier Q4 FY26 print, where AI revenue grew 84% Y/Y and PC + Smart Devices revenue hit a five-year-high run rate — directly relevant to Dell's mix of PowerEdge AI servers and AI-PC refresh exposure.",
+        "whyItMatters": "DELL is now up ~35% from its late-April level near $216 on a single thesis — sovereign + enterprise AI infrastructure demand is durable through the second half of CY2026. The setup also drags HP ~+14% and keeps the AI hardware bid intact even after NVIDIA's seesaw print. The next test is Dell's own Q1 FY27 release on May 28: expectations now bake in beat-and-raise across AI server backlog (last quarter $14.6B), and any pause would amplify volatility into Memorial Day weekend.",
+        "forWho": "AI-infrastructure traders, hardware desks",
+        "tryIt": "https://finance.yahoo.com/quote/DELL/"
+      },
+      "image": {
+        "url": "https://artvoice.com/wp-content/uploads/2026/05/shutterstock_2705015927-scaled.jpg",
+        "alt": "Dell Technologies logo signage outside a corporate office",
+        "fit": "cover",
+        "credit": "Shutterstock via Artvoice"
+      },
+      "links": [
+        {
+          "label": "Artvoice Recap",
+          "url": "https://artvoice.com/2026/05/22/dell-stock-surged-15-percent-today-and-here-is-why-its-happening/"
+        },
+        {
+          "label": "Rolling Out Detail",
+          "url": "https://rollingout.com/2026/05/22/dell-stock-jumps-as-analysts-race/"
+        },
+        {
+          "label": "IBTimes Recap",
+          "url": "https://www.ibtimes.com.au/dell-technologies-shares-surge-ai-server-demand-1869328"
+        },
+        {
+          "label": "Lenovo Read-Through",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lenovo-q4-revenue-tops-estimates-042514266.html"
+        },
+        {
+          "label": "DELL Quote",
+          "url": "https://stockanalysis.com/stocks/dell/"
+        }
+      ],
+      "publishDate": "2026-05-23T00:35:58.201Z"
+    },
+    {
+      "id": "el-puig-merger-terminated-may-22-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Estée Lauder and Puig terminate ~$40B merger talks — Charlotte Tilbury change-of-control issue sinks deal; EL +~11%, Puig -~14%",
+      "org": "Estée Lauder",
+      "date": "2026-05-22",
+      "url": "https://www.cnbc.com/2026/05/22/estee-lauder-puig-merger-talks-end.html",
+      "summary": "Estée Lauder said both parties terminated talks first disclosed in March on a combination that would have created a ~$40B fragrance + skincare group. EL shares ~+11%; Madrid-listed Puig ~-14%.",
+      "tickers": [
+        "EL"
+      ],
+      "tags": [
+        "mna",
+        "merger-failure",
+        "beauty",
+        "luxury",
+        "fragrance",
+        "skincare",
+        "charlotte-tilbury",
+        "puig"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal size discussed": "~$40B combined entity",
+        "EL stock move": "+~11%",
+        "Puig stock move": "-~14%",
+        "Talks first disclosed": "March 2026",
+        "Termination date": "May 22 2026"
+      },
+      "explainer": {
+        "tagline": "Estée Lauder walks away from the ~$40B Puig combination after Charlotte Tilbury change-of-control terms prove the sticking point.",
+        "whatIsIt": "Estée Lauder said on Thursday May 21 / Friday May 22 2026 that both parties had terminated discussions of a combination first disclosed in March 2026. The proposed tie-up would have brought together Clinique, Tom Ford Beauty, Jo Malone and La Mer with Puig's Charlotte Tilbury, Jean Paul Gaultier, Rabanne and Carolina Herrera into a ~$40B fragrance + skincare champion.",
+        "howItWorks": "Sources cited by Bloomberg and CNBC said negotiations broke down over structural terms, with the largest single roadblock the change-of-control treatment of Puig's majority stake in Charlotte Tilbury. A combination would have triggered Tilbury's exit clause, potentially allowing her to cash out her remaining minority stake at a premium. RBC's Nik Modi also flagged competing founding-family governance demands as a complicating factor. CEO Stéphane de La Faverie said Estée Lauder will refocus on its 'Beauty Reimagined' turnaround.",
+        "whyItMatters": "EL shares jumped ~11% on the termination as investors had punished the stock when talks were first leaked in March; Madrid-listed Puig fell ~14%. The collapse leaves the global prestige-beauty sector without its expected mega-deal anchor and removes a key M&A catalyst hanging over the sector. It also re-focuses the EL bull case on the standalone turnaround under de La Faverie, just as the broader beauty cohort (Coty, L'Oréal, Shiseido) faces tariff and China-recovery uncertainty.",
+        "forWho": "consumer/luxury desks, M&A arb",
+        "tryIt": "https://finance.yahoo.com/quote/EL/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108311044-1779438130413-gettyimages-2262120408-UK_JOHN_LEWIS.jpeg?v=1779438156&w=1920&h=1080",
+        "alt": "Estée Lauder beauty products on display at a department store",
+        "fit": "cover",
+        "credit": "Getty via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/05/22/estee-lauder-puig-merger-talks-end.html"
+        },
+        {
+          "label": "RTE News",
+          "url": "https://www.rte.ie/news/business/2026/0522/1574653-estee-lauder-ditches-puig-deal/"
+        },
+        {
+          "label": "USA Herald Detail",
+          "url": "https://usaherald.com/estee-lauder-walks-away-from-40-billion-merger-with-puig-charlotte-tilbury-stake-proves-fatal-stumbling-block/"
+        },
+        {
+          "label": "EL Quote",
+          "url": "https://finance.yahoo.com/quote/EL/"
+        }
+      ],
+      "publishDate": "2026-05-23T00:35:58.201Z"
+    },
+    {
+      "id": "openai-confidential-s1-rumor-may-22-2026",
+      "categories": [
+        "rumor",
+        "ipo"
+      ],
+      "title": "Reportedly: OpenAI preparing to confidentially file S-1 with SEC 'as soon as Friday May 22' at >$850B private-market valuation; Goldman + Morgan Stanley lead, Q4 listing target",
+      "org": "CNBC",
+      "date": "2026-05-22",
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "summary": "CNBC and WSJ reported May 20 that OpenAI is preparing a confidential draft registration statement targeting a Q4 2026 public listing. Goldman Sachs and Morgan Stanley underwrite; private mark sits above $850B.",
+      "tickers": [
+        "MSFT"
+      ],
+      "tags": [
+        "rumor",
+        "ipo",
+        "openai",
+        "ai",
+        "confidential-filing",
+        "draft-registration",
+        "goldman-sachs",
+        "morgan-stanley",
+        "softbank",
+        "microsoft"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Reported filing window": "as soon as Fri May 22 2026",
+        "Private valuation": ">$850B",
+        "Bankers": "Goldman Sachs + Morgan Stanley",
+        "Listing target": "Q4 2026 (Labor Day – Thanksgiving window)"
+      },
+      "explainer": {
+        "tagline": "OpenAI reportedly preparing a confidential SEC draft S-1 'as soon as Friday' at a >$850B private mark; banks are Goldman + Morgan Stanley with a Q4 listing target.",
+        "whatIsIt": "CNBC reported on May 20 2026, with WSJ corroborating the same day, that OpenAI is preparing to confidentially submit a draft registration statement (DRS) to the SEC as soon as Friday May 22 2026. A confidential filing is not publicly disclosed at the time of submission, so the agent cannot independently verify the act of filing itself — only the tier-1 reporting that it is imminent.",
+        "howItWorks": "Goldman Sachs and Morgan Stanley are leading the underwriting syndicate. The targeted public listing window is Q4 2026, between Labor Day and Thanksgiving. Last private funding round valued OpenAI at $852B; Fortune notes the IPO valuation could land closer to ~$1T. CEO Sam Altman has reportedly told staff that filing the DRS is distinct from being ready to list, leaving timing optionality. The dismissal of Elon Musk's lawsuit earlier this month removed the largest legal overhang.",
+        "whyItMatters": "OpenAI joining SpaceX (which filed its S-1 on May 20 under 'SPCX' at up to $1.75T) in the trillion-dollar IPO queue would mark the biggest concentration of mega-cap private tech IPO filings in modern history. SoftBank's two-day +32% rally is partly tied to this story given its >$30B stake. The DRS, once it leaks publicly, would also be the first market-priced data point on OpenAI's revenue mix, model-serving unit economics, and Microsoft preferred-equity arrangements — the most-requested numbers in AI.",
+        "forWho": "IPO desks, AI/tech investors",
+        "tryIt": "https://www.cnbc.com/video/2026/05/20/openai-source-confirms-it-is-preparing-for-confidential-ipo-filing.html"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108276787-1773253292188-gettyimages-2265445220-BLACKROCK_INFRASTRUCTURE_SUMMIT.jpeg?v=1779296174&w=1920&h=1080",
+        "alt": "OpenAI CEO Sam Altman speaking at an infrastructure summit",
+        "fit": "cover",
+        "credit": "Getty via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Scoop",
+          "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
+        },
+        {
+          "label": "Fortune Preview",
+          "url": "https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/"
+        },
+        {
+          "label": "CNBC Video",
+          "url": "https://www.cnbc.com/video/2026/05/20/openai-source-confirms-it-is-preparing-for-confidential-ipo-filing.html"
+        }
+      ],
+      "publishDate": "2026-05-23T00:35:58.201Z"
+    },
     {
       "id": "zm-q1-fy27-earnings-may-21-2026",
       "categories": [
@@ -5409,43 +5687,44 @@
       "categories": [
         "macro"
       ],
-      "title": "U.S. consumer sentiment hits record low — U-Michigan May prelim 48.2 (lowest since 1952); gas prices and tariffs cited by ~63% of respondents",
+      "title": "U.S. consumer sentiment crashes — U-Michigan May final 44.8 (vs 48.2 prelim, vs 48.2 expected); now below the June 2022 all-time low as Hormuz gas spike bites",
       "org": "University of Michigan Surveys of Consumers",
-      "date": "2026-05-08",
-      "url": "https://www.sca.isr.umich.edu/",
-      "summary": "U-Michigan's preliminary May 2026 Index of Consumer Sentiment fell to 48.2 from April's 49.8, missing the 49.5 estimate and marking the lowest reading in the survey's 74-year history. ~33% cited gas prices, ~30% cited tariffs.",
+      "date": "2026-05-22",
+      "url": "https://investinglive.com/news/umich-may-final-consumer-sentiment-448-vs-482-expected-20260522/",
+      "summary": "U-Michigan's May 2026 final Index of Consumer Sentiment was revised down sharply to 44.8 from the 48.2 prelim, also missing the 48.2 consensus. Reading sits just below the June 2022 all-time low; 1Y inflation exp rose to 4.8%, 5Y to 3.9%.",
       "tags": [
         "consumer-sentiment",
         "umich",
         "macro",
         "record-low",
         "gas-prices",
+        "iran-war",
+        "hormuz",
         "tariffs",
         "may-2026",
-        "preliminary",
-        "iran-war",
+        "final",
         "inflation-expectations"
       ],
       "importance": "major",
       "metrics": {
-        "Headline (May prelim)": "48.2 vs 49.5 est",
-        "April final": "49.8",
-        "Current Conditions": "47.8 (-9.0% M/M)",
-        "Expectations": "48.5 (+0.8% M/M)",
-        "1Y inflation exp.": "4.5% (down from 4.7%)",
-        "5Y inflation exp.": "3.4% (down from 3.5%)"
+        "Headline (May final)": "44.8 vs 48.2 prelim and 48.2 est",
+        "Prior month (April final)": "48.2",
+        "Current Conditions": "45.8 (from 48.0 prelim)",
+        "Expectations": "44.1 (from 48.5 prelim)",
+        "1Y inflation exp.": "4.8% (from 4.6% prelim, 4.5% prior)",
+        "5Y inflation exp.": "3.9% (from 3.4% prelim, 3.4% prior)"
       },
       "explainer": {
-        "tagline": "U-Michigan's May prelim consumer sentiment falls to 48.2 — the lowest reading in the survey's 74-year history.",
-        "whatIsIt": "The University of Michigan's monthly Surveys of Consumers, released Friday May 8 2026, posted a preliminary May Index of Consumer Sentiment of 48.2, down 3.2% from April's final 49.8 and below the 49.5 consensus estimate. The Current Economic Conditions sub-index plunged 9% month-over-month to 47.8, while the Expectations sub-index ticked slightly higher to 48.5.",
-        "howItWorks": "ICS surveys roughly 600 U.S. households each month on personal finances, business conditions and buying intentions. The 48.2 print marks the lowest in the data series going back to November 1952 — below readings from the 2008 financial crisis and the 1980 stagflation cycle. Director Joanne Hsu noted about one-third of respondents spontaneously mentioned gasoline prices and about 30% mentioned tariffs as top concerns. One-year inflation expectations moderated to 4.5% from 4.7%; long-run expectations eased to 3.4% from 3.5%.",
-        "whyItMatters": "Sentiment is a leading indicator for retail and discretionary spending; sub-50 readings have historically aligned with recession periods. The print stands in stark contrast to the same day's strong April payrolls report (+115K) and the S&P 500 / Nasdaq record closes — equities shrugged it off, focusing on the labor data, but Fed officials track sentiment when assessing the consumer side of the dual mandate. With Iran-conflict-driven gasoline prices still elevated and tariff overhang unresolved, follow-through into hard data prints (retail sales, PCE) would pressure consumer-discretionary names.",
+        "tagline": "U-Michigan May final consumer sentiment slumps to 44.8 — below the June 2022 all-time low as Hormuz-driven gasoline spike hits households.",
+        "whatIsIt": "The University of Michigan released its final May 2026 Surveys of Consumers on Friday May 22 2026. The headline Index of Consumer Sentiment was revised down to 44.8 from the May 9 preliminary 48.2 and from April's final 48.2, also missing the 48.2 consensus. Director Joanne Hsu attributed the slump to Strait of Hormuz supply disruptions pushing pump prices higher and cost-of-living concerns dominating responses.",
+        "howItWorks": "ICS sub-indexes both worsened in the final cut: Current Conditions fell to 45.8 (from 48.0 prelim) and Expectations to 44.1 (from 48.5 prelim). Year-ahead inflation expectations were revised up to 4.8% from 4.6% prelim and 4.5% prior; long-run (5Y) inflation expectations jumped to 3.9% from 3.4% prelim and 3.4% prior. The 44.8 reading now sits just below the prior all-time low of 50 set in June 2022 at the peak of post-pandemic inflation panic; 57% of consumers spontaneously cited high prices as eroding their finances.",
+        "whyItMatters": "Sentiment is a leading indicator for retail and discretionary spending; sub-50 readings have historically aligned with recession periods. The print contrasts with the Dow's record close of 50,579.70 the same day, underscoring the wedge between Wall Street's AI-driven rally and Main Street's cost-of-living squeeze. With long-run inflation expectations now anchored 50+bp higher in three months, the hawkish FOMC dissent pattern flagged in the April minutes (4-vote split) becomes even harder for incoming Chair Warsh to dismiss.",
         "forWho": "macro traders, consumer/retail analysts",
         "tryIt": "https://fred.stlouisfed.org/series/UMCSENT"
       },
       "image": {
-        "url": "https://images.investinglive.com/images/consumer%20sentiment%20USA_id_23703e05-7376-4417-9a37-6af0da18113b_size975.jpg",
-        "alt": "Article art accompanying U.S. consumer sentiment May 2026 coverage",
+        "url": "https://images.investinglive.com/images/consumer%20sentiment_id_028834b1-d9b6-46a9-bdbf-2ac1e1cea11a_size975.jpg",
+        "alt": "Article art for May 2026 final U.S. consumer sentiment release",
         "fit": "cover",
         "credit": "investingLive"
       },
@@ -5455,11 +5734,11 @@
           "url": "https://www.sca.isr.umich.edu/"
         },
         {
-          "label": "Scotsman Guide",
-          "url": "https://www.scotsmanguide.com/news/consumer-sentiment-survey-hits-lowest-mark-since-tracking-began-in-1952/"
+          "label": "investingLive Final",
+          "url": "https://investinglive.com/news/umich-may-final-consumer-sentiment-448-vs-482-expected-20260522/"
         },
         {
-          "label": "investingLive Recap",
+          "label": "investingLive Prelim",
           "url": "https://investinglive.com/news/university-of-michigan-sentiment-for-may-482-versus-495-estimate-20260508/"
         },
         {
