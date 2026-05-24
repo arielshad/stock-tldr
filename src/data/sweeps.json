@@ -3316,6 +3316,42 @@
         "mna",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260524t122948z",
+      "timestamp": "2026-05-24T12:29:48.277Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on Sunday May 24 found two fresh, distinct items in the last 72h: S&P 500/Dow record closes on Friday May 22 capping an eight-week win streak (longest since 2023) on Iran-deal progress, and a six-day spot-BTC ETF outflow streak ($1.26B, worst week since late January) paired with a 10-day spot-ETH ETF outflow run. Most other recent news (Trump-Iran 'largely negotiated' framework, Warsh swearing-in, Friday earnings prints) is already covered in the existing feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "sp500-dow-records-may-22-2026",
+          "title": "S&P 500 caps eighth straight weekly gain at record 7,473.47 on May 22 — longest streak since 2023; Dow closes at record 50,579.70 on Iran-deal progress",
+          "category": "sector",
+          "note": "Friday May 22 closing levels are record highs for S&P 500 and Dow; eight-week S&P streak is the longest since 2023. Daily move was modest (+0.37%) but the streak/milestone framing was the lead story across Yahoo, CNBC, MarketWatch."
+        },
+        {
+          "id": "crypto-etf-outflow-streak-may-22-2026",
+          "title": "Spot Bitcoin ETFs bleed $1.26B in six-day streak through May 22 — worst week since late January; spot Ether ETFs extend 10-day outflow run",
+          "category": "crypto",
+          "note": "Distinct from the May 16 deleveraging item: this captures the SUBSEQUENT week's outflows (May 15-22, $1.26B) plus the ether ETF 10-day streak — a new milestone that crystallised on the May 22 print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "sector",
+        "crypto",
+        "earnings",
+        "mna",
+        "rates",
+        "commodity"
+      ]
     }
   ]
 }

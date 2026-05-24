@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-05-24T00:26:54.712Z",
+  "generatedAt": "2026-05-24T12:29:48.277Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "sp500-dow-records-may-22-2026",
+      "categories": [
+        "sector",
+        "macro"
+      ],
+      "title": "S&P 500 caps eighth straight weekly gain at record 7,473.47 on May 22 — longest streak since 2023; Dow closes at record 50,579.70 on Iran-deal progress",
+      "org": "U.S. equity markets",
+      "date": "2026-05-22",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-notches-longest-weekly-win-streak-since-2023-dow-climbs-to-record-high-223454966.html",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "summary": "S&P 500 +0.37% to record 7,473.47, Dow +0.58% to record 50,579.70, Nasdaq +0.19% to 26,343.97. Eighth straight weekly gain is the longest since 2023, as Iran-deal optimism overrides record-low UMich consumer sentiment heading into the Memorial Day shortened week.",
+      "tags": [
+        "sp500",
+        "nasdaq",
+        "dow",
+        "record-high",
+        "weekly-streak",
+        "iran-deal",
+        "memorial-day",
+        "may-2026"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "S&P 500": "7,473.47 (+0.37%)",
+        "Dow Jones": "50,579.70 (+0.58%)",
+        "Nasdaq Composite": "26,343.97 (+0.19%)",
+        "Streak": "8 weeks (longest since 2023)"
+      },
+      "explainer": {
+        "tagline": "S&P 500 logs its eighth straight weekly gain — the longest streak since 2023 — and Dow notches a record close as Iran-deal progress overrides a record-low consumer sentiment print.",
+        "whatIsIt": "U.S. equity benchmarks finished Friday May 22 at fresh records to wrap up an eighth straight winning week. The S&P 500 added 0.37% to close at 7,473.47, the Dow Jones Industrial Average rose 294 points (+0.58%) to a record 50,579.70, and the Nasdaq Composite ticked up 0.19% to 26,343.97. U.S. markets are closed Monday May 25 for Memorial Day.",
+        "howItWorks": "The eight-week winning streak is the S&P 500's longest since 2023. Friday's drivers were President Trump's Truth Social post that a U.S.–Iran deal — including a reopening of the Strait of Hormuz — is 'largely negotiated', plus the swearing-in of Kevin Warsh as Fed Chair at the White House. Offsetting headwinds: the University of Michigan final May sentiment crashed to 44.8, the lowest reading on record, as gas prices remain near $5/gal.",
+        "whyItMatters": "Eight-week winning streaks are rare and historically followed by single-digit pullbacks — the last such streak ended in August 2023. The current rally is being driven by the AI capex complex (Nvidia, Lenovo, Dell, Quanta) and falling Iran-war risk premium, with breadth narrowing as consumer sentiment hits an all-time low. Watch this week's PCE print and Nvidia post-earnings setup as the next macro tests.",
+        "forWho": "macro traders, index investors, allocators tracking risk regimes",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/j5Su9UhWMWQkPzvJix3CTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/df7e7aa4-134e-4c26-8abb-9d35c46ab084",
+        "alt": "Trader on the New York Stock Exchange floor on May 22, 2026 as the S&P 500 and Dow close at fresh records",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Reuters"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-notches-longest-weekly-win-streak-since-2023-dow-climbs-to-record-high-223454966.html"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "Dow Chart",
+          "url": "https://finance.yahoo.com/quote/%5EDJI"
+        }
+      ],
+      "publishDate": "2026-05-24T12:29:48.277Z"
+    },
+    {
+      "id": "crypto-etf-outflow-streak-may-22-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "Spot Bitcoin ETFs bleed $1.26B in six-day streak through May 22 — worst week since late January; spot Ether ETFs extend 10-day outflow run",
+      "org": "U.S. spot crypto ETF complex",
+      "date": "2026-05-22",
+      "url": "https://crypto.news/bitcoin-etf-outflows-hit-1-26b-santiment-buy-signal/",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "IBIT",
+        "FBTC",
+        "ETHA"
+      ],
+      "summary": "U.S. spot bitcoin ETFs shed $1.26B across six straight sessions May 15-22 — the worst weekly outflow since late January. Spot ether ETFs lost a further $6.6M on Friday for a tenth consecutive losing session, the longest negative streak since March 2025.",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "spot-etf",
+        "ibit",
+        "fbtc",
+        "etha",
+        "etf-flows",
+        "institutional-deleveraging",
+        "may-2026"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "BTC ETF 6-day total": "-$1.26B",
+        "BTC May 22 net": "-$105M",
+        "ETH ETF May 22 net": "-$6.6M",
+        "ETH ETF streak": "10 sessions",
+        "BTC price at report": "~$75,400"
+      },
+      "explainer": {
+        "tagline": "Six straight days of net selling pulled $1.26B from U.S. spot bitcoin ETFs, while ether ETFs extended their losing streak to 10 sessions.",
+        "whatIsIt": "The 11 U.S.-listed spot bitcoin ETFs recorded net outflows in each of the six trading sessions from May 15 through May 22, totalling $1.26B. Fidelity's FBTC led the redemptions for the week while BlackRock's IBIT also saw multi-session outflows; Morgan Stanley's MSBT pulled positive flows on a few days. The May 22 daily print was a $105M net outflow. Spot ether ETFs posted another $6.6M outflow on Friday — BlackRock's ETHA -$5.6M, Fidelity's FETH -$1M — extending their negative streak to 10 sessions.",
+        "howItWorks": "The cumulative six-day drawdown is the worst weekly figure since late January 2026 and follows the May 16 selloff that took BTC to ~$77.6K on Hormuz-driven risk-off. The ether ETF 10-day outflow streak is the longest since March 2025. Drivers cited by The Block, Farside Investors and Santiment: surging long-end Treasury yields (30Y above 5.1%), a stronger dollar, U.S. April CPI at +3.8% Y/Y reigniting inflation concerns, and a deeper inflation-vs-rate-cut tension in the curve.",
+        "whyItMatters": "ETF flows are the cleanest read on incremental U.S. institutional crypto demand. Six consecutive sessions of selling at this magnitude, paired with a 10-day ether ETF losing streak, signals that some allocators are rotating risk into the curve sell-off and away from beta. Counter-read from Santiment: ETF flows lean retail-driven, and sustained outflows have historically marked accumulation zones rather than starts of deeper declines. Key BTC level to watch: $74K, below which the contrarian buy signal would need to be reassessed.",
+        "forWho": "crypto allocators, ETF-flow watchers, macro desks reading risk-off rotation",
+        "tryIt": "https://farside.co.uk/btc/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/1280px-Bitcoin_logo.svg.png",
+        "alt": "Bitcoin logo as spot BTC ETFs post a six-day outflow streak ending May 22, 2026",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Crypto.news Recap",
+          "url": "https://crypto.news/bitcoin-etf-outflows-hit-1-26b-santiment-buy-signal/"
+        },
+        {
+          "label": "BloomingBit ETH ETF Streak",
+          "url": "https://en.bloomingbit.io/feed/news/112717"
+        },
+        {
+          "label": "Farside BTC ETF Tracker",
+          "url": "https://farside.co.uk/btc/"
+        },
+        {
+          "label": "CryptoSlate Macro Context",
+          "url": "https://cryptoslate.com/bitcoin-etf-outflows-treasury-yields/"
+        }
+      ],
+      "publishDate": "2026-05-24T12:29:48.277Z"
+    },
     {
       "id": "trump-iran-peace-deal-largely-negotiated-may-23-2026",
       "categories": [
