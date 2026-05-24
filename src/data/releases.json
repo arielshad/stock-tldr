@@ -1,8 +1,76 @@
 {
-  "generatedAt": "2026-05-23T12:24:35.520Z",
+  "generatedAt": "2026-05-24T00:26:54.712Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-iran-peace-deal-largely-negotiated-may-23-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump says U.S.–Iran peace deal 'largely negotiated' on Saturday May 23 — Strait of Hormuz 'will be opened'; Iran's foreign ministry calls it a 30–60 day framework with nuclear off the table; BTC rebounds to ~$76.6K (+1.79%) on the news",
+      "org": "The White House",
+      "date": "2026-05-23",
+      "url": "https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated",
+      "summary": "Trump posts on Truth Social Saturday that a U.S.–Iran agreement is 'largely negotiated' and the Strait of Hormuz 'will be opened.' Iran's foreign ministry calls it a 30–60 day framework with nuclear off the table; BTC +1.79% Saturday.",
+      "tickers": [
+        "BTC-USD",
+        "CL=F",
+        "BZ=F"
+      ],
+      "tags": [
+        "iran",
+        "hormuz",
+        "geopolitics",
+        "oil",
+        "peace-deal",
+        "trump",
+        "middle-east",
+        "truth-social",
+        "memorial-day-weekend"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BTC (Sat)": "~$76,637 (+1.79%) — recovered from ~$74K intraday low",
+        "Brent (Fri close)": "$103.54/bbl (-5%+ on the week)",
+        "WTI (Fri close)": "$96.60/bbl (-8%+ on the week)",
+        "Hormuz tolls": "Disputed — Iran's Fars says strait stays under Iranian management"
+      },
+      "explainer": {
+        "tagline": "Trump declares U.S.–Iran deal 'largely negotiated' with Strait of Hormuz reopening; Iran frames it as a 30–60 day framework, nuclear still off the table.",
+        "whatIsIt": "On Saturday May 23, President Trump posted on Truth Social that an agreement with Iran has been 'largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,' and that 'in addition to many other elements of the Agreement, the Strait of Hormuz will be opened.' He said he held calls from the Oval Office with the leaders of Saudi Arabia, the UAE, Qatar, Pakistan, Turkey, Egypt, Jordan and Bahrain, as well as Israeli PM Benjamin Netanyahu. The announcement caps a multi-week diplomatic push to end a war that has rattled global energy markets and pushed U.S. headline CPI to +3.8% Y/Y in April.",
+        "howItWorks": "Trump's Truth Social post said 'final aspects and details of the Deal are currently being discussed, and will be announced shortly.' U.S. negotiators include VP JD Vance, Secretary of Defense Pete Hegseth, Special Envoy Steve Witkoff, Jared Kushner, and Joint Chiefs Chairman Dan Caine. Iran's foreign ministry spokesperson Esmail Baghaei characterized the document as a 30–60 day 'framework agreement' for future talks — not a final deal — emphasizing that nuclear issues are NOT part of current negotiations and that lifting sanctions remains a fixed Iranian position. Iran's Fars news agency separately disputed the Hormuz framing, saying the strait 'will still be under Iranian management' and that allowing ship traffic does not mean 'free passage,' contradicting the Trump line on tolls.",
+        "whyItMatters": "Oil settled Friday at Brent $103.54 (-5%+ on the week) and WTI $96.60 (-8%+ on the week) on the de-escalation tape; a confirmed deal pressures Brent toward the $90s and unwinds the inflation pass-through that drove April PPI to +6.0% Y/Y. Bitcoin rebounded Saturday to ~$76,637 (+1.79%) after touching ~$74K earlier in the session — futures-style positioning ahead of Tuesday's U.S. open (markets closed Monday for Memorial Day). The framing gap between Trump and Tehran is what desks will price all weekend — especially on enriched uranium and Hormuz tolls, both of which Secretary Rubio flagged Thursday as deal-breakers if Iran pursues permanent control of shipping.",
+        "forWho": "macro / energy / FX traders, oil & equity-index desks, crypto",
+        "tryIt": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      "image": {
+        "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-23T165203Z_227689434_RC21FLAZMLQP_RTRMADP_3_IRAN-CRISIS-1024x683.jpg",
+        "alt": "U.S.–Iran negotiations file image as Trump announces 'largely negotiated' peace deal opening the Strait of Hormuz",
+        "fit": "cover",
+        "credit": "Reuters via PBS NewsHour"
+      },
+      "links": [
+        {
+          "label": "PBS NewsHour Story",
+          "url": "https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated"
+        },
+        {
+          "label": "The National Coverage",
+          "url": "https://www.thenationalnews.com/news/us/2026/05/23/trump-iran-deal/"
+        },
+        {
+          "label": "CoinDesk — BTC Reaction",
+          "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement"
+        },
+        {
+          "label": "CBS News Live Updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/"
+        }
+      ],
+      "publishDate": "2026-05-24T00:26:54.712Z"
+    },
     {
       "id": "ttwo-q4-fy26-earnings-may-21-2026",
       "categories": [
