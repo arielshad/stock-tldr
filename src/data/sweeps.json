@@ -3352,6 +3352,34 @@
         "rates",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260525t130748z",
+      "timestamp": "2026-05-25T13:07:48.194Z",
+      "source": "github-actions-sweep",
+      "summary": "Cron sweep on US Memorial Day (May 25). Adds Nikkei 225's first-ever close above 65,000 (+2.87% to 65,158.19) — driven by Trump's Sunday Truth Social post framing US-Iran talks as 'orderly and constructive,' which sent oil tumbling ~5%. Skipped a weekend BTC dip to ~$74.3K (covered semantically by existing May 16/May 22 BTC items) and incremental Iran/Trump rhetoric (already in May 23 item).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nikkei-tops-65k-may-25-2026",
+          "title": "Nikkei 225 tops 65,000 for first time ever — closes +2.87% at 65,158.19 on Sunday Trump 'constructive' Iran post; oil tumbles ~5% on Hormuz-reopening hopes",
+          "category": "sector",
+          "note": "First-ever close >65,000 in holiday-thinned Asia trading; US closed for Memorial Day, UK closed for Spring Bank Holiday. Catalyst is Trump's Sunday May 24 'orderly and constructive' Iran post + Hormuz-reopening hopes; oil -~5%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

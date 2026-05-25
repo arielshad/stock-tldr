@@ -1,8 +1,78 @@
 {
-  "generatedAt": "2026-05-24T12:29:48.277Z",
+  "generatedAt": "2026-05-25T13:07:48.194Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nikkei-tops-65k-may-25-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Nikkei 225 tops 65,000 for first time ever — closes +2.87% at 65,158.19 on Sunday Trump 'constructive' Iran post; oil tumbles ~5% on Hormuz-reopening hopes",
+      "org": "Tokyo Stock Exchange",
+      "date": "2026-05-25",
+      "url": "https://en.bloomingbit.io/feed/news/112768",
+      "tickers": [
+        "^N225"
+      ],
+      "summary": "Nikkei 225 punches through 65,000 for the first time in history, closing +2.87% at 65,158.19 as Trump's Sunday Truth Social post calls US-Iran talks 'orderly and constructive'; WTI -~5.8% to ~$91, Taiwan TAIEX +2.91% to record.",
+      "tags": [
+        "nikkei",
+        "japan",
+        "asia",
+        "iran",
+        "hormuz",
+        "oil",
+        "semis",
+        "kioxia",
+        "record-high",
+        "memorial-day"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Nikkei 225 close": "65,158.19 (+2.87%)",
+        "Intraday peak": "~65,254 (>65,000 first time)",
+        "WTI crude": "~$91 (-5.77%)",
+        "Brent crude": "~$97.78 (below $100)",
+        "Kioxia": "+5.94% to ¥60,810",
+        "Taiwan TAIEX": "+2.91% to 43,495.92 record",
+        "ASX 200": "+0.45%"
+      },
+      "explainer": {
+        "tagline": "Japan's Nikkei smashes through 65,000 in holiday-thinned Asia trading as Trump's Sunday Iran note crushes oil and stokes risk-on.",
+        "whatIsIt": "Japan's Nikkei 225 closed above 65,000 for the first time in its history on Monday, May 25, jumping 2.87% to 65,158.19 with an intraday peak near 65,254. US markets were closed for Memorial Day and the UK FTSE was shut for the Spring Bank Holiday, leaving Asia and Continental Europe to drive the global tape.",
+        "howItWorks": "President Trump posted on Truth Social on Sunday May 24 that US-Iran negotiations were 'proceeding in an orderly and constructive manner' and that he had told his representatives 'not to rush into a deal in that time is on our side.' Oil cratered: WTI -5.77% to ~$91.00, Brent below $100 (-~5%). Semis led the Tokyo bid — Kioxia Holdings +5.94% to ¥60,810 on AI-memory demand. Asian peers followed: Taiwan's TAIEX +2.91% to a record 43,495.92, Australia's ASX 200 +0.45%. Europe opened higher, with the DAX +1.6%, CAC 40 +1.8%, and Stoxx 600 at the highest level since March 2.",
+        "whyItMatters": "First-ever close above 65,000 caps an ~5% surge for the Nikkei in just three weeks after clearing 62,000 on May 7 — the index is now ~24% above its February 28 pre-war low. The trigger pairing — Trump's softer Iran tone plus falling oil — directly reverses the inflation-from-energy bid that has dragged US 30Y yields above 5% for most of May. JPMorgan now projects Nikkei 70,000 by year-end. UK and US desks return Tuesday to risk-on Asia/Europe and a fresh 'peace dividend' bid in oil.",
+        "forWho": "Asia-Pacific equity, global macro, energy traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5EN225"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tokyo_Stock_Exchange.JPG",
+        "alt": "Tokyo Stock Exchange Building, home of the Nikkei 225",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Bloomingbit Coverage",
+          "url": "https://en.bloomingbit.io/feed/news/112768"
+        },
+        {
+          "label": "IC Markets Asia Recap",
+          "url": "https://www.icmarkets.com.au/blog/monday-25th-may-2026-asia-markets-rally-as-nikkei-tops-65000-on-falling-oil-prices-and-iran-deal-optimism/"
+        },
+        {
+          "label": "Tribune Coverage",
+          "url": "https://www.tribuneindia.com/news/business/japans-nikkei-225-surges-past-65000-for-the-first-time-on-hormuz-reopening-hopes/amp/"
+        },
+        {
+          "label": "Nikkei Quote",
+          "url": "https://finance.yahoo.com/quote/%5EN225"
+        }
+      ],
+      "publishDate": "2026-05-25T13:07:48.194Z"
+    },
     {
       "id": "sp500-dow-records-may-22-2026",
       "categories": [
