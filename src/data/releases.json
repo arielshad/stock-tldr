@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-26T00:26:57.790Z",
+  "generatedAt": "2026-05-26T13:10:54.249Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "azo-q3-fy26-earnings-may-26-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "AutoZone Q3 FY26 — net sales $4.84B (+8.4% Y/Y), EPS $38.07 beats ~$36.13 est; total SSS +3.9% (domestic +4.1%); $586M Q3 buyback as store count crosses 7,856",
+      "org": "AutoZone",
+      "date": "2026-05-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000866787/000117184326003674/exh_991.htm",
+      "summary": "AutoZone Q3 FY26: $4.84B revenue (+8.4%), EPS $38.07 trounces $36.13 est on $923.8M operating profit (+6.6%). Total comps +3.9%, domestic +4.1%, international +1.6%. $586.3M repurchased; $0.8B left on authorization.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-miss",
+        "q3-fy26",
+        "same-store-sales",
+        "buyback",
+        "auto-parts",
+        "consumer-discretionary"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AZO"
+      ],
+      "metrics": {
+        "Net sales": "$4.84B (+8.4% Y/Y)",
+        "EPS (diluted)": "$38.07 vs ~$36.13 est",
+        "Total SSS (cc)": "+3.9%",
+        "Domestic SSS": "+4.1%",
+        "International SSS (cc)": "+1.6%",
+        "Operating profit": "$923.8M (+6.6%)",
+        "Gross margin change": "-57bp (LIFO -77bp)",
+        "Q3 buyback": "$586.3M (164K shares @ ~$3,582)",
+        "Store count": "7,856 (US 6,766, MX 933, BR 157)"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000866787/000117184326003674/exh_991.htm"
+        },
+        {
+          "label": "Yahoo Finance Release",
+          "url": "https://sg.finance.yahoo.com/news/autozone-3rd-quarter-total-company-105500023.html"
+        },
+        {
+          "label": "QZ Recap",
+          "url": "https://qz.com/autozone-earnings-beat-domestic-sales-growth-052626"
+        },
+        {
+          "label": "AZO Quote",
+          "url": "https://finance.yahoo.com/quote/AZO/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AutoZone's third quarter beats on EPS and clears the 3% comp bar despite a revenue nick — buyback machine keeps chugging.",
+        "whatIsIt": "Auto-parts retailer AutoZone reported fiscal third-quarter results before the bell on May 26, 2026 for the 12 weeks ended May 9. The print is the first read on US DIY auto demand into the Memorial Day setup and a marker for whether tariff-driven cost pressure is showing up in margins.",
+        "howItWorks": "Net sales rose 8.4% Y/Y to $4.84B (versus ~$4.86B consensus), while diluted EPS climbed to $38.07 from $35.36 — beating the ~$36.13 Street estimate. Total same-store sales rose 3.9% on a constant-currency basis (domestic +4.1%, international +1.6%). Operating profit was $923.8M (+6.6%), but gross margin slipped 57bp on a 77bp non-cash LIFO drag. Net income reached $641.5M (vs $608.4M). Buybacks totalled $586.3M (164K shares at ~$3,582 average), with $0.8B remaining on the authorization. Store count ended at 7,856 (US 6,766; Mexico 933; Brazil 157).",
+        "whyItMatters": "AZO's comp acceleration to +4.1% domestic — back above the 3% level that signals real DIY traffic — supports the bull thesis on US auto-aftermarket demand and contrasts with mixed retail prints from WMT and TGT last week. The LIFO-driven gross margin slip is the soft spot worth watching: a sustained move lower would signal tariff/COGS pressure that mega-cap retailers have been flagging. Peer ORLY and AAP trade on the same comp framework.",
+        "forWho": "Consumer discretionary investors and retail desks gauging DIY auto demand.",
+        "tryIt": "https://finance.yahoo.com/quote/AZO/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Autozonehqmemphis.jpg/1280px-Autozonehqmemphis.jpg",
+        "alt": "AutoZone corporate headquarters in Memphis, Tennessee",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-26T13:10:54.249Z"
+    },
+    {
+      "id": "kospi-tops-8000-may-26-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "KOSPI closes above 8,000 for first time ever — +2.55% to record 8,047.51 on Iran-deal hopes and oil -7%; Samsung +2.22%, SK hynix +5.72% breaks ₩2M/share; foreign net buying ends 13-day selling streak",
+      "org": "Korea Exchange",
+      "date": "2026-05-26",
+      "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20260526/kospi-hits-fresh-record-above-8000-on-foreign-buying-easing-oil-fears",
+      "summary": "KOSPI rockets +199.80 points (+2.55%) to first-ever close above 8,000 at 8,047.51 — intraday topped 8,131.15. Samsung +2.22%, SK hynix +5.72% past ₩2M for first time, Hyundai Motor +5.19%. Foreigners net buyers after 13 sessions.",
+      "tags": [
+        "kospi",
+        "south-korea",
+        "record-high",
+        "ai-semis",
+        "samsung",
+        "sk-hynix",
+        "iran-deal",
+        "oil",
+        "foreign-buying"
+      ],
+      "importance": "major",
+      "tickers": [
+        "EWY",
+        "^KS11"
+      ],
+      "metrics": {
+        "KOSPI close": "8,047.51 (+2.55% / +199.80 pts)",
+        "Intraday high": "8,131.15",
+        "Samsung Electronics": "+2.22% (₩301,000)",
+        "SK hynix": "+5.72% (₩2,074,000)",
+        "Hyundai Motor": "+5.19%",
+        "Brent (July)": "$96.14 (-7.15%)",
+        "WTI (July)": "$90.31 (-6.51%)"
+      },
+      "links": [
+        {
+          "label": "Korea Times Markets",
+          "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20260526/kospi-hits-fresh-record-above-8000-on-foreign-buying-easing-oil-fears"
+        },
+        {
+          "label": "Asia Business Daily",
+          "url": "https://www.asiae.co.kr/en/article/2026052615372979263"
+        },
+        {
+          "label": "Bloomingbit Recap",
+          "url": "https://en.bloomingbit.io/feed/news/112872"
+        },
+        {
+          "label": "EWY (US Korea ETF)",
+          "url": "https://finance.yahoo.com/quote/EWY/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Seoul's benchmark prints its first-ever 8,000 close as AI memory rallies and Iran-deal optimism crushes oil 7%.",
+        "whatIsIt": "South Korea's KOSPI closed above the 8,000 level for the first time in its 43-year history on Tuesday, the same session that the US returned from Memorial Day weekend with futures pointing higher on the same Iran-deal narrative. Korea's index has been on a multi-month chip-led tear; today's break is the next round number after the May 11 close above 7,800.",
+        "howItWorks": "KOSPI jumped 199.80 points to settle at 8,047.51 (+2.55%) after spiking as high as 8,131.15 intraday. Samsung Electronics rose 2.22% to ₩301,000 and SK hynix surged 5.72% to ₩2,074,000 — its first close above the ₩2 million mark. Hyundai Motor added 5.19%. Foreign investors flipped to net buyers for the first time in 13 trading sessions. The macro tailwind was oil: Brent July futures fell 7.15% to $96.14 and WTI July fell 6.51% to $90.31 as the US and Iran moved closer to a ceasefire MoU that would reopen the Strait of Hormuz.",
+        "whyItMatters": "Korea is the cleanest single-country read on the AI-memory cycle — HBM (SK hynix) and DRAM (Samsung) pricing translates almost directly into the KOSPI. A first-ever close above 8,000 with oil collapsing on Hormuz-reopen hopes confirms that the macro market sees the Iran de-escalation as durable enough to mark up risk assets. Watch US semis (NVDA, AVGO, MU) at open and the DRAM ETF, which tracks the same memory complex.",
+        "forWho": "Asia EM allocators and US semi/AI-infrastructure traders.",
+        "tryIt": "https://finance.yahoo.com/quote/%5EKS11/"
+      },
+      "image": {
+        "url": "https://newsimg.koreatimes.co.kr/2026/05/26/c4e41c19-aa6d-401c-ac0b-71fa7e313482.jpg",
+        "alt": "KOSPI trading floor scoreboard showing index above 8,000 on May 26, 2026",
+        "fit": "cover",
+        "credit": "Korea Times"
+      },
+      "publishDate": "2026-05-26T13:10:54.249Z"
+    },
     {
       "id": "nikkei-tops-65k-may-25-2026",
       "categories": [

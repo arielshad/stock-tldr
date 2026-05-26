@@ -3395,6 +3395,45 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260526t131054z",
+      "timestamp": "2026-05-26T13:10:54.249Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: AutoZone Q3 FY26 EPS beat with +4.1% domestic comps and $586M buyback; KOSPI's first-ever close above 8,000 (+2.55% to 8,047.51) on AI-memory rally and Iran-deal-driven 7% oil tumble.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "azo-q3-fy26-earnings-may-26-2026",
+          "title": "AutoZone Q3 FY26 — net sales $4.84B (+8.4% Y/Y), EPS $38.07 beats ~$36.13 est; total SSS +3.9% (domestic +4.1%); $586M Q3 buyback as store count crosses 7,856",
+          "category": "earnings",
+          "note": "Mega-cap retail name with EPS beat, accelerating domestic comps, and large Q3 buyback — first BMO US print after Memorial Day weekend."
+        },
+        {
+          "id": "kospi-tops-8000-may-26-2026",
+          "title": "KOSPI closes above 8,000 for first time ever — +2.55% to record 8,047.51 on Iran-deal hopes and oil -7%; Samsung +2.22%, SK hynix +5.72% breaks ₩2M/share; foreign net buying ends 13-day selling streak",
+          "category": "mover",
+          "note": "First-ever close above 8,000 (+2.55%) is a clear named-event level break; oil -7% on Iran de-escalation drove a foreign-investor reversal after 13 sessions of net selling."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "fx",
+        "rates",
+        "crypto",
+        "mna",
+        "rumor"
+      ]
     }
   ]
 }
