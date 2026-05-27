@@ -3484,6 +3484,50 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260527t131445z",
+      "timestamp": "2026-05-27T13:14:45.040Z",
+      "source": "github-actions-sweep",
+      "summary": "Four high-conviction adds for May 26–27: Verra Mobility's stock-shattering Avis Budget contract loss, and three Q1 earnings prints — Abercrombie & Fitch (record sales, +6% premarket), Bath & Body Works (above-guide beat + CFO transition, +17% premarket), and PDD Holdings (revenue growth but margin squeeze, -8% premarket).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "vrrm-avis-contract-termination-may-26-2026",
+          "title": "Verra Mobility crashes ~41% AH on May 26 — Avis Budget Group terminates Commercial Services agreement effective Sept 2026; cuts 2026 revenue guide by $135–$145M and adj EBITDA guide by ~$120M",
+          "category": "mover",
+          "note": "Single largest customer loss; -41% AH move and FY26 guide cut to $985–$995M from primary press release."
+        },
+        {
+          "id": "anf-q1-fy26-earnings-may-27-2026",
+          "title": "Abercrombie & Fitch Q1 FY26 — record $1.1B net sales (+2%) and EPS $1.47 above outlook on Americas +3% / APAC +24% strength; EMEA -10% as Mideast war bites Hollister; $105M Q1 buyback and FY26 outlook reaffirmed; ANF +~6% premarket",
+          "category": "earnings",
+          "note": "14th-straight growth quarter with record Q1 sales, EPS beats outlook, +6.2% premarket reaction."
+        },
+        {
+          "id": "bbwi-q1-fy26-earnings-may-27-2026",
+          "title": "Bath & Body Works Q1 FY26 — net sales $1.38B (-3% Y/Y) beat $1.36B est, adj EPS $0.32 and GAAP EPS $0.90 trounce estimates; reaffirms FY26 guide and announces CFO Eva Boratto departing June 12; BBWI +17% premarket to $20.78",
+          "category": "earnings",
+          "note": "Above-guide beat plus CFO transition; +17.2% premarket — clear standalone news given the magnitude."
+        },
+        {
+          "id": "pdd-q1-2026-earnings-may-27-2026",
+          "title": "PDD Holdings Q1 2026 — revenue RMB106.2B ($15.4B, +11% Y/Y) on Transaction Services +20%, but net income drops 15% to RMB12.5B and non-GAAP EPS/ADS RMB9.51 misses; PDD -~8% on widening profit squeeze",
+          "category": "earnings",
+          "note": "Major China large-cap, revenue beats but net income falls 15% on margin compression; -8.4% premarket."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory"
+      ]
     }
   ]
 }

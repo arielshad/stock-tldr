@@ -1,8 +1,268 @@
 {
-  "generatedAt": "2026-05-27T00:37:55.683Z",
+  "generatedAt": "2026-05-27T13:14:45.040Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "vrrm-avis-contract-termination-may-26-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Verra Mobility crashes ~41% AH on May 26 — Avis Budget Group terminates Commercial Services agreement effective Sept 2026; cuts 2026 revenue guide by $135–$145M and adj EBITDA guide by ~$120M",
+      "org": "Verra Mobility",
+      "date": "2026-05-26",
+      "tickers": [
+        "VRRM",
+        "CAR"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/verra-mobility-receives-termination-of-agreement-notice-from-avis-budget-group-302782197.html",
+      "summary": "Avis Budget — Verra Mobility's largest Commercial Services customer at >10% of total revenue — terminates the agreement; VRRM cuts FY26 revenue guide to $985–$995M and slumps -41% AH to $7.70.",
+      "tags": [
+        "mover",
+        "earnings-guide-cut",
+        "contract-loss",
+        "tolling-violations",
+        "commercial-services",
+        "us-vehicle-rental"
+      ],
+      "importance": "major",
+      "metrics": {
+        "AH move": "-41.2% to $7.70 (May 26)",
+        "Revenue hit": "$135M–$145M annualized",
+        "Adj EBITDA hit": "$120M–$125M annualized",
+        "Revised FY26 revenue": "$985M–$995M",
+        "Revised FY26 adj EPS": "$1.19–$1.25",
+        "Avis share of revenue": ">10% of total"
+      },
+      "explainer": {
+        "tagline": "Verra Mobility loses its single largest customer — Avis Budget terminates the tolling/violation-services contract that powered >10% of total revenue.",
+        "whatIsIt": "Verra Mobility (the company behind in-vehicle tolling and rental-car violation processing) disclosed on May 26 that Avis Budget Group has issued a contract-termination notice. The termination is effective September 2026. Avis represented more than 10% of Verra's total revenue in Q1 2026 and FY2025.",
+        "howItWorks": "Verra now expects FY26 total revenue of $985M–$995M, adj EBITDA of $380M–$385M, adj EPS of $1.19–$1.25, and free cash flow of $140M–$150M. The Commercial Services segment loses an estimated $135M–$145M of annualized revenue and $120M–$125M of annualized segment profit, before any cost offsets. CEO David Roberts said the company was 'surprised and disappointed' given the longstanding partnership.",
+        "whyItMatters": "Customer concentration risk was a long-running bear case; the print confirms it. VRRM dropped -41.2% to $7.70 in after-hours trading on May 26 — a multi-year low — wiping ~$700M of market cap. The company says it will pursue contractual and IP remedies and re-deploy resources to other rental and fleet customers, but the segment-level damage is structural.",
+        "forWho": "small/mid-cap fund managers, mobility-fintech analysts",
+        "tryIt": "https://stockanalysis.com/stocks/vrrm/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/393602/Verra_Mobility_Logo.jpg?p=facebook",
+        "alt": "Verra Mobility corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Verra Press Release",
+          "url": "https://www.prnewswire.com/news-releases/verra-mobility-receives-termination-of-agreement-notice-from-avis-budget-group-302782197.html"
+        },
+        {
+          "label": "Benzinga AH Move",
+          "url": "https://www.benzinga.com/markets/equities/26/05/52799303/why-verra-mobility-vrrm-stock-crashed-over-41-in-after-hours-trading"
+        },
+        {
+          "label": "8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001682745/000119312526239351/d123116dex991.htm"
+        },
+        {
+          "label": "VRRM Quote",
+          "url": "https://stockanalysis.com/stocks/vrrm/"
+        }
+      ],
+      "publishDate": "2026-05-27T13:14:45.040Z"
+    },
+    {
+      "id": "anf-q1-fy26-earnings-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Abercrombie & Fitch Q1 FY26 — record $1.1B net sales (+2%) and EPS $1.47 above outlook on Americas +3% / APAC +24% strength; EMEA -10% as Mideast war bites Hollister; $105M Q1 buyback and FY26 outlook reaffirmed; ANF +~6% premarket",
+      "org": "Abercrombie & Fitch",
+      "date": "2026-05-27",
+      "tickers": [
+        "ANF"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/0001018840/000101884026000029/q12026pressrelease.htm",
+      "summary": "ANF's 14th straight quarter of growth — record Q1 sales $1.1B and operating margin 8.0%. EPS $1.47 beats analyst ~$1.27 est; FY26 EPS guide of $10.20–$11.00 reaffirmed; $105M repurchased; +6.2% premarket to $78.99.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "apparel",
+        "specialty-retail",
+        "buyback",
+        "q1-fy26",
+        "abercrombie",
+        "hollister",
+        "mideast-drag"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$1.1B (+2% Y/Y, record Q1)",
+        "EPS": "$1.47 vs ~$1.27 est",
+        "Operating margin": "8.0%",
+        "Americas": "+3%",
+        "APAC": "+24%",
+        "EMEA": "-10%",
+        "Buyback": "$105M (3% of shares)",
+        "FY26 EPS guide": "$10.20–$11.00 (reaffirmed)",
+        "Move": "+6.2% premarket to $78.99"
+      },
+      "explainer": {
+        "tagline": "ANF prints its 14th straight growth quarter — beat on EPS, miss on top line, but Americas + APAC offset Mideast-driven EMEA weakness.",
+        "whatIsIt": "Abercrombie & Fitch reported Q1 FY26 (quarter ended May 2, 2026) before the open on May 27. Net sales were a record $1.1B, up 2% Y/Y, with the company logging its 14th consecutive quarter of growth. Diluted EPS came in at $1.47, ahead of the company's own outlook and well above sell-side estimates near $1.27.",
+        "howItWorks": "Brand mix: Abercrombie brands +3%, Hollister brands flat. Regional mix: Americas +3%, APAC +24%, EMEA -10% as the ongoing Middle East war softened demand, particularly for Hollister. Operating margin landed at 8.0%. The company repurchased $105M of stock in Q1 (~3% of shares outstanding at the start of the year).",
+        "whyItMatters": "ANF reaffirmed FY26 sales growth guide of 3–5%, EPS guide of $10.20–$11.00, and ~$450M of full-year buybacks; Q2 guide is sales +2–4% and EPS $1.80–$2.00 with at least $150M more in repurchases. The print pushed ANF +6.2% premarket to $78.99 — a vote of confidence that the brand engine still has legs despite EMEA war headwinds.",
+        "forWho": "consumer-discretionary investors, specialty-retail analysts",
+        "tryIt": "https://stockanalysis.com/stocks/anf/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+        "alt": "Abercrombie & Fitch storefront",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "ANF Q1 Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001018840/000101884026000029/q12026pressrelease.htm"
+        },
+        {
+          "label": "FinancialContent Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-27-abercrombie-and-fitch-nyseanf-misses-q1-cy2026-sales-expectations-but-stock-soars-62"
+        },
+        {
+          "label": "ANF Quote",
+          "url": "https://stockanalysis.com/stocks/anf/"
+        }
+      ],
+      "publishDate": "2026-05-27T13:14:45.040Z"
+    },
+    {
+      "id": "bbwi-q1-fy26-earnings-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Bath & Body Works Q1 FY26 — net sales $1.38B (-3% Y/Y) beat $1.36B est, adj EPS $0.32 and GAAP EPS $0.90 trounce estimates; reaffirms FY26 guide and announces CFO Eva Boratto departing June 12; BBWI +17% premarket to $20.78",
+      "org": "Bath & Body Works",
+      "date": "2026-05-27",
+      "tickers": [
+        "BBWI"
+      ],
+      "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/bath-body-works-reports-first-quarter-results-exceeding-guidance-and-progress-against-the-consumer-first-formula/2352442",
+      "summary": "BBWI's Q1 results 'exceeded guidance' despite the soft top line. Adj operating income $151M, adj EPS $0.32, GAAP EPS $0.90. FY26 sales/EPS guidance reaffirmed. CFO Eva Boratto departs June 12; stock soars +17.2% premarket.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "specialty-retail",
+        "personal-care",
+        "cfo-departure",
+        "q1-fy26",
+        "guidance-reaffirmed",
+        "consumer-first-formula"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$1.38B (-3.2% Y/Y, beats $1.36B est)",
+        "GAAP EPS": "$0.90",
+        "Adj EPS": "$0.32",
+        "Adj operating income": "$151M",
+        "Adj net income": "$65M",
+        "FY26 sales guide": "down 4.5%–2.5% (reaffirmed)",
+        "FY26 adj EPS guide": "$2.40–$2.65 (reaffirmed)",
+        "Move": "+17.2% premarket to $20.78"
+      },
+      "explainer": {
+        "tagline": "BBWI's Q1 lands above its own guidance — beat on every line, but CFO is leaving and the brand admits it's 'below the standard.'",
+        "whatIsIt": "Bath & Body Works reported Q1 FY26 (quarter ended May 2, 2026) before the open on May 27. Net sales fell 3.2% Y/Y to $1.38B (a slight beat vs $1.36B est). GAAP diluted EPS was $0.90, adjusted EPS $0.32. Adjusted operating income $151M, adjusted net income $65M.",
+        "howItWorks": "CEO Daniel Heaf characterized the results as 'exceeded guidance, but remain below the standard our brand is capable of delivering' and pointed to the Consumer First Formula reset. The company reaffirmed its FY26 outlook: net sales down 4.5%–2.5% versus FY25's $7.29B; GAAP EPS $3.00–$3.25; adjusted EPS $2.40–$2.65. CFO Eva Boratto will step down effective June 12; Tom Javitch named interim CFO while an active search runs.",
+        "whyItMatters": "After a sluggish full year, an above-guide beat was the read the market needed — BBWI +17.2% premarket to $20.78. The CFO transition is the wrinkle: combining a leadership change with an admitted 'below standard' brand assessment leaves a long runway for proof points, but Q1 buys management some room.",
+        "forWho": "consumer-discretionary investors, specialty-retail analysts",
+        "tryIt": "https://stockanalysis.com/stocks/bbwi/"
+      },
+      "image": {
+        "url": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/27/1073437.png",
+        "alt": "Bath & Body Works storefront",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "BBWI Q1 Press Release",
+          "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/bath-body-works-reports-first-quarter-results-exceeding-guidance-and-progress-against-the-consumer-first-formula/2352442"
+        },
+        {
+          "label": "FinancialContent Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-27-bath-and-body-workss-nysebbwi-q1-cy2026-sales-beat-estimates-stock-jumps-172"
+        },
+        {
+          "label": "BBWI Quote",
+          "url": "https://stockanalysis.com/stocks/bbwi/"
+        }
+      ],
+      "publishDate": "2026-05-27T13:14:45.040Z"
+    },
+    {
+      "id": "pdd-q1-2026-earnings-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "PDD Holdings Q1 2026 — revenue RMB106.2B ($15.4B, +11% Y/Y) on Transaction Services +20%, but net income drops 15% to RMB12.5B and non-GAAP EPS/ADS RMB9.51 misses; PDD -~8% on widening profit squeeze",
+      "org": "PDD Holdings",
+      "date": "2026-05-27",
+      "tickers": [
+        "PDD"
+      ],
+      "url": "https://www.stocktitan.net/news/PDD/pdd-holdings-announces-first-quarter-2026-unaudited-financial-2iwyuhtjni8p.html",
+      "summary": "PDD reports Q1 2026: revenue RMB106.2B (+11%) and operating profit RMB19.6B (+22%) beat the top, but net income fell 15% and non-GAAP EPS/ADS RMB9.51 (~$1.38) missed; ADS slumps ~8% premarket on margin compression.",
+      "tags": [
+        "earnings",
+        "china",
+        "ecommerce",
+        "temu",
+        "pinduoduo",
+        "transaction-services",
+        "q1-2026",
+        "margin-compression",
+        "tariff-drag"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "RMB106.2B ($15.4B, +11% Y/Y)",
+        "Transaction services revenue": "RMB56.3B (+20%)",
+        "Online marketing revenue": "RMB49.9B (~flat)",
+        "Operating profit": "RMB19.6B (+22%)",
+        "Net income": "RMB12.5B (-15%)",
+        "Non-GAAP net income": "RMB14.1B (-17%)",
+        "Non-GAAP EPS/ADS": "RMB9.51 (~$1.38), down from RMB11.41",
+        "Move": "-~8.4% to $88.51"
+      },
+      "explainer": {
+        "tagline": "PDD's Q1 2026 cracks the same way Q4 did — revenue holds up but profit shrinks as China e-commerce subsidies and Temu's tariff fight bite.",
+        "whatIsIt": "PDD Holdings (parent of Pinduoduo and Temu) reported Q1 2026 before the U.S. open on May 27. Total revenue grew 11% Y/Y to RMB106.2B ($15.4B), with transaction services revenue up 20% to RMB56.3B and online marketing revenue roughly flat at RMB49.9B.",
+        "howItWorks": "Operating profit rose 22% to RMB19.6B and non-GAAP operating profit rose 15% to RMB21.1B — but lower-line metrics weakened. Net income attributable to ordinary shareholders fell 15% Y/Y to RMB12.5B and non-GAAP net income dropped 17% to RMB14.1B. Non-GAAP diluted EPS per ADS was RMB9.51 (~US$1.38), versus RMB11.41 in Q1 2025.",
+        "whyItMatters": "The bottom-line erosion is the second straight quarter of the same pattern. Investors took it as confirmation that the China-domestic merchant subsidy program and Temu's U.S. tariff exposure are still eating into PDD's structural margin. ADS dropped ~8.4% to $88.51 in premarket trading, lopping roughly $13B off market cap.",
+        "forWho": "China e-commerce investors, cross-border retail analysts",
+        "tryIt": "https://stockanalysis.com/stocks/pdd/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/PDD_Holdings_Announces_First_Quarter_2026_Unaudited_Financial_Results_1062659.webp",
+        "alt": "PDD Holdings logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "PDD Q1 Press Release",
+          "url": "https://www.stocktitan.net/news/PDD/pdd-holdings-announces-first-quarter-2026-unaudited-financial-2iwyuhtjni8p.html"
+        },
+        {
+          "label": "6-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465926034813/tm269789d1_ex99-1.htm"
+        },
+        {
+          "label": "PDD Quote",
+          "url": "https://stockanalysis.com/stocks/pdd/"
+        }
+      ],
+      "publishDate": "2026-05-27T13:14:45.040Z"
+    },
     {
       "id": "mu-1t-mcap-ubs-pt-may-26-2026",
       "categories": [
