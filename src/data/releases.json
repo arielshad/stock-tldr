@@ -1,8 +1,282 @@
 {
-  "generatedAt": "2026-05-26T13:10:54.249Z",
+  "generatedAt": "2026-05-27T00:37:55.683Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mu-1t-mcap-ubs-pt-may-26-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Micron crosses $1T market cap for first time as UBS lifts PT to Street-high $1,625 — MU +~19% on May 26, +213% YTD; UBS sees HBM4 sold out and EPS staying above $100 through 2029",
+      "org": "Micron Technology",
+      "date": "2026-05-26",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-surges-ubs-triples-142435532.html",
+      "summary": "Micron jumps ~19% to ~$895.88 and tops $1T market cap for the first time on May 26 after UBS's Timothy Arcuri lifts PT to a Street-high $1,625 (from $535) on sold-out HBM4 and AI-memory long-term agreements.",
+      "tags": [
+        "mover",
+        "analyst",
+        "price-target-raise",
+        "ubs",
+        "memory",
+        "hbm4",
+        "ai-memory",
+        "dram",
+        "nand",
+        "trillion-dollar-club",
+        "semis"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MU",
+        "SNDK",
+        "WDC",
+        "STX"
+      ],
+      "metrics": {
+        "Move": "+~19% to $895.88",
+        "Market cap": ">$1T (first time)",
+        "YTD": "+213%",
+        "UBS PT": "$1,625 (from $535, +204%)",
+        "UBS EPS view": ">$100 through 2029"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-surges-ubs-triples-142435532.html"
+        },
+        {
+          "label": "Yahoo: $1T Milestone",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-tops-1-trillion-market-151456135.html"
+        },
+        {
+          "label": "Tech Marketer Note",
+          "url": "https://thetechmarketer.com/micron-mu-stock-2026-ubs-1625-target-trillion-hbm/"
+        },
+        {
+          "label": "MU Quote",
+          "url": "https://www.cnbc.com/quotes/MU"
+        }
+      ],
+      "explainer": {
+        "tagline": "Micron joins the trillion-dollar club as UBS triples its price target on sold-out HBM4 and structural AI-memory pricing.",
+        "whatIsIt": "Micron Technology shares jumped about 19% on Tuesday May 26, closing near $895.88 and pushing the memory-chip maker's market value above $1 trillion for the first time. The catalyst was a UBS note from analyst Timothy Arcuri lifting his price target to a new Street-high $1,625 from $535 — a 204% revision.",
+        "howItWorks": "Arcuri argued Micron's 2026 HBM4 capacity is already sold out under long-term, fixed-price agreements, with DRAM contract prices up 58–63% and NAND up 70–75% year-to-date. UBS modeled cumulative free cash flow above $400B from 2027–2029 and EPS above $100 even in a 'moderate memory downcycle' through 2029. Other memory names rallied in sympathy — SanDisk +~7%, Western Digital +~8%, Seagate +~4%.",
+        "whyItMatters": "Micron is now the 11th-largest US public company by market cap, ahead of Walmart, marking memory's reclassification from a commodity cycle play to AI infrastructure. The Nasdaq closed at a fresh record 26,656.18 (+1.19%) led by the semis bid, and Polymarket priced ~34% odds of a US government equity stake in Micron by year-end. The structural-LTA framing — fixed volume + partially fixed price — is the bull thesis for the entire memory complex.",
+        "forWho": "semis traders, AI-infra investors",
+        "tryIt": "https://finance.yahoo.com/quote/MU"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/WU9H42R_cQ0o2g1xGoa7Qg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/f21336bd75b0428e3a54cb8bb75facbe",
+        "alt": "Micron Technology DRAM and HBM memory products and chips",
+        "fit": "cover"
+      },
+      "publishDate": "2026-05-27T00:37:55.683Z"
+    },
+    {
+      "id": "zs-q3-fy26-earnings-may-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Zscaler Q3 FY26 — revenue $850.5M (+25% Y/Y) and ARR $3.525B (+25%) top, raises FY26 EPS to $4.10–$4.11, but cuts FY26 FCF margin guide to 22.8–23.3% from 26.5–27% on higher capex; ZS -~17 to -20% AH",
+      "org": "Zscaler",
+      "date": "2026-05-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000095/zs-04302026_991.htm",
+      "summary": "Zscaler beat on Q3 with $850.5M revenue (+25% Y/Y), $3.525B ARR and $1.08 non-GAAP EPS, and raised the FY26 EPS guide; but the FCF margin guide was cut to 22.8–23.3% on higher AI/data-center capex, sending ZS ~17–20% lower after hours.",
+      "tags": [
+        "earnings",
+        "mover",
+        "cybersecurity",
+        "ssat",
+        "fcf-guide-cut",
+        "capex",
+        "ai-security",
+        "arr",
+        "q3-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ZS"
+      ],
+      "metrics": {
+        "Revenue": "$850.5M (+25% Y/Y)",
+        "ARR": "$3.525B (+25% Y/Y)",
+        "Net new ARR": "$166M (+24% Y/Y)",
+        "Non-GAAP EPS": "$1.08 vs $1.04 est",
+        "Non-GAAP op margin": "23% (record)",
+        "FY26 EPS guide": "$4.10–$4.11 (raised)",
+        "FY26 FCF margin guide": "22.8–23.3% (from 26.5–27%)",
+        "Move": "-~17 to -20% AH"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000095/zs-04302026_991.htm"
+        },
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/26/3301454/0/en/Zscaler-Announces-Strong-Third-Quarter-Fiscal-2026-Results.html"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/ZS/zscaler-announces-strong-third-quarter-fiscal-2026-3kdfhah0yv3p.html"
+        },
+        {
+          "label": "ZS Quote",
+          "url": "https://finance.yahoo.com/quote/ZS"
+        }
+      ],
+      "explainer": {
+        "tagline": "Zscaler beat on Q3 and raised FY guides — then sliced its free-cash-flow margin outlook on AI capex, and the stock fell ~17–20% AH.",
+        "whatIsIt": "Zscaler reported fiscal Q3 2026 (quarter ended April 30) revenue of $850.5M (+25% Y/Y), ARR of $3.525B (+25%), non-GAAP EPS of $1.08 (vs $1.04 est), and a record 23% non-GAAP operating margin. Management raised the FY26 ARR, revenue, op income, and EPS guides — but cut the full-year free cash flow margin guide to 22.8–23.3% from 26.5–27% to fund higher data-center capex.",
+        "howItWorks": "Q3 net new ARR was $166M (+24% Y/Y); excluding the Red Canary acquisition (which added $127M of ARR), organic ARR growth was 21% and net new ARR grew 14%. The new FY26 EPS guide of $4.10–$4.11 implies +25% growth. Capex is now expected in the high single-digits as a percentage of revenue, primarily for AI inference capacity tied to new Project Glasswing, OpenAI Day-Break and Project AI-Guardian initiatives.",
+        "whyItMatters": "Zscaler's reaction is the latest SaaS-pays-the-AI-capex story — investors penalized the FCF guide cut despite raised top-line and EPS guides, knocking ~$7B off market cap after hours. Watch read-through to other security and infra-SaaS names that face the same capex/margin tradeoff (CRWD, NET, OKTA, S, PANW).",
+        "forWho": "cybersecurity sector, SaaS PMs",
+        "tryIt": "https://finance.yahoo.com/quote/ZS"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/bc212637-6ad5-43b1-9aa5-f998c8fe68ba",
+        "alt": "Zscaler corporate logo",
+        "fit": "contain"
+      },
+      "publishDate": "2026-05-27T00:37:55.683Z"
+    },
+    {
+      "id": "box-q1-fy27-earnings-may-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Box Q1 FY27 — revenue $306M (+11% Y/Y) is the first double-digit growth in 12 quarters; non-GAAP EPS $0.37 beats $0.36 guide; FY27 revenue guided ~$1.275B (+8% rep / +9% CC) and BOX -~4% AH on AI-monetization disappointment",
+      "org": "Box",
+      "date": "2026-05-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001372612/000119312526088171/box-ex99_1.htm",
+      "summary": "Box Q1 FY27 (quarter ended April 30) revenue of $306M was up 11% Y/Y — its first double-digit growth in over three years — with non-GAAP EPS $0.37 beating $0.36 guidance, but the FY27 revenue guide of ~$1.275B and EPS guide of ~$1.56 vs $1.63 consensus sent BOX ~4% lower AH.",
+      "tags": [
+        "earnings",
+        "mover",
+        "cloud-content",
+        "ai-monetization",
+        "guidance-light",
+        "q1-fy27",
+        "saas"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "BOX"
+      ],
+      "metrics": {
+        "Revenue": "$306M (+11% Y/Y, +10% CC)",
+        "Non-GAAP EPS": "$0.37 vs $0.36 guide",
+        "Op margin": "27.7% (+240bp Y/Y)",
+        "NRR": "105% (vs 102% prior)",
+        "Billings": "$255M (+5% Y/Y, +13% CC)",
+        "FY27 revenue guide": "~$1.275B (+8% rep / +9% CC)",
+        "FY27 non-GAAP EPS guide": "~$1.56 vs $1.63 cons",
+        "Move": "-~4% AH"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001372612/000119312526088171/box-ex99_1.htm"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/26/box-box-q1-2027-earnings-call-transcript/"
+        },
+        {
+          "label": "MarketBeat Report",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-5-26-box-inc-stock/"
+        },
+        {
+          "label": "BOX Quote",
+          "url": "https://www.cnbc.com/quotes/BOX"
+        }
+      ],
+      "explainer": {
+        "tagline": "Box's first double-digit growth in 12 quarters wasn't enough — FY27 guide implies only single-digit growth, and AI bulls walked away.",
+        "whatIsIt": "Box reported fiscal Q1 2027 revenue of $306M, up 11% Y/Y and 10% in constant currency — the first double-digit growth print in more than three years. Non-GAAP EPS of $0.37 beat the $0.36 guide; non-GAAP operating margin came in at 27.7% (+240bp Y/Y), and Net Retention rose to 105%.",
+        "howItWorks": "FY27 revenue is guided to ~$1.275B (+8% reported / +9% CC) with non-GAAP EPS of ~$1.56, below the $1.63 Street consensus. Billings of $255M grew 5% reported (+13% CC), helped by strong Q1 bookings and Enterprise Advanced momentum. The Hubs and Box AI Studio packaging continues to scale but is not yet showing up in the headline growth rate.",
+        "whyItMatters": "BOX shares slid ~4% in after-hours trading — the AI-monetization inflection bulls had underwritten is not in the guide, and a sub-10% FY growth print kept Box stuck in the GenAI 'value-trap' bucket relative to Salesforce, Microsoft, and ServiceNow. Read-through to other mid-cap collaboration/content names (DBX, DOCU, ASAN).",
+        "forWho": "SaaS investors, AI-monetization watchers",
+        "tryIt": "https://finance.yahoo.com/quote/BOX"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/company-logo/box-lg.png?v=c41f7f3eee",
+        "alt": "Box Inc corporate logo",
+        "fit": "contain"
+      },
+      "publishDate": "2026-05-27T00:37:55.683Z"
+    },
+    {
+      "id": "podd-omnipod-mdc-recall-may-26-2026",
+      "categories": [
+        "regulatory",
+        "mover"
+      ],
+      "title": "Insulet initiates voluntary Medical Device Correction on Omnipod 5 / DASH / Eros pods — ~7M pods in scope on cannula-tear risk; expects up to $50M 2026 cost (excluded from adj results); PODD -~6% AH",
+      "org": "Insulet",
+      "date": "2026-05-26",
+      "url": "https://finance.yahoo.com/news/insulet-initiates-voluntary-medical-device-200500186.html",
+      "summary": "Insulet announces a voluntary MDC for specific lots of Omnipod 5, DASH, and Eros pods after identifying a manufacturing issue that can cause cannula tears and insulin under-delivery; ~7M pods in scope (~60% already used/expired), up to $50M 2026 cost; PODD slides ~6% after hours.",
+      "tags": [
+        "regulatory",
+        "mover",
+        "fda",
+        "medical-device-correction",
+        "diabetes",
+        "omnipod",
+        "insulin",
+        "recall",
+        "manufacturing-defect"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "PODD"
+      ],
+      "metrics": {
+        "Pods in scope": "~7M (~8.5% of 2025 global Omnipod production)",
+        "Already consumed/expired": "~60%",
+        "Adverse events (global)": "24 serious reports, 0 deaths",
+        "Expected 2026 cost": "up to $50M (excluded from adj)",
+        "FY26 guide": "unchanged",
+        "Move": "-~6% AH"
+      },
+      "links": [
+        {
+          "label": "Insulet Press Release",
+          "url": "https://finance.yahoo.com/news/insulet-initiates-voluntary-medical-device-200500186.html"
+        },
+        {
+          "label": "FDA Recall Notice",
+          "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/insulet-initiates-voluntary-medical-device-correction-certain-omnipodr-5-pods-us"
+        },
+        {
+          "label": "StockTitan 8-K Summary",
+          "url": "https://www.stocktitan.net/sec-filings/PODD/8-k-insulet-corp-reports-material-event-15eed73a3a12.html"
+        },
+        {
+          "label": "PODD Quote",
+          "url": "https://finance.yahoo.com/quote/PODD"
+        }
+      ],
+      "explainer": {
+        "tagline": "Insulet flags a second cannula-tear correction in two months — ~7M Omnipod pods in scope with up to $50M in 2026 cleanup costs.",
+        "whatIsIt": "Insulet initiated a voluntary Medical Device Correction on specific lots of Omnipod 5, Omnipod DASH, and Omnipod Eros pods on May 26, after identifying a manufacturing issue that can produce a small tear in the cannula just above the skin — potentially leading to insulin leaking outside the pod rather than being delivered to the patient.",
+        "howItWorks": "Approximately 7M pods are in scope (about 8.5% of 2025 global Omnipod production), with ~60% already consumed or expired. Globally, 24 serious adverse events have been reported including hospitalizations and diabetic ketoacidosis, but no deaths. The action is separate from Insulet's March 12, 2026 voluntary correction; both stem from cannula handling at the Acton, MA facility but involve different manufacturing processes. Insulet expects up to $50M of 2026 costs, which will be excluded from adjusted results.",
+        "whyItMatters": "Insulet kept its previously issued FY26 financial and long-term growth guide unchanged, but PODD slid ~6% after hours — investors are now stacking two cannula-related corrections from the same facility in two months, raising questions about quality systems. Read-through to diabetes-tech peers TNDM, MDT, DXCM on share-shift risk if patients switch pumps.",
+        "forWho": "medtech investors, diabetes-tech sector",
+        "tryIt": "https://investors.insulet.com/news/news-details/2026/Insulet-Initiates-Voluntary-Medical-Device-Correction-for-Certain-Omnipod-5-Pods-in-the-U-S-/default.aspx"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/business-wire.com/197a2d78b7dd2a47c804beea73dafc09",
+        "alt": "Omnipod insulin pump device on a desk",
+        "fit": "cover"
+      },
+      "publishDate": "2026-05-27T00:37:55.683Z"
+    },
     {
       "id": "azo-q3-fy26-earnings-may-26-2026",
       "categories": [

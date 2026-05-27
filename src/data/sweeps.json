@@ -3434,6 +3434,56 @@
         "mna",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260527t003755z",
+      "timestamp": "2026-05-27T00:37:55.683Z",
+      "source": "github-actions-sweep",
+      "summary": "Tuesday May 26 close was a Micron-led tape: MU joined the $1T market-cap club on a UBS PT triple to Street-high $1,625, with Zscaler and Box reporting earnings after the bell. Insulet disclosed a second cannula-tear Omnipod correction in two months. Four adds; no semantic dupes against the existing 204 items.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mu-1t-mcap-ubs-pt-may-26-2026",
+          "title": "Micron crosses $1T market cap for first time as UBS lifts PT to Street-high $1,625 — MU +~19% on May 26, +213% YTD; UBS sees HBM4 sold out and EPS staying above $100 through 2029",
+          "category": "mover",
+          "note": "Micron crosses $1T mcap for first time on May 26 after UBS's Arcuri lifts PT 204% to Street-high $1,625; +~19% on the day, +213% YTD."
+        },
+        {
+          "id": "zs-q3-fy26-earnings-may-26-2026",
+          "title": "Zscaler Q3 FY26 — revenue $850.5M (+25% Y/Y) and ARR $3.525B (+25%) top, raises FY26 EPS to $4.10–$4.11, but cuts FY26 FCF margin guide to 22.8–23.3% from 26.5–27% on higher capex; ZS -~17 to -20% AH",
+          "category": "earnings",
+          "note": "Zscaler Q3 FY26 beats and raises full-year guides on revenue/ARR/EPS, but cuts FY26 FCF margin guide on higher AI capex; ZS -~17 to -20% AH."
+        },
+        {
+          "id": "box-q1-fy27-earnings-may-26-2026",
+          "title": "Box Q1 FY27 — revenue $306M (+11% Y/Y) is the first double-digit growth in 12 quarters; non-GAAP EPS $0.37 beats $0.36 guide; FY27 revenue guided ~$1.275B (+8% rep / +9% CC) and BOX -~4% AH on AI-monetization disappointment",
+          "category": "earnings",
+          "note": "Box delivers first double-digit growth in 12 quarters but FY27 guide of ~$1.275B (8%) disappoints AI-monetization bulls; BOX -~4% AH."
+        },
+        {
+          "id": "podd-omnipod-mdc-recall-may-26-2026",
+          "title": "Insulet initiates voluntary Medical Device Correction on Omnipod 5 / DASH / Eros pods — ~7M pods in scope on cannula-tear risk; expects up to $50M 2026 cost (excluded from adj results); PODD -~6% AH",
+          "category": "regulatory",
+          "note": "Insulet voluntary MDC for ~7M Omnipod pods on cannula-tear risk; second correction from Acton MA facility in two months; PODD -~6% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "analyst",
+        "regulatory",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
