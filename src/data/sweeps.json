@@ -3565,6 +3565,77 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260528t131515z",
+      "timestamp": "2026-05-28T13:15:15.643Z",
+      "source": "github-actions-sweep",
+      "summary": "Eight items: an April PCE print that hits a 3-year high on Y/Y (+3.8%) but cools M/M; a Q1 GDP revision down to +1.6% with corporate profits flatlining; Marvell's record AI-data-center Q1 FY27 with FY27/FY28 outlooks raised; HP Inc Q2 FY26 beat on AI-PC refresh; Dell Federal's $9.7B DoD Microsoft software vehicle; Best Buy Q1 FY27 beat plus a CEO succession announcement; Dollar Tree's Q1 comp-beat + guidance raise + buyback; and fresh U.S.-Iran strikes around Bandar Abbas with an IRGC retaliation at a U.S. base in Kuwait that pushed Brent back over $96.",
+      "counts": {
+        "added": 8,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-pce-april-2026",
+          "title": "U.S. April 2026 PCE — headline +3.8% Y/Y (highest since May 2023) and core +3.3% Y/Y (highest since Oct 2023), but M/M comes in cooler than feared at +0.4% headline / +0.2% core",
+          "category": "macro",
+          "note": "Fed's preferred inflation gauge hits 3-year high on Y/Y, but the cooler M/M caps the stagflation panic. Primary BEA source."
+        },
+        {
+          "id": "us-q1-2026-gdp-second-estimate-may-28",
+          "title": "U.S. Q1 2026 GDP revised down to +1.6% from +2.0% advance — corporate profits growth slows to $40.4B vs $246.9B in Q4 2025",
+          "category": "macro",
+          "note": "Same morning as PCE; downward revision tells the slower-growth half of the stagflation tape."
+        },
+        {
+          "id": "mrvl-q1-fy27-earnings-may-27-2026",
+          "title": "Marvell Q1 FY27 — record $2.418B revenue (+28% Y/Y) on data center 76% of mix; raises FY27 outlook to ~$11.5B and FY28 to ~$16.5B; MRVL +~3.5% AH after +145% YTD run",
+          "category": "earnings",
+          "note": "Record AI-data-center quarter, FY27/FY28 raised, NVIDIA partnership deepens. +145% YTD into print, so AH muted."
+        },
+        {
+          "id": "hpq-q2-fy26-earnings-may-27-2026",
+          "title": "HP Inc Q2 FY26 — revenue $14.4B (+9% Y/Y) and non-GAAP EPS $0.86 (+21%) beat as Personal Systems +13% offsets flat Printing; HPQ +~4% AH",
+          "category": "earnings",
+          "note": "Cleanest read on AI-PC and Windows 11 refresh in commercial PC. Eighth straight quarter of growth."
+        },
+        {
+          "id": "dell-9-7b-dod-software-contract-may-27-2026",
+          "title": "Dell Federal Systems wins 5-year, $9.7B Department of War Enterprise Software Agreement II — consolidates Microsoft 365 + cloud + on-premises licensing across DoD, intelligence community and Coast Guard",
+          "category": "mover",
+          "note": "Federal franchise scales materially; Dell reports Q1 FY27 tonight so this primes that print."
+        },
+        {
+          "id": "bby-q1-fy27-earnings-ceo-transition-may-28-2026",
+          "title": "Best Buy Q1 FY27 — enterprise revenue $8.94B and comp +2.0% beat the bar; GAAP EPS $1.31 (+38%) and adj EPS $1.28; CEO Corie Barry to hand off to Jason Bonfig on Nov 1, 2026; BBY +~8.4%",
+          "category": "earnings",
+          "note": "Comp beat across major categories + CEO succession from Corie Barry to Jason Bonfig effective Nov 1, 2026."
+        },
+        {
+          "id": "dltr-q1-2026-earnings-may-28-2026",
+          "title": "Dollar Tree Q1 2026 — net sales $5.0B (+7.2% Y/Y) and comp +3.5%; adj EPS $1.74 (+38%) beats $1.55; raises FY26 adj EPS guide to $6.70–$7.10 and buys back $595M; DLTR +~10%",
+          "category": "earnings",
+          "note": "Margin-expansion + guide raise + $595M Q1 buyback; cleanest discount-retail read post-tariff inflation shock."
+        },
+        {
+          "id": "us-iran-bandar-abbas-strike-kuwait-retaliation-may-28-2026",
+          "title": "U.S. strikes Iranian ground-control station in Bandar Abbas; IRGC retaliates with missile at U.S. air base in Kuwait — Brent +~2% to $96, WTI $90 as Hormuz reopening hopes wobble",
+          "category": "macro",
+          "note": "Fresh strikes test the May 23 ceasefire; Brent +2% to $96 on Hormuz-reopening risk."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover",
+        "commodity",
+        "regulatory"
+      ]
     }
   ]
 }

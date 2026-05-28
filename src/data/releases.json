@@ -1,8 +1,585 @@
 {
-  "generatedAt": "2026-05-28T00:33:38.511Z",
+  "generatedAt": "2026-05-28T13:15:15.643Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-pce-april-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "U.S. April 2026 PCE — headline +3.8% Y/Y (highest since May 2023) and core +3.3% Y/Y (highest since Oct 2023), but M/M comes in cooler than feared at +0.4% headline / +0.2% core",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-05-28",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-april-2026",
+      "summary": "April PCE rose 0.4% M/M (vs +0.5% est) and 3.8% Y/Y. Core PCE rose 0.2% M/M (vs +0.3% est) and 3.3% Y/Y. Personal income was flat and the savings rate slipped to 2.6% as Iran-driven energy costs squeeze the consumer.",
+      "tags": [
+        "pce",
+        "inflation",
+        "april-2026",
+        "bea",
+        "core-pce",
+        "energy",
+        "iran-war",
+        "fed",
+        "rate-cuts",
+        "stagflation",
+        "savings-rate"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "^DJI"
+      ],
+      "metrics": {
+        "Headline PCE Y/Y": "+3.8%",
+        "Core PCE Y/Y": "+3.3%",
+        "Headline PCE M/M": "+0.4% vs +0.5% est",
+        "Core PCE M/M": "+0.2% vs +0.3% est",
+        "Personal income M/M": "0.0%",
+        "Real PCE M/M": "+0.1%",
+        "Savings rate": "2.6%",
+        "Highest headline since": "May 2023"
+      },
+      "links": [
+        {
+          "label": "BEA Release",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-april-2026"
+        },
+        {
+          "label": "PCE Index Page",
+          "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+        },
+        {
+          "label": "Core PCE FRED",
+          "url": "https://fred.stlouisfed.org/series/PCEPILFE"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "explainer": {
+        "tagline": "The Fed's preferred inflation gauge hits a three-year high on the year-over-year measure, but cooler month-over-month components blunt the worst-case stagflation read.",
+        "whatIsIt": "The Bureau of Economic Analysis released the April 2026 Personal Income and Outlays report on Thursday May 28 at 8:30am ET. Headline PCE rose 0.4% on the month — below the 0.5% consensus and a step down from March's 0.7% — and 3.8% over the prior twelve months, matching expectations and the highest annual reading since May 2023. Core PCE rose 0.2% M/M (vs +0.3% est) and 3.3% Y/Y, the hottest annual core reading since October 2023.",
+        "howItWorks": "Personal income was essentially flat (-$0.1B) and the personal saving rate dipped to 2.6% of disposable income as nominal PCE outran take-home pay. Spending mix was services-led ($67.2B) with goods adding $44.0B. The Y/Y acceleration vs March (3.5% headline, 3.2% core) lines up with the April CPI passthrough from the Iran/Israel oil shock, but the cooler M/M signals the worst monthly impulse may have peaked.",
+        "whyItMatters": "This is the second hot inflation print of the post-Powell era under new Fed Chair Kevin Warsh and lands the same morning as the Q1 GDP downward revision to +1.6% — a textbook stagflation tape. Fed-funds futures already priced essentially zero 2026 cuts; a Y/Y at multi-year highs keeps that pricing intact, but the cooler M/M may cap the rates selloff. 10Y, 30Y and DXY all reactive on the release.",
+        "forWho": "macro and rates desks tracking the Fed-transition and stagflation trade",
+        "tryIt": "https://www.bea.gov/news/2026/personal-income-and-outlays-april-2026"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ec_8_%2826088200676%29.jpg/1280px-Ec_8_%2826088200676%29.jpg",
+        "alt": "Marriner S. Eccles Federal Reserve Board Building in Washington DC",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "us-q1-2026-gdp-second-estimate-may-28",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. Q1 2026 GDP revised down to +1.6% from +2.0% advance — corporate profits growth slows to $40.4B vs $246.9B in Q4 2025",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-05-28",
+      "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-1st-quarter-2026",
+      "summary": "Real Q1 GDP revised down 0.4pp to a +1.6% annualized pace on softer investment and consumer spending. Real GDI rose just 0.9% and corporate profits added only $40.4B vs $246.9B in Q4 2025 — a sharp slowdown.",
+      "tags": [
+        "gdp",
+        "q1-2026",
+        "bea",
+        "second-estimate",
+        "corporate-profits",
+        "consumer-spending",
+        "investment",
+        "gdi",
+        "stagflation"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Real GDP Q1 (annualized)": "+1.6% vs +2.0% advance",
+        "Revision": "-0.4pp",
+        "Real GDI Q1": "+0.9%",
+        "Avg GDP + GDI": "+1.3%",
+        "Corporate profits change": "+$40.4B (vs +$246.9B Q4 2025)"
+      },
+      "links": [
+        {
+          "label": "BEA Press Release",
+          "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-1st-quarter-2026"
+        },
+        {
+          "label": "GDP Advance Estimate",
+          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-1st-quarter-2026"
+        },
+        {
+          "label": "Release Schedule",
+          "url": "https://www.bea.gov/news/schedule"
+        },
+        {
+          "label": "GDP Series",
+          "url": "https://fred.stlouisfed.org/series/GDP"
+        }
+      ],
+      "explainer": {
+        "tagline": "BEA's Q1 second estimate cuts growth to 1.6% — corporate profits flatline as the soft-landing narrative softens further alongside hot PCE.",
+        "whatIsIt": "The Bureau of Economic Analysis released the Q1 2026 GDP second estimate on Thursday May 28 at 8:30am ET. Real GDP grew at a 1.6% annualized pace in Q1, revised down 0.4 percentage points from the April 30 advance estimate of 2.0%. The downward revision was primarily driven by lower-than-previously-estimated investment and consumer spending.",
+        "howItWorks": "Real gross domestic income (GDI) rose only 0.9% in Q1 (vs +1.6% in Q4 2025); the average of real GDP and real GDI — the BEA's preferred two-side check — landed at +1.3%. Corporate profits before tax rose just $40.4B in Q1, a stark deceleration from the $246.9B gain in Q4 2025. Net exports stayed positive and government spending continued to add to growth.",
+        "whyItMatters": "This print drops alongside the hot April PCE — headline 3.8% Y/Y, core 3.3% Y/Y — sharpening the stagflation tape. The Atlanta Fed's GDPNow tracker and Q2 nowcasts now matter more for the soft-landing call. Equity desks watch profits growth as the next test for index-level earnings revisions; rates desks watch GDI weakness vs sticky PCE for cut-path discounting.",
+        "forWho": "macro desks, asset allocators, fixed-income strategists",
+        "tryIt": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-1st-quarter-2026"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bea-final-logo-blue-backing.png",
+        "alt": "U.S. Bureau of Economic Analysis logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "mrvl-q1-fy27-earnings-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Marvell Q1 FY27 — record $2.418B revenue (+28% Y/Y) on data center 76% of mix; raises FY27 outlook to ~$11.5B and FY28 to ~$16.5B; MRVL +~3.5% AH after +145% YTD run",
+      "org": "Marvell Technology",
+      "date": "2026-05-27",
+      "url": "https://investor.marvell.com/news-events/press-releases/detail/1023/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2027-financial-results",
+      "summary": "Record Q1 FY27 revenue of $2.418B (+28% Y/Y, $18M above guide mid), non-GAAP EPS $0.80 vs $0.79 est. Data center contributed 76% of revenue. Q2 guide $2.7B at midpoint (+35% Y/Y); FY27 raised to ~$11.5B and FY28 to ~$16.5B on expanded NVIDIA partnership.",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "ai",
+        "data-center",
+        "custom-silicon",
+        "nvidia-partnership",
+        "ai-networking",
+        "eps-beat",
+        "guidance-raise",
+        "celestial-ai",
+        "xconn",
+        "semis"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MRVL",
+        "NVDA",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$2.418B (+28% Y/Y, record)",
+        "Non-GAAP EPS": "$0.80 vs $0.79 est",
+        "GAAP EPS": "$0.04",
+        "Non-GAAP gross margin": "58.9%",
+        "Data center share of revenue": "76%",
+        "Operating cash flow": "$639M (record)",
+        "Q2 FY27 guide": "$2.7B midpoint (+35% Y/Y)",
+        "FY27 outlook": "~$11.5B (+~40% Y/Y)",
+        "FY28 outlook": "~$16.5B (+~45% Y/Y)",
+        "Move (AH)": "+~3.5%",
+        "YTD": "+145%"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://investor.marvell.com/news-events/press-releases/detail/1023/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2027-financial-results"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/sec-filings/MRVL/8-k-marvell-technology-inc-reports-material-event-c6f040475efc.html"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/27/marvell-mrvl-q1-2027-earnings-transcript/"
+        },
+        {
+          "label": "MRVL Quote",
+          "url": "https://finance.yahoo.com/quote/MRVL"
+        }
+      ],
+      "explainer": {
+        "tagline": "Marvell delivers a record Q1 on AI data-center demand, raises both FY27 and FY28 outlooks, and deepens the NVIDIA tie-up — but the stock only inches higher AH after a 145% YTD run.",
+        "whatIsIt": "Marvell reported Q1 FY27 results after the close on Wednesday May 27. Net revenue of $2.418B set a quarterly record, up 28% Y/Y and $18.0M above the company's March 5 guidance midpoint. Non-GAAP EPS was $0.80, ahead of the $0.79 Street estimate; GAAP EPS was $0.04 on amortization and acquisition-related charges. Non-GAAP gross margin was 58.9% (GAAP 52.1%).",
+        "howItWorks": "Data center contributed 76% of total revenue, the highest mix Marvell has ever reported. Operating cash flow reached a record $639M. For Q2 FY27, Marvell guided $2.7B revenue at the midpoint — implying ~35% Y/Y growth and acceleration vs the 28% Q1 pace. The company raised its full-year FY27 outlook to ~$11.5B (+~40% Y/Y) and FY28 to ~$16.5B (+~45% Y/Y), both above prior guidance, and disclosed an expanded NVIDIA partnership integrating Marvell custom silicon and optical networking into NVIDIA's reference designs plus completed acquisitions of Celestial AI and XConn Technologies.",
+        "whyItMatters": "Marvell entered earnings up ~145% YTD as the AI-networking pure-play behind hyperscaler custom silicon. The print confirms the bull thesis: revenue acceleration, raised long-dated outlook, and tighter NVIDIA integration. The muted ~3.5% AH reaction reflects how much of that thesis was already in the tape. Read-throughs: AVGO custom-silicon comp, AI optics suppliers (Coherent, Lumentum) and the broader semis cohort.",
+        "forWho": "semis desks, AI infrastructure investors",
+        "tryIt": "https://investor.marvell.com/news-events/press-releases/detail/1023/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2027-financial-results"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_6c98e153147f20a85f8f719ed2bcb520/marvell/db/3727/33626/social_image_resized.jpg",
+        "alt": "Marvell Technology Q1 fiscal 2027 results announcement",
+        "fit": "cover",
+        "credit": "Marvell Technology"
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "hpq-q2-fy26-earnings-may-27-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "HP Inc Q2 FY26 — revenue $14.4B (+9% Y/Y) and non-GAAP EPS $0.86 (+21%) beat as Personal Systems +13% offsets flat Printing; HPQ +~4% AH",
+      "org": "HP Inc",
+      "date": "2026-05-27",
+      "url": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Second-Quarter-Results/default.aspx",
+      "summary": "Q2 net revenue $14.4B (+9% Y/Y, +6.3% CC), GAAP EPS $0.49 and non-GAAP EPS $0.86 (+21%) vs ~$0.71 est. Personal Systems +13% (Commercial +14%, Consumer +10%) offsets flat Printing. Q3 non-GAAP EPS guided $0.61–$0.71 and FY26 reaffirmed at $2.90–$3.10.",
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "personal-systems",
+        "printing",
+        "ai-pc",
+        "eps-beat",
+        "guidance-reaffirm",
+        "free-cash-flow",
+        "hardware"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HPQ",
+        "DELL"
+      ],
+      "metrics": {
+        "Revenue": "$14.4B (+9% Y/Y)",
+        "Constant-currency growth": "+6.3%",
+        "GAAP EPS": "$0.49 (+16.7%)",
+        "Non-GAAP EPS": "$0.86 vs $0.71 est (+21%)",
+        "Personal Systems revenue": "$10.2B (+13%)",
+        "Printing revenue": "$4.2B (flat)",
+        "Q3 non-GAAP EPS guide": "$0.61–$0.71",
+        "FY26 non-GAAP EPS guide": "$2.90–$3.10",
+        "FY26 free cash flow guide": "$2.8B–$3.0B",
+        "Move (AH)": "+~4%"
+      },
+      "links": [
+        {
+          "label": "Investor Release",
+          "url": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Second-Quarter-Results/default.aspx"
+        },
+        {
+          "label": "10-Q on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000029/hpq-20260430.htm"
+        },
+        {
+          "label": "Earnings Presentation",
+          "url": "https://s203.q4cdn.com/918857832/files/doc_financials/2026/q2/Q2-26-HP-Inc-Earnings-Presentation.pdf"
+        },
+        {
+          "label": "HPQ Quote",
+          "url": "https://finance.yahoo.com/quote/HPQ"
+        }
+      ],
+      "explainer": {
+        "tagline": "Personal Systems sees double-digit growth on a PC refresh wave, lifting HP to its eighth straight quarter of top-line growth.",
+        "whatIsIt": "HP Inc reported FQ2 FY26 results after the close on Wednesday May 27. Q2 net revenue was $14.4B, up 9.0% Y/Y reported (6.3% constant currency), the eighth consecutive quarter of top-line growth. GAAP diluted EPS was $0.49 (+16.7%) and non-GAAP diluted EPS was $0.86 (+21.1%), well above the ~$0.71 consensus.",
+        "howItWorks": "Personal Systems revenue was $10.2B (+13%) with Commercial up 14% and Consumer up 10%, helped by an AI-PC and Windows 11 refresh cycle; segment operating margin was 5.2%. Printing revenue was $4.2B (flat), with Supplies +1% offset by Consumer printing -10% and Hardware units -7%; segment operating margin held at 18.3%. HP generated $0.9B in operating cash and $0.8B in free cash flow, returned $374M via dividends + buybacks. Q3 FY26 non-GAAP EPS guidance is $0.61–$0.71; FY26 non-GAAP EPS guidance is reaffirmed at $2.90–$3.10 with FCF $2.8B–$3.0B.",
+        "whyItMatters": "HP is the cleanest read on commercial PC refresh trends and confirms the durable AI-PC demand thesis that Lenovo's FY26 print already flagged. Read-throughs: Dell Client Solutions Group (DELL reports tonight), Intel client CPU mix, AMD Ryzen pull-through.",
+        "forWho": "hardware sector, PC supply-chain analysts",
+        "tryIt": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Second-Quarter-Results/default.aspx"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/media/d2df86df-608b-40f2-b3ed-5fcb32d36d56/small/logo-hp-electric-blue-keyline-png.png",
+        "alt": "HP Inc corporate logo",
+        "fit": "contain",
+        "credit": "HP Inc"
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "dell-9-7b-dod-software-contract-may-27-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Dell Federal Systems wins 5-year, $9.7B Department of War Enterprise Software Agreement II — consolidates Microsoft 365 + cloud + on-premises licensing across DoD, intelligence community and Coast Guard",
+      "org": "Dell Technologies",
+      "date": "2026-05-27",
+      "url": "https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html",
+      "summary": "Dell Federal Systems won the Microsoft Department of War Enterprise Software Agreement II Core Enterprise Technology Agreement after a competitive process — a five-year ~$9.7B deal consolidating Microsoft 365, advanced cloud subscriptions and on-premises licensing. DoD CIO Kirsten Davies estimates $422M in annual savings.",
+      "tags": [
+        "dod-contract",
+        "federal",
+        "microsoft-365",
+        "enterprise-software",
+        "government",
+        "competitive-win",
+        "cost-savings"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DELL",
+        "MSFT"
+      ],
+      "metrics": {
+        "Contract value": "~$9.7B over 5 years",
+        "Annual savings estimate": "$422M",
+        "Covered entities": "DoD + intelligence community + Coast Guard",
+        "Scope": "Microsoft 365, cloud subscriptions, on-prem licensing",
+        "Award type": "Competitive — single procurement vehicle"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html"
+        },
+        {
+          "label": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/05/pentagon-awards-dell-9-7-billion-contract-to-consolidate-software-licenses/"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52827858/dell-wins-9-7-billion-pentagon-contract-fueling-stock-rally"
+        },
+        {
+          "label": "DELL Quote",
+          "url": "https://finance.yahoo.com/quote/DELL"
+        }
+      ],
+      "explainer": {
+        "tagline": "Pentagon hands Dell Federal Systems a five-year $9.7B vehicle to centralize Microsoft software buying across the U.S. military.",
+        "whatIsIt": "On Wednesday May 27, the Department of Defense awarded Dell Federal Systems a five-year contract worth ~$9.7B, known as the Microsoft Department of War Enterprise Software Agreement II Core Enterprise Technology Agreement. The award was announced at a Pentagon briefing by DoD Chief Information Officer Kirsten Davies and acting Navy CIO Barry Tanner after a competitive process.",
+        "howItWorks": "Under the deal Dell will provide Microsoft 365, advanced cloud subscriptions and on-premises licensing capability across the Department of Defense, the intelligence community and the U.S. Coast Guard. Davies told reporters the consolidation is expected to save the department about $422M per year by replacing fragmented buying habits with a single procurement vehicle. Microsoft is the underlying software vendor; Dell is the prime contractor and integrator.",
+        "whyItMatters": "Dell's federal franchise was already a hidden ballast inside the AI-server narrative; the contract adds a multi-year recurring services tail at meaningful scale and reinforces Dell's position as the Pentagon's preferred IT systems integrator. Microsoft retains the underlying software revenue. Dell reports Q1 FY27 earnings tonight after the close, so the print will frame how analysts model federal recurring revenue going forward.",
+        "forWho": "federal IT analysts, Dell shareholders, MSFT government desks",
+        "tryIt": "https://finance.yahoo.com/quote/DELL"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108302180-1777983409104-gettyimages-2274632136-_s019949_fd7bgm6c.jpeg?v=1777986590&w=1920&h=1080",
+        "alt": "Dell Technologies headquarters and logo signage",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "bby-q1-fy27-earnings-ceo-transition-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Best Buy Q1 FY27 — enterprise revenue $8.94B and comp +2.0% beat the bar; GAAP EPS $1.31 (+38%) and adj EPS $1.28; CEO Corie Barry to hand off to Jason Bonfig on Nov 1, 2026; BBY +~8.4%",
+      "org": "Best Buy",
+      "date": "2026-05-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000764478/000076447826000018/bby-fy27q1xexx991.htm",
+      "summary": "Q1 FY27 enterprise revenue $8.94B (domestic $8.25B +1.5%, international $687M), comp +2.0% beats outlook on gaming/PC/mobile/services. GAAP EPS $1.31 (+38%) and adj EPS $1.28 top ~$1.22 est. FY27 adj EPS guide reaffirmed at $6.30–$6.60. CEO Corie Barry to step down Nov 1; CCPF Officer Jason Bonfig promoted.",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "comp-beat",
+        "ceo-transition",
+        "ai-pc",
+        "gaming",
+        "marketplace",
+        "best-buy-ads",
+        "guidance-reaffirm",
+        "succession"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BBY"
+      ],
+      "metrics": {
+        "Enterprise revenue": "$8.94B vs $8.81B est",
+        "Domestic revenue": "$8.25B (+1.5% Y/Y)",
+        "International revenue": "$687M",
+        "Comparable sales": "+2.0%",
+        "GAAP EPS": "$1.31 (+38%)",
+        "Adj EPS": "$1.28 (+11%) vs $1.22 est",
+        "Appliances comp": "-13.6%",
+        "FY27 adj EPS guide": "$6.30–$6.60",
+        "FY27 revenue guide": "$41.2B–$42.1B",
+        "Move": "+~8.4%"
+      },
+      "links": [
+        {
+          "label": "Q1 FY27 8-K (EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000764478/000076447826000018/bby-fy27q1xexx991.htm"
+        },
+        {
+          "label": "Earnings Call Page",
+          "url": "https://investors.bestbuy.com/News--Events/events-and-presentations/events/event-details/2026/Q1-FY27-Best-Buy-Co-Inc-Earnings-Call/default.aspx"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://s204.q4cdn.com/864376893/files/doc_earnings/2026/q1/transcript/BBY-Q1-Transcript.pdf"
+        },
+        {
+          "label": "BBY Quote",
+          "url": "https://finance.yahoo.com/quote/BBY"
+        }
+      ],
+      "explainer": {
+        "tagline": "Best Buy delivers its first comp print in positive territory across the majority of categories — and then announces a CEO change for November.",
+        "whatIsIt": "Best Buy reported Q1 FY27 results before the open on Thursday May 28. Enterprise revenue was $8,936M for the 13-week quarter ended May 2, ahead of the $8.81B consensus. Comparable sales rose 2.0% versus the prior year — above the company's own outlook — with positive comps across the majority of major product categories. Diluted GAAP EPS was $1.31 (+38%) and adjusted diluted EPS was $1.28 (+11%) versus ~$1.22 consensus.",
+        "howItWorks": "Domestic revenue was $8.25B (+1.5%) and International was $687M. Gaming, computing, mobile phones and services led domestic comparable sales gains; the appliances category was the offset at -13.6%. Best Buy Ads and Marketplace initiatives continued to scale. FY27 adjusted diluted EPS guidance was reaffirmed at $6.30–$6.60 on revenue of $41.2B–$42.1B. Separately, CEO Corie Barry will step down later this year — Chief Customer, Product and Fulfillment Officer Jason Bonfig is named as her successor effective November 1, 2026.",
+        "whyItMatters": "The AI-PC and Windows 11 refresh cycle that fed HP's strong PS segment is now visible in retail demand at Best Buy. Marketplace + Ads adds a higher-margin recurring leg. The leadership succession is the unexpected piece — Barry has been CEO since 2019, and Bonfig is an internal pick familiar to the Street, which limits transition-risk discount. The +8.4% intraday move reflects both pieces.",
+        "forWho": "consumer-electronics retail analysts, PC-cycle watchers, succession-risk investors",
+        "tryIt": "https://finance.yahoo.com/quote/BBY"
+      },
+      "image": {
+        "url": "https://corporate.bestbuy.com/wp-content/uploads/2021/01/BBY_logo_blog_header_v01.jpg",
+        "alt": "Best Buy corporate header logo",
+        "fit": "cover",
+        "credit": "Best Buy Co., Inc."
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "dltr-q1-2026-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Dollar Tree Q1 2026 — net sales $5.0B (+7.2% Y/Y) and comp +3.5%; adj EPS $1.74 (+38%) beats $1.55; raises FY26 adj EPS guide to $6.70–$7.10 and buys back $595M; DLTR +~10%",
+      "org": "Dollar Tree",
+      "date": "2026-05-28",
+      "url": "https://corporate.dollartree.com/news-media/press-releases/detail/306/dollar-tree-inc-reports-first-quarter-results",
+      "summary": "Q1 net sales $5.0B (+7.2% Y/Y) on comp +3.5%, EPS from continuing ops $1.76 and adj EPS $1.74 (+38%) beat $1.55 est. Operating margin expands 120bp to 9.5%. FY26 adj EPS guide raised to $6.70–$7.10; Q1 buyback $595M with $1.3B remaining. DLTR ~+10% intraday.",
+      "tags": [
+        "earnings",
+        "q1-2026",
+        "comp-beat",
+        "operating-margin",
+        "buyback",
+        "guidance-raise",
+        "consumer-discretionary",
+        "tariffs"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DLTR",
+        "DG",
+        "FIVE"
+      ],
+      "metrics": {
+        "Net sales": "$5.0B (+7.2% Y/Y)",
+        "Comp sales": "+3.5% (ticket +4.5%, traffic -1.0%)",
+        "EPS continuing ops": "$1.76",
+        "Adj EPS": "$1.74 (+38%) vs $1.55 est",
+        "Gross margin": "36.8% (+120bp)",
+        "Operating margin": "9.5% (+120bp)",
+        "Operating cash flow": "$644M",
+        "Free cash flow": "$392M",
+        "Q1 buybacks": "$595M / 5.5M shares",
+        "Remaining authorization": "$1.3B",
+        "FY26 adj EPS guide": "$6.70–$7.10 (raised)",
+        "Q2 comp guide": "+2.5% to +3.5%",
+        "Stores at quarter-end": "9,382",
+        "Move": "+~10%"
+      },
+      "links": [
+        {
+          "label": "DLTR Press Release",
+          "url": "https://corporate.dollartree.com/news-media/press-releases/detail/306/dollar-tree-inc-reports-first-quarter-results"
+        },
+        {
+          "label": "8-K (EDGAR)",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000935703&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/DLTR/dollar-tree-inc-reports-first-quarter-pciw1yhjje7i.html"
+        },
+        {
+          "label": "DLTR Quote",
+          "url": "https://finance.yahoo.com/quote/DLTR"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dollar Tree banks a clean operating-margin expansion, raises full-year guidance and keeps the buyback running — the post-Family-Dollar reset is starting to show.",
+        "whatIsIt": "Dollar Tree reported Q1 2026 (period ended May 3) results on Thursday May 28. Net sales were $5.0B, up 7.2% from $4.64B a year earlier, with comparable store sales up 3.5% — driven by a 4.5% increase in average ticket, partly offset by 1.0% traffic decline. EPS from continuing operations was $1.76 and adjusted diluted EPS was $1.74, both well above the $1.55 Street estimate.",
+        "howItWorks": "Gross profit rose to $1.83B with gross margin expanding 120bp to 36.8% on pricing initiatives, lower import freight and lower shrink, partly offset by higher tariffs and markdowns. Operating margin expanded 120bp to 9.5%; operating income grew to $473M. Dollar Tree generated $644M in operating cash and $392M in free cash flow. Q1 buybacks were $595M (5.5M shares), with $1.3B remaining under authorization. FY26 adjusted diluted EPS guidance was raised to $6.70–$7.10, with Q2 comp sales guided to +2.5% to +3.5%. The company opened 113 new stores to reach 9,382 total.",
+        "whyItMatters": "Dollar Tree is the cleanest read on the price-sensitive consumer post the April CPI / PCE inflation shock. A +3.5% comp with ticket leading and the FY26 raise both push back on the 'value-channel rolls over' narrative. Read-throughs: Dollar General (DG), Five Below (FIVE), and the broader discount-retail tape.",
+        "forWho": "consumer-discretionary desks, dollar-store analysts, tariff-impact watchers",
+        "tryIt": "https://finance.yahoo.com/quote/DLTR"
+      },
+      "image": {
+        "url": "https://corporate.dollartree.com/_assets/_7ef72260696f6f5e2ad16665e5e1a4a7/dollartreeinfo/db/873/7027/social_image_resized.jpg",
+        "alt": "Dollar Tree Q1 2026 earnings release",
+        "fit": "cover",
+        "credit": "Dollar Tree, Inc."
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
+    {
+      "id": "us-iran-bandar-abbas-strike-kuwait-retaliation-may-28-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "U.S. strikes Iranian ground-control station in Bandar Abbas; IRGC retaliates with missile at U.S. air base in Kuwait — Brent +~2% to $96, WTI $90 as Hormuz reopening hopes wobble",
+      "org": "U.S. Central Command",
+      "date": "2026-05-28",
+      "url": "https://www.cnbc.com/2026/05/28/kuwait-air-defenses-activated-us-carries-out-new-strikes-in-iran.html",
+      "summary": "U.S. military shot down four Iranian drones near the Strait of Hormuz and struck a ground-control station outside Bandar Abbas. The IRGC retaliated with a missile against a U.S. air base in Kuwait, warning further strikes would bring a more decisive response. Brent rose to $96.19 (+2.02%) and WTI to $90.41 (+1.95%) on the renewed tension.",
+      "tags": [
+        "iran-war",
+        "bandar-abbas",
+        "kuwait",
+        "irgc",
+        "strait-of-hormuz",
+        "oil",
+        "brent",
+        "wti",
+        "ceasefire",
+        "central-command"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent": "$96.19 (+2.02%)",
+        "WTI": "$90.41 (+1.95%)",
+        "Iranian drones intercepted": "4",
+        "U.S. target": "Iranian ground-control station outside Bandar Abbas",
+        "Iranian response": "Missile at U.S. air base in Kuwait",
+        "IRGC warning": "further U.S. attacks will bring 'more decisive' response"
+      },
+      "links": [
+        {
+          "label": "CNBC Story",
+          "url": "https://www.cnbc.com/2026/05/28/kuwait-air-defenses-activated-us-carries-out-new-strikes-in-iran.html"
+        },
+        {
+          "label": "CBS News Coverage",
+          "url": "https://www.cbsnews.com/news/us-carries-out-new-strikes-against-iranian-military-site-official-says/"
+        },
+        {
+          "label": "IRGC Statement (Press TV)",
+          "url": "https://www.presstv.ir/Detail/2026/05/28/769399/Iran-US-IRGC-aggression"
+        },
+        {
+          "label": "WTI Quote",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        }
+      ],
+      "explainer": {
+        "tagline": "Fresh U.S. strikes on Iran around the Strait of Hormuz and an IRGC missile at a U.S. base in Kuwait test the May 23 ceasefire, dragging oil higher on Hormuz-reopening risk.",
+        "whatIsIt": "U.S. Central Command carried out fresh military action against Iran late on May 27 and into May 28. American forces intercepted four Iranian one-way attack drones threatening U.S. assets near the Strait of Hormuz and then struck a ground-control station on the outskirts of Bandar Abbas airport before it could launch a fifth drone. The Islamic Revolutionary Guard Corps said it targeted a U.S. air base in Kuwait at 4:50 a.m. local time in response, and warned that any further U.S. strikes would bring a 'more decisive' Iranian response.",
+        "howItWorks": "U.S. officials described the Bandar Abbas strike as 'measured, purely defensive and intended to maintain the ceasefire' agreed during Trump's May 23 framework announcement. Iran's foreign ministry condemned the action as a 'blatant violation' of the U.S.-Iran ceasefire. Kuwait's air defenses were activated against the IRGC missile-and-drone threat. Three explosions were reported east of Bandar Abbas, a strategic port and naval base on the Iranian side of the Strait of Hormuz.",
+        "whyItMatters": "Brent rose to $96.19 (+2.02%) and WTI to $90.41 (+1.95%) on Thursday, erasing much of Wednesday's decline that had been driven by hopes the Strait of Hormuz would reopen under the May 23 framework. The renewed flare-up keeps the energy-driven inflation channel — visible in this morning's PCE print — live. Read-throughs: refiners and integrated oil names (XOM, CVX, MPC), shipping rates through Hormuz, and EM oil-importer FX (INR, TRY).",
+        "forWho": "energy desks, geopolitical-risk traders, oil-shipping analysts",
+        "tryIt": "https://finance.yahoo.com/quote/BZ=F"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108312923-1779937980867-gettyimages-1238748615-AFP_323X23C.jpeg?v=1779937992&w=1920&h=1080",
+        "alt": "U.S. military assets near the Strait of Hormuz as new strikes hit Bandar Abbas",
+        "fit": "cover",
+        "credit": "AFP via Getty Images / CNBC"
+      },
+      "publishDate": "2026-05-28T13:15:15.643Z"
+    },
     {
       "id": "snow-q1-fy27-aws-6b-may-27-2026",
       "categories": [
