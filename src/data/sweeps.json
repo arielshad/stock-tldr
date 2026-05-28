@@ -3528,6 +3528,43 @@
         "mover",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260528t003338z",
+      "timestamp": "2026-05-28T00:33:38.511Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Wednesday May 27 prints rule the sweep: Snowflake Q1 FY27 + $6B AWS Graviton deal + Natoma MCP buy (+~37% AH), Salesforce Q1 FY27 with Agentforce ARR tripling but a soft Q2 guide (~-3% AH), and DICK'S first combined quarter with Foot Locker back to growth (DKS ~-2% premarket).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "snow-q1-fy27-aws-6b-may-27-2026",
+          "title": "Snowflake Q1 FY27 — product revenue $1.33B (+34% Y/Y) and non-GAAP EPS $0.39 trounce estimates; $6B 5-year AWS Graviton + custom-AI-chip deal and Natoma MCP acquisition send SNOW +~37% AH from $174.60 close",
+          "category": "earnings",
+          "note": "Beat-and-raise paired with a top-tier AWS commitment and the Natoma MCP acquisition — single largest data-platform print of Q1 FY27 season."
+        },
+        {
+          "id": "crm-q1-fy27-earnings-may-27-2026",
+          "title": "Salesforce Q1 FY27 — record $11.13B revenue (+13% Y/Y) and non-GAAP EPS $3.88 (+50%) beat, Agentforce ARR $1.2B (+205%) and AI+Data ARR $3.4B (+200%); FY27 revenue guide nudged to $45.9–$46.2B (+11%) but Q2 guide $11.27–$11.35B lands below ~$11.36B consensus; CRM ~-3% AH",
+          "category": "earnings",
+          "note": "AI-anxiety bellwether — Agentforce ARR triples while Q2 guide undercuts the Street, framing the AI-vs-seats debate across enterprise SaaS."
+        },
+        {
+          "id": "dks-q1-fy26-foot-locker-may-27-2026",
+          "title": "Dick's Sporting Goods Q1 FY26 — first combined quarter with Foot Locker delivers $5.16B sales (+62.7% Y/Y), DICK'S comp +6.0% and FL proforma comp +0.6% returning to growth and profit; FY26 non-GAAP EPS guide $13.50–$14.50 maintained and segment comps raised; DKS ~-2% premarket as 281bp gross-margin hit lands",
+          "category": "earnings",
+          "note": "First combined-company quarter post Foot Locker close — initial integration read-through with raised segment comp ranges but margin pressure."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

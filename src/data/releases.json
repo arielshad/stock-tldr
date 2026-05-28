@@ -1,8 +1,229 @@
 {
-  "generatedAt": "2026-05-27T13:14:45.040Z",
+  "generatedAt": "2026-05-28T00:33:38.511Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "snow-q1-fy27-aws-6b-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Snowflake Q1 FY27 — product revenue $1.33B (+34% Y/Y) and non-GAAP EPS $0.39 trounce estimates; $6B 5-year AWS Graviton + custom-AI-chip deal and Natoma MCP acquisition send SNOW +~37% AH from $174.60 close",
+      "org": "Snowflake",
+      "date": "2026-05-27",
+      "url": "https://www.stocktitan.net/news/SNOW/snowflake-reports-financial-results-for-the-first-quarter-of-fiscal-6ma0nv9h8p9a.html",
+      "summary": "Snowflake's Q1 FY27 print beats on every line and pairs with a $6B five-year AWS commitment plus the Natoma MCP buy; FY27 product revenue guide lifted to $5.84B from $5.66B as SNOW rips ~37% AH.",
+      "tickers": [
+        "SNOW",
+        "AMZN"
+      ],
+      "metrics": {
+        "Product revenue": "$1.334B (+34% Y/Y)",
+        "Total revenue": "$1.39B (+33% Y/Y)",
+        "Non-GAAP EPS": "$0.39 vs $0.32 est",
+        "GAAP EPS": "($0.86)",
+        "Net revenue retention": "126%",
+        "$1M+ customers": "779 (+29% Y/Y)",
+        "RPO": "$9.21B (+38% Y/Y)",
+        "FY27 product revenue guide": "$5.84B (+31% Y/Y) vs prior $5.66B (+27%)",
+        "Q2 FY27 product revenue guide": "$1.415–$1.420B (+30% Y/Y)",
+        "Move": "+~37% AH from $174.60 close",
+        "AWS deal": "$6B / 5 years for Graviton CPUs + AI accelerators"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "ai",
+        "data-cloud",
+        "guidance-raise",
+        "q1-fy27",
+        "aws",
+        "graviton",
+        "mcp",
+        "natoma",
+        "snow"
+      ],
+      "explainer": {
+        "tagline": "Snowflake beats and raises, lands a $6B AWS Graviton + AI chip deal, and buys Natoma — SNOW +~37% AH.",
+        "whatIsIt": "Snowflake reported its first quarter of fiscal 2027 on May 27, 2026 after the close. Alongside the print, the company disclosed a $6B five-year strategic agreement with AWS covering Graviton CPUs and custom AI accelerators, and a definitive deal to acquire Natoma — an enterprise Model Context Protocol platform for AI agents.",
+        "howItWorks": "Product revenue grew 34% Y/Y to $1.334B and total revenue rose 33% to $1.39B, with non-GAAP EPS of $0.39 versus a $0.32 consensus. Remaining performance obligations reached $9.21B (+38% Y/Y), net revenue retention held at 126%, and $1M+ customers climbed 29% Y/Y to 779. FY27 product revenue guidance was lifted to $5.84B from $5.66B (31% growth versus prior 27%) and non-GAAP operating margin guidance went to 13.5% from 12.5%. Q2 product revenue is guided to $1.415–$1.420B.",
+        "whyItMatters": "The AWS deal ranks Snowflake alongside Apple and Meta as a top AWS CPU customer, locking in compute for AI agent and inference workloads at the same time Natoma adds an MCP-native governance layer for agent connections. The print + deal combo answers questions about consumption-model leverage and AI monetisation that the entire data-platform group (DDOG, MDB, DBX) has been measured against.",
+        "forWho": "AI-infrastructure and software analysts",
+        "tryIt": "https://www.stocktitan.net/news/SNOW/snowflake-reports-financial-results-for-the-first-quarter-of-fiscal-6ma0nv9h8p9a.html"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SnowflakeBooth.jpg/1280px-SnowflakeBooth.jpg",
+        "alt": "Snowflake corporate booth signage",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Stock Titan — Press Release",
+          "url": "https://www.stocktitan.net/news/SNOW/snowflake-reports-financial-results-for-the-first-quarter-of-fiscal-6ma0nv9h8p9a.html"
+        },
+        {
+          "label": "SiliconANGLE Recap",
+          "url": "https://siliconangle.com/2026/05/27/snowflakes-stock-surges-hours-solid-earnings-beat-multibillion-dollar-aws-cloud-deal/"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://uk.finance.yahoo.com/news/snowflake-reports-financial-results-first-200500054.html"
+        },
+        {
+          "label": "SNOW Quote",
+          "url": "https://finance.yahoo.com/quote/SNOW/"
+        }
+      ],
+      "publishDate": "2026-05-28T00:33:38.511Z"
+    },
+    {
+      "id": "crm-q1-fy27-earnings-may-27-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Salesforce Q1 FY27 — record $11.13B revenue (+13% Y/Y) and non-GAAP EPS $3.88 (+50%) beat, Agentforce ARR $1.2B (+205%) and AI+Data ARR $3.4B (+200%); FY27 revenue guide nudged to $45.9–$46.2B (+11%) but Q2 guide $11.27–$11.35B lands below ~$11.36B consensus; CRM ~-3% AH",
+      "org": "Salesforce",
+      "date": "2026-05-27",
+      "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-First-Quarter-Fiscal-2027-Results/default.aspx",
+      "summary": "Salesforce's record Q1 trounces on EPS and showcases $1.2B Agentforce ARR (+205%), but a Q2 revenue guide below consensus pressures CRM ~3% AH as AI-anxiety questions linger.",
+      "tickers": [
+        "CRM"
+      ],
+      "metrics": {
+        "Revenue": "$11.13B (+13% Y/Y, +12% CC)",
+        "Non-GAAP EPS": "$3.88 (+50%) vs $3.12 est",
+        "GAAP EPS": "$2.42 (+52%)",
+        "Current RPO": "$33.6B (+14% Y/Y)",
+        "Agentforce ARR": "$1.2B (+205% Y/Y)",
+        "Data 360 ARR": "$1.1B",
+        "AI + Data ARR (combined)": "$3.4B (+200% Y/Y)",
+        "FY27 revenue guide": "$45.9–$46.2B (+11%)",
+        "FY27 non-GAAP op margin guide": "34.3%",
+        "Q2 FY27 revenue guide": "$11.27–$11.35B (+10–11%) vs ~$11.36B est",
+        "Move": "~-3% AH"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "ai-agents",
+        "agentforce",
+        "data-360",
+        "q1-fy27",
+        "guidance-light",
+        "crm"
+      ],
+      "explainer": {
+        "tagline": "Salesforce beats Q1 and triples AI+Data ARR to $3.4B but the Q2 revenue guide undershoots — CRM slips ~3% AH.",
+        "whatIsIt": "Salesforce reported Q1 fiscal 2027 results on May 27, 2026 after the close. The print showed record quarterly revenue, EPS well above consensus, and a sharp acceleration in the Agentforce + Data 360 franchise — but Q2 revenue guidance came in slightly under Street expectations and the stock pulled back in extended hours.",
+        "howItWorks": "Revenue was $11.13B (+13% Y/Y, +12% CC) and non-GAAP EPS $3.88 (+50%) crushed a ~$3.12 estimate; GAAP EPS hit $2.42 (+52%). Current RPO grew 14% to $33.6B. Agentforce ARR reached $1.2B, up 205% Y/Y, with combined AI + Data 360 ARR at $3.4B (+200%). FY27 revenue guidance was raised to $45.9–$46.2B (11% growth) with non-GAAP operating margin of 34.3%, while Q2 was guided to $11.27–$11.35B versus a ~$11.36B Street view.",
+        "whyItMatters": "Salesforce came in down 32% YTD entering the print, with bears arguing AI agents would cannibalise the seat-based SaaS model. Agentforce ARR more than tripling proves the agentic upsell is materialising, but the Q2 guide reinforces the slower headline-growth narrative that has dogged the name and keeps the AI-disruption-vs-monetisation debate alive across CRM, NOW, and ADBE.",
+        "forWho": "Enterprise-software analysts and AI-agent watchers",
+        "tryIt": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-First-Quarter-Fiscal-2027-Results/default.aspx"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png",
+        "alt": "Salesforce wordmark logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Salesforce IR Release",
+          "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-First-Quarter-Fiscal-2027-Results/default.aspx"
+        },
+        {
+          "label": "Salesforce News Story",
+          "url": "https://www.salesforce.com/news/stories/fy27-q1-highlights/"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html"
+        },
+        {
+          "label": "CRM Quote",
+          "url": "https://finance.yahoo.com/quote/CRM/"
+        }
+      ],
+      "publishDate": "2026-05-28T00:33:38.511Z"
+    },
+    {
+      "id": "dks-q1-fy26-foot-locker-may-27-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Dick's Sporting Goods Q1 FY26 — first combined quarter with Foot Locker delivers $5.16B sales (+62.7% Y/Y), DICK'S comp +6.0% and FL proforma comp +0.6% returning to growth and profit; FY26 non-GAAP EPS guide $13.50–$14.50 maintained and segment comps raised; DKS ~-2% premarket as 281bp gross-margin hit lands",
+      "org": "DICK'S Sporting Goods",
+      "date": "2026-05-27",
+      "url": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-reports-first-quarter-results-302782458.html",
+      "summary": "DICK'S first quarter as combined retailer: $5.16B in sales, Foot Locker $1.79B contribution returns to comp growth and profit; raised segment comp ranges but 281bp gross-margin hit drags DKS ~-2% premarket.",
+      "tickers": [
+        "DKS"
+      ],
+      "metrics": {
+        "Consolidated net sales": "$5.165B (vs $3.175B PY)",
+        "GAAP EPS": "$3.54 vs $3.24 PY",
+        "Non-GAAP EPS": "$2.90 vs $3.37 PY",
+        "DICK'S comp sales": "+6.0%",
+        "DICK'S segment profit": "$361.0M",
+        "Foot Locker net sales": "$1.787B",
+        "Foot Locker proforma comp": "+0.6%",
+        "Foot Locker segment profit": "$17.5M",
+        "Gross margin": "32.59% (-281bp Y/Y on $42.7M FL inventory write-down)",
+        "FY26 GAAP EPS guide": "$13.27–$14.27 (was $13.70–$14.70)",
+        "FY26 non-GAAP EPS guide": "$13.50–$14.50 (unchanged)",
+        "FY26 DICK'S comp guide": "+2.5% to +4.0% (was +2.0% to +4.0%)",
+        "FY26 Foot Locker comp guide": "+1.5% to +3.0% (was +1.0% to +3.0%)",
+        "Move": "~-2% premarket"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "retail",
+        "athletic",
+        "foot-locker",
+        "integration",
+        "q1-fy26",
+        "comps",
+        "guidance",
+        "dks"
+      ],
+      "explainer": {
+        "tagline": "First combined quarter: DICK'S +6% comp, Foot Locker back to growth and profit, but a 281bp gross-margin hit lands.",
+        "whatIsIt": "DICK'S Sporting Goods reported Q1 FY26 results before the open on May 27, 2026 — the company's first quarter operating with Foot Locker after the early-2026 close. The print showcased the integration paying off on top-line and Foot Locker turnaround, but acquisition-related inventory write-downs hit the gross-margin line and the FY26 GAAP EPS guide moved lower.",
+        "howItWorks": "Consolidated net sales jumped 62.7% to $5.165B as the Foot Locker business contributed $1.787B in its first full quarter, with a proforma comp of +0.6% — its first positive comp print under the new owner. The DICK'S business comped +6.0% and produced $361.0M in segment profit; Foot Locker booked $17.5M of segment profit. Consolidated gross margin compressed 281bp to 32.59% on a $42.7M Foot Locker inventory write-down. Management raised the low end of both segment comp ranges (DICK'S now +2.5%–+4.0%, Foot Locker +1.5%–+3.0%), held non-GAAP EPS guidance at $13.50–$14.50, and lowered GAAP EPS guidance to $13.27–$14.27.",
+        "whyItMatters": "This is the first proof-point that the Foot Locker buyback (the 'Fast Break' plan) can deliver same-store-sales growth and profitability quickly — important for athletic-channel peers including Nike, Adidas wholesale, On, and Foot Locker comp tickers' read-through. The premarket dip ties the print to broader retail sensitivity on gross-margin and inventory write-down cadence.",
+        "forWho": "Retail and athletic-sector analysts",
+        "tryIt": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-reports-first-quarter-results-302782458.html"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2988271/DICKS_Sporting_Goods_2026_World_Cup.jpg?p=facebook",
+        "alt": "DICK'S Sporting Goods 2026 World Cup campaign imagery",
+        "fit": "cover",
+        "credit": "DICK'S Sporting Goods via PR Newswire"
+      },
+      "links": [
+        {
+          "label": "DICK'S Press Release",
+          "url": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-reports-first-quarter-results-302782458.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/27/dicks-sporting-goods-dks-earnings-q1-2026.html"
+        },
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001089063/000108906326000021/dks-2026502xex991earningsr.htm"
+        },
+        {
+          "label": "DKS Quote",
+          "url": "https://finance.yahoo.com/quote/DKS/"
+        }
+      ],
+      "publishDate": "2026-05-28T00:33:38.511Z"
+    },
     {
       "id": "vrrm-avis-contract-termination-may-26-2026",
       "categories": [
