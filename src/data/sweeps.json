@@ -3682,6 +3682,72 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260529t131356z",
+      "timestamp": "2026-05-29T13:13:56.167Z",
+      "source": "github-actions-sweep",
+      "summary": "Six new items from the May 27-28 prints: Agilent beat-and-raise (+17%), Photronics double-miss (-36%), STB pause of the UNP-NSC $85B rail merger, Elastic FY27 guide deceleration (-11%), Everpure's first quarter under its new ticker (P) with a -15% post-beat reaction, and SentinelOne's sub-Street guide + layoff combo (-17% AH). One update on the SpaceX IPO: Bloomberg reports new valuation marker of at least $1.8T with roadshow June 4 and pricing June 11.",
+      "counts": {
+        "added": 6,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "a-q2-fy26-earnings-may-28-2026",
+          "title": "Agilent Q2 FY26 — revenue $1.83B (+10% rep / +6.3% core) and non-GAAP EPS $1.49 beat; raises FY26 to $7.39–$7.49B and $6.00–$6.10 EPS; A +~17% as BofA upgrades to Buy",
+          "category": "earnings",
+          "note": "Clean beat-and-raise, +17% on the day, BofA Buy upgrade — strongest single-name move in life-sciences tools this week."
+        },
+        {
+          "id": "plab-q2-fy26-earnings-may-28-2026",
+          "title": "Photronics Q2 FY26 — revenue $209.9M flat Y/Y and non-GAAP EPS $0.42 miss ~$0.53 est; weak Q3 guide $207–$215M / $0.39–$0.45 EPS sends PLAB down ~36%",
+          "category": "earnings",
+          "note": "-36% on Q2 miss and weak Q3 guide; design-release delays signal tight fab utilization with bearish read for chip starts."
+        },
+        {
+          "id": "stb-unp-nsc-merger-pause-may-28-2026",
+          "title": "Surface Transportation Board pauses Union Pacific–Norfolk Southern $85B merger review — accepts revised application but demands supplemental data by July 27; UNP -4.2%, NSC -4.9%",
+          "category": "mna",
+          "note": "Largest US rail M&A on the table — STB pause is the first material regulatory delay since the deal was struck."
+        },
+        {
+          "id": "estc-q4-fy26-earnings-may-28-2026",
+          "title": "Elastic Q4 FY26 — revenue $451M (+16% Y/Y) and non-GAAP EPS $0.61 beat; but FY27 guide of $1.985–$2.00B implies 14–15% growth as deceleration sets in; ESTC -~11% to $51.26",
+          "category": "earnings",
+          "note": "-11% on FY27 guide deceleration; key read for whether AI tailwinds are reaccelerating the observability/search core (DDOG, MDB read-through)."
+        },
+        {
+          "id": "p-q1-fy27-everpure-earnings-may-27-2026",
+          "title": "Everpure (formerly Pure Storage) Q1 FY27 — revenue $1.053B (+35% Y/Y) and product +55% smash; raises FY27 op-income guide to $820–$860M — but P drops ~15% as Q2 guide and flat gross margins disappoint",
+          "category": "earnings",
+          "note": "First print under the new Everpure brand and ticker; -15% despite a beat-and-raise on FY frames the NAND cost pass-through question for AI storage."
+        },
+        {
+          "id": "s-q1-fy27-earnings-may-28-2026",
+          "title": "SentinelOne Q1 FY27 — revenue $276.7M (+21% Y/Y) and ARR +23% to $1.16B; 'emerging solutions' hit 50% of ARR — but S craters ~17% AH on light Q2 guide and 8% workforce cut",
+          "category": "earnings",
+          "note": "Sub-Street Q2 guide + 8% layoff drives -17% AH; cyber sector read ahead of CRWD print."
+        }
+      ],
+      "updated": [
+        {
+          "id": "spacex-s1-filing-may-20-2026",
+          "title": "SpaceX files S-1 for Nasdaq listing under 'SPCX' — targeting $75B raise at up to $1.75T valuation; 2025 revenue $18.67B with $2.59B op loss; June 12 list date eyed",
+          "note": "May 29 Bloomberg adds first hard pricing marker (at least $1.8T) and firm roadshow/pricing dates (June 4 / June 11) to the May 20 S-1 event."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "regulatory",
+        "ipo",
+        "analyst",
+        "macro"
+      ]
     }
   ]
 }

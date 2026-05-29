@@ -1,8 +1,455 @@
 {
-  "generatedAt": "2026-05-29T00:35:28.341Z",
+  "generatedAt": "2026-05-29T13:13:56.167Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "a-q2-fy26-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Agilent Q2 FY26 — revenue $1.83B (+10% rep / +6.3% core) and non-GAAP EPS $1.49 beat; raises FY26 to $7.39–$7.49B and $6.00–$6.10 EPS; A +~17% as BofA upgrades to Buy",
+      "org": "Agilent Technologies",
+      "date": "2026-05-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001090872/000109087226000052/exhibit991-q226pressrelease.htm",
+      "summary": "Agilent's Q2 FY26 prints a clean beat-and-raise: $1.83B revenue (+10%), non-GAAP EPS $1.49 (+14%), 26.4% non-GAAP op margin (+130bp). FY26 guide lifted to $7.39–$7.49B / $6.00–$6.10 EPS; A surges ~17% as BofA upgrades to Buy.",
+      "tickers": [
+        "A"
+      ],
+      "metrics": {
+        "Revenue": "$1.83B (+10% rep / +6.3% core)",
+        "Non-GAAP EPS": "$1.49 (+14% Y/Y)",
+        "GAAP EPS": "$1.20 (+60% Y/Y)",
+        "Non-GAAP op margin": "26.4% (+130bp Y/Y)",
+        "FY26 guide (raised)": "$7.39–$7.49B revenue / $6.00–$6.10 EPS",
+        "Q3 guide": "$1.83–$1.85B / $1.48–$1.50 EPS",
+        "Move": "+~17% on May 28 (close ~$135.45 vs $115.84 prior)",
+        "Analyst action": "BofA upgrades Hold → Buy, PT $145"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-fy26",
+        "life-sciences-tools",
+        "lab-instruments",
+        "diagnostics",
+        "analyst-upgrade",
+        "bofa"
+      ],
+      "explainer": {
+        "tagline": "Agilent prints a clean beat-and-raise as the lab-instruments cycle finally turns; BofA upgrades to Buy.",
+        "whatIsIt": "Agilent Technologies (NYSE: A) makes analytical instruments and consumables for pharma, diagnostics, environmental, food, and applied chemistry markets. The Q2 FY26 quarter ended April 30, 2026.",
+        "howItWorks": "Revenue was $1.83B, +10.0% reported and +6.3% core; non-GAAP EPS $1.49 (+14% Y/Y) on a non-GAAP operating margin of 26.4% (+130bp). Segment growth was broad: Life Sciences & Diagnostics +12% reported, CrossLab +6%, Applied Markets +14%. Management raised FY26 to $7.39–$7.49B revenue and $6.00–$6.10 non-GAAP EPS (+$0.08 midpoint), with Q3 guided to $1.83–$1.85B / $1.48–$1.50. Shares closed +16.93% at $135.45 vs $115.84 prior. BofA Securities upgraded the stock to Buy with a $145 PT.",
+        "whyItMatters": "Life-sciences tools have been in a multi-quarter funk on pharma capex digestion. A bellwether like Agilent posting both a clean beat and a guidance raise — and a sell-side flip to Buy — is a positive read-through for Waters, Bruker, Thermo Fisher, and Danaher, and tightens the bull case that the replacement cycle is restarting.",
+        "forWho": "Life-sciences tools desks, healthcare PMs, instrument-cycle watchers",
+        "tryIt": "https://finance.yahoo.com/quote/A/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/a_8-K.webp",
+        "alt": "Agilent Technologies 8-K filing cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Ex. 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001090872/000109087226000052/exhibit991-q226pressrelease.htm"
+        },
+        {
+          "label": "Agilent IR Release",
+          "url": "https://www.investor.agilent.com/news-and-events/news/news-details/2026/Agilent-Reports-Second-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Proactive — BofA upgrade",
+          "url": "https://www.proactiveinvestors.com/companies/news/1093080/agilent-technologies-shares-jump-on-earnings-beat-bank-of-america-upgrade-1093080.html"
+        },
+        {
+          "label": "StockTitan filing mirror",
+          "url": "https://www.stocktitan.net/sec-filings/A/8-k-agilent-technologies-inc-reports-material-event-1b8cedfce7ff.html"
+        },
+        {
+          "label": "Yahoo Finance — A",
+          "url": "https://finance.yahoo.com/quote/A/"
+        }
+      ],
+      "publishDate": "2026-05-29T13:13:56.167Z"
+    },
+    {
+      "id": "plab-q2-fy26-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Photronics Q2 FY26 — revenue $209.9M flat Y/Y and non-GAAP EPS $0.42 miss ~$0.53 est; weak Q3 guide $207–$215M / $0.39–$0.45 EPS sends PLAB down ~36%",
+      "org": "Photronics",
+      "date": "2026-05-28",
+      "url": "https://www.globenewswire.com/news-release/2026/05/28/3302671/0/en/photronics-reports-second-quarter-2026-results.html",
+      "summary": "Photonomask leader Photronics posts Q2 FY26 revenue of $209.9M (-0.5% Y/Y) and non-GAAP EPS of $0.42, both below the ~$216.7M / ~$0.53 Street. Q3 guide of $207–$215M / $0.39–$0.45 EPS — citing delayed design releases, fab utilization and memory supply — sends PLAB down ~36%.",
+      "tickers": [
+        "PLAB"
+      ],
+      "metrics": {
+        "Revenue": "$209.9M (-0.5% Y/Y) vs ~$216.7M est",
+        "Non-GAAP EPS": "$0.42 vs ~$0.53–$0.54 est",
+        "GAAP EPS": "$0.54 (vs $0.15 Q2'25)",
+        "Gross margin": "31.3%",
+        "Op margin": "20.1%",
+        "Q2 IC revenue": "$147.5M (-5% Y/Y, -11% Q/Q)",
+        "Q2 FPD revenue": "$62.4M (+13% Y/Y, +4% Q/Q)",
+        "Q3 guide": "$207–$215M revenue / $0.39–$0.45 non-GAAP EPS / 18–20% op margin",
+        "Move": "~-36% on May 28 (close ~$34.02)"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-miss",
+        "guide-cut",
+        "q2-fy26",
+        "photomasks",
+        "semis",
+        "memory",
+        "fab-utilization",
+        "design-release-delays"
+      ],
+      "explainer": {
+        "tagline": "Photomask leader Photronics double-misses with weak Q3 guide; PLAB cut by more than a third as design starts stall.",
+        "whatIsIt": "Photronics (NASDAQ: PLAB) is the largest pure-play merchant supplier of photomasks — the quartz-and-chrome stencils used to pattern wafers in semiconductor and flat-panel display fabs. Q2 FY26 covers the quarter ended May 3, 2026.",
+        "howItWorks": "Revenue of $209.9M was roughly flat Y/Y but missed ~$216.7M consensus; non-GAAP EPS of $0.42 came in well below the ~$0.53–$0.54 estimate. Integrated Circuits revenue was $147.5M (-5% Y/Y), Flat Panel Display $62.4M (+13%). Q3 guide of $207–$215M revenue and $0.39–$0.45 non-GAAP EPS (vs $0.51 Q3'25) puts op margin at 18–20%. CEO George Macricostas cited 'delayed design releases due to elevated fab utilization rates, memory supply constraints and geopolitical uncertainty.' PLAB closed down about 36% on heavy volume.",
+        "whyItMatters": "Photomask demand is a leading indicator for new chip-design starts. Customers postponing new product launches because their fabs are full reads as a counterintuitive signal: legacy/mature-node supply is even tighter than current shortages imply, while new-product roadmaps slip. Read-through to KLAC, AMAT and the rest of the semi-equipment chain that levers off design-start activity.",
+        "forWho": "Semi-equipment analysts, small-cap semi traders, supply-chain watchers",
+        "tryIt": "https://finance.yahoo.com/quote/PLAB/"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871906%2Fgettyimages-1167797024.jpg&w=1200&op=resize",
+        "alt": "Stock chart trending sharply lower",
+        "fit": "cover",
+        "credit": "Getty Images via The Motley Fool"
+      },
+      "links": [
+        {
+          "label": "Photronics Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/05/28/3302671/0/en/photronics-reports-second-quarter-2026-results.html"
+        },
+        {
+          "label": "SEC 8-K Ex. 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000810136/000114036126023057/ef20074970_ex99-1.htm"
+        },
+        {
+          "label": "Motley Fool — Why PLAB is plummeting",
+          "url": "https://www.fool.com/investing/2026/05/28/why-photronics-stock-is-plummeting-today/"
+        },
+        {
+          "label": "Benzinga — CEO flags delays",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52834769/photronics-ceo-flags-delays-supply-strain-and-uncertainty"
+        },
+        {
+          "label": "Yahoo Finance — PLAB",
+          "url": "https://finance.yahoo.com/quote/PLAB/"
+        }
+      ],
+      "publishDate": "2026-05-29T13:13:56.167Z"
+    },
+    {
+      "id": "stb-unp-nsc-merger-pause-may-28-2026",
+      "categories": [
+        "mna",
+        "regulatory"
+      ],
+      "title": "Surface Transportation Board pauses Union Pacific–Norfolk Southern $85B merger review — accepts revised application but demands supplemental data by July 27; UNP -4.2%, NSC -4.9%",
+      "org": "Surface Transportation Board",
+      "date": "2026-05-28",
+      "url": "https://www.stb.gov/news-communications/latest-news/pr-26-13/",
+      "summary": "STB unanimously accepted the UP–NS revised merger application (Docket FD 36873) but held proceedings — including environmental review — in abeyance, ordering supplemental info by July 27, 2026. UP and NSC slip ~4–5% as the combined-close target slides from April 2027 to mid-2027.",
+      "tickers": [
+        "UNP",
+        "NSC"
+      ],
+      "metrics": {
+        "Deal size": "~$85B (UP buys NS, all-stock)",
+        "STB vote": "Unanimous accept (Docket FD 36873)",
+        "Supplemental info deadline": "July 27, 2026",
+        "Prior expected close": "April 2027",
+        "Revised expected close": "Mid-2027",
+        "UNP move": "-4.2%",
+        "NSC move": "-4.9%"
+      },
+      "importance": "major",
+      "tags": [
+        "mna",
+        "regulatory",
+        "stb",
+        "rails",
+        "class-i",
+        "merger-review",
+        "transcontinental",
+        "supplemental-info",
+        "antitrust"
+      ],
+      "explainer": {
+        "tagline": "Regulator hits pause on what would be America's first true transcontinental Class I rail merger.",
+        "whatIsIt": "Union Pacific (NYSE: UNP) agreed earlier this year to buy Norfolk Southern (NYSE: NSC) in an all-stock deal valued around $85B — combining the largest western and a major eastern Class I railroad into the first single-line transcontinental network. Class I rail mergers require Surface Transportation Board approval under 49 CFR Part 1180.",
+        "howItWorks": "The STB unanimously accepted the parties' revised merger application (filed April 30, 2026) for consideration but found portions 'unclear or underdeveloped'. The Board paused the formal evidentiary schedule and environmental review and ordered supplemental information by July 27, 2026, covering competition impact, 2-to-1/3-to-2 shipper access, diversion analysis, gateway treatment, service assurance, downstream M&A effects and passenger-rail coexistence. UP and NSC fell about 4–5% on the day as the timeline slipped.",
+        "whyItMatters": "The pause adds an estimated ~60 days to the regulatory clock and pushes the targeted close from April 2027 to mid-2027. Deal-arb spreads on UNP and NSC widened on the print. Approval odds remain intact per most sell-side commentary, but the longer process raises the risk that conditions get attached, which would compress synergy upside on the largest US rail M&A ever.",
+        "forWho": "M&A arb desks, industrials/transports analysts, rail-focused PMs",
+        "tryIt": "https://www.stb.gov/proceedings-actions/decisions/"
+      },
+      "image": {
+        "url": "https://www.railwayage.com/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-9.07.19-AM.png",
+        "alt": "Union Pacific and Norfolk Southern locomotives — STB merger review",
+        "fit": "cover",
+        "credit": "Railway Age"
+      },
+      "links": [
+        {
+          "label": "STB press release (PR-26-13)",
+          "url": "https://www.stb.gov/news-communications/latest-news/pr-26-13/"
+        },
+        {
+          "label": "Transport Topics — STB pause",
+          "url": "https://www.ttnews.com/articles/stb-pauses-ns-union-pacific"
+        },
+        {
+          "label": "Quiver — NSC stock reaction",
+          "url": "https://www.quiverquant.com/news/Norfolk+Southern+falls+as+U.S.+rail+regulator+pauses+Union+Pacific+merger+review"
+        },
+        {
+          "label": "Railway Age coverage",
+          "url": "https://www.railwayage.com/regulatory/stb-accepts-up-ns-revised-merger-application-delays-proceedings/"
+        }
+      ],
+      "publishDate": "2026-05-29T13:13:56.167Z"
+    },
+    {
+      "id": "estc-q4-fy26-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Elastic Q4 FY26 — revenue $451M (+16% Y/Y) and non-GAAP EPS $0.61 beat; but FY27 guide of $1.985–$2.00B implies 14–15% growth as deceleration sets in; ESTC -~11% to $51.26",
+      "org": "Elastic",
+      "date": "2026-05-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001707753/000170775326000008/a26q4erex991.htm",
+      "summary": "Search-and-observability vendor Elastic prints Q4 FY26 revenue $451M (+16%) and non-GAAP EPS $0.61 above Street, but FY27 guide of $1.985–$2.00B (~14.6% growth midpoint) and Q1 guide $469–$470M point to deceleration; ESTC drops ~11% to $51.26.",
+      "tickers": [
+        "ESTC"
+      ],
+      "metrics": {
+        "Revenue": "$451M (+16% Y/Y) vs ~$446.6M est",
+        "Non-GAAP EPS": "$0.61 vs ~$0.56 est",
+        "FY26 revenue": "$1.739B (+17%)",
+        "CRPO": "$1.20B (+20%)",
+        "Q1 FY27 guide": "$469–$470M revenue / $0.57–$0.59 non-GAAP EPS",
+        "FY27 guide": "$1.985–$2.00B revenue (+14.6% midpoint) / $3.21–$3.29 EPS / ~19% op margin",
+        "Move": "~-10.9% to $51.26"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-deceleration",
+        "q4-fy26",
+        "search",
+        "observability",
+        "open-source",
+        "ai-features",
+        "elasticsearch"
+      ],
+      "explainer": {
+        "tagline": "Elastic clears the Q4 bar but the FY27 outlook signals a slower-growth chapter — and the tape punishes the deceleration.",
+        "whatIsIt": "Elastic N.V. (NYSE: ESTC) makes the Elastic Stack — search, observability, and security tooling built around the open-source Elasticsearch engine, sold mostly as Elastic Cloud subscriptions. Q4 FY26 covers the quarter ended April 30, 2026.",
+        "howItWorks": "Q4 revenue of $451M grew 16% Y/Y and beat ~$446.6M consensus; non-GAAP EPS came in at $0.61 vs ~$0.56 est. Subscription revenue was $375M (+19%), and 6,088 customers with >$100K ACV are now using AI features. Full-year FY26 revenue closed at $1.739B (+17%) with $1.20B CRPO (+20%). The Q1 FY27 guide of $469–$470M and FY27 of $1.985–$2.00B / $3.21–$3.29 EPS / ~19% op margin implies 14–15% revenue growth — a step down from FY26's 17%. ESTC fell ~10.9% to $51.26.",
+        "whyItMatters": "ESTC was already off ~43% from its 52-week high heading into the print, so any sign of growth deceleration draws a heavy reaction. The Street had hoped AI-driven log/search workloads would re-accelerate the core; the FY27 guide says that isn't happening yet. Read-through to DDOG (just printed clean), SPLK-replaced workloads inside Cisco, and the broader observability/search complex (NEWR, MDB).",
+        "forWho": "Growth-software PMs, observability/data-infra analysts",
+        "tryIt": "https://ir.elastic.co/financial-information/quarterly-results"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Elastic_Reports_Fourth_Quarter_and_Fiscal_2026_Financial_Results_1064011.webp",
+        "alt": "Elastic Q4 FY26 earnings press release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Ex. 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001707753/000170775326000008/a26q4erex991.htm"
+        },
+        {
+          "label": "StockTitan release",
+          "url": "https://www.stocktitan.net/news/ESTC/elastic-reports-fourth-quarter-and-fiscal-2026-financial-x0rwklhjst95.html"
+        },
+        {
+          "label": "Yahoo / StockStory analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elastic-nyse-estc-q1-cy2026-203628493.html"
+        },
+        {
+          "label": "Motley Fool — earnings call transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/28/elastic-estc-q4-2026-earnings-transcript/"
+        },
+        {
+          "label": "Yahoo Finance — ESTC",
+          "url": "https://finance.yahoo.com/quote/ESTC/"
+        }
+      ],
+      "publishDate": "2026-05-29T13:13:56.167Z"
+    },
+    {
+      "id": "p-q1-fy27-everpure-earnings-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Everpure (formerly Pure Storage) Q1 FY27 — revenue $1.053B (+35% Y/Y) and product +55% smash; raises FY27 op-income guide to $820–$860M — but P drops ~15% as Q2 guide and flat gross margins disappoint",
+      "org": "Everpure",
+      "date": "2026-05-27",
+      "url": "https://investor.everpuredata.com/news-and-events/press-releases/press-release-details/2026/Everpure-Announces-First-Quarter-Fiscal-2027-Financial-Results/default.aspx",
+      "summary": "First quarter under the Everpure brand (ticker PSTG → P in March): Q1 FY27 revenue $1.053B (+35%), product +55%, ARR $2.0B (+19%). FY27 op-income guide raised to $820–$860M, but Q2 guide of $1.095–$1.105B implies only ~5% sequential growth and gross margins came in flat — P falls ~14–16%.",
+      "tickers": [
+        "P"
+      ],
+      "metrics": {
+        "Revenue": "$1.053B (+35% Y/Y)",
+        "Product revenue": "$577M (+55% Y/Y)",
+        "Subscription services": "$476M (+17% Y/Y)",
+        "Subscription ARR": "$2.0B (+19% Y/Y)",
+        "Non-GAAP EPS": "$0.47",
+        "Non-GAAP op income": "$159M (15.1% margin)",
+        "Q2 FY27 guide": "$1.095–$1.105B revenue / $195–$205M non-GAAP op income",
+        "FY27 guide (raised)": "$4.41–$4.51B revenue / $820–$860M non-GAAP op income",
+        "Move": "~-14% to -16% on May 28"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "everpure",
+        "pstg-rebrand",
+        "ticker-change",
+        "ai-storage",
+        "q1-fy27",
+        "guide-raise",
+        "weak-q2-guide",
+        "flash-storage",
+        "memory"
+      ],
+      "explainer": {
+        "tagline": "First print under the Everpure name lands a clean beat-and-raise on FY — but a thin Q2 guide and flat gross margins (despite a ~50% price hike) turn the post-print tape sharply red.",
+        "whatIsIt": "Everpure (NYSE: P, formerly Pure Storage / PSTG) is an all-flash enterprise storage vendor. The company rebranded from Pure Storage to Everpure effective February 23, 2026 and changed its NYSE ticker from PSTG to P on March 5, 2026. Q1 FY27 covers the quarter ended May 3, 2026 — the first reporting period under the new identity.",
+        "howItWorks": "Revenue grew 35% Y/Y to $1.053B, with product +55% to $577M and subscription services +17% to $476M; subscription ARR crossed $2.0B (+19%). Non-GAAP EPS was $0.47 on a 15.1% non-GAAP op margin. Management raised FY27 revenue to $4.41–$4.51B and non-GAAP op income to $820–$860M (from $780–$820M prior). But the Q2 guide of $1.095–$1.105B implied only ~5% sequential growth despite a roughly 50% price hike on memory-driven SKUs, and gross margins came in flat. P fell ~14–16% on May 28; Guggenheim raised PT to $115, Wedbush to $105, Morgan Stanley to $87 and JPM to $92.",
+        "whyItMatters": "Everpure frames the central question for NAND/SSD-leveraged enterprise storage in the AI cycle: are surging memory-chip costs absorbing the demand tailwind faster than vendors can pass them through? Pair this with NetApp's beat-and-raise the next morning for the cleanest cross-section. Read-through to WDC, MU, NTAP, HPE storage and broader AI-infrastructure names where memory cost pass-through is the swing factor for gross margin.",
+        "forWho": "Storage analysts, AI-infrastructure equity desks, memory traders",
+        "tryIt": "https://investor.everpuredata.com/financial-information/quarterly-results/default.aspx"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2917953/Everpure_Logo_2026.jpg?p=facebook",
+        "alt": "Everpure (formerly Pure Storage) corporate logo",
+        "fit": "contain",
+        "credit": "Everpure via PR Newswire"
+      },
+      "links": [
+        {
+          "label": "Everpure IR Release",
+          "url": "https://investor.everpuredata.com/news-and-events/press-releases/press-release-details/2026/Everpure-Announces-First-Quarter-Fiscal-2027-Financial-Results/default.aspx"
+        },
+        {
+          "label": "PR Newswire mirror",
+          "url": "https://www.prnewswire.com/news-releases/everpure-announces-first-quarter-fiscal-2027-financial-results-302783502.html"
+        },
+        {
+          "label": "Benzinga — Why P fell after beat",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/05/52856105/why-everpure-stock-fell-even-after-a-better-than-expected-quarter"
+        },
+        {
+          "label": "StockTitan release",
+          "url": "https://www.stocktitan.net/news/P/everpure-announces-first-quarter-fiscal-2027-financial-98giup7cr21g.html"
+        },
+        {
+          "label": "Yahoo Finance — P",
+          "url": "https://finance.yahoo.com/quote/P/"
+        }
+      ],
+      "publishDate": "2026-05-29T13:13:56.167Z"
+    },
+    {
+      "id": "s-q1-fy27-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "SentinelOne Q1 FY27 — revenue $276.7M (+21% Y/Y) and ARR +23% to $1.16B; 'emerging solutions' hit 50% of ARR — but S craters ~17% AH on light Q2 guide and 8% workforce cut",
+      "org": "SentinelOne",
+      "date": "2026-05-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001583708/000158370826000039/sentineloneq127exhibit991.htm",
+      "summary": "Revenue $276.7M (+21%) just shy of $277.3M est, adj EPS $0.04 beats; ARR +23% to $1.163B with non-endpoint 'emerging solutions' hitting ~50% of ARR. But Q2 guide of $289–$291M lands below ~$292M Street and SentinelOne cuts ~8% of headcount (~$25M charge, ~$45M savings); S drops ~17% AH and ~20% pre-market May 29.",
+      "tickers": [
+        "S"
+      ],
+      "metrics": {
+        "Revenue": "$276.7M (+21% Y/Y) vs ~$277.3M est",
+        "ARR": "$1.163B (+23% Y/Y)",
+        "Net new ARR": "$44M (+55% Y/Y)",
+        "$100K+ customers": "1,702 (+17% Y/Y)",
+        "Emerging solutions % of ARR": "~50% (new milestone)",
+        "Adj EPS": "$0.04 vs $0.02 est",
+        "Non-GAAP op margin": "4% (+550bp Y/Y)",
+        "Q2 FY27 guide": "$289–$291M revenue / $0.06–$0.08 adj EPS",
+        "FY27 guide": "$1.195–$1.205B revenue / $0.32–$0.38 adj EPS / ~10% non-GAAP op margin",
+        "Restructuring": "~8% workforce cut, ~$25M charge, ~$45M annualized savings",
+        "Move": "~-16.5% AH May 28; ~-20% premarket May 29"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "guide-light",
+        "workforce-cut",
+        "restructuring",
+        "ai-security",
+        "purple-ai",
+        "cybersecurity",
+        "endpoint",
+        "ai-first-reorg"
+      ],
+      "explainer": {
+        "tagline": "ARR acceleration and the emerging-solutions milestone get steamrolled by a sub-Street Q2 guide and the optics of an 8% layoff.",
+        "whatIsIt": "SentinelOne (NYSE: S) sells AI-driven endpoint, cloud and data-security via its Singularity platform. The Q1 FY27 quarter ended April 30, 2026. The print landed after the close on May 28 along with an 8% workforce reduction and a redirect of spend toward AI Security, Purple AI, data and cloud.",
+        "howItWorks": "Revenue grew 21% Y/Y to $276.7M, just shy of the $277.3M consensus; adjusted EPS was $0.04 vs $0.02 est. ARR grew 23% to $1.163B with record $44M of net new ARR (+55% Y/Y), and non-endpoint 'emerging solutions' (AI security, data, cloud, Purple AI, Prompt Security) reached ~50% of total ARR for the first time. Management guided Q2 revenue to $289–$291M (below ~$292M Street) and FY27 to $1.195–$1.205B / $0.32–$0.38 adj EPS, bumping non-GAAP op margin ~40bp to ~10%. The 8% workforce cut carries a ~$25M one-time charge (~$15M cash) and ~$45M annualized savings. S fell ~16.5% in after-hours and ~20% pre-market May 29.",
+        "whyItMatters": "Cybersecurity multiples remain bid on AI-led platform consolidation, so any sub-Street revenue print paired with a layoff gets punished hard. Watch read-through to CRWD (prints next), PANW and ZS — investors are now demanding clean beats AND raises in cyber, not 'in-line plus operating leverage'.",
+        "forWho": "Cybersecurity analysts, growth-software PMs",
+        "tryIt": "https://investors.sentinelone.com/financial-info/quarterly-results/default.aspx"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/28/SentinelOneMountain-View--Ca--Usa---Feb-.jpeg",
+        "alt": "SentinelOne corporate headquarters",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Ex. 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001583708/000158370826000039/sentineloneq127exhibit991.htm"
+        },
+        {
+          "label": "Benzinga — Stock craters",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52860058/sentinelone-stock-craters-after-q1-results-heres-why"
+        },
+        {
+          "label": "Motley Fool — earnings call transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/28/sentinelone-s-q1-2027-earnings-call-transcript/"
+        },
+        {
+          "label": "FinancialContent / StockStory",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-28-sentinelone-nyses-posts-q1-cy2026-sales-in-line-with-estimates-but-stock-drops-168"
+        },
+        {
+          "label": "Yahoo Finance — S",
+          "url": "https://finance.yahoo.com/quote/S/"
+        }
+      ],
+      "publishDate": "2026-05-29T13:13:56.167Z"
+    },
     {
       "id": "dell-q1-fy27-earnings-may-28-2026",
       "categories": [
@@ -3730,7 +4177,8 @@
         "SPCX"
       ],
       "metrics": {
-        "Target valuation": "Up to $1.75T",
+        "Target valuation": "Up to $1.75T (S-1 cap)",
+        "Valuation marker (May 29)": "At least $1.8T (Bloomberg)",
         "Target raise": "~$75B",
         "Q1 2026 revenue": "$4.694B",
         "Q1 2026 op loss": "($1.943B)",
@@ -3740,6 +4188,8 @@
         "2025 adj EBITDA": "$6.584B",
         "Starlink subscribers (Mar 31)": "10.3M",
         "Starlink satellites": "~9,600",
+        "Roadshow start": "~June 4, 2026",
+        "Pricing date": "~June 11, 2026",
         "Expected listing": "June 12, 2026"
       },
       "importance": "major",
@@ -3776,20 +4226,20 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
         },
         {
+          "label": "Bloomberg — Valuation floor at $1.8T (May 29)",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-lowers-ipo-valuation-target-to-at-least-1-8-trillion"
+        },
+        {
+          "label": "Reuters via TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42516K:0-spacex-lowers-ipo-valuation-target-to-at-least-1-8-trillion-bloomberg-news/"
+        },
+        {
           "label": "Fortune Coverage",
           "url": "https://fortune.com/2026/05/20/spacex-finally-files-ipo-prospectus-reveals-revenue-is-up-but-losses-are-too/"
         },
         {
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo"
-        },
-        {
           "label": "TechCrunch",
           "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/"
-        },
-        {
-          "label": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/spacex-files-ipo-prospectus-offering-a-peek-into-its-finances-205406189.html"
         }
       ],
       "publishDate": "2026-05-21T00:38:27.759Z"
