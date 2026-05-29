@@ -3636,6 +3636,52 @@
         "commodity",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260529t003528z",
+      "timestamp": "2026-05-29T00:35:28.341Z",
+      "source": "github-actions-sweep",
+      "summary": "Four post-PCE earnings adds: Dell Q1 FY27 prints an AI-server blowout and raises FY27 revenue by $25B+; Costco Q3 doubles up on staples comps and record gas volumes; NetApp Q4 hits records and guides FY27 above Street (NTAP +~10% AH); Synopsys raises FY26 but Design IP weakness drives a -9% selloff.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dell-q1-fy27-earnings-may-28-2026",
+          "title": "Dell Q1 FY27 — record $43.8B revenue (+88% Y/Y), AI-optimized server revenue $16.1B (+757%), $24.4B AI orders; raises FY27 revenue guide to $165–$169B and AI server FY27 outlook to $60B",
+          "category": "earnings",
+          "note": "Largest AI-server quarter ever reported by Dell with $24.4B orders and $60B FY27 AI-server outlook — the loudest read on the AI-infrastructure spend cycle in the season."
+        },
+        {
+          "id": "cost-q3-fy26-earnings-may-28-2026",
+          "title": "Costco Q3 FY26 — net sales $69.15B (+11.6% Y/Y), total revenue $70.53B, EPS $4.93 (+15%); adjusted US comp +6.8% and digitally-enabled +21.5% as fuel-volume records carry the quarter",
+          "category": "earnings",
+          "note": "+6.8% adjusted US comp and record gas volumes anchor the higher-income-consumer read into PCE day."
+        },
+        {
+          "id": "ntap-q4-fy26-earnings-may-28-2026",
+          "title": "NetApp Q4 FY26 — record $1.95B revenue (+12% Y/Y), non-GAAP EPS $2.43 (+26%) tops Street; FY27 revenue guided $7.325–$7.575B with non-GAAP EPS $8.70–$9.00; NTAP +~10% AH on AI-storage read",
+          "category": "earnings",
+          "note": "Pure-play AI-storage read with FY27 guide above Street and +~10% AH; covers enterprise-storage corner the existing feed had gone quiet on."
+        },
+        {
+          "id": "snps-q2-fy26-earnings-may-27-2026",
+          "title": "Synopsys Q2 FY26 — revenue $2.276B (+42% Y/Y) and non-GAAP EPS $3.35 beat, FY26 guide lifted to $9.665B / $14.76 EPS midpoint — but Design IP -6% and Ansys integration jitters drag SNPS -9.1%",
+          "category": "earnings",
+          "note": "Beat-and-raise but Design IP -6% Y/Y and Ansys-integration jitters drove SNPS -9.1% on May 28 — named-catalyst mega-cap mover into the AI-tools complex."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }

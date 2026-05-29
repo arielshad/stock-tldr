@@ -1,8 +1,302 @@
 {
-  "generatedAt": "2026-05-28T13:15:15.643Z",
+  "generatedAt": "2026-05-29T00:35:28.341Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dell-q1-fy27-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Dell Q1 FY27 — record $43.8B revenue (+88% Y/Y), AI-optimized server revenue $16.1B (+757%), $24.4B AI orders; raises FY27 revenue guide to $165–$169B and AI server FY27 outlook to $60B",
+      "org": "Dell Technologies",
+      "date": "2026-05-28",
+      "url": "https://www.stocktitan.net/news/DELL/dell-technologies-delivers-first-quarter-fiscal-2027-financial-1izlonbdhryh.html",
+      "summary": "Dell Q1 FY27 — revenue $43.8B (+88% Y/Y), non-GAAP EPS $4.86 (+214%) and GAAP $5.24 trounce ~$2.93 est; ISG $29.0B (+181%) with AI servers $16.1B (+757%); FY27 revenue guided $165–$169B and AI server FY27 lifted to ~$60B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q1-fy27",
+        "ai-servers",
+        "isg",
+        "data-center",
+        "blackwell",
+        "infrastructure"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DELL",
+        "NVDA",
+        "AVGO",
+        "HPE"
+      ],
+      "metrics": {
+        "Revenue": "$43.8B (+88% Y/Y)",
+        "GAAP EPS": "$5.24 (+282%)",
+        "Non-GAAP EPS": "$4.86 (+214%) vs $2.93 est",
+        "AI server revenue": "$16.1B (+757% Y/Y)",
+        "AI orders booked": "$24.4B",
+        "ISG revenue": "$29.0B (+181%)",
+        "CSG revenue": "$14.6B (+17%)",
+        "FY27 revenue guide": "$165B–$169B (mid +47% Y/Y)",
+        "FY27 AI server guide": "~$60B (+144%)",
+        "Q1 operating cash flow": "$4.1B",
+        "Capital returned": "$2.1B (buyback $1.628B + div $464M)"
+      },
+      "links": [
+        {
+          "label": "Dell Q1 FY27 Release",
+          "url": "https://www.stocktitan.net/news/DELL/dell-technologies-delivers-first-quarter-fiscal-2027-financial-1izlonbdhryh.html"
+        },
+        {
+          "label": "Q1 FY27 Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/28/dell-dell-q1-2027-earnings-call-transcript/"
+        },
+        {
+          "label": "DELL Quote",
+          "url": "https://finance.yahoo.com/quote/DELL/"
+        },
+        {
+          "label": "Marketbeat Earnings",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-5-28-dell-technologies-inc-stock/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dell prints a record quarter on an AI-server boom and raises FY27 revenue by $25B+ at the midpoint — the loudest AI-infrastructure read of the season.",
+        "whatIsIt": "Dell Technologies reported first quarter fiscal 2027 results after the close on Thursday May 28. Q1 revenue jumped 88% year-over-year to a record $43.8 billion. Non-GAAP diluted EPS of $4.86 was up 214%, and GAAP EPS of $5.24 was up 282%. Both metrics blew past Street consensus.",
+        "howItWorks": "Infrastructure Solutions Group revenue hit a record $29.0 billion, up 181% Y/Y, with AI-Optimized Servers revenue of $16.1 billion up 757%. Dell booked $24.4 billion of AI orders in the quarter and lifted its FY27 AI server revenue outlook to roughly $60 billion (up 144% Y/Y), from the prior $50B target. Full-year FY27 revenue guide is now $165–$169 billion (midpoint $167B, +47% Y/Y) — up from $138–$142B prior. Operating cash flow was a Q1-record $4.1B; the company returned $2.1B to shareholders ($1.628B buybacks + $464M dividends).",
+        "whyItMatters": "Dell is the largest deployer of Blackwell-class systems outside the hyperscalers, so the $24.4B AI orders print and the $60B FY27 server target are direct read-throughs for NVIDIA, Broadcom and the AI-power complex. The 47% raise to full-year revenue guidance, after a +158% YTD share-price run into the print, removes the most-watched 'is the AI capex cycle peaking' bear case. HPE and SMCI now have a steep bar to clear into their own prints.",
+        "forWho": "AI-infrastructure traders, semis longs, data-center REIT desks",
+        "tryIt": "https://finance.yahoo.com/quote/DELL/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Dell_Technologies_Delivers_First_Quarter_Fiscal_2027_Financial_Results_1064014.webp",
+        "alt": "Dell Technologies Q1 FY27 earnings cover graphic",
+        "fit": "cover",
+        "credit": "Dell Technologies / StockTitan"
+      },
+      "publishDate": "2026-05-29T00:35:28.341Z"
+    },
+    {
+      "id": "cost-q3-fy26-earnings-may-28-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Costco Q3 FY26 — net sales $69.15B (+11.6% Y/Y), total revenue $70.53B, EPS $4.93 (+15%); adjusted US comp +6.8% and digitally-enabled +21.5% as fuel-volume records carry the quarter",
+      "org": "Costco Wholesale",
+      "date": "2026-05-28",
+      "url": "https://www.stocktitan.net/news/COST/costco-wholesale-corporation-reports-third-quarter-and-year-to-date-ya9rfbnhnzg9.html",
+      "summary": "Costco Q3 FY26 — net sales $69.15B (+11.6% Y/Y) and total revenue $70.53B beat ~$69.8B est; diluted EPS $4.93 in line with est, +15% Y/Y; adjusted US comp +6.8%, total adj comp +6.6%, digitally-enabled +21.5%; membership fee income $1.373B.",
+      "tags": [
+        "earnings",
+        "eps-in-line",
+        "q3-fy26",
+        "consumer-staples",
+        "warehouse-club",
+        "membership",
+        "gas",
+        "comp-sales"
+      ],
+      "importance": "major",
+      "tickers": [
+        "COST",
+        "WMT",
+        "BJ",
+        "TGT"
+      ],
+      "metrics": {
+        "Net sales": "$69.15B (+11.6% Y/Y)",
+        "Total revenue": "$70.53B vs $69.81B est",
+        "Net income": "$2.19B",
+        "Diluted EPS": "$4.93 (+15% Y/Y, in line)",
+        "US comp (adj)": "+6.8%",
+        "Total comp (adj)": "+6.6%",
+        "Digitally-enabled comp": "+21.5%",
+        "Membership fee income": "$1.373B"
+      },
+      "links": [
+        {
+          "label": "Costco Q3 Release",
+          "url": "https://www.stocktitan.net/news/COST/costco-wholesale-corporation-reports-third-quarter-and-year-to-date-ya9rfbnhnzg9.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html"
+        },
+        {
+          "label": "COST Quote",
+          "url": "https://finance.yahoo.com/quote/COST/"
+        },
+        {
+          "label": "Q3 Earnings Page",
+          "url": "https://investor.costco.com/events-and-presentations/events/event-details/2026/Q3-2026-Earnings-Results-2026-ipC_qOechX/default.aspx"
+        }
+      ],
+      "explainer": {
+        "tagline": "Costco prints double-digit revenue growth and another quarter of mid-single-digit comp on top of record gas volumes from the Iran-war crack spread.",
+        "whatIsIt": "Costco Wholesale reported third-quarter fiscal 2026 results after the close on Thursday May 28 for the 12 weeks ended May 11. Net sales were $69.15B (+11.6% Y/Y) and total revenue including membership fees was $70.53B, ahead of ~$69.8B consensus. Diluted EPS was $4.93 (+15% Y/Y), matching the Street.",
+        "howItWorks": "Adjusted comparable sales (excluding gasoline and FX) rose +6.8% in the U.S. and +6.6% total. The digitally-enabled comp accelerated to +21.5% as Costco leaned on its app and curbside execution. Membership fee income reached $1.373B as the price increase laps and U.S. paid-household growth continues. Q3 net income was $2.19B. Management did not change the FY26 capex pace and continued opening new warehouses in the quarter.",
+        "whyItMatters": "Costco is the bellwether for the higher-income U.S. consumer — the +6.8% U.S. ex-gas comp is one of the highest in the staples complex this earnings season and frames the post-PCE consumer debate. The gasoline call-out (record Costco-fuel volumes in the final five weeks as Iran-war pump prices spiked) is a real-time read on the squeeze flowing through to value-channel traffic. WMT and BJ get a sympathy read; club-format share gains continue.",
+        "forWho": "staples and consumer-discretionary desks, macro readers on the U.S. consumer",
+        "tryIt": "https://finance.yahoo.com/quote/COST/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Costco_Wholesale_Corporation_Reports_Third_Quarter_and_Year_To_Date_Operating_Results_For_Fiscal_202_1064040.webp",
+        "alt": "Costco Wholesale Q3 FY26 earnings cover graphic",
+        "fit": "cover",
+        "credit": "Costco / StockTitan"
+      },
+      "publishDate": "2026-05-29T00:35:28.341Z"
+    },
+    {
+      "id": "ntap-q4-fy26-earnings-may-28-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "NetApp Q4 FY26 — record $1.95B revenue (+12% Y/Y), non-GAAP EPS $2.43 (+26%) tops Street; FY27 revenue guided $7.325–$7.575B with non-GAAP EPS $8.70–$9.00; NTAP +~10% AH on AI-storage read",
+      "org": "NetApp",
+      "date": "2026-05-28",
+      "url": "https://www.stocktitan.net/news/NTAP/net-app-reports-fourth-quarter-and-fiscal-year-2026-oa7xfej0lpro.html",
+      "summary": "NetApp Q4 FY26 — net revenues $1.95B (+12% Y/Y) and non-GAAP EPS $2.43 (+26%) beat ~$1.87B / $2.27 est; FY26 revenue $6.93B (+5%), all-flash $1.2B (+18%) and Public Cloud $182M (+11%); FY27 guided $7.325–$7.575B / $8.70–$9.00 EPS; NTAP +~10% AH.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q4-fy26",
+        "ai-storage",
+        "all-flash",
+        "public-cloud",
+        "billings"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NTAP",
+        "PSTG",
+        "DELL"
+      ],
+      "metrics": {
+        "Q4 revenue": "$1.95B (+12% Y/Y) vs $1.87B est",
+        "Q4 non-GAAP EPS": "$2.43 (+26% Y/Y) vs $2.27 est",
+        "Q4 GAAP EPS": "$2.03 (+23%)",
+        "FY26 revenue": "$6.93B (+5%)",
+        "FY26 non-GAAP EPS": "$8.13 (+12%)",
+        "All-flash Q4": "$1.2B (+18% Y/Y)",
+        "Public Cloud Q4": "$182M (+11%)",
+        "FY26 billings": "$7.21B (+6%)",
+        "FY27 revenue guide": "$7.325B–$7.575B",
+        "FY27 non-GAAP EPS guide": "$8.70–$9.00",
+        "Move": "+~10% AH"
+      },
+      "links": [
+        {
+          "label": "NetApp Q4 Release",
+          "url": "https://www.stocktitan.net/news/NTAP/net-app-reports-fourth-quarter-and-fiscal-year-2026-oa7xfej0lpro.html"
+        },
+        {
+          "label": "Q4 Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-q4-2026-earnings-232717350.html"
+        },
+        {
+          "label": "NTAP Quote",
+          "url": "https://finance.yahoo.com/quote/NTAP/"
+        },
+        {
+          "label": "Q4 Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/05/28/netapp-ntap-q4-2026-earnings-transcript/"
+        }
+      ],
+      "explainer": {
+        "tagline": "NetApp's record Q4 and a clean FY27 guide reads as the AI-storage spend cycle finally hitting its P&L — and the stock pops ~10% after-hours.",
+        "whatIsIt": "NetApp reported fourth-quarter and full-year fiscal 2026 results after the close on Thursday May 28 for the period ended April 24. Q4 net revenues were $1.95B (+12% Y/Y), non-GAAP EPS $2.43 (+26%) and GAAP EPS $2.03 (+23%) — beats versus ~$1.87B / $2.27 consensus. FY26 revenue was a record $6.93B (+5%).",
+        "howItWorks": "All-flash array revenue hit a record $1.2B in Q4 (+18% Y/Y) and Public Cloud reached a record $182M (+11%). FY26 billings were $7.21B (+6%) and NetApp returned $1.36B to shareholders during the year via buybacks and dividends. FY27 guidance: revenue $7.325–$7.575B, non-GAAP EPS $8.70–$9.00, and Q1 FY27 non-GAAP EPS $2.05–$2.15. CEO George Kurian framed the print as 'record results across revenue, gross profit, operating income, cash flow.'",
+        "whyItMatters": "NTAP is the cleanest pure-play public read on AI-related enterprise storage demand; the all-flash acceleration to +18% and the FY27 guide above Street (~$7.3B at the low end vs ~$7.2B consensus) signals the AI-data-pipeline capex is now flowing past the GPU shelf. Read-through to PSTG, DELL Storage and the AI-data-fabric stack. NTAP closed +10% AH to $157.31 area.",
+        "forWho": "enterprise-IT and AI-infrastructure desks",
+        "tryIt": "https://finance.yahoo.com/quote/NTAP/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/NetApp_Reports_Fourth_Quarter_and_Fiscal_Year_2026_Results_1063963.webp",
+        "alt": "NetApp Q4 FY26 earnings cover graphic",
+        "fit": "cover",
+        "credit": "NetApp / StockTitan"
+      },
+      "publishDate": "2026-05-29T00:35:28.341Z"
+    },
+    {
+      "id": "snps-q2-fy26-earnings-may-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Synopsys Q2 FY26 — revenue $2.276B (+42% Y/Y) and non-GAAP EPS $3.35 beat, FY26 guide lifted to $9.665B / $14.76 EPS midpoint — but Design IP -6% and Ansys integration jitters drag SNPS -9.1%",
+      "org": "Synopsys",
+      "date": "2026-05-27",
+      "url": "https://news.synopsys.com/2026-05-27-Synopsys-Posts-Financial-Results-for-Second-Quarter-Fiscal-Year-2026",
+      "summary": "Synopsys Q2 FY26 — Q2 revenue $2.276B (+42% Y/Y) and non-GAAP EPS $3.35 beat ~$2.252B / $3.15 est; FY26 guide raised to $9.625–$9.705B revenue and $14.72–$14.80 non-GAAP EPS; Design IP -6% Y/Y on Processor IP wind-down and Ansys integration worries — SNPS -9.11% on May 28.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q2-fy26",
+        "eda",
+        "design-ip",
+        "ansys",
+        "semis-tools"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SNPS",
+        "CDNS"
+      ],
+      "metrics": {
+        "Revenue": "$2.276B (+41.9% Y/Y)",
+        "GAAP EPS": "$0.09",
+        "Non-GAAP EPS": "$3.35 vs ~$3.15 est",
+        "Design Automation revenue": "$1.82B (+62% Y/Y)",
+        "Design IP revenue": "$454M (-6% Y/Y)",
+        "Ansys mix": "~28.7% of total revenue",
+        "FY26 revenue guide": "$9.625B–$9.705B (raised from $9.56–$9.66B)",
+        "FY26 non-GAAP EPS guide": "$14.72–$14.80 (raised from $14.38–$14.46)",
+        "Q3 revenue guide": "$2.41B–$2.44B",
+        "Q3 non-GAAP EPS guide": "$3.63–$3.69",
+        "Move": "-9.11% (May 28)"
+      },
+      "links": [
+        {
+          "label": "Synopsys Q2 Release",
+          "url": "https://news.synopsys.com/2026-05-27-Synopsys-Posts-Financial-Results-for-Second-Quarter-Fiscal-Year-2026"
+        },
+        {
+          "label": "Globe & Mail Coverage",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/CLS/pressreleases/2180413/synopsys-q2-earnings-surpass-estimates-revenues-rise-yy/"
+        },
+        {
+          "label": "Stock Reaction",
+          "url": "https://www.tradingkey.com/news/market-movers/261934299-market-movers-snps-20260528"
+        },
+        {
+          "label": "SNPS Quote",
+          "url": "https://finance.yahoo.com/quote/SNPS/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Synopsys raises FY26 guidance but the Design IP business shrinks year-over-year and Ansys integration questions still drive a 9% post-print selloff.",
+        "whatIsIt": "Synopsys reported second-quarter fiscal 2026 results after the close on Tuesday May 27 for the quarter ended April 30. Q2 revenue was $2.276B (+41.9% Y/Y, ahead of guidance), non-GAAP EPS $3.35 (vs ~$3.15 consensus), and GAAP diluted EPS $0.09 reflecting Ansys deal amortization. Full-year FY26 guidance was raised on both revenue ($9.625–$9.705B vs prior $9.56–$9.66B) and non-GAAP EPS ($14.72–$14.80 vs prior $14.38–$14.46).",
+        "howItWorks": "Design Automation revenue was $1.82B (+62% Y/Y) and is now ~80% of mix as Ansys (acquired July 2025) contributes ~28.7% of total revenue. Design IP revenue, in contrast, was $454M (-6% Y/Y), pressured by the impending divestiture of the Processor IP Solutions business and AI-customer concentration in the rest of the segment. Q3 guidance: $2.41–$2.44B revenue and $3.63–$3.69 non-GAAP EPS.",
+        "whyItMatters": "SNPS is one of the two front-end EDA names that any AI-chip story passes through, and the stock had run hard into the print on a ~75x P/E. The beat-and-raise wasn't enough: the -6% Design IP decline plus ongoing Ansys-integration questions sent SNPS -9.11% on May 28 even as the rest of tech tagged fresh records. The read for Cadence is mixed — Design Automation acceleration helps; IP softness is harder to dismiss.",
+        "forWho": "semis-tools and AI-chip desks",
+        "tryIt": "https://finance.yahoo.com/quote/SNPS/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2204781/Synopsys_headquarters.jpg?p=facebook",
+        "alt": "Synopsys headquarters building",
+        "fit": "cover",
+        "credit": "Synopsys / PR Newswire"
+      },
+      "publishDate": "2026-05-29T00:35:28.341Z"
+    },
     {
       "id": "us-pce-april-2026",
       "categories": [
