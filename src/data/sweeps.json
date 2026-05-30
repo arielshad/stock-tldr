@@ -3792,6 +3792,51 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260530t123125z",
+      "timestamp": "2026-05-30T12:31:25.642Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh items from the May 28 after-close prints + the May 29 session: Okta's Q1 FY27 beat-and-raise with a +30% session, Ambarella's in-line Q1 punished -22% on a Summit downgrade, Burlington's beat-and-raise selling off -8% as a comp-decel tell, and the AST SpaceMobile -15% rout after Blue Origin's New Glenn explodes on Cape Canaveral's only operational pad.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "okta-q1-fy27-earnings-may-28-2026",
+          "title": "Okta Q1 FY27 — revenue $765M (+11% Y/Y) and non-GAAP EPS $0.91 beat ($0.85 est), cRPO $2.499B (+12%) and RPO $4.719B (+16%); FY27 revenue guide raised to $3.185–$3.205B with FCF margin 27–28%; OKTA +30.43% to $123.54 record close",
+          "category": "earnings",
+          "note": "Major beat-and-raise with FCF margin lift and a 30.43% Friday session for OKTA; agentic-AI identity narrative reframes the bear case."
+        },
+        {
+          "id": "amba-q1-fy27-earnings-may-28-2026",
+          "title": "Ambarella Q1 FY27 — revenue $100.4M (+16.9% Y/Y) and non-GAAP EPS $0.11 in line, but Q2 guide $105–$111M only matches consensus and Summit Insights downgrades to Hold on 2H supply-chain risk; AMBA -21.8% to $71.84",
+          "category": "earnings",
+          "note": "AMBA -21.8% as the in-line Q2 guide + Summit Insights downgrade + DRAM-cost commentary repriced an extended edge-AI runup."
+        },
+        {
+          "id": "burl-q1-fy26-earnings-may-28-2026",
+          "title": "Burlington Stores Q1 FY26 — net sales $2.85B (+14% Y/Y) and comp +6% blow past 2–4% guide; adj EPS $2.10 (+26%) beats $1.80 est; raises FY26 sales growth to 9–11% and adj EPS to $11.45–$11.80 — but BURL -7.9% on sell-the-news",
+          "category": "earnings",
+          "note": "Off-price beat-and-raise that fell ~8% on sell-the-news; comp deceleration into Q2 is the read-through to TJX/ROST."
+        },
+        {
+          "id": "asts-blue-origin-explosion-mover-may-29-2026",
+          "title": "AST SpaceMobile -14.79% to $113.41 on May 29 — Blue Origin's New Glenn rocket explodes on Cape Canaveral pad during static-fire test, raising delay fears for the 45-satellite BlueBird rollout; Deutsche Bank downgrades to $106 PT",
+          "category": "mover",
+          "note": "ASTS -14.79% on heavy volume; Blue Origin's only New Glenn pad damaged, Deutsche Bank PT cut to $106, broad space-sector sympathy losses."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro"
+      ]
     }
   ]
 }
