@@ -1,8 +1,203 @@
 {
-  "generatedAt": "2026-05-29T13:13:56.167Z",
+  "generatedAt": "2026-05-30T00:31:46.349Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hpe-dell-sympathy-rally-may-29-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Hewlett Packard Enterprise +12.6% to $43.04 on May 29 — Dell's blowout AI-server Q1 sparks sympathy rally; volume 86.1M shares (260% above 3-mo avg) ahead of HPE Q2 print Monday",
+      "org": "Hewlett Packard Enterprise",
+      "date": "2026-05-29",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/29/stock-market-today-may-29-hewlett-packard-enterprise-surges-after-dell-ai-server-results-spark-sector-rally/",
+      "summary": "HPE closes +12.64% at $43.04 on May 29 after Dell's Q1 AI-server beat — analysts call AI demand a 'tide that lifts all boats'; HPE reports Q2 Monday with Street looking for +28% revenue growth.",
+      "tags": [
+        "mover",
+        "ai-servers",
+        "ai-infrastructure",
+        "sympathy-move",
+        "earnings-readthrough",
+        "data-center"
+      ],
+      "tickers": [
+        "HPE",
+        "DELL"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Close": "$43.04",
+        "Move": "+12.64%",
+        "Volume": "86.1M (260% above 3-mo avg)",
+        "Dell move": "+32.76%",
+        "NetApp move": "+22.39%"
+      },
+      "explainer": {
+        "tagline": "HPE jumps 12.64% as Dell's $16.1B AI-server quarter and $51B backlog pull every server peer along into Friday's close.",
+        "whatIsIt": "Hewlett Packard Enterprise rallied 12.64% to $43.04 on Friday May 29 — its largest single-day move in months — on no HPE-specific news. The catalyst is Dell's Q1 FY27 report Thursday after the close, which showed AI-optimized server revenue of $16.1B (+757% Y/Y) and a $24.4B order backlog. HPE is the next-biggest pure-play AI server vendor and reports Q2 results after Monday's close.",
+        "howItWorks": "Volume hit 86.1M shares, roughly 260% of the three-month average. The move tracks a sector-wide AI-infrastructure read-through: Dell finished +32.76% at $420.91 and NetApp +22.39% at $174.29 on the same trade. Analysts framed Dell's blowout as 'a tide that lifts all boats' rather than evidence that Dell is taking AI-server share from HPE.",
+        "whyItMatters": "HPE Q2 consensus is for revenue +28% Y/Y, and the Street is now pricing in that the Dell read-through carries through to the HPE print. If HPE's AI-server orders or Juniper integration disappoint Monday, the Friday gap is the first thing that fades. If they confirm the trend, the AI-server complex (DELL, HPE, SMCI, ANET) re-rates again.",
+        "forWho": "AI-infrastructure traders, semis desks, Q2 earnings positioning.",
+        "tryIt": "https://finance.yahoo.com/quote/HPE/"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "alt": "Hewlett Packard Enterprise stock rallying with AI-server infrastructure peers",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/05/29/stock-market-today-may-29-hewlett-packard-enterprise-surges-after-dell-ai-server-results-spark-sector-rally/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-may-29-210515260.html"
+        },
+        {
+          "label": "StockStory Note",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-29-hewlett-packard-enterprise-hpe-stock-trades-up-here-is-why"
+        },
+        {
+          "label": "HPE Chart",
+          "url": "https://finance.yahoo.com/quote/HPE/"
+        }
+      ],
+      "publishDate": "2026-05-30T00:31:46.349Z"
+    },
+    {
+      "id": "gap-q1-fy26-earnings-may-28-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Gap Inc Q1 FY26 — net sales $3.5B (+1% Y/Y) and adj EPS $0.38 with ninth straight quarter of positive comps (+2%); Gap brand +10% comp drives a raised FY26 adj EPS outlook of $2.30–$2.40",
+      "org": "Gap Inc.",
+      "date": "2026-05-28",
+      "url": "https://www.prnewswire.com/news-releases/gap-inc-reports-first-quarter-fiscal-2026-results-raises-full-year-earnings-per-share-outlook-302784958.html",
+      "summary": "Gap delivers Q1 FY26 net sales $3.5B (+1%), comp +2% (ninth straight positive quarter), and adj EPS $0.38; Gap brand comp +10% offsets Athleta -11%; FY26 adj EPS guide lifted to $2.30–$2.40.",
+      "tags": [
+        "earnings",
+        "retail",
+        "apparel",
+        "comp-sales",
+        "q1-2026",
+        "raises-guide",
+        "old-navy",
+        "athleta"
+      ],
+      "tickers": [
+        "GAP"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Net Sales": "$3.50B (+1% Y/Y)",
+        "Comp Sales": "+2% (9th straight +)",
+        "Adj EPS": "$0.38",
+        "Diluted EPS": "$0.90",
+        "Gross margin": "40.5%",
+        "FY26 Adj EPS guide": "$2.30–$2.40 (raised)",
+        "Gap brand comp": "+10%",
+        "Old Navy comp": "+1%",
+        "Banana Republic comp": "+2%",
+        "Athleta comp": "-11%"
+      },
+      "explainer": {
+        "tagline": "Ninth straight quarter of positive comps and a raised FY26 EPS outlook — Gap brand's +10% comp masks Athleta's continuing slide.",
+        "whatIsIt": "Gap Inc reported Q1 FY26 on May 28 after the close. Net sales $3.5B (+1% Y/Y), comparable sales +2% across the portfolio, GAAP diluted EPS $0.90, and adjusted EPS $0.38. Management lifted the full-year adjusted EPS range to $2.30–$2.40 and reported gross margin of 40.5%.",
+        "howItWorks": "Brand mix: Gap brand comp +10% (one of its strongest quarters in over two decades), Banana Republic +2%, Old Navy +1%, Athleta -11%. The +2% blended comp marks Gap Inc's ninth consecutive quarter of positive comparable sales. Gross margin of 40.5% exceeded prior outlook, helping fund the raised FY26 EPS midpoint.",
+        "whyItMatters": "Confirms that the Gap-brand turnaround under Richard Dickson is still compounding while Athleta keeps shrinking. Reads positively for off-price/value-skewed apparel (ROST, TJX already reported strong Q1s) and negatively for the premium-athletic complex where Athleta competes (LULU, Vuori private).",
+        "forWho": "Apparel-retail equity desks, consumer discretionary PMs.",
+        "tryIt": "https://finance.yahoo.com/quote/GAP/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2070126/Gap_Inc_v2.jpg?p=facebook",
+        "alt": "Gap Inc corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q1 Press Release",
+          "url": "https://www.prnewswire.com/news-releases/gap-inc-reports-first-quarter-fiscal-2026-results-raises-full-year-earnings-per-share-outlook-302784958.html"
+        },
+        {
+          "label": "Q1 Earnings PDF",
+          "url": "https://s204.q4cdn.com/320226404/files/doc_financials/2026/q1/Gap-Inc-Q1-2026-Earnings-Press-Release.pdf"
+        },
+        {
+          "label": "8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000039911/000162828026038825/q12026eprexhibit991.htm"
+        },
+        {
+          "label": "GAP Chart",
+          "url": "https://finance.yahoo.com/quote/GAP/"
+        }
+      ],
+      "publishDate": "2026-05-30T00:31:46.349Z"
+    },
+    {
+      "id": "us-iran-60day-truce-tentative-may-29-2026",
+      "categories": [
+        "macro",
+        "rumor",
+        "commodity"
+      ],
+      "title": "Reportedly: U.S. and Iran reach tentative 60-day truce extension and Strait of Hormuz reopening framework on May 29 — Trump 'final determination' pending from Situation Room; Brent -1.4% to $91.37, WTI -2% to ~$87 (6-week low)",
+      "org": "Bloomberg",
+      "date": "2026-05-29",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know",
+      "summary": "Tentative U.S.-Iran MoU extends ceasefire 60 days and restores unrestricted Strait of Hormuz shipping; Trump heads to Situation Room for 'final determination' Friday; Brent settles -1.4% at $91.37, WTI -2% near 6-week low.",
+      "tags": [
+        "rumor",
+        "iran",
+        "ceasefire",
+        "hormuz",
+        "oil",
+        "brent",
+        "wti",
+        "geopolitics"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Brent": "$91.37 (-1.43%)",
+        "WTI": "~$87.20 (-2%, 6-wk low)",
+        "WTI May MTD": "-17%",
+        "Ceasefire extension": "60 days",
+        "Strait of Hormuz": "Reopening conditional"
+      },
+      "explainer": {
+        "tagline": "Negotiators land a 60-day ceasefire extension + Hormuz-reopening MoU; markets price an oil-supply unfreeze before Trump signs.",
+        "whatIsIt": "Bloomberg, Al Jazeera and others reported May 29 that U.S. and Iranian negotiators reached a memorandum of understanding to extend the current ceasefire by 60 days and restore unrestricted shipping through the Strait of Hormuz, which has been effectively shut since February 28. President Trump posted Friday that he was heading to the Situation Room for a 'final determination,' but Iranian state media said the text is not yet finalized.",
+        "howItWorks": "The MoU framework: (1) ceasefire extended 60 days from Friday; (2) follow-on nuclear talks during the 60-day window; (3) Hormuz reopening with 'no tolls' for unrestricted shipping traffic. Trump's stated conditions are that Iran 'never have a Nuclear Weapon or Bomb' and the Strait reopens 'immediately.' No signed text as of Friday close.",
+        "whyItMatters": "Oil priced the headline aggressively: Brent settled $91.37 (-1.43%) and WTI fell about 2% to ~$87.20 — the lowest in roughly six weeks and on track for a ~17% May decline. About a fifth of global oil and LNG flows transit Hormuz, so confirmation would compress the supply premium further. A Trump rejection or Iranian walk-back snaps the move; this is a setup-driven trade, not a fact-yet.",
+        "forWho": "Energy desks, EM/petro-FX, defense names, geopolitical risk overlays.",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F/"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a19452c4b-1780041004.jpg?resize=1920%2C1440",
+        "alt": "U.S. and Iranian negotiators after reaching tentative 60-day truce extension framework",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera Explainer",
+          "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know"
+        },
+        {
+          "label": "Al Jazeera Live",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan"
+        },
+        {
+          "label": "Business Today",
+          "url": "https://www.businesstoday.in/world/story/60-day-ceasefire-extension-hormuz-to-reopen-us-iran-truce-deal-taking-shape-but-trump-yet-to-sign-off-533793-2026-05-29"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F/"
+        }
+      ],
+      "publishDate": "2026-05-30T00:31:46.349Z"
+    },
     {
       "id": "a-q2-fy26-earnings-may-28-2026",
       "categories": [

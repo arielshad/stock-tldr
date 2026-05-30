@@ -3748,6 +3748,50 @@
         "analyst",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260530t003146z",
+      "timestamp": "2026-05-30T00:31:46.349Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds on the May 30 sweep: HPE's +12.6% sympathy rally to Dell's Q1 AI-server blowout, Gap Inc Q1 FY26 (raises FY EPS guide), and the tentative U.S.-Iran 60-day truce extension and Hormuz reopening MoU awaiting Trump signoff (oil prints 6-week low). Existing Dell, NetApp, Costco earnings already covered the May 28 prints semantically.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hpe-dell-sympathy-rally-may-29-2026",
+          "title": "Hewlett Packard Enterprise +12.6% to $43.04 on May 29 — Dell's blowout AI-server Q1 sparks sympathy rally; volume 86.1M shares (260% above 3-mo avg) ahead of HPE Q2 print Monday",
+          "category": "mover",
+          "note": "Single-name +12.64% on volume 260% of avg with named catalyst (Dell read-through); HPE Q2 lands Monday so the move is forward-looking."
+        },
+        {
+          "id": "gap-q1-fy26-earnings-may-28-2026",
+          "title": "Gap Inc Q1 FY26 — net sales $3.5B (+1% Y/Y) and adj EPS $0.38 with ninth straight quarter of positive comps (+2%); Gap brand +10% comp drives a raised FY26 adj EPS outlook of $2.30–$2.40",
+          "category": "earnings",
+          "note": "Ninth-straight positive comp and a raised FY26 EPS guide; clean apparel-retail earnings print not yet in the feed."
+        },
+        {
+          "id": "us-iran-60day-truce-tentative-may-29-2026",
+          "title": "Reportedly: U.S. and Iran reach tentative 60-day truce extension and Strait of Hormuz reopening framework on May 29 — Trump 'final determination' pending from Situation Room; Brent -1.4% to $91.37, WTI -2% to ~$87 (6-week low)",
+          "category": "macro",
+          "note": "Rumor-framed because Trump has not signed; tier-1 Bloomberg + Al Jazeera coverage, drove WTI to a 6-week low and Brent -1.4%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "rumor",
+        "ipo",
+        "analyst",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }
