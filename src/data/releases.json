@@ -1,8 +1,213 @@
 {
-  "generatedAt": "2026-05-30T12:31:25.642Z",
+  "generatedAt": "2026-05-31T00:35:07.598Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "sp500-9week-dow-51k-may-29-2026",
+      "categories": [
+        "sector",
+        "macro"
+      ],
+      "title": "S&P 500 logs ninth straight weekly gain — longest streak since 2023 — as Dow closes above 51,000 for first time ever on May 29",
+      "org": "U.S. equity markets",
+      "date": "2026-05-29",
+      "url": "https://finance.yahoo.com/markets/live/dow-nasdaq-sp-gain-stock-market-today-friday-may-29-222720284.html",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "summary": "U.S. equity benchmarks cap May at fresh records: Dow +0.72% to 51,032.46 (first close above 51,000 ever), S&P 500 +0.22% to 7,580.06 (9th straight weekly gain — longest since 2023), Nasdaq +0.20% to 26,972.62. Dell +33% on AI-server blowout leads the rally as Trump signals a 'final determination' on the Iran ceasefire.",
+      "tags": [
+        "sp500",
+        "dow",
+        "nasdaq",
+        "record-high",
+        "weekly-streak",
+        "monthly-cap",
+        "ai-rally",
+        "iran-deal",
+        "dell",
+        "may-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Dow Jones": "51,032.46 (+0.72%)",
+        "S&P 500": "7,580.06 (+0.22%)",
+        "Nasdaq Composite": "26,972.62 (+0.20%)",
+        "S&P streak": "9 weeks (longest since 2023)",
+        "May (Nasdaq)": "+8%",
+        "May (S&P 500)": "+5%",
+        "May (Dow)": "+3%"
+      },
+      "explainer": {
+        "tagline": "The Dow tops 51,000 for the first time and the S&P 500 notches its ninth straight weekly gain to close May at record highs across all three majors.",
+        "whatIsIt": "U.S. equity benchmarks finished Friday May 29 at fresh records to wrap up an eighth straight winning month for the Nasdaq and a ninth straight winning week for the S&P 500. The Dow Jones Industrial Average added 363.49 points (+0.72%) to 51,032.46 — the first close above 51,000 in its history. The S&P 500 added 0.22% to 7,580.06, and the Nasdaq Composite ticked up 0.20% to 26,972.62. U.S. markets are closed Monday June 1 only if a holiday applies; June trading resumes Monday June 2.",
+        "howItWorks": "The nine-week S&P 500 streak is its longest since 2023; the Nasdaq's May gain of roughly 8% was its strongest month of 2026. Friday's headline driver was Dell Technologies, which surged about 33% after its Thursday-night AI-server blowout and raised FY27 revenue guide of $165–$169B with $60B in AI servers. HPE +12% and SMCI traded sympathetically. Costco slipped about 0.85% after Wednesday's Q3 print and a 4.6% intraday drawdown on margin compression. President Trump's late-day Truth Social post that he would make a 'final determination' on an Iran ceasefire after a Situation Room meeting added a geopolitical tailwind into the close.",
+        "whyItMatters": "Three-record-high closes on the same day, with a Dow that has now added more than 450 points in nine of the past forty trading sessions, signal that the AI-capex bid is still the dominant marginal flow and that the falling Iran-war risk premium is now priced into long-only books. The breadth question remains live: small caps (Russell 2000 -0.55% Friday) lagged again. Watch this week's ISM Manufacturing print (Monday June 2) and the May payrolls report (Friday June 6) as the next macro tests of the rally.",
+        "forWho": "macro traders, index investors, allocators tracking risk regimes",
+        "tryIt": "https://finance.yahoo.com/quote/%5EDJI"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/1UhIjuHz5EpP8EyLsvwa4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/eb56e462-7425-4a2b-91d9-d3991f32b632",
+        "alt": "Trader on the New York Stock Exchange floor on May 29, 2026 as the Dow closes above 51,000 for the first time",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Reuters"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/live/dow-nasdaq-sp-gain-stock-market-today-friday-may-29-222720284.html"
+        },
+        {
+          "label": "Dow Chart",
+          "url": "https://finance.yahoo.com/quote/%5EDJI"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "Nasdaq Chart",
+          "url": "https://finance.yahoo.com/quote/%5EIXIC"
+        }
+      ],
+      "publishDate": "2026-05-31T00:35:07.598Z"
+    },
+    {
+      "id": "btc-etf-record-9day-outflow-may-29-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "Spot Bitcoin ETFs notch record nine-day outflow streak — longest since January 2024 launch — as investors pull $2.8B through May 29",
+      "org": "U.S. spot Bitcoin ETF complex",
+      "date": "2026-05-29",
+      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+      "tickers": [
+        "BTC-USD",
+        "IBIT",
+        "FBTC"
+      ],
+      "summary": "U.S. spot bitcoin ETFs posted net outflows for a ninth consecutive trading day through May 29, the longest negative streak since the funds launched in January 2024. Investors withdrew roughly $2.8B over the run, including a record single-day outflow from BlackRock's IBIT this week tied to a $1.29B dark-pool block.",
+      "tags": [
+        "bitcoin",
+        "spot-etf",
+        "ibit",
+        "fbtc",
+        "etf-flows",
+        "outflow-record",
+        "institutional-deleveraging",
+        "may-2026"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Streak": "9 days (longest since Jan-2024 launch)",
+        "Total outflows": "-$2.8B",
+        "Weekly outflows": "~-$1.3B",
+        "Monthly outflows": "~-$2.3B",
+        "BTC price range": "~$80K -> ~$73K"
+      },
+      "explainer": {
+        "tagline": "Nine straight sessions of net selling pulled $2.8B from U.S. spot bitcoin ETFs — the longest outflow streak in their 16-month history.",
+        "whatIsIt": "U.S.-listed spot bitcoin ETFs recorded net outflows in each of the nine trading sessions ending Thursday May 29, totalling roughly $2.8 billion. CoinDesk and Farside Investors flag this as the longest negative streak since the funds began trading in January 2024 — eclipsing the prior six-day record set in late January and the six-day run flagged on May 22.",
+        "howItWorks": "BlackRock's iShares Bitcoin Trust (IBIT) posted its largest single-day outflow since launch earlier in the streak, driven by a $1.29B dark-pool block trade. Weekly outflows ran about $1.3B, with monthly outflows for May totalling roughly $2.3B. Bitcoin's spot price slid from about $80,000 at the start of the streak to about $73,000 by late in the run before recovering modestly. The May 22 spot-ether ETF outflow streak (10 sessions) extended further into the week as well.",
+        "whyItMatters": "ETF flows are the cleanest read on incremental U.S. institutional crypto demand. A record streak at this magnitude signals allocators are rotating into the AI-equity rally and away from beta crypto — bitcoin's 2026 YTD return is now about -11%, lagging the Nasdaq's +20%-plus. Counter-read from CoinDesk: prior multi-week outflow runs in February and November coincided with local price bottoms before institutional flows turned positive again.",
+        "forWho": "crypto allocators, ETF-flow watchers, macro desks reading risk-off rotation",
+        "tryIt": "https://farside.co.uk/btc/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/1280px-Bitcoin_logo.svg.png",
+        "alt": "Bitcoin logo as U.S. spot BTC ETFs post a record nine-day outflow streak ending May 29, 2026",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CoinDesk Report",
+          "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion"
+        },
+        {
+          "label": "Farside BTC ETF Flows",
+          "url": "https://farside.co.uk/btc/"
+        },
+        {
+          "label": "IBIT Quote",
+          "url": "https://finance.yahoo.com/quote/IBIT/"
+        }
+      ],
+      "publishDate": "2026-05-31T00:35:07.598Z"
+    },
+    {
+      "id": "bke-q1-fy26-earnings-may-29-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Buckle Q1 FY26 — net sales $288.7M (+6.1% Y/Y) and EPS $0.92 beat ($0.74 est) helped by $19.1M interchange settlement; comps +5.1% but BKE -5.84% to $47.70 as gross margin slips 50bp on tariffs",
+      "org": "The Buckle, Inc.",
+      "date": "2026-05-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000885245/000088524526000025/bke20260529-8kexhibit.htm",
+      "tickers": [
+        "BKE"
+      ],
+      "summary": "Buckle Q1 FY26 — net sales $288.7M (+6.1% Y/Y) beat $287.7M est, diluted EPS $0.92 trounces $0.74 est on a $19.1M interchange-fee litigation settlement boost; comp store sales +5.1% and online +2.8%. Gross margin slipped 50bp to 46.2% on tariffs and occupancy costs; BKE -5.84% to $47.70 on the day.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "comp-sales",
+        "q1-fy26",
+        "specialty-retail",
+        "tariff-pressure",
+        "interchange-settlement",
+        "small-cap",
+        "denim"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$288.7M (+6.1% Y/Y)",
+        "Diluted EPS": "$0.92 vs $0.74 est",
+        "Comp sales": "+5.1%",
+        "Online sales": "$47.7M (+2.8%)",
+        "Gross margin": "46.2% (-50bp Y/Y)",
+        "Interchange settlement": "$19.1M (selling-expense reduction)",
+        "Store count": "442 in 42 states",
+        "Move": "-5.84% to $47.70"
+      },
+      "explainer": {
+        "tagline": "Buckle beats Q1 on a one-time interchange settlement, but tariffs and occupancy chip 50bp from gross margin and the stock falls 5.8% on the print.",
+        "whatIsIt": "The Buckle, Inc. — the Nebraska-based denim and casual-apparel chain — reported first quarter fiscal 2026 results before the open on Friday May 29. Net sales for the 13-week quarter ended May 2, 2026 rose 6.1% to $288.7 million from $272.1 million a year earlier. Basic EPS came in at $0.93 and diluted EPS at $0.92, up from $0.70 last year. Comparable store net sales rose 5.1% and online sales grew 2.8% to $47.7 million.",
+        "howItWorks": "The headline EPS beat versus the $0.74 consensus was meaningfully helped by a $19.1 million payment from interchange-fee litigation, recorded as a reduction of selling expense — without it, EPS would have been closer to consensus. Gross margin fell 50 basis points to 46.2% from 46.7% as higher occupancy and merchandise costs (including tariff impact) outpaced sales growth. Buckle ended the quarter with 442 stores across 42 states, up from 439 a year ago, and has since opened three more and closed one to reach 444. Strength was concentrated in women's and kids' apparel; menswear lagged.",
+        "whyItMatters": "Even with the interchange windfall, the 50bp gross-margin slip frames a clear read for small/mid-cap specialty retail: tariff cost is still leaking through despite the May 13 FCC EchoStar / IEEPA-refund tailwinds, and 2026 store-expansion overhead is being absorbed unevenly. Pair the BKE reaction with Friday's Genesco beat-and-stock-up and Dick's Sporting Goods' tariff-driven 281bp gross-margin hit from earlier in the week — the read across specialty retail this earnings cycle is comp resilience but margin compression.",
+        "forWho": "specialty-retail equity desks, small-cap value managers, retail-tariff trackers",
+        "tryIt": "https://finance.yahoo.com/quote/BKE/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/Buckle.jpeg",
+        "alt": "Buckle storefront as BKE shares fall 5.84% on Q1 FY26 earnings May 29 2026",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000885245/000088524526000025/bke20260529-8kexhibit.htm"
+        },
+        {
+          "label": "Benzinga Stock Reaction",
+          "url": "https://www.benzinga.com/markets/earnings/26/05/52877669/buckle-stock-falls-as-store-expansion-costs-weigh-on-margins"
+        },
+        {
+          "label": "Stocktitan 8-K Summary",
+          "url": "https://www.stocktitan.net/sec-filings/BKE/8-k-buckle-inc-reports-material-event-5f3465830f5a.html"
+        },
+        {
+          "label": "BKE Quote",
+          "url": "https://finance.yahoo.com/quote/BKE/"
+        }
+      ],
+      "publishDate": "2026-05-31T00:35:07.598Z"
+    },
     {
       "id": "okta-q1-fy27-earnings-may-28-2026",
       "categories": [

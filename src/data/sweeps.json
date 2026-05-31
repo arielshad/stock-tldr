@@ -3837,6 +3837,52 @@
         "sector",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260531t003507z",
+      "timestamp": "2026-05-31T00:35:07.598Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds covering the May 29 close: (1) Dow above 51,000 for the first time ever and the S&P 500's ninth straight weekly gain (longest since 2023); (2) record nine-day spot Bitcoin ETF outflow streak (-$2.8B) — longest since January 2024 launch; (3) Buckle Q1 FY26 — comp beat helped by a $19.1M interchange settlement but BKE -5.84% on tariff-driven margin compression. MongoDB Q1 FY27 was a clear miss in the prior sweep but date 2026-05-28 now falls outside the 72h cap.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "sp500-9week-dow-51k-may-29-2026",
+          "title": "S&P 500 logs ninth straight weekly gain — longest streak since 2023 — as Dow closes above 51,000 for first time ever on May 29",
+          "category": "sector",
+          "note": "Distinct milestone vs May 22 entry: 9-week streak (vs 8-week), Dow 51K first-ever close (vs prior 50,580 record), end-of-month cap."
+        },
+        {
+          "id": "btc-etf-record-9day-outflow-may-29-2026",
+          "title": "Spot Bitcoin ETFs notch record nine-day outflow streak — longest since January 2024 launch — as investors pull $2.8B through May 29",
+          "category": "crypto",
+          "note": "Distinct from May 22 entry: 9-day record streak (vs 6-day) and $2.8B (vs $1.26B), longest since Jan 2024 launch."
+        },
+        {
+          "id": "bke-q1-fy26-earnings-may-29-2026",
+          "title": "Buckle Q1 FY26 — net sales $288.7M (+6.1% Y/Y) and EPS $0.92 beat ($0.74 est) helped by $19.1M interchange settlement; comps +5.1% but BKE -5.84% to $47.70 as gross margin slips 50bp on tariffs",
+          "category": "earnings",
+          "note": "Notable tier — small-cap retail with named catalyst (margin compression from tariffs + occupancy). Move of -5.84% qualifies under inclusion bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "sector",
+        "crypto",
+        "earnings",
+        "mover",
+        "mna",
+        "ipo",
+        "commodity",
+        "rates",
+        "article",
+        "video"
+      ]
     }
   ]
 }
