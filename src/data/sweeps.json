@@ -3883,6 +3883,36 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260531t122903z",
+      "timestamp": "2026-05-31T12:29:03.010Z",
+      "source": "github-actions-sweep",
+      "summary": "Added China's official May 2026 NBS PMI release (manufacturing 50.0 at the expansion threshold, non-manufacturing 50.1 beats) — the standout primary-source macro print this weekend. Scanned weekend Iran/Hormuz developments (no new material event since May 29 framework that is already in the feed), Hegseth's Shangri-La Dialogue remarks (policy commentary, not directly market-moving), and Friday earnings/M&A — nothing else cleared the bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "china-may-2026-pmi",
+          "title": "China May 2026 official PMI — manufacturing slips to 50.0 from 50.3 right at expansion threshold (50.0 est); non-manufacturing 50.1 beats 49.5 consensus as services hold up",
+          "category": "macro",
+          "note": "Fresh primary-source release on May 31; manufacturing at 50.0 threshold and services beat are pre-Monday-open macro catalysts for Asia equities, CNY and commodities."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "mna",
+        "commodity",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

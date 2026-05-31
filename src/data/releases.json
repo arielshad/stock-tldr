@@ -1,8 +1,82 @@
 {
-  "generatedAt": "2026-05-31T00:35:07.598Z",
+  "generatedAt": "2026-05-31T12:29:03.010Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "china-may-2026-pmi",
+      "categories": [
+        "macro"
+      ],
+      "title": "China May 2026 official PMI — manufacturing slips to 50.0 from 50.3 right at expansion threshold (50.0 est); non-manufacturing 50.1 beats 49.5 consensus as services hold up",
+      "org": "National Bureau of Statistics of China",
+      "date": "2026-05-31",
+      "url": "https://english.news.cn/20260531/7be1c632781e4cd29dee051b56b6ece1/c.html",
+      "summary": "China May NBS manufacturing PMI prints 50.0 (vs 50.0 est, 50.3 prior) — production sub-index 51.2 but new orders 49.9 signal softening demand. Non-manufacturing PMI 50.1 tops 49.5 est.",
+      "tags": [
+        "china",
+        "pmi",
+        "manufacturing",
+        "services",
+        "nbs",
+        "may-2026",
+        "macro-data",
+        "asia",
+        "yuan",
+        "cny"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Manufacturing PMI": "50.0 (vs 50.0 est, 50.3 prior)",
+        "Non-Manufacturing PMI": "50.1 (vs 49.5 est, 50.4 prior)",
+        "Production sub-index": "51.2",
+        "New orders sub-index": "49.9",
+        "High-tech manufacturing PMI": "52.9 (+0.7)",
+        "Equipment manufacturing PMI": "52.1 (+0.3)",
+        "Large enterprises PMI": "51.1 (+0.9)"
+      },
+      "explainer": {
+        "tagline": "China's official factory gauge falls to the 50.0 expansion-contraction line in May — services hold up at 50.1",
+        "whatIsIt": "The National Bureau of Statistics released its May 2026 PMI prints at 09:30 Beijing time on Saturday May 31. The official manufacturing PMI dropped 0.3 points to 50.0, matching the Reuters/Bloomberg consensus of 50.0 and sitting right at the threshold separating expansion from contraction. The official non-manufacturing/services gauge slipped to 50.1, but that beat the 49.5 consensus.",
+        "howItWorks": "Inside the manufacturing print, the production sub-index stayed firmly in expansion at 51.2 while new orders dipped to 49.9 — output is holding up but demand is softening. NBS chief statistician Huo Lihui flagged that high-tech manufacturing PMI hit 52.9 (+0.7) for a 16th straight month above 50 and equipment manufacturing held at 52.1 (+0.3); large enterprises rose 0.9 points to 51.1, while smaller firms remained the soft spot. The five-day public-holiday break and Middle-East-driven input-cost pressure both weighed.",
+        "whyItMatters": "China is the swing input for the global manufacturing cycle and the prints land before Monday's Asia open — CSI 300, Hang Seng, copper, iron ore and the offshore yuan all trade off the official PMIs. A 50.0 manufacturing print sustains the case for additional Beijing stimulus and pressures the 7.20-7.30 USD/CNY band; the services beat keeps a floor under consumption-linked names. Watch the Caixin manufacturing release next week for the private-sector cross-check.",
+        "forWho": "macro traders, Asia desks, commodity flows",
+        "tryIt": "https://www.stats.gov.cn/english/PressRelease/"
+      },
+      "image": {
+        "url": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-05-31/6fdb3be6-e92c-4d36-ac39-60dac934459d.jpeg",
+        "alt": "China manufacturing factory floor accompanying May 2026 NBS PMI release",
+        "fit": "cover",
+        "credit": "Global Times"
+      },
+      "links": [
+        {
+          "label": "Xinhua: PMI Drops to 50",
+          "url": "https://english.news.cn/20260531/7be1c632781e4cd29dee051b56b6ece1/c.html"
+        },
+        {
+          "label": "Xinhua Update",
+          "url": "https://english.news.cn/20260531/6bd881dd2d834120b12f3f37b02fd52b/c.html"
+        },
+        {
+          "label": "Global Times Coverage",
+          "url": "https://www.globaltimes.cn/page/202605/1362355.shtml"
+        },
+        {
+          "label": "FXStreet Manufacturing",
+          "url": "https://www.fxstreet.com/news/china-nbs-manufacturing-pmi-meets-forecasts-50-in-may-202605310130"
+        },
+        {
+          "label": "FXStreet Services",
+          "url": "https://www.fxstreet.com/news/china-nbs-non-manufacturing-pmi-came-in-at-501-above-forecasts-495-in-may-202605310130"
+        },
+        {
+          "label": "NBS Press Releases",
+          "url": "https://www.stats.gov.cn/english/PressRelease/"
+        }
+      ],
+      "publishDate": "2026-05-31T12:29:03.010Z"
+    },
     {
       "id": "sp500-9week-dow-51k-may-29-2026",
       "categories": [
