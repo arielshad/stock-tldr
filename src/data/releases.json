@@ -1,8 +1,287 @@
 {
-  "generatedAt": "2026-06-01T00:32:31.829Z",
+  "generatedAt": "2026-06-01T14:02:10.820Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "berkshire-tmhc-acquisition-may-31-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Berkshire Hathaway to acquire Taylor Morrison Home for $6.8B equity / $8.5B enterprise value all-cash on May 31 — $72.50/share (24% premium to May 29 close); TMHC +~22% Monday June 1",
+      "org": "Berkshire Hathaway",
+      "date": "2026-05-31",
+      "url": "https://www.prnewswire.com/news-releases/berkshire-hathaway-to-acquire-taylor-morrison-home-corporation-for-8-5-billion-302786507.html",
+      "summary": "Berkshire and Taylor Morrison announced a definitive agreement Sunday for Berkshire to buy the homebuilder for $72.50/share in cash — equity value ~$6.8B, enterprise value ~$8.5B. Premium is 24% over Friday's $58.50 close. Deal targets H2 2026 close subject to TMHC stockholder + regulatory approvals; Taylor Morrison goes private under existing CEO Sheryl Palmer.",
+      "tags": [
+        "m-and-a",
+        "all-cash",
+        "homebuilders",
+        "private-take",
+        "berkshire-hathaway",
+        "greg-abel",
+        "first-abel-deal",
+        "housing"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BRK.B",
+        "TMHC"
+      ],
+      "metrics": {
+        "Deal": "$8.5B EV / $6.8B equity all-cash",
+        "Per share": "$72.50",
+        "Premium": "24% over May 29 close ($58.50)",
+        "TMHC move": "+~22% June 1",
+        "Close target": "H2 2026"
+      },
+      "links": [
+        {
+          "label": "Joint Press Release",
+          "url": "https://www.prnewswire.com/news-releases/berkshire-hathaway-to-acquire-taylor-morrison-home-corporation-for-8-5-billion-302786507.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/31/berkshire-hathaway-to-buy-us-homebuilder-taylor-morrison-for-8point5-billion.html"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-acquires-taylor-morrison-111312698.html"
+        },
+        {
+          "label": "HousingWire",
+          "url": "https://www.housingwire.com/articles/berkshire-hathaway-to-acquire-taylor-morrison-home-corporation-8-5-billion/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Greg Abel's first signature Berkshire deal — a $72.50/share all-cash take-private of US homebuilder Taylor Morrison.",
+        "whatIsIt": "Berkshire Hathaway agreed Sunday to buy Taylor Morrison Home Corp. in an all-cash deal valued at ~$6.8B equity / ~$8.5B enterprise. Taylor Morrison goes private and continues under existing CEO Sheryl Palmer. This is the first major acquisition under Berkshire CEO Greg Abel.",
+        "howItWorks": "Berkshire pays $72.50/share in cash — a 24% premium to Friday's $58.50 close. The transaction needs TMHC stockholder + regulatory approval and is expected to close in H2 2026. On Monday morning June 1, TMHC traded up ~22% to near deal terms, while BRK.B was little changed.",
+        "whyItMatters": "Adds Taylor Morrison's 350+ communities across 21 US markets to Berkshire's housing platform alongside Clayton Homes and the building-products portfolio. Signals Abel's willingness to deploy Berkshire's record cash hoard into operating businesses tied to the US single-family housing cycle. The 24% premium and friendly board approval is a marker for valuation in other small/mid-cap public homebuilders such as Meritage, Tri Pointe and KB Home.",
+        "forWho": "housing-cycle macro traders, US homebuilder pair-trade desks, BRK.B holders",
+        "tryIt": "https://finance.yahoo.com/quote/TMHC"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108301073-1777732003016-Abel7.jpg?v=1777732056&w=1920&h=1080",
+        "alt": "Berkshire Hathaway CEO Greg Abel speaking at a conference",
+        "fit": "cover",
+        "credit": "CNBC"
+      },
+      "publishDate": "2026-06-01T14:02:10.820Z"
+    },
+    {
+      "id": "nvda-rtx-spark-computex-may-31-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "NVIDIA unveils RTX Spark — 1 PFLOP Arm-based Windows PC superchip co-built with Microsoft and MediaTek — at Computex on May 31; NVDA +~3.9%, MSFT +~3.1%, INTC -~6.3% on Monday June 1",
+      "org": "NVIDIA",
+      "date": "2026-05-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+      "summary": "Jensen Huang's Computex keynote unveiled RTX Spark — a Blackwell RTX GPU + 20-core NVIDIA Grace ARM CPU + MediaTek superchip running Windows for Arm. Touts 1 petaflop AI compute, 6,144 RTX cores and up to 128GB unified memory. Launch partners: Microsoft Surface, Dell, HP, ASUS, Lenovo and MSI in fall 2026. INTC -6.3% on the threat to x86 laptops.",
+      "tags": [
+        "ai",
+        "ai-pc",
+        "computex",
+        "rtx-spark",
+        "windows-on-arm",
+        "blackwell",
+        "n1x",
+        "mediatek",
+        "semis",
+        "x86-vs-arm"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "INTC"
+      ],
+      "metrics": {
+        "NVDA move": "+~3.9% June 1",
+        "MSFT move": "+~3.1% June 1",
+        "INTC move": "-~6.3% June 1",
+        "AI compute": "1 PFLOP",
+        "GPU cores": "6,144 Blackwell RTX",
+        "CPU": "20-core NVIDIA Grace ARM",
+        "Memory": "up to 128GB unified",
+        "Launch": "fall 2026"
+      },
+      "links": [
+        {
+          "label": "NVIDIA Press Release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html"
+        },
+        {
+          "label": "Engadget Deep Dive",
+          "url": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/"
+        },
+        {
+          "label": "NVDA Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        },
+        {
+          "label": "INTC Quote",
+          "url": "https://finance.yahoo.com/quote/INTC"
+        }
+      ],
+      "explainer": {
+        "tagline": "NVIDIA enters the Windows laptop CPU market with a 1 petaflop Arm superchip co-developed with Microsoft and MediaTek.",
+        "whatIsIt": "At Computex 2026 in Taipei on May 31, NVIDIA founder and CEO Jensen Huang unveiled RTX Spark, an Arm-based PC superchip combining a Blackwell RTX GPU with a 20-core NVIDIA Grace CPU and MediaTek-co-designed silicon. Microsoft is positioning Windows for Arm as the runtime. First laptops ship in fall 2026 from Microsoft Surface, Dell, HP, ASUS, Lenovo and MSI (Acer and GIGABYTE to follow).",
+        "howItWorks": "RTX Spark delivers 1 petaflop of AI compute with fifth-generation Tensor Cores and FP4 precision. The 6,144-core Blackwell RTX block pairs with a 20-core Grace CPU and up to 128GB unified memory — enough to run 120-billion-parameter language models with a million-token context, edit 12K video, or render 90GB+ scenes locally. Huang's framing: 'For forty years, you launched apps. With RTX Spark and Microsoft Windows, you ask — and the PC does the work.'",
+        "whyItMatters": "Drops NVIDIA into the PC CPU market long owned by Intel, AMD, Qualcomm and Apple — and reinforces Microsoft's bet on Windows for Arm. INTC fell ~6.3% on the day as the Street priced in lost premium-laptop share; MSFT gained ~3.1% on the Surface/AI-PC tailwind; NVDA added ~3.9% on top of the data-center franchise. The roadmap is also a clear win for MediaTek's CPU IP and ARM's PC ambitions versus x86.",
+        "forWho": "AI-PC bulls, NVDA holders, x86-vs-arm watchers, Windows ISVs",
+        "tryIt": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark"
+      },
+      "image": {
+        "url": "https://iprsoftwaremedia.com/219/files/202605/154ea89a7177c7d568f2f4916c7fd53a/6a1c9d873d6332761e1d64a8_nvidia-rtx-spark/nvidia-rtx-spark_597f009e-8bc6-4bfb-bdf4-04317ae69806-prv.png",
+        "alt": "NVIDIA RTX Spark superchip product render for Windows PCs",
+        "fit": "contain",
+        "credit": "NVIDIA"
+      },
+      "publishDate": "2026-06-01T14:02:10.820Z"
+    },
+    {
+      "id": "oil-iran-talks-impasse-lebanon-june-1-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Brent +~5% to $95, WTI +~6% to $92 on Monday June 1 as Iran's Tasnim signals talks halt over Israel's Lebanon expansion — Hegseth warns U.S. will resume strikes if negotiations collapse",
+      "org": "The White House",
+      "date": "2026-06-01",
+      "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+      "summary": "Oil reversed last week's deal-driven rally as Iran's semi-official Tasnim reported a halt in US talks in protest of Israel's expanding Lebanon offensive after the capture of Beaufort Castle. WTI +~6% to ~$92, Brent +~5% to ~$95. Defense Secretary Hegseth said the US would resume Iran strikes if negotiations collapse.",
+      "tags": [
+        "iran-war",
+        "lebanon",
+        "hezbollah",
+        "strait-of-hormuz",
+        "brent",
+        "wti",
+        "oil-spike",
+        "tasnim",
+        "hegseth"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent": "+~5% to ~$95",
+        "WTI": "+~6% to ~$92",
+        "Context": "Brent fell ~19% in May on Iran-deal optimism"
+      },
+      "links": [
+        {
+          "label": "CNBC Oil Coverage",
+          "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html"
+        },
+        {
+          "label": "Al Jazeera Live",
+          "url": "https://www.aljazeera.com/amp/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://www.tradingview.com/symbols/NYMEX-CL1!/"
+        },
+        {
+          "label": "Brent Chart",
+          "url": "https://www.tradingview.com/symbols/ICEEUR-BRN1!/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Crude snaps back: Brent +~5%, WTI +~6% Monday as Iran's Tasnim flags a talks halt and Israel expands its Lebanon offensive.",
+        "whatIsIt": "After falling ~19% in May on optimism about a US–Iran 60-day truce framework, oil reversed Monday as Iran's semi-official Tasnim agency reported that Tehran had halted talks with the US in protest of Israel's expanded Lebanon ground operation following the capture of Beaufort Castle. WTI added roughly 6% to ~$92, Brent added ~5% to ~$95.",
+        "howItWorks": "Israeli PM Netanyahu ordered an expansion of the Lebanon manoeuvre Sunday after IDF forces seized Beaufort Castle; Lebanese PM Salam called it a 'scorched-earth policy'. Iran's foreign minister Araghchi said US message exchanges continue but 'nothing is certain until a deal is finalised'. US Defense Secretary Pete Hegseth said Washington would resume Iran strikes if the ceasefire talks collapse — the same posture that ran oil to ~$112 in May.",
+        "whyItMatters": "Brings the Strait of Hormuz risk premium back into the curve just as the May Iran-deal narrative had collapsed the term structure. Energy equities (XOM, CVX, SLB, OXY) snap back; refiners and airlines (DAL, UAL, AAL) catch a near-term margin headwind. A re-escalation also threatens the inflation glide-path the Fed is targeting into Warsh's first FOMC.",
+        "forWho": "energy desks, macro/rates traders, EM credit",
+        "tryIt": "https://www.tradingview.com/symbols/NYMEX-CL1!/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108314360-1780301336350-gettyimages-2278363597-AFP_B4HY96A.jpeg?v=1780301444&w=1920&h=1080",
+        "alt": "Oil tanker transits the Strait of Hormuz amid Iran-Israel war tensions",
+        "fit": "cover",
+        "credit": "AFP via Getty / CNBC"
+      },
+      "publishDate": "2026-06-01T14:02:10.820Z"
+    },
+    {
+      "id": "fdxf-spinoff-sp500-fast-pass-june-1-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "FedEx completes FedEx Freight (FDXF) spin-off June 1 — 1 FDXF for every 2 FDX shares from May 15 record — FDXF gets rare S&P 500 'fast pass' replacing EPAM on June 2 open and joins Dow Transports replacing AAL; FDX -~17% on spin math",
+      "org": "FedEx Corporation",
+      "date": "2026-06-01",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-completes-spin-off-103000898.html",
+      "summary": "FedEx Freight Holding (NYSE: FDXF) began trading June 1 after FedEx distributed one FDXF share for every two FDX shares held at the May 15 record. S&P Dow Jones is fast-tracking FDXF into the S&P 500 before the June 2 open replacing EPAM; FDXF also joins Dow Transports replacing AAL. FDX -~17% on the ex-distribution price reset.",
+      "tags": [
+        "spin-off",
+        "ltl",
+        "freight",
+        "sp500",
+        "index-add",
+        "index-rebalance",
+        "dow-transports",
+        "fedex-freight"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FDX",
+        "FDXF",
+        "EPAM",
+        "AAL"
+      ],
+      "metrics": {
+        "Distribution": "1 FDXF per 2 FDX",
+        "Record date": "May 15, 2026",
+        "FDXF parent stake": "FedEx retains 19.9% (to dispose within 24 months)",
+        "S&P 500 add": "FDXF replaces EPAM (June 2 open)",
+        "Dow Transports add": "FDXF replaces AAL",
+        "FDX move": "-~17% June 1 (ex-distribution)"
+      },
+      "links": [
+        {
+          "label": "FedEx Freight Completes Spin-Off",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-completes-spin-off-103000898.html"
+        },
+        {
+          "label": "S&P 500 Fast Pass Detail",
+          "url": "https://www.stocktitan.net/news/FDX/fed-ex-freight-holding-company-set-to-join-s-p-500-epam-systems-and-cb3p03mfmd9x.html"
+        },
+        {
+          "label": "Dow Transports Add",
+          "url": "https://www.stocktitan.net/news/AAL/fed-ex-freight-holding-set-to-join-dow-jones-transportation-cnrhwn4s5h1c.html"
+        },
+        {
+          "label": "FDX Quote",
+          "url": "https://finance.yahoo.com/quote/FDX"
+        }
+      ],
+      "explainer": {
+        "tagline": "FedEx Freight launches as standalone FDXF and lands a rare same-week S&P 500 fast pass.",
+        "whatIsIt": "FedEx completed the tax-free spin-off of its LTL (less-than-truckload) freight unit on June 1, creating FedEx Freight Holding (NYSE: FDXF) as an independent public company under CEO John Smith. FedEx stockholders of record at the May 15 close received one FDXF share for every two FDX shares. FedEx retained a 19.9% stub stake which it must dispose of within 24 months via debt-for-equity exchanges or further distributions.",
+        "howItWorks": "S&P Dow Jones gave FDXF the unusual 'fast pass' into the S&P 500 — it joins the index before the June 2 open, replacing EPAM Systems (which drops to the S&P SmallCap 600, where it bumps Shutterstock). FDXF also enters the Dow Jones Transportation Average on June 1, replacing American Airlines. FDX traded down roughly 17% on June 1 — primarily a price re-base reflecting the freight EV leaving the parent, not a fundamental selloff.",
+        "whyItMatters": "Forces a mechanical bid for FDXF from S&P 500 index funds before the June 2 open and a mirror sell in EPAM; same dynamic in transports for AAL. The fast-pass into the S&P 500 (without the usual quarterly waiting period) is itself unusual and a positive signal for FDXF's float and liquidity at the open. For FDX itself, the parent now becomes a cleaner Express/Ground story with the cyclical LTL business marked out.",
+        "forWho": "index arbs, transports pair-trade desks, FDX holders",
+        "tryIt": "https://finance.yahoo.com/quote/FDXF"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/business-wire.com/743683ec93043b6c467158f47652b390",
+        "alt": "FedEx Freight branding for FDXF spin-off launch",
+        "fit": "cover",
+        "credit": "FedEx via Business Wire"
+      },
+      "publishDate": "2026-06-01T14:02:10.820Z"
+    },
     {
       "id": "china-may-2026-pmi",
       "categories": [

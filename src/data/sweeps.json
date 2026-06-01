@@ -3928,6 +3928,54 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260601t140210z",
+      "timestamp": "2026-06-01T14:02:10.820Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh items: Berkshire's $8.5B all-cash take-private of Taylor Morrison (Abel's first big deal), NVIDIA's RTX Spark / Windows-on-Arm reveal at Computex with NVDA/MSFT up and INTC down hard, the Brent+5%/WTI+6% reversal as Iran's Tasnim signals talks halt over Israel's Lebanon expansion, and the FedEx Freight (FDXF) spin-off with a rare S&P 500 fast pass replacing EPAM.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "berkshire-tmhc-acquisition-may-31-2026",
+          "title": "Berkshire Hathaway to acquire Taylor Morrison Home for $6.8B equity / $8.5B enterprise value all-cash on May 31 — $72.50/share (24% premium to May 29 close); TMHC +~22% Monday June 1",
+          "category": "mna",
+          "note": "Mega-cap M&A scoop confirmed via joint PRNewswire release and CNBC; first signature deal under Berkshire CEO Greg Abel."
+        },
+        {
+          "id": "nvda-rtx-spark-computex-may-31-2026",
+          "title": "NVIDIA unveils RTX Spark — 1 PFLOP Arm-based Windows PC superchip co-built with Microsoft and MediaTek — at Computex on May 31; NVDA +~3.9%, MSFT +~3.1%, INTC -~6.3% on Monday June 1",
+          "category": "sector",
+          "note": "Computex keynote confirmed via NVIDIA newsroom; NVDA/INTC/MSFT all moved on the announcement Monday."
+        },
+        {
+          "id": "oil-iran-talks-impasse-lebanon-june-1-2026",
+          "title": "Brent +~5% to $95, WTI +~6% to $92 on Monday June 1 as Iran's Tasnim signals talks halt over Israel's Lebanon expansion — Hegseth warns U.S. will resume strikes if negotiations collapse",
+          "category": "commodity",
+          "note": "Distinct from the prior 'tentative truce' item — June 1 reversal driven by Tasnim talks-halt report and Israeli Lebanon expansion."
+        },
+        {
+          "id": "fdxf-spinoff-sp500-fast-pass-june-1-2026",
+          "title": "FedEx completes FedEx Freight (FDXF) spin-off June 1 — 1 FDXF for every 2 FDX shares from May 15 record — FDXF gets rare S&P 500 'fast pass' replacing EPAM on June 2 open and joins Dow Transports replacing AAL; FDX -~17% on spin math",
+          "category": "mover",
+          "note": "Spin-off completion, S&P 500 fast pass + Dow Transports add all hit on June 1; FDX price re-base on the day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "sector",
+        "commodity",
+        "macro",
+        "earnings",
+        "crypto"
+      ]
     }
   ]
 }
