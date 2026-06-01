@@ -3913,6 +3913,21 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260601t003231z",
+      "timestamp": "2026-06-01T00:32:31.829Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday-evening US / early-Monday UTC sweep window with 72h cap rejecting all items dated ≤ 2026-05-29. Scanned tier-1 markets press, SEC EDGAR, central banks, OPEC+, finance YouTube, and Substacks for any events with date ≥ 2026-05-30 meeting the inclusion bar. Friday's headlines (Anthropic Series H $65B at $965B post-money on May 28; Oracle +10.84% on May 29 on AI PT hikes; Dell/HPE sympathy rallies; US-Iran no-decision Situation Room meeting; S&P 7,580 / Dow 51,032 records) all fall just outside the 72h cap. Over the May 30–31 weekend itself, no major M&A, primary-source central-bank action, mega-cap filing, or geopolitical event closed; Asian Monday opens were small (Nikkei +0.17%, Kospi +0.6%) and below the 0.5% index bar. RatingDog/Caixin May Manufacturing PMI release not yet verifiable. Shipping zero per Hard Rule 4.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": []
     }
   ]
 }
