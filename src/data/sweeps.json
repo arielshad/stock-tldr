@@ -3976,6 +3976,56 @@
         "earnings",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260602t003630z",
+      "timestamp": "2026-06-02T00:36:30.623Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh adds from June 1, 2026: HPE Q2 FY26 blowout with raised guide and ~+30% AH; ISM Manufacturing PMI prints 54.0 (highest since May 2022); Barclays launches IBM at Overweight with Street-high $350 PT; Salesforce announces Contentful acquisition into a +9.7% session driven by the broader AI-software re-rating.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hpe-q2-fy26-earnings-june-1-2026",
+          "title": "Hewlett Packard Enterprise Q2 FY26 — record $10.68B revenue (+40% Y/Y) and non-GAAP EPS $0.79 trounce; Networking +148% on Juniper; FY26 non-GAAP EPS guide hiked to $3.35–$3.45 from $2.30–$2.50; HPE +9.35% to $47.06 then ~+30% AH on June 1",
+          "category": "earnings",
+          "note": "Biggest HPE beat since 2018; FY26 EPS guide hiked from $2.30–$2.50 to $3.35–$3.45 and Networking +148% on closed Juniper deal; stock +9.35% then +30% AH."
+        },
+        {
+          "id": "ism-manufacturing-pmi-may-2026-june-1",
+          "title": "U.S. ISM Manufacturing PMI for May 2026 jumps to 54.0% — highest reading since May 2022; New Orders 56.8, Production 54.3, Prices 82.1 as 19-month expansion streak continues",
+          "category": "macro",
+          "note": "Headline 54.0 is the strongest since May 2022 with New Orders accelerating to 56.8 and Prices Paid still 82.1 — tightens the Warsh-Fed June meeting setup."
+        },
+        {
+          "id": "ibm-barclays-overweight-350pt-june-1-2026",
+          "title": "Barclays initiates IBM at Overweight with Street-high $350 PT — sees Watsonx + Red Hat as AI-disruption shield and quantum as a free option; IBM closes ~+6% on June 1",
+          "category": "analyst",
+          "note": "Street-high $350 PT from Barclays' top software analyst, with quantum framed as a free option; IBM closes ~+6% extending a ~28% trailing-month run."
+        },
+        {
+          "id": "crm-contentful-acquisition-june-1-2026",
+          "title": "Salesforce signs definitive agreement to acquire Contentful — Agentforce gets a native content layer; CRM rallies ~+9.7% on June 1 with broader software complex on AI software re-rating",
+          "category": "mna",
+          "note": "Closes Salesforce's content-layer gap for Agentforce; lands into the same session as the NVIDIA-Computex-driven software re-rating with CRM +~9.7%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "analyst",
+        "mna",
+        "mover",
+        "rates",
+        "commodity",
+        "crypto",
+        "regulatory"
+      ]
     }
   ]
 }

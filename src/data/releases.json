@@ -1,8 +1,265 @@
 {
-  "generatedAt": "2026-06-01T14:02:10.820Z",
+  "generatedAt": "2026-06-02T00:36:30.623Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hpe-q2-fy26-earnings-june-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Hewlett Packard Enterprise Q2 FY26 — record $10.68B revenue (+40% Y/Y) and non-GAAP EPS $0.79 trounce; Networking +148% on Juniper; FY26 non-GAAP EPS guide hiked to $3.35–$3.45 from $2.30–$2.50; HPE +9.35% to $47.06 then ~+30% AH on June 1",
+      "org": "Hewlett Packard Enterprise",
+      "date": "2026-06-01",
+      "url": "https://www.stocktitan.net/news/HPE/hpe-reports-fiscal-2026-second-quarter-2uay6ge0t9h2.html",
+      "summary": "HPE smashed Q2 FY26: revenue $10.68B (+40%) and non-GAAP EPS $0.79 vs $0.54 est, with Networking $2.7B (+148%) reflecting Juniper. FY26 EPS guide lifted to $3.35–$3.45; HPE +9.35% close, ~+30% AH.",
+      "tickers": [
+        "HPE",
+        "JNPR",
+        "DELL"
+      ],
+      "metrics": {
+        "Revenue": "$10.68B (+40% Y/Y)",
+        "Non-GAAP EPS": "$0.79 vs $0.54 est",
+        "GAAP EPS": "$0.44",
+        "Networking revenue": "$2.7B (+148% Y/Y)",
+        "Server revenue": "$5.5B (+33% Y/Y)",
+        "FY26 non-GAAP EPS guide": "$3.35–$3.45 (raised from $2.30–$2.50)",
+        "FY26 revenue growth guide": "29–33%",
+        "Q3 FY26 revenue guide": "$11.5–$12.1B",
+        "Q3 FY26 non-GAAP EPS guide": "$0.88–$0.93",
+        "Move (regular)": "+9.35% to $47.06",
+        "Move (after-hours)": "~+30%"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "ai-server",
+        "networking",
+        "juniper",
+        "q2-fy26",
+        "after-hours-mover",
+        "tech"
+      ],
+      "explainer": {
+        "tagline": "HPE delivers biggest earnings beat since 2018 as Juniper integration runs ahead of schedule and AI server orders nearly double.",
+        "whatIsIt": "Hewlett Packard Enterprise posted fiscal Q2 2026 results after the close on June 1, 2026, with revenue and adjusted EPS both blowing past Street estimates. The company also raised its full-year guidance by a wide margin, with the prior FY26 non-GAAP EPS range of $2.30–$2.50 replaced by $3.35–$3.45.",
+        "howItWorks": "Total revenue hit $10.68B versus the ~$9.79B consensus and FY26 outlook is now 29–33% revenue growth. Networking revenue more than doubled to $2.7B (+148% Y/Y) on the recently closed Juniper Networks acquisition, while Server revenue jumped 33% to $5.5B as AI orders and AI backlog nearly doubled Y/Y. Q3 FY26 guidance calls for $11.5–$12.1B revenue and $0.88–$0.93 non-GAAP EPS.",
+        "whyItMatters": "The print is HPE's biggest earnings beat since 2018 and confirms that Juniper synergies are landing faster than the integration plan. HPE closed regular trading +9.35% at $47.06 before adding roughly 30% in after-hours trade, extending Friday's sympathy rally on Dell's AI-server blowout. AI-server peers Dell, Supermicro and Pure Storage trade off this read.",
+        "forWho": "AI infrastructure traders, networking analysts, large-cap tech allocators.",
+        "tryIt": "https://finance.yahoo.com/quote/HPE/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108314871-1780345171595-gettyimages-2221218399-HP_ENTERPRISE_DISCOVER.jpeg",
+        "alt": "HPE Discover stage signage during the company's annual customer event",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "HPE press release (StockTitan)",
+          "url": "https://www.stocktitan.net/news/HPE/hpe-reports-fiscal-2026-second-quarter-2uay6ge0t9h2.html"
+        },
+        {
+          "label": "CNBC: HPE +30% AH",
+          "url": "https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html"
+        },
+        {
+          "label": "Motley Fool recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/06/01/stock-market-today-june-1-hewlett-packard-enterprise-jumps-after-beating-revenue-and-earnings-forecasts/"
+        },
+        {
+          "label": "HPE ticker page",
+          "url": "https://finance.yahoo.com/quote/HPE/"
+        }
+      ],
+      "publishDate": "2026-06-02T00:36:30.623Z"
+    },
+    {
+      "id": "ism-manufacturing-pmi-may-2026-june-1",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. ISM Manufacturing PMI for May 2026 jumps to 54.0% — highest reading since May 2022; New Orders 56.8, Production 54.3, Prices 82.1 as 19-month expansion streak continues",
+      "org": "Institute for Supply Management",
+      "date": "2026-06-01",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-may-2026-ism-manufacturing-pmi-report-302786165.html",
+      "summary": "ISM Manufacturing PMI prints 54.0% in May (vs 52.7% in April), the highest since May 2022. New Orders accelerate to 56.8 and Prices stay hot at 82.1; ISM says reading maps to ~2.2% annualized GDP growth.",
+      "tickers": [],
+      "metrics": {
+        "Headline PMI": "54.0% (highest since May 2022)",
+        "Change vs April": "+1.3 ppt",
+        "New Orders": "56.8 (+2.7 ppt)",
+        "Production": "54.3 (+0.9 ppt)",
+        "Employment": "48.6 (+2.2 ppt, 32nd straight month in contraction)",
+        "Prices": "82.1 (-2.5 ppt, still elevated)",
+        "Implied real GDP": "~2.2% annualized"
+      },
+      "importance": "major",
+      "tags": [
+        "macro",
+        "ism",
+        "pmi",
+        "manufacturing",
+        "new-orders",
+        "prices-paid",
+        "tariffs",
+        "may-2026"
+      ],
+      "explainer": {
+        "tagline": "U.S. manufacturing logs its fastest expansion in three years with New Orders accelerating and Prices Paid still in the 80s.",
+        "whatIsIt": "The Institute for Supply Management released its May 2026 Manufacturing PMI at 10:00 a.m. ET on June 1, 2026. The headline came in at 54.0%, 1.3 percentage points above April and the highest reading since May 2022's 55.9.",
+        "howItWorks": "New Orders rose 2.7 ppt to 56.8, Production added 0.9 ppt to 54.3 and Employment climbed 2.2 ppt but stayed sub-50 at 48.6 — the 32nd straight contractionary print for factory hiring. Prices Paid eased 2.5 ppt to 82.1 but remain elevated as tariffs and steel/aluminum costs push input prices. ISM Chair Susan Spence noted the 54.0 reading corresponds to roughly 2.2% annualized real GDP growth.",
+        "whyItMatters": "A re-acceleration in factory activity alongside still-hot Prices Paid complicates the Warsh Fed's first meeting on June 16–17. With the 10Y already pinned above 5% on inflation worries and core PCE running +3.3% Y/Y, sticky goods-side prices keep an early rate cut off the table.",
+        "forWho": "Macro traders, rates desks, industrial-equity analysts.",
+        "tryIt": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/may/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/327063/INSTITUTE_FOR_SUPPLY_MANAGEMENT_LOGO_v1.jpg",
+        "alt": "Institute for Supply Management corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "ISM press release (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-may-2026-ism-manufacturing-pmi-report-302786165.html"
+        },
+        {
+          "label": "ISM Report on Business",
+          "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/may/"
+        },
+        {
+          "label": "Trading Economics ISM page",
+          "url": "https://tradingeconomics.com/united-states/business-confidence"
+        }
+      ],
+      "publishDate": "2026-06-02T00:36:30.623Z"
+    },
+    {
+      "id": "ibm-barclays-overweight-350pt-june-1-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Barclays initiates IBM at Overweight with Street-high $350 PT — sees Watsonx + Red Hat as AI-disruption shield and quantum as a free option; IBM closes ~+6% on June 1",
+      "org": "Barclays",
+      "date": "2026-06-01",
+      "url": "https://www.cnbc.com/2026/06/01/barclays-says-ibm-is-mimicking-nvidias-playbook-in-quantum-market.html",
+      "summary": "Barclays' Raimo Lenschow launched IBM at Overweight with a $350 PT (bull case $449) on June 1, calling the software stack 'sticky' and quantum a 'free option'; IBM closed up roughly 6% with one of its best monthly runs in years.",
+      "tickers": [
+        "IBM"
+      ],
+      "metrics": {
+        "Rating change": "New Overweight (initiation)",
+        "New PT": "$350",
+        "Bull-case PT": "$449",
+        "Move": "~+6% on June 1",
+        "Trailing 1-month": "+~28%"
+      },
+      "importance": "major",
+      "tags": [
+        "analyst",
+        "overweight",
+        "initiation",
+        "barclays",
+        "ai",
+        "quantum",
+        "software",
+        "red-hat",
+        "watsonx"
+      ],
+      "explainer": {
+        "tagline": "Barclays calls IBM software 'sticky' enough to survive the AI cycle and frames quantum as a free upside option.",
+        "whatIsIt": "Barclays software analyst Raimo Lenschow launched IBM with an Overweight rating and a $350 price target on June 1, 2026 — at the high end of sell-side targets. The note frames IBM software (nearly half of revenue and the bulk of profit) as a defensive AI-cycle compounder.",
+        "howItWorks": "Lenschow argues IBM's infrastructure software sells into large, regulated organizations where switching costs and compliance lock-in blunt the AI displacement narrative that has hit horizontal SaaS. Mid-single-digit organic growth plus margin leverage drive the base case, with a $449 bull case sized off quantum becoming a real revenue line. IBM closed roughly 6% higher in regular trading, extending a one-month run of around 28%.",
+        "whyItMatters": "An Overweight-with-quantum bull case puts a tier-1 sell-side voice behind IBM's recent multiple expansion and gives the DJIA an additional bid. The call pairs with IBM's $10B+ five-year quantum commitment and lifts adjacent quantum names — Rigetti, IonQ and D-Wave — into focus.",
+        "forWho": "Large-cap value allocators, quantum-theme traders, DJIA tracker books.",
+        "tryIt": "https://finance.yahoo.com/quote/IBM/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108293855-1776683962452-gettyimages-2272185746-3h4a2814_8edwjwxp.jpeg",
+        "alt": "IBM corporate signage with logo",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC coverage",
+          "url": "https://www.cnbc.com/2026/06/01/barclays-says-ibm-is-mimicking-nvidias-playbook-in-quantum-market.html"
+        },
+        {
+          "label": "Yahoo Finance recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-surges-premarket-barclays-091128969.html"
+        },
+        {
+          "label": "IBM ticker page",
+          "url": "https://finance.yahoo.com/quote/IBM/"
+        }
+      ],
+      "publishDate": "2026-06-02T00:36:30.623Z"
+    },
+    {
+      "id": "crm-contentful-acquisition-june-1-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Salesforce signs definitive agreement to acquire Contentful — Agentforce gets a native content layer; CRM rallies ~+9.7% on June 1 with broader software complex on AI software re-rating",
+      "org": "Salesforce",
+      "date": "2026-06-01",
+      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-contentful/",
+      "summary": "Salesforce announced June 1 it will acquire Berlin-founded headless CMS Contentful (4,800+ enterprise customers) to plug a content layer into Agentforce + Customer 360. Terms undisclosed; closes Q3 FY27. CRM +~9.7% with software complex.",
+      "tickers": [
+        "CRM"
+      ],
+      "metrics": {
+        "Deal": "All-cash; terms undisclosed",
+        "Target customers": "4,800+ enterprise brands",
+        "Expected close": "Q3 FY27",
+        "CRM move": "+~9.7% on June 1"
+      },
+      "importance": "major",
+      "tags": [
+        "mna",
+        "agentforce",
+        "customer-360",
+        "headless-cms",
+        "ai-software",
+        "salesforce",
+        "contentful",
+        "software-rally"
+      ],
+      "explainer": {
+        "tagline": "Salesforce buys headless CMS Contentful to give Agentforce a real content layer — and CRM rides the broader software re-rating.",
+        "whatIsIt": "Salesforce announced on June 1, 2026 that it has signed a definitive agreement to acquire Contentful, the Berlin-headquartered composable content platform used by more than 4,800 enterprise brands. Financial terms were not disclosed, and the deal is expected to close in the third quarter of Salesforce's fiscal year 2027 subject to regulatory clearance.",
+        "howItWorks": "Contentful folds into Salesforce's Headless 360 and Customer 360, exposing a native content layer that Agentforce agents can call to assemble 1:1 content experiences across channels and languages. Salesforce frames the move as removing 'content fragmentation' as a bottleneck for agentic AI workflows. The announcement landed on the same day NVIDIA's Computex keynote re-rated the software complex, sending CRM up roughly 9.7%, IBM ~+6%, ServiceNow ~+9% and Adobe ~+6.6%.",
+        "whyItMatters": "The deal closes a structural gap in Salesforce's Agentforce stack and signals that hyperscaler-grade content orchestration is now table stakes for enterprise AI. Adjacent vendors — Adobe, Sitecore (private), Optimizely (private) and Acquia (private) — face direct read-through on bundled-pricing risk inside Customer 360. CRM had been the worst-performing software mega-cap YTD before this rally.",
+        "forWho": "Software-stack allocators, AI-monetization analysts, Adobe shorts.",
+        "tryIt": "https://finance.yahoo.com/quote/CRM/"
+      },
+      "image": {
+        "url": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/05/m_a_announements_Contentful.png",
+        "alt": "Salesforce and Contentful logos paired on the M&A announcement card",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Salesforce press release",
+          "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-contentful/"
+        },
+        {
+          "label": "Motley Fool recap",
+          "url": "https://www.fool.com/investing/2026/06/01/why-salesforce-was-rallying-again-today/"
+        },
+        {
+          "label": "CRM ticker page",
+          "url": "https://finance.yahoo.com/quote/CRM/"
+        }
+      ],
+      "publishDate": "2026-06-02T00:36:30.623Z"
+    },
     {
       "id": "berkshire-tmhc-acquisition-may-31-2026",
       "categories": [
