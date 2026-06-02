@@ -1,8 +1,335 @@
 {
-  "generatedAt": "2026-06-02T00:36:30.623Z",
+  "generatedAt": "2026-06-02T13:16:38.702Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mrvl-huang-trillion-computex-june-2-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Marvell ~+25% premarket on June 2 as Jensen Huang shares the Computex 2026 stage with Matt Murphy and calls MRVL 'the next trillion-dollar company'",
+      "org": "Marvell Technology",
+      "date": "2026-06-02",
+      "url": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+      "summary": "NVIDIA CEO Jensen Huang joined Marvell CEO Matt Murphy onstage at Computex 2026 in Taipei and pointed to Marvell as 'the next trillion-dollar company' — MRVL premarket +~25% to ~$219 on June 2 as the $2B NVLink Fusion alliance gets a public seal.",
+      "tickers": [
+        "MRVL",
+        "NVDA",
+        "AVGO",
+        "ANET"
+      ],
+      "metrics": {
+        "Premarket Move": "+~25%",
+        "Premarket Price": "~$219",
+        "Friday Close": "~$174.6",
+        "NVDA stake in MRVL": "$2B",
+        "MRVL market cap (Friday)": "~$192B"
+      },
+      "tags": [
+        "mover",
+        "ai-capex",
+        "ai-networking",
+        "nvlink-fusion",
+        "computex-2026",
+        "custom-silicon",
+        "semis",
+        "trillion-dollar"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Huang puts Marvell in the trillion-dollar conversation at Computex; MRVL ~+25% premarket.",
+        "whatIsIt": "At Computex 2026 in Taipei on June 2, NVIDIA CEO Jensen Huang appeared on stage alongside Marvell CEO Matt Murphy and described Marvell as 'the next trillion-dollar company.' MRVL closed Friday near $174.6 (market cap ~$192B) and surged about 25% in U.S. premarket trading to roughly $219.",
+        "howItWorks": "Huang's pitch: Marvell's networking and connectivity silicon is essential to AI data centers where compute is spread across thousands of GPUs that must move data fast. NVIDIA took a $2B stake in Marvell three months ago as part of a broader partnership, and the two companies are tightening NVLink Fusion integration so Marvell's custom silicon can plug directly into NVIDIA AI fabrics. Last week Marvell guided its custom-chip business toward $10B+ revenue by fiscal 2029.",
+        "whyItMatters": "A trillion-dollar market cap from here implies roughly a 5x re-rating — the comment alone added more than $40B of market value in premarket. It cements Marvell as NVIDIA's preferred custom-silicon partner and pulls the broader AI-networking complex (AVGO, ANET, COHR) along for the read-through.",
+        "forWho": "AI infrastructure traders",
+        "tryIt": "https://finance.yahoo.com/quote/MRVL"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/GLoCqnRWP4.azdhcMS9bGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/24ee37cc53f4a31368c05b94fb783520",
+        "alt": "NVIDIA CEO Jensen Huang and Marvell CEO Matt Murphy on stage at Computex 2026 in Taipei",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC: Huang calls Marvell next $1T",
+          "url": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html"
+        },
+        {
+          "label": "Yahoo Finance write-up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-calls-marvell-next-112630287.html"
+        },
+        {
+          "label": "Globe and Mail report",
+          "url": "https://www.theglobeandmail.com/investing/article-marvell-technology-surges-after-nvidias-huang-calls-it-next-trillion/"
+        },
+        {
+          "label": "MRVL quote page",
+          "url": "https://finance.yahoo.com/quote/MRVL"
+        }
+      ],
+      "publishDate": "2026-06-02T13:16:38.702Z"
+    },
+    {
+      "id": "vsco-q1-fy26-earnings-june-2-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Victoria's Secret Q1 FY26 — net sales $1.56B (+15% Y/Y), comp +13%, adj EPS $0.60 doubles consensus; FY26 sales guide raised to $7.03–$7.13B and adj OI to $550–$580M",
+      "org": "Victoria's Secret & Co.",
+      "date": "2026-06-02",
+      "url": "https://www.stocktitan.net/news/VSCO/victoria-s-secret-co-reports-first-quarter-2026-73nczgypqqis.html",
+      "summary": "VSCO Q1 FY26 net sales $1.56B (+15% Y/Y) and adj EPS $0.60 trounce $1.52B / $0.30 consensus; fourth straight quarter of positive comps at +13%; FY26 sales lifted to $7.03–$7.13B and adj OI to $550–$580M (~+$110M mid).",
+      "tickers": [
+        "VSCO"
+      ],
+      "metrics": {
+        "Net sales": "$1.56B (+15% Y/Y) vs $1.52B est",
+        "Comparable sales": "+13%",
+        "Adj EPS": "$0.60 vs $0.30 est",
+        "FY26 sales guide": "$7.03B–$7.13B (was $6.85B–$6.95B)",
+        "FY26 adj OI guide": "$550M–$580M (was $430M–$460M)"
+      },
+      "tags": [
+        "earnings",
+        "mover",
+        "eps-beat",
+        "comp-sales",
+        "guidance-raise",
+        "retail",
+        "apparel",
+        "tariffs",
+        "q1-fy26"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Victoria's Secret blows past Q1 expectations and lifts the year by more than $100M of adj OI.",
+        "whatIsIt": "Victoria's Secret & Co. reported Q1 FY26 net sales of $1.56B, up 15% year over year, with adjusted EPS of $0.60 doubling the Street's $0.30 consensus. Comparable sales rose 13% — the fourth consecutive quarter of positive comps.",
+        "howItWorks": "Revenue of $1.56B cleared the $1.52B analyst forecast. The company raised FY26 net-sales guidance to $7.03–$7.13B (from $6.85–$6.95B) and lifted adjusted operating income guidance to $550–$580M (from $430–$460M). CFO/COO Scott Sekella attributed the raise to Q1 outperformance enabling more efficiency on the fixed-cost base and reduced projected tariff exposure after courts struck down a number of President Trump's broad import duties.",
+        "whyItMatters": "Mall-based apparel has been mixed in May — VSCO joins ANF, BURL, GAP and AEO in posting positive comps, but a >$100M adj OI lift mid-year is unusually large for fashion retail and reflects a meaningful tariff repricing for the sector. The print extends the consumer-discretionary thaw and sets a positive bar for LULU, URBN and AEO into next week's calendar.",
+        "forWho": "consumer-discretionary retail desks",
+        "tryIt": "https://finance.yahoo.com/quote/VSCO"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Victoria_s_Secret_Co_Reports_First_Quarter_2026_Results_1065461.webp",
+        "alt": "Victoria's Secret & Co. Q1 FY26 earnings release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "VSCO Q1 release",
+          "url": "https://www.stocktitan.net/news/VSCO/victoria-s-secret-co-reports-first-quarter-2026-73nczgypqqis.html"
+        },
+        {
+          "label": "Yahoo Finance recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-shares-surge-earnings-115013477.html"
+        },
+        {
+          "label": "Earnings beat detail",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-q1-2026-earnings-113704350.html"
+        },
+        {
+          "label": "VSCO on stockanalysis.com",
+          "url": "https://stockanalysis.com/stocks/vsco/"
+        }
+      ],
+      "publishDate": "2026-06-02T13:16:38.702Z"
+    },
+    {
+      "id": "gnrc-hyperscaler-backup-power-june-2-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Generac signs global supply agreement with unnamed hyperscale data center operator for backup-power generators — GNRC premarket as much as +7.7% on June 2",
+      "org": "Generac Holdings",
+      "date": "2026-06-02",
+      "url": "https://www.prnewswire.com/news-releases/generac-signs-global-supply-agreement-with-leading-hyperscale-data-center-operator-to-supply-backup-power-302787906.html",
+      "summary": "Generac announced a global supply agreement with an unnamed leading hyperscale data center operator to provide backup-power generators across the customer's infrastructure; customer and financial terms undisclosed but GNRC traded up as much as 7.7% premarket on June 2.",
+      "tickers": [
+        "GNRC"
+      ],
+      "metrics": {
+        "Premarket Move": "+~7.7% peak",
+        "Customer": "Undisclosed hyperscaler",
+        "Deal value": "Not disclosed"
+      },
+      "tags": [
+        "mover",
+        "ai-capex",
+        "data-center",
+        "power",
+        "backup-generators",
+        "hyperscaler",
+        "industrials"
+      ],
+      "importance": "notable",
+      "explainer": {
+        "tagline": "Generac lands a global hyperscaler backup-power contract; specifics withheld but the nameplate is the story.",
+        "whatIsIt": "Generac Holdings announced a global supply agreement with a leading hyperscale data-center operator to supply backup-power generators for the customer's data-center infrastructure. Neither the customer's identity nor the financial terms were disclosed.",
+        "howItWorks": "The contract followed an extensive qualification process — factory visits, performance reviews, quality system assessments and audits of Generac's vendor base. CEO Aaron Jagdfeld framed the deal as positioning Generac 'at the heart of supporting essential services and the digital economy.'",
+        "whyItMatters": "AI data-center capex has lifted backup-power, switchgear and on-site generation names; GNRC traded up as much as 7.7% in premarket. The absence of disclosed value caps the read-through, but a hyperscaler nameplate validates Generac in a category long dominated by Caterpillar and Cummins — and adds to the AI-power trade alongside VRT, ETN and ETN-adjacent ETF flows.",
+        "forWho": "AI capex / power-infrastructure rotation",
+        "tryIt": "https://finance.yahoo.com/quote/GNRC"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1852482/DataCenterGens.jpg?id=OA2644221&p=facebook",
+        "alt": "Generac backup-power generators outside a hyperscale data center",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "PR Newswire release",
+          "url": "https://www.prnewswire.com/news-releases/generac-signs-global-supply-agreement-with-leading-hyperscale-data-center-operator-to-supply-backup-power-302787906.html"
+        },
+        {
+          "label": "Stocktitan recap",
+          "url": "https://www.stocktitan.net/news/GNRC/generac-signs-global-supply-agreement-with-leading-hyperscale-data-ax5yt4r6wb4k.html"
+        },
+        {
+          "label": "Yahoo Finance coverage",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/generac-lands-global-backup-power-080106753.html"
+        },
+        {
+          "label": "GNRC quote page",
+          "url": "https://finance.yahoo.com/quote/GNRC"
+        }
+      ],
+      "publishDate": "2026-06-02T13:16:38.702Z"
+    },
+    {
+      "id": "intu-goldman-sell-276pt-june-2-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Goldman Sachs downgrades Intuit to Sell and cuts PT to $276 from $519 — flags AI tax-prep entrants Prime Meridian, Perplexity Tax and Chime Tax; INTU -~6% premarket on June 2",
+      "org": "Goldman Sachs",
+      "date": "2026-06-02",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-dips-goldman-cuts-sell-110036257.html",
+      "summary": "Goldman cuts Intuit to Sell from Neutral with a $276 PT (from $519) — argues TurboTax (~25% of revenue) is most exposed to AI-powered tax-prep entrants Prime Meridian, Perplexity Tax and Chime Tax; INTU ~-6% in premarket on June 2.",
+      "tickers": [
+        "INTU"
+      ],
+      "metrics": {
+        "Rating change": "Neutral → Sell",
+        "Old PT": "$519",
+        "New PT": "$276",
+        "PT cut": "-46.8%",
+        "Premarket Move": "-~6%",
+        "TurboTax share of revenue / OI": "~25%",
+        "Valuation reset": "15x GAAP earnings"
+      },
+      "tags": [
+        "analyst",
+        "mover",
+        "downgrade",
+        "price-target-cut",
+        "ai-disruption",
+        "turbotax",
+        "fintech",
+        "saas"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Goldman halves its Intuit price target and goes outright Sell on AI tax-prep disruption.",
+        "whatIsIt": "Goldman Sachs downgraded Intuit from Neutral to Sell on June 2 and slashed its 12-month price target to $276 from $519, citing rising competitive threats from AI-powered tax-preparation entrants. INTU traded ~-6% in premarket.",
+        "howItWorks": "Goldman flagged TurboTax — about 25% of Intuit's revenue and operating income — as the most exposed product. The bank pointed to Prime Meridian, Perplexity Tax and Chime Tax, arguing AI models can process tax returns at near-zero marginal cost versus TurboTax's ~$162 average revenue per return. Goldman reset valuation to 15x GAAP earnings, reflecting a shift from a 14% historical long-term revenue CAGR toward a 5–10% range.",
+        "whyItMatters": "The PT cut roughly halves Goldman's prior fair value and follows INTU's May 20 print, where the company also disclosed a 17% workforce cut and Anthropic + OpenAI partnerships. It is one of the cleanest Street statements that AI tooling is now compressing the moats of legacy workflow SaaS — read-through to ADBE, ADP and CRM as the next debates.",
+        "forWho": "fintech / SaaS L/S",
+        "tryIt": "https://finance.yahoo.com/quote/INTU"
+      },
+      "image": {
+        "url": "https://res.cloudinary.com/tikr/images/w_600,h_400,c_scale/f_webp,q_auto/v1768470257/images/VIE-3_8870180439/VIE-3_8870180439.png?_i=AA",
+        "alt": "Intuit logo and stock chart showing recent decline",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-dips-goldman-cuts-sell-110036257.html"
+        },
+        {
+          "label": "TS2 deep dive",
+          "url": "https://ts2.tech/en/intuit-stock-drops-6-as-new-2-2-billion-credit-line-and-goldman-call-put-tax-season-in-focus/"
+        },
+        {
+          "label": "INTU on stockanalysis.com",
+          "url": "https://stockanalysis.com/stocks/intu/"
+        },
+        {
+          "label": "INTU quote page",
+          "url": "https://finance.yahoo.com/quote/INTU"
+        }
+      ],
+      "publishDate": "2026-06-02T13:16:38.702Z"
+    },
+    {
+      "id": "nu-cfo-livingston-bofa-downgrade-june-1-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "Nubank names ex-Visa N.A. CFO Rob Livingston as CFO effective July 13 — Guilherme Lago moves to Special Advisor; NU ~-7% premarket on June 2 as BofA downgrades on transition risk",
+      "org": "Nubank (Nu Holdings)",
+      "date": "2026-06-01",
+      "url": "https://www.stocktitan.net/news/NU/nubank-appoints-rob-livingston-as-chief-financial-jjkuwc45kq9y.html",
+      "summary": "Nu Holdings 6-K on June 1 — Rob Livingston (ex Visa North America CFO, 18 years at Capital One) replaces Guilherme Lago as CFO from July 13; Lago becomes Special Advisor through August 31; BofA downgrades NU on transition risk and shares fall ~7% in premarket on June 2.",
+      "tickers": [
+        "NU"
+      ],
+      "metrics": {
+        "New CFO": "Rob Livingston",
+        "Outgoing CFO": "Guilherme Lago (since 2021)",
+        "Effective": "July 13, 2026",
+        "Transition support through": "August 31, 2026",
+        "Premarket Move (June 2)": "-~7%",
+        "BofA action": "Downgrade on transition risk"
+      },
+      "tags": [
+        "mover",
+        "insider",
+        "executive-transition",
+        "cfo",
+        "downgrade",
+        "fintech",
+        "latam",
+        "emerging-markets"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Nubank swaps in a Visa N.A. CFO as it leans into the U.S. — Street takes the change badly.",
+        "whatIsIt": "Nu Holdings disclosed via a 6-K filed June 1 that Rob Livingston will become Chief Financial Officer effective July 13, 2026. Outgoing CFO Guilherme Lago, in role since 2021 (he joined Nubank in 2019), transitions to Special Advisor and supports the handover through August 31.",
+        "howItWorks": "Livingston joins from Visa, where he most recently served as CFO for Visa North America — Visa's largest business. He spent 18 years at Capital One before Visa, including stints as President of Capital One Canada, Divisional CFO and Senior Credit Officer. At Nu, he will lead the global finance organization including capital and liquidity planning, financial reporting, corporate development, tax and investor relations. BofA downgraded the stock citing transition risk.",
+        "whyItMatters": "NU dropped ~7% in U.S. premarket on June 2. Lago had been Nubank's CFO through the IPO and the company's expansion into Mexico, Colombia and the U.S.; the change lands as Nubank is moving into U.S. consumer banking, where Livingston's North American credit-card and payments background is more directly relevant. The market is reading short-term execution risk, not strategy reversal.",
+        "forWho": "LatAm fintech / EM equity",
+        "tryIt": "https://finance.yahoo.com/quote/NU"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Nubank_Appoints_Rob_Livingston_as_Chief_Financial_Officer_1065297.webp",
+        "alt": "Nubank announces Rob Livingston as new Chief Financial Officer",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Stocktitan PR recap",
+          "url": "https://www.stocktitan.net/news/NU/nubank-appoints-rob-livingston-as-chief-financial-jjkuwc45kq9y.html"
+        },
+        {
+          "label": "Stocktitan 6-K filing",
+          "url": "https://www.stocktitan.net/sec-filings/NU/6-k-nu-holdings-ltd-current-report-foreign-issuer-f8bf91b16d49.html"
+        },
+        {
+          "label": "Yahoo Finance (SG) recap",
+          "url": "https://sg.finance.yahoo.com/news/nubank-appoints-rob-livingston-chief-214800544.html"
+        },
+        {
+          "label": "NU quote page",
+          "url": "https://finance.yahoo.com/quote/NU"
+        }
+      ],
+      "publishDate": "2026-06-02T13:16:38.702Z"
+    },
     {
       "id": "hpe-q2-fy26-earnings-june-1-2026",
       "categories": [

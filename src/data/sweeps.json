@@ -4026,6 +4026,63 @@
         "crypto",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260602t131638z",
+      "timestamp": "2026-06-02T13:16:38.702Z",
+      "source": "github-actions-sweep",
+      "summary": "Five fresh items on June 2: Marvell premarket spike on Jensen Huang's Computex 'next trillion-dollar' call, Victoria's Secret Q1 FY26 beat-and-raise, a Generac hyperscaler backup-power supply agreement, Goldman Sachs' Sell call and PT halving on Intuit, and Nubank's CFO succession with BofA pulling its rating.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mrvl-huang-trillion-computex-june-2-2026",
+          "title": "Marvell ~+25% premarket on June 2 as Jensen Huang shares the Computex 2026 stage with Matt Murphy and calls MRVL 'the next trillion-dollar company'",
+          "category": "mover",
+          "note": "Computex onstage moment from Huang triggered +~25% premarket on MRVL — clear single-name mover with named tier-1 catalyst."
+        },
+        {
+          "id": "vsco-q1-fy26-earnings-june-2-2026",
+          "title": "Victoria's Secret Q1 FY26 — net sales $1.56B (+15% Y/Y), comp +13%, adj EPS $0.60 doubles consensus; FY26 sales guide raised to $7.03–$7.13B and adj OI to $550–$580M",
+          "category": "earnings",
+          "note": "Q1 EPS doubled consensus; >$100M FY26 adj OI lift mid-year is rare for fashion retail."
+        },
+        {
+          "id": "gnrc-hyperscaler-backup-power-june-2-2026",
+          "title": "Generac signs global supply agreement with unnamed hyperscale data center operator for backup-power generators — GNRC premarket as much as +7.7% on June 2",
+          "category": "mover",
+          "note": "Hyperscaler backup-power deal pushed GNRC up to +7.7% premarket despite undisclosed customer/value."
+        },
+        {
+          "id": "intu-goldman-sell-276pt-june-2-2026",
+          "title": "Goldman Sachs downgrades Intuit to Sell and cuts PT to $276 from $519 — flags AI tax-prep entrants Prime Meridian, Perplexity Tax and Chime Tax; INTU -~6% premarket on June 2",
+          "category": "analyst",
+          "note": "Goldman halved its INTU PT and went outright Sell — clean analyst-driven mover."
+        },
+        {
+          "id": "nu-cfo-livingston-bofa-downgrade-june-1-2026",
+          "title": "Nubank names ex-Visa N.A. CFO Rob Livingston as CFO effective July 13 — Guilherme Lago moves to Special Advisor; NU ~-7% premarket on June 2 as BofA downgrades on transition risk",
+          "category": "mover",
+          "note": "6-K CFO change + BofA downgrade combined to push NU ~7% lower in premarket."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "analyst",
+        "insider",
+        "macro",
+        "mna",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "fx"
+      ]
     }
   ]
 }
