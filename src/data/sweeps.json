@@ -4133,6 +4133,64 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260603t134039z",
+      "timestamp": "2026-06-03T13:40:39.899Z",
+      "source": "github-actions-sweep",
+      "summary": "Six new items for the 2026-06-03 sweep: Alphabet's $84.75B equity raise (seismic — biggest mega-cap tech follow-on ever, $10B Berkshire piece), Partners Group gating its $8.6B evergreen PE fund and dragging the U.S. alts complex (KKR/BX/OWL/ARES) -3 to -5%, ADP May +122K above +117K est, fresh Iran-Kuwait-Bahrain-Qeshm Island escalation with Kuwait airport casualty, Macy's Q1 beat-and-raise on +10.2% Bloomingdale's comp, and Medtronic FY26 delivering its best annual organic growth in 10 years.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "googl-80b-equity-raise-ai-june-1-2026",
+          "title": "Alphabet announces $80B equity capital raise to fund AI infrastructure on June 1 — upsized to $84.75B at June 2 pricing with $10B Berkshire Hathaway private placement; GOOGL slips ~2.8% intraday Tuesday",
+          "category": "mover",
+          "note": "Largest equity raise in mega-cap tech history at $84.75B; multi-day market-moving event with $10B Berkshire piece and dilution-driven GOOGL slide."
+        },
+        {
+          "id": "partners-group-evergreen-gate-alts-selloff-june-3-2026",
+          "title": "Partners Group caps redemptions on $8.6B Global Value SICAV evergreen fund at 5%/qtr after Q2 requests hit 9.8% — shares plunge ~17% intraday; KKR, BX, ARES, OWL drop 3–6% premarket on private-markets contagion fears",
+          "category": "mover",
+          "note": "First evergreen PE gate of this cycle drags the entire U.S. alts complex (KKR/BX/OWL/ARES) down 3–5% premarket — first contagion read-through from private credit jitters to private equity."
+        },
+        {
+          "id": "adp-may-2026-private-payrolls-122k",
+          "title": "ADP May 2026 — private payrolls +122K vs +117K est, prior April revised down to +105K from +109K; pay growth holds at +4.4% Y/Y as services hiring broadens",
+          "category": "macro",
+          "note": "Beats consensus by 5K but prior month revised lower; sets the table for Friday's NFP with consensus at +85K."
+        },
+        {
+          "id": "us-iran-kuwait-airport-qeshm-strike-june-3-2026",
+          "title": "Iran fires missiles at Kuwait International Airport (1 killed, 63 injured) and Bahrain on June 3 — U.S. strikes Iranian ground-control station on Qeshm Island in the Strait of Hormuz in response",
+          "category": "macro",
+          "note": "Fresh escalation distinct from May 28 Bandar Abbas/Kuwait base exchange — first attributable Iranian strike on Gulf civilian airport infrastructure this cycle with confirmed fatality."
+        },
+        {
+          "id": "m-q1-2026-earnings-june-3-2026",
+          "title": "Macy's Q1 2026 — net sales $4.7B (+1.8% Y/Y) and adj EPS $0.13 vs $0.02 est crush; comp +3.0% (best Q1 in four years) with Bloomingdale's +10.2%; FY26 EPS guide raised to $2.00–$2.20 from $1.90–$2.10; M +~2.3% premarket on June 3",
+          "category": "earnings",
+          "note": "Strongest Q1 comp in 4 years and FY26 guide raised — credibility build under CEO Spring with the Bloomingdale's franchise running at +10.2%."
+        },
+        {
+          "id": "mdt-q4-fy26-earnings-june-3-2026",
+          "title": "Medtronic Q4 FY26 — revenue $9.81B (+9.9% rep / +6.6% organic) tops $9.73B est; non-GAAP EPS $1.55 in line; FY26 +5.8% organic is highest annual revenue growth in 10 years; raises dividend for 49th straight year and guides FY27 EPS $5.90–6.00; MDT +~1.4% premarket on June 3",
+          "category": "earnings",
+          "note": "Notable rather than major: FY26 organic growth best in 10 years but EPS only in line and Q4 guide-bracketing FY27 outlook keeps premarket reaction muted at +~1.4%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "commodity",
+        "sector"
+      ]
     }
   ]
 }

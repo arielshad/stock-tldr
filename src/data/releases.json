@@ -1,8 +1,417 @@
 {
-  "generatedAt": "2026-06-03T00:41:34.469Z",
+  "generatedAt": "2026-06-03T13:40:39.899Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "googl-80b-equity-raise-ai-june-1-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Alphabet announces $80B equity capital raise to fund AI infrastructure on June 1 — upsized to $84.75B at June 2 pricing with $10B Berkshire Hathaway private placement; GOOGL slips ~2.8% intraday Tuesday",
+      "org": "Alphabet",
+      "date": "2026-06-01",
+      "url": "https://s206.q4cdn.com/479360582/files/doc_news/2026/Jun/01/attachments/2026-June-Alphabet-Equity-Capital-Raise-Press-Release-PDF.pdf",
+      "summary": "Alphabet announced an $80B equity raise on June 1 — $30B underwritten common + mandatory convertible, $40B ATM, $10B Berkshire private placement; upsized to $84.75B at June 2 pricing for AI capex.",
+      "tags": [
+        "equity-raise",
+        "atm-offering",
+        "mandatory-convertible",
+        "ai-capex",
+        "berkshire-hathaway",
+        "follow-on",
+        "mega-cap",
+        "datacenter"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "GOOGL",
+        "GOOG",
+        "BRK.B"
+      ],
+      "metrics": {
+        "Total raise": "$84.75B (upsized from $80B)",
+        "Underwritten": "$30B (common + 6.25% mandatory convertible preferred)",
+        "ATM program": "$40B",
+        "Berkshire private placement": "$10B",
+        "GOOGL Class A price": "$355.20",
+        "GOOGL Class C price": "$351.80",
+        "Move (June 2 open)": "-~3.5%",
+        "FY26 capex plan": "$180–190B"
+      },
+      "links": [
+        {
+          "label": "Alphabet IR Release",
+          "url": "https://s206.q4cdn.com/479360582/files/doc_news/2026/Jun/01/attachments/2026-June-Alphabet-Equity-Capital-Raise-Press-Release-PDF.pdf"
+        },
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/"
+        },
+        {
+          "label": "GOOGL Quote",
+          "url": "https://finance.yahoo.com/quote/GOOGL/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Alphabet taps the equity market for $84.75B — biggest tech follow-on in market history — to fund AI compute buildout.",
+        "whatIsIt": "On June 1, 2026 Alphabet announced an $80B equity capital raise. On June 2 the company priced the offering, upsized to $84.75B in total proceeds. The stated use is general corporate purposes and capex to scale AI infrastructure as demand exceeds supply.",
+        "howItWorks": "The raise has three legs: $30B in concurrent underwritten public offerings of Class A common ($355.20), Class C capital stock ($351.80), and Series A/B depositary shares for 6.25% mandatory convertible preferred ($50 each); a $40B at-the-market program selling shares directly into the open market over time; and a $10B private placement to Berkshire Hathaway. The total $4.75B upsize from the original $80B headline reflects strong order books.",
+        "whyItMatters": "This is the largest equity raise ever by a mega-cap tech company and the loudest signal yet that hyperscaler AI capex is consuming free cash flow faster than it's generated. GOOGL fell ~3.5% at the June 2 open on dilution math and the ATM creates a steady supply overhang. The Berkshire stake is also a notable validation move; expect read-throughs to MSFT, AMZN, META capex plans (combined ~$800B in 2026 industry estimate).",
+        "forWho": "mega-cap tech investors",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=424B5&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP24136682076605-1780366346_f9b67f-1780367197.jpg?resize=1200%2C630&quality=80",
+        "alt": "Google logo on a sign outside a Google office building",
+        "fit": "cover",
+        "credit": "AP via Al Jazeera"
+      },
+      "publishDate": "2026-06-03T13:40:39.899Z"
+    },
+    {
+      "id": "partners-group-evergreen-gate-alts-selloff-june-3-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Partners Group caps redemptions on $8.6B Global Value SICAV evergreen fund at 5%/qtr after Q2 requests hit 9.8% — shares plunge ~17% intraday; KKR, BX, ARES, OWL drop 3–6% premarket on private-markets contagion fears",
+      "org": "Partners Group",
+      "date": "2026-06-03",
+      "url": "https://www.swissinfo.ch/eng/partners-group-gates-evergreen-fund-as-redemptions-rise/91517861",
+      "summary": "Partners Group gates its $8.6B Global Value SICAV at 5%/qtr after Q2 redemption requests hit 9.8% — Partners Group -~17% intraday; KKR, BX, Blue Owl and Ares drop 2.5–6% in sympathy.",
+      "tags": [
+        "private-equity",
+        "evergreen-fund",
+        "redemption-gate",
+        "alts-selloff",
+        "private-credit",
+        "european-financials"
+      ],
+      "importance": "major",
+      "tickers": [
+        "KKR",
+        "BX",
+        "ARES",
+        "OWL"
+      ],
+      "metrics": {
+        "Fund gated": "Global Value SICAV ($8.6B AUM)",
+        "Redemption cap": "5% of NAV/quarter",
+        "Q2 redemption requests": "9.8% of NAV",
+        "Partners Group (PGHN.SW)": "-~17% intraday (record drop)",
+        "KKR": "-~4.7% premarket",
+        "Blackstone (BX)": "-~3.9% premarket",
+        "Blue Owl (OWL)": "-~2.7% premarket",
+        "Ares (ARES)": "-~2.5% premarket"
+      },
+      "links": [
+        {
+          "label": "SwissInfo / Bloomberg",
+          "url": "https://www.swissinfo.ch/eng/partners-group-gates-evergreen-fund-as-redemptions-rise/91517861"
+        },
+        {
+          "label": "Global Banking & Finance",
+          "url": "https://www.globalbankingandfinance.com/partners-group-caps-withdrawals-8-6-billion-fund-shares/"
+        },
+        {
+          "label": "TradingView/Invezz",
+          "url": "https://www.tradingview.com/news/invezz:ffdf622e8094b:0-partners-group-shares-tumble-after-withdrawal-limits-triggered-at-private-equity-fund/"
+        },
+        {
+          "label": "KKR Quote",
+          "url": "https://finance.yahoo.com/quote/KKR/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Partners Group activates a 5%/qtr redemption gate on its $8.6B evergreen PE fund as requests hit 9.8% — and the entire U.S. alts complex sells off.",
+        "whatIsIt": "Partners Group is restricting investor withdrawals from its Global Value SICAV — an $8.6B evergreen private equity vehicle — to 5% of net asset value per quarter, after Q2 redemption requests reached an estimated 9.8% of NAV. Evergreen funds offer periodic, not on-demand, liquidity; the cap is a built-in mechanism in fund docs.",
+        "howItWorks": "Partners Group disclosed the gate in a letter to investors. The Zurich-listed shares fell as much as ~17% intraday — a record drop — and are down ~30% YTD. CEO David Layton told Bloomberg the redemption pressure that started in private credit is now spilling into private equity, with most current requests coming from Asia/Australia private-wealth clients. Industry peers EQT (-6%), CVC (-5.8%), Bridgepoint (-4%) also slid.",
+        "whyItMatters": "The U.S. alts complex took the sympathy hit: KKR -4.7%, BX -3.9%, OWL -2.7%, ARES -2.5% premarket — confirming investors no longer see a hard line between private credit jitters and private equity vehicles. The gate triggering at all is itself the read-through — even a long-dated PE evergreen with built-in protections has limits when retail/wealth flows reverse.",
+        "forWho": "alts allocators, private-credit watchers",
+        "tryIt": "https://www.partnersgroup.com/pggv"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Partners_Group_Denver_offices.jpg",
+        "alt": "Partners Group's Denver offices",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-06-03T13:40:39.899Z"
+    },
+    {
+      "id": "adp-may-2026-private-payrolls-122k",
+      "categories": [
+        "macro"
+      ],
+      "title": "ADP May 2026 — private payrolls +122K vs +117K est, prior April revised down to +105K from +109K; pay growth holds at +4.4% Y/Y as services hiring broadens",
+      "org": "ADP Research",
+      "date": "2026-06-03",
+      "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-122-000-jobs-in-may-annual-pay-was-up-4-4-302790127.html",
+      "summary": "ADP May private payrolls +122K (vs +117K Dow Jones consensus); April revised down to +105K from +109K. Pay growth steady at +4.4% Y/Y job-stayers, 6.5% job-changers; 8 of 10 supersectors added jobs.",
+      "tags": [
+        "adp-employment",
+        "private-payrolls",
+        "may-2026",
+        "labor-market",
+        "pay-growth",
+        "nfp-preview"
+      ],
+      "importance": "major",
+      "metrics": {
+        "May private payrolls": "+122,000",
+        "Consensus": "+117,000",
+        "April (revised)": "+105,000 (from +109,000)",
+        "Pay growth Y/Y — job stayers": "+4.4%",
+        "Pay growth Y/Y — job changers": "+6.5%",
+        "Service-providing sector": "+114,000",
+        "Education & health": "+57,000",
+        "Trade/transport/utilities": "+36,000",
+        "Information": "-9,000",
+        "Friday NFP consensus": "+85,000"
+      },
+      "links": [
+        {
+          "label": "ADP Press Release",
+          "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-122-000-jobs-in-may-annual-pay-was-up-4-4-302790127.html"
+        },
+        {
+          "label": "ADP Report Site",
+          "url": "https://adpemploymentreport.com/"
+        },
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/private-sector-adds-122000-jobs-may-above-expectations-adp-says"
+        },
+        {
+          "label": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/ADP/adp-national-employment-report-private-sector-employment-increased-tg8kygvvjus7.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "ADP says private employers added 122K jobs in May — slightly above estimates — but April was revised lower as labor-market signals stay mixed.",
+        "whatIsIt": "ADP's May 2026 National Employment Report — released at 8:15 AM ET on June 3 — showed private-sector payrolls grew by 122,000 jobs, topping the +117K Dow Jones consensus. The prior month's print was revised down to +105K from +109K originally reported.",
+        "howItWorks": "Service-providing industries drove the gain at +114K, led by education and health services (+57K) and trade/transportation/utilities (+36K); information shed 9K. Small establishments (<50 employees) added 67K, large (500+) added 40K, mid-sized added 17K. Pay growth was steady: +4.4% Y/Y for job stayers, 6.5% for job changers. Chief economist Nela Richardson called hiring 'more broad-based than we've seen in the last few years.'",
+        "whyItMatters": "ADP feeds into expectations for Friday's BLS nonfarm payrolls print, where consensus is a softer +85K. The print lands with the curve already pricing the FOMC's cut path under new chair Kevin Warsh; a hotter-than-expected NFP could push back September cut bets.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://adpemploymentreport.com/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS505693/ADP_Logo.jpg?id=OA2646736&p=facebook",
+        "alt": "ADP corporate logo",
+        "fit": "contain",
+        "credit": "ADP / PR Newswire"
+      },
+      "publishDate": "2026-06-03T13:40:39.899Z"
+    },
+    {
+      "id": "us-iran-kuwait-airport-qeshm-strike-june-3-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Iran fires missiles at Kuwait International Airport (1 killed, 63 injured) and Bahrain on June 3 — U.S. strikes Iranian ground-control station on Qeshm Island in the Strait of Hormuz in response",
+      "org": "U.S. Central Command",
+      "date": "2026-06-03",
+      "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island",
+      "summary": "Iran fires ballistic missiles at Kuwait International Airport (1 dead, 63 injured) and at Bahrain (intercepted) at dawn June 3. U.S. responds with strikes on Iranian ground-control station on Qeshm Island in the Strait of Hormuz.",
+      "tags": [
+        "middle-east-conflict",
+        "us-iran",
+        "kuwait",
+        "bahrain",
+        "qeshm-island",
+        "strait-of-hormuz",
+        "ceasefire-collapse",
+        "geopolitical-risk"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Kuwait airport casualties": "1 killed, 63 injured",
+        "Iran missiles fired at Kuwait": "2 (fell short / disintegrated; drone separately struck airport)",
+        "Iran missiles fired at Bahrain": "3 (intercepted by U.S./Bahraini air defense)",
+        "U.S. response": "Strike on Iranian ground-control station, Qeshm Island"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera Live",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain"
+        },
+        {
+          "label": "Al Jazeera Report",
+          "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island"
+        },
+        {
+          "label": "Gulf News Update",
+          "url": "https://gulfnews.com/world/mena/iranian-missiles-target-bahrain-kuwait-us-says-threats-successfully-defeated-1.500561485"
+        },
+        {
+          "label": "Gulf News Explainer",
+          "url": "https://gulfnews.com/world/mena/what-triggered-the-deadly-us-iran-escalation-what-to-know-1.500561846"
+        }
+      ],
+      "explainer": {
+        "tagline": "Iran missiles hit Kuwait's main airport and target Bahrain at dawn June 3; U.S. responds with new strikes on Qeshm Island.",
+        "whatIsIt": "At dawn on June 3, 2026 Iran launched several ballistic missiles toward Gulf neighbors — two toward Kuwait that fell short or disintegrated, and three toward Bahrain that U.S. and Bahraini air defenses intercepted. A separate Iranian drone struck Kuwait International Airport, killing one person and injuring at least 63 including airport workers and passengers.",
+        "howItWorks": "Kuwait's Foreign Ministry condemned the attack and confirmed damage to terminal infrastructure. In response, U.S. CENTCOM launched strikes on an Iranian military ground-control station on Qeshm Island, which sits inside the Strait of Hormuz. The exchange comes after Iran reportedly suspended communications with mediators over an extension of the May ceasefire framework.",
+        "whyItMatters": "This is the first directly attributable Iranian strike on civilian Gulf airport infrastructure in this round, and the highest-casualty incident in the post-truce escalation cycle. The Qeshm strike escalates the U.S. footprint inside the Hormuz chokepoint; ~20% of global oil and most Qatari LNG transits Hormuz. Risk-off bid in Treasuries and a fresh bid in WTI/Brent (oil already +5–6% Monday) are the immediate transmission channels.",
+        "forWho": "macro traders, energy desks",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%D9%85%D8%A8%D9%86%D9%89_%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D8%A8_4_%D9%85%D8%B7%D8%A7%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A.jpg",
+        "alt": "Kuwait International Airport terminal building",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "publishDate": "2026-06-03T13:40:39.899Z"
+    },
+    {
+      "id": "m-q1-2026-earnings-june-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Macy's Q1 2026 — net sales $4.7B (+1.8% Y/Y) and adj EPS $0.13 vs $0.02 est crush; comp +3.0% (best Q1 in four years) with Bloomingdale's +10.2%; FY26 EPS guide raised to $2.00–$2.20 from $1.90–$2.10; M +~2.3% premarket on June 3",
+      "org": "Macy's",
+      "date": "2026-06-03",
+      "url": "https://www.stocktitan.net/news/M/macy-s-inc-reports-strong-first-quarter-2026-results-and-raises-full-xd5zz8xu47q7.html",
+      "summary": "Macy's Q1 2026 — net sales $4.7B (+1.8% Y/Y) and adj EPS $0.13 vs $0.02 est crush; comp +3.0% best Q1 in 4 years with Bloomingdale's +10.2%; FY26 EPS guide raised to $2.00–$2.20.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q1-2026",
+        "retail",
+        "department-store",
+        "bloomingdales",
+        "bluemercury",
+        "comp-sales"
+      ],
+      "importance": "major",
+      "tickers": [
+        "M"
+      ],
+      "metrics": {
+        "Net sales": "$4.7B (+1.8% Y/Y)",
+        "Comp sales (owned + licensed + Marketplace)": "+3.0% (best Q1 in 4 years)",
+        "Macy's nameplate comp": "+1.6% (Reimagine 200: +2.4%)",
+        "Bloomingdale's comp": "+10.2% (seventh straight quarter of gains)",
+        "Bluemercury comp": "+6.4%",
+        "GAAP diluted EPS": "$0.23",
+        "Adj diluted EPS": "$0.13 vs $0.02 est",
+        "FY26 adj EPS guide": "$2.00–$2.20 (from $1.90–$2.10)",
+        "FY26 comp guide": "+0.5% to +1.2% (from -0.5% to +0.5%)",
+        "Move": "+~2.3% premarket"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000794367/000162828026040037/m-20260603xexx991.htm"
+        },
+        {
+          "label": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/M/macy-s-inc-reports-strong-first-quarter-2026-results-and-raises-full-xd5zz8xu47q7.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/macys-q1-2026-earnings-beat-112512492.html"
+        },
+        {
+          "label": "M Quote",
+          "url": "https://finance.yahoo.com/quote/M/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Macy's posts its strongest Q1 comp in four years with Bloomingdale's at +10.2% and lifts FY26 EPS guide above the prior range.",
+        "whatIsIt": "Macy's Q1 2026 (quarter ended May 2) net sales rose 1.8% Y/Y to $4.7B with comp sales up 3.0% across owned + licensed + Marketplace — the strongest first-quarter comp in four years and the fourth straight quarter of comp gains. Adjusted diluted EPS came in at $0.13 versus the $0.02 consensus; GAAP EPS was $0.23.",
+        "howItWorks": "Bloomingdale's again led at +10.2% comp — its seventh consecutive quarter of growth and a record Q1 print. Bluemercury comped +6.4%. The flagship Macy's nameplate was +1.6% (Reimagine 200 stores +2.4%). Credit card net revenue grew 11.7% to $172M. Management raised FY26 guidance: net sales now $21.5–21.75B (from $21.4–21.65B), comp +0.5–1.2% (from -0.5–0.5%), adj diluted EPS $2.00–2.20 (from $1.90–2.10).",
+        "whyItMatters": "The reset narrative under CEO Tony Spring (now five straight quarters above the company's own guide) earns more credibility, and the Bloomingdale's franchise is now a clear bright spot in the department-store complex. Premarket M was +~2.3%; the read-through to KSS (under restructuring) and to off-price names (TJX, ROST, BURL) is supportive on the consumer side.",
+        "forWho": "consumer-discretionary investors",
+        "tryIt": "https://finance.yahoo.com/quote/M/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Macy_s_Inc_Reports_Strong_First_Quarter_2026_Results_and_Raises_Full_Year_Outlook_1066162.webp",
+        "alt": "Macy's Inc Q1 2026 results press release header",
+        "fit": "cover",
+        "credit": "Macy's / Stock Titan"
+      },
+      "publishDate": "2026-06-03T13:40:39.899Z"
+    },
+    {
+      "id": "mdt-q4-fy26-earnings-june-3-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Medtronic Q4 FY26 — revenue $9.81B (+9.9% rep / +6.6% organic) tops $9.73B est; non-GAAP EPS $1.55 in line; FY26 +5.8% organic is highest annual revenue growth in 10 years; raises dividend for 49th straight year and guides FY27 EPS $5.90–6.00; MDT +~1.4% premarket on June 3",
+      "org": "Medtronic",
+      "date": "2026-06-03",
+      "url": "https://news.medtronic.com/2026-06-03-Medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years",
+      "summary": "Medtronic Q4 FY26 — revenue $9.81B (+9.9% rep / +6.6% organic) tops $9.73B est; non-GAAP EPS $1.55 in line; FY26 +5.8% organic is highest annual growth in 10 years; FY27 EPS guide $5.90–6.00; MDT +~1.4% premarket.",
+      "tags": [
+        "earnings",
+        "med-devices",
+        "q4-fy26",
+        "guidance",
+        "dividend-aristocrat",
+        "cardiac-ablation",
+        "diabetes"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MDT"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$9.81B (+9.9% rep / +6.6% organic)",
+        "Q4 GAAP EPS": "$0.96",
+        "Q4 non-GAAP EPS": "$1.55 (vs ~$1.55–1.56 est)",
+        "FY26 Revenue": "$36.4B (+8.4% rep / +5.8% organic; highest in 10 yrs)",
+        "FY26 non-GAAP EPS": "$5.53 (+0.7%)",
+        "Cardiac Ablation Solutions": "+78% global / +124% U.S.",
+        "FY27 organic revenue guide": "+6.75% to +7.25%",
+        "FY27 non-GAAP EPS guide": "$5.90–$6.00",
+        "Q1 FY27 dividend/share": "$0.72 (49th straight annual hike)",
+        "FY26 FCF": "$5.4B (76% conversion)",
+        "Move": "+~1.4% premarket"
+      },
+      "links": [
+        {
+          "label": "Medtronic IR Release",
+          "url": "https://news.medtronic.com/2026-06-03-Medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years"
+        },
+        {
+          "label": "PR Newswire Mirror",
+          "url": "https://www.prnewswire.com/news-releases/medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years-302789415.html"
+        },
+        {
+          "label": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/MDT/medtronic-to-announce-financial-results-for-its-fourth-quarter-and-uihx2f7428wu.html"
+        },
+        {
+          "label": "MDT Quote",
+          "url": "https://finance.yahoo.com/quote/MDT/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Medtronic posts +6.6% organic Q4 — its best annual growth in a decade — but EPS lands in line and the premarket take is muted.",
+        "whatIsIt": "Medtronic reported Q4 FY26 revenue of $9.81B (+9.9% reported / +6.6% organic), topping the $9.73B Street estimate. Non-GAAP EPS of $1.55 was in line with consensus, GAAP EPS $0.96. Full-year FY26 revenue of $36.4B grew 5.8% organic — described by the company as the highest annual revenue growth in 10 years.",
+        "howItWorks": "Cardiac Ablation Solutions led the print with +78% global growth and +124% U.S. growth, gaining 8 points of U.S. share. Cardiovascular +10.1% organic, Medical Surgical +5.1%, Diabetes +8.1%, Neuroscience +3.0%. FY27 guidance: organic revenue +6.75–7.25%, non-GAAP EPS $5.90–6.00 (+6.7–8.5%). The company raised the Q1 FY27 dividend to $0.72/share — its 49th consecutive annual increase — and returned $4.2B to shareholders in FY26 on $5.4B free cash flow (76% conversion).",
+        "whyItMatters": "The acceleration is real — Cardiac Ablation is taking visible share against BSX and JNJ — but the EPS in-line print and FY27 guide that brackets, rather than blows past, consensus is why MDT is only ~+1.4% premarket. Sets a constructive tone for the med-device complex (BSX, JNJ MedTech, EW) ahead of the BSX investor day cycle.",
+        "forWho": "health-care sector investors",
+        "tryIt": "https://finance.yahoo.com/quote/MDT/"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2993811/Medtronic_FY26Q4_Earnings_1pager.jpg?p=facebook",
+        "alt": "Medtronic FY26 Q4 earnings infographic",
+        "fit": "contain",
+        "credit": "Medtronic / PR Newswire"
+      },
+      "publishDate": "2026-06-03T13:40:39.899Z"
+    },
     {
       "id": "panw-q3-fy26-earnings-june-2-2026",
       "categories": [
