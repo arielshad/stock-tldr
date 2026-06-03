@@ -4083,6 +4083,56 @@
         "commodity",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260603t004134z",
+      "timestamp": "2026-06-03T00:41:34.469Z",
+      "source": "github-actions-sweep",
+      "summary": "Five additions covering June 2: PANW, ULTA, GTLB (with 14% RIF), and DG earnings, plus the April JOLTS release that printed 7.6M openings vs 6.8M est. All five within the 72h cap and verified against primary sources / tier-1 coverage.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "panw-q3-fy26-earnings-june-2-2026",
+          "title": "Palo Alto Networks Q3 FY26 — revenue $3.0B (+31% Y/Y) and non-GAAP EPS $0.85 beat; NGS ARR $8.1B (+60%) and RPO $18.4B (+36%) on CyberArk + Chronosphere; FY26 revenue guide raised to $11.415–$11.425B and non-GAAP EPS to $3.77–$3.79; PANW ~+9% AH on June 2",
+          "category": "earnings",
+          "note": "Largest pure-play cybersecurity name printing 31% revenue growth and 60% NGS ARR with CyberArk/Chronosphere contributions; raised FY26 on all key lines and ~+9% AH."
+        },
+        {
+          "id": "ulta-q1-fy26-earnings-june-2-2026",
+          "title": "Ulta Beauty Q1 FY26 — net sales $3.16B (+11.1% Y/Y) and diluted EPS $7.74 (+15.5%) beat ($6.87 est); comps +5.3%, gross margin 40.1%; FY26 diluted EPS guide raised to $28.36–$28.80 and op income growth to 6.5–9%; ULTA ~+5% AH on June 2",
+          "category": "earnings",
+          "note": "Mid-cap beauty leader beat by $0.87 on EPS, raised FY26 EPS guide to $28.36–$28.80, +5% AH on June 2; primary-source 8-K backs all metrics."
+        },
+        {
+          "id": "gtlb-q1-fy27-restructuring-june-2-2026",
+          "title": "GitLab Q1 FY27 — revenue $264.2M (+23% Y/Y) and non-GAAP EPS $0.23 beat; DBNR 117%, $100K+ customers 1,519 (+18%); 14% workforce cut (~350) and exit from 22 countries to fund AI/Duo Agent push; GTLB whipsaws AH on June 2",
+          "category": "earnings",
+          "note": "Single event combining a 23% revenue beat-and-raise with a 14% workforce reduction and 22-country exit; whipsaw AH made it the headline software print of the day."
+        },
+        {
+          "id": "dg-q1-fy26-earnings-june-2-2026",
+          "title": "Dollar General Q1 FY26 — net sales $10.8B (+3.4% Y/Y), comp +2.0%, EPS $2.00 (+12.4%) beat ($1.88–$1.90 est); FY26 EPS guide raised to $7.20–$7.45 and comp to +2.2–2.7%; DG ~+5% premarket on June 2",
+          "category": "earnings",
+          "note": "First positive-comp Q1 in years under returning CEO Vasos; beat-and-raise on EPS and FY26 guide; ~+5% premarket on June 2."
+        },
+        {
+          "id": "jolts-april-2026-job-openings-june-2",
+          "title": "JOLTS April 2026 — job openings jump to 7.6M (+731K from March 6.9M revised) vs 6.8M est, highest since May 2024; hires 5.1M and total separations 5.0M as quits 3.0M and layoffs 1.7M hold steady",
+          "category": "macro",
+          "note": "Top macro print of the day — openings jumped 731K to 7.6M, biggest beat vs consensus since 2024; primary BLS release."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
