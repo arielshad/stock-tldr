@@ -483,18 +483,6 @@ function App() {
           )}
         </a>
 
-        <a
-          className="bmc-icon"
-          href="https://buymeacoffee.com/silver_d"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Buy me a coffee"
-          title="Buy me a coffee"
-          onClick={() => track("bmc:click")}
-        >
-          <img src="/coffee.png" alt="" aria-hidden="true" />
-          <span className="bmc-icon-text">Buy me a coffee</span>
-        </a>
 
         <ThemeToggle />
 
