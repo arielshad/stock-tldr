@@ -4191,6 +4191,43 @@
         "commodity",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260604t004631z",
+      "timestamp": "2026-06-04T00:46:31.231Z",
+      "source": "github-actions-sweep",
+      "summary": "Three-item sweep on the June 2–3 earnings storm: Broadcom Q2 FY26 record beat-and-raise drew a buy-the-rumor 8% AH sell-off after a 13.6% five-day pre-print rally; CrowdStrike Q1 FY27 record net-new ARR plus 4-for-1 split met with ~9% AH valuation reset; GameStop record Q1 profit and $2B buyback authorization triggered an 8% AH pop. Anthropic confidential S-1 from June 1 fell just outside the 72h cap and was dropped.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "avgo-q2-fy26-earnings-june-3-2026",
+          "title": "Broadcom Q2 FY26 — record $22.19B revenue (+48% Y/Y) and non-GAAP EPS $2.44; AI semis $10.8B (+143%) with Q3 guide $29.4B and AI $16B (+200%); AVGO -~8% AH on June 3 as 13.6% pre-print rally unwinds",
+          "category": "earnings",
+          "note": "Mega-cap AI-semi beat-and-raise with named AH catalyst (13.6% pre-print rally unwind) — primary IR press release, semi-defining read-through for NVDA/AMD."
+        },
+        {
+          "id": "crwd-q1-fy27-earnings-split-june-3-2026",
+          "title": "CrowdStrike Q1 FY27 — record $256M net new ARR (+32% Y/Y), $5.51B ARR, non-GAAP EPS $1.10 beat; raises FY27 revenue guide to $5.92–5.96B and announces 4-for-1 stock split (record June 25, trades split-adjusted July 2); CRWD ~-9% AH on June 3",
+          "category": "earnings",
+          "note": "Record net-new ARR + raised FY27 guide + 4-for-1 split paired with named ~9% AH sell-off on valuation."
+        },
+        {
+          "id": "gme-q1-fy26-record-profit-buyback-june-2-2026",
+          "title": "GameStop Q1 FY26 — record $389.6M net income on $835.3M net sales (+14% Y/Y); collectibles $348.9M (42% of sales); adj EPS $0.30 trounces $0.16 est; board authorizes $2B share buyback through June 2029; GME +~8% AH on June 2",
+          "category": "earnings",
+          "note": "Record quarterly profit + $2B buyback authorization with ~8% AH move; within 72h cap on date June 2."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

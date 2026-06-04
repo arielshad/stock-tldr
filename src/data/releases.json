@@ -1,8 +1,208 @@
 {
-  "generatedAt": "2026-06-03T13:40:39.899Z",
+  "generatedAt": "2026-06-04T00:46:31.231Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "avgo-q2-fy26-earnings-june-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "AMD"
+      ],
+      "title": "Broadcom Q2 FY26 — record $22.19B revenue (+48% Y/Y) and non-GAAP EPS $2.44; AI semis $10.8B (+143%) with Q3 guide $29.4B and AI $16B (+200%); AVGO -~8% AH on June 3 as 13.6% pre-print rally unwinds",
+      "org": "Broadcom",
+      "date": "2026-06-03",
+      "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302790698.html",
+      "summary": "Broadcom posts record Q2 revenue $22.19B (+48%), GAAP EPS $1.91 / non-GAAP $2.44; AI semis $10.8B (+143%) and Q3 guide $29.4B with AI $16B (+200%); stock falls ~8% AH after 13.6% five-day rally.",
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "ai-semis",
+        "semis",
+        "infrastructure-software",
+        "guidance-raise",
+        "dividend",
+        "buy-the-rumor"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$22.19B (+48% Y/Y)",
+        "GAAP EPS": "$1.91",
+        "Non-GAAP EPS": "$2.44",
+        "AI semi revenue": "$10.8B (+143% Y/Y)",
+        "Q3 guide": "$29.4B (+84% Y/Y)",
+        "Q3 AI guide": "$16.0B (+200% Y/Y)",
+        "Dividend": "$0.65/sh quarterly",
+        "Move": "-~8% AH"
+      },
+      "explainer": {
+        "tagline": "Record AI-semi quarter, blow-out Q3 guide — and an 8% AH sell-off as the 13.6% pre-print rally unwinds.",
+        "whatIsIt": "Broadcom reported Q2 FY26 (quarter ended May 3) after the bell on Wednesday June 3. Revenue hit a record $22.19B (+48% Y/Y), GAAP net income $9.3B with GAAP EPS $1.91 and non-GAAP EPS $2.44. Adjusted EBITDA $15.2B (69% of revenue) and free cash flow $10.3B (46% of revenue) were also records.",
+        "howItWorks": "Semiconductor Solutions $15.0B included AI semis $10.8B, up 143% Y/Y on custom AI accelerators and AI networking; Infrastructure Software $7.2B grew 9%. CEO Hock Tan guided Q3 revenue to ~$29.4B (+84% Y/Y) with AI semi revenue topping $16.0B (+200% Y/Y), and the board declared a $0.65/share quarterly dividend payable June 30.",
+        "whyItMatters": "AVGO has rallied 13.6% in the five sessions into the print, adding ~$270B in market cap, so a record-beat-and-raise still leaves a thin margin for upside surprise. Shares dropped ~8% AH on classic profit-taking; comps NVDA (Q3 outlook in August) and AMD trade in sympathy on read-through to custom-silicon and AI-networking pricing.",
+        "forWho": "AI-semi traders, hyperscaler-supply-chain analysts",
+        "tryIt": "https://finance.yahoo.com/quote/AVGO"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Broadcom_Headquarters_San_Jose.jpg/1280px-Broadcom_Headquarters_San_Jose.jpg",
+        "alt": "Broadcom headquarters building in San Jose, California",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302790698.html"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/AVGO/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-if4yrbje8hq6.html"
+        },
+        {
+          "label": "AVGO Quote",
+          "url": "https://finance.yahoo.com/quote/AVGO"
+        }
+      ],
+      "publishDate": "2026-06-04T00:46:31.231Z"
+    },
+    {
+      "id": "crwd-q1-fy27-earnings-split-june-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "CRWD"
+      ],
+      "title": "CrowdStrike Q1 FY27 — record $256M net new ARR (+32% Y/Y), $5.51B ARR, non-GAAP EPS $1.10 beat; raises FY27 revenue guide to $5.92–5.96B and announces 4-for-1 stock split (record June 25, trades split-adjusted July 2); CRWD ~-9% AH on June 3",
+      "org": "CrowdStrike",
+      "date": "2026-06-03",
+      "url": "https://www.benzinga.com/markets/earnings/26/06/52987804/crowdstrike-delivers-beat-and-raise-q1-announces-4-for-1-stock-split",
+      "summary": "CrowdStrike Q1 FY27 beat ($1.39B revenue +26%, EPS $1.10 vs $1.07 est, $256M record net new ARR) and raised FY27 to $5.92–5.96B; 4-for-1 split takes effect July 2, but CRWD drops ~9% AH on valuation reset.",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "cybersecurity",
+        "arr",
+        "guidance-raise",
+        "stock-split",
+        "ai-security"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1.39B (+26% Y/Y)",
+        "Ending ARR": "$5.51B (+24% Y/Y)",
+        "Net new ARR": "$256M (+32%, record Q1)",
+        "Non-GAAP EPS": "$1.10 (vs $1.07 est)",
+        "Free cash flow": "$468M (34% of revenue)",
+        "FY27 revenue guide": "$5.92–5.96B (raised)",
+        "FY27 EPS guide": "$4.88–4.96 (raised)",
+        "Stock split": "4-for-1; record June 25, trades July 2",
+        "Move": "-~9% AH"
+      },
+      "explainer": {
+        "tagline": "Record net new ARR, raised guide and a 4-for-1 split — but CRWD slips ~9% AH on valuation after a 40% rally off the April lows.",
+        "whatIsIt": "CrowdStrike posted Q1 FY27 (quarter ended April 30, 2026) after the close on Wednesday June 3. Revenue was $1.39B (+26% Y/Y), subscription $1.32B (+26%), and non-GAAP EPS $1.10 (+15%) topped the $1.07 consensus.",
+        "howItWorks": "Ending ARR reached $5.51B (+24% Y/Y) with a record Q1 net new ARR of $256M (+32%). FY27 revenue guide raised to $5.92–5.96B from $5.87–5.93B and non-GAAP EPS to $4.88–4.96 from $4.78–4.90. The board approved a 4-for-1 forward stock split: record date June 25, three extra shares per share after the July 1 close, split-adjusted trading from July 2.",
+        "whyItMatters": "Even with a beat-and-raise, software has rallied 40% off April lows and Q2 revenue guide of $1.436–1.442B only matches consensus. The market reset CRWD ~9% in AH from a $681 print; CEO George Kurtz framed the quarter as 'AI security infrastructure' becoming critical to AI adoption. The split makes round lots accessible into a high-vol summer for security names.",
+        "forWho": "cybersecurity sector traders, growth-software analysts",
+        "tryIt": "https://finance.yahoo.com/quote/CRWD"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108313292-1779985196223-gettyimages-2264127364-campbell-notitle260303_npGQz.jpeg?v=1779985232&w=1920&h=1080",
+        "alt": "CrowdStrike CEO George Kurtz at company event",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/06/52987804/crowdstrike-delivers-beat-and-raise-q1-announces-4-for-1-stock-split"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/03/crowdstrike-crwd-q1-2027-earnings-transcript/"
+        },
+        {
+          "label": "Sherwood Coverage",
+          "url": "https://sherwood.news/markets/crowdstrike-q1-2027-earnings/"
+        },
+        {
+          "label": "CRWD Quote",
+          "url": "https://finance.yahoo.com/quote/CRWD"
+        }
+      ],
+      "publishDate": "2026-06-04T00:46:31.231Z"
+    },
+    {
+      "id": "gme-q1-fy26-record-profit-buyback-june-2-2026",
+      "categories": [
+        "earnings",
+        "mover",
+        "insider"
+      ],
+      "tickers": [
+        "GME"
+      ],
+      "title": "GameStop Q1 FY26 — record $389.6M net income on $835.3M net sales (+14% Y/Y); collectibles $348.9M (42% of sales); adj EPS $0.30 trounces $0.16 est; board authorizes $2B share buyback through June 2029; GME +~8% AH on June 2",
+      "org": "GameStop",
+      "date": "2026-06-02",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-q1-2026-earnings-record-115457004.html",
+      "summary": "GameStop posts record $389.6M Q1 net income on $835.3M net sales (+14%) as collectibles climb to 42% of revenue; adj EPS $0.30 beats $0.16 est; board approves $2B buyback through 2029; GME +~8% AH June 2.",
+      "tags": [
+        "earnings",
+        "q1-fy26",
+        "collectibles",
+        "buyback",
+        "record-profit",
+        "meme-stock"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$835.3M (+14% Y/Y)",
+        "Net income": "$389.6M (record quarterly)",
+        "Operating income": "$143.3M (vs -$10.8M Y/Y)",
+        "Adj EPS": "$0.30 vs $0.16 est",
+        "Collectibles revenue": "$348.9M (42% of sales)",
+        "Cash + crypto + collateral": "$9.7B",
+        "Buyback": "$2B through June 2 2029",
+        "Move": "+~8% AH"
+      },
+      "explainer": {
+        "tagline": "Highest quarterly profit in GameStop's history, $2B fresh buyback and a collectibles business that now drives 42% of sales.",
+        "whatIsIt": "GameStop reported Q1 FY26 (quarter ended May 2, 2026) after the close on Tuesday June 2. Net sales reached $835.3M from $732.4M Y/Y (+14%), and net income of $389.6M was the highest quarterly profit in company history.",
+        "howItWorks": "Collectibles — trading cards, apparel, toys, pop culture merchandise — contributed $348.9M, up from $211.5M Y/Y, lifting collectibles' share of revenue from 29% to 42%. Operating income flipped to $143.3M from a $10.8M loss as SG&A fell to $201.6M from $228.1M. Adjusted EPS of $0.30 beat the $0.16 consensus. The board separately approved a $2.0B discretionary share repurchase authorization that runs through June 2, 2029, replacing the prior 2019 plan.",
+        "whyItMatters": "GameStop's transformation from a money-losing legacy retailer into a profit-printing collectibles + cash-hoard story is now hard to argue with — $9.7B in cash, marketable securities and digital-asset-related collateral, plus a record operating quarter. The $2B authorization gives Ryan Cohen optionality to support the stock or hold dry powder for opportunistic capital allocation. Shares jumped ~8% AH.",
+        "forWho": "retail traders, special-situations desks tracking meme-eligible balance sheets",
+        "tryIt": "https://finance.yahoo.com/quote/GME"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/eLWiRlFtt4JaLc7WenMPfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/1cfc1453426644073bd1cc158d7aa23e",
+        "alt": "GameStop storefront",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Quartz"
+      },
+      "links": [
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-q1-2026-earnings-record-115457004.html"
+        },
+        {
+          "label": "Quartz Story",
+          "url": "https://qz.com/gamestop-record-profit-buyback-collectibles-060326"
+        },
+        {
+          "label": "GME Quote",
+          "url": "https://finance.yahoo.com/quote/GME"
+        }
+      ],
+      "publishDate": "2026-06-04T00:46:31.231Z"
+    },
     {
       "id": "googl-80b-equity-raise-ai-june-1-2026",
       "categories": [
