@@ -4228,6 +4228,56 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260604t130843z",
+      "timestamp": "2026-06-04T13:08:43.703Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds for the June 4 sweep: PVH cuts FY26 revenue on Middle East-driven EMEA weakness (Q1 beat, FY guide trim, -19% AH), Ciena beats and lifts FY26 to $6.3B on AI optical demand but the optical complex still sells off, SpaceX nails a fixed $135 IPO price ahead of the June 4 roadshow ($75B raise at $1.75T) and the Gorilla/Supermicro $2B Yotta India deal sells off both names on financing math.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "pvh-q1-fy26-emea-guide-cut-june-3-2026",
+          "title": "PVH Q1 FY26 — non-GAAP EPS $2.01 beats $1.82 est on $2.03B revenue (+2% rep / -2% cc) but trims FY26 revenue outlook to ~flat as Middle East war hits EMEA; PVH ~-19% AH on June 3",
+          "category": "earnings",
+          "note": "Apparel mega-cap beat-but-guides-lower; Iran/Middle East war read-through to EMEA-exposed consumer names, -19% AH."
+        },
+        {
+          "id": "cien-q2-fy26-earnings-june-4-2026",
+          "title": "Ciena Q2 FY26 — record $1.57B revenue (+40% Y/Y) and adj EPS $1.64 trounce $1.46 est; raises FY26 revenue guide to $6.3B ±$100M (+32% Y/Y midpoint) on AI-driven optical demand; CIEN ~-6% premarket on June 4 as broader optical complex sells off",
+          "category": "earnings",
+          "note": "Pure-play AI optical print: rev +40%, FY26 raise on AI data-center interconnect demand, but stock -6% premarket as optical complex sells off."
+        },
+        {
+          "id": "spacex-ipo-roadshow-135-fixed-june-3-2026",
+          "title": "SpaceX sets fixed $135 IPO price ahead of June 4 roadshow — 555.6M shares to raise record $75B at $1.75T valuation; June 11 pricing, June 12 debut as 'SPCX' on Nasdaq + Nasdaq Texas",
+          "category": "ipo",
+          "note": "FWP filed June 3 fixes $135/share for the largest IPO ever — distinct event from May 20 S-1 filing."
+        },
+        {
+          "id": "grrr-smci-yotta-india-2b-ai-deal-june-2-2026",
+          "title": "Gorilla Technology and Supermicro seal $2B India AI infrastructure deal for Yotta — 20,736 Blackwell B300 and 5,120 B200 GPU cards plus networking; GRRR -20% / SMCI -9% on June 3 'sell the news' after pre-print run",
+          "category": "mover",
+          "note": "Single-name +9% / +20% catalysts paired (Yotta deal + financing concerns); reads through to Nvidia Blackwell India demand."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "ipo",
+        "macro",
+        "crypto",
+        "commodity",
+        "rates",
+        "fx",
+        "regulatory"
+      ]
     }
   ]
 }

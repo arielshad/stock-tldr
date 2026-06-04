@@ -1,8 +1,302 @@
 {
-  "generatedAt": "2026-06-04T00:46:31.231Z",
+  "generatedAt": "2026-06-04T13:08:43.703Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "pvh-q1-fy26-emea-guide-cut-june-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "PVH Q1 FY26 — non-GAAP EPS $2.01 beats $1.82 est on $2.03B revenue (+2% rep / -2% cc) but trims FY26 revenue outlook to ~flat as Middle East war hits EMEA; PVH ~-19% AH on June 3",
+      "org": "PVH Corp.",
+      "date": "2026-06-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000078239/000007823926000034/ex99120261q8k.htm",
+      "summary": "Calvin Klein and Tommy Hilfiger parent beats top and bottom line for Q1 FY26 but cuts FY26 revenue guide to about flat reported (down slightly in constant currency) on prolonged Middle East conflict pressure across EMEA; non-GAAP EPS guide $11.80–$12.10 held by tariff-refund offset.",
+      "tickers": [
+        "PVH"
+      ],
+      "metrics": {
+        "Revenue": "$2.03B (+2% rep / -2% cc)",
+        "Non-GAAP EPS": "$2.01 vs $1.82 est",
+        "GAAP EPS": "$1.90",
+        "DTC growth": "+6% reported / +3% cc",
+        "FY26 revenue guide": "~flat rep (was slight increase)",
+        "FY26 non-GAAP EPS guide": "$11.80–$12.10",
+        "FY26 op margin": "~8.8% (unchanged)",
+        "Buyback FY26": "≥$300M",
+        "Move": "-19.1% AH on June 3"
+      },
+      "tags": [
+        "earnings",
+        "q1-fy26",
+        "eps-beat",
+        "guidance-cut",
+        "emea",
+        "middle-east",
+        "calvin-klein",
+        "tommy-hilfiger",
+        "tariffs",
+        "apparel"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "PVH beats Q1 but slashes FY26 revenue outlook as Middle East war drags EMEA — stock sheds ~19% after hours.",
+        "whatIsIt": "PVH Corp., parent of Calvin Klein and Tommy Hilfiger, reported Q1 FY26 results after the close on June 3 that beat consensus but came with a meaningful FY26 revenue guide reduction. Management blamed prolonged effects of the Iran/Middle East conflict on EMEA — direct Middle East wholesale, knock-on Turkey weakness, and European consumers reacting to higher fuel costs through the Strait of Hormuz.",
+        "howItWorks": "Q1 revenue was $2.03B (+2% reported, –2% constant currency), with non-GAAP EPS of $2.01 vs $1.82 consensus and GAAP EPS of $1.90. Direct-to-consumer grew 6% reported (+3% cc) across both brands. FY26 revenue is now expected approximately flat on a reported basis (down slightly cc), down from prior 'flat to slightly up' guidance. The non-GAAP operating margin outlook of ~8.8% was reaffirmed, with tariff-refund benefits and FX offsetting the Middle East drag. The company expects to repurchase at least $300M of stock in FY26.",
+        "whyItMatters": "PVH had been a relative bright spot in apparel — Q1 itself was a beat — so the FY guide cut sharply repriced the stock and is a fresh data point for sell-side desks tracking apparel exposure to the Iran conflict. Larsson's commentary that European consumers are pulling back on higher fuel costs is a read-through to other EMEA-exposed names (Tapestry, Capri, LVMH wholesale, Adidas, Puma) and a reminder that the oil/geopolitics channel is now hitting Western consumer numbers, not just energy and defense.",
+        "forWho": "apparel and EMEA-exposed equity desks, macro consumer trackers"
+      },
+      "image": {
+        "url": "https://stockstory.org/stockstory/company-image/PVH",
+        "alt": "PVH Corp. Calvin Klein Tommy Hilfiger storefront",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC — PVH 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000078239/000007823926000034/ex99120261q8k.htm"
+        },
+        {
+          "label": "WWD — Iran impact framing",
+          "url": "https://wwd.com/business-news/financial/pvh-q1-2026-iran-outlook-stefan-larsson-1238993237/"
+        },
+        {
+          "label": "TradingView — Q1 revenue + margin recap",
+          "url": "https://www.tradingview.com/news/tradingview:39cb193e36e8f:0-pvh-reports-q1-revenue-2-03b-non-gaap-eps-2-01-reaffirms-2026-margin-8-8/"
+        },
+        {
+          "label": "Just-Style — EMEA weakness detail",
+          "url": "https://www.just-style.com/news/pvh-corp-q1-result/"
+        },
+        {
+          "label": "TradingView — PVH symbol page",
+          "url": "https://www.tradingview.com/symbols/NYSE-PVH/"
+        }
+      ],
+      "publishDate": "2026-06-04T13:08:43.703Z"
+    },
+    {
+      "id": "cien-q2-fy26-earnings-june-4-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Ciena Q2 FY26 — record $1.57B revenue (+40% Y/Y) and adj EPS $1.64 trounce $1.46 est; raises FY26 revenue guide to $6.3B ±$100M (+32% Y/Y midpoint) on AI-driven optical demand; CIEN ~-6% premarket on June 4 as broader optical complex sells off",
+      "org": "Ciena",
+      "date": "2026-06-04",
+      "url": "https://www.stocktitan.net/sec-filings/CIEN/8-k-ciena-corp-reports-material-event-26f71311f5b9.html",
+      "summary": "Optical-networking name crushes Q2 with revenue +40% on AI-driven cloud demand and lifts FY26 revenue guide to $6.3B (+32% Y/Y at midpoint), but CIEN trades ~-6% premarket on June 4 as Lumentum, Coherent, Marvell and Corning drag the entire optical complex lower.",
+      "tickers": [
+        "CIEN",
+        "LUMN",
+        "MRVL",
+        "COHR"
+      ],
+      "metrics": {
+        "Revenue": "$1.57B (+40% Y/Y)",
+        "Adj EPS": "$1.64 vs $1.46 est (+290% Y/Y)",
+        "Adj gross margin": "44.9%",
+        "Adj op margin": "19.5%",
+        "Free cash flow": "$219M (+71% Y/Y)",
+        "Q3 FY26 revenue guide": "$1.625B ±$50M",
+        "FY26 revenue guide": "$6.3B ±$100M (~+32% Y/Y mid)",
+        "Move": "-5.7% to -8.9% premarket on June 4"
+      },
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "eps-beat",
+        "guide-raise",
+        "ai-capex",
+        "optical-networking",
+        "data-center-interconnect",
+        "cloud"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Ciena crushes Q2 and lifts FY26 guide on AI-driven optical demand — but the whole optical complex is selling off.",
+        "whatIsIt": "Ciena reported fiscal Q2 2026 results before the open on June 4. Revenue and EPS both blew past consensus, and management raised FY26 revenue guidance again on what it called 'structural, multi-year' AI-driven demand for data-center interconnect and high-speed networking from cloud providers. Despite the beat-and-raise, the stock fell premarket as optical-networking peers Lumentum, Coherent, Marvell, and Corning all traded lower.",
+        "howItWorks": "Q2 revenue came in at $1.57B (+40% Y/Y) versus consensus around $1.53B. Adjusted EPS was $1.64 vs $1.46 expected — a 290% Y/Y increase reflecting margin expansion. Adjusted gross margin was 44.9% and adjusted operating margin 19.5%; free cash flow was $219M (+71% Y/Y). For Q3 FY26, Ciena guided revenue to $1.625B ±$50M with adjusted op margin 19–20%. FY26 revenue guide was raised to $6.3B ±$100M (from $5.9–$6.3B), implying ~32% Y/Y growth at the midpoint. CIEN opened the day down roughly 6% premarket as the optical group sold off in sympathy.",
+        "whyItMatters": "Ciena is one of the cleanest pure-plays on AI-driven optical/DCI capex from hyperscalers, so a beat-and-raise here is a positive read-through to MRVL, COHR, LUMN, AVGO networking, and Nvidia's networking business. The premarket drop on a clean beat is itself a tell — sell-the-news positioning on optical names that have already rallied hard into prints, and shows the bar is now 'how much above the high-end raise', not 'did you beat'.",
+        "forWho": "AI infrastructure and semis equity desks, optical networking trackers"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/filing-covers/cien_8-K.webp",
+        "alt": "Ciena Corp 8-K filing cover for fiscal Q2 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Ciena 8-K Press Release",
+          "url": "https://www.stocktitan.net/sec-filings/CIEN/8-k-ciena-corp-reports-material-event-26f71311f5b9.html"
+        },
+        {
+          "label": "CoinCentral — CIEN -6% post-earnings",
+          "url": "https://coincentral.com/ciena-cien-stock-falls-6-after-earnings-beat-heres-why/"
+        },
+        {
+          "label": "ChartMill — Optical complex sell-off",
+          "url": "https://www.chartmill.com/news/CIEN/Chartmill-49435-Ciena-NYSECIEN-Stock-Drops-Despite-Q2-Earnings-Beat-as-Full-Year-Guidance-Fails-to-Impress"
+        },
+        {
+          "label": "Stocktitan — Q2 release coverage",
+          "url": "https://www.stocktitan.net/news/CIEN/ciena-reports-fiscal-second-quarter-2026-financial-s8y5ae6vcv5l.html"
+        },
+        {
+          "label": "TradingView — CIEN symbol page",
+          "url": "https://www.tradingview.com/symbols/NYSE-CIEN/"
+        }
+      ],
+      "publishDate": "2026-06-04T13:08:43.703Z"
+    },
+    {
+      "id": "spacex-ipo-roadshow-135-fixed-june-3-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "SpaceX sets fixed $135 IPO price ahead of June 4 roadshow — 555.6M shares to raise record $75B at $1.75T valuation; June 11 pricing, June 12 debut as 'SPCX' on Nasdaq + Nasdaq Texas",
+      "org": "SpaceX",
+      "date": "2026-06-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026040610/spacexfwp.htm",
+      "summary": "SpaceX publicly fixes the IPO price at $135 per share on June 3 in an SEC FWP filing — 555.6M shares to raise $75B (largest ever) at a $1.75T valuation. Roadshow starts June 4, pricing June 11, Nasdaq + Nasdaq Texas debut June 12 under ticker SPCX with up to 30% retail allocation.",
+      "tickers": [
+        "SPCX"
+      ],
+      "metrics": {
+        "IPO price": "$135 (fixed pre-roadshow)",
+        "Shares offered": "555.6M",
+        "Raise": "~$75B (record IPO)",
+        "Valuation": "$1.75T",
+        "Roadshow start": "June 4, 2026",
+        "Pricing": "June 11, 2026",
+        "First trade": "June 12, 2026",
+        "Retail allocation": "up to ~30%",
+        "Q1 2026 revenue": "$4.69B",
+        "Q1 2026 op loss": "$1.94B",
+        "Q1 2026 adj EBITDA": "$1.13B"
+      },
+      "tags": [
+        "ipo",
+        "spacex",
+        "spcx",
+        "musk",
+        "starlink",
+        "nasdaq",
+        "nasdaq-texas",
+        "record-ipo",
+        "fwp",
+        "fixed-price"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "SpaceX nails the IPO price at $135/share before the roadshow even starts — pulling forward the most-watched listing in a generation.",
+        "whatIsIt": "SpaceX filed an FWP with the SEC on June 3 fixing the IPO offering price at $135 per share, sized at 555.6M shares for a raise of approximately $75B — the largest IPO ever — and a fully-diluted valuation of about $1.75 trillion. The roadshow begins June 4, with pricing on June 11 and trading scheduled to begin June 12 under ticker SPCX on both Nasdaq and Nasdaq Texas. Up to ~30% of the deal is being earmarked for retail.",
+        "howItWorks": "Posting a fixed price before the roadshow is highly unusual for US IPOs, which traditionally use a price range and bookbuild to set the final number. Bankers Goldman Sachs, Morgan Stanley, BofA, Citi, and JPMorgan still handle the institutional roadshow, but allocation will be driven by demand at $135 rather than price discovery. SpaceX's amended S-1/A on June 1 disclosed Q1 2026 revenue of $4.69B, operating loss of $1.94B, and adjusted EBITDA of $1.13B, with Starlink subscribers crossing 10M. Musk retains over 82% voting control post-IPO via a multi-class structure.",
+        "whyItMatters": "At $1.75T this would be the seventh-largest US-listed company at debut and instantly above Tesla. The fixed-price gambit pulls forward demand and reduces the usual IPO 'pop' window, which has implications for how index providers and ETFs will scramble to get exposure — SPCX is widely expected to be added to S&P 500 and Nasdaq-100 trackers quickly. Underwriter syndicate gets a chunky fee day, and the retail tranche is a test of how much absorbative capacity exists outside institutional books. A successful $75B raise also drains a meaningful slug of liquidity from public-market positioning right as the Fed is on hold.",
+        "forWho": "IPO desks, indexers, retail flow desks, aerospace and satcom analysts",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/reuters-finance.com/6fb637a898777a66a59595d50ea3394b",
+        "alt": "SpaceX rocket on launchpad ahead of historic IPO",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "SEC — SpaceX FWP (June 3)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026040610/spacexfwp.htm"
+        },
+        {
+          "label": "Reuters via Yahoo — $135 fixed price",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-sets-135-price-blockbuster-203928698.html"
+        },
+        {
+          "label": "CNBC — Live IPO updates",
+          "url": "https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html"
+        },
+        {
+          "label": "TheNextWeb — Voting-control breakdown",
+          "url": "https://thenextweb.com/news/spacex-ipo-s1-musk-voting-control"
+        }
+      ],
+      "publishDate": "2026-06-04T13:08:43.703Z"
+    },
+    {
+      "id": "grrr-smci-yotta-india-2b-ai-deal-june-2-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Gorilla Technology and Supermicro seal $2B India AI infrastructure deal for Yotta — 20,736 Blackwell B300 and 5,120 B200 GPU cards plus networking; GRRR -20% / SMCI -9% on June 3 'sell the news' after pre-print run",
+      "org": "Gorilla Technology Group",
+      "date": "2026-06-02",
+      "url": "https://investors.gorilla-technology.com/gorilla-technology-announces-2-billion-ai-infrastructure-deal-in-india-with-supermicro-expanding-strategic-collaboration-across-asia-pacific/",
+      "summary": "Gorilla Technology announces $2B agreement with Super Micro Computer to supply 20,736 Blackwell B300 and 5,120 B200 GPU cards plus networking for Gorilla's Yotta AI data-center build-out in India. Despite the deal's scale, GRRR -20% to $17.45 and SMCI -9% to $45.80 on June 3 as financing and dilution math overshadow the order.",
+      "tickers": [
+        "GRRR",
+        "SMCI"
+      ],
+      "metrics": {
+        "Deal size": "~$2B",
+        "GPU mix": "20,736 B300 + 5,120 B200 cards",
+        "End use": "Yotta India AI data centers",
+        "GRRR move (June 3)": "-20% to $17.45",
+        "SMCI move (June 3)": "-9% to $45.80",
+        "GRRR YTD pre-print": "+~99%",
+        "SMCI YTD pre-print": "+~71%",
+        "GRRR market cap (pre-print)": "~$602M"
+      },
+      "tags": [
+        "ai-infrastructure",
+        "ai-capex",
+        "india",
+        "yotta",
+        "blackwell",
+        "b300",
+        "b200",
+        "supply-deal",
+        "data-center",
+        "sell-the-news"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Gorilla's $2B Supermicro AI deal in India is a 'sell-the-news' wreck — financing math beats up small-cap GRRR, drags SMCI 9% lower.",
+        "whatIsIt": "On June 2, Gorilla Technology Group announced a strategic $2B agreement with Super Micro Computer to supply GPU cards, networking, and AI-infrastructure for Gorilla's Yotta data-center build-out in India. The order covers 20,736 Nvidia Blackwell B300 cards and 5,120 B200 cards plus interconnect, and is paired with a broader framework to chase additional sovereign-AI work across India, the Middle East, and Asia Pacific.",
+        "howItWorks": "Despite the scale, both stocks fell hard on June 3. GRRR tumbled ~20% to $17.45 and SMCI dropped ~9% to $45.80. The core reason is balance-sheet math: a $2B commitment dwarfs Gorilla's roughly $602M market cap, and on June 3 Gorilla filed to expand its shelf registration by $17.9M, signaling equity issuance is coming. Both names had also run hard into the print — GRRR ~+99% YTD and SMCI ~+71% YTD with a recent ~145% rally off lows — so the announcement landed in 'sell the news' territory.",
+        "whyItMatters": "For SMCI bulls this confirms the Blackwell-mix order book remains chunky and India sovereign-AI deals are real, but the dilution risk reads through to other small-cap AI infrastructure partners trying to swing deals larger than their balance sheet. For NVDA, ~26,000 Blackwell cards is incremental signal on B200/B300 demand outside the US hyperscalers, with India and Middle East increasingly visible as growth lanes alongside the well-known US AI capex story.",
+        "forWho": "AI semis traders, small-cap AI infra screeners, India tech analysts"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/HROU50k7JYaUcg6jtGCC.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://media.zenfs.com/en/24_7_wall_st__718/456dd010972b49c2bfde42d94792267c",
+        "alt": "Super Micro Computer and Gorilla Technology AI data center deal",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Gorilla IR Announcement",
+          "url": "https://investors.gorilla-technology.com/gorilla-technology-announces-2-billion-ai-infrastructure-deal-in-india-with-supermicro-expanding-strategic-collaboration-across-asia-pacific/"
+        },
+        {
+          "label": "Yahoo Finance — SMCI/GRRR move",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-sinks-9-173757582.html"
+        },
+        {
+          "label": "24/7 Wall St — Deal vs financing analysis",
+          "url": "https://247wallst.com/investing/2026/06/03/super-micro-computer-sinks-9-gorilla-technology-tumbles-20-despite-2-billion-india-ai-infrastructure-deal/"
+        },
+        {
+          "label": "Stocktwits — Shelf-registration overshadows deal",
+          "url": "https://stocktwits.com/news-articles/markets/equity/grrr-stock-slides-despite-2b-supermicro-ai-deal-heres-why/cZ0SCTiRexc"
+        },
+        {
+          "label": "Yahoo Finance — SMCI quote",
+          "url": "https://finance.yahoo.com/quote/SMCI/"
+        }
+      ],
+      "publishDate": "2026-06-04T13:08:43.703Z"
+    },
     {
       "id": "avgo-q2-fy26-earnings-june-3-2026",
       "categories": [
