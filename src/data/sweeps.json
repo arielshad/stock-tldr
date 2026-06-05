@@ -4342,6 +4342,39 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260605t130219z",
+      "timestamp": "2026-06-05T13:02:19.085Z",
+      "source": "github-actions-sweep",
+      "summary": "Single addition: the May 2026 Employment Situation report (June 5). Payrolls +172K crushed the ~80K consensus, March and April revised up +93K combined and unemployment held at 4.3% — the only tier-1 primary-source release inside the 72h window after a heavy June 1–4 earnings/macro week was already swept.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bls-may-2026-jobs-report",
+          "title": "U.S. May 2026 jobs report — nonfarm payrolls +172K trounce 80K Dow Jones consensus; unemployment unchanged at 4.3%; March revised up to +214K and April to +179K (combined +93K higher); avg hourly earnings +0.3% M/M to $37.53 (+3.4% Y/Y)",
+          "category": "macro",
+          "note": "Friday NFP — primary BLS source, ~80K consensus crushed (+172K) with +93K combined revisions to March/April, hawkish read into Warsh's first June 16–17 FOMC; Treasury yields rose."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "ipo",
+        "analyst",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

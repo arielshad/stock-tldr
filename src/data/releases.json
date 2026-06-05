@@ -1,8 +1,91 @@
 {
-  "generatedAt": "2026-06-05T00:39:51.763Z",
+  "generatedAt": "2026-06-05T13:02:19.085Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bls-may-2026-jobs-report",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. May 2026 jobs report — nonfarm payrolls +172K trounce 80K Dow Jones consensus; unemployment unchanged at 4.3%; March revised up to +214K and April to +179K (combined +93K higher); avg hourly earnings +0.3% M/M to $37.53 (+3.4% Y/Y)",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-06-05",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "summary": "BLS Employment Situation for May 2026 (released Friday June 5, 8:30am ET) — payrolls +172K vs ~80K Dow Jones consensus and unemployment unchanged at 4.3%. March revised up 29K to +214K and April up 64K to +179K (combined +93K). Avg hourly earnings +0.3% to $37.53 (+3.4% Y/Y).",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Nonfarm payrolls (May)": "+172,000 vs ~80K est",
+        "Unemployment rate": "4.3% (unchanged)",
+        "Avg hourly earnings M/M": "+$0.12 (+0.3%) to $37.53",
+        "Avg hourly earnings Y/Y": "+3.4%",
+        "Leisure & hospitality": "+70K",
+        "Local government": "+55K (excl. ed +44K)",
+        "Health care": "+35K",
+        "Financial activities": "-22K",
+        "April revision": "+115K → +179K (+64K)",
+        "March revision": "+185K → +214K (+29K)",
+        "Combined revisions": "+93K higher",
+        "Labor force participation": "61.8% (unchanged)",
+        "Long-term unemployed": "2.0M (27.5% of unemployed)"
+      },
+      "tags": [
+        "macro",
+        "nfp",
+        "payrolls",
+        "employment-situation",
+        "may-2026",
+        "bls",
+        "unemployment",
+        "wages",
+        "fed-watch",
+        "warsh-fed",
+        "jobs-report",
+        "low-hire-low-fire",
+        "leisure-hospitality"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "May NFP +172K smashes the 80K bar and March/April get revised +93K higher — hawkish tape going into Warsh's first FOMC.",
+        "whatIsIt": "The Bureau of Labor Statistics released the Employment Situation for May 2026 on Friday June 5 at 8:30 a.m. ET. Total nonfarm payroll employment rose by 172,000 and the unemployment rate held at 4.3 percent, which has now stayed in a narrow 4.3–4.5% range since July 2025.",
+        "howItWorks": "Payroll gains roughly doubled the ~80K Dow Jones consensus. March was revised up 29K to +214K and April up 64K to +179K, leaving combined two-month revisions +93K higher than previously reported. May job gains concentrated in leisure and hospitality (+70K, well above the 14K twelve-month average), local government (+55K) and health care (+35K); financial activities lost 22K and is down 107K since the May 2025 peak. Average hourly earnings rose 12 cents to $37.53 (+0.3% M/M, +3.4% Y/Y) and the labor force participation rate held at 61.8%.",
+        "whyItMatters": "The beat-and-revise combo undercuts any near-term cut thesis going into new Fed Chair Kevin Warsh's first FOMC meeting on June 16–17. Fed-funds futures already priced ~93% odds of a hold and the dominant 2026 path remains zero cuts after hot April CPI (+3.8% Y/Y) and PCE (+3.8% headline / +3.3% core) prints. Treasury yields moved higher post-release and Nasdaq futures slipped while Dow futures held green as rotation out of long-duration AI names continued from earlier in the week (AVGO -12.6% Tuesday, MU -7.7%).",
+        "forWho": "macro, rates and FX traders ahead of the June 16–17 FOMC",
+        "tryIt": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108303904-1778178630602-gettyimages-2273897592-jr_17181_pxiwif3a.jpeg?v=1778178878&w=1920&h=1080",
+        "alt": "Job seekers attend a hiring fair as the U.S. labor market shows continued resilience",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "BLS Press Release",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        },
+        {
+          "label": "BLS PDF",
+          "url": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html"
+        },
+        {
+          "label": "FRED PAYEMS",
+          "url": "https://fred.stlouisfed.org/series/PAYEMS"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "publishDate": "2026-06-05T13:02:19.085Z"
+    },
     {
       "id": "lulu-q1-fy26-guide-cut-june-4-2026",
       "categories": [
