@@ -4278,6 +4278,70 @@
         "fx",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260605t003951z",
+      "timestamp": "2026-06-05T00:39:51.763Z",
+      "source": "github-actions-sweep",
+      "summary": "Adds six items spanning June 3–4 2026: Lululemon's Q1 FY26 guide cut (-9% AH), DocuSign's mixed Q1 FY27, Five Below's Q1 blowout, the USTR Section 301 forced-labor tariff proposal on 60 economies, the May-30 jobless-claims 4-month high, and the Bitcoin/ETH plunge below pre-war levels as spot BTC ETF outflows exceed $4B since May 15.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lulu-q1-fy26-guide-cut-june-4-2026",
+          "title": "Lululemon Q1 FY26 — revenue $2.47B and EPS $1.69 clear lowered bar but FY26 EPS guide slashed to $10.95–$11.15 from $12.10–$12.30 on Americas comp -5% / gross margin -410bp; Q2 EPS guide $1.76–$1.81 vs $2.69 consensus; LULU ~-9% AH on June 4 from $124.92 close (-39% YTD)",
+          "category": "earnings",
+          "note": "Major mega-cap retail earnings on June 4 with 10% FY guide cut and 34% Q2-EPS-vs-Street miss; -9% AH from $124.92 close, primary catalyst is Americas comp -5%."
+        },
+        {
+          "id": "docu-q1-fy27-earnings-june-4-2026",
+          "title": "DocuSign Q1 FY27 — revenue $830.2M (+8.7% Y/Y) misses $841.2M est on conservative IAM ramp; non-GAAP EPS $1.09 beats $1.01 est; dollar net retention crosses 102% for first time in seven quarters as IAM customer count tops 40,000; DOCU ~-1.5% AH on June 4",
+          "category": "earnings",
+          "note": "Revenue miss + EPS beat + DNR re-inflection — the AI-software bull/bear print of the week."
+        },
+        {
+          "id": "us-initial-claims-may-30-2026-june-4",
+          "title": "U.S. initial jobless claims jump to 225K for week ending May 30 — 4-month high vs 215K est, 13K above prior week; continuing claims ease to 1.78M; 4-week MA holds at 214,750; Q1 worker productivity revised down in same release",
+          "category": "macro",
+          "note": "First initial-claims 4-month high since February; macro-watchers will scrutinize after NFP Friday."
+        },
+        {
+          "id": "btc-pre-war-low-eth-1810-june-4-2026",
+          "title": "Bitcoin plunges below pre-war levels — BTC ~$63,565 (-1% intraday / -13.9% week / -18.5% month) and ETH ~$1,810 (-2.5% / -10.4% / -22%) on Thursday June 4 as spot Bitcoin ETF outflow streak extends past $4B since May 15",
+          "category": "crypto",
+          "note": "BTC closes below pre-war levels — distinct from existing 9-day-outflow item (May 29) by virtue of fresh price-low + extended outflow streak."
+        },
+        {
+          "id": "five-q1-fy26-earnings-june-3-2026",
+          "title": "Five Below Q1 FY26 — net sales $1.286B (+32.5% Y/Y) and comp +22.7% trounce; adj EPS $2.22 (+158%); 49 net new stores to 1,970; FY26 sales guide raised to $5.40–$5.48B and adj EPS to ~$8.85 midpoint (+33%); FIVE +~1.2% AH from $223.10 on June 3",
+          "category": "earnings",
+          "note": "Comp +22.7% blowout with FY26 sales+EPS guide raises — the discount-retail trade-down winner."
+        },
+        {
+          "id": "ustr-301-forced-labor-60-economies-june-3-2026",
+          "title": "USTR proposes Section 301 tariffs on 60 economies for forced-labor enforcement failures — 12.5% on China, Japan, South Korea, Brazil; 10% on EU, U.K., Canada, Mexico; public comments due July 6, hearings July 7 — Trump revives sweeping trade lever",
+          "category": "regulatory",
+          "note": "Broadest single Section 301 action in years; new lever on top of existing reciprocal-tariff regime."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "regulatory",
+        "crypto",
+        "mna",
+        "ipo",
+        "analyst",
+        "commodity",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }

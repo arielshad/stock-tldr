@@ -1,8 +1,404 @@
 {
-  "generatedAt": "2026-06-04T13:08:43.703Z",
+  "generatedAt": "2026-06-05T00:39:51.763Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "lulu-q1-fy26-guide-cut-june-4-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "LULU"
+      ],
+      "title": "Lululemon Q1 FY26 — revenue $2.47B and EPS $1.69 clear lowered bar but FY26 EPS guide slashed to $10.95–$11.15 from $12.10–$12.30 on Americas comp -5% / gross margin -410bp; Q2 EPS guide $1.76–$1.81 vs $2.69 consensus; LULU ~-9% AH on June 4 from $124.92 close (-39% YTD)",
+      "org": "Lululemon Athletica",
+      "date": "2026-06-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000077/lulu-20260503xex991.htm",
+      "summary": "Q1 revenue $2.47B and EPS $1.69 clear lowered bar; Americas comp -5%, gross margin slumps 410bp to 54.2%; FY26 EPS guide cut to $10.95–$11.15 from $12.10–$12.30; Q2 EPS guide $1.76–$1.81 vs $2.69 Street; LULU ~-9% AH.",
+      "tags": [
+        "earnings",
+        "q1-fy26",
+        "guidance-cut",
+        "comp-sales-miss",
+        "americas-weak",
+        "athleisure",
+        "tariff-drag",
+        "interim-ceo"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$2.47B (+4% rep / +2% CC) vs $2.44B est",
+        "Comparable sales": "+1% (-2% CC)",
+        "Diluted EPS": "$1.69 vs $1.69 est",
+        "Gross margin": "54.2% (-410bp Y/Y; -280bp tariff / -140bp deleverage)",
+        "Americas revenue": "-3% Y/Y (comp -5%)",
+        "International revenue": "+22% Y/Y",
+        "FY26 EPS guide": "$10.95–$11.15 (from $12.10–$12.30)",
+        "FY26 revenue guide": "$11.00–$11.15B (from $11.35–$11.50B)",
+        "Q2 EPS guide": "$1.76–$1.81 vs $2.69 consensus",
+        "Q2 revenue guide": "$2.45–$2.475B vs $2.59B Street",
+        "Move": "-~9% AH on June 4 (closed $124.92, -39% YTD)"
+      },
+      "explainer": {
+        "tagline": "Q1 cleared a lowered bar, but FY26 EPS guide gets slashed ~10% and Q2 EPS guide lands ~34% below Street.",
+        "whatIsIt": "Lululemon reported Q1 FY26 (quarter ended May 3) after Thursday June 4's close. Revenue of $2.47B beat $2.44B consensus and EPS $1.69 matched Street, but the headline was the FY26 guide cut and a soft Q2 outlook that sent shares more than 9% lower in after-hours trading.",
+        "howItWorks": "Americas revenue fell 3% with comp -5%, while International grew 22%. Gross margin compressed 410bp Y/Y to 54.2% — 280bp from tariffs and 140bp from fixed-cost deleverage. FY26 EPS is now guided $10.95–$11.15 (prior $12.10–$12.30) on revenue $11.00–$11.15B (prior $11.35–$11.50B); Q2 EPS is guided $1.76–$1.81 vs $2.69 consensus. Interim CEO Meghan Frank cited 'negative commentary in media and social channels' as a traffic drag.",
+        "whyItMatters": "LULU was already -39% YTD heading into the print and is running with an interim CEO; a guide cut of this magnitude removes the 'Americas bottomed' bull case and stacks tariff drag on top of brand-perception issues. Read-through to NKE, ADDYY, ONON and broader athleisure peers, plus DKS/FL on premium-athletic demand.",
+        "forWho": "consumer-discretionary traders, retail sell-side",
+        "tryIt": "https://finance.yahoo.com/quote/LULU"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lululemon_Athletica_logo.svg/1280px-Lululemon_Athletica_logo.svg.png",
+        "alt": "Lululemon Athletica logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Q1 Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000077/lulu-20260503xex991.htm"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
+        },
+        {
+          "label": "Motley Fool Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/04/lululemon-lulu-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "LULU Quote",
+          "url": "https://finance.yahoo.com/quote/LULU"
+        }
+      ],
+      "publishDate": "2026-06-05T00:39:51.763Z"
+    },
+    {
+      "id": "docu-q1-fy27-earnings-june-4-2026",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "DOCU"
+      ],
+      "title": "DocuSign Q1 FY27 — revenue $830.2M (+8.7% Y/Y) misses $841.2M est on conservative IAM ramp; non-GAAP EPS $1.09 beats $1.01 est; dollar net retention crosses 102% for first time in seven quarters as IAM customer count tops 40,000; DOCU ~-1.5% AH on June 4",
+      "org": "DocuSign",
+      "date": "2026-06-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001261333/000126133326000072/q127ex-991er.htm",
+      "summary": "Revenue $830.2M (+8.7%) misses $841.2M est; non-GAAP EPS $1.09 beats $1.01; dollar net retention crosses 102% (best in seven quarters) as IAM customer base hits 40,000; DOCU slips ~1.5% AH as FY27 guide meets but doesn't exceed.",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "revenue-miss",
+        "eps-beat",
+        "iam-platform",
+        "ai-software",
+        "esignature",
+        "dnr-inflection"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$830.2M (+8.7% Y/Y) vs $841.2M est",
+        "Non-GAAP EPS": "$1.09 vs $1.01 est",
+        "GAAP diluted EPS": "$0.40 (+17.7% Y/Y)",
+        "Operating profit": "$111.3M (+84.7% Y/Y)",
+        "Dollar net retention (direct)": ">102% (first time in 7 quarters)",
+        "IAM customers": "~40,000",
+        "Move": "-~1.5% AH on June 4"
+      },
+      "explainer": {
+        "tagline": "Revenue miss + EPS beat + DNR back above 102% — but FY27 guide that meets isn't enough.",
+        "whatIsIt": "DocuSign reported Q1 FY27 (quarter ended April 30) after Thursday June 4's close. Total revenue of $830.2M missed $841.2M consensus by ~$11M while non-GAAP EPS of $1.09 topped $1.01 estimates by $0.08; subscription revenue led growth as the IAM (Intelligent Agreement Management) platform added customers.",
+        "howItWorks": "Operating profit jumped 84.7% Y/Y to $111.3M as DOCU continues to flex margins; dollar net retention for direct customers crossed 102% — the first ≥102% reading in seven quarters and a 1pp+ sequential improvement. IAM customer count crossed 40,000 with continuing roadmap adoption. FY27 guidance was reiterated rather than raised.",
+        "whyItMatters": "DOCU shares had run into the print on hopes the AI-native IAM transition would inflect revenue growth; a slight top-line miss with merely-in-line guidance pressed shares ~1.5% lower in after-hours. The DNR re-inflection is the bull-case data point — the stagnant revenue guide is the bear-case one.",
+        "forWho": "software-sector PMs, GenAI-application bulls",
+        "tryIt": "https://finance.yahoo.com/quote/DOCU"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DocuSignHeadquarters.jpg/1280px-DocuSignHeadquarters.jpg",
+        "alt": "DocuSign headquarters building in San Francisco",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Q1 Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001261333/000126133326000072/q127ex-991er.htm"
+        },
+        {
+          "label": "Benzinga Transcript",
+          "url": "https://www.benzinga.com/insights/news/26/06/53019596/docusign-reports-q1-2027-results-full-earnings-call-transcript"
+        },
+        {
+          "label": "DOCU Quote",
+          "url": "https://finance.yahoo.com/quote/DOCU"
+        }
+      ],
+      "publishDate": "2026-06-05T00:39:51.763Z"
+    },
+    {
+      "id": "us-initial-claims-may-30-2026-june-4",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. initial jobless claims jump to 225K for week ending May 30 — 4-month high vs 215K est, 13K above prior week; continuing claims ease to 1.78M; 4-week MA holds at 214,750; Q1 worker productivity revised down in same release",
+      "org": "U.S. Department of Labor",
+      "date": "2026-06-04",
+      "url": "https://www.dol.gov/ui/data.pdf",
+      "summary": "Initial unemployment claims rose to 225,000 for the week ending May 30 — highest since early February — vs 215K consensus; prior week +212K, 4-week MA 214,750; continuing claims eased to 1.78M; economists tagged most of the spike to post-Memorial Day volatility.",
+      "tags": [
+        "macro",
+        "labor-market",
+        "jobless-claims",
+        "weekly-data",
+        "dol",
+        "post-holiday-noise",
+        "productivity-revision"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Initial claims (SA)": "225,000 (4-month high)",
+        "Consensus": "215,000",
+        "Prior week (revised)": "212,000",
+        "Week-over-week change": "+13,000",
+        "4-week moving average": "214,750",
+        "Continuing claims": "1,780,000 (lower)",
+        "Week ending": "May 30, 2026"
+      },
+      "explainer": {
+        "tagline": "First 4-month high in initial claims since early February — but post-Memorial-Day volatility blunts the read.",
+        "whatIsIt": "The Labor Department's weekly Unemployment Insurance report on Thursday June 4 showed seasonally-adjusted initial claims of 225,000 for the week ending May 30, beating the 215K consensus and up 13K from the prior week — the highest reading since the first week of February.",
+        "howItWorks": "The 4-week moving average held at 214,750 and continuing claims eased to 1.78M (from 1.79M revised), both pointing to a stable underlying trend. Economists tagged most of the headline rise to seasonal-adjustment volatility around Memorial Day, when filings typically spike. The same release included a downward revision to Q1 worker productivity.",
+        "whyItMatters": "With NFP printing Friday and the Fed citing labor-market resilience as a reason to pause cuts, every weekly claims print becomes high-signal. Claims back-above-trend without a continuing-claims confirmation argues for fade-the-headline; a sustained move above 230K would force the soft-landing camp to reprice.",
+        "forWho": "rates traders, FOMC watchers",
+        "tryIt": "https://fred.stlouisfed.org/series/ICSA"
+      },
+      "image": {
+        "url": "https://www.dol.gov/sites/dolgov/files/OPA/twitter-cards/HomepageTwittercardOmbre.png",
+        "alt": "U.S. Department of Labor branded social card",
+        "fit": "cover",
+        "credit": "U.S. Department of Labor"
+      },
+      "links": [
+        {
+          "label": "DOL Weekly Release",
+          "url": "https://www.dol.gov/ui/data.pdf"
+        },
+        {
+          "label": "FRED Initial Claims",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        },
+        {
+          "label": "DOL ETA Dashboard",
+          "url": "https://oui.doleta.gov/unemploy/claims.asp"
+        },
+        {
+          "label": "Invezz Recap",
+          "url": "https://invezz.com/news/2026/06/04/us-jobless-claims-rise-to-225000-but-labour-market-remains-largely-resilient/"
+        }
+      ],
+      "publishDate": "2026-06-05T00:39:51.763Z"
+    },
+    {
+      "id": "btc-pre-war-low-eth-1810-june-4-2026",
+      "categories": [
+        "crypto"
+      ],
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD"
+      ],
+      "title": "Bitcoin plunges below pre-war levels — BTC ~$63,565 (-1% intraday / -13.9% week / -18.5% month) and ETH ~$1,810 (-2.5% / -10.4% / -22%) on Thursday June 4 as spot Bitcoin ETF outflow streak extends past $4B since May 15",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-06-04",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-4-2026-bitcoin-prices-plunge-below-pre-war-levels-114549073.html",
+      "summary": "BTC closes ~$63,565 (-13.9% week / -18.5% month) and ETH ~$1,810 (-10.4% week / -22% month) Thursday June 4 — both undercutting their levels at the start of the 2026 Iran war; spot Bitcoin ETF outflows have totaled >$4B since May 15.",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "spot-bitcoin-etf",
+        "risk-off",
+        "iran-war",
+        "fear-greed"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BTC price": "~$63,565 (-1.0% intraday)",
+        "BTC week": "-13.9%",
+        "BTC month": "-18.5%",
+        "ETH price": "~$1,810",
+        "ETH week": "-10.4%",
+        "ETH month": "-22%",
+        "Pre-war BTC level": "$65,878.93 (open)",
+        "May 11 BTC peak": ">$82,000",
+        "Spot BTC ETF outflows": ">$4.0B since May 15"
+      },
+      "explainer": {
+        "tagline": "BTC closes below where it sat when the Iran war started — and ETH leads risk-asset losses.",
+        "whatIsIt": "Bitcoin closed Thursday June 4 near $63,565, down ~14% on the week and ~18.5% on the month, undercutting the $65,879 level it held when the 2026 Iran war began. Ethereum closed near $1,810, off ~10% on the week and ~22% on the month — both deeper than the post-FOMC drawdown earlier in May.",
+        "howItWorks": "U.S. spot Bitcoin ETFs have bled net outflows for the bulk of trading days since May 15, with cumulative withdrawals now exceeding $4B and totaling roughly $3.4B in the worst single week — the largest weekly outflow since the products launched in January 2024. Issuer-level data shows redemptions across BlackRock IBIT, Fidelity FBTC and Grayscale GBTC.",
+        "whyItMatters": "BTC's behavior this week has flipped the safe-haven thesis: the asset that was supposed to rally during a Middle East war is selling off harder than equities. Read-through to crypto-treasury equities (MSTR, MARA, COIN) and crypto-exposed ETFs (IBIT, FBTC, GBTC, ETHA, ETHE) as institutional positioning continues to unwind.",
+        "forWho": "crypto traders, macro-allocators rebalancing risk",
+        "tryIt": "https://farside.co.uk/btc/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1280px-Bitcoin.svg.png",
+        "alt": "Bitcoin logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-4-2026-bitcoin-prices-plunge-below-pre-war-levels-114549073.html"
+        },
+        {
+          "label": "Blockchain Reporter",
+          "url": "https://blockchainreporter.net/bitcoin-price-today-btc-at-63649-as-selloff-hits-13-on-the-week-1-5b-liquidated/"
+        },
+        {
+          "label": "Farside ETF Flows",
+          "url": "https://farside.co.uk/btc/"
+        },
+        {
+          "label": "CoinDesk BTC",
+          "url": "https://www.coindesk.com/price/bitcoin"
+        }
+      ],
+      "publishDate": "2026-06-05T00:39:51.763Z"
+    },
+    {
+      "id": "five-q1-fy26-earnings-june-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "FIVE"
+      ],
+      "title": "Five Below Q1 FY26 — net sales $1.286B (+32.5% Y/Y) and comp +22.7% trounce; adj EPS $2.22 (+158%); 49 net new stores to 1,970; FY26 sales guide raised to $5.40–$5.48B and adj EPS to ~$8.85 midpoint (+33%); FIVE +~1.2% AH from $223.10 on June 3",
+      "org": "Five Below",
+      "date": "2026-06-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001177609/000117760926000015/q12026fivebelowexhibit991.htm",
+      "summary": "Net sales $1.286B (+32.5% Y/Y), comp +22.7%, adj EPS $2.22 (+158%) and adj gross margin +340bp to 37.2%; 49 net new stores to 1,970; FY26 sales guided $5.40–$5.48B with adj EPS ~$8.85 midpoint (+33%); FIVE +~1.2% AH.",
+      "tags": [
+        "earnings",
+        "q1-fy26",
+        "comp-sales-blowout",
+        "guidance-raise",
+        "discount-retail",
+        "tween-retail",
+        "store-growth",
+        "margin-expansion"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$1.286B (+32.5% Y/Y)",
+        "Comparable sales": "+22.7%",
+        "Adjusted EPS": "$2.22 (+158% Y/Y)",
+        "Adjusted gross margin": "37.2% (+340bp Y/Y)",
+        "Net new stores": "49 (to 1,970)",
+        "FY26 sales guide": "$5.40–$5.48B (raised)",
+        "FY26 adj EPS guide": "$8.85 midpoint (+33% Y/Y)",
+        "Move": "+~1.2% AH on June 3 from $223.10 close"
+      },
+      "explainer": {
+        "tagline": "+22.7% comps, +340bp gross margin, and a raised FY26 outlook — the discount-retail flywheel is back.",
+        "whatIsIt": "Five Below reported Q1 FY26 (quarter ended May 2) on Wednesday June 3 after the bell. Net sales of $1.286B grew 32.5% Y/Y on a 22.7% comp; adjusted EPS came in at $2.22 (up 158% from $0.86 in Q1 FY25) as adjusted gross margin expanded 340bp to 37.2%.",
+        "howItWorks": "The chain opened 49 net new stores during the quarter to end at 1,970 (+8% Y/Y), and management raised FY26 guidance to $5.40–$5.48B in sales (+14% midpoint) with adjusted EPS of ~$8.85 at the midpoint (+33%). CEO Joel Anderson credited 'the strength of our operating flywheel' on the call.",
+        "whyItMatters": "FIVE's print signals that tween/value-priced discretionary is still trade-down beneficiary even as Lululemon and Macy's flag softening Americas demand. Read-through to DG, DLTR, OLLI and TJX-complex; comps mall-anchor retailers tracking Foot Locker / DKS.",
+        "forWho": "consumer-discretionary, small-mid cap retail",
+        "tryIt": "https://finance.yahoo.com/quote/FIVE"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Five_Below_logo.svg/1280px-Five_Below_logo.svg.png",
+        "alt": "Five Below company logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Q1 Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001177609/000117760926000015/q12026fivebelowexhibit991.htm"
+        },
+        {
+          "label": "Motley Fool Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/04/five-below-five-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "FIVE Quote",
+          "url": "https://finance.yahoo.com/quote/FIVE"
+        }
+      ],
+      "publishDate": "2026-06-05T00:39:51.763Z"
+    },
+    {
+      "id": "ustr-301-forced-labor-60-economies-june-3-2026",
+      "categories": [
+        "regulatory",
+        "macro"
+      ],
+      "title": "USTR proposes Section 301 tariffs on 60 economies for forced-labor enforcement failures — 12.5% on China, Japan, South Korea, Brazil; 10% on EU, U.K., Canada, Mexico; public comments due July 6, hearings July 7 — Trump revives sweeping trade lever",
+      "org": "Office of the U.S. Trade Representative",
+      "date": "2026-06-03",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action",
+      "summary": "USTR publishes findings in 60 Section 301 investigations on forced-labor enforcement failures, proposing 10% additional duties on 'reciprocal' partners (EU/UK/Canada/Mexico) and 12.5% on the rest (China/Japan/Korea/Brazil); comments due July 6, hearings July 7.",
+      "tags": [
+        "trade-policy",
+        "section-301",
+        "tariffs",
+        "forced-labor",
+        "ustr",
+        "china",
+        "eu",
+        "supply-chain"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Number of economies": 60,
+        "High-tier tariff": "12.5%",
+        "Low-tier tariff": "10%",
+        "Comments due": "July 6, 2026",
+        "Hearings begin": "July 7, 2026",
+        "Statute": "Section 301, Trade Act of 1974"
+      },
+      "explainer": {
+        "tagline": "USTR floats 10–12.5% additional duties on 60 trading partners citing forced-labor enforcement failures.",
+        "whatIsIt": "On Tuesday June 2 (released Wednesday June 3), USTR Jamieson Greer's office published findings in 60 Section 301 investigations, declaring all 60 economies' enforcement of forced-labor import bans 'actionable' under the Trade Act of 1974 and proposing an additional-duty tariff overlay.",
+        "howItWorks": "Economies that already enforce forced-labor import prohibitions or have committed to do so under a Reciprocal Trade Agreement (EU, U.K., Canada, Mexico) would face a 10% additional duty. Everyone else — China, Japan, South Korea, Brazil and others — would face 12.5%. A textile mechanism would allow reduced rates on certain apparel imports. Written comments are due July 6; hearings begin July 7.",
+        "whyItMatters": "This is the broadest single Section 301 action in recent memory and a parallel lever to the IEEPA-based reciprocal tariffs already in place. Read-through to apparel (NKE, RL, GAP, ANF), retailers with Asia sourcing exposure (TGT, WMT, COST), and import-heavy industrials. If implemented as proposed, this stacks on top of existing China duties for a combined effective rate well into the 30s.",
+        "forWho": "trade-policy analysts, retail/import-supply-chain desks",
+        "tryIt": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/USTR%20Report%20Sec%20301%20FL%20301%206-2-26%20FINAL%20for%20upload.pdf"
+      },
+      "image": {
+        "url": "https://ustr.gov/sites/default/files/2026-06/Meta%20Tag_5.png",
+        "alt": "Office of the U.S. Trade Representative meta tag image for the Section 301 forced-labor findings",
+        "fit": "cover",
+        "credit": "USTR"
+      },
+      "links": [
+        {
+          "label": "USTR Press Release",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action"
+        },
+        {
+          "label": "USTR Report PDF",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/USTR%20Report%20Sec%20301%20FL%20301%206-2-26%20FINAL%20for%20upload.pdf"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
+        },
+        {
+          "label": "CBS News Coverage",
+          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-60-trading-partners-forced-labor-probes/"
+        }
+      ],
+      "publishDate": "2026-06-05T00:39:51.763Z"
+    },
     {
       "id": "pvh-q1-fy26-emea-guide-cut-june-3-2026",
       "categories": [
