@@ -1,8 +1,82 @@
 {
-  "generatedAt": "2026-06-06T00:32:48.691Z",
+  "generatedAt": "2026-06-06T12:29:43.593Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "psky-wbd-state-ag-antitrust-rumor-june-5-2026",
+      "categories": [
+        "rumor",
+        "mna",
+        "regulatory",
+        "mover"
+      ],
+      "title": "Reportedly: California, New York and other states preparing antitrust lawsuit to block Paramount Skydance's $110B Warner Bros Discovery deal — Reuters scoop on June 5 sinks PSKY ~-8% (worst day since December) and WBD -2.83% to $26.23 on 48.1M shares (+122% above avg)",
+      "org": "California Attorney General",
+      "date": "2026-06-05",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wbd-psky-stocks-track-worst-184052983.html",
+      "tickers": [
+        "PSKY",
+        "WBD"
+      ],
+      "summary": "Reuters reports California, New York and other state AGs are preparing an antitrust lawsuit to block Paramount Skydance's $110B Warner Bros Discovery deal — to be filed in coming weeks. PSKY -~8%, WBD -2.83% to $26.23 on June 5.",
+      "tags": [
+        "rumor",
+        "mna",
+        "regulatory",
+        "antitrust",
+        "state-ag",
+        "california-ag",
+        "rob-bonta",
+        "paramount-skydance",
+        "warner-bros-discovery",
+        "media-merger"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "PSKY": "-~8% (worst day since December)",
+        "WBD": "-2.83% to $26.23",
+        "WBD Volume": "48.1M (122% above 3-mo avg)",
+        "Deal size": "$110B EV / $81B equity at $31/sh cash",
+        "Daily breakup fee (post-Oct)": "~$6.9M"
+      },
+      "explainer": {
+        "tagline": "California-led state coalition preparing antitrust suit to block Paramount Skydance's $110B Warner Bros Discovery deal — to be filed in coming weeks.",
+        "whatIsIt": "Reuters reported on Friday June 5 that a group of U.S. states, led by California and New York, are preparing a lawsuit to block Paramount Skydance's pending $110 billion all-cash acquisition of Warner Bros Discovery. The scoop cites sources familiar with the matter; California Attorney General Rob Bonta told Reuters his office will decide whether to act soon.",
+        "howItWorks": "WBD shareholders approved the $31-per-share cash deal in April with a Q3 2026 closing target. Federal HSR review expired in February, but state AGs retain independent antitrust authority. California is reportedly weighing structural remedies such as divestitures if behavioral commitments fall short. Paramount's daily breakup-fee liability runs ~$6.9M if closing slips past October. A federal consumer antitrust suit is already pending; Paramount asked a federal judge on June 4 to dismiss it as 'speculative'.",
+        "whyItMatters": "PSKY -~8% intraday (worst day since December) and WBD -2.83% to $26.23 on session volume 48.1M shares (122% above 3-mo avg) as the state action would mark the boldest antitrust push yet from state AGs trying to fill the gap left by a more business-friendly Trump-era DOJ/FTC. CEO David Ellison's father Larry Ellison has cultivated Trump ties, fueling perceptions of an easier federal path. Confirmed by an actual complaint filing within the next few weeks; denied if Bonta declines to bring a case or no other states join. Paramount called any opposition 'a misguided attempt to politicize antitrust law.'",
+        "forWho": "M&A arbs, media-sector traders, antitrust watchers",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-PSKY/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/stocktwits_383/059ae803a81462a0157ae2f6c6c1d228",
+        "alt": "Paramount Skydance and Warner Bros Discovery logos amid state antitrust lawsuit reports",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wbd-psky-stocks-track-worst-184052983.html"
+        },
+        {
+          "label": "Reuters Scoop",
+          "url": "https://www.spokesman.com/stories/2026/jun/05/us-states-preparing-lawsuit-to-block-paramounts-ac/"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/06/05/stock-market-today-june-5-warner-bros-discovery-falls-on-reports-of-state-antitrust-challenge-to-paramount-deal/"
+        },
+        {
+          "label": "PSKY Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-PSKY/"
+        },
+        {
+          "label": "WBD Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-WBD/"
+        }
+      ],
+      "publishDate": "2026-06-06T12:29:43.593Z"
+    },
     {
       "id": "nasdaq-chip-rout-1t-wipe-june-5-2026",
       "categories": [

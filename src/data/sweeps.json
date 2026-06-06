@@ -4423,6 +4423,37 @@
         "rates",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260606t122943z",
+      "timestamp": "2026-06-06T12:29:43.593Z",
+      "source": "github-actions-sweep",
+      "summary": "Searched equities, macro, M&A, regulatory, crypto, FX, commodities, and YouTube for fresh ≤72h items beyond the existing June 3–5 chip-rout, jobs-report, Meta-equity-raise and large-cap-earnings cluster. One new add: Reuters scoop that California, NY and other state AGs are preparing an antitrust suit to block the $110B Paramount Skydance / Warner Bros Discovery merger — PSKY ~-8% (worst day since December), WBD -2.83% to $26.23 on June 5.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "psky-wbd-state-ag-antitrust-rumor-june-5-2026",
+          "title": "Reportedly: California, New York and other states preparing antitrust lawsuit to block Paramount Skydance's $110B Warner Bros Discovery deal — Reuters scoop on June 5 sinks PSKY ~-8% (worst day since December) and WBD -2.83% to $26.23 on 48.1M shares (+122% above avg)",
+          "category": "rumor",
+          "note": "Reuters scoop on Friday June 5: California-led multistate AG coalition preparing antitrust suit to block PSKY-WBD $110B merger — direct, material move in both names on the news."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "regulatory",
+        "rumor",
+        "mover",
+        "earnings",
+        "macro",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
