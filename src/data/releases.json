@@ -1,8 +1,308 @@
 {
-  "generatedAt": "2026-06-05T13:02:19.085Z",
+  "generatedAt": "2026-06-06T00:32:48.691Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nasdaq-chip-rout-1t-wipe-june-5-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Nasdaq -4.2%, SOX -8.7%, S&P 500 snaps 9-week streak — chip stocks erase ~$1T on June 5 as strong jobs report and Meta equity-raise rumor break the AI trade",
+      "org": "U.S. equity markets",
+      "date": "2026-06-05",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-jobs-report-fuels-fed-hike-bets-chip-stocks-sell-off-230134285.html",
+      "summary": "U.S. stocks suffered their worst session of 2026 — Nasdaq -4.18% to 25,709.43, S&P 500 -2.64% to 7,383.74 (snapping a 9-week streak), Dow -1.35% to 50,866.78 — as the Philadelphia Semiconductor Index plunged 8.71% and chip stocks shed roughly $1T in market cap.",
+      "tickers": [
+        "^IXIC",
+        "^GSPC",
+        "^DJI",
+        "NVDA",
+        "AMD",
+        "INTC"
+      ],
+      "metrics": {
+        "Nasdaq Composite": "25,709.43 (-1,121.53 / -4.18%)",
+        "S&P 500": "7,383.74 (-200.57 / -2.64%)",
+        "Dow Jones": "50,866.78 (-695.15 / -1.35%)",
+        "Philadelphia Semi Index (SOX)": "-8.71% (largest one-day drop since pandemic-era)",
+        "NVDA": "-6.0% (market cap slips below $5T)",
+        "INTC": "-11.3%",
+        "AMD": "-6.3%",
+        "MU": "-6.3%",
+        "MRVL": "-8.0%",
+        "META": "-6.6% (FT equity-raise scoop)",
+        "S&P weekly": "-2.5% (first weekly decline in 10 weeks)",
+        "10Y yield": "4.544% (+6bp)"
+      },
+      "tags": [
+        "sector",
+        "selloff",
+        "ai-rotation",
+        "semis",
+        "sox",
+        "chip-stocks",
+        "nasdaq",
+        "sp500",
+        "yields",
+        "fed-watch",
+        "warsh-fed",
+        "june-2026"
+      ],
+      "importance": "seismic",
+      "explainer": {
+        "tagline": "The AI trade breaks on payrolls Friday — Nasdaq -4.2%, SOX -8.7%, chip names lose ~$1T as Treasury yields jump and the S&P 500 snaps a nine-week win streak.",
+        "whatIsIt": "Friday June 5 delivered the worst session of 2026 for U.S. equities. The Nasdaq Composite fell 1,121.53 points (-4.18%) to 25,709.43, the S&P 500 dropped 200.57 points (-2.64%) to 7,383.74, and the Dow Jones Industrial Average lost 695.15 points (-1.35%) to 50,866.78. The Philadelphia Semiconductor Index (SOX) fell 8.71%, its largest single-session drop in years.",
+        "howItWorks": "The selling started in chips and metastasized into the broader Nasdaq complex. Nvidia fell roughly 6% (its market cap dipped below $5T), AMD -6.3%, Micron -6.3%, Marvell -8% and Intel -11.3%. Meta dropped 6.6% after the Financial Times reported the company is weighing a tens-of-billions equity raise to fund AI capex. The trigger sequence: an upside surprise on May payrolls (+172K vs ~80K Dow Jones consensus) pushed the 10-year Treasury yield up about 6bp to 4.544%, the highest since May 21, and pulled forward Fed-hike pricing; that combined with Tuesday's Broadcom Q3 AI guide of $16B (vs $17.2B est) to unwind a multi-week chip rally. Cumulative chip-sector market-cap loss for the session: roughly $1T.",
+        "whyItMatters": "Three things broke at once. First, the S&P 500's nine-week winning streak — the longest since 2023 — ended with a -2.5% weekly print. Second, the post-2023 'AI capex always rallies' reflex was challenged in print: the same Alphabet $84.75B equity raise (June 1) that lifted hyperscalers became a negative on Friday when applied to Meta's balance sheet. Third, the rotation pattern flipped — Dow names that held up earlier in the week (utilities, financials) fell on bond-proxy de-rating as the curve repriced. Next macro tests: Warsh's first FOMC meeting June 16–17 and CPI on June 11.",
+        "forWho": "index allocators, semiconductor desks, risk-parity books",
+        "tryIt": "https://finance.yahoo.com/quote/%5ESOX"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/TV4e7QAecLZBKdSBKxrRUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2260443049_4109.jpg",
+        "alt": "Trader on the NYSE floor on Friday June 5 2026 as chip stocks and the broader Nasdaq sell off sharply",
+        "fit": "cover",
+        "credit": "Getty Images via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-jobs-report-fuels-fed-hike-bets-chip-stocks-sell-off-230134285.html"
+        },
+        {
+          "label": "SOX Chart",
+          "url": "https://finance.yahoo.com/quote/%5ESOX"
+        },
+        {
+          "label": "Nasdaq Chart",
+          "url": "https://finance.yahoo.com/quote/%5EIXIC"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "publishDate": "2026-06-06T00:32:48.691Z"
+    },
+    {
+      "id": "meta-equity-raise-ai-rumor-june-5-2026",
+      "categories": [
+        "rumor",
+        "mover"
+      ],
+      "title": "Reportedly: Meta weighs tens-of-billions equity raise to finance AI infrastructure — FT scoop on June 5 sinks META ~6.6% in chip-rout session",
+      "org": "Financial Times",
+      "date": "2026-06-05",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-weighs-big-equity-raising-182445811.html",
+      "summary": "Financial Times reports Friday June 5 that Meta executives are exploring a tens-of-billions equity raise to fund AI infrastructure spend after Alphabet's $84.75B raise. No banks hired yet and 'premature' to say a decision has been made. META -6.6% intraday.",
+      "tickers": [
+        "META",
+        "GOOGL"
+      ],
+      "metrics": {
+        "META intraday move": "-6.6%",
+        "Reported size": "tens of billions (no figure named)",
+        "2026 capex guide": "up to $145B (April raise from $135B)",
+        "Comp": "Alphabet $84.75B equity raise priced June 2",
+        "Banks engaged": "none yet (FT)"
+      },
+      "tags": [
+        "rumor",
+        "meta",
+        "equity-raise",
+        "ai-capex",
+        "data-centers",
+        "ft-scoop",
+        "june-2026",
+        "big-tech",
+        "hyperscaler"
+      ],
+      "importance": "rumor",
+      "explainer": {
+        "tagline": "FT reports Meta is exploring a tens-of-billions stock sale to fund AI capex — stock fell 6.6% in Friday's chip-led tape.",
+        "whatIsIt": "The Financial Times reported on Friday June 5 that Meta Platforms is weighing raising tens of billions of dollars through a new stock offering to fund a sharp ramp in AI-related spending. Reuters, Bloomberg and CNBC all picked up the FT report intraday and Meta shares dropped about 6.6%, contributing to the broader Nasdaq selloff.",
+        "howItWorks": "Per the FT, Meta executives have been exploring 'creative' financing routes; no investment banks have been hired yet and the company may ultimately decide not to issue stock at all. The discussions reportedly intensified after Alphabet upsized its own equity raise to $84.75B on June 2, including a $10B Berkshire Hathaway private placement. Meta raised its 2026 capex guide to up to $145B (from $135B) on its April print. Mark Zuckerberg has been signaling aggressive AI infrastructure expansion since the Llama 4 launch in early 2026.",
+        "whyItMatters": "If confirmed, Meta would become the second mega-cap hyperscaler in a week to fund AI capex via equity rather than the cash pile, validating a structural shift: AI infrastructure spending is now large enough to outrun even the strongest free-cash-flow profiles in tech. Watch for any 8-K, bank-mandate scoop or earnings-call language at Meta's Q2 print as confirming or denying signals. A formal announcement at the reportedly contemplated scale would be one of the largest equity raises in tech history.",
+        "forWho": "tech, hyperscaler and big-tech-credit desks",
+        "tryIt": "https://finance.yahoo.com/quote/META"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/reuters-finance.com/50f19f076e19fc222944f196253d9c3e",
+        "alt": "Meta Platforms signage as the company reportedly weighs an equity raise to fund AI infrastructure",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance / Reuters",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-weighs-big-equity-raising-182445811.html"
+        },
+        {
+          "label": "Globe & Mail Recap",
+          "url": "https://www.theglobeandmail.com/business/article-meta-equity-offering-ai-data-centres-big-tech-alphabet/"
+        },
+        {
+          "label": "META Quote",
+          "url": "https://finance.yahoo.com/quote/META"
+        },
+        {
+          "label": "GOOGL Q4 Equity Raise (precedent)",
+          "url": "https://finance.yahoo.com/quote/GOOGL"
+        }
+      ],
+      "publishDate": "2026-06-06T00:32:48.691Z"
+    },
+    {
+      "id": "ttan-q1-fy27-earnings-june-4-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "ServiceTitan Q1 FY27 — record $268.8M revenue (+25% Y/Y), non-GAAP EPS $0.37 vs $0.28 est trounces; raises FY27 revenue guide to $1.13–$1.14B; GTV $21.7B (+23%) and NDR holds >110%; TTAN ~+5% on June 5 from $74.27 close",
+      "org": "ServiceTitan",
+      "date": "2026-06-04",
+      "url": "https://www.globenewswire.com/news-release/2026/06/04/3307084/0/en/ServiceTitan-Announces-Fiscal-First-Quarter-Financial-Results.html",
+      "summary": "ServiceTitan Q1 FY27 (qtr ended April 30, 2026) — revenue $268.8M (+25% Y/Y) beats $261.7M est; non-GAAP EPS $0.37 vs $0.28 est; GTV $21.7B (+23%); NDR >110%; FY27 revenue guide raised to $1.13–$1.14B; non-GAAP op income guide $142–$147M; Q2 guide $284–$286M tops $276.7M est.",
+      "tickers": [
+        "TTAN"
+      ],
+      "metrics": {
+        "Revenue": "$268.8M (+25% Y/Y) vs $261.7M est",
+        "Platform revenue": "$260.6M (+25% Y/Y)",
+        "Non-GAAP EPS (diluted)": "$0.37 vs $0.28 est",
+        "GAAP EPS (diluted)": "-$0.24 vs -$0.51 yr-ago",
+        "Non-GAAP operating income": "$40.8M (15.2% margin, vs 7.5% yr-ago)",
+        "GAAP operating margin": "-9.6% (vs -23.0% yr-ago)",
+        "Gross transaction volume (GTV)": "$21.7B (+23%)",
+        "Net dollar retention": ">110%",
+        "FY27 revenue guide": "$1,130–$1,140M (raised)",
+        "FY27 non-GAAP op income guide": "$142–$147M",
+        "Q2 FY27 revenue guide": "$284–$286M vs $276.7M est",
+        "Move": "~+5% on June 5 from $74.27 close"
+      },
+      "tags": [
+        "earnings",
+        "vertical-saas",
+        "trades-software",
+        "ai-features",
+        "fy27",
+        "q1-fy27",
+        "guidance-raise",
+        "ttan",
+        "june-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Beat-and-raise quarter: ServiceTitan tops $1B annualized run rate at +25% Y/Y growth, lifts FY27 guidance, and stock rallies into Friday's broader tape selloff.",
+        "whatIsIt": "ServiceTitan reported fiscal Q1 2027 results (three months ended April 30, 2026) after the close on Wednesday June 4 at 4:05 p.m. ET. Total revenue rose 25% Y/Y to $268.8M, beating Street consensus of $261.7M, and non-GAAP diluted EPS came in at $0.37 versus $0.28 consensus.",
+        "howItWorks": "Platform revenue grew 25% to $260.6M, gross transaction volume processed across the platform rose 23% to $21.7B, and net dollar retention held above 110% for the quarter. Non-GAAP operating income reached $40.8M (15.2% margin) versus 7.5% in the year-ago quarter, while GAAP operating loss narrowed to -$25.8M (-9.6% margin). The company raised full-year FY27 revenue guidance to $1.13–$1.14B and non-GAAP operating income to $142–$147M; Q2 FY27 revenue guide of $284–$286M tops the $276.7M consensus.",
+        "whyItMatters": "ServiceTitan is one of the few late-2024 IPO cohort names sustaining a 25%-plus growth print at scale — Q1 takes the company past the $1B annualized revenue run rate. The beat-and-raise on both top line and margins is a counterweight to the broader software-stock concern that AI-driven productivity gains would compress vertical-SaaS pricing power; ServiceTitan's own Max AI agent suite is being framed as expansion fuel, not a margin headwind. Stock traded roughly +5% on June 5 from the $74.27 prior close even as the broader Nasdaq dropped 4.2%.",
+        "forWho": "vertical-SaaS investors, software allocators",
+        "tryIt": "https://investors.servicetitan.com/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/84d3bfb7-3716-43b4-825a-b25a7824d6c4",
+        "alt": "ServiceTitan press-release image accompanying Q1 fiscal 2027 financial results",
+        "fit": "contain",
+        "credit": "ServiceTitan via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/06/04/3307084/0/en/ServiceTitan-Announces-Fiscal-First-Quarter-Financial-Results.html"
+        },
+        {
+          "label": "Yahoo Earnings Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/servicetitan-ttan-q1-2027-earnings-051438162.html"
+        },
+        {
+          "label": "Fool Earnings Recap",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/05/servicetitan-ttan-q1-2027-earnings-transcript/"
+        },
+        {
+          "label": "TTAN Quote",
+          "url": "https://finance.yahoo.com/quote/TTAN"
+        }
+      ],
+      "publishDate": "2026-06-06T00:32:48.691Z"
+    },
+    {
+      "id": "coo-q2-fy26-earnings-june-4-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Cooper Companies Q2 FY26 — revenue $1.082B (+8% / +5% organic) and non-GAAP EPS $1.21 vs $1.04 est beat 16%, but GAAP EPS -$0.40 hit by $271.6M CooperSurgical recall litigation charge; FY26 revenue guide $4.285–$4.321B",
+      "org": "CooperCompanies",
+      "date": "2026-06-04",
+      "url": "https://www.globenewswire.com/news-release/2026/06/04/3307102/2200/en/CooperCompanies-Announces-Second-Quarter-2026-Results.html",
+      "summary": "CooperCompanies Q2 FY26 — revenue $1.082B (+8% rep / +5% organic) and non-GAAP EPS $1.21 vs $1.04 est (+16%) crush; but GAAP EPS -$0.40 hit by $271.6M net pre-tax litigation charge tied to Dec-2023 embryo culture media recall; FY26 revenue guide $4.285–$4.321B; COO ~+2.8% to ~$62.",
+      "tickers": [
+        "COO"
+      ],
+      "metrics": {
+        "Revenue": "$1.082B (+8% rep / +5% organic) vs $1.05B est",
+        "Non-GAAP EPS (diluted)": "$1.21 vs $1.04 est (+16% upside / +26% Y/Y)",
+        "GAAP EPS (diluted)": "-$0.40 (vs +$0.44 yr-ago)",
+        "CooperVision revenue": "$723.5M (+4% organic)",
+        "CooperSurgical revenue": "$358.0M (+6% organic)",
+        "Operating margin (non-GAAP)": "27.5% (+19% op income Y/Y)",
+        "Litigation charge": "$271.6M net pre-tax ($324.1M accrual offset by $52.5M insurance)",
+        "FY26 revenue guide": "$4.285–$4.321B (organic +3.5–4.5%)",
+        "FY26 non-GAAP EPS guide": "$4.58–$4.66",
+        "Move": "~+2.8% to ~$62.02"
+      },
+      "tags": [
+        "earnings",
+        "medtech",
+        "contact-lenses",
+        "fertility",
+        "litigation",
+        "product-recall",
+        "fy26",
+        "q2-fy26",
+        "coo",
+        "june-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Cooper beats Q2 expectations 16% on non-GAAP EPS and lifts dividends — but GAAP swings to a loss on a $271.6M CooperSurgical recall litigation accrual.",
+        "whatIsIt": "CooperCompanies reported fiscal Q2 2026 results (three months ended April 30, 2026) after the close on Wednesday June 4 at 4:15 p.m. ET. Total revenue rose 8% reported (5% organic) to $1.082B, and non-GAAP diluted EPS reached $1.21 versus consensus near $1.04.",
+        "howItWorks": "CooperVision (contact lenses) generated $723.5M in revenue at 4% organic growth, and CooperSurgical (fertility / women's health) added $358.0M at 6% organic growth. Non-GAAP operating margin expanded to 27.5% and non-GAAP operating income rose 19% Y/Y. The GAAP picture was distorted by a $271.6M net pre-tax charge to SG&A — $324.1M of accrued litigation liabilities related to the December 2023 voluntary recall of embryo culture media at CooperSurgical, partially offset by $52.5M of expected insurance recoveries — flipping reported diluted EPS to -$0.40. FY26 guidance now sees revenue $4.285–$4.321B (3.5–4.5% organic), non-GAAP EPS $4.58–$4.66, and three-year FY26–FY28 free-cash flow above $2.2B.",
+        "whyItMatters": "Cooper is a defensive, low-beta medtech S&P 500 component, and the print confirms two trends: contact-lens demand (CooperVision +4% organic) is holding through a still-soft optical-retail tape, and fertility services (CooperSurgical +6% organic) keep outgrowing the broader medtech complex. The litigation charge is one-time and bookkeeping in nature — Cooper does not change underlying free-cash-flow trajectory. COO traded ~+2.8% on results.",
+        "forWho": "medtech allocators, S&P 500 sector traders",
+        "tryIt": "https://investor.coopercos.com/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/10a4810f-301c-4d8c-851d-dd09334d10d5",
+        "alt": "CooperCompanies press-release image accompanying Q2 fiscal 2026 financial results",
+        "fit": "contain",
+        "credit": "CooperCompanies via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/06/04/3307102/2200/en/CooperCompanies-Announces-Second-Quarter-2026-Results.html"
+        },
+        {
+          "label": "Globe & Mail Press Release",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/COO-Q/pressreleases/2312633/coopercompanies-announces-second-quarter-2026-results/"
+        },
+        {
+          "label": "Fool Earnings Recap",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/05/cooper-coo-q2-2026-earnings-transcript/"
+        },
+        {
+          "label": "COO Quote",
+          "url": "https://finance.yahoo.com/quote/COO"
+        }
+      ],
+      "publishDate": "2026-06-06T00:32:48.691Z"
+    },
     {
       "id": "bls-may-2026-jobs-report",
       "categories": [

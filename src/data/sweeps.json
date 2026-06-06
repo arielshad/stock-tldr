@@ -4375,6 +4375,54 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260606t003248z",
+      "timestamp": "2026-06-06T00:32:48.691Z",
+      "source": "github-actions-sweep",
+      "summary": "June 5 sweep — added the Friday chip rout / Nasdaq -4.2% session (seismic), the FT-sourced Meta equity-raise rumor that hit META -6.6%, and the June 4 after-close ServiceTitan Q1 FY27 beat-and-raise and CooperCompanies Q2 FY26 print with one-time litigation charge.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nasdaq-chip-rout-1t-wipe-june-5-2026",
+          "title": "Nasdaq -4.2%, SOX -8.7%, S&P 500 snaps 9-week streak — chip stocks erase ~$1T on June 5 as strong jobs report and Meta equity-raise rumor break the AI trade",
+          "category": "sector",
+          "note": "Friday's bookend to the May-29 9-week-streak peak — distinct from the already-covered jobs print and AVGO Q2 because it captures the full -$1T chip-cap reset and the 10-week-streak-snap."
+        },
+        {
+          "id": "meta-equity-raise-ai-rumor-june-5-2026",
+          "title": "Reportedly: Meta weighs tens-of-billions equity raise to finance AI infrastructure — FT scoop on June 5 sinks META ~6.6% in chip-rout session",
+          "category": "rumor",
+          "note": "FT-sourced rumor on a potential mega-cap equity raise that drove META -6.6% and contributed materially to Friday's tape; flagged as rumor importance per prompt."
+        },
+        {
+          "id": "ttan-q1-fy27-earnings-june-4-2026",
+          "title": "ServiceTitan Q1 FY27 — record $268.8M revenue (+25% Y/Y), non-GAAP EPS $0.37 vs $0.28 est trounces; raises FY27 revenue guide to $1.13–$1.14B; GTV $21.7B (+23%) and NDR holds >110%; TTAN ~+5% on June 5 from $74.27 close",
+          "category": "earnings",
+          "note": "Beat-and-raise from a ~$1B-run-rate vertical-SaaS name; primary-source PR confirmed."
+        },
+        {
+          "id": "coo-q2-fy26-earnings-june-4-2026",
+          "title": "Cooper Companies Q2 FY26 — revenue $1.082B (+8% / +5% organic) and non-GAAP EPS $1.21 vs $1.04 est beat 16%, but GAAP EPS -$0.40 hit by $271.6M CooperSurgical recall litigation charge; FY26 revenue guide $4.285–$4.321B",
+          "category": "earnings",
+          "note": "S&P 500 medtech major beat; $271.6M CooperSurgical recall litigation charge moves GAAP EPS but not free cash flow."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "rumor",
+        "earnings",
+        "macro",
+        "mover",
+        "rates",
+        "crypto"
+      ]
     }
   ]
 }
