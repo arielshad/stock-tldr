@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-06-06T12:29:43.593Z",
+  "generatedAt": "2026-06-07T00:31:36.460Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "btc-sub-60k-worst-week-since-ftx-june-5-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD"
+      ],
+      "title": "Bitcoin breaks below $60,000 for first time since October 2024 — closes $60,813 on Friday June 5 capping ~20% week (worst since FTX collapse); ETH ~-22% on the week",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-06-05",
+      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024",
+      "summary": "BTC cracks $60K intraday on Friday June 5 and closes $60,813 — its weakest level since October 2024 — capping a ~20% weekly drop that beats the FTX-collapse selloff as Saylor's Strategy turned seller, spot-BTC ETFs bled, and capital rotated into AI.",
+      "tags": [
+        "bitcoin",
+        "btc",
+        "ethereum",
+        "eth",
+        "spot-btc-etf",
+        "etf-outflows",
+        "saylor",
+        "strategy-mstr",
+        "ai-rotation",
+        "liquidations",
+        "worst-week-since-ftx"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BTC close (Fri Jun 5)": "$60,813.24",
+        "BTC week": "~-17% to -20%",
+        "BTC intraday low": "<$60,000 (lowest since Oct 2024)",
+        "BTC drawdown from Oct 2024 peak": "~-52% from ~$126K",
+        "ETH (week)": "~-22%",
+        "ETH intraday low (Fri AM)": "$1,666.52",
+        "Crypto-market cap wipe (week)": "~$390B",
+        "Liquidations (24h)": "~$1.5B+ across 310K+ traders"
+      },
+      "explainer": {
+        "tagline": "BTC loses $60K for the first time since October 2024 in its worst week since the FTX collapse.",
+        "whatIsIt": "Bitcoin closed Friday June 5 at $60,813.24 on CoinDesk pricing after dipping below $60,000 intraday — the lowest level since October 2024. It capped a weekly drop of roughly 17–20% across major data providers, the worst week for BTC since November 2022's FTX implosion. Ether dropped about 22% on the week.",
+        "howItWorks": "BTC opened Friday at $63,812 and stair-stepped lower through the U.S. session: Yahoo Finance had it at $62,046 by 9:19 a.m. ET, CoinDesk's day-end print was $60,813.24, and overnight pricing touched the high-$59,000s. ETH fell from $1,768.86 at the open to an intraday low of $1,666.52 before bouncing. Coinglass tallied roughly $1.5B+ of liquidations in 24 hours across 310,000+ traders, with the total crypto market cap shedding ~$390B over the week.",
+        "whyItMatters": "The break of $60K takes Bitcoin to ~-52% from the October 2024 peak above $126K and below technical levels many cycle models defended. CoinDesk's reporters cited Michael Saylor's Strategy turning seller for the first time since 2022, a persistent ~$2.8B+ spot-BTC ETF outflow streak through late May, capital rotation into AI equities, and a hotter May payrolls print on Friday that revived Fed rate-hike odds. ETH's relative underperformance widens the gap between AI-narrative beneficiaries and crypto duration.",
+        "forWho": "crypto traders, spot-BTC ETF allocators, crypto-equity desks (COIN/MSTR), macro overlay desks",
+        "tryIt": "https://finance.yahoo.com/quote/BTC-USD/"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/s3y3vcno/production/9ec4de39272adf8841b32cdceccdf8abe655e2fd-8256x5504.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "alt": "Bitcoin coin against a falling-chart backdrop — BTC breaks $60K on June 5 2026",
+        "fit": "cover",
+        "credit": "CoinDesk"
+      },
+      "links": [
+        {
+          "label": "CoinDesk: BTC <$60K",
+          "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html"
+        },
+        {
+          "label": "BTC-USD Chart",
+          "url": "https://finance.yahoo.com/quote/BTC-USD/"
+        },
+        {
+          "label": "ETF Outflow Backdrop",
+          "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion"
+        }
+      ],
+      "publishDate": "2026-06-07T00:31:36.460Z"
+    },
     {
       "id": "psky-wbd-state-ag-antitrust-rumor-june-5-2026",
       "categories": [

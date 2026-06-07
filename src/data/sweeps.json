@@ -4454,6 +4454,40 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260607t003136z",
+      "timestamp": "2026-06-07T00:31:36.460Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday June 7 sweep — only fresh, distinct event since the previous sweep is Bitcoin's Friday June 5 close below $60K at $60,813 capping a ~20% weekly drop (worst since FTX). Other weekend storylines (US-Iran radar strikes Saturday June 6, Hezbollah ceasefire jitters) overlap semantically with already-shipped Iran items and produced no material new market move (Brent actually fell ~2%). No qualifying Saturday/Sunday earnings, central-bank, or M&A prints in the 72h window.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "btc-sub-60k-worst-week-since-ftx-june-5-2026",
+          "title": "Bitcoin breaks below $60,000 for first time since October 2024 — closes $60,813 on Friday June 5 capping ~20% week (worst since FTX collapse); ETH ~-22% on the week",
+          "category": "crypto",
+          "note": "BTC's $60K break + ~20% weekly drop (worst since FTX) is a distinct milestone from the June 4 pre-war-low entry; ETH -22% week and ~$390B market-cap wipe make this a fresh, primary-source-confirmed crypto event."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "mover",
+        "macro",
+        "fx",
+        "commodity",
+        "rates",
+        "regulatory",
+        "earnings",
+        "mna",
+        "video",
+        "article"
+      ]
     }
   ]
 }
