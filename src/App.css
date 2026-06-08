@@ -15,7 +15,7 @@
 
 /* ============ HEADER ============ */
 /* Header row 1 — identity + actions.
-   Desktop: [brand] [secondary: BMC | nav | subscribe]. Hamburger hidden.
+   Desktop: [brand] [secondary: nav | subscribe]. Hamburger hidden.
    Mobile:  [brand] [hamburger]. Secondary actions live in a dropdown
             drawer anchored to the header. */
 .page-head {
@@ -42,13 +42,6 @@
   display: none;
 }
 
-/* Mobile-only square icon variant of the BMC CTA, sits next to the
-   hamburger. The text-bearing .bmc inside the drawer is hidden on
-   mobile (see media query below) so the CTA only appears once. */
-.bmc-icon {
-  display: none;
-}
-
 .brand {
   display: flex;
   align-items: baseline;
@@ -70,45 +63,6 @@
   outline-offset: 4px;
 }
 
-/* Buy Me a Coffee CTA. Terminal-aesthetic compact button that blends
-   with nav-link — mono, uppercase, bordered, transparent.
-   Reveals BMC red on hover so the CTA still lands as "tip me" without
-   screaming at users at rest. */
-.bmc {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  flex: 0 0 auto;
-  height: 28px;
-  padding: 0 11px;
-  background: transparent;
-  color: var(--fg);
-  border: 1px solid var(--line);
-  font-family: var(--mono);
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  text-decoration: none;
-  white-space: nowrap;
-  cursor: pointer;
-  transition: background-color 120ms linear, color 120ms linear, border-color 120ms linear;
-}
-.bmc:hover {
-  background: #ff5f5f;
-  border-color: #ff5f5f;
-  color: #ffffff;
-}
-.bmc:focus-visible {
-  outline: 2px solid var(--int);
-  outline-offset: 2px;
-}
-.bmc-img {
-  width: 18px;
-  height: 18px;
-  display: block;
-  object-fit: contain;
-}
 .brand-mark {
   color: var(--int);
   font-family: var(--mono);
@@ -1853,7 +1807,7 @@
 
   /* === header === */
   /* Mobile header: brand + hamburger on one row. Secondary actions
-     (BMC, nav, subscribe) move into a dropdown drawer anchored to the
+     (nav, subscribe) move into a dropdown drawer anchored to the
      header's bottom, opened by tapping the hamburger. */
   .page-head {
     padding: 10px 0 8px;
@@ -1904,47 +1858,6 @@
     border-color: var(--int);
   }
 
-  /* BMC button next to the hamburger — icon + label, height matches
-     the hamburger so they sit on the same baseline. Pushed right via
-     margin-left:auto since header is space-between. */
-  .bmc-icon {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    height: 40px;
-    flex: 0 0 auto;
-    margin-left: auto;
-    padding: 0 12px;
-    background: transparent;
-    color: var(--fg);
-    border: 1px solid var(--line);
-    font-family: var(--mono);
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    text-decoration: none;
-    white-space: nowrap;
-    cursor: pointer;
-    transition: background-color 120ms linear, color 120ms linear,
-                border-color 120ms linear;
-  }
-  .bmc-icon img {
-    width: 20px;
-    height: 20px;
-    display: block;
-    object-fit: contain;
-  }
-  .bmc-icon:hover {
-    background: #ff5f5f;
-    border-color: #ff5f5f;
-    color: #ffffff;
-  }
-  .bmc-icon:focus-visible {
-    outline: 2px solid var(--int);
-    outline-offset: 2px;
-  }
-
   /* Drawer — absolute-positioned panel anchored to header. Mirrors
      the CATEGORIES popover pattern so users recognize the interaction
      model immediately: tap trigger, panel opens below, outside-click
@@ -1986,12 +1899,6 @@
   }
   .secondary-open .nav-link:last-child {
     border-bottom: 0;
-  }
-
-  /* BMC in drawer is hidden on mobile — the square icon button next
-     to the hamburger replaces it so the CTA only appears once. */
-  .secondary-open .bmc {
-    display: none;
   }
 
   /* Subscribe in drawer: full-width form. */
