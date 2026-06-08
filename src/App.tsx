@@ -19,7 +19,6 @@ import { SweepLogPage } from "./components/SweepLogPage";
 import { influencers } from "./data/influencers";
 import { Subscribe } from "./components/Subscribe";
 import { NewsletterPopup } from "./components/NewsletterPopup";
-import { BuyMeCoffee } from "./components/BuyMeCoffee";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
 
@@ -147,7 +146,7 @@ function App() {
     parseCategoriesFromUrl(),
   );
   const [query, setQuery] = useState("");
-  // Mobile hamburger drawer (nav + BMC + Subscribe). No-op on desktop
+  // Mobile hamburger drawer (nav + Subscribe). No-op on desktop
   // because CSS shows the secondary actions inline regardless.
   const [menuOpen, setMenuOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
@@ -506,7 +505,6 @@ function App() {
           ref={menuRef}
           className={`page-head-secondary ${menuOpen ? "secondary-open" : ""}`}
         >
-          <BuyMeCoffee />
           <nav className="page-nav">
             <button
               type="button"
