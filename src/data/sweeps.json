@@ -4539,6 +4539,34 @@
         "earnings",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260608t132908z",
+      "timestamp": "2026-06-08T13:29:08.513Z",
+      "source": "github-actions-sweep",
+      "summary": "One fresh item: Amazon signs multiyear, multibillion-dollar Corning fiber-optic supply deal for U.S. AWS data centers (GLW ~+9–10% premarket June 8). S&P Dow Jones June 22 rebalance (Marvell + Flex in) broke after Friday's close June 5 but the date falls outside the 72h cap by midnight-UTC math; dropped per Hard Rule 2. Weekend news otherwise dominated by ongoing Israel-Iran missile exchanges already covered in feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "glw-amzn-fiber-optic-deal-june-8-2026",
+          "title": "Corning +~9–10% premarket as Amazon signs multiyear multibillion-dollar fiber-optic supply deal — 1,000 new NC manufacturing jobs to power AWS data center buildout (June 8)",
+          "category": "mover",
+          "note": "Announced today June 8 — second hyperscaler-anchored Corning AI-optical deal in five weeks (after NVDA $500M warrants); GLW +~9–10% premarket and 1,000 NC manufacturing jobs make this a named major mover."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

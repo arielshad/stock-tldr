@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-06-08T00:37:32.283Z",
+  "generatedAt": "2026-06-08T13:29:08.513Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "glw-amzn-fiber-optic-deal-june-8-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Corning +~9–10% premarket as Amazon signs multiyear multibillion-dollar fiber-optic supply deal — 1,000 new NC manufacturing jobs to power AWS data center buildout (June 8)",
+      "org": "Corning Incorporated",
+      "date": "2026-06-08",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-corning-fiber-optics-1000-jobs-north-carolina",
+      "summary": "Amazon announced a multiyear, multibillion-dollar agreement to source optical fiber, cable and connectivity solutions from Corning for its U.S. data centers; deal creates 1,000 NC manufacturing jobs.",
+      "tags": [
+        "ai-capex",
+        "optical-fiber",
+        "ai-infrastructure",
+        "supply-agreement",
+        "aws",
+        "amazon",
+        "corning",
+        "us-manufacturing",
+        "data-center"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GLW",
+        "AMZN"
+      ],
+      "metrics": {
+        "GLW move": "~+9.31% premarket to $194.16",
+        "New jobs": "1,000 in North Carolina",
+        "Prior AWS NC commitment": "$20B+ since 2010",
+        "Additional AWS NC investment": "$10B announced 2025"
+      },
+      "explainer": {
+        "tagline": "Amazon adds Corning to its U.S. fiber-optic supplier base for AWS data centers in a multiyear, multibillion-dollar deal.",
+        "whatIsIt": "Amazon and Corning announced a multiyear, multibillion-dollar agreement under which Corning will supply optical fiber, cable and connectivity solutions for Amazon's U.S. data center infrastructure. The deal will create 1,000 advanced manufacturing jobs at Corning's North Carolina facilities plus hundreds of construction-related roles, and it expands a Corning fiber-optic technician training program with Catawba Valley Community College.",
+        "howItWorks": "Multiyear supply commitment that plays out over several years. Specific dollar value not disclosed in the public release. Sits alongside Corning's previously announced Meta (up to $6B) and NVIDIA ($500M warrants + capacity 10x) AI-optical deals; Amazon has committed over $20B in North Carolina since 2010 and a further $10B AWS infrastructure investment in the state.",
+        "whyItMatters": "Locks in another hyperscaler-anchored U.S. fiber-optic supply line as AI clusters scale into hundreds of thousands of GPUs and inter-rack interconnect becomes a known capacity choke point. GLW gapped roughly 9–10% in premarket Monday on the news, extending an AI-optical re-rating. Hyperscaler capex confirmation for the optical-networking subsector ahead of Oracle/Adobe prints later this week.",
+        "forWho": "AI infrastructure allocators, semis/optical desks",
+        "tryIt": "https://finance.yahoo.com/quote/GLW"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Corning_Inc_Headquarter.JPG",
+        "alt": "Corning Incorporated headquarters in Corning, New York — site referenced for Amazon multiyear fiber-optic supply deal.",
+        "fit": "cover",
+        "credit": "Stilfehler / Wikimedia Commons (CC BY-SA)"
+      },
+      "links": [
+        {
+          "label": "Amazon Newsroom",
+          "url": "https://www.aboutamazon.com/news/company-news/amazon-corning-fiber-optics-1000-jobs-north-carolina"
+        },
+        {
+          "label": "Quote / Chart",
+          "url": "https://www.tradingview.com/symbols/NYSE-GLW/"
+        },
+        {
+          "label": "Futunn Wire Brief",
+          "url": "https://news.futunn.com/en/post/74275996/amazon-and-corning-sign-multi-billion-dollar-fiber-optic-agreement"
+        },
+        {
+          "label": "GLW Quote",
+          "url": "https://finance.yahoo.com/quote/GLW"
+        },
+        {
+          "label": "AMZN Quote",
+          "url": "https://finance.yahoo.com/quote/AMZN"
+        }
+      ],
+      "publishDate": "2026-06-08T13:29:08.513Z"
+    },
     {
       "id": "opec-plus-july-188k-bpd-hike-june-7-2026",
       "categories": [
