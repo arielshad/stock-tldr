@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-06-07T12:32:51.064Z",
+  "generatedAt": "2026-06-08T00:37:32.283Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "opec-plus-july-188k-bpd-hike-june-7-2026",
+      "categories": [
+        "commodity"
+      ],
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "title": "OPEC+ Seven approve another 188,000 bpd quota hike for July at June 7 Vienna meeting — fourth consecutive monthly increase since Hormuz closure, bringing April–July cumulative unwind to ~788,000 bpd with Saudi Arabia/Russia at 62,000 bpd each",
+      "org": "OPEC+",
+      "date": "2026-06-07",
+      "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2836381-opec-7-agrees-to-188-000-b-d-july-target-hike",
+      "summary": "Seven OPEC+ members (Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan, Oman) agreed Sunday June 7 in Vienna to lift July output targets by another 188,000 bpd — matching the June hike and continuing the unwind of the 1.65M bpd voluntary-cut tranche.",
+      "tags": [
+        "opec",
+        "opec-plus",
+        "oil",
+        "crude",
+        "production-quota",
+        "voluntary-cuts-unwind",
+        "saudi-arabia",
+        "russia",
+        "uae-exit",
+        "hormuz-closure",
+        "july-2026",
+        "41st-ministerial-meeting"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Hike for July": "188,000 bpd",
+        "Cumulative Apr–Jul unwind": "~788,000 bpd",
+        "Voluntary cut remaining (post-July)": "~376,000 bpd",
+        "Saudi Arabia (typical share)": "62,000 bpd",
+        "Russia (typical share)": "62,000 bpd",
+        "Participating members": "7 of 21",
+        "Original 1.65M bpd cut start": "Apr 2023"
+      },
+      "explainer": {
+        "tagline": "Seven OPEC+ producers tack on another 188K bpd for July — a fourth straight 'symbolic' hike while Strait of Hormuz outages still cap real supply.",
+        "whatIsIt": "On Sunday June 7 the seven OPEC+ members that hold a separate voluntary cut — Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman — met virtually after the 41st OPEC and non-OPEC Ministerial Meeting in Vienna and agreed to raise July collective production targets by 188,000 barrels per day. It mirrors the June hike and is the fourth consecutive monthly increase since the alliance began unwinding the 1.65M bpd voluntary tranche this spring.",
+        "howItWorks": "April and May increases ran 206,000 bpd; June and now July are 188,000 bpd after the UAE — historically the loudest internal voice for higher quotas — exited OPEC+ on May 1 with a 3.519 mb/d baseline. Cumulative unwind from April through July reaches roughly 788,000 bpd of the original 1.65M bpd cut, leaving ~376,000 bpd of voluntary curbs in place. Saudi Arabia and Russia each typically take the largest share (~62,000 bpd in the June split), with the rest split among Iraq, Kuwait, Algeria, Kazakhstan and Oman. The decision was made by the seven voluntarily cutting countries on Sunday; the full 21-member OPEC+ ministerial committee separately reaffirmed the broader framework through year-end 2026.",
+        "whyItMatters": "The paper hike is much smaller than the ~10M bpd of Gulf supply still constrained by the Strait of Hormuz closure (OPEC+ output averaged 33.19 mb/d in April vs 42.77 mb/d in February). Argus and gCaptain delegates framed the move as 'preparing the ground' for real volumes once Hormuz reopens, not an immediate supply add. For energy desks the read is bearish-on-paper / neutral-in-reality: Saudi is signalling it will not absorb the UAE's orphan baseline unilaterally and prefers a phased, low-friction return of the original cut. Watch for any commentary on the next 188K bpd tranche at the August JMMC.",
+        "forWho": "energy desks, oil traders, macro overlay desks",
+        "tryIt": "https://finance.yahoo.com/quote/BZ=F/"
+      },
+      "image": {
+        "url": "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-05T160321Z_1712290250_RC2N3LATU4EU_RTRMADP_3_GLOBAL-MARKETS-OIL-scaled.jpg",
+        "alt": "Oil tanker and refinery infrastructure — OPEC+ approves another July output hike on June 7 2026",
+        "fit": "cover",
+        "credit": "Reuters via gCaptain"
+      },
+      "links": [
+        {
+          "label": "Argus: OPEC+ 7 July Hike",
+          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2836381-opec-7-agrees-to-188-000-b-d-july-target-hike"
+        },
+        {
+          "label": "gCaptain (Reuters)",
+          "url": "https://gcaptain.com/opec-set-for-fourth-oil-quota-hike-since-hormuz-closure/"
+        },
+        {
+          "label": "40th Meeting Press Release",
+          "url": "https://www.opec.org/pr-detail/582-30-november-2025.html"
+        },
+        {
+          "label": "Brent Futures Chart",
+          "url": "https://finance.yahoo.com/quote/BZ=F/"
+        },
+        {
+          "label": "WTI Futures Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F/"
+        }
+      ],
+      "publishDate": "2026-06-08T00:37:32.283Z"
+    },
     {
       "id": "btc-sub-60k-worst-week-since-ftx-june-5-2026",
       "categories": [

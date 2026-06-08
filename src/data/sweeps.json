@@ -4510,6 +4510,35 @@
         "video",
         "article"
       ]
+    },
+    {
+      "id": "sweep-20260608t003732z",
+      "timestamp": "2026-06-08T00:37:32.283Z",
+      "source": "github-actions-sweep",
+      "summary": "One add for the sweep window: OPEC+ Seven on Sunday June 7 approved a fourth consecutive 188K bpd quota hike for July at the 41st Ministerial Meeting in Vienna. Scanned macro/CPI/Fed (no prints), Asia open (continuation of Friday selloff — covered), crypto (BTC ~$61.8K weekend recovery — incremental, doesn't bar), EDGAR (no new material 8-Ks), and Sunday political headlines (papal visit, Peru election, 100-day Iran war — not market-moving).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "opec-plus-july-188k-bpd-hike-june-7-2026",
+          "title": "OPEC+ Seven approve another 188,000 bpd quota hike for July at June 7 Vienna meeting — fourth consecutive monthly increase since Hormuz closure, bringing April–July cumulative unwind to ~788,000 bpd with Saudi Arabia/Russia at 62,000 bpd each",
+          "category": "commodity",
+          "note": "Confirmed by Argus, gCaptain (Reuters wire), Bloomberg, CNBC; primary-source schedule documented on opec.org. Fourth monthly hike in a row — first OPEC+ ministerial without the UAE."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "crypto",
+        "mover",
+        "earnings",
+        "regulatory"
+      ]
     }
   ]
 }
