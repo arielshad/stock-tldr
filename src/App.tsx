@@ -18,6 +18,7 @@ import { InfluencersPage } from "./components/InfluencersPage";
 import { SweepLogPage } from "./components/SweepLogPage";
 import { influencers } from "./data/influencers";
 import { Subscribe } from "./components/Subscribe";
+import { NewsletterPopup } from "./components/NewsletterPopup";
 import { BuyMeCoffee } from "./components/BuyMeCoffee";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
@@ -591,6 +592,8 @@ function App() {
       </main>
 
       {openItem && <ReleaseModal item={openItem} onClose={closeModal} />}
+
+      <NewsletterPopup />
 
       <footer className="page-footer">
         Built with{" "}

@@ -2869,6 +2869,243 @@
   white-space: nowrap;
 }
 
+/* Scroll-triggered newsletter popup */
+.np-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 600;
+  background: var(--scrim);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  animation: np-fade 160ms ease-out;
+}
+
+@keyframes np-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.np-card {
+  position: relative;
+  width: min(94vw, 460px);
+  background: var(--bg);
+  border: 2px solid var(--line);
+  padding: 28px 26px 22px;
+  animation: np-rise 200ms ease-out;
+}
+
+@keyframes np-rise {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.np-x {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  padding: 5px 8px;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 120ms linear, color 120ms linear;
+}
+
+.np-x:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--int);
+}
+
+.np-kicker {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  color: var(--int);
+}
+
+.np-title {
+  font-family: var(--mono);
+  font-size: 22px;
+  line-height: 1.18;
+  font-weight: 800;
+  margin: 10px 0 0;
+  color: var(--fg);
+}
+
+.np-sub {
+  font-family: var(--mono);
+  font-size: 12px;
+  line-height: 1.55;
+  color: var(--muted);
+  margin: 12px 0 18px;
+}
+
+.np-form {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--line);
+  height: 38px;
+}
+
+.np-prompt {
+  font-family: var(--mono);
+  font-weight: 800;
+  color: var(--int);
+  padding: 0 6px 0 10px;
+  font-size: 13px;
+}
+
+.np-form input {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--fg);
+  flex: 1;
+  height: 100%;
+  min-width: 0;
+}
+
+.np-form input::placeholder {
+  color: var(--muted);
+}
+
+.np-form input:disabled {
+  opacity: 0.5;
+}
+
+.np-form button {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border: none;
+  padding: 0 14px;
+  height: 100%;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 120ms linear;
+}
+
+.np-form button:hover:not(:disabled) {
+  background: var(--fg);
+}
+
+.np-form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.np-error {
+  display: block;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: #f66;
+  margin-top: 8px;
+}
+
+.np-decline {
+  display: block;
+  width: 100%;
+  margin-top: 16px;
+  background: none;
+  border: 0;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 120ms linear;
+}
+
+.np-decline:hover {
+  opacity: 1;
+}
+
+.np-success {
+  text-align: center;
+  padding: 8px 0;
+}
+
+.np-check {
+  font-family: var(--mono);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: var(--int);
+}
+
+.np-success-msg {
+  font-family: var(--mono);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--fg);
+  margin: 12px 0 20px;
+}
+
+.np-done {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border: none;
+  padding: 9px 22px;
+  cursor: pointer;
+  transition: background 120ms linear;
+}
+
+.np-done:hover {
+  background: var(--fg);
+}
+
+@media (max-width: 480px) {
+  .np-card {
+    padding: 24px 18px 18px;
+  }
+  .np-title {
+    font-size: 19px;
+  }
+  .np-form {
+    flex-wrap: wrap;
+    height: auto;
+    border: 0;
+    gap: 8px;
+  }
+  .np-prompt {
+    display: none;
+  }
+  .np-form input {
+    border: 1px solid var(--line);
+    height: 38px;
+    padding: 0 10px;
+    width: 100%;
+    flex: 1 1 100%;
+  }
+  .np-form button {
+    height: 38px;
+    width: 100%;
+    flex: 1 1 100%;
+  }
+}
+
 .page-footer {
   margin-top: 24px;
   padding: 14px 0;
