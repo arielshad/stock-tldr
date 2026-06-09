@@ -1,8 +1,222 @@
 {
-  "generatedAt": "2026-06-09T00:32:54.883Z",
+  "generatedAt": "2026-06-09T13:08:54.748Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "gsk-nuvalent-acquisition-june-9-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "GSK to acquire Nuvalent for $10.6B all-cash at $124/share — 40% premium sends NUVL ~+38% premarket on June 9 as British pharma adds two ROS1/ALK lung-cancer drugs under FDA review",
+      "org": "GSK",
+      "date": "2026-06-09",
+      "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-agreement-to-acquire-nuvalent-inc/",
+      "summary": "GSK said on June 9 it will buy Boston-based Nuvalent for $10.6B all-cash at $124/share — a 40% premium. NUVL gapped ~+38% to ~$122; GSK -3% in early London trade. Q3 2026 close targeted.",
+      "tags": [
+        "mna",
+        "all-cash",
+        "tender-offer",
+        "biotech",
+        "oncology",
+        "lung-cancer",
+        "ros1-inhibitor",
+        "alk-inhibitor",
+        "fda-pdufa-2026",
+        "uk-pharma",
+        "boston-biotech"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NUVL",
+        "GSK"
+      ],
+      "metrics": {
+        "Deal": "$10.6B equity / $9.4B net of cash, all-cash",
+        "Price/share": "$124 cash",
+        "Premium": "~40% over June 8 close; 26% over 30-day VWAP",
+        "NUVL move (premarket Jun 9)": "~+38% to ~$122.10",
+        "GSK move (early London Jun 9)": "-3%",
+        "Lead assets": "Zidesamtinib (ROS1, PDUFA Sep 18, 2026) and neladalkib (ALK, PDUFA Nov 27, 2026)",
+        "Expected close": "Q3 2026"
+      },
+      "explainer": {
+        "tagline": "GSK pays a 40% premium for two next-generation lung-cancer drugs days away from FDA decisions.",
+        "whatIsIt": "On June 9, GSK announced a definitive agreement to acquire Nuvalent, a Cambridge, Massachusetts clinical-stage oncology biotech, for $124 per share in cash — total equity value $10.6B and $9.4B net of Nuvalent's cash. GSK will launch a tender offer within 10 business days and expects to close in Q3 2026 subject to majority tender, antitrust and CFIUS clearance.",
+        "howItWorks": "Nuvalent's two late-stage assets are zidesamtinib (NVL-520), a selective ROS1 inhibitor with a PDUFA date of September 18, 2026, and neladalkib (NVL-655), a selective ALK inhibitor with a PDUFA date of November 27, 2026 — both for non-small cell lung cancer. A Phase 1 HER2 inhibitor (NVL-330) rounds out the pipeline. GSK said the deal will not change 2026 core operating profit and core EPS growth guidance of 7–9%; it expects core operating profit accretion in 2027 and core EPS accretion in 2029, with low single-digit EPS dilution from 2026–2028.",
+        "whyItMatters": "NUVL gapped ~+38% to roughly $122.10 in U.S. premarket trade as the price approached the $124 cash offer, while GSK fell about 3% in early London trade on the dilution and execution risk. The deal continues a wave of mid-size pharma M&A targeting oncology platforms with near-term regulatory catalysts — and it pulls Nuvalent off the table before its first commercial launch. Peers in next-generation precision-oncology biotech (Revolution Medicines, Bicara Therapeutics, Day One Bio) typically rerate higher on read-throughs of bid premia like this.",
+        "forWho": "Biotech M&A traders, healthcare allocators, oncology specialists",
+        "tryIt": "https://finance.yahoo.com/quote/NUVL"
+      },
+      "image": {
+        "url": "https://nuvalent.com/nuvalent-og-image.png",
+        "alt": "Nuvalent corporate identity — Boston oncology biotech acquired by GSK for $10.6B on June 9, 2026.",
+        "fit": "contain",
+        "credit": "Nuvalent"
+      },
+      "links": [
+        {
+          "label": "GSK Press Release",
+          "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-agreement-to-acquire-nuvalent-inc/"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html"
+        },
+        {
+          "label": "Reuters via TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC9KX7TB:0-gsk-to-acquire-nuvalent-for-10-6-billion/"
+        },
+        {
+          "label": "NUVL Quote",
+          "url": "https://finance.yahoo.com/quote/NUVL"
+        }
+      ],
+      "publishDate": "2026-06-09T13:08:54.748Z"
+    },
+    {
+      "id": "ingr-tate-lyle-acquisition-june-8-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Ingredion to buy Tate & Lyle for £2.7B / $3.6B all-cash at 595p/share on Monday June 8 — TATE.L +14% to ~563p as London loses a 167-year listing; INGR roughly flat",
+      "org": "Ingredion",
+      "date": "2026-06-08",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tate-lyle-accepts-bid-ingredion-084343560.html",
+      "summary": "Ingredion (NYSE: INGR) and Tate & Lyle (LSE: TATE) said on June 8 they have agreed a recommended £2.7B / $3.6B all-cash deal at 595p/share — a 59% premium to TATE.L's May 13 pre-talks close. TATE.L +14% to ~563p; INGR ~flat.",
+      "tags": [
+        "mna",
+        "all-cash",
+        "cross-border",
+        "uk-take-private",
+        "food-ingredients",
+        "specialty-ingredients",
+        "sweeteners",
+        "consumer-staples",
+        "recommended-offer",
+        "lse-delisting"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INGR",
+        "TATE.L"
+      ],
+      "metrics": {
+        "Deal": "£2.7B equity / £3.7B EV (≈$3.6B / $5.0B)",
+        "Price/share": "595p cash + entitlement to ~20p in dividends",
+        "Premium": "~59% vs TATE.L May 13 close (pre-talks)",
+        "TATE.L move (Jun 8)": "+14% to ~563p (below 595p offer signals execution discount)",
+        "INGR move (Jun 8)": "~+0.2%",
+        "Expected close": "H2 2027"
+      },
+      "explainer": {
+        "tagline": "America's Ingredion takes Tate & Lyle private and ends nearly a century on the London Stock Exchange.",
+        "whatIsIt": "On June 8, NYSE-listed Ingredion announced a recommended all-cash acquisition of LSE-listed Tate & Lyle at 595 pence per share. The transaction values Tate & Lyle's equity at £2.7B and implies an enterprise value of approximately £3.7B (≈$5.0B), unanimously backed by Tate & Lyle's board.",
+        "howItWorks": "Tate & Lyle shareholders receive 595p in cash per share plus the right to keep final and interim dividends of up to ~20p total. The 595p price is a ~59% premium to the 13 May 2026 closing price — the day before the takeover talks were disclosed. The combined company would be one of the largest specialty-ingredients suppliers globally, focused on texturants, sweetener systems and fortification. Closing is targeted for the second half of 2027 subject to shareholder and regulatory approvals.",
+        "whyItMatters": "TATE.L surged ~14% to about 563 pence on Monday but traded below the 595p offer price, with arb desks pricing in roughly an 18-month deal-completion window and antitrust review (the U.S. FTC and U.K. CMA both have ingredients-overlap interest). Ingredion barely moved (+0.2%) as investors digested 'low double-digit EPS accretion' guidance from CEO James Zallie. The deal removes a 167-year UK listing from the LSE, extending the bleed of mid-cap London PLCs into U.S. and private hands.",
+        "forWho": "Cross-border M&A arb traders, consumer-staples allocators, UK equity desks",
+        "tryIt": "https://www.lse.co.uk/SharePrice.html?shareprice=TATE"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tate_%26_Lyle_new_logo_2023.png",
+        "alt": "Tate & Lyle 2023 corporate logo — UK specialty-ingredients group taken private by Ingredion for £2.7B on June 8, 2026.",
+        "fit": "contain",
+        "credit": "Tate & Lyle / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Bloomberg via Yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tate-lyle-accepts-bid-ingredion-084343560.html"
+        },
+        {
+          "label": "FoodBev Coverage",
+          "url": "https://www.foodbev.com/news/ingredion-and-tate-lyle-agree-on-2-7-billion-acquisition-deal"
+        },
+        {
+          "label": "LSE News",
+          "url": "https://www.lse.co.uk/news/uks-tate-amp-lyle-agrees-27-billion-cash-takeover-by-us-rival-ingredion-cznx9iebfrq0bcp.html"
+        },
+        {
+          "label": "INGR Quote",
+          "url": "https://finance.yahoo.com/quote/INGR"
+        }
+      ],
+      "publishDate": "2026-06-09T13:08:54.748Z"
+    },
+    {
+      "id": "intc-google-tpu-foundry-rumor-june-8-2026",
+      "categories": [
+        "mover",
+        "rumor",
+        "sector"
+      ],
+      "title": "Reportedly: Google taps Intel to make 3M+ in-house TPUs for 2028 production — INTC +11.19% to $110.27 Monday June 8 (best day in a month) as Information scoop sets up foundry comeback; SOXX ~+6%",
+      "org": "Intel",
+      "date": "2026-06-08",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/google-orders-3-million-tpus-145618727.html",
+      "summary": "The Information reported on June 8 that Alphabet's Google has ordered more than 3 million in-house AI tensor processing units from Intel's foundry for 2028 production. INTC closed +11.19% at $110.27 as the SOXX rallied ~6%.",
+      "tags": [
+        "rumor",
+        "mover",
+        "ai-chips",
+        "tpu",
+        "intel-foundry",
+        "18a-process",
+        "tsmc-capacity-crunch",
+        "the-information-scoop",
+        "semis",
+        "ai-infrastructure"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INTC",
+        "GOOGL",
+        "TSM",
+        "NVDA"
+      ],
+      "metrics": {
+        "INTC close (Jun 8)": "$110.27 (+11.19%)",
+        "INTC gain": "biggest single-day jump in roughly a month",
+        "SOXX semis ETF (Jun 8)": "~+6%",
+        "Reported TPU volume": ">3,000,000 chips for 2028 production",
+        "Nvidia angle": "running early trials on Intel 18A for a 4-die Feynman GPU package; no production order yet",
+        "Process node": "Intel 18A"
+      },
+      "explainer": {
+        "tagline": "Google reportedly diverts millions of TPU wafers from TSMC to Intel — the biggest publicly known Intel Foundry customer commitment to date.",
+        "whatIsIt": "The Information reported on June 8 that Alphabet has signed Intel's foundry to manufacture more than 3 million in-house Google tensor processing units (TPUs) starting in 2028 — the chips Google uses to run its own large-model training and inference workloads internally and on Google Cloud. Bloomberg, Reuters, Yahoo Finance and other tier-1 outlets cited the same scoop. Neither company publicly confirmed the arrangement.",
+        "howItWorks": "Per the report, Google placed the order after months of qualification work on Intel's 18A process node — Intel's first leading-edge node with backside power delivery and gate-all-around transistors. The shift is driven by TSMC's capacity crunch on advanced N3/N2 nodes; both Google and Nvidia have been searching for second-source capacity. Separately, Nvidia is also said to be testing 18A for a future Feynman-architecture multi-chip GPU package (four graphics dies in one substrate), though Nvidia has not yet placed a production order.",
+        "whyItMatters": "INTC jumped to close +11.19% at $110.27 — its biggest single-day move in about a month — and dragged the iShares Semiconductor ETF (SOXX) up roughly 6% on the day, reversing part of Friday's chip rout. The story is the largest publicly disclosed external customer commitment to Intel Foundry to date, validating the bull case that 18A is competitive on power and density. TSMC closed lower as the disclosed loss of a hyperscaler workload feeds the narrative that capacity, not technology, is now the binding constraint at the leading edge.",
+        "forWho": "Semis traders, foundry watchers, AI-infrastructure allocators",
+        "tryIt": "https://finance.yahoo.com/quote/INTC"
+      },
+      "image": {
+        "url": "https://newsroom.intel.com/wp-content/uploads/2024/11/intel-card-scaled.jpg",
+        "alt": "Intel newsroom hero — INTC +11% on June 8, 2026 after report Google ordered 3M TPUs from Intel Foundry for 2028.",
+        "fit": "cover",
+        "credit": "Intel"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/google-orders-3-million-tpus-145618727.html"
+        },
+        {
+          "label": "Bloomberg via Yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-8-212345430.html"
+        },
+        {
+          "label": "Motley Fool Stock Market Today",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-intel-surges-on-reported-google-ai-chip-foundry-order/"
+        },
+        {
+          "label": "INTC Quote",
+          "url": "https://finance.yahoo.com/quote/INTC"
+        }
+      ],
+      "publishDate": "2026-06-09T13:08:54.748Z"
+    },
     {
       "id": "aapl-wwdc-siri-ai-june-8-2026",
       "categories": [

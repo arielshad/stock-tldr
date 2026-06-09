@@ -4612,6 +4612,49 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260609t130854z",
+      "timestamp": "2026-06-09T13:08:54.748Z",
+      "source": "github-actions-sweep",
+      "summary": "Three additions for the June 9 sweep: GSK's $10.6B all-cash acquisition of Boston biotech Nuvalent at a 40% premium (NUVL +38% premarket); Ingredion's £2.7B / $3.6B all-cash recommended takeover of Tate & Lyle (TATE.L +14%, INGR ~flat); and Intel +11.19% to $110.27 on The Information's scoop that Google ordered >3M in-house TPUs from Intel Foundry for 2028 production.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gsk-nuvalent-acquisition-june-9-2026",
+          "title": "GSK to acquire Nuvalent for $10.6B all-cash at $124/share — 40% premium sends NUVL ~+38% premarket on June 9 as British pharma adds two ROS1/ALK lung-cancer drugs under FDA review",
+          "category": "mna",
+          "note": "Major M&A: $10.6B all-cash biotech takeout at 40% premium with Q3 2026 close; primary GSK press release plus tier-1 coverage; NUVL premarket gap confirms."
+        },
+        {
+          "id": "ingr-tate-lyle-acquisition-june-8-2026",
+          "title": "Ingredion to buy Tate & Lyle for £2.7B / $3.6B all-cash at 595p/share on Monday June 8 — TATE.L +14% to ~563p as London loses a 167-year listing; INGR roughly flat",
+          "category": "mna",
+          "note": "Major cross-border M&A: £2.7B recommended all-cash takeover removes 167-year LSE listing; primary Ingredion IR release; TATE.L +14%."
+        },
+        {
+          "id": "intc-google-tpu-foundry-rumor-june-8-2026",
+          "title": "Reportedly: Google taps Intel to make 3M+ in-house TPUs for 2028 production — INTC +11.19% to $110.27 Monday June 8 (best day in a month) as Information scoop sets up foundry comeback; SOXX ~+6%",
+          "category": "mover",
+          "note": "Major rumor + mover: The Information scoop on Google's 3M+ TPU order to Intel Foundry; INTC +11.19% close, SOXX +~6%; Bloomberg/Reuters confirmed the report."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "rumor",
+        "earnings",
+        "macro",
+        "crypto",
+        "commodity",
+        "sector"
+      ]
     }
   ]
 }
