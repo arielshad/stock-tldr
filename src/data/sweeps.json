@@ -4567,6 +4567,51 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260609t003254z",
+      "timestamp": "2026-06-09T00:32:54.883Z",
+      "source": "github-actions-sweep",
+      "summary": "Three June 8 items: Apple's WWDC 2026 Siri AI/Apple Intelligence reveal (AAPL intraday record then -1.89% close); S&P 500 inclusion for MRVL (+9.6% to $288.85) and FLEX (+4.3% to $158.50) effective June 22 replacing POOL/CPB; and first direct Iran-Israel missile exchange since April ceasefire driving Brent +3.4% to $96.24.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "aapl-wwdc-siri-ai-june-8-2026",
+          "title": "Apple unveils Siri AI and next-gen Apple Intelligence at WWDC 2026 — AAPL hits intraday record ~$317 then closes -1.89% at $301.54 on no Siri launch deadline in Tim Cook's final keynote",
+          "category": "mover",
+          "note": "WWDC 2026 keynote unveiled Siri AI plus six-platform refresh; mega-cap AI-narrative pivot in Tim Cook's final keynote, AAPL gapped to intraday record then sold off on no firm Siri launch date."
+        },
+        {
+          "id": "mrvl-flex-sp500-inclusion-rally-june-8-2026",
+          "title": "Marvell +9.6% to $288.85 and Flex +4.3% to $158.50 on Monday June 8 as S&P 500 inclusion (effective June 22) replaces Pool Corp and Campbell's at quarterly rebalance",
+          "category": "mover",
+          "note": "Quarterly S&P 500 rebalance promotes MRVL/FLEX (replacing POOL/CPB) with forced passive bid until June 22 effective date; MRVL +9.6% Monday."
+        },
+        {
+          "id": "iran-israel-direct-strikes-oil-pop-june-8-2026",
+          "title": "Brent +3.4% to $96.24, WTI +3.2% to $93.41 on Monday June 8 as Iran fires first direct missile barrage at Israel since April ceasefire (Sun Jun 7) following Israeli strikes on Beirut's Dahiyeh",
+          "category": "macro",
+          "note": "First direct Iran-Israel missile exchange since the April ceasefire; Brent/WTI +3%+ on the day even after Trump-driven de-escalation pulled crude off intraday highs."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "earnings",
+        "analyst",
+        "regulatory",
+        "mna",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

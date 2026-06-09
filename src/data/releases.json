@@ -1,8 +1,234 @@
 {
-  "generatedAt": "2026-06-08T13:29:08.513Z",
+  "generatedAt": "2026-06-09T00:32:54.883Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "aapl-wwdc-siri-ai-june-8-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Apple unveils Siri AI and next-gen Apple Intelligence at WWDC 2026 — AAPL hits intraday record ~$317 then closes -1.89% at $301.54 on no Siri launch deadline in Tim Cook's final keynote",
+      "org": "Apple",
+      "date": "2026-06-08",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Apple unveiled Siri AI, iOS 27 and macOS 27 at Tim Cook's final WWDC keynote on June 8. AAPL hit an intraday record near $317 then closed down 1.89% at $301.54 on no firm Siri launch deadline.",
+      "tags": [
+        "wwdc",
+        "wwdc-2026",
+        "apple-intelligence",
+        "siri-ai",
+        "ios-27",
+        "macos-27",
+        "ipados-27",
+        "watchos-27",
+        "visionos-27",
+        "tvos-27",
+        "ai",
+        "mega-cap",
+        "tim-cook",
+        "keynote"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AAPL"
+      ],
+      "metrics": {
+        "AAPL close": "$301.54 (-1.89%)",
+        "AAPL intraday high": "~$317 (record)",
+        "Volume": "76.6M shares (~+68% vs 3-mo avg 45.5M)",
+        "Platforms updated": "iOS/iPadOS/macOS/watchOS/visionOS/tvOS 27",
+        "Siri AI EU availability": "not initially on iOS/iPadOS",
+        "Release timeline": "Developer beta Jun 8 / Public beta July / GA Fall 2026"
+      },
+      "explainer": {
+        "tagline": "Siri AI finally arrives — but without a firm release date, sending AAPL from a fresh record to a -1.89% close on the day.",
+        "whatIsIt": "At WWDC 2026 on June 8, Apple unveiled a rebuilt voice assistant branded 'Siri AI' alongside next-generation Apple Intelligence features and refreshed software for iPhone, iPad, Mac, Apple Watch, Vision Pro and Apple TV. The keynote, Tim Cook's final WWDC as CEO before he steps down in September, framed AI as the defining theme across iOS 27, macOS Golden Gate and the broader OS family.",
+        "howItWorks": "Siri AI can answer questions about on-screen content and pull live information from the web, with a dedicated app to manage conversations across devices via iCloud. Apple Intelligence adds Spatial Reframing in Photos, Image Playground, and Safari 'Notify Me'. Apps launch up to 30% faster, photos up to 70% faster and AirDrop up to 80% faster per Apple's release. Developer beta opens June 8, public beta in July, broad release in fall 2026 — but Apple gave no explicit launch date for the most-personal Siri AI features.",
+        "whyItMatters": "AAPL spiked to an intraday record near $317 as headline AI features hit, then unwound to close -1.89% at $301.54 on 76.6M shares (about 68% above the 3-month average) as investors flagged the missing Siri launch deadline. Bear takeaway: Apple's AI cadence still lags rivals and EU users won't get Siri AI on iOS/iPadOS at launch. Bull takeaway: six platforms moved at once with measurable performance gains, setting up the iPhone 18 cycle on a software floor.",
+        "forWho": "Mega-cap tech allocators, AI-supercycle traders",
+        "tryIt": "https://finance.yahoo.com/quote/AAPL"
+      },
+      "image": {
+        "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-OS-27-updates-260608-lp.jpg.og.jpg?202606082105",
+        "alt": "Apple OS 27 family hero — Siri AI and Apple Intelligence unveiled at WWDC 2026 keynote on June 8.",
+        "fit": "cover",
+        "credit": "Apple"
+      },
+      "links": [
+        {
+          "label": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/06/08/stock-market-today-june-8-apple-falls-after-unveiling-ai-siri-and-apple-intelligence-at-wwdc/"
+        },
+        {
+          "label": "EU Limits (MacRumors)",
+          "url": "https://www.macrumors.com/2026/06/08/siri-ai-not-available-eu-china/"
+        },
+        {
+          "label": "AAPL Quote",
+          "url": "https://finance.yahoo.com/quote/AAPL"
+        }
+      ],
+      "publishDate": "2026-06-09T00:32:54.883Z"
+    },
+    {
+      "id": "mrvl-flex-sp500-inclusion-rally-june-8-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Marvell +9.6% to $288.85 and Flex +4.3% to $158.50 on Monday June 8 as S&P 500 inclusion (effective June 22) replaces Pool Corp and Campbell's at quarterly rebalance",
+      "org": "S&P Dow Jones Indices",
+      "date": "2026-06-08",
+      "url": "https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600",
+      "summary": "S&P Dow Jones Indices' Friday-after-close quarterly rebalance promotes MRVL and FLEX into the S&P 500 effective June 22, replacing POOL and CPB. MRVL closed +9.6% Monday June 8 at $288.85.",
+      "tags": [
+        "sp-500-inclusion",
+        "index-rebalance",
+        "quarterly-rebalance",
+        "passive-flows",
+        "semis",
+        "ai-infrastructure",
+        "ai-capex",
+        "ems",
+        "spdji"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MRVL",
+        "FLEX",
+        "POOL",
+        "CPB"
+      ],
+      "metrics": {
+        "MRVL close (Jun 8)": "$288.85 (+9.6%)",
+        "FLEX close (Jun 8)": "$158.50 (+4.3%)",
+        "Effective inclusion": "Open of trade Mon Jun 22, 2026",
+        "Replaces": "Pool Corp (POOL) and The Campbell's Company (CPB)",
+        "MRVL YTD": "+~210%",
+        "MRVL after-hours pop (Jun 5)": "+~6%",
+        "FLEX after-hours pop (Jun 5)": "+~4%"
+      },
+      "explainer": {
+        "tagline": "S&P 500 promotion forces passive bid in MRVL and FLEX two weeks ahead of the June 22 rebalance.",
+        "whatIsIt": "After the close on Friday June 5, S&P Dow Jones Indices announced its quarterly rebalance: Marvell Technology (MRVL) and Flex (FLEX) move up to the S&P 500 effective the open of trading on Monday June 22, replacing Pool Corp (POOL) and The Campbell's Company (CPB). Pool drops to the SmallCap 600 alongside Campbell's; Flex moves up from the MidCap 400.",
+        "howItWorks": "MRVL gapped on Monday June 8 and closed +9.6% at $288.85 as passive index funds tracking the S&P 500 — collectively trillions in AUM — must build positions before the June 22 rebalance date. FLEX, which was already in the MidCap 400, closed +4.3% at $158.50 (a more muted reaction since some passive vehicles already held it). Replaced names Pool and Campbell's traded lower as MidCap/SmallCap funds rotated.",
+        "whyItMatters": "Adds two more semis/AI-infrastructure-adjacent names to the S&P 500: MRVL is the latest custom-AI-chip and data-center networking pure-play to join, after a YTD gain of more than 210%; FLEX is the contract manufacturer behind a wide swath of hyperscaler hardware. The promotion confirms the index's tilt toward AI-capex beneficiaries and away from consumer-discretionary/staples mid-caps. The forced passive bid runs until June 22 close.",
+        "forWho": "Index arb desks, semis allocators, passive-flow watchers",
+        "tryIt": "https://finance.yahoo.com/quote/MRVL"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/prnewswire.com/c880345242275660cc60d4748a491f6b",
+        "alt": "Marvell Technology logo — S&P 500 inclusion announced June 5, effective June 22 2026.",
+        "fit": "contain",
+        "credit": "Marvell Technology / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "S&P Global Press Release",
+          "url": "https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-flex-set-join-232500291.html"
+        },
+        {
+          "label": "Monday Move Recap",
+          "url": "https://www.asktraders.com/analysis/why-mrvl-shares-surged-june-2026/"
+        },
+        {
+          "label": "MRVL Quote",
+          "url": "https://finance.yahoo.com/quote/MRVL"
+        },
+        {
+          "label": "FLEX Quote",
+          "url": "https://finance.yahoo.com/quote/FLEX"
+        }
+      ],
+      "publishDate": "2026-06-09T00:32:54.883Z"
+    },
+    {
+      "id": "iran-israel-direct-strikes-oil-pop-june-8-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Brent +3.4% to $96.24, WTI +3.2% to $93.41 on Monday June 8 as Iran fires first direct missile barrage at Israel since April ceasefire (Sun Jun 7) following Israeli strikes on Beirut's Dahiyeh",
+      "org": "Israel-Iran conflict",
+      "date": "2026-06-08",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines",
+      "summary": "Iran fires its first direct missile barrage at Israel since the April ceasefire on Sunday June 7 after Israeli airstrikes on Beirut's Dahiyeh; oil pops 3%+ Monday June 8 before Trump-brokered de-escalation pulls Brent back toward $94.",
+      "tags": [
+        "geopolitics",
+        "middle-east",
+        "iran",
+        "israel",
+        "lebanon",
+        "beirut",
+        "ceasefire",
+        "oil",
+        "brent",
+        "wti",
+        "strait-of-hormuz",
+        "trump",
+        "ramat-david"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent (Jun 8)": "$96.24 (+$3.20 / +3.39%)",
+        "WTI (Jun 8)": "$93.41 (+$2.87 / +3.17%)",
+        "Brent intraday high": "above $98 before easing toward $94 on de-escalation",
+        "Iranian salvos at Israel (Jun 7)": "~14 (per Al Jazeera)",
+        "Israeli intercepts": "all missiles downed; no immediate Israeli casualties",
+        "Beirut casualties (Jun 7)": "~2 killed, 11–20 wounded per Lebanese MoH"
+      },
+      "explainer": {
+        "tagline": "First direct Iran-Israel missile exchange since April ceasefire jolts crude before Trump pushback caps the move.",
+        "whatIsIt": "Iran fired its first direct missile barrage at Israel since the April 2026 ceasefire late on Sunday June 7, with Tehran calling it retaliation for Israel Defense Forces airstrikes earlier that day on the Dahiyeh district of southern Beirut. Israel said it downed all incoming missiles with no immediate casualties; Lebanon's Health Ministry reported about two dead and 11–20 wounded from the Beirut strike. Oil futures gapped higher on the open Monday before paring as Trump-led mediation pulled tensions back.",
+        "howItWorks": "Brent August futures advanced about 3.39% to $96.24, intraday topping $98 before easing toward $94 as Iran said it had ended its operations against Israel. WTI September added 3.17% to $93.41. President Trump publicly urged Netanyahu not to retaliate ('I am going to call Bibi right now and tell him not to retaliate'), saying both sides were close to a 'final deal'; Iran said it would halt operations but warned of harsher attacks if Israel struck again. Reports of explosions in Tehran, Tabriz and Isfahan added headline risk early Monday before the de-escalation tone took hold.",
+        "whyItMatters": "Restores a discrete Iran/Israel escalation risk premium into Brent/WTI on top of the existing Hormuz-shipping disruption, undoing some of the negotiation-driven oil weakness seen in late May. The crude pop ripples through energy equities, refiners and inflation expectations just as Goldman pushes its Fed-cut call to 2027 on the back of last week's strong jobs print. Direction-of-travel matters for headline CPI in coming months.",
+        "forWho": "Energy desks, macro traders, geopolitical-risk allocators",
+        "tryIt": "https://www.indexbox.io/blog/brent-oil-surges-over-3-on-renewed-middle-east-tensions-and-iran-blasts/"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-07T195452Z_337466632_RC27PLA3R1GS_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS-1780864930.jpg?resize=1920%2C1440",
+        "alt": "Aftermath of Iran missile launch toward Israel on June 7 2026 after Israeli airstrikes on Beirut's Dahiyeh.",
+        "fit": "cover",
+        "credit": "Reuters via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera (Iran Launch)",
+          "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines"
+        },
+        {
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/amp/world/israel-says-iran-launched-missiles-in-first-bombardment-since-fragile-ceasefire"
+        },
+        {
+          "label": "IndexBox (Oil Move)",
+          "url": "https://www.indexbox.io/blog/brent-oil-surges-over-3-on-renewed-middle-east-tensions-and-iran-blasts/"
+        },
+        {
+          "label": "Brent Quote",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        },
+        {
+          "label": "WTI Quote",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        }
+      ],
+      "publishDate": "2026-06-09T00:32:54.883Z"
+    },
     {
       "id": "glw-amzn-fiber-optic-deal-june-8-2026",
       "categories": [
