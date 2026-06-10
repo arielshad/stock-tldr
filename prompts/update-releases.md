@@ -257,7 +257,7 @@ reason to look, not as a quota.
 
 Every item conforms to `ReleaseItem` in `src/data/schema.ts`. Required:
 `id`, `categories`, `title`, `org`, `date`, `url`, `summary`, `tags`,
-`importance`, `explainer`, `image`, `links`. Two date fields:
+`importance`, `explainer`, `image`, `links`, `reddit`. Two date fields:
 - `date` (YYYY-MM-DD) — the public release / event date. Shown on cards.
   YOU set this from the source.
 - `publishDate` (ISO timestamp) — when we ingested the item. Drives
@@ -397,6 +397,43 @@ Every link must be **directly relevant to this specific event**. NOT
 homepages, NOT search-result pages. Labels Title Case, ≤24 chars.
 
 `verify-draft.ts` fetches every link in this run and confirms 200.
+
+### `reddit` (REQUIRED)
+
+The ready-to-post Reddit version of this item. The `stock-reddit` bot posts
+it verbatim to r/StocksTLDR (image from `image` + this title and body). Object:
+`{ title, body }`. This is EDITORIAL — write it like a sharp trader posting the
+TL;DR to a markets subreddit. Do NOT just paste `summary`/`explainer`. Same
+zero-hallucination rule (every number traces to a source) and same banned
+words / no-investment-advice rule as `summary`.
+
+- `title` — the Reddit post title. ≤300 chars, aim for ~70–120. Lead with the
+  single most important number/fact and a hook. Usually SHORTER and punchier
+  than the card `title`. No clickbait, no trailing punctuation spam.
+
+- `body` — Reddit-flavored **markdown** (posted via the composer's Markdown
+  mode, so real markdown renders). Structure, in order:
+  1. One lead sentence that frames the event.
+  2. A `*` bullet list of 3–5 hard facts — numbers, moves, names. One per bullet.
+  3. When there are distinct drivers, a short framing line + a numbered list
+     with **bold** lead-ins explaining the *why*
+     (e.g. `1. **Jobs report destroyed rate-cut hopes** — May NFP +172K vs 80K…`).
+  4. A `Next catalysts:` line when known upcoming events are relevant.
+  5. End with EXACTLY this line, using THIS item's `id`:
+     `Full breakdown: [https://stock-tldr.xyz/releases/<id>](https://stock-tldr.xyz/releases/<id>)`
+
+  Use real markdown: `*` bullets, `1.` numbered lists, `**bold**`, `[text](url)`
+  links. Escape a leading `~` as `\~`. Keep it tight (~120–250 words). It is a
+  JSON string — encode newlines as `\n`.
+
+Full example:
+
+```json
+"reddit": {
+  "title": "Nasdaq -4.2%, chip stocks lose ~$1 trillion in a single day — worst session of 2026",
+  "body": "Friday June 5 was the worst day of the year for U.S. equities. Here's what happened all at once:\n\n* Nasdaq fell 4.18% to 25,709 — snapping a 9-week winning streak for the S&P 500\n* Philadelphia Semiconductor Index (SOX) cratered 8.71%\n* Nvidia -6%, Intel -11.3%, AMD -6.3%, Marvell -8%\n* \\~$1 trillion wiped from chip stocks in one session\n\nThree things broke simultaneously:\n\n1. **Jobs report destroyed rate-cut hopes** — May NFP came in at +172K vs 80K expected, with March/April revised +93K higher. 10-year yields jumped to 4.544%.\n2. **Meta equity raise rumor** — FT reported Meta is weighing a tens-of-billions stock sale to fund AI capex. META fell 6.6%.\n3. **AI trade cracked** — the reflexive \"AI capex = buy chips\" playbook got unwound in one session.\n\nNext catalysts: CPI on June 11, then Warsh's first FOMC on June 16–17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nasdaq-chip-rout-1t-wipe-june-5-2026](https://stock-tldr.xyz/releases/nasdaq-chip-rout-1t-wipe-june-5-2026)"
+}
+```
 
 ## Per-category notes
 

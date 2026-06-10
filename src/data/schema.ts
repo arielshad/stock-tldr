@@ -150,6 +150,29 @@ export interface ReleaseItem {
    * to show an avatar overlay on the card image. Optional elsewhere.
    */
   author?: ReleaseAuthor;
+  /**
+   * Ready-to-post Reddit version of this item. Authored by the sweep agent and
+   * consumed by the `stock-reddit` poster (auto-posts to r/StocksTLDR). REQUIRED
+   * on new items (see prompts/update-releases.md); optional in the type for
+   * backward compatibility with entries created before this field existed.
+   */
+  reddit?: RedditPost;
+}
+
+/**
+ * Ready-to-post Reddit content for a release. Editorial — written like a sharp
+ * trader posting a markets TL;DR, NOT a copy of `summary`/`explainer`.
+ */
+export interface RedditPost {
+  /** Reddit post title. Punchy, lead with the key number. ≤300 chars. */
+  title: string;
+  /**
+   * Reddit-flavored markdown body: a lead line, `*` bullets of hard facts,
+   * optional **bold** numbered drivers, a "Next catalysts:" line, and a final
+   * "Full breakdown: [url](url)" link to the release page. Posted verbatim via
+   * the composer's Markdown mode.
+   */
+  body: string;
 }
 
 export interface ReleaseFeed {
