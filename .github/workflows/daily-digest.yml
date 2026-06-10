@@ -192,3 +192,45 @@ jobs:
               if (res.status >= 400) process.exit(1);
             })();
           '
+
+      # Cross-post the same releases to r/StocksTLDR via the stock-reddit
+      # poster (arielshad/stock-reddit). The poster independently selects the
+      # most recent/important imaged releases from the live feed — the same
+      # heuristic the digest uses — and submits one image post per item.
+      #
+      # This fires a repository_dispatch to the stock-reddit repo, which runs
+      # its own .github/workflows/post-to-reddit.yml using a stealth Camoufox
+      # browser. No-op unless REDDIT_POSTER_DISPATCH_TOKEN is configured (a PAT
+      # with `repo`/Actions write scope on arielshad/stock-reddit), so this
+      # step is safe to keep even before the poster is set up.
+      #
+      # Alternative: if you run the poster as an always-on Docker service,
+      # replace the dispatch below with an HTTP POST to its /webhook endpoint
+      # (send the x-webhook-secret header + optional { ids, limit } body).
+      - name: Trigger Reddit cross-post
+        env:
+          REDDIT_POSTER_DISPATCH_TOKEN: ${{ secrets.REDDIT_POSTER_DISPATCH_TOKEN }}
+          DIGEST_DATE: ${{ steps.now.outputs.date }}
+        run: |
+          set -euo pipefail
+          if [[ -z "${REDDIT_POSTER_DISPATCH_TOKEN:-}" ]]; then
+            echo "REDDIT_POSTER_DISPATCH_TOKEN not set — skipping Reddit cross-post."
+            exit 0
+          fi
+
+          echo "Dispatching stock-tldr-digest event to arielshad/stock-reddit …"
+          HTTP_CODE=$(curl -sS -o /tmp/dispatch_resp.txt -w "%{http_code}" \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${REDDIT_POSTER_DISPATCH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/arielshad/stock-reddit/dispatches \
+            -d "{\"event_type\":\"stock-tldr-digest\",\"client_payload\":{\"date\":\"${DIGEST_DATE}\"}}")
+
+          echo "GitHub dispatch HTTP ${HTTP_CODE}"
+          cat /tmp/dispatch_resp.txt || true
+          # 204 = success (no content). Don't fail the whole digest job on a
+          # cross-post hiccup — the newsletter has already been sent.
+          if [[ "${HTTP_CODE}" != "204" ]]; then
+            echo "::warning::Reddit cross-post dispatch returned ${HTTP_CODE} (non-fatal)."
+          fi
