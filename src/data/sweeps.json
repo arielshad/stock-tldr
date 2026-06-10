@@ -4698,6 +4698,44 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260610t131043z",
+      "timestamp": "2026-06-10T13:10:43.180Z",
+      "source": "github-actions-sweep",
+      "summary": "Three additions: May 2026 CPI hits a 3-year high 4.2% Y/Y as Iran-driven energy shock hits gasoline; Supermicro proposes $7B equity/preferred raise to fund a $39B AI-server backlog and falls ~10–13% on dilution; Cracker Barrel Q3 FY26 stuns the Street with a $0.29 adj EPS vs $0.45 expected loss and lifts FY26 adj EBITDA guide ~$30M.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-may-2026-june-10",
+          "title": "U.S. May 2026 CPI — headline +4.2% Y/Y (highest in 3 years) matches consensus and accelerates from +3.8% in April; core +2.9% Y/Y; energy +3.9% M/M (gasoline +40.5% Y/Y) drives 60%+ of monthly print as Hormuz closure shock filters through",
+          "category": "macro",
+          "note": "May CPI at 4.2% Y/Y is the highest annual reading since April 2023; primary BLS release with energy +23.5% Y/Y driven by Hormuz closure. Inclusion bar met: primary-source confirmed, wall-of-coverage right now."
+        },
+        {
+          "id": "smci-7b-financing-ai-orders-june-9-2026",
+          "title": "Super Micro announces $7.0B equity and equity-linked financing to fund $39B AI server backlog from 20+ customers — $1.25B common + $3.75B mandatory convertible preferred + $2B ATM; SMCI ~-10% AH on June 9 / down ~13% intraday June 10 on dilution",
+          "category": "mover",
+          "note": "Single-name >10% mover on a $7B dilution announcement that discloses a $39B AI-server order backlog from 20+ customers — verified via Supermicro IR release, SEC FWP and CNBC."
+        },
+        {
+          "id": "cbrl-q3-fy26-earnings-june-9-2026",
+          "title": "Cracker Barrel Q3 FY26 — adj EPS $0.29 stuns vs -$0.45 loss expected, GAAP EPS $1.90 boosted by $47.4M litigation settlement; revenue $797.4M (-2.9% Y/Y) above $777M est; raises FY26 adj EBITDA guide to $120–$125M from $85–$100M; CBRL +~12% premarket June 10",
+          "category": "earnings",
+          "note": "Earnings + mover: adj EPS $0.29 vs expected -$0.45 loss is a >70-cent swing; FY26 adj EBITDA guide raised to $120–$125M from $85–$100M sends CBRL +~12% premarket."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

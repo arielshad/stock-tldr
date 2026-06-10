@@ -1,8 +1,240 @@
 {
-  "generatedAt": "2026-06-10T00:38:05.196Z",
+  "generatedAt": "2026-06-10T13:10:43.180Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-cpi-may-2026-june-10",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. May 2026 CPI — headline +4.2% Y/Y (highest in 3 years) matches consensus and accelerates from +3.8% in April; core +2.9% Y/Y; energy +3.9% M/M (gasoline +40.5% Y/Y) drives 60%+ of monthly print as Hormuz closure shock filters through",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-06-10",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "summary": "BLS Consumer Price Index for May 2026 (released Wednesday June 10, 8:30am ET) — headline CPI +0.5% M/M and +4.2% Y/Y matches consensus and marks a 3-year high vs +3.8% in April. Core +0.2% M/M (below +0.3% est) and +2.9% Y/Y. Energy +3.9% M/M / +23.5% Y/Y accounted for 60%+ of the monthly increase; gasoline +40.5% Y/Y.",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Headline CPI Y/Y": "+4.2% vs +4.2% est (highest since April 2023)",
+        "Headline CPI M/M": "+0.5% (vs +0.6% April)",
+        "Core CPI Y/Y": "+2.9% (vs +2.8% April)",
+        "Core CPI M/M": "+0.2% vs +0.3% est (vs +0.4% April)",
+        "Energy Y/Y": "+23.5%",
+        "Energy M/M": "+3.9%",
+        "Gasoline Y/Y": "+40.5%",
+        "Shelter M/M": "+0.3%",
+        "Food M/M": "+0.2%",
+        "10Y Treasury yield": "~4.53%"
+      },
+      "tags": [
+        "macro",
+        "cpi",
+        "inflation",
+        "may-2026",
+        "bls",
+        "energy-shock",
+        "hormuz",
+        "iran-war",
+        "fed-watch",
+        "warsh-fed",
+        "rate-path",
+        "gasoline"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "May headline CPI hits a 3-year high of 4.2% as the Iran-driven energy shock filters through gasoline prices — core stays contained at 2.9%.",
+        "whatIsIt": "The Bureau of Labor Statistics released the Consumer Price Index for May 2026 on Wednesday June 10 at 8:30 a.m. ET. The all-items index rose 0.5% on a seasonally adjusted basis in May and 4.2% over the last twelve months — matching the FactSet consensus of 4.2% and the highest annual reading since April 2023.",
+        "howItWorks": "Energy did the heavy lifting: the energy index rose 3.9% on the month and 23.5% Y/Y, with gasoline alone +40.5% Y/Y as the closure of the Strait of Hormuz feeds through retail pump prices. BLS said energy accounted for more than 60% of the monthly all-items increase. Stripping out food and energy, core CPI rose 0.2% M/M — below the 0.3% consensus and softer than April's +0.4% — and 2.9% Y/Y (vs +2.8% in April). Shelter rose 0.3% on the month and food 0.2%. Annual headline inflation has now accelerated from 2.4% in January to 4.2% in May, the third straight monthly acceleration.",
+        "whyItMatters": "The headline matched consensus but the 4.2% print is the hottest in three years and lands while Kevin Warsh runs his first FOMC on June 16–17 and Iran-war energy disruption is still active. Treasuries sold off — the 10Y yield pushed to roughly 4.53% — and Fed-funds futures lean toward zero cuts in 2026 with rising odds of a hike. The cooler core 0.2% M/M is the small offset: ex-energy demand is not running hot, which gives the Fed political room to hold rather than tighten if the Hormuz reopening sticks. Equities have been mixed — chip stocks led declines into the print and the S&P 500 closed -0.26% the prior session — with the dollar bid and gold steady.",
+        "forWho": "macro, rates and FX traders ahead of the June 16–17 FOMC",
+        "tryIt": "https://www.bls.gov/news.release/pdf/cpi.pdf"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108026052-1781094973642-108026052-1724774471522-gettyimages-2166812678-vcg111512608791.jpg?v=1781094984&w=1920&h=1080",
+        "alt": "U.S. consumer-price gauge accelerates to a 3-year high as energy costs surge",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "BLS Press Release",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "label": "BLS PDF",
+          "url": "https://www.bls.gov/news.release/pdf/cpi.pdf"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
+        },
+        {
+          "label": "CBS News Recap",
+          "url": "https://www.cbsnews.com/news/cpi-report-today-may-2026-inflation-iran-war-trump/"
+        },
+        {
+          "label": "FRED CPIAUCSL",
+          "url": "https://fred.stlouisfed.org/series/CPIAUCSL"
+        }
+      ],
+      "publishDate": "2026-06-10T13:10:43.180Z"
+    },
+    {
+      "id": "smci-7b-financing-ai-orders-june-9-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Super Micro announces $7.0B equity and equity-linked financing to fund $39B AI server backlog from 20+ customers — $1.25B common + $3.75B mandatory convertible preferred + $2B ATM; SMCI ~-10% AH on June 9 / down ~13% intraday June 10 on dilution",
+      "org": "Super Micro Computer",
+      "date": "2026-06-09",
+      "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Proposed-7-0-Billion-of-Equity-and-Equity-linked-Financing-Transactions-To-Fund-AI-Orders/default.aspx",
+      "summary": "Supermicro proposes $7.0B in concurrent financings on Tuesday evening June 9 to fund ~$39B of advanced AI server orders received in recent weeks from 20+ customers. Structure: $5B underwritten ($1.25B common stock + $3.75B depositary shares for Series A mandatory convertible preferred, 1/20 interest each, mandatory convert ~June 1, 2029) plus a $2B ATM common program slated for Q3 2026. SMCI dropped ~10% AH and was down ~13% intraday on June 10 on dilution.",
+      "tickers": [
+        "SMCI",
+        "DELL",
+        "ANET"
+      ],
+      "metrics": {
+        "Total raise": "$7.0B",
+        "Underwritten common": "~$1.25B",
+        "Underwritten depositary shares": "~$3.75B (Series A mandatory convertible preferred)",
+        "ATM program": "up to $2.0B (no earlier than Q3 2026)",
+        "Mandatory convert date": "~June 1, 2029",
+        "AI orders backlog": "~$39B from 20+ customers",
+        "Move": "-~10% AH June 9 / -~13% intraday June 10"
+      },
+      "tags": [
+        "mover",
+        "dilution",
+        "ai-capex",
+        "ai-servers",
+        "convertible",
+        "equity-offering",
+        "atm",
+        "data-center",
+        "mandatory-convertible-preferred"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Supermicro sells $7B in stock and mandatory convertible preferred to fund a $39B AI-server order book — Street punishes the dilution.",
+        "whatIsIt": "Super Micro Computer announced a proposed $7.0 billion package of equity and equity-linked financings after the close on Tuesday June 9, intended to fund component purchases for roughly $39 billion of advanced AI-server orders received in recent weeks from more than 20 customers. The company also filed a free writing prospectus with the SEC the same day.",
+        "howItWorks": "The package breaks into $5.0B of concurrent underwritten offerings — approximately $1.25B in common stock and approximately $3.75B in depositary shares — plus an at-the-market program of up to $2.0B in additional common stock that the company says will not begin earlier than the third quarter of 2026. Each depositary share represents a 1/20th interest in newly issued Series A mandatory convertible preferred stock ($1,000 liquidation preference, $50 per depositary share). The preferred is set to mandatorily convert into common on or about June 1, 2029. Use of proceeds is the AI server build, with secondary uses including debt repayment, working capital and capex. SMCI fell roughly 10% after-hours on June 9 and was down ~13% intraday on June 10 as investors priced in the dilution.",
+        "whyItMatters": "The $39B order disclosure is a positive signal on AI-infrastructure demand and frames Supermicro alongside Dell and Arista as a primary beneficiary of hyperscale GPU-server buildouts, but the dilution math is the near-term swing factor: $5B of mandatorily-convertible paper plus a $2B ATM is meaningful on a roughly $20–25B market cap. The depositary-share / mandatory-convertible-preferred structure is the same tool Alphabet and Nvidia have used to fund capex without straight-equity dilution and signals that even premium AI names are now leaning on hybrid securities. The Street's punishment of the announcement underlines that AI capex demand alone isn't an automatic bid — capital structure matters.",
+        "forWho": "AI-infrastructure equity traders, convertibles desks",
+        "tryIt": "https://finance.yahoo.com/quote/SMCI"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Supermicro_Announces_Proposed_7_0_Billion_of_Equity_and_Equity_linked_Financing_Transactions_To_Fun_1068864.webp",
+        "alt": "Supermicro AI server rack used to fulfill hyperscale GPU buildouts",
+        "fit": "cover",
+        "credit": "Supermicro via StockTitan"
+      },
+      "links": [
+        {
+          "label": "Supermicro IR Release",
+          "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Proposed-7-0-Billion-of-Equity-and-Equity-linked-Financing-Transactions-To-Fund-AI-Orders/default.aspx"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html"
+        },
+        {
+          "label": "SEC FWP Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001375365/000119312526264046/d53641dfwp.htm"
+        },
+        {
+          "label": "StockTitan Summary",
+          "url": "https://www.stocktitan.net/news/SMCI/supermicro-announces-proposed-7-0-billion-of-equity-and-equity-w6x00uha43a7.html"
+        },
+        {
+          "label": "SMCI Quote",
+          "url": "https://finance.yahoo.com/quote/SMCI"
+        }
+      ],
+      "publishDate": "2026-06-10T13:10:43.180Z"
+    },
+    {
+      "id": "cbrl-q3-fy26-earnings-june-9-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cracker Barrel Q3 FY26 — adj EPS $0.29 stuns vs -$0.45 loss expected, GAAP EPS $1.90 boosted by $47.4M litigation settlement; revenue $797.4M (-2.9% Y/Y) above $777M est; raises FY26 adj EBITDA guide to $120–$125M from $85–$100M; CBRL +~12% premarket June 10",
+      "org": "Cracker Barrel Old Country Store",
+      "date": "2026-06-09",
+      "url": "https://www.stocktitan.net/news/CBRL/cracker-barrel-reports-third-quarter-fiscal-2026-results-and-updates-ps7ecmp7yag4.html",
+      "summary": "Cracker Barrel Q3 FY26 (qtr ended May 1) reported Tuesday after the close: revenue $797.4M (-2.9% Y/Y) above ~$777M est; restaurant comps -2.6% and retail comps -1.8%; adj EPS $0.29 stuns the -$0.45 consensus loss; GAAP EPS $1.90 (incl $47.4M litigation settlement); adj EBITDA $40.3M. Raises FY26 revenue guide to $3.27–$3.30B and adj EBITDA guide to $120–$125M from $85–$100M. CBRL +~12% premarket June 10.",
+      "tickers": [
+        "CBRL"
+      ],
+      "metrics": {
+        "Revenue": "$797.4M (-2.9% Y/Y) vs ~$777M est",
+        "Restaurant revenue": "$658.4M",
+        "Retail revenue": "$139.0M",
+        "Restaurant comp sales": "-2.6%",
+        "Retail comp sales": "-1.8%",
+        "Avg check": "+4.3%",
+        "GAAP EPS (diluted)": "$1.90 (incl. $47.4M litigation settlement)",
+        "Adj EPS (diluted)": "$0.29 vs -$0.45 est",
+        "Adj EBITDA": "$40.3M (vs $48.1M Y/Y)",
+        "Dividend": "$0.25/qtr (payable Aug 12, 2026)",
+        "FY26 Revenue guide": "$3.27–$3.30B (raised from $3.24–$3.27B)",
+        "FY26 Adj EBITDA guide": "$120–$125M (raised from $85–$100M)",
+        "Move": "+~12% premarket to ~$40.68"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "restaurants",
+        "consumer-discretionary",
+        "small-cap",
+        "turnaround",
+        "q3-fy26",
+        "litigation-settlement"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Cracker Barrel swings to a $0.29 adjusted profit on a consensus loss and lifts FY26 EBITDA guidance ~$30M at the midpoint — premarket pops 12%.",
+        "whatIsIt": "Cracker Barrel Old Country Store reported fiscal 2026 third-quarter results after the market close on Tuesday June 9 (quarter ended May 1, 2026). Total revenue of $797.4M came in above the ~$777M consensus despite a 2.9% Y/Y decline, and adjusted diluted EPS of $0.29 stunned a Street modeling a $0.45 per-share loss. GAAP diluted EPS of $1.90 was inflated by a $47.4M litigation settlement received during the quarter.",
+        "howItWorks": "Restaurant revenue was $658.4M with comparable-store restaurant sales -2.6% (average check +4.3%, traffic remained the offset). Retail revenue was $139.0M with comps -1.8%. Adjusted EBITDA was $40.3M (5.1% margin), down from $48.1M a year earlier but ahead of internal expectations. The board declared a $0.25 quarterly dividend, payable August 12, 2026. Management raised FY26 guidance: revenue to $3.27–$3.30B (from $3.24–$3.27B) and — the eye-catcher — adjusted EBITDA to $120–$125M (from $85–$100M), implying roughly $30M of additional FY26 EBITDA at the midpoint. CEO Julie Masino said initiatives to improve operations, deepen guest connection and enhance profitability 'continue to gain traction'.",
+        "whyItMatters": "CBRL is a roughly $0.6B-market-cap restaurant turnaround that has spent the past year cycling through menu, remodel and pricing tests; the magnitude of the EBITDA guide raise — about a third on the high end of the prior range — is what is driving the 12% premarket gap and resets the bear thesis on the Masino strategy. Negative comps with positive check growth tells the restaurant desk this is cost-side execution rather than a real traffic inflection, so the durability of the guide hinges on whether the operating-cost programs hold through summer. Small-cap consumer-discretionary names tend to trade as a complex on prints like this, so peers in casual dining (DRI, EAT, DIN) get a small read-through.",
+        "forWho": "casual-dining and small-cap consumer-discretionary traders",
+        "tryIt": "https://finance.yahoo.com/quote/CBRL"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/CRACKER_BARREL_REPORTS_THIRD_QUARTER_FISCAL_2026_RESULTS_AND_UPDATES_FISCAL_2026_OUTLOOK_1068798.webp",
+        "alt": "Cracker Barrel restaurant exterior with rocking chairs as Q3 results lift FY26 outlook",
+        "fit": "cover",
+        "credit": "Cracker Barrel via StockTitan"
+      },
+      "links": [
+        {
+          "label": "StockTitan Release",
+          "url": "https://www.stocktitan.net/news/CBRL/cracker-barrel-reports-third-quarter-fiscal-2026-results-and-updates-ps7ecmp7yag4.html"
+        },
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001067294/000110465926071853/tm2617153d1_ex99-1.htm"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-cbrl-q3-2026-222606087.html"
+        },
+        {
+          "label": "Premarket Movers",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53108839/why-cracker-barrel-shares-are-trading-higher-by-over-8-here-are-20-stocks-moving-premarket"
+        },
+        {
+          "label": "CBRL Quote",
+          "url": "https://finance.yahoo.com/quote/CBRL"
+        }
+      ],
+      "publishDate": "2026-06-10T13:10:43.180Z"
+    },
     {
       "id": "casy-q4-fy26-earnings-june-9-2026",
       "categories": [
