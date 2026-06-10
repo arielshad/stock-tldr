@@ -4655,6 +4655,49 @@
         "commodity",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260610t003805z",
+      "timestamp": "2026-06-10T00:38:05.196Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled June 10 00:30 UTC sweep adds three: Casey's General Stores Q4 FY26 earnings beat (+66% EPS), J.M. Smucker Q4 FY26 beat with FY27 sales-decline / EPS-growth guide on coffee deflation (+12% on the day), and CENTCOM self-defense strikes on Iran at 5pm ET June 9 after Iranian Shahed downs a U.S. Apache near Hormuz (oil paradoxically lower on Hormuz-reopening signals).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "casy-q4-fy26-earnings-june-9-2026",
+          "title": "Casey's General Stores Q4 FY26 — record EPS $4.37 (+66.2% Y/Y) trounces $3.36 est; net sales $4.57B beat; inside SSS +5.5% / fuel margin 46.9c; FY26 EPS $19.16 (+30.9%) and dividend hiked 14% to $0.65; CASY +~2.6% AH on June 9",
+          "category": "earnings",
+          "note": "Q4 FY26 record EPS beat by $1.01 on a primary 8-K with strong inside comps, fuel margin near 47c and a 27th straight dividend hike — clean major-tier earnings item."
+        },
+        {
+          "id": "sjm-q4-fy26-earnings-june-9-2026",
+          "title": "J.M. Smucker Q4 FY26 — adj EPS $2.77 (+20%) beats $2.66 est, net sales $2.27B (+6%) just below est; FY27 guide: net sales -3 to -4% on coffee deflation but adj EPS $9.75–$10.25 (+7–12%); SJM +12.31% to $113.24 on June 9",
+          "category": "earnings",
+          "note": "Q4 EPS beat plus a FY27 guide that decouples sales (-3 to -4% on coffee deflation pass-through) from EPS (+7-12%) drove a 12.3% one-day rally — major-tier earnings + mover."
+        },
+        {
+          "id": "us-strikes-iran-apache-helicopter-june-9-2026",
+          "title": "U.S. launches self-defense strikes on Iran at 5pm ET June 9 — CENTCOM hits Sirik port and Hormuz sites after Apache helicopter downed by Iranian Shahed drone (pilots rescued by Task Force 59 surface drone, a first); WTI -3.4% to $88.20, Brent -2.97% to $91.45; Nasdaq -~1%, S&P 500 -0.26%",
+          "category": "macro",
+          "note": "Distinct fresh escalation: CENTCOM directly strikes Iran 5pm ET June 9 after Apache helicopter downed by Iranian Shahed; first Task Force 59 sea-drone rescue. Existing Iran items cover June 7-8 Iran-on-Israel strikes (different actor) and May 28 Bandar Abbas (different date/location)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "commodity",
+        "mover",
+        "mna",
+        "regulatory",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }
