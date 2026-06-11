@@ -12,7 +12,7 @@
 </td>
 </tr>
 
-<!-- CARD: Oracle Q4 FY26 -->
+<!-- CARD: Oracle Q4 FY26 Earnings -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
@@ -33,28 +33,28 @@
 <span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-10</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Oracle Q4 FY26 — record $19.2B revenue (+21% Y/Y), non-GAAP EPS $2.11 vs $1.89 est, cloud +47%; RPO surges 363% to $638B on AI contracts; ORCL -~10% AH on $40B FY27 raise and ~$70B capex</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Oracle Q4 FY26 — record $19.2B revenue, RPO surges 363% to $638B, but ORCL −10% AH on $40B raise + $70B FY27 capex</h2>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Record AI-cloud quarter, but a $40B raise and $70B FY27 capex bill spook investors.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-Oracle reported fiscal Q4 (ended May 31, 2026) on June 10 with revenue $19.2B (+21% Y/Y), cloud $9.9B (+47%), and non-GAAP EPS $2.11 vs $1.89 consensus. Remaining performance obligations leapt to a record $638B, up 363% Y/Y, on multi-year AI infrastructure contracts including roughly $75B of customer-supplied or prepaid GPUs.
+Oracle reported fiscal Q4 with revenue $19.2B (+21% Y/Y), cloud $9.9B (+47%), and non-GAAP EPS $2.11 vs $1.89 consensus. Remaining performance obligations hit a record $638B (+363% Y/Y) on multi-year AI infrastructure contracts.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-OCI (IaaS) revenue accelerated to +93% Y/Y at $5.8B; FY26 full-year revenue hit $67.4B (+17%) and non-GAAP EPS $7.63 (+27%). FY27 capex is now guided to roughly $70B, and Oracle plans to raise about $40B in fresh debt and equity — including a previously disclosed $20B ATM equity issuance — to fund the data-center buildout.
+OCI (cloud infrastructure) accelerated to +93% Y/Y at $5.8B; FY27 revenue is guided to ~$90B with non-GAAP EPS lifted to $8.05. The catch: FY27 capex is guided to ~$70B and Oracle plans to raise ~$40B in fresh debt and equity to fund it.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Oracle is the latest AI-cloud name to ratchet capex guidance, with the $70B FY27 figure up from ~$56B in FY26 — and the $40B raise will dilute. The 363% RPO jump confirms AI demand is real and locked in, but the math now requires Oracle to convert that backlog before the capex bill hits. Read-through lands on AI-infrastructure suppliers (NVDA, AVGO, AMD, ANET) and the hyperscale capex narrative the day after a hot CPI print.
+ORCL fell ~10% after hours as investors weighed the $40B raise and dilution against a genuinely strong demand print. The 363% RPO surge shows backlog is real and locked in, but cash burn is accelerating — read-throughs hit AI-infrastructure suppliers (NVDA, AVGO, AMD, ANET).
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Software-and-AI-capex investors tracking the OCI buildout and cloud-infrastructure dilution math.
+Software and AI-capex investors tracking hyperscale spending cycles.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
@@ -70,7 +70,7 @@ Software-and-AI-capex investors tracking the OCI buildout and cloud-infrastructu
 </td>
 </tr>
 
-<!-- CARD: U.S. May 2026 CPI -->
+<!-- CARD: US CPI May 2026 -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
@@ -91,28 +91,28 @@ Software-and-AI-capex investors tracking the OCI buildout and cloud-infrastructu
 <span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-10</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">U.S. May 2026 CPI — headline +4.2% Y/Y (highest in 3 years) matches consensus; core +2.9% Y/Y; gasoline +40.5% Y/Y drives 60%+ of monthly print as Hormuz closure filters through</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">U.S. May 2026 CPI — headline +4.2% Y/Y hits a 3-year high as gasoline surges +40.5% Y/Y on Hormuz closure; core +2.9%</h2>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">May headline CPI hits a 3-year high of 4.2% as the Iran-driven energy shock filters through gasoline prices — core stays contained at 2.9%.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-The Bureau of Labor Statistics released the Consumer Price Index for May 2026 on June 10 at 8:30 a.m. ET. The all-items index rose 0.5% M/M and 4.2% Y/Y — matching the FactSet consensus and the highest annual reading since April 2023.
+BLS released May 2026 CPI on June 10: all-items +0.5% M/M and +4.2% Y/Y — matching consensus and the highest annual reading since April 2023, accelerating from +3.8% in April.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-Energy did the heavy lifting: the energy index rose 3.9% M/M and 23.5% Y/Y, with gasoline alone +40.5% Y/Y as the Strait of Hormuz closure feeds through retail pump prices, accounting for more than 60% of the monthly all-items increase. Core CPI came in at a softer-than-expected +0.2% M/M and +2.9% Y/Y.
+Energy accounted for 60%+ of the monthly gain: the energy index rose 3.9% M/M and 23.5% Y/Y, with gasoline +40.5% Y/Y as Hormuz closure feeds through retail pump prices. Core CPI came in softer at +0.2% M/M — below the +0.3% estimate — and +2.9% Y/Y.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-The 4.2% print is the hottest in three years and lands as Kevin Warsh chairs his first FOMC on June 16–17. Treasuries sold off — the 10Y yield pushed to ~4.53% — and Fed-funds futures lean toward zero cuts in 2026 with rising odds of a hike. The softer core 0.2% M/M gives the Fed political room to hold rather than tighten if the Hormuz reopening sticks.
+The 4.2% print lands one week before Kevin Warsh's first FOMC (June 16–17); the 10Y yield pushed to ~4.53% and Fed-funds futures now lean toward zero cuts with rising hike odds. The cooler core print gives the Fed political cover to hold if the Hormuz disruption stabilizes.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Macro, rates and FX traders positioning ahead of the June 16–17 FOMC meeting.
+Macro, rates, and FX traders positioning ahead of the June 16–17 FOMC.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
@@ -128,14 +128,14 @@ Macro, rates and FX traders positioning ahead of the June 16–17 FOMC meeting.
 </td>
 </tr>
 
-<!-- CARD: Super Micro $7B Financing -->
+<!-- CARD: GSK / Nuvalent Acquisition -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
 
 <tr>
 <td>
-<img src="https://www.stocktitan.net/news_covers/Supermicro_Announces_Proposed_7_0_Billion_of_Equity_and_Equity_linked_Financing_Transactions_To_Fun_1068864.webp" alt="Supermicro AI server rack used to fulfill hyperscale GPU buildouts" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+<img src="https://nuvalent.com/nuvalent-og-image.png" alt="Nuvalent corporate identity — Boston oncology biotech acquired by GSK for $10.6B" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
 </td>
 </tr>
 
@@ -143,40 +143,40 @@ Macro, rates and FX traders positioning ahead of the June 16–17 FOMC meeting.
 <td style="padding: 16px;">
 
 <div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MOVER</span>
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">M&amp;A</span>
 <span style="display: inline-block; width: 6px;">&nbsp;</span>
 <span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
 <span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Super Micro announces $7.0B equity and equity-linked financing to fund $39B AI server backlog from 20+ customers — SMCI -~10% AH June 9 / -~13% intraday June 10 on dilution</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">GSK acquires Nuvalent for $10.6B all-cash at $124/share — 40% premium; NUVL +38% premarket on two lung-cancer drugs with FDA deadlines in Q3–Q4</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Supermicro sells $7B in stock and mandatory convertible preferred to fund a $39B AI-server order book — Street punishes the dilution.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">GSK pays a 40% premium for two next-generation lung-cancer drugs days away from FDA decisions.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-Super Micro Computer announced a proposed $7.0 billion package of equity and equity-linked financings on June 9 to fund component purchases for roughly $39 billion of advanced AI-server orders received from more than 20 customers. The company also filed a free writing prospectus with the SEC the same day.
+GSK announced a $10.6B all-cash deal to acquire Boston-based Nuvalent at $124/share — a 40% premium — targeting two next-gen non-small cell lung cancer drugs with FDA PDUFA dates in late 2026.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-The $7B package breaks into $1.25B common stock plus $3.75B in depositary shares for a Series A mandatory convertible preferred (converting June 1, 2029), with an additional $2.0B ATM common program not beginning before Q3 2026. SMCI fell ~10% after-hours June 9 and ~13% intraday June 10 as investors priced in the dilution.
+The two key assets are zidesamtinib (selective ROS1 inhibitor, PDUFA Sep 18, 2026) and neladalkib (selective ALK inhibitor, PDUFA Nov 27, 2026). GSK expects to close in Q3 2026 after majority tender, antitrust, and CFIUS clearance.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-The $39B order disclosure is a bullish signal on AI-infrastructure demand and frames SMCI alongside Dell and Arista as a primary hyperscale GPU-server beneficiary, but $7B in new paper against a ~$20–25B market cap is the near-term swing. The mandatory-convertible structure shows even high-demand AI names are leaning on hybrid securities to fund buildouts.
+NUVL surged ~+38% to ~$122 in premarket — trading just below the $124 offer — while GSK fell ~3% in London on dilution concerns, with EPS accretion not expected until 2027. Peer precision-oncology biotechs (Revolution Medicines, Day One Bio) typically rerate on bid-premium read-throughs like this.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-AI-infrastructure equity traders and convertibles desks tracking the SMCI dilution overhang.
+Biotech M&A traders, healthcare allocators, and oncology specialists.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
 <tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">Super Micro Computer</td>
-<td align="right"><a href="https://stock-tldr.xyz/releases/smci-7b-financing-ai-orders-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">GSK</td>
+<td align="right"><a href="https://stock-tldr.xyz/releases/gsk-nuvalent-acquisition-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@ AI-infrastructure equity traders and convertibles desks tracking the SMCI diluti
 </td>
 </tr>
 
-<!-- CARD: U.S. Strikes on Iran -->
+<!-- CARD: US Strikes Iran -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
@@ -207,28 +207,28 @@ AI-infrastructure equity traders and convertibles desks tracking the SMCI diluti
 <span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">U.S. launches self-defense strikes on Iran at 5pm ET June 9 — CENTCOM hits Sirik port and Hormuz sites after Apache downed by Iranian drone; WTI -3.4% to $88.20, Brent -2.97% to $91.45</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">U.S. launches self-defense strikes on Iran at 5pm ET — CENTCOM hits Sirik port after Apache downed by Shahed drone; WTI −3.4% to $88.20 on Hormuz-reopening bets</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">CENTCOM strikes Iran at 5pm ET June 9 after an Iranian Shahed drone downs a U.S. Apache near Hormuz — oil falls anyway on reopening hopes.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">CENTCOM strikes Iran at 5pm ET June 9 after Iranian Shahed drone downs a U.S. Apache near Hormuz — oil falls anyway on reopening hopes.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-U.S. Central Command announced self-defense strikes against Iran at 5pm ET on June 9, hitting Sirik port and other Strait of Hormuz sites. The strikes responded to the June 8 downing of a U.S. Army Apache helicopter by an Iranian Shahed drone near the coast of Oman — both pilots rescued by a Task Force 59 unmanned surface drone, the first sea-drone rescue in operational history.
+U.S. Central Command announced self-defense strikes against Iran on June 9, targeting Sirik port and Hormuz sites in response to an Iranian Shahed drone downing a U.S. Army Apache helicopter the prior night near the coast of Oman. Both pilots were rescued by a Task Force 59 unmanned surface drone — the first operational sea-drone rescue.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-CENTCOM called the strikes "a proportional response to unjustified Iranian aggression." Oil surprisingly fell despite the escalation: WTI -3.4% to $88.20 and Brent -2.97% to $91.45, as U.S. Energy Secretary Wright said Hormuz traffic "is rising and will continue to rise." The Nasdaq fell ~1% and the S&P 500 slipped 0.26%, dragged by chips and energy.
+CENTCOM called the strikes "a proportional response to unjustified Iranian aggression." Despite the escalation, oil closed lower: WTI −3.4% to $88.20 and Brent −2.97% to $91.45, as Energy Secretary Wright said Hormuz traffic "is rising and will continue to rise."
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Each Iran escalation is now partially offset by signals that Hormuz crude flows are coming back, with energy desks marking down the war-premium as Saudi and UAE reroute through the strait. Defense and aerospace names get a bid on rotation; the first operational sea-drone rescue is a milestone for autonomy contractors (L3Harris, Saildrone, BAE Systems).
+The trade pattern: each Iran escalation is now partially offset by Hormuz-reopening signals, compressing the oil war premium. Defense names get a rotation bid; the Task Force 59 sea-drone rescue is a milestone for autonomy contractors (L3Harris, Saildrone, BAE Systems). Nasdaq fell ~1%, S&P 500 −0.26%.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Macro and energy traders pricing Hormuz risk-premium into WTI and Brent ahead of any further CENTCOM action.
+Macro and energy traders, defense and aerospace investors.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
@@ -244,14 +244,14 @@ Macro and energy traders pricing Hormuz risk-premium into WTI and Brent ahead of
 </td>
 </tr>
 
-<!-- CARD: GSK acquires Nuvalent -->
+<!-- CARD: PAYO / Nuvei Acquisition Rumor -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
 
 <tr>
 <td>
-<img src="https://nuvalent.com/nuvalent-og-image.png" alt="Nuvalent corporate identity — Boston oncology biotech acquired by GSK for $10.6B on June 9, 2026." width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+<img src="https://s.yimg.com/os/en/reuters-finance.com/547978f38d792986effe10b6e04e65ed" alt="Payoneer logo on the office of the cross-border payments firm" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
 </td>
 </tr>
 
@@ -259,40 +259,156 @@ Macro and energy traders pricing Hormuz risk-premium into WTI and Brent ahead of
 <td style="padding: 16px;">
 
 <div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">M&amp;A</span>
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">RUMOR</span>
+<span style="display: inline-block; width: 6px;">&nbsp;</span>
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">NOTABLE</span>
+<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
+</div>
+
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Reuters scoop: Nuvei in advanced talks to acquire Payoneer for $2.7B — PAYO +24.32% to $6.39 on 10× average volume, best day in 4 years</h2>
+
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Reuters scoop: Nuvei nears $2.7B all-in buy of Payoneer; PAYO has its biggest day in four years on 10× volume.</p>
+
+<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">What is it?</strong><br>
+Reuters reported that Advent International–backed Nuvei is in advanced talks to acquire Payoneer Global for ~$2.7B (including cash, implying ~$2.3B enterprise value) — a ~59% premium over PAYO's ~$1.7B pre-report market cap. A deal could be signed in coming days, though sources cautioned it may still fall apart.
+</p>
+
+<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">How does it work?</strong><br>
+Nuvei is a Montreal-based payment processor taken private in 2024 for $6.3B by Advent, Novacap, and CDPQ. Payoneer runs cross-border payments for freelancers and online sellers with marquee marketplace clients including Amazon, Walmart, and eBay.
+</p>
+
+<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">Why does it matter?</strong><br>
+PAYO closed +24.32% at $6.39 on 51.7M shares — 10× its 3-month average — yet still trades ~25% below the rumored deal price, signaling completion-risk skepticism. The deal extends the PE-controlled fintech roll-up playbook of consolidating cross-border payments.
+</p>
+
+<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">Who is it for?</strong><br>
+Fintech and payments traders, merger-arb desks.
+</p>
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
+<tr>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">Reuters</td>
+<td align="right"><a href="https://stock-tldr.xyz/releases/payo-nuvei-acquisition-rumor-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<!-- CARD: DraftKings Predictions Volume -->
+<tr>
+<td style="padding-top: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
+
+<tr>
+<td>
+<img src="https://www.casino.org/news/wp-content/uploads/2026/04/draftKings.jpg" alt="DraftKings logo on a mobile device" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+</td>
+</tr>
+
+<tr>
+<td style="padding: 16px;">
+
+<div style="margin-bottom: 12px; line-height: 1.5;">
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MOVER</span>
 <span style="display: inline-block; width: 6px;">&nbsp;</span>
 <span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
 <span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">GSK to acquire Nuvalent for $10.6B all-cash at $124/share — 40% premium sends NUVL ~+38% premarket on June 9 as British pharma adds two ROS1/ALK lung-cancer drugs near FDA decisions</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">DraftKings +11.34% to $27.59 — 8-K discloses May Predictions annualized consumer volume +24% M/M to $1.3B; total volume +34% to $3.1B across 38 states</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">GSK pays a 40% premium for two next-generation lung-cancer drugs days away from FDA decisions.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">DraftKings 8-K shows Predictions volume scaling — $1.3B annualized consumer and $3.1B total in May; stock pops 11% on the disclosure.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-On June 9, GSK announced a definitive agreement to acquire Nuvalent, a Cambridge, Massachusetts clinical-stage oncology biotech, for $124 per share all-cash — total equity value $10.6B and $9.4B net of Nuvalent's cash. GSK will launch a tender offer within 10 business days and expects to close in Q3 2026.
+DraftKings filed an 8-K disclosing preliminary May 2026 Predictions metrics: annualized consumer volume $1.3B (+24% M/M) and total volume $3.1B (+34% M/M) — the second straight month of double-digit growth for the federally regulated platform launched in December 2025.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-Nuvalent's two late-stage assets are zidesamtinib (ROS1 inhibitor, PDUFA Sep 18, 2026) and neladalkib (ALK inhibitor, PDUFA Nov 27, 2026), both for non-small cell lung cancer. GSK said the deal will not change 2026 core EPS growth guidance of 7–9% and expects core EPS accretion in 2029.
+Predictions is now live in 38 states, including several without legalized sports betting, and the May ramp came during the NFL offseason when traditional sportsbook handle is structurally light. It operates on CFTC rails, giving DraftKings access to users its sportsbook cannot serve.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-NUVL gapped ~+38% to $122.10 in premarket while GSK fell ~3% in London on dilution and execution risk. The deal continues a wave of mid-size pharma M&A targeting oncology platforms with near-term FDA catalysts — precision-oncology peers such as Revolution Medicines and Day One Bio typically rerate higher on read-throughs of bid premia like this.
+Management has reframed its addressable market to $55–$80B (from ~$20B) and guided up to $300M annual investment into Predictions. DKNG closed +11.34% at $27.59 despite still being −18.4% YTD, showing how much conviction the print added to the TAM expansion thesis.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Biotech M&A traders, healthcare allocators and oncology specialists tracking the ROS1/ALK PDUFA catalysts.
+Online-gaming traders and prediction-markets watchers.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
 <tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">GSK</td>
-<td align="right"><a href="https://stock-tldr.xyz/releases/gsk-nuvalent-acquisition-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DraftKings</td>
+<td align="right"><a href="https://stock-tldr.xyz/releases/dkng-predictions-volume-surge-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<!-- CARD: SMCI $7B Financing -->
+<tr>
+<td style="padding-top: 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
+
+<tr>
+<td>
+<img src="https://www.stocktitan.net/news_covers/Supermicro_Announces_Proposed_7_0_Billion_of_Equity_and_Equity_linked_Financing_Transactions_To_Fun_1068864.webp" alt="Supermicro AI server rack used to fulfill hyperscale GPU buildouts" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+</td>
+</tr>
+
+<tr>
+<td style="padding: 16px;">
+
+<div style="margin-bottom: 12px; line-height: 1.5;">
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MOVER</span>
+<span style="display: inline-block; width: 6px;">&nbsp;</span>
+<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
+<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
+</div>
+
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Super Micro announces $7.0B equity and equity-linked financing to fund $39B AI server backlog from 20+ customers — SMCI −10% AH on dilution</h2>
+
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Supermicro sells $7B in stock and mandatory convertible preferred to fund a $39B AI-server order book — Street punishes the dilution.</p>
+
+<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">What is it?</strong><br>
+Super Micro announced a $7.0B package of concurrent equity and equity-linked financings after the June 9 close, intended to fund ~$39B of advanced AI-server orders received in recent weeks from 20+ customers.
+</p>
+
+<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">How does it work?</strong><br>
+The package consists of ~$1.25B common stock, ~$3.75B in mandatory convertible preferred depositary shares (Series A, converting ~June 1, 2029), and a $2B at-the-market common program beginning no earlier than Q3 2026.
+</p>
+
+<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">Why does it matter?</strong><br>
+The $39B backlog validates AI-infrastructure demand, but $5B of convertible paper plus a $2B ATM is meaningful dilution on a ~$20–25B market cap — SMCI fell ~10% AH and ~13% intraday June 10. The mandatory-convertible structure shows AI-capex names are now leaning on hybrid securities, the same tool used by Alphabet and Nvidia.
+</p>
+
+<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
+<strong style="color: #f7ff00;">Who is it for?</strong><br>
+AI-infrastructure equity traders and convertibles desks.
+</p>
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
+<tr>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">Super Micro Computer</td>
+<td align="right"><a href="https://stock-tldr.xyz/releases/smci-7b-financing-ai-orders-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
 </tr>
 </table>
 
@@ -323,92 +439,34 @@ Biotech M&A traders, healthcare allocators and oncology specialists tracking the
 <span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">J.M. Smucker Q4 FY26 — adj EPS $2.77 (+20%) beats $2.66 est; FY27 guide: net sales -3 to -4% on coffee deflation but adj EPS $9.75–$10.25 (+7–12%); SJM +12.31% to $113.24</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">J.M. Smucker Q4 FY26 — adj EPS $2.77 (+20%) beats; FY27 guide: sales −3–4% on coffee deflation but EPS $9.75–$10.25 (+7–12%); SJM +12.31% to $113.24</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Smucker tops Q4 EPS estimates and pairs a FY27 sales decline guide with double-digit profit growth on coffee deflation pass-through.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Smucker tops Q4 EPS estimates and pairs a FY27 sales-decline guide with double-digit profit growth on coffee deflation pass-through.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-J.M. Smucker (Folgers, Café Bustelo, Jif, Milk-Bone) reported FY26 Q4 before the open on June 9 with adjusted EPS of $2.77, beating the $2.66 consensus and up 20% Y/Y. Net sales of $2.27B grew 6% Y/Y but landed just shy of the $2.28B estimate. The company also issued full-year FY27 guidance.
+J.M. Smucker reported Q4 FY26 adj EPS $2.77 (+20% Y/Y), beating the $2.66 consensus, with net sales of $2.27B (+6%). FY27 guidance calls for a 3–4% sales decline but adj EPS of $9.75–$10.25 — implying 7–12% profit growth — and ~$1.0B free cash flow.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-FY27 guidance calls for net sales to fall 3.0–4.0% as green-coffee deflation flows through to retail pricing, but adjusted EPS is guided to $9.75–$10.25 (+7–12%) on a ~38% gross margin, with free cash flow guided to ~$1.0B. FY26 operating cash flow ran $579.2M in Q4 and full-year free cash flow exceeded expectations.
+Green-coffee deflation is flowing through as lower retail shelf prices, shrinking revenue but expanding margins as input costs fall faster. Q4 free cash flow rose to $483.9M from $298.9M a year earlier, showing the margin benefit is already flowing to cash.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Green-coffee deflation shrinks top-line sales as retail prices fall, but lifts margins because input costs drop faster — validating the consumer-staples margin-expansion thesis. SJM rallied 12.31% to $113.24 through its 200-day moving average, and the same read-through touches Keurig Dr Pepper and Nestlé via Nespresso.
+SJM rallied 12.31% to $113.24 — through its 200-day moving average — confirming the equity bid for FY27 EPS upside over volume worries. The dynamic reads across to Keurig Dr Pepper and Nestlé Nespresso; Folgers and Café Bustelo volumes are the real tell on U.S. at-home coffee demand.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Consumer-staples and coffee-complex traders watching green-bean deflation flow into branded margins.
+Consumer-staples and coffee-complex traders.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
 <tr>
 <td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">J.M. Smucker</td>
 <td align="right"><a href="https://stock-tldr.xyz/releases/sjm-q4-fy26-earnings-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- CARD: Cracker Barrel Q3 FY26 -->
-<tr>
-<td style="padding-top: 16px;">
-<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
-
-<tr>
-<td>
-<img src="https://www.stocktitan.net/news_covers/CRACKER_BARREL_REPORTS_THIRD_QUARTER_FISCAL_2026_RESULTS_AND_UPDATES_FISCAL_2026_OUTLOOK_1068798.webp" alt="Cracker Barrel restaurant exterior with rocking chairs as Q3 results lift FY26 outlook" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
-</td>
-</tr>
-
-<tr>
-<td style="padding: 16px;">
-
-<div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">EARNINGS</span>
-<span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-06-09</span>
-</div>
-
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Cracker Barrel Q3 FY26 — adj EPS $0.29 stuns vs -$0.45 loss expected; revenue $797.4M above est; raises FY26 adj EBITDA guide to $120–$125M from $85–$100M; CBRL +~12% premarket June 10</h2>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Cracker Barrel swings to a $0.29 adjusted profit on a consensus loss and lifts FY26 EBITDA guidance ~$30M at the midpoint — premarket pops 12%.</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">What is it?</strong><br>
-Cracker Barrel reported fiscal 2026 Q3 (ended May 1) after the close on June 9. Total revenue of $797.4M beat the ~$777M consensus despite a 2.9% Y/Y decline, and adjusted diluted EPS of $0.29 stunned a Street modeling a $0.45 per-share loss. GAAP diluted EPS was $1.90, inflated by a $47.4M litigation settlement.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">How does it work?</strong><br>
-Restaurant comps were -2.6% (average check +4.3%, traffic offset) and retail comps -1.8%. Management raised FY26 guidance: revenue to $3.27–$3.30B (from $3.24–$3.27B) and adjusted EBITDA sharply to $120–$125M (from $85–$100M) — roughly $30M higher at the midpoint, implying a nearly 50% increase at the guide's top end.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Why does it matter?</strong><br>
-The magnitude of the EBITDA guide raise — about a third above the prior high end — resets the bear thesis on CEO Julie Masino's turnaround strategy and drove the 12% premarket gap. Negative comps with positive check growth signals cost-side execution rather than a traffic inflection, so durability hinges on whether operating-cost programs hold through summer. Casual-dining peers (DRI, EAT, DIN) get a small read-through.
-</p>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Who is it for?</strong><br>
-Casual-dining and small-cap consumer-discretionary traders tracking the Masino turnaround at CBRL.
-</p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
-<tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">Cracker Barrel Old Country Store</td>
-<td align="right"><a href="https://stock-tldr.xyz/releases/cbrl-q3-fy26-earnings-june-9-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
 </tr>
 </table>
 
