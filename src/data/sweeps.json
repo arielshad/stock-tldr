@@ -4736,6 +4736,34 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260611t003652z",
+      "timestamp": "2026-06-11T00:36:52.538Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Oracle Q4 FY26 — record quarter but stock fell ~10% AH on $40B FY27 raise and ~$70B FY27 capex. Surveyed CPI reaction, Iran strikes, OpenAI IPO timing chatter (already covered semantically by existing May 22 confidential-S1 item), and June 11 ECB/PPI/Adobe/Lennar prints (not yet released at sweep time). Skipped the June 10 broad sell-off (Dow -1.87%, Nasdaq -1.98%) — the underlying drivers (CPI, Iran) are already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "orcl-q4-fy26-earnings-june-10-2026",
+          "title": "Oracle Q4 FY26 — record $19.2B revenue (+21% Y/Y) and non-GAAP EPS $2.11 vs $1.89 est on +47% cloud growth; RPO surges 363% to $638B; ORCL ~-10% AH on June 10 as $40B FY27 raise and ~$70B FY27 capex outweigh the beat",
+          "category": "earnings",
+          "note": "Beat-and-raise quarter overshadowed by the largest FY-ahead capex/raise step-up in Oracle's history; capex sticker shock the same day CPI ran hot."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "ipo",
+        "crypto"
+      ]
     }
   ]
 }

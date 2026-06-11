@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-06-10T13:10:43.180Z",
+  "generatedAt": "2026-06-11T00:36:52.538Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "orcl-q4-fy26-earnings-june-10-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Oracle Q4 FY26 — record $19.2B revenue (+21% Y/Y) and non-GAAP EPS $2.11 vs $1.89 est on +47% cloud growth; RPO surges 363% to $638B; ORCL ~-10% AH on June 10 as $40B FY27 raise and ~$70B FY27 capex outweigh the beat",
+      "org": "Oracle",
+      "tickers": [
+        "ORCL"
+      ],
+      "date": "2026-06-10",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/default.aspx",
+      "summary": "Oracle Q4 FY26 revenue $19.2B (+21% Y/Y), cloud +47% to $9.9B, non-GAAP EPS $2.11 beats $1.89 est. RPO $638B (+363% Y/Y) on AI contracts. FY27 plan: ~$70B capex and $40B debt+equity raise. ORCL -~10% in after-hours.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "cloud",
+        "oci",
+        "ai-capex",
+        "rpo",
+        "q4-fy26",
+        "equity-raise",
+        "dilution",
+        "software"
+      ],
+      "importance": "major",
+      "metrics": {
+        "EPS": "$2.11 non-GAAP vs $1.89 est (+24% Y/Y)",
+        "Revenue": "$19.2B (+21% Y/Y)",
+        "Cloud Revenue": "$9.9B (+47% Y/Y) — IaaS +93%",
+        "RPO": "$638B (+363% Y/Y)",
+        "FY27 Capex": "~$70B",
+        "FY27 Raise": "~$40B (debt + equity)",
+        "Move": "-~10% AH (to ~$180.66 from $201.26 close)"
+      },
+      "explainer": {
+        "tagline": "Record AI-cloud quarter, but a $40B raise and $70B FY27 capex bill spook investors.",
+        "whatIsIt": "Oracle reported fiscal Q4 (ended May 31, 2026) on June 10. Headline numbers crushed estimates: revenue $19.2B (+21%), cloud $9.9B (+47%), and non-GAAP EPS $2.11 vs $1.89 consensus. Remaining performance obligations leapt to a record $638B, up 363% Y/Y, on multi-year AI infrastructure contracts (including roughly $75B of customer-supplied or prepaid GPUs). The catch: FY27 capex is now guided to roughly $70B and Oracle plans to raise about $40B in fresh debt and equity to fund it.",
+        "howItWorks": "Q4 cloud infrastructure (OCI) revenue accelerated to +93% Y/Y at $5.8B; SaaS grew +10% to $4.1B. Full FY26 revenue: $67.4B (+17%); FY26 cloud $34B (+39%); FY26 non-GAAP EPS $7.63 (+27%). Operating cash flow $32B (+54%); free cash flow ran negative $23.7B as data-center buildout outpaced cash generation. FY27 outlook: revenue maintained at ~$90B and non-GAAP EPS lifted to $8.05. The $40B FY27 capital raise includes a previously announced $20B at-the-market equity issuance.",
+        "whyItMatters": "Oracle is the latest AI-cloud bull to bump capex guidance into territory that worries equity investors — the $70B FY27 figure is up from ~$56B spent in FY26, and the $40B raise will dilute. The 363% RPO jump shows demand is real and locked in, but the math now needs Oracle to convert that backlog before the capex bill hits. Read-through hits AI-infrastructure suppliers (NVDA, AVGO, AMD, ANET) and the hyperscale capex narrative the day after CPI ran hot.",
+        "forWho": "Software-and-AI-capex investors",
+        "tryIt": "https://finance.yahoo.com/quote/ORCL"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo_Logo.jpg?id=OA2693371",
+        "alt": "Oracle corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Oracle IR Release",
+          "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/default.aspx"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/oracle-announces-record-q4-and-fy-2026-results-driven-by-cloud-infrastructure--cloud-applications-302797201.html"
+        },
+        {
+          "label": "Stocktitan Summary",
+          "url": "https://www.stocktitan.net/news/ORCL/oracle-announces-record-q4-and-fy-2026-results-driven-by-cloud-sbg54dgv99js.html"
+        },
+        {
+          "label": "Yahoo: ORCL Quote",
+          "url": "https://finance.yahoo.com/quote/ORCL/"
+        }
+      ],
+      "reddit": {
+        "title": "Oracle blows out Q4: $19.2B revenue, RPO surges 363% to $638B, but ORCL -10% after hours on a $40B raise + ~$70B FY27 capex",
+        "body": "Oracle dropped Q4 FY26 after the bell on June 10. The print itself was the strongest in years — yet shares cracked ~10% in after-hours because of what management said about FY27 spending.\n\n* Q4 revenue $19.2B, +21% Y/Y\n* Total cloud $9.9B, +47%; OCI (IaaS) +93% to $5.8B\n* Non-GAAP EPS $2.11 vs $1.89 est (+24% Y/Y)\n* RPO $638B, +363% Y/Y — roughly $75B of that is prepaid or customer-supplied GPUs\n* FY26 revenue $67.4B (+17%); FY26 non-GAAP EPS $7.63 (+27%)\n* ORCL closed -2.21% at $201.26, then traded to ~$180.66 in extended trading\n\nTwo numbers from the call did the damage:\n\n1. **FY27 capex ~$70B** — up from roughly $56B spent in FY26. The AI data-center buildout is accelerating, not plateauing.\n2. **FY27 raise ~$40B** — combined debt and equity, including a previously disclosed $20B ATM equity issuance. That is real dilution coming for a name that just rallied on AI-cloud optimism.\n\nFY27 guidance reaffirmed at ~$90B revenue and non-GAAP EPS lifted to $8.05.\n\nNext catalysts: Adobe earnings Thursday after close, then PPI Wednesday and Friday's hot-CPI hangover.\n\nFull breakdown: [https://stock-tldr.xyz/releases/orcl-q4-fy26-earnings-june-10-2026](https://stock-tldr.xyz/releases/orcl-q4-fy26-earnings-june-10-2026)"
+      },
+      "publishDate": "2026-06-11T00:36:52.538Z"
+    },
     {
       "id": "us-cpi-may-2026-june-10",
       "categories": [
