@@ -1,8 +1,155 @@
 {
-  "generatedAt": "2026-06-11T00:36:52.538Z",
+  "generatedAt": "2026-06-11T13:16:19.439Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "payo-nuvei-acquisition-rumor-june-9-2026",
+      "categories": [
+        "rumor",
+        "mna",
+        "mover"
+      ],
+      "title": "Reportedly: Nuvei in advanced talks to acquire Payoneer for $2.7B all-in — Reuters scoop sends PAYO +24.32% to $6.39 on Tuesday June 9 (best day in 4 years) as Advent-backed Canadian processor goes after cross-border payments comp on 51.7M shares (+1,005% vs avg)",
+      "org": "Reuters",
+      "date": "2026-06-09",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuvei-value-payoneer-2-7-142920884.html",
+      "summary": "Reuters reports June 9 that Advent/Novacap/CDPQ-backed Nuvei is in advanced talks to buy Payoneer for $2.7B (including cash), ~$2.3B enterprise value — PAYO closes +24.32% at $6.39 on 51.7M shares (1,005% above 3-mo avg).",
+      "tickers": [
+        "PAYO"
+      ],
+      "importance": "rumor",
+      "tags": [
+        "rumor",
+        "mna",
+        "cross-border-payments",
+        "fintech",
+        "private-equity",
+        "advent-international",
+        "novacap",
+        "cdpq",
+        "reuters-scoop",
+        "june-2026"
+      ],
+      "metrics": {
+        "Deal size": "$2.7B incl. cash (~$2.3B EV)",
+        "PAYO close": "$6.39 (+24.32%)",
+        "PAYO volume": "51.7M shares (+1,005% vs 3-mo avg)",
+        "Prior mcap": "~$1.7B"
+      },
+      "explainer": {
+        "tagline": "Reuters scoop: Nuvei nears $2.7B all-in buy of Payoneer; PAYO has its biggest day in four years on 10x volume.",
+        "whatIsIt": "Two people familiar with the matter told Reuters that Advent International–backed Nuvei is in advanced talks to acquire New York–listed cross-border payments firm Payoneer Global for about $2.7 billion (including Payoneer's cash), implying roughly $2.3 billion enterprise value. The two sides could sign a deal in the coming days, though sources cautioned a transaction may still fall apart.",
+        "howItWorks": "Nuvei, headquartered in Montreal, was taken private in 2024 in a $6.3 billion buyout led by Advent alongside Novacap and Quebec pension manager CDPQ; it provides payment processing, risk and payout solutions to global merchants. Payoneer runs a cross-border payments network for freelancers, online sellers and smaller businesses, with marquee marketplace clients including Amazon, Walmart and eBay. The mooted $2.7 billion offer compares with Payoneer's ~$1.7 billion market cap before the report, an ~59% premium on paper.",
+        "whyItMatters": "PAYO closed Tuesday June 9 at $6.39, +24.32% — its best session in four years — on 51.7 million shares, more than 10x its 3-month average. Even after the spike, the stock trades roughly 25% below the rumored deal value, signaling investor skepticism about completion risk; PayPal closed $41.46 (+0.48%) as traders parse what a combined Nuvei-Payoneer would mean for the cross-border payments stack.",
+        "forWho": "fintech and payments traders, merger-arb desks",
+        "tryIt": "https://finance.yahoo.com/quote/PAYO"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/reuters-finance.com/547978f38d792986effe10b6e04e65ed",
+        "alt": "Payoneer logo on the office of the cross-border payments firm",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Reuters Scoop (Yahoo)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuvei-value-payoneer-2-7-142920884.html"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-payoneer-global-surges-on-reports-of-usd2-7-billion-nuvei-acquisition-offer/"
+        },
+        {
+          "label": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/m-a/nuvei-reportedly-in-talks-to-acquire-payoneer"
+        },
+        {
+          "label": "PYMNTS Coverage",
+          "url": "https://www.pymnts.com/acquisitions/2026/nuvei-acquire-cross-border-payments-firm-payoneer-3-billion-dollars/"
+        },
+        {
+          "label": "PAYO Quote",
+          "url": "https://finance.yahoo.com/quote/PAYO"
+        }
+      ],
+      "reddit": {
+        "title": "Payoneer +24.32% to $6.39 on Reuters scoop: Advent-backed Nuvei in 'advanced talks' to buy PAYO for $2.7B all-in (incl. cash); 51.7M shares, +1,005% vs avg",
+        "body": "Reuters dropped a scoop Tuesday June 9 that Canadian payments processor Nuvei is in advanced talks to acquire cross-border payments firm Payoneer (PAYO) for about $2.7B, including cash — ~$2.3B enterprise value. Two sources said a deal could be signed in the coming days but cautioned it may still fall apart.\n\n* PAYO closed $6.39 (+24.32%) — best day in four years\n* Volume 51.7M shares — 1,005% above 3-month average\n* Prior market cap ~$1.7B → ~59% paper premium at $2.7B\n* Stock still trades ~25% below the rumored deal value, signaling completion-risk skepticism\n* Nuvei was taken private in 2024 for $6.3B by Advent International, Novacap and CDPQ\n\nWhy the strategic logic:\n\n1. **Geographic complement** — Nuvei processes merchant payments globally; Payoneer's network sits closer to freelancers, online sellers and smaller-merchant flows in emerging markets.\n2. **Marketplace clients** — Payoneer counts Amazon, Walmart and eBay among its big payout customers, an immediate distribution pull-through for Nuvei.\n3. **Private-credit-funded fintech roll-up** — pattern of PE-controlled processors bolt-on consolidating listed competitors continues.\n\nNeither company has confirmed the talks.\n\nFull breakdown: [https://stock-tldr.xyz/releases/payo-nuvei-acquisition-rumor-june-9-2026](https://stock-tldr.xyz/releases/payo-nuvei-acquisition-rumor-june-9-2026)"
+      },
+      "publishDate": "2026-06-11T13:16:19.439Z"
+    },
+    {
+      "id": "dkng-predictions-volume-surge-june-9-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "DraftKings +11.34% to $27.59 on Tuesday June 9 — 8-K discloses May Predictions annualized consumer volume +24% M/M to $1.3B and total annualized volume +34% M/M to $3.1B as platform now serves 38 states",
+      "org": "DraftKings",
+      "date": "2026-06-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001883685/000110465926071581/tm2617134d1_8k.htm",
+      "summary": "DraftKings 8-K on June 9 discloses May Predictions metrics: annualized consumer volume +24% M/M to $1.3B and annualized total volume traded +34% M/M to $3.1B; DKNG closes +11.34% at $27.59 as Predictions launches expand to 38 states.",
+      "tickers": [
+        "DKNG"
+      ],
+      "importance": "major",
+      "tags": [
+        "mover",
+        "8-k",
+        "prediction-markets",
+        "draftkings-predictions",
+        "online-gaming",
+        "sports-betting",
+        "addressable-market",
+        "may-2026-metrics",
+        "june-2026"
+      ],
+      "metrics": {
+        "Move": "+11.34% to $27.59",
+        "Predictions consumer volume (annualized)": "$1.3B (+24% M/M)",
+        "Predictions total volume traded (annualized)": "$3.1B (+34% M/M)",
+        "States live": "38",
+        "DKNG YTD": "-18.4%"
+      },
+      "explainer": {
+        "tagline": "DraftKings 8-K shows Predictions volume scaling — $1.3B annualized consumer and $3.1B total in May; stock pops 11% on the disclosure.",
+        "whatIsIt": "DraftKings filed an 8-K with the SEC on June 9 disclosing preliminary May 2026 operating metrics for its Predictions platform — a federally regulated prediction-markets product the company launched on December 19, 2025. The numbers landed well above buyside expectations and triggered a sharp single-day move in DKNG.",
+        "howItWorks": "Annualized consumer volume rose 24% month-over-month to $1.3 billion and annualized total volume traded climbed 34% to $3.1 billion, the second straight month of double-digit gains. Predictions is now live in 38 states — including several densely populated jurisdictions without legalized sports betting, opening DraftKings to users it cannot serve through its sportsbook. The May ramp came during the NFL offseason, when traditional sports-betting handle is structurally light.",
+        "whyItMatters": "DKNG closed June 9 at $27.59 (+11.34%) on volume well above average, even with the stock still ~18% lower year-to-date. Management has telegraphed up to $300M of annual investment into Predictions and reframed its total addressable market to $55–$80B (vs. a previously cited ~$20B), positioning the prediction-markets layer as a structural growth lever distinct from sportsbook seasonality.",
+        "forWho": "online-gaming traders, prediction-markets watchers",
+        "tryIt": "https://finance.yahoo.com/quote/DKNG"
+      },
+      "image": {
+        "url": "https://www.casino.org/news/wp-content/uploads/2026/04/draftKings.jpg",
+        "alt": "DraftKings logo on a mobile device",
+        "fit": "cover",
+        "credit": "Casino.org"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001883685/000110465926071581/tm2617134d1_8k.htm"
+        },
+        {
+          "label": "Casino.org Recap",
+          "url": "https://www.casino.org/news/draftkings-stock-soars-as-may-prediction-market-volume-jumps/"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/equities/26/06/53106563/super-micro-computer-draftkings-cracker-barrel-nuvalent-and-oracle-why-these-5-stocks-are-on-investors-radars-today"
+        },
+        {
+          "label": "DKNG Quote",
+          "url": "https://finance.yahoo.com/quote/DKNG"
+        }
+      ],
+      "reddit": {
+        "title": "DraftKings +11.34% to $27.59 — 8-K reveals May Predictions annualized consumer volume +24% M/M to $1.3B; total annualized volume +34% to $3.1B across 38 states",
+        "body": "DraftKings filed an 8-K Tuesday June 9 disclosing preliminary May metrics for its federally regulated Predictions platform — and the print came in hot enough to move the stock double digits.\n\n* DKNG closed $27.59 (+11.34%) on June 9 — volume well above average\n* Predictions annualized consumer volume: $1.3B (+24% M/M)\n* Predictions annualized total volume traded: $3.1B (+34% M/M)\n* Second consecutive month of double-digit growth since launch (Dec 19, 2025)\n* Platform now live in 38 states, including several without legal sports betting\n* DKNG still -18.4% YTD heading into the print\n\nThree things make this notable beyond a one-day pop:\n\n1. **Offseason ramp** — May is structurally light for sportsbook handle (no NFL), so the growth came in spite of seasonality, not because of it.\n2. **TAM reset** — management reframed prediction-markets addressable market to $55–$80B vs. a previously cited ~$20B, with up to $300M annual investment guided into the segment.\n3. **Geography arbitrage** — by sitting on the CFTC rails, Predictions can serve states where DraftKings' sportsbook cannot operate, adding a distinct growth lever.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dkng-predictions-volume-surge-june-9-2026](https://stock-tldr.xyz/releases/dkng-predictions-volume-surge-june-9-2026)"
+      },
+      "publishDate": "2026-06-11T13:16:19.439Z"
+    },
     {
       "id": "orcl-q4-fy26-earnings-june-10-2026",
       "categories": [

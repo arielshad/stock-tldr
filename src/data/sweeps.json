@@ -4764,6 +4764,45 @@
         "ipo",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260611t131619z",
+      "timestamp": "2026-06-11T13:16:19.439Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-06-11 finds two qualifying June 9 items not yet in the feed: a Reuters scoop that Advent-backed Nuvei is in advanced talks to acquire Payoneer for $2.7B all-in (PAYO +24.32%), and DraftKings' 8-K disclosing May Predictions volume +24%/+34% M/M (DKNG +11.34%). All other June 9–11 catalysts (Oracle Q4, May CPI, US-Iran helicopter strike, SMCI $7B raise, GSK-Nuvalent, etc.) are already covered.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "payo-nuvei-acquisition-rumor-june-9-2026",
+          "title": "Reportedly: Nuvei in advanced talks to acquire Payoneer for $2.7B all-in — Reuters scoop sends PAYO +24.32% to $6.39 on Tuesday June 9 (best day in 4 years) as Advent-backed Canadian processor goes after cross-border payments comp on 51.7M shares (+1,005% vs avg)",
+          "category": "rumor",
+          "note": "Reuters scoop with two named sources of 'people familiar with the matter' meets the rumor bar; primary attribution + +24% single-day move + 10x volume make it clearly market-moving and not yet covered in the feed."
+        },
+        {
+          "id": "dkng-predictions-volume-surge-june-9-2026",
+          "title": "DraftKings +11.34% to $27.59 on Tuesday June 9 — 8-K discloses May Predictions annualized consumer volume +24% M/M to $1.3B and total annualized volume +34% M/M to $3.1B as platform now serves 38 states",
+          "category": "mover",
+          "note": "DraftKings 8-K filing on June 9 with disclosed May Predictions metrics drove an 11.34% single-day move in a $20B+ cap name — single-name mover with named catalyst and primary SEC-filing source."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "rumor",
+        "macro",
+        "rates",
+        "crypto",
+        "commodity",
+        "regulatory",
+        "analyst"
+      ]
     }
   ]
 }
