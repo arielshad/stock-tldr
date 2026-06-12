@@ -4803,6 +4803,57 @@
         "regulatory",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260612t004725z",
+      "timestamp": "2026-06-12T00:47:25.068Z",
+      "source": "github-actions-sweep",
+      "summary": "Five new items covering June 10–11: a hot May PPI print (+1.1% M/M / +6.5% Y/Y, biggest annual since Nov 2022), Adobe Q2 FY26 beat overshadowed by CFO Dan Durn's exit, the June 11 rally on Trump cancelling Iran strikes, BofA's rare Intel double-upgrade, and Chewy's guide cut on premium softness.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-ppi-may-2026-june-11",
+          "title": "U.S. May 2026 PPI — headline +1.1% M/M matches April pace; 12-month rise +6.5% highest since November 2022 as final-demand goods jump +2.8% (biggest one-month gain since records began in 2009) on +10.7% energy and +23.4% gasoline; core PPI +0.4% M/M / +4.9% Y/Y",
+          "category": "macro",
+          "note": "Primary BLS release; hottest annual wholesale inflation since Nov 2022 — pairs with the May 10 CPI item to show pipeline pressure ahead of the June 16–17 FOMC."
+        },
+        {
+          "id": "adbe-q2-fy26-earnings-june-11-2026",
+          "title": "Adobe Q2 FY26 — record $6.62B revenue (+13% Y/Y / +11% cc) and non-GAAP EPS $5.96 (+18%) beat; AI-first ARR triples Y/Y past $500M and Firefly ARR nears $300M; raises FY26 guide — but ADBE ~-6.25% AH on June 11 as CFO Dan Durn resigns effective June 15",
+          "category": "earnings",
+          "note": "Mega-cap software earnings beat + raise; the AH drop on CFO exit and freemium pivot is the actual market story."
+        },
+        {
+          "id": "dow-sp500-rally-trump-iran-cancels-strikes-june-11-2026",
+          "title": "Dow +923 points (+1.85%) to 50,841, S&P 500 +1.75%, Nasdaq +2.54% on Thursday June 11 — Trump cancels scheduled Iran strikes and claims peace deal 'approved' subject to finalization; Iran's foreign ministry calls reports 'merely speculation'",
+          "category": "macro",
+          "note": "Top-of-tape geopolitical pivot — Trump cancels scheduled strikes and Dow +923 — distinct from prior Iran items (deal claim is brand new, Iran disputes)."
+        },
+        {
+          "id": "intc-bofa-double-upgrade-buy-135pt-june-11-2026",
+          "title": "Intel +11.15% to $118.83 on Thursday June 11 — Bank of America's Vivek Arya issues rare double-upgrade Underperform → Buy with PT $135 (from $96) on agentic CPU TAM and 18A foundry visibility; SOXX +8.4% to $586.93",
+          "category": "mover",
+          "note": "Rare double-upgrade and PT lift on agentic CPU TAM thesis; new event vs the prior Google TPU foundry scoop."
+        },
+        {
+          "id": "chwy-q1-fy26-guide-cut-june-10-2026",
+          "title": "Chewy Q1 FY26 — net sales $3.36B (+7.7% Y/Y) inline, adj EPS $0.43 meets and GAAP EPS $0.23 (+$0.08 Y/Y); active customers 21.5M (+3.6%) and Autoship 84.4% of sales — but trims FY26 sales guide to $13.40–$13.55B on weaker consumer and CHWY -6.4% on Wednesday June 10",
+          "category": "earnings",
+          "note": "Pet retail premiumization cracking — first clean signal that consumer weakness is reaching the defensive cohort."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "analyst"
+      ]
     }
   ]
 }

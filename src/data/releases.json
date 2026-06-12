@@ -1,8 +1,365 @@
 {
-  "generatedAt": "2026-06-11T13:16:19.439Z",
+  "generatedAt": "2026-06-12T00:47:25.068Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-ppi-may-2026-june-11",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. May 2026 PPI — headline +1.1% M/M matches April pace; 12-month rise +6.5% highest since November 2022 as final-demand goods jump +2.8% (biggest one-month gain since records began in 2009) on +10.7% energy and +23.4% gasoline; core PPI +0.4% M/M / +4.9% Y/Y",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-06-11",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "summary": "May 2026 PPI rose +1.1% M/M (matching April), pushing the 12-month rate to +6.5% — highest since Nov 2022. Goods +2.8% led by +10.7% energy and +23.4% gasoline; services +0.3%; core +0.4% M/M / +4.9% Y/Y.",
+      "tags": [
+        "ppi",
+        "inflation",
+        "macro",
+        "may-2026",
+        "energy",
+        "gasoline",
+        "hormuz",
+        "supply-shock"
+      ],
+      "importance": "major",
+      "metrics": {
+        "PPI M/M (SA)": "+1.1%",
+        "PPI Y/Y (NSA)": "+6.5%",
+        "Core PPI M/M": "+0.4%",
+        "Core PPI Y/Y": "+4.9%",
+        "Final demand goods M/M": "+2.8%",
+        "Final demand services M/M": "+0.3%",
+        "Energy M/M": "+10.7%",
+        "Gasoline M/M": "+23.4%"
+      },
+      "explainer": {
+        "tagline": "Wholesale inflation runs hottest annual rate since Nov 2022 as Hormuz energy shock barrels through the supply chain.",
+        "whatIsIt": "The Bureau of Labor Statistics released the May 2026 Producer Price Index on Thursday June 11. Final demand prices rose +1.1% M/M seasonally adjusted, matching April's print. On an unadjusted basis the 12-month rise hit +6.5%, the largest annual gain since November 2022 (+7.4%).",
+        "howItWorks": "About 80% of the May goods advance traces to a +10.7% jump in final-demand energy, with gasoline alone surging +23.4% M/M and accounting for more than half of the goods increase. Final-demand goods rose +2.8%, the largest one-month gain since data started in December 2009. Services prices rose just +0.3%. Core PPI (ex food, energy, trade) advanced +0.4% M/M to +4.9% Y/Y — under consensus of +0.5% / +5.4%.",
+        "whyItMatters": "PPI confirms the supply-side passthrough from the Hormuz closure period that already pushed May CPI to +4.2% Y/Y. Producer goods-cost spikes typically take 2–3 months to filter into consumer prices, so the energy-led wholesale surge tees up a hotter summer CPI run. Pipeline pressure complicates the path for the Warsh FOMC meeting June 16–17 even as the Iran de-escalation began to cool spot crude.",
+        "forWho": "macro traders, rates desks, CPI watchers",
+        "tryIt": "https://www.bls.gov/ppi/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108319980-1781130823270-gettyimages-2280324144-US_CPI.jpeg?v=1781130984&w=1920&h=1080",
+        "alt": "U.S. inflation data — May 2026 Producer Price Index release",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "BLS PPI Release",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        },
+        {
+          "label": "BLS PPI PDF",
+          "url": "https://www.bls.gov/news.release/pdf/ppi.pdf"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
+        },
+        {
+          "label": "PPI FRED Chart",
+          "url": "https://fred.stlouisfed.org/series/PPIFIS"
+        }
+      ],
+      "reddit": {
+        "title": "U.S. PPI May 2026: +1.1% M/M, +6.5% Y/Y — hottest annual wholesale inflation since Nov 2022 as gasoline +23.4% rips through the supply chain",
+        "body": "The May PPI dropped Thursday at 8:30am ET and it's ugly under the hood. Here are the numbers:\n\n* Final demand +1.1% M/M (SA), matching April's print\n* +6.5% Y/Y (NSA) — biggest 12-month rise since November 2022's +7.4%\n* Core PPI (ex food/energy/trade) +0.4% M/M and +4.9% Y/Y, both under consensus\n* Final demand goods +2.8% — largest one-month gain since records started in December 2009\n* Final demand services +0.3%\n\nThree things to chew on:\n\n1. **Energy did the damage** — final demand energy +10.7%, gasoline alone +23.4% M/M and more than half the goods print. The Hormuz closure shock is still bleeding through pipeline costs.\n2. **Goods, not services** — services prices barely moved (+0.3%). The pain is concentrated where energy and trade tariffs land.\n3. **Pipeline → CPI lag** — PPI goods spikes usually feed CPI 2–3 months later. May CPI already printed +4.2% Y/Y on Tuesday. Summer prints look hot.\n\nNext catalysts: Warsh's first FOMC meeting June 16–17, then June PCE on June 26.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ppi-may-2026-june-11](https://stock-tldr.xyz/releases/us-ppi-may-2026-june-11)"
+      },
+      "publishDate": "2026-06-12T00:47:25.068Z"
+    },
+    {
+      "id": "adbe-q2-fy26-earnings-june-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Adobe Q2 FY26 — record $6.62B revenue (+13% Y/Y / +11% cc) and non-GAAP EPS $5.96 (+18%) beat; AI-first ARR triples Y/Y past $500M and Firefly ARR nears $300M; raises FY26 guide — but ADBE ~-6.25% AH on June 11 as CFO Dan Durn resigns effective June 15",
+      "org": "Adobe",
+      "date": "2026-06-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000796343/000079634326000109/adbeex991q226.htm",
+      "summary": "Adobe Q2 FY26 — record $6.62B revenue (+13% Y/Y), non-GAAP EPS $5.96 (+18%), AI-first ARR >$500M (3x Y/Y); FY26 revenue guide raised to $26.50–$26.60B and EPS to $24.35–$24.45. ADBE ~-6.25% AH after CFO Dan Durn announces resignation.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q2-fy2026",
+        "ai",
+        "firefly",
+        "cfo-departure",
+        "software"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ADBE"
+      ],
+      "metrics": {
+        "Revenue": "$6.62B (+13% Y/Y / +11% cc)",
+        "EPS (non-GAAP)": "$5.96 (+18%)",
+        "EPS (GAAP)": "$4.25",
+        "Non-GAAP operating income": "$2.95B",
+        "Total ARR": "$27.10B",
+        "AI-first ARR": ">$500M (3x Y/Y)",
+        "Firefly ARR": "~$300M (+50% Q/Q)",
+        "FY26 revenue guide": "$26.50–$26.60B (raised)",
+        "FY26 non-GAAP EPS guide": "$24.35–$24.45 (raised)",
+        "Move (AH)": "~-6.25%"
+      },
+      "explainer": {
+        "tagline": "Adobe smashes Q2 estimates and raises FY26 guide but CFO Dan Durn's surprise exit and a freemium pivot drag shares ~6% after hours.",
+        "whatIsIt": "Adobe reported fiscal Q2 2026 results (quarter ended May 29) after the close on Thursday June 11. Revenue hit a record $6.62B (+13% Y/Y reported, +11% constant currency), GAAP EPS $4.25 (after a $0.17 goodwill impairment on the Publishing & Advertising unit) and non-GAAP EPS $5.96 (+18% Y/Y). Total ARR exited the quarter at $27.10B including ~$480M from the Semrush acquisition.",
+        "howItWorks": "AI-first ARR tripled Y/Y and crossed $500M with Firefly ARR running at ~$300M (+50% Q/Q) and Acrobat AI Assistant MAU +150% Y/Y. Creative & Marketing Professionals subscription revenue $4.54B (+13%); Business Professionals & Consumers $1.85B (+16%). Adobe raised FY26 revenue guide to $26.50–$26.60B and non-GAAP EPS guide to $24.35–$24.45. Separately, CFO Dan Durn notified the company June 8 that he is resigning effective June 15; Steven Day appointed interim CFO. Management also flagged a freemium pivot that defers Creative Cloud pricing optimizations.",
+        "whyItMatters": "The AI ARR ramp and beat-and-raise should have rewarded the stock, but the surprise CFO exit plus the freemium decision (deferring pricing for user-funnel expansion) read as a strategy reset and dragged ADBE roughly 6% in the after-hours session. Adobe is down ~30% YTD into the print and the CEO search is still ongoing, so investors are paying for execution clarity that the call didn't fully deliver. The print is a useful tape on enterprise software AI monetization for peers (CRM, NOW, MSFT).",
+        "forWho": "software analysts, AI-monetization watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ADBE"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/business-wire.com/1e2a7426b5b8d15ec4d4840a9f7115e5",
+        "alt": "Adobe Q2 FY2026 earnings release",
+        "fit": "cover",
+        "credit": "Business Wire / Adobe"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000796343/000079634326000109/adbeex991q226.htm"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-reports-record-q2-results-200500259.html"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/11/adobe-adbe-q2-2026-earnings-transcript/"
+        },
+        {
+          "label": "ADBE Chart",
+          "url": "https://finance.yahoo.com/quote/ADBE"
+        }
+      ],
+      "reddit": {
+        "title": "Adobe Q2 FY26: Record $6.62B revenue and AI ARR triples past $500M — but ADBE -6.25% AH as CFO Dan Durn resigns",
+        "body": "Adobe printed a clean beat and raise after the close Thursday, then immediately dropped 6% on the call. Quick take:\n\n* Revenue $6.62B (+13% Y/Y, +11% cc) — record quarter\n* Non-GAAP EPS $5.96 (+18% Y/Y), GAAP EPS $4.25 (with a $0.17 goodwill impairment charge)\n* Total ARR $27.10B; AI-first ARR tripled Y/Y past $500M; Firefly ARR ~$300M (+50% Q/Q)\n* FY26 guide raised to $26.50–$26.60B revenue and $24.35–$24.45 non-GAAP EPS\n* ADBE -6.25% after hours\n\nTwo things broke the print:\n\n1. **CFO Dan Durn out** — notified the company June 8, resigning effective June 15. Steven Day steps in as interim CFO with the CEO search still ongoing. Surprise departures rarely get bid.\n2. **Freemium pivot** — management explicitly deferred Creative Cloud pricing optimizations to chase user-funnel growth via freemium. About half of the ARR impact stems from deferring pricing adjustments, the other half from freemium expansion. Wall Street prices that as a near-term ARR drag.\n\nStock was already -30% YTD coming in. The AI traction is real but execution clarity isn't, and that's what got punished.\n\nNext catalysts: Oracle's $40B raise digestion and Salesforce/ServiceNow tape into next print.\n\nFull breakdown: [https://stock-tldr.xyz/releases/adbe-q2-fy26-earnings-june-11-2026](https://stock-tldr.xyz/releases/adbe-q2-fy26-earnings-june-11-2026)"
+      },
+      "publishDate": "2026-06-12T00:47:25.068Z"
+    },
+    {
+      "id": "dow-sp500-rally-trump-iran-cancels-strikes-june-11-2026",
+      "categories": [
+        "macro",
+        "mover"
+      ],
+      "title": "Dow +923 points (+1.85%) to 50,841, S&P 500 +1.75%, Nasdaq +2.54% on Thursday June 11 — Trump cancels scheduled Iran strikes and claims peace deal 'approved' subject to finalization; Iran's foreign ministry calls reports 'merely speculation'",
+      "org": "U.S. Markets",
+      "date": "2026-06-11",
+      "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+      "summary": "U.S. equities surged Thursday June 11 — Dow +923 points to 50,841 (+1.85%), S&P 500 +1.75%, Nasdaq +2.54% — after Trump cancelled scheduled Iran strikes and said a peace deal was 'approved' subject to finalization. Iran's foreign ministry called reports 'merely speculation'.",
+      "tags": [
+        "rally",
+        "iran",
+        "trump",
+        "geopolitics",
+        "risk-on",
+        "oil",
+        "hormuz",
+        "indices"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Dow close": "50,841 (+923 pts / +1.85%)",
+        "S&P 500": "+1.75%",
+        "Nasdaq Composite": "+2.54%",
+        "SOXX": "+8.4% to $586.93",
+        "Move catalyst": "Trump cancels Iran strikes"
+      },
+      "explainer": {
+        "tagline": "Best session of the rally streak as Trump pulls scheduled Iran strikes hours before launch and claims a deal is 'approved'.",
+        "whatIsIt": "U.S. stocks ripped higher on Thursday June 11 as President Trump posted on Truth Social that he had cancelled 'the scheduled strikes and bombings against Iran this evening' and claimed a deal had been 'approved by all parties involved' subject to a signing window of days. The Dow closed up 923 points (+1.85%) at 50,841 — back above 50K. The S&P 500 rose +1.75% and the Nasdaq +2.54%.",
+        "howItWorks": "The pivot came hours after Trump had warned the U.S. would hit Iran 'very hard tonight' and threatened Kharg Island oil infrastructure. Iran's foreign ministry pushed back, calling reports of a finalized agreement 'merely speculation' and saying no final decision had been made. The naval blockade remains in force pending signing. Semiconductors led the rebound — SOXX +8.4% to $586.93 as Intel ripped +11.15% on a BofA double-upgrade and broader risk assets followed.",
+        "whyItMatters": "The cancel-strike pivot reverses Tuesday and Wednesday's two-day selloff and overshadowed a hot May PPI print released the same morning. Markets are now pricing a path to Hormuz reopening that would unwind the supply-side energy shock driving the inflation surge. Whether the deal actually gets signed — and Iran confirms — is the binary that decides whether this rally extends or unwinds.",
+        "forWho": "macro traders, oil desks, geopolitical risk",
+        "tryIt": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-june-11-dow-sp-500-nasdaq-222511784.html"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108320570-1781206670202-108320570-17812063572026-06-11t193149z_113917332_rc2vrlaxbhrs_rtrmadp_0_usa-trump.jpeg?v=1781206699&w=1920&h=1080",
+        "alt": "Trump cancels scheduled Iran strikes on June 11, 2026",
+        "fit": "cover",
+        "credit": "Reuters / CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC: Trump on Iran Deal",
+          "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html"
+        },
+        {
+          "label": "Yahoo Finance Wrap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-june-11-dow-sp-500-nasdaq-222511784.html"
+        },
+        {
+          "label": "CNN Live Updates",
+          "url": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "Dow +923 (+1.85%) to 50,841, Nasdaq +2.54%, SOXX +8.4% on Thursday June 11 — Trump cancels scheduled Iran strikes hours before launch",
+        "body": "Massive risk-on session Thursday — best day of the rally streak. The catalyst was geopolitical, not fundamental:\n\n* Dow +923 points (+1.85%) to close at 50,841\n* S&P 500 +1.75%\n* Nasdaq +2.54%\n* iShares Semiconductor ETF (SOXX) +8.4% to $586.93\n* Intel +11.15% on BofA's rare double-upgrade Underperform→Buy with $135 PT\n\nThree drivers:\n\n1. **Trump cancelled scheduled Iran strikes** — Truth Social post said he cancelled 'the scheduled strikes and bombings against Iran this evening'. Hours earlier he had threatened to hit Iran 'very hard' tonight and target Kharg Island oil infrastructure.\n2. **Deal claim, no Iran confirmation** — Trump said the framework was 'approved by all parties' and could sign in days. Iran's foreign ministry called reports of a finalized agreement 'merely speculation'. Naval blockade still in force.\n3. **Hot PPI got shrugged** — May PPI printed +1.1% M/M / +6.5% Y/Y (highest since Nov 2022) the same morning. Risk-on swallowed the inflation tape.\n\nNext catalysts: signing window over the weekend, Warsh FOMC June 16–17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dow-sp500-rally-trump-iran-cancels-strikes-june-11-2026](https://stock-tldr.xyz/releases/dow-sp500-rally-trump-iran-cancels-strikes-june-11-2026)"
+      },
+      "publishDate": "2026-06-12T00:47:25.068Z"
+    },
+    {
+      "id": "intc-bofa-double-upgrade-buy-135pt-june-11-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Intel +11.15% to $118.83 on Thursday June 11 — Bank of America's Vivek Arya issues rare double-upgrade Underperform → Buy with PT $135 (from $96) on agentic CPU TAM and 18A foundry visibility; SOXX +8.4% to $586.93",
+      "org": "Bank of America",
+      "date": "2026-06-11",
+      "url": "https://finance.yahoo.com/markets/stocks/article/intel-stock-pops-on-upgrade-from-bofa-citing-cpu-growth-opportunity-134326258.html",
+      "summary": "BofA's Vivek Arya double-upgrades Intel from Underperform to Buy, lifting PT to $135 from $96 on agentic CPU TAM and 18A foundry visibility. INTC closes +11.15% at $118.83; SOXX +8.4% to $586.93.",
+      "tags": [
+        "analyst",
+        "upgrade",
+        "double-upgrade",
+        "intel",
+        "semis",
+        "foundry",
+        "agentic-ai",
+        "18a"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INTC"
+      ],
+      "metrics": {
+        "Rating change": "Underperform → Buy",
+        "Old PT": "$96",
+        "New PT": "$135 (+41%)",
+        "INTC close": "$118.83",
+        "Move": "+11.15%",
+        "SOXX close": "$586.93 (+8.4%)",
+        "2030 EPS estimate": "$6.24 (up from prior $3–$4)"
+      },
+      "explainer": {
+        "tagline": "Rare sell-to-buy skip — BofA's Vivek Arya now sees Intel earning >$6 EPS by 2030 on a 25% server CPU share and 18A foundry traction.",
+        "whatIsIt": "Bank of America semis analyst Vivek Arya issued a rare double-upgrade on Intel on Thursday June 11, lifting his rating from Underperform straight to Buy (skipping Neutral) and raising the price target to $135 from $96. The note came hot on the heels of the June 8 scoop that Google is tapping Intel for 3M+ TPUs and the broader narrative that hyperscalers want a U.S. foundry alternative to TSMC.",
+        "howItWorks": "Arya cites 'higher confidence in INTC's opportunity to help address industry constraints in leading edge wafers/packaging' and projects Intel server CPU sales reach ~25% of TAM by 2030. He pencils $6.24 in 2030 non-GAAP EPS power (up from a prior $3–$4 range), applies a 25x multiple discounted back two years to back out the $135 PT. INTC closed +11.15% at $118.83. The semiconductor ETF SOXX climbed +8.4% to $586.93.",
+        "whyItMatters": "Double-upgrades are unusual and signal a structural rerating, not a tactical call. Intel is now the proxy trade for U.S. foundry capacity scarcity and a CPU comeback under the agentic-AI narrative — a pivot from the prior 'GPU-only' framing of AI infrastructure. Risks Arya called out: execution at 18A/14A nodes, AI capex moderation, and Arm/custom CPU competition.",
+        "forWho": "semi traders, AI infrastructure desks",
+        "tryIt": "https://finance.yahoo.com/quote/INTC"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/11/Intel-Corporation.jpeg",
+        "alt": "Intel Corporation logo",
+        "fit": "cover",
+        "credit": "Benzinga / Intel"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/article/intel-stock-pops-on-upgrade-from-bofa-citing-cpu-growth-opportunity-134326258.html"
+        },
+        {
+          "label": "Benzinga Note",
+          "url": "https://www.benzinga.com/markets/tech/26/06/53145150/intel-bofa-double-upgrade-best-year-since-1975"
+        },
+        {
+          "label": "AOL Coverage",
+          "url": "https://www.aol.com/articles/intel-stock-pops-upgrade-bofa-134326000.html"
+        },
+        {
+          "label": "INTC Chart",
+          "url": "https://finance.yahoo.com/quote/INTC"
+        }
+      ],
+      "reddit": {
+        "title": "INTC +11.15% to $118.83 on June 11 — BofA's Vivek Arya double-upgrades Underperform → Buy with $135 PT (skipping Neutral)",
+        "body": "Bank of America just did something rare: a Sell-to-Buy double-upgrade on Intel. Here are the numbers:\n\n* Rating: Underperform → Buy (Neutral skipped entirely)\n* Price target: $96 → $135 (+41%)\n* INTC closed +11.15% at $118.83\n* iShares Semiconductor ETF (SOXX) +8.4% to $586.93\n* 2030 non-GAAP EPS power: $6.24, up from prior $3–$4 estimate\n\nTwo things made the call:\n\n1. **Agentic CPU TAM expansion** — Vivek Arya now sees Intel hitting ~25% of server CPU TAM by 2030 as the AI infrastructure narrative shifts from GPU-only to CPUs for AI agents.\n2. **18A foundry visibility** — 'higher confidence in INTC's opportunity to help address industry constraints in leading edge wafers/packaging'. The June 8 Google TPU scoop set up the foundry case; this note ratifies it.\n\nThe math: 25x multiple on $6.24 in 2030 EPS, discounted back two years = $135 PT. Risks Arya flagged: execution at 18A/14A nodes, AI capex moderation, Arm/custom CPU competition.\n\nDouble-upgrades signal a structural rerating, not a tactical call. INTC is up roughly 200% from the post-Q4 lows.\n\nNext catalysts: Q2 print, 18A volume ramp visibility.\n\nFull breakdown: [https://stock-tldr.xyz/releases/intc-bofa-double-upgrade-buy-135pt-june-11-2026](https://stock-tldr.xyz/releases/intc-bofa-double-upgrade-buy-135pt-june-11-2026)"
+      },
+      "publishDate": "2026-06-12T00:47:25.068Z"
+    },
+    {
+      "id": "chwy-q1-fy26-guide-cut-june-10-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Chewy Q1 FY26 — net sales $3.36B (+7.7% Y/Y) inline, adj EPS $0.43 meets and GAAP EPS $0.23 (+$0.08 Y/Y); active customers 21.5M (+3.6%) and Autoship 84.4% of sales — but trims FY26 sales guide to $13.40–$13.55B on weaker consumer and CHWY -6.4% on Wednesday June 10",
+      "org": "Chewy",
+      "date": "2026-06-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001766502/000162828026042058/chwyq12026exhibit991.htm",
+      "summary": "Chewy Q1 FY26 — net sales $3.36B (+7.7% Y/Y), adj EPS $0.43 (consensus), GAAP EPS $0.23; active customers 21.5M, Autoship 84.4% of sales; cuts FY26 sales guide to $13.40–$13.55B on softer consumer. CHWY -6.4%.",
+      "tags": [
+        "earnings",
+        "guidance-cut",
+        "consumer-weakness",
+        "pet-retail",
+        "q1-fy2026",
+        "autoship"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "CHWY"
+      ],
+      "metrics": {
+        "Net sales": "$3.36B (+7.7% Y/Y)",
+        "Adj EPS": "$0.43 (in line)",
+        "GAAP EPS": "$0.23 (+$0.08 Y/Y)",
+        "Gross margin": "30.1% (+50bp Y/Y)",
+        "Adj EBITDA": "$253.1M (margin 7.5%, +130bp)",
+        "Active customers": "21.5M (+3.6%)",
+        "Net sales / active customer": "$597 (+4.6% normalized)",
+        "Autoship % of sales": "84.4%",
+        "FY26 sales guide": "$13.40–$13.55B (cut)",
+        "Q2 FY26 sales guide": "~$3.3B",
+        "Move": "-6.4%"
+      },
+      "explainer": {
+        "tagline": "Pet retailer hits the in-line print but cuts the back-half guide and pins the blame on premium softness in late Q1.",
+        "whatIsIt": "Chewy reported fiscal Q1 2026 results (quarter ended May 3) on Tuesday June 10. Net sales of $3.36B grew +7.7% Y/Y and were just ahead of the $3.35B consensus. Adjusted EPS of $0.43 met expectations; GAAP EPS came in at $0.23 (+$0.08 Y/Y). Gross margin expanded 50bp to 30.1% and adj EBITDA reached $253.1M (7.5% margin, +130bp Y/Y).",
+        "howItWorks": "Active customers grew to 21.5M (+3.6%) with net sales per active customer at $597 (+4.6% on a normalized basis). Autoship subscription continues to dominate at 84.4% of net sales. But the back-half guide tells the bear story: FY26 sales now tracking $13.40–$13.55B (below prior outlook and Street) and Q2 guide implies ~$3.3B vs $3.4B consensus. CEO Sumit Singh attributed the cut to consumer pressure on premium products that intensified late in Q1.",
+        "whyItMatters": "CHWY -6.4% on a day where most consumer discretionary names were drifting lower — the read is that the pet category, long considered tariff- and recession-resistant, is now showing the premium-attach cracks that consumer staples and broader retail have been signaling all spring. For the consumer discretionary sleeve, Chewy is one of the cleaner reads on whether premiumization is rolling over. Watch BBY, COST, ULTA, and DG comp trends into Q2.",
+        "forWho": "consumer discretionary traders, retail desks",
+        "tryIt": "https://finance.yahoo.com/quote/CHWY"
+      },
+      "image": {
+        "url": "https://stockstory.org/stockstory/company-image/CHWY",
+        "alt": "Chewy logo",
+        "fit": "contain",
+        "credit": "StockStory / Chewy"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001766502/000162828026042058/chwyq12026exhibit991.htm"
+        },
+        {
+          "label": "Q1 10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001766502/000162828026042060/chwy-20260503.htm"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/10/chewy-chwy-q1-2026-earnings-transcript/"
+        },
+        {
+          "label": "CHWY Chart",
+          "url": "https://finance.yahoo.com/quote/CHWY"
+        }
+      ],
+      "reddit": {
+        "title": "Chewy Q1 FY26: $3.36B revenue and adj EPS $0.43 in line — but CHWY -6.4% as FY26 sales guide cut to $13.40–$13.55B on consumer weakness",
+        "body": "Chewy printed Tuesday and fell 6.4% on the guide cut, not the quarter. Here's what dropped:\n\n* Net sales $3.36B (+7.7% Y/Y), just above $3.35B est\n* Adjusted EPS $0.43 in line; GAAP EPS $0.23 (+$0.08 Y/Y)\n* Gross margin 30.1% (+50bp Y/Y); adj EBITDA $253.1M / 7.5% margin (+130bp)\n* Active customers 21.5M (+3.6%); net sales per active customer $597 (+4.6% normalized)\n* Autoship now 84.4% of net sales\n* FY26 sales guide cut to $13.40–$13.55B (below prior and Street)\n* Q2 sales guide implies ~$3.3B vs $3.4B consensus\n\nWhat broke it:\n\n1. **Premium attach cracked late in Q1** — CEO Sumit Singh said business was solid for most of the quarter then consumer pressure on premium products intensified into the back end of Q1.\n2. **Pet was supposed to be defensive** — pet retail was the tariff- and recession-resistant trade. The premium softness here matches the signal coming out of consumer staples and discretionary all spring.\n\nNext catalysts: Q2 print, holiday-quarter Autoship attach trajectory, BBY/COST/ULTA reads.\n\nFull breakdown: [https://stock-tldr.xyz/releases/chwy-q1-fy26-guide-cut-june-10-2026](https://stock-tldr.xyz/releases/chwy-q1-fy26-guide-cut-june-10-2026)"
+      },
+      "publishDate": "2026-06-12T00:47:25.068Z"
+    },
     {
       "id": "payo-nuvei-acquisition-rumor-june-9-2026",
       "categories": [
