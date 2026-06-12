@@ -4854,6 +4854,38 @@
         "mover",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260612t130810z",
+      "timestamp": "2026-06-12T13:08:10.092Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: RH Q1 FY26 earnings (June 11 after close) — revenue $800.3M and adj EBITDA $56.9M both beat with FY26 guide raised, RH +~7% AH. Today's June 12 events (SpaceX SPCX debut, UMich June preliminary consumer sentiment, market reaction to Iran deal headlines) hadn't yet produced verifiable intraday data at sweep timestamp (9:00 AM ET, pre-market open / pre-10am-ET sentiment release), and the SpaceX $135 pricing event was already covered by the existing roadshow item.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rh-q1-fy26-earnings-june-11-2026",
+          "title": "RH Q1 FY26 — net revenue $800.3M (-1.7% Y/Y) tops $792.6M est and adj EBITDA $56.9M (7.1% margin) trounces $48.3M est; backorders +$75M Y/Y on tariff resourcing held ~$45M of revenue out of the quarter; raises FY26 revenue guide to +4.5–8%; RH +~7% AH on June 11 from $153.14 close",
+          "category": "earnings",
+          "note": "Beat-and-raise from a major tariff-exposed retailer; backorder-conversion story flipped the YTD-down tape with a ~7% AH rally."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "ipo",
+        "mna",
+        "analyst",
+        "rates",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

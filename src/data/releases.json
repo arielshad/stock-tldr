@@ -1,8 +1,91 @@
 {
-  "generatedAt": "2026-06-12T00:47:25.068Z",
+  "generatedAt": "2026-06-12T13:08:10.092Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rh-q1-fy26-earnings-june-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "RH Q1 FY26 — net revenue $800.3M (-1.7% Y/Y) tops $792.6M est and adj EBITDA $56.9M (7.1% margin) trounces $48.3M est; backorders +$75M Y/Y on tariff resourcing held ~$45M of revenue out of the quarter; raises FY26 revenue guide to +4.5–8%; RH +~7% AH on June 11 from $153.14 close",
+      "org": "RH",
+      "date": "2026-06-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm",
+      "summary": "RH Q1 FY26 — revenue $800.3M (-1.7% Y/Y) beats $792.6M est; adj EBITDA $56.9M (7.1% margin) and non-GAAP EPS -$1.97 trounce; FY26 guide raised to +4.5–8% revenue and 14.2–16% adj EBITDA margin on $75M tariff-related backlog set to convert in H2. RH +~7% AH from $153.14 close.",
+      "tags": [
+        "earnings",
+        "q1-fy2026",
+        "revenue-beat",
+        "ebitda-beat",
+        "guidance-raise",
+        "tariffs",
+        "luxury-home",
+        "retail"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RH"
+      ],
+      "metrics": {
+        "Revenue": "$800.3M (-1.7% Y/Y)",
+        "Revenue vs est": "$800.3M vs $792.6M est",
+        "EPS (non-GAAP)": "-$1.97 vs ~-$2.07 est",
+        "Adj EBITDA": "$56.9M (7.1% margin) vs $48.3M est",
+        "Operating margin": "4.3% (vs 6.9% Y/Y)",
+        "Free cash flow": "$13.3M",
+        "Backorder build Y/Y": "+$75M on tariff resourcing (~$45M Q1 revenue impact)",
+        "FY26 revenue guide": "+4.5–8% (raised)",
+        "FY26 adj EBITDA margin guide": "14.2–16%",
+        "FY26 adj FCF guide": "$300–400M",
+        "Q2 FY26 revenue guide": "+0.5–2.5%",
+        "Q2 FY26 adj EBITDA margin guide": "11.5–13%",
+        "Pre-earnings close": "$153.14 (June 11)",
+        "Move (AH)": "~+7%"
+      },
+      "explainer": {
+        "tagline": "Revenue and EBITDA top the bar, and management says ~$45M of the Q1 revenue 'miss' is sitting in backorder waiting to convert in H2.",
+        "whatIsIt": "RH reported Q1 fiscal 2026 results (quarter ended May 2, 2026) after the close on Thursday June 11. Net revenue came in at $800.3M, down 1.7% Y/Y but above the $792.6M consensus, while adjusted EBITDA of $56.9M (7.1% margin) clearly beat the $48.3M estimate and the high end of guidance. Adjusted free cash flow was $13.3M; operating margin compressed to 4.3% from 6.9%.",
+        "howItWorks": "Q1 net revenues were held back by roughly $45M of tariff-related sourcing disruption — backorder and special-order balances sit ~$75M higher than the prior year. CEO Gary Friedman framed that build as deferred not lost demand and said RH expects growth to accelerate in H2 as the backlog converts and RH Estates plus new gallery openings layer on. Guidance was raised: FY26 revenue growth +4.5–8% (vs +4–8% prior), adj EBITDA margin 14.2–16%, adj FCF $300–400M. Q2 was guided to +0.5–2.5% revenue and 11.5–13% adj EBITDA margin.",
+        "whyItMatters": "Luxury home furnishings has been one of the most tariff-exposed pockets of consumer discretionary this year, and RH is the bellwether — shares were down 17% YTD into the print on margin compression fears. A beat-and-raise with a credible backlog-conversion story flipped the tape: RH rallied roughly 7% after hours from a $153.14 regular close. Read-throughs to Williams-Sonoma, Wayfair and Arhaus are mixed — RH's high-touch model captured tariff impact differently — but the print does take an outright demand-collapse case off the table for luxury home.",
+        "forWho": "consumer discretionary, home furnishings, tariff-impact watchers",
+        "tryIt": "https://finance.yahoo.com/quote/RH"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_7dcd09b0137692d65406e0e10ac7afad/rh/db/3606/32603/social_image_resized.jpg",
+        "alt": "RH (Restoration Hardware) Q1 FY2026 results",
+        "fit": "cover",
+        "credit": "RH Investor Relations"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm"
+        },
+        {
+          "label": "RH IR Press Release",
+          "url": "https://ir.rh.com/news-events/detail/283/rh-reports-first-quarter-fiscal-2026-results"
+        },
+        {
+          "label": "Investing.com Coverage",
+          "url": "https://www.investing.com/news/stock-market-news/rh-lifts-2026-outlook-as-q1-beats-expectations-despite-tariffrelated-headwinds-4738433"
+        },
+        {
+          "label": "Earnings Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/11/rh-rh-q1-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "RH Chart",
+          "url": "https://finance.yahoo.com/quote/RH"
+        }
+      ],
+      "reddit": {
+        "title": "RH Q1 FY26: revenue $800.3M and adj EBITDA $56.9M trounce, ~$45M held in tariff backorder for H2 — FY26 guide raised, RH +~7% AH",
+        "body": "RH (Restoration Hardware) reported Q1 FY26 after the close Thursday and management told the tariff story with receipts:\n\n* Revenue $800.3M (-1.7% Y/Y) — beat $792.6M est\n* Adjusted EBITDA $56.9M (7.1% margin) — trounced $48.3M est by ~18%\n* Non-GAAP EPS -$1.97 vs ~-$2.07 est\n* Backorder + special-order balance ~$75M higher Y/Y; management said roughly $45M of Q1 revenue is sitting there waiting to convert\n* Free cash flow $13.3M; operating margin 4.3% (down from 6.9% Y/Y)\n* RH +~7% AH from a $153.14 regular close\n\nThree things drove the print:\n\n1. **Tariff resourcing is a timing problem, not a demand problem (for now)** — Gary Friedman framed the elevated backlog as deferred demand, not lost demand, with conversion guided to ramp in H2.\n2. **FY26 outlook went up, not down** — revenue growth raised to +4.5–8% (from +4–8%); adj EBITDA margin 14.2–16%; adj FCF $300–400M.\n3. **Q2 was guided light on purpose** — +0.5–2.5% revenue and 11.5–13% adj EBITDA margin lets H2 do the heavy lifting via backlog conversion + RH Estates + new galleries.\n\nRead-throughs: Williams-Sonoma, Wayfair, Arhaus on luxury home demand; tariff-exposed consumer discretionary on backlog dynamics.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rh-q1-fy26-earnings-june-11-2026](https://stock-tldr.xyz/releases/rh-q1-fy26-earnings-june-11-2026)"
+      },
+      "publishDate": "2026-06-12T13:08:10.092Z"
+    },
     {
       "id": "us-ppi-may-2026-june-11",
       "categories": [
