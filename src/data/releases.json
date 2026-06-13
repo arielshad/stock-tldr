@@ -1,8 +1,180 @@
 {
-  "generatedAt": "2026-06-13T00:40:47.527Z",
+  "generatedAt": "2026-06-13T12:42:30.168Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "len-q2-fy26-earnings-june-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lennar Q2 FY26 — EPS $1.24 GAAP / $1.31 ex-MTM and $7.9B revenue (-5.2% Y/Y) clear lowered bar; deliveries +2% to 20,519 but gross margin slips to 15.6% (vs 17.8%) as ASP -5% to $371K; FY26 deliveries trimmed to 82–83K and LEN -4.5% to $93.12 on Friday June 12",
+      "org": "Lennar",
+      "date": "2026-06-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000920760/000162828026042551/ex991-2026531x8kq1.htm",
+      "summary": "Homebuilder clears lowered Q2 FY26 bar with $1.24 EPS / $1.31 ex-MTM and 20,519 deliveries, but gross margin sinks to 15.6% from 17.8% as ASP falls 5% to $371K; FY26 delivery target trimmed to 82–83K homes and LEN -4.5% on Friday June 12.",
+      "tickers": [
+        "LEN",
+        "DHI",
+        "PHM"
+      ],
+      "metrics": {
+        "EPS": "$1.24 GAAP / $1.31 ex-MTM vs $1.81 / $1.90 Y/Y",
+        "Revenue": "$7.9B (-5.2% Y/Y)",
+        "Deliveries": "20,519 (+2% Y/Y)",
+        "New orders": "21,749 (-4% Y/Y)",
+        "Gross margin": "15.6% vs 17.8% Y/Y",
+        "ASP": "$371K (-5% Y/Y)",
+        "Incentives": "12.9% of ASP",
+        "Cycle time": "121 days (record low)",
+        "Backlog": "16,818 homes / $6.6B",
+        "Cash": "$1.8B",
+        "Buybacks Q2": "5M shares for $447M",
+        "FY26 deliveries guide": "82,000–83,000 (moderated)",
+        "Move": "-4.52% to $93.12 on Friday June 12"
+      },
+      "tags": [
+        "earnings",
+        "homebuilders",
+        "housing",
+        "len",
+        "q2-fy26",
+        "guidance-cut",
+        "gross-margin",
+        "mortgage-rates",
+        "affordability",
+        "buybacks",
+        "asset-light"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Lennar clears a lowered Q2 FY26 bar but margins keep compressing as mortgage rates and incentives bite — FY26 delivery target trimmed and LEN -4.5% on Friday.",
+        "whatIsIt": "Lennar (NYSE: LEN), the second-largest U.S. homebuilder, reported Q2 FY26 results (quarter ended May 31, 2026) after the bell on June 11. Net earnings were $305M, or $1.24 per diluted share ($1.31 excluding mark-to-market losses on technology investments) on $7.9B in revenue. Both the EPS and delivery figures landed inside guidance, but revenue undershot Street estimates near $8.1B.",
+        "howItWorks": "Deliveries rose 2% Y/Y to 20,519 homes (inside the 20,000–21,000 guide) while new orders fell 4% to 21,749. Average sales price slid 5% Y/Y to $371,000 with incentives at 12.9% of ASP. Gross margin on home sales compressed to 15.6% from 17.8% Y/Y as land costs rose and revenue per square foot fell, while SG&A as a percent of home-sales revenue rose to 9.2% from 8.8%. Cycle time hit a record-low 121 days, inventory dropped to 2.1 homes per community, and Lennar bought back 5M shares for $447M, ending the quarter with $1.8B in cash and a 15.8% homebuilding debt-to-capital ratio.",
+        "whyItMatters": "Stuart Miller called out 'persistently elevated mortgage rates, constrained affordability, and cautious consumer sentiment' compounded by a 4.2% May CPI print driven by higher energy prices. Q3 guide: 20,500–21,500 deliveries, ~16% gross margin, ASP $375K–$380K, SG&A 8.8–9.0%. Full-year delivery target was moderated to 82,000–83,000 homes from prior guidance. LEN fell 4.52% to $93.12 on Friday June 12 — comps DHI and PHM also drifted lower into the homebuilder weakness signal.",
+        "forWho": "homebuilder analysts, rate-sensitive equity desks, REIT/housing-data traders",
+        "tryIt": "https://finance.yahoo.com/quote/LEN"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lennar_headquarters.jpg/1280px-Lennar_headquarters.jpg",
+        "alt": "Lennar Corporation headquarters in Miami, Florida",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Q2 FY26 Press Release (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000920760/000162828026042551/ex991-2026531x8kq1.htm"
+        },
+        {
+          "label": "PRNewswire Release",
+          "url": "https://www.prnewswire.com/news-releases/lennar-reports-second-quarter-2026-results-302798539.html"
+        },
+        {
+          "label": "Investor Presentation (June 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000920760/000119312526268580/d31288dex991.htm"
+        },
+        {
+          "label": "Yahoo Finance LEN",
+          "url": "https://finance.yahoo.com/quote/LEN"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/06/12/lennar-len-q2-2026-earnings-transcript/"
+        }
+      ],
+      "reddit": {
+        "title": "Lennar Q2 FY26: $1.24 EPS / $7.9B revenue clear lowered bar, but gross margin sinks to 15.6% from 17.8% — FY26 deliveries cut to 82–83K, LEN -4.5%",
+        "body": "America's #2 homebuilder reported Q2 FY26 (quarter ended May 31) after the bell Wednesday June 11. Beat the lowered bar, but the margin story was ugly:\n\n* Revenue $7.9B (-5.2% Y/Y), missed the ~$8.1B Street est\n* GAAP EPS $1.24 / $1.31 ex-MTM (vs $1.81 / $1.90 Y/Y)\n* Deliveries 20,519 (+2% Y/Y, in guide of 20,000–21,000)\n* New orders 21,749 (-4% Y/Y), backlog 16,818 homes / $6.6B\n* Gross margin 15.6% (down from 17.8%), ASP $371K (-5% Y/Y), incentives 12.9% of ASP\n* Bought back 5M shares for $447M, ended with $1.8B cash and 15.8% homebuilding debt-to-cap\n\nWhat broke the print:\n\n1. **Affordability didn't crack** — Stuart Miller flagged \"persistently elevated mortgage rates, constrained affordability, and cautious consumer sentiment\" hit by May's 4.2% CPI on energy.\n2. **Margins keep compressing** — Land costs rose Y/Y and revenue per square foot fell; SG&A leverage worsened to 9.2% from 8.8%.\n3. **FY26 outlook trimmed** — full-year delivery target moderated to 82,000–83,000 homes; Q3 gross margin guide of ~16% only inches up.\n\nThe operational tape was actually solid — cycle time hit a record-low 121 days and inventory dropped to 2.1 homes per community. But the market focused on the margin compression and trimmed FY guide.\n\nNext catalysts: FOMC June 16–17 (Warsh's first meeting), then DHI/PHM/TOL reads.\n\nFull breakdown: [https://stock-tldr.xyz/releases/len-q2-fy26-earnings-june-11-2026](https://stock-tldr.xyz/releases/len-q2-fy26-earnings-june-11-2026)"
+      },
+      "publishDate": "2026-06-13T12:42:30.168Z"
+    },
+    {
+      "id": "dan-etn-mobility-merger-june-11-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Dana to combine with Eaton's Mobility business in $5.1B Reverse Morris Trust on June 11 — creates $11B-sales global powertrain leader with $1.7B adj EBITDA and $250M run-rate synergies; Eaton holders get ≥50.1% plus $1.1B cash dividend; DAN -12.7% to $30.96 / ETN +1.2% to $380.01 on Friday June 12",
+      "org": "Dana",
+      "date": "2026-06-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000026780/000119312526266654/d114836dex991.htm",
+      "summary": "Reverse Morris Trust combines Dana with Eaton Mobility at a $5.1B valuation to create an $11B-sales powertrain leader targeting $250M synergies. Eaton holders get ≥50.1% of the combined company plus a $1.1B cash distribution; closes Q1 2027. DAN -12.7% / ETN +1.2% Friday June 12.",
+      "tickers": [
+        "DAN",
+        "ETN"
+      ],
+      "metrics": {
+        "Deal value": "$5.1B Eaton Mobility",
+        "Structure": "Reverse Morris Trust (split-off or spin-off + merger)",
+        "Combined enterprise value": ">$10B",
+        "Combined sales (PF 2026E)": "~$11B",
+        "Adj EBITDA (PF 2026E)": "~$1.7B (~15% margin)",
+        "Run-rate synergies": "$250M within 24 months",
+        "Cash distribution to Eaton": "$1.1B",
+        "Eaton holder stake at close": "≥50.1%",
+        "Dana holder stake at close": "~49.9%",
+        "Multiple paid": "8.3x 2026E adj EBITDA pre-synergies / 5.9x with synergies",
+        "DAN move": "-12.7% to $30.96 on Friday June 12",
+        "ETN move": "+1.21% to $380.01 on Friday June 12",
+        "Close target": "Q1 2027"
+      },
+      "tags": [
+        "mna",
+        "reverse-morris-trust",
+        "powertrain",
+        "auto-supplier",
+        "commercial-vehicles",
+        "light-vehicles",
+        "spin-off",
+        "synergies",
+        "dan",
+        "etn"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Dana merges with Eaton's Mobility business in a $5.1B Reverse Morris Trust — combined company targets $11B sales and $250M synergies, but DAN -12.7% on Friday as the math gets digested.",
+        "whatIsIt": "Dana Incorporated (NYSE: DAN) and Eaton Corporation plc (NYSE: ETN) announced June 11 a definitive agreement to combine Eaton's Mobility business with Dana via a Reverse Morris Trust transaction valued at approximately $5.1B. Eaton will first separate its Mobility Group to Eaton shareholders (via either a split-off or a spin-off, at Eaton's election), then Dana will merge with a subsidiary of the Mobility Group, with Dana surviving as a wholly owned subsidiary.",
+        "howItWorks": "The $5.1B valuation works out to ~8.3x 2026E pro forma adjusted EBITDA pre-synergies, or ~5.9x including the $250M run-rate cost synergies expected within 24 months. Eaton holders own at least 50.1% of the combined company at close; Dana holders own roughly 49.9%. Eaton receives a $1.1B cash distribution subject to adjustments. The combined company targets ~$11B in pro forma 2026E sales, ~$1.7B in adj EBITDA (~15% margin), and >$10B enterprise value. Byron Foster becomes CEO July 1, 2026; Tim Kraus stays CFO; R. Bruce McDonald becomes Executive Chairman.",
+        "whyItMatters": "The deal effectively converts Eaton into a more focused electrical/industrial pure-play while folding the slower-growth mobility/transmission business into Dana's powertrain platform. Dana's 2030 targets jump to $14–$15B in sales, ~18% adj EBITDA margin, and 8–9% adj FCF margin (vs prior ~$10B, 14–15%, 6%). The market split the verdict on Friday June 12 — DAN sank 12.7% to $30.96 as the combined-company dilution and execution risk lands, while ETN ticked +1.2% to $380.01 as the divestiture sharpens the portfolio. Close targeted Q1 2027 subject to Dana shareholder vote.",
+        "forWho": "auto-supplier analysts, industrials event-driven, RMT/spin-off arbs",
+        "tryIt": "https://finance.yahoo.com/quote/DAN"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS426966/DANA-INCORPORATED-LOGO_Logo.jpg",
+        "alt": "Dana Incorporated corporate logo",
+        "fit": "contain",
+        "credit": "Dana Incorporated"
+      },
+      "links": [
+        {
+          "label": "Dana 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000026780/000119312526266654/d114836dex991.htm"
+        },
+        {
+          "label": "PRNewswire Joint Release",
+          "url": "https://www.prnewswire.com/news-releases/dana-incorporated-announces-agreement-to-combine-with-eatons-mobility-business-strengthens-danas-position-as-a-leading-global-powertrain-systems-provider-302797498.html"
+        },
+        {
+          "label": "Benzinga Deal Coverage",
+          "url": "https://www.benzinga.com/m-a/26/06/53142265/why-dana-and-eaton-investors-are-watching-this-10b-mobility-deal"
+        },
+        {
+          "label": "Yahoo Finance DAN",
+          "url": "https://finance.yahoo.com/quote/DAN"
+        },
+        {
+          "label": "Yahoo Finance ETN",
+          "url": "https://finance.yahoo.com/quote/ETN"
+        }
+      ],
+      "reddit": {
+        "title": "Dana to merge with Eaton's Mobility business in $5.1B Reverse Morris Trust — combined co targets $11B sales / $250M synergies; DAN -12.7%, ETN +1.2%",
+        "body": "Dana (DAN) and Eaton (ETN) announced a Reverse Morris Trust combination June 11. The market verdict split — Dana plunged 12.7% on Friday June 12 while Eaton ticked up 1.2%.\n\n* Deal value: $5.1B for Eaton Mobility (8.3x 2026E adj EBITDA, 5.9x w/ synergies)\n* Structure: Reverse Morris Trust — Eaton spins/splits Mobility, then merges with Dana\n* Eaton holders own ≥50.1% of combined co; Dana holders ~49.9%\n* Eaton receives $1.1B cash distribution\n* Combined targets: ~$11B sales, ~$1.7B adj EBITDA (~15% margin), >$10B EV (2026E PF)\n* $250M run-rate synergies expected within 24 months\n* Closes Q1 2027 subject to Dana shareholder vote\n* Dana's 2030 targets jump: $14–$15B sales / ~18% adj EBITDA margin / 8–9% adj FCF margin\n\nWhy DAN got punished:\n\n1. **Effective dilution** — Dana holders end up with ~49.9% of a much larger company, so per-share earnings get rebased.\n2. **Execution risk on a transformative integration** — $250M synergies are real but back-end loaded over 24 months.\n3. **Eaton sheds slower-growth mobility** — ETN becomes a cleaner electrical/industrial play, hence the up-tick.\n\nLeadership: Byron Foster becomes CEO July 1, 2026; R. Bruce McDonald serves as Executive Chairman; Tim Kraus continues as CFO.\n\nNext catalysts: Dana shareholder vote process, regulatory review, FY26 standalone results from each company.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dan-etn-mobility-merger-june-11-2026](https://stock-tldr.xyz/releases/dan-etn-mobility-merger-june-11-2026)"
+      },
+      "publishDate": "2026-06-13T12:42:30.168Z"
+    },
     {
       "id": "spcx-spacex-ipo-debut-june-12-2026",
       "categories": [

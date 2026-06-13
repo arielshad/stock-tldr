@@ -4930,6 +4930,38 @@
         "commodity",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260613t124230z",
+      "timestamp": "2026-06-13T12:42:30.168Z",
+      "source": "github-actions-sweep",
+      "summary": "Two June 11 corporate events traders worked through into Friday June 12: Lennar (LEN) Q2 FY26 cleared a lowered bar but trimmed FY26 deliveries on margin compression (LEN -4.5%), and Dana (DAN) agreed to combine with Eaton's Mobility business in a $5.1B Reverse Morris Trust creating an $11B-sales powertrain leader (DAN -12.7% / ETN +1.2%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "len-q2-fy26-earnings-june-11-2026",
+          "title": "Lennar Q2 FY26 — EPS $1.24 GAAP / $1.31 ex-MTM and $7.9B revenue (-5.2% Y/Y) clear lowered bar; deliveries +2% to 20,519 but gross margin slips to 15.6% (vs 17.8%) as ASP -5% to $371K; FY26 deliveries trimmed to 82–83K and LEN -4.5% to $93.12 on Friday June 12",
+          "category": "earnings",
+          "note": "Major U.S. homebuilder Q2 print with FY26 delivery target moderation and -4.5% reaction Friday — not a stale recap; first Lennar entry in feed."
+        },
+        {
+          "id": "dan-etn-mobility-merger-june-11-2026",
+          "title": "Dana to combine with Eaton's Mobility business in $5.1B Reverse Morris Trust on June 11 — creates $11B-sales global powertrain leader with $1.7B adj EBITDA and $250M run-rate synergies; Eaton holders get ≥50.1% plus $1.1B cash dividend; DAN -12.7% to $30.96 / ETN +1.2% to $380.01 on Friday June 12",
+          "category": "mna",
+          "note": "Reverse Morris Trust auto-supplier combination at $5.1B, EDGAR-confirmed; both sides moved Friday — DAN -12.7%, ETN +1.2%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna"
+      ]
     }
   ]
 }
