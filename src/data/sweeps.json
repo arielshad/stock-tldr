@@ -4886,6 +4886,50 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260613t004047z",
+      "timestamp": "2026-06-13T00:40:47.527Z",
+      "source": "github-actions-sweep",
+      "summary": "Three June 12 additions: SpaceX completes the largest IPO in U.S. history (SPCX +19.22% close at $160.95, $2.11T market cap), DOJ clears the Paramount Skydance / Warner Bros Discovery $110B merger without conditions, and U-Mich June preliminary consumer sentiment rises to 48.9 (1y inflation expectations fall to 4.6%).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "spcx-spacex-ipo-debut-june-12-2026",
+          "title": "SpaceX (SPCX) Nasdaq debut on June 12 — largest IPO in history: 555,555,555 shares priced at $135 raised $75B at $1.75T valuation, opens $150, hits $176.52 intraday, closes +19.22% at $160.95; market cap $2.11T",
+          "category": "ipo",
+          "note": "Largest IPO in U.S. history priced and debuted June 11–12; SEC 424B4 confirms $75B raise at $135/share with 555.6M shares; closed +19.22% at $160.95 with $2.11T market cap. Distinct event from the existing June 3 roadshow-pricing item."
+        },
+        {
+          "id": "psky-wbd-doj-clearance-june-12-2026",
+          "title": "DOJ Antitrust Division clears Paramount Skydance's $110B Warner Bros Discovery acquisition without conditions on June 12 — said deal 'increases competition'; California AG Bonta says investigation remains active",
+          "category": "mna",
+          "note": "DOJ Antitrust Division clearance is a distinct event from the June 5 state-AG antitrust rumor item — different regulator (federal vs state), opposite direction (clearance vs threatened challenge), tier-1 coverage by CNBC/CBS/Politico."
+        },
+        {
+          "id": "umich-sentiment-june-2026-preliminary",
+          "title": "U-Mich June 2026 preliminary consumer sentiment 48.9 vs 46.0 est trounces — first rise in four months (up +9% from May's record-low 44.8); 1-year inflation expectations fall to 4.6% (from 4.8%), 5-year to 3.4% (from 3.9%)",
+          "category": "macro",
+          "note": "First UMich monthly rise in four months; 1-year inflation expectations down to 4.6% from 4.8% and 5-10y to 3.4% from 3.9% — relevant input for the June 16–17 FOMC meeting."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "mover",
+        "mna",
+        "regulatory",
+        "macro",
+        "earnings",
+        "crypto",
+        "commodity",
+        "analyst"
+      ]
     }
   ]
 }

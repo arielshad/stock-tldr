@@ -1,8 +1,247 @@
 {
-  "generatedAt": "2026-06-12T13:08:10.092Z",
+  "generatedAt": "2026-06-13T00:40:47.527Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "spcx-spacex-ipo-debut-june-12-2026",
+      "categories": [
+        "ipo",
+        "mover"
+      ],
+      "title": "SpaceX (SPCX) Nasdaq debut on June 12 — largest IPO in history: 555,555,555 shares priced at $135 raised $75B at $1.75T valuation, opens $150, hits $176.52 intraday, closes +19.22% at $160.95; market cap $2.11T",
+      "org": "SpaceX",
+      "date": "2026-06-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026042639/spaceexplorationtechnologi.htm",
+      "summary": "SpaceX completes the largest IPO ever on June 12 — 555.6M Class A shares priced at $135 raised $75B (preliminary $1.75T valuation), open at $150 on Nasdaq + Nasdaq Texas, intraday high $176.52, close +19.22% at $160.95 for a $2.11T market cap with 13.09B shares outstanding.",
+      "tags": [
+        "ipo",
+        "spacex",
+        "spcx",
+        "nasdaq",
+        "nasdaq-texas",
+        "elon-musk",
+        "largest-ipo-ever",
+        "mega-cap",
+        "space"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "SPCX"
+      ],
+      "metrics": {
+        "Shares sold": "555,555,555 Class A",
+        "Greenshoe": "Up to 83,333,333 additional shares",
+        "IPO price": "$135.00",
+        "Open": "$150.00 (+11.1% vs IPO price)",
+        "Intraday high": "$176.52",
+        "Close": "$160.95 (+19.22%)",
+        "Move": "+19.22%",
+        "Day range": "$149.34–$176.52",
+        "Implied IPO valuation": "$1.75T",
+        "Market cap at close": "$2.11T",
+        "Shares outstanding": "13.09B",
+        "Proceeds raised": "$75B",
+        "FY25 revenue": "$18.674B",
+        "FY25 loss from operations": "-$2.589B",
+        "FY25 adj EBITDA": "$6.584B",
+        "Q1 2026 revenue": "$4.694B",
+        "Q1 2026 loss from operations": "-$1.943B",
+        "Q1 2026 adj EBITDA": "$1.127B"
+      },
+      "explainer": {
+        "tagline": "Space Exploration Technologies prices the largest IPO ever at $135 and opens its Nasdaq debut +11%, finishing day one at $160.95 with a $2.11T market cap.",
+        "whatIsIt": "SpaceX (NASDAQ + Nasdaq Texas: SPCX) priced its initial public offering on Thursday June 11 at $135 per share for 555,555,555 Class A shares — a $75B raise that makes it the largest IPO in U.S. history. Trading opened Friday June 12 at $150, ran to a $176.52 intraday high, and closed up 19.22% at $160.95.",
+        "howItWorks": "The 424B4 final prospectus filed June 11 confirms 555.6M shares at $135 plus an underwriter greenshoe of up to 83,333,333 additional shares (30-day option) — both sized at the IPO price. With 13.09B Class A and B shares outstanding at the close, market cap finished day one at $2.11T. Disclosed financials in the prospectus: FY25 revenue $18.674B with $6.584B adj EBITDA and a $2.589B operating loss; Q1 2026 revenue $4.694B and adj EBITDA $1.127B against a $1.943B operating loss. Dual-listing on Nasdaq Texas marks the first mega-cap to use the new venue launched in March 2026.",
+        "whyItMatters": "SPCX vaults into the Nasdaq mega-cap cohort on day one at $2.11T — a top-5 U.S. listing by market value alongside AAPL, MSFT, NVDA and GOOG. Index inclusion mechanics on a free-float-only basis will be the next watch (Nasdaq-100 has a 90-day post-IPO seasoning rule). The successful pricing at $135 with a 19% pop also re-opens the mega-IPO window after a sparse 2025–early 2026 and lifts the IPO-pipeline read for filed names like Cerebras and Klarna.",
+        "forWho": "IPO desks, mega-cap allocators, space sector",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108310153-1779310542372-gettyimages-2223125661-ELON_MUSK.jpeg?v=1779310665&w=1920&h=1080",
+        "alt": "SpaceX Nasdaq IPO debut on June 12, 2026",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "SEC 424B4 Prospectus",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "label": "SpaceX IR Pricing PR",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx"
+        },
+        {
+          "label": "Yahoo Finance SPCX",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "label": "Yahoo Finance Liftoff Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-liftoff-record-024830983.html"
+        },
+        {
+          "label": "TradingView SPCX",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/"
+        }
+      ],
+      "reddit": {
+        "title": "SpaceX (SPCX) closes Nasdaq debut +19.22% at $160.95 — $75B raised at $135 IPO price is the largest IPO ever, market cap $2.11T on day one",
+        "body": "SpaceX began trading on Friday June 12 under SPCX on Nasdaq and Nasdaq Texas — the largest IPO in U.S. history is now public. Here are the numbers:\n\n* 555,555,555 Class A shares priced at $135.00 (final 424B4 filed June 11)\n* $75B raised (preliminary $1.75T valuation)\n* Open $150.00 (+11.1% vs IPO price); intraday high $176.52\n* Close $160.95, +19.22% on day one\n* Market cap at close $2.11T on 13.09B shares outstanding\n* Underwriter greenshoe up to 83,333,333 additional shares (30-day option)\n\nThree things the print tells you:\n\n1. **Mega-cap on day one** — SPCX joins AAPL/MSFT/NVDA/GOOG in the $2T+ club instantly. Index inclusion math (Nasdaq-100 has a 90-day seasoning rule) is now the next watch.\n2. **The mega-IPO window is open again** — a successful $75B raise with a 19% pop after a quiet 2025 reopens the door for filed names like Cerebras and Klarna.\n3. **Nasdaq Texas gets its first mega-listing** — SPCX is the first mega-cap to dual-list on the new venue launched in March 2026.\n\nDisclosed financials in the prospectus: FY25 revenue $18.674B / $6.584B adj EBITDA / -$2.589B operating loss; Q1 2026 revenue $4.694B / $1.127B adj EBITDA / -$1.943B operating loss.\n\nNext catalysts: lock-up expiry, greenshoe exercise window (through ~July 11), and index-inclusion review after the 90-day seasoning.\n\nFull breakdown: [https://stock-tldr.xyz/releases/spcx-spacex-ipo-debut-june-12-2026](https://stock-tldr.xyz/releases/spcx-spacex-ipo-debut-june-12-2026)"
+      },
+      "publishDate": "2026-06-13T00:40:47.527Z"
+    },
+    {
+      "id": "psky-wbd-doj-clearance-june-12-2026",
+      "categories": [
+        "mna",
+        "regulatory"
+      ],
+      "title": "DOJ Antitrust Division clears Paramount Skydance's $110B Warner Bros Discovery acquisition without conditions on June 12 — said deal 'increases competition'; California AG Bonta says investigation remains active",
+      "org": "U.S. Department of Justice",
+      "date": "2026-06-12",
+      "url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
+      "summary": "The DOJ Antitrust Division cleared Paramount Skydance's $110B WBD acquisition on June 12 with no divestitures or remedies, concluding the deal 'is not likely to result in harm to competition' and 'would increase competition' in media. California AG Bonta says state probe remains active.",
+      "tags": [
+        "mna",
+        "doj",
+        "antitrust",
+        "media",
+        "paramount-skydance",
+        "warner-bros-discovery",
+        "regulatory-clearance",
+        "state-ag-risk"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PSKY",
+        "WBD"
+      ],
+      "metrics": {
+        "Deal size": "$110B",
+        "DOJ conditions": "None (no divestitures, behavioral remedies, concessions)",
+        "Approval date": "June 12, 2026",
+        "PSKY close (June 12)": "$10.62 (+2.77%)",
+        "WBD close (June 12)": "$26.98 (+0.45%)",
+        "Outbid": "Netflix ($83B)"
+      },
+      "explainer": {
+        "tagline": "DOJ closes its investigation without conditions and says the Paramount Skydance / Warner Bros Discovery deal would 'increase competition' — state attorneys general remain the binding constraint.",
+        "whatIsIt": "The Antitrust Division of the U.S. Department of Justice closed its investigation of Paramount Skydance's pending $110B acquisition of Warner Bros Discovery on Friday June 12 without requiring any divestitures, behavioral remedies or concessions. Politico reported the decision; CNBC and CBS News confirmed. The Division said the transaction 'is not likely to result in harm to competition or American consumers' and that the evidence suggested it would 'increase competition across the media and entertainment ecosystem.'",
+        "howItWorks": "DOJ clearance removes the federal antitrust ceiling on the deal. The combined entity would control HBO Max, CNN, Comedy Central, Nickelodeon, the Paramount and Warner Bros studio labels and a major sports-rights book. Paramount Skydance outbid a $83B Netflix offer to win Warner. The tender-offer expiration was previously extended to July 1, 2026. PSKY rose 2.77% to $10.62 and WBD rose 0.45% to $26.98 on the day.",
+        "whyItMatters": "California Attorney General Rob Bonta confirmed on Friday that the state investigation is still active — 'The merger of Warner Bros and Paramount is not a done deal and remains under investigation by my office.' Senator Elizabeth Warren called on state AGs to block the deal. The multi-state antitrust suit telegraphed on June 5 (California + New York) is now the binding constraint, not Washington. Spreads on WBD will narrow only if the state AG track resolves; further state-level filings keep the deal on a knife edge.",
+        "forWho": "M&A arbs, media sector, antitrust watchers",
+        "tryIt": "https://finance.yahoo.com/quote/PSKY"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108294846-1776796495861-gettyimages-2271059069-AFP_A83M98C.jpeg?v=1777492771&w=1920&h=1080",
+        "alt": "Warner Bros Discovery and Paramount Skydance logos as DOJ clears $110B merger",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html"
+        },
+        {
+          "label": "CBS News Coverage",
+          "url": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-antitrust-justice-department/"
+        },
+        {
+          "label": "Quiver Quant Recap",
+          "url": "https://www.quiverquant.com/news/DOJ+Clears+Paramount+Skydance%E2%80%99s+$110+Billion+Warner+Bros.+Discovery+Acquisition+Without+Conditions"
+        },
+        {
+          "label": "PSKY Tender Extension 8-K",
+          "url": "https://www.stocktitan.net/news/PSKY/paramount-skydance-corporation-announces-extension-of-expiration-whwh9iz2dewd.html"
+        },
+        {
+          "label": "WBD Chart",
+          "url": "https://finance.yahoo.com/quote/WBD"
+        }
+      ],
+      "reddit": {
+        "title": "DOJ clears Paramount Skydance / Warner Bros Discovery $110B merger with NO conditions — California AG Bonta says state probe still active",
+        "body": "The DOJ Antitrust Division closed its investigation of Paramount Skydance's $110B Warner Bros Discovery acquisition on Friday June 12 without divestitures, behavioral remedies, or any other concessions.\n\n* Deal size: $110B (PSKY outbid Netflix's $83B offer)\n* DOJ verdict: deal 'is not likely to result in harm to competition or American consumers' and 'would increase competition' in media\n* Conditions imposed: zero\n* PSKY +2.77% to $10.62; WBD +0.45% to $26.98 on Friday\n* Tender-offer expiration previously extended to July 1, 2026\n\nThe remaining hurdles:\n\n1. **California AG Rob Bonta**: 'The merger of Warner Bros and Paramount is not a done deal and remains under investigation by my office.'\n2. **Multi-state antitrust action** — California and New York were already telegraphing a multi-state lawsuit on June 5 to try to block the deal at the state level.\n3. **Political heat** — Senator Elizabeth Warren publicly called on state AGs to block it after the DOJ approval.\n\nNet read: federal track cleared, state track is the binding constraint. WBD spread compression now depends on the state AG outcome, not Washington.\n\nFull breakdown: [https://stock-tldr.xyz/releases/psky-wbd-doj-clearance-june-12-2026](https://stock-tldr.xyz/releases/psky-wbd-doj-clearance-june-12-2026)"
+      },
+      "publishDate": "2026-06-13T00:40:47.527Z"
+    },
+    {
+      "id": "umich-sentiment-june-2026-preliminary",
+      "categories": [
+        "macro"
+      ],
+      "title": "U-Mich June 2026 preliminary consumer sentiment 48.9 vs 46.0 est trounces — first rise in four months (up +9% from May's record-low 44.8); 1-year inflation expectations fall to 4.6% (from 4.8%), 5-year to 3.4% (from 3.9%)",
+      "org": "University of Michigan",
+      "date": "2026-06-12",
+      "url": "http://www.sca.isr.umich.edu/",
+      "summary": "U-Mich June preliminary consumer sentiment rose +9% to 48.9, trouncing 46.0 consensus and the first monthly rise in four months after May's record low of 44.8. 1-year inflation expectations fall to 4.6% (from 4.8%) and 5-year to 3.4% (from 3.9%); current conditions 48.4, expectations 49.3.",
+      "tags": [
+        "umich",
+        "consumer-sentiment",
+        "macro",
+        "inflation-expectations",
+        "june-2026",
+        "preliminary",
+        "gasoline",
+        "iran-de-escalation"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline (June preliminary)": "48.9",
+        "Consensus": "46.0",
+        "May final": "44.8 (record low since 1952)",
+        "M/M change": "+4.1 pts / +9%",
+        "Current Conditions": "48.4 (May final 45.8)",
+        "Expectations Index": "49.3 (May final 44.1)",
+        "1-year inflation expectations": "4.6% (May final 4.8%)",
+        "5-10y inflation expectations": "3.4% (May final 3.9%)",
+        "vs January 2026": "-13%",
+        "vs June 2025": "-19%"
+      },
+      "explainer": {
+        "tagline": "Sentiment ticks up off the record floor as gasoline relief and Iran de-escalation push 1-year inflation expectations back to 4.6%.",
+        "whatIsIt": "The University of Michigan released its preliminary June 2026 Surveys of Consumers on Friday June 12. The headline Index of Consumer Sentiment rose to 48.9 from a record-low May final of 44.8 — the first monthly increase in four months and well above the 46.0 consensus. The improvement was broad across age, income, education and political groups.",
+        "howItWorks": "Current Economic Conditions rose to 48.4 from 45.8 in May; the Expectations sub-index jumped to 49.3 from 44.1. Survey director Joanne Hsu said consumers experienced 'some relief due to the early-month easing in gasoline prices.' Year-ahead inflation expectations fell to 4.6% from 4.8% (still well above the 2024 ~3% range); 5-10y long-run inflation expectations fell to 3.4% from 3.9%, retracing part of the spike that drove the May print to a record low.",
+        "whyItMatters": "The print is a small but real green shoot for the bull case: lower inflation expectations matter more to the Fed reaction function than a single sentiment beat. Still, 48.9 is the second-lowest reading in the 1952–present series, 13% below January 2026 and 19% below June 2025. Risk markets liked the inflation-expectations leg — Treasury 10y held bid and equities held the Iran-deal rally. The print arrives four days before Warsh's first FOMC meeting on June 16–17.",
+        "forWho": "macro traders, FOMC watchers, rates desks",
+        "tryIt": "http://www.sca.isr.umich.edu/"
+      },
+      "image": {
+        "url": "https://images.investinglive.com/images/UMich%20consumer%20sentiment_id_2a1cd593-7416-4419-9782-f8ea1c7026b8_size975.jpg",
+        "alt": "University of Michigan consumer sentiment chart — June 2026 preliminary",
+        "fit": "cover",
+        "credit": "InvestingLive"
+      },
+      "links": [
+        {
+          "label": "U-Mich Surveys of Consumers",
+          "url": "http://www.sca.isr.umich.edu/"
+        },
+        {
+          "label": "FRED UMCSENT Chart",
+          "url": "https://fred.stlouisfed.org/series/UMCSENT"
+        },
+        {
+          "label": "InvestingLive Data Recap",
+          "url": "https://www.investinglive.com/news/june-us-prelim-mich-consumer-sentiment-489-vs-460-expected-20260612/"
+        },
+        {
+          "label": "FXStreet Coverage",
+          "url": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-remain-depressed-near-historical-lows-in-june-202606121100"
+        },
+        {
+          "label": "Trading Economics Series",
+          "url": "https://tradingeconomics.com/united-states/consumer-confidence"
+        }
+      ],
+      "reddit": {
+        "title": "UMich June preliminary consumer sentiment 48.9 vs 46.0 est — first monthly rise in four months off May's record-low 44.8; 1y inflation expectations fall to 4.6%",
+        "body": "U-Mich preliminary June consumer sentiment dropped at 10am ET Friday and it's the first rise in four months, with the inflation-expectations component leading the move.\n\n* Headline 48.9 vs 46.0 consensus and 44.8 May final (record low since 1952)\n* +4.1 pts / +9% M/M — first monthly rise in four months\n* Current Conditions 48.4 (vs 45.8 prior)\n* Expectations 49.3 (vs 44.1 prior)\n* 1-year inflation expectations 4.6% (down from 4.8%)\n* 5–10y long-run inflation expectations 3.4% (down from 3.9%)\n\nThree things to note:\n\n1. **Inflation expectations are the real signal** — the Fed cares less about a sentiment bounce than about whether long-run expectations stay anchored. The 5-10y dropping back to 3.4% partially unwinds the 3.9% spike that drove the May record low.\n2. **Gasoline relief did most of the work** — UMich's director attributed the lift to 'early-month easing in gasoline prices' as the Iran-Hormuz energy shock partly retraced.\n3. **It's still a depressed reading** — 48.9 is the second-lowest print in series history (1952–present), 13% below January 2026 and 19% below June 2025.\n\nNext catalysts: Warsh's first FOMC meeting June 16–17, then UMich June final on June 27.\n\nFull breakdown: [https://stock-tldr.xyz/releases/umich-sentiment-june-2026-preliminary](https://stock-tldr.xyz/releases/umich-sentiment-june-2026-preliminary)"
+      },
+      "publishDate": "2026-06-13T00:40:47.527Z"
+    },
     {
       "id": "rh-q1-fy26-earnings-june-11-2026",
       "categories": [
