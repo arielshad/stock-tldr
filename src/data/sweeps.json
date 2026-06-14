@@ -4991,6 +4991,28 @@
         "mna",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260614t123717z",
+      "timestamp": "2026-06-14T12:37:17.148Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday June 14 sweep, 12 hours after the previous run. No qualifying additions: markets are closed for the weekend; the U.S.–Iran peace deal Trump claimed would be signed today is still unsigned (Iran's MFA says signing 'will not happen Sunday' but 'the coming days'; Qatari mediators flew to Tehran Sunday morning) — status materially unchanged from the existing June 13 rumor item. Searched the Iran negotiation track, Sunday geopolitical wires, weekend M&A/IPO/earnings news, BTC/crypto (BTC ~flat at $63.8K), FOMC/G7 previews (both upcoming June 15–17, not yet happened) and tier-1 markets front pages. The only borderline-fresh items — Standard Chartered's June 12 $59K BTC cycle-bottom call and the June 12 spot-BTC-ETF inflow flip ($85.8M, IBIT +$57.7M) — don't clear the inclusion bar (BTC unchanged, single-day flow read, single analyst note).",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "rumor",
+        "crypto",
+        "mna",
+        "earnings"
+      ]
     }
   ]
 }
