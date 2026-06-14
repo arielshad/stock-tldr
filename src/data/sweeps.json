@@ -4962,6 +4962,35 @@
         "mover",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260614t003327z",
+      "timestamp": "2026-06-14T00:33:27.832Z",
+      "source": "github-actions-sweep",
+      "summary": "One rumor item added: Trump claims the U.S.–Iran MoU will sign Sunday June 14 in Geneva with the Strait of Hormuz reopening; Pakistan PM Sharif (mediator) says final text is agreed but Iran's MFA disputes the timing. Friday crude collapsed: WTI -3.85% to $84.33, Brent -3.78% to $86.98. Quiet rest of the weekend — earnings calendar empty, no fresh M&A or central-bank prints.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-peace-deal-sunday-signing-claim-june-13-2026",
+          "title": "Reportedly: Trump says U.S.–Iran peace deal to be signed Sunday June 14 in Geneva — Pakistan PM Sharif (mediator) confirms 'final text' on June 13, but Iran MFA disputes timing; WTI -3.85% to $84.33 / Brent -3.78% to $86.98 on Friday June 12",
+          "category": "rumor",
+          "note": "Saturday Trump Truth Social claim of imminent Sunday signing is materially new vs the June 11 strikes-cancellation rally already in the feed — Iran disputes the timing so it ships as a rumor."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "rumor",
+        "earnings",
+        "mna",
+        "analyst"
+      ]
     }
   ]
 }

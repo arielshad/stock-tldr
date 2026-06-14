@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-06-13T12:42:30.168Z",
+  "generatedAt": "2026-06-14T00:33:27.832Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-peace-deal-sunday-signing-claim-june-13-2026",
+      "categories": [
+        "rumor",
+        "macro",
+        "commodity"
+      ],
+      "title": "Reportedly: Trump says U.S.–Iran peace deal to be signed Sunday June 14 in Geneva — Pakistan PM Sharif (mediator) confirms 'final text' on June 13, but Iran MFA disputes timing; WTI -3.85% to $84.33 / Brent -3.78% to $86.98 on Friday June 12",
+      "org": "CNBC",
+      "date": "2026-06-13",
+      "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+      "summary": "Trump posts on Truth Social Saturday that the U.S.–Iran MoU 'is scheduled to get signed tomorrow' with the Strait of Hormuz reopening 'immediately after'. Pakistan PM Sharif confirms final text reached; Iran's MFA disputes the timing.",
+      "tags": [
+        "rumor",
+        "iran",
+        "hormuz",
+        "oil",
+        "wti",
+        "brent",
+        "ceasefire",
+        "geopolitics",
+        "trump",
+        "pakistan",
+        "vance",
+        "g7"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "WTI (Fri close)": "$84.33 (-3.85%)",
+        "Brent (Fri close)": "$86.98 (-3.78%)",
+        "Frozen assets release": "~$24B (per Iranian media)",
+        "Hormuz reopening window": "30 days post-signing"
+      },
+      "explainer": {
+        "tagline": "Trump claims a Sunday Geneva signing; Iran's foreign ministry says no plans to travel — markets are pricing the 30-day Hormuz reopening, not the diplomatic friction.",
+        "whatIsIt": "On Saturday June 13, President Trump posted on Truth Social that the U.S.–Iran memorandum of understanding 'is scheduled to get signed tomorrow' with the Strait of Hormuz to be 'OPEN TO ALL' immediately after. Pakistan, the lead mediator, said the final text of the deal has been agreed and an electronic signing could happen within 24 hours. Iran's foreign ministry pushed back on the timeline, with spokesman Esmaeil Baghaei saying a signing 'will not happen tomorrow'.",
+        "howItWorks": "U.S. press reporting describes the MoU as a 60-day ceasefire extension, a 30-day window to fully reopen the Strait of Hormuz, an Iranian commitment to a 15–20-year uranium enrichment lockout, and the gradual release of roughly $24B in frozen Iranian assets along with the lifting of oil-export sanctions. CBS reports Vice President JD Vance is in line to sign for the U.S. and Iran's Parliament Speaker Mohammed Baqer Qalibaf for Iran, with the venue shifting from in-person Geneva to a remote/digital signing. The deal would be announced ahead of the June 15–17 G7 summit in Évian, France.",
+        "whyItMatters": "Crude tracked the headlines on Friday June 12, with WTI settling -3.85% at $84.33 and Brent -3.78% at $86.98 as the Hormuz-reopening optimism overrode the earlier war premium. Equity bulls used the same tape to push the S&P 500 +0.5% / Dow +0.7% / Nasdaq +0.31% alongside the SpaceX debut. Risks: Iran's MFA already disputes the timing, and prior 'tentative' frames in May fell apart — a delay or collapse would re-impose the Hormuz-closure premium on Brent and lift defense, energy and tanker names again.",
+        "forWho": "macro / oil / FX desks",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260613-Hormuz-nd-b7c374.jpg",
+        "alt": "Strait of Hormuz shipping lane viewed from above with tanker traffic",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "CNBC: Deal Update",
+          "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html"
+        },
+        {
+          "label": "NBC News: Signed In Days",
+          "url": "https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916"
+        },
+        {
+          "label": "CBS Live Updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
+        },
+        {
+          "label": "Yahoo News: Trump Sunday",
+          "url": "https://www.yahoo.com/news/politics/article/trump-says-us-and-iran-will-sign-a-peace-deal-on-sunday-181055766.html"
+        },
+        {
+          "label": "Outlook: Sharif Text",
+          "url": "https://www.outlookindia.com/national/us-iran-peace-deal-pakistan-pm-shehbaz-sharif-confirms-final-text-reached-after-mediation"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "Trump says U.S.–Iran peace deal signs Sunday and Hormuz reopens; Iran's foreign ministry disputes the timing — WTI -3.85% Friday to $84.33",
+        "body": "Trump posted on Truth Social Saturday that the U.S.–Iran memorandum of understanding \"is scheduled to get signed tomorrow\" and that the Strait of Hormuz will be \"OPEN TO ALL\" immediately after. Pakistan's PM Shehbaz Sharif, the lead mediator, says the final text is agreed and an electronic signing is hours away. Iran's foreign ministry is pushing back on the timeline.\n\n* WTI settled Friday June 12 -3.85% at $84.33; Brent -3.78% to $86.98\n* S&P 500 +0.5% / Dow +0.7% / Nasdaq +0.31% on the same tape as SpaceX (SPCX) debuted +19%\n* Reported MoU: 60-day ceasefire extension, Hormuz fully reopened within 30 days, ~$24B in frozen Iranian assets released, oil-export sanctions lifted, 15–20-year Iranian uranium enrichment lockout\n* Signatories per CBS: VP JD Vance for the U.S., Parliament Speaker Mohammed Baqer Qalibaf for Iran — venue pivoted from Geneva to remote/digital\n\nWhere it could break:\n\n1. **Iran timing dispute** — MFA spokesman Esmaeil Baghaei said a Sunday signing \"will not happen tomorrow\". Prior May 29 \"tentative truce\" framing fell apart.\n2. **Verification gaps** — no public text yet; Iran has not confirmed the asset-release figures or the enrichment-lockout duration.\n3. **G7 backdrop** — Trump and other leaders gather June 15–17 in Évian, France; a collapse before then re-prices the Hormuz-closure premium.\n\nNext catalysts: any Sunday signing announcement, oil opens Sunday night, G7 statement June 15–17, FOMC June 16–17 (Warsh's first as Chair).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-peace-deal-sunday-signing-claim-june-13-2026](https://stock-tldr.xyz/releases/us-iran-peace-deal-sunday-signing-claim-june-13-2026)"
+      },
+      "publishDate": "2026-06-14T00:33:27.832Z"
+    },
     {
       "id": "len-q2-fy26-earnings-june-11-2026",
       "categories": [
