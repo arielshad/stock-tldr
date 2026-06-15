@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-06-15T00:39:50.511Z",
+  "generatedAt": "2026-06-15T14:10:18.006Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nikkei-69k-asia-records-iran-june-15-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Nikkei 225 +4.99% to record 69,317.50 — second-largest daily point gain on record — Kospi +5.20% to 8,545.98 and TOPIX records as Asia rips on U.S.–Iran deal on Monday June 15",
+      "org": "Tokyo Stock Exchange",
+      "date": "2026-06-15",
+      "url": "https://www.nippon.com/en/news/yjj2026061500796/nikkei-marks-record-closing-high-above-69-000.html",
+      "summary": "Japan's Nikkei 225 surges 3,297.46 points (+4.99%) to a record close of 69,317.50 — second-largest daily point gain ever; TOPIX +3.03% to record 3,999.60. South Korea's Kospi jumps 422.36 points (+5.20%) to 8,545.98 after a buy-sidecar triggers on KOSPI 200 futures. CSI 300 +2.39%, ASX 200 +1.25%, Nifty 50 +1.25%.",
+      "tickers": [
+        "^N225",
+        "^KS11"
+      ],
+      "tags": [
+        "nikkei",
+        "topix",
+        "kospi",
+        "asia",
+        "japan",
+        "korea",
+        "iran-deal",
+        "hormuz",
+        "record-high",
+        "semis",
+        "samsung",
+        "sk-hynix",
+        "risk-on",
+        "circuit-breaker"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Nikkei 225 close": "69,317.50 (+4.99% / +3,297.46 pts, record)",
+        "TOPIX close": "3,999.60 (+3.03% / +117.64 pts, record)",
+        "Kospi close": "8,545.98 (+5.20% / +422.36 pts)",
+        "CSI 300": "4,891.71 (+2.39%)",
+        "Hang Seng": "+0.56%",
+        "ASX 200": "8,914 (+1.25%)",
+        "Nifty 50": "+1.25%",
+        "WTI (CL=F)": "$80.96 (-4.62%)",
+        "Brent (BZ=F)": "$83.88 (-3.95%)",
+        "Korea exports (1–10 June)": "+85.9% Y/Y; semis +205.8% Y/Y"
+      },
+      "explainer": {
+        "tagline": "Asia equities rip to fresh records on the U.S.–Iran deal — Nikkei tops 69,000 with its second-largest daily point gain ever and Kospi triggers a buy-sidecar.",
+        "whatIsIt": "On Monday June 15 — the first Asia-Pacific trading session after Trump declared the U.S.–Iran deal 'now complete' on Sunday evening — the region rallied broadly to fresh highs. Japan's Nikkei 225 surged 4.99% to a record 69,317.50, posting the second-largest daily point gain in its history. The broader TOPIX rose 3.03% to a record 3,999.60. South Korea's Kospi jumped 5.20% to 8,545.98 — at one point trading above 8,600 intraday — after KOSPI 200 futures triggered a buy-sidecar circuit breaker. Mainland China's CSI 300 added 2.39% to 4,891.71, Hong Kong's Hang Seng +0.56%, Australia's S&P/ASX 200 +1.25% to 8,914, and India's Nifty 50 +1.25%.",
+        "howItWorks": "The single-day point gain for the Nikkei 225 (+3,297.46) was the largest since the August 2024 'Yen carry unwind' rebound, and the highest absolute close in the index's history. Semiconductor names led the open: Samsung Electronics popped ~6%, SK Hynix ~+8% and Japan's Kioxia +8%, supplemented by South Korean export data showing first-10-days June shipments +85.9% Y/Y and semis +205.8% Y/Y. The KOSPI 200 futures buy-sidecar (a 5% futures move that halts program-trading for 5 minutes) triggered in early trade and pulled foreign and institutional flows back into the cash market after 20 consecutive sessions of foreign selling. Oil extended Sunday's collapse as the Asia session opened: WTI -4.62% to $80.96 and Brent -3.95% to $83.88 — both at the lowest levels since early March — as traders priced in the Strait of Hormuz reopening (~20% of global oil traffic) ahead of the formal June 19 signing in Switzerland.",
+        "whyItMatters": "The move confirms the Iran-deal risk-on bid has legs beyond the Sunday-night U.S. futures pop already absorbed last sweep. With Hormuz reopening removing the war-risk premium and oil rolling, the FX-and-rates picture in Asia eases (USD/JPY -50bp, KRW +1.2% intraday) and the rate-sensitive semis/AI complex catches a fresh bid into Tokyo Electron / Advantest / SK Hynix on the prospect of stronger global capex visibility. Risks: the Kospi's near-100% YTD gain and the Nikkei +30% YTD on narrow leadership leave both indices stretched into the June 16–17 G7 in Évian and the FOMC June 16–17 (Warsh's first meeting as Fed Chair). Implementation slippage in the 60-day Iran negotiating window — or a re-test of the Strait — would unwind a sizeable chunk of today's move.",
+        "forWho": "Asia-Pacific equity desks, global allocators, semis/AI capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5EN225"
+      },
+      "image": {
+        "url": "https://www.nippon.com/en/ncommon/contents/news/3022629/3022629.jpg",
+        "alt": "Nikkei 225 board showing record close above 69,000 on Monday June 15 2026",
+        "fit": "cover",
+        "credit": "Nippon.com / Jiji Press"
+      },
+      "links": [
+        {
+          "label": "Nippon: Nikkei Record 69K",
+          "url": "https://www.nippon.com/en/news/yjj2026061500796/nikkei-marks-record-closing-high-above-69-000.html"
+        },
+        {
+          "label": "CNBC: Global Relief Rally",
+          "url": "https://www.cnbc.com/2026/06/15/iran-deal-fuels-global-relief-stock-rally.html"
+        },
+        {
+          "label": "TradingKey: Asia Semis Lead",
+          "url": "https://www.tradingkey.com/analysis/stocks/more/261966186-nikkei-kospi-semiconductor-iran-deescalation-spacex-ipo-liquidity-boj-expectation-valuation-risk-tradingkey"
+        },
+        {
+          "label": "Japan Times: Nikkei 69K",
+          "url": "https://www.japantimes.co.jp/business/2026/06/15/markets/nikkei-surge-69000-iran-deal/"
+        },
+        {
+          "label": "Nikkei 225 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EN225"
+        },
+        {
+          "label": "Kospi Chart",
+          "url": "https://finance.yahoo.com/quote/%5EKS11"
+        }
+      ],
+      "reddit": {
+        "title": "Nikkei +4.99% to record 69,317.50 — second-largest daily point gain EVER — and Kospi +5.20% to 8,545.98 as Asia rips on the U.S.–Iran deal",
+        "body": "Monday June 15 was the first Asia session after Trump's Sunday-night declaration that the U.S.–Iran deal is 'now complete' and the Strait of Hormuz will reopen toll-free. Asia ripped:\n\n* Nikkei 225 +4.99% to **record 69,317.50** (+3,297.46 pts — second-largest daily point gain on record)\n* TOPIX +3.03% to **record 3,999.60**\n* Kospi +5.20% to 8,545.98 — KOSPI 200 futures triggered a buy-sidecar in early trade\n* CSI 300 +2.39%, ASX 200 +1.25%, Nifty 50 +1.25%, Hang Seng +0.56%\n* WTI -4.62% to $80.96, Brent -3.95% to $83.88 (lowest since early March)\n\nWhat moved underneath:\n\n1. **Semis led the open** — Samsung +~6%, SK Hynix +~8%, Kioxia +8%; Korea's first-10-days June exports +85.9% Y/Y and semis +205.8% Y/Y.\n2. **Foreign flows flipped in Korea** — 20-session foreign-net-selling streak in KOSPI broke as Iran de-escalation removed the EM tail risk.\n3. **FX cushioned the move** — USD/JPY -50bp and KRW +1.2% intraday as oil and the war-risk premium rolled.\n\nNext catalysts: G7 Évian June 15–17, FOMC June 16–17 (Warsh's first meeting as Chair), formal U.S.–Iran signing June 19 in Switzerland.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nikkei-69k-asia-records-iran-june-15-2026](https://stock-tldr.xyz/releases/nikkei-69k-asia-records-iran-june-15-2026)"
+      },
+      "publishDate": "2026-06-15T14:10:18.006Z"
+    },
     {
       "id": "us-iran-deal-confirmed-blockade-end-hormuz-open-june-14-2026",
       "categories": [

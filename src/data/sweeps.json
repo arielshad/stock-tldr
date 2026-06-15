@@ -5039,6 +5039,37 @@
         "commodity",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20260615t141018z",
+      "timestamp": "2026-06-15T14:10:18.006Z",
+      "source": "github-actions-sweep",
+      "summary": "One major add: Monday June 15 — Asia rips on the U.S.–Iran deal. Nikkei 225 +4.99% to record 69,317.50 (second-largest daily point gain on record), TOPIX +3.03% to a fresh record 3,999.60, Kospi +5.20% to 8,545.98 with a buy-sidecar trigger on KOSPI 200 futures. Oil extends Sunday's collapse (WTI -4.62% to $80.96, Brent -3.95% to $83.88). The Sunday-night U.S. futures pop was already in the prior sweep's Iran-deal seismic — Monday's Asia close is fresh, with new closing levels, foreign-flow flip in Korea, and semis leadership (Samsung +6%, SK Hynix +8%). Searched: U.S. premarket movers (mostly Iran-deal sympathy plays), SPCX day-2 (+5.6% on Musk's Sunday $1T-by-2030 tweet — borderline, not adding as the existing IPO debut + Iran rally already cover the narrative), Empire State Manufacturing June read (conflicting reads in tier-1 sources, not a tier-1 mover), weekend M&A wire (nothing), G7 Évian start (no market-moving statement yet), crypto (BTC/ETH ~+2% follow-through, no fresh trigger), Israel/Lebanon (ceasefire status unchanged from prior items).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nikkei-69k-asia-records-iran-june-15-2026",
+          "title": "Nikkei 225 +4.99% to record 69,317.50 — second-largest daily point gain on record — Kospi +5.20% to 8,545.98 and TOPIX records as Asia rips on U.S.–Iran deal on Monday June 15",
+          "category": "sector",
+          "note": "Distinct Asia-session move with record closes and the second-largest Nikkei daily point gain on record — separate event from the Sunday Iran-deal seismic (which captured only U.S. futures action)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna",
+        "ipo",
+        "earnings"
+      ]
     }
   ]
 }
