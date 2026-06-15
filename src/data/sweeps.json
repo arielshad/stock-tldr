@@ -5013,6 +5013,32 @@
         "mna",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260615t003950z",
+      "timestamp": "2026-06-15T00:39:50.511Z",
+      "source": "github-actions-sweep",
+      "summary": "Single seismic add: Sunday June 14 — Trump confirms the U.S.–Iran deal is 'now complete,' orders end to the U.S. naval blockade and toll-free Strait of Hormuz reopening; Iran's deputy FM confirms; signing set for June 19 in Switzerland. Oil tumbles (WTI -4.8% to $80.80, Brent -3.9% to $83.89) and equity-index futures pop on the Sunday open (S&P +1%, Nasdaq +1.67%, RTY hits record high). All other June 13–14 narratives were already covered in prior sweeps (rumor item us-iran-peace-deal-sunday-signing-claim-june-13-2026 documented the pre-confirmation rumor).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-deal-confirmed-blockade-end-hormuz-open-june-14-2026",
+          "title": "Trump confirms U.S.–Iran deal 'now complete' on Sunday June 14 — authorizes immediate end to U.S. naval blockade and 'toll-free' Strait of Hormuz reopening; Iran's deputy FM Gharibabadi confirms 'permanent' end to operations beginning Sunday night; June 19 signing in Switzerland; WTI -4.8% to $80.80, Brent -3.9% to $83.89 by 6:01 p.m. ET",
+          "category": "macro",
+          "note": "Confirmed completion of the rumor previously captured as us-iran-peace-deal-sunday-signing-claim-june-13-2026. Treated as distinct news event: Sunday Trump Truth Social confirmation, immediate authorization of blockade end + Hormuz reopening, Iran MoU confirmation by deputy FM Gharibabadi, signing rescheduled from rumored Sunday Geneva to Friday June 19 Switzerland — and the actual Sunday-evening market reaction (oil down another 4–5%, S&P futures +1%, RTY at record high)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "geopolitics"
+      ]
     }
   ]
 }

@@ -1,8 +1,97 @@
 {
-  "generatedAt": "2026-06-14T12:37:17.148Z",
+  "generatedAt": "2026-06-15T00:39:50.511Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-deal-confirmed-blockade-end-hormuz-open-june-14-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump confirms U.S.–Iran deal 'now complete' on Sunday June 14 — authorizes immediate end to U.S. naval blockade and 'toll-free' Strait of Hormuz reopening; Iran's deputy FM Gharibabadi confirms 'permanent' end to operations beginning Sunday night; June 19 signing in Switzerland; WTI -4.8% to $80.80, Brent -3.9% to $83.89 by 6:01 p.m. ET",
+      "org": "U.S. White House",
+      "date": "2026-06-14",
+      "url": "https://ca.finance.yahoo.com/news/us-iran-agree-to-ceasefire-sending-stock-futures-higher-oil-lower-225858194.html",
+      "summary": "Trump posts on Truth Social late Sunday that 'The Deal with the Islamic Republic of Iran is now complete' and authorizes the toll-free reopening of the Strait of Hormuz and immediate removal of the U.S. naval blockade. Iran confirms. Signing set for June 19 in Switzerland.",
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "^GSPC"
+      ],
+      "tags": [
+        "iran",
+        "hormuz",
+        "oil",
+        "wti",
+        "brent",
+        "ceasefire",
+        "geopolitics",
+        "trump",
+        "pakistan",
+        "g7",
+        "naval-blockade",
+        "macro",
+        "vix"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "WTI (CL=F, 6:01pm ET)": "$80.80 (-4.8%)",
+        "Brent (BZ=F, 6:01pm ET)": "$83.89 (-3.9%)",
+        "S&P 500 futures (ES=F)": "+0.97% (~+72)",
+        "Nasdaq futures (NQ=F)": "+1.67% (~+495)",
+        "Dow futures (YM=F)": "+0.73% (~+379)",
+        "Russell 2000 futures (RTY=F)": "+1.83% (record high)",
+        "VIX": "17.68 (-9.05%)",
+        "Final negotiations window": "60 days",
+        "Frozen Iranian assets to be released": "~$25B (per Reuters MoU leak)"
+      },
+      "explainer": {
+        "tagline": "Trump declares the U.S.–Iran deal complete, orders the naval blockade lifted immediately and the Strait of Hormuz reopened; Iran confirms.",
+        "whatIsIt": "Late Sunday June 14, President Trump posted on Truth Social that 'The Deal with the Islamic Republic of Iran is now complete,' adding: 'I hereby fully authorize the toll free opening of the Strait of Hormuz, and, simultaneously herewith, authorize the immediate removal of the United States Naval blockade.' He capped it with 'Ships of the World, start your engines. Let the oil flow!' Pakistan PM Shehbaz Sharif, the lead mediator, said an agreement was reached and the official signing ceremony will take place on Friday June 19 in Switzerland; Qatar, Saudi Arabia and Turkey are credited as co-mediators. Iran's deputy foreign minister Kazem Gharibabadi confirmed the memorandum of understanding, saying military operations end 'immediately and permanently' beginning Sunday night.",
+        "howItWorks": "Per Pakistan's statement and Reuters reporting on the MoU: both sides declare the 'immediate and permanent termination of military operations on all fronts, including in Lebanon'; the U.S. naval blockade is lifted in parallel with the toll-free reopening of the Strait of Hormuz to all traffic; Washington releases roughly $25B of frozen Iranian assets, freezes new sanctions, and waives existing oil-export sanctions; Tehran commits to neither producing nor purchasing nuclear weapons, halts new uranium enrichment, and dilutes its 60%-enriched stockpile (440.9 kg) in-country pending a 60-day window to negotiate a final comprehensive deal. The Strait reopening is described as gradual — demining first — with Trump separately telling reporters traffic could flow 'as soon as Friday.' Gharibabadi added that Iran will only enter final talks after frozen assets are unfrozen and warned of countermeasures on any violation.",
+        "whyItMatters": "Sunday evening U.S. crude (CL=F) fell 4.8% to $80.80/bbl by 6:01 p.m. ET — its lowest since early March — and Brent (BZ=F) dropped 3.9% to $83.89, capping a Friday-into-Sunday round-trip on the war-risk premium. S&P 500 futures (ES=F) opened +0.97%, Nasdaq (NQ=F) +1.67%, Dow (YM=F) +0.73%, Russell 2000 (RTY=F) +1.83% to a record high; VIX -9.05% to 17.68. The reopening of Hormuz — which has been closed since the Feb 28 strikes — removes the structural bid under oil and the haven bid under the dollar and gold; it also de-risks energy-importer EM and Asia-Pacific equities heading into the June 15–17 G7 in Évian, France, and the FOMC June 16–17 (Warsh's first meeting as Chair). The deal leaves Iran's missile program, proxy support and 60%-enriched uranium stockpile unresolved — implementation slippage in the 60-day window would re-impose the war premium.",
+        "forWho": "macro / oil / FX / equity-index desks",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/oJUoyu.AzZFqhvTLqxJOcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0c5703d3-c443-4a79-b96e-54454ed771cb_c38db4db074d1a35fefada0a94180ca953e18e83cad5d3fd3dc63527b47856a9.jpg",
+        "alt": "U.S.-Iran ceasefire announcement banner — stock futures higher, oil lower",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo: Ceasefire Reached",
+          "url": "https://ca.finance.yahoo.com/news/us-iran-agree-to-ceasefire-sending-stock-futures-higher-oil-lower-225858194.html"
+        },
+        {
+          "label": "CNBC: Oil -4.8% on Deal",
+          "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html"
+        },
+        {
+          "label": "CNBC: Futures Jump",
+          "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "Fox: Trump Confirms",
+          "url": "https://www.foxnews.com/live-news/trump-iran-war-peace-talks-pakistan-june-14"
+        },
+        {
+          "label": "PBS: Blockade Ends",
+          "url": "https://www.pbs.org/newshour/world/trump-says-deal-reached-with-iran-and-he-has-authorized-that-naval-blockade-leave-strait-of-hormuz"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "Trump declares U.S.–Iran deal 'now complete', orders end to naval blockade and toll-free Hormuz reopening — WTI -4.8% to $80.80, S&P futures +1%, Russell 2000 futures hit record high",
+        "body": "Sunday evening June 14: Trump posted on Truth Social that \"The Deal with the Islamic Republic of Iran is now complete\" and authorized the immediate removal of the U.S. naval blockade plus the toll-free reopening of the Strait of Hormuz — ending the four-month war. Iran's deputy FM Kazem Gharibabadi confirmed the MoU; Pakistan PM Sharif (lead mediator with Qatar, Saudi Arabia and Turkey) says the formal signing is June 19 in Switzerland.\n\n* WTI (CL=F) -4.8% to $80.80 by 6:01 p.m. ET — lowest since early March\n* Brent (BZ=F) -3.9% to $83.89\n* S&P 500 futures +0.97%, Nasdaq +1.67%, Dow +0.73%\n* Russell 2000 futures +1.83% to a record high\n* VIX -9.05% to 17.68\n\nWhat the MoU reportedly does:\n\n1. **Hormuz reopens, blockade lifts in parallel** — both 'immediately' per Trump; demining first, gradual to full traffic.\n2. **Iran's frozen assets unfreeze** — roughly $25B per Reuters' read of the text, oil-export sanctions waived, no new U.S. sanctions during talks.\n3. **Iran's nuclear program partially constrained** — no new uranium enrichment, in-country dilution of the 60% stockpile (440.9 kg), no nuclear weapons; 60-day window to negotiate a comprehensive final deal. Missile program and proxies are NOT addressed.\n4. **Ceasefire is 'immediate and permanent' on all fronts including Lebanon** — Iran says it will only enter final talks once assets are unfrozen.\n\nNext catalysts: Sunday-night Asia open, G7 summit June 15–17 in Évian, FOMC June 16–17 (Warsh's first as Chair), formal signing June 19 in Switzerland.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-deal-confirmed-blockade-end-hormuz-open-june-14-2026](https://stock-tldr.xyz/releases/us-iran-deal-confirmed-blockade-end-hormuz-open-june-14-2026)"
+      },
+      "publishDate": "2026-06-15T00:39:50.511Z"
+    },
     {
       "id": "us-iran-peace-deal-sunday-signing-claim-june-13-2026",
       "categories": [
