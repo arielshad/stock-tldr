@@ -145,7 +145,12 @@ jobs:
       # Creates and IMMEDIATELY SENDS today's digest as a Resend Broadcast
       # to the configured segment (send: true). To pause auto-send and
       # review drafts manually instead, remove the `send: true` field.
+      #
+      # TEMP: email sending is disabled. The digest is still generated and
+      # committed above; only the Resend broadcast is paused. Remove the
+      # `if: false` below to re-enable sending.
       - name: Create and send Resend broadcast
+        if: false
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
