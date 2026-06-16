@@ -5070,6 +5070,49 @@
         "ipo",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260616t004333z",
+      "timestamp": "2026-06-16T00:43:33.290Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Monday June 15 items: (1) U.S. equities rip on the Iran-deal close — Dow record 51,671 / Nasdaq +3.07% best since March 31; (2) Fox-Roku $22B EV cash-and-stock deal at $160 (FOXA -18.4%, ROKU -1.92%); (3) SpaceX day 2 +19.6% to $192.50, market cap clears $2T.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-dow-record-iran-deal-monday-june-15-2026",
+          "title": "Dow +468.77 (+0.92%) to record 51,671.03, S&P 500 +1.65% to 7,554.29, Nasdaq +3.07% to 26,683.94 — best day since March 31 — as Wall Street prices in U.S.–Iran deal on Monday June 15",
+          "category": "macro",
+          "note": "Distinct from the Sunday Iran-deal item and the Nikkei/Asia item — the U.S. cash session reaction on Monday is its own event with Dow record close + Nasdaq best day since March 31."
+        },
+        {
+          "id": "foxa-roku-22b-acquisition-june-15-2026",
+          "title": "Fox to acquire Roku for $22B EV at $160/share ($96 cash + 0.9693 FOXA) — 28% premium to June 10 / ~$400M run-rate synergies — board-unanimous, expected close H1 2027; FOXA -18.4% to $53.74 and ROKU -1.92% to $140.90 on Monday June 15",
+          "category": "mna",
+          "note": "Cleanest mega-deal of the sweep — board-unanimous $22B EV cash-and-stock, primary source on Fox IR and PR Newswire, with measurable spreads on ROKU and a 18.4% dump on FOXA."
+        },
+        {
+          "id": "spcx-day2-rally-2t-market-cap-june-15-2026",
+          "title": "SpaceX (SPCX) +19.6% to $192.50 on first full trading day Monday June 15 — adds ~$31 on 244M shares (~half of debut volume) and clears $2T market cap two sessions after the largest IPO in history",
+          "category": "mover",
+          "note": "Distinct event from the June 12 IPO debut item — first full trading day +19.6% with 244M shares, market cap clears $2T."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "mna",
+        "ipo",
+        "earnings",
+        "crypto",
+        "commodity",
+        "regulatory"
+      ]
     }
   ]
 }

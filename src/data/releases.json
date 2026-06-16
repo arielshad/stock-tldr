@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-06-15T14:10:18.006Z",
+  "generatedAt": "2026-06-16T00:43:33.290Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-dow-record-iran-deal-monday-june-15-2026",
+      "categories": [
+        "macro",
+        "mover"
+      ],
+      "title": "Dow +468.77 (+0.92%) to record 51,671.03, S&P 500 +1.65% to 7,554.29, Nasdaq +3.07% to 26,683.94 — best day since March 31 — as Wall Street prices in U.S.–Iran deal on Monday June 15",
+      "org": "U.S. Equities",
+      "date": "2026-06-15",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
+      "summary": "U.S. stocks rally as Iran deal trades through. Dow notches record close, Nasdaq tags best session since March, WTI -5%+ to ~$80, Brent -4.7% to ~$83.",
+      "tags": [
+        "us-equities",
+        "dow-record",
+        "nasdaq-rally",
+        "iran-deal",
+        "hormuz",
+        "oil-down",
+        "risk-on",
+        "monday-rally"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^DJI",
+        "^GSPC",
+        "^IXIC"
+      ],
+      "metrics": {
+        "Dow": "51,671.03 (+468.77 / +0.92%) — record close",
+        "S&P 500": "7,554.29 (+1.65%)",
+        "Nasdaq": "26,683.94 (+3.07%) — best day since March 31",
+        "WTI": "~$80 (-5%+)",
+        "Brent": "~$83 (-4.7%)"
+      },
+      "explainer": {
+        "tagline": "Dow notches a record close as Wall Street trades through the U.S.–Iran deal — Nasdaq logs best session since March 31.",
+        "whatIsIt": "U.S. stocks rallied on Monday June 15 after President Trump's Sunday-night confirmation that a U.S.–Iran deal was 'now complete', clearing a path for the Strait of Hormuz to reopen and a formal signing on June 19 in Switzerland. Equities ran, oil tumbled, and the tape priced out the geopolitical risk premium that had hung over names through May and early June.",
+        "howItWorks": "The Dow Jones Industrial Average rose 468.77 points (+0.92%) to a record 51,671.03 and printed a fresh intraday high during the session. The S&P 500 added 1.65% to 7,554.29 and the Nasdaq Composite jumped 3.07% to 26,683.94 — its best day since March 31. Brent crude fell 4.7% to roughly $83/bbl and WTI dropped over 5% to ~$80/bbl as traders unwound Hormuz-closure premiums ahead of the Wednesday Fed decision.",
+        "whyItMatters": "Risk-on rotation: tech and semis led on the lower-oil/lower-inflation read, while energy lagged. The cross-asset move (stocks up, oil down, yields contained) is the cleanest 'geopolitical relief' tape of the year — it pulls forward consumption of risk premium ahead of Warsh's first FOMC on June 16–17.",
+        "forWho": "U.S. equity desks, macro traders, energy desks rotating out of the war trade.",
+        "tryIt": "https://finance.yahoo.com/quote/%5EDJI"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/IEZQM.StLiHiXcs3r_BYeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MzU-/https://d29szjachogqwa.cloudfront.net/images/2026-06/e53422c1-7642-40c9-bb8f-f97d06e1db7c",
+        "alt": "Wall Street trading floor as U.S. stocks rally to record close on Iran deal",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Live",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html"
+        },
+        {
+          "label": "Markets Rally Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-rally-u-iran-peace-095021795.html"
+        },
+        {
+          "label": "Dow Index Quote",
+          "url": "https://finance.yahoo.com/quote/%5EDJI/"
+        },
+        {
+          "label": "S&P 500 Quote",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+        }
+      ],
+      "reddit": {
+        "title": "Dow notches record close 51,671 (+469 / +0.92%), Nasdaq +3.07% — best day since March 31 — as Wall Street trades through the U.S.–Iran deal",
+        "body": "Monday June 15 was the cleanest risk-on session of the year. Wall Street finally priced in Trump's Sunday-night confirmation that the U.S.–Iran deal is 'now complete', with Friday's signing teed up in Switzerland.\n\n* Dow Jones +468.77 to **51,671.03** — record close, fresh intraday high\n* S&P 500 +1.65% to **7,554.29**\n* Nasdaq Composite +3.07% to **26,683.94** — best day since March 31\n* WTI -5%+ to **~$80** / Brent -4.7% to **~$83**\n* SpaceX (SPCX) +~20% day 2, Fox (FOXA) -~18% on the Roku deal\n\nWhat actually drove it:\n\n1. **Iran deal removes the Hormuz risk premium** — oil cratered into the open and energy underperformed for the first day in two weeks.\n2. **Tech led on lower inflation read** — semis ripped as 10-year yields settled and gasoline futures collapsed.\n3. **Cross-asset coordination** — stocks up, oil down, yields contained. Textbook geopolitical-relief tape.\n\nNext catalysts: Warsh's first FOMC June 16–17, May retail sales Tuesday, June 19 deal signing in Switzerland.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-dow-record-iran-deal-monday-june-15-2026](https://stock-tldr.xyz/releases/us-stocks-dow-record-iran-deal-monday-june-15-2026)"
+      },
+      "publishDate": "2026-06-16T00:43:33.290Z"
+    },
+    {
+      "id": "foxa-roku-22b-acquisition-june-15-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Fox to acquire Roku for $22B EV at $160/share ($96 cash + 0.9693 FOXA) — 28% premium to June 10 / ~$400M run-rate synergies — board-unanimous, expected close H1 2027; FOXA -18.4% to $53.74 and ROKU -1.92% to $140.90 on Monday June 15",
+      "org": "Fox Corporation",
+      "date": "2026-06-15",
+      "url": "https://www.prnewswire.com/news-releases/fox-corporation-to-acquire-roku-inc-302800220.html",
+      "summary": "Fox to buy Roku at $160/share — $96 cash + 0.9693 FOXA — for $22B EV. 73/27 FOX/ROKU post-close, ~$400M synergies, H1 2027 close target. FOXA -18.4%, ROKU -1.92%.",
+      "tags": [
+        "mna",
+        "media-deal",
+        "streaming",
+        "connected-tv",
+        "tubi",
+        "cash-and-stock",
+        "fox",
+        "roku"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FOXA",
+        "ROKU"
+      ],
+      "metrics": {
+        "Deal": "$22B EV / $160 per ROKU share",
+        "Cash/Stock": "$96.00 cash + 0.9693 FOXA shares (=$64 at $66.03 ref)",
+        "Premium": "28% over ROKU's June 10 unaffected close",
+        "Synergies": "~$400M run-rate cost",
+        "Post-Close Ownership": "FOXA 73% / ROKU 27%",
+        "FOXA Move": "-18.4% to $53.74 (-$12.11)",
+        "ROKU Move": "-1.92% to $140.90 (88% deal completion implied)",
+        "Close Target": "H1 2027"
+      },
+      "explainer": {
+        "tagline": "Fox bids $22B EV for Roku at $160/share to staple Tubi onto the largest U.S. streaming OS — FOXA dumps 18% on dilution and balance-sheet stretch.",
+        "whatIsIt": "Fox Corporation announced on June 15 a definitive agreement to acquire Roku for $22B in enterprise value, paying $160 per ROKU share — $96 in cash and 0.9693 FOXA Class A shares (valued at $64 at a $66.03 reference). Both boards unanimously approved and the companies held a joint investor call at 8:00am ET. The deal targets a first-half 2027 close pending shareholder and regulatory approvals.",
+        "howItWorks": "Roku stockholders get $160 — a 28% premium to ROKU's June 10 close, the unaffected mark. Existing FOXA holders own 73% of the combined company; ROKU holders 27%. Fox expects ~$400M in run-rate cost synergies plus revenue upside from stapling Tubi, FOX News and live sports (NFL/MLB/FIFA) onto Roku's 100M+ household CTV OS. Pro-forma net leverage 2.8× at close (with 50% synergies credit) — Fox flags it will maintain investment-grade rating and continue buybacks/dividends. Anthony Wood (Roku founder/CEO) keeps an operating role and joins FOX's board.",
+        "whyItMatters": "The deal makes the combined entity the #3 U.S. TV company by viewing share and is the most consequential CTV consolidation since Disney bought Hulu out. FOXA's 18.4% dump reflects equity dilution + cash outlay + integration risk. ROKU traded ~12% below the $160 offer ($140.90 close), pricing ~88% deal completion. M&A runway with antitrust: arrives weeks after DOJ greenlit Paramount Skydance–WBD without conditions on June 12.",
+        "forWho": "Media/CTV desks, M&A arbs (ROKU spread), FOXA shareholders.",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754301&type=8-K&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260615-roku-headquarters-mn-0810-b112df.jpg",
+        "alt": "Roku headquarters as Fox Corporation announces a $22 billion acquisition",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/fox-corporation-to-acquire-roku-inc-302800220.html"
+        },
+        {
+          "label": "Fox Corp IR",
+          "url": "https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-to-acquire-roku-inc/"
+        },
+        {
+          "label": "CBS News Coverage",
+          "url": "https://www.cbsnews.com/news/fox-roku-22-billion-acquisition/"
+        },
+        {
+          "label": "NBC News Coverage",
+          "url": "https://www.nbcnews.com/business/media/fox-buys-roku-22-billion-rcna350097"
+        },
+        {
+          "label": "ROKU Quote",
+          "url": "https://finance.yahoo.com/quote/ROKU/"
+        }
+      ],
+      "reddit": {
+        "title": "Fox buys Roku for $22B at $160/share — 28% premium — FOXA -18.4% to $53.74, ROKU -1.92% to $140.90 as the market prices in deal risk",
+        "body": "Fox Corporation just announced its biggest deal since the Disney sale — buying Roku for $22B in enterprise value. Boards approved unanimously, joint call at 8am ET, target close H1 2027.\n\n* Offer: **$160/share** = $96 cash + 0.9693 FOXA shares\n* Premium: **+28%** over ROKU's June 10 unaffected close\n* Cost synergies: **~$400M run-rate**\n* Ownership split: **FOXA 73% / ROKU 27%** post-close\n* FOXA closed -$12.11 to **$53.74** (-18.4%), ROKU -1.92% to **$140.90** (~88% deal-completion implied)\n\nWhy the asymmetric reaction:\n\n1. **FOXA dumps on dilution + leverage** — pro-forma 2.8× net leverage at close, ~27% of the combined cap going to ROKU holders, integration risk on top.\n2. **ROKU sits ~12% below the offer** — arbs pricing meaningful regulatory/shareholder-vote risk despite no overlap on linear TV.\n3. **Strategic logic** — Tubi + FOX News + NFL/MLB/FIFA stapled onto Roku's 100M+ household OS makes the combined company the **#3 U.S. TV player** by viewing share.\n\nDOJ just cleared Paramount Skydance–WBD without conditions on June 12, so the antitrust runway looks open for streaming consolidation.\n\nNext catalysts: FTC second request, ROKU shareholder vote, FOXA shareholder vote.\n\nFull breakdown: [https://stock-tldr.xyz/releases/foxa-roku-22b-acquisition-june-15-2026](https://stock-tldr.xyz/releases/foxa-roku-22b-acquisition-june-15-2026)"
+      },
+      "publishDate": "2026-06-16T00:43:33.290Z"
+    },
+    {
+      "id": "spcx-day2-rally-2t-market-cap-june-15-2026",
+      "categories": [
+        "mover",
+        "ipo"
+      ],
+      "title": "SpaceX (SPCX) +19.6% to $192.50 on first full trading day Monday June 15 — adds ~$31 on 244M shares (~half of debut volume) and clears $2T market cap two sessions after the largest IPO in history",
+      "org": "SpaceX",
+      "date": "2026-06-15",
+      "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
+      "summary": "SPCX +19.6% to $192.50 on day 2 — 244M shares trade, market cap clears $2T. Builds on Friday's $135 IPO that opened at $150 and closed $160.95 (+19.2%).",
+      "tags": [
+        "spcx",
+        "spacex",
+        "ipo",
+        "day-2-rally",
+        "nasdaq",
+        "post-ipo",
+        "mega-cap",
+        "two-trillion"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SPCX"
+      ],
+      "metrics": {
+        "Close": "$192.50 (+$31.55 / +19.6%)",
+        "Volume": "~244M shares (vs ~500M+ on Friday's debut)",
+        "Market Cap": ">$2.0T",
+        "Above IPO": "+$57.50 vs $135 IPO price (+42.6%)",
+        "Risk-On Tape": "Nasdaq +3.07% best day since March 31"
+      },
+      "explainer": {
+        "tagline": "SpaceX rips 19.6% to $192.50 on day 2 — market cap clears $2T two sessions after the largest IPO in history.",
+        "whatIsIt": "SpaceX (NASDAQ: SPCX) ran 19.6% on Monday June 15 in its first full trading day to close at $192.50, building on Friday's IPO debut where 555,555,555 shares priced at $135 raised $75B. Roughly 244M shares changed hands — about half of Friday's frenzied 500M+ — as broader risk-on flow on the U.S.–Iran deal pulled growth/space-tech bid.",
+        "howItWorks": "Shares opened the session above $161.11 (Friday's close), ran throughout the day, and closed +$31.55 at $192.50, putting market cap above $2.0T. The stock now trades 42.6% above the $135 IPO price set just two sessions ago. Friday's debut had opened at $150, hit $176.52 intraday, and closed +19.2% at $160.95 on volume that rivaled Facebook's 2012 debut.",
+        "whyItMatters": "Second-day continuation at +19.6% on still-elevated volume signals real institutional demand — not just retail FOMO on debut day. At >$2T cap, SPCX joins the AAPL/MSFT/NVDA tier within a week of listing. The tape was helped by the Iran-deal risk-on rotation (Nasdaq best day since March 31) but the relative outperformance is name-specific.",
+        "forWho": "Growth/space-tech desks, post-IPO momentum desks, indexers watching for inclusion mechanics.",
+        "tryIt": "https://finance.yahoo.com/quote/SPCX/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108321514-1781302718607-108321514-1781302640004-gettyimages-2280590160-SPACEX_IPO.jpg?v=1781302745&w=1920&h=1080",
+        "alt": "SpaceX (SPCX) Nasdaq trading floor as stock rallies 20% on first full trading day",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC SPCX Day 2",
+          "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html"
+        },
+        {
+          "label": "Yahoo Finance Quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "label": "Robinhood SPCX",
+          "url": "https://robinhood.com/us/en/stocks/SPCX/"
+        },
+        {
+          "label": "TradingView Chart",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/"
+        }
+      ],
+      "reddit": {
+        "title": "SpaceX (SPCX) +19.6% to $192.50 on day 2 — clears $2T market cap two sessions after the largest IPO in history",
+        "body": "Friday it was the biggest IPO ever. Monday it ripped another ~20%.\n\n* SPCX closed **$192.50** (+$31.55 / **+19.6%**) on day 2\n* Volume **~244M shares** — about half of Friday's 500M+ frenzy\n* Market cap clears **$2 trillion**\n* Stock now trades **+42.6%** above the **$135** IPO price\n* Broader Nasdaq +3.07% (best day since March 31) helped\n\nWhy day 2 matters more than day 1:\n\n1. **Continuation is institutional, not retail FOMO** — 244M shares with the stock up 20% means real allocators stepping in.\n2. **$2T cap in two sessions** puts SPCX in the AAPL/MSFT/NVDA tier basically out of the gate.\n3. **Index mechanics ahead** — Nasdaq 100 inclusion typically lands 5 days after listing once volume thresholds clear; S&P 500 takes longer but is now a clean candidate.\n\nNext catalysts: option-chain listing, first lockup expiry, IBD inclusion, first earnings as a public co.\n\nFull breakdown: [https://stock-tldr.xyz/releases/spcx-day2-rally-2t-market-cap-june-15-2026](https://stock-tldr.xyz/releases/spcx-day2-rally-2t-market-cap-june-15-2026)"
+      },
+      "publishDate": "2026-06-16T00:43:33.290Z"
+    },
     {
       "id": "nikkei-69k-asia-records-iran-june-15-2026",
       "categories": [
