@@ -5113,6 +5113,43 @@
         "commodity",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260616t134812z",
+      "timestamp": "2026-06-16T13:48:12.407Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds on June 16 sweep: BOJ delivers landmark +25bp hike to 1.00% (31-year high) on June 16 with hospitalized Gov Ueda absent; AMD scoops up Israeli memory-tiering startup MEXT on June 15 to bolt 'flash-as-DRAM' tech onto its data-center stack, sending the stock +6.98% to a record $547.26.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "boj-june-2026-rate-hike-1pct",
+          "title": "Bank of Japan hikes policy rate +25bp to 1.00% on June 16 — first move since December and highest level since September 1995 — as Iran-war energy shock drives wholesale inflation to a 3-year high",
+          "category": "macro",
+          "note": "Released today June 16 — BOJ's first hike since December and highest rate since 1995. Market-moving central-bank decision; primary source confirmed."
+        },
+        {
+          "id": "amd-mext-acquisition-june-15-2026",
+          "title": "AMD acquires Israeli memory-tiering startup MEXT to make flash 'act like DRAM' for AI data centers on June 15 — terms undisclosed — AMD +6.98% to record $547.26 (+$35.69) on the day",
+          "category": "mna",
+          "note": "Mega-cap +6.98% to all-time high on Monday June 15 announcement; named catalyst (MEXT acquisition + prior Citi double-upgrade); not previously in feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "mna",
+        "mover",
+        "earnings",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }

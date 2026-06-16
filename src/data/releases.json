@@ -1,8 +1,148 @@
 {
-  "generatedAt": "2026-06-16T00:43:33.290Z",
+  "generatedAt": "2026-06-16T13:48:12.407Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "boj-june-2026-rate-hike-1pct",
+      "categories": [
+        "macro",
+        "rates",
+        "fx"
+      ],
+      "title": "Bank of Japan hikes policy rate +25bp to 1.00% on June 16 — first move since December and highest level since September 1995 — as Iran-war energy shock drives wholesale inflation to a 3-year high",
+      "org": "Bank of Japan",
+      "date": "2026-06-16",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm",
+      "summary": "BOJ raises rate to 1.00% from 0.75% in a 7-1 vote (Asada dissents). Deputy Gov Uchida fronts the press conference for hospitalized Gov Ueda; statement flags upside inflation risk.",
+      "tags": [
+        "boj",
+        "japan",
+        "rate-hike",
+        "monetary-policy",
+        "yen",
+        "usdjpy",
+        "inflation",
+        "iran-war"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Policy rate": "1.00% (+25bp from 0.75%)",
+        "Vote": "7-1 (Asada dissents)",
+        "Highest since": "September 1995",
+        "May Japan wholesale CPI": "+6.3% Y/Y (3-year high)",
+        "USD/JPY pre-decision": "~160"
+      },
+      "explainer": {
+        "tagline": "BOJ lifts policy rate +25bp to 1.00% — 31-year high — first hike since December as Iran-war energy shock fuels Japanese inflation.",
+        "whatIsIt": "The Bank of Japan raised its key short-term policy rate by 25 basis points to 1.00% from 0.75% at the conclusion of the two-day June meeting on Tuesday June 16, 2026. It is the first rate hike since December and lifts the benchmark to its highest level since September 1995.",
+        "howItWorks": "The Policy Board approved the hike 7-1, with Asada Toichiro dissenting on downside risks to production and employment. Deputy Governor Shinichi Uchida fronted the post-meeting press conference for Governor Kazuo Ueda, who is hospitalized for two weeks of treatment for an infected liver cyst — the first regular meeting on his watch without the Governor present. The statement said underlying inflation could accelerate above the 2% target as rising energy costs from the Iran war filter through, with May wholesale CPI already at a three-year high of 6.3% Y/Y.",
+        "whyItMatters": "Confirms Japan exits the era of near-zero rates while the Fed sits at 4.25–4.50% and Warsh kicks off his first FOMC across town tonight. The hike compresses the U.S.-Japan rate gap that has anchored carry trades and crushed the yen — USD/JPY was hovering near 160 into the decision. Uchida's hawkish guidance keeps a fourth-quarter follow-up hike to 1.25% on the table.",
+        "forWho": "macro traders, FX desks, JGB watchers",
+        "tryIt": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bank_of_Japan_headquarters_in_Tokyo%2C_Japan.jpg",
+        "alt": "Bank of Japan headquarters, Nihonbashi, Tokyo",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BOJ Statements 2026",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm"
+        },
+        {
+          "label": "Uchida Press Conf",
+          "url": "https://finance.yahoo.com/economy/policy/articles/boj-deputy-governor-uchidas-comments-064450805.html"
+        },
+        {
+          "label": "Reuters Coverage",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-japan-set-hike-rates-000940848.html"
+        },
+        {
+          "label": "Japan Rate History",
+          "url": "https://tradingeconomics.com/japan/interest-rate"
+        }
+      ],
+      "reddit": {
+        "title": "Bank of Japan hikes to 1% — first move since December and highest rate since 1995 — as Iran-war energy shock drives wholesale CPI to 6.3%",
+        "body": "The BOJ delivered a 25bp hike at its June 15–16 meeting to take the policy rate to **1.00% from 0.75%**, its highest level since September 1995 (31 years ago).\n\n* Vote 7-1 — board member Asada Toichiro dissented citing downside risks to production and employment\n* Governor Ueda was hospitalized — Deputy Gov Uchida fronted the press conference (first regular meeting without Ueda)\n* Japan's wholesale CPI hit +6.3% Y/Y in May — a 3-year high — as the Iran war energy shock filters through\n* Statement said underlying inflation could accelerate above the 2% target\n\nWhy it matters:\n\n1. **First hike since December** — confirms BOJ is willing to keep tightening through political noise, even with the governor in hospital and Trump pushing back globally on hawkish central banks.\n2. **The yen carry trade is the real story** — USD/JPY was hovering near 160 into the decision. The U.S.-Japan rate gap (Fed 4.25–4.50% vs BOJ 1.00%) is still wide enough to keep the trade alive, but the compression matters.\n3. **Hawkish guidance** — Uchida signaled further hikes are on the table; Reuters polls already point to 1.25% by Q4.\n\nNext catalysts: Warsh's first FOMC decision Wednesday June 17, U.S. May retail sales same day, BOJ Summary of Opinions later in June.\n\nFull breakdown: [https://stock-tldr.xyz/releases/boj-june-2026-rate-hike-1pct](https://stock-tldr.xyz/releases/boj-june-2026-rate-hike-1pct)"
+      },
+      "publishDate": "2026-06-16T13:48:12.407Z"
+    },
+    {
+      "id": "amd-mext-acquisition-june-15-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "AMD acquires Israeli memory-tiering startup MEXT to make flash 'act like DRAM' for AI data centers on June 15 — terms undisclosed — AMD +6.98% to record $547.26 (+$35.69) on the day",
+      "org": "Advanced Micro Devices",
+      "date": "2026-06-15",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/amd-acquires-mext-tackle-data-201825648.html",
+      "summary": "AMD scoops up MEXT, whose predictive memory tiering software makes NAND behave like DRAM, expanding usable memory for AI workloads. Terms not disclosed; deal builds on Citi's June 12 double-upgrade to Buy with a Street-high $575 PT.",
+      "tags": [
+        "amd",
+        "mna",
+        "memory-tiering",
+        "data-center",
+        "ai-infrastructure",
+        "dram",
+        "nand",
+        "citi-upgrade"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "MU"
+      ],
+      "metrics": {
+        "AMD close": "$547.26 (+$35.69 / +6.98%)",
+        "Deal terms": "Undisclosed (cash, MEXT team joins AMD)",
+        "Citi PT (Jun 12)": "$575 (Buy, from Neutral / $460)",
+        "BofA PT (Arya)": "$560 (Buy, from $500)",
+        "AMD YTD": "all-time high"
+      },
+      "explainer": {
+        "tagline": "AMD buys Israeli startup MEXT to bolt 'flash-as-DRAM' memory tiering onto its data-center AI stack; AMD +6.98% to a record.",
+        "whatIsIt": "Advanced Micro Devices announced Monday June 15 it has acquired MEXT, a memory-tiering startup whose predictive software lets flash storage behave like DRAM, expanding the effective memory pool available to AI, analytics and high-performance compute workloads. Financial terms were not disclosed; the MEXT engineering team joins AMD's data-center group.",
+        "howItWorks": "MEXT's tech sits between the CPU/GPU and storage, predicting which data pages are hot and keeping them in DRAM while transparently demoting cold pages to NAND flash — so applications see a much larger effective memory footprint at flash-tier cost. AMD plans to integrate it across its EPYC server CPU and Instinct GPU lines. AMD shares closed +6.98% at $547.26 (+$35.69), an all-time high, on the news — extending a rally that started after Citi's June 12 double-upgrade to Buy with a Street-high $575 PT and BofA's bump to $560.",
+        "whyItMatters": "Memory is the binding constraint on modern AI training and inference — HBM capacity per GPU is the new bottleneck and DRAM prices are tight. By acquiring a software layer that stretches usable memory, AMD chips away at one of the few moats Nvidia and pure-play memory names like Micron rely on. The move is also a tell: AMD is starting to compete on the full data-center software stack, not just silicon.",
+        "forWho": "semis investors, AI-infra desks, M&A trackers",
+        "tryIt": "https://finance.yahoo.com/quote/AMD"
+      },
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/4LiDCj4FMRyeTW3Z8JHdYY-1280-80.jpg",
+        "alt": "AMD signage at corporate event",
+        "fit": "cover",
+        "credit": "Tom's Hardware / Future"
+      },
+      "links": [
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/amd-acquires-mext-tackle-data-201825648.html"
+        },
+        {
+          "label": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-takes-over-mext-to-address-growing-memory-constraints-in-the-data-center-memory-tiering-technology-enables-flash-to-appear-as-dram-to-applications"
+        },
+        {
+          "label": "Citi $575 PT",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-resets-amd-stock-price-193800799.html"
+        },
+        {
+          "label": "AMD Quote",
+          "url": "https://finance.yahoo.com/quote/AMD"
+        }
+      ],
+      "reddit": {
+        "title": "AMD acquires Israeli memory-tiering startup MEXT — software makes NAND act like DRAM for AI workloads. AMD +7% to a record $547",
+        "body": "AMD announced on Monday June 15 that it has acquired MEXT, an Israeli startup whose predictive memory-tiering software makes flash storage behave like DRAM. Terms were not disclosed; the MEXT engineering team joins AMD's data-center group.\n\n* AMD closed +6.98% at **$547.26 (+$35.69)** — an all-time high\n* MEXT's tech keeps hot pages in DRAM and transparently demotes cold pages to NAND — applications see a much larger effective memory footprint at flash-tier cost\n* AMD plans to integrate it across EPYC server CPUs and Instinct GPUs\n* Rally builds on Citi's June 12 double-upgrade to Buy with a Street-high **$575 PT** (from Neutral / $460) and BofA's Vivek Arya raising his PT to $560\n\nWhy it matters:\n\n1. **Memory is the new AI bottleneck** — HBM capacity per GPU is the binding constraint on training and inference, and DRAM is tight. A software layer that stretches usable memory attacks Nvidia's moat and Micron's pricing power.\n2. **Software stack push** — AMD competing on the full data-center stack, not just silicon. Quietly building optionality the way Nvidia did with CUDA.\n3. **Israeli M&A thread** — second Israeli AI/infra startup acquired by a U.S. semis name this quarter; talent + IP in flash/memory remains heavily concentrated there.\n\nNext catalysts: AMD's AI Advancing event later this month, NVDA Q2 print in late August.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amd-mext-acquisition-june-15-2026](https://stock-tldr.xyz/releases/amd-mext-acquisition-june-15-2026)"
+      },
+      "publishDate": "2026-06-16T13:48:12.407Z"
+    },
     {
       "id": "us-stocks-dow-record-iran-deal-monday-june-15-2026",
       "categories": [
