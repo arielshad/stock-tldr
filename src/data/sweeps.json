@@ -5202,6 +5202,63 @@
         "analyst",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260617t131914z",
+      "timestamp": "2026-06-17T13:19:14.331Z",
+      "source": "github-actions-sweep",
+      "summary": "Five fresh adds: today's hot May 2026 retail sales beat (+0.9% headline / +0.7% control) and yesterday's collapse in May housing starts (-15.4% to a 6-year low) bracket Warsh's first FOMC presser at 2pm ET; plus La-Z-Boy's 54% Q4 EPS beat with a fresh $300M buyback, Robinhood's 8-K eliminating ~10% of its workforce, and Dave & Buster's 40% Q1 EPS miss on a -5.4% comp.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-retail-sales-may-2026-june-17",
+          "title": "U.S. May 2026 retail sales blow past — headline +0.9% vs +0.5% est and control group +0.7% vs +0.4% est crush; ex-autos +0.8% beats — but gasoline +26.5% Y/Y from Iran war price effect distorts the print",
+          "category": "macro",
+          "note": "Today's 8:30am ET advance retail sales — clean control-group beat hours before Warsh's first FOMC presser."
+        },
+        {
+          "id": "us-housing-starts-may-2026-june-16",
+          "title": "U.S. May 2026 housing starts crater -15.4% M/M to 1.177M SAAR — lowest since May 2020 and a 6-year low; permits -0.7% M/M to 1.413M; multifamily -41.6% as 7% mortgages choke supply",
+          "category": "macro",
+          "note": "Yesterday's 8:30am ET housing starts — 6-year low SAAR with multifamily collapsing -41.6% M/M."
+        },
+        {
+          "id": "lzb-q4-fy26-earnings-june-16-2026",
+          "title": "La-Z-Boy Q4 FY26 — adj EPS $1.26 trounces $0.82 est on 11% retail written growth and 200bp Q4 op-margin expansion; FY26 sales $2.13B (+1%) and board authorizes new $300M buyback — LZB +5.96% to $37.37 on June 16",
+          "category": "earnings",
+          "note": "Small-cap furniture maker prints 54% Q4 EPS beat plus a fresh $300M (~19% of market cap) buyback."
+        },
+        {
+          "id": "hood-10pct-layoffs-june-16-2026",
+          "title": "Robinhood (HOOD) cuts ~10% of full-time workforce (~290 roles) on June 16 8-K — $28M Q2 restructuring charge ($20M severance + $8M SBC); CFO-signed filing says volumes at June records as company 'acts from strength'; HOOD -1.98% to ~$96",
+          "category": "mover",
+          "note": "8-K-disclosed 10% workforce reduction at a record-volumes broker — culturally significant cost takeout."
+        },
+        {
+          "id": "play-q1-fy26-earnings-june-15-2026",
+          "title": "Dave & Buster's (PLAY) Q1 FY26 — adj EPS $0.22 misses $0.37 est (-40%) and revenue $559.2M (-1.5% Y/Y) misses $571M est on comp -5.4%; net income -73.7% Y/Y; FCF +$25M (+$84M Y/Y improvement); PLAY -4.31% on June 16",
+          "category": "earnings",
+          "note": "Discretionary consumer read — 40% EPS miss on -5.4% comp, but FCF swings $84M positive Y/Y."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "mna",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "fx",
+        "rumor",
+        "rates"
+      ]
     }
   ]
 }
