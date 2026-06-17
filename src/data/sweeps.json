@@ -5150,6 +5150,58 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260617t004134z",
+      "timestamp": "2026-06-17T00:41:34.572Z",
+      "source": "github-actions-sweep",
+      "summary": "Five additions for June 16, 2026 — the eve of Warsh's first FOMC decision. Headline: SpaceX exercises its April option to buy Cursor parent Anysphere for $60B all-stock (second-largest tech M&A ever announced). Plus Yum sells Pizza Hut for $2.7B, CoreWeave +10% on Nasdaq-100 inclusion + Cantor backlog call, split-tape session (Dow record / Nasdaq chip-selloff), and Domo -36% on a covenant breach.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "spcx-cursor-anysphere-60b-acquisition-june-16-2026",
+          "title": "SpaceX (SPCX) to acquire Cursor maker Anysphere for $60B all-stock on June 16 — Q3 2026 close — preempts Cursor's $50B funding round and follows last week's record $75B IPO",
+          "category": "mna",
+          "note": "$60B all-stock SpaceX acquisition of Cursor maker Anysphere — second-largest tech M&A ever announced — four trading days after SPCX's record $75B IPO."
+        },
+        {
+          "id": "yum-pizza-hut-sale-27b-june-16-2026",
+          "title": "Yum! Brands sells Pizza Hut for $2.7B on June 16 — $1.5B to LongRange Capital + $1.2B Pizza Hut China to Yum China — board adds $4B buyback; YUM +2.4% to ~$157",
+          "category": "mna",
+          "note": "Yum exits Pizza Hut for $2.7B (split $1.5B LongRange + $1.2B Yum China); $4B buyback authorized; YUM +2.4%."
+        },
+        {
+          "id": "crwv-nasdaq100-cantor-rally-june-16-2026",
+          "title": "CoreWeave +9.67% on June 16 to ~$117 — Nasdaq-100 inclusion confirmed for June 22 open + Cantor Fitzgerald reiterates Overweight $167 PT on backlog beat",
+          "category": "mover",
+          "note": "CoreWeave +9.67% on confirmed Nasdaq-100 inclusion (June 22 effective) plus Cantor Overweight $167 PT reiterate on Q2 backlog tracking to ~$131B vs $104B Street."
+        },
+        {
+          "id": "us-stocks-dow-record-chip-selloff-pre-fomc-june-16-2026",
+          "title": "Dow +0.64% to record 51,999.67 on June 16 — but Nasdaq -1.15% to 26,376.34 and S&P -0.57% to 7,511.35 as chip stocks sell off ahead of Warsh's first FOMC decision",
+          "category": "macro",
+          "note": "Split-tape session: Dow records 51,999.67 (+0.64%) while Nasdaq -1.15% on chip profit-taking ahead of Warsh's first FOMC decision."
+        },
+        {
+          "id": "domo-q1-fy27-going-concern-strategic-alt-june-16-2026",
+          "title": "Domo (DOMO) -36% on June 16 — Q1 FY27 revenue $79.4M misses $81.3M est, lender forbearance after missing ARR covenant, board confirms advanced sale talks",
+          "category": "earnings",
+          "note": "Domo -36% on revenue miss + missed ARR covenant + lender forbearance + advanced sale-talk disclosure — a small-cap SaaS balance-sheet event."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "macro",
+        "analyst",
+        "earnings"
+      ]
     }
   ]
 }
