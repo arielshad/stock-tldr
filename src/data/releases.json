@@ -1,8 +1,334 @@
 {
-  "generatedAt": "2026-06-17T13:19:14.331Z",
+  "generatedAt": "2026-06-18T00:42:35.298Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fomc-june-2026-warsh-hawkish-hold",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "FOMC June 2026 — Warsh's first meeting holds rates at 3.50–3.75% by 12-0 vote but SEP median jumps to 3.8% by year-end (vs 3.4% in March) as nine of 18 dots flip to at least one 25bp hike and PCE 2026 projection raised to 3.6%",
+      "org": "Federal Reserve",
+      "date": "2026-06-17",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "summary": "FOMC under new Chair Kevin Warsh holds federal funds target at 3.50–3.75% by a unanimous 12-0 vote on June 17. Updated SEP lifts the median 2026 year-end fed funds projection to 3.8% (from 3.4% in March) with nine of 18 participants now pencilling in at least one 25bp hike; six see two hikes. 2026 PCE inflation projection raised to 3.6% from prior; statement drops cutting bias and adds 'the Committee will deliver price stability'. Warsh did not submit his own SEP dot.",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Target rate": "3.50–3.75% (unchanged)",
+        "Vote": "12-0",
+        "2026 median FF rate": "3.8% (vs 3.4% in March SEP)",
+        "2027 median FF rate": "3.6%",
+        "2028 median FF rate": "3.4%",
+        "2026 PCE inflation": "3.6%",
+        "2026 GDP growth": "2.2%",
+        "2026 unemployment": "4.3%",
+        "Dots seeing ≥1 hike in 2026": "9 of 18",
+        "Dots seeing 2 hikes in 2026": "6 of 18"
+      },
+      "tags": [
+        "macro",
+        "rates",
+        "fomc",
+        "fed",
+        "warsh",
+        "warsh-fed",
+        "dot-plot",
+        "sep",
+        "rate-path",
+        "hawkish-hold",
+        "iran-war-energy-shock",
+        "june-2026"
+      ],
+      "importance": "seismic",
+      "explainer": {
+        "tagline": "Warsh's debut FOMC keeps rates on hold but the dot plot pivots from cuts to hikes as Iran-war energy inflation pushes 2026 PCE to 3.6%.",
+        "whatIsIt": "The Federal Open Market Committee concluded its June 16–17 meeting — Kevin Warsh's first as Fed Chair — by leaving the federal funds target range unchanged at 3.50–3.75% on a unanimous 12-0 vote. The accompanying Summary of Economic Projections delivered the hawkish surprise: the median 2026 year-end fed funds rate moved up to 3.8% from 3.4% in the March SEP, implying roughly a 25bp hike by year-end rather than the 25bp cut March participants had penciled in.",
+        "howItWorks": "Nine of 18 participants now project at least one rate hike in 2026, with six expecting two 25bp hikes. The median PCE inflation projection for 2026 was raised to 3.6%, reflecting the Iran-war energy shock and a hot May CPI of 4.2%. 2026 GDP growth was held at 2.2% and unemployment at 4.3%. The statement dropped its prior cutting bias, added the line 'The Committee will deliver price stability', and described economic activity as 'expanding at a solid pace despite elevated uncertainty'. Inflation was explicitly attributed to 'supply shocks in certain sectors, including energy'. Warsh himself did not submit projections, consistent with his long-stated preference to limit Fed forward guidance.",
+        "whyItMatters": "This is the first hawkish pivot of the Warsh era and a clean break from the March cut bias. Treasury yields jumped — the 10Y rose ~6bp to ~4.49% — and equities sold off (S&P -1.21%, Nasdaq -1.34%, Dow -0.98%). Fed funds futures now price ~60% odds of at least one hike by year-end per CME FedWatch. The setup hands rate-sensitive sectors (housing, megacap tech, growth) a new headwind into the July 28–29 FOMC, with PCE inflation due June 27 and a Juneteenth holiday closure on June 19.",
+        "forWho": "rates, macro and equity traders",
+        "tryIt": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm"
+      },
+      "image": {
+        "url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+        "alt": "Federal Reserve eagle seal on the Marriner S. Eccles building",
+        "fit": "cover",
+        "credit": "Federal Reserve"
+      },
+      "links": [
+        {
+          "label": "FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+        },
+        {
+          "label": "SEP Projections",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm"
+        },
+        {
+          "label": "CBS News Preview",
+          "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/"
+        },
+        {
+          "label": "Fox Business Recap",
+          "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-june-17-2026"
+        },
+        {
+          "label": "10Y Yield Chart",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        }
+      ],
+      "reddit": {
+        "title": "Warsh's first FOMC: rates held at 3.50–3.75% (12-0) but dot plot flips from cuts to hikes — 2026 median fed funds now 3.8% vs 3.4% in March",
+        "body": "Kevin Warsh's first FOMC meeting just delivered a clean hawkish pivot. Decision and dot-plot in plain numbers:\n\n* Target range held at 3.50–3.75% on a 12-0 vote\n* Median 2026 year-end fed funds rate jumped to 3.8% (vs 3.4% in March SEP)\n* 9 of 18 participants now see at least one 25bp hike this year — 6 see two hikes\n* 2026 PCE inflation projection raised to 3.6%\n* Statement dropped its cutting bias and added the line: 'The Committee will deliver price stability'\n\nThree things to know about the pivot:\n\n1. **The dot-plot reversal is the story** — March SEP implied a 25bp cut by year-end. June SEP implies a 25bp hike. That's a full ~50bp swing in the median's policy stance in three months.\n2. **Energy shock did it** — the statement explicitly cites 'supply shocks in certain sectors, including energy'. May CPI ran +4.2% Y/Y on +40.5% Y/Y gasoline as the Iran war disrupts the Strait of Hormuz.\n3. **Warsh did not submit his own dot** — consistent with his long-stated view that Fed forward guidance does more harm than good.\n\nMarket reaction: 10Y yield +~6bp to ~4.49%, S&P -1.21%, Nasdaq -1.34%, Dow -0.98%. CME FedWatch now prices ~60% odds of at least one hike by year-end.\n\nNext catalysts: PCE inflation June 27, July 28–29 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-june-2026-warsh-hawkish-hold](https://stock-tldr.xyz/releases/fomc-june-2026-warsh-hawkish-hold)"
+      },
+      "publishDate": "2026-06-18T00:42:35.298Z"
+    },
+    {
+      "id": "us-stocks-fomc-hawkish-selloff-june-17-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "U.S. stocks sell off post-FOMC on June 17 — S&P 500 -1.21% to 7,420.10, Nasdaq -1.34% to 26,021.66, Dow -0.98% to 51,492.55 as 10Y Treasury yield jumps ~6bp to 4.49% on Warsh's hawkish dot-plot pivot; SPCX snaps post-IPO rally -~5% to $201.80",
+      "org": "U.S. Equities",
+      "date": "2026-06-17",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-212951273.html",
+      "summary": "U.S. equities sold off after the FOMC's hawkish hold on Wednesday June 17 as the dot-plot pivot lifted year-end fed funds expectations to 3.8% from 3.4%. The S&P 500 fell 1.21% to 7,420.10, Nasdaq Composite -1.34% to 26,021.66 and Dow -0.98% to 51,492.55. Rates-sensitive megacap tech led declines (META, MSFT, AMZN lower); SpaceX (SPCX) -~5% to $201.80 snapped its post-IPO rally for the first time since its debut. ASML +4% bucked the move on optimism over SpaceX AI spending; Broadcom (AVGO) rallied on bullish analyst guidance. 10Y Treasury yield jumped ~6bp to 4.49%.",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI",
+        "^TNX",
+        "SPCX"
+      ],
+      "metrics": {
+        "S&P 500 close": "7,420.10 (-1.21%)",
+        "Nasdaq Composite close": "26,021.66 (-1.34%)",
+        "Dow close": "51,492.55 (-0.98%)",
+        "10Y Treasury yield": "~4.49% (+6bp)",
+        "SPCX close": "$201.80 (-~5%)",
+        "ASML": "+4%",
+        "CME FedWatch ≥1 hike by year-end": "~60%"
+      },
+      "tags": [
+        "mover",
+        "fomc",
+        "warsh",
+        "warsh-fed",
+        "hawkish-hold",
+        "rate-path",
+        "tech-selloff",
+        "megacap",
+        "treasuries",
+        "june-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Hawkish-hold day breaks the rally — Treasury yields jump, megacap tech leads losses, SpaceX gives back gains after a record post-IPO run.",
+        "whatIsIt": "All three major U.S. indices closed lower on Wednesday June 17 after the FOMC's hawkish hold and the SEP's first move toward a 2026 hike. The S&P 500 ended at 7,420.10 (-1.21%), the Nasdaq Composite at 26,021.66 (-1.34%), and the Dow Jones Industrial Average at 51,492.55 (-0.98%) — pulling the Dow back from its June 16 record close of 51,999.67.",
+        "howItWorks": "The selloff intensified after the 2 p.m. ET release of the FOMC statement and SEP, which showed the median 2026 year-end fed funds rate jumping to 3.8% from 3.4% in March (nine of 18 dots now project at least one hike). The 10-year Treasury yield rose roughly 6bp to ~4.49%. Megacap tech took the brunt: Meta, Microsoft and Amazon all fell. SpaceX (SPCX) -~5% to $201.80 snapped a multi-day post-IPO win streak for the first time since its June 12 debut. Bucking the trend: ASML +4% on optimism about SpaceX-driven AI capex; Broadcom (AVGO) rallied on bullish analyst guidance.",
+        "whyItMatters": "The session marked the first material break in the recent U.S. equity rally and reset the rate path going into PCE inflation on June 27 and the July 28–29 FOMC. CME FedWatch now prices ~60% odds of at least one Fed hike by year-end (vs. cuts as recently as the March SEP), reintroducing genuine policy risk into long-duration growth names. The Dow loses its one-day record; the Nasdaq snaps a run of fresh highs.",
+        "forWho": "equity, options and rates traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460",
+        "alt": "Wall Street trader reacts as U.S. stocks sell off after the FOMC's hawkish hold",
+        "fit": "cover",
+        "credit": "The Motley Fool via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-212951273.html"
+        },
+        {
+          "label": "Yahoo Finance UK Live",
+          "url": "https://uk.finance.yahoo.com/news/stock-market-today-nasdaq-futures-climb-as-dow-sp-500-stall-ahead-of-fed-rate-decision-225641465.html"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        }
+      ],
+      "reddit": {
+        "title": "Stocks tumble post-FOMC on June 17: S&P -1.21% to 7,420, Nasdaq -1.34%, Dow -0.98% as dot-plot flips to a 2026 hike",
+        "body": "All three major indices fell hard after Warsh's first FOMC delivered a hawkish hold. Wednesday June 17 close:\n\n* S&P 500: 7,420.10 (-1.21%)\n* Nasdaq Composite: 26,021.66 (-1.34%)\n* Dow Jones: 51,492.55 (-0.98%) — pulled back from Tuesday's record 51,999.67\n* 10Y Treasury yield: ~4.49% (+~6bp)\n* SpaceX (SPCX): $201.80 (-~5%) — snaps post-IPO rally for the first time since June 12 debut\n\nWhat broke the rally:\n\n1. **Dot plot flipped from a cut to a hike** — median 2026 fed funds now 3.8% vs 3.4% in March; 9 of 18 participants project at least one 25bp hike this year.\n2. **Megacap tech took the brunt** — META, MSFT, AMZN all lower as the long-duration growth trade reset to higher real rates.\n3. **CME FedWatch now prices ~60% odds of at least one hike by year-end** vs cuts priced in as recently as March.\n\nBuckers: ASML +4% on SpaceX AI-capex read-through. AVGO higher on bullish analyst guidance.\n\nNext catalysts: PCE inflation June 27. Juneteenth holiday closes markets June 19.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-fomc-hawkish-selloff-june-17-2026](https://stock-tldr.xyz/releases/us-stocks-fomc-hawkish-selloff-june-17-2026)"
+      },
+      "publishDate": "2026-06-18T00:42:35.298Z"
+    },
+    {
+      "id": "jbl-q3-fy26-earnings-june-17-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Jabil Q3 FY26 — record $8.8B revenue (+12% Y/Y) and non-GAAP EPS $3.16 vs $3.11 est beat as Intelligent Infrastructure +21% on AI demand; FY26 AI-related revenue lifted to ~$13.6B (+50% Y/Y) and FY26 guide raised to $35B revenue / $12.70 EPS; JBL +~10% to $415.02 on June 17",
+      "org": "Jabil",
+      "date": "2026-06-17",
+      "url": "https://investors.jabil.com/news/news-details/2026/Jabil-Posts-Third-Quarter-Results/default.aspx",
+      "summary": "Jabil's fiscal Q3 (three months ended May 31, 2026) revenue $8.8B (+12% Y/Y from $7.83B) tops $8.64B est and core (non-GAAP) diluted EPS $3.16 beats $3.11 consensus. Intelligent Infrastructure $4.2B (+21% Y/Y) leads on AI-server demand; Regulated Industries $3.2B (+4%) above plan on automotive strength. FY26 AI-related revenue lifted ~$500M to ~$13.6B (vs $9B FY25, +50% Y/Y). FY26 guide raised to ~$35B revenue, 5.8% core operating margin, $12.70 core EPS. JBL +~10% to $415.02 on Wednesday June 17.",
+      "tickers": [
+        "JBL",
+        "DELL",
+        "SMCI"
+      ],
+      "metrics": {
+        "Revenue": "$8.8B (+12% Y/Y vs $8.64B est)",
+        "Non-GAAP EPS": "$3.16 vs $3.11 est",
+        "GAAP EPS": "$2.59",
+        "GAAP Operating Income": "$445M",
+        "Non-GAAP Operating Income": "$504M",
+        "Intelligent Infrastructure": "$4.2B (+21% Y/Y)",
+        "Regulated Industries": "$3.2B (+4% Y/Y)",
+        "FY26 Revenue Guide": "~$35B (raised from $34B)",
+        "FY26 Core EPS Guide": "$12.70 (raised)",
+        "FY26 AI Revenue Outlook": "~$13.6B (vs $9B FY25, +50% Y/Y; +$500M vs March outlook)",
+        "Q4 Core EPS Guide": "$3.80–$4.20",
+        "Move": "+~10% to $415.02 on June 17"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "ai-server",
+        "ai-capex",
+        "data-center",
+        "ems",
+        "intelligent-infrastructure",
+        "q3-fy26"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "AI-server backbone beats, raises again — $13.6B AI revenue and $35B FY26 plan send JBL to a fresh record.",
+        "whatIsIt": "Jabil reported fiscal Q3 results before the open on June 17 covering the three months ended May 31, 2026. Net revenue of $8.8B (+12% Y/Y from $7.83B) topped the $8.64B Zacks consensus, and core (non-GAAP) diluted EPS of $3.16 beat the $3.11 consensus. GAAP EPS came in at $2.59 with GAAP operating income of $445M and non-GAAP operating income of $504M. The company raised its FY26 outlook for the second time this year.",
+        "howItWorks": "Intelligent Infrastructure — the AI-server and data-center segment — drove the print at $4.2B (+21% Y/Y). Regulated Industries delivered $3.2B (+4% Y/Y), above plan on stronger-than-expected automotive and transportation demand. Connected Living also outperformed. The headline for the AI build-out: FY26 AI-related revenue now expected at ~$13.6B vs ~$9B in FY25 (+50% Y/Y) and ~$500M above the March outlook. New FY26 guide: net revenue ~$35B (up from $34B), core operating margin 5.8%, core diluted EPS $12.70. Q4 core EPS guided to $3.80–$4.20. CEO Mike Dastoor: 'AI infrastructure demand remains extremely strong, and our full-year AI-related revenue outlook is now meaningfully higher.'",
+        "whyItMatters": "Jabil is a clean read on hyperscaler AI capex one quarter after Oracle, Broadcom and CoreWeave all flagged backlog growth. The $13.6B AI revenue number — third upward revision in nine months — supports the bullish thesis that the build-out runs through 2027 despite tariff and rate-path headwinds. Sympathy read-through to AI-server peers (DELL, SMCI) and component suppliers (AVGO, ANET). JBL +~10% to $415.02 on Wednesday June 17 put the stock near the top of its 52-week range of $189.60–$428.93 even with the broader market down ~1.3%.",
+        "forWho": "AI infrastructure and EMS-supply-chain investors",
+        "tryIt": "https://finance.yahoo.com/quote/JBL"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Jabil_logo_%282023%29.png",
+        "alt": "Jabil corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Jabil IR Release",
+          "url": "https://investors.jabil.com/news/news-details/2026/Jabil-Posts-Third-Quarter-Results/default.aspx"
+        },
+        {
+          "label": "Benzinga Transcript",
+          "url": "https://www.benzinga.com/insights/news/26/06/53248622/jabil-reports-q3-2026-results-full-earnings-call-transcript"
+        },
+        {
+          "label": "Yahoo Earnings Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-q3-earnings-revenues-124001777.html"
+        },
+        {
+          "label": "JBL Chart",
+          "url": "https://finance.yahoo.com/quote/JBL"
+        }
+      ],
+      "reddit": {
+        "title": "Jabil ($JBL) Q3 FY26: $8.8B revenue (+12%), $3.16 non-GAAP EPS beat, FY26 AI revenue raised to $13.6B (+50% Y/Y), stock +~10% to $415",
+        "body": "Jabil — one of the cleanest pure-play reads on hyperscaler AI capex — delivered a third straight beat-and-raise. Quarter ended May 31, 2026:\n\n* Revenue: $8.8B (+12% Y/Y vs $7.83B), beats $8.64B est\n* Non-GAAP EPS: $3.16 vs $3.11 est; GAAP EPS $2.59\n* Intelligent Infrastructure (AI servers + data center): $4.2B (+21% Y/Y)\n* Regulated Industries: $3.2B (+4%) — auto/transport above plan\n* JBL closed +~10% at $415.02\n\nThe AI capex tape stays hot:\n\n1. **FY26 AI-related revenue raised to ~$13.6B** — up $500M from the March outlook and ~50% Y/Y growth from $9B in FY25.\n2. **FY26 guide raised across the board** — net revenue ~$35B (vs $34B prior), core op margin 5.8%, core EPS $12.70.\n3. **Q4 core EPS guided to $3.80–$4.20** — implying another sequential step up.\n\nCEO Mike Dastoor: 'AI infrastructure demand remains extremely strong, and our full-year AI-related revenue outlook is now meaningfully higher.'\n\nRead-through to DELL, SMCI on AI-server demand and AVGO/ANET on networking/silicon.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jbl-q3-fy26-earnings-june-17-2026](https://stock-tldr.xyz/releases/jbl-q3-fy26-earnings-june-17-2026)"
+      },
+      "publishDate": "2026-06-18T00:42:35.298Z"
+    },
+    {
+      "id": "kmx-q1-fy27-earnings-june-17-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CarMax Q1 FY27 — net revenue $8.0B (+6.2% Y/Y) and diluted EPS $1.31 trounces $0.96 est but net earnings -11.8% Y/Y and comp used unit sales -0.8% with GPU -$230 and no Q1 buyback ($1.31B remaining authorization) sink KMX -9.05% to $47.40 on June 17",
+      "org": "CarMax",
+      "date": "2026-06-17",
+      "url": "https://media.carmax.com/press-releases/news-release/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/default.aspx",
+      "summary": "CarMax fiscal Q1 (three months ended May 31, 2026) — net revenues $8.0B (+6.2% Y/Y) and diluted EPS $1.31 sail past $0.96 consensus but net earnings -11.8% Y/Y to $185.6M and EPS down from prior-year $1.38 as retail GPU drops $230 to $2,177 and comp used unit sales decline 0.8%. Combined retail+wholesale units 392,357 (+3.3%). CarMax Auto Finance income $140.2M (-1%) with penetration +150bp to 43.3%. Company did not repurchase any shares in the quarter (still $1.31B authorization remaining). KMX -9.05% to $47.40 Wednesday June 17 as new CEO Keith Barr unveils four-pillar growth plan.",
+      "tickers": [
+        "KMX"
+      ],
+      "metrics": {
+        "Net Revenue": "$8.0B (+6.2% Y/Y)",
+        "Diluted EPS": "$1.31 vs $0.96 est (vs $1.38 prior year, -5.1% Y/Y)",
+        "Net Earnings": "$185.6M (-11.8% Y/Y)",
+        "Combined Unit Sales": "392,357 (+3.3% Y/Y)",
+        "Comp Used Unit Sales": "-0.8% Y/Y",
+        "Wholesale Units": "+8.4% Y/Y",
+        "Retail GPU": "$2,177 (-$230 Y/Y)",
+        "Wholesale GPU": "$1,046 (flat Y/Y)",
+        "SG&A as % of GP leverage": "improved $118/unit to $1,619",
+        "CAF Income": "$140.2M (-1% Y/Y)",
+        "CAF Penetration": "43.3% (+150bp Y/Y)",
+        "Q1 Share Repurchases": "$0 ($1.31B remaining authorization)",
+        "Move": "-9.05% to $47.40 on June 17"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "comp-decline",
+        "gross-margin",
+        "used-cars",
+        "auto-finance",
+        "buyback-paused",
+        "ceo-transition",
+        "q1-fy27"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Headline beat but the quality of the quarter falls apart — GPU drops, comps go negative, buyback goes quiet and the stock loses 9%.",
+        "whatIsIt": "CarMax reported fiscal Q1 FY27 results before the open on June 17 (three months ended May 31, 2026). Net revenues rose 6.2% to $8.0B and diluted EPS of $1.31 trounced the $0.96 consensus — but net earnings fell 11.8% Y/Y to $185.6M and EPS was down 5.1% from $1.38 in the prior-year quarter as gross margin compressed. The market focused on the underlying quality of the quarter, not the headline beat. KMX closed -9.05% at $47.40 on Wednesday June 17 — its sharpest single-day decline of 2026.",
+        "howItWorks": "Combined retail and wholesale unit sales of 392,357 (+3.3% Y/Y) were powered by wholesale (+8.4%); retail comparable store used unit sales fell 0.8% Y/Y. Retail gross profit per used unit dropped $230 to $2,177 as pricing actions designed to drive volume bit into margin. Wholesale GPU held at $1,046. SG&A leverage improved $118/unit to $1,619. CarMax Auto Finance income of $140.2M (-1% Y/Y) was helped by penetration rising 150bp to 43.3% — CAF was the largest Tier 2 lender during the quarter — but a $900M non-prime securitization lowered the average loan book. The kicker: no share repurchases in the quarter at all, leaving $1.31B of authorization untouched; management said it will 'resume at the appropriate time' depending on conditions and leverage. New CEO Keith Barr (first quarter in the role) introduced a four-pillar growth framework emphasizing competitive pricing, omnichannel, transaction-value optimization and cost structure.",
+        "whyItMatters": "CarMax is the largest U.S. used-car retailer and a barometer of the post-pandemic used-car cycle. The combination of a Y/Y profit decline, falling unit GPU, a turn negative on comp used sales and a quiet buyback signals that the volume-over-margin trade-off isn't yet generating the kind of operating leverage management has promised. Read-through to consumer-discretionary auto names (AutoNation, Lithia, Sonic) and Tier 2 auto-loan exposure. Tape effect was amplified by the broader hawkish-hold FOMC selloff the same afternoon.",
+        "forWho": "consumer-discretionary, used-car cycle and auto-finance investors",
+        "tryIt": "https://finance.yahoo.com/quote/KMX"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/CarMax_Reports_First_Quarter_Fiscal_2027_Results_1071621.png",
+        "alt": "CarMax Q1 fiscal 2027 results card",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "links": [
+        {
+          "label": "CarMax Press Release",
+          "url": "https://media.carmax.com/press-releases/news-release/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/default.aspx"
+        },
+        {
+          "label": "Investor Page",
+          "url": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/"
+        },
+        {
+          "label": "StockTitan Summary",
+          "url": "https://www.stocktitan.net/news/KMX/car-max-reports-first-quarter-fiscal-2027-dkfjfmeilm8k.html"
+        },
+        {
+          "label": "Benzinga Call Transcript",
+          "url": "https://www.benzinga.com/insights/news/26/06/53247738/full-transcript-carmax-q1-2027-earnings-call"
+        },
+        {
+          "label": "KMX Chart",
+          "url": "https://finance.yahoo.com/quote/KMX"
+        }
+      ],
+      "reddit": {
+        "title": "CarMax ($KMX) Q1 FY27: $1.31 EPS trounces $0.96 est on $8B revenue — but net earnings -12% Y/Y, GPU -$230, comp -0.8%, ZERO buyback this quarter, stock -9%",
+        "body": "Headline screams 'beat'. Read past the headline and the quarter has problems. CarMax fiscal Q1 FY27 (ended May 31, 2026):\n\n* Net revenue: $8.0B (+6.2% Y/Y)\n* Diluted EPS: $1.31 vs $0.96 est — but down from $1.38 last year (-5.1% Y/Y)\n* Net earnings: $185.6M (-11.8% Y/Y)\n* Comparable used-unit sales: -0.8% Y/Y\n* Retail gross profit per used unit: $2,177 (-$230 Y/Y)\n* CAF income: $140.2M (-1% Y/Y); CAF penetration 43.3% (+150bp)\n* Share repurchases in the quarter: **$0** — $1.31B authorization still sitting unused\n* KMX closed -9.05% at $47.40\n\nWhy the market kicked it:\n\n1. **Volume-for-margin trade isn't paying off yet** — CarMax cut prices to drive units; comp sales still went negative and GPU dropped $230. That's the worst of both.\n2. **Buyback went silent** — management said it'll 'resume at the appropriate time' based on conditions and leverage. With $1.31B authorized, sitting on it sends a message.\n3. **New CEO's first quarter** — Keith Barr unveiled a four-pillar growth plan, but investors want execution before a multi-quarter strategic narrative.\n\nLayer in the hawkish FOMC same afternoon (S&P -1.21%) and the stock had no buyers.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kmx-q1-fy27-earnings-june-17-2026](https://stock-tldr.xyz/releases/kmx-q1-fy27-earnings-june-17-2026)"
+      },
+      "publishDate": "2026-06-18T00:42:35.298Z"
+    },
     {
       "id": "us-retail-sales-may-2026-june-17",
       "categories": [

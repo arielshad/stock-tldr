@@ -5259,6 +5259,51 @@
         "rumor",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260618t004235z",
+      "timestamp": "2026-06-18T00:42:35.298Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep covers the June 17 FOMC under new Chair Kevin Warsh (seismic hawkish hold with dot-plot pivot to a 2026 hike), the resulting U.S. equity selloff, and two June 17 earnings: Jabil Q3 FY26 beat-and-raise on AI-server demand and CarMax Q1 FY27 headline beat that the market rejected on falling Y/Y earnings and a quiet buyback.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fomc-june-2026-warsh-hawkish-hold",
+          "title": "FOMC June 2026 — Warsh's first meeting holds rates at 3.50–3.75% by 12-0 vote but SEP median jumps to 3.8% by year-end (vs 3.4% in March) as nine of 18 dots flip to at least one 25bp hike and PCE 2026 projection raised to 3.6%",
+          "category": "macro",
+          "note": "Warsh's first FOMC — hawkish hold, dot-plot pivot from cuts to hikes by year-end. Primary-source confirmed via Fed press release + SEP table; broad coverage; >1% move on all three majors. Seismic by every test."
+        },
+        {
+          "id": "us-stocks-fomc-hawkish-selloff-june-17-2026",
+          "title": "U.S. stocks sell off post-FOMC on June 17 — S&P 500 -1.21% to 7,420.10, Nasdaq -1.34% to 26,021.66, Dow -0.98% to 51,492.55 as 10Y Treasury yield jumps ~6bp to 4.49% on Warsh's hawkish dot-plot pivot; SPCX snaps post-IPO rally -~5% to $201.80",
+          "category": "mover",
+          "note": "Major same-day market reaction story — S&P -1.21%, Nasdaq -1.34%, 10Y +6bp, with single-name detail (SPCX, ASML, AVGO). Distinct from FOMC decision item."
+        },
+        {
+          "id": "jbl-q3-fy26-earnings-june-17-2026",
+          "title": "Jabil Q3 FY26 — record $8.8B revenue (+12% Y/Y) and non-GAAP EPS $3.16 vs $3.11 est beat as Intelligent Infrastructure +21% on AI demand; FY26 AI-related revenue lifted to ~$13.6B (+50% Y/Y) and FY26 guide raised to $35B revenue / $12.70 EPS; JBL +~10% to $415.02 on June 17",
+          "category": "earnings",
+          "note": "Clean beat-and-raise with FY26 AI revenue lifted to $13.6B; JBL +~10% mover with named catalyst."
+        },
+        {
+          "id": "kmx-q1-fy27-earnings-june-17-2026",
+          "title": "CarMax Q1 FY27 — net revenue $8.0B (+6.2% Y/Y) and diluted EPS $1.31 trounces $0.96 est but net earnings -11.8% Y/Y and comp used unit sales -0.8% with GPU -$230 and no Q1 buyback ($1.31B remaining authorization) sink KMX -9.05% to $47.40 on June 17",
+          "category": "earnings",
+          "note": "Headline EPS beat but stock -9.05% on Y/Y earnings decline, GPU drop, comp negative, and no Q1 buyback — earnings + mover with named catalyst."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
