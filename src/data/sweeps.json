@@ -5304,6 +5304,64 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260618t131301z",
+      "timestamp": "2026-06-18T13:13:01.020Z",
+      "source": "github-actions-sweep",
+      "summary": "Five fresh items pulled on the June 18 sweep: the Trump-claimed INTC-AAPL chip deal (+9% INTC premarket, neither company confirmed), Accenture's Q3 beat-but-guide-narrowed print (-14% premarket on $156→$133.90), Kroger's clean Q1 beat with FY26 guide maintained, the Bank of England's hawkish 7-2 hold at 3.75% with two HIKE dissents, and Smith & Wesson's record Q4 + FY27 mid-single-digit guide that drove +12.96% premarket.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "intc-aapl-trump-chip-deal-june-18-2026",
+          "title": "Intel +9% premarket to ~$131.96 on June 18 as Trump claims Apple has agreed to design and build chips with INTC in the U.S. — neither Intel nor Apple confirms; SOXX +4.6%, MU +4.8%, AMD +3.9%, AVGO +3% in sympathy",
+          "category": "mover",
+          "note": "Trump's Truth Social post + INTC +9% premarket + sympathy ripple across SOXX is the day's standalone semi story; deal itself unconfirmed by either INTC or AAPL, hence the `rumor` co-category."
+        },
+        {
+          "id": "acn-q3-fy26-earnings-june-18-2026",
+          "title": "Accenture Q3 FY26 — record $18.72B revenue (+6% USD / +3% LC) and diluted EPS $3.80 (+9% Y/Y) beats $3.72 est, but new bookings -2% USD to $19.32B and tepid FY26 LC revenue guide of 3–4% send ACN -14% premarket to ~$133.90 (-$22.11 from $156.01 June 17 close)",
+          "category": "earnings",
+          "note": "Mega-cap consulting EPS beat with -2% USD bookings decline and -14% premarket reaction; a stock-moving Q3 print on the same day as a hawkish BoE."
+        },
+        {
+          "id": "kr-q1-fy26-earnings-june-18-2026",
+          "title": "Kroger Q1 FY26 — $46.1B sales (+2.4% Y/Y) and EPS $1.46 trounce $1.16 est, adj EPS $1.58 with adj FIFO op profit $1.544B; identical sales ex-fuel +1.0%, adjusted eCommerce +19%; Kroger maintains FY26 adj EPS guide of $5.10–$5.30",
+          "category": "earnings",
+          "note": "Top consumer-staples large-cap Q1 print — clean beat with FY26 guide maintained — directly relevant to grocery + retail-media read-throughs."
+        },
+        {
+          "id": "boe-june-2026-hawkish-hold-3-75pct",
+          "title": "Bank of England holds Bank Rate at 3.75% on June 18 — 7-2 vote with Pill and Greene dissenting for a 25bp HIKE to 4.00% as UK CPI prints 2.8%; GBP/USD -0.58% to 1.3213 (3-month low), FTSE 100 -1%+ on hawkish surprise and Fed-BoE policy divergence",
+          "category": "macro",
+          "note": "G7 central bank decision with surprise 7-2 vote where the two dissenters preferred a HIKE; GBP -0.58% to 1.3213 and FTSE -1%+ confirms market-moving impact."
+        },
+        {
+          "id": "swbi-q4-fy26-earnings-june-17-2026",
+          "title": "Smith & Wesson Q4 FY26 — record $178.4M net sales (+26.7% Y/Y / +$37.6M) and adj EPS $0.36 trounces $0.23 est on 29.8% gross margin and $74.6M operating cash; FY26 sales $523.8M (+10.4%); FY27 mid-single-digit revenue guide and Q1 +15–20% drives SWBI +12.96% premarket to $15.51",
+          "category": "earnings",
+          "note": "Record Q4 + FY27 mid-single-digit guide + +12.96% June 18 premarket; closes a gap for small-cap sporting-goods coverage and informs RGR read-through."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "rumor",
+        "mna",
+        "crypto",
+        "analyst",
+        "commodity",
+        "fx",
+        "regulatory"
+      ]
     }
   ]
 }
