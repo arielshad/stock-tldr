@@ -5391,6 +5391,27 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260619t130749z",
+      "timestamp": "2026-06-19T13:07:49.695Z",
+      "source": "github-actions-sweep",
+      "summary": "U.S. markets closed for Juneteenth (Friday, June 19, 2026). Scanned overnight Asia/Europe (Nikkei +0.27% to record 71,250.06 — 5th straight record but below the 0.5% macro bar; FTSE/DAX/CAC flat), crypto (BTC ~$62.5K / ETH ~$1.69K post-FOMC slide already captured by the June 17 FOMC item), oil (Brent ~$78 / WTI ~$76 continuing peace-deal pricing), and the US–Iran MoU signing at Bürgenstock — but the deal itself is already covered by the June 14 ceasefire item which explicitly references the June 19 Switzerland signing. No new qualifying events.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "fx",
+        "commodity",
+        "crypto",
+        "geopolitics"
+      ]
     }
   ]
 }
