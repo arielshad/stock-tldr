@@ -5362,6 +5362,35 @@
         "fx",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260619t004513z",
+      "timestamp": "2026-06-19T00:45:13.498Z",
+      "source": "github-actions-sweep",
+      "summary": "Single mover added: Smartbird (BIRD), the former Allbirds, closes +39.09% at $5.48 on June 17 as the AI-infrastructure rebrand finalizes with ex-AWS exec Nadia Carlsten named CEO and the convertible facility upsized to $100M. U.S. markets are closed June 19 for Juneteenth, so the only fresh sweep window is June 17–18; the BOE hold, INTC/AAPL Trump chip deal, Kroger Q1, and Accenture Q3 miss for June 18 were already swept on the prior run.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bird-smartbird-ai-pivot-june-17-2026",
+          "title": "Smartbird (BIRD, ex-Allbirds) +39.09% to $5.48 on June 17 as AI-infrastructure pivot completes — ex-AWS Nadia Carlsten named CEO, $50M expansion lifts convertible facility to $100M",
+          "category": "mover",
+          "note": "Microcap with a real 8-K-grade corporate event: completed Allbirds footwear exit + new ex-AWS CEO + $100M convert facility upsize, driving a verified +39.09% / $1.54 close on June 17 with multiple tier-1 outlet coverage."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "earnings",
+        "macro",
+        "mna",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

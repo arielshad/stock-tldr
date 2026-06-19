@@ -1,8 +1,78 @@
 {
-  "generatedAt": "2026-06-18T13:13:01.020Z",
+  "generatedAt": "2026-06-19T00:45:13.498Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bird-smartbird-ai-pivot-june-17-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Smartbird (BIRD, ex-Allbirds) +39.09% to $5.48 on June 17 as AI-infrastructure pivot completes — ex-AWS Nadia Carlsten named CEO, $50M expansion lifts convertible facility to $100M",
+      "org": "Smartbird, Inc.",
+      "date": "2026-06-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001653909/000119312526273417/d178962dex991.htm",
+      "summary": "BIRD intraday $3.84–$6.90, closes +$1.54 at $5.48 (+39.09%) as the former Allbirds names ex-AWS exec Nadia Carlsten CEO, taps Lily Yan Hughes as board chair, and lifts its senior secured convert facility from $50M to $100M to fund AI clusters.",
+      "tags": [
+        "mover",
+        "ai-infrastructure",
+        "ai-pivot",
+        "rebrand",
+        "ceo-change",
+        "convertible-notes",
+        "allbirds",
+        "smartbird",
+        "small-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BIRD"
+      ],
+      "metrics": {
+        "Move": "+39.09% (+$1.54)",
+        "Close": "$5.48",
+        "Intraday range": "$3.84–$6.90",
+        "Convertible facility": "$100M (raised from $50M)",
+        "Carlsten RSU grant": "1,532,379 shares (inducement)"
+      },
+      "links": [
+        {
+          "label": "Smartbird 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001653909/000119312526273417/d178962dex991.htm"
+        },
+        {
+          "label": "Press release",
+          "url": "https://www.stocktitan.net/news/BIRD/smartbird-appoints-new-ceo-to-advance-ai-infrastructure-ecg71hldsd6i.html"
+        },
+        {
+          "label": "CNBC coverage",
+          "url": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html"
+        },
+        {
+          "label": "BIRD ticker",
+          "url": "https://finance.yahoo.com/quote/BIRD/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Allbirds finishes the metamorphosis into Smartbird with a new ex-AWS CEO and a $100M convert facility for AI compute build-out.",
+        "whatIsIt": "Smartbird, Inc. (NASDAQ: BIRD) — the company formerly known as Allbirds — announced on June 17 that its board appointed Nadia Carlsten as President, CEO and director effective June 18, replacing Joe Vernachio. Lily Yan Hughes was named board chair. The same release upsized the company's senior secured convertible note facility from $50M to $100M (the $50M incremental was funded June 15).",
+        "howItWorks": "Carlsten previously led product for AWS' Center for Quantum Computing and ran AI infrastructure startup DCAI in Denmark. She received a 1,532,379-share RSU inducement grant. With the Allbirds footwear sale already closed earlier in June, Smartbird is now a pure-play 'managed AI infrastructure' shop pitching dedicated GPU clusters to enterprise customers. BIRD opened weak, swung intraday between $3.84 and $6.90 on heavy volume, and closed at $5.48 — up $1.54 (+39.09%) on the day.",
+        "whyItMatters": "BIRD is now a fully completed 'AI pivot' name: a public-market vehicle with a fresh AI-credentialed CEO and a $100M senior secured note facility earmarked for GPU procurement. The intraday $3.84–$6.90 range — and ~$3M added market cap on retail flow — shows how aggressively microcap money is still chasing managed-AI-compute stories despite the May–June ETF and chip stock wobbles.",
+        "forWho": "small-cap retail, AI-infrastructure watchers",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001653909/000119312526273417/d178962dex991.htm"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Smartbird_Appoints_New_CEO_to_Advance_AI_Infrastructure_Strategy_1071796.png",
+        "alt": "Smartbird AI infrastructure rebrand and new CEO Nadia Carlsten announcement banner",
+        "fit": "cover",
+        "credit": "Smartbird, Inc. / StockTitan"
+      },
+      "reddit": {
+        "title": "Allbirds (BIRD) closes +39% at $5.48 on June 17 as Smartbird rebrand finalizes — ex-AWS Nadia Carlsten named CEO, convert facility doubled to $100M for AI compute",
+        "body": "The former sneaker company finished its pivot into an AI infrastructure shell on June 17. The 8-K hit and BIRD ripped intraday from $3.84 to $6.90 before settling.\n\n* BIRD closed +$1.54 (+39.09%) at $5.48 on June 17\n* Intraday range $3.84 to $6.90 on heavy retail flow\n* Allbirds footwear assets already sold; Smartbird is now a managed-AI-infrastructure pure-play\n* Senior secured convertible note facility upsized from $50M to $100M (incremental $50M funded June 15)\n* New CEO Nadia Carlsten received a 1,532,379-share RSU inducement grant\n\nWhat actually changed in the 8-K:\n\n1. **New CEO from AWS lineage** — Nadia Carlsten previously led product at AWS Center for Quantum Computing and ran AI-infrastructure startup DCAI in Denmark. She replaces Joe Vernachio effective June 18 and joins the board.\n2. **New board chair** — Lily Yan Hughes moves up from independent director to board chair.\n3. **More dry powder for GPU buys** — the company doubled the size of its senior secured convertible note facility to $100M; the new $50M tranche was already drawn on June 15, raising the conversion price on the incremental notes.\n\nNext catalysts: first \"cluster deployment\" customer announcements and any further 8-Ks on convert draws or capex.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bird-smartbird-ai-pivot-june-17-2026](https://stock-tldr.xyz/releases/bird-smartbird-ai-pivot-june-17-2026)"
+      },
+      "publishDate": "2026-06-19T00:45:13.498Z"
+    },
     {
       "id": "intc-aapl-trump-chip-deal-june-18-2026",
       "categories": [
