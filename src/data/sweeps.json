@@ -5412,6 +5412,34 @@
         "crypto",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20260620t003055z",
+      "timestamp": "2026-06-20T00:30:55.589Z",
+      "source": "github-actions-sweep",
+      "summary": "Scanned macro, geopolitical, commodity, crypto, and Asia/Europe close beats for the 24h window ending 2026-06-20T00:25Z. U.S. cash equities were dark for Juneteenth so the news flow was geopolitics and commodities; the only fresh tier-1 story not already in the feed was the June 19 postponement of the Bürgenstock U.S.–Iran technical talks and the concurrent Israel-Hezbollah ceasefire renewal. Earnings, central-bank prints, and crypto turned up nothing above the bar that wasn't already covered in the June 17–18 sweep stack.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-switzerland-talks-postponed-june-19-2026",
+          "title": "Swiss Foreign Ministry confirms U.S.–Iran Bürgenstock talks postponed on June 19 — VP Vance pulls trip after Hezbollah-IDF flare-up, Iran says digitally signed June 18 MoU makes meeting non-urgent; Brent +0.93% to $80.59 / WTI ~$76.28 as Stoxx 600 -0.24%, FTSE -0.35%, CAC -0.55% on durability doubt",
+          "category": "macro",
+          "note": "Lead story for the day — Swiss FM confirmed Bürgenstock postponement, Vance pulled trip, MoU now digital-only; meaningful oil bounce + European-equity dip on durability doubt; distinct event from June 14 deal-complete item already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "crypto",
+        "earnings",
+        "fx"
+      ]
     }
   ]
 }

@@ -1,8 +1,94 @@
 {
-  "generatedAt": "2026-06-19T13:07:49.695Z",
+  "generatedAt": "2026-06-20T00:30:55.589Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-switzerland-talks-postponed-june-19-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Swiss Foreign Ministry confirms U.S.–Iran Bürgenstock talks postponed on June 19 — VP Vance pulls trip after Hezbollah-IDF flare-up, Iran says digitally signed June 18 MoU makes meeting non-urgent; Brent +0.93% to $80.59 / WTI ~$76.28 as Stoxx 600 -0.24%, FTSE -0.35%, CAC -0.55% on durability doubt",
+      "org": "Swiss Federal Department of Foreign Affairs",
+      "date": "2026-06-19",
+      "url": "https://www.yahoo.com/news/us-iran-talks-postponed-date-150307218.html",
+      "summary": "First in-person round of the post-MoU U.S.–Iran negotiations at the Bürgenstock resort is pushed back. VP Vance pulled his trip and Iran's lead negotiator Qalibaf didn't travel; Israel and Hezbollah renew a ceasefire at 4 p.m. after a 150-target IDF strike day.",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent": "$80.59 (+0.93%)",
+        "WTI": "~$76.28",
+        "Stoxx 600": "-0.24%",
+        "FTSE 100": "-0.35%",
+        "DAX": "-0.16%",
+        "CAC 40": "-0.55%",
+        "Nikkei 225": "71,250.06 (+0.28%)",
+        "Kospi": "9,052.42 (-0.13%)"
+      },
+      "tags": [
+        "iran",
+        "us-iran-deal",
+        "burgenstock",
+        "switzerland",
+        "diplomacy",
+        "geopolitics",
+        "lebanon",
+        "hezbollah",
+        "ceasefire",
+        "oil",
+        "wti",
+        "brent",
+        "hormuz",
+        "vance",
+        "juneteenth",
+        "europe-close"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Swiss FM confirms June 19 Bürgenstock signing postponed — Vance cancels trip, Iran cites digital MoU; oil bounces, Europe slips.",
+        "whatIsIt": "Switzerland's Federal Department of Foreign Affairs confirmed on Friday June 19 that the first in-person round of U.S.–Iran technical talks scheduled at the Bürgenstock resort above Lake Lucerne has been postponed until further notice. The session was meant to formalise and implement the framework MoU that Trump declared 'complete' on June 14. Iran's foreign-ministry spokesman Esmaeil Baghaei said an in-person meeting was no longer urgent because the MoU text was signed digitally on June 18.",
+        "howItWorks": "Swiss FM statement: 'The planned talks between the US, Iran, Qatar and Pakistan have been postponed. Switzerland remains ready to facilitate these talks.' VP JD Vance — slated to lead the U.S. delegation — did not depart; the White House said 'the plans for the upcoming technical talks have not been finalised.' Iran's negotiator Mohammad Baqer Qalibaf also stayed away. The postponement coincided with a Friday-morning IDF strike campaign on ~150 Hezbollah targets in southern Lebanon after a Hezbollah attack killed four IDF soldiers; a renewed Israel-Hezbollah ceasefire, brokered by the U.S. and Qatar, took effect at 4 p.m. local time.",
+        "whyItMatters": "U.S. equity desks were dark for Juneteenth, so the read-through went through Europe and commodities. Brent rebounded ~0.93% to $80.59 and WTI changed hands near $76.28 as the postponement reintroduced 'will the deal hold?' risk premium that had been bled out earlier in the week. Stoxx 600 fell 0.24%, FTSE 100 -0.35%, CAC 40 -0.55%, DAX -0.16% — oil & gas led (BP +2.81%) while miners lagged (Antofagasta -6.1%, Fresnillo -4.65%). Asia closed mixed: Nikkei +0.28% to 71,250.06, Kospi -0.13% to 9,052.42. Watch the Monday June 22 U.S. open for the catch-up trade in CL=F, BZ=F and defence names.",
+        "forWho": "macro and energy desks tracking the Iran-deal implementation track and Hormuz throughput risk",
+        "tryIt": "https://finance.yahoo.com/quote/BZ%3DF"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/reuters.com/be0fe42bc71617935dc5b2d90eb189ff",
+        "alt": "Bürgenstock resort hosting U.S.-Iran talks venue overlooking Lake Lucerne, Switzerland",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo News"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://www.yahoo.com/news/us-iran-talks-postponed-date-150307218.html"
+        },
+        {
+          "label": "RTÉ Coverage",
+          "url": "https://www.rte.ie/news/middle-east/2026/0619/1579233-middle-east/"
+        },
+        {
+          "label": "Oil Reaction",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-US-Iran-Peace-Talks-Are-Postponed.html"
+        },
+        {
+          "label": "Europe Close",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/key-european-markets-close-weak-174415732.html"
+        },
+        {
+          "label": "Brent Quote",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "U.S.–Iran Bürgenstock talks postponed June 19 — Vance cancels Switzerland trip, Iran calls in-person meet 'not urgent' after digital MoU; Brent +0.93% to $80.59, Stoxx 600 -0.24% as US sits out Juneteenth",
+        "body": "Friday June 19 was supposed to be the in-person Bürgenstock session that formalised the U.S.–Iran framework MoU Trump announced complete on June 14. Switzerland confirmed the postponement late afternoon local time.\n\n* Swiss FM: \"The planned talks between the US, Iran, Qatar and Pakistan have been postponed. Switzerland remains ready to facilitate these talks.\"\n* VP JD Vance did not depart — White House said \"plans for the upcoming technical talks have not been finalised\"\n* Iran's spokesman Esmaeil Baghaei said the MoU text was signed digitally on June 18, so an in-person meeting was no longer urgent; lead negotiator Qalibaf also stayed home\n* Concurrent IDF strike on ~150 Hezbollah targets in southern Lebanon after a Hezbollah attack killed 4 IDF soldiers; Lebanese health ministry counted 47 killed / 97 wounded\n* Israel and Hezbollah renewed their ceasefire, brokered by the U.S. and Qatar, effective 4 p.m. local time\n\nMarket reaction (U.S. closed for Juneteenth):\n\n1. **Oil bounced** — Brent +0.93% to $80.59 and WTI ~$76.28 as durability risk crept back into the curve.\n2. **Europe slipped** — Stoxx 600 -0.24%, FTSE 100 -0.35%, DAX -0.16%, CAC 40 -0.55%. BP +2.81% led oil & gas; miners lagged with Antofagasta -6.1%, Fresnillo -4.65%.\n3. **Asia mixed** — Nikkei +0.28% to 71,250.06, Kospi -0.13% to 9,052.42.\n\nNext catalysts: Monday June 22 U.S. cash open (Juneteenth catch-up), any reschedule of the Bürgenstock session, Hormuz throughput data.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-switzerland-talks-postponed-june-19-2026](https://stock-tldr.xyz/releases/us-iran-switzerland-talks-postponed-june-19-2026)"
+      },
+      "publishDate": "2026-06-20T00:30:55.589Z"
+    },
     {
       "id": "bird-smartbird-ai-pivot-june-17-2026",
       "categories": [
