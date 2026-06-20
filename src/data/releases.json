@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-06-20T00:30:55.589Z",
+  "generatedAt": "2026-06-20T12:43:33.321Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-rebound-iran-mou-chip-rally-june-18-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "U.S. stocks rebound on Thursday June 18 — S&P 500 +1.08% to 7,500.58, Nasdaq +1.91% to 26,517.93, Dow +0.14% to 51,564.70, Russell 2000 +2.12% to 2,979.77 as chip stocks rally on Intel-Apple deal and Trump signs U.S.–Iran interim MOU at Versailles",
+      "org": "U.S. Equities",
+      "date": "2026-06-18",
+      "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+      "summary": "U.S. equities rallied into the Juneteenth holiday close. S&P 500 +1.08% to 7,500.58, Nasdaq Composite +1.91% to 26,517.93, Dow +0.14% to 51,564.70, Russell 2000 +2.12% to 2,979.77 as the Intel-Apple chip deal lifted SOXX and Trump's U.S.–Iran MOU at Versailles re-opened the Strait of Hormuz.",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI",
+        "^RUT",
+        "INTC",
+        "MU"
+      ],
+      "metrics": {
+        "S&P 500 close": "7,500.58 (+1.08%, +80.48)",
+        "Nasdaq Composite close": "26,517.93 (+1.91%, +496.28)",
+        "Dow close": "51,564.70 (+0.14%, +72.15)",
+        "Russell 2000 close": "2,979.77 (+2.12%, +61.78)",
+        "Intel (INTC)": "+10.64%",
+        "SpaceX (SPCX)": "-~3.56%",
+        "Brent crude": "~$79",
+        "WTI crude": ">$75"
+      },
+      "tags": [
+        "mover",
+        "macro",
+        "us-equities",
+        "rebound",
+        "russell-2000",
+        "small-caps",
+        "soxx",
+        "ai-chips",
+        "intel",
+        "apple",
+        "iran-mou",
+        "versailles",
+        "juneteenth",
+        "june-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Russell 2000 leads, Nasdaq adds 1.9% — chip stocks reignite on Intel-Apple, Iran MOU reopens Hormuz, and small caps catch a bid on softer yields.",
+        "whatIsIt": "U.S. equities rallied broadly on Thursday June 18 into the Juneteenth holiday close. The S&P 500 added 1.08% to 7,500.58, the Nasdaq Composite jumped 1.91% to 26,517.93, the Dow Jones Industrial Average ticked up 0.14% to 51,564.70, and the small-cap Russell 2000 led with +2.12% to 2,979.77. The session reversed most of Wednesday's hawkish-FOMC selloff.",
+        "howItWorks": "Two catalysts drove the bounce. First, Intel jumped 10.64% after Trump's social-media claim that Apple will design and build chips with INTC in the U.S., re-igniting the AI-chip trade — Micron and Marvell hit fresh highs, and the SOXX semiconductor ETF surged. Second, Trump and Iranian President Pezeshkian signed the U.S.–Iran interim MOU at Versailles during the G7 summit, formally lifting the U.S. naval blockade and reopening the Strait of Hormuz to commercial traffic. Brent fell toward $79 and WTI held above $75, taking U.S. gasoline back below $4/gal. SpaceX (SPCX) bucked the rally, down ~3.56% for a second consecutive session.",
+        "whyItMatters": "The Russell 2000's 2.12% outperformance — driven by a softer Treasury curve — is the cleanest signal yet that small caps are catching a bid on the Iran-deal disinflation impulse, despite the FOMC's hawkish dot-plot pivot the day before. With markets closed Friday for Juneteenth, the rally is the last print before next week's PCE inflation report on June 27 — the next major rate-path catalyst.",
+        "forWho": "equity, small-cap and rates traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5ERUT"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/EBtXiB0fz1G5TbsGgXjDBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/12757204-7685-4068-afb1-c39610b9f616",
+        "alt": "Wall Street traders react as U.S. stocks rally on June 18 into the Juneteenth holiday close",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Live",
+          "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html"
+        },
+        {
+          "label": "IBTimes Recap",
+          "url": "https://www.ibtimes.com.au/nasdaq-record-high-intel-apple-partnership-middle-east-tensions-1870914"
+        },
+        {
+          "label": "Russell 2000 Chart",
+          "url": "https://finance.yahoo.com/quote/%5ERUT"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "U.S. stocks rebound into the Juneteenth close — Russell 2000 +2.12%, Nasdaq +1.91%, S&P +1.08% as chips rally on Intel-Apple and Iran MOU reopens Hormuz",
+        "body": "Thursday June 18 reversed most of Wednesday's hawkish-FOMC selloff into the Juneteenth holiday weekend. Close:\n\n* S&P 500: 7,500.58 (+1.08%, +80.48)\n* Nasdaq Composite: 26,517.93 (+1.91%, +496.28)\n* Dow Jones: 51,564.70 (+0.14%, +72.15)\n* Russell 2000: 2,979.77 (+2.12%, +61.78) — biggest gainer of the four\n* Brent crude: ~$79 / WTI: >$75 — U.S. gasoline back below $4/gal\n\nTwo catalysts ran the tape:\n\n1. **Intel-Apple chip deal reignites AI trade** — INTC +10.64% after Trump's claim that Apple will design and build chips with INTC in the U.S.; Micron and Marvell hit fresh highs, and the SOXX semiconductor ETF surged.\n2. **U.S.–Iran interim MOU signed at Versailles** — Trump and Pezeshkian signed during the G7; U.S. lifts naval blockade and Strait of Hormuz reopens to commercial traffic.\n\nSPCX bucked the rally -~3.56% on its second consecutive down session.\n\nNext catalysts: PCE inflation June 27. Markets closed Friday June 19 for Juneteenth, reopen Monday June 22.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-rebound-iran-mou-chip-rally-june-18-2026](https://stock-tldr.xyz/releases/us-stocks-rebound-iran-mou-chip-rally-june-18-2026)"
+      },
+      "publishDate": "2026-06-20T12:43:33.321Z"
+    },
     {
       "id": "us-iran-switzerland-talks-postponed-june-19-2026",
       "categories": [

@@ -5440,6 +5440,31 @@
         "earnings",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260620t124333z",
+      "timestamp": "2026-06-20T12:43:33.321Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: Thursday June 18 U.S. equity rebound into the Juneteenth holiday close, driven by the Intel-Apple chip-deal trade and the U.S.–Iran interim MOU signing at Versailles that reopened the Strait of Hormuz. Russell 2000 led +2.12%; Nasdaq +1.91%; S&P +1.08%; Dow +0.14%. Friday June 19 was Juneteenth (U.S. markets closed); the existing Iran-Switzerland-talks-postponed item already covers the June 19 international tape. No fresh weekend M&A or central-bank prints qualified.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-rebound-iran-mou-chip-rally-june-18-2026",
+          "title": "U.S. stocks rebound on Thursday June 18 — S&P 500 +1.08% to 7,500.58, Nasdaq +1.91% to 26,517.93, Dow +0.14% to 51,564.70, Russell 2000 +2.12% to 2,979.77 as chip stocks rally on Intel-Apple deal and Trump signs U.S.–Iran interim MOU at Versailles",
+          "category": "mover",
+          "note": "June 18 U.S. equity rebound: bridges existing June 17 selloff and the June 19 Iran-Switzerland-talks-postponed item. Russell 2000 outperformance is the cleanest signal; Intel and Iran MOU are the named catalysts."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
