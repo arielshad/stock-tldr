@@ -5497,6 +5497,30 @@
         "analyst",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260621t123700z",
+      "timestamp": "2026-06-21T12:37:00.101Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep. Sunday June 21 with US markets closed Friday June 19 (Juneteenth) and weekend; no fresh earnings prints, no Fed/central-bank decisions, no new M&A announcements in the 72h window. The window is already well-covered: existing items span Iran-US Hormuz tanker recovery (June 19), Switzerland talks postponement after Hezbollah-IDF flare-up (June 19), Intel-Apple chip-design claim (June 18), Accenture and Kroger earnings (June 18), and the BoE hawkish hold (June 18). Weekend Israel-Hezbollah ceasefire renewal-and-violation cycle is a continuation of the geopolitical story already covered by us-iran-switzerland-talks-postponed-june-19-2026 — no distinct market move to anchor a new card.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mna",
+        "mover",
+        "rates",
+        "crypto",
+        "commodity",
+        "geopolitics"
+      ]
     }
   ]
 }
