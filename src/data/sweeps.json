@@ -5465,6 +5465,38 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260621t003303z",
+      "timestamp": "2026-06-21T00:33:03.786Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend sweep covering June 18 to June 21 (markets closed Friday for Juneteenth). Added one fresh commodity item: hard Kpler data on Strait of Hormuz tanker traffic resuming after the June 17 MOU signing — distinct angle from the MOU/talks items already in the feed. No new earnings, M&A, or central-bank events qualified within the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hormuz-tanker-traffic-surge-june-19-2026",
+          "title": "Strait of Hormuz tanker traffic surges to 20 ships on Thursday June 18 — highest since June 2 — as 3 Saudi VLCCs + 1 UAE VLCC carry 6M barrels through reopened lane and 5 Iranian supertankers depart Friday; VP Vance says ~12.5M barrels have flowed since June 17 MOU signing",
+          "category": "commodity",
+          "note": "Hard vessel-tracking data (Kpler, LSEG) confirms the Iran MOU is moving actual barrels — a distinct angle from the MOU-signing and talks-postponed items already in the feed, with specific tanker counts, named vessels, and pre-war comparison."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "mna",
+        "earnings",
+        "crypto",
+        "rates",
+        "fx",
+        "analyst",
+        "regulatory"
+      ]
     }
   ]
 }

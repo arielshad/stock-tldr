@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-06-20T12:43:33.321Z",
+  "generatedAt": "2026-06-21T00:33:03.786Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hormuz-tanker-traffic-surge-june-19-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Strait of Hormuz tanker traffic surges to 20 ships on Thursday June 18 — highest since June 2 — as 3 Saudi VLCCs + 1 UAE VLCC carry 6M barrels through reopened lane and 5 Iranian supertankers depart Friday; VP Vance says ~12.5M barrels have flowed since June 17 MOU signing",
+      "org": "Kpler",
+      "date": "2026-06-19",
+      "url": "https://gcaptain.com/three-saudi-flagged-supertankers-sail-through-hormuz-after-iran-deal-signed-data-shows/",
+      "summary": "Kpler tracks 20 tanker transits of Hormuz on Thursday — highest since June 2 — including 3 Saudi-flagged VLCCs operated by Bahri carrying 6M barrels. Five Iranian supertankers depart with transponders back on Friday.",
+      "tags": [
+        "hormuz",
+        "oil-tankers",
+        "vlcc",
+        "iran-deal",
+        "saudi-arabia",
+        "bahri",
+        "kpler",
+        "shipping",
+        "oil",
+        "supertanker",
+        "ais-transponders",
+        "lng",
+        "qatarenergy",
+        "energy"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Thursday Hormuz transits": "20 (highest since June 2)",
+        "Saudi VLCCs (June 18)": "3 (~6M bbl, operated by Bahri)",
+        "UAE VLCCs (June 18)": "1",
+        "Iranian supertankers departing (June 19)": "5",
+        "Oil flowed since MOU (per VP Vance)": "~12.5M bbl",
+        "Pre-war daily transits (Lloyd's List)": "~120/day",
+        "Vessels still stuck in Gulf": "500+",
+        "Brent (June 19)": "~$80/bbl",
+        "WTI (June 19)": "~$77/bbl"
+      },
+      "explainer": {
+        "tagline": "Real shipping data confirms the Iran MOU is moving oil — but only at a fraction of pre-war Hormuz flow.",
+        "whatIsIt": "Kpler vessel-tracking data shows the Strait of Hormuz saw 20 tanker transits on Thursday June 18, the highest single-day total since June 2 and the first hard evidence that the U.S.-Iran 14-point MoU signed June 17 in Versailles is translating into actual barrels moving. Three Saudi-flagged VLCCs operated by Bahri carried about 6 million barrels through the lane, and one UAE VLCC followed.",
+        "howItWorks": "Per Kpler, 18 of Thursday's 20 transits used the route Iran has designated for crossing Hormuz. On Friday June 19, five Iranian supertankers re-enabled their AIS transponders and were observed departing the region — the first such broadcast traffic in months. QatarEnergy's LNG carrier Mraikh and two COSCO-managed product tankers (Tong Lin Wan, Ye Chi) also threaded through. VP JD Vance said roughly 12.5 million barrels have flowed through Hormuz since the MOU signing.",
+        "whyItMatters": "Pre-war Hormuz averaged ~120 transits/day per Lloyd's List, so Thursday's 20 is still a small fraction. BIMCO and shipping executives warn the central deep-water channel remains mined (estimated ~80 mines, 40-50 days to clear) and more than 500 commercial vessels with ~11,000 seafarers remain stuck in the Gulf. Brent held near $80/bbl and WTI near $77/bbl on Friday as durability doubts from the postponed Bürgenstock talks offset the shipping data.",
+        "forWho": "energy desks, tanker/shipping equity holders, commodity macro traders",
+        "tryIt": "https://hormuztracking.com/"
+      },
+      "image": {
+        "url": "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-18T090209Z_101156291_RC2TVKAQ3PYI_RTRMADP_3_IRAN-CRISIS-SHIPPING-ASIA-scaled.jpg",
+        "alt": "Oil tanker transiting through the Strait of Hormuz after the U.S.-Iran MOU reopened the lane",
+        "fit": "cover",
+        "credit": "Reuters via gCaptain"
+      },
+      "links": [
+        {
+          "label": "gCaptain Bahri VLCC Report",
+          "url": "https://gcaptain.com/three-saudi-flagged-supertankers-sail-through-hormuz-after-iran-deal-signed-data-shows/"
+        },
+        {
+          "label": "Yahoo/AFP Tanker Tracker",
+          "url": "https://www.yahoo.com/news/world/articles/oil-tankers-pass-hormuz-strait-151810227.html"
+        },
+        {
+          "label": "RFE/RL Commercial Traffic",
+          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+        },
+        {
+          "label": "Live Hormuz Tracker",
+          "url": "https://hormuztracking.com/"
+        }
+      ],
+      "reddit": {
+        "title": "Hormuz reopens for real — 20 tankers crossed Thursday (highest since June 2), 3 Saudi VLCCs hauled 6M barrels, and Iranian supertankers turned their transponders back on",
+        "body": "Two days after Trump and Pezeshkian signed the 14-point Versailles MOU, Kpler vessel-tracking data confirms the Strait of Hormuz is moving crude again — but only at a fraction of pre-war flow.\n\n* **20 tankers transited Hormuz on Thursday June 18** — highest single-day count since June 2, per Kpler\n* **3 Saudi-flagged VLCCs operated by Bahri** carried ~6 million barrels through the lane; 1 UAE VLCC followed\n* **5 Iranian supertankers departed Friday June 19** with AIS transponders back on for the first time in months\n* **~12.5M barrels** have flowed through Hormuz since the MOU signing, per VP JD Vance\n* QatarEnergy's LNG carrier **Mraikh** and two COSCO-managed product tankers (**Tong Lin Wan**, **Ye Chi**) also threaded through\n\nThe caveats are still big:\n\n1. **Volume is nowhere near normal** — pre-war Hormuz averaged ~120 transits/day per Lloyd's List. Thursday's 20 is a sixth of that.\n2. **Central channel stays closed** — BIMCO and shippers warn the deep-water channel is mined (~80 mines, 40-50 days to clear).\n3. **500+ commercial vessels with ~11,000 seafarers** remain stuck inside the Gulf waiting for transit windows.\n\nBrent held near $80/bbl and WTI near $77/bbl on Friday — the shipping surge was offset by the same-day cancellation of U.S.–Iran Bürgenstock follow-up talks.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hormuz-tanker-traffic-surge-june-19-2026](https://stock-tldr.xyz/releases/hormuz-tanker-traffic-surge-june-19-2026)"
+      },
+      "publishDate": "2026-06-21T00:33:03.786Z"
+    },
     {
       "id": "us-stocks-rebound-iran-mou-chip-rally-june-18-2026",
       "categories": [
