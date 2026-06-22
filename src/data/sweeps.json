@@ -5521,6 +5521,36 @@
         "commodity",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20260622t004306z",
+      "timestamp": "2026-06-22T00:43:06.051Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday June 21 sweep: Iran's IRGC declared the Strait of Hormuz closed Saturday over alleged ceasefire violations; Trump countered with a 9:24 a.m. ET Truth Social threat while VP Vance opened in-person Bürgenstock talks. Oil popped, US equity futures gapped lower. No other 72h-fresh items cleared the bar — earnings week ahead (FedEx Tue, Micron Wed, Nike Thu) and Thursday PCE are the next catalysts.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "iran-irgc-hormuz-shut-trump-threat-june-21-2026",
+          "title": "Iran IRGC declares Strait of Hormuz shut on Saturday June 20 — Trump posts 'we'll hit Iran very hard again, just like we did last week, only harder!!!' at 9:24 a.m. ET Sunday June 21 while VP Vance opens Bürgenstock talks; S&P 500 futures -0.42% to 7,538.75, Nasdaq 100 -0.62%, WTI +2.20% to $77.52, Brent above $81 Sunday night",
+          "category": "macro",
+          "note": "Iran formally re-closes Strait of Hormuz Saturday June 20; Trump's Sunday morning Truth Social threat + Vance's Bürgenstock session + Sunday-night futures slide / oil pop is the lead 72h-fresh macro story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "earnings",
+        "mover",
+        "crypto",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }

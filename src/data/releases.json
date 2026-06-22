@@ -1,8 +1,103 @@
 {
-  "generatedAt": "2026-06-21T12:37:00.101Z",
+  "generatedAt": "2026-06-22T00:43:06.051Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "iran-irgc-hormuz-shut-trump-threat-june-21-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Iran IRGC declares Strait of Hormuz shut on Saturday June 20 — Trump posts 'we'll hit Iran very hard again, just like we did last week, only harder!!!' at 9:24 a.m. ET Sunday June 21 while VP Vance opens Bürgenstock talks; S&P 500 futures -0.42% to 7,538.75, Nasdaq 100 -0.62%, WTI +2.20% to $77.52, Brent above $81 Sunday night",
+      "org": "Islamic Revolutionary Guard Corps",
+      "date": "2026-06-21",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/",
+      "summary": "Iran's IRGC declared the Strait of Hormuz closed Saturday over alleged ceasefire violations; Trump threatened 'we'll hit Iran very hard again' Sunday while Vance opened in-person Bürgenstock talks. US shipping data shows 55 ships transited Saturday with ~17M barrels. Sunday futures slipped, WTI +2.2%.",
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "ES=F",
+        "NQ=F",
+        "YM=F"
+      ],
+      "metrics": {
+        "S&P 500 futures": "7,538.75 (-0.42%)",
+        "Nasdaq 100 futures": "30,528 (-0.62%)",
+        "Dow futures": "51,880 (-0.25%)",
+        "WTI (CL=F)": "$77.52 (+$1.67 / +2.20%)",
+        "Brent": "above $81",
+        "Hormuz transits Saturday": "55 ships / ~17M barrels (US CENTCOM)"
+      },
+      "tags": [
+        "iran",
+        "hormuz",
+        "irgc",
+        "khatam-al-anbiya",
+        "us-iran-deal",
+        "us-iran-mou",
+        "trump",
+        "truth-social",
+        "vance",
+        "burgenstock",
+        "switzerland",
+        "diplomacy",
+        "geopolitics",
+        "lebanon",
+        "hezbollah",
+        "oil",
+        "wti",
+        "brent",
+        "futures",
+        "weekend-gap"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "IRGC says Hormuz is shut; Trump threatens fresh strikes 9:24 a.m. ET Sunday as Vance restarts Bürgenstock talks; oil pops, US futures gap lower.",
+        "whatIsIt": "Iran's Islamic Revolutionary Guard Corps (Khatam al-Anbiya Central Headquarters) declared the Strait of Hormuz closed on Saturday June 20, citing the United States' and Israel's 'explicit breach' of the first clause of the June 17 U.S.–Iran memorandum of understanding via continued IDF operations in southern Lebanon. President Trump replied on Truth Social at 9:24 a.m. ET Sunday June 21 threatening fresh strikes, even as VP JD Vance opened the long-delayed in-person Bürgenstock session with Iran's delegation. U.S. equity index and oil futures gapped against each other Sunday evening.",
+        "howItWorks": "IRGC warned ship crews their security would be 'at risk' if they approached the waterway; Iran's Fars news agency said Sunday 'the IRGC Navy had not authorised any vessel to transit and would not until further notice.' Supreme Leader adviser Mohammad Mokhber posted that 'as long as the agreement remains only on paper, energy flows in the Middle East will also remain halted.' U.S. Central Command spokesman Captain Tim Hawkins responded 'Iran does not control the Strait of Hormuz' and tallied 55 commercial vessels carrying ~17M barrels through the strait on Saturday; VP Vance said 'I have seen no evidence of the strait being closed.' Lloyd's List Intelligence tracked three India-linked supertankers (Desh Vibhor, Desh Vaibhav, Sanmar Herald) carrying ~6M barrels of Iraqi and Kuwaiti crude emerging in the Gulf of Oman on Sunday and noted the first southern-route transits in weeks. Trump's Truth Social post (9:24 a.m. ET): 'Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don't, we'll hit Iran very hard again, just like we did last week, only harder!!!' Vance opened his 9:04 a.m. ET Bürgenstock remarks by saying the U.S. aimed to 'transform our relationship with the people of Iran' and that 'great progress has been made' on Lebanon and the nuclear file. Iranian Parliament Speaker Mohammad Bagher Ghalibaf replied at 1:19 p.m. ET on X that U.S. officials should 'be careful with their statements' because Iran's armed forces are 'ready to respond.'",
+        "whyItMatters": "Sunday night CME futures: S&P 500 futures (ES=F) -0.42% to 7,538.75, Nasdaq 100 (NQ=F) -0.62% to 30,528.00, Dow (YM=F) -0.25% to 51,880. Energy gapped the other way: WTI (CL=F) +$1.67 (+2.20%) to $77.52 and Brent above $81 as the bid for risk premium returned a week after Trump's 'deal complete' Sunday-night gap lower in crude. This is the third sharp reversal in the Iran headline trade in eight sessions and sets up Monday June 22 as the post-Juneteenth catch-up open with cross-asset whipsaw risk into Thursday's May PCE print and Wednesday after-close MU earnings. Names to watch: energy complex (XLE, XOP, USO), defence (LMT, NOC, RTX), tanker/shipping (FRO, STNG, INSW) and the AI cap-ex chip leaders that have led the post-MoU rally.",
+        "forWho": "macro, energy and geopolitical-event desks",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF"
+      },
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/21/ccb4ca9b-e29d-46c4-a0f1-2fd4f2fd606f/thumbnail/1200x630/a24aac17f51e2d526bff6b2814d8506c/gettyimages-2282094037.jpg",
+        "alt": "VP JD Vance and Iranian negotiators at Bürgenstock resort in Switzerland on Sunday June 21 2026",
+        "fit": "cover",
+        "credit": "Getty Images via CBS News"
+      },
+      "links": [
+        {
+          "label": "CBS Live Updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html"
+        },
+        {
+          "label": "Yahoo Markets Live",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html"
+        },
+        {
+          "label": "Shipping Data",
+          "url": "https://www.thenationalnews.com/news/mena/2026/06/21/irans-irgc-says-hormuz-is-shut-shipping-data-suggests-otherwise/"
+        },
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says"
+        },
+        {
+          "label": "WTI Quote",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "Iran's IRGC declares Strait of Hormuz shut Saturday — Trump posts 'we'll hit Iran very hard again' Sunday 9:24 a.m. ET while Vance opens Bürgenstock talks; WTI +2.2% to $77.52, S&P 500 futures -0.42% Sunday night",
+        "body": "The Iran headline trade reversed again over the weekend. Here's the timeline.\n\n* **Saturday June 20**: IRGC's Khatam al-Anbiya Central Headquarters declares the Strait of Hormuz closed, citing 'explicit breach' of the June 17 MoU by U.S./Israel over ongoing IDF operations in Lebanon.\n* IRGC warns ship crews their security is 'at risk' if they approach the waterway; Fars news says Sunday 'the IRGC Navy had not authorised any vessel to transit and would not until further notice.'\n* **U.S. CENTCOM disputes the closure** — spokesman Capt. Tim Hawkins says 'Iran does not control the Strait of Hormuz' and reports 55 commercial vessels transited safely Saturday carrying ~17M barrels.\n* Lloyd's List Intelligence tracks 3 India-linked supertankers (Desh Vibhor, Desh Vaibhav, Sanmar Herald) carrying ~6M barrels of Iraqi and Kuwaiti crude into the Gulf of Oman on Sunday.\n* **Sunday 9:04 a.m. ET**: Vance opens Bürgenstock talks in person with Iran's delegation, says 'great progress has been made' on Lebanon and the nuclear file.\n* **Sunday 9:24 a.m. ET**: Trump posts on Truth Social: *'Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don't, we'll hit Iran very hard again, just like we did last week, only harder!!!'*\n* **Sunday 1:19 p.m. ET**: Iran Parliament Speaker Mohammad Bagher Ghalibaf says U.S. officials should 'be careful with their statements' — armed forces 'ready to respond.'\n\nSunday night CME futures:\n\n1. **Equity futures gap lower** — S&P 500 (ES=F) 7,538.75 (-0.42%), Nasdaq 100 (NQ=F) 30,528 (-0.62%), Dow (YM=F) 51,880 (-0.25%).\n2. **Crude pops** — WTI (CL=F) +$1.67 to $77.52 (+2.20%), Brent above $81.\n3. **Third reversal in eight sessions** in the Iran-MoU headline trade — post-Juneteenth Monday cash open will set the cross-asset catch-up.\n\nNext catalysts: Monday June 22 U.S. cash open, ongoing Bürgenstock session readout, Wednesday Micron earnings, Thursday May PCE.\n\nFull breakdown: [https://stock-tldr.xyz/releases/iran-irgc-hormuz-shut-trump-threat-june-21-2026](https://stock-tldr.xyz/releases/iran-irgc-hormuz-shut-trump-threat-june-21-2026)"
+      },
+      "publishDate": "2026-06-22T00:43:06.051Z"
+    },
     {
       "id": "hormuz-tanker-traffic-surge-june-19-2026",
       "categories": [
