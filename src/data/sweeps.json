@@ -5551,6 +5551,46 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260622t135850z",
+      "timestamp": "2026-06-22T13:58:50.596Z",
+      "source": "github-actions-sweep",
+      "summary": "Three June 22 adds: AbbVie's $10.9B all-cash bolt-on of Apogee (49.49% premium, APGE +~47%), the U.S.-Iran 60-day roadmap from the Bürgenstock talks (Brent -~2%, Lebanon deconfliction cell stood up), and SK Hynix overtaking Samsung in common-share KOSPI market cap for the first time since November 2000 on HBM dominance.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "abbv-apge-acquisition-june-22-2026",
+          "title": "AbbVie to acquire Apogee Therapeutics for $10.9B all-cash at $135.11/share on Monday June 22 — 49.49% premium to APGE's $90.38 Thursday close — APGE +~47% intraday as both boards unanimously approve, Q3 2026 close, EPS-accretive in 2032; $381.27M reciprocal termination fee",
+          "category": "mna",
+          "note": "Largest AbbVie bolt-on since Allergan, primary 8-K + press release confirmed, 49.49% premium and ~47% APGE move are tier-1 covered."
+        },
+        {
+          "id": "us-iran-burgenstock-roadmap-june-22-2026",
+          "title": "U.S. and Iran agree to 60-day roadmap at Bürgenstock on Monday June 22 — Vance calls it 'historic'; mediators Pakistan and Qatar confirm Hormuz contact channel and Lebanon deconfliction cell; Brent -~2% to ~$78, WTI ~$74 as technical talks continue all week",
+          "category": "macro",
+          "note": "Distinct from the June 19 postponement and June 21 Trump-threat items — this is the actual first-round outcome with a 60-day roadmap and two operational mechanisms; drove the oil unwind today."
+        },
+        {
+          "id": "skhynix-overtakes-samsung-market-cap-june-22-2026",
+          "title": "SK Hynix overtakes Samsung Electronics in market cap on Monday June 22 — first time since November 2000 — as 5.32% rally lifts SK Hynix common-share cap to KRW 2,083T (~$1.38T) on Nvidia HBM monopoly; Samsung disputes, citing preferred shares",
+          "category": "mover",
+          "note": "First Samsung-SK Hynix crossover since Nov 2000; structural AI-memory rerating with read-through into Micron's print Wednesday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "macro",
+        "commodity",
+        "sector"
+      ]
     }
   ]
 }
