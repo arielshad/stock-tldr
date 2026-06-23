@@ -1,8 +1,216 @@
 {
-  "generatedAt": "2026-06-23T00:35:45.782Z",
+  "generatedAt": "2026-06-23T13:05:31.219Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "kospi-fss-leveraged-etf-crash-june-23-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "KOSPI -9.99% to 8,203.84 on Tuesday June 23 — biggest one-day plunge since March 4 — Samsung Electronics -12.3% / SK Hynix -12.5% trigger twin circuit breakers as FSS Governor Lee Chan-jin warns single-stock leveraged ETFs are 'enriching brokerages at retail's expense'",
+      "org": "Korea Exchange",
+      "date": "2026-06-23",
+      "url": "https://www.marketscreener.com/news/south-korea-s-kospi-plunges-nearly-10-after-regulator-cautions-on-leveraged-etfs-ce7f5fdadb81f02d",
+      "summary": "KOSPI -9.99% to 8,203.84 — biggest one-day plunge since March 4 — Samsung -12.3% and SK Hynix -12.5% trigger two circuit breakers after Korea's FSS warns leveraged single-stock ETFs enrich brokerages, not retail.",
+      "tags": [
+        "kospi",
+        "samsung",
+        "sk-hynix",
+        "leveraged-etf",
+        "fss",
+        "korea",
+        "regulator",
+        "circuit-breaker",
+        "chip-selloff",
+        "ai-trade"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "KOSPI close": "8,203.84 (-9.99% / -910.71 pts)",
+        "Samsung Electronics": "-12.3%",
+        "SK Hynix": "-12.5%",
+        "Circuit breakers": "2 triggered (sell-side 11:40am, first-stage 2:40pm)",
+        "Single-stock leveraged ETF AUM": "KRW 4.5T → 14T in <1 month"
+      },
+      "explainer": {
+        "tagline": "Korea's chip kings tumble 12% as the FSS publicly attacks the leveraged ETF complex powering the rally.",
+        "whatIsIt": "South Korea's KOSPI fell 9.99% to 8,203.84 on Tuesday June 23 — a 910.71-point drop, the index's worst single session since March 4. Samsung Electronics dropped 12.3% and SK Hynix dropped 12.5%, the two stocks that make up nearly half the index. The Korea Exchange triggered a sell-side circuit breaker at 11:40 a.m. local time and a first-stage market-wide halt around 2:40 p.m., the rare twin-breaker session.",
+        "howItWorks": "The catalyst is a regulatory broadside, not a fundamental break. On Tuesday, FSS Governor Lee Chan-jin publicly criticized the single-stock leveraged ETFs tracking Samsung and SK Hynix that debuted in May, saying the products had 'done little more than enrich securities firms at retail investors' expense.' The FSS noted commissions paid by investors already equal 40-70% of some products' market value and that cumulative transaction fees could reach KRW 5-10T at current turnover. AUM in those single-stock leveraged ETFs swelled from KRW 4.5T at launch to KRW 14T in under a month. The FSS signaled strengthened trade monitoring, credit-risk controls, expanded disclosure, and possible curbs on margin trading and securities lending.",
+        "whyItMatters": "Foreign investors led the selling and the chip selloff spilled outside Korea: Nasdaq 100 futures slid roughly 2.7% pre-open, Micron fell about 7.9% pre-market into its June 24 print, ASMI and STMicroelectronics dropped over 5% in Europe, and the KOSDAQ also triggered a circuit breaker. The episode is the first big regulatory crackdown on the leveraged-vehicle plumbing of the AI chip trade and a stress test for global semis at peak valuations.",
+        "forWho": "macro traders, semis investors",
+        "tryIt": "https://finance.yahoo.com/quote/%5EKS11/"
+      },
+      "image": {
+        "url": "https://www.kedglobal.com/data/ked/image/2026/06/23/ked202606230001.jpg",
+        "alt": "FSS Governor Lee Chan-jin speaking on Korean single-stock leveraged ETFs",
+        "fit": "cover",
+        "credit": "KED Global"
+      },
+      "links": [
+        {
+          "label": "FSS Warning (KED)",
+          "url": "https://www.kedglobal.com/policy/newsView/ked202606230001"
+        },
+        {
+          "label": "Reuters via TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42V06D:0-south-korea-s-kospi-plunges-nearly-10-after-regulator-cautions-on-leveraged-etfs/"
+        },
+        {
+          "label": "Korea Herald: FSS Chief",
+          "url": "https://www.koreaherald.com/article/10784073"
+        },
+        {
+          "label": "KOSPI Chart",
+          "url": "https://finance.yahoo.com/quote/%5EKS11/"
+        }
+      ],
+      "reddit": {
+        "title": "KOSPI -9.99% to 8,203.84, twin circuit breakers — Samsung and SK Hynix both -12% after Korea's top regulator publicly trashes leveraged single-stock ETFs",
+        "body": "Tuesday June 23 was the worst day for Korean stocks since March 4 — and the catalyst wasn't earnings, it was the regulator.\n\n* KOSPI -9.99% to 8,203.84 (down 910.71 points) — twin circuit breakers (sell-side at 11:40am, first-stage at 2:40pm)\n* Samsung Electronics -12.3%, SK Hynix -12.5% — the two names that make up roughly half the index\n* Nasdaq 100 futures -2.7% pre-open, Micron -\\~7.9% pre-market ahead of June 24 earnings\n* Single-stock leveraged ETFs on Samsung/Hynix went from KRW 4.5T to KRW 14T AUM in under a month\n\nWhat actually broke the market:\n\n1. **FSS Governor Lee Chan-jin went on the record** — said the new single-stock leveraged ETFs (debuted in May) are 'enriching brokerages at retail investors' expense.' The regulator estimates commissions already equal 40-70% of some products' value.\n2. **Concrete measures are coming** — strengthened trade monitoring, credit-risk controls, more disclosure, and potential curbs on margin trading and securities lending.\n3. **The AI chip trade has its first regulatory stress test** — Korea exporting fear: ASMI and STM down 5%+ in Europe, U.S. futures rolling over going into Micron earnings and the rest of the week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kospi-fss-leveraged-etf-crash-june-23-2026](https://stock-tldr.xyz/releases/kospi-fss-leveraged-etf-crash-june-23-2026)"
+      },
+      "publishDate": "2026-06-23T13:05:31.219Z"
+    },
+    {
+      "id": "cvx-msft-kilby-2-67gw-deal-june-22-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Chevron and Microsoft sign 20-year 2.67 GW Permian power deal on Monday June 22 — 'Project Kilby' Reeves County, West Texas complex targets FID by end of 2026 and first power 2028; CVX +1.3% premarket Tuesday as energy-AI infrastructure pact gets its first mega-PPA",
+      "org": "Chevron",
+      "date": "2026-06-22",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-microsoft-strike-20-deal-125618952.html",
+      "tickers": [
+        "CVX",
+        "MSFT"
+      ],
+      "summary": "Chevron and Microsoft sign 20-year 2.67 GW Permian power deal on Monday June 22 — 'Project Kilby' Reeves County complex targets FID by end of 2026, first power 2028; CVX +1.3% premarket Tuesday.",
+      "tags": [
+        "chevron",
+        "microsoft",
+        "ppa",
+        "natural-gas",
+        "permian",
+        "data-center",
+        "ai-capex",
+        "ge-vernova",
+        "caterpillar",
+        "project-kilby"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Capacity": "2.67 GW (≈2M-home equivalent)",
+        "Term": "20-year PPA",
+        "Site": "2,000+ acres, Reeves County, TX",
+        "FID target": "End of 2026",
+        "First power": "2028",
+        "CVX premarket Tuesday": "+1.3%"
+      },
+      "explainer": {
+        "tagline": "Chevron stands up a dedicated 2.67 GW gas-fired power complex in the Permian for a Microsoft AI data center next door.",
+        "whatIsIt": "Chevron and Microsoft announced 'Project Kilby' on Monday June 22 — a co-located power complex and Microsoft data center in Reeves County, West Texas. Chevron subsidiary Energy Forge One LLC will build a phased, modular 2.67 GW gas-fired generation site on more than 2,000 acres, with output sold to Microsoft under a 20-year power purchase agreement.",
+        "howItWorks": "Most of the generation will come from GE Vernova gas turbines, with the balance supplied by Caterpillar's Solar Turbines unit. Chevron is partnering with Joulent, an energy company backed by Engine No. 1, on construction. Fuel will be drawn from Chevron's existing Permian gas assets — capacity that often gets flared today because regional pipelines are full. Final investment decision is targeted by the end of 2026 subject to permits; first power delivery is targeted for 2028. Chevron said it expects 'mid-teen returns' on the project.",
+        "whyItMatters": "It's the first mega-scale 'co-located gas-plus-data-center' commitment by a U.S. supermajor and a hyperscaler, after months of rumored deals. CVX rose 1.3% in pre-market Tuesday as investors read it as a structural new revenue stream tied to AI capex rather than oil price. For Microsoft, it locks in dedicated power that does not depend on ERCOT capacity auctions, a relief valve as transmission queues clog. GE Vernova's gas-turbine backlog grows; Engine No. 1 — the activist that once put climate directors on Exxon's board — is now the build partner on a fossil-power project.",
+        "forWho": "energy, utilities, AI infrastructure",
+        "tryIt": "https://finance.yahoo.com/quote/CVX/"
+      },
+      "image": {
+        "url": "https://www.bicmagazine.com/downloads/35148/download/Chevron%20Reuters%20Oct%202025.JPG?cb=1075b5de89ed8b8b8b68906230f366af&w=1200",
+        "alt": "Chevron logo on company facility signage",
+        "fit": "cover",
+        "credit": "Reuters via BIC Magazine"
+      },
+      "links": [
+        {
+          "label": "World Oil Coverage",
+          "url": "https://www.worldoil.com/news/2026/6/22/chevron-signs-20-year-microsoft-power-deal-for-west-texas-ai-project/"
+        },
+        {
+          "label": "Motley Fool Analysis",
+          "url": "https://www.fool.com/investing/2026/06/22/chevron-is-building-a-massive-power-plant-to-support-a-microsoft-data-center-heres-what-it-means-for-the-energy-stock/"
+        },
+        {
+          "label": "BIC Magazine Details",
+          "url": "https://www.bicmagazine.com/industry/powergen/chevron-signs-power-agreement-microsoft/"
+        },
+        {
+          "label": "CVX Chart",
+          "url": "https://finance.yahoo.com/quote/CVX/"
+        }
+      ],
+      "reddit": {
+        "title": "Chevron + Microsoft sign 20-year, 2.67 GW Permian power deal — 'Project Kilby' becomes the first U.S. supermajor / hyperscaler co-located power-plus-data-center build",
+        "body": "Chevron and Microsoft announced 'Project Kilby' on Monday June 22 — a power-plus-data-center complex in Reeves County, West Texas. Here are the hard numbers:\n\n* 2.67 GW gas-fired generation, enough to power \\~2 million homes\n* 20-year power purchase agreement (CVX sells power to MSFT)\n* >2,000 acres in the Permian, fed by Chevron's existing gas\n* FID targeted by end of 2026, first power 2028\n* CVX +1.3% premarket Tuesday\n\nWhy it matters:\n\n1. **First mega-scale 'co-located gas + hyperscaler' deal** — Microsoft skips the ERCOT queue entirely and gets dedicated capacity. Other hyperscalers are watching.\n2. **GE Vernova wins the turbine package** — most of the generation is GE Vernova gas turbines with Caterpillar's Solar Turbines as supplemental.\n3. **Engine No. 1 is on the build side** — the activist that once put climate directors on Exxon's board is now Chevron's partner (via Joulent) on a fossil-power buildout for AI.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cvx-msft-kilby-2-67gw-deal-june-22-2026](https://stock-tldr.xyz/releases/cvx-msft-kilby-2-67gw-deal-june-22-2026)"
+      },
+      "publishDate": "2026-06-23T13:05:31.219Z"
+    },
+    {
+      "id": "orcl-10k-21k-layoffs-june-22-2026",
+      "categories": [
+        "insider",
+        "mover"
+      ],
+      "title": "Oracle FY2026 10-K discloses 13% workforce reduction (~21,000 jobs) on Monday June 22 — total headcount falls from 162,000 to 141,000 as restructuring spend jumps 5× to $1.84B (from $374M); ORCL ~-2.6% premarket Tuesday June 23",
+      "org": "Oracle",
+      "date": "2026-06-22",
+      "url": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
+      "tickers": [
+        "ORCL"
+      ],
+      "summary": "Oracle FY2026 10-K filed Monday June 22 discloses ~21,000 job cuts (~13%) — headcount 162K → 141K as restructuring spend jumps to $1.84B from $374M; company cites AI deployment; ORCL -2.6% premarket Tuesday.",
+      "tags": [
+        "oracle",
+        "10-k",
+        "layoffs",
+        "ai-productivity",
+        "restructuring",
+        "capex",
+        "workforce",
+        "annual-report"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Workforce May 31 2026": "~141,000 (vs ~162,000 yr ago)",
+        "Reduction": "~21,000 (~13%)",
+        "FY26 restructuring": "$1.84B (vs $374M FY25)",
+        "ORCL premarket Tuesday": "~-2.6%"
+      },
+      "explainer": {
+        "tagline": "Oracle's annual report confirms a 13% workforce cut as the company plows savings into AI infrastructure and explicitly ties layoffs to its own AI deployment.",
+        "whatIsIt": "Oracle filed its FY2026 10-K with the SEC on Monday June 22, covering the fiscal year ended May 31, 2026. The filing discloses total workforce of about 141,000 full-time employees, down from about 162,000 a year earlier — a reduction of roughly 21,000 jobs, or 13%. Oracle also disclosed $1.84B in restructuring costs for fiscal 2026, up from $374M in fiscal 2025.",
+        "howItWorks": "Oracle's 10-K explicitly cites AI deployment as a workforce driver — the filing says 'the adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce.' The cuts were progressive: an initial round in early fiscal 2026 was followed by additional rounds through May, including a high-profile late-Q1 wave that affected Oracle Cloud Infrastructure (OCI). The $1.84B restructuring spend covers severance and other exit costs.",
+        "whyItMatters": "Coming three weeks after Oracle's $19.2B Q4 FY26 print and ~$70B FY27 capex guide (June 10), the 10-K reframes the AI build-out: Oracle is funding the capex partly via headcount, with restructuring as a recurring line item rather than a one-off. ORCL fell ~2.6% pre-market Tuesday as Bloomberg and CNBC re-circulated the disclosure. It also marks one of the largest single-year workforce reductions at a megacap software company, and adds Oracle to Meta, Salesforce, Google, and Microsoft on the list of companies citing AI in their formal layoff disclosures.",
+        "forWho": "software analysts, ORCL holders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526277521/orcl-20260531.htm"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108325267-1782203056487-gettyimages-1689131337-20090101230925-99-327234.jpeg?v=1782203110&w=1920&h=1080",
+        "alt": "Oracle corporate signage at the company's headquarters",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Oracle 10-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526277521/orcl-20260531.htm"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-cuts-21-000-221026147.html"
+        },
+        {
+          "label": "ORCL Chart",
+          "url": "https://finance.yahoo.com/quote/ORCL/"
+        }
+      ],
+      "reddit": {
+        "title": "Oracle's FY26 10-K dropped Monday — 21,000 jobs cut (~13% of workforce), $1.84B restructuring spend (5× last year), and the filing pins it on AI",
+        "body": "Oracle filed its FY2026 10-K on Monday June 22 — the fiscal year ending May 31. The annual report is the first hard confirmation of how big this year's cuts actually got:\n\n* Total workforce: \\~141,000 vs \\~162,000 a year ago — about 21,000 net positions gone\n* That's roughly 13% of the prior-year base\n* Restructuring spend $1.84B in fiscal 2026 vs $374M in fiscal 2025 — about 5× more\n* ORCL \\~-2.6% in pre-market Tuesday after Bloomberg / CNBC picked up the filing\n\nWhat's actually new in the 10-K:\n\n1. **Oracle ties it directly to AI** — the filing says 'the adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce.' Few large-cap 10-Ks have been that explicit.\n2. **Capex math is the real story** — three weeks after Oracle guided \\~$70B in FY27 capex on the Q4 call, the 10-K shows that part of the funding is coming from headcount, not just debt or operating leverage.\n3. **OCI cloud was in scope** — the late-Q1 wave was disproportionately Oracle Cloud Infrastructure, the same business Oracle is pouring AI capex into.\n\nFull breakdown: [https://stock-tldr.xyz/releases/orcl-10k-21k-layoffs-june-22-2026](https://stock-tldr.xyz/releases/orcl-10k-21k-layoffs-june-22-2026)"
+      },
+      "publishDate": "2026-06-23T13:05:31.219Z"
+    },
     {
       "id": "gety-openai-chatgpt-display-deal-june-22-2026",
       "categories": [

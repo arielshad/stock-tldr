@@ -5627,6 +5627,46 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260623t130531z",
+      "timestamp": "2026-06-23T13:05:31.219Z",
+      "source": "github-actions-sweep",
+      "summary": "Three items: KOSPI -9.99% twin-circuit-breaker crash on June 23 after Korea's FSS publicly attacked single-stock leveraged ETFs (seismic); Chevron-Microsoft 'Project Kilby' 2.67 GW Permian PPA on June 22 (major); Oracle FY26 10-K disclosing ~21,000 layoffs and AI-driven workforce shift on June 22 (major).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "kospi-fss-leveraged-etf-crash-june-23-2026",
+          "title": "KOSPI -9.99% to 8,203.84 on Tuesday June 23 — biggest one-day plunge since March 4 — Samsung Electronics -12.3% / SK Hynix -12.5% trigger twin circuit breakers as FSS Governor Lee Chan-jin warns single-stock leveraged ETFs are 'enriching brokerages at retail's expense'",
+          "category": "mover",
+          "note": "Seismic — Korea's worst session since March 4, twin circuit breakers, foreign-led chip dumping, direct spillover to Nasdaq futures and EU semis ahead of Micron earnings."
+        },
+        {
+          "id": "cvx-msft-kilby-2-67gw-deal-june-22-2026",
+          "title": "Chevron and Microsoft sign 20-year 2.67 GW Permian power deal on Monday June 22 — 'Project Kilby' Reeves County, West Texas complex targets FID by end of 2026 and first power 2028; CVX +1.3% premarket Tuesday as energy-AI infrastructure pact gets its first mega-PPA",
+          "category": "mover",
+          "note": "First mega-scale 'co-located gas + hyperscaler' build commitment; CVX +1.3% premarket Tuesday."
+        },
+        {
+          "id": "orcl-10k-21k-layoffs-june-22-2026",
+          "title": "Oracle FY2026 10-K discloses 13% workforce reduction (~21,000 jobs) on Monday June 22 — total headcount falls from 162,000 to 141,000 as restructuring spend jumps 5× to $1.84B (from $374M); ORCL ~-2.6% premarket Tuesday June 23",
+          "category": "insider",
+          "note": "Oracle 10-K confirms 13% workforce reduction and 5× restructuring spend with explicit AI tie-in; reframes the company's ~$70B FY27 capex guide."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "mover",
+        "sector",
+        "insider"
+      ]
     }
   ]
 }
