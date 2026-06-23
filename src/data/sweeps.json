@@ -5591,6 +5591,42 @@
         "commodity",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260623t003545z",
+      "timestamp": "2026-06-23T00:35:45.782Z",
+      "source": "github-actions-sweep",
+      "summary": "Two single-name movers from Monday June 22: GETY +123% on a multi-year ChatGPT display deal with OpenAI (display-only, no training), and SPCX -16.4% as SpaceX launches its $20B inaugural IG bond sale to refinance the March xAI-merger bridge loan. Macro/Iran is already covered by an existing same-day entry.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gety-openai-chatgpt-display-deal-june-22-2026",
+          "title": "Getty Images (GETY) +123% to $1.35 on Monday June 22 — multi-year ChatGPT display partnership with OpenAI sends shares from $0.61 Friday close, intraday high $2.66 (+336%), as 8-K confirms display-only (not training) terms with Getty/iStock/Unsplash content",
+          "category": "mover",
+          "note": "Major single-name mover with primary-source 8-K, multi-year licensing template that resets AI-content economics; not covered by any existing entry."
+        },
+        {
+          "id": "spcx-20b-debut-bond-offering-june-22-2026",
+          "title": "SpaceX (SPCX) -16.4% to $154.60 on Monday June 22 — launches $20B inaugural senior-unsecured note sale to refinance March xAI-merger bridge loan; 8-K discloses $100.8B cash as of June 19; Fitch BBB+ / Moody's Baa1; three-day drawdown ~23% erases ~$600B of post-IPO value",
+          "category": "mover",
+          "note": "Major single-name mover and credit-market debut with 8-K primary source. Distinct from existing SPCX IPO / Day 2 / Anysphere entries (this is the bond debut and the 3-day drawdown)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "mna",
+        "rates",
+        "macro",
+        "earnings",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
