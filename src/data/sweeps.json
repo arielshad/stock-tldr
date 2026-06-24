@@ -5700,6 +5700,60 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260624t125119z",
+      "timestamp": "2026-06-24T12:51:19.914Z",
+      "source": "github-actions-sweep",
+      "summary": "5 adds for Tuesday June 23 / Wednesday June 24 premarket: U.S. stocks chip rout wrap (S&P -1.44%, Nasdaq -2.21% on KOSPI spillover + BofA hawkish call), BofA's reversal to calling three Fed hikes in 2026, GOOGL replacing VZ in the Dow effective June 29 (with Honeywell Technologies staying post-HONA spin), Wendy's +22% premarket on a CFO change colliding with a record-26.4% short interest WSB squeeze setup, and Cerebras' first public quarter Q1 FY26 with a $20B+ OpenAI deal and AWS Trainium-3 partnership that still sent CBRS -9%.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-chip-rout-bofa-hawk-june-23-2026",
+          "title": "U.S. stocks slide on Tuesday June 23 — S&P 500 -1.44% to 7,365.46, Nasdaq -2.21% to 25,587.04, Dow -0.09% as MU -13.2%, NVDA -4.2%, AMD -5.8%, AVGO -3.1% drag semis -6% on KOSPI memory rout and BofA's 'three hikes' Fed call",
+          "category": "mover",
+          "note": "Distinct US session wrap — the KOSPI item covers the Asia open, this is the US close with MU/NVDA/AMD damage and the BofA-call accelerator."
+        },
+        {
+          "id": "bofa-three-hike-fed-call-june-22-2026",
+          "title": "Bank of America economist Aditya Bhave calls three 25bp Fed hikes in 2026 — Sept, Oct, Dec — lifting funds rate to 4.25–4.50% from 3.50–3.75% as Warsh's June 17 presser and 'unambiguously worse' inflation force a reversal from a prior cut call",
+          "category": "analyst",
+          "note": "Tier-1 sell-side note flipping to most-hawkish 2026 Fed view on the Street; rare bombshell and a key driver of Tuesday's selloff."
+        },
+        {
+          "id": "googl-replaces-vz-dow-jones-june-23-2026",
+          "title": "Alphabet (GOOGL) to replace Verizon (VZ) in Dow Jones Industrial Average effective June 29 — S&P Dow Jones Indices' June 23 announcement also keeps Honeywell in the DJIA as Honeywell Technologies post-HONA aerospace spin-off",
+          "category": "sector",
+          "note": "Major index reshuffle: 5 mega-cap tech now in Dow + Honeywell stays post-aerospace spin; passive rebalance hits at the June 29 open."
+        },
+        {
+          "id": "wen-cfo-meme-squeeze-june-24-2026",
+          "title": "Wendy's (WEN) +~22% premarket to ~$7.50 on Wednesday June 24 — record 26.4% short interest and WSB squeeze targeting collide with Monday's 8-K naming Steve Cirulis CFO/CSO (effective June 23) replacing Ken Cook as stock pulls off a 20-year low",
+          "category": "mover",
+          "note": "Loudest single-name premarket mover today — CFO change + record 26.4% short interest + WSB attention at 20-year low."
+        },
+        {
+          "id": "cbrs-q1-fy26-openai-20b-deal-june-23-2026",
+          "title": "Cerebras (CBRS) Q1 FY26 — GAAP revenue $193.4M (+94% Y/Y) and a NEW multi-year $20B+ OpenAI deal for 750MW of inference compute headline; AWS Trainium-3 prefill partnership added — but CBRS -9.07% to $206.15 (~-$5B cap) as core net loss $2.5M and FY26 core revenue guide $855–$865M underwhelm",
+          "category": "earnings",
+          "note": "First public quarter for Cerebras with $20B+ OpenAI deal as the headline; CBRS -9% reaction makes this a clear AI-infrastructure datapoint."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "analyst",
+        "rates",
+        "macro",
+        "insider",
+        "earnings"
+      ]
     }
   ]
 }

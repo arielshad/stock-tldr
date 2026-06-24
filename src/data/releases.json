@@ -1,8 +1,393 @@
 {
-  "generatedAt": "2026-06-24T00:35:28.478Z",
+  "generatedAt": "2026-06-24T12:51:19.914Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-chip-rout-bofa-hawk-june-23-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "U.S. stocks slide on Tuesday June 23 — S&P 500 -1.44% to 7,365.46, Nasdaq -2.21% to 25,587.04, Dow -0.09% as MU -13.2%, NVDA -4.2%, AMD -5.8%, AVGO -3.1% drag semis -6% on KOSPI memory rout and BofA's 'three hikes' Fed call",
+      "org": "U.S. equity markets",
+      "date": "2026-06-23",
+      "url": "https://finance.yahoo.com/economy/live/stock-market-today-sp-500-nasdaq-sink-as-ai-trade-cools-off-semiconductor-stocks-retreat-230258084.html",
+      "summary": "U.S. stocks slid Tuesday as memory-chip selling spilled over from Seoul: S&P 500 -1.44% to 7,365.46, Nasdaq -2.21% to 25,587.04 while Dow held flat at -0.09%; semis -6% led by MU -13.2% and AMD -5.8%.",
+      "tags": [
+        "us-equities",
+        "chip-rout",
+        "ai-trade",
+        "kospi-spillover",
+        "bofa",
+        "fed-hikes",
+        "june-23",
+        "memory"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI",
+        "MU",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "S&P 500": "-1.44% to 7,365.46",
+        "Nasdaq Composite": "-2.21% to 25,587.04 (-579.56 pts)",
+        "Dow Jones": "-0.09%",
+        "Semis (S&P 500 industry)": "~-6%",
+        "MU": "-13.18% to $1,051.77",
+        "NVDA": "-4.2%",
+        "AMD": "-5.8%",
+        "AVGO": "-3.1%",
+        "QCOM": "-8%",
+        "SNDK": "-11.2%"
+      },
+      "explainer": {
+        "tagline": "Asia's memory-chip rout crashes into Wall Street as BofA flips to calling three Fed hikes — Nasdaq -2.21%, semis -6%.",
+        "whatIsIt": "U.S. stocks sold off Tuesday June 23 as the global AI-chip trade unwound. The S&P 500 closed -1.44% at 7,365.46 and the Nasdaq -2.21% at 25,587.04 (-579.56 points), with the Dow eking out a -0.09% session. Semis were the clear laggard, with the S&P 500 semiconductor industry down roughly 6% on the day.",
+        "howItWorks": "The selling started overnight: South Korea's KOSPI fell 9.99% with Samsung Electronics and SK Hynix both -12%+ after the FSS warned on leveraged ETFs. The memory shock spilled directly into U.S. names — Micron -13.18% to $1,051.77 ahead of Wednesday's Q3 print, Nvidia -4.2%, AMD -5.8%, Broadcom -3.1%, Qualcomm -8%, Sandisk -11.2%. Adding to the pressure: Bank of America's overnight forecast change calling three 25bp Fed hikes in 2026 (Sept/Oct/Dec) to take the funds rate to 4.25–4.50%.",
+        "whyItMatters": "Two narratives broke at once — the AI capex/return doubt that has been simmering on hyperscaler buildouts now meets a sell-side rate forecast pointing to higher-for-longer. That double-whammy compresses the long-duration semis multiple and explains why staples/health/utilities held up while tech and memory cratered. Eyes now turn to Micron's after-the-bell Q3 print on Wednesday June 24 for the next read on HBM demand.",
+        "forWho": "U.S. equity desks, AI/semis traders, rate-sensitive equity allocators",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/j5Su9UhWMWQkPzvJix3CTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/df7e7aa4-134e-4c26-8abb-9d35c46ab084",
+        "alt": "Trader on the NYSE floor reacting to red screens as U.S. stocks slide on June 23 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Markets Live",
+          "url": "https://finance.yahoo.com/economy/live/stock-market-today-sp-500-nasdaq-sink-as-ai-trade-cools-off-semiconductor-stocks-retreat-230258084.html"
+        },
+        {
+          "label": "CNBC Live Updates",
+          "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "Schwab Update",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "label": "S&P 500 chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "S&P -1.44%, Nasdaq -2.21%, semis -6% on Tuesday — Micron -13%, Nvidia -4%, AMD -6% as KOSPI's 10% rout slams Wall Street",
+        "body": "Tuesday June 23 was the worst U.S. session since the chip rout in early June. The selling started in Seoul and rolled west.\n\n* S&P 500 -1.44% to 7,365.46\n* Nasdaq Composite -2.21% to 25,587.04 (-579.56 points)\n* Dow Jones -0.09% — staples / health / utilities held the line\n* Semis -6% as a group: MU -13.2% to $1,051.77, AMD -5.8%, NVDA -4.2%, AVGO -3.1%, QCOM -8%, SNDK -11.2%\n\nTwo things broke at once:\n\n1. **Asian memory chips cratered overnight** — South Korea's KOSPI -9.99% with Samsung -12% and SK Hynix -12% after the FSS warned on leveraged ETFs. Memory pain flowed straight into MU.\n2. **BofA flipped to calling three Fed hikes in 2026** — Sept / Oct / Dec, taking the funds rate from 3.50–3.75% to 4.25–4.50%, reversing a prior cut call after Warsh's hawkish FOMC presser.\n\nNext catalysts: Micron Q3 print Wednesday June 24 after the bell — the next direct read on HBM demand.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-chip-rout-bofa-hawk-june-23-2026](https://stock-tldr.xyz/releases/us-stocks-chip-rout-bofa-hawk-june-23-2026)"
+      },
+      "publishDate": "2026-06-24T12:51:19.914Z"
+    },
+    {
+      "id": "bofa-three-hike-fed-call-june-22-2026",
+      "categories": [
+        "analyst",
+        "rates",
+        "macro"
+      ],
+      "title": "Bank of America economist Aditya Bhave calls three 25bp Fed hikes in 2026 — Sept, Oct, Dec — lifting funds rate to 4.25–4.50% from 3.50–3.75% as Warsh's June 17 presser and 'unambiguously worse' inflation force a reversal from a prior cut call",
+      "org": "Bank of America",
+      "date": "2026-06-22",
+      "url": "https://www.cnbc.com/2026/06/22/bank-of-america-sees-3-fed-hikes-in-2026-inflation-unambiguously-worse.html",
+      "summary": "BofA's Aditya Bhave flips to calling three consecutive 25bp Fed hikes in September, October and December 2026 — taking the funds rate to 4.25–4.50% — after the Warsh FOMC and 'unambiguously worse' inflation.",
+      "tags": [
+        "fed-hikes",
+        "bofa",
+        "warsh",
+        "monetary-policy",
+        "sell-side-note",
+        "rates",
+        "fomc"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TNX",
+        "^IRX"
+      ],
+      "metrics": {
+        "New BofA call": "Three 25bp hikes (Sept/Oct/Dec 2026)",
+        "Implied funds rate": "4.25–4.50%",
+        "Current funds rate": "3.50–3.75%",
+        "Prior call": "Steady through year-end (after earlier cut call)",
+        "2Y yield": "4.24%",
+        "10Y yield": "4.48%",
+        "30Y yield": "4.92%"
+      },
+      "explainer": {
+        "tagline": "BofA flips to one of the most hawkish 2026 Fed calls on the Street — three back-to-back hikes to 4.25–4.50%.",
+        "whatIsIt": "Bank of America economist Aditya Bhave changed his Fed forecast on Monday June 22 to call three consecutive 25bp rate hikes at the September, October and December FOMC meetings. That would lift the federal funds rate target range to 4.25–4.50% from the current 3.50–3.75% and reverse BofA's prior 'steady through year-end' call (itself a step down from an earlier cut call).",
+        "howItWorks": "Bhave's rationale: Fed Chair Kevin Warsh's June 17 presser 'leaned hawkish' — stressing the need to restore price stability and indicating policy may not be especially restrictive — and the June SEP had nine of 18 dots flipping to at least one 25bp hike. On the data: May payrolls +172K, unemployment at 4.3%, average hourly earnings +3.4% Y/Y, and PPI/CPI still well above target. BofA writes the Fed's inflation problem has become 'unambiguously worse' over the last two years.",
+        "whyItMatters": "This is the most hawkish 2026 call from a tier-1 sell-side house and helped catalyze Tuesday's chip rout and broader equity selloff as the AI/duration multiple unwinds. 2Y at 4.24%, 10Y at 4.48%, 30Y at 4.92% as the curve repriced. If BofA's call gets company on the Street, equity multiples — especially long-duration tech — face a 2026 that looks nothing like the cut-cycle setup most January call-day notes used.",
+        "forWho": "rates desks, equity strategists, fixed-income allocators",
+        "tryIt": "https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260617.pdf"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108323463-1781722721896-gettyimages-2281462344-WARSH_FOMC.jpeg?v=1781722770",
+        "alt": "Fed Chair Kevin Warsh speaks at the June 17 2026 FOMC press conference",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/22/bank-of-america-sees-3-fed-hikes-in-2026-inflation-unambiguously-worse.html"
+        },
+        {
+          "label": "Fortune Note",
+          "url": "https://fortune.com/2026/06/22/fed-rate-hikes-outlook-sticky-inflation-kevin-warsh-job-growth-oil-prices/"
+        },
+        {
+          "label": "Yahoo Finance Wrap",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-america-revamps-interest-rate-194347421.html"
+        },
+        {
+          "label": "FOMC June SEP",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260617.pdf"
+        }
+      ],
+      "reddit": {
+        "title": "BofA flips hawkish: now calls THREE 25bp Fed hikes in 2026 (Sept/Oct/Dec) to 4.25–4.50% as Warsh's presser and sticky inflation force a reversal",
+        "body": "Bank of America economist Aditya Bhave just put out the most hawkish 2026 Fed call on the Street.\n\n* New base case: three consecutive 25bp hikes at the September, October and December FOMCs\n* Implied funds rate at year-end: 4.25–4.50% (vs current 3.50–3.75%)\n* Reverses a prior 'steady through year-end' call — and an even earlier 'cuts' call\n* Treasury reaction: 2Y 4.24%, 10Y 4.48%, 30Y 4.92%\n\nThree things drove the flip:\n\n1. **Warsh's June 17 presser 'leaned hawkish'** — repeatedly stressed restoring price stability and said policy may not be especially restrictive.\n2. **The June SEP turned ugly** — nine of 18 dots flipped to at least one 25bp hike and PCE 2026 projection was raised to 3.6%.\n3. **Data confirms inflation is 'unambiguously worse'** — May payrolls +172K, unemployment 4.3%, hourly earnings +3.4% Y/Y. CPI/PPI still above target.\n\nThis is part of why semis dumped on Tuesday — long-duration equity multiples don't love a year of hikes.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bofa-three-hike-fed-call-june-22-2026](https://stock-tldr.xyz/releases/bofa-three-hike-fed-call-june-22-2026)"
+      },
+      "publishDate": "2026-06-24T12:51:19.914Z"
+    },
+    {
+      "id": "googl-replaces-vz-dow-jones-june-23-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Alphabet (GOOGL) to replace Verizon (VZ) in Dow Jones Industrial Average effective June 29 — S&P Dow Jones Indices' June 23 announcement also keeps Honeywell in the DJIA as Honeywell Technologies post-HONA aerospace spin-off",
+      "org": "S&P Dow Jones Indices",
+      "date": "2026-06-23",
+      "url": "https://www.prnewswire.com/news-releases/alphabet-set-to-join-and-honeywell-international-to-remain-in-dow-jones-industrial-average-302808382.html",
+      "summary": "S&P Dow Jones Indices announced Monday after-hours that GOOGL replaces VZ in the DJIA at June 29 open; same release confirms HON stays in the price-weighted index post-aerospace spin as 'Honeywell Technologies'.",
+      "tags": [
+        "dow-jones",
+        "djia",
+        "index-inclusion",
+        "alphabet",
+        "verizon",
+        "honeywell",
+        "rebalance"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GOOGL",
+        "VZ",
+        "HON",
+        "^DJI"
+      ],
+      "metrics": {
+        "Effective date": "June 29, 2026 (pre-open)",
+        "GOOGL after-hours": "+~1.2%",
+        "VZ after-hours": "-~0.02%",
+        "VZ DJIA weight (prior)": "~0.5%",
+        "Honeywell Aerospace ticker": "HONA (Nasdaq)",
+        "HONA distribution ratio": "1 HONA per 2 HON",
+        "HON record date": "June 15, 2026"
+      },
+      "explainer": {
+        "tagline": "Big Tech reaches into the Dow: GOOGL joins on June 29, replacing VZ; HON keeps its seat as 'Honeywell Technologies' post-HONA spin.",
+        "whatIsIt": "After the close on Monday June 22, S&P Dow Jones Indices announced that Alphabet (GOOGL) will replace Verizon Communications (VZ) in the 30-stock Dow Jones Industrial Average effective prior to the open on Monday June 29. The same announcement confirms Honeywell International (HON) keeps its DJIA seat after spinning off Honeywell Aerospace (HONA) on Nasdaq — the parent will trade as 'Honeywell Technologies'.",
+        "howItWorks": "S&P DJI cited Verizon's ~0.5% weight in the price-weighted index as 'immaterial' given its low share price, while Alphabet brings a much higher price and AI/cloud/ads exposure. The HONA spin-off distributes 1 share of Honeywell Aerospace per 2 HON shares held at the June 15 record date; HONA itself is not added to the Dow. The Dow divisor will be adjusted at the June 29 open to avoid distortion. GOOGL traded +~1.2% after-hours on the news, VZ essentially flat.",
+        "whyItMatters": "With GOOGL in, the five largest U.S. tech names by market cap — NVDA, AMZN, AAPL, MSFT and now GOOGL — all sit in the DJIA. The Dow now leans more clearly into AI/advertising/cloud exposure and away from telecom. Passive DJIA-tracking funds (DIA, etc.) will rebalance ahead of the open on June 29; Verizon now drops out of one of the most-watched U.S. benchmarks for the first time since its 2004 inclusion.",
+        "forWho": "index/passive desks, large-cap U.S. equity allocators",
+        "tryIt": "https://www.spglobal.com/spdji/en/documents/indexnews/announcements/20260623-1484126/1484126_djiavzjune2026.pdf"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108216552-1761309874285-gettyimages-2242649835-ALPHABET_EARNS.jpeg?v=1782249987",
+        "alt": "Alphabet logo at company headquarters — GOOGL joins Dow Jones Industrial Average June 29 2026",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "S&P DJI on PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/alphabet-set-to-join-and-honeywell-international-to-remain-in-dow-jones-industrial-average-302808382.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html"
+        },
+        {
+          "label": "StockTitan VZ",
+          "url": "https://www.stocktitan.net/news/VZ/alphabet-set-to-join-and-honeywell-international-to-remain-in-dow-ka6hff83h5ja.html"
+        },
+        {
+          "label": "GOOGL chart",
+          "url": "https://finance.yahoo.com/quote/GOOGL"
+        }
+      ],
+      "reddit": {
+        "title": "GOOGL joins the Dow Jones on June 29, replacing Verizon — Honeywell keeps its seat as 'Honeywell Technologies' after HONA aerospace spin",
+        "body": "S&P Dow Jones Indices announced after the close on Monday June 22 that Alphabet (GOOGL) will replace Verizon (VZ) in the 30-stock DJIA effective prior to the open on Monday June 29. Same release confirms Honeywell stays.\n\n* GOOGL replaces VZ in the DJIA at the June 29 open\n* Verizon was just ~0.5% of the price-weighted index — 'immaterial', per S&P DJI\n* GOOGL +~1.2% after-hours; VZ essentially flat (-0.02%)\n* Honeywell International (HON) keeps its Dow seat post-spin, renaming to 'Honeywell Technologies'\n* The spun-off aerospace business (HONA, Nasdaq) is NOT added to the Dow — 1 share per 2 HON held at the June 15 record date\n\nWhy it matters:\n\n1. **All five mega-cap U.S. tech names are now in the Dow** — NVDA, AMZN, AAPL, MSFT, and now GOOGL.\n2. **Forced rebalance** — DIA and other passive DJIA trackers will rebalance ahead of the June 29 open.\n3. **End of an era for Verizon** — first DJIA removal since its 2004 inclusion; telecom loses its lone Dow seat.\n\nFull breakdown: [https://stock-tldr.xyz/releases/googl-replaces-vz-dow-jones-june-23-2026](https://stock-tldr.xyz/releases/googl-replaces-vz-dow-jones-june-23-2026)"
+      },
+      "publishDate": "2026-06-24T12:51:19.914Z"
+    },
+    {
+      "id": "wen-cfo-meme-squeeze-june-24-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "Wendy's (WEN) +~22% premarket to ~$7.50 on Wednesday June 24 — record 26.4% short interest and WSB squeeze targeting collide with Monday's 8-K naming Steve Cirulis CFO/CSO (effective June 23) replacing Ken Cook as stock pulls off a 20-year low",
+      "org": "The Wendy's Company",
+      "date": "2026-06-24",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-stock-soaring-20-overnight-071958078.html",
+      "summary": "WEN jumps ~22% premarket Wednesday after Monday's 8-K named Steve Cirulis CFO/CSO effective June 23, replacing Ken Cook. Record 26.4% short interest plus WSB attention has the burger chain set up as a squeeze candidate.",
+      "tags": [
+        "wen",
+        "wendys",
+        "short-squeeze",
+        "wallstreetbets",
+        "meme-stock",
+        "cfo-change",
+        "insider"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "WEN"
+      ],
+      "metrics": {
+        "Premarket move": "+~22%",
+        "Premarket price": "~$7.50",
+        "Prior close (June 23)": "~$6.07 (20-year intraday low)",
+        "YTD performance (pre-move)": "-24%",
+        "Short interest": "26.4% (record per Koyfin)",
+        "Stocktwits message volume": "+1,348% W/W",
+        "New CFO/CSO": "Steve Cirulis (ex-Potbelly CFO/CSO)",
+        "Effective date": "June 23, 2026",
+        "Outgoing CFO": "Ken Cook (advisory role through July)"
+      },
+      "explainer": {
+        "tagline": "Wendy's becomes a WallStreetBets target as a new CFO meets a record 26.4% short interest at a 20-year low.",
+        "whatIsIt": "Wendy's (WEN) shares jumped ~22% in Wednesday June 24 premarket to roughly $7.50 after Monday's 8-K named Steve Cirulis Chief Financial Officer and Chief Strategy Officer effective June 23, 2026, succeeding Ken Cook (who stays in an advisory role through July). The surge piled onto a Reddit/WSB short-squeeze setup as the stock had just hit a 20-year intraday low around $6.07.",
+        "howItWorks": "Cirulis joins from Potbelly Sandwich Works where he worked under current Wendy's CEO Bob Wright. Short interest is at a record 26.4% per Koyfin and Stocktwits chatter is up 1,348% W/W with WEN trending as one of the most-discussed names on r/WallStreetBets. Trian's Nelson Peltz owns ~16% and has reportedly explored a take-private. The combination — fresh management, deeply-bearish positioning, activist overhang — set up the gap.",
+        "whyItMatters": "Even with the move, WEN is still down 24% YTD pre-gap and was lapping a Q1 with U.S. SSS -7.8%. The catalyst is positioning-driven (squeeze + activist) rather than fundamental, so the question is whether short covering and retail flows sustain or fade into the open. Watch for unusual options activity at $7.50 and $8 strikes and any Trian/Peltz filing or commentary in the next 24h.",
+        "forWho": "single-name traders, options desks, restaurant-sector PMs",
+        "tryIt": "https://finance.yahoo.com/quote/WEN"
+      },
+      "image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/RDTo38hArda7.VR3W_Ba4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/stocktwits_383/5a203835c85fd484c6f373cc454de5b1",
+        "alt": "Wendy's restaurant exterior with red logo — WEN +22% premarket June 24 2026 on CFO change and short squeeze",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Overnight",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-stock-soaring-20-overnight-071958078.html"
+        },
+        {
+          "label": "Yahoo CFO Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-shares-jump-cfo-appointment-105846006.html"
+        },
+        {
+          "label": "Blockonomi WSB Recap",
+          "url": "https://blockonomi.com/wendys-wen-stock-rockets-22-amid-wallstreetbets-frenzy-and-new-leadership/"
+        },
+        {
+          "label": "Benzinga",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60064416/why-is-wendys-stock-gaining-wednesday"
+        },
+        {
+          "label": "WEN chart",
+          "url": "https://finance.yahoo.com/quote/WEN"
+        }
+      ],
+      "reddit": {
+        "title": "WEN +22% premarket to ~$7.50 — record 26.4% short interest, WSB squeeze targeting, and Monday's CFO appointment lift Wendy's off a 20-year low",
+        "body": "Wendy's (WEN) is the loudest premarket move on Wednesday June 24. The setup is straight out of the 2021 playbook, with a real management catalyst on top.\n\n* WEN +~22% premarket to ~$7.50 vs Tuesday's $6.07 close (20-year intraday low)\n* Short interest at a RECORD 26.4% per Koyfin\n* Stocktwits message volume +1,348% week-over-week — top trending ticker\n* WSB targeting WEN as the next short-squeeze name\n\nThe catalyst stack:\n\n1. **Steve Cirulis named CFO/CSO effective June 23** — ex-Potbelly CFO who worked closely with current Wendy's CEO Bob Wright. Ken Cook (CFO since 2024) stays as advisor through July.\n2. **Record short positioning meets fresh management headline** — classic squeeze ingredients.\n3. **Activist overhang** — Trian's Nelson Peltz owns ~16% and has reportedly explored a take-private.\n\nThe move is positioning-driven, not fundamental — Q1 had U.S. SSS -7.8% and WEN was -24% YTD before today.\n\nNext catalysts: WEN cash open at 9:30 ET — does retail follow-through or do shorts fade the gap?\n\nFull breakdown: [https://stock-tldr.xyz/releases/wen-cfo-meme-squeeze-june-24-2026](https://stock-tldr.xyz/releases/wen-cfo-meme-squeeze-june-24-2026)"
+      },
+      "publishDate": "2026-06-24T12:51:19.914Z"
+    },
+    {
+      "id": "cbrs-q1-fy26-openai-20b-deal-june-23-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cerebras (CBRS) Q1 FY26 — GAAP revenue $193.4M (+94% Y/Y) and a NEW multi-year $20B+ OpenAI deal for 750MW of inference compute headline; AWS Trainium-3 prefill partnership added — but CBRS -9.07% to $206.15 (~-$5B cap) as core net loss $2.5M and FY26 core revenue guide $855–$865M underwhelm",
+      "org": "Cerebras Systems",
+      "date": "2026-06-23",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-announces-strong-first-205800901.html",
+      "summary": "Cerebras Q1 FY26 — GAAP revenue $193.4M (+94% Y/Y), $20B+ multi-year OpenAI deal for 750MW of inference compute and a new AWS Trainium-3 prefill partnership — but CBRS -9.07% to $206.15 on guide.",
+      "tags": [
+        "cerebras",
+        "openai",
+        "ai-infrastructure",
+        "inference-chips",
+        "earnings",
+        "q1-fy26",
+        "750mw",
+        "aws-trainium"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CBRS"
+      ],
+      "metrics": {
+        "GAAP revenue": "$193.4M (+94% Y/Y)",
+        "Core revenue": "$191.3M (+92% Y/Y)",
+        "GAAP net loss": "$14.0M",
+        "Core net loss": "$2.5M",
+        "GAAP EPS": "-$0.22",
+        "Gross margin (GAAP/Core)": "45% / 47%",
+        "Hardware revenue": "$110.6M (+59% Y/Y)",
+        "Cloud-services revenue": "$82.8M (+178% Y/Y)",
+        "OpenAI deal value": "$20B+ over several years",
+        "OpenAI capacity": "750 MW of inference compute",
+        "FY26 core revenue guide": "$855–$865M (+69% midpoint)",
+        "FY26 core gross margin": "38–41%",
+        "FY26 core op margin": "(28)% to (32)%",
+        "Stock reaction": "-9.07% to $206.15 (~-$4.97B cap)"
+      },
+      "explainer": {
+        "tagline": "Cerebras books a $20B+ OpenAI deal and an AWS Trainium-3 partnership in its first earnings — but a guide that prices in losses sends CBRS -9%.",
+        "whatIsIt": "Cerebras Systems (CBRS) — the wafer-scale AI inference chipmaker that completed the largest semiconductor IPO ever ($6.4B) in May — reported its first public quarter (Q1 FY26) on Tuesday June 23 with a $20B+ multi-year OpenAI deal as the headline. The stock still fell 9.07% to $206.15 (~$4.97B of market cap erased) as forward guidance held losses in place through year-end.",
+        "howItWorks": "Q1 GAAP revenue $193.4M (+94% Y/Y), core revenue $191.3M (+92%), GAAP net loss $14.0M (EPS -$0.22), core net loss $2.5M. Hardware $110.6M (+59% Y/Y) and cloud services $82.8M (+178%). The OpenAI deal commits 750MW of Cerebras inference compute over several years and adds to the prior $10B+ deal disclosed in January. A separately announced AWS partnership pairs AWS Trainium-3 prefill with Cerebras CS-3 fast inference, and Cerebras + OpenAI co-launched 'Codex-Spark', a coding model running >1,000 tokens/sec. FY26 guide: core revenue $855–$865M (+69% midpoint), gross margin 38–41%, operating margin (28)–(32)%.",
+        "whyItMatters": "Customer concentration is the swing factor — OpenAI and AWS now anchor the backlog, and OpenAI alone has extended a $1B working-capital loan to Cerebras. The bull case: $20B+ in committed compute over several years de-risks the buildout. The bear case priced into Tuesday's -9% reaction: a 38–41% gross margin and (-30)% op margin guide through FY26 means losses persist while semis broadly are getting re-rated (Tuesday saw MU -13%, NVDA -4%, AMD -6%). Cerebras becomes the cleanest pure-play comp for evaluating OpenAI inference economics outside of Nvidia.",
+        "forWho": "AI-infrastructure equity desks, semis traders, IPO/lock-up specialists",
+        "tryIt": "https://finance.yahoo.com/quote/CBRS"
+      },
+      "image": {
+        "url": "https://s.yimg.com/os/en/globenewswire.com/2481730bfa3b409107f7a598f6cd06c9",
+        "alt": "Cerebras Systems logo on wafer-scale chip — Q1 FY26 results and $20B OpenAI deal announced June 23 2026",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Yahoo Cerebras Q1",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-announces-strong-first-205800901.html"
+        },
+        {
+          "label": "Yahoo OpenAI / AWS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-lands-20-011127488.html"
+        },
+        {
+          "label": "StocksDownUnder Recap",
+          "url": "https://stocksdownunder.com/cerebras-systems-nsdqcbrs-q1-2026/"
+        },
+        {
+          "label": "StockTitan Release",
+          "url": "https://www.stocktitan.net/news/CBRS/cerebras-systems-announces-strong-first-quarter-2026-r7otc36byypc.html"
+        },
+        {
+          "label": "CBRS chart",
+          "url": "https://finance.yahoo.com/quote/CBRS"
+        }
+      ],
+      "reddit": {
+        "title": "Cerebras Q1 FY26: revenue $193M (+94% Y/Y), books a $20B+ multi-year OpenAI deal for 750MW of inference — but CBRS -9% to $206 on the guide",
+        "body": "Cerebras Systems (CBRS) reported its first quarter as a public company on Tuesday June 23. The deal headlines were huge. The stock didn't agree.\n\n* GAAP revenue $193.4M (+94% Y/Y); core revenue $191.3M (+92%)\n* GAAP net loss $14.0M; core net loss $2.5M; GAAP EPS -$0.22\n* Hardware $110.6M (+59%); cloud services $82.8M (+178%)\n* CBRS -9.07% to $206.15 — ~$4.97B of market cap erased\n* FY26 guide: core revenue $855–$865M (+69% midpoint), core gross margin 38–41%, op margin (28)–(32)%\n\nThree announcements landed at once:\n\n1. **$20B+ multi-year OpenAI deal** — 750 megawatts of Cerebras inference compute over several years. Stacks on top of the prior $10B+ deal from January.\n2. **AWS Trainium-3 partnership** — Cerebras CS-3 pairs with AWS Trainium-3 prefill to bring Cerebras inference into AWS at scale.\n3. **Codex-Spark co-launched with OpenAI** — coding model running >1,000 tokens/sec on Cerebras hardware.\n\nWhy the -9%: the FY26 guide keeps gross margin at 38–41% and operating margin at (-30)% — losses through year-end while broader semis are being re-rated (MU -13%, NVDA -4%, AMD -6% on the same session). Customer concentration is now the swing variable; OpenAI alone has extended Cerebras a $1B working-capital loan.\n\nNext catalysts: Q2 print and any further OpenAI/AWS contract disclosures.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cbrs-q1-fy26-openai-20b-deal-june-23-2026](https://stock-tldr.xyz/releases/cbrs-q1-fy26-openai-20b-deal-june-23-2026)"
+      },
+      "publishDate": "2026-06-24T12:51:19.914Z"
+    },
     {
       "id": "fdx-q4-fy26-earnings-june-23-2026",
       "categories": [
