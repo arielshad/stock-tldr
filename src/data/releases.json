@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-06-23T13:05:31.219Z",
+  "generatedAt": "2026-06-24T00:35:28.478Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fdx-q4-fy26-earnings-june-23-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "FedEx Q4 FY26 — record $25.0B revenue (+13% Y/Y) and adj EPS $6.31 vs $5.92 est beat as FedEx Freight spin completes, but calendar-2026 adj EPS guide of $16.90–$18.10 (vs FY26's $20.24) and pilot-contract + ~$350M Freight stranded costs sink FDX -3.63% to $316.83 then -6.16% AH to $297.70",
+      "org": "FedEx",
+      "date": "2026-06-23",
+      "url": "https://newsroom.fedex.com/fedex-reports-strong-fourth-quarter-and-full-year-results",
+      "summary": "FedEx Q4 FY26 revenue $25.0B (+13% Y/Y) and adj EPS $6.31 vs $5.92 est beat as the Freight spin completes, but a $16.90–$18.10 calendar-2026 adj EPS guide vs FY26's $20.24 plus ~$350M Freight stranded costs sends FDX -6.16% AH to $297.70.",
+      "tickers": [
+        "FDX"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$25.0B (+13% Y/Y vs $24.01B est)",
+        "Q4 Adj EPS": "$6.31 vs $5.92 est",
+        "Q4 GAAP EPS": "$6.60 (vs $6.88 Y/Y)",
+        "FY26 Revenue": "$94.7B (vs $87.9B FY25)",
+        "FY26 Adj EPS": "$20.24 (+11% Y/Y)",
+        "CY26 Adj EPS guide": "$16.90–$18.10 (midpoint $17.50)",
+        "CY26 Revenue guide": "+~11% Y/Y (includes ~3pp fuel-surcharge benefit)",
+        "Move": "-3.63% close $316.83, -6.16% AH $297.70"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-cut",
+        "freight-spin",
+        "fiscal-year-change",
+        "calendar-2026",
+        "transports",
+        "logistics",
+        "mover",
+        "after-hours"
+      ],
+      "explainer": {
+        "tagline": "Q4 beat masks soft CY26 EPS guide and Freight-spin stranded costs — FDX -6.16% AH despite a record $25B quarter.",
+        "whatIsIt": "FedEx reported Q4 FY26 results after the close on Tuesday June 23. Revenue of $25.0B (+13% Y/Y) beat the $24.01B Street estimate, and adjusted diluted EPS of $6.31 beat the $5.92 consensus. It was the company's first quarterly report after the FedEx Freight spin-off completed on June 1, 2026.",
+        "howItWorks": "Q4 GAAP EPS was $6.60, down from $6.88 a year ago, with the GAAP-to-adjusted gap driven by Freight spin and retirement-plan costs. FY26 full-year revenue came in at $94.7B vs $87.9B prior with adj EPS $20.24 (+11% Y/Y). With the fiscal-year-end shift from May 31 to December 31 (effective June 1, 2026), management now guides calendar 2026: revenue +~11% Y/Y (including ~3pp of fuel-surcharge benefit), adj EPS $16.90–$18.10 (midpoint $17.50), capex $3.9B, effective tax rate ~23%, and up-to-$1B opportunistic buybacks plus a 5% dividend bump. Stranded costs from the Freight spin run ~$350M initially, with a $100M reduction targeted during the guidance period; a new pilot contract is the other named near-term headwind.",
+        "whyItMatters": "The CY26 adj EPS midpoint of $17.50 is roughly 14% below FY26's $20.24, framing the print as a transition-year reset even though Q4 beat on both lines. FDX closed the regular session -3.63% at $316.83, then traded down to $297.70 in after-hours (-6.16% from close) as investors focused on stranded Freight costs and the pilot contract. The remaining buyback authorization stands at $1.3B with $776M of FY26 repurchases already executed and a $1.4B FY26 dividend; CEO Raj Subramaniam said 'our profitable growth strategy is working' as the company exceeded its $1B FY26 transformation savings target.",
+        "forWho": "transports and industrial earnings watchers",
+        "tryIt": "https://finance.yahoo.com/quote/FDX"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/FedEx_Corporation_-_2016_Logo.svg/1280px-FedEx_Corporation_-_2016_Logo.svg.png",
+        "alt": "FedEx corporate wordmark logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "FedEx Press Release",
+          "url": "https://newsroom.fedex.com/fedex-reports-strong-fourth-quarter-and-full-year-results"
+        },
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001048911/000104891126000050/fdx-earningsreleasefy2026q4.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html"
+        },
+        {
+          "label": "Benzinga Report",
+          "url": "https://www.benzinga.com/markets/earnings/26/06/60058292/fedex-stock-slips-on-q4-results-as-fy27-earnings-guidance-comes-in-light"
+        },
+        {
+          "label": "FDX Quote",
+          "url": "https://finance.yahoo.com/quote/FDX"
+        }
+      ],
+      "reddit": {
+        "title": "FedEx Q4 beats — $25B revenue (+13% Y/Y), adj EPS $6.31 vs $5.92 est — but calendar-2026 EPS guide of $16.90–$18.10 (vs $20.24 FY26) sinks FDX -6.16% after hours",
+        "body": "FedEx Q4 FY26 print after the close Tuesday June 23. Numbers were strong, but management's first guide as a post-Freight-spin company landed about 14% below FY26 EPS.\n\n* Q4 revenue $25.0B (+13% Y/Y) vs $24.01B est\n* Q4 adj EPS $6.31 vs $5.92 est ($6.60 GAAP, $6.88 Y/Y)\n* FY26 full-year revenue $94.7B (vs $87.9B) and adj EPS $20.24 (+11% Y/Y)\n* Calendar-2026 guide: revenue +~11% (3pp from fuel surcharge), adj EPS $16.90–$18.10 (midpoint $17.50)\n* FDX -3.63% close at $316.83, then -6.16% AH to $297.70\n\nWhy the selloff despite the beat:\n\n1. **CY26 EPS midpoint $17.50 is ~14% below FY26's $20.24** — the post-Freight-spin baseline is just lower.\n2. **~$350M of stranded Freight costs** — only ~$100M expected to come out during the guidance period.\n3. **New pilot contract** is a named near-term wage headwind.\n4. **Fiscal-year-end shift** — board moved year-end from May 31 to December 31 effective June 1, 2026, so the next reported period is a calendar-2026 transition.\n\nCapital return: $776M of FY26 buybacks done, $1.3B remaining, up to $1B opportunistic repurchase plan for CY26 plus a 5% dividend increase. Capex $3.9B.\n\nNext catalysts: CY26 transition-period reporting cadence and Q3 calendar-2026 (Jul–Sep) print to test the guide.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fdx-q4-fy26-earnings-june-23-2026](https://stock-tldr.xyz/releases/fdx-q4-fy26-earnings-june-23-2026)"
+      },
+      "publishDate": "2026-06-24T00:35:28.478Z"
+    },
     {
       "id": "kospi-fss-leveraged-etf-crash-june-23-2026",
       "categories": [
