@@ -5794,6 +5794,41 @@
         "regulatory",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260625t124952z",
+      "timestamp": "2026-06-25T12:49:52.761Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: the May 2026 PCE print (released today, June 25 at 8:30am ET) showing the Fed's preferred inflation gauge at +4.1% Y/Y headline (highest since April 2023) and core re-accelerating to +3.4% Y/Y; and Qualcomm's Wednesday June 24 Investor Day which doubled the FY29 non-handset target to $40B and announced a $3.9B all-stock Modular acquisition aimed at Nvidia's CUDA moat. Searched macro releases (PCE, jobless claims, durable orders), earnings (McCormick, Paychex, Carnival reviewed and dropped — see notes), and tier-1 corporate news (Qualcomm Investor Day, chip-rally read-through from Micron). McCormick beat (adj EPS $0.80 vs $0.70) but premarket signals conflicted and the move is not market-moving; Paychex Q4 beat marginally (-2.17% reaction); Carnival reported June 23 with a -5.75% move on softer guide but is now two trading sessions stale relative to bigger items already in the feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-pce-may-2026-june-25",
+          "title": "U.S. May 2026 PCE — headline +4.1% Y/Y (highest since April 2023) and core +3.4% Y/Y (acceleration from +3.3% prior) on +0.4% / +0.3% M/M; personal income jumps +0.7% as Iran-shock energy still feeds into the Fed's preferred inflation gauge",
+          "category": "macro",
+          "note": "Fed's preferred inflation gauge — first PCE under hawkish Warsh; headline Y/Y +4.1% (3-year high), core re-accelerates to 3.4%."
+        },
+        {
+          "id": "qcom-investor-day-modular-data-center-june-24-2026",
+          "title": "Qualcomm doubles FY29 non-handset revenue target to $40B at Investor Day on Wednesday June 24 and announces $3.9B all-stock Modular acquisition to challenge Nvidia's CUDA moat — QCOM -4.04% intraday (high $208.83 / low $191.02) as Street fades the data-center entry",
+          "category": "mover",
+          "note": "Investor Day doubles FY29 non-handset target to $40B; $3.9B Modular all-stock deal lands Mojo + MAX as CUDA challenger. Stock -4.04% intraday on the long-dated re-rate fade."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "mna",
+        "earnings",
+        "analyst",
+        "chips"
+      ]
     }
   ]
 }

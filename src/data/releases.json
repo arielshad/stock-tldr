@@ -1,8 +1,170 @@
 {
-  "generatedAt": "2026-06-25T00:35:34.676Z",
+  "generatedAt": "2026-06-25T12:49:52.761Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-pce-may-2026-june-25",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "U.S. May 2026 PCE — headline +4.1% Y/Y (highest since April 2023) and core +3.4% Y/Y (acceleration from +3.3% prior) on +0.4% / +0.3% M/M; personal income jumps +0.7% as Iran-shock energy still feeds into the Fed's preferred inflation gauge",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-06-25",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-may-2026",
+      "summary": "May PCE rose +0.4% M/M and +4.1% Y/Y — highest annual headline since April 2023. Core PCE +0.3% M/M and +3.4% Y/Y, accelerating from April's +3.3% and the hottest annual core since Sept 2023. Personal income +0.7% and saving rate edged up to 3.0%.",
+      "tags": [
+        "pce",
+        "inflation",
+        "may-2026",
+        "bea",
+        "core-pce",
+        "energy",
+        "iran-war",
+        "fed",
+        "warsh",
+        "rate-hikes",
+        "stagflation",
+        "savings-rate"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "^DJI"
+      ],
+      "metrics": {
+        "Headline PCE Y/Y": "+4.1%",
+        "Core PCE Y/Y": "+3.4%",
+        "Headline PCE M/M": "+0.4%",
+        "Core PCE M/M": "+0.3%",
+        "Personal income M/M": "+0.7% ($181.6B)",
+        "Disposable income M/M": "+0.7% ($164.9B)",
+        "PCE (spending) M/M": "+0.7% ($156.1B)",
+        "Savings rate": "3.0%",
+        "Highest headline since": "April 2023"
+      },
+      "links": [
+        {
+          "label": "BEA Release",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-may-2026"
+        },
+        {
+          "label": "PCE Index Page",
+          "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+        },
+        {
+          "label": "Core PCE FRED",
+          "url": "https://fred.stlouisfed.org/series/PCEPILFE"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "explainer": {
+        "tagline": "The Fed's preferred inflation gauge hits its highest annual headline reading in three years and core PCE re-accelerates, locking in the hawkish Warsh-Fed pivot.",
+        "whatIsIt": "The Bureau of Economic Analysis released the May 2026 Personal Income and Outlays report on Thursday June 25 at 8:30am ET. Headline PCE rose +0.4% on the month and +4.1% over the prior twelve months — the highest annual reading since April 2023. Core PCE (ex food and energy) rose +0.3% M/M and +3.4% Y/Y — accelerating from April's +3.3% and the hottest annual core since September 2023.",
+        "howItWorks": "Personal income jumped +$181.6B (+0.7% M/M) — driven by farm proprietors' income and compensation per the BEA — and disposable personal income matched at +0.7%. Nominal PCE spending also rose +$156.1B (+0.7%), with services +$94.3B leading goods +$61.8B. The personal saving rate edged up to 3.0% (vs 2.6% in April) as income kept pace with spending. Headline Y/Y vs April: 4.1% vs 3.8% — a 30 bps acceleration. Core Y/Y vs April: 3.4% vs 3.3%.",
+        "whyItMatters": "This is the first PCE print after Chair Warsh's June 17 hawkish SEP pivot lifted the Fed's 2026 dot-plot median to 3.8% (vs 3.4% in March) and put nine of 18 dots in favor of at least one 25bp hike this year. A multi-year-high headline plus a re-accelerating core gives the hike camp ammunition heading into the July FOMC and reinforces BofA's June 22 call for three 25bp hikes (Sept/Oct/Dec) lifting funds to 4.25–4.50%. Watch the 2Y/10Y, DXY and rate-sensitive growth names.",
+        "forWho": "macro and rates desks tracking the Fed hike path and stagflation tape",
+        "tryIt": "https://fred.stlouisfed.org/series/PCEPILFE"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ec_8_%2826088200676%29.jpg/1280px-Ec_8_%2826088200676%29.jpg",
+        "alt": "Marriner S. Eccles Federal Reserve Board Building in Washington DC",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "May PCE +4.1% Y/Y — highest in 3 years — and core re-accelerates to 3.4%; 'unambiguously worse' inflation tape locks in Warsh hike path",
+        "body": "The Fed's preferred inflation gauge for May printed at the hot end and core re-accelerated — first PCE since Warsh's hawkish dot-plot pivot.\n\n* Headline PCE +0.4% M/M / +4.1% Y/Y — highest annual reading since April 2023\n* Core PCE +0.3% M/M / +3.4% Y/Y — accelerates from +3.3% in April, hottest since Sept 2023\n* Personal income +0.7% M/M ($181.6B) and PCE spending +0.7% ($156.1B)\n* Saving rate 3.0%, up from 2.6% in April\n\nThree reasons this matters:\n\n1. **First PCE under Warsh** — June 17 SEP already lifted the 2026 dot-plot median to 3.8% with 9 of 18 dots pricing at least one 25bp hike. This print does nothing to push back.\n2. **Energy passthrough still in the data** — May's Iran-war energy spike is still leaking into the headline, but core also accelerated — not just a food/energy story.\n3. **BofA's three-hike call** — Aditya Bhave's June 22 reversal to three Sept/Oct/Dec hikes (4.25–4.50% terminal) looks less out-of-consensus after this.\n\nNext catalysts: June jobs report July 3, June CPI July 11, July FOMC July 29–30.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-pce-may-2026-june-25](https://stock-tldr.xyz/releases/us-pce-may-2026-june-25)"
+      },
+      "publishDate": "2026-06-25T12:49:52.761Z"
+    },
+    {
+      "id": "qcom-investor-day-modular-data-center-june-24-2026",
+      "categories": [
+        "mover",
+        "mna"
+      ],
+      "title": "Qualcomm doubles FY29 non-handset revenue target to $40B at Investor Day on Wednesday June 24 and announces $3.9B all-stock Modular acquisition to challenge Nvidia's CUDA moat — QCOM -4.04% intraday (high $208.83 / low $191.02) as Street fades the data-center entry",
+      "org": "Qualcomm",
+      "date": "2026-06-24",
+      "url": "https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-Accelerates-Diversification-with-Comprehensive-Strategy-for-Data-Center-and-Sees-Multiple-Inflection-Points-Over-the-Next-3-to-5-Years/default.aspx",
+      "summary": "Qualcomm raises FY29 non-handset revenue target to $40B (~2x the prior target), pegs data center at >$15B, automotive at $10B, IoT at >$14B, and FY29 non-GAAP EPS at >$18.00. Companion $3.9B all-stock Modular acquisition lands the Mojo language and MAX inference engine — a head-on attack on Nvidia's CUDA moat. Stock closed -4.04% Wednesday as investors faded the long-dated re-rate.",
+      "tags": [
+        "qcom",
+        "investor-day",
+        "fy29-guide",
+        "data-center",
+        "ai-compute",
+        "cuda-challenger",
+        "modular",
+        "mojo",
+        "max",
+        "chris-lattner",
+        "automotive",
+        "iot",
+        "snapdragon",
+        "mna",
+        "all-stock"
+      ],
+      "importance": "major",
+      "tickers": [
+        "QCOM",
+        "NVDA"
+      ],
+      "metrics": {
+        "FY29 non-handset revenue target": "$40B (~2x prior)",
+        "FY29 data center revenue target": ">$15B",
+        "FY29 automotive revenue target": "$10B",
+        "FY29 IoT revenue target": ">$14B",
+        "FY29 non-GAAP EPS target": ">$18.00",
+        "Modular deal size": "~$3.9B all-stock",
+        "Day-of move": "-4.04%",
+        "Day's high / low": "$208.83 / $191.02",
+        "Combined TAM by 2030": "~$1.7T"
+      },
+      "links": [
+        {
+          "label": "Qualcomm Press Release",
+          "url": "https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-Accelerates-Diversification-with-Comprehensive-Strategy-for-Data-Center-and-Sees-Multiple-Inflection-Points-Over-the-Next-3-to-5-Years/default.aspx"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html"
+        },
+        {
+          "label": "Investor Day 2026",
+          "url": "https://investor.qualcomm.com/news-events/investor-events/events/event-details/2026/Investor-Day-2026-2026-n10yE1c5BC/default.aspx"
+        },
+        {
+          "label": "QCOM Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/QCOM/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Qualcomm's biggest strategy reset since the iPhone era: double the non-handset target, enter data center, and buy the Mojo language to attack Nvidia's CUDA moat.",
+        "whatIsIt": "At its 2026 Investor Day on Wednesday June 24, Qualcomm laid out a new FY29 financial framework that roughly doubles its non-handset revenue target to $40B and reframes the company as a 'platform' spanning edge, automotive, IoT and a new data-center business. Same morning, the company also announced a definitive agreement to acquire Modular for ~$3.9B in an all-stock deal — the AI software startup behind the Mojo programming language and MAX inference engine, founded by LLVM/Swift creator Chris Lattner.",
+        "howItWorks": "By segment, the FY29 targets are: data center >$15B (a new line item), automotive $10B (up from $4–5B prior), and IoT >$14B (split $8B industrial/networking/robotics and $6B personal AI & compute). Handsets fall to roughly one-third of QCT revenues. The company guided FY29 non-GAAP diluted EPS to >$18.00 and called out an addressable market of ~$1.7T by 2030. The Modular deal — a hyperscaler-grade software layer that lets the same model run on chips from different vendors without rewrites — is the strategic answer to Nvidia's CUDA software lock-in. Close H2 2026 subject to approvals.",
+        "whyItMatters": "QCOM traded down -4.04% on the day with an $208.83 high and a $191.02 low — investors faded an aggressive long-dated re-rate against a stock that had already rallied ~30% YTD on AI-data-center optimism (TIKR pegged the pre-event valuation at ~$222 vs ~$184 Street PT). The Modular acquisition is the most direct attack to date on Nvidia's CUDA moat from a peer chipmaker, and pairs with the company's announced custom-silicon engagement with a hyperscaler for late-2026 shipments. Read-through: if Qualcomm can convert any of the $15B data-center target into early bookings, the long-dated valuation case is in play.",
+        "forWho": "semis, AI-infra and large-cap growth desks",
+        "tryIt": "https://www.qualcomm.com/company/events/investor-day"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108248974-17677289482026-01-06t194447z_718654978_rc2rviaifv2b_rtrmadp_0_tech-ces.jpeg?v=1767729046&w=1920&h=1080",
+        "alt": "Qualcomm Snapdragon booth at a technology trade show",
+        "fit": "cover",
+        "credit": "Reuters via CNBC"
+      },
+      "reddit": {
+        "title": "Qualcomm doubles FY29 non-handset target to $40B, enters data center with $15B target, buys Modular for $3.9B to attack Nvidia's CUDA moat — QCOM still drops 4% on the day",
+        "body": "Qualcomm's 2026 Investor Day on Wednesday was the biggest strategy reset since the iPhone era — but the stock sold off anyway.\n\n* FY29 non-handset revenue target raised to $40B from ~$22B prior (~2x)\n* New FY29 data-center revenue target: >$15B\n* FY29 automotive: $10B; IoT: >$14B (split $8B industrial + $6B personal AI/compute)\n* FY29 non-GAAP EPS target: >$18.00\n* QCOM closed -4.04% Wednesday; high $208.83 / low $191.02\n\nTwo things landed at the same time:\n\n1. **Modular acquisition** — $3.9B all-stock for the Mojo language + MAX inference engine. Founded by LLVM/Swift creator Chris Lattner. The software layer lets AI models run on different hardware vendors without rewrites — a direct attack on Nvidia's CUDA moat.\n2. **Data-center entry** — Custom-silicon hyperscaler engagement targeted for initial shipments late 2026; combined addressable market pegged at ~$1.7T by 2030.\n\nMarket read: investors faded the long-dated $40B / $18 EPS target on a stock that already rallied ~30% YTD and trades at a premium to consensus. The data-center bet now needs early bookings before the FY29 re-rate is in play.\n\nNext catalysts: Q4 FY26 earnings in early November; first custom-silicon shipments late 2026.\n\nFull breakdown: [https://stock-tldr.xyz/releases/qcom-investor-day-modular-data-center-june-24-2026](https://stock-tldr.xyz/releases/qcom-investor-day-modular-data-center-june-24-2026)"
+      },
+      "publishDate": "2026-06-25T12:49:52.761Z"
+    },
     {
       "id": "mu-q3-fy26-earnings-june-24-2026",
       "categories": [
