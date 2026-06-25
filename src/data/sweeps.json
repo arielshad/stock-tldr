@@ -5754,6 +5754,46 @@
         "insider",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260625t003534z",
+      "timestamp": "2026-06-25T00:35:34.676Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items: Micron Q3 FY26 blowout (seismic — $41.5B revenue, 84.9% GM, Q4 guide $50B vs $43B Street, $31 EPS vs $24 est, HBM sold out through 2026, +~6% AH) and the post-Iran-war oil tumble + Trump DOJ gouging probe (major — WTI -3.92% to $70.34, Brent -4.33% to $73.74, Hormuz traffic doubles). One update: SpaceX bond upsized from $20B to $25B on $89B in orders, five tranches priced June 23.",
+      "counts": {
+        "added": 2,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mu-q3-fy26-earnings-june-24-2026",
+          "title": "Micron Q3 FY26 — record $41.46B revenue (+346% Y/Y) and non-GAAP EPS $25.11 vs $20.39 est trounce, gross margin 84.9%; Q4 guide $50B ±$1B vs $43.2B est and EPS $31.00 ±$1.00 vs $24 est; HBM sold out through 2026 sends MU +~6% AH on June 24",
+          "category": "earnings",
+          "note": "Mega-cap memory print resets the AI capex thesis 24h after KOSPI/SOX rout — record revenue, $50B Q4 guide (+17% to consensus), HBM sold out through 2026."
+        },
+        {
+          "id": "oil-postwar-low-trump-doj-gouging-june-24-2026",
+          "title": "WTI -3.92% to $70.34 / Brent -4.33% to $73.74 on Wednesday June 24 — first sub-$70 WTI since March 2 and lowest Brent since pre-war as Strait of Hormuz tanker traffic doubles to 34+ vessels; Trump orders DOJ price-gouging probe of oil majors on Truth Social as AAA pump $3.92 vs $4.50 a month ago",
+          "category": "commodity",
+          "note": "Crude prints postwar lows on Hormuz reopening; Trump's Truth Social orders DOJ price-gouging probe of oil majors — combined macro/regulatory event."
+        }
+      ],
+      "updated": [
+        {
+          "id": "spcx-20b-debut-bond-offering-june-22-2026",
+          "title": "SpaceX (SPCX) prices upsized $25B inaugural bond on Tuesday June 23 (from $20B target) on ~$89B in orders — 5 tranches 2031–2056 with coupons 5.350–6.650%; June 22 launch sank SPCX -16.4% to $154.60; closes $156.16 June 23 / $154.54 June 24 (-1.01%); settles June 26",
+          "note": "Updated existing item to capture the June 23 pricing — bond upsized from $20B target to $25B on ~$89B in orders; added the five-tranche structure and settlement date. Same event continuum, not a separate item."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "commodity",
+        "regulatory",
+        "rates"
+      ]
     }
   ]
 }

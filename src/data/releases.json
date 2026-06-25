@@ -1,8 +1,192 @@
 {
-  "generatedAt": "2026-06-24T12:51:19.914Z",
+  "generatedAt": "2026-06-25T00:35:34.676Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mu-q3-fy26-earnings-june-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Micron Q3 FY26 — record $41.46B revenue (+346% Y/Y) and non-GAAP EPS $25.11 vs $20.39 est trounce, gross margin 84.9%; Q4 guide $50B ±$1B vs $43.2B est and EPS $31.00 ±$1.00 vs $24 est; HBM sold out through 2026 sends MU +~6% AH on June 24",
+      "org": "Micron Technology",
+      "date": "2026-06-24",
+      "url": "https://finance.yahoo.com/markets/article/microns-blowout-earnings-just-reset-the-ai-memory-trade-204039376.html",
+      "summary": "Micron crushes Q3 FY26 on AI memory demand — record $41.46B revenue, non-GAAP EPS $25.11 (vs $20.39 est), 84.9% gross margin, $18.3B FCF; guides Q4 to $50B ±$1B revenue and $31 EPS, ~17% above Street. HBM booked through 2026. MU +~6% AH.",
+      "tickers": [
+        "MU",
+        "NVDA",
+        "AVGO",
+        "SNDK",
+        "WDC",
+        "STX"
+      ],
+      "metrics": {
+        "Revenue": "$41.46B (+346% Y/Y from $9.30B)",
+        "GAAP EPS": "$24.67",
+        "Non-GAAP EPS": "$25.11 vs $20.39 est",
+        "Gross margin (non-GAAP)": "84.9%",
+        "Operating cash flow": "$25.39B",
+        "Adjusted free cash flow": "$18.3B (quarterly record)",
+        "Dividend": "$0.15/share (payable July 21, 2026)",
+        "Q4 FY26 revenue guide": "$50.0B ±$1.0B vs $43.2B est",
+        "Q4 FY26 gross margin guide": "~86%",
+        "Q4 FY26 non-GAAP EPS guide": "$31.00 ±$1.00",
+        "Cloud Memory Q3": "$13.77B (+>300% Y/Y), 83% GM",
+        "Core Data Center Q3": "$11.52B (+>7× Y/Y), 87% GM",
+        "Cash & investments": "$30.2B",
+        "Strategic customer agreements": "16 signed",
+        "AH move": "+~6% (regular close $1,133.99)"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "memory",
+        "hbm",
+        "dram",
+        "nand",
+        "ai-memory",
+        "data-center",
+        "hyperscaler",
+        "semis",
+        "q3-fy26",
+        "june-2026"
+      ],
+      "importance": "seismic",
+      "explainer": {
+        "tagline": "Micron rewrites the memory supercycle in one print — $41.5B Q3 revenue, 84.9% gross margin, and a $50B Q4 guide that runs ~17% ahead of Wall Street.",
+        "whatIsIt": "Micron reported fiscal Q3 2026 results (quarter ended May 28) after the bell on June 24. Revenue came in at a record $41.46B vs $35.1B consensus, non-GAAP EPS of $25.11 vs $20.39 est, and non-GAAP gross margin of 84.9%. The company also declared a $0.15 quarterly dividend payable July 21, 2026.",
+        "howItWorks": "Cloud Memory revenue rose more than 300% Y/Y to $13.77B at 83% gross margin, and Core Data Center grew more than sevenfold to $11.52B at 87% margin as hyperscaler HBM and DDR5 demand consumed every byte of capacity. Operating cash flow hit $25.39B and adjusted FCF a record $18.3B. Q4 FY26 guidance: revenue $50.0B ±$1.0B (vs $43.2B Street), gross margin ~86%, and non-GAAP EPS $31.00 ±$1.00 (vs ~$24 est) — implying ~17% top-line beat to consensus on the guide alone. CEO Sanjay Mehrotra disclosed 16 strategic supply agreements locking in multi-year demand. HBM capacity is fully booked through calendar 2026 with packaging build-out starting H1 2027.",
+        "whyItMatters": "After Tuesday's KOSPI rout and MU's own -13.2% on June 23 (worst day in three months) on memory-price moderation fears, the print invalidates the 'AI memory peaking' thesis. Q4 EPS guide implies more profit in one quarter than the entire prior fiscal year. The 16 strategic agreements explicitly trade lower spot upside for revenue durability — a structural answer to the cyclical-bust critique that's haunted memory since 2018. Read-throughs: NVDA (HBM bottleneck eases), AVGO and the broader chip complex (after-hours rally restarts a stalled AI trade), SNDK / WDC / STX (NAND/HDD bid). The next test is Q4 reported in late September.",
+        "forWho": "semiconductor desks, AI capex bulls/bears, memory cycle traders",
+        "tryIt": "https://finance.yahoo.com/quote/MU/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/A70E287FB53D77F46CB960F5C3F517A9AF2F20743DFF20E56EBFD8C4053174FA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F1d601d81-86c7-4ea8-9a17-a8b75e5def65",
+        "alt": "Micron Technology Q3 FY2026 blowout earnings reset the AI memory trade on June 24 2026",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Getty Images"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/article/microns-blowout-earnings-just-reset-the-ai-memory-trade-204039376.html"
+        },
+        {
+          "label": "Yahoo Earnings Coverage",
+          "url": "https://finance.yahoo.com/technology/article/micron-tops-q3-earnings-estimates-offers-better-than-expected-outlook-and-declares-dividend-113000152.html"
+        },
+        {
+          "label": "Press Release (StockTitan)",
+          "url": "https://www.stocktitan.net/news/MU/micron-technology-inc-reports-record-results-for-the-third-quarter-6f50161e5zxh.html"
+        },
+        {
+          "label": "8-K Press Release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000013/a2026q3ex991-pressrelease.htm"
+        },
+        {
+          "label": "MU Quote",
+          "url": "https://finance.yahoo.com/quote/MU/"
+        }
+      ],
+      "reddit": {
+        "title": "Micron (MU) Q3 FY26 blowout: $41.5B revenue, 84.9% GM, $50B Q4 guide vs $43B est — HBM sold out through 2026, MU +~6% AH",
+        "body": "After Tuesday's KOSPI/SOX rout dragged MU -13.2% on memory-cycle peak fears, Wednesday's print did the opposite of confirming the bear case.\n\n* Revenue: **$41.46B** (vs **$35.1B est**) — up from $9.30B a year ago\n* Non-GAAP EPS: **$25.11** (vs **$20.39 est**)\n* Non-GAAP gross margin: **84.9%** (record)\n* Operating cash flow: **$25.39B**; adjusted FCF: **$18.3B** (record)\n* Cloud Memory revenue: **$13.77B** at 83% GM (+>300% Y/Y)\n* Core Data Center: **$11.52B** at 87% GM (+>7× Y/Y)\n* Dividend: **$0.15/share** (payable July 21)\n* MU **+~6% AH** from $1,133.99 regular close\n\nQ4 FY26 guide blows the doors off Street:\n\n1. **Revenue $50.0B ±$1B** vs $43.2B est — a ~17% beat *on the guide alone*\n2. **Gross margin ~86%**\n3. **Non-GAAP EPS $31.00 ±$1.00** vs ~$24 est — one quarter of guided EPS exceeds the entire prior fiscal year\n4. **16 strategic customer agreements** signed to lock in multi-year demand — Mehrotra is trading spot-upside for revenue durability\n5. **HBM capacity sold out through calendar 2026** with packaging expansion in H1 2027\n\nRead-throughs: NVDA (HBM bottleneck), AVGO (AI trade restart), SNDK / WDC / STX (NAND/HDD halo). Tuesday's BofA-driven 'AI peak' selloff just got tested at the print level.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mu-q3-fy26-earnings-june-24-2026](https://stock-tldr.xyz/releases/mu-q3-fy26-earnings-june-24-2026)"
+      },
+      "publishDate": "2026-06-25T00:35:34.676Z"
+    },
+    {
+      "id": "oil-postwar-low-trump-doj-gouging-june-24-2026",
+      "categories": [
+        "commodity",
+        "regulatory"
+      ],
+      "title": "WTI -3.92% to $70.34 / Brent -4.33% to $73.74 on Wednesday June 24 — first sub-$70 WTI since March 2 and lowest Brent since pre-war as Strait of Hormuz tanker traffic doubles to 34+ vessels; Trump orders DOJ price-gouging probe of oil majors on Truth Social as AAA pump $3.92 vs $4.50 a month ago",
+      "org": "U.S. commodity markets",
+      "date": "2026-06-24",
+      "url": "https://finance.yahoo.com/energy/articles/trump-calls-doj-investigation-oil-155425248.html",
+      "summary": "Crude tumbles to postwar lows — WTI -3.92% to $70.34 (first sub-$70 since March 2), Brent -4.33% to $73.74 — as Hormuz tanker traffic doubles. Trump orders DOJ price-gouging probe of oil companies via Truth Social; AAA gas averages $3.92/gal vs $4.50 a month ago.",
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "XOP",
+        "XLE",
+        "USO"
+      ],
+      "metrics": {
+        "WTI settle": "$70.34 (-3.92%)",
+        "WTI intraday low": "$69.63 (first sub-$70 since March 2)",
+        "Brent settle": "$73.74 (-4.33%, lowest since pre-war)",
+        "Drop from wartime peak": "~-40%",
+        "Hormuz vessels (24h)": "34+ exiting to Gulf of Oman (doubled in 24h)",
+        "AAA national gas avg": "$3.92/gallon (vs $4.50 a month ago)",
+        "Gasoline 6-week drop": "Six consecutive weeks lower"
+      },
+      "tags": [
+        "oil",
+        "wti",
+        "brent",
+        "crude",
+        "hormuz",
+        "iran-deal",
+        "postwar-low",
+        "trump-truth-social",
+        "doj-probe",
+        "price-gouging",
+        "gasoline",
+        "commodity-selloff",
+        "june-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Oil prints postwar lows as Hormuz reopens; Trump's Truth Social orders DOJ to probe oil majors for pump-price gouging.",
+        "whatIsIt": "Crude settled at its lowest level since before the U.S.-Iran-Israel war on Wednesday June 24. WTI fell 3.92% to $70.34 (touching an intraday low of $69.63 — the first sub-$70 print since March 2), while Brent fell 4.33% to $73.74. Hours later, President Trump posted on Truth Social ordering the Department of Justice to 'immediately' investigate oil companies for not passing lower crude costs through to the pump.",
+        "howItWorks": "The selloff is being driven by Hormuz traffic and the postponed-but-still-active U.S.-Iran roadmap. Vessel transits through the strait doubled in 24 hours to 34+ ships exiting into the Gulf of Oman, per MarineTraffic data; Trump publicly said tankers would face 'no tolls, no insurance costs, no charges of any kind' to pass. The IEA estimates UAE exports are running at ~85% of pre-war levels, ~60M barrels recently shipped from the Persian Gulf. Trump's Truth Social post — 'The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. I have instructed the DOJ to immediately start looking into this' — landed late in the session and pulled energy down further. AAA national gasoline averages $3.92 vs $4.50 a month ago (-13%) while crude has fallen ~40% from wartime peak. The American Petroleum Institute responded that retail prices lag crude through inventory drawdown and refining cycle, not by gouging.",
+        "whyItMatters": "Two market dynamics are simultaneously visible. First, the supply-disruption premium from the Iran war has now been fully unwound — Brent at $73 is roughly where it was before February's strikes. That's a tailwind to broad disinflation (May CPI ran +4.2% Y/Y heavily on gasoline) but a headwind to the energy sector and to high-yield credit spreads in shale. Second, a DOJ price-gouging investigation against the U.S. majors (XOM, CVX, MPC, PSX, VLO) creates regulatory tail risk for refining margins and could compress crack spreads. The probe is also a political signal that the administration wants pump prices visibly lower before mid-cycle politics in Q3.",
+        "forWho": "energy desks, macro traders, refining/midstream credit, FX (oil-linked currencies)",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F/"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260624-gas-prices-mb-0900-127266.jpg",
+        "alt": "U.S. gasoline prices and oil sector under Trump's DOJ price-gouging probe on June 24 2026",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance — Trump DOJ Oil",
+          "url": "https://finance.yahoo.com/energy/articles/trump-calls-doj-investigation-oil-155425248.html"
+        },
+        {
+          "label": "Rigzone — Oil Postwar Lows",
+          "url": "https://www.rigzone.com/news/wire/oil_falls_to_postwar_lows-24-jun-2026-183984-article/"
+        },
+        {
+          "label": "NBC News — Trump Gas Gouging",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-gas-price-gouging-oil-iran-war-hormuz-doj-rcna351522"
+        },
+        {
+          "label": "OilPrice — DOJ Probe",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Gas-Price-Gouging-Probe.html"
+        },
+        {
+          "label": "WTI Futures Quote",
+          "url": "https://finance.yahoo.com/quote/CL=F/"
+        },
+        {
+          "label": "Brent Futures Quote",
+          "url": "https://finance.yahoo.com/quote/BZ=F/"
+        }
+      ],
+      "reddit": {
+        "title": "Oil tumbles to postwar lows on June 24: WTI -3.92% to $70.34, Brent -4.33% to $73.74 — Hormuz tanker traffic doubles; Trump orders DOJ price-gouging probe of oil majors",
+        "body": "Crude broke through the postwar floor on Wednesday June 24 as Hormuz reopens and Trump goes after the majors at the pump.\n\n* WTI settle: **$70.34** (-3.92%), intraday low **$69.63** — first sub-$70 since March 2\n* Brent settle: **$73.74** (-4.33%) — lowest since before the U.S.-Iran-Israel war\n* Crude is now ~**40% below** the wartime peak\n* Hormuz vessels: **34+** exiting to Gulf of Oman in 24h — doubled\n* IEA: UAE exports running at **~85% pre-war levels**, ~60M bbl shipped recently\n* AAA national gas avg: **$3.92/gallon** vs $4.50 a month ago (-13%); 6 weeks lower\n\nLate-session catalyst — Trump's Truth Social post:\n\n1. **DOJ price-gouging probe** — Trump: 'The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. I have instructed the DOJ to immediately start looking into this.'\n2. **No-toll Hormuz** — Trump also said tankers will face no tolls, insurance costs, or charges of any kind to transit\n3. **API response** — industry argues retail-vs-crude lag is inventory drawdown and refining cycle, not gouging\n\nWhat the print actually does:\n* **Supply-disruption premium fully unwound** — Brent ~$73 is roughly pre-February\n* **Crack spread risk** for the integrateds (XOM, CVX, MPC, PSX, VLO) if a DOJ probe attempts to force pump cuts\n* **Disinflation tailwind** — May CPI ran +4.2% Y/Y heavily on gasoline; that pressure now reverses\n\nNext catalysts: weekly EIA Thursday, OPEC+ JMMC, and any DOJ probe formalization.\n\nFull breakdown: [https://stock-tldr.xyz/releases/oil-postwar-low-trump-doj-gouging-june-24-2026](https://stock-tldr.xyz/releases/oil-postwar-low-trump-doj-gouging-june-24-2026)"
+      },
+      "publishDate": "2026-06-25T00:35:34.676Z"
+    },
     {
       "id": "us-stocks-chip-rout-bofa-hawk-june-23-2026",
       "categories": [
@@ -758,18 +942,26 @@
         "mover",
         "rates"
       ],
-      "title": "SpaceX (SPCX) -16.4% to $154.60 on Monday June 22 — launches $20B inaugural senior-unsecured note sale to refinance March xAI-merger bridge loan; 8-K discloses $100.8B cash as of June 19; Fitch BBB+ / Moody's Baa1; three-day drawdown ~23% erases ~$600B of post-IPO value",
+      "title": "SpaceX (SPCX) prices upsized $25B inaugural bond on Tuesday June 23 (from $20B target) on ~$89B in orders — 5 tranches 2031–2056 with coupons 5.350–6.650%; June 22 launch sank SPCX -16.4% to $154.60; closes $156.16 June 23 / $154.54 June 24 (-1.01%); settles June 26",
       "org": "SpaceX",
       "date": "2026-06-22",
       "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026044489/exhibit991-8xk.htm",
-      "summary": "SpaceX launches inaugural $20B senior-unsecured notes 10 days after its record $75B IPO to repay the bridge loan from its March xAI merger. 8-K discloses $100.8B cash. SPCX -16.4% to $154.60, three-day loss ~23%.",
+      "summary": "SpaceX upsizes inaugural bond to $25B (from $20B target) on ~$89B in orders — five tranches 2031–2056, 5.350%–6.650% coupons. Priced June 23, settles June 26. SPCX -16.4% to $154.60 on June 22 launch; close $156.16 on 23rd and $154.54 (-1.01%) on 24th.",
       "tickers": [
         "SPCX"
       ],
       "metrics": {
-        "Close": "$154.60 (-16.4%)",
-        "3-day loss": "~-23%",
-        "Notes size": "~$20B senior unsecured (Bloomberg)",
+        "Launch (Jun 22) close": "$154.60 (-16.4%)",
+        "Jun 23 close": "~$156.16",
+        "Jun 24 close": "$154.54 (-1.01%)",
+        "Notes size (priced)": "$25B (upsized from $20B target)",
+        "Order book": "~$89B (~3.5× oversubscribed)",
+        "Tranche 1": "$7.0B 5.350% senior notes due 2031",
+        "Tranche 2": "$6.0B 5.650% senior notes due 2033",
+        "Tranche 3": "$6.0B 5.875% senior notes due 2036",
+        "Tranche 4": "$2.5B 6.600% senior notes due 2046",
+        "Tranche 5": "$3.5B 6.650% senior notes due 2056",
+        "Settlement": "June 26, 2026",
         "Cash (June 19)": "~$100.8B",
         "Bridge loan being refinanced": "$20B (March 2026 xAI merger)",
         "Fitch rating": "BBB+",
