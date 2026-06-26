@@ -1,8 +1,158 @@
 {
-  "generatedAt": "2026-06-25T12:49:52.761Z",
+  "generatedAt": "2026-06-26T00:36:59.757Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "aapl-mac-ipad-price-hike-june-25-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Apple's worst day since April 2025 — AAPL -6.15% to $275.15 on Thursday June 25 wipes ~$275B in cap as company raises Mac, iPad, HomePod and Vision Pro prices store-wide; CEO Tim Cook calls AI memory shortage a 'hundred-year flood' and leaves iPhone untouched",
+      "org": "Apple",
+      "date": "2026-06-25",
+      "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
+      "summary": "Apple hiked Mac, iPad, HomePod, Apple TV and Vision Pro prices on June 25 — MacBook Neo $599 → $699, iPad Pro 11\" $999 → $1,199, Mac Studio M3 Ultra +$1,300. AAPL closed -6.15% at $275.15, worst session since April 2025, wiping ~$275B in market cap. iPhone unchanged.",
+      "tickers": [
+        "AAPL"
+      ],
+      "metrics": {
+        "Move": "-6.15% to $275.15",
+        "Market cap impact": "~-$275B",
+        "MacBook Neo": "$599 → $699",
+        "MacBook Air 13\"": "$1,099 → $1,299",
+        "iPad Pro 11\"": "$999 → $1,199",
+        "Mac Studio M3 Ultra": "$3,999 → $5,299"
+      },
+      "importance": "major",
+      "tags": [
+        "aapl",
+        "apple",
+        "mover",
+        "consumer-electronics",
+        "memory-shortage",
+        "hbm",
+        "ai-capex",
+        "tim-cook",
+        "price-hike",
+        "mac",
+        "ipad",
+        "homepod",
+        "vision-pro"
+      ],
+      "explainer": {
+        "tagline": "Apple raises Mac, iPad, HomePod and Vision Pro prices on June 25; AAPL -6.15% to $275.15 as memory shortage finally bites consumer hardware.",
+        "whatIsIt": "Apple pushed through store-wide price increases on its Mac, iPad, HomePod, Apple TV and Vision Pro lineups effective Thursday June 25, the first broad consumer-hardware repricing in years. iPhone, Apple Watch and AirPods were left untouched. CEO Tim Cook attributed the move to a global memory and storage chip shortage driven by AI data-center demand, describing it as 'a hundred-year flood' and saying 'we have never seen a component price increase this much, this quickly'.",
+        "howItWorks": "MacBook Neo entry rose $100 to $699, 13\" MacBook Air $200 to $1,299, base 11\" iPad Air $150 to $749, and 11\" iPad Pro $200 to $1,199; high-end Mac Studio with M3 Ultra jumped $1,300 to $5,299. HomePod mini, HomePod, Apple TV and Vision Pro also moved $30–$200. The cheapest iPad climbed from $349 to $449. Apple statement said the rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage.",
+        "whyItMatters": "AAPL closed -6.15% at $275.15 on Thursday — its worst single-session drop since April 2025 — erasing roughly $275B in market cap and snapping Apple's recent leadership in the Mag 7 trade. The print confirms what Micron's blow-out Q3 (HBM sold out through 2026) and Samsung/SK Hynix's pivot to AI memory have signaled: consumer electronics is now the loser in the wafer-allocation war. Sympathy pressure showed up in MSFT (Xbox prices up the same day) and PC OEMs facing the same component squeeze.",
+        "forWho": "mega-cap equity traders, semis investors, consumer hardware analysts",
+        "tryIt": "https://finance.yahoo.com/quote/AAPL"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/F99FE5A62BAABB62A3A99B6C14C24A8EB140E2003A96D03AAFDEAB190F31ACB7/subgraphmysterio/resizefill_w1200_h648;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhighlights-colors-endframe-c5rr2wp9mp0m-large_9124.jpg",
+        "alt": "Apple product lineup illustration",
+        "fit": "cover",
+        "credit": "Apple via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "9to5Mac Recap",
+          "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/"
+        },
+        {
+          "label": "MacRumors Pricing",
+          "url": "https://www.macrumors.com/2026/06/25/apple-just-increased-prices/"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/article/apple-stock-plunges-after-raising-prices-on-macbooks-ipads-amid-global-memory-crisis-140406938.html"
+        },
+        {
+          "label": "Tim Cook Quote",
+          "url": "https://stocktwits.com/news-articles/markets/equity/apple-hikes-macbook-ipad-prices-tim-cook-blames-ai/cZ1G1ouR7XP"
+        },
+        {
+          "label": "AAPL Quote",
+          "url": "https://finance.yahoo.com/quote/AAPL"
+        }
+      ],
+      "reddit": {
+        "title": "Apple raises Mac and iPad prices store-wide — AAPL -6.15% to $275.15 on Thursday, worst day since April 2025, ~$275B market cap erased",
+        "body": "Apple pushed through its first broad consumer-hardware repricing in years on Thursday June 25 — and the stock paid for it. iPhone, Apple Watch and AirPods were left untouched.\n\n* AAPL closed -6.15% at $275.15 — worst single-session drop since April 2025\n* Roughly **$275B** of market cap wiped in one session\n* MacBook Neo: $599 → $699 (+$100)\n* 13\" MacBook Air: $1,099 → $1,299 (+$200)\n* 11\" iPad Pro: $999 → $1,199 (+$200)\n* Mac Studio M3 Ultra: $3,999 → $5,299 (+$1,300)\n* Base iPad: $349 → $449 (+$100)\n\nThree things broke at once for Apple:\n\n1. **CEO Tim Cook called it a 'hundred-year flood'** — Apple said 'we have never seen a component price increase this much, this quickly', citing memory and storage shortages from AI data-center demand.\n2. **AI memory crisis hits consumer** — Micron's Q3 print (HBM sold out through 2026) and Samsung/SK Hynix pivoting wafer capacity to HBM means consumer DRAM and NAND are losing the allocation war.\n3. **No iPhone protection** — Apple held iPhone pricing, but the rest of the lineup carries the cost. Microsoft raised Xbox prices the same day; PC OEMs face the same squeeze.\n\nNext catalysts: Apple Q3 FY26 earnings (late July), HBM contract renegotiations heading into Q3.\n\nFull breakdown: [https://stock-tldr.xyz/releases/aapl-mac-ipad-price-hike-june-25-2026](https://stock-tldr.xyz/releases/aapl-mac-ipad-price-hike-june-25-2026)"
+      },
+      "publishDate": "2026-06-26T00:36:59.757Z"
+    },
+    {
+      "id": "jpm-sp500-7800-blue-sky-june-24-2026",
+      "categories": [
+        "analyst"
+      ],
+      "title": "JPMorgan's Dubravko Lakos-Bujas lifts year-end S&P 500 target to 7,800 from 7,600 on Wednesday June 24 — calls earnings revision 'unprecedented' on AI capex and Iran de-escalation; 2026 EPS forecast bumped to $350 (+29% Y/Y), 2027 to $390; flags flash-crash risk in 'crowded' secondary AI trades",
+      "org": "JPMorgan Chase",
+      "date": "2026-06-24",
+      "url": "https://finance.yahoo.com/markets/article/jpmorgan-raises-sp-500-target-to-7800-but-warns-of-flash-crash-145240724.html",
+      "summary": "JPMorgan's Dubravko Lakos-Bujas lifted the bank's 2026 S&P 500 target to 7,800 from 7,600 on Wednesday June 24 — ~6% above Tuesday's 7,365.46 close. EPS forecasts go to $350 for 2026 (+29% Y/Y) and $390 for 2027. He warns of 'high probability of a flash crash' in crowded secondary AI names.",
+      "tickers": [
+        "^GSPC"
+      ],
+      "metrics": {
+        "Rating change": "Bullish revision (target up)",
+        "Old PT": "7,600",
+        "New PT": "7,800",
+        "2026 EPS forecast": "$350 (+29% Y/Y)",
+        "2027 EPS forecast": "$390",
+        "Implied upside vs Jun 23 close": "~5.9%"
+      },
+      "importance": "major",
+      "tags": [
+        "analyst",
+        "jpm",
+        "sp500",
+        "year-end-target",
+        "blue-sky",
+        "ai-capex",
+        "earnings-revision",
+        "flash-crash",
+        "lakos-bujas"
+      ],
+      "explainer": {
+        "tagline": "JPMorgan's top equity strategist hikes year-end S&P 500 target to 7,800 — earnings revision 'unprecedented' as AI capex compounds and Iran de-escalates.",
+        "whatIsIt": "JPMorgan global markets strategist Dubravko Lakos-Bujas raised the bank's 2026 year-end S&P 500 target to 7,800 from 7,600 in a mid-year outlook published Wednesday June 24. The new target sits roughly 6% above Tuesday's 7,365.46 close on the index. Lakos-Bujas said the bank had been 'much too cautious' on earnings and the index is heading into a 'Blue Sky' scenario as the U.S.–Iran war winds down.",
+        "howItWorks": "JPM lifted its 2026 S&P 500 EPS forecast to $350 — implying 29% year-on-year growth — and 2027 EPS to $390. Lakos-Bujas called the recent positive revision 'unprecedented' outside post-recession or post-shock periods, tying it to the AI capex supercycle: hyperscaler capex is set to nearly double again next year. The note also flagged a 'high probability of a flash crash' in crowded secondary and tertiary AI tickers, plus rising equity issuance and potentially tighter monetary policy as 2027 hurdles.",
+        "whyItMatters": "JPM joins at least seven sell-side shops lifting S&P 500 targets in June, cementing the consensus walk from 6,500–7,000 at year-start toward 7,800+. The earnings story — a $350 print for 2026 vs Street consensus that started the year much lower — is the harder catalyst to fade than the multiple-driven part of the rally. The flash-crash caveat in 'crowded' AI is the same risk BofA's Bhave and the Warsh FOMC have been pricing — bull case isn't a one-way trade.",
+        "forWho": "macro allocators, equity strategists, options vol traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/81EF0224A359515B9C04DFC4CBC44565CB4A81A47953279837D8F9F9464CDFD4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F9e7504c4-d9c8-4de2-bfda-3157cfab7702",
+        "alt": "JPMorgan Chase logo on building exterior",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Note",
+          "url": "https://finance.yahoo.com/markets/article/jpmorgan-raises-sp-500-target-to-7800-but-warns-of-flash-crash-145240724.html"
+        },
+        {
+          "label": "Lakos-Bujas Note Recap",
+          "url": "https://eciks.org/10601-15816-invest-jpmorgan-sp500-target-7800"
+        },
+        {
+          "label": "InvestingLive Detail",
+          "url": "https://investinglive.com/stock-market-update/jp-morgan-lifts-sp-500-target-to-7800-but-warns-of-flash-crash-risk-in-crowded-ai-trades-20260624/"
+        },
+        {
+          "label": "S&P 500 Quote",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "JPMorgan lifts year-end S&P 500 target to 7,800 from 7,600 — Lakos-Bujas calls earnings revision 'unprecedented', sees 2026 EPS $350 (+29% Y/Y)",
+        "body": "JPMorgan's global markets strategist Dubravko Lakos-Bujas published a mid-year outlook Wednesday June 24 walking the bank's S&P 500 target higher and saying JPM had been 'much too cautious' on earnings.\n\n* New 2026 year-end S&P 500 target: **7,800** (from 7,600)\n* Implied upside vs Tuesday's 7,365.46 close: **~6%**\n* 2026 S&P 500 EPS forecast: **$350** (+29% Y/Y)\n* 2027 S&P 500 EPS forecast: **$390**\n* JPM joins ≥7 sell-side shops raising targets this month\n\nLakos-Bujas framed it three ways:\n\n1. **'Unprecedented' earnings revision** — He said this type of upward EPS move is typically only seen after a shock or post-recession, not in a bull market. AI capex compounds the cycle.\n2. **'Blue Sky' macro setup** — U.S.–Iran war winding down, oil back to pre-war ranges, no recession in sight.\n3. **Crowded AI = flash-crash risk** — Lakos-Bujas explicitly warned that speculative trading in secondary and tertiary AI names has 'high probability of a flash crash' even as the index target moves up. Rising equity issuance and potential 2027 tightening are the other hurdles.\n\nNext catalysts: 2Q earnings season kickoff (mid-July), July CPI, Warsh's July 28–29 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jpm-sp500-7800-blue-sky-june-24-2026](https://stock-tldr.xyz/releases/jpm-sp500-7800-blue-sky-june-24-2026)"
+      },
+      "publishDate": "2026-06-26T00:36:59.757Z"
+    },
     {
       "id": "us-pce-may-2026-june-25",
       "categories": [

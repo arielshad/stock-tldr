@@ -5829,6 +5829,41 @@
         "analyst",
         "chips"
       ]
+    },
+    {
+      "id": "sweep-20260626t003659z",
+      "timestamp": "2026-06-26T00:36:59.757Z",
+      "source": "github-actions-sweep",
+      "summary": "Added Apple's worst-since-April-2025 -6.15% sell-off on store-wide Mac/iPad price hikes (Thursday June 25) and JPMorgan's S&P 500 year-end target lift to 7,800 (Wednesday June 24, Lakos-Bujas). Skipped MSFT Xbox price hike — MSFT -3.8% had multiple drivers, news mainly a sympathy beat on memory shortage already framed in the AAPL item.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "aapl-mac-ipad-price-hike-june-25-2026",
+          "title": "Apple's worst day since April 2025 — AAPL -6.15% to $275.15 on Thursday June 25 wipes ~$275B in cap as company raises Mac, iPad, HomePod and Vision Pro prices store-wide; CEO Tim Cook calls AI memory shortage a 'hundred-year flood' and leaves iPhone untouched",
+          "category": "mover",
+          "note": "AAPL -6.15% on store-wide Mac/iPad/HomePod/Vision Pro repricing — first broad consumer hardware hike, Tim Cook calls memory crunch a 'hundred-year flood'."
+        },
+        {
+          "id": "jpm-sp500-7800-blue-sky-june-24-2026",
+          "title": "JPMorgan's Dubravko Lakos-Bujas lifts year-end S&P 500 target to 7,800 from 7,600 on Wednesday June 24 — calls earnings revision 'unprecedented' on AI capex and Iran de-escalation; 2026 EPS forecast bumped to $350 (+29% Y/Y), 2027 to $390; flags flash-crash risk in 'crowded' secondary AI trades",
+          "category": "analyst",
+          "note": "JPMorgan's Lakos-Bujas lifts S&P 500 year-end target to 7,800 on 'unprecedented' earnings revision and Iran de-escalation; flags flash-crash risk in crowded secondary AI."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "analyst",
+        "earnings",
+        "macro",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
