@@ -5864,6 +5864,38 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260626t124530z",
+      "timestamp": "2026-06-26T12:45:30.446Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: the $11.3B Merck KGaA / Bio-Techne all-cash deal at $73 per share (TECH +20% to $70.67) — Merck's largest deal since the 2014 Sigma-Aldrich purchase — and an NYT scoop that OpenAI is leaning toward pushing its IPO to 2027 to preserve a $1T target valuation, citing SpaceX's post-IPO slide as a cautionary tape. Scanned Bio-Techne PR + 8-K, OpenAI/NYT scoop coverage on Yahoo/Reuters/Business Standard, and verified TECH and SPCX price data. Reviewed Wendy's June-25 squeeze continuation (already covered by `wen-cfo-meme-squeeze-june-24-2026`), CAT +5.28% (same Chevron-MSFT Kilby AI-infra thesis already in feed), and Q1 2026 GDP third estimate (+2.1%) — passed on the macro print as the upward revision is too old / non-market-moving given the existing May PCE entry.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tech-merck-kgaa-acquisition-june-25-2026",
+          "title": "Merck KGaA to acquire Bio-Techne (TECH) for $11.3B EV at $73/share all-cash on Thursday June 25 — 36% premium to 1-month VWAP / +24% to $58.88 prior close; TECH +20.02% to $70.67 in Merck's biggest deal since 2014 Sigma-Aldrich, ~€140M run-rate synergies by year 3, close late-2026 / early-2027",
+          "category": "mna",
+          "note": "Largest Merck KGaA deal since 2014 Sigma-Aldrich. Primary source: Merck press release + Bio-Techne 8-K. Verified TECH June 24 close $58.88 → June 25 close $70.67 (+20.02%)."
+        },
+        {
+          "id": "openai-ipo-delay-2027-rumor-june-25-2026",
+          "title": "Reportedly: OpenAI weighs delaying IPO to 2027 to hold out for a $1T valuation — NYT scoop on Thursday June 25 cites three people on internal deliberations as CEO Sam Altman rejects any cut to the trillion-dollar mark and bankers cite SpaceX (SPCX) post-IPO slide from $202 to ~$153 as a warning sign",
+          "category": "rumor",
+          "note": "NYT scoop confirmed by Reuters / Bloomberg the same evening. Rumor tier per Hard Rule 4 — flagged as 'Reportedly' in title and as `rumor` category. Material to today's tech tape (NQ futures -1% premarket June 26)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "ipo",
+        "rumor"
+      ]
     }
   ]
 }
