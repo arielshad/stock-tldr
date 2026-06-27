@@ -5946,6 +5946,50 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260627t124338z",
+      "timestamp": "2026-06-27T12:43:38.813Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new items for the 2026-06-27 sweep: SCOTUS 7-2 in Monsanto v. Durnell on June 25 sends Bayer (BAYRY) ~+17% — biggest day since 2003; onsemi to acquire Synaptics in a $7B all-stock deal sinks ON -23.66% to $90.65 on June 26 as the Street fades the 'physical AI' pivot; and Michael Burry's June 25 Substack discloses 2028 LEAP calls on MSFT, lifting Microsoft +5.71% to $372.97 on Friday June 26.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bayer-scotus-monsanto-durnell-roundup-june-25-2026",
+          "title": "Supreme Court 7-2 in Monsanto v. Durnell on Thursday June 25 — FIFRA federal preemption shields Bayer from state failure-to-warn Roundup claims; Bayer (BAYRY) +~17% — biggest one-day gain since March 2003 — and Frankfurt trading halted for volatility",
+          "category": "regulatory",
+          "note": "SCOTUS 7-2 ruling in Monsanto v. Durnell preempts state failure-to-warn Roundup claims; Bayer +17% on its biggest single-day move since 2003 — primary-source confirmed via SCOTUS opinion PDF."
+        },
+        {
+          "id": "on-syna-onsemi-synaptics-7b-acquisition-june-25-2026",
+          "title": "onsemi (ON) to acquire Synaptics (SYNA) in $7B all-stock deal announced 4:15 PM ET Thursday June 25 — 1.350 ON shares per SYNA share, 19% 10-day VWAP premium; ON -23.66% to $90.65 on Friday June 26 (biggest one-day drop in years) as Street fades the 'physical AI' pivot, SYNA -3.68% to $121.00",
+          "category": "mna",
+          "note": "onsemi-Synaptics $7B all-stock deal announced 4:15 PM ET June 25; ON -23.66% on June 26 wipes more equity value than the premium paid — a textbook 'don't do this' deal reaction."
+        },
+        {
+          "id": "msft-burry-leap-calls-june-26-2026",
+          "title": "Microsoft (MSFT) +5.71% to $372.97 on Friday June 26 — biggest day in months — after Michael Burry's June 25 Substack discloses long-dated Dec 2028 LEAP calls in the low-$700 strike range, trims half his Palantir short at $107.15",
+          "category": "mover",
+          "note": "Michael Burry's June 25 Substack discloses Dec 2028 MSFT LEAP calls in the low-$700s; MSFT +5.71% to $372.97 on Friday June 26 — a clean named-investor mover that crystallized the AI-software-vs-AI-chips rotation."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }

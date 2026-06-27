@@ -1,8 +1,251 @@
 {
-  "generatedAt": "2026-06-27T00:35:44.130Z",
+  "generatedAt": "2026-06-27T12:43:38.813Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bayer-scotus-monsanto-durnell-roundup-june-25-2026",
+      "categories": [
+        "regulatory",
+        "mover"
+      ],
+      "title": "Supreme Court 7-2 in Monsanto v. Durnell on Thursday June 25 — FIFRA federal preemption shields Bayer from state failure-to-warn Roundup claims; Bayer (BAYRY) +~17% — biggest one-day gain since March 2003 — and Frankfurt trading halted for volatility",
+      "org": "Supreme Court of the United States",
+      "date": "2026-06-25",
+      "url": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+      "summary": "SCOTUS rules 7-2 in Monsanto v. Durnell that FIFRA preempts state failure-to-warn Roundup claims, throwing out a $1.25M Missouri verdict. Bayer surges ~17% in Frankfurt — biggest single-day gain since 2003 — trading halted for volatility.",
+      "tickers": [
+        "BAYRY"
+      ],
+      "tags": [
+        "regulatory",
+        "scotus",
+        "supreme-court",
+        "preemption",
+        "fifra",
+        "monsanto",
+        "bayer",
+        "roundup",
+        "glyphosate",
+        "litigation",
+        "kavanaugh",
+        "jackson-dissent"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Vote": "7-2 (Jackson, Gorsuch dissent)",
+        "Verdict overturned": "$1.25M (John Durnell, Missouri)",
+        "BAYRY move": "+~17% on June 25",
+        "Frankfurt context": "Biggest one-day gain since March 2003, trading halted for volatility",
+        "Cases at stake": "Tens of thousands of pending failure-to-warn claims",
+        "Pre-existing settlement": "$7.25B proposed class settlement (Feb 2026)",
+        "Total Roundup litigation cost (cumulative)": ">$10B paid to date"
+      },
+      "explainer": {
+        "tagline": "SCOTUS 7-2: federal pesticide law preempts state failure-to-warn Roundup claims, gutting the legal theory behind tens of thousands of Bayer cancer lawsuits.",
+        "whatIsIt": "On Thursday June 25 the Supreme Court ruled 7-2 in Monsanto Co. v. Durnell that the Federal Insecticide, Fungicide, and Rodenticide Act expressly preempts state-law failure-to-warn claims when the EPA has determined a pesticide label does not need a particular warning. The Court vacated a $1.25M Missouri jury verdict won by John Durnell, who blamed Roundup for his non-Hodgkin lymphoma. Bayer's American Depository Receipts (BAYRY) surged ~17% — and Frankfurt-listed BAYN.DE briefly halted for volatility on its biggest one-day gain since March 2003.",
+        "howItWorks": "Justice Kavanaugh wrote for the majority, joined by Roberts, Thomas, Alito, Sotomayor, Kagan, and Barrett, holding that state requirements 'in addition to or different from' EPA-mandated labels are preempted. Justices Jackson and Gorsuch dissented, with Jackson writing the majority 'cannot be squared with the text of FIFRA or our precedents.' Bayer says the decision 'should result in the dismissal of current warning-based claims and bar future failure-to-warn claims,' working alongside its $7.25B February 2026 class-settlement proposal as 'mutually reinforcing' elements of its litigation containment strategy.",
+        "whyItMatters": "Bayer has paid more than $10B in Roundup verdicts and settlements since 2018 and faces 100,000+ pending claims — the failure-to-warn theory was the engine driving most of them. With preemption now controlling, tens of thousands of state-court cases lose their primary legal theory. Read-throughs: Syngenta paraquat litigation, 3M PFAS labeling claims, and any FIFRA-regulated agro-chemical sit on stronger legal ground. CFO ranks should bake the headline-risk discount on BAYRY out of the multiple over coming weeks.",
+        "forWho": "European-pharma desks, M&A-arb watching Bayer split-up chatter, agro-chemical PMs, regulatory-policy traders",
+        "tryIt": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/107081071-16563373052022-06-27t133121z_1615686054_rc2c0v9yd1gd_rtrmadp_0_usa-court-roundup.jpeg?v=1656337427&w=1920&h=1080",
+        "alt": "Bottles of Roundup weedkiller on a hardware-store shelf — SCOTUS rules 7-2 for Monsanto June 25 2026",
+        "fit": "cover",
+        "credit": "Reuters via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html"
+        },
+        {
+          "label": "SCOTUS Opinion",
+          "url": "https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf"
+        },
+        {
+          "label": "SCOTUSblog Case",
+          "url": "https://www.scotusblog.com/cases/monsanto-company-v-durnell/"
+        },
+        {
+          "label": "NBC News Recap",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-lawsuits-roundup-weedkiller-glyphosate-rcna351778"
+        },
+        {
+          "label": "BAYRY Quote",
+          "url": "https://finance.yahoo.com/quote/BAYRY"
+        }
+      ],
+      "reddit": {
+        "title": "SCOTUS 7-2 in Monsanto v. Durnell — federal preemption guts Roundup failure-to-warn theory; Bayer +17% in Frankfurt, biggest day since 2003",
+        "body": "The Supreme Court handed Bayer one of the biggest litigation wins of the decade on Thursday June 25. Here's what happened:\n\n* 7-2 decision in Monsanto Co. v. Durnell, Kavanaugh writing for the majority\n* $1.25M Missouri jury verdict to John Durnell (non-Hodgkin lymphoma) vacated\n* Holds that FIFRA expressly preempts state failure-to-warn claims when EPA has approved the label\n* Bayer ADR (BAYRY) +~17% — Frankfurt BAYN.DE trading halted for volatility, biggest single-day gain since March 2003\n* Justices Jackson and Gorsuch dissented\n\nThe stakes:\n\n1. **The theory behind tens of thousands of pending cases just died** — Bayer faces 100,000+ Roundup claims and has paid >$10B in verdicts and settlements since 2018. State-court failure-to-warn was the engine for most of them.\n2. **Read-through to other agro-chem litigation** — Syngenta's paraquat cases and 3M's PFAS labeling claims now sit on stronger preemption ground.\n3. **Bayer's $7.25B class settlement** (proposed February 2026) keeps moving — company says the ruling and the settlement are 'mutually reinforcing.'\n\nNext catalysts: motions to dismiss in remaining state-court Roundup cases; class-settlement approval timeline; Bayer guidance on litigation reserves at next earnings.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bayer-scotus-monsanto-durnell-roundup-june-25-2026](https://stock-tldr.xyz/releases/bayer-scotus-monsanto-durnell-roundup-june-25-2026)"
+      },
+      "publishDate": "2026-06-27T12:43:38.813Z"
+    },
+    {
+      "id": "on-syna-onsemi-synaptics-7b-acquisition-june-25-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "onsemi (ON) to acquire Synaptics (SYNA) in $7B all-stock deal announced 4:15 PM ET Thursday June 25 — 1.350 ON shares per SYNA share, 19% 10-day VWAP premium; ON -23.66% to $90.65 on Friday June 26 (biggest one-day drop in years) as Street fades the 'physical AI' pivot, SYNA -3.68% to $121.00",
+      "org": "onsemi",
+      "date": "2026-06-25",
+      "url": "https://www.globenewswire.com/news-release/2026/06/25/3317941/0/en/onsemi-to-acquire-synaptics-to-enable-the-next-generation-of-intelligent-systems-for-physical-ai.html",
+      "summary": "onsemi to buy Synaptics in $7B all-stock deal at a 1.350× exchange ratio (19% premium). ON -23.66% to $90.65 Friday June 26 — biggest single-day drop in years — as Street rejects the 'physical AI' pivot; SYNA tracks lower at $121 (-3.68%) on deal mechanics.",
+      "tickers": [
+        "ON",
+        "SYNA"
+      ],
+      "tags": [
+        "mna",
+        "all-stock",
+        "onsemi",
+        "synaptics",
+        "physical-ai",
+        "edge-ai",
+        "semiconductors",
+        "deal-spread",
+        "hassane-el-khoury",
+        "premium"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal value": "~$7B EV (all-stock)",
+        "Exchange ratio": "1.350 ON shares per SYNA share",
+        "Premium": "~19% to 10-day VWAP",
+        "SYNA post-close ownership": "~12% of pro-forma combined",
+        "Pro forma 2026 revenue": "~$7.8B",
+        "Annual run-rate synergies": "$200M",
+        "TAM expansion": "+$30B to $243B by 2030",
+        "Accretion": "Non-GAAP EPS within 18 months of close",
+        "Expected close": "Mid-2027",
+        "ON June 25 close": "$118.74",
+        "ON June 26 close": "$90.65 (-23.66%)",
+        "SYNA June 25 close": "$125.62",
+        "SYNA June 26 close": "$121.00 (-3.68%)",
+        "Deal-implied SYNA value (at ON $90.65)": "~$122.38 (1.1% deal spread)"
+      },
+      "explainer": {
+        "tagline": "onsemi pays ~$7B all-stock for Synaptics to chase 'physical AI' edge compute — Street fades the pivot and pummels ON -23.66% in a single session.",
+        "whatIsIt": "After the close on Thursday June 25, onsemi (Nasdaq: ON) announced a definitive agreement to acquire Synaptics (Nasdaq: SYNA) in an all-stock transaction valued at approximately $7B EV. SYNA holders receive 1.350 onsemi shares per Synaptics share, a ~19% premium to the trailing 10-day VWAP. On Friday June 26, ON closed -23.66% at $90.65 — its largest single-day drop in years — while SYNA closed -3.68% at $121.00, tracking the deal mechanics rather than the premium.",
+        "howItWorks": "The fixed-ratio swap leaves Synaptics holders with ~12% of the pro-forma company. onsemi pitches the combination as a 'physical AI' platform: power + sensing + connected compute + control, extending the TAM by $30B to $243B by 2030. Management guides $200M in annual run-rate synergies and non-GAAP EPS accretion within 18 months of a mid-2027 close, subject to SYNA shareholder vote and regulatory clearance. ON CEO Hassane El-Khoury said the shift to Physical AI requires the four pieces 'to work together seamlessly'; SYNA president Rahul Patel framed the combination as 'integrated solutions across every layer of the Edge AI stack.'",
+        "whyItMatters": "All-stock + a sub-$10B target + a still-cooling AI semis tape = the Street penalized ON for dilution and strategic drift. The 23.66% drop maps to roughly ~$12B of pro-forma equity-value destruction — more than the entire premium paid. The SYNA deal-spread (~1.1%) prices a high probability of close but no expectation of a topping bid in a quiet small-cap semis cycle. Read-throughs: large legacy analog/power names (NXPI, TXN, ADI, STM) get a 'don't do this' read on AI-software diversification, and SYNA peers (CRUS, SLAB) lose a strategic acquirer.",
+        "forWho": "M&A-arb desks, semis analysts, capital-allocation skeptics",
+        "tryIt": "https://finance.yahoo.com/quote/ON"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/5ee83abc-f6c8-4f57-b432-9bb3bc56a2c1",
+        "alt": "onsemi and Synaptics 'physical AI' press-release graphic — $7B all-stock deal announced June 25 2026",
+        "fit": "cover",
+        "credit": "onsemi via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "onsemi Release",
+          "url": "https://www.globenewswire.com/news-release/2026/06/25/3317941/0/en/onsemi-to-acquire-synaptics-to-enable-the-next-generation-of-intelligent-systems-for-physical-ai.html"
+        },
+        {
+          "label": "Yahoo Markets Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-9-hours-while-213040291.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/m-a/26/06/60116848/on-semi-to-acquire-synaptics-in-7-billion-all-stock-deal-syna-rallies-on-shares-take-hit"
+        },
+        {
+          "label": "ON Quote",
+          "url": "https://finance.yahoo.com/quote/ON"
+        },
+        {
+          "label": "SYNA Quote",
+          "url": "https://finance.yahoo.com/quote/SYNA"
+        }
+      ],
+      "reddit": {
+        "title": "ON -23.66% to $90.65 after all-stock $7B Synaptics deal — Street fades the 'physical AI' pivot; SYNA -3.68% to $121 on deal mechanics, not the 19% premium",
+        "body": "onsemi announced its acquisition of Synaptics in a $7B all-stock transaction after Thursday's close. Friday June 26 was a punishing session for both names:\n\n* Exchange ratio: 1.350 ON shares per SYNA share — ~19% premium to 10-day VWAP\n* Pro forma 2026 revenue ~$7.8B, $200M annual synergies, +$30B TAM\n* ON -23.66% to $90.65 — its biggest single-day drop in years\n* SYNA -3.68% to $121.00 — deal-implied value at $90.65 ON is ~$122.38, so only ~1.1% deal spread\n* Expected close mid-2027, accretive to non-GAAP EPS within 18 months\n\nWhy the violent ON sell-off:\n\n1. **All-stock dilution at a small-cap premium** — Synaptics shareholders end up with ~12% of the combined company. The 23.66% drop wiped roughly ~$12B of pro-forma equity value, more than the premium paid.\n2. **'Physical AI' is a sell-the-pitch story** — onsemi reframes itself away from power and sensing toward edge AI compute, where it has no track record vs. Nvidia/Qualcomm.\n3. **Wrong tape** — small-cap semis are in a cooling cycle and the Street has no appetite for big strategic pivots in chip M&A right now.\n\nNext catalysts: Synaptics proxy / merger filing; any regulatory pushback (FTC, China SAMR); ON Q2 earnings as first chance to defend the deal logic.\n\nFull breakdown: [https://stock-tldr.xyz/releases/on-syna-onsemi-synaptics-7b-acquisition-june-25-2026](https://stock-tldr.xyz/releases/on-syna-onsemi-synaptics-7b-acquisition-june-25-2026)"
+      },
+      "publishDate": "2026-06-27T12:43:38.813Z"
+    },
+    {
+      "id": "msft-burry-leap-calls-june-26-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Microsoft (MSFT) +5.71% to $372.97 on Friday June 26 — biggest day in months — after Michael Burry's June 25 Substack discloses long-dated Dec 2028 LEAP calls in the low-$700 strike range, trims half his Palantir short at $107.15",
+      "org": "Microsoft",
+      "date": "2026-06-26",
+      "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html",
+      "summary": "MSFT +5.71% to $372.97 on Friday June 26 after Michael Burry's June 25 Substack post discloses a new long position via Dec 2028 LEAP calls (low-$700s strike). Burry also added JD, ADBE, FI and trimmed half his PLTR short at $107.15.",
+      "tickers": [
+        "MSFT",
+        "PLTR",
+        "ADBE",
+        "JD",
+        "FI"
+      ],
+      "tags": [
+        "mover",
+        "msft",
+        "microsoft",
+        "michael-burry",
+        "leap-calls",
+        "scion-asset-management",
+        "substack",
+        "palantir-short",
+        "ai-software"
+      ],
+      "importance": "major",
+      "metrics": {
+        "MSFT June 26 close": "$372.97",
+        "MSFT June 25 close": "$352.83",
+        "MSFT day move": "+5.71% (+$20.14)",
+        "Burry MSFT instrument": "Microsoft Dec 15, 2028 LEAP calls, strikes in the low-$700s",
+        "Burry stated equity buy zone": "~$350",
+        "Other adds": "JD at $24.79, ADBE at $195.11, FI at $47.55",
+        "Burry PLTR short": "Covered half at $107.15, still long puts",
+        "Burry sale": "BABA (tax-loss)"
+      },
+      "explainer": {
+        "tagline": "Burry's first public bullish MSFT call in years — Dec 2028 LEAPs in the low-$700s — moves the mega-cap +5.71% on the day after.",
+        "whatIsIt": "On Thursday June 25 Michael Burry's Cassandra Unchained Substack published a 'Trading Post' detailing new positions, including a long-dated bullish bet on Microsoft via December 15, 2028 LEAP calls struck in the low $700s. He told subscribers the $350 area was a good zone to buy the stock, but he chose LEAPs because they were 'inexpensive relative to his outlook.' On Friday June 26, MSFT closed +5.71% at $372.97 — its biggest one-day gain in months — while the broader Nasdaq fell 0.24% for a fifth straight session.",
+        "howItWorks": "MSFT entered Friday at a -27% YTD drawdown — its deepest of 2026 — on AI-capex anxiety (FY26 capex tracking toward ~$190B, +60% Y/Y) and OpenAI-IPO-delay headlines. Burry's note also added JD (at $24.79), Adobe (at $195.11) and Fiserv (at $47.55), trimmed half his Palantir short at $107.15 (keeping puts), and exited Alibaba mainly for tax-loss reasons. The market read the disclosure as confirmation that the AI-software-leader pullback had drawn in a known skeptic, and rotated out of capex-spend names (chips, AI infra) into MSFT.",
+        "whyItMatters": "Burry coming long on a mega-cap via 2028 LEAPs is a high-conviction long-duration bet — and it lands at exactly the moment the chips-vs-AI-software debate is sharpest. Read-throughs: AI-software names (ADBE, CRM, NOW, MSFT, ORCL) traded better Friday; AI-chip names (NVDA, MU, AMD, AVGO) stayed under pressure. For MSFT specifically, the move re-bases the forward P/E from contraction-driven multiple compression to value-attention territory.",
+        "forWho": "single-name long-only PMs, AI-software desks, options flow watchers",
+        "tryIt": "https://finance.yahoo.com/quote/MSFT"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/581578EBB07495CD9ABE5D5F34A6057A0CFE00C898004730D47BAD9CC7726B8B/subgraphmysterio/resizefill_w1200_h776;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc86dc346c93a66cde0917e816fd8c855",
+        "alt": "Microsoft logo on glass storefront — MSFT +5.71% June 26 2026 after Burry LEAP-call disclosure",
+        "fit": "cover",
+        "credit": "Stocktwits via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html"
+        },
+        {
+          "label": "Finbold Recap",
+          "url": "https://finbold.com/microsoft-buy-alert-as-michael-burry-goes-long-on-msft-stock/"
+        },
+        {
+          "label": "TIKR Analysis",
+          "url": "https://www.tikr.com/blog/microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-heres-where-msft-could-go-in-2026"
+        },
+        {
+          "label": "MSFT Quote",
+          "url": "https://finance.yahoo.com/quote/MSFT"
+        }
+      ],
+      "reddit": {
+        "title": "MSFT +5.71% to $372.97 on Friday June 26 — Michael Burry discloses Dec 2028 LEAP calls in the low-$700s on Substack a day earlier",
+        "body": "Microsoft put up its biggest day in months on Friday June 26, ripping +5.71% to $372.97 — and the catalyst is unusual:\n\n* Michael Burry's Cassandra Unchained Substack on Thursday June 25 disclosed Dec 15, 2028 LEAP calls on MSFT struck in the low-$700s\n* Burry called $350 a good zone to buy the stock outright but chose LEAPs as 'inexpensive relative to his outlook'\n* MSFT entered Friday in a -27% YTD drawdown — its deepest of the year on AI-capex anxiety\n* Same note: added JD at $24.79, ADBE at $195.11, FI at $47.55; covered half PLTR short at $107.15 (still long puts); exited BABA for tax loss\n\nWhy this mattered for the tape:\n\n1. **A known skeptic going long on a mega-cap via 2028 LEAPs is a long-duration, high-conviction bet** — rare from Burry on a name this large.\n2. **Confirms the AI-software-vs-AI-chips rotation** — AI-software names (ADBE, CRM, NOW, ORCL) firmed Friday while AI-chip names (NVDA, MU, AMD, AVGO) stayed under pressure.\n3. **The MSFT setup** — FY26 capex tracking toward ~$190B (+60% Y/Y), but pullback contracted the forward P/E below 5-yr median.\n\nNext catalysts: MSFT FQ4 earnings late July; any further Burry posts; Adobe FQ3 print and Fiserv next update for confirmation read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/msft-burry-leap-calls-june-26-2026](https://stock-tldr.xyz/releases/msft-burry-leap-calls-june-26-2026)"
+      },
+      "publishDate": "2026-06-27T12:43:38.813Z"
+    },
     {
       "id": "spcx-russell-1000-inclusion-june-26-2026",
       "categories": [
