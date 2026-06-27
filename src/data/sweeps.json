@@ -5896,6 +5896,56 @@
         "ipo",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260627t003544z",
+      "timestamp": "2026-06-27T00:35:44.130Z",
+      "source": "github-actions-sweep",
+      "summary": "Four new items: SpaceX joins the Russell 1000 under FTSE's new fast-track rule with $22B–$27B of mechanical buying queued for Monday's open; SoftBank closes -12.53% / ~$38B in cap wiped on OpenAI IPO delay headlines; Bitcoin breaks $59K to a 21-month low as spot BTC ETFs bleed $696M Friday / $1.86B over three days; and the Singapore-flagged Ever Lovely is hit by an Iranian IRGC drone in the Strait of Hormuz, prompting the UN IMO to pause an 11,000-sailor evacuation.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "spcx-russell-1000-inclusion-june-26-2026",
+          "title": "SpaceX (SPCX) added to Russell 1000 and Russell Top 200 after Friday June 26 close — first fast-track entry under new FTSE Russell rule triggers an estimated $22B–$27B of mechanical index buying, live for trading Monday June 29",
+          "category": "mover",
+          "note": "First-ever fast-track Russell 1000 entry; $22B–$27B mechanical buying queued for Monday's open."
+        },
+        {
+          "id": "softbank-arm-openai-delay-crash-june-26-2026",
+          "title": "SoftBank (9984.T / SFTBY) closes -12.53% at ¥6,226 on Friday June 26 — biggest intraday drop in over three months, ~$38B in market cap wiped on the NYT OpenAI-IPO-delay report; Arm (ARM) -~4% as Nikkei -4% / KOSPI -6% follow",
+          "category": "mover",
+          "note": "SoftBank closes -12.53% / ~$38B in cap wiped; ARM -~4%, Nikkei -4%, KOSPI -6% all sympathy moves."
+        },
+        {
+          "id": "btc-21-month-low-etf-outflows-june-26-2026",
+          "title": "Bitcoin breaks under $59K to a 21-month low on Friday June 26 — BTC -3.7% to ~$58,075 as US spot BTC ETFs bleed $696M (largest daily outflow of June), capping a 3-day $1.86B exodus, $10B in BTC options expire mostly worthless and $1.26B of crypto longs get liquidated",
+          "category": "crypto",
+          "note": "BTC hits 21-month low under $59K; three-day spot ETF outflow stack tops $1.86B."
+        },
+        {
+          "id": "hormuz-ever-lovely-attack-imo-pause-june-25-2026",
+          "title": "Singapore-flagged container ship Ever Lovely struck by an Iranian drone in the Strait of Hormuz on Thursday June 25 — 7.5nm SE of Dahit, Oman; UN's IMO pauses evacuation of 11,000 stranded sailors as Iran's new Persian Gulf Strait Authority warns off transit outside its lanes",
+          "category": "macro",
+          "note": "First direct hit on a commercial ship since Bürgenstock; UN IMO pauses 11,000-sailor evacuation."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "sector",
+        "earnings",
+        "regulatory",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }
