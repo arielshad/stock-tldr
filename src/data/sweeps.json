@@ -5990,6 +5990,32 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260628t021347z",
+      "timestamp": "2026-06-28T02:13:47.434Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet weekend sweep (Sat June 27 / Sun June 28 UTC). Existing feed already covers the major Thursday June 25 + Friday June 26 stories: Bayer SCOTUS Roundup ruling, onsemi/Synaptics $7B deal, Burry's MSFT LEAPs, SpaceX Russell 1000 inclusion, SoftBank/Arm OpenAI-IPO-delay crash, BTC 21-month low with $696M ETF outflow, Hormuz Ever Lovely strike + IMO pause, Merck KGaA/Bio-Techne $11.3B deal, OpenAI 2027 IPO rumor, AAPL Mac/iPad price hike, US May PCE print. Friday US session was small (S&P -0.05% to 7,354, Nasdaq -0.24% to 25,298, Dow -0.09% to 51,876, Russell 2000 +0.07% to 3,010). Russell reconstitution closed after Friday's bell and goes live Monday June 29 (already covered). Nike's KeyBanc downgrade ahead of June 30 Q4 was a +0.4% session — doesn't meet ≥3% mover or wall-of-coverage bar. SK Hynix $29B Nasdaq ADR board resolution was June 24 — outside 72h window. AbbVie Skyrizi pediatric FDA approval is incremental label expansion, not market-moving. Zero qualifying additions.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "ipo",
+        "analyst",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "rumor"
+      ]
     }
   ]
 }
