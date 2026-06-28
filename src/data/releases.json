@@ -1,8 +1,83 @@
 {
-  "generatedAt": "2026-06-28T02:13:47.434Z",
+  "generatedAt": "2026-06-28T13:21:54.979Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-kiku-strikes-kuwait-bahrain-june-28-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "US-Iran ceasefire frays — Iranian drone hits Greek-owned VLCC Kiku (300,866 DWT, ~2M barrels Qatari crude) in Strait of Hormuz at 4:30 a.m. ET Saturday June 27, CENTCOM strikes 10 Iranian military sites in response, IRGC missile-drone barrage on US bases in Kuwait and Bahrain early Sunday June 28",
+      "org": "U.S. Central Command",
+      "date": "2026-06-28",
+      "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+      "summary": "Iranian drone hits VLCC Kiku in Hormuz Sat June 27 at 4:30 a.m. ET; CENTCOM strikes 10 Iranian sites in response; IRGC fires missiles and drones at US Fifth Fleet HQ in Bahrain and Ali Al Salem in Kuwait early Sun. 60-day MOU on the edge.",
+      "tags": [
+        "iran",
+        "hormuz",
+        "geopolitics",
+        "centcom",
+        "irgc",
+        "tanker-attack",
+        "ceasefire",
+        "burgenstock-mou",
+        "oil",
+        "kuwait",
+        "bahrain",
+        "fifth-fleet"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Tanker hit": "M/T Kiku — Panama flag, Greek-owned, 300,866 DWT, ~2M barrels Qatari crude",
+        "US strike (Sat)": "10 Iranian sites — missile/drone storage, comms, air defense, surveillance, minelaying",
+        "Iran retaliation (Sun)": "Ali Al Salem AB (Kuwait) + Fifth Fleet HQ Port Salman (Bahrain), 2–3 a.m. local",
+        "Casualties": "None reported; Kuwait intercepted 2 ballistic missiles",
+        "JMIC threat level": "Raised to Substantial from Moderate"
+      },
+      "explainer": {
+        "tagline": "The June 22 Bürgenstock 60-day MOU is fraying — second tanker strike in three days has triggered a second round of US-Iran tit-for-tat strikes.",
+        "whatIsIt": "Over the weekend the US-Iran ceasefire that VP Vance and Iran signed June 18 / re-anchored at Bürgenstock on June 22 collapsed into a fresh round of military exchanges. The Greek-owned, Panama-flagged crude tanker Kiku was hit by an Iranian one-way attack drone in the Strait of Hormuz on Saturday morning, CENTCOM responded with airstrikes on 10 Iranian military targets, and Iran's IRGC fired missiles and drones at US-linked bases in Kuwait and Bahrain in the early hours of Sunday.",
+        "howItWorks": "CENTCOM said the Kiku was hit at 4:30 a.m. ET Saturday June 27 while transiting near the Strait of Hormuz carrying more than 2 million barrels of Qatari crude bound for Fujairah, UAE — bridge damage but no casualties. US aircraft then struck Iranian missile and drone storage, communications, air defense, surveillance and minelaying sites. Early Sunday the IRGC's naval and aerospace forces fired a joint missile and drone salvo at the Ali Al Salem Air Base in Kuwait and the US Fifth Fleet headquarters at Port Salman in Bahrain between 2 and 3 a.m. local time; Kuwait intercepted two ballistic missiles, Bahrain's Foreign Ministry confirmed drones at dawn, and the Joint Maritime Information Center lifted its Hormuz threat level back to Substantial from Moderate.",
+        "whyItMatters": "Brent settled at $71.99 and WTI at $69.23 on Friday June 26 — both at multi-month lows on the assumption that Hormuz traffic would normalize under the MOU. A second tanker strike in three days plus the first Iranian missiles on Gulf bases since 2020 puts a war-risk premium back into Sunday's futures open, and any move to halt the 60-day talks would force markets to re-price the entire post-MOU oil-down trade. Watch DXY, gold and Asian risk on the Sunday-night reopen.",
+        "forWho": "Oil desks, macro traders, defense names",
+        "tryIt": "https://www.tradingview.com/symbols/NYMEX-CL1!/"
+      },
+      "image": {
+        "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1024x673.jpg",
+        "alt": "Strait of Hormuz tanker transit during the Iran crisis (Reuters, June 2026)",
+        "fit": "cover",
+        "credit": "Reuters via PBS NewsHour"
+      },
+      "links": [
+        {
+          "label": "CNBC: Kiku Tanker Strike",
+          "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html"
+        },
+        {
+          "label": "PBS: US Strikes Day 2",
+          "url": "https://www.pbs.org/newshour/world/us-military-says-it-struck-multiple-targets-in-iran-as-ceasefire-is-strained-by-2nd-day-of-attacks"
+        },
+        {
+          "label": "CBS Live Updates",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks/"
+        },
+        {
+          "label": "CNN: Iran Hits Gulf Bases",
+          "url": "https://www.cnn.com/2026/06/28/world/live-news/iran-war-strikes-trump"
+        },
+        {
+          "label": "NBC: US Strikes After Kiku",
+          "url": "https://www.nbcnews.com/news/us-news/us-launches-strikes-iran-attack-ship-strait-hormuz-rcna351992"
+        }
+      ],
+      "reddit": {
+        "title": "US-Iran ceasefire cracks — Iranian drone hits 300,866 DWT VLCC Kiku in Hormuz Saturday, CENTCOM strikes 10 Iranian sites, IRGC fires missiles at US bases in Kuwait and Bahrain early Sunday",
+        "body": "The June 22 Bürgenstock 60-day ceasefire is fraying. Over the weekend the US and Iran traded direct strikes for the second time since the MOU was signed:\n\n* Saturday June 27, 4:30 a.m. ET — Iranian one-way drone hits Greek-owned, Panama-flagged VLCC Kiku in the Strait of Hormuz; ship was carrying ~2M barrels of Qatari crude to Fujairah, UAE\n* Bridge damage, no casualties — vessel diverted to Fujairah\n* Joint Maritime Information Center raises Hormuz threat level back to Substantial from Moderate\n* CENTCOM responds Saturday — US aircraft hit 10 Iranian military sites (missile/drone storage, comms, air defense, surveillance, minelaying)\n* Early Sunday June 28, 2–3 a.m. local — IRGC fires missiles and drones at Ali Al Salem Air Base (Kuwait) and US Fifth Fleet HQ Port Salman (Bahrain). Kuwait intercepts two ballistic missiles, Bahrain Foreign Ministry confirms drone attack at dawn. No US casualties reported.\n\nThree things to watch into the Sunday-night futures reopen:\n\n1. **Oil** — Brent settled $71.99 and WTI $69.23 Friday on the assumption Hormuz traffic was normalizing under the MOU. A war-risk premium is going back in.\n2. **The 60-day MOU** — IRGC warned violations \"will lead to a complete halt of ongoing processes\"; that would unwind every post-Bürgenstock trade.\n3. **First Iranian strikes on Gulf bases since 2020** — a real escalation rung, not symbolic; defense names and gold likely bid.\n\nNext catalysts: Sunday-night Brent/WTI reopen, any State Department / Iran MFA statement on whether the Bürgenstock track survives.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-kiku-strikes-kuwait-bahrain-june-28-2026](https://stock-tldr.xyz/releases/us-iran-kiku-strikes-kuwait-bahrain-june-28-2026)"
+      },
+      "publishDate": "2026-06-28T13:21:54.979Z"
+    },
     {
       "id": "bayer-scotus-monsanto-durnell-roundup-june-25-2026",
       "categories": [

@@ -6016,6 +6016,34 @@
         "commodity",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260628t132154z",
+      "timestamp": "2026-06-28T13:21:54.979Z",
+      "source": "github-actions-sweep",
+      "summary": "Single new item this sweep: the weekend US-Iran tit-for-tat — Iranian drone hits VLCC Kiku in Hormuz Sat June 27, CENTCOM strikes 10 Iranian sites in response, IRGC fires missiles and drones at US bases in Kuwait and Bahrain early Sun June 28. Earnings/M&A/macro prints were quiet over the weekend.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-kiku-strikes-kuwait-bahrain-june-28-2026",
+          "title": "US-Iran ceasefire frays — Iranian drone hits Greek-owned VLCC Kiku (300,866 DWT, ~2M barrels Qatari crude) in Strait of Hormuz at 4:30 a.m. ET Saturday June 27, CENTCOM strikes 10 Iranian military sites in response, IRGC missile-drone barrage on US bases in Kuwait and Bahrain early Sunday June 28",
+          "category": "macro",
+          "note": "Second tanker hit in three days has cracked the Bürgenstock 60-day MOU into two-way kinetic exchanges; first Iranian missile salvo on Gulf bases since 2020 — directly resets the post-MOU oil-down trade."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "earnings",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }
