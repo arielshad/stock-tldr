@@ -6058,6 +6058,58 @@
       "added": [],
       "updated": [],
       "removed": []
+    },
+    {
+      "id": "sweep-20260629t153904z",
+      "timestamp": "2026-06-29T15:39:04.475Z",
+      "source": "github-actions-sweep",
+      "summary": "Four-item Monday sweep: SCOTUS dual ruling on agency removal power (Cook 5-4 keeps the Fed carve-out; Slaughter 6-3 overturns Humphrey's Executor), Comcast tax-free NBCUniversal/Sky spin-off (CMCSA +6.91% close after +26% premarket fade), Martin Marietta's $13.5B Lhoist North America combination (MLM -6.35%), and a named-source Baidu/Kunlunxin $50B Hong Kong IPO rumor from The Information.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "scotus-trump-cook-trump-slaughter-fed-independence-june-29-2026",
+          "title": "Supreme Court splits the agencies on Monday June 29 — 5-4 in Trump v. Cook denies the stay and keeps Fed governor Lisa Cook in her seat, but 6-3 in Trump v. Slaughter overturns Humphrey's Executor and lets Trump fire FTC commissioner Rebecca Slaughter; S&P 500 +0.71% to 7,406.38, Nasdaq +1.29% to 25,623.67, Dow +0.44% to 52,101.96 on Fed carve-out relief",
+          "category": "regulatory",
+          "note": "Twin SCOTUS rulings on independent-agency removal power, decided same day — Cook 5-4 carves out the Fed, Slaughter 6-3 overturns Humphrey's Executor. Wall-of-coverage seismic with measurable index moves."
+        },
+        {
+          "id": "cmcsa-spin-nbcuniversal-sky-june-29-2026",
+          "title": "Comcast (CMCSA) +6.91% to $24.77 on Monday June 29 — board approves tax-free spin-off of NBCUniversal + Sky (theme parks, Universal Studios, NBC, Telemundo, Peacock, Bravo); Mike Cavanagh becomes NBCUniversal CEO, Michael Angelakis becomes Comcast CEO, ~12-month timeline, premarket peaked +26% at $29.23 before fading",
+          "category": "mna",
+          "note": "Largest media spin-off in years — Comcast announces tax-free separation of NBCUniversal + Sky; CMCSA closes +6.91% but premarket faded sharply from +26%."
+        },
+        {
+          "id": "mlm-lhoist-na-13-5b-acquisition-june-29-2026",
+          "title": "Martin Marietta (MLM) -6.35% to $576.97 on Monday June 29 — agrees to $13.5B cash-and-stock combination with Belgium's Lhoist North America ($7B cash + $6.5B MLM shares); Berghmans family gets ~15% of MLM, Lhoist NA FY25 sales $1.8B / adj EBITDA $786M, $85M run-rate synergies, H2 2026 close pending regulatory approval",
+          "category": "mna",
+          "note": "MLM's largest deal ever — $13.5B (cash + stock) for Lhoist North America, with the Berghmans family ending up at ~15% of MLM; Street fades it -6.35%."
+        },
+        {
+          "id": "bidu-kunlunxin-50b-hk-ipo-rumor-june-29-2026",
+          "title": "Reportedly: Baidu (BIDU / 9888.HK) +~7% in Hong Kong on Monday June 29 — The Information scoop says AI-chip unit Kunlunxin is targeting a $50B Hong Kong IPO and asking would-be investors to also commit to buying 3–7× their stake in Kunlunxin chips; Kunlunxin already supplies ByteDance and Tencent",
+          "category": "rumor",
+          "note": "Named-source rumor from The Information about a $50B Hong Kong IPO for Baidu's Kunlunxin AI-chip arm; BIDU HK +~7%; tagged rumor importance + 'Reportedly' in title."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "regulatory",
+        "macro",
+        "mna",
+        "mover",
+        "rumor",
+        "ipo",
+        "earnings",
+        "crypto",
+        "commodity",
+        "rates",
+        "analyst"
+      ]
     }
   ]
 }

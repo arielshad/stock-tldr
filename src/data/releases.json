@@ -1,8 +1,322 @@
 {
-  "generatedAt": "2026-06-29T02:13:19.318Z",
+  "generatedAt": "2026-06-29T15:39:04.475Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "scotus-trump-cook-trump-slaughter-fed-independence-june-29-2026",
+      "categories": [
+        "regulatory",
+        "macro"
+      ],
+      "title": "Supreme Court splits the agencies on Monday June 29 — 5-4 in Trump v. Cook denies the stay and keeps Fed governor Lisa Cook in her seat, but 6-3 in Trump v. Slaughter overturns Humphrey's Executor and lets Trump fire FTC commissioner Rebecca Slaughter; S&P 500 +0.71% to 7,406.38, Nasdaq +1.29% to 25,623.67, Dow +0.44% to 52,101.96 on Fed carve-out relief",
+      "org": "Supreme Court of the United States",
+      "date": "2026-06-29",
+      "url": "https://www.supremecourt.gov/opinions/25pdf/25a312_5468.pdf",
+      "summary": "SCOTUS denies 5-4 Trump's stay request in Trump v. Cook — Fed governor Lisa Cook keeps her seat — while ruling 6-3 in Trump v. Slaughter that the FTC's for-cause removal protection is unconstitutional and overturning the 1935 Humphrey's Executor precedent.",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "tags": [
+        "regulatory",
+        "macro",
+        "scotus",
+        "supreme-court",
+        "fed-independence",
+        "lisa-cook",
+        "rebecca-slaughter",
+        "ftc",
+        "federal-reserve",
+        "humphreys-executor",
+        "trump-v-cook",
+        "trump-v-slaughter",
+        "roberts",
+        "sotomayor-dissent",
+        "june-29-2026"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Cook vote": "5-4 (Roberts maj.)",
+        "Slaughter vote": "6-3 (Roberts maj., Sotomayor/Kagan/Jackson dissent)",
+        "S&P 500": "7,406.38 (+0.71%)",
+        "Nasdaq": "25,623.67 (+1.29%)",
+        "Dow": "52,101.96 (+0.44%)",
+        "Cook docket": "No. 25A312 (stay denied)",
+        "Slaughter docket": "No. 25-332 (reversed and remanded)",
+        "Precedent overturned": "Humphrey's Executor v. United States (1935)"
+      },
+      "explainer": {
+        "tagline": "SCOTUS protects the Fed (5-4) while gutting the rest of the independent-agency firewall (6-3) — Humphrey's Executor is dead, but Powell's board is not.",
+        "whatIsIt": "On Monday June 29 the Supreme Court handed down twin rulings on presidential removal power over independent federal agencies. In Trump v. Cook (No. 25A312), the Court denied 5-4 the government's stay application, leaving in place a preliminary injunction that blocks the August 2025 attempted firing of Federal Reserve Governor Lisa Cook. In Trump v. Slaughter (No. 25-332), the Court ruled 6-3 that the FTC's for-cause removal provision is unconstitutional, overruled the 1935 precedent Humphrey's Executor v. United States, and let the firing of FTC Commissioner Rebecca Slaughter stand.",
+        "howItWorks": "Chief Justice John Roberts wrote both majority opinions. In Cook he wrote that accepting the government's position 'would in effect transform the Federal Reserve's for-cause protection into at-will employment — an interpretive leap out of step with the statute Congress enacted and our Nation's tradition of central banking protected from political interference.' In Slaughter he wrote 'The President may remove his subordinates at will. The FTC unquestionably exercises executive power, and must therefore be controlled by the Chief Executive.' Justice Sotomayor — joined by Kagan and Jackson — dissented in Slaughter, writing 'Today, this Court undoes centuries of political practice.' Only Roberts and Kavanaugh sided with Cook in both cases; the four most conservative justices voted to lift her injunction.",
+        "whyItMatters": "Markets read the two rulings together as preserving Fed monetary-policy independence while expanding presidential control over every other 'independent' agency (FTC, SEC, NLRB, CFTC, FCC, Bureau of Labor Statistics political appointees). The S&P 500 closed +0.71% at 7,406.38, the Nasdaq Composite +1.29% at 25,623.67, and the Dow +0.44% at 52,101.96, with bond markets reading the Fed carve-out as bullish for duration. The case is procedurally still alive — the stay denial sends Cook's litigation back to the lower courts, so further appeals remain possible — but the political signal is that Powell's board is the one federal body Roberts treats as a historic exception.",
+        "forWho": "Macro traders, rates desks, regulatory-policy PMs, anyone trading agency-rule-sensitive sectors",
+        "tryIt": "https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108313089-1779970891290-gettyimages-2277860204-COOK_STANFORD.jpeg?v=1779970912&w=1920&h=1080",
+        "alt": "Fed Governor Lisa Cook at Stanford — SCOTUS denies Trump's stay 5-4 on June 29 2026",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "SCOTUS Cook Opinion",
+          "url": "https://www.supremecourt.gov/opinions/25pdf/25a312_5468.pdf"
+        },
+        {
+          "label": "SCOTUS Slaughter Opinion",
+          "url": "https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf"
+        },
+        {
+          "label": "CNBC: Cook Ruling",
+          "url": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html"
+        },
+        {
+          "label": "SCOTUSblog: Slaughter",
+          "url": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/"
+        },
+        {
+          "label": "CBS News: FTC Ruling",
+          "url": "https://www.cbsnews.com/news/supreme-court-trump-ftc-slaughter-humphreys-executor/"
+        }
+      ],
+      "reddit": {
+        "title": "SCOTUS splits the agencies: 5-4 keeps Fed's Lisa Cook in her seat, 6-3 overturns Humphrey's Executor and lets Trump fire FTC's Slaughter — S&P 500 +0.71%, Nasdaq +1.29%",
+        "body": "The Supreme Court handed down two intertwined rulings Monday June 29 that completely reshape the firewall around 'independent' agencies — except, notably, the Fed.\n\n* Trump v. Cook (No. 25A312) — 5-4, stay DENIED. Fed Governor Lisa Cook keeps her seat while litigation continues.\n* Trump v. Slaughter (No. 25-332) — 6-3. FTC's for-cause removal provision struck down. Humphrey's Executor (1935) overruled. FTC Commissioner Rebecca Slaughter's firing stands.\n* S&P 500 +0.71% to 7,406.38, Nasdaq +1.29% to 25,623.67, Dow +0.44% to 52,101.96\n* Only Roberts and Kavanaugh were in the majority in BOTH cases\n\nThe split tells the whole story:\n\n1. **Fed carve-out, explicitly** — Roberts in Cook: keeping the government's reading 'would in effect transform the Federal Reserve's for-cause protection into at-will employment — an interpretive leap out of step with the statute Congress enacted and our Nation's tradition of central banking protected from political interference.'\n2. **Everyone else is on at-will** — Roberts in Slaughter: 'The President may remove his subordinates at will. The FTC unquestionably exercises executive power, and must therefore be controlled by the Chief Executive.'\n3. **Sotomayor dissent (joined by Kagan, Jackson) in Slaughter** — 'Today, this Court undoes centuries of political practice.'\n\nThe market read: bond duration likes Fed independence preserved; risk-on for equities as the dot-plot can't be politically reset.\n\nNext catalysts: Cook returns to lower courts (could be back at SCOTUS on the merits); FTC, NLRB, SEC, CFTC, FCC commissioner removability now an open question.\n\nFull breakdown: [https://stock-tldr.xyz/releases/scotus-trump-cook-trump-slaughter-fed-independence-june-29-2026](https://stock-tldr.xyz/releases/scotus-trump-cook-trump-slaughter-fed-independence-june-29-2026)"
+      },
+      "publishDate": "2026-06-29T15:39:04.475Z"
+    },
+    {
+      "id": "cmcsa-spin-nbcuniversal-sky-june-29-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Comcast (CMCSA) +6.91% to $24.77 on Monday June 29 — board approves tax-free spin-off of NBCUniversal + Sky (theme parks, Universal Studios, NBC, Telemundo, Peacock, Bravo); Mike Cavanagh becomes NBCUniversal CEO, Michael Angelakis becomes Comcast CEO, ~12-month timeline, premarket peaked +26% at $29.23 before fading",
+      "org": "Comcast Corporation",
+      "date": "2026-06-29",
+      "url": "https://www.nbcnews.com/business/business-news/comcast-spinoff-nbcuniversal-sky-split-two-companies-rcna352188",
+      "summary": "Comcast announces a tax-free spin-off of NBCUniversal and Sky into a standalone media co. Co-CEO Mike Cavanagh becomes NBCUniversal CEO; former CFO Michael Angelakis becomes Comcast CEO. Comcast keeps ~19.9% of NBCUniversal for up to one year. Close expected ~mid-2027.",
+      "tickers": [
+        "CMCSA"
+      ],
+      "tags": [
+        "mna",
+        "spin-off",
+        "media",
+        "nbcuniversal",
+        "sky",
+        "peacock",
+        "universal-studios",
+        "theme-parks",
+        "telecom",
+        "broadband",
+        "xfinity",
+        "tax-free",
+        "june-29-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "CMCSA close": "$24.77 (+6.91% / +$1.60)",
+        "Premarket high": "$29.23 (+~26%)",
+        "Previous close (June 26)": "$23.17",
+        "Retained NBCU stake": "Up to 19.9% for up to one year",
+        "Timeline to close": "~12 months",
+        "RemainCo footprint": "Xfinity, Xfinity Wireless, Comcast Business — 65M+ homes/businesses",
+        "SpinCo assets": "NBC, Telemundo, Peacock, Bravo, Universal film + TV studios, theme parks, Sky"
+      },
+      "explainer": {
+        "tagline": "Comcast splits — NBCUniversal + Sky becomes its own publicly traded media co, Xfinity stays connectivity-only.",
+        "whatIsIt": "Comcast Corporation announced Monday morning June 29 that its board has approved a tax-free spin-off of NBCUniversal and Sky into a standalone publicly traded media company. The remaining Comcast will keep the connectivity assets — Xfinity, Xfinity Wireless, Comcast Business, and the fiber/wireless network reaching 65M+ homes and businesses. Comcast plans to hold up to a 19.9% stake in NBCUniversal post-spin for up to one year before monetizing tax-efficiently.",
+        "howItWorks": "Current co-CEO Mike Cavanagh will become CEO of NBCUniversal (SpinCo) and former Comcast CFO Michael Angelakis will become CEO of Comcast (RemainCo); Chairman Brian L. Roberts remains active across both companies. Both companies are positioned to maintain investment-grade balance sheets at close. Closing is targeted ~12 months out, subject to board approvals, tax opinions, regulatory clearances, and financing. CMCSA opened sharply higher — premarket peak $29.23 (+26%) — then faded through the session to close at $24.77, +6.91% on the day from Friday's $23.17 close.",
+        "whyItMatters": "Cable + studio + theme-park conglomerates have traded at conglomerate discounts for a decade; the spin lets each side carry a multiple appropriate to its growth profile. The RemainCo connectivity business becomes a pure broadband+wireless play (more dividend-yield buyer profile), while NBCUniversal joins Disney, Warner Bros. Discovery, and Paramount Skydance as a standalone media equity, intensifying the 'who consolidates next?' tape. The premarket-to-close fade (+26% → +6.91%) tells you the Street thinks ~12-month execution risk and SpinCo balance-sheet structure are real.",
+        "forWho": "M&A-arb, media-equity PMs, cable shorts/longs, dividend funds",
+        "tryIt": "https://finance.yahoo.com/quote/CMCSA"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260629-comcast-rs-920bce.jpg",
+        "alt": "Comcast headquarters signage — board approves NBCUniversal and Sky tax-free spin-off June 29 2026",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "Comcast 8-K (Stocktitan)",
+          "url": "https://www.stocktitan.net/sec-filings/CCZ/8-k-comcast-corp-reports-material-event-551e7906558f.html"
+        },
+        {
+          "label": "NBC News Coverage",
+          "url": "https://www.nbcnews.com/business/business-news/comcast-spinoff-nbcuniversal-sky-split-two-companies-rcna352188"
+        },
+        {
+          "label": "CBS News Coverage",
+          "url": "https://www.cbsnews.com/news/comcast-nbcuniversal-sky-spinoff/"
+        },
+        {
+          "label": "CMCSA Quote",
+          "url": "https://finance.yahoo.com/quote/CMCSA"
+        }
+      ],
+      "reddit": {
+        "title": "Comcast (CMCSA) +6.91% to $24.77 — board approves tax-free spin-off of NBCUniversal + Sky; premarket peaked +26% at $29.23 before fading hard",
+        "body": "Comcast announced Monday June 29 morning that the board has approved a tax-free spin-off of NBCUniversal and Sky into a standalone publicly traded media company.\n\n* CMCSA closed $24.77, +6.91% (+$1.60) vs Friday June 26 close of $23.17\n* Premarket high $29.23 (+~26%) — faded sharply through the session\n* Comcast keeps up to 19.9% of NBCUniversal for up to one year before monetizing\n* Close targeted ~12 months out (mid-2027)\n\nWho gets what:\n\n1. **NBCUniversal (SpinCo)** — NBC, Telemundo, Peacock, Bravo, Universal film + TV studios, theme parks, Sky. Co-CEO Mike Cavanagh becomes CEO.\n2. **Comcast (RemainCo)** — Xfinity, Xfinity Wireless, Comcast Business; 65M+ homes/businesses on the fiber network. Former CFO Michael Angelakis becomes CEO post-separation.\n3. **Chairman Brian L. Roberts** stays active at both.\n\nThe day's fade tells the rest of the story — ~12 months of execution risk, financing not finalized, and pure-play media equities aren't exactly leading the tape right now (Paramount/WBD just consolidated, Disney still trades at a discount).\n\nNext catalysts: NBCUniversal/Sky financials disclosed in S-1-style filing; tax opinion + regulatory clearances; any antitrust pushback.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cmcsa-spin-nbcuniversal-sky-june-29-2026](https://stock-tldr.xyz/releases/cmcsa-spin-nbcuniversal-sky-june-29-2026)"
+      },
+      "publishDate": "2026-06-29T15:39:04.475Z"
+    },
+    {
+      "id": "mlm-lhoist-na-13-5b-acquisition-june-29-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Martin Marietta (MLM) -6.35% to $576.97 on Monday June 29 — agrees to $13.5B cash-and-stock combination with Belgium's Lhoist North America ($7B cash + $6.5B MLM shares); Berghmans family gets ~15% of MLM, Lhoist NA FY25 sales $1.8B / adj EBITDA $786M, $85M run-rate synergies, H2 2026 close pending regulatory approval",
+      "org": "Martin Marietta Materials",
+      "date": "2026-06-29",
+      "url": "https://www.cnbc.com/2026/06/29/martin-marietta-to-buy-lhoist-north-america.html",
+      "summary": "Martin Marietta agrees to combine with Lhoist North America in a $13.5B deal ($7B cash + $6.5B MLM stock). Lhoist's Berghmans family gets ~15% of MLM; $85M annual run-rate synergies projected. MLM closes -6.35% at $576.97. Close targeted H2 2026.",
+      "tickers": [
+        "MLM"
+      ],
+      "tags": [
+        "mna",
+        "building-materials",
+        "lime",
+        "aggregates",
+        "specialties",
+        "lhoist",
+        "berghmans",
+        "ward-nye",
+        "soar-2030",
+        "june-29-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal size": "$13.5B (EV)",
+        "Cash component": "$7.0B",
+        "Stock component": "$6.5B in MLM shares",
+        "MLM close": "$576.97 (-6.35% / -$39.09)",
+        "Previous close (June 26)": "$616.06",
+        "Lhoist NA FY25 sales": "$1.8B",
+        "Lhoist NA FY25 adj EBITDA": "$786M",
+        "Berghmans family stake": "~15% of MLM post-close",
+        "Run-rate synergies": "~$85M / year",
+        "Close target": "H2 2026"
+      },
+      "explainer": {
+        "tagline": "MLM doubles down on its Specialties segment — $13.5B all-in for Lhoist's lime business, biggest deal in company history.",
+        "whatIsIt": "Martin Marietta announced Monday June 29 a definitive agreement to combine with Lhoist North America, the U.S. subsidiary of Belgium-based Lhoist Group, in a $13.5B cash-and-stock transaction. Lhoist North America runs 20 quarries and production sites plus 45 distribution terminals, generating FY25 gross sales of $1.8B and adjusted EBITDA of $786M, supplying lime to steel, environmental, glass, and construction end markets.",
+        "howItWorks": "Martin Marietta will pay $7.0B in cash and issue $6.5B of MLM shares to the Berghmans family-controlled Lhoist Group, leaving the Berghmans family with roughly 15% of Martin Marietta post-close. Chair, President and CEO Ward Nye called the deal 'another transformational milestone' that 'directly advances our SOAR 2030 objective to expand our complementary, upstream Specialties segment.' Annual run-rate cost synergies are projected at ~$85M. Closing is targeted for H2 2026 pending regulatory approval. MLM closed at $576.97 on Monday, -6.35% (-$39.09) from Friday's $616.06.",
+        "whyItMatters": "MLM is doing what Vulcan Materials and Eagle Materials have so far stayed out of — bolting a large branded lime/specialties asset on top of an aggregates franchise. Street pushback (-6.35% on the print) is on size and the 15% strategic minority shareholder rather than fit. Read-through to other industrials: Berghmans cashing in $7B is the latest sign that family-controlled European industrials see a U.S. listing as an attractive exit, and U.S. building-materials consolidation just got harder for any pure-play rival to match.",
+        "forWho": "Industrial PMs, M&A-arb, building-materials sector traders",
+        "tryIt": "https://finance.yahoo.com/quote/MLM"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106052410-1564608646828img_3470r.jpg?v=1564608714&w=1920&h=1080",
+        "alt": "Martin Marietta aggregates quarry equipment — $13.5B Lhoist North America deal announced June 29 2026",
+        "fit": "cover",
+        "credit": "CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/29/martin-marietta-to-buy-lhoist-north-america.html"
+        },
+        {
+          "label": "MLM SEC 8-K (Stocktitan)",
+          "url": "https://www.stocktitan.net/sec-filings/MLM/8-k-martin-marietta-materials-inc-reports-material-event-8db10c2273a9.html"
+        },
+        {
+          "label": "MLM Press Release (Stocktitan)",
+          "url": "https://www.stocktitan.net/news/MLM/martin-marietta-to-combine-with-lhoist-north-america-in-13-5-billion-pswju1rgbaa1.html"
+        },
+        {
+          "label": "MLM Quote",
+          "url": "https://finance.yahoo.com/quote/MLM"
+        }
+      ],
+      "reddit": {
+        "title": "Martin Marietta (MLM) -6.35% to $576.97 — $13.5B cash-and-stock combination with Lhoist North America; Berghmans family ends up with ~15% of MLM",
+        "body": "Martin Marietta announced its biggest deal ever Monday June 29 — and the stock didn't love it.\n\n* Deal: $13.5B for Lhoist North America (Belgium's Lhoist Group's U.S. unit)\n* Structure: $7.0B cash + $6.5B in MLM shares\n* MLM close: $576.97, -6.35% (-$39.09) from Friday's $616.06\n* Lhoist NA FY25: $1.8B sales / $786M adj EBITDA\n* Run-rate synergies: ~$85M/yr\n* Berghmans family ends up with ~15% of MLM at close (H2 2026, pending reg approval)\n\nWhat's actually happening:\n\n1. **MLM doubles down on Specialties** — Lhoist runs 20 quarries + 45 distribution terminals and supplies lime into steel, environmental, glass, and construction. CEO Ward Nye called it 'another transformational milestone' advancing the SOAR 2030 strategy.\n2. **Big new strategic minority on the cap table** — the Berghmans family doesn't go away; they sit on ~15% of MLM post-close.\n3. **The Street faded it** — -6.35% on $616→$576 says the issuance is the bigger overhang than the fit.\n\nNext catalysts: regulatory approval, financing details, MLM Q2 earnings (late July) and any guidance on Specialties accretion math.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mlm-lhoist-na-13-5b-acquisition-june-29-2026](https://stock-tldr.xyz/releases/mlm-lhoist-na-13-5b-acquisition-june-29-2026)"
+      },
+      "publishDate": "2026-06-29T15:39:04.475Z"
+    },
+    {
+      "id": "bidu-kunlunxin-50b-hk-ipo-rumor-june-29-2026",
+      "categories": [
+        "rumor",
+        "ipo"
+      ],
+      "title": "Reportedly: Baidu (BIDU / 9888.HK) +~7% in Hong Kong on Monday June 29 — The Information scoop says AI-chip unit Kunlunxin is targeting a $50B Hong Kong IPO and asking would-be investors to also commit to buying 3–7× their stake in Kunlunxin chips; Kunlunxin already supplies ByteDance and Tencent",
+      "org": "The Information",
+      "date": "2026-06-29",
+      "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
+      "summary": "Reportedly: Baidu's AI-chip arm Kunlunxin is targeting a $50B Hong Kong IPO and asking participating investors to also purchase 3–7× their stake in Kunlunxin chips. BIDU Hong Kong shares +~7% Monday June 29.",
+      "tickers": [
+        "BIDU"
+      ],
+      "tags": [
+        "rumor",
+        "ipo",
+        "ai-chips",
+        "baidu",
+        "kunlunxin",
+        "hong-kong-listing",
+        "the-information",
+        "bytedance",
+        "tencent",
+        "china-ai",
+        "spin-off",
+        "june-29-2026"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Reported IPO valuation": "$50B",
+        "BIDU HK move (June 29)": "+~7%",
+        "Tied-investment ask": "3–7× IPO commitment to be spent on Kunlunxin chips",
+        "Listing venue": "Hong Kong Stock Exchange",
+        "Source": "The Information (June 28-29 scoop)"
+      },
+      "explainer": {
+        "tagline": "Baidu's chip arm Kunlunxin reportedly chases a $50B Hong Kong IPO — and wants investors to also buy its chips.",
+        "whatIsIt": "The Information reported on June 28–29 that Baidu's AI-chip subsidiary Kunlunxin is targeting an initial public offering on the Hong Kong Stock Exchange at a valuation around $50B, in what would be one of the largest China-AI listings since the 2020s cycle. As part of the pitch, Kunlunxin has reportedly asked prospective IPO investors to commit to purchasing semiconductors worth roughly 3× to 7× the size of their intended IPO investment.",
+        "howItWorks": "Baidu confidentially filed a listing application for Kunlunxin with the Hong Kong Stock Exchange at the start of 2026, though offering size and structure were not disclosed at that time. Kunlunxin, founded in 2011 inside Baidu, primarily supplies chips to its parent but has expanded to external customers — ByteDance has expressed interest and Tencent is already a customer. Baidu's Hong Kong-listed shares closed up roughly 7% on Monday June 29 on the report.",
+        "whyItMatters": "If the deal prices anywhere near $50B, it would re-rate the entire China-AI hardware complex (SMIC, Cambricon, Loongson, Horizon Robotics) and provide Baidu with the kind of strategic spin-out value Alibaba has been chasing via cloud-unit separations. The 'buy IPO + buy chips' two-step is a tell that Kunlunxin needs anchor demand alongside book-building. Until either Baidu or The Information confirms terms, it stays a named-source rumor.",
+        "forWho": "China-tech traders, AI-hardware PMs, Hong Kong IPO desks",
+        "tryIt": "https://finance.yahoo.com/quote/BIDU"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080",
+        "alt": "Baidu signage at a tech expo — Kunlunxin AI chip unit reportedly targeting $50B Hong Kong IPO June 29 2026",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html"
+        },
+        {
+          "label": "Reuters via WTAQ",
+          "url": "https://wtaq.com/2026/06/28/baidus-ai-chip-unit-kunlunxin-targets-50-billion-hong-kong-ipo-the-information-reports/"
+        },
+        {
+          "label": "Invezz Coverage",
+          "url": "https://invezz.com/news/2026/06/29/baidu-shares-jump-as-kunlunxin-ipo-report-fuels-ai-optimism/"
+        },
+        {
+          "label": "BIDU Quote",
+          "url": "https://finance.yahoo.com/quote/BIDU"
+        }
+      ],
+      "reddit": {
+        "title": "Reportedly: Baidu's AI chip arm Kunlunxin targets $50B Hong Kong IPO — and asks investors to also buy 3–7× their stake in actual chips; BIDU HK +~7% Monday",
+        "body": "The Information reported Sunday/Monday that Baidu's AI chip subsidiary Kunlunxin is going after a $50B Hong Kong IPO, with a twist most book-building decks don't include.\n\n* Reported IPO valuation: $50B\n* Reported ask: investors commit to buying 3–7× their IPO stake's worth in Kunlunxin chips\n* BIDU Hong Kong shares closed up ~7% Monday June 29 on the report\n* Kunlunxin filed confidentially with HKEX earlier in 2026; size + structure undisclosed\n* Existing customers: Baidu (parent), Tencent; ByteDance reportedly interested\n\nWhat this would actually mean if it prices:\n\n1. **Re-rate the China AI hardware complex** — SMIC, Cambricon, Loongson, Horizon Robotics all get a public-market comp.\n2. **'Buy IPO + buy chips' is a tell** — Kunlunxin needs anchor demand alongside book-building, which is a different signal than confidence in pure index demand.\n3. **Baidu spin-out value** — Alibaba's been chasing this same template with cloud-unit separations.\n\nStays a rumor until Baidu or The Information confirms terms.\n\nNext catalysts: HKEX prospectus filing, anchor-investor disclosures, any pricing-range guidance.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bidu-kunlunxin-50b-hk-ipo-rumor-june-29-2026](https://stock-tldr.xyz/releases/bidu-kunlunxin-50b-hk-ipo-rumor-june-29-2026)"
+      },
+      "publishDate": "2026-06-29T15:39:04.475Z"
+    },
     {
       "id": "us-iran-kiku-strikes-kuwait-bahrain-june-28-2026",
       "categories": [
