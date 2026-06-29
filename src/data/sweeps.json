@@ -6044,6 +6044,20 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260629t021319z",
+      "timestamp": "2026-06-29T02:13:19.318Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled 12h sweep at 2026-06-29T02:09Z. Scanned tier-1 markets press (Bloomberg, Reuters, Yahoo Finance, CNBC), SEC EDGAR 8-K filings, US/EU central bank wires, OPEC/EIA, and crypto data desks for the 72h window (June 26-29). No new material events that aren't already covered. The full Iran-war escalation arc (Kiku VLCC drone strike June 27, IRGC missile/drone barrage on US bases in Kuwait and Bahrain early Sunday June 28, CENTCOM retaliatory strikes on 10 Iranian military sites) is captured in us-iran-kiku-strikes-kuwait-bahrain-june-28-2026. Friday June 26 movers (SpaceX Russell 1000 inclusion, Burry MSFT LEAPs, SoftBank -12.5% on OpenAI IPO delay, BTC 21-month low on $696M ETF outflows) are all in feed. Markets enter Monday June 29 with US futures modestly higher (~+0.5%) on a fragile ceasefire-holds narrative, oil ~$70 WTI / $72 Brent — no fresh 'this just hit' to ship. Nike Q4 FY26 (Tuesday June 30 AMC) and Constellation Brands Q1 FY27 (Tuesday June 30 AMC) are previews, not prints — wait for actual results. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": []
     }
   ]
 }
