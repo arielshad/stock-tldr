@@ -6110,6 +6110,49 @@
         "rates",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260630t021558z",
+      "timestamp": "2026-06-30T02:15:58.017Z",
+      "source": "github-actions-sweep",
+      "summary": "Three June 29 adds: Rocket Lab's $8B all-cash-and-stock acquisition of Iridium (RKLB +15.93%, IRDM +25%); Taiwan's Keelung Prosecutors raid Super Micro Taiwan offices in expanded Nvidia AI-chip smuggling probe (SMCI -8.10%); Zymeworks' $929M cash + CVR acquisition of Theravance Biopharma.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rklb-iridium-8b-acquisition-june-29-2026",
+          "title": "Rocket Lab (RKLB) +15.93% — agrees to acquire Iridium (IRDM) for $8B EV at $54/share ($27 cash + RKLB stock with $67.50–$112.50 collar) on Monday June 29; IRDM +25% to $54.59 close (~24% premium to Friday $43.50); mid-2027 close; $3.6B Deutsche Bank + Wells Fargo bridge",
+          "category": "mna",
+          "note": "$8B EV transformational space-sector M&A with primary-source confirmation (both boards approved) plus tier-1 coverage and dual ≥15% moves."
+        },
+        {
+          "id": "smci-taiwan-keelung-raids-june-29-2026",
+          "title": "Super Micro (SMCI) -8.10% to $28.15 on Monday June 29 — Taiwan's Keelung District Prosecutors Office raids Super Micro Taiwan, Chief Telecom, and Albatron Technology offices plus 6 residences in expanded Nvidia AI-chip smuggling probe; SMCI says it is cooperating; intraday drop hit -9% before paring",
+          "category": "mover",
+          "note": "Single-name -8.10% move with a named regulatory catalyst (Taiwan Keelung Prosecutors expanded raid into SMCI's own Taiwan office); first public enforcement on AI-chip diversion to China."
+        },
+        {
+          "id": "tbph-zymeworks-acquisition-june-29-2026",
+          "title": "Zymeworks (ZYME) to acquire Theravance Biopharma (TBPH) for $929M / $17.00 per share cash + CVR on Monday June 29 — 22% premium to March 3 (Phase 3 CYPRESS-day) close; YUPELRI ($266.6M 2025 US sales) + TRELEGY royalties join ZYME portfolio; ZYME -5.4%, TBPH ~$17.01; close H2 2026",
+          "category": "mna",
+          "note": "$929M mid-cap M&A with primary press releases from both sides, OMERS structured financing, and 22% premium to a meaningful date (March 3 CYPRESS readout)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "regulatory",
+        "earnings",
+        "macro",
+        "commodity",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }

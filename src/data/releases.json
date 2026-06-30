@@ -1,8 +1,241 @@
 {
-  "generatedAt": "2026-06-29T15:39:04.475Z",
+  "generatedAt": "2026-06-30T02:15:58.017Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rklb-iridium-8b-acquisition-june-29-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Rocket Lab (RKLB) +15.93% — agrees to acquire Iridium (IRDM) for $8B EV at $54/share ($27 cash + RKLB stock with $67.50–$112.50 collar) on Monday June 29; IRDM +25% to $54.59 close (~24% premium to Friday $43.50); mid-2027 close; $3.6B Deutsche Bank + Wells Fargo bridge",
+      "org": "Rocket Lab Corporation",
+      "date": "2026-06-29",
+      "url": "https://www.prnewswire.com/news-releases/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth-302813075.html",
+      "summary": "Rocket Lab agrees to acquire Iridium Communications for $8B EV at $54/share ($27 cash + RKLB stock subject to $67.50–$112.50 collar). 24% premium to IRDM's Friday close. Deutsche Bank + Wells Fargo provide $3.6B bridge. Close mid-2027.",
+      "tickers": [
+        "RKLB",
+        "IRDM"
+      ],
+      "tags": [
+        "mna",
+        "space",
+        "satellites",
+        "iridium",
+        "rocket-lab",
+        "launch",
+        "constellation",
+        "spectrum",
+        "vertical-integration",
+        "mover",
+        "june-29-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal EV": "$8.0B",
+        "Per-share offer": "$54.00 ($27 cash + RKLB stock w/ $67.50–$112.50 collar)",
+        "Premium": "~24% vs IRDM Friday close",
+        "RKLB close": "+15.93% on June 29",
+        "IRDM close": "$54.59 (+25%) on June 29",
+        "Iridium 2025 revenue": "$871.7M",
+        "Iridium 2025 op EBITDA": "$495M (57% margin)",
+        "Bridge financing": "$3.6B (Deutsche Bank + Wells Fargo)",
+        "Close target": "Mid-2027"
+      },
+      "explainer": {
+        "tagline": "Rocket Lab + Iridium = first fully vertically integrated public space company — build, launch, operate, monetize.",
+        "whatIsIt": "Rocket Lab announced Monday June 29 a definitive agreement to acquire Iridium Communications for $54.00 per share — $27.00 cash plus RKLB stock at an exchange ratio subject to a $67.50–$112.50 collar — implying an enterprise value of approximately $8.0 billion. The combination brings together Rocket Lab's launch vehicles (Electron, Neutron) and satellite manufacturing with Iridium's 80-bird L-band constellation, global gateway network, and Aireon/IoT services. Both boards approved unanimously; close targeted mid-2027 pending IRDM shareholder vote and regulatory clearances.",
+        "howItWorks": "Iridium shareholders receive $27.00 cash + RKLB shares per Iridium share at closing; the exchange ratio is set inside the $67.50–$112.50 RKLB price collar so the package floats above and below those bounds. Iridium 2025: $871.7M revenue, $495M operational EBITDA (57% margin), providing recurring cash flow to fund RKLB's roadmap. Deutsche Bank and Wells Fargo committed a $3.6B bridge for the cash component. Iridium directors holding shares signed voting-support agreements. RKLB closed +15.93% on the announcement; IRDM closed at $54.59 (+25%) from Friday's ~$43.50.",
+        "whyItMatters": "Wall Street has been chasing 'who is the next SpaceX' all year; RKLB just answered by buying a recurring-revenue space asset rather than building one. The combined entity becomes the first publicly listed space company to own the full stack — vehicles, manufacturing, constellation, spectrum, and downstream services — and removes RKLB's dependency on third-party launch payloads for growth. Read-throughs: IRDM-style mid-cap space comms targets (Globalstar, ORBCOMM, Viasat) get repriced as M&A candidates; SPCX (SpaceX) and Lockheed/L3Harris get a bigger publicly traded rival in defence/government space contracts.",
+        "forWho": "Space-sector PMs, M&A-arb, defence/industrial sector",
+        "tryIt": "https://finance.yahoo.com/quote/RKLB"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1874492/Rocket_Lab_and_Iridium.jpg?id=OA2742953&p=facebook",
+        "alt": "Rocket Lab and Iridium combination announced June 29 2026 — $8B all-stock-and-cash deal",
+        "fit": "cover",
+        "credit": "PR Newswire / Rocket Lab"
+      },
+      "links": [
+        {
+          "label": "Rocket Lab Press Release",
+          "url": "https://www.prnewswire.com/news-releases/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth-302813075.html"
+        },
+        {
+          "label": "Iridium IR Page",
+          "url": "https://investor.iridium.com/2026-06-29-Rocket-Lab-to-Acquire-Iridium-in-Historic-Deal,-Creating-A-Fully-Vertically-Integrated-Space-Powerhouse-Primed-for-Growth"
+        },
+        {
+          "label": "RKLB 8-K (Stocktitan)",
+          "url": "https://www.stocktitan.net/sec-filings/RKLB/8-k-rocket-lab-corp-reports-material-event-45990394fdac.html"
+        },
+        {
+          "label": "SpaceNews Coverage",
+          "url": "https://spacenews.com/rocket-lab-to-acquire-iridium/"
+        },
+        {
+          "label": "RKLB Quote",
+          "url": "https://finance.yahoo.com/quote/RKLB"
+        }
+      ],
+      "reddit": {
+        "title": "Rocket Lab (RKLB) +15.93%, Iridium (IRDM) +25% — RKLB agrees to buy IRDM at $54/share, $8B EV; mid-2027 close; first fully vertically integrated public space company",
+        "body": "Rocket Lab announced Monday June 29 a definitive agreement to acquire Iridium Communications for approximately $8B EV.\n\n* Offer: $54.00 per IRDM share = $27.00 cash + RKLB stock (collar $67.50–$112.50)\n* Premium: ~24% over IRDM's Friday close (~$43.50)\n* RKLB close: +15.93% on the day\n* IRDM close: $54.59, +25% on the day\n* Bridge: $3.6B from Deutsche Bank + Wells Fargo for the cash leg\n* Iridium 2025: $871.7M revenue / $495M op EBITDA (57% margin)\n* Close: mid-2027 (IRDM vote + regulatory)\n\nWhy this is bigger than another satcom roll-up:\n\n1. **Full-stack space company** — vehicles (Electron + Neutron), sat manufacturing, an operating constellation, global gateways, L-band spectrum and recurring IoT/Aireon revenue. First time a public US space company owns the entire chain.\n2. **Recurring cash flow plug for the roadmap** — IRDM's mid-50s% EBITDA margin funds RKLB's Neutron + sat-bus build without dilution.\n3. **Repricing event for mid-cap satcom** — Globalstar, ORBCOMM, Viasat now sit on takeout watch; SpaceX's public-market rival just got bigger.\n\nNext catalysts: IRDM proxy vote, FCC + DOJ + foreign-investment review, RKLB Q2 print, any competing bid for IRDM, Aireon FY26 disclosures.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rklb-iridium-8b-acquisition-june-29-2026](https://stock-tldr.xyz/releases/rklb-iridium-8b-acquisition-june-29-2026)"
+      },
+      "publishDate": "2026-06-30T02:15:58.017Z"
+    },
+    {
+      "id": "smci-taiwan-keelung-raids-june-29-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Super Micro (SMCI) -8.10% to $28.15 on Monday June 29 — Taiwan's Keelung District Prosecutors Office raids Super Micro Taiwan, Chief Telecom, and Albatron Technology offices plus 6 residences in expanded Nvidia AI-chip smuggling probe; SMCI says it is cooperating; intraday drop hit -9% before paring",
+      "org": "Super Micro Computer",
+      "date": "2026-06-29",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-raids-super-micro-offices-183920479.html",
+      "summary": "Taiwan's Keelung District Prosecutors Office raids Super Micro Taiwan plus distributor Albatron Technology and data-center operator Chief Telecom in expanded probe into alleged smuggling of Nvidia AI chips to China. SMCI closes -8.10% at $28.15.",
+      "tickers": [
+        "SMCI",
+        "NVDA"
+      ],
+      "tags": [
+        "regulatory",
+        "mover",
+        "smci",
+        "taiwan",
+        "nvidia",
+        "ai-chip-smuggling",
+        "export-controls",
+        "china",
+        "keelung-prosecutors",
+        "albatron",
+        "chief-telecom",
+        "june-29-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "SMCI close": "$28.15 (-8.10% / -$2.48)",
+        "Intraday low": "~-9%",
+        "Locations searched": "Super Micro Taiwan office + Chief Telecom + Albatron Technology + 6 individual residences",
+        "Authority": "Keelung District Prosecutors Office",
+        "Prior enforcement (May 2026)": "12 locations searched, ~50 Super Micro servers w/ restricted Nvidia chips seized"
+      },
+      "explainer": {
+        "tagline": "Taiwan's chip-smuggling probe widens to SMCI's own offices — first public enforcement action on AI-chip diversion to China.",
+        "whatIsIt": "Taiwan's Keelung District Prosecutors Office on Monday June 29 raided Super Micro Computer's Taiwan office along with distributor Albatron Technology Co. and data-center operator Chief Telecom Inc., plus the residences of six individuals, as part of an expanded investigation into alleged smuggling of Nvidia AI chips to mainland China through Super Micro servers. The action extends a May 2026 enforcement sweep where Taiwan investigators searched 12 locations and seized roughly 50 Super Micro servers carrying restricted Nvidia chips. Super Micro said it is cooperating with Taiwanese authorities.",
+        "howItWorks": "The probe is investigating whether AI servers containing US export-controlled Nvidia GPUs were rerouted via Taiwanese distributors to PRC end-users in violation of US export rules and Taiwan's own re-export framework. Taiwan is weighing whether to make such diversion a stand-alone criminal offense. SMCI shares fell as much as 9% intraday on the news and closed at $28.15, -8.10% (-$2.48) on the day. Super Micro's only on-record statement is that it is cooperating; the company has not addressed the substance of the diversion allegations.",
+        "whyItMatters": "SMCI has been the highest-beta AI-server name on the tape since its earlier 2024 accounting troubles; an active criminal probe into the supply chain it sits inside reopens the export-controls overhang that almost de-listed it. Read-throughs: NVDA's Taiwan/SE Asia distributor screening tightens further, US BIS now has a foreign-prosecutor evidence trail to lean on, and AI hyperscalers (META, MSFT, ORCL, AMZN) reliant on SMCI rack builds need a contingency that hadn't fully been priced. Expect heightened due-diligence on every server name with PRC-adjacent distribution (e.g. WIWYNN, Hon Hai).",
+        "forWho": "AI-server PMs, Nvidia ecosystem traders, export-controls watchers",
+        "tryIt": "https://finance.yahoo.com/quote/SMCI"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Super_Micro_Computer_Logo.svg",
+        "alt": "Super Micro Computer logo — Taiwan Keelung Prosecutors Office raids Taiwan offices in Nvidia chip-smuggling probe June 29 2026",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Yahoo / Reuters Coverage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-raids-super-micro-offices-183920479.html"
+        },
+        {
+          "label": "Yahoo / Stocktwits Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smci-stock-slides-7-taiwan-191337063.html"
+        },
+        {
+          "label": "Shacknews Coverage",
+          "url": "https://www.shacknews.com/article/149843/super-micro-offices-raided-chip-smuggling"
+        },
+        {
+          "label": "SMCI Quote",
+          "url": "https://finance.yahoo.com/quote/SMCI"
+        }
+      ],
+      "reddit": {
+        "title": "Super Micro (SMCI) -8.10% to $28.15 on Monday June 29 — Taiwan's Keelung Prosecutors raid SMCI Taiwan, Chief Telecom, Albatron Technology plus 6 residences in expanded Nvidia chip-smuggling probe",
+        "body": "Taiwan's chip-smuggling investigation just got a lot more direct for SMCI.\n\n* SMCI close: $28.15, -8.10% (-$2.48) on the day\n* Intraday: down as much as -9% before paring losses\n* Authority: Keelung District Prosecutors Office\n* Locations raided: Super Micro Taiwan office, Chief Telecom (data center op), Albatron Technology (distributor), plus 6 individual residences\n* Allegation: rerouting of US export-controlled Nvidia AI chips to mainland China via SMCI servers\n* Prior sweep (May 2026): 12 locations, ~50 SMCI servers w/ restricted Nvidia chips seized\n* SMCI says it is cooperating\n\nWhy this is bigger than another news cycle:\n\n1. **First public enforcement action against AI-chip diversion to China** — Taiwan is weighing whether to make such diversion a stand-alone criminal offense.\n2. **BIS evidence trail** — US export-controls regulators now have a foreign-prosecutor record to work from.\n3. **Distributor screening tightens** — Nvidia, hyperscalers (META/MSFT/ORCL/AMZN) reliant on SMCI rack builds now face supply-chain audit overhang.\n\nNext catalysts: any SMCI 8-K detailing impact, BIS or DOJ follow-on action, Nvidia commentary at next disclosure, Q2 SMCI earnings.\n\nFull breakdown: [https://stock-tldr.xyz/releases/smci-taiwan-keelung-raids-june-29-2026](https://stock-tldr.xyz/releases/smci-taiwan-keelung-raids-june-29-2026)"
+      },
+      "publishDate": "2026-06-30T02:15:58.017Z"
+    },
+    {
+      "id": "tbph-zymeworks-acquisition-june-29-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Zymeworks (ZYME) to acquire Theravance Biopharma (TBPH) for $929M / $17.00 per share cash + CVR on Monday June 29 — 22% premium to March 3 (Phase 3 CYPRESS-day) close; YUPELRI ($266.6M 2025 US sales) + TRELEGY royalties join ZYME portfolio; ZYME -5.4%, TBPH ~$17.01; close H2 2026",
+      "org": "Zymeworks",
+      "date": "2026-06-29",
+      "url": "https://www.prnewswire.com/news-releases/theravance-biopharma-enters-into-definitive-agreement-to-be-acquired-by-zymeworks-for-17-00-per-share-in-cash-plus-a-contingent-value-right-302813088.html",
+      "summary": "Zymeworks to acquire Theravance Biopharma for $929M equity / $17.00 per share cash plus an ampreloxetine CVR (80/20 split). 22% premium to TBPH's March 3 close. Financed by $350M OMERS note + $219M ZYME cash + $360M TBPH net cash. Close H2 2026.",
+      "tickers": [
+        "ZYME",
+        "TBPH"
+      ],
+      "tags": [
+        "mna",
+        "biotech",
+        "pharma",
+        "yupelri",
+        "trelegy",
+        "copd",
+        "omers",
+        "cvr",
+        "ampreloxetine",
+        "kenneth-galbraith",
+        "june-29-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal equity value": "~$929M",
+        "Per-share offer": "$17.00 cash + CVR (80% of ampreloxetine monetization, 10-year)",
+        "Premium": "22% vs TBPH March 3 close / 10% vs VWAP since",
+        "Financing": "$350M OMERS non-recourse note + $219M ZYME cash + $360M TBPH net cash at close + $100M expected TRELEGY milestone (Q1 2027)",
+        "YUPELRI 2025 US sales": "$266.6M (+12% Y/Y)",
+        "ZYME close": "~-5.4% on June 29",
+        "TBPH close": "~$17.01",
+        "Close target": "H2 2026"
+      },
+      "explainer": {
+        "tagline": "Zymeworks plugs in royalty cash — YUPELRI + TRELEGY streams cover ~$219M of ZYME's spend and bring a $2.5B Irish tax shield.",
+        "whatIsIt": "Zymeworks announced Monday June 29 a definitive agreement to acquire Theravance Biopharma for $17.00 per share in cash plus a contingent value right, implying total equity value of approximately $929M. TBPH shareholders also receive a CVR entitling them to 80% of net proceeds realized from any future license, divestiture, or monetization of ampreloxetine (a Phase 3 asset that posted topline results March 3) over the next 10 years, with Zymeworks keeping 20%. Both boards unanimously approved; expected to close in H2 2026.",
+        "howItWorks": "The deal stacks four sources of cash to fund the $929M consideration: a $350M non-recourse senior note from OMERS Life Sciences (secured by Theravance's YUPELRI profit-share), $219M from Zymeworks' balance sheet, $360M from Theravance's own net cash at closing, and an anticipated $100M TRELEGY ELLIPTA royalty milestone payment in Q1 2027. Zymeworks inherits YUPELRI ($266.6M 2025 US sales, +12% Y/Y), TRELEGY ELLIPTA royalties, VIBATIV royalties, and $2.5B in Irish tax attributes. ZYME closed approximately -5.4% on the announcement; TBPH closed at $17.01, a hair above the offer.",
+        "whyItMatters": "Zymeworks is rotating from a clinical-stage R&D burn profile into a hybrid model where commercial royalty streams partially fund its antibody pipeline. The 22% premium to TBPH's March 3 close (the day Phase 3 CYPRESS results dropped) reflects ampreloxetine's reduced strategic value post-Phase 3 readout; the CVR keeps optionality with selling holders. Read-throughs: small-cap commercial-stage biotechs with steady royalty drips and depleted pipeline upside are vulnerable to acquirers willing to pay book-plus-tax-attributes — names like Aerpio, Esperion, Innoviva fit the pattern.",
+        "forWho": "Healthcare M&A-arb, biotech sector PMs, royalty-pharma watchers",
+        "tryIt": "https://finance.yahoo.com/quote/TBPH"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/de376a45-7a16-49db-8ad4-65ff45472c90",
+        "alt": "Zymeworks to acquire Theravance Biopharma for $929M on June 29 2026 — YUPELRI plus CVR on ampreloxetine",
+        "fit": "cover",
+        "credit": "GlobeNewswire / Zymeworks"
+      },
+      "links": [
+        {
+          "label": "Theravance Press Release",
+          "url": "https://www.prnewswire.com/news-releases/theravance-biopharma-enters-into-definitive-agreement-to-be-acquired-by-zymeworks-for-17-00-per-share-in-cash-plus-a-contingent-value-right-302813088.html"
+        },
+        {
+          "label": "Zymeworks Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/06/29/3318760/0/en/Zymeworks-to-Acquire-Theravance-Biopharma-Inc.html"
+        },
+        {
+          "label": "TBPH 8-K (Stocktitan)",
+          "url": "https://www.stocktitan.net/sec-filings/TBPH/8-k-theravance-biopharma-inc-reports-material-event-8c0ec204b88a.html"
+        },
+        {
+          "label": "ZYME 8-K (Stocktitan)",
+          "url": "https://www.stocktitan.net/sec-filings/ZYME/8-k-zymeworks-inc-reports-material-event-38e7f105ab07.html"
+        }
+      ],
+      "reddit": {
+        "title": "Zymeworks (ZYME) to buy Theravance Biopharma (TBPH) for $929M at $17/share cash + CVR — 22% premium to March 3 (Phase 3 readout) close; ZYME -5.4%, TBPH ~$17.01",
+        "body": "Quietly the biotech deal of the day Monday June 29 — Zymeworks bolts a commercial royalty stack onto an R&D burn.\n\n* Equity value: ~$929M\n* Per share: $17.00 cash + CVR (80% of any ampreloxetine monetization in 10 years, 20% to ZYME)\n* Premium: 22% vs TBPH's March 3 close (the day CYPRESS Phase 3 results dropped) / 10% vs VWAP since\n* ZYME close: ~-5.4%\n* TBPH close: ~$17.01 (a hair above the offer)\n* Close target: H2 2026\n\nThe cash stack that funds the deal:\n\n1. **$350M OMERS Life Sciences non-recourse note** secured by Theravance's YUPELRI profit-share\n2. **$219M from Zymeworks' own balance sheet**\n3. **$360M from Theravance's net cash at closing**\n4. **$100M expected TRELEGY ELLIPTA milestone** payment Q1 2027\n\nWhat Zymeworks actually gets:\n\n* YUPELRI (nebulized LAMA for COPD): $266.6M 2025 US sales, +12% Y/Y\n* TRELEGY ELLIPTA royalties\n* VIBATIV royalties\n* $2.5B in Irish tax attributes\n\nNext catalysts: TBPH proxy + go-shop, any ampreloxetine licensing announcement, ZYME Q2 cash burn update.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tbph-zymeworks-acquisition-june-29-2026](https://stock-tldr.xyz/releases/tbph-zymeworks-acquisition-june-29-2026)"
+      },
+      "publishDate": "2026-06-30T02:15:58.017Z"
+    },
     {
       "id": "scotus-trump-cook-trump-slaughter-fed-independence-june-29-2026",
       "categories": [
