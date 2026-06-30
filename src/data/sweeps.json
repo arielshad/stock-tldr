@@ -6153,6 +6153,42 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260630t140929z",
+      "timestamp": "2026-06-30T14:09:29.641Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: (1) Concentrix (CNXC) -20% to ~$20 on Tuesday June 30 after Monday-AH Q2 print delivered in-line numbers but cut FY26 guidance ($10.83–$11.18 EPS / $9.93–$10.03B rev), with Barrington/Baird/Canaccord chopping price targets; and (2) a Bloomberg scoop that SpaceX and Charter executives are in talks on a consumer mobile partnership routing Starlink phone traffic through Charter's Spectrum Mobile rails — CHTR +9.4% Monday, fading Tuesday on no confirmation.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cnxc-q2-fy26-earnings-june-29-2026",
+          "title": "Concentrix (CNXC) -20% to ~$20 on Tuesday June 30 — Q2 FY26 prints in-line ($2.63 EPS vs $2.64 est, $2.46B rev vs $2.47B est) but FY26 guide cut to $10.83–$11.18 EPS / $9.93–$10.03B rev from $11.48–$12.07 / $10.04–$10.18B, with Barrington / Baird / Canaccord all chopping price targets",
+          "category": "earnings",
+          "note": "Major BPO bellwether down -20% on FY26 guide cut after in-line Q2 print; named catalyst (guide), tier-1 covered, sell-side PT cuts."
+        },
+        {
+          "id": "chtr-spcx-mobile-partnership-rumor-june-29-2026",
+          "title": "Reportedly: Charter (CHTR) +9.4% to $146.17 on Monday June 29 — Bloomberg scoop says executives are in talks with SpaceX (SPCX) on a consumer mobile phone tie-up routing some Starlink phone traffic through Charter's terrestrial Spectrum Mobile rails; SPCX +7.2% same day; CHTR -3.8% to $140.68 fading Tuesday on no confirmation",
+          "category": "rumor",
+          "note": "Bloomberg scoop on potential SpaceX-Charter mobile partnership; CHTR +9.4% Monday on the rumor; tier-1 sourcing; explicit 'Reportedly' framing."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "rumor",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
