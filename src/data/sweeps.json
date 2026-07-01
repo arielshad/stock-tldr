@@ -6189,6 +6189,48 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260701t022134z",
+      "timestamp": "2026-07-01T02:21:34.396Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep for 2026-07-01 T02:10Z: added Nike Q4 FY26 earnings ($0.72 EPS boosted $0.52 by IEEPA tariff refund; stock -3.58% AH), AeroVironment Q4 FY26 blowout (rev +133% Y/Y, +18.4% June 30), and the Reuters exclusive on the FCC's drafted Chinese-inverter ban (ENPH +11.61%, SEDG +11%). Covered earnings, movers, and rumor / regulatory since the last sweep on June 30.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nke-q4-fy26-earnings-june-30-2026",
+          "title": "Nike Q4 FY26 — $11.0B revenue (-1% Y/Y) tops $10.86B est and diluted EPS $0.72 vs $0.14 est trounces on a $986M IEEPA tariff recovery ($0.52 boost); Greater China -12% and NIKE Direct -7% reported; NKE -3.58% AH to $39.58 on June 30",
+          "category": "earnings",
+          "note": "Mega-cap consumer discretionary earnings released after the bell Tuesday June 30; headline EPS $0.72 vs $0.14 est but $0.52 of that is a one-time IEEPA tariff-refund benefit ($986M recovery). Underlying still ugly: Greater China -12%, NIKE Direct -7%. Stock -3.58% AH to $39.58."
+        },
+        {
+          "id": "avav-q4-fy26-earnings-june-29-2026",
+          "title": "AeroVironment (AVAV) Q4 FY26 — record $641.6M revenue (+133% Y/Y) trounces $556–559M est and adj EPS $1.84 vs $1.46 est on Blue Halo integration; FY27 revenue guide $2.125–2.225B, backlog $1.2B funded, book-to-bill 1.4×; AVAV +~18.4% June 30 to ~$164.58 after AH pop to $165.85",
+          "category": "earnings",
+          "note": "Record Q4 with revenue $641.6M (+133% Y/Y) crushing $556–559M consensus on Blue Halo integration and loitering-munitions demand; FY27 revenue guide in-line at $2.125–2.225B, EPS guide light on deal amortization; +18.4% June 30. Clean defense-drone pure-play read-through."
+        },
+        {
+          "id": "enph-sedg-fcc-china-inverter-ban-rumor-june-30-2026",
+          "title": "Reportedly: FCC drafting rule to ban new Chinese solar / battery inverters on national-security grounds — Reuters exclusive citing five sources on Tuesday June 30 sends ENPH +11.61% (intraday high $60.26) and SEDG +11% as Trump admin follows Europe's May Chinese-inverter ban",
+          "category": "rumor",
+          "note": "Reuters exclusive citing five sources — clear rumor with named tier-1 outlet attribution and immediate double-digit stock reaction on both ENPH and SEDG. Titled 'Reportedly:' per Hard Rule for rumor items. Importance = rumor per prompt."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "rumor",
+        "macro",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }
