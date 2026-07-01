@@ -1,8 +1,389 @@
 {
-  "generatedAt": "2026-07-01T02:21:34.396Z",
+  "generatedAt": "2026-07-01T14:15:51.167Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "meta-compute-cloud-business-rumor-july-1-2026",
+      "categories": [
+        "mover",
+        "rumor"
+      ],
+      "title": "Reportedly: Meta (META) +~9% to $615.52 on Wednesday July 1 — Bloomberg scoop says Zuckerberg is building 'Meta Compute' cloud business to rent out excess AI capacity to third parties",
+      "org": "Bloomberg",
+      "date": "2026-07-01",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "summary": "Bloomberg reports Meta is standing up 'Meta Compute' to sell Model-as-a-Service and bare-metal compute against AWS/Azure/GCP and neoclouds like CoreWeave. META +9.27% to $615.52; CoreWeave and Nebius sell off.",
+      "tickers": [
+        "META",
+        "CRWV",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+      ],
+      "metrics": {
+        "Move": "+9.27% to $615.52 (+$52.23)",
+        "Intraday range": "$561.88 – $613.14",
+        "CRWV Meta contract": "$35B (of $21B initial through 2032)",
+        "Source confidence": "Bloomberg 'people familiar' scoop"
+      },
+      "tags": [
+        "rumor",
+        "bloomberg-scoop",
+        "meta-compute",
+        "model-as-a-service",
+        "ai-cloud",
+        "hyperscaler",
+        "neocloud",
+        "ai-capex"
+      ],
+      "importance": "rumor",
+      "explainer": {
+        "tagline": "Bloomberg says Meta will monetize its AI buildout by renting spare GPUs — META jumps ~9% to $615.52 as Zuckerberg turns capex into a P&L line.",
+        "whatIsIt": "Bloomberg News reported Wednesday July 1 that Meta Platforms is launching a cloud services business, internally called 'Meta Compute,' to sell excess AI computing capacity to third-party customers. Two prongs: a Model-as-a-Service (MaaS) product hosting Meta-built models, and a raw bare-metal compute offer aimed at 'neocloud' buyers.",
+        "howItWorks": "The Bloomberg piece cites people familiar with the plans; Meta has not confirmed a launch date. Zuckerberg publicly said at the May shareholder meeting that renting excess compute was 'definitely on the table' after 'almost every week' external firms asked to buy access. The competitive set is AWS, Microsoft Azure, Google Cloud on the top-tier side and CoreWeave / Nebius on the neocloud side. Meta already has a $21B (now $35B in cumulative contracts) supply deal with CoreWeave through 2032 that the new business would run alongside.",
+        "whyItMatters": "META closed +9.27% at $615.52 — its biggest single-session gain in months and a ~$140B market-cap swing — while CoreWeave (CRWV) and Nebius fell in sympathy on fears Meta will pull neocloud demand in-house. If the plan is real, it converts Meta's headline capex (>$100B/yr) from a cash drag into a hyperscaler-style revenue line, and re-rates the return-on-AI-capex math the FT flagged in the June 5 equity-raise rumor.",
+        "forWho": "AI-infrastructure traders, hyperscaler analysts, neocloud shorts",
+        "tryIt": "https://finance.yahoo.com/quote/META"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/FD11DF34EB7A6D25C4086FF87F0C5E872651167DCB6FD9BD0E85B82BC995FDF6/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2F2f4b02d0-8195-11ef-bfce-89b371837e0b",
+        "alt": "Meta Platforms logo signage as the company reportedly builds a cloud business to sell excess AI compute",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "TechCrunch Report",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/meta-stock-pops-on-news-it-will-reportedly-start-a-cloud-computing-business-134412120.html"
+        },
+        {
+          "label": "Global Banking Recap",
+          "url": "https://www.globalbankingandfinance.com/meta-sell-excess-ai-computing-capacity-via-cloud-business/"
+        },
+        {
+          "label": "META Chart",
+          "url": "https://finance.yahoo.com/quote/META"
+        }
+      ],
+      "reddit": {
+        "title": "META +9.27% to $615.52 today — Bloomberg says Zuckerberg is building 'Meta Compute' to rent excess AI GPUs against AWS, Azure and CoreWeave",
+        "body": "Bloomberg dropped a scoop Wednesday that Meta is standing up a cloud services business to monetize the massive AI buildout it's been catching flak for.\n\n* META +9.27% to $615.52 (+$52.23) — biggest single-session pop in months\n* Intraday range $561.88–$613.14; ~$140B market cap added\n* CoreWeave (CRWV) and Nebius fall in sympathy on demand-cannibalization fear\n* CRWV holds ~$35B in cumulative Meta compute contracts (from initial $21B through 2032)\n\nBloomberg cites 'people familiar' — Meta hasn't confirmed. Two prongs reported:\n\n1. **Model-as-a-Service** — sell access to Meta's own models (think AWS Bedrock style)\n2. **Raw compute** — bare-metal GPU rental against CoreWeave / Nebius\n\nZuckerberg already telegraphed this on the May earnings call: renting excess compute was 'definitely on the table' after 'almost every week' outside firms asked to buy access.\n\nBull case: turns >$100B/yr of capex from cash drag into a hyperscaler-style P&L line — flips the June 5 FT 'equity raise to fund AI' rumor on its head.\n\nNext catalysts: Meta Q2 earnings late July, any Meta confirmation of the plan.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-compute-cloud-business-rumor-july-1-2026](https://stock-tldr.xyz/releases/meta-compute-cloud-business-rumor-july-1-2026)"
+      },
+      "publishDate": "2026-07-01T14:15:51.167Z"
+    },
+    {
+      "id": "kr-giant-eagle-1-65b-acquisition-july-1-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Kroger (KR) to acquire Giant Eagle for $1.65B on Wednesday July 1 — $1.25B cash + ~$400M assumed liabilities buys 197 supermarkets and ~$9B in annual sales across Ohio, Pennsylvania, West Virginia, Maryland and Indiana",
+      "org": "Kroger",
+      "date": "2026-07-01",
+      "url": "https://ir.kroger.com/news/news-details/2026/Kroger-Announces-Agreement-to-Acquire-Giant-Eagle/default.aspx",
+      "summary": "Kroger's first sizeable grocery M&A since the collapsed Albertsons deal: $1.65B cash-and-assumed-debt purchase of family-owned Giant Eagle (197 supers + 11 pharmacies) closes 2027 subject to HSR review with 'limited' divestitures.",
+      "tickers": [
+        "KR"
+      ],
+      "metrics": {
+        "Deal size": "$1.65B ($1.25B cash + ~$400M assumed liabilities)",
+        "Giant Eagle annual sales": "~$9B",
+        "Stores acquired": "197 supermarkets + 11 standalone pharmacies",
+        "States": "OH, PA, WV, MD, IN",
+        "Expected close": "2027 (HSR review)",
+        "Accretion": "Adj EPS accretive year two ex-one-time",
+        "KR premarket": "-2.8%"
+      },
+      "tags": [
+        "mna",
+        "grocery",
+        "consumer-staples",
+        "regional-expansion",
+        "antitrust-hsr",
+        "kroger",
+        "giant-eagle",
+        "post-albertsons"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Kroger returns to the M&A table with a $1.65B tuck-in of family-owned Giant Eagle — a fraction of the failed $22B Albertsons deal, deliberately built to clear antitrust.",
+        "whatIsIt": "Kroger announced a definitive agreement Wednesday July 1 to acquire Giant Eagle, a family-owned regional grocer with roughly $9B in annual sales, for $1.65B — $1.25B cash and the assumption of ~$400M of Giant Eagle's outstanding liabilities. Giant Eagle operates 197 supermarkets and 11 standalone pharmacies across northern Ohio, western Pennsylvania, West Virginia, Maryland and Indiana.",
+        "howItWorks": "The transaction is cash-financed. Kroger's board unanimously approved the deal; the company kept its $2B share repurchase program and dividend commitment intact and expects to hold leverage at 2.3–2.5× net debt/EBITDA. Deal accretion to adjusted EPS is guided to year two post-close ex-one-time costs. Expected close is 2027 subject to Hart-Scott-Rodino review, with 'limited' Giant Eagle store divestitures anticipated to clear regulators. CEO Greg Foran framed Giant Eagle as 'a well-run, high-quality regional grocer' — the antithesis of the mega-deal profile FTC blocked with Albertsons.",
+        "whyItMatters": "KR opened -2.8% pre-market on deal dilution and integration risk (stock traded near a 52-week low of $54.97), even though the bite size — 1/13th of the 2022 Albertsons target — was chosen to sidestep antitrust. It's the first meaningful test of the post-Albertsons playbook: buy regional, not national. Read-throughs: ACI, SFM and smaller regional grocers see the M&A route re-open at a size the FTC will bless; Ohio and western PA overlap creates the divestiture window regional buyers will bid on.",
+        "forWho": "consumer-staples desks, grocery M&A traders",
+        "tryIt": "https://finance.yahoo.com/quote/KR"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS542108/Kroger-Co-Logo.jpg?id=OA2746700",
+        "alt": "The Kroger Co corporate logo — Kroger announces $1.65B acquisition of family-owned Giant Eagle on July 1 2026",
+        "fit": "contain",
+        "credit": "The Kroger Co / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "Kroger IR Release",
+          "url": "https://ir.kroger.com/news/news-details/2026/Kroger-Announces-Agreement-to-Acquire-Giant-Eagle/default.aspx"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/kroger-announces-agreement-to-acquire-giant-eagle-302815747.html"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/KR/kroger-announces-agreement-to-acquire-giant-j5iqbirhsal2.html"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-bets-regional-expansion-1-121123339.html"
+        },
+        {
+          "label": "KR Chart",
+          "url": "https://finance.yahoo.com/quote/KR"
+        }
+      ],
+      "reddit": {
+        "title": "Kroger buying family-owned Giant Eagle for $1.65B ($1.25B cash + $400M assumed debt) — 197 stores, ~$9B sales, deliberately below the Albertsons antitrust bar",
+        "body": "Kroger's first big grocery M&A since the $22B Albertsons deal collapsed — this one sized to clear the FTC.\n\n* Total deal: $1.65B — $1.25B cash + ~$400M assumed liabilities\n* Buys 197 Giant Eagle supermarkets + 11 standalone pharmacies\n* Giant Eagle annual sales ~$9B across OH, PA, WV, MD, IN\n* Expected close 2027 subject to HSR review, with 'limited' divestitures\n* KR -2.8% pre-market; stock near 52-week low $54.97\n* $2B share buyback + dividend maintained; leverage held at 2.3–2.5× ND/EBITDA\n* Adj EPS accretive year two post-close (ex-one-time)\n\nThe post-Albertsons playbook:\n\n1. **Buy regional, not national** — $1.65B tuck-in is roughly 1/13th of the 2022 Albertsons swing\n2. **Family-owned target** — CEO Greg Foran called Giant Eagle 'a well-run, high-quality regional grocer'\n3. **Deliberate divestiture window** — overlap in OH / western PA opens the door for smaller regional bidders\n\nNext catalysts: HSR filing, initial divestiture list, potential rival regional bids.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kr-giant-eagle-1-65b-acquisition-july-1-2026](https://stock-tldr.xyz/releases/kr-giant-eagle-1-65b-acquisition-july-1-2026)"
+      },
+      "publishDate": "2026-07-01T14:15:51.167Z"
+    },
+    {
+      "id": "warsh-sintra-ecb-forum-debut-july-1-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "Fed Chair Warsh makes global debut at ECB Sintra Forum on Wednesday July 1 — 'we've seen that prices are too high' — declines to hint at July FOMC as Treasury yields drift higher and Fed-funds futures hold at 66% probability of a July hold",
+      "org": "Federal Reserve",
+      "date": "2026-07-01",
+      "url": "https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html",
+      "summary": "Warsh's first international appearance as Fed Chair: on a Sintra panel with Lagarde, Bailey and Macklem he called inflation 'too high,' declined to signal July, and pushed back on the AI-is-deflationary narrative.",
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB"
+      ],
+      "metrics": {
+        "July FOMC — hold odds": "66.3%",
+        "September FOMC — ≥25bp hike odds": "66.9%",
+        "Panel": "Warsh, Lagarde, Bailey, Macklem (moderator Sara Eisen)",
+        "Setting": "ECB Forum on Central Banking, Sintra, Portugal",
+        "Prior context": "12–0 hawkish hold at June 17 FOMC; SEP median 3.8% by year-end"
+      },
+      "tags": [
+        "fed",
+        "warsh",
+        "sintra",
+        "ecb-forum",
+        "rate-path",
+        "hawkish",
+        "central-bank",
+        "lagarde",
+        "bailey",
+        "macklem"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Warsh's first international appearance as Fed Chair — leans hawkish on inflation, silent on the July FOMC path, and slaps down the AI-deflation trade.",
+        "whatIsIt": "Fed Chair Kevin Warsh appeared at the ECB Forum on Central Banking in Sintra, Portugal, on Wednesday July 1 — his first global platform since being sworn in May 22. He sat with ECB President Christine Lagarde, BoE Governor Andrew Bailey and BoC Governor Tiff Macklem for a CNBC-moderated panel led by Sara Eisen.",
+        "howItWorks": "Warsh told the panel: 'We're all in the price stability business… we've all looked around, and we've seen that prices are too high.' He said he heard 'open-mindedness on these questions of AI, open-mindedness on productivity' from peers but framed inflation as the Fed's primary objective. He explicitly refused to signal what the FOMC will do at its July meeting. This extends the hawkish tone from his June 17 FOMC debut (12–0 hold at 3.50–3.75%, SEP median lifted to 3.8% by year-end).",
+        "whyItMatters": "US 10Y and 2Y Treasury yields drifted higher into and through the speech; Fed-funds futures hold ~66% probability of a July hold and a ~67% chance of at least a 25bp hike at September's FOMC. Warsh's willingness to walk back the AI-deflation frame that some doves have leaned on removes a pillar of the summer-cut trade and reinforces the BofA (Bhave) 'three-hikes-in-2026' path. DXY firm, EUR/USD softer, JPY at fresh multi-decade lows into the speech.",
+        "forWho": "macro traders, front-end rates desks, FX",
+        "tryIt": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+      },
+      "image": {
+        "url": "https://www.ecb.europa.eu/press/conferences/shared/img/socialmedia/social-default.jpg?f85a233c68458bc2d5103cc4574de718",
+        "alt": "ECB Forum on Central Banking in Sintra Portugal — venue for Fed Chair Warsh's first international panel on July 1 2026",
+        "fit": "cover",
+        "credit": "European Central Bank"
+      },
+      "links": [
+        {
+          "label": "ECB Sintra Forum",
+          "url": "https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/kevin-warsh-fed-sintra-ecb-forum-july-rate-decision-070126"
+        },
+        {
+          "label": "June FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+        },
+        {
+          "label": "10Y Treasury Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "Fed Chair Warsh in Sintra: 'prices are too high' — first international appearance, no July signal, Fed-funds futures hold ~66% odds of a July pause",
+        "body": "Kevin Warsh took the ECB Forum stage in Sintra, Portugal today — his first international outing as Fed Chair since taking over from Powell on May 22. Panel with Lagarde (ECB), Bailey (BoE), Macklem (BoC), moderated by Sara Eisen.\n\n* Key line: 'we've all looked around, and we've seen that prices are too high'\n* Declined to signal what the FOMC will do at the July meeting\n* Pushed back on the AI-is-deflationary narrative that doves have been leaning on\n* Extends the hawkish tone from his June 17 FOMC debut (12–0 hold at 3.50–3.75%)\n* US 10Y and 2Y yields drift higher through the panel\n* Fed-funds futures: 66.3% odds of a July hold; 66.9% odds of ≥25bp hike in September\n* DXY firm; JPY at multi-decade lows into the speech\n\nWhy it matters:\n\n1. **AI-deflation trade weakens** — Warsh explicitly refused to endorse the 'productivity gains will kill inflation' frame\n2. **September hike path validated** — dovetails with the BofA (Bhave) three-hikes-in-2026 call\n3. **Warsh brand cementing hawkish** — first FOMC + first international speech both lean the same way\n\nNext catalysts: July NFP (July 2), July FOMC decision (July 29–30).\n\nFull breakdown: [https://stock-tldr.xyz/releases/warsh-sintra-ecb-forum-debut-july-1-2026](https://stock-tldr.xyz/releases/warsh-sintra-ecb-forum-debut-july-1-2026)"
+      },
+      "publishDate": "2026-07-01T14:15:51.167Z"
+    },
+    {
+      "id": "adp-june-2026-98k-miss-july-1-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "ADP June 2026 — private payrolls +98K vs +118K est misses, and May cools to +122K unrevised, as job-stayer pay holds at +4.4% Y/Y and natural resources sheds 5K jobs",
+      "org": "ADP Research Institute",
+      "date": "2026-07-01",
+      "url": "http://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-98-000-jobs-in-june-annual-pay-was-up-4-4-302815768.html",
+      "summary": "US private payrolls +98K in June — 20K below the Dow-Jones-Reuters consensus of +118K and a step down from May's +122K. Pay growth sticky at +4.4% Y/Y for stayers, +6.6% for switchers.",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "ADP payrolls (June)": "+98K vs +118K est",
+        "Prior (May)": "+122K",
+        "Education & health services": "+48K",
+        "Financial activities": "+14K",
+        "Trade / transport / utilities": "+15K",
+        "Manufacturing": "+5K",
+        "Natural resources & mining": "-5K",
+        "Job-stayer pay growth (Y/Y)": "+4.4%",
+        "Job-switcher pay growth (Y/Y)": "+6.6%"
+      },
+      "tags": [
+        "adp",
+        "private-payrolls",
+        "employment",
+        "labor-market",
+        "pay-growth",
+        "june-2026",
+        "cooling-labor"
+      ],
+      "importance": "notable",
+      "explainer": {
+        "tagline": "Private hiring cools 20K short of consensus as ADP prints +98K for June, but job-stayer wage growth stays sticky at +4.4% Y/Y.",
+        "whatIsIt": "The ADP National Employment Report showed US private-sector employment grew by 98,000 in June 2026, missing the Dow Jones / Reuters consensus of +118,000. It's a step down from May's +122K and a fourth straight sub-consensus month.",
+        "howItWorks": "Education and health services led with +48K, followed by trade/transport/utilities +15K, financial activities +14K, other services +8K, information +7K, manufacturing +5K. Natural resources and mining shed 5K jobs. Pay growth stayed sticky: job-stayers +4.4% Y/Y, job-switchers +6.6% Y/Y. ADP Chief Economist Nela Richardson: 'The pace of hiring is telling a story of both supply and demand.' The Bureau of Labor Statistics NFP report for June follows Thursday July 2 (early-close ahead of the July 3 Independence Day-observed market holiday).",
+        "whyItMatters": "A softer ADP print landing the same morning Warsh calls inflation 'too high' tightens the setup for Thursday's NFP: the market wants a cooling-labor argument for the September FOMC path but not so cool that recession odds pop. Sticky pay growth is the tell — services desks watch stayer wages, not headline jobs, for the persistent piece of core CPI.",
+        "forWho": "macro traders, front-end rates desks, jobs-print week readers",
+        "tryIt": "https://adpemploymentreport.com/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS505693/ADP-Logo.jpg?id=OA2747131&p=facebook",
+        "alt": "ADP Research Institute logo — June 2026 ADP National Employment Report shows +98K private jobs added",
+        "fit": "contain",
+        "credit": "ADP / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "ADP Press Release",
+          "url": "http://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-98-000-jobs-in-june-annual-pay-was-up-4-4-302815768.html"
+        },
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/private-sector-added-98000-jobs-june-below-expectations-adp-says"
+        },
+        {
+          "label": "ADP Report Portal",
+          "url": "https://adpemploymentreport.com/"
+        },
+        {
+          "label": "10Y Treasury Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "ADP June private payrolls +98K vs +118K est — fourth straight miss, but job-stayer pay growth still sticky at +4.4% Y/Y",
+        "body": "US private-sector hiring cools again, one day ahead of Thursday's June NFP.\n\n* ADP June: +98,000 vs +118,000 Dow Jones consensus (miss by 20K)\n* Prior month (May): +122,000 unrevised — cooling trend\n* Fourth straight month below consensus\n* Job-stayer pay growth: +4.4% Y/Y (sticky)\n* Job-switcher pay growth: +6.6% Y/Y (still elevated)\n\nSector breakdown:\n\n1. **Education & health services** — +48K (still doing the heavy lifting)\n2. **Trade / transport / utilities** — +15K\n3. **Financial activities** — +14K\n4. **Manufacturing** — +5K\n5. **Natural resources & mining** — -5K (only loss)\n\nADP Chief Economist Nela Richardson: 'The pace of hiring is telling a story of both supply and demand.' Lands the same morning Fed Chair Warsh calls inflation 'too high' at the Sintra ECB Forum — tightens the setup for Thursday's NFP.\n\nNext catalysts: BLS NFP June (Thursday July 2, early close before the July 3 market holiday), then July FOMC July 29–30.\n\nFull breakdown: [https://stock-tldr.xyz/releases/adp-june-2026-98k-miss-july-1-2026](https://stock-tldr.xyz/releases/adp-june-2026-98k-miss-july-1-2026)"
+      },
+      "publishDate": "2026-07-01T14:15:51.167Z"
+    },
+    {
+      "id": "us-stocks-q2-2026-best-since-2020-june-30-close",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "US equities wrap Q2 2026 as best quarter since 2020 — Dow +0.26% to record 52,319.20 on Tuesday June 30, S&P 500 +0.79% to 7,449.36, Nasdaq +1.52% to 26,213.72; quarterly gains ~+14% S&P / ~+20% Nasdaq / ~+12% Dow with Russell 2000 +21% H1 (best since 1991)",
+      "org": "S&P Dow Jones Indices",
+      "date": "2026-06-30",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-heads-best-q2-since-151926255.html",
+      "summary": "Q2 2026 ends with the S&P 500 +14%, Nasdaq +20%, Dow +12% — the best quarter for US equities since Q2 2020 — as June 30 delivers the Dow's second-straight record close on chip leadership (AMD +7.7%, Sandisk +10.9%, Marvell +7.3%, Nvidia +2.6%).",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI",
+        "^RUT",
+        "NVDA",
+        "AMD"
+      ],
+      "metrics": {
+        "Dow close": "52,319.20 (+0.26% / +136pts, record)",
+        "S&P 500 close": "7,449.36 (+0.79%)",
+        "Nasdaq Composite close": "26,213.72 (+1.52%)",
+        "S&P Q2 gain": "~+14% (best since Q2 2020)",
+        "Nasdaq Q2 gain": "~+20% (best since Q2 2020)",
+        "Dow Q2 gain": "~+12% (best since Q4 2022)",
+        "Russell 2000 H1 gain": "+21% (best since 1991)",
+        "AMD June 30": "+7.7%",
+        "Sandisk June 30": "+10.9%",
+        "Marvell June 30": "+7.3%",
+        "Nvidia June 30": "+2.6%"
+      },
+      "tags": [
+        "quarter-close",
+        "q2-2026",
+        "market-wrap",
+        "dow-record",
+        "nasdaq",
+        "sp-500",
+        "russell-2000",
+        "ai-trade",
+        "chip-rally",
+        "best-since-2020"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "US stocks close the best quarter since 2020 — Dow prints a second-straight record 52,319 as chips lead the final Q2 session.",
+        "whatIsIt": "Tuesday June 30 marked the end of Q2 2026. The Dow Jones Industrial Average rose 136 points (+0.26%) to a record close of 52,319.20 — its second consecutive record — while the S&P 500 gained 0.79% to 7,449.36 and the Nasdaq Composite jumped 1.52% to 26,213.72. All three indexes posted their strongest quarters since the pandemic-recovery Q2 2020.",
+        "howItWorks": "For the quarter: S&P 500 ~+14%, Nasdaq ~+20% (best since Q2 2020), Dow ~+12% (best since Q4 2022). The Russell 2000 finished the first half +21% — a run 'not seen since 1991.' YTD Nasdaq +12.79%, S&P +9.55%, Dow +8.85%. Chip leadership drove the final session: AMD +7.7%, Sandisk +10.9%, Marvell +7.3%, Intel +6%, Nvidia +2.6%. Alphabet's promotion into the Dow (effective June 29) contributed to the Dow record after Verizon lost its slot.",
+        "whyItMatters": "Marks the highest-grade validation yet of the H1 2026 AI-capex trade after chip volatility in mid-June (see June 5 $1T chip wipeout, June 23 chip rout). The record on the last day makes for a difficult mark-to-market for underperformers into Q2 earnings season. Watch: the July 1 open faded lower on chip pullback (NVDA/MU/SNDK -3% to -8% intraday) and Warsh's hawkish Sintra tone — the June-close bookmark now sits against a hawkish July FOMC path.",
+        "forWho": "index desks, benchmarking, macro overlays",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/B06D4EEC15C60E731765283F4F4E30B584E627B282A5BD1A69ED6ACAF1049018/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fb4f351a5c4ddf27c79cb1b3890de5e7f",
+        "alt": "NYSE floor at the June 30 close as US stocks wrap the strongest Q2 since 2020",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Q2 Wrap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-heads-best-q2-since-151926255.html"
+        },
+        {
+          "label": "Deseret Q2 Recap",
+          "url": "https://www.deseret.com/business/2026/06/30/us-stock-markets-record-earnings-nasdaq-exchange-sp-500-dow-jones-investors/"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "Dow Chart",
+          "url": "https://finance.yahoo.com/quote/%5EDJI"
+        },
+        {
+          "label": "Nasdaq Chart",
+          "url": "https://finance.yahoo.com/quote/%5EIXIC"
+        }
+      ],
+      "reddit": {
+        "title": "US stocks wrap Q2 2026 as best quarter since 2020 — S&P +14%, Nasdaq +20%, Dow +12% with a June 30 record close of 52,319 — Russell 2000 +21% H1 (best since 1991)",
+        "body": "Q2 2026 wrapped Tuesday June 30 with US equities posting their strongest three-month run since the pandemic-recovery Q2 2020.\n\n* Dow +0.26% (+136pts) to record 52,319.20 — second straight record close\n* S&P 500 +0.79% to 7,449.36\n* Nasdaq Composite +1.52% to 26,213.72\n* Quarterly gains: S&P ~+14%, Nasdaq ~+20%, Dow ~+12%\n* Russell 2000 first-half gain +21% — best since 1991\n* YTD: Nasdaq +12.79%, S&P +9.55%, Dow +8.85%\n\nChips led the final session:\n\n1. **AMD** — +7.7%\n2. **Sandisk** — +10.9%\n3. **Marvell** — +7.3%\n4. **Intel** — +6%\n5. **Nvidia** — +2.6%\n\nAlphabet's promotion into the Dow (effective June 29) helped push the Dow to record territory after Verizon lost its slot.\n\nThe record on the last day makes for a difficult mark-to-market for underperformers into Q2 earnings season. Watch the setup: July 1 opened weaker on chip pullback and Warsh's hawkish Sintra tone — the June bookmark now sits against a hawkish July FOMC path.\n\nNext catalysts: ADP + ISM Manufacturing July 1, BLS NFP June July 2, July FOMC July 29–30, big-tech Q2 prints late July.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-q2-2026-best-since-2020-june-30-close](https://stock-tldr.xyz/releases/us-stocks-q2-2026-best-since-2020-june-30-close)"
+      },
+      "publishDate": "2026-07-01T14:15:51.167Z"
+    },
     {
       "id": "nke-q4-fy26-earnings-june-30-2026",
       "categories": [

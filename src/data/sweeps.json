@@ -6231,6 +6231,59 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260701t141551z",
+      "timestamp": "2026-07-01T14:15:51.167Z",
+      "source": "github-actions-sweep",
+      "summary": "Added 5 items across the Wednesday July 1 tape: Bloomberg's Meta Compute cloud scoop (META +9.27%), Kroger's $1.65B Giant Eagle acquisition, Fed Chair Warsh's hawkish Sintra debut, the ADP June +98K miss, and the June 30 Q2 wrap (best quarter since 2020, Dow record 52,319).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "meta-compute-cloud-business-rumor-july-1-2026",
+          "title": "Reportedly: Meta (META) +~9% to $615.52 on Wednesday July 1 — Bloomberg scoop says Zuckerberg is building 'Meta Compute' cloud business to rent out excess AI capacity to third parties",
+          "category": "mover",
+          "note": "Bloomberg-sourced Zuckerberg cloud-services scoop lit META +9.27% to $615.52 today with sympathy sell-off in CoreWeave / Nebius — clear tier-1 rumor with a mover."
+        },
+        {
+          "id": "kr-giant-eagle-1-65b-acquisition-july-1-2026",
+          "title": "Kroger (KR) to acquire Giant Eagle for $1.65B on Wednesday July 1 — $1.25B cash + ~$400M assumed liabilities buys 197 supermarkets and ~$9B in annual sales across Ohio, Pennsylvania, West Virginia, Maryland and Indiana",
+          "category": "mna",
+          "note": "First meaningful Kroger M&A since Albertsons collapsed — $1.65B tuck-in of family-owned Giant Eagle deliberately sized to clear HSR; primary source is Kroger's IR release."
+        },
+        {
+          "id": "warsh-sintra-ecb-forum-debut-july-1-2026",
+          "title": "Fed Chair Warsh makes global debut at ECB Sintra Forum on Wednesday July 1 — 'we've seen that prices are too high' — declines to hint at July FOMC as Treasury yields drift higher and Fed-funds futures hold at 66% probability of a July hold",
+          "category": "macro",
+          "note": "New Fed Chair's first international stage — 'prices are too high' extends the hawkish June 17 tone and firms the September-hike path; two tier-1 outlets cited."
+        },
+        {
+          "id": "adp-june-2026-98k-miss-july-1-2026",
+          "title": "ADP June 2026 — private payrolls +98K vs +118K est misses, and May cools to +122K unrevised, as job-stayer pay holds at +4.4% Y/Y and natural resources sheds 5K jobs",
+          "category": "macro",
+          "note": "Fourth straight ADP miss vs consensus and sticky pay growth land the morning before Thursday's NFP; ADP primary release cited."
+        },
+        {
+          "id": "us-stocks-q2-2026-best-since-2020-june-30-close",
+          "title": "US equities wrap Q2 2026 as best quarter since 2020 — Dow +0.26% to record 52,319.20 on Tuesday June 30, S&P 500 +0.79% to 7,449.36, Nasdaq +1.52% to 26,213.72; quarterly gains ~+14% S&P / ~+20% Nasdaq / ~+12% Dow with Russell 2000 +21% H1 (best since 1991)",
+          "category": "sector",
+          "note": "Q2 close is the highest-tier bookmark of the H1 2026 tape — Dow record, chip leadership, best quarter since 2020 — confirmed by multiple tier-1 sources."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "rumor",
+        "mna",
+        "macro",
+        "rates",
+        "sector"
+      ]
     }
   ]
 }
