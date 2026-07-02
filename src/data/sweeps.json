@@ -6326,6 +6326,45 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260702t133822z",
+      "timestamp": "2026-07-02T13:38:22.992Z",
+      "source": "github-actions-sweep",
+      "summary": "Three items land in the July 1–2 window: (1) BLS June NFP misses at +57K with 74K in downward revisions and 4.2% jobless via participation drop — headline pushes back on Warsh's hawkish June SEP; (2) Tesla Q2 deliveries 480,126 crush ~406K consensus (~+25% Y/Y) on Europe/China recovery, full financials July 22; (3) USTR Greer declines to renew USMCA at required July 1 first joint review.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-jobs-june-2026-july-2",
+          "title": "U.S. June 2026 jobs report — nonfarm payrolls +57K miss +115K est, unemployment ticks down to 4.2% and prior two months revised down a combined -74K; leisure & hospitality -61K as labor market cools ahead of Warsh's July FOMC",
+          "category": "macro",
+          "note": "Government BLS report; distinct from the earlier ADP June sweep entry (different survey, different methodology, different importance). NFP miss + downward revisions is the story."
+        },
+        {
+          "id": "tsla-q2-2026-deliveries-record-july-2",
+          "title": "Tesla Q2 2026 deliveries — 480,126 vehicles trounce ~406K consensus by ~74K (~+25% Y/Y), production 451,758, energy storage 13.5 GWh; Model 3/Y deliveries 467,762 and 'other models' 12,364 as Europe reset feeds through",
+          "category": "mover",
+          "note": "Q2 delivery 8-K exhibit — 74K beat vs Tesla IR-published analyst consensus. Full financials July 22 after close."
+        },
+        {
+          "id": "usmca-nonrenewal-joint-review-july-1-2026",
+          "title": "USTR statement — U.S. declines to renew USMCA at July 1, 2026 first joint review; Ambassador Greer cites 'shortcomings and our trade deficits' with Mexico and Canada, agreement remains in force pending resolution or termination, next bilateral round with Mexico week of July 20",
+          "category": "macro",
+          "note": "July 1 USTR statement at the treaty-mandated first joint review; agreement remains in force but heads into a decade of annual reviews rather than a 16-year renewal."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "earnings",
+        "regulatory"
+      ]
     }
   ]
 }

@@ -1,8 +1,239 @@
 {
-  "generatedAt": "2026-07-02T02:15:28.099Z",
+  "generatedAt": "2026-07-02T13:38:22.992Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-jobs-june-2026-july-2",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. June 2026 jobs report — nonfarm payrolls +57K miss +115K est, unemployment ticks down to 4.2% and prior two months revised down a combined -74K; leisure & hospitality -61K as labor market cools ahead of Warsh's July FOMC",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-07-02",
+      "url": "https://www.bls.gov/news.release/archives/empsit_07022026.htm",
+      "summary": "BLS June NFP +57K misses +115K Reuters consensus; unemployment 4.2% (-0.1pp), participation 61.5% (-0.3pp); April -31K to +148K and May -43K to +129K revised. Wages +0.3% M/M / +3.5% Y/Y to $37.64.",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "^DJI",
+        "^IXIC"
+      ],
+      "metrics": {
+        "Nonfarm payrolls (June)": "+57K vs +115K est",
+        "Prior 12-month avg": "+36K/mo",
+        "April revision": "-31K to +148K (from +179K)",
+        "May revision": "-43K to +129K (from +172K)",
+        "Combined April+May revision": "-74K",
+        "Unemployment rate": "4.2% (-0.1pp)",
+        "Unemployed people": "7.1M",
+        "Labor force participation": "61.5% (-0.3pp)",
+        "Employment-population ratio": "59.0% (-0.2pp)",
+        "Long-term unemployed": "1.9M (+286K Y/Y)",
+        "Avg hourly earnings (June)": "$37.64 (+$0.13 / +0.3% M/M)",
+        "AHE Y/Y": "+3.5%",
+        "Professional & business services": "+36K",
+        "Social assistance": "+25K",
+        "Health care": "+22K",
+        "Leisure & hospitality": "-61K"
+      },
+      "tags": [
+        "jobs-report",
+        "nonfarm-payrolls",
+        "employment",
+        "unemployment",
+        "labor-market",
+        "wage-growth",
+        "june-2026",
+        "cooling-labor",
+        "downward-revisions",
+        "fomc",
+        "warsh"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "BLS June NFP prints +57K vs +115K est — but unemployment ticks down to 4.2% as participation drops and prior months lose 74K in revisions.",
+        "whatIsIt": "The Bureau of Labor Statistics' June 2026 Employment Situation, released 8:30 a.m. ET on Thursday July 2 ahead of the July 3 market holiday, showed nonfarm payrolls grew 57,000 versus the Reuters +110–115K consensus. The unemployment rate ticked down to 4.2% from 4.3%, but for the 'wrong' reason: labor force participation dropped 0.3 percentage point to 61.5%.",
+        "howItWorks": "Job gains: professional & business services +36K, social assistance +25K (individual & family services +17K), health care +22K (below the +38K prior-12-month pace). Leisure & hospitality shed 61K on weaker-than-usual seasonal hiring. April revised down 31K to +148K and May revised down 43K to +129K, taking a combined 74K off the prior two-month print. Average hourly earnings rose $0.13 (+0.3% M/M) to $37.64, +3.5% Y/Y. The number of long-term unemployed sits at 1.9 million, up 286K over the year. The +57K print is roughly in line with the prior 12-month monthly average of +36K.",
+        "whyItMatters": "The soft print is the first labor-side data to cross Chair Warsh's July FOMC. Warsh's June SEP median jumped to 3.8% year-end (nine of 18 dots to at least one hike), so today's cool NFP + downward revisions cut against the hawkish pivot. Front-end rates and rate-sensitive names (regionals, homebuilders) tend to rally on this shape of print; the DXY tends to soften. Watch the September dot: BofA's June 22 'three-hike' call now looks harder to defend, while the July 29 FOMC hold is more likely.",
+        "forWho": "macro traders, front-end rates desks, Fed-watchers",
+        "tryIt": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "Bureau of Labor Statistics emblem — June 2026 Employment Situation report",
+        "fit": "contain",
+        "credit": "U.S. Bureau of Labor Statistics"
+      },
+      "links": [
+        {
+          "label": "BLS Release",
+          "url": "https://www.bls.gov/news.release/archives/empsit_07022026.htm"
+        },
+        {
+          "label": "Full PDF",
+          "url": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+        },
+        {
+          "label": "Yahoo Live Blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-ahead-of-key-jobs-report-223136955.html"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "June NFP misses at +57K vs +115K est — April and May combined revised DOWN 74K; unemployment dips to 4.2% only because participation dropped",
+        "body": "BLS just printed the June jobs report at 8:30 AM ET (day early ahead of the July 3 holiday). It's cooler than it looks.\n\n* Nonfarm payrolls **+57K** vs +115K est (Reuters consensus)\n* Prior two months revised **-74K** combined: April to +148K (from +179K), May to +129K (from +172K)\n* Unemployment rate **4.2%** (-0.1pp) — but labor force participation dropped -0.3pp to **61.5%**\n* Employment-population ratio -0.2pp to 59.0%\n* Long-term unemployed 1.9M, +286K Y/Y\n* Average hourly earnings +0.3% M/M / **+3.5% Y/Y** to $37.64\n\nSector breakdown:\n\n1. **Prof & business services +36K** — the reliable one\n2. **Social assistance +25K, health care +22K** — same non-cyclical grind, health care actually undershooting its 12-mo avg of +38K\n3. **Leisure & hospitality -61K** — weaker-than-usual seasonal hiring, this is where the softness shows up\n\nWhy it matters: Warsh's June SEP had 9 of 18 dots flipping to at least one 25bp hike this year. A cool jobs print + big downward revisions makes the July 29 FOMC hold much more comfortable, and BofA's 'three hikes' call from June 22 looks a lot harder to defend. Front-end rates and rate-sensitive names typically catch a bid on this shape of print.\n\nNext catalysts: July CPI (July 15), Fed's July 29 rate decision, then Warsh's Jackson Hole in late August.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-jobs-june-2026-july-2](https://stock-tldr.xyz/releases/us-jobs-june-2026-july-2)"
+      },
+      "publishDate": "2026-07-02T13:38:22.992Z"
+    },
+    {
+      "id": "tsla-q2-2026-deliveries-record-july-2",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Tesla Q2 2026 deliveries — 480,126 vehicles trounce ~406K consensus by ~74K (~+25% Y/Y), production 451,758, energy storage 13.5 GWh; Model 3/Y deliveries 467,762 and 'other models' 12,364 as Europe reset feeds through",
+      "org": "Tesla",
+      "date": "2026-07-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026046717/exhibit99111111.htm",
+      "summary": "Tesla Q2 deliveries 480,126 vs ~406K IR consensus (~+18% beat, ~+25% Y/Y vs Q2 2025's 384,122); production 451,758 (Model 3/Y 442,936, other 8,822); energy storage 13.5 GWh. Full Q2 financials July 22.",
+      "tickers": [
+        "TSLA"
+      ],
+      "metrics": {
+        "Q2 total deliveries": "480,126 (~+25% Y/Y)",
+        "Model 3/Y deliveries": "467,762",
+        "Other model deliveries": "12,364",
+        "Q2 total production": "451,758",
+        "Model 3/Y production": "442,936",
+        "Other model production": "8,822",
+        "Energy storage deployed": "13.5 GWh",
+        "IR analyst consensus (deliveries)": "406,024",
+        "Beat vs consensus": "~+74K / +18%",
+        "Q2 2025 deliveries (comp)": "384,122",
+        "Full Q2 financials": "July 22, 2026 after close"
+      },
+      "tags": [
+        "tsla",
+        "tesla",
+        "q2-2026",
+        "deliveries",
+        "beat",
+        "model-3-y",
+        "energy-storage",
+        "megapack",
+        "auto",
+        "ev"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Tesla Q2 delivers 480,126 vs ~406K consensus — 18% beat, ~25% Y/Y, energy storage 13.5 GWh, full financials July 22.",
+        "whatIsIt": "Tesla's Q2 2026 production, deliveries and deployments 8-K (Exhibit 99.1), filed Thursday July 2, disclosed 451,758 vehicles produced and 480,126 delivered in the quarter. That's ~74K above the Tesla-published analyst consensus of 406,024 (~+18% beat) and ~+25% versus Q2 2025's 384,122 baseline.",
+        "howItWorks": "Model 3/Y accounted for 442,936 of production and 467,762 of deliveries; 'other models' (Model S/X, Cybertruck, Semi) produced 8,822 and delivered 12,364. 2% of deliveries were subject to operating lease accounting. Energy storage deployments came in at 13.5 GWh (versus the 13.8 GWh analyst consensus). Goldman's Mark Delaney and Barclays had both been signaling a beat into the print, citing European registrations running +85–90% Y/Y through May and China's refreshed Model Y strength; the actual print landed well above even the bullish forecasts. Full Q2 financial results and the Q&A webcast are set for after market close on Wednesday July 22.",
+        "whyItMatters": "First back-to-back Y/Y growth quarter since the demand slump began. Europe carried the print — offsetting a mid-teens Y/Y decline in US demand after the Q3 2025 tax-credit expiry — and validates the demand-recovery thesis that had been paying up the stock into the print (TSLA +8% on June 29 on FSD V14 Lite rollout). Read-through to auto peers is mixed (Tesla's beat reads as share gain in Europe; RIVN and LCID have no Europe volume to lever); read-through to lithium and battery-metals watchers (ALB) is positive. The 13.5 GWh energy print keeps the Megapack ramp on track for the July 22 automotive gross margin conversation.",
+        "forWho": "auto analysts, EV supply-chain desks, TSLA-holders",
+        "tryIt": "https://finance.yahoo.com/quote/TSLA/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/F2E59C11F9845FFA6A4529C8B245491D7E10364F48967F25FB8D22E729A147DA/subgraphmysterio/resizefill_w1200_h659;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fb1f90d2d20ad47c17094571db9eebb3c",
+        "alt": "Tesla Model Y production line — Q2 2026 deliveries 480,126 crush consensus",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026046717/exhibit99111111.htm"
+        },
+        {
+          "label": "Analyst Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-tesla-delivery-120518682.html"
+        },
+        {
+          "label": "TSLA Quote",
+          "url": "https://finance.yahoo.com/quote/TSLA/"
+        }
+      ],
+      "reddit": {
+        "title": "Tesla Q2 2026 deliveries — 480,126 vs 406K est (huge beat, ~+25% Y/Y); production 451,758; energy storage 13.5 GWh — full financials July 22",
+        "body": "Tesla's Q2 2026 production/delivery 8-K just hit ahead of the open. This is well above even the bullish Wall Street calls (Goldman 420K, Barclays 418K).\n\n* **Total deliveries: 480,126** vehicles (+~25% Y/Y vs Q2 2025's 384,122)\n* Model 3/Y deliveries: 467,762\n* Other models (S/X, Cybertruck, Semi): 12,364\n* Total production: 451,758 (Model 3/Y 442,936 + Other 8,822)\n* Energy storage deployed: 13.5 GWh (vs 13.8 GWh consensus)\n* IR-published analyst consensus was 406,024 deliveries — this is a ~74K / 18% beat\n\nWhat drove it:\n\n1. **Europe** — new-car registrations more than doubled Y/Y through May per Goldman's June 30 upgrade note\n2. **China refreshed Model Y** — high single-digit Y/Y growth per the same read\n3. **US still weak** — mid-teens % Y/Y decline after the Q3 2025 tax-credit expiry, but Europe + China more than offset\n\nThe headline: this is the first back-to-back Y/Y growth quarter since the demand slump. Full Q2 financials (auto gross margin, FSD subs, Cybercab progress) after close **Wednesday July 22**.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-q2-2026-deliveries-record-july-2](https://stock-tldr.xyz/releases/tsla-q2-2026-deliveries-record-july-2)"
+      },
+      "publishDate": "2026-07-02T13:38:22.992Z"
+    },
+    {
+      "id": "usmca-nonrenewal-joint-review-july-1-2026",
+      "categories": [
+        "macro",
+        "regulatory"
+      ],
+      "title": "USTR statement — U.S. declines to renew USMCA at July 1, 2026 first joint review; Ambassador Greer cites 'shortcomings and our trade deficits' with Mexico and Canada, agreement remains in force pending resolution or termination, next bilateral round with Mexico week of July 20",
+      "org": "Office of the U.S. Trade Representative",
+      "date": "2026-07-01",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review",
+      "summary": "USTR Greer statement July 1: U.S. did not agree to renew USMCA at required first joint review, so USMCA 'is not renewed'; agreement remains in force pending resolution; U.S. cites shortcomings and trade deficits; next bilateral round with Mexico set for the week of July 20.",
+      "metrics": {
+        "First joint review date": "July 1, 2026",
+        "Meeting format": "Virtual, all three parties",
+        "Agreement status": "Remains in force pending resolution or termination",
+        "Sunset if not renegotiated (per treaty)": "2036",
+        "Next bilateral round with Mexico": "Week of July 20, 2026",
+        "U.S. goods trade deficit vs Mexico (2025)": "~$197B",
+        "U.S. goods trade deficit vs Canada (2025)": "~$46B"
+      },
+      "tags": [
+        "usmca",
+        "trade",
+        "tariffs",
+        "trade-deficit",
+        "mexico",
+        "canada",
+        "ustr",
+        "greer",
+        "joint-review",
+        "trade-policy"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "USTR Greer says the U.S. did not agree to renew USMCA at its required first joint review — agreement stays in force but on a shrinking runway.",
+        "whatIsIt": "U.S. Trade Representative Ambassador Jamieson Greer issued a Washington statement dated July 1, 2026, confirming that at the required first joint review of the U.S.–Mexico–Canada Agreement, 'The United States did not agree to renew the USMCA in its current form. As a result, the USMCA is not renewed.' The three parties met virtually the same day to discuss the operation of the Agreement.",
+        "howItWorks": "USMCA's Article 34.7 mandated a joint review of the pact on July 1, 2026, with all three parties either renewing it for another 16 years or triggering a decade of annual reviews. The U.S. exercised the second path, citing 'the Agreement's shortcomings and our trade deficits with these countries' (~$197B goods deficit with Mexico, ~$46B with Canada in 2025). The Agreement remains in force pending resolution or termination. USTR announced that a third round of bilateral negotiations with Mexico is set for the week of July 20; Canadian bilateral talks continue separately. Unless renegotiated or terminated earlier, USMCA sunsets in 2036.",
+        "whyItMatters": "Removes the multi-year stability floor for cross-border auto, ag and energy supply chains. Automakers (GM, F, STLA, TM, Honda) build to USMCA rules-of-origin content thresholds; the annual-review path introduces revision risk each summer. The auto industry, per NBC's reporting, has already called for 'swift and durable resolution' given how deeply CUSMA/USMCA structures parts flows. Read-through: peso and Canadian dollar volatility around future review windows, and a tail risk that Section 232 or other tariff authority gets layered on top of specific USMCA sectors as leverage in the bilateral track.",
+        "forWho": "trade-policy desks, auto/ag equity teams, EM-FX macro",
+        "tryIt": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260701-usa-canada-mexico-flag-ch-1342-6acbc8.jpg",
+        "alt": "U.S., Canada and Mexico flags — USMCA first joint review declines U.S. renewal on July 1, 2026",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "USTR Statement",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review"
+        },
+        {
+          "label": "NBC News",
+          "url": "https://www.nbcnews.com/business/economy/trump-usmca-renewal-tariffs-trade-rcna352594"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html"
+        },
+        {
+          "label": "ABC News",
+          "url": "https://abcnews.com/Politics/us-renew-trade-deal-mexico-canada-trump-struck/story?id=134390633"
+        }
+      ],
+      "reddit": {
+        "title": "USTR Greer says U.S. did NOT agree to renew USMCA at July 1 first joint review — agreement stays in force but heads into a decade of annual reviews",
+        "body": "The USMCA had a required first joint review on July 1, 2026 under Article 34.7. All three parties met virtually. The U.S. said no to renewal.\n\n* USTR Greer statement, dated **July 1, 2026** in Washington: *'The United States did not agree to renew the USMCA in its current form. As a result, the USMCA is not renewed.'*\n* Stated reason: 'shortcomings and our trade deficits with these countries' (~$197B goods deficit with Mexico, ~$46B with Canada in 2025)\n* Agreement **remains in force** pending resolution or termination — the sunset clock is 2036 if never renegotiated\n* Next: third round of bilateral talks with Mexico the **week of July 20**; Canada track continues separately\n\nWhat it means for the tape:\n\n1. **Auto supply chains** — GM/F/STLA/TM/Honda build to USMCA rules-of-origin content thresholds. Annual-review path = revision risk every summer.\n2. **Peso and CAD** — expect wider vol around each summer review window.\n3. **Tariff leverage** — tail risk of Section 232 / Section 301 layered on specific USMCA-covered sectors as bilateral pressure.\n\nNext catalysts: U.S.–Mexico third bilateral round the week of July 20; watch for USTR readouts.\n\nFull breakdown: [https://stock-tldr.xyz/releases/usmca-nonrenewal-joint-review-july-1-2026](https://stock-tldr.xyz/releases/usmca-nonrenewal-joint-review-july-1-2026)"
+      },
+      "publishDate": "2026-07-02T13:38:22.992Z"
+    },
     {
       "id": "memory-stocks-rout-mu-sndk-wdc-july-1-2026",
       "categories": [
