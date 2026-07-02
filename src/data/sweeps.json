@@ -6284,6 +6284,48 @@
         "rates",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260702t021528z",
+      "timestamp": "2026-07-02T02:15:28.099Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new items for July 1 2026: a broad memory-stock rout (Micron -10.57%, SanDisk -10.62%, WDC -6.32%) driven by DRAM price-fixing class action and Q3 profit-taking; Bending Spoons (BSP) Nasdaq IPO debut closing +39.66% at $40.50; and Constellation Brands (STZ) Q1 FY27 beat + reported FY27 EPS guide raise with stock still -1.59% on soft Modelo Especial depletions.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "memory-stocks-rout-mu-sndk-wdc-july-1-2026",
+          "title": "Memory-stock rout on Wednesday July 1 — Micron (MU) -10.57% to $1,032.28, SanDisk (SNDK) -10.62% to $2,032.22, Western Digital (WDC) -6.32% to $598.37 as H1 buyers rotate out and a California DRAM price-fixing class action against Samsung, SK hynix and Micron weighs on sentiment",
+          "category": "mover",
+          "note": "First trading day of Q3 sees three of 2026's biggest AI-memory winners drop 6–11% in one session — clear catalyst (CA DRAM price-fixing class action + profit-taking), tier-1 primary coverage."
+        },
+        {
+          "id": "bsp-bending-spoons-ipo-debut-july-1-2026",
+          "title": "Bending Spoons (BSP) roars onto the Nasdaq on Wednesday July 1 — IPO priced at $29 (above $26–$28 range) closes +39.66% at $40.50 for a ~$26B implied market cap; AOL/Vimeo/Evernote/WeTransfer owner raised $1.68B",
+          "category": "ipo",
+          "note": "Largest Nasdaq listing of the summer prints +39.66% first-day return above an above-range $29 IPO — material read on IPO-market appetite."
+        },
+        {
+          "id": "stz-q1-fy27-earnings-june-30-2026",
+          "title": "Constellation Brands (STZ) Q1 FY27 — adj EPS $3.43 vs $3.19 est beats, net sales $2.43B (-3.3% Y/Y) top $2.39B est on Modelo/Pacifico beer strength; FY27 reported EPS guide lifted to $11.50–$12.20 (from $11.10–$11.80); STZ -1.59% to $136.88 on Wednesday July 1",
+          "category": "earnings",
+          "note": "Mega-cap beer importer beats Q1 and lifts FY27 reported EPS guide but stock drops -1.59% on softening Modelo Especial depletions — clean read on Latin-heritage consumer demand."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "ipo",
+        "earnings",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,223 @@
 {
-  "generatedAt": "2026-07-01T14:15:51.167Z",
+  "generatedAt": "2026-07-02T02:15:28.099Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "memory-stocks-rout-mu-sndk-wdc-july-1-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Memory-stock rout on Wednesday July 1 — Micron (MU) -10.57% to $1,032.28, SanDisk (SNDK) -10.62% to $2,032.22, Western Digital (WDC) -6.32% to $598.37 as H1 buyers rotate out and a California DRAM price-fixing class action against Samsung, SK hynix and Micron weighs on sentiment",
+      "org": "New York Stock Exchange",
+      "date": "2026-07-01",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-drops-8-sandisk-slumps-152105195.html",
+      "summary": "Memory names give back a chunk of their 2026 rally on the first day of Q3 — MU -10.57%, SNDK -10.62%, WDC -6.32% — as a California class action targets DRAM makers and Q3 rebalancing hits the year's biggest winners.",
+      "tickers": [
+        "MU",
+        "SNDK",
+        "WDC"
+      ],
+      "metrics": {
+        "MU": "$1,032.28 (-10.57%, -$122.01)",
+        "SNDK": "$2,032.22 (-10.62%, -$241.51)",
+        "WDC": "$598.37 (-6.32%, -$40.35)",
+        "MU YTD (pre-drop)": "+305%",
+        "SNDK YTD (pre-drop)": "+858%",
+        "WDC YTD (pre-drop)": "+271%"
+      },
+      "importance": "major",
+      "tags": [
+        "mover",
+        "memory",
+        "dram",
+        "nand",
+        "semis",
+        "ai-capex",
+        "class-action",
+        "profit-taking",
+        "q3-rebalance"
+      ],
+      "explainer": {
+        "tagline": "The 2026 AI-memory darlings take their sharpest hit of the year as a California DRAM lawsuit and Q3 rebalancing bite the winners.",
+        "whatIsIt": "Memory-chip stocks led a broad semiconductor pullback on Wednesday July 1, the first trading day of Q3 2026. Micron (MU), SanDisk (SNDK), and Western Digital (WDC) — three of the year's biggest AI-driven winners — dropped 6% to 11% in a single session as institutional money took profits and a fresh price-fixing complaint hit the tape.",
+        "howItWorks": "Micron closed $1,032.28, down $122.01 (-10.57%) from a $1,154.29 prior close, on 51.3M shares. SanDisk closed $2,032.22, down $241.51 (-10.62%) from $2,273.73. Western Digital closed $598.37, down $40.35 (-6.32%) from $638.72. The overhang: a California class action filed the prior week names Samsung, SK hynix and Micron as defendants and alleges they 'illegally coordinated to restrict DRAM supply and inflate prices' — DRAM contract prices are up roughly 700% over four years and NAND spot up ~200% in the past year. Complaint is an allegation, not a finding.",
+        "whyItMatters": "Memory has been the single hottest AI-adjacent trade of 2026, with MU +305%, SNDK +858%, and WDC +271% YTD before Wednesday. A one-day 8–11% air-pocket on the first day of Q3 is what profit-taking looks like when the tape is that stretched, and a price-fixing headline gives portfolio managers a story to sell into. HBM and enterprise-NAND supply remains sold out through 2026 per Micron's June guide, so the trade's structural bull case is intact — but stretched positioning now has to reset before the group can go again.",
+        "forWho": "Semi traders and AI-basket risk managers",
+        "tryIt": "https://finance.yahoo.com/quote/MU"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/73AAD16D19597CC120F8E8A294F6FE6C030D0312FD8B7E386F60968D3735CD76/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a815cd230495f37fa08ae4584948c26",
+        "alt": "Memory-chip stocks Micron, SanDisk and Western Digital pull back sharply on July 1 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Memory Rout Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-drops-8-sandisk-slumps-152105195.html"
+        },
+        {
+          "label": "24/7 Wall St Analysis",
+          "url": "https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/"
+        },
+        {
+          "label": "MU Quote",
+          "url": "https://finance.yahoo.com/quote/MU/"
+        },
+        {
+          "label": "SNDK Quote",
+          "url": "https://finance.yahoo.com/quote/SNDK/"
+        },
+        {
+          "label": "WDC Quote",
+          "url": "https://finance.yahoo.com/quote/WDC/"
+        }
+      ],
+      "reddit": {
+        "title": "Memory stocks get slammed on July 1 — MU -10.6%, SNDK -10.6%, WDC -6.3% as CA class-action alleges DRAM makers rigged prices",
+        "body": "First trading day of Q3 and the 2026 AI-memory darlings all snapped in the same session.\n\n* MU $1,032.28, down $122.01 (-10.57%) on 51.3M shares\n* SNDK $2,032.22, down $241.51 (-10.62%)\n* WDC $598.37, down $40.35 (-6.32%)\n* Year-to-date pre-drop: MU +305%, SNDK +858%, WDC +271%\n\nTwo things hit at once:\n\n1. **California class action** — filed the prior week, alleges Samsung, SK hynix, and Micron 'illegally coordinated to restrict DRAM supply and inflate prices' — DRAM contract prices are up ~700% over four years, NAND spot ~200% in the past year. Allegation, not a finding, but PMs got their sell headline.\n2. **Q3 rebalance out of the biggest H1 winners** — extended names that ran +300–800% YTD were the natural funding source for the semis complex to reset.\n\nStructural setup didn't change: Micron's June guide said HBM and enterprise NAND are sold out through 2026. But stretched positioning had to breathe.\n\nFull breakdown: [https://stock-tldr.xyz/releases/memory-stocks-rout-mu-sndk-wdc-july-1-2026](https://stock-tldr.xyz/releases/memory-stocks-rout-mu-sndk-wdc-july-1-2026)"
+      },
+      "publishDate": "2026-07-02T02:15:28.099Z"
+    },
+    {
+      "id": "bsp-bending-spoons-ipo-debut-july-1-2026",
+      "categories": [
+        "ipo",
+        "mover"
+      ],
+      "title": "Bending Spoons (BSP) roars onto the Nasdaq on Wednesday July 1 — IPO priced at $29 (above $26–$28 range) closes +39.66% at $40.50 for a ~$26B implied market cap; AOL/Vimeo/Evernote/WeTransfer owner raised $1.68B",
+      "org": "Bending Spoons S.p.A.",
+      "date": "2026-07-01",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-p-announces-pricing-235600487.html",
+      "summary": "Italy's Bending Spoons — owner of AOL, Vimeo, Evernote, WeTransfer, Eventbrite and more — debuts on Nasdaq under BSP: IPO priced $29 above range, opens $31, closes $40.50 (+39.66%) after raising $1.68B at a $18.4B pricing valuation.",
+      "tickers": [
+        "BSP"
+      ],
+      "metrics": {
+        "IPO price": "$29 (above $26–$28 range)",
+        "Shares sold": "57,971,015",
+        "Gross proceeds": "$1.68B",
+        "Open": "$31.00",
+        "Close": "$40.50 (+39.66% vs IPO)",
+        "Day high": "$43.98",
+        "Volume": "17.37M shares",
+        "Valuation at pricing": "~$18.4B"
+      },
+      "importance": "major",
+      "tags": [
+        "ipo",
+        "nasdaq",
+        "italy",
+        "consumer-software",
+        "ai-consumer",
+        "goldman-sachs",
+        "jpmorgan"
+      ],
+      "explainer": {
+        "tagline": "Italy's biggest consumer-software roll-up debuts on Nasdaq at $29, above range, and closes +40% — a firm signal the 2026 IPO window is still open.",
+        "whatIsIt": "Bending Spoons, the Milan-based owner of a portfolio of consumer software brands including AOL, Vimeo, Evernote, WeTransfer, Brightcove, Eventbrite, Harvest, Komoot, Remini, and StreamYard, priced its Nasdaq IPO at $29 per share on Tuesday June 30 — above the $26–$28 marketed range — and began trading Wednesday July 1 under the ticker BSP. It is one of the largest Nasdaq listings of the summer.",
+        "howItWorks": "Bending Spoons and selling shareholders sold 57,971,015 ordinary shares at $29, raising ~$1.68B in gross proceeds (34,398,640 by the company; 23,572,375 by insiders). Underwriters — Goldman Sachs International, J.P. Morgan and Allen & Company LLC as leads — hold a greenshoe of up to 8,695,652 additional shares. The stock opened $31 on July 1, hit $43.98 intraday, and closed $40.50 (+39.66% vs the IPO price) on 17.37M shares. Pricing implied ~$18.4B; the debut close implied ~$25.7B.",
+        "whyItMatters": "Bending Spoons closing +40% from IPO is a very firm print for the 2026 new-issue market — it follows SpaceX's record June 12 IPO, Fervo, Cerebras and HawkEye 360 and further validates that public bid for AI-adjacent and consumer-software names is alive. The company's 'buy-and-optimize' model — acquiring aging brands (AOL, Evernote, WeTransfer) and re-monetizing them with a shared AI-heavy engineering stack — is now a public tape and gives comps for private roll-up peers such as Constellation Software.",
+        "forWho": "IPO-flow traders and consumer-software allocators",
+        "tryIt": "https://finance.yahoo.com/quote/BSP"
+      },
+      "image": {
+        "url": "https://cryptonomist.ch/wp-content/uploads/2026/07/bending-spoons-ipo-nasdaq.jpeg",
+        "alt": "Bending Spoons opens on Nasdaq under ticker BSP on July 1 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "IPO Pricing (Yahoo/BW)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-p-announces-pricing-235600487.html"
+        },
+        {
+          "label": "Nasdaq Debut Recap",
+          "url": "https://en.cryptonomist.ch/2026/07/01/bending-spoons-ipo-nasdaq/"
+        },
+        {
+          "label": "BSP Quote",
+          "url": "https://finance.yahoo.com/quote/BSP/"
+        }
+      ],
+      "reddit": {
+        "title": "Bending Spoons (BSP) IPO debut — priced $29 above $26–28 range, closed $40.50 (+39.66%) on Nasdaq; $1.68B raised at ~$18.4B pricing valuation",
+        "body": "The Milan-based owner of AOL, Vimeo, Evernote, WeTransfer, Eventbrite, Brightcove, Harvest, Komoot, Remini and StreamYard picked one of the hotter days on the tape to hit the public market.\n\n* Priced $29 (above the $26–28 range) after book close June 30\n* 57.97M shares sold — 34.4M by the company, 23.6M by selling holders\n* Gross proceeds $1.68B; greenshoe up to 8.7M more shares\n* Opens $31 on Nasdaq, hits $43.98 intraday, closes $40.50 (+39.66% vs IPO)\n* Day volume 17.37M; pricing valuation ~$18.4B, close valuation ~$25.7B\n* Leads: Goldman Sachs Intl, J.P. Morgan, Allen & Company\n\nWhat it means for the tape:\n\n1. **The IPO window is open** — a fourth big deal in six weeks (after SpaceX, Fervo, HawkEye 360) closes materially above the print.\n2. **Consumer-software roll-up gets a public comp** — BSP's 'buy tired brands and re-monetize with a shared AI stack' playbook now has a live multiple.\n\nNext catalysts: quiet-period expiry (~40 days out), first BSP earnings in Q3, and Q3 IPO calendar restart.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bsp-bending-spoons-ipo-debut-july-1-2026](https://stock-tldr.xyz/releases/bsp-bending-spoons-ipo-debut-july-1-2026)"
+      },
+      "publishDate": "2026-07-02T02:15:28.099Z"
+    },
+    {
+      "id": "stz-q1-fy27-earnings-june-30-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Constellation Brands (STZ) Q1 FY27 — adj EPS $3.43 vs $3.19 est beats, net sales $2.43B (-3.3% Y/Y) top $2.39B est on Modelo/Pacifico beer strength; FY27 reported EPS guide lifted to $11.50–$12.20 (from $11.10–$11.80); STZ -1.59% to $136.88 on Wednesday July 1",
+      "org": "Constellation Brands",
+      "date": "2026-06-30",
+      "url": "https://ir.cbrands.com/news-events/press-releases/detail/341/constellation-brands-reports-first-quarter-fiscal-2027-financial-results",
+      "summary": "STZ prints adj EPS $3.43 vs $3.19 est and revenue $2.43B vs $2.39B est on beer segment strength; raises FY27 reported EPS guide to $11.50–$12.20, keeps comparable at $11.20–$11.90. Stock -1.59% to $136.88 as consumer softness lingers.",
+      "tickers": [
+        "STZ",
+        "BUD",
+        "TAP"
+      ],
+      "metrics": {
+        "Adj EPS": "$3.43 vs $3.19 est",
+        "Revenue": "$2.43B vs $2.39B est (-3.3% Y/Y)",
+        "Beer segment revenue": "$2.28B (+2% Y/Y)",
+        "Wine & Spirits revenue": "$149.2M (-47% Y/Y on divestitures)",
+        "Depletion volume": "-0.3%",
+        "FY27 comp EPS guide": "$11.20–$11.90 (unchanged)",
+        "FY27 reported EPS guide": "$11.50–$12.20 (raised from $11.10–$11.80)",
+        "FY27 org sales guide": "-1% to +1%",
+        "Move (July 1)": "-1.59% to $136.88"
+      },
+      "importance": "notable",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "beer",
+        "modelo",
+        "pacifico",
+        "consumer-staples"
+      ],
+      "explainer": {
+        "tagline": "Constellation beats on beer strength and lifts reported FY27 EPS, but the stock still trades lower on soft Modelo Especial + Corona depletions.",
+        "whatIsIt": "Constellation Brands (STZ) reported Q1 FY27 (three months ended May 31) after the close on Monday June 30. Beer beat on Modelo/Pacifico strength, wine and spirits was noisy on prior-year divestitures, and management held comparable FY27 EPS guidance while raising the reported EPS range.",
+        "howItWorks": "Adjusted EPS came in at $3.43 vs $3.19 consensus; net sales were $2.43B, above the $2.39B Street. Beer segment revenue rose 2% to $2.28B on price/mix and stronger shipments even as depletion volumes fell 0.3% (Modelo Especial and Corona Extra weakness partly offset by Pacifico, Victoria and Modelo Chelada gains). Wine & Spirits revenue fell 47% to $149.2M on prior-year brand divestitures. FY27 comparable EPS guide held at $11.20–$11.90; reported EPS guide moved up to $11.50–$12.20 from $11.10–$11.80. FY27 organic net sales projected -1% to +1%.",
+        "whyItMatters": "STZ is the largest US beer importer and the tape's cleanest read on Latin-heritage beer demand; a modest depletion decline on the flagship Modelo Especial brand — even with a topline beat — is why the stock closed -1.59% at $136.88 despite the print. The read-across: BUD, TAP and SAM all traded lower into the release; STZ's raised reported EPS is largely a mark-to-market on the wine/spirits divestiture accounting, not an operational upgrade.",
+        "forWho": "Consumer-staples PMs and beverage-sector analysts",
+        "tryIt": "https://finance.yahoo.com/quote/STZ"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_4b1f58f4007f8bc658736d134914cfac/cbrands/db/956/8186/social_image_resized.jpg",
+        "alt": "Constellation Brands Q1 fiscal 2027 results release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://ir.cbrands.com/news-events/press-releases/detail/341/constellation-brands-reports-first-quarter-fiscal-2027-financial-results"
+        },
+        {
+          "label": "Yahoo Q1 Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-q1-fiscal-2027-121700468.html"
+        },
+        {
+          "label": "STZ Quote",
+          "url": "https://finance.yahoo.com/quote/STZ/"
+        }
+      ],
+      "reddit": {
+        "title": "Constellation Brands (STZ) Q1 FY27 — adj EPS $3.43 vs $3.19 est, revenue $2.43B beats, FY27 reported EPS guide raised — but stock closes -1.59% at $136.88 as Modelo Especial and Corona depletions turn negative",
+        "body": "The Modelo/Corona importer beats on the top and bottom line and lifts reported guidance, but the market is more interested in what's happening with the flagship brands.\n\n* Adj EPS $3.43 vs $3.19 est (beat)\n* Net sales $2.43B vs $2.39B est (beat, -3.3% Y/Y)\n* Beer segment revenue $2.28B, +2% Y/Y\n* Wine & Spirits $149.2M, -47% on 2025 divestitures\n* Depletion volume -0.3% — Modelo Especial and Corona Extra weakness, offset by Pacifico, Victoria and Modelo Chelada\n* FY27 comp EPS guide unchanged at $11.20–$11.90\n* FY27 reported EPS guide raised to $11.50–$12.20 from $11.10–$11.80\n* STZ close July 1: $136.88, -1.59%\n\nWhy the stock still leaked:\n\n1. **Modelo Especial depletions turned negative** — the single most important beer volume line in the US, and it's finally sagging.\n2. **The guide-raise is optics** — reported EPS moved up mostly on wine/spirits divestiture accounting; comparable EPS held.\n\nRead-across: BUD, TAP and SAM traded down alongside on the release day.\n\nFull breakdown: [https://stock-tldr.xyz/releases/stz-q1-fy27-earnings-june-30-2026](https://stock-tldr.xyz/releases/stz-q1-fy27-earnings-june-30-2026)"
+      },
+      "publishDate": "2026-07-02T02:15:28.099Z"
+    },
     {
       "id": "meta-compute-cloud-business-rumor-july-1-2026",
       "categories": [
