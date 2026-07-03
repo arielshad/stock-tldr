@@ -6396,6 +6396,39 @@
         "rates",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260703t133547z",
+      "timestamp": "2026-07-03T13:35:47.547Z",
+      "source": "github-actions-sweep",
+      "summary": "July 3 2026 sweep — US markets closed for Independence Day. Added two July 2 items: (1) AAPL +4.88% to $308.74 on Nikkei Asia's foldable-iPhone-to-10M-units scoop, and (2) the Dow's fresh record close alongside a deepening chip-equipment rout that dragged Teradyne -13.6% and KLA -11.5%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "aapl-foldable-iphone-10m-nikkei-july-2-2026",
+          "title": "Apple (AAPL) +4.88% to $308.74 on Thursday July 2 — Nikkei Asia scoop says Apple has raised foldable iPhone production target to ~10M units (from 7–8M) and plans at least five new models across H2 2026 into H1 2027",
+          "category": "mover",
+          "note": "AAPL closed +4.88% ($14.36) at $308.74 — clearly ≥3% single-name move with a named catalyst (Nikkei Asia scoop + Bloomberg CXMT/YMTC)."
+        },
+        {
+          "id": "us-stocks-dow-record-chip-equipment-rout-july-2-2026",
+          "title": "Dow closes at record 52,900.07 (+1.14%) on Thursday July 2 as jobs-report miss spurs defensive rotation — but Nasdaq -0.80% as chip-equipment rout deepens (TER -13.63%, KLAC -11.5%, SNDK -15.79%, TSLA -7.49%) into Independence Day holiday",
+          "category": "mover",
+          "note": "Dow makes fresh record close on jobs-miss rotation while chip equipment craters — distinct event from the July 1 memory-specific rout item (different catalyst: Citi AI-capex note + Kospi -7.9% overnight, different names: TER/KLAC equipment vs MU/SNDK/WDC memory)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "sector"
+      ]
     }
   ]
 }
