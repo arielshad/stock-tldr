@@ -6365,6 +6365,37 @@
         "earnings",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260703t015144z",
+      "timestamp": "2026-07-03T01:51:44.688Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-07-03 (Independence Day close). Focus was July 2 half-session before Fourth of July. Adds one item: Rivian Q2 2026 delivery beat + FY26 guide raise. Skipped the Dow record close (follow-through to already-covered jobs report), Tesla stock reaction (same event as covered Tesla deliveries), Warsh Sintra day-2 comments (continuation of covered June 30 debut), and Day-2 broader semi rout (theme overlap with covered July 1 memory rout).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rivn-q2-2026-deliveries-guidance-raise-july-2-2026",
+          "title": "Rivian (RIVN) +8.44% to $18.63 on Thursday July 2 — Q2 2026 deliveries 12,194 vs 9,000–11,000 outlook, production 12,613, and full-year 2026 delivery guide raised to 65,000–70,000 (from 62,000–67,000) as R2 SUV starts shipping",
+          "category": "mover",
+          "note": "First RIVN delivery beat + FY26 guide raise since R2 SUV shipments began; distinct EV volume story with a named catalyst and clean +8% single-name move on Thursday July 2."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "analyst",
+        "commodity",
+        "rates",
+        "crypto"
+      ]
     }
   ]
 }
