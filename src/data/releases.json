@@ -1,8 +1,162 @@
 {
-  "generatedAt": "2026-07-03T13:35:47.547Z",
+  "generatedAt": "2026-07-04T01:54:52.276Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "europe-stoxx-dax-records-jobs-july-3-2026",
+      "categories": [
+        "sector",
+        "macro"
+      ],
+      "title": "European stocks hit fresh records on Friday July 3 — STOXX 600 +0.7% to 653, DAX +0.78% to 25,779.31 all-time high, CAC 40 +0.39% to 8,508.07 as soft US jobs revive dovish Fed bets with Wall Street shut for Independence Day",
+      "org": "European Stocks",
+      "date": "2026-07-03",
+      "url": "https://wtvbam.com/2026/07/03/europes-stoxx-600-set-for-best-week-in-over-a-month-as-rally-broadens-out/",
+      "summary": "STOXX 600 closed at record 653 (+0.7%) and DAX at all-time-high 25,779.31 (+0.78%, +198 pts) as cyclicals broadened Europe's rally on softer US jobs data; DAX +4.7% on the week, STOXX 600's best week since mid-May.",
+      "tickers": [],
+      "tags": [
+        "european-stocks",
+        "stoxx-600",
+        "dax",
+        "cac-40",
+        "record-high",
+        "cyclicals",
+        "us-jobs",
+        "fed",
+        "dovish-repricing",
+        "us-holiday"
+      ],
+      "importance": "major",
+      "metrics": {
+        "STOXX 600": "653 (+0.7%)",
+        "DAX": "25,779.31 (+0.78%, +198.43 pts)",
+        "CAC 40": "8,508.07 (+0.39%)",
+        "STOXX 50": "6,417 (+0.9%)",
+        "DAX weekly": "+4.7%"
+      },
+      "explainer": {
+        "tagline": "European benchmarks close at all-time highs as dovish Fed repricing carries the rally with US markets shut for Independence Day.",
+        "whatIsIt": "Europe's major stock indexes closed at fresh records on Friday July 3 while US markets stayed shut for the Independence Day holiday. The STOXX Europe 600 rose 0.7% to close at 653; Germany's DAX added 0.78% (+198.43 points) to a new all-time closing high of 25,779.31; France's CAC 40 gained 0.39% to 8,508.07; and the EURO STOXX 50 rose 0.9% to 6,417.",
+        "howItWorks": "The move followed Thursday's soft US June jobs print (nonfarm payrolls +57K vs +115K est, prior two months revised down a combined -74K) that pushed traders to push out expectations for the next US rate hike. The dollar drifted to a two-week low and gold extended gains. Sector leaders included Siemens +2.6% (Kepler Cheuvreux upgrade), Aixtron +6%, Soitec +5%, BE Semiconductor +3.6%, E.ON +4.2% and Pluxee +5.3%. L'Oréal fell 2.6% after J.P. Morgan flagged a weaker second half; Rheinmetall -2.3% on Germany's F126 frigate cancellation.",
+        "whyItMatters": "The rally broadened from tech into cyclicals — industrials, financials and defense — as investors leaned into cheaper European valuations on cooler US tightening expectations. STOXX 600 posted its best week since mid-May and DAX added +4.7% on the week, a divergence from Wall Street's chip-led wobble the same week. With the Fed's next FOMC on July 28–29, Europe becomes the marginal price-setter until US cash reopens Monday.",
+        "forWho": "European equity allocators, macro traders tracking dollar and Fed rate-cut probabilities.",
+        "tryIt": "STOXX Europe 600 index page: https://stoxx.com/index/sxxgr/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108326701-1782389382215-gettyimages-2282338756-AFP_B7XX79E.jpeg",
+        "alt": "Traders watch screens on a European trading floor on July 3 2026",
+        "fit": "cover",
+        "credit": "AFP via CNBC"
+      },
+      "links": [
+        {
+          "label": "Reuters Wrap",
+          "url": "https://wtvbam.com/2026/07/03/europes-stoxx-600-set-for-best-week-in-over-a-month-as-rally-broadens-out/"
+        },
+        {
+          "label": "STOXX 600 Page",
+          "url": "https://stoxx.com/index/sxxgr/"
+        },
+        {
+          "label": "DAX Data",
+          "url": "https://tradingeconomics.com/germany/stock-market"
+        },
+        {
+          "label": "Euro Area Wrap",
+          "url": "https://tradingeconomics.com/euro-area/stock-market"
+        },
+        {
+          "label": "STOXX 600 Quote",
+          "url": "https://www.marketscreener.com/quote/index/STOXX-EUROPE-600-EUR-7477/"
+        }
+      ],
+      "reddit": {
+        "title": "Europe hits new all-time highs on Friday — STOXX 600 +0.7% to 653, DAX +0.78% to 25,779 as soft US jobs revive dovish Fed bets (US markets shut)",
+        "body": "US shut for Independence Day, so Europe drove global equities on Friday. Fresh records across the board:\n\n* STOXX 600 +0.7% to close at record 653 — best week since mid-May\n* DAX +0.78% (+198.43 pts) to all-time closing high 25,779.31 — up 4.7% on the week\n* CAC 40 +0.39% to 8,508.07\n* EURO STOXX 50 +0.9% to 6,417\n* Dollar drifted to a two-week low, gold extended gains\n\nThree things carried the tape:\n\n1. **Soft US June jobs print** — payrolls +57K vs +115K est, prior two months revised down a combined 74K. Traders pushed the next US rate hike further out.\n2. **Rally broadened out of tech** — industrials, financials and defense led. Siemens +2.6% on a Kepler Cheuvreux upgrade; Aixtron +6%, Soitec +5%, BE Semi +3.6%; E.ON +4.2%; Pluxee +5.3%.\n3. **Small pockets of pain** — L'Oréal -2.6% after JPM cut H2 outlook; Rheinmetall -2.3% on Germany canceling the F126 frigate program.\n\nNext catalysts: US cash reopens Monday July 6; ECB minutes and June US CPI later in July; Fed meets July 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/europe-stoxx-dax-records-jobs-july-3-2026](https://stock-tldr.xyz/releases/europe-stoxx-dax-records-jobs-july-3-2026)"
+      },
+      "publishDate": "2026-07-04T01:54:52.276Z"
+    },
+    {
+      "id": "kospi-samsung-foundry-anthropic-meta-rally-july-3-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "KOSPI +5.76% to 8,088.34 on Friday July 3 — Samsung Electronics +8.74% (₩309,500) and SK Hynix +11.32% as reported Anthropic 2nm custom-chip talks and Meta MTIA $6.5B foundry order turn Samsung Foundry into an AI powerhouse",
+      "org": "Samsung Electronics",
+      "date": "2026-07-03",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "KOSPI +5.76% to 8,088.34 (+440.25 pts) rebounds from Thursday's -7.89% chip rout as Samsung +8.74% and SK Hynix +11.32% surge on reported Anthropic 2nm custom-chip talks (The Information) and reported $6.5B Meta MTIA foundry deal (Sedaily).",
+      "tickers": [
+        "META",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "tags": [
+        "kospi",
+        "samsung-electronics",
+        "sk-hynix",
+        "samsung-foundry",
+        "anthropic",
+        "meta",
+        "mtia",
+        "custom-ai-chip",
+        "2nm",
+        "the-information",
+        "sedaily",
+        "asia-close"
+      ],
+      "importance": "major",
+      "metrics": {
+        "KOSPI": "8,088.34 (+5.76%, +440.25 pts)",
+        "Samsung Electronics": "₩309,500 (+8.74%)",
+        "SK Hynix": "+11.32%",
+        "Reported Meta MTIA order": "~₩10T (~$6.5B) at Samsung 2nm",
+        "Anthropic partner target": "Samsung 2nm foundry + advanced packaging"
+      },
+      "explainer": {
+        "tagline": "KOSPI rebounds nearly 6% as two Samsung Foundry AI-chip scoops — Anthropic 2nm talks and a reported $6.5B Meta MTIA order — put Samsung back in the AI-chip conversation.",
+        "whatIsIt": "South Korea's KOSPI jumped 5.76% (+440.25 points) to close at 8,088.34 on Friday July 3, its biggest one-day gain in weeks and a sharp bounce off Thursday's -7.89% chip-led rout. Samsung Electronics closed +8.74% at ₩309,500 and SK Hynix rallied 11.32%. The catalysts were two Samsung Foundry scoops: The Information's Thursday report that Anthropic is in early-stage talks with Samsung to manufacture a custom AI chip on Samsung's 2nm process, and Seoul Economic Daily's Friday report that Meta is discussing a roughly ₩10T ($6.5B) foundry order for the next generation of its in-house MTIA AI accelerator, also on Samsung's 2nm node.",
+        "howItWorks": "Anthropic told The Information it has 'nothing further to add' beyond confirming that a diversified hardware stack — spanning AWS Trainium, Google TPUs, Nvidia and now potentially Samsung silicon — remains central to its compute plans. Anthropic's move follows OpenAI's Broadcom-designed 'Jalapeño' inference chip, which shipped last month. The reported Meta deal covers two MTIA generations (450 and 500) and would shift Meta's chip production from TSMC to Samsung; Samsung is also collaborating with Meta's System LSI division on design. Neither company has confirmed the Meta deal. Bloomberg noted foreign funds and retail were net sellers of the KOSPI as local funds bought.",
+        "whyItMatters": "Two US hyperscaler foundry scoops in 24 hours reposition Samsung Foundry as a credible AI-chip alternative to TSMC after years of yield concerns, with industry analysts arguing Samsung's foundry order book could push toward ₩50T over the medium term. It also blunts the Wednesday–Thursday chip rout narrative that had memory names down ~10% and TSLA/chip-equipment stocks off double digits. If confirmed, the Meta MTIA order would be Samsung's biggest single AI-chip production contract to date.",
+        "forWho": "Semiconductor investors, Asia-focused equity allocators, AI-supply-chain traders.",
+        "tryIt": "Samsung Electronics quote (005930.KS): https://finance.yahoo.com/quote/005930.KS"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+        "alt": "Anthropic and Samsung logos in a July 2 2026 report on custom AI-chip talks",
+        "fit": "cover",
+        "credit": "Getty Images via TechCrunch"
+      },
+      "links": [
+        {
+          "label": "TechCrunch: Anthropic-Samsung",
+          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+        },
+        {
+          "label": "Korea Herald",
+          "url": "https://www.koreaherald.com/article/10797311"
+        },
+        {
+          "label": "Yahoo: Meta $6.5B Deal",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-could-hand-samsung-biggest-165853956.html"
+        },
+        {
+          "label": "Benzinga: Meta-Samsung",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60265709/after-tesla-samsung-eyes-meta-platforms-for-6-5-billion-ai-chip-agreement-report"
+        },
+        {
+          "label": "KOSPI Data",
+          "url": "https://tradingeconomics.com/south-korea/stock-market"
+        }
+      ],
+      "reddit": {
+        "title": "KOSPI +5.76% to 8,088 on Friday — Samsung +8.74% and SK Hynix +11.32% on Anthropic 2nm chip talks and a reported $6.5B Meta MTIA foundry order",
+        "body": "South Korea's chip complex ripped higher on Friday after two Samsung Foundry scoops in 24h.\n\n* KOSPI +5.76% to 8,088.34 — +440.25 pts, biggest bounce in weeks\n* Samsung Electronics +8.74% to ₩309,500\n* SK Hynix +11.32%\n* Rebound from Thursday's -7.89% chip-led rout\n* Foreign funds and retail net sellers; local funds added\n\nTwo catalysts:\n\n1. **Anthropic ↔ Samsung custom AI chip talks** — The Information reported (July 2) that Anthropic is in early discussions with Samsung to manufacture a custom AI chip on Samsung's 2nm process. Anthropic confirmed a diversified hardware stack across AWS Trainium, Google TPUs, Nvidia — and now Samsung — remains central to its plans.\n2. **Meta ↔ Samsung MTIA $6.5B foundry order** — Seoul Economic Daily reported (July 3) that Meta is discussing a ~₩10T (~$6.5B) foundry order to make MTIA 450 and 500 on Samsung's 2nm node, shifting production off TSMC. Meta and Samsung have not confirmed.\n\nIndustry analysts argue Samsung's foundry order backlog could push toward ₩50T over the medium term if these convert. That would reposition Samsung Foundry against TSMC in the AI-chip race.\n\nNext catalysts: Formal announcements from Meta or Anthropic; Samsung Q2 earnings in late July; Nvidia's response to hyperscaler custom-silicon pressure.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kospi-samsung-foundry-anthropic-meta-rally-july-3-2026](https://stock-tldr.xyz/releases/kospi-samsung-foundry-anthropic-meta-rally-july-3-2026)"
+      },
+      "publishDate": "2026-07-04T01:54:52.276Z"
+    },
     {
       "id": "aapl-foldable-iphone-10m-nikkei-july-2-2026",
       "categories": [

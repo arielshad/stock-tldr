@@ -6429,6 +6429,45 @@
         "macro",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260704t015452z",
+      "timestamp": "2026-07-04T01:54:52.276Z",
+      "source": "github-actions-sweep",
+      "summary": "Two July 3 items while US markets sat out for Independence Day: European benchmarks (STOXX 600, DAX, CAC 40) hit fresh records on soft US jobs data reviving dovish Fed bets; and KOSPI +5.76% led by Samsung +8.74% / SK Hynix +11.32% on reported Anthropic 2nm custom-chip talks and reported $6.5B Meta MTIA foundry order to Samsung.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "europe-stoxx-dax-records-jobs-july-3-2026",
+          "title": "European stocks hit fresh records on Friday July 3 — STOXX 600 +0.7% to 653, DAX +0.78% to 25,779.31 all-time high, CAC 40 +0.39% to 8,508.07 as soft US jobs revive dovish Fed bets with Wall Street shut for Independence Day",
+          "category": "sector",
+          "note": "STOXX 600 and DAX closed at all-time highs on July 3 while US markets were shut for Independence Day; broad rally, tier-1 Reuters coverage."
+        },
+        {
+          "id": "kospi-samsung-foundry-anthropic-meta-rally-july-3-2026",
+          "title": "KOSPI +5.76% to 8,088.34 on Friday July 3 — Samsung Electronics +8.74% (₩309,500) and SK Hynix +11.32% as reported Anthropic 2nm custom-chip talks and Meta MTIA $6.5B foundry order turn Samsung Foundry into an AI powerhouse",
+          "category": "sector",
+          "note": "KOSPI +5.76% led by Samsung +8.74% and SK Hynix +11.32% on two tier-1 Samsung Foundry AI-chip scoops (The Information + Sedaily) in 24h; both deal reports unconfirmed but move is verified."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "macro",
+        "mover",
+        "rumor",
+        "earnings",
+        "mna",
+        "crypto",
+        "commodity",
+        "fx",
+        "rates"
+      ]
     }
   ]
 }
