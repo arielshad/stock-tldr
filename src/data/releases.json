@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-07-04T01:54:52.276Z",
+  "generatedAt": "2026-07-04T13:06:29.455Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "googl-eu-android-4-1b-fine-final-july-2-2026",
+      "categories": [
+        "regulatory"
+      ],
+      "title": "Court of Justice of the EU makes Google's €4.125B Android antitrust fine final on Thursday July 2 — dismisses C-738/22 P Alphabet appeal in full, unlocking follow-on damages claims across the 13 EEA nations covered by the 2018 decision as GOOG closes -0.48% at $356.18",
+      "org": "Court of Justice of the European Union",
+      "date": "2026-07-02",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf",
+      "summary": "ECJ dismisses Google/Alphabet's final appeal in Case C-738/22 P, locking in the €4.125B ($4.67B) Android fine. GOOG closes -0.48% at $356.18; the ruling unlocks follow-on damages claims under the EU directive.",
+      "tags": [
+        "eu-antitrust",
+        "cjeu",
+        "google-android",
+        "alphabet",
+        "case-c-738-22",
+        "article-102-tfeu",
+        "damages-directive",
+        "big-tech-regulation",
+        "digital-markets-act"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "metrics": {
+        "Fine": "€4.125B (~$4.67B)",
+        "Case": "C-738/22 P",
+        "Court press release": "No. 93/26",
+        "GOOG close": "$356.18 (-0.48%)",
+        "EEA nations covered": "13",
+        "Original 2018 fine": "€4.343B"
+      },
+      "explainer": {
+        "tagline": "EU's top court dismisses Google and Alphabet's final appeal — €4.125B Android fine is now legally binding with no further review available.",
+        "whatIsIt": "The Court of Justice of the European Union on Thursday July 2 published Case C-738/22 P and press release No. 93/26 dismissing in full the appeal brought by Google LLC and Alphabet Inc. against the September 2022 General Court judgment, which itself had trimmed the original 2018 €4.343B Commission fine to €4.125B. The €4.125B (approx. $4.67B) penalty for abusing dominance under Article 102 TFEU in Google Search's Android ecosystem is now final.",
+        "howItWorks": "The Second Chamber held that neither the as-efficient-competitor test nor a counterfactual analysis is a mandatory element of the Commission's evidentiary burden in ecosystem markets and sustained the single-and-continuous-infringement classification. The 2018 decision faulted Google for the pre-installation agreements requiring OEMs to bundle Search plus Chrome and the anti-fragmentation deals that blocked Android forks. Google spokesperson said the judgment 'fails to recognise our significant investment to ensure Android remains open, interoperable and free.' Alphabet's Class A shares (GOOG) closed the session at $356.18, down 0.48% on the day, after a roughly 1% dip in the premarket.",
+        "whyItMatters": "The finality activates the EU Antitrust Damages Directive: rivals with provable losses from Google's 2011–2018 Android conduct can now file follow-on damages claims in national courts across the 13 EEA jurisdictions the Commission covered, using the CJEU judgment as binding proof of the infringement. Coming on top of the €2.42B Shopping ruling (upheld 2024) and the €2.95B ad-tech fine (still under appeal), the ruling caps Google's cumulative EU antitrust exposure near €11B and, in the Court's own reasoning, hardens the antitrust template that has since been recast as ex-ante rules in the Digital Markets Act.",
+        "forWho": "big-tech regulatory desks, EU competition lawyers, mega-cap tech investors",
+        "tryIt": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf"
+      },
+      "image": {
+        "url": "https://images.euronews.com/articles/stories/09/82/22/00/1200x675_cmsv2_cb3a1087-9730-57b7-a61c-b07c23831fe7-9822200.jpg",
+        "alt": "Google logo and EU flag as the Court of Justice of the European Union upholds a 4.125 billion euro Android antitrust fine",
+        "fit": "cover",
+        "credit": "Euronews"
+      },
+      "links": [
+        {
+          "label": "CJEU Press Release",
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf"
+        },
+        {
+          "label": "Euronews Coverage",
+          "url": "https://www.euronews.com/my-europe/2026/07/02/eu-court-of-justice-rejects-googles-appeal-against-record-41-billion-fine"
+        },
+        {
+          "label": "Digital Watch Brief",
+          "url": "https://dig.watch/updates/cjeu-upholds-fine-against-google-in-android-case"
+        },
+        {
+          "label": "Reuters Wire Recap",
+          "url": "https://www.globalbankingandfinance.com/eu-top-court-dismisses-google-fight-against-record-4-1/"
+        },
+        {
+          "label": "GOOG Chart",
+          "url": "https://finance.yahoo.com/quote/GOOG"
+        }
+      ],
+      "reddit": {
+        "title": "Google's €4.125B EU Android antitrust fine is now FINAL — CJEU dismisses last appeal (C-738/22 P), unlocks follow-on damages across 13 EEA countries; GOOG closes -0.48% at $356.18",
+        "body": "The Court of Justice of the European Union dropped its final word on the 8-year Android antitrust saga Thursday July 2 — press release No. 93/26 dismisses Alphabet's appeal in full.\n\n* Fine amount: €4.125B (~$4.67B) — down from the €4.343B the Commission set in 2018, kept at the €4.125B the General Court settled on in 2022\n* Case: C-738/22 P, Second Chamber, judgment 2 July 2026\n* GOOG close: $356.18, -0.48% on the day (~1% dip in the premarket)\n* No further appeal available — this is binding EU law\n* Follow-on damages claims can now be filed in national courts across the 13 EEA nations covered by the original decision\n\nWhat the Court actually held:\n\n1. **AEC test is not mandatory in ecosystem markets** — the Commission does not have to run an \"as-efficient competitor\" or counterfactual analysis when network effects, data advantages, and Play Store gating make a truly-as-efficient rival practically impossible.\n2. **Single-and-continuous infringement stands** — the pre-installation deals bundling Search + Chrome and the anti-fragmentation deals blocking Android forks are treated as one violation running 2011–2018.\n3. **Alphabet's cumulative EU antitrust bill is now ~€11B** — €4.125B (Android, final) + €2.42B (Shopping, upheld 2024) + €2.95B (ad-tech, still under appeal).\n\nGoogle response: judgment \"fails to recognise our significant investment to ensure Android remains open, interoperable and free.\" The reasoning also formally underwrites the Digital Markets Act's ex-ante gatekeeper rules.\n\nNext catalysts: DOJ Search remedies opinion (summer 2026) and the still-live €2.95B ad-tech appeal at the General Court.\n\nFull breakdown: [https://stock-tldr.xyz/releases/googl-eu-android-4-1b-fine-final-july-2-2026](https://stock-tldr.xyz/releases/googl-eu-android-4-1b-fine-final-july-2-2026)"
+      },
+      "publishDate": "2026-07-04T13:06:29.455Z"
+    },
     {
       "id": "europe-stoxx-dax-records-jobs-july-3-2026",
       "categories": [

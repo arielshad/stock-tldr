@@ -6468,6 +6468,36 @@
         "fx",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260704t130629z",
+      "timestamp": "2026-07-04T13:06:29.455Z",
+      "source": "github-actions-sweep",
+      "summary": "One add. Semi-quiet US holiday sweep — markets closed for Independence Day. The July 2 EU Court of Justice ruling that finalised Google/Alphabet's €4.125B Android fine (case C-738/22 P) was uncovered by prior sweeps and passes the tier-1-outlet bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "googl-eu-android-4-1b-fine-final-july-2-2026",
+          "title": "Court of Justice of the EU makes Google's €4.125B Android antitrust fine final on Thursday July 2 — dismisses C-738/22 P Alphabet appeal in full, unlocking follow-on damages claims across the 13 EEA nations covered by the 2018 decision as GOOG closes -0.48% at $356.18",
+          "category": "regulatory",
+          "note": "ECJ made the €4.125B Android fine final on July 2 — primary source (CJEU press release 93/26) confirmed, tier-1 outlets (Euronews, CNBC, Reuters wire) covered, and no existing feed item touches EU antitrust vs Google."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "regulatory",
+        "earnings",
+        "macro",
+        "mover",
+        "commodity",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
