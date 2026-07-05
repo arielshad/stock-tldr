@@ -6498,6 +6498,37 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260705t015633z",
+      "timestamp": "2026-07-05T01:56:33.639Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: BTC spot ETFs snap a 10-day $2.73B outflow streak with a $221.7M inflow on Thursday July 3 as BTC bounces from 21-month lows near $58K to ~$62.8K. US markets shut Friday July 3 for Independence Day; weekend July 4–5 yielded no fresh market-moving news that wasn't already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "btc-spot-etf-inflows-streak-end-july-3-2026",
+          "title": "US spot Bitcoin ETFs pull in $221.7M on Thursday July 3 — largest daily intake in two months snaps a 10-day $2.73B outflow streak as Fidelity's FBTC leads with +$166M while BlackRock's IBIT still bleeds -$40M with BTC at ~$62.8K",
+          "category": "crypto",
+          "note": "First positive-flow day for US spot BTC ETFs after 10 straight outflow sessions worth ~$2.73B — clear crypto-flow inflection distinct from the June 26 sell-off item."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "rates",
+        "commodity",
+        "fx"
+      ]
     }
   ]
 }
