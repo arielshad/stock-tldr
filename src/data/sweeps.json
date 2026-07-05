@@ -6529,6 +6529,31 @@
         "commodity",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260705t130937z",
+      "timestamp": "2026-07-05T13:09:37.756Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: OPEC+ July 5 virtual meeting agrees a fifth straight 188K bpd quota hike for August, extending the phased unwind of 2023 voluntary cuts as Hormuz exports recover. US markets shut for Independence Day observance; nothing else material cleared the 72h and inclusion bar over the July 4–5 weekend.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "opec-plus-august-188kbpd-hike-july-5-2026",
+          "title": "OPEC+ agrees fifth straight 188,000 bpd August quota hike at Sunday July 5 virtual meeting — Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman push cumulative April–July additions to ~800K bpd on paper as Hormuz exports recover from war-time collapse",
+          "category": "commodity",
+          "note": "Sunday July 5 virtual meeting of OPEC+ core seven agrees another 188K bpd quota lift for August — primary-source policy decision with Reuters and AFP wire coverage; ties into the ongoing Hormuz recovery narrative already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro"
+      ]
     }
   ]
 }

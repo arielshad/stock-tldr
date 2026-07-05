@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-07-05T01:56:33.639Z",
+  "generatedAt": "2026-07-05T13:09:37.756Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "opec-plus-august-188kbpd-hike-july-5-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "title": "OPEC+ agrees fifth straight 188,000 bpd August quota hike at Sunday July 5 virtual meeting — Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman push cumulative April–July additions to ~800K bpd on paper as Hormuz exports recover from war-time collapse",
+      "org": "OPEC+",
+      "date": "2026-07-05",
+      "url": "https://finance.yahoo.com/news/opec-set-approve-another-oil-092944139.html",
+      "summary": "OPEC+ ratifies a fifth consecutive 188,000 bpd quota lift for August at Sunday's virtual meeting. Seven core members have now added ~800K bpd on paper April–July as Hormuz exports recover, Brent hovers ~$72.",
+      "tags": [
+        "opec-plus",
+        "oil",
+        "crude",
+        "brent",
+        "wti",
+        "quota",
+        "hormuz",
+        "august-2026",
+        "supply",
+        "saudi-arabia",
+        "russia",
+        "iraq"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "August quota hike": "+188,000 bpd",
+        "Cumulative April–July quota adds": "~800,000 bpd",
+        "OPEC+ core output collapse (Feb→May 2026)": "42.77M → 33.13M bpd",
+        "Brent (Fri Jul 3 close)": "~$72/bbl"
+      },
+      "explainer": {
+        "tagline": "OPEC+ ratifies fifth straight monthly quota hike as Hormuz shipments start to recover.",
+        "whatIsIt": "The seven core OPEC+ producers under monthly quota management — Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman — held a virtual meeting on Sunday July 5, 2026 and agreed to lift collective output targets by another 188,000 barrels per day starting in August. The move extends a run of monthly hikes begun in April 2026.",
+        "howItWorks": "The August tranche matches the size of June and July's increases. Cumulatively, quotas have been lifted by roughly 800,000 bpd from April through July, and about 1.0M bpd once August is included. The additions are part of the phased unwind of a 1.65M bpd voluntary supply cut agreed in 2023. Reuters notes the group had considered a bigger 411,000 bpd August lift before settling on the smaller step. Actual physical output through the Iran-war Hormuz closure fell from 42.77M bpd in February to 33.13M bpd in May 2026, so paper quotas have run well ahead of barrels shipped.",
+        "whyItMatters": "Brent traded near $72 per barrel on Friday July 3 versus war-time peaks above $120, and the group is signaling that Middle East supply capacity is coming back on line as tanker traffic through the Strait of Hormuz normalizes. The measured 188K increment leaves the cartel room to slow the pace if Iranian exports remain patchy or if Iraq's push for a higher quota gains traction ahead of the 2027 capacity review.",
+        "forWho": "energy desks and macro traders",
+        "tryIt": "WTI futures chart: finance.yahoo.com/quote/CL=F"
+      },
+      "image": {
+        "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/05/2026-07-05T092944Z_2_LYNXMPEM6404B_RTROPTP_3_OPEC-IRAQ.JPG",
+        "alt": "Reuters photo illustration of oil pumpjack against Iraqi flag accompanying coverage of the July 5, 2026 OPEC+ virtual meeting",
+        "fit": "cover",
+        "credit": "Reuters"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/news/opec-set-approve-another-oil-092944139.html"
+        },
+        {
+          "label": "Reuters via WSAU",
+          "url": "https://wsau.com/2026/07/05/opec-set-to-approve-another-oil-output-increase-sources-say/"
+        },
+        {
+          "label": "AFP via Manila Times",
+          "url": "https://www.manilatimes.net/2026/07/05/business/foreign-business/opec-tipped-to-raise-quotas-again-as-middle-east-calms/2378558"
+        },
+        {
+          "label": "WTI Futures Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        },
+        {
+          "label": "Brent Futures Chart",
+          "url": "https://finance.yahoo.com/quote/BZ=F"
+        }
+      ],
+      "reddit": {
+        "title": "OPEC+ approves another 188,000 bpd quota hike for August — fifth straight monthly increase as Hormuz exports come back on line, Brent ~$72",
+        "body": "Seven OPEC+ core members (Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman) held a virtual meeting Sunday July 5 and agreed to another quota lift for August.\n\n* +188,000 bpd for August — same size as June and July's hikes\n* Cumulative April–July quota adds now ~800,000 bpd on paper\n* Group had reportedly considered a bigger 411,000 bpd bump before settling\n* Core OPEC+ physical output collapsed from 42.77M bpd in Feb 2026 to 33.13M bpd in May during the U.S.–Israel–Iran war and Strait of Hormuz closure\n* Brent closed Friday July 3 near $72 vs war-time peaks above $120\n\nTwo things to note:\n\n1. **Quotas ran ahead of actual barrels** — Hormuz closure meant Saudi Arabia, Kuwait and Iraq couldn't hit the paper targets. The phased unwind of the 2023 1.65M bpd voluntary cut is more an intent-signal than a real supply add for now.\n2. **Iraq wants more** — Iraq is pushing for a higher quota to recover conflict losses. Analysts expect that fight to move to the 2027 capacity review, not this monthly cycle.\n\nUAE has already exited the group; monthly-adjustment cohort is down to seven.\n\nFull breakdown: [https://stock-tldr.xyz/releases/opec-plus-august-188kbpd-hike-july-5-2026](https://stock-tldr.xyz/releases/opec-plus-august-188kbpd-hike-july-5-2026)"
+      },
+      "publishDate": "2026-07-05T13:09:37.756Z"
+    },
     {
       "id": "btc-spot-etf-inflows-streak-end-july-3-2026",
       "categories": [
