@@ -1,8 +1,234 @@
 {
-  "generatedAt": "2026-07-06T01:59:09.111Z",
+  "generatedAt": "2026-07-06T15:02:15.908Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "avgo-aapl-partnership-extend-2031-july-6-2026",
+      "categories": [
+        "mover"
+      ],
+      "tickers": [
+        "AVGO",
+        "AAPL"
+      ],
+      "title": "Broadcom (AVGO) +~4.3% on Monday July 6 — Broadcom and Apple extend their custom-silicon and wireless-connectivity partnership through 2031, adding a new custom ASIC to a supply relationship that already books ~20% of AVGO's annual revenue",
+      "org": "Broadcom",
+      "date": "2026-07-06",
+      "url": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html",
+      "summary": "Broadcom (AVGO) +~4.3% on July 6 — Apple partnership extended through 2031 covers a new custom ASIC and continued Wi-Fi, Bluetooth, RF and networking chips, locking in Broadcom's largest customer (~20% of revenue) through the end of the decade.",
+      "tags": [
+        "avgo",
+        "aapl",
+        "broadcom",
+        "apple",
+        "supplier-agreement",
+        "custom-asic",
+        "wireless-connectivity",
+        "rf",
+        "wi-fi",
+        "bluetooth",
+        "semis",
+        "ai-capex"
+      ],
+      "importance": "major",
+      "metrics": {
+        "AVGO move (Mon Jul 6)": "+~4.3%",
+        "Deal duration": "through 2031",
+        "Apple share of AVGO revenue": "~20%",
+        "Chip types covered": "custom ASIC + Wi-Fi + Bluetooth + RF + networking"
+      },
+      "explainer": {
+        "tagline": "Apple and Broadcom lock in five more years of custom chips and wireless connectivity, extending an ~$8B/yr revenue stream to 2031.",
+        "whatIsIt": "Broadcom announced on Monday July 6, 2026 that it has extended its multi-year custom-silicon and wireless partnership with Apple through 2031. The new agreement adds a new custom ASIC to the roadmap and renews Apple's use of Broadcom's Wi-Fi, Bluetooth, radio-frequency and networking semiconductors across multiple generations of Apple products. Terms were not disclosed.",
+        "howItWorks": "The extension builds on the 2023 multi-billion-dollar RF agreement that runs through 2028 and stacks a new ASIC engagement — signaling Apple is not fully replacing the wireless block with in-house silicon this cycle. Apple represents roughly 20% of Broadcom's ~$52B FY24 semiconductor revenue base. Broadcom shares opened up more than 5%, ran to ~$381 intraday, and settled +~4.3% at ~$376 on the day.",
+        "whyItMatters": "Wall Street had been sizing a bear case where Apple's in-house C1/C1X modem work eventually spills over into Wi-Fi/BT/RF and phases Broadcom out. The 2031 extension pushes that risk out several years and, per analyst Daniel Newman, gives AVGO 'a five-year annuity from the world's most demanding customer, stacked on top of the hyperscaler XPU ramp'. AVGO's rally dragged the SOX and pulled the Nasdaq +1.11% on July 6.",
+        "forWho": "semiconductor investors and Apple supply-chain traders",
+        "tryIt": "AVGO chart: finance.yahoo.com/quote/AVGO"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/7EE5350BE4F1FB298490B3606AB23BC38079902BBB84408415E70D789C26FF1E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F6c91654bad75d3c0aad6a9838ca8608a",
+        "alt": "Broadcom logo photographed above the Apple logo, illustrating the July 6, 2026 partnership extension",
+        "fit": "cover",
+        "credit": "Reuters"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html"
+        },
+        {
+          "label": "Investors Hub via Yahoo",
+          "url": "https://finance.yahoo.com/technology/articles/broadcom-shares-rise-extending-apple-132123441.html"
+        },
+        {
+          "label": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/06/apple-and-broadcom-extend-deal/"
+        },
+        {
+          "label": "24/7 Wall St",
+          "url": "https://247wallst.com/investing/2026/07/06/broadcom-rallies-6-on-a-broadened-apple-partnership-as-amd-gains-8-intel-rises-4/"
+        },
+        {
+          "label": "AVGO Chart",
+          "url": "https://finance.yahoo.com/quote/AVGO"
+        }
+      ],
+      "reddit": {
+        "title": "Broadcom (AVGO) +~4.3% Monday — Apple partnership extended to 2031 with new custom ASIC and RF/Wi-Fi/Bluetooth continuing; ~20% of AVGO revenue locked in",
+        "body": "Broadcom announced Monday July 6 that it has extended its Apple supplier relationship through 2031. Key facts:\n\n* Adds a new custom ASIC to the roadmap on top of the 2023 multi-billion RF deal that runs to 2028\n* Continues Wi-Fi, Bluetooth, RF and networking silicon supply across multiple generations of Apple products\n* Apple represents ~20% of Broadcom's annual revenue\n* AVGO opened +5%+, hit ~$381 intraday, settled +~4.3% at ~$376\n* Financial terms not disclosed\n\nWhy the move:\n\n1. **Kills the Apple-in-house bear case for AVGO** — Street had been pricing Apple's C1/C1X modem work eventually spreading to Wi-Fi/BT/RF and phasing Broadcom out. The 2031 lock-in pushes that risk out several years.\n2. **Analyst Daniel Newman**: 'A five-year annuity from the world's most demanding customer, stacked on top of the hyperscaler XPU ramp.'\n3. **AI trade tailwind** — Broadcom's rally helped drag the Nasdaq +1.11% on the day.\n\nNext catalysts: Apple's next-gen product launches with the new ASIC; Broadcom Q3 FY26 print in early September.\n\nFull breakdown: [https://stock-tldr.xyz/releases/avgo-aapl-partnership-extend-2031-july-6-2026](https://stock-tldr.xyz/releases/avgo-aapl-partnership-extend-2031-july-6-2026)"
+      },
+      "publishDate": "2026-07-06T15:02:15.908Z"
+    },
+    {
+      "id": "skhy-us-ipo-launch-july-6-2026",
+      "categories": [
+        "ipo"
+      ],
+      "tickers": [],
+      "title": "SK Hynix launches U.S. IPO of American Depositary Shares on Monday July 6, 2026 — 177.9M ADS priced against a ₩2,425,000 Seoul reference (~$158 per ADS) points to a ~$28B raise as Baillie Gifford, Coatue and Situational Awareness Partners commit up to $7B combined; Nasdaq ticker SKHY, trading expected week of July 10",
+      "org": "SK Hynix",
+      "date": "2026-07-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002120882/000119312526280172/d32785df1.htm",
+      "summary": "SK Hynix formally launches its US IPO on Monday July 6 — 177.9M ADS at a ~$158 Seoul-reference implies ~$28B raised; Nasdaq ticker SKHY, cornerstone commitments up to $7B from Baillie Gifford, Coatue, Situational Awareness Partners.",
+      "tags": [
+        "ipo",
+        "sk-hynix",
+        "skhy",
+        "nasdaq",
+        "adr",
+        "korea",
+        "memory",
+        "hbm",
+        "ai-capex",
+        "cornerstone",
+        "baillie-gifford",
+        "coatue"
+      ],
+      "importance": "major",
+      "metrics": {
+        "ADS offered": "177,900,000",
+        "Implied raise (at ~$158 ref)": "~$28B",
+        "Seoul common share ref (Jul 3 close)": "₩2,425,000",
+        "ADS ratio": "1 ADS = 0.1 common share",
+        "Cornerstone commitments (max)": "$7B",
+        "Cornerstones": "Baillie Gifford, Coatue Management, Situational Awareness Partners",
+        "Ticker": "SKHY (Nasdaq Global Select)",
+        "Expected trading start": "week of Jul 10, 2026"
+      },
+      "explainer": {
+        "tagline": "SK Hynix takes its Nasdaq ADR offering live — 177.9M ADS in what would be one of the largest foreign-issuer US debuts on record.",
+        "whatIsIt": "SK Hynix, the world's second-largest memory chipmaker and Nvidia's dominant HBM supplier, filed its Form F-1 amendment with the SEC on Monday July 6, 2026 and formally launched the marketing process for a U.S. IPO of 177,900,000 American Depositary Shares. Each ADS represents 0.1 of an SK Hynix common share; the company will list on the Nasdaq Global Select Market under 'SKHY' and remain listed in Seoul (KOSPI: 000660) as its primary market.",
+        "howItWorks": "The final ADS price will be set later this week in negotiation with underwriters, benchmarked to the last KRX close of ₩2,425,000 on Friday July 3 and prevailing FX (₩1,533.44 per USD), which implies a per-ADS reference near $158 and a headline raise of ~$28B. Three cornerstone investors — Baillie Gifford Overseas Limited, Coatue Management LLC and Situational Awareness Partners LP — have indicated non-binding demand for up to $7 billion of ADS at the IPO price. Proceeds are earmarked for the Yongin Cluster fab build in Korea, the ₩11.9T (~$7.6B) EUV scanner order due by December 2027, and the $4B Indiana packaging plant.",
+        "whyItMatters": "SK Hynix already trades in Seoul, so this is a listing/liquidity event — not a capital-raise from scratch — but it opens the Nasdaq/S&P index bid to a company that supplies ~60% of the global HBM market and just overtook Samsung Electronics as Korea's most valuable company on June 22. If pricing holds at reference, SKHY would rank as one of the biggest-ever foreign-issuer US IPOs, joining SpaceX's June 12 record as another mega-cap Nasdaq debut this quarter and reinforcing the HBM/AI-capex bid that whipsawed the tape into early July.",
+        "forWho": "IPO and semis desks",
+        "tryIt": "SEC F-1: sec.gov/Archives/edgar/data/0002120882/000119312526280172/d32785df1.htm"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108312292-1779856306117-gettyimages-2242156311-AFP_79L24ZR.jpeg?v=1779856317&w=1920&h=1080",
+        "alt": "SK Hynix logo signage in Seoul illustrating the July 6, 2026 launch of the company's Nasdaq ADR offering",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "SEC EDGAR F-1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002120882/000119312526280172/d32785df1.htm"
+        },
+        {
+          "label": "Fortune",
+          "url": "https://fortune.com/2026/07/05/sk-hynix-us-stock-listing-nasdaq-29-billion-micron-ai-boom-chips/"
+        },
+        {
+          "label": "CNBC (Jun 24 preview)",
+          "url": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html"
+        },
+        {
+          "label": "Fortune (Jul 5 analysis)",
+          "url": "https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/"
+        }
+      ],
+      "reddit": {
+        "title": "SK Hynix launches Nasdaq ADR IPO Monday July 6 — 177.9M ADS, ~$28B raise, ticker SKHY, cornerstone demand up to $7B from Baillie Gifford, Coatue, SAP",
+        "body": "SK Hynix filed its amended F-1 Monday July 6 and formally kicked off marketing for a US IPO of American Depositary Shares. Key terms:\n\n* 177,900,000 ADS offered\n* Each ADS = 0.1 SK Hynix common share (Seoul: KOSPI 000660)\n* Seoul reference close Friday July 3: ₩2,425,000 → ~$158 per ADS, ~$28B implied raise\n* Nasdaq Global Select ticker: **SKHY**\n* Cornerstone commitments up to **$7B combined** from Baillie Gifford, Coatue Management and Situational Awareness Partners (non-binding)\n* Trading expected the week of July 10\n\nWhy it matters:\n\n1. **HBM monopoly meets index bid** — SK Hynix supplies ~60% of the global HBM market and just overtook Samsung Electronics as Korea's most valuable company on June 22. A Nasdaq listing unlocks passive/active US demand it did not previously reach.\n2. **Foreign-issuer size** — At $28B this would rank as one of the largest foreign-issuer US IPOs ever, second in this Q2 2026 mega-IPO cycle only to SpaceX's $75B June 12 debut.\n3. **Use of proceeds** — Yongin Cluster fab in Korea, ₩11.9T EUV scanner order due by December 2027, and the $4B Indiana packaging plant.\n\nNext catalysts: pricing later this week, first-day trading week of July 10, then Samsung Electronics earnings Tuesday July 7.\n\nFull breakdown: [https://stock-tldr.xyz/releases/skhy-us-ipo-launch-july-6-2026](https://stock-tldr.xyz/releases/skhy-us-ipo-launch-july-6-2026)"
+      },
+      "publishDate": "2026-07-06T15:02:15.908Z"
+    },
+    {
+      "id": "hon-hai-q2-2026-revenue-july-5-2026",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "NVDA",
+        "AAPL"
+      ],
+      "title": "Hon Hai (Foxconn / 2317.TW) Q2 2026 revenue NT$2.513 trillion / $78.7B — +39.8% Y/Y trounces NT$2.372T Reuters/LSEG estimate on AI-server demand, guides Q3 growth as June rack shipments stay strong",
+      "org": "Hon Hai",
+      "date": "2026-07-05",
+      "url": "https://fortune.com/2026/07/05/nvidia-supplier-hon-hai-foxconn-sales-earnings-report-ai-demand/",
+      "summary": "Hon Hai (2317.TW) posts Q2 2026 revenue NT$2.513T / $78.7B on Sunday July 5 — +39.8% Y/Y trounces NT$2.372T Reuters/LSEG estimate on Nvidia AI-server demand; Q3 outlook calls for continued rack momentum and stronger consumer-electronics season.",
+      "tags": [
+        "hon-hai",
+        "foxconn",
+        "2317-tw",
+        "q2-2026",
+        "revenue-beat",
+        "ai-server",
+        "nvidia-supplier",
+        "hyperscaler",
+        "taiwan",
+        "apple-supplier",
+        "iphone",
+        "cloud"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q2 2026 revenue (NT$)": "NT$2.513T",
+        "Q2 2026 revenue (USD)": "$78.71B",
+        "Y/Y growth": "+39.8%",
+        "Reuters/LSEG consensus": "NT$2.372T",
+        "Beat vs consensus": "+~5.9%",
+        "2317.TW (Fri Jul 3 close)": "+0.63%"
+      },
+      "explainer": {
+        "tagline": "Nvidia's biggest server assembler prints a monster Q2 top-line — the cleanest read yet that hyperscaler AI-capex is still accelerating.",
+        "whatIsIt": "Hon Hai Precision Industry Co. (2317.TW, brand name Foxconn) released its April–June 2026 revenue on Sunday July 5, 2026. Q2 revenue came in at NT$2.513 trillion ($78.71 billion), up 39.8% year-on-year and well ahead of the NT$2.372T Reuters/LSEG analyst consensus.",
+        "howItWorks": "Hon Hai is Nvidia's largest server-assembly partner and Apple's top iPhone contract manufacturer. Management attributed the beat to sustained AI-server rack orders from hyperscalers plus surprising cloud/networking strength; consumer electronics was flagged as 'strong' too. The company guided Q2 growth to extend into Q3 with AI-rack momentum continuing and the seasonal ICT ramp kicking in, while cautioning that 'volatile' geopolitics — specifically Strait-of-Hormuz supply-chain risk — could still bite.",
+        "whyItMatters": "Hon Hai's monthly and quarterly revenue prints are the cleanest public read on GB200 / GB300 shipment cadence at Nvidia, since the two companies operate as a single AI-hardware supply chain. A ~$79B quarter and a hotter Q3 guide is a direct bullish datapoint for NVDA and the whole AI-capex complex heading into Samsung Electronics' Tuesday July 7 earnings and Micron's Q3 FY26 datapoints. AI-server strength also offsets the traditional iPhone-cycle drag.",
+        "forWho": "AI-hardware, semis and Apple supply-chain desks",
+        "tryIt": "Nvidia chart: finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2270903806-e1783274413282.jpg?resize=1200,600",
+        "alt": "Foxconn Hon Hai facility signage on July 5, 2026, marking the company's Q2 revenue announcement",
+        "fit": "cover",
+        "credit": "Getty Images via Fortune"
+      },
+      "links": [
+        {
+          "label": "Fortune",
+          "url": "https://fortune.com/2026/07/05/nvidia-supplier-hon-hai-foxconn-sales-earnings-report-ai-demand/"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand-074723309.html"
+        },
+        {
+          "label": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60269612/key-nvidia-supplier-foxconn-posts-40-q2-revenue-jump-on-ai-server-demand"
+        },
+        {
+          "label": "NVDA Chart",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia's biggest server assembler Foxconn (2317.TW) reports Q2 revenue NT$2.513T ($78.7B) +39.8% Y/Y, trounces NT$2.372T estimate on AI-server demand",
+        "body": "Hon Hai Precision (Foxconn) posted its April–June 2026 revenue in a Sunday July 5 statement. Big AI-capex read-through:\n\n* Q2 revenue **NT$2.513 trillion / $78.71B** — +39.8% Y/Y\n* Beats Reuters/LSEG consensus of NT$2.372T by ~5.9%\n* Hon Hai is Nvidia's largest server-assembly partner AND Apple's top iPhone contract manufacturer\n* Cloud + networking flagged as key drivers on hyperscaler AI-rack orders\n* Q3 outlook: AI rack momentum continues, consumer electronics enters seasonal ramp\n* 2317.TW: +0.63% at Friday July 3 close\n\nWhy it matters:\n\n1. **Cleanest public read on GB200/GB300 shipments** — Hon Hai's quarterly cadence is effectively an Nvidia AI-server pass-through indicator, since the two operate as a single hardware supply chain.\n2. **Sets up Samsung Electronics** — Samsung reports Tuesday July 7 with consensus modeling ~18× profit growth Y/Y; a similarly strong AI print could reignite the memory / HBM trade.\n3. **Consumer offset** — iPhone-cycle drag is being masked by AI-server strength; that's a structural rotation, not a one-quarter beat.\n\nManagement flagged 'volatile' geopolitics — specifically Strait-of-Hormuz supply-chain risk — as a lingering hazard for H2.\n\nNext catalysts: Samsung Electronics earnings Tuesday July 7; Micron F4Q26 next.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hon-hai-q2-2026-revenue-july-5-2026](https://stock-tldr.xyz/releases/hon-hai-q2-2026-revenue-july-5-2026)"
+      },
+      "publishDate": "2026-07-06T15:02:15.908Z"
+    },
     {
       "id": "opec-plus-august-188kbpd-hike-july-5-2026",
       "categories": [

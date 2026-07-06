@@ -6576,6 +6576,49 @@
         "earnings",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260706t150215z",
+      "timestamp": "2026-07-06T15:02:15.908Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh adds for the July 6, 2026 sweep: Broadcom-Apple partnership extension through 2031 (AVGO +~4.3% on the day), SK Hynix's formal launch of its $28B Nasdaq ADR offering (ticker SKHY, cornerstones up to $7B), and Foxconn/Hon Hai's Q2 2026 revenue print (+39.8% Y/Y, beats NT$2.372T est on AI-server demand). All three items reinforce the AI-capex read-through that lifted Nasdaq +1.11% on Monday.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "avgo-aapl-partnership-extend-2031-july-6-2026",
+          "title": "Broadcom (AVGO) +~4.3% on Monday July 6 — Broadcom and Apple extend their custom-silicon and wireless-connectivity partnership through 2031, adding a new custom ASIC to a supply relationship that already books ~20% of AVGO's annual revenue",
+          "category": "mover",
+          "note": "Broadcom announced Monday July 6 extension of the Apple supplier relationship through 2031 with a new custom ASIC; AVGO +~4.3% and locks in ~20% of AVGO revenue."
+        },
+        {
+          "id": "skhy-us-ipo-launch-july-6-2026",
+          "title": "SK Hynix launches U.S. IPO of American Depositary Shares on Monday July 6, 2026 — 177.9M ADS priced against a ₩2,425,000 Seoul reference (~$158 per ADS) points to a ~$28B raise as Baillie Gifford, Coatue and Situational Awareness Partners commit up to $7B combined; Nasdaq ticker SKHY, trading expected week of July 10",
+          "category": "ipo",
+          "note": "SK Hynix formally launched its Nasdaq ADR IPO on July 6 — 177.9M ADS at ~$158 Seoul reference implies ~$28B raise; cornerstone demand up to $7B; SKHY expected to trade the week of July 10."
+        },
+        {
+          "id": "hon-hai-q2-2026-revenue-july-5-2026",
+          "title": "Hon Hai (Foxconn / 2317.TW) Q2 2026 revenue NT$2.513 trillion / $78.7B — +39.8% Y/Y trounces NT$2.372T Reuters/LSEG estimate on AI-server demand, guides Q3 growth as June rack shipments stay strong",
+          "category": "earnings",
+          "note": "Nvidia's biggest server-assembly partner Hon Hai posted Sunday July 5: Q2 2026 revenue NT$2.513T (+39.8% Y/Y), beats NT$2.372T Reuters/LSEG consensus by ~5.9% on AI-server demand."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "ipo",
+        "macro",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "mna"
+      ]
     }
   ]
 }
