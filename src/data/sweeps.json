@@ -6554,6 +6554,28 @@
         "commodity",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260706t015909z",
+      "timestamp": "2026-07-06T01:59:09.111Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep at 2026-07-06T01:56Z. US markets closed the entire long weekend (Fri Jul 3 observed / Sat Jul 4 actual / Sun Jul 5). Feed is already comprehensive through Sunday: OPEC+ August 188K bpd hike (Jul 5), BTC spot-ETF streak break (Jul 3), Google EU Android fine final (Jul 2), Europe STOXX/DAX records (Jul 3), KOSPI Samsung Foundry rally (Jul 3), Apple foldable iPhone (Jul 2), Dow record + chip-equipment rout (Jul 2), Rivian Q2 (Jul 2), U.S. June jobs (Jul 2), Tesla Q2 deliveries (Jul 2). Weekend BTC drift to ~$63.5K (+1.04% day / +3.6% week per CoinDesk Jul 4) is sub-mover-bar and a thin continuation of the already-covered ETF-flows story; XRP +5.3%/day surpassing USDC at ~$73B mkt-cap has no primary-source catalyst and falls into the 'holiday thin-trading altcoin drift' bucket — not shipping. No qualifying fresh videos verified from Patrick Boyle / Coffeezilla / Plain Bagel / Ben Felix / Wall Street Millennial within the 72h bar. Trump–Putin Sunday call is political, not directly market-moving. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "crypto",
+        "mna",
+        "video",
+        "earnings",
+        "regulatory"
+      ]
     }
   ]
 }
