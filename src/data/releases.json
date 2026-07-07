@@ -1,8 +1,296 @@
 {
-  "generatedAt": "2026-07-07T02:11:58.881Z",
+  "generatedAt": "2026-07-07T14:19:09.772Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rivn-1-5b-share-offering-july-7-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Rivian (RIVN) -~13% to ~$17.63 in early Tuesday July 7 trade — commences underwritten public offering of 75M common shares (~$1.5B raise at $20.14 Monday close, ~$1.7B if 11.25M green shoe exercised); use of proceeds includes equity contributions under amended DOE loan for Georgia plant, Q2 rev pre-announced at $1.55–$1.65B",
+      "org": "Rivian",
+      "date": "2026-07-07",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-inc-announces-commencement-212600963.html",
+      "summary": "Rivian filed a 424B5 late July 6 for a 75M-share sale (~$1.5B at the $20.14 close), with a 30-day 11.25M green shoe on top; proceeds fund DOE-loan equity contributions and general corporate purposes as RIVN drops ~13% to $17.63 Tuesday morning.",
+      "tags": [
+        "secondary-offering",
+        "dilution",
+        "doe-loan",
+        "r2-suv",
+        "capital-raise",
+        "424b5",
+        "ev",
+        "rivn"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RIVN"
+      ],
+      "metrics": {
+        "Offering": "75M shares (11.25M green shoe)",
+        "Raise": "~$1.5B (~$1.7B w/ full option)",
+        "Prior close": "$20.14 (Mon Jul 6)",
+        "Move": "-~12.5% to ~$17.63 (Tue Jul 7 morning)",
+        "Dilution": "~6% (shares out ~1.43B post)",
+        "Prelim Q2 revenue": "$1.55–$1.65B",
+        "Cash at 6/30": "~$5.3B"
+      },
+      "links": [
+        {
+          "label": "Company Press Release",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-inc-announces-commencement-212600963.html"
+        },
+        {
+          "label": "CNBC: Stock Falls 13%",
+          "url": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html"
+        },
+        {
+          "label": "Electrek Deep Dive",
+          "url": "https://electrek.co/2026/07/07/rivian-75-million-share-offering-r2/"
+        },
+        {
+          "label": "RIVN Quote",
+          "url": "https://finance.yahoo.com/quote/RIVN/"
+        }
+      ],
+      "explainer": {
+        "tagline": "RIVN prints a $1.5B 75M-share primary the morning after a delivery beat — DOE loan equity contribution triggers a ~13% gap down.",
+        "whatIsIt": "Rivian filed a 424B5 prospectus supplement late Monday July 6 for a 75M-share underwritten primary at market. Goldman Sachs, Allen & Co, Barclays, JPMorgan, Morgan Stanley and Wells Fargo are joint book-running managers. Underwriters get a 30-day option for an additional 11.25M shares.",
+        "howItWorks": "Based on the $20.14 Monday close, the base 75M would raise ~$1.51B (before fees), rising to ~$1.74B if the full green shoe is exercised. Shares outstanding post-deal step up to ~1.43B (~1.44B fully diluted), roughly a 6% share count increase. Proceeds fund general corporate purposes 'including funding of certain equity contributions pursuant to the Amended and Restated Loan Arrangement and Reimbursement and Sponsor Support Agreement' with the DOE for the Georgia plant. The filing also disclosed preliminary Q2 revenue of $1.55–$1.65B and ~$5.3B cash on 6/30.",
+        "whyItMatters": "RIVN had rallied ~16% since the July 2 Q2 delivery beat and guidance raise, and the primary hoovers up that gain plus more — the stock traded near $17.63 (-~13%) into Tuesday morning, printing an intraday low of $18.11. Dilution washes some of the delivery-beat re-rating; ownership shifts to primary market buyers of the deal. Legally required equity contributions under the DOE loan mean this raise was a 'when, not if' for the Georgia plant financing.",
+        "forWho": "EV equity investors, HY / IG credit desks on the DOE loan follow-on."
+      },
+      "image": {
+        "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/03/Rivian-R2-Pricing-White-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "alt": "Rivian R2 SUV against a white background",
+        "fit": "cover",
+        "credit": "Rivian via Electrek"
+      },
+      "reddit": {
+        "title": "Rivian (RIVN) launches 75M-share primary — ~$1.5B raise sinks stock -13% to ~$17.63 morning after Q2 delivery beat",
+        "body": "One trading day after the Q2 delivery beat and full-year guide raise, Rivian filed a 424B5 for a 75-million-share primary. What we know:\n\n* 75M shares (plus a 30-day 11.25M green shoe) — ~$1.5B base at Monday's $20.14 close, ~$1.7B if fully exercised\n* Post-deal share count steps to ~1.43B Class A (~6% dilution)\n* Preliminary Q2 revenue guided to $1.55–$1.65B; cash on 6/30 ~$5.3B\n* Underwriters: Goldman Sachs, Allen & Co, Barclays, JPMorgan, Morgan Stanley, Wells Fargo\n* RIVN -~13% to $17.63 in early trade, giving back the entire post-delivery-beat rally\n\nWhy now:\n\n1. **DOE loan equity trigger** — the prospectus says proceeds fund 'certain equity contributions pursuant to the Amended and Restated Loan Arrangement' with the DOE for the Georgia plant. It was a matter of timing, not choice.\n2. **Delivery beat gave a window** — Rivian rallied ~16% off the July 2 print and used the higher price to size the deal.\n3. **R2 ramp needs cash** — the R2 SUV started shipping in Q2 and Georgia capex is front-loaded.\n\nNext catalysts: RIVN Q2 earnings on August 5 with full print vs the preannounced $1.55–$1.65B range.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rivn-1-5b-share-offering-july-7-2026](https://stock-tldr.xyz/releases/rivn-1-5b-share-offering-july-7-2026)"
+      },
+      "publishDate": "2026-07-07T14:19:09.772Z"
+    },
+    {
+      "id": "spcx-nasdaq-100-inclusion-july-7-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "SpaceX (SPCX) joins the Nasdaq-100 before Tuesday July 7 open — first mega-IPO under the new 15-day fast-track rule triggers an estimated ~$4.3B in QQQ / peer forced buying against a ~3–5% public float; SPCX -4.69% to $152.90 as index price-in fades",
+      "org": "Nasdaq",
+      "date": "2026-07-07",
+      "url": "https://www.cnbc.com/2026/07/06/spacex-joins-the-nasdaq-100-on-tuesday-what-it-means-for-the-stock.html",
+      "summary": "SpaceX enters the Nasdaq-100 at Tuesday's July 7 open — 15 sessions after its June 12 debut — under new fast-track rules for top-40-by-cap IPOs. Index trackers face ~$4.3B of forced buying against only a ~3–5% public float; SPCX -4.69% to $152.90 mid-morning.",
+      "tags": [
+        "nasdaq-100",
+        "index-inclusion",
+        "passive-flows",
+        "spcx",
+        "fast-track",
+        "qqq",
+        "spacex"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SPCX"
+      ],
+      "metrics": {
+        "Effective": "Before open Tue Jul 7 2026",
+        "Rule": "15-day fast-track (top-40 by mcap)",
+        "Move (Jul 7 mid-am)": "-4.69% to $152.90",
+        "Estimated NDX-driven forced buy": "~$4.3B",
+        "Free float": "~3–5% of shares out",
+        "Market cap": "~$2.01T"
+      },
+      "links": [
+        {
+          "label": "Benzinga Preview",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60279214/spacex-in-the-spotlight-as-company-set-to-join-nasdaq-100-tuesday"
+        },
+        {
+          "label": "CNBC What It Means",
+          "url": "https://www.cnbc.com/2026/07/06/spacex-joins-the-nasdaq-100-on-tuesday-what-it-means-for-the-stock.html"
+        },
+        {
+          "label": "Motley Fool Explainer",
+          "url": "https://www.fool.com/investing/2026/07/06/spacex-joins-the-nasdaq-100-on-july-7-here-is-what/"
+        },
+        {
+          "label": "SPCX Quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "SpaceX is the first mega-IPO to jump the Nasdaq-100 queue under the new 15-day rule — passive bid meets a razor-thin float.",
+        "whatIsIt": "Nasdaq announced on June 26 that Space Exploration Technologies (ticker SPCX) will join the Nasdaq-100 before market open on Tuesday July 7, 2026. That is only 15 trading days after SPCX's record-setting June 12 debut — well inside the traditional 3-month seasoning window.",
+        "howItWorks": "In May 2026 Nasdaq shortened its inclusion window to 15 days for new listings that already rank in the top-40 of the Nasdaq-100 by market cap. SPCX, at ~$2T after debut, qualifies. Every fund benchmarked to the Nasdaq-100 (QQQ, QQQM, TQQQ, plus dozens of thematic overlays) must add SPCX at the open. J.P. Morgan pegs required NDX-driven buying at roughly $4.3B; combined with the still-fresh Russell 1000 inclusion and other rebalances, gross passive demand across indices sits closer to $27B. Only ~3–5% of SPCX shares float publicly — the rest are held by insiders and pre-IPO investors.",
+        "whyItMatters": "The rebalance is a real-world test of Nasdaq's fast-track rule. Historically, index-inclusion pops fade within a quarter, and SPCX had already run to $225 on June 16 before halving to $147 on the June-23 hawkish-Fed / bond-launch pain. Mid-Tuesday morning SPCX trades at $152.90 (-4.69%) with sellers using the forced bid as exit liquidity. Watch QQQ tracking error, and how index-following funds meet demand into a tight float.",
+        "forWho": "Passive equity PMs, options/vol traders on SPCX, event-driven arb desks.",
+        "tryIt": "https://finance.yahoo.com/quote/SPCX/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108322525-1781619584003-gettyimages-2281285173-6k7a6582_mshj4ajg.jpeg?v=1781619683&w=1920&h=1080",
+        "alt": "A SpaceX Falcon 9 rocket booster returns to Cape Canaveral",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "reddit": {
+        "title": "SpaceX (SPCX) joins the Nasdaq-100 today — 15 days after IPO, ~$4.3B in forced buying vs a ~3–5% float; SPCX -4.7% to $152.90",
+        "body": "SpaceX becomes a Nasdaq-100 constituent at Tuesday July 7's open — the first mega-IPO to slide under the new 15-day fast-track rule.\n\n* Effective: before market open, July 7, 2026\n* Rule: 15-day inclusion window for IPOs in the top 40 by market cap (was 3 months)\n* Estimated forced buying from Nasdaq-100 trackers: ~$4.3B (QQQ + peers)\n* Total across NDX + Russell + peers: ~$27B on a stock with only ~3–5% floated\n* SPCX mid-morning: -4.69% to $152.90\n\nWhat this actually tests:\n\n1. **New fast-track rules** — SpaceX is the guinea pig for Nasdaq's May rule change. Every basis point of QQQ tracking error is now a data point.\n2. **Passive vs float mismatch** — with 95%+ locked up, index funds have to buy from a tiny sliver of shares. Expect volume spikes at the close and wider bid-ask.\n3. **Fade risk** — index-inclusion pops historically fade within a quarter; SPCX already ran to $225 then halved on the June bond-launch pain.\n\nNext catalysts: SPCX Q2 earnings (first as a public company) and the July 8 FOMC minutes.\n\nFull breakdown: [https://stock-tldr.xyz/releases/spcx-nasdaq-100-inclusion-july-7-2026](https://stock-tldr.xyz/releases/spcx-nasdaq-100-inclusion-july-7-2026)"
+      },
+      "publishDate": "2026-07-07T14:19:09.772Z"
+    },
+    {
+      "id": "hormuz-al-rekayyat-lng-attack-july-7-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Al Rekayyat Qatari LNG carrier struck in Strait of Hormuz early Tuesday July 7 — Nakilat-owned tanker hit ~8 nautical miles off Limah, Oman while transponder was off; drone or missile per EOS Risk causes engine-room fire (no casualties); Brent +>1% to ~$72.76, European gas +4.5% and Nikkei -2.12% / KOSPI -4.91% follow",
+      "org": "Nakilat",
+      "date": "2026-07-07",
+      "url": "https://www.rigzone.com/news/wire/qatari_lng_carrier_struck_in_hormuz-07-jul-2026-184072-article/",
+      "summary": "The Al Rekayyat, a laden Qatari LNG carrier owned by state shipping company Nakilat, was struck in the Strait of Hormuz early Tuesday. Brent jumped >1% to ~$72.76, European gas surged 4.5% and Asian stocks tumbled; Iran has not claimed the strike but two US officials told Axios the IRGC fired on commercial ships overnight.",
+      "tags": [
+        "hormuz",
+        "lng-tanker",
+        "geopolitical-risk",
+        "iran",
+        "qatar",
+        "nakilat",
+        "oil",
+        "european-gas",
+        "brent",
+        "energy-security"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "metrics": {
+        "Vessel": "Al Rekayyat (LNG carrier, Nakilat)",
+        "Location": "~8 nm east of Limah, Oman",
+        "Cargo": "Laden from Ras Laffan",
+        "Brent": "+>1% to ~$72.76",
+        "WTI": "~$69",
+        "European gas (TTF)": "+4.5% intraday",
+        "KOSPI reaction": "-4.91% to 7,656.31",
+        "Nikkei reaction": "-2.12% to 68,256.96"
+      },
+      "links": [
+        {
+          "label": "Rigzone Wire",
+          "url": "https://www.rigzone.com/news/wire/qatari_lng_carrier_struck_in_hormuz-07-jul-2026-184072-article/"
+        },
+        {
+          "label": "Al Jazeera Analysis",
+          "url": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks"
+        },
+        {
+          "label": "EnergyConnects: Oil Climbs",
+          "url": "https://www.energyconnects.com/news/oil/2026/july/oil-climbs-as-fresh-tanker-strike-highlights-risks-around-hormuz/"
+        },
+        {
+          "label": "Brent Futures",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First Qatari LNG carrier hit in Hormuz since the February 2026 conflict began — the US-Iran maritime deal cracks.",
+        "whatIsIt": "In the early hours of Tuesday July 7, 2026 the Al Rekayyat — a laden LNG carrier owned by Qatar's state-owned Nakilat — was struck about 8 nautical miles east of Limah, Oman while exiting the Strait of Hormuz. EOS Risk Group classifies the strike as either a drone or missile hit; the vessel's transponder was disabled at the time.",
+        "howItWorks": "The projectile impact ignited an engine-room fire. Reuters obtained a captain's distress call: 'We are being hit by drone on port side, top of engine room.' The crew is reported safe with no casualties, though a source briefed on the incident said the ship may be at risk of exploding. Two unnamed US officials told Axios the IRGC fired at least two missiles at commercial ships overnight; a Saudi-flagged crude tanker was also damaged. Iranian state television framed the strike as a response to 'ignored warnings' but Tehran has not directly claimed it.",
+        "whyItMatters": "The strike tests the shaky US-Iran maritime memorandum that requires Hormuz remain 'free to all shipping for at least 60 days.' Brent rose >1% to ~$72.76 and WTI held near $69 as tankers reassess routing insurance; European TTF gas prices climbed as much as 4.5% in Asian hours as Qatar routes ~20% of global LNG through Hormuz. Asian equities took the risk-off hit hardest — KOSPI closed -4.91% to 7,656.31 and Nikkei 225 -2.12% to 68,256.96. QatarEnergy and Nakilat declined to comment.",
+        "forWho": "Energy desks, tanker insurance underwriters, macro traders, defense-name equity holders.",
+        "tryIt": "https://www.barchart.com/futures/quotes/BZQ26"
+      },
+      "image": {
+        "url": "https://www.energyconnects.com/media/atjgsdqt/bloombergmedia_thqapht96osh00_07-07-2026_05-05-52_639189792000000000.jpg?width=1200&height=628&v=1dd0dce487f9dd0",
+        "alt": "Aerial view of an LNG tanker transiting Middle Eastern waters",
+        "fit": "cover",
+        "credit": "Bloomberg via EnergyConnects"
+      },
+      "reddit": {
+        "title": "Qatari LNG tanker Al Rekayyat struck in Strait of Hormuz early Tuesday — Brent +1% to $72.76, European gas +4.5%, Nikkei -2.12%, KOSPI -4.91%",
+        "body": "First Qatari LNG carrier hit in the Strait of Hormuz since the February 2026 conflict began. Here are the facts:\n\n* Vessel: Al Rekayyat — Nakilat-owned laden LNG carrier out of Ras Laffan\n* Location: ~8 nautical miles east of Limah, Oman — exiting Hormuz with transponder off\n* Weapon: Drone or missile strike per EOS Risk Group; engine-room fire; no casualties\n* Second target: A Saudi-flagged crude tanker also damaged per two US officials cited by Axios\n* Market reaction: Brent +>1% to ~$72.76, WTI ~$69, TTF gas +4.5%, KOSPI -4.91%, Nikkei -2.12%\n\nWhy this matters more than the average tanker headline:\n\n1. **First Qatari LNG hit** — Qatar routes ~20% of global LNG through Hormuz. A precedent-setting strike on Nakilat cargo repricings insurance and reroute costs across the LNG chain.\n2. **US-Iran maritime MOU under stress** — the preliminary agreement requires Hormuz stay 'free to all shipping for at least 60 days.' Talks in Qatar showed no headway last week.\n3. **Asia takes the risk-off hit hardest** — KOSPI -4.91% and Nikkei -2.12% wiped out much of the prior week's chip-driven rally.\n\nNext catalysts: US-Iran talks resumption post-Khamenei mourning; Wednesday EIA inventories; July 8 FOMC minutes.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hormuz-al-rekayyat-lng-attack-july-7-2026](https://stock-tldr.xyz/releases/hormuz-al-rekayyat-lng-attack-july-7-2026)"
+      },
+      "publishDate": "2026-07-07T14:19:09.772Z"
+    },
+    {
+      "id": "asia-chip-selloff-hormuz-fear-july-7-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Asian equities plunge on Tuesday July 7 — KOSPI -4.91% to 7,656.31, Nikkei 225 -2.12% to 68,256.96 as the Al Rekayyat Hormuz strike revives Iran risk and semiconductors follow through on last week's Wall Street chip rout; SoftBank bucks trend",
+      "org": "Asia Equities",
+      "date": "2026-07-07",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/07/japan039s-nikkei-falls-as-samsung-led-chip-selloff-weighs-on-regional-tech-stocks",
+      "summary": "KOSPI closed -4.91% to 7,656.31 and the Nikkei 225 -2.12% to 68,256.96 on Tuesday July 7 as the Al Rekayyat LNG-tanker strike revived Hormuz risk and Samsung-led chip weakness spread across the region.",
+      "tags": [
+        "kospi",
+        "nikkei",
+        "chip-selloff",
+        "asia",
+        "risk-off",
+        "hormuz",
+        "samsung",
+        "sk-hynix",
+        "kioxia"
+      ],
+      "importance": "major",
+      "tickers": [
+        "005930.KS",
+        "000660.KS"
+      ],
+      "metrics": {
+        "KOSPI": "-4.91% to 7,656.31",
+        "Nikkei 225": "-2.12% to 68,256.96",
+        "Samsung Electronics": "-~4% intraday to ~₩305,500",
+        "SK Hynix": "-1.84% intraday to ~₩2,300,000",
+        "Kioxia": "-6.75% intraday to ~¥76,120",
+        "SoftBank": "advanced against trend"
+      },
+      "links": [
+        {
+          "label": "The Star: Nikkei Falls",
+          "url": "https://www.thestar.com.my/business/business-news/2026/07/07/japan039s-nikkei-falls-as-samsung-led-chip-selloff-weighs-on-regional-tech-stocks"
+        },
+        {
+          "label": "InvestingLive Asia Session",
+          "url": "https://investinglive.com/stock-market-update/asia-stocks-fall-as-chip-selloff-spreads-breaking-ranks-with-wall-st-highs-20260707/"
+        },
+        {
+          "label": "KOSPI Quote",
+          "url": "https://finance.yahoo.com/quote/%5EKS11/"
+        },
+        {
+          "label": "Nikkei 225 Quote",
+          "url": "https://finance.yahoo.com/quote/%5EN225/"
+        }
+      ],
+      "explainer": {
+        "tagline": "KOSPI -4.91% and Nikkei -2.12% on the Al Rekayyat Hormuz strike + chip selloff — Asia's version of the Wall Street July-2 rout.",
+        "whatIsIt": "Asian equities sold off broadly on Tuesday July 7, 2026. South Korea's KOSPI dropped 4.91% to 7,656.31 — the second sharp fall in eight sessions after the June-23 memory-DRAM-lawsuit rout — while Japan's Nikkei 225 fell 2.12% to 68,256.96. The Kospi and Nikkei were dragged by Samsung Electronics, SK Hynix and Kioxia, while SoftBank advanced against the trend.",
+        "howItWorks": "Two drivers stacked overnight. First, the pre-dawn Al Rekayyat LNG-carrier strike in the Strait of Hormuz revived US-Iran maritime-conflict risk and pushed Brent >1% higher — Asia typically takes the first risk-off hit. Second, the July-2 US semiconductor rout (SMH ~ -8.7%, TER -13.6%, KLAC -11.5%) finally cascaded through the memory / equipment supply chain. Samsung shares fell more than 4% intraday to trade briefly at ₩305,500, SK Hynix -1.84% to ₩2,300,000 and Kioxia -6.75% to ¥76,120.",
+        "whyItMatters": "The move erases much of the July-3 recovery (KOSPI +5.76% Friday). It hits the biggest single-country / single-sector concentration in Asia: Samsung and SK Hynix drove ~half the H1 2026 KOSPI rally on Nvidia HBM. If Hormuz risk sticks, Asia-benchmarked funds face a double squeeze — geopolitical premium plus AI-capex re-underwriting. Watch Wednesday's Nikkei / KOSPI open for signs of a snap-back after the Wall Street session.",
+        "forWho": "Asia macro traders, HBM / memory / equipment equity holders, EM ETF PMs.",
+        "tryIt": "https://finance.yahoo.com/quote/%5EKS11/"
+      },
+      "image": {
+        "url": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996377.jpg",
+        "alt": "Trading floor with electronic screens displaying red losses in Tokyo",
+        "fit": "cover",
+        "credit": "Reuters via The Star"
+      },
+      "reddit": {
+        "title": "KOSPI -4.91%, Nikkei -2.12% on Tuesday July 7 — Al Rekayyat Hormuz strike + chip selloff erase Friday's rally",
+        "body": "Asia's version of the Wall Street July-2 rout, with an extra Hormuz kicker. Here's the tape:\n\n* KOSPI -4.91% to 7,656.31 — second sharp drop in eight sessions\n* Nikkei 225 -2.12% to 68,256.96\n* Samsung Electronics -~4% intraday to ~₩305,500\n* SK Hynix -1.84% intraday to ~₩2,300,000\n* Kioxia -6.75% intraday to ~¥76,120\n* SoftBank advanced against the trend\n\nTwo drivers stacked overnight:\n\n1. **Al Rekayyat LNG carrier strike** — Nakilat's Qatari tanker hit 8 nm off Oman early Tuesday, engine-room fire, Brent +>1% to ~$72.76. Asia takes the first risk-off leg.\n2. **Chip selloff spillover** — Wall Street's July-2 semiconductor rout (SMH ~ -8.7%, TER -13.6%, KLAC -11.5%) finally cascaded through the memory / equipment names.\n\nContext: this erases much of the July-3 rally where KOSPI ripped +5.76% on Samsung Foundry + Anthropic 2nm chatter.\n\nNext catalysts: Wednesday's Asia open (snap-back or continuation), Thursday July 9 EIA inventories, July 8 FOMC minutes.\n\nFull breakdown: [https://stock-tldr.xyz/releases/asia-chip-selloff-hormuz-fear-july-7-2026](https://stock-tldr.xyz/releases/asia-chip-selloff-hormuz-fear-july-7-2026)"
+      },
+      "publishDate": "2026-07-07T14:19:09.772Z"
+    },
     {
       "id": "samsung-q2-2026-preliminary-record-july-7",
       "categories": [

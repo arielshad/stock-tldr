@@ -6668,6 +6668,56 @@
         "crypto",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260707t141909z",
+      "timestamp": "2026-07-07T14:19:09.772Z",
+      "source": "github-actions-sweep",
+      "summary": "Four July-7 additions: RIVN prints a $1.5B primary and drops 13%; SpaceX joins the Nasdaq-100 under Nasdaq's new 15-day fast-track rule; a Qatari LNG carrier is struck in Hormuz driving Brent >+1%; and Asian markets close sharply lower (KOSPI -4.91%, Nikkei -2.12%) on the combined risk-off + chip-rout follow-through.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rivn-1-5b-share-offering-july-7-2026",
+          "title": "Rivian (RIVN) -~13% to ~$17.63 in early Tuesday July 7 trade — commences underwritten public offering of 75M common shares (~$1.5B raise at $20.14 Monday close, ~$1.7B if 11.25M green shoe exercised); use of proceeds includes equity contributions under amended DOE loan for Georgia plant, Q2 rev pre-announced at $1.55–$1.65B",
+          "category": "mover",
+          "note": "424B5 filed July 6 evening, RIVN gaps -13% July 7 — distinct from July-2 delivery-beat item; catalyst is a dilutive primary funding DOE-loan equity contribution."
+        },
+        {
+          "id": "spcx-nasdaq-100-inclusion-july-7-2026",
+          "title": "SpaceX (SPCX) joins the Nasdaq-100 before Tuesday July 7 open — first mega-IPO under the new 15-day fast-track rule triggers an estimated ~$4.3B in QQQ / peer forced buying against a ~3–5% public float; SPCX -4.69% to $152.90 as index price-in fades",
+          "category": "mover",
+          "note": "Nasdaq-100 effective date is July 7 — first mega-IPO under May 2026 fast-track rule; distinct from June-26 Russell 1000 inclusion."
+        },
+        {
+          "id": "hormuz-al-rekayyat-lng-attack-july-7-2026",
+          "title": "Al Rekayyat Qatari LNG carrier struck in Strait of Hormuz early Tuesday July 7 — Nakilat-owned tanker hit ~8 nautical miles off Limah, Oman while transponder was off; drone or missile per EOS Risk causes engine-room fire (no casualties); Brent +>1% to ~$72.76, European gas +4.5% and Nikkei -2.12% / KOSPI -4.91% follow",
+          "category": "commodity",
+          "note": "First Qatari LNG carrier hit in Hormuz this cycle; Brent +>1%, TTF +4.5%; primary macro/commodity trigger of the session."
+        },
+        {
+          "id": "asia-chip-selloff-hormuz-fear-july-7-2026",
+          "title": "Asian equities plunge on Tuesday July 7 — KOSPI -4.91% to 7,656.31, Nikkei 225 -2.12% to 68,256.96 as the Al Rekayyat Hormuz strike revives Iran risk and semiconductors follow through on last week's Wall Street chip rout; SoftBank bucks trend",
+          "category": "mover",
+          "note": "KOSPI -4.91%, Nikkei -2.12% — separate from the July-3 rally and July-1 memory rout items; new trading day driven by Hormuz + chip cascade."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "commodity",
+        "macro",
+        "sector",
+        "earnings",
+        "mna",
+        "rates",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }
