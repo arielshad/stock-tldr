@@ -6619,6 +6619,55 @@
         "regulatory",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260707t021158z",
+      "timestamp": "2026-07-07T02:11:58.881Z",
+      "source": "github-actions-sweep",
+      "summary": "Post-holiday sweep at 01:52 UTC July 7, 2026. Adds 4 items: Samsung Electronics Q2 2026 preliminary — 89.4T won OP (~$58.4B) all-time record on AI memory; Solstice-Element Solutions $14.5B M&A; Dell +6.23% on Trump White House endorsement; and Monday July 6 US stocks record close (Dow 53,055.91).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "samsung-q2-2026-preliminary-record-july-7",
+          "title": "Samsung Electronics Q2 2026 preliminary — 89.4 trillion won operating profit (~$58.4B) sets an all-time company record, beating 84.4T won FnGuide consensus as HBM/memory pricing sends OP up ~19x Y/Y from 4.68T won",
+          "category": "earnings",
+          "note": "Samsung Q2 preliminary released 07:50 KST July 7 — 89.4T won OP (~$58.4B, +19x Y/Y, all-time record) beat 84.4T consensus. Seismic read-through to memory + HBM complex."
+        },
+        {
+          "id": "sols-esi-14-5b-acquisition-july-6-2026",
+          "title": "Solstice Advanced Materials (SOLS) to acquire Element Solutions (ESI) for ~$14.5B EV including net debt — $10 cash + 0.500 SOLS/share (~$50.10 implied, ~15% premium) sends SOLS -15.14% to $68.05 on Monday July 6",
+          "category": "mna",
+          "note": "Solstice-Element $14.5B EV cash-and-stock deal announced July 6; SOLS -15.14% on dilution, ESI popped on takeout premium."
+        },
+        {
+          "id": "dell-trump-endorsement-white-house-july-6-2026",
+          "title": "Dell Technologies (DELL) +6.23% to $418.88 on Monday July 6 — Trump tells White House audience to 'go out and buy a Dell computer' at first-ever joint NYSE/Nasdaq opening-bell ceremony for the Trump Accounts launch",
+          "category": "mover",
+          "note": "DELL +6.23% on Trump 'buy a Dell computer' plug at first-ever White House joint NYSE/Nasdaq opening-bell event for Trump Accounts launch."
+        },
+        {
+          "id": "us-stocks-dow-record-tech-rebound-july-6-2026",
+          "title": "US stocks close at fresh record on Monday July 6 — Dow +0.29% to 53,055.91 all-time high, S&P 500 +0.72% to 7,537.43, Nasdaq +1.12% to 26,121.16 as semis rebound (SMH +2.7% open) and Dell surges on Trump plug",
+          "category": "mover",
+          "note": "First post-July-4 session sets a fresh Dow record 53,055.91 as semis rebound; S&P +0.72%, Nasdaq +1.12%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "rates",
+        "commodity",
+        "crypto",
+        "sector"
+      ]
     }
   ]
 }
