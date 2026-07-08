@@ -6718,6 +6718,43 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260708t013320z",
+      "timestamp": "2026-07-08T01:33:20.977Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds for the July 7 sweep: Vertex's ~$10B all-cash acquisition of Crinetics (announced late Monday July 6) and Tuesday's US chip rout on the Reuters DeepSeek inference-chip scoop plus Samsung AI-capex worry, with Marvell/Micron/SanDisk hammered while NVDA held green.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "vrtx-crnx-10b-acquisition-july-6-2026",
+          "title": "Vertex to acquire Crinetics for ~$10B in cash at $85/share on Monday July 6 — CRNX +98.8% to $83.53 on 102% premium as VRTX slips ~-2.5% AH; deal adds PALSONIFY acromegaly franchise and Phase 3 atumelnant, closes Q3 2026",
+          "category": "mna",
+          "note": "Largest biotech deal of the week; primary-source confirmed via Vertex 8-K and Crinetics PR; CRNX +98.8% single-day move clears the mover bar decisively."
+        },
+        {
+          "id": "us-chip-rout-deepseek-samsung-july-7-2026",
+          "title": "US chip rout on Tuesday July 7 — Nasdaq -1.16% to 25,818.69, SMH -3%+ as Reuters DeepSeek in-house inference chip scoop and Samsung AI-capex worry hit memory + custom silicon; Marvell -8.75%, Micron -6.87%, SanDisk -9.98%, NVDA +0.42% bucks",
+          "category": "sector",
+          "note": "Distinct US session from the already-covered Asia rout: Reuters DeepSeek scoop is a fresh catalyst and SMH -3%+ with MRVL -8.75%/MU -6.87%/SNDK -9.98% clears the sector bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "sector",
+        "macro",
+        "earnings",
+        "regulatory",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }
