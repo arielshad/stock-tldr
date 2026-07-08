@@ -6755,6 +6755,49 @@
         "crypto",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260708t133441z",
+      "timestamp": "2026-07-08T13:34:41.695Z",
+      "source": "github-actions-sweep",
+      "summary": "July 8 morning sweep — added the Trump ceasefire-'over' declaration in Ankara (oil +5–6%, U.S. equity futures -0.5 to -0.9%, Treasury revokes Iran oil-sanctions waiver) as a seismic macro/commodity event, and the NYT DealBook Blue Origin ~$10B / ~$130B first-ever outside funding round with Coatue leading as a rumor-tier item. Updated the July 6 AVGO/AAPL partnership item with Apple's July 8 formal $30B+ / 15B-chip / $1.5B Fort Collins press-release quantification.",
+      "counts": {
+        "added": 2,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-ceasefire-collapse-ankara-july-8-2026",
+          "title": "Trump declares U.S.–Iran ceasefire 'over' at NATO Ankara summit on Wednesday July 8 — 'I think it's over. I don't want to deal with them any more, they're scum' as Treasury revokes Iran oil-sanctions waiver following IRGC strikes on 3 Hormuz tankers and CENTCOM hits on 80+ Iranian targets; WTI +~5.2% to ~$74.16, Brent +~6.1% to ~$78.66, Dow futures -~468 to 52,729, S&P 500 futures -0.53%, Nasdaq 100 futures -0.65%",
+          "category": "macro",
+          "note": "Direct Trump quote at NATO Ankara summit, Treasury sanctions-waiver revocation, WTI/Brent +5–6%, and U.S. equity futures selloff are all primary-source verified; distinct from the July 7 Al Rekayyat vessel-strike item which covered the underlying tanker attack rather than the ceasefire collapse itself."
+        },
+        {
+          "id": "blue-origin-10b-outside-funding-130b-july-8-2026",
+          "title": "Reportedly: Blue Origin raising $10B in first-ever outside funding round at ~$130B valuation on Wednesday July 8 — NYT DealBook scoop says Coatue Management leads ~$4B, Jeff Bezos personally contributes ~$2B, other institutional investors ~$4B; proceeds fund TeraWave sat-comms network after New Glenn setbacks, weeks after SpaceX's $86B IPO",
+          "category": "rumor",
+          "note": "NYT DealBook scoop confirmed by Yahoo Finance and CNBC on July 8; first outside funding in Blue Origin's 25-year history with Coatue leading ~$4B; SpaceX (SPCX) June IPO provides direct comp."
+        }
+      ],
+      "updated": [
+        {
+          "id": "avgo-aapl-partnership-extend-2031-july-6-2026",
+          "title": "Broadcom (AVGO) +~4.3% on Monday July 6 — Broadcom and Apple extend their custom-silicon and wireless-connectivity partnership through 2031, adding a new custom ASIC to a supply relationship that already books ~20% of AVGO's annual revenue",
+          "note": "Apple's July 8 formal press release quantifies the July 6 Broadcom extension at $30B+ multi-year U.S. chip commitment covering 15B+ chips, with a $1.5B expansion of Broadcom's Fort Collins, Colorado facility for FBAR filters and wireless-connectivity components."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "rumor",
+        "earnings",
+        "mover",
+        "mna",
+        "regulatory",
+        "crypto"
+      ]
     }
   ]
 }

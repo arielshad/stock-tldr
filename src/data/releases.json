@@ -1,8 +1,154 @@
 {
-  "generatedAt": "2026-07-08T01:33:20.977Z",
+  "generatedAt": "2026-07-08T13:34:41.695Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-ceasefire-collapse-ankara-july-8-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "title": "Trump declares U.S.–Iran ceasefire 'over' at NATO Ankara summit on Wednesday July 8 — 'I think it's over. I don't want to deal with them any more, they're scum' as Treasury revokes Iran oil-sanctions waiver following IRGC strikes on 3 Hormuz tankers and CENTCOM hits on 80+ Iranian targets; WTI +~5.2% to ~$74.16, Brent +~6.1% to ~$78.66, Dow futures -~468 to 52,729, S&P 500 futures -0.53%, Nasdaq 100 futures -0.65%",
+      "org": "The White House",
+      "date": "2026-07-08",
+      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks",
+      "summary": "Trump tells reporters in Ankara on July 8 that the U.S.–Iran ceasefire is 'over' after IRGC strikes on 3 Hormuz tankers and U.S. CENTCOM counter-strikes on 80+ Iranian targets. Treasury revokes the Iran oil-sanctions waiver; WTI +5.2% to ~$74, Brent +6.1% to ~$78, U.S. stock futures tumble.",
+      "tags": [
+        "iran",
+        "hormuz",
+        "geopolitics",
+        "ceasefire",
+        "nato-ankara-summit",
+        "trump",
+        "centcom",
+        "irgc",
+        "oil",
+        "wti",
+        "brent",
+        "sanctions",
+        "burgenstock-mou",
+        "risk-off"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "WTI (CL=F)": "$74.16 (+~5.2%)",
+        "Brent (BZ=F)": "~$78.66 (+~6.1%)",
+        "Dow futures": "52,729 (-~468 / -0.88%)",
+        "S&P 500 futures": "7,511.00 (-0.53%)",
+        "Nasdaq 100 futures": "29,201.00 (-0.65%)",
+        "VIX": "17.50 (+8.5%)",
+        "CENTCOM strikes on Iran": "80+ targets",
+        "IRGC counter-strikes on US bases": "85 positions in Kuwait and Bahrain"
+      },
+      "explainer": {
+        "tagline": "Trump kills the 60-day U.S.–Iran ceasefire in Ankara — 'they're scum' — as Treasury pulls Iran's oil waiver and CENTCOM strikes 80+ Iranian targets.",
+        "whatIsIt": "Speaking at the annual NATO summit in Ankara on Wednesday July 8, 2026, U.S. President Donald Trump told reporters that the ceasefire agreed with Iran in April and extended in June via the Bürgenstock memorandum of understanding is 'over'. His remarks follow an Iranian IRGC strike on three tankers in the Strait of Hormuz — including the Nakilat Qatari LNG carrier Al Rekayyat on July 7 — and U.S. Central Command counter-strikes on 80+ Iranian military targets. Iran's IRGC in turn said it hit 85 U.S. positions in Bahrain and Kuwait.",
+        "howItWorks": "Trump, standing next to NATO Secretary General Mark Rutte, said 'I think it's over. I don't want to deal with them any more, they're scum'; he later added 'they're vicious, violent people' and 'frankly, I don't want to waste my time with them.' The U.S. Treasury separately revoked the sanctions waiver that had permitted Iran to sell crude into the global market under the June MOU. Front-month WTI (CL=F) jumped ~5.2% to $74.16 per barrel and Brent (BZ=F) rose ~6.1% to $78.66 while VIX popped to 17.50 (+8.5%).",
+        "whyItMatters": "The MOU had underpinned a ~$10/bbl decline in crude since June 22 and a two-week grind higher in U.S. equities. Removing that anchor reprices the Middle East risk premium in one session: Dow futures fell 468 points, S&P 500 futures -0.53%, Nasdaq 100 futures -0.65% and defensive/energy names — OXY +5.88%, DVN +5.08%, GILD +5.21% — led relative-value gainers while INTC -9.66%, TER -9.59% and WDC -7.86% capped the risk-off morning. Attention now shifts to how far U.S. and Iranian strikes escalate and whether Qatar / Pakistan can rebuild any diplomatic channel.",
+        "forWho": "macro traders, energy desks, defensive-sector allocators",
+        "tryIt": "WTI chart: https://finance.yahoo.com/quote/CL=F"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260708__B9L34YK__v1__HighRes__TurkeyUsNatoSummitDefence-1783501634.jpg?resize=1920%2C1440",
+        "alt": "Trump speaking beside NATO Secretary General Mark Rutte at the Ankara summit",
+        "fit": "cover",
+        "credit": "AFP via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera Report",
+          "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks"
+        },
+        {
+          "label": "CBS News Live Updates",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over/"
+        },
+        {
+          "label": "WTI (CL=F) Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        },
+        {
+          "label": "Brent (BZ=F) Chart",
+          "url": "https://finance.yahoo.com/quote/BZ=F"
+        }
+      ],
+      "reddit": {
+        "title": "Trump declares U.S.–Iran ceasefire 'over' at Ankara NATO summit — WTI +5.2% to $74, Brent +6.1% to $79, Dow futures -468 as Treasury pulls Iran oil waiver",
+        "body": "The Bürgenstock MOU is dead. Here's what happened before the U.S. open on Wednesday July 8:\n\n* Trump, standing next to NATO SecGen Mark Rutte in Ankara: 'I think it's over. I don't want to deal with them any more, they're scum'\n* U.S. Treasury revokes the sanctions waiver that let Iran sell crude under the June MOU\n* WTI (CL=F) +~5.2% to $74.16, Brent (BZ=F) +~6.1% to $78.66\n* Dow futures -~468 (-0.88%), S&P 500 futures -0.53%, Nasdaq 100 futures -0.65%, VIX 17.50 (+8.5%)\n* CENTCOM struck 80+ Iranian targets after the July 7 IRGC strike on 3 Hormuz tankers (incl. Qatari LNG carrier Al Rekayyat); IRGC says it hit 85 U.S. positions in Kuwait and Bahrain\n\nThree things to watch:\n\n1. **Oil vs equities feedback loop** — front-month WTI is back above $74 for the first time since June 24. Every $1/bbl above ~$72 tightens headline CPI arithmetic ahead of the July 14 print.\n2. **Defensive rotation** — OXY +5.88%, DVN +5.08%, GILD +5.21% lead relative-value gainers; INTC -9.66%, TER -9.59%, WDC -7.86% cap the risk-off morning.\n3. **What breaks the escalation** — no obvious off-ramp with the U.S. Fifth Fleet and IRGC exchanging strikes; Qatar/Pakistan channels are the last live diplomatic route.\n\nNext catalysts: FOMC minutes 2 p.m. ET today, June CPI July 14, PEP earnings Thursday, DAL earnings Friday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-ceasefire-collapse-ankara-july-8-2026](https://stock-tldr.xyz/releases/us-iran-ceasefire-collapse-ankara-july-8-2026)"
+      },
+      "publishDate": "2026-07-08T13:34:41.695Z"
+    },
+    {
+      "id": "blue-origin-10b-outside-funding-130b-july-8-2026",
+      "categories": [
+        "rumor"
+      ],
+      "title": "Reportedly: Blue Origin raising $10B in first-ever outside funding round at ~$130B valuation on Wednesday July 8 — NYT DealBook scoop says Coatue Management leads ~$4B, Jeff Bezos personally contributes ~$2B, other institutional investors ~$4B; proceeds fund TeraWave sat-comms network after New Glenn setbacks, weeks after SpaceX's $86B IPO",
+      "org": "Blue Origin",
+      "date": "2026-07-08",
+      "url": "https://finance.yahoo.com/technology/articles/blue-origin-raising-10-billion-130118437.html",
+      "summary": "The NYT DealBook reports on July 8 that Blue Origin is raising $10B at a ~$130B pre-money valuation in its first-ever outside funding round — Coatue Management leads ~$4B, Bezos puts in ~$2B, other institutional investors ~$4B. Proceeds fund TeraWave sat-comms network after New Glenn setbacks; comes weeks after SpaceX's $86B IPO.",
+      "tags": [
+        "blue-origin",
+        "space",
+        "private-funding",
+        "coatue",
+        "jeff-bezos",
+        "terawave",
+        "sat-comms",
+        "new-glenn",
+        "nyt-dealbook",
+        "reportedly"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Total raise": "~$10B",
+        "Pre-money valuation": "~$130B",
+        "Coatue Management commitment": "~$4B (lead)",
+        "Bezos personal commitment": "~$2B",
+        "Other institutional investors": "~$4B",
+        "SpaceX June IPO raise (comp)": "~$86B",
+        "SpaceX current market cap (comp)": "~$1.75T"
+      },
+      "explainer": {
+        "tagline": "Bezos opens Blue Origin's cap table for the first time in 25 years — $10B at ~$130B with Coatue leading and Bezos writing a $2B check.",
+        "whatIsIt": "The New York Times DealBook reported on Wednesday July 8, 2026 that Jeff Bezos's Blue Origin is raising ~$10 billion in its first-ever outside funding round, valuing the company at ~$130 billion pre-money. It is the first time non-Bezos investors will hold a stake in the 25-year-old rocket company. Bezos previously said: 'we finally have enough visibility into our future and our financial success ... it's a good time to bring on some outside investors.'",
+        "howItWorks": "Coatue Management leads the round with ~$4 billion. Bezos personally contributes ~$2 billion. Roughly ~$4 billion of remaining capacity has strong demand from other institutional investors. Proceeds are earmarked for TeraWave — a planned Blue Origin satellite-communications network targeting ~100,000 priority customers including data centers — and for advancing New Glenn after a May ground-test explosion and a satellite-placement error earlier this year.",
+        "whyItMatters": "The round is priced against SpaceX (SPCX)'s June IPO at ~$86B raised and ~$1.75T current market cap, and lands as SPCX -~4.7% after joining the Nasdaq-100 on July 7. A ~$130B mark for a company that still hasn't reached New Glenn cadence signals private-market appetite for a two-horse space race and gives BO a cash cushion to close the launch and TeraWave gaps. Watch whether follow-on demand pulls the round higher or whether tighter New Glenn timelines emerge as a condition.",
+        "forWho": "growth / late-stage private-market investors, space-industrial thematic desks",
+        "tryIt": "SPCX comp: https://finance.yahoo.com/quote/SPCX"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/227C93007879EC692B2DA99F520BB71E46DF17E6B417B5488CF556F994DB1891/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F0d3f52a8e8a3281adffba604349e8840",
+        "alt": "Blue Origin New Glenn rocket on the pad at Cape Canaveral",
+        "fit": "cover",
+        "credit": "Quartz via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Report",
+          "url": "https://finance.yahoo.com/technology/articles/blue-origin-raising-10-billion-130118437.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html"
+        },
+        {
+          "label": "SPCX Chart",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ],
+      "reddit": {
+        "title": "Reportedly: Blue Origin raising $10B at ~$130B pre-money — Coatue leads ~$4B, Bezos puts in ~$2B; first outside investors in 25 years",
+        "body": "NYT DealBook broke this on Wednesday July 8 — the first outside round in Blue Origin's history:\n\n* Total raise: ~$10B at ~$130B pre-money valuation\n* Coatue Management leads ~$4B\n* Bezos personally puts in ~$2B\n* Other institutional investors: ~$4B of remaining capacity\n* Proceeds fund TeraWave sat-comms network (~100K priority customers incl. data centers) plus New Glenn after May ground-test explosion and satellite-placement error\n\nThe comp story:\n\n1. **SpaceX (SPCX) IPO reset the frame** — SPCX raised ~$86B in June at a ~$1.75T market cap. A $130B BO mark implies ~7% of SpaceX's cap for a company still ramping New Glenn.\n2. **Bezos's own words** — 'we finally have enough visibility into our future and our financial success ... it's a good time to bring on some outside investors.' Public-market IPO not yet on the table.\n3. **TeraWave is the wedge** — a satellite constellation aimed at data centers is a direct pitch to hyperscalers that already write $10B+ checks to SpaceX Starlink.\n\nNext catalysts: SPCX price action into Nasdaq-100 debut fade; New Glenn return-to-flight before year-end.\n\nFull breakdown: [https://stock-tldr.xyz/releases/blue-origin-10b-outside-funding-130b-july-8-2026](https://stock-tldr.xyz/releases/blue-origin-10b-outside-funding-130b-july-8-2026)"
+      },
+      "publishDate": "2026-07-08T13:34:41.695Z"
+    },
     {
       "id": "vrtx-crnx-10b-acquisition-july-6-2026",
       "categories": [
@@ -788,7 +934,10 @@
         "AVGO move (Mon Jul 6)": "+~4.3%",
         "Deal duration": "through 2031",
         "Apple share of AVGO revenue": "~20%",
-        "Chip types covered": "custom ASIC + Wi-Fi + Bluetooth + RF + networking"
+        "Chip types covered": "custom ASIC + Wi-Fi + Bluetooth + RF + networking",
+        "Apple U.S. chip commitment (announced Wed Jul 8)": "$30B+ multi-year",
+        "U.S.-made chips": "15B+ units",
+        "Fort Collins facility expansion": "$1.5B"
       },
       "explainer": {
         "tagline": "Apple and Broadcom lock in five more years of custom chips and wireless connectivity, extending an ~$8B/yr revenue stream to 2031.",
@@ -806,24 +955,20 @@
       },
       "links": [
         {
-          "label": "Reuters via Yahoo",
+          "label": "Broadcom / AVGO Extension Coverage",
           "url": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html"
         },
         {
-          "label": "Investors Hub via Yahoo",
-          "url": "https://finance.yahoo.com/technology/articles/broadcom-shares-rise-extending-apple-132123441.html"
-        },
-        {
-          "label": "MacRumors",
-          "url": "https://www.macrumors.com/2026/07/06/apple-and-broadcom-extend-deal/"
-        },
-        {
-          "label": "24/7 Wall St",
-          "url": "https://247wallst.com/investing/2026/07/06/broadcom-rallies-6-on-a-broadened-apple-partnership-as-amd-gains-8-intel-rises-4/"
+          "label": "Apple Press Release (Jul 8)",
+          "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
         },
         {
           "label": "AVGO Chart",
           "url": "https://finance.yahoo.com/quote/AVGO"
+        },
+        {
+          "label": "AAPL Chart",
+          "url": "https://finance.yahoo.com/quote/AAPL"
         }
       ],
       "reddit": {
