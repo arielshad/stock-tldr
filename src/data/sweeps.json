@@ -6841,6 +6841,48 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260709t144211z",
+      "timestamp": "2026-07-09T14:42:11.436Z",
+      "source": "github-actions-sweep",
+      "summary": "Three market-moving items over the last 24-30h: IONS/AZN Wainua Phase 3 ATTR-CM miss on Thursday July 9 with big competitor wake for ALNY and BBIO; PepsiCo Q2 2026 revenue beat / EPS miss with U.S. beverage volume -4%; Levi Strauss Q2 2026 beat and guide raise where a stock still fell ~6% on priced-in expectations.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ions-azn-wainua-attr-cm-phase-3-miss-july-9-2026",
+          "title": "Ionis (IONS) -~20% premarket, AstraZeneca (AZN) -9% on LSE on Thursday July 9 — Phase 3 CARDIO-TTRansform of Wainua (eplontersen) in ATTR-CM MISSES primary endpoint (CV mortality + recurrent CV events at Week 140, N=1,432); monotherapy subgroup nominally significant at HR 0.71, stabilizer subgroup null; competitor rally with Alnylam (ALNY) +~18% and BridgeBio (BBIO) +~10%",
+          "category": "mover",
+          "note": "Phase 3 CARDIO-TTRansform miss is the highest-conviction biotech move of the week; IONS -~20%, sector implications for ALNY and BBIO."
+        },
+        {
+          "id": "pep-q2-2026-earnings-july-9",
+          "title": "PepsiCo (PEP) Q2 2026 — adj EPS $2.20 misses $2.21 est by a penny; revenue $24.18B beats $23.95B est (+6.4% Y/Y); organic revenue +2.4%; core operating profit $4.07B (+4%), core margin -40bp to 16.8%; NA beverages volume -4%, NA foods flat, global foods +3% and beverages +2%; FY26 guide reaffirmed but trending 'lower end' of EPS range; stock -~3.2% premarket to $137.96",
+          "category": "earnings",
+          "note": "Mega-cap staples print with primary-source revenue beat but adj EPS miss and 'lower end' FY guide qualifier moving the tape."
+        },
+        {
+          "id": "levi-q2-2026-earnings-guidance-raise-july-8",
+          "title": "Levi Strauss (LEVI) Q2 2026 (quarter ended May 31) — adj EPS $0.28 beats $0.25 est, revenue $1.56B beats $1.52B est (+~8% Y/Y); FY26 EPS guide raised to $1.46-$1.52 (from $1.42-$1.48) and sales +7-7.5% (from +5.5-6.5%); quarterly dividend +7% to $0.16; but stock -~6% premarket to $22.90 on high bar; guidance assumes 30% China / 20% RoW tariffs holding",
+          "category": "earnings",
+          "note": "Priced-in-expectations setup with a beat + guide raise still selling off ~6%; also the first apparel name to formally bake punitive tariff assumptions into FY guidance."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

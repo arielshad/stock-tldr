@@ -1,8 +1,276 @@
 {
-  "generatedAt": "2026-07-09T01:54:24.226Z",
+  "generatedAt": "2026-07-09T14:42:11.436Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ions-azn-wainua-attr-cm-phase-3-miss-july-9-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Ionis (IONS) -~20% premarket, AstraZeneca (AZN) -9% on LSE on Thursday July 9 — Phase 3 CARDIO-TTRansform of Wainua (eplontersen) in ATTR-CM MISSES primary endpoint (CV mortality + recurrent CV events at Week 140, N=1,432); monotherapy subgroup nominally significant at HR 0.71, stabilizer subgroup null; competitor rally with Alnylam (ALNY) +~18% and BridgeBio (BBIO) +~10%",
+      "org": "Ionis Pharmaceuticals",
+      "date": "2026-07-09",
+      "url": "https://sg.finance.yahoo.com/news/cardio-ttransform-phase-3-trial-060000731.html",
+      "summary": "IONS/AZN Wainua (eplontersen) Phase 3 CARDIO-TTRansform in ATTR-CM missed the primary endpoint of CV mortality + recurrent CV events at 140 weeks (N=1,432); monotherapy subgroup HR 0.71, stabilizer subgroup null. IONS -~20%, AZN -9%, ALNY +18%, BBIO +10%.",
+      "tickers": [
+        "IONS",
+        "AZN",
+        "ALNY",
+        "BBIO"
+      ],
+      "metrics": {
+        "IONS move (premarket)": "-~20%",
+        "AZN move (LSE)": "-9%",
+        "ALNY move (premarket)": "+~18%",
+        "BBIO move (premarket)": "+~10%",
+        "Primary endpoint": "Composite CV mortality + recurrent CV events @ Week 140",
+        "Endpoint result": "Not met vs placebo",
+        "Trial N": "1,432 (1:1 randomized)",
+        "Sites / countries": "130 sites / 20 countries",
+        "Monotherapy subgroup HR": "0.71 (nominally significant)",
+        "Stabilizer subgroup HR": "no treatment effect",
+        "Baseline stabilizer use (each arm)": "57%",
+        "In-trial stabilizer initiation (each arm)": "24%",
+        "Full data readout": "ESC Congress, August 2026"
+      },
+      "tags": [
+        "ions",
+        "azn",
+        "attr-cm",
+        "phase-3",
+        "cardio-ttransform",
+        "eplontersen",
+        "wainua",
+        "biotech",
+        "trial-failure",
+        "amyloidosis",
+        "alny",
+        "bbio",
+        "attr-silencer",
+        "cardiology"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "AstraZeneca/Ionis Wainua misses the Phase 3 ATTR-CM primary endpoint on top of standard care — silencer story reopens for Alnylam and BridgeBio.",
+        "whatIsIt": "Thursday July 9 press release from Ionis Pharmaceuticals (IONS) and partner AstraZeneca (AZN) said the CARDIO-TTRansform Phase 3 trial of Wainua (eplontersen) 45 mg every four weeks did not meet its primary efficacy endpoint — a composite of cardiovascular mortality and recurrent CV clinical events through Week 140 — when added to standard of care in adults with transthyretin-mediated amyloid cardiomyopathy (ATTR-CM). Full data go to the European Society of Cardiology Congress in August.",
+        "howItWorks": "CARDIO-TTRansform enrolled 1,432 patients across 130 sites in 20 countries, randomized 1:1 to eplontersen 45 mg subcutaneous every four weeks or placebo, on top of stable background therapy. 57% of patients in each arm were on a stabilizer (Pfizer's tafamidis or BridgeBio's acoramidis) at baseline and 24% initiated one during the trial. A prespecified monotherapy subgroup showed a nominally significant hazard ratio of 0.71 for the composite endpoint versus placebo; the on-stabilizer subgroup showed no treatment effect. Ionis CEO Brett Monia said the findings 'reflect the rapidly evolving treatment landscape, in which contemporary ATTR-CM patients are widely treated with stabilizers.' Stifel called the miss 'surprising' and said approaching regulators for a monotherapy label 'would seem like a stretch.'",
+        "whyItMatters": "Wainua is currently approved for polyneuropathy (ATTR-PN); the ATTR-CM cardiomyopathy label was the big 2027 catalyst for both companies and it just walked. Alnylam (ALNY) gapped +~18% premarket because vutrisiran (Amvuttra), already approved in ATTR-CM as of March 2025, sees its most credible near-term silencer competitor knocked out; ALNY reiterated 2026 TTR revenue guide of $4.4–4.7B into the miss. BridgeBio's Attruby (acoramidis) also rallied ~10% as the stabilizer combo is what the CARDIO-TTRansform patient population was mostly running on. Read-through to Pfizer's tafamidis franchise (Vyndaqel/Vyndamax) is mildly positive on the same competitive-set logic.",
+        "forWho": "biotech analysts, ATTR-CM prescribers, IONS/AZN/ALNY holders",
+        "tryIt": "https://finance.yahoo.com/quote/IONS/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/45DA686E7FCCAF03E45BDAFA2D519C4D9965E01338B4CC06D9B98609A479990A/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F08cbca529fffd3c0732b1b4926a95e17",
+        "alt": "Ionis and AstraZeneca Wainua Phase 3 CARDIO-TTRansform trial in ATTR-CM missed primary endpoint on July 9, 2026",
+        "fit": "cover",
+        "credit": "BusinessWire via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Press Release (mirror)",
+          "url": "https://sg.finance.yahoo.com/news/cardio-ttransform-phase-3-trial-060000731.html"
+        },
+        {
+          "label": "BioSpace Coverage",
+          "url": "https://www.biospace.com/drug-development/astrazeneca-ionis-slip-as-attr-cm-drug-fails-phase-3"
+        },
+        {
+          "label": "Benzinga Movers",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60354116/ionis-astrazeneca-pivotal-heart-disease-drug-flunks"
+        },
+        {
+          "label": "AZN Coverage",
+          "url": "https://uk.finance.yahoo.com/news/astrazeneca-wainua-falls-short-phase-071234056.html"
+        },
+        {
+          "label": "IONS Quote",
+          "url": "https://finance.yahoo.com/quote/IONS/"
+        },
+        {
+          "label": "ALNY Quote",
+          "url": "https://finance.yahoo.com/quote/ALNY/"
+        }
+      ],
+      "reddit": {
+        "title": "IONS -~20% / AZN -9% on Thursday July 9 — Wainua Phase 3 CARDIO-TTRansform in ATTR-CM MISSES primary endpoint; Alnylam +18%, BridgeBio +10% on competitor knockout",
+        "body": "Ionis and AstraZeneca's ATTR-CM cardiomyopathy readout for Wainua (eplontersen) — the big 2027 catalyst — just walked. Trial was N=1,432 across 130 sites in 20 countries.\n\n* **IONS: -~20% premarket**\n* AZN: -9% on the LSE\n* ALNY: +~18% (Amvuttra keeps its ATTR-CM competitive moat)\n* BBIO: +~10% (Attruby stabilizer is what most CARDIO-TTRansform patients were already on)\n* Primary endpoint: composite CV mortality + recurrent CV events at Week 140 — **not met** on top of standard of care\n* Monotherapy subgroup: nominally significant **HR 0.71**\n* On-stabilizer subgroup: no treatment effect\n\nWhat drove the miss:\n\n1. **The trial population was already on stabilizers** — 57% at baseline, another 24% initiating during the study. Tafamidis/acoramidis floor is now high enough that layering a silencer on top didn't reach the endpoint.\n2. **Silencer-vs-stabilizer competitive landscape shifted mid-trial** — CEO Brett Monia flagged the 'rapidly evolving treatment landscape' explicitly. Stifel called the miss 'surprising' and said approaching regulators for a monotherapy label 'would seem like a stretch.'\n3. **Amvuttra keeps the silencer high ground** — Alnylam reiterated its 2026 TTR revenue guide of $4.4–4.7B into the print.\n\nNext catalysts: full CARDIO-TTRansform data at ESC Congress in August; any AZN/IONS regulatory-path decision on monotherapy filing.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ions-azn-wainua-attr-cm-phase-3-miss-july-9-2026](https://stock-tldr.xyz/releases/ions-azn-wainua-attr-cm-phase-3-miss-july-9-2026)"
+      },
+      "publishDate": "2026-07-09T14:42:11.436Z"
+    },
+    {
+      "id": "pep-q2-2026-earnings-july-9",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "PepsiCo (PEP) Q2 2026 — adj EPS $2.20 misses $2.21 est by a penny; revenue $24.18B beats $23.95B est (+6.4% Y/Y); organic revenue +2.4%; core operating profit $4.07B (+4%), core margin -40bp to 16.8%; NA beverages volume -4%, NA foods flat, global foods +3% and beverages +2%; FY26 guide reaffirmed but trending 'lower end' of EPS range; stock -~3.2% premarket to $137.96",
+      "org": "PepsiCo",
+      "date": "2026-07-09",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-q2-2026-earnings-revenue-121112189.html",
+      "summary": "PepsiCo Q2 2026 — adj EPS $2.20 vs $2.21 est (miss by a penny); revenue $24.18B beats $23.95B est (+6.4% Y/Y); organic revenue +2.4%; core operating profit $4.07B; NA beverages volume -4%; FY26 EPS guide reaffirmed but trending lower end. Stock -~3.2% premarket.",
+      "tickers": [
+        "PEP",
+        "KO"
+      ],
+      "metrics": {
+        "Adj EPS": "$2.20 vs $2.21 est (miss $0.01)",
+        "Net revenue": "$24.18B vs $23.95B est (+6.4% Y/Y)",
+        "Organic revenue growth": "+2.4%",
+        "Core operating profit": "$4.07B (+4%)",
+        "Core operating margin": "16.8% (-40bp Y/Y)",
+        "Global foods volume": "+3%",
+        "Global beverages volume": "+2%",
+        "NA foods volume": "flat",
+        "NA beverages volume": "-4%",
+        "PBNA operating margin": "-90bp",
+        "FY26 EPS guide": "reaffirmed, trending lower end",
+        "Premarket move": "-~3.2% to $137.96 (from $142.51 close)"
+      },
+      "tags": [
+        "pep",
+        "pepsico",
+        "earnings",
+        "q2-2026",
+        "eps-miss",
+        "revenue-beat",
+        "consumer-staples",
+        "frito-lay",
+        "pepsi",
+        "gatorade",
+        "beverages",
+        "snacks",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "PepsiCo Q2 revenue tops the tape but adj EPS misses by a penny; North American beverage volume down 4% keeps the U.S. category funk intact.",
+        "whatIsIt": "PepsiCo (PEP) posted second-quarter 2026 results before Thursday's open, with the top line beating consensus on stronger snacks and beverages volume internationally but adjusted EPS coming in a cent below the Street. Net revenue was $24.18B versus a $23.95B estimate, up 6.4% year over year; adjusted EPS was $2.20 versus a $2.21 estimate. Organic revenue growth was +2.4%. Management reaffirmed full-year 2026 guidance but flagged results would trend toward the lower end of the adjusted-EPS range.",
+        "howItWorks": "Core operating profit rose 4% to $4.07 billion but core operating margin narrowed 40 basis points to 16.8% as cost pressure partly offset productivity gains and pricing. Global convenient foods volume grew 3% and global beverages volume grew 2%. North America carried the softness: NA beverages volume was -4%, NA convenient foods volume flat, and PepsiCo Beverages North America saw a 90-basis-point operating-margin decline. International segments — Asia Pacific Foods, International Beverages Franchise and Europe/Middle East/Africa — all posted organic volume gains. CEO Ramon Laguarta said results were 'tempered' as 'U.S. food and beverage category performance moderated with consumer budgets tightening due to rising inflationary pressures.'",
+        "whyItMatters": "Confirms the U.S. staples-consumer stall while showing pricing power outside North America still gets PEP a 6%+ headline revenue line. PEP was -~3.2% at $137.96 in premarket versus a $142.51 prior close; the reaction is mostly about the 'trending lower end' comment on FY guidance rather than the penny miss. Read-through to Coca-Cola (KO, reports July 22) is the same NA-beverage-volume drag; read-through to Frito-Lay comp Utz/Mondelez is the confirmed at-home snacks weakness on tighter U.S. budgets. Watch the FY26 organic revenue and core constant-currency EPS lines management maintained versus the softer commentary — the delta is the trapdoor.",
+        "forWho": "consumer-staples analysts, PEP/KO/MDLZ holders, U.S. category-trend desks",
+        "tryIt": "https://finance.yahoo.com/quote/PEP/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/FFF9325F6A3AB6168E54EBA7B8C4FFABA0C59BF1D791628CE5FC449D25A9C84A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Ff079aa2cd0eafae7afc07b7017c1e980",
+        "alt": "PepsiCo Q2 2026 results — revenue beat, EPS miss, U.S. beverage volume down 4% on July 9, 2026",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-q2-2026-earnings-revenue-121112189.html"
+        },
+        {
+          "label": "Revenue Beat Detail",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-revenue-tops-forecasts-global-105426178.html"
+        },
+        {
+          "label": "PepsiCo IR Newsroom",
+          "url": "https://www.pepsico.com/en/newsroom/press-releases/2026/pepsico-declares-quarterly-dividend-q2-2026"
+        },
+        {
+          "label": "PEP Quote",
+          "url": "https://finance.yahoo.com/quote/PEP/"
+        }
+      ],
+      "reddit": {
+        "title": "PEP Q2 2026 — adj EPS $2.20 misses $2.21 est (by a penny), revenue $24.18B beats $23.95B; NA beverages volume -4%, FY26 EPS trending 'lower end'; stock -~3.2% premarket",
+        "body": "PepsiCo's Q2 hit before the open Thursday. The headline print is mixed — revenue clears, EPS misses by a penny — but the guidance qualifier and the North American beverage line are what the tape is trading.\n\n* **Adj EPS: $2.20 vs $2.21 est** (miss $0.01)\n* Revenue: $24.18B vs $23.95B est, +6.4% Y/Y\n* Organic revenue: +2.4%\n* Core operating profit: $4.07B (+4%)\n* Core operating margin: 16.8% (-40 bps)\n* Global foods volume: +3%\n* Global beverages volume: +2%\n* **NA beverages volume: -4%** — the ugly line\n* NA foods volume: flat\n* FY26 EPS guide: **reaffirmed, trending 'lower end'**\n* PEP premarket: -~3.2% to $137.96 (from $142.51 close)\n\nWhat's driving the print:\n\n1. **U.S. category is still stalled** — CEO Ramon Laguarta: results 'tempered' as 'U.S. food and beverage category performance moderated with consumer budgets tightening due to rising inflationary pressures.'\n2. **International is doing the work** — Asia Pacific Foods, International Beverages Franchise and EMEA all posted organic volume gains.\n3. **PBNA margin -90bp** — pricing + productivity gains not fully offsetting cost pressure in North America.\n\nNext catalysts: KO reports July 22 (same NA-beverage-volume read), MDLZ end of July, PEP FY26 guide risk into Q3.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pep-q2-2026-earnings-july-9](https://stock-tldr.xyz/releases/pep-q2-2026-earnings-july-9)"
+      },
+      "publishDate": "2026-07-09T14:42:11.436Z"
+    },
+    {
+      "id": "levi-q2-2026-earnings-guidance-raise-july-8",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Levi Strauss (LEVI) Q2 2026 (quarter ended May 31) — adj EPS $0.28 beats $0.25 est, revenue $1.56B beats $1.52B est (+~8% Y/Y); FY26 EPS guide raised to $1.46-$1.52 (from $1.42-$1.48) and sales +7-7.5% (from +5.5-6.5%); quarterly dividend +7% to $0.16; but stock -~6% premarket to $22.90 on high bar; guidance assumes 30% China / 20% RoW tariffs holding",
+      "org": "Levi Strauss & Co.",
+      "date": "2026-07-08",
+      "url": "https://investors.levistrauss.com/news/financial-news/news-details/2026/Levi-Strauss--Co--Reports-Second-Quarter-Results/default.aspx",
+      "summary": "Levi Strauss (LEVI) Q2 2026 — adj EPS $0.28 beat $0.25 est, revenue $1.56B beat $1.52B est (+~8% Y/Y); FY26 EPS guide raised to $1.46-$1.52 and sales +7-7.5%; dividend +7% to $0.16/qtr; stock -~6% premarket as high bar meets 30% China / 20% RoW tariff assumption.",
+      "tickers": [
+        "LEVI"
+      ],
+      "metrics": {
+        "Adj EPS": "$0.28 vs $0.25 est (beat $0.03)",
+        "Net revenue": "$1.56B vs $1.52B est (+~8% Y/Y)",
+        "Organic net revenue": "+6%",
+        "Global DTC revenue": "+8% (comp +6%)",
+        "Global wholesale revenue": "+3%",
+        "US DTC growth": "+5%",
+        "Europe DTC growth": "+12% (organic +7%)",
+        "Asia DTC growth": "+12%",
+        "Gross margin": "62.7% (+10 bps)",
+        "Adjusted EBIT margin": "9.0% (+70 bps Y/Y)",
+        "Adjusted free cash flow": "$231M (+~60% Y/Y)",
+        "New FY26 EPS guide": "$1.46-$1.52 (from $1.42-$1.48)",
+        "New FY26 sales guide": "+7-7.5% (from +5.5-6.5%)",
+        "Quarterly dividend": "$0.16 (+7%)",
+        "Tariff assumption in guide": "30% China / 20% RoW",
+        "Premarket move (July 9)": "-~6% to $22.90"
+      },
+      "tags": [
+        "levi",
+        "levi-strauss",
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "dividend-hike",
+        "apparel",
+        "denim",
+        "dtc",
+        "tariffs",
+        "michelle-gass"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Levi's beats top and bottom line, raises FY26 guide and dividend — but the stock still gaps down ~6% as expectations rip past the raise.",
+        "whatIsIt": "Levi Strauss & Co. (LEVI) posted Q2 2026 results after Wednesday July 8's close for the quarter ended May 31. Adjusted EPS was $0.28 versus a $0.25 consensus (beat $0.03); net revenue was $1.56B versus a $1.52B consensus (+~8% Y/Y). CEO Michelle Gass framed the quarter as further evidence Levi's is 'evolving into a DTC-first, denim lifestyle company with faster growth and higher profitability.' The company raised full-year guidance and hiked the quarterly dividend 7% to $0.16/share.",
+        "howItWorks": "Organic net revenue grew 6%. Direct-to-consumer revenue was up 8% globally (comp +6%); U.S. DTC +5%, Europe DTC +12% (organic +7%), Asia DTC +12%. Global wholesale was +3%. Gross margin expanded 10 bps to 62.7% on lower product costs and pricing actions; adjusted EBIT margin rose 70 bps to 9.0%. Adjusted free cash flow was $231M, up ~60% Y/Y. The new FY26 EPS band is $1.46-$1.52 (from $1.42-$1.48) and organic sales growth is now +7-7.5% (from +5.5-6.5%). CFO commentary noted the guide assumes U.S. import tariffs stay at 30% on China and 20% on Rest-of-World — a deliberately punitive assumption rather than the ~19-20% level tariffs are expected to return to later in July, so the guide holds even if tariffs stay high.",
+        "whyItMatters": "The setup, not the print. LEVI shares had been trading near 52-week highs into the release, so a top-and-bottom-line beat plus a guide raise still gapped the stock ~6% lower to $22.90 in Thursday premarket — sellers wanted a bigger raise. That's the read-through for the rest of DTC-apparel earnings season (LULU, GAP, ONON): expectations are already reset high, and a modest beat + modest raise won't hold gains. The tariff-assumption transparency is also notable — LEVI is the first apparel name to lock a punitive 30%/20% into official FY guidance rather than dodge the question. Watch how peers frame their tariff bake-in on their next prints.",
+        "forWho": "apparel and consumer discretionary analysts, LEVI/LULU/GAP holders, tariff-exposed retail desks",
+        "tryIt": "https://finance.yahoo.com/quote/LEVI/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/D069064670AD394EE4E3D70E3EECB06804E592F06330DD5F279A390AC0D05D33/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fe7e14796a1762d121ac6a7bb128d875a",
+        "alt": "Levi Strauss Q2 2026 earnings beat and guidance raise, but stock falls after hours on July 8, 2026",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "LEVI Press Release",
+          "url": "https://investors.levistrauss.com/news/financial-news/news-details/2026/Levi-Strauss--Co--Reports-Second-Quarter-Results/default.aspx"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/levi-strauss-q2-2026-earnings-130044492.html"
+        },
+        {
+          "label": "Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/levi-strauss-co-levi-q2-050033388.html"
+        },
+        {
+          "label": "LEVI Quote",
+          "url": "https://finance.yahoo.com/quote/LEVI/"
+        }
+      ],
+      "reddit": {
+        "title": "LEVI Q2 2026 — adj EPS $0.28 beat $0.25, revenue $1.56B beat $1.52B; FY26 guide RAISED to $1.46-$1.52 EPS and +7-7.5% sales; dividend +7%; stock -~6% premarket on priced-in expectations",
+        "body": "Levi Strauss & Co. dropped Q2 after Wednesday July 8's close. Top-and-bottom-line beat, guidance raise, dividend hike — and the stock still gapped down ~6% to $22.90 into Thursday premarket.\n\n* **Adj EPS: $0.28 vs $0.25 est** (beat $0.03)\n* **Revenue: $1.56B vs $1.52B est** (+~8% Y/Y)\n* Organic net revenue: +6%\n* Global DTC: +8% (comp +6%)\n* US DTC: +5%; Europe DTC: +12% (organic +7%); Asia DTC: +12%\n* Global wholesale: +3%\n* Gross margin: 62.7% (+10 bps)\n* Adj EBIT margin: 9.0% (+70 bps)\n* Adj FCF: $231M (+~60% Y/Y)\n\nGuidance move:\n\n1. **FY26 EPS: raised to $1.46-$1.52** (from $1.42-$1.48)\n2. **FY26 sales: raised to +7-7.5%** (from +5.5-6.5%)\n3. **Dividend: +7% to $0.16/qtr**\n\nWhy the stock is still down ~6%:\n\n1. **Priced in** — LEVI had been trading near 52-week highs into the print. A modest beat + modest raise won't hold that setup.\n2. **Punitive tariff bake-in** — guide assumes 30% China and 20% RoW tariffs, deliberately above the ~19-20% level tariffs are expected to return to later in July. Deliberately conservative but also caps the upside surprise potential.\n\nRead-through: this is the first DTC-apparel print into a busy earnings run — LULU, GAP, ONON all have their own 'priced-in' setups. Also the first apparel name to lock punitive tariff assumptions into official guidance.\n\nNext catalysts: LULU (late Aug), GAP (mid-Aug), ONON (mid-Aug); July U.S. retail-sales print for staples/discretionary read.\n\nFull breakdown: [https://stock-tldr.xyz/releases/levi-q2-2026-earnings-guidance-raise-july-8](https://stock-tldr.xyz/releases/levi-q2-2026-earnings-guidance-raise-july-8)"
+      },
+      "publishDate": "2026-07-09T14:42:11.436Z"
+    },
     {
       "id": "fomc-june-2026-minutes-july-8",
       "categories": [
