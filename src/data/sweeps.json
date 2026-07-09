@@ -6798,6 +6798,49 @@
         "regulatory",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260709t015424z",
+      "timestamp": "2026-07-09T01:54:24.226Z",
+      "source": "github-actions-sweep",
+      "summary": "Three items added for July 8: (1) the June 16-17 FOMC minutes released at 2 p.m. ET revealing a rare 'many' vs 'many others' committee split on the year-end rate path and a 2026 PCE forecast lifted to 3.6%; (2) Alibaba's ~10.6% surge to ~$108.60 after a Jiemian scoop on a pre-earnings analyst briefing indicating narrowing instant-commerce losses; (3) Dream Finders Homes' escalation of its Beazer bid to $32/share ($874M all-cash, third offer since May) sending BZH +~14.7% to ~$31.47.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fomc-june-2026-minutes-july-8",
+          "title": "June 16-17 FOMC minutes released Wednesday July 8 confirm hawkish hold — Committee split with 'many' seeing rate 'within or slightly below' current levels by year-end while 'many other participants' see it 'above the current target range', 2026 PCE forecast marked up to 3.6% (from 2.7% in March), Dow -577 pts (-1.09%) to 52,348, S&P 500 -0.28% to 7,482.71, 10Y +~4bp",
+          "category": "macro",
+          "note": "Primary-source macro event — the June 16-17 minutes released 2 p.m. ET on July 8. Distinct from the June 17 decision itself; parallels the existing fomc-april-2026-minutes-may-20 precedent."
+        },
+        {
+          "id": "baba-pre-earnings-briefing-rally-july-8-2026",
+          "title": "Alibaba (BABA) +~10.6% to ~$108.60 on Wednesday July 8 — pre-earnings analyst briefing signals narrowing losses in the instant-commerce business as Hong Kong-listed 9988 rips +12.5% (biggest single-day since September), Hang Seng Tech +~5%, Baidu +5% in a Chinese-megacap rotation trade",
+          "category": "mover",
+          "note": "Two tier-1 outlets and a ~10.6% single-name gap covered ≥5% move rule; distinct catalyst from the May Q4 FY26 print already in the feed."
+        },
+        {
+          "id": "dfh-bzh-32-bid-raise-july-8-2026",
+          "title": "Dream Finders Homes (DFH) raises all-cash bid for Beazer Homes (BZH) to $32/share (~$874M) on Wednesday July 8 — third offer after $25.75 on May 11 and $29.25 on June 22; BZH +~14.7% to ~$31.47 as board 'evaluates additional-party interest' rather than reject outright",
+          "category": "mna",
+          "note": "Bloomberg-covered mid-cap M&A escalation with named issuer-side release and +14.7% single-name move; not covered in existing feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "mover",
+        "earnings",
+        "mna",
+        "regulatory",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

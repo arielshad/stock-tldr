@@ -1,8 +1,233 @@
 {
-  "generatedAt": "2026-07-08T13:34:41.695Z",
+  "generatedAt": "2026-07-09T01:54:24.226Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fomc-june-2026-minutes-july-8",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "June 16-17 FOMC minutes released Wednesday July 8 confirm hawkish hold — Committee split with 'many' seeing rate 'within or slightly below' current levels by year-end while 'many other participants' see it 'above the current target range', 2026 PCE forecast marked up to 3.6% (from 2.7% in March), Dow -577 pts (-1.09%) to 52,348, S&P 500 -0.28% to 7,482.71, 10Y +~4bp",
+      "org": "Federal Reserve",
+      "date": "2026-07-08",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm",
+      "summary": "Minutes from Warsh's first FOMC (June 16-17, held 3.50-3.75% 12-0) reveal a divided Committee — 'many' see the year-end rate at/below current while 'many others' see it above; 2026 PCE forecast lifted to 3.6% from 2.7%. Dow -577, S&P 500 -0.28% to 7,482.71 as 10Y yields grind higher.",
+      "tags": [
+        "fomc",
+        "fed",
+        "minutes",
+        "warsh",
+        "rate-path",
+        "sep",
+        "dot-plot",
+        "hawkish",
+        "pce",
+        "inflation",
+        "10y",
+        "yields",
+        "june-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^TNX"
+      ],
+      "metrics": {
+        "Target range": "3.50–3.75% (held 12-0)",
+        "2026 PCE forecast": "3.6% (up from 2.7% in March SEP)",
+        "Dot-plot split (Dec 2026 rate)": "9 dots ≥1 hike, 8 no change, 1 cut",
+        "S&P 500": "7,482.71 (-0.28%)",
+        "Dow Jones": "-577 pts (-1.09%) to ~52,348",
+        "Nasdaq 100": "+0.3%",
+        "WTI (CL=F)": "$74+ (Iran-driven bid)"
+      },
+      "explainer": {
+        "tagline": "June minutes released July 8 reveal a divided Committee: 'many' see year-end rate at/below current, 'many others' see it above; 2026 PCE forecast lifted to 3.6%.",
+        "whatIsIt": "The Federal Reserve released the minutes of Kevin Warsh's first FOMC meeting on Wednesday July 8, 2026 at 2:00 p.m. ET, three weeks after the June 16-17 decision that held the federal funds target range at 3.50-3.75% by a unanimous 12-0 vote. The minutes explicitly removed forward guidance suggesting an easing bias.",
+        "howItWorks": "The record captures a rare split. 'Many' participants judged the appropriate federal funds rate at year-end would be 'within or slightly below' current levels, while 'many other participants' saw it 'above the current target range' — matching the 9-of-18 SEP dots that flipped to at least one 25bp hike by December. 2026 headline PCE forecast was marked up to 3.6% from 2.7% in the March SEP, and 'multiple participants' saw upside risks to inflation. Vote was 12-0; some participants argued a case for hikes but none dissented.",
+        "whyItMatters": "The minutes formalize the pivot the June dot-plot had already signaled: the Fed is not on autopilot toward cuts. Fed-funds futures now imply the target could rise toward 4% by year-end even after the soft June payrolls print. Dow -577 (-1.09%), S&P 500 -0.28% to 7,482.71, Nasdaq 100 +0.3% — mixed close as the Iran-driven oil bid stole most of the ink, but 10Y yields ground higher (+~4bp). Next signal: June CPI, July 14.",
+        "forWho": "rates traders, macro allocators, curve steepeners",
+        "tryIt": "10Y Treasury yield: https://finance.yahoo.com/quote/%5ETNX"
+      },
+      "image": {
+        "url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+        "alt": "Federal Reserve official social share graphic — Eccles Building facade",
+        "fit": "cover",
+        "credit": "Federal Reserve"
+      },
+      "links": [
+        {
+          "label": "FOMC Minutes (PDF/HTML)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm"
+        },
+        {
+          "label": "Fed Press Release",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
+        },
+        {
+          "label": "June 17 FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+        },
+        {
+          "label": "10Y Treasury Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "June FOMC minutes drop: 'many' see year-end rate at/below current, 'many others' see it ABOVE — 2026 PCE forecast marked up to 3.6% from 2.7%",
+        "body": "The three-week wait is over. Wednesday July 8 at 2 p.m. ET the Fed released the minutes of Warsh's first meeting. The tape is hawkish:\n\n* Unanimous 12-0 hold at 3.50–3.75% on June 17 confirmed\n* 'Many' participants see the appropriate rate 'within or slightly below' current levels by year-end\n* 'Many other participants' judged it 'above the current target range' — a rare direct-conflict phrasing\n* 2026 headline PCE forecast marked up to 3.6% (from 2.7% in March SEP)\n* Forward guidance about a possible easing bias was removed\n\nWhat markets did:\n\n1. **Rate path repriced higher, not lower** — Fed-funds futures now imply the target grinds toward 4% by year-end even after the soft June payrolls print, matching the 9-of-18 SEP dots that flipped to at least one 25bp hike.\n2. **10Y yields grind higher** — +~4bp intraday. Curve steepens modestly.\n3. **Equities mixed on the day** — Dow -577 (-1.09%) as the Iran-driven oil bid and Fed hawkishness compound. S&P 500 -0.28% to 7,482.71. Nasdaq 100 +0.3% as chip names shrug off the minutes.\n\nNext catalyst: June CPI, July 14 — the first major inflation reading since the hawkish June meeting.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-june-2026-minutes-july-8](https://stock-tldr.xyz/releases/fomc-june-2026-minutes-july-8)"
+      },
+      "publishDate": "2026-07-09T01:54:24.226Z"
+    },
+    {
+      "id": "baba-pre-earnings-briefing-rally-july-8-2026",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Alibaba (BABA) +~10.6% to ~$108.60 on Wednesday July 8 — pre-earnings analyst briefing signals narrowing losses in the instant-commerce business as Hong Kong-listed 9988 rips +12.5% (biggest single-day since September), Hang Seng Tech +~5%, Baidu +5% in a Chinese-megacap rotation trade",
+      "org": "Alibaba Group",
+      "date": "2026-07-08",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-rallies-12-report-narrowing-085233353.html",
+      "summary": "BABA rockets ~10.6% to ~$108.60 on Wednesday July 8 after a pre-earnings analyst briefing (reported by Jiemian) said losses in Alibaba's instant-commerce business narrowed in the June quarter while overall profitability held steady. HK-listed 9988 +12.5%, Hang Seng Tech +5%, Baidu +5%.",
+      "tags": [
+        "china-tech",
+        "instant-commerce",
+        "quick-commerce",
+        "pre-earnings",
+        "analyst-briefing",
+        "hang-seng-tech",
+        "rotation-trade",
+        "jd-com",
+        "meituan"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BABA",
+        "BIDU",
+        "JD",
+        "PDD"
+      ],
+      "metrics": {
+        "BABA close (July 8)": "~$108.60 (+~10.6%)",
+        "HK 9988 peak intraday": "+12.5% (biggest since September)",
+        "Hang Seng Tech Index": "+~5%",
+        "Baidu (BIDU)": "+~5%"
+      },
+      "explainer": {
+        "tagline": "Alibaba +~10.6% on July 8 as a pre-earnings analyst briefing signals narrowing instant-commerce losses; the whole Chinese-megacap complex reprices.",
+        "whatIsIt": "Alibaba (BABA) surged on Wednesday July 8, 2026 after Chinese outlet Jiemian reported the company had told sell-side analysts at a pre-earnings briefing that losses in its fast-growing instant-commerce (quick-commerce) segment narrowed in the June quarter while overall profitability held steady. The Hong Kong-listed shares (9988) jumped as much as 12.5% intraday — the biggest single-day gain since September — while the U.S. ADR closed up ~10.6% near $108.60.",
+        "howItWorks": "Instant commerce has been the biggest drag on Alibaba's margins in FY26 as it battled Meituan and JD.com for share; the Q4 FY26 print in May showed non-GAAP net income collapsing near zero on quick-commerce plus AI capex. The briefing did NOT disclose quantitative figures — just that the trajectory improved. The rally is compounded by a broader Chinese-tech rotation as investors pull capital from stretched U.S. semis and look for cheaper AI exposure: Baidu +~5%, Hang Seng Tech Index +~5%, JD.com and PDD also up on the day.",
+        "whyItMatters": "The catalyst is a scoop rather than an official disclosure — so it's a rumor-tier signal for a real-tier price move. If confirmed at the actual Q1 FY27 print in August, it would reverse the margin narrative that pushed BABA to a ~$97 handle in June and validate the 'peak losses behind us' thesis for the whole Chinese instant-commerce complex. Watch: JD.com, PDD, Meituan for confirmation.",
+        "forWho": "Chinese-tech long-onlies, rotation-trade specialists",
+        "tryIt": "BABA quote: https://finance.yahoo.com/quote/BABA"
+      },
+      "image": {
+        "url": "https://blockonomi.com/wp-content/uploads/2026/07/shutterstock_2610067143-scaled-1.jpg",
+        "alt": "Alibaba Group logo — Chinese e-commerce megacap surges on pre-earnings briefing",
+        "fit": "cover",
+        "credit": "Shutterstock via Blockonomi"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-rallies-12-report-narrowing-085233353.html"
+        },
+        {
+          "label": "Blockonomi Recap",
+          "url": "https://blockonomi.com/alibaba-baba-stock-soars-11-as-pre-earnings-briefing-sparks-chinese-tech-rally/"
+        },
+        {
+          "label": "24/7 Wall St. Recap",
+          "url": "https://247wallst.com/investing/2026/07/08/alibaba-surges-9-ahead-of-earnings-baidu-gains-5-as-chinese-e-commerce-and-tech-stocks-rally/"
+        },
+        {
+          "label": "BABA Chart",
+          "url": "https://finance.yahoo.com/quote/BABA"
+        }
+      ],
+      "reddit": {
+        "title": "Alibaba (BABA) +~10.6% to ~$108.60 on Wednesday July 8 — pre-earnings analyst briefing signals narrowing instant-commerce losses; HK-listed +12.5%, Hang Seng Tech +5%",
+        "body": "A single briefing repriced the entire Chinese-megacap complex. Here's Wednesday July 8:\n\n* BABA ADR closes +~10.6% to ~$108.60 — biggest daily gain in ten months\n* Hong Kong-listed 9988 spikes +12.5% intraday, biggest single-day since September\n* Hang Seng Tech Index +~5%; Baidu (BIDU) +~5%; JD.com and PDD along for the ride\n* Trigger: Chinese outlet Jiemian reports that Alibaba told sell-side analysts at a pre-earnings briefing that losses in its instant-commerce (quick-commerce) segment narrowed in the June quarter while overall profitability held steady\n\nWhy this matters more than the tape suggests:\n\n1. **Quick-commerce has been THE margin story** — in May, Q4 FY26 print showed non-GAAP net income near zero on AI capex + Meituan/JD price war losses. A margin turn changes the whole model.\n2. **It's a scoop, not a disclosure** — no numbers released. Real confirmation only comes at Q1 FY27 print in August.\n3. **Rotation trade is real** — money leaving stretched U.S. semis (chip rout continues into a fourth session) looking for cheap AI exposure. Chinese megacaps are the obvious answer.\n\nNext catalyst: Q1 FY27 print, mid-to-late August.\n\nFull breakdown: [https://stock-tldr.xyz/releases/baba-pre-earnings-briefing-rally-july-8-2026](https://stock-tldr.xyz/releases/baba-pre-earnings-briefing-rally-july-8-2026)"
+      },
+      "publishDate": "2026-07-09T01:54:24.226Z"
+    },
+    {
+      "id": "dfh-bzh-32-bid-raise-july-8-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Dream Finders Homes (DFH) raises all-cash bid for Beazer Homes (BZH) to $32/share (~$874M) on Wednesday July 8 — third offer after $25.75 on May 11 and $29.25 on June 22; BZH +~14.7% to ~$31.47 as board 'evaluates additional-party interest' rather than reject outright",
+      "org": "Dream Finders Homes",
+      "date": "2026-07-08",
+      "url": "https://announcement.dreamfindershomes.com/",
+      "summary": "Dream Finders Homes raises its all-cash offer for Beazer Homes to $32/share on Wednesday July 8, valuing BZH at ~$874M (70% premium to $18.77 pre-announcement price on May 8). Third offer after $25.75 on May 11 and $29.25 on June 22. BZH +~14.7% to ~$31.47.",
+      "tags": [
+        "homebuilders",
+        "all-cash",
+        "hostile-bid",
+        "bidding-war",
+        "standstill-agreement",
+        "housing"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DFH",
+        "BZH"
+      ],
+      "metrics": {
+        "Offer price": "$32.00/share all-cash",
+        "Prior offers": "$25.75 (May 11), $29.25 (June 22)",
+        "Implied EV": "~$874M (27.3M shares outstanding)",
+        "Premium to May 8 price": "+70% (vs $18.77 pre-announcement)",
+        "BZH intraday close": "~$31.47 (+~14.7% on July 8)"
+      },
+      "explainer": {
+        "tagline": "Dream Finders lifts its all-cash bid for Beazer to $32/share (~$874M) — a 70% premium to the pre-announcement mark — as the Beazer board evaluates other interested parties.",
+        "whatIsIt": "Dream Finders Homes (DFH), Patrick Zalupski's Jacksonville-based builder, publicly raised its bid to acquire Atlanta-based Beazer Homes USA (BZH) to $32.00 per share in all cash on Wednesday July 8, 2026. This is the third public offer: $25.75 on May 11, $29.25 on June 22, now $32.00. Total consideration is ~$874M based on Beazer's 27.3M shares outstanding.",
+        "howItWorks": "The $32 offer represents a 70% premium to Beazer's $18.77 close on May 8 before Dream Finders publicly announced its interest. Beazer's board previously said the $29.25 offer 'undervalued the company' and, on July 8, said it has now received interest 'from additional parties regarding a range of potential transactions' and is evaluating them against a standalone strategy. Dream Finders CEO Zalupski counters that Beazer's actions 'do not appear to be focused on pursuing a path that can maximize value for shareholders.' Negotiations are stalled over a confidentiality-and-standstill agreement.",
+        "whyItMatters": "This is the year's most public homebuilder-consolidation fight and the third-largest single-name mover on July 8 (+~14.7% to ~$31.47). If a superior counter-bid emerges — from a strategic like PulteGroup, Lennar or D.R. Horton, or from a PE consortium — the sector re-rates on scarcity value in mid-cap builders. If Dream Finders walks, BZH re-rates lower against its standalone story. The next catalyst is whether Beazer accepts DFH's standstill terms and opens the data room.",
+        "forWho": "M&A arbs, homebuilder specialists, mid-cap value",
+        "tryIt": "BZH quote: https://finance.yahoo.com/quote/BZH"
+      },
+      "image": {
+        "url": "https://media.yourobserver.com/img/photos/2026/07/08/20260708_Beazer_image_r1080x720.png?a5a8e335434cfe3a93dc299de6ea435221e0bf0d",
+        "alt": "Beazer Homes signage — Dream Finders raises its all-cash bid to $32 per share",
+        "fit": "cover",
+        "credit": "Jax Daily Record"
+      },
+      "links": [
+        {
+          "label": "Dream Finders Announcement",
+          "url": "https://announcement.dreamfindershomes.com/"
+        },
+        {
+          "label": "Citybiz Coverage",
+          "url": "https://www.citybiz.co/article/871263/dream-finders-homes-raises-all-cash-offer-for-beazer-homes-to-32-per-share/"
+        },
+        {
+          "label": "Jax Daily Record Report",
+          "url": "https://www.jaxdailyrecord.com/news/2026/jul/08/dream-finders-increases-offer-for-beazer-homes-to-32-a-share/"
+        },
+        {
+          "label": "HousingWire Standstill Story",
+          "url": "https://www.housingwire.com/articles/32-beazer-standstill-terms/"
+        },
+        {
+          "label": "BZH Chart",
+          "url": "https://finance.yahoo.com/quote/BZH"
+        }
+      ],
+      "reddit": {
+        "title": "Dream Finders Homes raises Beazer bid to $32/share ($874M all-cash) — third offer, 70% premium to pre-announcement; BZH +~14.7% to ~$31.47 as board 'evaluates additional-party interest'",
+        "body": "The year's most public homebuilder-consolidation fight escalated Wednesday July 8. Dream Finders (DFH) went public with a third all-cash offer for Beazer (BZH):\n\n* $32.00/share all-cash — up from $29.25 on June 22 and $25.75 on May 11\n* Implied ~$874M total consideration (27.3M shares outstanding)\n* 70% premium to Beazer's $18.77 close on May 8, before DFH publicly declared its interest\n* BZH +~14.7% to ~$31.47 — third-largest single-name mover on the day\n\nWhere the fight sits:\n\n1. **Beazer isn't outright rejecting** — the board said it has received interest 'from additional parties regarding a range of potential transactions' and is evaluating them against its standalone strategy.\n2. **Dream Finders is pushing hard** — CEO Patrick Zalupski says Beazer's actions 'do not appear to be focused on pursuing a path that can maximize value for shareholders'.\n3. **The standstill is the tell** — negotiations are stalled over confidentiality-and-standstill terms. If Beazer opens the data room, a deal likely follows. If not, DFH may walk.\n\nNames to watch as potential counter-bidders: PulteGroup, Lennar, D.R. Horton, or PE consortia.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dfh-bzh-32-bid-raise-july-8-2026](https://stock-tldr.xyz/releases/dfh-bzh-32-bid-raise-july-8-2026)"
+      },
+      "publishDate": "2026-07-09T01:54:24.226Z"
+    },
     {
       "id": "us-iran-ceasefire-collapse-ankara-july-8-2026",
       "categories": [
