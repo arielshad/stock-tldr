@@ -1,8 +1,256 @@
 {
-  "generatedAt": "2026-07-10T01:37:05.365Z",
+  "generatedAt": "2026-07-10T14:04:43.288Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "skhy-nasdaq-debut-149-july-10-2026",
+      "categories": [
+        "ipo",
+        "mover",
+        "sector"
+      ],
+      "title": "SK Hynix (SKHY / SKHYV) Nasdaq debut on Friday July 10 — ADSs priced at $149 raise ~$26.5B in the largest ever US IPO by a foreign company; book was ~7x oversubscribed and SMH +2.5%, MU +4.5%, SNDK +7.6% ride the memory tape",
+      "org": "SK Hynix",
+      "date": "2026-07-10",
+      "url": "https://www.koreaherald.com/article/10804650",
+      "summary": "SK Hynix prices 177.9M ADSs at $149 for a ~$26.5B raise, tops Alibaba's 2014 $25B record for a foreign issuer; SKHYV trades when-issued on July 10, SKHY regular-way July 13.",
+      "tags": [
+        "ipo",
+        "sk-hynix",
+        "skhy",
+        "hbm",
+        "memory",
+        "semis",
+        "adr",
+        "nasdaq",
+        "foreign-issuer-record",
+        "oversubscribed"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "SKHY",
+        "MU",
+        "SNDK",
+        "SMH",
+        "NVDA"
+      ],
+      "metrics": {
+        "ADS priced at": "$149.00",
+        "ADSs offered": "177.9M",
+        "Raise": "~$26.5B",
+        "Prior record (Alibaba 2014)": "$25B",
+        "Book coverage": "~7x oversubscribed",
+        "SMH": "+2.5%",
+        "MU": "+4.5%",
+        "SNDK": "+7.6%"
+      },
+      "explainer": {
+        "tagline": "SK Hynix lists on Nasdaq with a $26.5B raise — a new record for foreign IPOs and a fresh AI-memory anchor for US investors.",
+        "whatIsIt": "SK Hynix, the world's #2 memory maker and Nvidia's main high-bandwidth-memory (HBM) supplier, priced its US IPO of American Depositary Shares (ADSs) at $149. The offering raises about $26.5B and lists on the Nasdaq Global Select Market on Friday July 10 under the temporary ticker SKHYV, transitioning to SKHY for regular-way trading on Monday July 13.",
+        "howItWorks": "The pricing statement covers 177.9M ADSs (each representing 1/10 of a Seoul common share). Books were ~7x oversubscribed per Reuters sources, and Bloomberg reports it was the first US IPO priced at a premium to the home-market reference. Total proceeds of ~$26.5B eclipse Alibaba's $25B 2014 debut for the largest ever US IPO by a foreign company.",
+        "whyItMatters": "Direct US access to the HBM/DRAM cycle without going through Korean withholding tax and index rebalances draws forced buying across memory-adjacent names (MU +4.5%, SNDK +7.6%, SMH +2.5% intraday). It also sets a US-index precedent for future foreign-issuer mega listings and tests whether AI-memory demand can absorb another ~$26B of paper into the tape.",
+        "forWho": "semis desks, IPO/allocations, Nvidia supply-chain analysts",
+        "tryIt": "https://www.tradingview.com/symbols/NASDAQ-SKHY/"
+      },
+      "image": {
+        "url": "https://wimg.heraldcorp.com/news/cms/2026/07/10/news-p.v1.20260710.8192dcc33a094a45b5baaf026b9e09c8_T1.jpg",
+        "alt": "SK Hynix logo on a signboard at company facility, Korea Herald file photo",
+        "fit": "cover",
+        "credit": "Korea Herald"
+      },
+      "links": [
+        {
+          "label": "Korea Herald: $26.5B Debut",
+          "url": "https://www.koreaherald.com/article/10804650"
+        },
+        {
+          "label": "MarketScreener: Pricing PR",
+          "url": "https://www.marketscreener.com/news/sk-hynix-announces-pricing-of-initial-public-offering-of-american-depositary-shares-ce7f5ededd81f42c"
+        },
+        {
+          "label": "Yahoo Reuters: IPO Detail",
+          "url": "https://ca.finance.yahoo.com/news/sk-hynix-ipo-to-give-us-investors-bigger-bite-of-the-memory-pie-as-shortages-persist-193700352.html"
+        },
+        {
+          "label": "Yahoo: SMH Chip Rally",
+          "url": "https://finance.yahoo.com/markets/stocks/article/micron-sandisk-marvell-stocks-jump-leading-chip-sector-gains-135433074.html"
+        },
+        {
+          "label": "TradingView: SKHY",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-SKHY/"
+        }
+      ],
+      "reddit": {
+        "title": "SK Hynix Nasdaq debut: 177.9M ADSs priced at $149 for a $26.5B raise — largest foreign IPO ever, book ~7x oversubscribed",
+        "body": "SK Hynix — Nvidia's main HBM supplier — just priced the biggest ever US IPO by a foreign company. Trading opens on Nasdaq today as SKHYV (regular-way SKHY starts Monday).\n\n* 177.9M ADSs priced at $149 (each ADS = 1/10 of a Seoul share)\n* Total raise ~$26.5B — tops Alibaba's $25B 2014 record for a foreign issuer\n* Book ~7x oversubscribed per Reuters sources\n* Bloomberg says first US IPO priced at a premium to the home-market reference\n* Chip tape ripping in sympathy — SMH +2.5%, MU +4.5%, SNDK +7.6% intraday\n\nWhy it moved everything:\n\n1. **HBM monopoly, now in US hands** — SK Hynix is the primary supplier of the high-bandwidth memory Nvidia bolts onto every H100/B200. Direct ADR access lets US funds size the AI-memory cycle without Korean withholding tax drag.\n2. **Forced buying setup** — QQQ/NDX/index mandates will need to add SKHY across the ~15-day fast-track window, echoing the SpaceX SPCX index add last week.\n3. **Foreign IPO ceiling raised** — the Alibaba record stood 12 years. A $26.5B print sets a new bar for other Korean/Taiwanese mega-caps considering US secondaries.\n\nNext catalysts: SKHY regular-way open Monday July 13, index-inclusion announcements, and Micron F4Q print later this quarter.\n\nFull breakdown: [https://stock-tldr.xyz/releases/skhy-nasdaq-debut-149-july-10-2026](https://stock-tldr.xyz/releases/skhy-nasdaq-debut-149-july-10-2026)"
+      },
+      "publishDate": "2026-07-10T14:04:43.288Z"
+    },
+    {
+      "id": "meta-iris-chip-capex-efficiency-memo-july-10-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Meta (META) +~6% to ~$669.81 on Friday July 10 — Reuters exclusive on internal memo reveals custom 'Iris' AI chip enters production in September, 14 GW compute target for 2027, and capex tracking ~$22B/GW vs BofA's $45B/GW estimate; BofA reiterates Buy with $835 PT",
+      "org": "Meta Platforms",
+      "date": "2026-07-10",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-reason-meta-shares-surging-121326425.html",
+      "summary": "Meta rallies on a Reuters exclusive: leaked internal memo says the Iris in-house AI chip begins TSMC production in September and 2026 capex of up to $145B implies ~$22B/GW compute build cost, roughly half BofA's prior estimate.",
+      "tags": [
+        "meta",
+        "iris",
+        "mtia",
+        "ai-capex",
+        "capex-efficiency",
+        "hyperscaler",
+        "custom-silicon",
+        "asic",
+        "broadcom",
+        "tsmc",
+        "bofa"
+      ],
+      "importance": "major",
+      "tickers": [
+        "META",
+        "AVGO",
+        "TSM"
+      ],
+      "metrics": {
+        "Move": "+6.07% to ~$669.81",
+        "2026 capex": "up to $145B",
+        "Cost per GW (memo)": "~$22B",
+        "Prior BofA cost per GW est": "~$45B",
+        "H2 2026 capacity add": "5.5 GW",
+        "2027 capacity target": "14 GW total",
+        "BofA new PT": "$835 (Buy)"
+      },
+      "explainer": {
+        "tagline": "Leaked Meta memo says its AI build-out costs half of what Wall Street penciled in — and the custom 'Iris' chip tapes out in September.",
+        "whatIsIt": "Reuters obtained an internal Meta memo showing the company will start production of its next in-house AI chip, code-named 'Iris', in September. It's the second-generation Meta Training and Inference Accelerator (MTIA) after the first generation shipped in H1 2026, designed with Broadcom and manufactured at TSMC.",
+        "howItWorks": "Meta plans to add 5.5 GW of compute in H2 2026 (on top of 1 GW deployed in H1) and then double capacity to 14 GW total by end-2027. Cross-referenced against the previously guided ~$145B of 2026 AI infrastructure capex, that implies ~$22B per GW of AI compute build cost — roughly half the ~$45B/GW BofA had modeled. BofA analyst Justin Post reiterated Buy with an $835 PT after the memo hit.",
+        "whyItMatters": "The primary AI-capex bear case has been ROIC compression as hyperscalers overspend on GPUs. A build cost of $22B/GW that includes real estate, power, cooling, HBM memory (from Samsung/SK Hynix), fiber (Sumitomo) and custom silicon puts META's per-token compute economics closer to Google's TPU curve than to AWS's H100 curve. Second-order: Broadcom (custom silicon designer) and TSMC (fab) are direct pull-throughs; NVDA loses a bit of TAM narrative for META-scale workloads.",
+        "forWho": "AI-capex analysts, hyperscaler traders, semi supply-chain desks",
+        "tryIt": "https://finance.yahoo.com/quote/META/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/9CB175433049CC9B24883A4878A62C0F2D7C8778FF4051E8BB976CCF4997AF9C/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F43f5d24594cd7cb13e8aaf9b05c21b54",
+        "alt": "Meta / Facebook logo on a data center building, Reuters photo",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo: Real Reason META Surges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/real-reason-meta-shares-surging-121326425.html"
+        },
+        {
+          "label": "Reuters (via Yahoo): Memo",
+          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-meta-put-ai-chip-112222555.html"
+        },
+        {
+          "label": "TechCrunch: Iris Chip",
+          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
+        },
+        {
+          "label": "Yahoo: BofA Cost/GW",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-surges-hidden-ai-131256019.html"
+        },
+        {
+          "label": "META Chart",
+          "url": "https://finance.yahoo.com/quote/META/"
+        }
+      ],
+      "reddit": {
+        "title": "Meta +6% on leaked memo — 'Iris' AI chip enters production in September, $22B per GW build cost vs BofA's $45B/GW estimate",
+        "body": "Reuters got a look at an internal Meta memo. The AI-capex bear case just got a huge hole in it, and META is +6.07% to ~$669.81.\n\n* Meta's next in-house AI chip, code-named **Iris** (2nd-gen MTIA), enters TSMC production in September\n* Broadcom co-designed the silicon; testing found no major issues in only 6 weeks\n* 2026 capex guided up to ~$145B — but memo implies ~$22B per GW of compute (vs BofA's ~$45B/GW model)\n* 5.5 GW added in H2 2026 on top of 1 GW in H1; 14 GW total capacity by end-2027\n* Long-term supply contracts locked in with Samsung (memory), SanDisk (flash), Sumitomo (fiber)\n* BofA's Justin Post reiterated Buy with **$835 PT** off the report\n\nWhy it re-rated the stock:\n\n1. **Halved capex-per-GW math** — the biggest bear case on META has been $145B of AI spend with no visible ROIC. If the true build cost is half what analysts modeled, every GW of Meta AI becomes twice as accretive.\n2. **Custom silicon breaks NVDA dependency** — a chip every ~6 months through 2027 means META's inference stack is not H100-dependent for Reels/Feed/ranking workloads. Google TPU parallel.\n3. **Second-order winners** — AVGO (design partner), TSM (fab), Samsung/SK Hynix (HBM). SK Hynix is coincidentally Nasdaq-listing today.\n\nNext catalysts: META Q2 2026 print later this month, Iris tape-out confirmation from Broadcom, and Zuck's 2027 capex guide on the call.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-iris-chip-capex-efficiency-memo-july-10-2026](https://stock-tldr.xyz/releases/meta-iris-chip-capex-efficiency-memo-july-10-2026)"
+      },
+      "publishDate": "2026-07-10T14:04:43.288Z"
+    },
+    {
+      "id": "dal-q2-2026-earnings-july-10",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Delta (DAL) Q2 2026 — adj EPS $1.56 beats $1.51 est, adj revenue $17.67B (+14% Y/Y record) tops $17.53B est; reinstates FY26 adj EPS $6.50-$7.50 guide, +15% dividend hike, Q3 EPS guide $2.00-$2.50; stock -~2.3% to ~$86.89 as fuel expense hits record $4.4B (+77% Y/Y)",
+      "org": "Delta Air Lines",
+      "date": "2026-07-10",
+      "url": "https://news.delta.com/delta-air-lines-announces-june-quarter-2026-financial-results",
+      "summary": "Delta beats on top and bottom lines but stock slips on record fuel expense; management reinstates FY26 guide, hikes dividend 15%, and guides Q3 EPS $2.00-$2.50 with mid-teens revenue growth.",
+      "tags": [
+        "earnings",
+        "airlines",
+        "delta",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-reinstated",
+        "dividend-hike",
+        "fuel-cost",
+        "premium-revenue",
+        "loyalty-revenue"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DAL",
+        "UAL",
+        "AAL",
+        "LUV"
+      ],
+      "metrics": {
+        "Adj EPS": "$1.56 vs $1.51 est",
+        "Adj revenue": "$17.67B vs $17.53B est (+14% Y/Y, record)",
+        "Pre-tax profit": "$1.4B",
+        "Fuel expense": "$4.4B (+77% Y/Y, all-time record)",
+        "Premium revenue": "+17% Y/Y",
+        "Loyalty revenue": "+19% Y/Y",
+        "FY26 adj EPS guide (reinstated)": "$6.50-$7.50",
+        "FY26 FCF guide": "$3.0-$4.0B",
+        "Q3 EPS guide": "$2.00-$2.50",
+        "Q3 revenue guide": "upper mid-teens Y/Y",
+        "Q3 operating margin guide": "11-13%",
+        "Dividend hike": "+15%",
+        "Move": "-2.34% to $86.89"
+      },
+      "explainer": {
+        "tagline": "Delta beats on both lines, reinstates FY26 guide and hikes the dividend 15% — but shares slip on a record $4.4B fuel bill.",
+        "whatIsIt": "Delta reported June-quarter 2026 results before the open on Friday July 10. Adjusted EPS of $1.56 beat the $1.51 consensus and adjusted revenue of $17.67B (+14% Y/Y) set an all-time quarterly record, driven by premium (+17%) and loyalty (+19%). Management reinstated the full-year adjusted EPS guide of $6.50-$7.50 and free-cash-flow of $3-$4B that had been pulled earlier in the year amid fuel and macro volatility.",
+        "howItWorks": "Pre-tax profit was $1.4B despite $4.4B of fuel expense (+77% Y/Y, an all-time quarterly record for the carrier) reflecting the Q2 Brent/WTI spike from the Hormuz crisis. Delta also announced a 15% dividend increase starting the September quarter and reiterated its investment-grade balance sheet posture through continued debt paydown. Q3 guidance sees revenue growth in the upper mid-teens, operating margin 11-13%, and EPS of $2.00-$2.50 vs the $1.94 street consensus.",
+        "whyItMatters": "Airlines are the highest-fuel-beta S&P sector, so Delta's ability to reinstate FY26 guidance and grow EPS ~20% Y/Y through a $4.4B fuel wall is the read-through UAL/AAL/LUV bulls have been waiting for. Stock trading down ~2.3% shows the market is fading the print on Q3 EPS coming in below expectations for some analysts even after the Q2 beat. Watch UAL's July 16 print for confirmation the demand curve is broad-based, not Delta-specific.",
+        "forWho": "airline analysts, transports desks, energy-consumer traders",
+        "tryIt": "https://ir.delta.com/news/news-details/2026/Delta-Air-Lines-Announces-June-Quarter-2026-Financial-Results/default.aspx"
+      },
+      "image": {
+        "url": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2026-07/2026q2_plane.jpg?itok=rnJwc_EQ",
+        "alt": "Delta Air Lines aircraft on the tarmac at sunset, Q2 2026 press-release header",
+        "fit": "cover",
+        "credit": "Delta Air Lines"
+      },
+      "links": [
+        {
+          "label": "Delta IR: Q2 2026 PR",
+          "url": "https://news.delta.com/delta-air-lines-announces-june-quarter-2026-financial-results"
+        },
+        {
+          "label": "SEC: 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000029/deltaairlinesannouncesjune.htm"
+        },
+        {
+          "label": "Yahoo: Beat + Fuel Bite",
+          "url": "https://finance.yahoo.com/markets/stocks/article/delta-q2-earnings-top-estimates-reinstates-full-year-guidance-as-fuel-prices-bite-175815467.html"
+        },
+        {
+          "label": "DAL Chart",
+          "url": "https://finance.yahoo.com/quote/DAL/"
+        }
+      ],
+      "reddit": {
+        "title": "Delta Q2 2026: adj EPS $1.56 vs $1.51 est, adj revenue $17.67B (+14% Y/Y record), reinstates FY26 guide and hikes dividend 15% — stock -2.3% on record $4.4B fuel bill",
+        "body": "Delta kicked off airline earnings this morning. The print itself is strong; the tape is fading it on the fuel line.\n\n* Adj EPS $1.56 vs $1.51 consensus\n* Adj revenue $17.67B vs $17.53B est — +14% Y/Y and an all-time quarterly record\n* Pre-tax profit $1.4B\n* Premium revenue +17% Y/Y, loyalty +19% Y/Y\n* Fuel expense $4.4B — +77% Y/Y and the highest single quarter in Delta history\n* FY26 adj EPS guide **reinstated** at $6.50–$7.50, FCF guide $3–$4B\n* Q3 adj EPS guide $2.00–$2.50 vs ~$1.94 street\n* Q3 revenue growth upper mid-teens Y/Y, operating margin 11–13%\n* **Dividend +15%** starting September quarter\n\nWhy it trades weak despite the beat:\n\n1. **Fuel wall is now the story** — $4.4B of jet fuel is +77% Y/Y and the biggest quarterly bill Delta has ever paid. Hormuz spike showing up in the P&L.\n2. **Q3 guide midpoint = ~$2.25 EPS** — solid, but a chunk of the sell-side was penciling higher after Q2 demand strength.\n3. **Reinstating guidance is the tell** — Bastian is telling the market a $145B+ AI capex cycle and a summer travel wave are enough to offset a multi-billion fuel headwind.\n\nNext catalysts: UAL Q2 2026 print on July 16, AAL/LUV later in the month.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dal-q2-2026-earnings-july-10](https://stock-tldr.xyz/releases/dal-q2-2026-earnings-july-10)"
+      },
+      "publishDate": "2026-07-10T14:04:43.288Z"
+    },
     {
       "id": "mu-250b-us-chip-investment-july-9-2026",
       "categories": [

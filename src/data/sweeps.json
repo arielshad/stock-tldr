@@ -6912,6 +6912,46 @@
         "crypto",
         "ipo"
       ]
+    },
+    {
+      "id": "sweep-20260710t140443z",
+      "timestamp": "2026-07-10T14:04:43.288Z",
+      "source": "github-actions-sweep",
+      "summary": "Ships 3 items for July 10, 2026: SK Hynix's $26.5B Nasdaq debut (largest ever foreign US IPO, ~7x oversubscribed at $149/ADS), Meta's ~6% rally on a leaked Reuters memo revealing $22B/GW AI capex efficiency and September production of the in-house 'Iris' chip, and Delta's Q2 2026 earnings beat with a reinstated FY26 guide and 15% dividend hike despite a record $4.4B fuel bill.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "skhy-nasdaq-debut-149-july-10-2026",
+          "title": "SK Hynix (SKHY / SKHYV) Nasdaq debut on Friday July 10 — ADSs priced at $149 raise ~$26.5B in the largest ever US IPO by a foreign company; book was ~7x oversubscribed and SMH +2.5%, MU +4.5%, SNDK +7.6% ride the memory tape",
+          "category": "ipo",
+          "note": "Largest ever foreign US IPO — $26.5B at $149/ADS, ~7x oversubscribed. Distinct market event from the July 6 launch item (which covered S-1 launch/roadshow); this item covers final pricing and first-day trading."
+        },
+        {
+          "id": "meta-iris-chip-capex-efficiency-memo-july-10-2026",
+          "title": "Meta (META) +~6% to ~$669.81 on Friday July 10 — Reuters exclusive on internal memo reveals custom 'Iris' AI chip enters production in September, 14 GW compute target for 2027, and capex tracking ~$22B/GW vs BofA's $45B/GW estimate; BofA reiterates Buy with $835 PT",
+          "category": "mover",
+          "note": "Reuters exclusive memo drove META +6% and triggered a BofA rerate; capex-efficiency reframing is a genuinely new AI-capex data point (Iris chip, $22B/GW vs $45B/GW)."
+        },
+        {
+          "id": "dal-q2-2026-earnings-july-10",
+          "title": "Delta (DAL) Q2 2026 — adj EPS $1.56 beats $1.51 est, adj revenue $17.67B (+14% Y/Y record) tops $17.53B est; reinstates FY26 adj EPS $6.50-$7.50 guide, +15% dividend hike, Q3 EPS guide $2.00-$2.50; stock -~2.3% to ~$86.89 as fuel expense hits record $4.4B (+77% Y/Y)",
+          "category": "earnings",
+          "note": "Kickoff of Q2 earnings season for airlines — clean beat, reinstated guide, +15% dividend, but record $4.4B fuel bill drives stock -2.3%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "mover",
+        "earnings",
+        "sector",
+        "macro"
+      ]
     }
   ]
 }
