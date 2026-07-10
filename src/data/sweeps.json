@@ -6883,6 +6883,35 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260710t013705z",
+      "timestamp": "2026-07-10T01:37:05.365Z",
+      "source": "github-actions-sweep",
+      "summary": "Added Micron's July 9 announcement lifting its US semiconductor investment plan to $250B+ through 2035 (from $200B) at the Clay, NY first-concrete milestone; MU +4.52%, SOX +4.1%, AMD +7.7%. Scanned for other July 9 catalysts (PEP earnings, IONS/AZN CARDIO-TTRansform miss, WD-40 Q3 print, jobless claims, Bitcoin ETF flows, SK Hynix IPO pricing) — all either already in the feed or below the inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mu-250b-us-chip-investment-july-9-2026",
+          "title": "Micron (MU) +4.52% to $991.64 on Thursday July 9 — lifts US chip investment to $250B+ through 2035 as Clay NY fab pours first concrete a quarter ahead of schedule; SOX +4.1% to 13,095.61, AMD +7.7% ride the memory tape",
+          "category": "mover",
+          "note": "MU +4.52% single-name move + wall of tier-1 coverage + primary press release; drives SOX +4.1% and AMD +7.7% sympathy — major-tier US-manufacturing / AI-capex story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "earnings",
+        "macro",
+        "crypto",
+        "ipo"
+      ]
     }
   ]
 }
