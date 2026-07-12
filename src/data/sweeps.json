@@ -7028,6 +7028,35 @@
         "earnings",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260712t130624z",
+      "timestamp": "2026-07-12T13:06:24.090Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep at 2026-07-12T12:50 UTC catches one seismic weekend escalation: Saturday July 11 CENTCOM launches its third strike round of the week (~140 Iranian targets) after IRGC attacks the Cypriot M/V GFS Galaxy container ship in the Strait of Hormuz, and Iran declares the strait 'closed until further notice'. Confirmed by CENTCOM's own statement and tier-1 coverage; distinct from the July 8 'ceasefire over' item already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-3rd-strike-gfs-galaxy-hormuz-july-11-2026",
+          "title": "CENTCOM launches third strike round on Iran at 7:15 p.m. ET Saturday July 11 after IRGC attacks Cypriot M/V GFS Galaxy container ship in Strait of Hormuz — IRGC declares strait 'closed until further notice', one Indian crewman missing",
+          "category": "macro",
+          "note": "Weekend seismic — US/Iran escalation with a fresh ship attack (M/V GFS Galaxy), an IRGC declaration that Hormuz is closed, and CENTCOM's third strike round of the week. Distinct catalyst and date from the July 8 'ceasefire over' item already in the feed; primary-source confirmed via CENTCOM plus tier-1 coverage (Washington Examiner, NPR, Cyprus Mail, Al Jazeera, The Hill)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "earnings",
+        "mna",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }
