@@ -1,8 +1,158 @@
 {
-  "generatedAt": "2026-07-11T12:55:18.008Z",
+  "generatedAt": "2026-07-12T01:31:59.061Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "crcl-occ-national-trust-bank-approval-july-10-2026",
+      "categories": [
+        "regulatory",
+        "crypto",
+        "mover"
+      ],
+      "title": "Circle (CRCL) +4.97% to $66.14 on Friday July 10 — OCC grants final approval for First National Digital Currency Bank (Circle National Trust); shares hit $72.85 intraday (+15.6%) as USDC issuer wins federally supervised trust charter, joining Anchorage Digital as the only crypto firms with a national trust bank",
+      "org": "Circle Internet Group",
+      "date": "2026-07-10",
+      "url": "https://www.circle.com/pressroom/circle-receives-final-occ-approval-to-establish-national-trust-bank",
+      "summary": "Circle wins final OCC approval to establish First National Digital Currency Bank, N.A. (dba Circle National Trust); CRCL closes +4.97% at $66.14 from a $63.01 prior close, intraday high $72.85.",
+      "tags": [
+        "stablecoin",
+        "usdc",
+        "occ",
+        "trust-bank",
+        "regulatory",
+        "crypto",
+        "crcl",
+        "circle",
+        "digital-asset-custody",
+        "national-trust"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CRCL"
+      ],
+      "metrics": {
+        "Close": "$66.14 (+4.97%)",
+        "Prior close": "$63.01",
+        "Intraday high": "$72.85 (+15.6%)",
+        "USDC in circulation": "$73.2B"
+      },
+      "explainer": {
+        "tagline": "Circle wins the first OCC national trust charter for a US stablecoin issuer, unlocking federally supervised USDC custody.",
+        "whatIsIt": "The U.S. Office of the Comptroller of the Currency granted Circle final approval on July 10, 2026 to establish First National Digital Currency Bank, N.A., which will operate under the trade name Circle National Trust. The charter converts Circle from a state-regulated stablecoin issuer into a directly federally supervised national trust bank.",
+        "howItWorks": "Circle originally filed the application on June 30, 2025 and received conditional approval in December 2025. The trust will initially provide fiduciary digital asset custody for Circle and affiliates, then expand to institutional customers such as banks and financial institutions. Reserve management for USDC is a designed future capability but not yet live. USDC has $73.2B in circulation, the second-largest stablecoin.",
+        "whyItMatters": "The charter puts Circle's stablecoin operations under primary OCC supervision, materially reducing counterparty dependence on third-party custody banks. It also matches or exceeds regulatory footing of peers pursuing federal banking status — Ripple, Paxos, Fidelity Digital Assets, BitGo and Kraken — and clears a path for eventual OCC oversight of USDC reserves. CRCL popped +15.6% intraday to $72.85 before fading to a +4.97% close at $66.14 as analysts (Mizuho) flagged the market reaction as 'overly optimistic' vs. rising Stripe/OpenUSD competition.",
+        "forWho": "stablecoin desks, crypto ETF flows watchers, financial-regulation trackers",
+        "tryIt": "https://finance.yahoo.com/quote/CRCL"
+      },
+      "image": {
+        "url": "https://cdn.prod.website-files.com/67116d0daddc92483c812ead/6841212bc48a46d7d9bf1880_blog_generic-platform.jpg",
+        "alt": "Circle press room banner marking the OCC national trust bank approval",
+        "fit": "cover",
+        "credit": "Circle"
+      },
+      "links": [
+        {
+          "label": "Circle Press Release",
+          "url": "https://www.circle.com/pressroom/circle-receives-final-occ-approval-to-establish-national-trust-bank"
+        },
+        {
+          "label": "CoinDesk Coverage",
+          "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/circle-wins-final-regulatory-approval-105347625.html"
+        },
+        {
+          "label": "CRCL Quote",
+          "url": "https://finance.yahoo.com/quote/CRCL"
+        }
+      ],
+      "reddit": {
+        "title": "Circle (CRCL) wins FIRST OCC national trust charter for a US stablecoin issuer — stock pops to +15.6% intraday, closes +4.97% at $66.14",
+        "body": "Circle just cleared the biggest US regulatory milestone for a stablecoin issuer to date. Here's what actually happened:\n\n* OCC granted final approval to establish First National Digital Currency Bank, N.A. (dba Circle National Trust)\n* CRCL closed +4.97% at $66.14 from $63.01, intraday high $72.85 (+15.6%)\n* USDC circulation sits at ~$73.2B — the second-largest stablecoin\n* Trust will initially custody Circle affiliate assets, then open to institutional clients\n\nWhat this actually changes:\n\n1. **Federal supervision replaces state patchwork** — Circle moves under direct OCC oversight, the same regulator that supervises national banks.\n2. **USDC reserve management is a future capability** — the charter is designed to enable Circle to hold USDC reserves in the trust down the road, but it's not yet operating that way.\n3. **First mover in the crypto banking race** — Ripple, Paxos, Fidelity Digital Assets and BitGo have conditional approvals; Kraken is applying. Circle is the first to get a final national trust charter as a stablecoin issuer.\n\nMizuho called the rally 'overly optimistic' pointing to Stripe and OpenUSD competition on USDC market share.\n\nNext catalysts: Circle Q2 earnings and any move to bring USDC reserve custody in-house under OCC supervision.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crcl-occ-national-trust-bank-approval-july-10-2026](https://stock-tldr.xyz/releases/crcl-occ-national-trust-bank-approval-july-10-2026)"
+      },
+      "publishDate": "2026-07-12T01:31:59.061Z"
+    },
+    {
+      "id": "vod-e-niel-vega-stake-sale-july-10-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Vodafone (VOD) ADR +12.54% to $14.72 on Friday July 10 — Emirates Telecom (e&) sells entire 16.21% stake for ~$5.95B to Xavier Niel's Vega vehicle at 112.5p/sh (13% premium); Niel becomes Vodafone's largest shareholder",
+      "org": "Vodafone Group",
+      "date": "2026-07-10",
+      "url": "https://www.thenationalnews.com/business/markets/2026/07/10/uaes-e-sells-its-entire-stake-in-vodafone-for-595bn/",
+      "summary": "Emirates Telecommunications Group (e&) offloads its full 16.21% Vodafone stake (~3.94B shares) to Vega — Xavier Niel's family-controlled acquisition vehicle — for ~$5.95B at 112.5p/share (13% premium); VOD ADR +12.54% to $14.72, VOD.L +11%.",
+      "tags": [
+        "mna",
+        "block-trade",
+        "stake-sale",
+        "telecom",
+        "vodafone",
+        "vod",
+        "xavier-niel",
+        "e-and",
+        "etisalat",
+        "uae",
+        "activist"
+      ],
+      "importance": "major",
+      "tickers": [
+        "VOD"
+      ],
+      "metrics": {
+        "Deal size": "~$5.95B (£4.4B)",
+        "Stake": "16.21% (~3.94B shares)",
+        "Price": "112.5p/share (~$1.50) incl 2.02p dividend",
+        "Premium": "~13%",
+        "VOD ADR": "+12.54% to $14.72",
+        "VOD.L": "+11% midday"
+      },
+      "explainer": {
+        "tagline": "Xavier Niel's family group buys e&'s entire 16.21% Vodafone stake for ~$5.95B, becoming the telecom's largest shareholder.",
+        "whatIsIt": "Emirates Telecommunications Group (e&, formerly Etisalat) agreed on July 10, 2026 to sell its full 16.21% stake in Vodafone Group Plc — about 3.94 billion shares — to Vega, an acquisition vehicle wholly controlled by French billionaire Xavier Niel's family, for total consideration of ~$5.95B. e& is exiting after a four-year strategic investment, ending its relationship agreement and board representation at Vodafone.",
+        "howItWorks": "Vega pays £1.105 in cash per share plus Vodafone's final FY26 dividend of £0.0202/share (payable later this month) for total per-share consideration of ~£1.125 (~112.5p, ~$1.50). That prices the deal at a ~13% premium to VOD.L's prior close. The stake will be held through three financial institutions pending customary regulatory clearances including UK national-security review. e& expects roughly $1.28B in net cash return over its original cost basis.",
+        "whyItMatters": "Vega and Niel become Vodafone's largest shareholder, and the sale removes a strategic-vs-passive tension that has weighed on the shares since e&'s 2022 stake buildup. VOD ADR closed +12.54% at $14.72, its largest single-day pop in years, and London-listed VOD.L was up ~11% midday. It also frees ~$5.95B of capital for e&'s domestic 5G / data-center pivot as Gulf sovereign carriers refocus on regional AI infrastructure.",
+        "forWho": "European telecom investors, activist-tracker desks, event-driven arbs",
+        "tryIt": "https://finance.yahoo.com/quote/VOD"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/96DED2F725C0B66F0F3738902EC86848BED407A597EB09DF8DB50E43EAFE9639/subgraphmysterio/resizefill_w1200_h630;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmt_newswires_uk_369%2F4fd4ee7d261642a1f299d92571ebbc6f",
+        "alt": "Vodafone storefront branding — e& stake sale to Xavier Niel's Vega vehicle",
+        "fit": "cover",
+        "credit": "Reuters / Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "The National",
+          "url": "https://www.thenationalnews.com/business/markets/2026/07/10/uaes-e-sells-its-entire-stake-in-vodafone-for-595bn/"
+        },
+        {
+          "label": "e& ADX Filing",
+          "url": "https://www.eand.com/content/dam/eand/assets/docs/latest-announcements/2026/adx-announcement-board-resolution-en-10-07-26.pdf"
+        },
+        {
+          "label": "Yahoo UK",
+          "url": "https://uk.finance.yahoo.com/news/uae-telco-e-exit-vodafone-093431944.html"
+        },
+        {
+          "label": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/07/10/why-vodafone-stock-rocketed-almost-13-higher-today/"
+        },
+        {
+          "label": "VOD Quote",
+          "url": "https://finance.yahoo.com/quote/VOD"
+        }
+      ],
+      "reddit": {
+        "title": "Vodafone (VOD) +12.5% — Emirates Telecom (e&) sells its entire 16.21% stake for ~$5.95B to French billionaire Xavier Niel's Vega vehicle at 13% premium",
+        "body": "Big block trade at the top of the European telecom cap table on Friday July 10:\n\n* e& (formerly Etisalat) sells its full 16.21% stake in Vodafone — about 3.94B shares\n* Buyer is Vega, an acquisition vehicle wholly controlled by Xavier Niel's family group\n* Deal value ~$5.95B (~£4.4B) at 112.5p/share (110.5p cash + 2.02p final dividend)\n* Premium of ~13% to Vodafone's prior close\n* VOD ADR +12.54% to $14.72, VOD.L up ~11% midday in London\n\nWhy it matters:\n\n1. **Niel becomes VOD's largest shareholder** — the French telecoms billionaire (Iliad, Free Mobile) takes the top holder slot from a UAE state-adjacent investor.\n2. **e& exits after four years** — the 2022 stake buildup, which peaked with board representation, is fully unwound; the relationship agreement is terminated and e&'s board seat is vacated.\n3. **Regulatory approval pending** — the stake will sit at three financial institutions during UK national-security and antitrust review before Vega takes direct ownership.\n\ne& books ~$1.28B in net cash return and can redeploy toward Gulf 5G and data centers.\n\nNext catalysts: UK regulatory clearances and any Niel signals on strategic direction for VOD.\n\nFull breakdown: [https://stock-tldr.xyz/releases/vod-e-niel-vega-stake-sale-july-10-2026](https://stock-tldr.xyz/releases/vod-e-niel-vega-stake-sale-july-10-2026)"
+      },
+      "publishDate": "2026-07-12T01:31:59.061Z"
+    },
     {
       "id": "wdfc-q3-fy26-earnings-guidance-raise-july-9-2026",
       "categories": [

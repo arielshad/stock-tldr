@@ -6992,6 +6992,42 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260712t013159z",
+      "timestamp": "2026-07-12T01:31:59.061Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-07-12T0125Z scans July 10-12 for candidates within the 72h date cap. Adds two July 10 items: CRCL wins first OCC national trust bank charter for a US stablecoin issuer, and Vodafone's e& shareholder sells its entire 16.21% stake to Xavier Niel's Vega vehicle for ~$5.95B. Weekend of July 11-12 was quiet with US markets closed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "crcl-occ-national-trust-bank-approval-july-10-2026",
+          "title": "Circle (CRCL) +4.97% to $66.14 on Friday July 10 — OCC grants final approval for First National Digital Currency Bank (Circle National Trust); shares hit $72.85 intraday (+15.6%) as USDC issuer wins federally supervised trust charter, joining Anchorage Digital as the only crypto firms with a national trust bank",
+          "category": "regulatory",
+          "note": "First OCC national trust bank charter for a US stablecoin issuer; CRCL popped 15.6% intraday, closed +4.97%."
+        },
+        {
+          "id": "vod-e-niel-vega-stake-sale-july-10-2026",
+          "title": "Vodafone (VOD) ADR +12.54% to $14.72 on Friday July 10 — Emirates Telecom (e&) sells entire 16.21% stake for ~$5.95B to Xavier Niel's Vega vehicle at 112.5p/sh (13% premium); Niel becomes Vodafone's largest shareholder",
+          "category": "mna",
+          "note": "Largest block trade in Vodafone's cap table in years; Niel becomes VOD's biggest shareholder, VOD ADR +12.5%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "regulatory",
+        "crypto",
+        "mover",
+        "mna",
+        "macro",
+        "earnings",
+        "commodity"
+      ]
     }
   ]
 }
