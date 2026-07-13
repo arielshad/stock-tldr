@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-07-13T01:31:23.531Z",
+  "generatedAt": "2026-07-13T14:05:10.585Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "kospi-crash-sk-hynix-samsung-july-13-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "KOSPI -8.95% to 6,806.93 on Monday July 13 triggers 7th circuit breaker of 2026 — SK Hynix (000660) -15.37% record drop to ₩1,845,000 and Samsung Electronics -10.7% to ₩254,500 on HBM4 shipment doubts + ADR profit-taking + Hormuz oil surge",
+      "org": "Korea Exchange",
+      "date": "2026-07-13",
+      "url": "https://www.koreajoongangdaily.com/business/shares-nosedive-almost-9-on-tech-losses-amid-middle-east-tensions/12771250",
+      "summary": "KOSPI closed -8.95% at 6,806.93 on Monday July 13 as SK Hynix (000660) crashed a record 15.37% to ₩1,845,000 and Samsung Electronics fell 10.7% to ₩254,500; Korea Exchange halted trading for 20 minutes at 1:28 pm KST — the 7th circuit breaker of 2026.",
+      "tags": [
+        "kospi",
+        "circuit-breaker",
+        "sk-hynix",
+        "samsung",
+        "memory",
+        "hbm4",
+        "semis",
+        "krx",
+        "korea",
+        "adr-rotation"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "SKHY",
+        "MU",
+        "SMH"
+      ],
+      "metrics": {
+        "KOSPI close": "6,806.93 (-8.95%, -669.01 pts)",
+        "SK Hynix (000660)": "₩1,845,000 (-15.37%, record drop)",
+        "Samsung Electronics (005930)": "₩254,500 (-10.7%)",
+        "Circuit breaker": "20 min, 1:28-1:48 pm KST (7th of 2026)",
+        "USD/KRW": "1,503.4 (-2)",
+        "Decliners vs advancers": "713 to 179"
+      },
+      "explainer": {
+        "tagline": "KOSPI craters 8.95% in the year's 7th circuit-breaker session as SK Hynix logs its worst day on record and Samsung sheds 10.7%.",
+        "whatIsIt": "South Korea's Kospi closed 8.95% lower at 6,806.93 on Monday July 13 after Korea Exchange activated a Level 1 circuit breaker at 1:28 pm KST, freezing trading for 20 minutes. It was the 7th circuit breaker of 2026. Semiconductor heavyweights led the rout: SK Hynix (000660.KS) plunged a record 15.37% to ₩1,845,000, and Samsung Electronics (005930.KS) shed 10.7% to ₩254,500.",
+        "howItWorks": "SK Hynix's drop was the biggest single-session decline in the company's history, capping a wild week that saw its US ADR (SKHY) raise ~$26.5B in the largest ever US IPO by a foreign company on July 10. Traders cited three catalysts stacking at once: profit-taking after the Nasdaq listing, analyst disappointment over HBM4 shipment volumes not ramping as expected in Q2, and an armed US-Iran clash over the Strait of Hormuz that lifted oil and the dollar (won -2 to 1,503.4/USD). Decliners beat advancers 713 to 179 on ₩39.8T ($26.5B) in KOSPI turnover.",
+        "whyItMatters": "The AI-memory trade was the KOSPI's biggest 2026 driver, so a record drop in SK Hynix and a 10%+ move in Samsung is a broad-based derating of that theme. US listed memory peers followed lower (MU -6%, SNDK -10%) and the SK Hynix ADR (SKHY) now trades at roughly a 37% premium to its Seoul shares, an arb window traders will watch narrow this week. Energy names bucked (SK Innovation +7.09%) as the Hormuz risk premium in oil offset the semis rout.",
+        "forWho": "Memory / AI-hardware traders, KRW/oil cross-asset desks",
+        "tryIt": "https://asia.nikkei.com/business/markets/sk-hynix-down-more-than-12-after-debuting-successfully-on-nasdaq"
+      },
+      "image": {
+        "url": "https://image.koreajoongangdaily.com/12771311.jpg?imageId=12771311&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "alt": "KOSPI board showing the 8.95% Monday July 13 2026 crash after Korea Exchange triggered the year's 7th circuit breaker",
+        "fit": "cover",
+        "credit": "Korea JoongAng Daily"
+      },
+      "links": [
+        {
+          "label": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/business/shares-nosedive-almost-9-on-tech-losses-amid-middle-east-tensions/12771250"
+        },
+        {
+          "label": "CNBC — Worst Day",
+          "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-falls-record-112850097.html"
+        },
+        {
+          "label": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/opinion/2026/07/13/seventh-circuit-breaker-of-the-year-hits-kospi-as-index"
+        },
+        {
+          "label": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/sk-hynix-down-more-than-12-after-debuting-successfully-on-nasdaq"
+        }
+      ],
+      "reddit": {
+        "title": "KOSPI -8.95% triggers 7th circuit breaker of 2026 — SK Hynix worst day EVER at -15.37%, Samsung -10.7% as memory trade cracks",
+        "body": "Monday July 13 was the KOSPI's ugliest session of the year. Korea Exchange had to halt the whole tape for 20 minutes at 1:28pm KST — the 7th circuit breaker of 2026.\n\n* KOSPI closed -8.95% at 6,806.93 (down 669 points)\n* SK Hynix (000660) -15.37% to ₩1,845,000 — biggest one-day drop in company history\n* Samsung Electronics (005930) -10.7% to ₩254,500\n* Decliners crushed advancers 713 to 179 on ₩39.8T ($26.5B) turnover\n* Won weakened 2 to 1,503.4/USD\n\nThree things broke at once:\n\n1. **Profit-taking after the Nasdaq debut** — SK Hynix's US ADR (SKHY) priced $149 on July 10 and raised ~$26.5B (largest foreign-issuer US IPO ever). Retail rotated out of the Seoul shares into the ADR; SKHY now trades at ~37% premium to Seoul.\n2. **HBM4 doubts** — analysts flagged that HBM4 shipment ramp expected in Q2 hasn't shown up at the anticipated magnitude, taking a bite out of the AI-memory thesis.\n3. **Hormuz spillover** — US-Iran strikes over the weekend pushed Brent above $79, lifted the USD, and turned into a broad risk-off across Asia tech.\n\nUS memory peers followed the tape lower: MU -6%, SNDK -10%.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kospi-crash-sk-hynix-samsung-july-13-2026](https://stock-tldr.xyz/releases/kospi-crash-sk-hynix-samsung-july-13-2026)"
+      },
+      "publishDate": "2026-07-13T14:05:10.585Z"
+    },
     {
       "id": "us-iran-140-strikes-6-gulf-retaliation-july-12-2026",
       "categories": [
