@@ -7057,6 +7057,32 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260713t013123z",
+      "timestamp": "2026-07-13T01:31:23.531Z",
+      "source": "github-actions-sweep",
+      "summary": "One seismic add — the July 12 escalation: US bombs ~140 Iran military targets, Iran retaliates on 6 GCC states, oil gaps +3.2% Sunday. Sunday/Monday window otherwise quiet.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-140-strikes-6-gulf-retaliation-july-12-2026",
+          "title": "Iran retaliates across 6 Gulf states Sunday July 12 after US bombs ~140 Iranian military targets overnight — WTI +3.2% to $73.70, Brent +3.2% to $78.45, Kuwait Oil Co offshore platform hit and 1 worker injured",
+          "category": "macro",
+          "note": "Distinct from the July 11 CENTCOM 3rd-strike item — this is the Iran multi-Gulf retaliation + US 140-target overnight round + Sunday oil gap-up."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "geopolitics"
+      ]
     }
   ]
 }

@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-07-12T13:06:24.090Z",
+  "generatedAt": "2026-07-13T01:31:23.531Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-140-strikes-6-gulf-retaliation-july-12-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Iran retaliates across 6 Gulf states Sunday July 12 after US bombs ~140 Iranian military targets overnight — WTI +3.2% to $73.70, Brent +3.2% to $78.45, Kuwait Oil Co offshore platform hit and 1 worker injured",
+      "org": "U.S. Central Command",
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "GC=F"
+      ],
+      "date": "2026-07-12",
+      "url": "https://fortune.com/2026/07/12/market-preview-dow-futures-oil-prices-hormuz-us-airstrikes-iran-attacks-shipping/",
+      "summary": "US hits ~140 Iranian military sites overnight; IRGC retaliates on Qatar, UAE, Kuwait, Bahrain, Oman, Jordan; Kuwait Oil Co rig damaged; WTI +3.2% to $73.70, Brent +3.2% to $78.45.",
+      "tags": [
+        "geopolitics",
+        "iran",
+        "hormuz",
+        "oil",
+        "brent",
+        "wti",
+        "gold",
+        "middle-east",
+        "kuwait-oil-company",
+        "gcc",
+        "centcom",
+        "irgc",
+        "war-risk"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "US strikes on Iran": "~140 targets",
+        "Gulf states hit": "6 (Qatar, UAE, Kuwait, Bahrain, Oman, Jordan)",
+        "WTI Sep": "$73.70 (+3.2%)",
+        "Brent Sep": "$78.45 (+3.2%)",
+        "Gold": "$4,085/oz (-0.7%)",
+        "Dow futures": "-100 pts (-0.19%)",
+        "S&P 500 futures": "-0.27%",
+        "Nasdaq futures": "-0.48%"
+      },
+      "explainer": {
+        "tagline": "Broadest single-night exchange of the war: US bombs ~140 Iranian sites, Iran hits 6 GCC states, oil gaps up 3.2% Sunday.",
+        "whatIsIt": "The US and Iran traded their heaviest strikes since the June ceasefire on Saturday night into Sunday July 12. CENTCOM said American forces hit roughly 140 Iranian military targets — missile and drone launch sites, ammunition dumps, communications gear and IRGC fast boats around the Strait of Hormuz, plus military targets on Qeshm Island and near Bandar Abbas. Iran's IRGC replied with the geographically widest missile-and-drone attack of the campaign, hitting or targeting U.S.-affiliated facilities in Qatar, the UAE, Kuwait, Bahrain, Oman and Jordan.",
+        "howItWorks": "Overnight into Sunday, US warplanes and ships struck sites the IRGC uses to threaten Hormuz traffic. Between roughly 02:00–03:30 UTC Sunday, the IRGC fired ballistic missiles and armed drones at Al Udeid Air Base in Qatar (largest US installation in the Middle East), a US radar site in Kuwait plus three border posts and a Kuwait Oil Company offshore drilling platform near Shuwaikh Port (1 worker injured, substantial rig damage), Prince Hassan Air Base in Jordan (3 missiles landed, no casualties), naval-support infrastructure at Oman's Port of Duqm and Musandam, plus alerts sounded in Bahrain and the UAE. Qatar reported 3 civilians hurt by falling shrapnel from Patriot interceptions, including a child. Iran's new Supreme Leader Mojtaba Khamenei vowed further retaliation. Trump told NBC's Meet the Press: 'We bombed the hell out of them last night.'",
+        "whyItMatters": "Sunday evening ET markets showed the escalation but not panic. WTI Sep futures jumped 3.2% to $73.70 and Brent Sep +3.2% to $78.45 — a fresh Monday gap after Brent already closed +5.4% on the week. Gold slipped 0.7% to $4,085/oz. Dow futures fell 100 points (-0.19%), S&P 500 futures -0.27%, Nasdaq futures -0.48%. Rapidan Energy's Bob McNally flagged 'a lot of complacency' priced in given that only 22 tankers transited Hormuz on Thursday vs a ~33/day norm. Every GCC government — Qatar, Kuwait, UAE, Bahrain, Oman, Jordan — formally condemned the strikes on their soil, raising the political cost of any further Iranian volley and setting up a two-way risk into Tuesday's US June CPI print, Fed Chair Warsh's first congressional testimony, and the start of Q2 big-bank earnings (JPM, WFC, C, GS, BAC on July 14–16).",
+        "forWho": "macro, oil, defense and geopolitical-risk desks",
+        "tryIt": "WTI chart: https://finance.yahoo.com/quote/CL=F"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T042653Z_1094375616_RC24CMAEDOUZ_RTRMADP_3_IRAN-CRISIS-1783846925.jpg?resize=1920%2C1440",
+        "alt": "Smoke rises after strikes in the Persian Gulf region on July 12, 2026",
+        "fit": "cover",
+        "credit": "Reuters via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Fortune: Markets Preview",
+          "url": "https://fortune.com/2026/07/12/market-preview-dow-futures-oil-prices-hormuz-us-airstrikes-iran-attacks-shipping/"
+        },
+        {
+          "label": "Al Jazeera: Gulf Attacks",
+          "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran"
+        },
+        {
+          "label": "Maritime Exec: KOC Rig",
+          "url": "https://maritime-executive.com/article/kuwait-reports-drone-attack-on-offshore-oil-platform"
+        },
+        {
+          "label": "Inquirer: Trump Comments",
+          "url": "https://www.inquirer.com/news/nation-world/iran-us-strait-hormuz-strikes-oman-trump-khamenei-20260712.html"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        }
+      ],
+      "reddit": {
+        "title": "US bombs ~140 Iran targets, Iran retaliates on 6 Gulf states — WTI +3.2% to $73.70, Kuwait Oil Co rig hit near Shuwaikh Port",
+        "body": "Saturday night into Sunday July 12 was the widest single-night exchange of the 2026 war. Here's the breakdown:\n\n* US hits ~140 Iranian military targets — missile / drone launch sites, ammo dumps, comms gear, IRGC fast boats, Qeshm Island, Bandar Abbas\n* Iran retaliates across 6 GCC states (Qatar, UAE, Kuwait, Bahrain, Oman, Jordan) between ~02:00–03:30 UTC Sunday\n* Kuwait Oil Co offshore drilling platform near Shuwaikh Port hit — substantial rig damage, 1 worker injured; three Kuwaiti border posts also struck\n* Qatar: 3 civilians hurt (incl 1 child) by falling shrapnel from Patriot interceptions at Al Udeid\n* WTI Sep +3.2% to $73.70, Brent Sep +3.2% to $78.45, gold -0.7% to $4,085/oz\n* Dow futures -100 pts (-0.19%), S&P 500 futures -0.27%, Nasdaq futures -0.48%\n\nTwo things to keep in mind:\n\n1. **Complacency risk** — Rapidan's Bob McNally: 'a lot of complacency, a lot of confidence' built into oil despite only 22 tankers transiting Hormuz on Thursday vs a ~33/day norm.\n2. **GCC unity hardening** — Qatar, Kuwait, UAE, Bahrain, Oman and Jordan all issued formal condemnations, raising the political cost of any further Iranian volley.\n\nTrump on Meet the Press: 'We bombed the hell out of them last night.' Iran's new Supreme Leader Mojtaba Khamenei vowed further retaliation.\n\nNext catalysts: US June CPI + Fed Chair Warsh congressional testimony (Tue July 14); big-bank earnings JPM / WFC / C / GS / BAC (July 14–16).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-140-strikes-6-gulf-retaliation-july-12-2026](https://stock-tldr.xyz/releases/us-iran-140-strikes-6-gulf-retaliation-july-12-2026)"
+      },
+      "publishDate": "2026-07-13T01:31:23.531Z"
+    },
     {
       "id": "us-iran-3rd-strike-gfs-galaxy-hormuz-july-11-2026",
       "categories": [
