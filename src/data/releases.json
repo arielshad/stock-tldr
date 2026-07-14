@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-07-13T14:05:10.585Z",
+  "generatedAt": "2026-07-14T01:22:02.353Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-hormuz-blockade-20pct-toll-july-13-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Trump reinstates Iranian blockade and imposes 20% Strait of Hormuz cargo toll on Monday July 13 — Brent +9.6% to $83.30 (best day since May 2020), WTI +9.4% to $78.14, blockade begins Tuesday July 14 at 2000 GMT",
+      "org": "White House",
+      "date": "2026-07-13",
+      "url": "http://www.kitco.com/news/off-the-wire/2026-07-13/oil-9-one-month-high-us-says-it-will-blockade-entire-iranian-coastline",
+      "summary": "President Trump reinstates the naval blockade on Iran and declares a 20% toll on all cargo transiting the Strait of Hormuz. Brent settles +9.6% at $83.30, WTI +9.4% at $78.14. IMO says there is no legal basis for the toll.",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "hormuz",
+        "iran",
+        "blockade",
+        "trump",
+        "geopolitics",
+        "commodity",
+        "energy",
+        "imo",
+        "supply-shock"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent (Sep)": "$83.30 (+9.6%)",
+        "WTI (Aug)": "$78.14 (+9.4%)",
+        "Cargo toll": "20% of shipped value",
+        "Per supertanker": "~$32M vs Iran's ~$2M prior toll",
+        "Blockade start": "Tue Jul 14, 2000 GMT"
+      },
+      "explainer": {
+        "tagline": "Trump reinstates Iran blockade and demands a 20% cut of every Hormuz cargo; oil posts its biggest daily jump in six years.",
+        "whatIsIt": "President Trump announced on Truth Social Monday July 13 that the U.S. is reinstating a naval blockade on Iranian ships and, separately, demanding 20% of the value of all cargo transiting the Strait of Hormuz as a 'reimbursement' for U.S. protection. CENTCOM said the blockade takes effect Tuesday July 14 at 2000 GMT and will cover Iran's entire coastline, ports, oil terminals and any vessel calling on them regardless of flag.",
+        "howItWorks": "Trump's post read: 'We are reinstating the IRANIAN BLOCKADE, so named because it is only stopping Iran's ships or customers from entering or leaving. All other countries will have fair and open use of the Strait.' He separately framed the U.S. as 'THE GUARDIAN OF THE HORMUZ STRAIT' and said non-Iranian ships would be charged 20% of cargo value for safe passage — roughly $32M per supertanker at current prices, versus the ~$2M Iran previously charged. IMO Secretary-General Arsenio Dominguez said the agency 'stands firmly against charging fees for passage through straits used for international navigation' and that there is 'no legal basis' for the toll.",
+        "whyItMatters": "Brent futures for September closed +9.59% at $83.30/bbl — the international benchmark's biggest single-day gain since May 2020 — and WTI for August closed +9.42% at $78.14. Both benchmarks hit their highest levels since June 15, when the earlier U.S.–Iran deal reopened Hormuz. The 20% toll erases the 'toll-free' concession Trump himself signed off on June 14 and puts the world's oil, LNG and container traffic back on a war-risk footing hours before the Q2 U.S. bank earnings + June CPI print on Tuesday. Gelber & Associates warned the move 'has intensified concerns over near-term supply availability'.",
+        "forWho": "energy desks, macro traders, tanker equity holders",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg/1280px-Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg",
+        "alt": "Satellite view of the Strait of Hormuz and Musandam Peninsula (MODIS 2018)",
+        "fit": "cover",
+        "credit": "NASA MODIS via Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Reuters Wire (Kitco)",
+          "url": "http://www.kitco.com/news/off-the-wire/2026-07-13/oil-9-one-month-high-us-says-it-will-blockade-entire-iranian-coastline"
+        },
+        {
+          "label": "Rigzone: Oil Soars",
+          "url": "https://www.rigzone.com/news/wire/oil_soars_on_hormuz_blockade-13-jul-2026-184124-article/"
+        },
+        {
+          "label": "Al Jazeera Coverage",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz"
+        },
+        {
+          "label": "Brent Futures Chart",
+          "url": "https://finance.yahoo.com/quote/BZ=F"
+        },
+        {
+          "label": "WTI Futures Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        }
+      ],
+      "reddit": {
+        "title": "Brent +9.6% to $83.30, biggest daily gain since May 2020 — Trump reinstates Iran blockade and slaps a 20% toll on ALL Hormuz cargo",
+        "body": "Monday July 13 turned into an oil-market shock day after a single Truth Social post from President Trump.\n\n* Brent Sep +9.59% to $83.30/bbl — biggest single-day jump since May 2020\n* WTI Aug +9.42% to $78.14/bbl — both benchmarks now at highs since June 15\n* U.S. Navy blockade of Iran's coastline, ports and oil terminals starts Tuesday July 14 at 2000 GMT\n* Blockade covers ANY vessel regardless of flag calling on Iranian ports\n* Trump demands 20% of cargo value from non-Iranian ships transiting the strait — ~$32M per supertanker vs Iran's ~$2M prior tolls\n\nTwo things happened at once:\n\n1. **The blockade is back on** — 'We are reinstating the IRANIAN BLOCKADE, so named because it is only stopping Iran's ships or customers,' Trump posted. This erases the toll-free Hormuz concession he signed on June 14.\n2. **The U.S. is now charging tolls on an international strait** — IMO Secretary-General Arsenio Dominguez said the agency 'stands firmly against charging fees' and that 'there is no legal basis' for the toll. Gelber & Associates said the move 'has intensified concerns over near-term supply availability'.\n\nNext catalysts: June U.S. CPI Tuesday 8:30 a.m. ET, JPM/C/BAC/WFC/GS/BLK earnings Tuesday pre-market, blockade go-live 2000 GMT.\n\nFull breakdown: [https://stock-tldr.xyz/releases/trump-hormuz-blockade-20pct-toll-july-13-2026](https://stock-tldr.xyz/releases/trump-hormuz-blockade-20pct-toll-july-13-2026)"
+      },
+      "publishDate": "2026-07-14T01:22:02.353Z"
+    },
     {
       "id": "kospi-crash-sk-hynix-samsung-july-13-2026",
       "categories": [

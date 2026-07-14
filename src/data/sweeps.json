@@ -7113,6 +7113,37 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260714t012202z",
+      "timestamp": "2026-07-14T01:22:02.353Z",
+      "source": "github-actions-sweep",
+      "summary": "Added one seismic item — Trump's July 13 reinstatement of the Iran naval blockade + a 20% Hormuz cargo toll drove Brent +9.6% and WTI +9.4% (Brent's biggest daily gain since May 2020). Existing July 11-12 CENTCOM/IRGC entries cover the prior weekend's strikes but not this new policy escalation. No other qualifying events in the last 24h.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-hormuz-blockade-20pct-toll-july-13-2026",
+          "title": "Trump reinstates Iranian blockade and imposes 20% Strait of Hormuz cargo toll on Monday July 13 — Brent +9.6% to $83.30 (best day since May 2020), WTI +9.4% to $78.14, blockade begins Tuesday July 14 at 2000 GMT",
+          "category": "commodity",
+          "note": "Distinct policy shock: new blockade start + a novel 20% cargo toll erasing the June 14 toll-free concession, plus Brent's biggest daily gain since May 2020."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "commodity",
+        "crypto",
+        "mna",
+        "regulatory",
+        "rates"
+      ]
     }
   ]
 }
