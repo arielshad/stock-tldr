@@ -7144,6 +7144,53 @@
         "regulatory",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260714t131440z",
+      "timestamp": "2026-07-14T13:14:40.827Z",
+      "source": "github-actions-sweep",
+      "summary": "Four July 14 additions: a big-surprise June CPI print (headline -0.4% M/M / +3.5% Y/Y, biggest monthly drop since April 2020), a JPM Q2 blowout with markets +35% and Equity Markets +86%, Goldman's ~2x Y/Y EPS with IB fees +55%, and Warsh's House Financial Services debut delivering the Semiannual Monetary Policy Report.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-june-2026-july-14",
+          "title": "U.S. June 2026 CPI — headline -0.4% M/M and +3.5% Y/Y both trounce -0.2% M/M and +3.8% Y/Y consensus; biggest monthly decline in 6+ years as gasoline and fuel oil each drop 9%+ and shelter +0.1% M/M cools services",
+          "category": "macro",
+          "note": "June CPI headline -0.4% M/M and +3.5% Y/Y both trounce consensus in the biggest monthly headline drop in over 6 years — landed 90 min before Warsh House testimony."
+        },
+        {
+          "id": "jpm-q2-2026-earnings-july-14",
+          "title": "JPMorgan Chase (JPM) Q2 2026 — net income $21.2B and reported EPS $7.70 crush $5.55 est; managed revenue $58.0B (+28% Y/Y) with markets revenue $12.1B (+35%, Equity Markets +86%) and IB fees $3.3B (highest since 2021); JPM -0.58% premarket to $334.53",
+          "category": "earnings",
+          "note": "JPM opens Q2 bank earnings with a beat across every business — markets +35%, Equity Markets +86%, IB fees at their best since 2021."
+        },
+        {
+          "id": "gs-q2-2026-earnings-july-14",
+          "title": "Goldman Sachs (GS) Q2 2026 — diluted EPS $20.98 nearly doubles the $10.91 year-ago print and annualized ROE 23.5% as IB fees $3.4B (+55%, equity underwriting +130% / debt underwriting +75%) and AUS hit $4.04T; AWM revenue $4.6B (+20%)",
+          "category": "earnings",
+          "note": "Goldman diluted EPS ~2x year-ago on a 23.5% ROE and record IB fee pool — equity underwriting +130% Y/Y confirms the SpaceX-led IPO reopen."
+        },
+        {
+          "id": "warsh-house-testimony-july-14-2026",
+          "title": "Fed Chair Warsh's House Financial Services debut on Tuesday July 14 — Semiannual Monetary Policy Report frames a 'hinge point in history' and 'no tolerance for persistently elevated inflation' 90 minutes after -0.4% M/M June CPI print",
+          "category": "macro",
+          "note": "Warsh's first Semiannual Monetary Policy Report to Congress — 'no tolerance for persistently elevated inflation' anchors the hawkish stance even after the soft CPI, plus a five-task-force institutional review."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "rates",
+        "commodity",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }
