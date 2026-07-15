@@ -1,8 +1,475 @@
 {
-  "generatedAt": "2026-07-15T01:21:53.748Z",
+  "generatedAt": "2026-07-15T13:18:36.885Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "pypl-stripe-advent-53b-takeover-offer-july-15-2026",
+      "categories": [
+        "rumor",
+        "mna",
+        "mover"
+      ],
+      "title": "PayPal (PYPL) reportedly draws $53B takeover offer from Stripe and Advent — $60.50/sh in cash at 28% premium; PYPL +18-20% premarket per Reuters exclusive on Wednesday July 15",
+      "org": "Reuters",
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+      "summary": "Reuters exclusive: Stripe and Advent International propose $60.50/sh in cash for PayPal, valuing PYPL at more than $53B and 28% above Tuesday close. Bid carries ~$50B committed bank financing. PYPL +18-20% premarket.",
+      "tags": [
+        "rumor",
+        "mna",
+        "takeover-bid",
+        "payments",
+        "fintech",
+        "stripe",
+        "advent-international",
+        "reuters-exclusive",
+        "pypl",
+        "unsolicited-bid",
+        "mover"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "PYPL"
+      ],
+      "metrics": {
+        "Offer per share": "$60.50 (cash)",
+        "Deal value": ">$53B",
+        "Premium": "~28% over Tuesday close",
+        "Committed financing": "~$50B",
+        "PYPL move (pre-mkt)": "+18-20%",
+        "Market cap (pre-bid)": "~$36B",
+        "Peak market cap (2021)": "~$360B"
+      },
+      "explainer": {
+        "tagline": "Stripe and Advent make an unsolicited $60.50-per-share cash bid for PayPal — 28% premium, ~$53B deal, ~$50B of committed bank financing already lined up.",
+        "whatIsIt": "Reuters reported on Wednesday July 15 that private-equity firm Advent International and privately-held payments network Stripe have jointly offered $60.50 per share in cash to acquire PayPal Holdings, valuing the payments giant at more than $53 billion. The initial approach was made in April; the two firms are now pushing PayPal to move talks forward over the next several weeks.",
+        "howItWorks": "The bid is a 28% premium to PayPal's Tuesday July 14 close and carries ~$50B in committed bank financing. Stripe and Advent would share ownership of PayPal on an equal basis with no plans to dismantle the company. PayPal has not responded publicly. PYPL rose ~18-20% premarket on the Reuters story before the open.",
+        "whyItMatters": "PayPal peaked near a $360B market cap in 2021 and had cratered to ~$36B pre-bid as Apple Pay, Google Pay and other embedded wallets took share. A private-market take-out at $53B with Stripe as an operating co-owner would rerate the entire payments-processor tape (V, MA, ADYEY, SQ, TOST) and force competing bids into the frame. Because Stripe is private and Advent is a PE firm, this is a rare 'private-buys-public' scoop for a mega-cap fintech.",
+        "forWho": "fintech investors, M&A arb desks, payments analysts",
+        "tryIt": "https://finance.yahoo.com/quote/PYPL"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108300726-1777652911172-gettyimages-2262985849-boivin-notitle260225_npaSd.jpeg?v=1777652966&w=1920&h=1080",
+        "alt": "PayPal signage as Stripe and Advent reportedly bid $53B for the payments company",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html"
+        },
+        {
+          "label": "Yahoo Finance (Reuters)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stripe-advent-international-53-billion-111839458.html"
+        },
+        {
+          "label": "PYPL Stock Surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-surges-18-report-101602647.html"
+        },
+        {
+          "label": "PYPL Quote",
+          "url": "https://finance.yahoo.com/quote/PYPL"
+        }
+      ],
+      "reddit": {
+        "title": "PayPal reportedly gets a $53B takeover bid from Stripe + Advent at $60.50/sh cash (28% premium) — PYPL +18-20% premarket",
+        "body": "Reuters exclusive on Wednesday July 15: PE firm Advent International and privately-held Stripe have jointly offered $60.50/sh in cash to acquire PayPal.\n\n* Deal value: >$53 billion in cash\n* Offer price: $60.50/sh, ~28% premium to Tuesday's close\n* Committed bank financing: ~$50 billion already lined up\n* Structure: Stripe and Advent share ownership 50/50, no plans to break up the company\n* PYPL pre-market move: +18-20%\n* Initial approach was made in April; PayPal has not responded publicly\n\nWhy this is a big deal:\n\n1. **PayPal was a fintech darling gone cold** — market cap peaked near $360B in 2021, ran down to ~$36B pre-bid as Apple Pay/Google Pay/embedded wallets took share.\n2. **Stripe going public-facing via M&A** — Stripe is still private, this would make it the operating owner of a publicly-listed household-name payments franchise.\n3. **Competing bids likely** — a Reuters exclusive at this size will pull other PE consortia and payments strategics off the sidelines.\n\nNext catalysts: PayPal board response, potential competing bid, regulatory read on Stripe-Advent as a JV bidder.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pypl-stripe-advent-53b-takeover-offer-july-15-2026](https://stock-tldr.xyz/releases/pypl-stripe-advent-53b-takeover-offer-july-15-2026)"
+      },
+      "publishDate": "2026-07-15T13:18:36.885Z"
+    },
+    {
+      "id": "ms-q2-2026-earnings-july-15",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Morgan Stanley (MS) Q2 2026 — record net revenue $21.3B (+27% Y/Y) and record EPS $3.46 vs $2.94 est on 69% surge in Equities trading to $6.3B; ROTCE 26.6%, Wealth adds $148B NNA, board reauthorizes $20B buyback and hikes dividend to $1.15",
+      "org": "Morgan Stanley",
+      "date": "2026-07-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000207/a2q26msearningsrelease.htm",
+      "summary": "MS reports record Q2: net revenue $21.3B (+27% Y/Y), EPS $3.46 vs $2.94 est, ROTCE 26.6%. Equities +69% to $6.3B, IB +58% to $2.4B, Wealth $8.9B on $148B NNA. Board reauthorizes $20B buyback, hikes dividend 15c to $1.15.",
+      "tags": [
+        "earnings",
+        "banks",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "investment-banking",
+        "equities-trading",
+        "wealth-management",
+        "buyback",
+        "dividend-hike",
+        "ms",
+        "financials"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MS",
+        "GS",
+        "JPM"
+      ],
+      "metrics": {
+        "EPS": "$3.46 vs $2.94 est",
+        "Net revenue": "$21.3B (+27% Y/Y)",
+        "Net income": "$5.6B",
+        "ROTCE": "26.6%",
+        "Institutional Securities": "$11.0B",
+        "Equities trading": "$6.3B (+69% Y/Y)",
+        "Investment Banking": "$2.4B (+58%)",
+        "Fixed Income": "$2.5B (+13%)",
+        "Wealth Management": "$8.9B (+14%)",
+        "Net new assets (WM)": "$148B",
+        "AUM (IM)": "$2.0T",
+        "CET1 (Standardized)": "14.8%",
+        "Buyback reauth": "$20B (multi-year)",
+        "Dividend": "$1.15/sh (+15c)"
+      },
+      "explainer": {
+        "tagline": "Morgan Stanley posts record Q2 revenue and EPS as Equities trading jumps 69% Y/Y and Wealth Management crosses $10T combined client assets.",
+        "whatIsIt": "Morgan Stanley reported Q2 2026 earnings before the open on Wednesday July 15. Net revenue was $21.3 billion (vs $16.8B a year ago), net income was $5.6 billion, and diluted EPS came in at $3.46 vs the $2.94 LSEG consensus. ROTCE was 26.6% and ROE 20.7%.",
+        "howItWorks": "Institutional Securities posted record net revenue of $11.0B. Inside it: Equities was a record $6.3B (+69% Y/Y) driven by strong Asia performance, Investment Banking jumped 58% to $2.4B (advisory +57%, equity underwriting +70%, fixed-income underwriting +48%), and Fixed Income rose 13% to $2.5B. Wealth Management put up record $8.9B (+14%) with $148B of net new assets — over half from IPO-related Workplace channel inflows. Wealth + Investment Management combined client assets hit the $10T milestone. The board reauthorized a $20B multi-year buyback beginning Q3 and hiked the quarterly dividend by 15c to $1.15/share.",
+        "whyItMatters": "MS closes the mega-cap bank week and confirms the JPM/GS/C/BAC pattern: markets-led beats driven by the June FOMC hawkish-pivot volatility and Hormuz-cycle activity, with IB fees now clearly turning after the 2022-2024 drought. The +69% Equities print is the standout figure across the group and reads bullish for GS's markets rerating and for the entire brokerage/prime-broker complex. The $20B buyback and dividend hike signal management's confidence in through-cycle capital return despite CET1 stepping down slightly from 15.0% to 14.8%.",
+        "forWho": "financials investors, bank analysts, capital-markets desks",
+        "tryIt": "https://finance.yahoo.com/quote/MS"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morgan_Stanley_Times_Square.jpg/960px-Morgan_Stanley_Times_Square.jpg",
+        "alt": "Morgan Stanley Times Square headquarters signage",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (MS Q2)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000207/a2q26msearningsrelease.htm"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-q2-2026-earnings-115242115.html"
+        },
+        {
+          "label": "MarketScreener Recap",
+          "url": "https://www.marketscreener.com/news/morgan-stanley-reports-second-quarter-2026-earnings-results-ce7f5ed2d989f423"
+        },
+        {
+          "label": "MS Quote",
+          "url": "https://finance.yahoo.com/quote/MS"
+        }
+      ],
+      "reddit": {
+        "title": "Morgan Stanley Q2 blowout: record $21.3B revenue, EPS $3.46 vs $2.94 est, Equities trading +69% Y/Y to $6.3B — reauthorizes $20B buyback, hikes dividend",
+        "body": "Morgan Stanley closed out the mega-cap bank week on Wednesday July 15 with a record quarter across the board.\n\n* Net revenue $21.3B (+27% Y/Y from $16.8B), a record\n* EPS $3.46 vs $2.94 LSEG est; net income $5.6B vs $3.5B a year ago\n* ROTCE 26.6% (vs 18.2%), ROE 20.7%\n* Institutional Securities record $11.0B — Equities +69% to $6.3B, IB +58% to $2.4B, Fixed Income +13% to $2.5B\n* Wealth Management record $8.9B (+14%) with $148B of net new assets — over half from Workplace-channel IPO inflows\n* Combined Wealth + Investment Management client assets hit $10T\n* CET1 (Standardized) 14.8%\n\nCapital return:\n\n1. **$20B buyback reauthorized** — multi-year, no set expiration, starting in Q3 2026\n2. **Dividend hiked 15c to $1.15/sh** — payable August 14 to record July 31\n3. **Repurchased $1.5B in Q2** at avg price $197.64\n\nWhy it matters for the tape: this seals the mega-cap bank week (JPM, GS, C, BAC, WFC all reported July 14). Every seat put up a markets-led beat driven by the June FOMC hawkish-pivot volatility and the Hormuz cycle, and IB fees are clearly turning after the 2022-2024 drought.\n\nNext catalysts: BlackRock and BNY reported Wednesday morning; TSMC reports July 16; June PPI print released Wednesday 8:30 a.m. ET.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ms-q2-2026-earnings-july-15](https://stock-tldr.xyz/releases/ms-q2-2026-earnings-july-15)"
+      },
+      "publishDate": "2026-07-15T13:18:36.885Z"
+    },
+    {
+      "id": "blk-q2-2026-earnings-july-15",
+      "categories": [
+        "earnings"
+      ],
+      "title": "BlackRock (BLK) Q2 2026 — adjusted EPS $13.91 vs $12.67 est on $7.08B revenue (+31% Y/Y); AUM crosses $15.3T after record H1 net inflows of $321B ($192B in Q2); planned quarterly buyback lifted from $450M to $550M",
+      "org": "BlackRock",
+      "date": "2026-07-15",
+      "url": "https://www.blackrock.com/corporate/newsroom/press-releases/article/corporate-one/press-releases/blackrock-reports-second-quarter-2026",
+      "summary": "BLK reports Q2 GAAP EPS $12.19 / adj $13.91 vs $12.67 est; revenue $7.08B (+31% Y/Y). $15.3T AUM after H1 net inflows of $321B ($192B Q2). Op income +42% Y/Y; planned quarterly buybacks lifted to $550M from $450M.",
+      "tags": [
+        "earnings",
+        "asset-management",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "etf",
+        "aladdin",
+        "aum-record",
+        "hps",
+        "buyback",
+        "blk",
+        "financials"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BLK"
+      ],
+      "metrics": {
+        "EPS (GAAP)": "$12.19",
+        "EPS (adjusted)": "$13.91 vs $12.67 est",
+        "Revenue": "$7.08B (+31% Y/Y)",
+        "AUM": "$15.3T",
+        "H1 net inflows": "$321B",
+        "Q2 net inflows": "$192B",
+        "Organic base fee growth": "10%",
+        "Operating income (GAAP)": "+42% Y/Y",
+        "Operating income (adjusted)": "+39% Y/Y",
+        "Diluted EPS growth (GAAP)": "+20% Y/Y",
+        "Tech services & subs revenue growth": "+13% Y/Y",
+        "Q2 buybacks": "$450M",
+        "Planned quarterly buyback": "$550M (raised)"
+      },
+      "explainer": {
+        "tagline": "BlackRock crosses $15.3T of AUM after record H1 net inflows of $321B — Q2 adjusted EPS beats and management lifts planned quarterly buyback to $550M.",
+        "whatIsIt": "BlackRock reported Q2 2026 results before the bell on Wednesday July 15. GAAP diluted EPS was $12.19 and adjusted diluted EPS was $13.91, above the $12.67 consensus. Revenue was $7.08 billion, up 31% Y/Y, and operating income rose 42% Y/Y (39% adjusted).",
+        "howItWorks": "AUM finished the quarter at $15.3 trillion. Firm-wide net inflows were a record $321B in H1 2026 including $192B in Q2 — broad-based across ETFs, private markets (helped by the HPS closing on July 1, 2025), active fixed income and systematic equity. Twelve-month net inflows were $868B and organic base fee growth was 10%. Technology services and subscription revenue rose 13% Y/Y on Aladdin and multi-product-solutions momentum. BLK returned $450M via buybacks in Q2 and lifted planned quarterly buyback pace to $550M going forward.",
+        "whyItMatters": "$15.3T is a fresh AUM record for the world's largest asset manager, and the $321B H1 net-inflow tape confirms that ETF-and-Aladdin economics are still compounding despite the June FOMC hawkish pivot and the Iran-Hormuz risk-off tape. The lift in the quarterly buyback cadence from $450M to $550M is a soft capital-return upgrade, and the HPS acquisition is now clearly running through the fee stack — a positive read for the alternatives/private-markets asset gathers. The print is bullish for the asset-management complex (BEN, TROW, IVZ, AB) and confirms flow rotation to passive plus private credit.",
+        "forWho": "asset-manager investors, ETF analysts, allocators",
+        "tryIt": "https://finance.yahoo.com/quote/BLK"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/50_Hudson_Yards.png/960px-50_Hudson_Yards.png",
+        "alt": "BlackRock global HQ at 50 Hudson Yards in New York",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BLK Press Release",
+          "url": "https://www.blackrock.com/corporate/newsroom/press-releases/article/corporate-one/press-releases/blackrock-reports-second-quarter-2026"
+        },
+        {
+          "label": "AOL/BusinessWire",
+          "url": "https://www.aol.com/articles/blackrock-reports-second-quarter-2026-100000000.html"
+        },
+        {
+          "label": "InvestingNews Recap",
+          "url": "https://investingnews.com/blackrock-reports-second-quarter-2026-earnings/"
+        },
+        {
+          "label": "BLK Quote",
+          "url": "https://finance.yahoo.com/quote/BLK"
+        }
+      ],
+      "reddit": {
+        "title": "BlackRock Q2: AUM $15.3T (record), Q2 net inflows $192B, adj EPS $13.91 vs $12.67 est; management lifts planned quarterly buyback to $550M from $450M",
+        "body": "BlackRock reported Q2 2026 on Wednesday July 15 with numbers that read like a benchmark for the whole asset-gathering complex.\n\n* AUM $15.3 trillion — a fresh record\n* Q2 net inflows $192B; H1 net inflows a record $321B, twelve-month $868B\n* Revenue $7.08B, +31% Y/Y\n* GAAP diluted EPS $12.19; adjusted $13.91 vs $12.67 est\n* Operating income +42% Y/Y (+39% adjusted)\n* Tech services & subscription revenue +13% Y/Y — Aladdin still compounding\n* Organic base fee growth 10%\n* Q2 buybacks $450M — planned quarterly buyback cadence lifted to $550M going forward\n\nDrivers:\n\n1. **ETFs still dominant** — flows broad-based, including active fixed income and systematic equity\n2. **HPS acquisition running through** — private-markets fees now clearly showing up after the July 2025 close\n3. **Aladdin continues to be the moat** — 13% growth in tech services & subs revenue with continued momentum in multi-product solutions\n\nBullish read-across: BEN, TROW, IVZ, AB (traditional AMs) and KKR, BX, APO (alts).\n\nNext catalysts: TSMC reports July 16; the July FOMC decision lands July 29-30.\n\nFull breakdown: [https://stock-tldr.xyz/releases/blk-q2-2026-earnings-july-15](https://stock-tldr.xyz/releases/blk-q2-2026-earnings-july-15)"
+      },
+      "publishDate": "2026-07-15T13:18:36.885Z"
+    },
+    {
+      "id": "bk-q2-2026-earnings-july-15",
+      "categories": [
+        "earnings"
+      ],
+      "title": "BNY (BNY) Q2 2026 — EPS $2.45 vs $2.16-2.18 est on $5.70B revenue (+13% Y/Y); net income $1.70B (vs $1.39B); assets under custody/administration hit $62.6T and AUM reaches $2.2T",
+      "org": "BNY",
+      "date": "2026-07-15",
+      "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/pr-newswire/bny-reports-second-quarter-2026-results/2384883",
+      "summary": "BNY reports Q2 EPS $2.45 (adj $2.46) vs $2.16-2.18 est, revenue $5.70B (+13% Y/Y from $5.03B), net income $1.70B (vs $1.39B). AUC/A hit a record $62.6T, AUM $2.2T. BNY -0.63% pre-market to $153.50.",
+      "tags": [
+        "earnings",
+        "banks",
+        "custodian",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "assets-under-custody",
+        "fee-income",
+        "bny",
+        "bk",
+        "financials"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BNY",
+        "STT",
+        "NTRS"
+      ],
+      "metrics": {
+        "EPS (GAAP)": "$2.45 vs $2.16-2.18 est",
+        "EPS (adjusted)": "$2.46",
+        "Net income (to common)": "$1.70B (vs $1.39B)",
+        "Revenue": "$5.70B (+13% Y/Y)",
+        "Assets under custody & admin": "$62.6T",
+        "AUM": "$2.2T",
+        "Stock (pre-mkt)": "$153.50 (-0.63%)"
+      },
+      "explainer": {
+        "tagline": "BNY (the world's largest custodian) posts a fee-and-market-driven Q2 beat: EPS $2.45 vs $2.16-2.18 est and record $62.6T in assets under custody.",
+        "whatIsIt": "The Bank of New York Mellon Corporation, which now brands as BNY, reported Q2 2026 results before the open on Wednesday July 15. Revenue rose to $5.70B from $5.03B a year ago (+13%), net income applicable to common shareholders was $1.70B (up from $1.39B), and EPS came in at $2.45 GAAP ($2.46 adjusted) vs $2.16-2.18 consensus.",
+        "howItWorks": "The beat was driven by higher fee revenue from net new business, stronger client activity across investment services and treasury services, and higher market values on the custody book. Assets under custody and/or administration reached $62.6 trillion at quarter-end and BNY Investments AUM was $2.2 trillion — both records. Management hosts the earnings conference call at 11:00 a.m. ET.",
+        "whyItMatters": "BNY's tape is a real-time read on institutional-flow health and on the fee economics of the global custody duopoly with State Street (STT). A +13% revenue print alongside a record $62.6T AUC/A confirms that H1 2026's ETF and private-market flow surge is running through the custodian rails, not just the asset gatherers. Bullish read-across to STT (reports later this month) and NTRS. Stock was -0.63% pre-market at $153.50 in a classic priced-in reaction after ~30% YTD run.",
+        "forWho": "financials investors, custody analysts, allocators",
+        "tryIt": "https://finance.yahoo.com/quote/BNY"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/BNY_%2855313999033%29.jpg/960px-BNY_%2855313999033%29.jpg",
+        "alt": "BNY (Bank of New York Mellon) headquarters signage as the custodian reports Q2 2026 beat",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Manila Times/PRNewswire",
+          "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/pr-newswire/bny-reports-second-quarter-2026-results/2384883"
+        },
+        {
+          "label": "RTT Recap",
+          "url": "https://www.rttnews.com/3667140/bny-earnings-up-in-q2.aspx"
+        },
+        {
+          "label": "BNY Investor Relations",
+          "url": "https://www.bny.com/corporate/global/en/investor-relations.html"
+        },
+        {
+          "label": "BNY Quote",
+          "url": "https://finance.yahoo.com/quote/BNY"
+        }
+      ],
+      "reddit": {
+        "title": "BNY Q2 2026: EPS $2.45 vs $2.16-2.18 est, revenue $5.70B (+13% Y/Y), assets under custody & admin hit a record $62.6 trillion",
+        "body": "The Bank of New York Mellon Corporation reported Q2 2026 on Wednesday July 15 before the open — a clean fee-and-markets-driven beat.\n\n* GAAP EPS $2.45 vs $2.16-2.18 est (adj $2.46)\n* Net income to common shareholders $1.70B, up from $1.39B\n* Revenue $5.70B, +13% Y/Y from $5.03B\n* Assets under custody and/or administration: record $62.6 trillion\n* Assets under management: $2.2 trillion\n* Pre-market: BNY -0.63% at $153.50\n\nDrivers:\n\n1. **Fee revenue from net new business** — flow surge in ETFs and private markets is landing on the custodian rails, not just the asset gatherers\n2. **Stronger client activity** — investment services and treasury services both stepped up\n3. **Higher market values on the custody book** — H1 2026's equity rally lifted total assets serviced\n\nBullish read-across: STT (State Street, reports later this month) and NTRS (Northern Trust).\n\nFull breakdown: [https://stock-tldr.xyz/releases/bk-q2-2026-earnings-july-15](https://stock-tldr.xyz/releases/bk-q2-2026-earnings-july-15)"
+      },
+      "publishDate": "2026-07-15T13:18:36.885Z"
+    },
+    {
+      "id": "us-ppi-june-2026-july-15",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. June 2026 PPI — final demand -0.3% M/M (biggest drop since July 2022) vs +0.6% May and +5.5% Y/Y; core-ex-food/energy/trade +0.1% after May's +0.8% surge; goods -1.4% (gasoline -12.0%) as services +0.2%",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-07-15",
+      "url": "https://www.bls.gov/news.release/archives/ppi_07152026.htm",
+      "summary": "June PPI for final demand -0.3% M/M (largest decline since July 2022) after +0.6% May; +5.5% Y/Y. Goods -1.4% led by gasoline -12.0%; services +0.2%. Ex food/energy/trade services +0.1% M/M and +5.1% Y/Y.",
+      "tags": [
+        "macro",
+        "ppi",
+        "inflation",
+        "june-2026",
+        "final-demand",
+        "goods-prices",
+        "gasoline",
+        "bls",
+        "disinflation",
+        "cpi-follow-through"
+      ],
+      "importance": "major",
+      "tickers": [],
+      "metrics": {
+        "Final demand (M/M SA)": "-0.3%",
+        "Final demand (Y/Y NSA)": "+5.5%",
+        "Final demand goods (M/M)": "-1.4% (biggest since July 2022)",
+        "Final demand services (M/M)": "+0.2%",
+        "Final demand energy": "-6.4%",
+        "Gasoline": "-12.0%",
+        "Foods (final demand)": "-0.6%",
+        "Ex food/energy/trade (M/M)": "+0.1%",
+        "Ex food/energy/trade (Y/Y)": "+5.1%",
+        "Prior month (May, revised)": "+0.6% M/M"
+      },
+      "explainer": {
+        "tagline": "June PPI for final demand fell 0.3% M/M — the largest monthly decline since July 2022 — as gasoline dropped 12% and services barely budged.",
+        "whatIsIt": "The BLS Producer Price Index for final demand fell 0.3% in June, seasonally adjusted, following a 0.6% May advance and a 1.1% April jump. On an unadjusted 12-month basis final demand was +5.5%. Ex food, energy, and trade services final demand rose 0.1% M/M and 5.1% Y/Y.",
+        "howItWorks": "Final demand goods fell 1.4% — the largest one-month decline since July 2022 — led by energy prices -6.4% and gasoline specifically -12.0%. Diesel, jet fuel, fresh vegetables, crude petroleum, and thermoplastic resins also declined; plastic products rose 1.6%. Final demand services rose only 0.2% after May's -0.1%, with over 60% of the advance from trade-services margins (+0.4%). Notable service pockets: securities brokerage/dealing/investment advice, apparel/jewelry/footwear retailing, loan services and inpatient care all up; machinery and vehicle wholesaling margins -8.4%.",
+        "whyItMatters": "The soft PPI validates the -0.4% M/M June CPI print from Tuesday and takes some pressure off the front end of the curve. But the 5.5% Y/Y final-demand and 5.1% Y/Y ex-food/energy/trade lines remain sticky and well above the pre-pandemic norm — this is a demand-slowdown / oil-crack disinflation story, not a services-cool-off. The July 29-30 FOMC now heads into the meeting with a two-print disinflation confirmation and Warsh's 'no tolerance for persistently elevated inflation' framing set against upstream services pipe that isn't clearly cooling.",
+        "forWho": "macro traders, rates desks, Fed watchers",
+        "tryIt": "https://www.bls.gov/ppi/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bureau_of_Labor_Statistics_logo.svg/1280px-Bureau_of_Labor_Statistics_logo.svg.png",
+        "alt": "Bureau of Labor Statistics seal as the BLS releases June 2026 PPI",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BLS PPI Release",
+          "url": "https://www.bls.gov/news.release/archives/ppi_07152026.htm"
+        },
+        {
+          "label": "PPI Homepage",
+          "url": "https://www.bls.gov/ppi/"
+        },
+        {
+          "label": "BLS Release Schedule",
+          "url": "https://www.bls.gov/schedule/news_release/ppi.htm"
+        }
+      ],
+      "reddit": {
+        "title": "June 2026 PPI: -0.3% M/M (biggest drop since July 2022) but +5.5% Y/Y — gasoline -12%, services barely +0.2%",
+        "body": "BLS released June PPI on Wednesday July 15 at 8:30 a.m. ET — the second cool inflation print in two days.\n\n* Final demand -0.3% M/M SA (biggest monthly decline since July 2022)\n* Final demand +5.5% Y/Y NSA\n* Final demand goods -1.4% M/M (largest since July 2022)\n* Final demand services +0.2% M/M after -0.1% in May\n* Ex food, energy and trade services: +0.1% M/M, +5.1% Y/Y\n* Prior month (May, revised): +0.6% M/M\n\nWhat pulled the print down:\n\n1. **Energy crashed** — final demand energy -6.4%, gasoline -12.0%, and diesel, jet fuel and crude petroleum all fell. Nearly two-thirds of the June goods decline traces to gasoline alone.\n2. **Services barely moved** — trade margins +0.4% did most of the 0.2% services lift, but transportation and warehousing services -0.1%.\n\nWhat's still hot: the 5.1% Y/Y ex-food/energy/trade line — services-pipeline inflation is still not clearly cooling.\n\nNext catalysts: Fed Beige Book at 4:15 p.m. ET on Wednesday July 15, then the July 29-30 FOMC. Warsh testifies to Senate Banking Wednesday morning.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ppi-june-2026-july-15](https://stock-tldr.xyz/releases/us-ppi-june-2026-july-15)"
+      },
+      "publishDate": "2026-07-15T13:18:36.885Z"
+    },
+    {
+      "id": "pnr-preliminary-q2-2026-guidance-cut-cfo-exit-july-14",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Pentair (PNR) -20.7% on Wednesday July 15 after preliminary Q2 2026 warning + CFO exit — Q2 sales ~$930M (down 17% vs prior guide of +1%), adj EPS ~$1.12 vs $1.47-1.50; FY26 sales guided -4% to -7% and adj EPS $4.60-4.80 vs $5.30-5.40 as Pool destocking hits $170M",
+      "org": "Pentair",
+      "date": "2026-07-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000077360/000007736026000039/july2026pre-earningsexhibit.htm",
+      "summary": "Pentair pre-announces Q2: sales ~$930M (-17% vs prior guide of +1%), adj EPS ~$1.12 vs $1.47-1.50 as Pool-channel destocking cuts segment sales $170M. FY26 sales guided -4% to -7%; adj EPS $4.60-4.80. CFO Brazis out.",
+      "tags": [
+        "mover",
+        "earnings",
+        "preliminary-results",
+        "guidance-cut",
+        "cfo-exit",
+        "pool",
+        "destocking",
+        "industrials",
+        "water",
+        "pnr",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PNR",
+        "HAYW"
+      ],
+      "metrics": {
+        "Move (regular session)": "-20.7%",
+        "Q2 sales (prelim)": "~$930M (-17% vs prior guide +1%)",
+        "Q2 adj EPS (prelim)": "~$1.12 vs $1.47-1.50 prior guide",
+        "Q2 EPS (prelim, GAAP)": "~$0.80 vs $1.39-1.42 prior guide",
+        "Pool destocking impact (Q2)": "-$170M sales, -$105M income",
+        "IEEPA refunds (Q2)": "~$35M",
+        "FY26 sales guide": "down 4-7% vs prior +2-4%",
+        "FY26 adj EPS guide": "$4.60-4.80 vs $5.30-5.40",
+        "FY26 GAAP EPS guide": "$3.90-4.10 vs $4.83-4.93",
+        "FY26 EBITDA guide": "~$1,050M",
+        "Q2 buybacks": "$150M / 2.0M shares"
+      },
+      "explainer": {
+        "tagline": "Pentair pre-announces a big Q2 miss and cuts full-year guidance ~10% as Pool-channel destocking hits $170M of segment sales; CFO Brazis has left the company.",
+        "whatIsIt": "Pentair announced on Tuesday evening July 14 (dateline London) that CFO Nicholas Brazis departed on July 10 to pursue an opportunity at a private company. Former Pentair CFO Bob Fishman returns on an interim basis effective immediately. The company also pre-announced preliminary Q2 2026 results and cut full-year 2026 guidance. Shares dropped -20.7% during Wednesday July 15 trading.",
+        "howItWorks": "Q2 2026 preliminary sales are expected at ~$930M (down 17% vs a prior guide of +1%), operating income ~$165M, adjusted operating income ~$235M, GAAP EPS ~$0.80 vs a prior guide of $1.39-1.42, and adjusted EPS ~$1.12 vs a prior guide of $1.47-1.50. Pool-channel inventory destocking cut Pool segment sales by ~$170M and Pool segment income by ~$105M; the print includes ~$35M of IEEPA tariff refunds. Full-year 2026 guidance now sees sales down 4% to 7% (vs +2% to +4% prior), adj EPS $4.60-4.80 (vs $5.30-5.40), GAAP EPS $3.90-4.10 (vs $4.83-4.93), and EBITDA ~$1,050M. Pentair repurchased 2.0M shares for $150M in Q2.",
+        "whyItMatters": "This is one of the sharpest single-session drops for a Russell 1000 industrials name in 2026 and a live signal that the U.S. residential Pool aftermarket is in a real inventory recession — dealers and distribution partners are 'right-sizing' inventory ahead of the 2027 pool season on top of higher rates and inflation squeezing homeowner discretionary spend. Pentair's Flow and Water Solutions segments are still performing in line, so this is a Pool-specific reset, not a whole-portfolio blowout. Read-across: Hayward Holdings (HAYW), the pure-play pool equipment name, fell 6.3% on the same tape; broader residential aftermarket (POOL, LESL, WMS) will screen down.",
+        "forWho": "industrials analysts, single-name equity investors, consumer-discretionary tape watchers",
+        "tryIt": "https://finance.yahoo.com/quote/PNR"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pentair_Building_-_US_Corporate_Headquarters_Office_Building_%2834514586172%29.jpg/1280px-Pentair_Building_-_US_Corporate_Headquarters_Office_Building_%2834514586172%29.jpg",
+        "alt": "Pentair US corporate headquarters office building",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (PNR pre-announcement)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000077360/000007736026000039/july2026pre-earningsexhibit.htm"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60463471/pentair-stock-plunges-as-pool-destocking-forces-deep-2026-guidance-cut"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/PNR/pentair-announces-chief-financial-officer-transition-and-provides-3o2hb65btgsy.html"
+        },
+        {
+          "label": "PNR Quote",
+          "url": "https://www.google.com/finance/quote/PNR:NYSE"
+        }
+      ],
+      "reddit": {
+        "title": "Pentair (PNR) -20.7% today — pre-announces Q2 miss + FY26 guidance cut as Pool destocking wipes $170M in Q2 sales; CFO also out",
+        "body": "Pentair dropped a Tuesday-evening bomb on July 14 (dateline London): preliminary Q2 2026 warning, full-year guidance slash, and a CFO transition. Shares fell 20.7% during Wednesday July 15 trading — one of the sharpest single-session drops for a Russell 1000 industrials name in 2026.\n\nPreliminary Q2 2026:\n\n* Sales ~$930M — down 17% vs a prior guide of +1%\n* Adj EPS ~$1.12 vs prior guide $1.47-1.50\n* GAAP EPS ~$0.80 vs prior guide $1.39-1.42\n* Pool-channel destocking impact: -$170M sales, -$105M income in Pool segment\n* Included ~$35M of IEEPA tariff refunds\n\nRevised FY26 guide:\n\n* Sales down 4% to 7% (was +2% to +4%)\n* Adj EPS $4.60-4.80 (was $5.30-5.40)\n* GAAP EPS $3.90-4.10 (was $4.83-4.93)\n* EBITDA ~$1,050M\n\nCFO transition:\n\n1. **Nicholas Brazis exited July 10** to pursue a private-company opportunity\n2. **Bob Fishman (former CFO) is back on an interim basis** — a familiar face already on board while the search runs\n\nWhy it matters: the Pool aftermarket is in a real dealer-inventory recession, and this is a mid-cycle 'right-size before the 2027 pool season' reset — Flow and Water Solutions segments are still in line. Read-across: HAYW -6.3% on the same tape; POOL, LESL, WMS also in focus.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pnr-preliminary-q2-2026-guidance-cut-cfo-exit-july-14](https://stock-tldr.xyz/releases/pnr-preliminary-q2-2026-guidance-cut-cfo-exit-july-14)"
+      },
+      "publishDate": "2026-07-15T13:18:36.885Z"
+    },
     {
       "id": "ibm-preliminary-q2-2026-warning-july-14",
       "categories": [

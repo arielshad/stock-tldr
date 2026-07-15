@@ -7244,6 +7244,64 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260715t131836z",
+      "timestamp": "2026-07-15T13:18:36.885Z",
+      "source": "github-actions-sweep",
+      "summary": "Six new items: MS/BLK/BNY Q2 2026 earnings, a $53B Stripe+Advent takeover-offer scoop for PayPal (Reuters exclusive), the June 2026 PPI print (-0.3% M/M), and Pentair's -20.7% preliminary Q2 warning + CFO exit.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "pypl-stripe-advent-53b-takeover-offer-july-15-2026",
+          "title": "PayPal (PYPL) reportedly draws $53B takeover offer from Stripe and Advent — $60.50/sh in cash at 28% premium; PYPL +18-20% premarket per Reuters exclusive on Wednesday July 15",
+          "category": "rumor",
+          "note": "Reuters exclusive $60.50/sh, ~$53B cash bid at 28% premium; PYPL +18-20% pre-market; classic named-outlet rumor with real deal financing."
+        },
+        {
+          "id": "ms-q2-2026-earnings-july-15",
+          "title": "Morgan Stanley (MS) Q2 2026 — record net revenue $21.3B (+27% Y/Y) and record EPS $3.46 vs $2.94 est on 69% surge in Equities trading to $6.3B; ROTCE 26.6%, Wealth adds $148B NNA, board reauthorizes $20B buyback and hikes dividend to $1.15",
+          "category": "earnings",
+          "note": "Record Q2 revenue and EPS; Equities +69%, $20B buyback reauth, dividend hike — closes the mega-cap bank week."
+        },
+        {
+          "id": "blk-q2-2026-earnings-july-15",
+          "title": "BlackRock (BLK) Q2 2026 — adjusted EPS $13.91 vs $12.67 est on $7.08B revenue (+31% Y/Y); AUM crosses $15.3T after record H1 net inflows of $321B ($192B in Q2); planned quarterly buyback lifted from $450M to $550M",
+          "category": "earnings",
+          "note": "$15.3T AUM record and $321B H1 net inflows; adjusted EPS beat and buyback cadence lifted from $450M to $550M/qtr."
+        },
+        {
+          "id": "bk-q2-2026-earnings-july-15",
+          "title": "BNY (BNY) Q2 2026 — EPS $2.45 vs $2.16-2.18 est on $5.70B revenue (+13% Y/Y); net income $1.70B (vs $1.39B); assets under custody/administration hit $62.6T and AUM reaches $2.2T",
+          "category": "earnings",
+          "note": "EPS $2.45 vs $2.16-2.18 est, revenue $5.70B (+13% Y/Y); AUC/A at record $62.6T — custodian read-across bullish."
+        },
+        {
+          "id": "us-ppi-june-2026-july-15",
+          "title": "U.S. June 2026 PPI — final demand -0.3% M/M (biggest drop since July 2022) vs +0.6% May and +5.5% Y/Y; core-ex-food/energy/trade +0.1% after May's +0.8% surge; goods -1.4% (gasoline -12.0%) as services +0.2%",
+          "category": "macro",
+          "note": "-0.3% M/M PPI validates Tuesday's cool CPI; goods -1.4% led by gasoline -12%; services still not clearly cooling."
+        },
+        {
+          "id": "pnr-preliminary-q2-2026-guidance-cut-cfo-exit-july-14",
+          "title": "Pentair (PNR) -20.7% on Wednesday July 15 after preliminary Q2 2026 warning + CFO exit — Q2 sales ~$930M (down 17% vs prior guide of +1%), adj EPS ~$1.12 vs $1.47-1.50; FY26 sales guided -4% to -7% and adj EPS $4.60-4.80 vs $5.30-5.40 as Pool destocking hits $170M",
+          "category": "mover",
+          "note": "One of 2026's biggest single-session Russell 1000 drops on Pool-channel destocking + CFO transition; announcement dateline July 14."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mna",
+        "mover",
+        "rumor"
+      ]
     }
   ]
 }
