@@ -7191,6 +7191,59 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260715t012153z",
+      "timestamp": "2026-07-15T01:21:53.748Z",
+      "source": "github-actions-sweep",
+      "summary": "Extends the July 14 Q2 bank-earnings tape (BAC, WFC, C — already had JPM and GS) and adds the IBM preliminary-Q2 warning that produced IBM's worst single day on record (~-25%). Nothing else in the last 24h cleared the inclusion bar.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ibm-preliminary-q2-2026-warning-july-14",
+          "title": "IBM (IBM) preliminary Q2 2026 warning on Tuesday July 14 — revenue $17.2B (+1% Y/Y) misses $17.85B est; operating (non-GAAP) EPS $2.93 vs $3.01 est and GAAP EPS $2.27 (-2%); Software +5% but Infrastructure -7% and Consulting flat; stock craters ~25% for worst single-session in IBM history",
+          "category": "earnings",
+          "note": "IBM CEO preannouncement letter (SEC 8-K) drove a ~25% intraday drop — the worst session in IBM's history — on Q2 miss + Infrastructure -7%."
+        },
+        {
+          "id": "bac-q2-2026-earnings-july-14",
+          "title": "Bank of America (BAC) Q2 2026 — diluted EPS $1.21 (+34% Y/Y) beats $1.13 est, net income $9.1B (+27%) on $31.6B revenue (+15%); Global Markets sales & trading $7.1B (+33%) with Equities +70% to $3.6B, IB fees $2.1B (+50%), NII $16.0B (+9%)",
+          "category": "earnings",
+          "note": "BAC Q2 EPS $1.21 (+34% Y/Y) with Equities trading revenue +70% to $3.6B; stock hit fresh 52-week high on the print."
+        },
+        {
+          "id": "wfc-q2-2026-earnings-july-14",
+          "title": "Wells Fargo (WFC) Q2 2026 — diluted EPS $2.00 (+25% Y/Y) beats $1.72 est, net income $6.4B; revenue $22.6B (+9%), NII $12.3B (+5%), noninterest income $10.3B (+13%); ROTCE 17.7% and $3.0B of Q2 buybacks; CIB revenue +16%, Markets +24%",
+          "category": "earnings",
+          "note": "WFC Q2 EPS $2.00 (+25% Y/Y) crushes $1.72 est with CIB revenue +16% and $7B of H1 buybacks; plans 11% Q3 dividend hike."
+        },
+        {
+          "id": "citi-q2-2026-earnings-july-14",
+          "title": "Citigroup (C) Q2 2026 — diluted EPS $3.15 (from $1.96) trounces $2.73 est on $24.8B revenue (+14%), best quarter in a decade; Markets Equities +45%, Banking +34%, Services record; launches $30B buyback and 12% planned dividend hike; ROTCE 13.0% vs 8.7%",
+          "category": "earnings",
+          "note": "Citi Q2 EPS $3.15 vs $2.73 est on $24.8B revenue — best in a decade — with a new $30B buyback and 12% planned dividend hike."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "analyst",
+        "mna",
+        "regulatory",
+        "article",
+        "video"
+      ]
     }
   ]
 }

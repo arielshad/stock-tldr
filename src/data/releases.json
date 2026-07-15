@@ -1,8 +1,345 @@
 {
-  "generatedAt": "2026-07-14T13:14:40.827Z",
+  "generatedAt": "2026-07-15T01:21:53.748Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ibm-preliminary-q2-2026-warning-july-14",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "IBM (IBM) preliminary Q2 2026 warning on Tuesday July 14 — revenue $17.2B (+1% Y/Y) misses $17.85B est; operating (non-GAAP) EPS $2.93 vs $3.01 est and GAAP EPS $2.27 (-2%); Software +5% but Infrastructure -7% and Consulting flat; stock craters ~25% for worst single-session in IBM history",
+      "org": "IBM",
+      "date": "2026-07-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000070/ibm-20260714xex991.htm",
+      "summary": "IBM's Krishna preannounces Q2: $17.2B revenue (+1%) vs $17.85B est, non-GAAP EPS $2.93 vs $3.01 est, GAAP $2.27. Infrastructure -7% and mainframe Z shortfall drive the miss; stock falls ~25%.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-miss",
+        "preannouncement",
+        "q2-2026",
+        "ibm",
+        "software",
+        "consulting",
+        "infrastructure",
+        "mainframe",
+        "z17",
+        "red-hat",
+        "worst-day-on-record",
+        "profit-warning"
+      ],
+      "importance": "major",
+      "tickers": [
+        "IBM"
+      ],
+      "metrics": {
+        "Revenue": "$17.2B (+1% Y/Y) vs $17.85B est",
+        "Non-GAAP EPS": "$2.93 (+5%) vs $3.01 est",
+        "GAAP EPS": "$2.27 (-2%)",
+        "Software": "+5% Y/Y",
+        "Consulting": "flat (+1% cc)",
+        "Infrastructure": "-7% Y/Y",
+        "Red Hat": "+11%",
+        "Distributed Infrastructure": "+37%",
+        "H1 Free Cash Flow": "$4.8B",
+        "Move": "~-25%",
+        "Trigger": "Krishna letter 7:05 a.m. ET",
+        "Next call": "July 22 5:00 p.m. ET"
+      },
+      "explainer": {
+        "tagline": "IBM preannounces a Q2 miss on Krishna letter; stock craters ~25% for worst single day in IBM history.",
+        "whatIsIt": "IBM CEO Arvind Krishna published a letter to investors at 7:05 a.m. ET on Tuesday July 14 disclosing selected preliminary Q2 2026 financial results ahead of the July 22 earnings call. Revenue came in at $17.2B (+1% Y/Y) versus the $17.85B Street consensus and non-GAAP EPS at $2.93 versus $3.01 est.",
+        "howItWorks": "The segment split shows the shortfall clearly: Software +5% (Red Hat accelerated to +11%, HashiCorp/Confluent contributed), Consulting flat (+1% at constant currency), Infrastructure -7% with the z17 mainframe program 'nearly 130% program-to-program' but Transaction Processing missing. Krishna wrote that in the last few weeks of June clients redirected capex toward supply-constrained servers/storage/memory ahead of expected price increases, industry-wide cybersecurity concerns distracted buyers, and 'numerous large deals failed to close on the timelines we expected'. GAAP EPS was $2.27 (-2%), non-GAAP EPS $2.93 (+5%), pre-tax margin (non-GAAP) 19.2% (+30 bp). H1 free cash flow was $4.8B on $7.8B of operating cash.",
+        "whyItMatters": "IBM shares dropped ~25% intraday to close near ~$217, the worst single day in IBM's history — sharper than the 1987 Black Monday session for the name. The Dow closed effectively flat (+0.02%) because IBM alone stripped ~150-200 points off; consulting and software peers (ACN, INFY, EPAM, MSFT slightly, ORCL) also traded weaker on the readthrough. The 'AI capex is eating enterprise IT budgets' narrative that already crushed chip-equipment names now bites the classic Software-as-a-Service and consulting cohort.",
+        "forWho": "enterprise software analysts, IT-services sell-side, Dow index traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000070/ibm-20260714xex991.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/7F044DB013D73517950EE82A279ABE5E84399C476492B1CC7A239AE872EC23C0/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fecddc880-bc99-11ee-87d7-599f25cf520c_a7801d61129b82e7eca93245df6710ffe13e54883797c35b02cb4d7ad101613c.jpg",
+        "alt": "IBM logo signage as stock plunges 25% on preannouncement of Q2 miss",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "IBM 8-K Letter (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000070/ibm-20260714xex991.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/news/ibm-stock-plummets-more-than-25-on-q2-earnings-warning-150605880.html"
+        },
+        {
+          "label": "IBM Quote",
+          "url": "https://finance.yahoo.com/quote/IBM"
+        }
+      ],
+      "reddit": {
+        "title": "IBM craters ~25% — worst single day in its history — after CEO letter preannounces Q2 miss ($17.2B rev vs $17.85B est, Infrastructure -7%)",
+        "body": "IBM CEO Arvind Krishna dropped a preannouncement letter at 7:05 a.m. ET on Tuesday July 14, ahead of the July 22 official earnings call. The stock closed down about 25%, its worst session on record — deeper than the 1987 Black Monday drop.\n\n* Revenue $17.2B, +1% Y/Y — Street was at $17.85B\n* Non-GAAP EPS $2.93 (+5%) vs $3.01 est; GAAP EPS $2.27 (-2%)\n* Software +5% (Red Hat +11% acceleration, HashiCorp + Confluent contributing)\n* Consulting flat (+1% at constant currency)\n* Infrastructure **-7%**, with mainframe z17 and its Transaction Processing software stack missing\n* H1 free cash flow $4.8B on $7.8B operating cash\n\nWhy it happened, per Krishna:\n\n1. **Clients redirected capex** — in the last few weeks of June, buyers moved quarterly IT spend toward supply-constrained servers, storage and memory to lock in supply before price hikes.\n2. **Cybersecurity distractions** — industry-wide security events pushed IT teams away from software and consulting decisions.\n3. **Deal-timing slippage** — 'numerous large deals failed to close on the timelines we expected'.\n\nMarket impact: Dow closed +0.02% only because IBM alone knocked ~150-200 points off. Consulting/software peers (ACN, INFY, EPAM) traded weaker on readthrough.\n\nNext catalysts: full IBM earnings call July 22 5 p.m. ET; BlackRock Q2 Wednesday; Morgan Stanley Q2 Wednesday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ibm-preliminary-q2-2026-warning-july-14](https://stock-tldr.xyz/releases/ibm-preliminary-q2-2026-warning-july-14)"
+      },
+      "publishDate": "2026-07-15T01:21:53.748Z"
+    },
+    {
+      "id": "bac-q2-2026-earnings-july-14",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Bank of America (BAC) Q2 2026 — diluted EPS $1.21 (+34% Y/Y) beats $1.13 est, net income $9.1B (+27%) on $31.6B revenue (+15%); Global Markets sales & trading $7.1B (+33%) with Equities +70% to $3.6B, IB fees $2.1B (+50%), NII $16.0B (+9%)",
+      "org": "Bank of America",
+      "date": "2026-07-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000353/bac06302026ex991.htm",
+      "summary": "BAC Q2: EPS $1.21 (+34% Y/Y) beats $1.13 est, net income $9.1B (+27%), revenue $31.6B (+15%). Equities trading +70% to $3.6B, IB fees +50%, NII +9% to $16.0B. Moynihan: 'one of our strongest quarters to date.'",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q2-2026",
+        "banks",
+        "bac",
+        "bank-of-america",
+        "financials",
+        "equities-trading",
+        "investment-banking",
+        "nii",
+        "consumer-banking"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BAC",
+        "JPM",
+        "C",
+        "WFC"
+      ],
+      "metrics": {
+        "EPS": "$1.21 (+34% Y/Y) vs $1.13 est",
+        "Net income": "$9.1B (+27%)",
+        "Revenue": "$31.6B (+15% Y/Y)",
+        "NII": "$16.0B (+9%)",
+        "Sales & trading": "$7.1B (+33%)",
+        "Equities": "$3.6B (+70%)",
+        "FICC": "$3.5B (+9%)",
+        "IB fees": "$2.1B (+50%)",
+        "Consumer Banking net income": "$3.3B",
+        "GWM net income": "$1.4B",
+        "AUM": "$2.3T (+17%)",
+        "Operating leverage": "6.6%",
+        "Efficiency improvement": "~360 bp"
+      },
+      "explainer": {
+        "tagline": "BAC prints the strongest quarter in Moynihan's tenure with EPS up 34% and Equities trading revenue up 70% to $3.6B.",
+        "whatIsIt": "Bank of America reported Q2 2026 results before the bell on Tuesday July 14. Diluted EPS was $1.21, up 34% Y/Y and 7.1% above the $1.13 Street estimate. Net income was $9.1B (+27% from $7.2B) on $31.6B of revenue net of interest expense (+15%), the second-largest quarterly revenue in the firm's history.",
+        "howItWorks": "The Global Markets business drove the beat: sales and trading revenue of $7.1B (+33% Y/Y) with Equities +70% to $3.6B and FICC +9% to $3.5B — the 17th straight Y/Y increase. Global Banking IB fees ex-self-led were $2.1B (+50%). Global Wealth & Investment Management delivered $6.9B revenue (+16%) with $2.3T AUM (+17%). Consumer Banking net income was $3.3B on $11.3B revenue (+5%) and 160K net new checking accounts. NII was $16.0B ($16.2B FTE) up 9%, provisions $1.4B, and operating leverage was +6.6% with the efficiency ratio improving ~360 bp Y/Y.",
+        "whyItMatters": "Combined with JPM's blowout and Citi's +14% revenue print, BAC extends the July 14 bank tape: the CIB/markets franchises are re-rating on the AI-capex + Iran-Hormuz volatility that lifted trading volumes; retail deposits and card spend (+9%) remain firm. BAC stock hit a new 52-week high on the print. Moynihan: 'commercial borrowing has picked up ... resilient consumers and businesses.'",
+        "forWho": "bank analysts, financials sector traders, macro watchers",
+        "tryIt": "https://finance.yahoo.com/quote/BAC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/169A455CEE72B5E2AE03071DCEAEA79A99800DDCB93395C5C08332A5626062F5/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F2532c976-23df-4fa4-8fc1-af80f9abc984",
+        "alt": "Bank of America signage as BAC posts Q2 2026 EPS beat with Equities trading up 70%",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "BAC 8-K Q2 Release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000353/bac06302026ex991.htm"
+        },
+        {
+          "label": "BofA IR Press Release",
+          "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-reports-second-quarter-2026-financial-results.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/article/bank-of-america-ceo-brian-moynihan-on-the-us-economy-more-durable-than-expected-114802659.html"
+        },
+        {
+          "label": "BAC Quote",
+          "url": "https://finance.yahoo.com/quote/BAC"
+        }
+      ],
+      "reddit": {
+        "title": "Bank of America Q2: EPS $1.21 (+34% Y/Y) beats $1.13 est, Equities trading +70% to $3.6B, revenue $31.6B (+15%) — 'strongest quarter to date' per Moynihan",
+        "body": "Bank of America dropped a clean Q2 beat before the bell on Tuesday July 14, extending the JPM tape into the mid-cap money-center print.\n\n* Diluted EPS $1.21, +34% Y/Y — Street was at $1.13\n* Net income $9.1B, +27% from $7.2B\n* Revenue $31.6B, +15% Y/Y (+$31.7B FTE) — second-largest quarterly revenue in firm history\n* NII $16.0B, +9%\n* Sales and trading revenue $7.1B, +33% (17th consecutive Y/Y gain)\n* **Equities trading $3.6B, +70%** — the standout print\n* FICC $3.5B, +9%\n* IB fees $2.1B, +50% (ex-self-led)\n* GWIM $6.9B revenue, +16%; AUM $2.3T, +17%\n* Consumer Banking $11.3B revenue (+5%) with 160K net new checking accounts\n* Operating leverage +6.6%, efficiency ratio improved ~360 bp Y/Y\n\nMoynihan quote: 'The team delivered one of our strongest quarters to date, with earnings per share up 34% year-over-year. Every business segment reported double digit net income growth.'\n\nSector context:\n\n1. **Markets are the engine again** — AI-capex volatility and the Iran-Hormuz cycle keep equities-desk flow humming across JPM, C and BAC.\n2. **Retail is still holding** — combined credit/debit card spend +9% and 30 consecutive quarters of consumer checking growth argue against a hard-landing narrative.\n\nBAC hit a new 52-week high on the print.\n\nNext catalysts: BlackRock Q2 Wednesday July 15; Morgan Stanley Q2 Wednesday; PNC July 15; STT and USB July 16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bac-q2-2026-earnings-july-14](https://stock-tldr.xyz/releases/bac-q2-2026-earnings-july-14)"
+      },
+      "publishDate": "2026-07-15T01:21:53.748Z"
+    },
+    {
+      "id": "wfc-q2-2026-earnings-july-14",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Wells Fargo (WFC) Q2 2026 — diluted EPS $2.00 (+25% Y/Y) beats $1.72 est, net income $6.4B; revenue $22.6B (+9%), NII $12.3B (+5%), noninterest income $10.3B (+13%); ROTCE 17.7% and $3.0B of Q2 buybacks; CIB revenue +16%, Markets +24%",
+      "org": "Wells Fargo",
+      "date": "2026-07-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000288/wfc2qer07-14x26ex991xrelea.htm",
+      "summary": "WFC Q2: EPS $2.00 (+25% Y/Y) beats $1.72 est, net income $6.4B, revenue $22.6B (+9%). CIB revenue +16%, Markets +24%. ROTCE 17.7% (up from 15.2%). $3.0B buybacks; plans 11% Q3 dividend hike to $0.50.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q2-2026",
+        "banks",
+        "wfc",
+        "wells-fargo",
+        "financials",
+        "corporate-investment-banking",
+        "buyback",
+        "dividend-hike",
+        "nii"
+      ],
+      "importance": "major",
+      "tickers": [
+        "WFC",
+        "JPM",
+        "BAC",
+        "C"
+      ],
+      "metrics": {
+        "EPS": "$2.00 (+25% Y/Y) vs $1.72 est",
+        "Net income": "$6.4B (from $5.5B)",
+        "Revenue": "$22.6B (+9%)",
+        "NII": "$12.3B (+5%)",
+        "Noninterest income": "$10.3B (+13%)",
+        "ROTCE": "17.7% (vs 15.2%)",
+        "ROE": "15.0% (vs 12.8%)",
+        "CET1": "10.3%",
+        "CIB revenue": "+16% Y/Y",
+        "Markets revenue": "+24% Y/Y",
+        "IB fees": "$939M (+35%)",
+        "Buybacks (Q2)": "37.4M shs / $3.0B",
+        "Buybacks (H1)": "~$7B",
+        "Planned Q3 dividend": "$0.50/sh (+11%)"
+      },
+      "explainer": {
+        "tagline": "Wells Fargo prints its cleanest quarter in years — EPS $2.00 beats $1.72 est with CIB revenue +16% and $7B of H1 buybacks.",
+        "whatIsIt": "Wells Fargo reported Q2 2026 results before the bell on Tuesday July 14. Diluted EPS was $2.00, up 25% Y/Y and well ahead of the $1.72 Street estimate. Net income was $6.4B on $22.6B of revenue (+9%), and the bank plans to raise its Q3 dividend 11% to $0.50/share subject to board approval.",
+        "howItWorks": "NII was $12.3B (+5%) in line with expectations; noninterest income was $10.3B (+13%) ahead of ~$9.44B est on stronger IB fees ($939M, +35%) and asset management. Corporate & Investment Banking revenue was +16% Y/Y with Markets revenue up 24%; Wealth & Investment Management +13%; Consumer Banking & Lending +6%. ROTCE stepped to 17.7% from 15.2% a year ago (first-half ROTCE 16.1%), and average loans grew 12% Y/Y with average deposits +10%. Wells Fargo repurchased $3.0B (37.4M shares) in Q2 and ~$7B YTD. Net loan charge-offs fell 10 bp Y/Y.",
+        "whyItMatters": "Wells Fargo's balance-sheet expansion story is finally showing up in the P&L now that the 2018 asset cap is off — loans +12% and deposits +10% Y/Y with credit staying benign. The strong IB and Markets contribution mirrors JPM/BAC/C and confirms Q2's capital-markets tape wasn't a one-name story. Scharf: 'we are clearly benefitting from the broad-based economic strength we see in the U.S.'",
+        "forWho": "bank analysts, dividend / buyback investors, financials sector",
+        "tryIt": "https://finance.yahoo.com/quote/WFC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/09100BEDD81E97616F4C73751052C67E80775B9C3ED78DA9D7ED8656D1F5A2A9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F1de8dd65a3b2da37526c929e0b35b40a",
+        "alt": "Wells Fargo signage as WFC prints Q2 2026 EPS beat and 11% dividend hike",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "WFC 8-K Q2 Release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000288/wfc2qer07-14x26ex991xrelea.htm"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-q2-2026-earnings-111157789.html"
+        },
+        {
+          "label": "WFC Newsroom",
+          "url": "https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-to-Announce-Second-Quarter-2026-Earnings-on-July-14-2026/default.aspx"
+        },
+        {
+          "label": "WFC Quote",
+          "url": "https://finance.yahoo.com/quote/WFC"
+        }
+      ],
+      "reddit": {
+        "title": "Wells Fargo Q2: EPS $2.00 (+25% Y/Y) beats $1.72 est, CIB revenue +16%, Markets +24%, plans 11% Q3 dividend hike to $0.50",
+        "body": "Wells Fargo reported before the bell on Tuesday July 14 alongside JPM, BAC and Citi. The print was clean across the board.\n\n* Diluted EPS $2.00, +25% Y/Y — Street was at $1.72\n* Net income $6.4B (from $5.5B)\n* Revenue $22.6B, +9% Y/Y\n* NII $12.3B, +5% (in line)\n* Noninterest income $10.3B, +13% (beat ~$9.44B est)\n* ROTCE 17.7% vs 15.2% a year ago (first-half ROTCE 16.1%)\n* Average loans +12%, average deposits +10% Y/Y\n* Q2 buybacks: 37.4M shares / $3.0B; H1 total ~$7B\n* Plans to raise Q3 dividend 11% to $0.50/share (subject to board approval)\n* Net loan charge-offs down 10 bp Y/Y\n\nSegment view:\n\n1. **CIB delivered** — Corporate & Investment Banking revenue +16% Y/Y with Markets revenue +24% and IB fees $939M (+35%). Wells is finally competing with the money-centers in capital markets.\n2. **Wealth is compounding** — Wealth & Investment Management revenue +13%, client assets >$2.4T (+15% Y/Y).\n3. **Consumer stays strong** — Consumer Banking & Lending revenue +6% with accelerating primary-checking account growth.\n\nScharf quote: 'We are clearly benefitting from the broad-based economic strength we see in the U.S.'\n\nNext catalysts: BlackRock and Morgan Stanley Q2 on Wednesday July 15; PNC July 15; STT and USB July 16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wfc-q2-2026-earnings-july-14](https://stock-tldr.xyz/releases/wfc-q2-2026-earnings-july-14)"
+      },
+      "publishDate": "2026-07-15T01:21:53.748Z"
+    },
+    {
+      "id": "citi-q2-2026-earnings-july-14",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Citigroup (C) Q2 2026 — diluted EPS $3.15 (from $1.96) trounces $2.73 est on $24.8B revenue (+14%), best quarter in a decade; Markets Equities +45%, Banking +34%, Services record; launches $30B buyback and 12% planned dividend hike; ROTCE 13.0% vs 8.7%",
+      "org": "Citigroup",
+      "date": "2026-07-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926083383/c-20260714xex99d1.htm",
+      "summary": "Citi Q2: EPS $3.15 (from $1.96 est $2.73), revenue $24.8B (+14%) — best quarter in a decade. Markets equities +45%, Banking +34%. Launches $30B buyback and 12% dividend hike. RoTCE 13.0% vs 8.7% a year ago.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q2-2026",
+        "banks",
+        "citi",
+        "c",
+        "financials",
+        "markets-equities",
+        "investment-banking",
+        "buyback",
+        "dividend-hike",
+        "jane-fraser"
+      ],
+      "importance": "major",
+      "tickers": [
+        "C",
+        "JPM",
+        "BAC",
+        "WFC"
+      ],
+      "metrics": {
+        "EPS": "$3.15 (from $1.96) vs $2.73 est",
+        "Net income": "$5.8B (+45% Y/Y)",
+        "Revenue": "$24.8B (+14%) — best in a decade",
+        "Operating expenses": "$14.2B (+5%)",
+        "ROE": "11.4% (vs 7.7%)",
+        "RoTCE": "13.0% (vs 8.7%)",
+        "Efficiency ratio": "57.4% (-530 bp Y/Y)",
+        "CET1": "12.8%",
+        "Book value / sh": "$114.74",
+        "TBV / sh": "$100.89",
+        "Buyback plan": "$30B (launched)",
+        "Planned dividend hike": "+12%",
+        "Q2 capital returned": "~$5.0B (92% payout)"
+      },
+      "explainer": {
+        "tagline": "Citi's best quarter in a decade — EPS $3.15 crushes $2.73 est on $24.8B revenue as Fraser launches a $30B buyback and 12% dividend hike.",
+        "whatIsIt": "Citigroup reported Q2 2026 results before the bell on Tuesday July 14. Net income was $5.8B (+45% Y/Y) or $3.15 per diluted share, versus $2.73 consensus and $1.96 a year ago. Revenue of $24.8B (+14% Y/Y) was Citi's best quarterly print in a decade.",
+        "howItWorks": "Growth came from every one of Citi's five interconnected businesses: Services delivered record revenue and >30% return, Markets +17% (Equities +45%, prime balances +60%), Banking +34%, Wealth grew for the 9th straight quarter, US Personal Banking held with better-than-expected credit. Operating expenses were $14.2B (+5%), the efficiency ratio dropped ~530 bp Y/Y to 57.4%, and provision for credit losses was $2.5B (down 12% Y/Y). Fraser announced a new $30B buyback authorization and a planned 12% dividend increase; ~$5B was returned to shareholders in Q2 at a 92% payout ratio. BV/share $114.74, TBV $100.89, CET1 12.8%.",
+        "whyItMatters": "This is the print that validates Fraser's five-business restructure — every business grew double digits, RoTCE stepped from 8.7% to 13.0% Y/Y, and Citi joined the $30B-buyback cohort with JPM. Alongside JPM/BAC/WFC, capital-markets revenue was the shared driver on the July 14 tape. Despite the earnings beat, C shares faded ~4% intraday on 'no guidance raise, more investment spend' commentary — a familiar tell for consensus-topping restructurings.",
+        "forWho": "bank analysts, financials investors, restructuring / capital-return traders",
+        "tryIt": "https://finance.yahoo.com/quote/C"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/4B7716C5A2D1B6FA6625A1F7EAC941BEC959F066A9FE03DD71C46CF29EE49C8D/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2Febf1b6a473f610e61109818c9bdcacb6",
+        "alt": "Citigroup signage as Fraser posts Q2 2026 EPS beat and launches $30B buyback",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Citi 8-K Q2 Release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926083383/c-20260714xex99d1.htm"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-earnings-top-estimates-trading-124053636.html"
+        },
+        {
+          "label": "Stock Story Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-nyse-c-reports-upbeat-134556473.html"
+        },
+        {
+          "label": "C Quote",
+          "url": "https://finance.yahoo.com/quote/C"
+        }
+      ],
+      "reddit": {
+        "title": "Citi's best quarter in a decade: EPS $3.15 (from $1.96) crushes $2.73 est, revenue $24.8B (+14%), $30B buyback launched, 12% dividend hike planned",
+        "body": "Citigroup reported before the bell on Tuesday July 14 with what Jane Fraser called Citi's best quarterly revenue in a decade.\n\n* Diluted EPS $3.15 — up from $1.96 a year ago; Street was at $2.73\n* Net income $5.8B, +45% Y/Y\n* Revenue $24.8B, +14% Y/Y — best quarter in ~10 years\n* Every one of Citi's 5 businesses grew\n* Markets +17% — **Equities +45%, prime balances +60%**\n* Banking revenue +34%\n* Services delivered record revenue at >30% return\n* Wealth: 9th consecutive quarter of growth\n* Operating expenses $14.2B (+5%); efficiency ratio 57.4% (-530 bp Y/Y)\n* Provision for credit losses $2.5B (-12% Y/Y)\n* ROE 11.4% (vs 7.7%); RoTCE 13.0% (vs 8.7%)\n* Book value / sh $114.74; TBV / sh $100.89; CET1 12.8%\n* **Announced $30B buyback plan and planned 12% dividend increase**\n* ~$5.0B returned in Q2 at 92% payout ratio\n\nWhy the stock faded ~4% despite the beat:\n\n1. **No guidance raise** — Citi kept 2026 RoTCE 10-11% intact, telling the buy-side excess earnings get reinvested in tech/services rather than flowing to guidance.\n2. **More investment spend** — Fraser flagged 'short-term headwinds from investments in our U.S. Consumer Cards portfolio.'\n\nFraser: 'The combination of our investments, disciplined execution and focus on clients is improving our returns and creating more durable results for our investors.'\n\nNext catalysts: BlackRock Q2 and Morgan Stanley Q2 on Wednesday July 15; PNC July 15; STT and USB July 16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/citi-q2-2026-earnings-july-14](https://stock-tldr.xyz/releases/citi-q2-2026-earnings-july-14)"
+      },
+      "publishDate": "2026-07-15T01:21:53.748Z"
+    },
     {
       "id": "us-cpi-june-2026-july-14",
       "categories": [
