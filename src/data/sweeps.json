@@ -7348,6 +7348,56 @@
         "ipo",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260716t132655z",
+      "timestamp": "2026-07-16T13:26:55.319Z",
+      "source": "github-actions-sweep",
+      "summary": "Five Q2 2026 earnings additions: TSMC record profit but stock -4% on CapEx step-up ($60-64B) and >40% 2026 growth guide; UNH big beat with FY26 EPS raise and medical care ratio drop to 86.7%; GE Aerospace beat-and-raise with 26% aftermarket growth; Abbott modest beat with FY26 EPS bump; J.B. Hunt with a freight-recovery signal (Intermodal loads +10%, rate/load +11%).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tsm-q2-2026-earnings-july-16",
+          "title": "TSMC (TSM) Q2 2026 — record net income NT$706.56B (+77% Y/Y) and $40.2B revenue (+33.7% Y/Y USD) beat guide as 2026 growth outlook lifted to >40% and 2026 CapEx raised to $60–$64B (from $52–$56B); TSM ADRs -4% premarket, drags SMH with MU -8% and SNDK -8%",
+          "category": "earnings",
+          "note": "TSMC record Q2 print — $22B net profit +77% Y/Y, 2026 growth raised to >40%, CapEx to $60-64B. Stock -4% premarket on capex/FCF concerns; drags SMH memory tape."
+        },
+        {
+          "id": "unh-q2-2026-earnings-july-16",
+          "title": "UnitedHealth (UNH) Q2 2026 — adjusted EPS $6.38 vs $4.90 est on $112.03B revenue crush; medical care ratio 86.7% (vs 89.4% Y/Y), FY26 adjusted EPS guide raised to $19.50–$20.00 (from $18.25+); UNH +~7% premarket",
+          "category": "earnings",
+          "note": "UNH crushes Q2 with $6.38 adj EPS vs $4.90 est, medical care ratio drops to 86.7%, FY26 EPS guide raised to $19.50-$20.00; stock +7% premarket — first fully clean quarter since 2025 MLR shock."
+        },
+        {
+          "id": "ge-q2-2026-earnings-july-16",
+          "title": "GE Aerospace (GE) Q2 2026 — GAAP revenue $13.3B (+21% Y/Y) and adj EPS $2.02 (+22% Y/Y) beat; orders $16.5B (+17%), FCF $3.0B (+43%); FY26 adjusted EPS guide raised to $8.15–$8.35 and operating profit to $11.85–$12.05B",
+          "category": "earnings",
+          "note": "GE Aerospace beat-and-raise Q2 — $13.3B revenue +21%, adj EPS $2.02 vs $1.92 est, orders $16.5B +17%, FCF +43%; FY26 adj EPS guide raised to $8.15-$8.35 with CES services +26%."
+        },
+        {
+          "id": "abt-q2-2026-earnings-july-16",
+          "title": "Abbott (ABT) Q2 2026 — adjusted diluted EPS $1.31 vs $1.28 est on reported sales growth of +13.0% (comparable +4.8%); FY26 adjusted EPS guide raised to $5.45–$5.60 (from $5.38–$5.58) with comparable sales +6.5–7.5% reaffirmed",
+          "category": "earnings",
+          "note": "Abbott Q2 modest beat — adj EPS $1.31 vs $1.28 est on reported sales +13%; FY26 adj EPS guide bumped to $5.45-$5.60 while comparable sales +6.5-7.5% reaffirmed."
+        },
+        {
+          "id": "jbht-q2-2026-earnings-july-15",
+          "title": "J.B. Hunt (JBHT) Q2 2026 — adj EPS $1.91 vs $1.73 est on $3.49B revenue (+19.4% Y/Y); Intermodal revenue +22% Y/Y to $1.75B on loads +10% and revenue-per-load +11%; JBHT +7.66% AH to $297.45 as freight recovery signal fuels rally",
+          "category": "earnings",
+          "note": "J.B. Hunt genuine freight-recovery signal — adj EPS $1.91 vs $1.73 est, Intermodal revenue +22% with loads +10% AND revenue-per-load +11% together; JBHT +7.66% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "sector",
+        "mover"
+      ]
     }
   ]
 }

@@ -1,8 +1,393 @@
 {
-  "generatedAt": "2026-07-16T01:31:29.572Z",
+  "generatedAt": "2026-07-16T13:26:55.319Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "tsm-q2-2026-earnings-july-16",
+      "categories": [
+        "earnings",
+        "sector"
+      ],
+      "title": "TSMC (TSM) Q2 2026 — record net income NT$706.56B (+77% Y/Y) and $40.2B revenue (+33.7% Y/Y USD) beat guide as 2026 growth outlook lifted to >40% and 2026 CapEx raised to $60–$64B (from $52–$56B); TSM ADRs -4% premarket, drags SMH with MU -8% and SNDK -8%",
+      "org": "Taiwan Semiconductor Manufacturing Company",
+      "date": "2026-07-16",
+      "url": "https://focustaiwan.tw/business/202607160020",
+      "summary": "TSMC prints fifth straight record profit: NT$706.56B (~$22B, +77% Y/Y), $40.2B revenue at top of guide, 67.7% gross margin. Lifts 2026 USD-revenue growth outlook to >40% and hikes 2026 CapEx to $60–$64B on AI demand.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "capex-raise",
+        "semis",
+        "foundry",
+        "ai-capex",
+        "cowos",
+        "hbm",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TSM",
+        "NVDA",
+        "AVGO",
+        "AMD",
+        "MU",
+        "SMH"
+      ],
+      "metrics": {
+        "Revenue": "$40.20B (+33.7% Y/Y USD, +38.6% Y/Y NT$)",
+        "Net income": "NT$706.56B (~$22.0B, +77.4% Y/Y)",
+        "Diluted EPS": "NT$27.25 ($4.31 per ADR)",
+        "Gross margin": "67.7% (top of 65.5–67.5% guide)",
+        "Operating margin": "60.3%",
+        "Q3 revenue guide": "$44.6–$45.8B (+37% Y/Y midpoint)",
+        "2026 growth guide": ">40% USD (raised from >30% in April)",
+        "2026 CapEx guide": "$60–$64B (raised from $52–$56B)",
+        "Move": "TSM ADR -4% premarket"
+      },
+      "explainer": {
+        "tagline": "Fifth straight record profit and a >40% 2026 revenue outlook — but a $60–$64B CapEx hike sends TSM -4% premarket and drags the whole memory tape.",
+        "whatIsIt": "TSMC posted Q2 2026 revenue of $40.20B (top of the $39.0–$40.2B guide) and record net income of NT$706.56B (~$22.0B), up 77% Y/Y. Diluted EPS came in at NT$27.25 ($4.31 per ADR). Gross margin 67.7%, operating margin 60.3%.",
+        "howItWorks": "Chairman C.C. Wei told the call the multi-year AI megatrend has TSMC lifting its 2026 USD-revenue growth outlook to above 40% (from >30% in April). CapEx was raised to $60–$64B (from $52–$56B) to add 2nm and CoWoS capacity. Q3 guide came in at $44.6–$45.8B revenue on a 65–67% gross margin — an implied ~37% Y/Y at the midpoint. TSMC also flagged plans to invest an additional $100B in the Arizona fab complex.",
+        "whyItMatters": "The print confirms AI-chip demand is still supply-constrained (CoWoS sold out through year-end). But the CapEx step-up pressures near-term free cash flow (Q2 FCF fell 17.5% vs Q1) — and Wall Street rewarded the beat with -4% premarket for TSM plus follow-through selling in memory (MU -8%, SanDisk -8%). Every hyperscaler's Q3 spend guide now runs through TSMC's revised growth curve.",
+        "forWho": "semiconductor investors, AI-capex bulls, hyperscaler-supply-chain analysts",
+        "tryIt": "https://finance.yahoo.com/quote/TSM/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/16/TSMC.jpg",
+        "alt": "TSMC Taiwan Semiconductor Manufacturing Company logo and fab facility",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "links": [
+        {
+          "label": "Focus Taiwan",
+          "url": "https://focustaiwan.tw/business/202607160020"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html"
+        },
+        {
+          "label": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60489128/tsmc-stock-slides-despite-crushing-q2-estimates-with-fifth-straight-record-profit"
+        },
+        {
+          "label": "SCMP",
+          "url": "https://www.scmp.com/tech/big-tech/article/3350346/tsmc-targets-over-30-revenue-surge-2026-ramps-capex-amid-booming-ai-demand"
+        },
+        {
+          "label": "TSM Quote",
+          "url": "https://finance.yahoo.com/quote/TSM/"
+        }
+      ],
+      "reddit": {
+        "title": "TSMC Q2 2026 — record $22B net profit (+77% Y/Y), lifts 2026 growth outlook to >40%, hikes CapEx to $60–$64B, and TSM still trades -4% premarket",
+        "body": "TSMC just posted its fifth straight record quarter. Numbers were huge — but the stock sold off. Here's why.\n\n* Revenue **$40.20B**, top of the $39.0–$40.2B guide (+33.7% Y/Y in USD)\n* Net income **NT$706.56B (~$22.0B), +77.4% Y/Y**\n* Diluted EPS **NT$27.25 ($4.31 per ADR)**\n* Gross margin **67.7%** (top of 65.5–67.5% guide), op margin 60.3%\n* Q3 guide: **$44.6–$45.8B revenue** — ~37% Y/Y at midpoint\n\nThe two headline changes that moved the tape:\n\n1. **2026 growth outlook lifted to >40% in USD** — up from >30% guided in April. C.C. Wei on the call: 'Our conviction in the multi-year AI megatrend remains very high.'\n2. **2026 CapEx raised to $60–$64B** — from $52–$56B. Plus another $100B commitment to the Arizona fab complex. Q2 free cash flow already dropped 17.5% vs Q1 as they front-load the buildout.\n\nMarket reaction was the classic 'good print, bad reaction':\n\n* TSM ADR **-4% premarket** despite the beat\n* Semi tape rolled with it: **MU -8%, SanDisk -8%**\n* SMH under pressure for a second day\n\nCoWoS packaging still sold out through year-end, so the AI-supply story hasn't cracked — but a $60B+ CapEx bill on a shrinking free-cash-flow base is spooking the buy-and-hold crowd.\n\nNext catalysts: NFLX after close, then bank Q2s trickle out; ASML Wednesday already gave the equipment-supplier read.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsm-q2-2026-earnings-july-16](https://stock-tldr.xyz/releases/tsm-q2-2026-earnings-july-16)"
+      },
+      "publishDate": "2026-07-16T13:26:55.319Z"
+    },
+    {
+      "id": "unh-q2-2026-earnings-july-16",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "UnitedHealth (UNH) Q2 2026 — adjusted EPS $6.38 vs $4.90 est on $112.03B revenue crush; medical care ratio 86.7% (vs 89.4% Y/Y), FY26 adjusted EPS guide raised to $19.50–$20.00 (from $18.25+); UNH +~7% premarket",
+      "org": "UnitedHealth Group",
+      "date": "2026-07-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000191/earningsrelease2q26_7152.htm",
+      "summary": "UNH prints Q2 2026 adjusted EPS $6.38 vs $4.90 est on $112.03B revenue, both crushing consensus. Medical care ratio drops to 86.7% (from 89.4% Y/Y). FY26 adjusted EPS guide lifted to $19.50–$20.00.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "managed-care",
+        "medical-loss-ratio",
+        "optum",
+        "medicare-advantage",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UNH",
+        "CVS",
+        "ELV",
+        "CI",
+        "HUM"
+      ],
+      "metrics": {
+        "Revenue": "$112.03B (+13% Y/Y)",
+        "Adj EPS": "$6.38 vs $4.90 est",
+        "GAAP EPS": "$6.04",
+        "Operating income": "$8.0B",
+        "Medical care ratio": "86.7% (vs 89.4% Y/Y)",
+        "FY26 adj EPS guide": "$19.50–$20.00 (raised from $18.25+)",
+        "FY26 cash flow guide": "~$24.0B",
+        "Move": "UNH +~7% premarket"
+      },
+      "explainer": {
+        "tagline": "UNH crushes Q2 with adj EPS $6.38 vs $4.90 est, cuts the medical loss ratio to 86.7%, and lifts FY26 EPS guide to $19.50–$20.00 — stock +7% premarket.",
+        "whatIsIt": "UnitedHealth Group reported Q2 2026 revenue of $112.03B (+13% Y/Y), adjusted EPS of $6.38 vs $4.90 consensus, and GAAP EPS of $6.04. Operating income landed at $8.0B. UnitedHealthcare covered 48.5M consumers; Optum revenue $65.7B with 160bps of margin expansion Y/Y.",
+        "howItWorks": "The medical care ratio — the closely watched cost-vs-premium metric that has driven the stock's 2026 pain — printed 86.7%, down from 89.4% a year ago, thanks to product-design changes, tighter medical management, and repriced Medicare Advantage. Management raised FY26 adjusted EPS guide to $19.50–$20.00 (from a floor of $18.25) and cash flow to ~$24.0B. The $1.5B AI investment for claims/operations is being flagged as an ongoing tailwind.",
+        "whyItMatters": "This is the first fully clean quarter since the 2025 MLR shock, and the raise validates CEO Andrew Witty's turnaround plan of shrinking membership, exiting unprofitable contracts, and leaning on Optum. Managed-care comps (CVS, ELV, HUM, CI) trade in sympathy with the MLR print — Wall Street will now recalibrate 2026 EPS for the whole cohort.",
+        "forWho": "healthcare-services analysts, managed-care traders, Dow index watchers",
+        "tryIt": "https://finance.yahoo.com/quote/UNH/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/1CC84B88C73B2299441CB9E16FF583FDEA2CF9B17AE8286EFCF932808A097395/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F7b5c6d0da5ca27a2336952441227951f",
+        "alt": "UnitedHealth Group headquarters signage and logo",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Quartz"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Q2 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000191/earningsrelease2q26_7152.htm"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-q2-2026-earnings-beat-114056339.html"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html"
+        },
+        {
+          "label": "UNH Quote",
+          "url": "https://finance.yahoo.com/quote/UNH/"
+        }
+      ],
+      "reddit": {
+        "title": "UnitedHealth (UNH) Q2 2026 — Adj EPS $6.38 vs $4.90 est on $112B revenue, medical loss ratio drops to 86.7%, FY26 EPS guide raised to $19.50–$20.00, UNH +7% premarket",
+        "body": "UnitedHealth just reported the cleanest quarter since the 2025 medical-cost blow-up. Every line item that matters improved.\n\n* Revenue **$112.03B** vs ~$110.85B est (+13% Y/Y)\n* Adj EPS **$6.38** vs $4.90 est — a 30% beat\n* GAAP EPS **$6.04**, operating income **$8.0B**\n* **Medical care ratio 86.7%** — down from 89.4% a year ago\n* FY26 adj EPS guide **$19.50–$20.00** (up from $18.25+ floor)\n* FY26 cash flow guide **~$24.0B**\n* UNH **+~7% premarket**\n\nWhat changed vs the ugly quarters:\n\n1. **Medical-loss ratio finally normalized** — product-design changes, tighter medical management, better-priced Medicare Advantage all kicked in the same quarter.\n2. **Optum still doing the heavy lifting** — $65.7B in revenue, 160bps of margin expansion Y/Y as claims processing scales.\n3. **$1.5B AI investment** in operations flagged as a recurring efficiency lever.\n\nRead-through for the managed-care cohort (CVS, ELV, HUM, CI) is the same MLR trajectory question — expect Street models to move on those names into their Q2 prints.\n\nNext catalysts: peer managed-care Q2 prints in coming weeks.\n\nFull breakdown: [https://stock-tldr.xyz/releases/unh-q2-2026-earnings-july-16](https://stock-tldr.xyz/releases/unh-q2-2026-earnings-july-16)"
+      },
+      "publishDate": "2026-07-16T13:26:55.319Z"
+    },
+    {
+      "id": "ge-q2-2026-earnings-july-16",
+      "categories": [
+        "earnings"
+      ],
+      "title": "GE Aerospace (GE) Q2 2026 — GAAP revenue $13.3B (+21% Y/Y) and adj EPS $2.02 (+22% Y/Y) beat; orders $16.5B (+17%), FCF $3.0B (+43%); FY26 adjusted EPS guide raised to $8.15–$8.35 and operating profit to $11.85–$12.05B",
+      "org": "GE Aerospace",
+      "date": "2026-07-16",
+      "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-second-quarter-2026-results",
+      "summary": "GE Aerospace posts Q2 2026 revenue $13.3B (+21% Y/Y), adj EPS $2.02 (+22%), orders $16.5B (+17%). Commercial services up 26% Y/Y with spare-parts revenue +25%. Raises FY26 adj EPS to $8.15–$8.35 and operating profit to $11.85–$12.05B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "aerospace",
+        "defense",
+        "aftermarket",
+        "spare-parts",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GE",
+        "RTX",
+        "HON",
+        "SAF.PA"
+      ],
+      "metrics": {
+        "Revenue (GAAP)": "$13.3B (+21% Y/Y)",
+        "Adjusted revenue": "$12.6B (+24% Y/Y)",
+        "GAAP EPS": "$2.30 (+23% Y/Y)",
+        "Adj EPS": "$2.02 vs $1.92 est (+22% Y/Y)",
+        "Total orders": "$16.5B (+17% Y/Y)",
+        "Operating cash flow": "$3.3B (+39% Y/Y)",
+        "Free cash flow": "$3.0B (+43% Y/Y)",
+        "CES services growth": "+26% Y/Y (spare parts +25%)",
+        "FY26 adj EPS guide": "$8.15–$8.35 (raised)",
+        "FY26 operating profit guide": "$11.85–$12.05B (raised)"
+      },
+      "explainer": {
+        "tagline": "GE Aerospace posts a beat-and-raise Q2 with 21% revenue growth, $16.5B in orders, and a fresh FY26 EPS guide of $8.15–$8.35.",
+        "whatIsIt": "GE Aerospace reported Q2 2026 GAAP revenue of $13.3B (+21% Y/Y), adjusted revenue of $12.6B (+24%), GAAP EPS of $2.30 (+23%), and adjusted EPS of $2.02 vs $1.92 consensus (+22% Y/Y). Orders climbed to $16.5B (+17%).",
+        "howItWorks": "Commercial Engines & Services (CES) — the aftermarket engine that runs the whole business — grew 26% Y/Y with internal shop-visit revenue +25% and spare-parts revenue +25%. Operating cash flow hit $3.3B (+39% Y/Y) and free cash flow $3.0B (+43%), lifting FCF margin to 22.7% (from 20.7%). Management raised FY26 adjusted EPS guide to $8.15–$8.35 (from an $8.15 prior midpoint) and operating profit to $11.85–$12.05B.",
+        "whyItMatters": "Aftermarket is the highest-margin part of GE's model and the raise validates the '95% of spare-parts revenue already in backlog' framing management gave last quarter. Read-through to RTX (Pratt & Whitney) and Honeywell (aerospace) is directly positive — the wide-body engine cycle isn't rolling over.",
+        "forWho": "aerospace analysts, industrial-cyclical traders",
+        "tryIt": "https://finance.yahoo.com/quote/GE/"
+      },
+      "image": {
+        "url": "https://www.geaerospace.com/sites/default/files/aerospace-1200x650-1.jpeg",
+        "alt": "GE Aerospace commercial engine on a widebody aircraft wing",
+        "fit": "cover",
+        "credit": "GE Aerospace"
+      },
+      "links": [
+        {
+          "label": "GE Aerospace Q2 Press Release",
+          "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-second-quarter-2026-results"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-nyse-ge-reports-104441654.html"
+        },
+        {
+          "label": "GE Quote",
+          "url": "https://finance.yahoo.com/quote/GE/"
+        }
+      ],
+      "reddit": {
+        "title": "GE Aerospace Q2 2026 — Revenue $13.3B (+21% Y/Y), adj EPS $2.02 (+22%), CES services +26%, FCF +43% — FY26 adj EPS guide raised to $8.15–$8.35",
+        "body": "GE Aerospace delivered a clean beat-and-raise print. The aftermarket engine keeps humming.\n\n* Revenue (GAAP) **$13.3B**, +21% Y/Y\n* Adjusted EPS **$2.02** vs $1.92 est (+22% Y/Y)\n* GAAP EPS **$2.30** (+23% Y/Y)\n* Total orders **$16.5B**, +17% Y/Y\n* Free cash flow **$3.0B**, +43% Y/Y — FCF margin 22.7% (from 20.7%)\n* **Commercial Engines & Services (CES) grew 26% Y/Y** — spare parts +25%, internal shop-visit revenue +25%\n\nGuidance raised across the board:\n\n1. **FY26 adjusted EPS $8.15–$8.35** (raised)\n2. **FY26 operating profit $11.85–$12.05B** (raised)\n\nAftermarket is where the operating leverage lives — and CEO Larry Culp flagged 'record internal shop-visit output in the quarter' on the release.\n\nRead-through: Pratt & Whitney parent RTX and Honeywell aerospace should benefit from the same widebody-engine cycle.\n\nNext catalysts: RTX Q2 print on July 22.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ge-q2-2026-earnings-july-16](https://stock-tldr.xyz/releases/ge-q2-2026-earnings-july-16)"
+      },
+      "publishDate": "2026-07-16T13:26:55.319Z"
+    },
+    {
+      "id": "abt-q2-2026-earnings-july-16",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Abbott (ABT) Q2 2026 — adjusted diluted EPS $1.31 vs $1.28 est on reported sales growth of +13.0% (comparable +4.8%); FY26 adjusted EPS guide raised to $5.45–$5.60 (from $5.38–$5.58) with comparable sales +6.5–7.5% reaffirmed",
+      "org": "Abbott Laboratories",
+      "date": "2026-07-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026048377/abt-20260716.htm",
+      "summary": "Abbott Q2 2026 adjusted diluted EPS $1.31 beat $1.28 consensus; reported sales +13.0%, comparable sales +4.8%. FY26 adjusted diluted EPS guide raised to $5.45–$5.60 and comparable sales growth reaffirmed at +6.5–7.5%.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "healthcare",
+        "medical-devices",
+        "diagnostics",
+        "libre",
+        "q2-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "ABT"
+      ],
+      "metrics": {
+        "Adj diluted EPS": "$1.31 vs $1.28 est",
+        "GAAP diluted EPS": "$0.53",
+        "Reported sales growth": "+13.0% Y/Y",
+        "Comparable sales growth": "+4.8% Y/Y",
+        "FY26 adj EPS guide": "$5.45–$5.60 (raised from $5.38–$5.58)",
+        "FY26 comparable sales guide": "+6.5–7.5% (reaffirmed)",
+        "Q3 adj EPS guide": "$1.38–$1.46",
+        "Capital returned Q2": "$2.1B (dividends + buybacks)"
+      },
+      "explainer": {
+        "tagline": "Abbott beats on EPS, delivers 13% reported sales growth, and nudges FY26 adjusted-EPS guide to $5.45–$5.60.",
+        "whatIsIt": "Abbott reported Q2 2026 adjusted diluted EPS of $1.31 vs $1.28 consensus and GAAP diluted EPS of $0.53. Reported sales grew 13.0% Y/Y (comparable +4.8%). Q3 guide came in at adjusted EPS $1.38–$1.46.",
+        "howItWorks": "Management raised the FY26 adjusted diluted EPS range to $5.45–$5.60 (from $5.38–$5.58) while reaffirming full-year comparable sales growth of +6.5–7.5%. Abbott returned $2.1B to shareholders in the quarter via dividends and buybacks. Company also flagged completed enrollment in the TECTONIC US pivotal trial for its Coronary IVL system and CE Mark for the Libre Duo dual glucose-ketone biowearable.",
+        "whyItMatters": "Abbott had been an underperformer into the print (down ~11% over the quarter), so a beat-and-raise removes an overhang for large-cap medical devices. Read-through for the CGM franchise (Libre) and diagnostics is neutral-to-positive.",
+        "forWho": "medical-device analysts, healthcare defensives allocators"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/DFC2B79FE8D49F3B936A5EE1FBDEB9FE01DEE00316E170716FF4DF154CAF2DC2/subgraphmysterio/resizefill_w1200_h756;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F181d5ab1675d8aae9c53428215552644",
+        "alt": "Abbott Laboratories corporate signage",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Zacks"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026048377/abt-20260716.htm"
+        },
+        {
+          "label": "SEC Q2 Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000001800/000162828026048377/abt-2026q2xexhibitx991.htm"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/abbotts-q2-earnings-deck-play-133400077.html"
+        },
+        {
+          "label": "ABT Quote",
+          "url": "https://finance.yahoo.com/quote/ABT/"
+        }
+      ],
+      "reddit": {
+        "title": "Abbott (ABT) Q2 2026 — Adj diluted EPS $1.31 vs $1.28 est, reported sales +13%, FY26 adj EPS guide bumped to $5.45–$5.60",
+        "body": "Abbott delivered a modest beat-and-raise. Nothing spectacular, but enough to unwind the -11% quarterly drawdown that dogged the stock into the print.\n\n* Adjusted diluted EPS **$1.31** vs $1.28 est\n* Reported sales growth **+13.0% Y/Y**\n* Comparable sales growth **+4.8% Y/Y**\n* GAAP diluted EPS $0.53\n* Q2 capital return **$2.1B** in dividends + buybacks\n\nGuidance:\n\n1. **FY26 adj diluted EPS raised to $5.45–$5.60** (from $5.38–$5.58)\n2. **FY26 comparable sales +6.5–7.5% reaffirmed**\n3. **Q3 adj EPS guide $1.38–$1.46**\n\nProduct-side notables: completed enrollment in TECTONIC US pivotal trial for its Coronary IVL system, and CE Mark for the Libre Duo (dual glucose-ketone biowearable).\n\nFull breakdown: [https://stock-tldr.xyz/releases/abt-q2-2026-earnings-july-16](https://stock-tldr.xyz/releases/abt-q2-2026-earnings-july-16)"
+      },
+      "publishDate": "2026-07-16T13:26:55.319Z"
+    },
+    {
+      "id": "jbht-q2-2026-earnings-july-15",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "J.B. Hunt (JBHT) Q2 2026 — adj EPS $1.91 vs $1.73 est on $3.49B revenue (+19.4% Y/Y); Intermodal revenue +22% Y/Y to $1.75B on loads +10% and revenue-per-load +11%; JBHT +7.66% AH to $297.45 as freight recovery signal fuels rally",
+      "org": "J.B. Hunt Transport Services",
+      "date": "2026-07-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926023629/jbht20260714_8k.htm",
+      "summary": "J.B. Hunt Q2 2026 crushes on freight-recovery signal — adj EPS $1.91 vs $1.73 est, revenue $3.49B (+19.4% Y/Y), net income +40.7% Y/Y. Intermodal loads +10%, revenue-per-load +11%. JBHT +7.66% AH after regular-session -1.63%.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "intermodal",
+        "freight-recovery",
+        "trucking",
+        "logistics",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JBHT",
+        "ODFL",
+        "KNX",
+        "XPO",
+        "CSX"
+      ],
+      "metrics": {
+        "Adj EPS": "$1.91 vs $1.73 est",
+        "Revenue": "$3.49B (+19.4% Y/Y)",
+        "Net income": "$181.03M (+40.7% Y/Y)",
+        "Intermodal revenue": "$1.75B (+22% Y/Y)",
+        "Intermodal loads": "+10% Y/Y",
+        "Intermodal revenue per load": "+11% Y/Y",
+        "Move": "JBHT +7.66% AH to $297.45 (regular session -1.63% at $276.28)"
+      },
+      "explainer": {
+        "tagline": "J.B. Hunt tops Q2 estimates as Intermodal loads +10% and revenue-per-load +11% signal a real freight-market turn — JBHT +7.66% AH.",
+        "whatIsIt": "J.B. Hunt reported Q2 2026 adjusted EPS of $1.91 vs $1.73 consensus on revenue of $3.49B (+19.4% Y/Y). Net income jumped 40.7% Y/Y to $181.03M. Shares rallied 7.66% after-hours to $297.45 (regular session had closed -1.63% at $276.28).",
+        "howItWorks": "The Intermodal segment — J.B. Hunt's largest and the one traders read for the freight cycle — grew 22% Y/Y to $1.75B, with loads up 10% and revenue-per-load up 11%. That's the first quarter in over a year where both the volume AND price sides of Intermodal moved higher simultaneously, breaking the multi-quarter trucking-recession framing.",
+        "whyItMatters": "JBHT is the tape-read for the surface-freight cycle. Loads-and-rates both up at the same time is the tell that shippers are re-stocking and capacity has tightened enough for pricing to bite. Read-through to full-truckload (KNX), less-than-truckload (ODFL, XPO), and Class 1 railroads (CSX, NSC) is positive.",
+        "forWho": "transportation traders, cyclical-industrials allocators, TSA freight-cycle watchers",
+        "tryIt": "https://finance.yahoo.com/quote/JBHT/"
+      },
+      "image": {
+        "url": "https://www.freightwaves.com/wp-content/uploads/2026/07/15/JBHT-1200x675.jpg",
+        "alt": "J.B. Hunt Transport Services intermodal container on rail",
+        "fit": "cover",
+        "credit": "FreightWaves"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926023629/jbht20260714_8k.htm"
+        },
+        {
+          "label": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/j-b-hunts-shares-up-9-on-q2-earnings-beat"
+        },
+        {
+          "label": "Yahoo / FreightWaves",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-shares-9-210103990.html"
+        },
+        {
+          "label": "JBHT Quote",
+          "url": "https://finance.yahoo.com/quote/JBHT/"
+        }
+      ],
+      "reddit": {
+        "title": "J.B. Hunt (JBHT) Q2 2026 — Adj EPS $1.91 vs $1.73 est, revenue $3.49B (+19.4% Y/Y), Intermodal loads +10% AND revenue-per-load +11% — JBHT +7.66% AH",
+        "body": "The first genuine freight-recovery signal in years just dropped. J.B. Hunt beat, but the tell was inside Intermodal.\n\n* Adj EPS **$1.91** vs $1.73 est\n* Revenue **$3.49B**, +19.4% Y/Y\n* Net income **$181M**, +40.7% Y/Y\n* Intermodal revenue **$1.75B**, +22% Y/Y\n* **Intermodal loads +10% AND revenue-per-load +11%** — both sides of the equation moving together for the first time in over a year\n* JBHT **+7.66% AH to $297.45**, after closing the regular session -1.63% at $276.28\n\nWhy Intermodal matters:\n\n1. **JBHT's Intermodal book is the surface-freight read** — it's the biggest US intermodal marketing company and the standard proxy for shipper demand vs. rail-line capacity.\n2. **Loads-and-rates rising together = tight capacity + real demand** — the multi-quarter trucking-recession thesis breaks here.\n3. **Read-through** to full-truckload (KNX), LTL (ODFL, XPO), and Class 1 railroads (CSX, NSC).\n\nNext catalysts: CSX and UNP Q2 prints, then ODFL — those confirm or reject the cycle turn.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jbht-q2-2026-earnings-july-15](https://stock-tldr.xyz/releases/jbht-q2-2026-earnings-july-15)"
+      },
+      "publishDate": "2026-07-16T13:26:55.319Z"
+    },
     {
       "id": "asml-q2-2026-earnings-july-15",
       "categories": [
