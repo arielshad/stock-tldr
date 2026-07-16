@@ -7302,6 +7302,52 @@
         "mover",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260716t013129z",
+      "timestamp": "2026-07-16T01:31:29.572Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh Jul 15 items: ASML Q2 2026 beat + FY raise (semi bellwether), Apple all-time close on China Apple Intelligence approval (regulatory unlock + $5T-ish cap), J&J Q2 beat + FY raise (first $100B year in sight), SPCX first-time close at IPO price with Starship test-flight on deck.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "asml-q2-2026-earnings-july-15",
+          "title": "ASML (ASML) Q2 2026 — €9.33B net sales beat guidance, gross margin 54.0%, net income €2.29B and EPS €7.59; FY26 guide raised to €43–45B on AI demand as installed-base sales top €2.76B; Amsterdam-listed shares close +5.94% at €1,648.20",
+          "category": "earnings",
+          "note": "Q2 beat + FY guide raise from the sole EUV supplier — cleanest read-through on AI capex ahead of TSMC on July 16."
+        },
+        {
+          "id": "aapl-china-apple-intelligence-approval-july-15-2026",
+          "title": "Apple (AAPL) closes at record $327.50 on Wednesday July 15 (+4%) after China's Cyberspace Administration clears Apple Intelligence with Alibaba's Qwen — market cap approaches $5T as Alibaba ADRs jump 4%+",
+          "category": "mover",
+          "note": "China CAC clears Apple Intelligence with Alibaba's Qwen; AAPL closes at fresh ATH ~$327.50 with market cap approaching $5T."
+        },
+        {
+          "id": "jnj-q2-2026-earnings-july-15",
+          "title": "Johnson & Johnson (JNJ) Q2 2026 — sales $25.3B (+6.6% Y/Y) beat $25.05B est and adjusted EPS $2.90 beats $2.85 est on Innovative Medicine +7.8%; FY26 guidance raised to $101.1B sales and $11.68 adj EPS (midpoints) — company on track for first $100B+ revenue year in 140-year history",
+          "category": "earnings",
+          "note": "Q2 beat on both lines and raised FY26 guide puts J&J on track for its first $100B+ revenue year in company history."
+        },
+        {
+          "id": "spcx-below-ipo-price-first-time-july-15-2026",
+          "title": "SpaceX (SPCX) closes $135.27 on Wednesday July 15 — first close at/below the $135 IPO price since June 12 debut as stock intraday-dips to $133; ~34% off post-IPO high, small ~4% float and Starship test flight looming Thursday July 16",
+          "category": "mover",
+          "note": "First close at $135.27 IPO price since June 12 debut; ~34% off post-IPO high with Starship test flight Thursday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "ipo",
+        "sector"
+      ]
     }
   ]
 }

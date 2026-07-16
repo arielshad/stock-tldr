@@ -1,8 +1,309 @@
 {
-  "generatedAt": "2026-07-15T13:18:36.885Z",
+  "generatedAt": "2026-07-16T01:31:29.572Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "asml-q2-2026-earnings-july-15",
+      "categories": [
+        "earnings",
+        "mover",
+        "sector"
+      ],
+      "tickers": [
+        "ASML"
+      ],
+      "title": "ASML (ASML) Q2 2026 — €9.33B net sales beat guidance, gross margin 54.0%, net income €2.29B and EPS €7.59; FY26 guide raised to €43–45B on AI demand as installed-base sales top €2.76B; Amsterdam-listed shares close +5.94% at €1,648.20",
+      "org": "ASML Holding N.V.",
+      "date": "2026-07-15",
+      "url": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results",
+      "summary": "The world's only EUV lithography supplier trounced Q2 guidance, raised full-year sales to €43–45B, and flagged 30% low-NA EUV capacity adds for 2027 as AI-linked orders bulk up the installed base.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "semis",
+        "euv",
+        "ai-capex",
+        "guidance-raise",
+        "installed-base",
+        "netherlands"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "€9.33B (above guidance)",
+        "Gross margin": "54.0%",
+        "Net income": "€2.29B",
+        "EPS (basic)": "€7.59",
+        "Installed Base Management": "€2.76B",
+        "Q3 guide": "€11.0–12.0B",
+        "FY26 guide": "€43–45B",
+        "Move (AS)": "+5.94% to €1,648.20"
+      },
+      "explainer": {
+        "tagline": "ASML clears Q2 guidance, raises FY26 to €43–45B and prepares a 30% low-NA EUV capacity add for 2027 as AI demand stays intact.",
+        "whatIsIt": "ASML — the Dutch monopolist for EUV and high-NA EUV chip lithography that underpins every leading-edge logic and DRAM node — reported Q2 2026 net sales of €9.33B and net income of €2.29B on July 15, with EPS of €7.59. The result beat the company's own guide, prompting a full-year 2026 revenue lift to €43–45B and a Q3 outlook of €11.0–12.0B.",
+        "howItWorks": "Total Q2 net sales of €9.33B included €2.76B of Installed Base Management sales — service and upgrades to the existing tool base — which came in €300M above the plan and lifted gross margin to 54.0%. Q3 2026 guidance is €11.0–12.0B at 55–57% gross margin. Full-year 2026 guidance now runs to €43–45B at 54–56% gross margin. CEO Christophe Fouquet said ASML plans to add 30% to low-NA EUV capacity for 2027 versus 2026's ~65 systems, with a similar 30% add for DUV immersion.",
+        "whyItMatters": "ASML is the cleanest single read on leading-edge capex from TSMC, Samsung Foundry, Intel Foundry and SK Hynix. A beat + FY raise + 2027 capacity add tells the market that AI-driven wafer starts are still expanding, not plateauing. Amsterdam-listed shares closed +5.94% at €1,648.20 on the print. The signal ripples into TSM (reports July 16), NVDA, AMD, MU, LRCX, KLAC, AMAT.",
+        "forWho": "semi analysts, AI-capex traders, Europe-exposed macro desks",
+        "tryIt": "https://www.asml.com/en/investors/financial-results/q2-2026"
+      },
+      "image": {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/0e922787-0d4f-4763-99ed-f3c70bdc20b1",
+        "alt": "ASML Q2 2026 financial results header",
+        "fit": "cover",
+        "credit": "ASML via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "ASML press release",
+          "url": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results"
+        },
+        {
+          "label": "GlobeNewswire release",
+          "url": "https://www.globenewswire.com/news-release/2026/07/15/3327450/0/en/ASML-reports-9-3-billion-total-net-sales-and-2-9-billion-net-income-in-Q2-2026.html"
+        },
+        {
+          "label": "SEC Form 6-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026048235/form6-kquarterlyfilings.htm"
+        },
+        {
+          "label": "Q2 2026 results hub",
+          "url": "https://www.asml.com/en/investors/financial-results/q2-2026"
+        },
+        {
+          "label": "ASML ticker page",
+          "url": "https://finance.yahoo.com/quote/ASML/"
+        }
+      ],
+      "reddit": {
+        "title": "ASML crushes Q2 — €9.33B sales, FY26 revenue raised to €43-45B, shares +5.94% in Amsterdam. AI capex isn't slowing.",
+        "body": "ASML dropped Q2 2026 on July 15 and it was a clean beat plus a full-year raise — the single most important read on leading-edge chip capex just came in hot.\n\n* Q2 net sales €9.33B, above guidance\n* Gross margin 54.0%; net income €2.29B; EPS €7.59\n* Installed Base Management sales €2.76B — €300M above plan (the service/upgrade line)\n* Q3 2026 guide €11.0-12.0B at 55-57% gross margin\n* **FY26 guide raised to €43-45B** at 54-56% gross margin\n* Amsterdam-listed shares closed +5.94% at €1,648.20\n\nWhat matters:\n\n1. **AI capex is still expanding, not plateauing** — a beat AND a raise from the world's only EUV supplier signals TSMC/Samsung/Intel Foundry/SK Hynix are ordering more wafers, not fewer.\n2. **2027 capacity add** — CEO Fouquet plans to add ~30% to 2026's ~65 low-NA EUV systems for 2027, plus ~30% more DUV immersion.\n3. **Read-across to peers** — TSM reports July 16, then NVDA/AMD/MU into Q3.\n\nNext catalysts: TSMC Q2 on July 16, then Netflix same day AH.\n\nFull breakdown: [https://stock-tldr.xyz/releases/asml-q2-2026-earnings-july-15](https://stock-tldr.xyz/releases/asml-q2-2026-earnings-july-15)"
+      },
+      "publishDate": "2026-07-16T01:31:29.572Z"
+    },
+    {
+      "id": "aapl-china-apple-intelligence-approval-july-15-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "tickers": [
+        "AAPL",
+        "BABA"
+      ],
+      "title": "Apple (AAPL) closes at record $327.50 on Wednesday July 15 (+4%) after China's Cyberspace Administration clears Apple Intelligence with Alibaba's Qwen — market cap approaches $5T as Alibaba ADRs jump 4%+",
+      "org": "Apple",
+      "date": "2026-07-15",
+      "url": "https://macdailynews.com/2026/07/15/apple-intelligence-gains-regulatory-approval-in-china/",
+      "summary": "China's Cyberspace Administration added Apple Intelligence to its list of approved smartphone gen-AI services, unlocking Alibaba Qwen-powered features across iOS, iPadOS, macOS and visionOS — AAPL closed at a fresh all-time high.",
+      "tags": [
+        "apple-intelligence",
+        "china",
+        "gen-ai",
+        "cyberspace-administration",
+        "alibaba",
+        "qwen",
+        "record-high",
+        "market-cap"
+      ],
+      "importance": "major",
+      "metrics": {
+        "AAPL close": "$327.50 (+$12.64, ~+4.0%)",
+        "AAPL intraday high": "$328.72",
+        "AAPL market cap": "~$4.81T",
+        "BABA move": "+4% on the news",
+        "Approved partners": "7 on-device gen-AI services incl. Apple, Huawei, Xiaomi, Samsung, OPPO, vivo, Nubia"
+      },
+      "explainer": {
+        "tagline": "China clears Apple Intelligence with Alibaba's Qwen, and Apple prints an all-time closing high at $327.50 — market cap now within ~$200B of $5T.",
+        "whatIsIt": "On July 15, 2026 the Cyberspace Administration of China (CAC) — the country's internet regulator — published its first list of approved on-device generative-AI services for smartphones. Apple Intelligence was one of seven services cleared, alongside Huawei, Xiaomi, Samsung, OPPO, vivo and Nubia. Apple's gen-AI stack in mainland China will be powered by Alibaba's Tongyi Qwen model instead of OpenAI's GPT (which powers Apple Intelligence outside China).",
+        "howItWorks": "Chinese law requires large-language-model providers to register their services with the CAC before public release. The approval unlocks Apple Intelligence for Chinese users across iOS, iPadOS, macOS and visionOS. No specific launch date was given. AAPL closed at $327.50 on Wednesday, up $12.64 (~+4%), a fresh all-time closing high and 15th intraday record of 2026. Alibaba's US ADRs (BABA) rose over 4% on the same catalyst.",
+        "whyItMatters": "China is Apple's third-largest region by revenue and had been the one meaningful market where Apple Intelligence remained locked out. Clearance unlocks the AI-marketing story for the next iPhone cycle in China and validates the Alibaba partnership disclosed in February 2025. At $327.50, AAPL's market cap is ~$4.81T — roughly $200B shy of Nvidia's $5T mark. Read-across: BABA (partner upside), MSFT/GOOG (blocked from same channel), and the broader Chinese consumer-tech rebound trade.",
+        "forWho": "mega-cap tech traders, China consumer desks, AI supply-chain analysts",
+        "tryIt": "https://finance.yahoo.com/quote/AAPL/"
+      },
+      "image": {
+        "url": "https://macdailynews.com/wp-content/uploads/2026/06/260608_apple_intelligence_2.png",
+        "alt": "Apple Intelligence brand mark",
+        "fit": "contain",
+        "credit": "Apple via MacDailyNews"
+      },
+      "links": [
+        {
+          "label": "MacDailyNews on CAC approval",
+          "url": "https://macdailynews.com/2026/07/15/apple-intelligence-gains-regulatory-approval-in-china/"
+        },
+        {
+          "label": "Caixin: China clears mobile AI",
+          "url": "https://www.caixinglobal.com/2026-07-16/china-clears-mobile-based-ai-models-opening-path-for-apple-intelligence-in-china-102464642.html"
+        },
+        {
+          "label": "MacDailyNews: AAPL record close",
+          "url": "https://macdailynews.com/2026/07/15/apple-shares-hit-new-all-time-closing-and-intraday-highs-2/"
+        },
+        {
+          "label": "Yahoo Finance session live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html"
+        },
+        {
+          "label": "AAPL ticker page",
+          "url": "https://finance.yahoo.com/quote/AAPL/"
+        }
+      ],
+      "reddit": {
+        "title": "AAPL closes at record $327.50 (+4%) after China clears Apple Intelligence with Alibaba's Qwen — market cap now ~$4.81T, $200B from Nvidia's $5T mark",
+        "body": "Apple hit a fresh all-time closing high on July 15 after China's cyberspace regulator finally cleared Apple Intelligence for smartphone deployment.\n\n* AAPL closed $327.50, up $12.64 (~+4%)\n* Intraday high $328.72 — 15th intraday record of 2026\n* Market cap ~$4.81T, about $200B behind Nvidia's $5T\n* Alibaba (BABA) ADRs also up +4% — Alibaba's Tongyi Qwen model will power Apple Intelligence in China\n* CAC approved 7 on-device gen-AI stacks: Apple, Huawei, Xiaomi, Samsung, OPPO, vivo, Nubia\n\nWhy it moved:\n\n1. **China unlock** — China is Apple's third-largest region and the one meaningful market where Apple Intelligence was blocked. That gap is now closing.\n2. **iPhone cycle catalyst** — Apple gets a fresh AI-marketing hook for the mainland ahead of the next launch.\n3. **BABA read-across** — Alibaba wins the on-device AI socket at Apple. OpenAI/Google are excluded from this channel by CN data rules.\n\nFull breakdown: [https://stock-tldr.xyz/releases/aapl-china-apple-intelligence-approval-july-15-2026](https://stock-tldr.xyz/releases/aapl-china-apple-intelligence-approval-july-15-2026)"
+      },
+      "publishDate": "2026-07-16T01:31:29.572Z"
+    },
+    {
+      "id": "jnj-q2-2026-earnings-july-15",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "JNJ"
+      ],
+      "title": "Johnson & Johnson (JNJ) Q2 2026 — sales $25.3B (+6.6% Y/Y) beat $25.05B est and adjusted EPS $2.90 beats $2.85 est on Innovative Medicine +7.8%; FY26 guidance raised to $101.1B sales and $11.68 adj EPS (midpoints) — company on track for first $100B+ revenue year in 140-year history",
+      "org": "Johnson & Johnson",
+      "date": "2026-07-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000146/a2026q2exhibit991.htm",
+      "summary": "J&J beat on both lines behind Tremfya, Darzalex and Carvykti, then raised full-year sales guide to $100.8–101.4B and adjusted EPS to $11.60–11.75 — the company would clear $100B in annual revenue for the first time ever.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "healthcare",
+        "pharma",
+        "medtech",
+        "guidance-raise",
+        "innovative-medicine",
+        "tremfya",
+        "darzalex"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$25.3B (+6.6% Y/Y) vs $25.05B est",
+        "Adj EPS": "$2.90 vs $2.85 est",
+        "GAAP EPS": "$2.27",
+        "Innovative Medicine": "$16.38B (+7.8%)",
+        "MedTech": "$8.93B (+4.5%)",
+        "FY26 sales guide": "$100.8–101.4B (mid $101.1B)",
+        "FY26 adj EPS guide": "$11.60–11.75 (mid $11.68)"
+      },
+      "explainer": {
+        "tagline": "J&J beats Q2 on Innovative Medicine strength, raises FY26 sales guide to a $101.1B midpoint — on track for its first $100B+ year.",
+        "whatIsIt": "Johnson & Johnson — the New Brunswick, NJ-based drug and med-tech maker (Tremfya, Darzalex, Stelara successor, Abiomed heart pumps) — reported Q2 2026 sales of $25.31B and adjusted EPS of $2.90, both above the Street. The company raised its FY26 sales guide to $100.8–101.4B and adjusted EPS guide to $11.60–11.75.",
+        "howItWorks": "Innovative Medicine posted $16.38B in sales (+7.8% reported, +6.8% operational), driven by immunology drug Tremfya, cancer treatments Darzalex and Carvykti, and neuroscience products Spravato and Caplyta. MedTech grew 4.5% reported (+3.6% operational) to $8.93B. Reported GAAP EPS was $2.27, down 0.9% Y/Y on litigation-related charges. Adjusted EPS guidance moved up $0.13 to $11.68 midpoint (+8.2% growth), and adjusted operational EPS to $11.58 (+7.3%).",
+        "whyItMatters": "J&J is on pace to clear $100B in annual revenue for the first time in its 140-year history — a symbolic milestone for the world's largest healthcare company. The beat + raise validate the post-Kenvue-spin Innovative Medicine pipeline as offsetting Stelara loss-of-exclusivity headwinds and Abiomed erosion. Read-across to LLY, MRK, PFE on immunology / oncology positioning, and to MDT/ISRG on MedTech demand.",
+        "forWho": "healthcare desks, defensive equity allocators, pharma sell-side",
+        "tryIt": "https://finance.yahoo.com/quote/JNJ/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johnson_%26_Johnson_%28J%26J%29_%2855143119004%29.jpg/1280px-Johnson_%26_Johnson_%28J%26J%29_%2855143119004%29.jpg",
+        "alt": "Johnson & Johnson headquarters sign",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000146/a2026q2exhibit991.htm"
+        },
+        {
+          "label": "Q2 press release PDF",
+          "url": "https://s203.q4cdn.com/636242992/files/doc_financials/2026/q2/2Q26-Earnings-Press-Release-Final.pdf"
+        },
+        {
+          "label": "J&J investor news",
+          "url": "https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-reports-Q2-2026-results-raises-2026-outlook/default.aspx"
+        },
+        {
+          "label": "InvestingNews recap",
+          "url": "https://investingnews.com/johnson-johnson-reports-q2-2026-results-raises-2026-outlook/"
+        },
+        {
+          "label": "JNJ ticker page",
+          "url": "https://finance.yahoo.com/quote/JNJ/"
+        }
+      ],
+      "reddit": {
+        "title": "JNJ Q2 2026 — $25.3B revenue (+6.6% Y/Y), adj EPS $2.90 beats $2.85 est, FY26 guide raised. First $100B+ year in company's 140-year history within reach.",
+        "body": "Johnson & Johnson beat on Q2 2026 and raised full-year guidance on July 15 — the raise puts J&J on track to clear $100B in annual revenue for the first time ever.\n\n* Revenue $25.3B (+6.6% Y/Y) vs $25.05B est\n* Adjusted EPS $2.90 vs $2.85 est; GAAP EPS $2.27\n* Innovative Medicine $16.38B (+7.8% reported) on Tremfya, Darzalex, Carvykti\n* MedTech $8.93B (+4.5% reported, +3.6% operational)\n* **FY26 sales guide raised to $100.8-101.4B (mid $101.1B)**\n* **FY26 adjusted EPS guide raised to $11.60-11.75 (mid $11.68, +8.2% growth)**\n\nWhat matters:\n\n1. **Innovative Medicine finally out-runs Stelara LOE** — the biosimilar hit on Stelara was the bear case; Tremfya's ramp plus Darzalex/Carvykti oncology are more than offsetting.\n2. **140-year first** — J&J has never done $100B in a single year. This guide puts the milestone in reach.\n3. **MedTech soft-ish** — 3.6% operational is decent but not the growth engine.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jnj-q2-2026-earnings-july-15](https://stock-tldr.xyz/releases/jnj-q2-2026-earnings-july-15)"
+      },
+      "publishDate": "2026-07-16T01:31:29.572Z"
+    },
+    {
+      "id": "spcx-below-ipo-price-first-time-july-15-2026",
+      "categories": [
+        "mover",
+        "ipo"
+      ],
+      "tickers": [
+        "SPCX"
+      ],
+      "title": "SpaceX (SPCX) closes $135.27 on Wednesday July 15 — first close at/below the $135 IPO price since June 12 debut as stock intraday-dips to $133; ~34% off post-IPO high, small ~4% float and Starship test flight looming Thursday July 16",
+      "org": "SpaceX",
+      "date": "2026-07-15",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "summary": "SPCX briefly traded below its $135 IPO price for the first time since June 12, closing at $135.27 after intraday touching $133 — down roughly 34% from the $200-plus post-debut high, with a Starship test flight the next day.",
+      "tags": [
+        "ipo",
+        "spacex",
+        "spcx",
+        "starship",
+        "elon-musk",
+        "mover",
+        "post-ipo-drift",
+        "float",
+        "space"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "SPCX close": "$135.27",
+        "Session low": "~$133",
+        "IPO price": "$135 (priced June 11, opened June 12)",
+        "Post-IPO high": ">$200",
+        "Decline from high": "~-34%",
+        "Public float": "~4%"
+      },
+      "explainer": {
+        "tagline": "SPCX briefly punches through its $135 IPO price for the first time — the post-debut rally has now fully unwound as Starship test-flight risk sits front and center.",
+        "whatIsIt": "SpaceX (SPCX) — the Elon Musk-founded space-launch and Starlink operator that priced its record $135 IPO on June 11 and began trading June 12 — closed at $135.27 on Wednesday July 15 after dipping as low as $133 intraday, marking the first time the stock has traded at or below its offering price since debut. Fourth straight down session.",
+        "howItWorks": "SPCX opened trading at $155 on June 12 and rallied above $200 in the days after debut, briefly making SpaceX the sixth-most valuable US-listed firm at a market cap that rivaled Amazon and Microsoft. Since then it has slid nearly every week. Wednesday's move takes the drawdown from the post-IPO peak to ~34%. Only a small float — TechCrunch pegs it at roughly 4% of shares outstanding — trades in the public market; the remainder is locked up.",
+        "whyItMatters": "The IPO priced a company at a $1.75T-plus valuation and, at the ~$200 peak, closer to $2.1T — those numbers embed heavy execution on Starship, Starlink cash flow and future Mars-adjacent lines. Getting back to the offering price is a psychological hit for retail longs and validates the argument that thin float + hype trade unwind first. SpaceX's next-day Starship test flight (July 16) — the first since the May booster failure — is the near-term catalyst. Read-across to broader speculative growth: post-IPO drift, Blue Origin's raised $10B round, and the SpaceX corporate bond spread.",
+        "forWho": "IPO/space traders, retail-flow watchers, high-beta growth desks",
+        "tryIt": "https://finance.yahoo.com/quote/SPCX/"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+        "alt": "SpaceX Starship on the launch stand ahead of a wet dress rehearsal",
+        "fit": "cover",
+        "credit": "SpaceX via TechCrunch"
+      },
+      "links": [
+        {
+          "label": "TechCrunch: SPCX at IPO price",
+          "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
+        },
+        {
+          "label": "Yahoo Finance session live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html"
+        },
+        {
+          "label": "SpaceX IPO pricing PDF",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX_PricingAnnouncement.pdf"
+        },
+        {
+          "label": "SPCX ticker page",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ],
+      "reddit": {
+        "title": "SpaceX (SPCX) touches its $135 IPO price for the first time — down ~34% from post-debut high, Starship test flight Thursday",
+        "body": "SpaceX (SPCX) closed at $135.27 on Wednesday July 15, dipping as low as $133 intraday — the first time the stock has traded at or below its $135 IPO price since the June 12 Nasdaq debut. Fourth straight down session.\n\n* SPCX opened at $155 on June 12 debut, then ripped above $200 in the following days\n* At the peak, SpaceX briefly ranked as the sixth-most valuable US-listed company\n* Wednesday's session takes the drawdown from that peak to ~34%\n* Only ~4% of shares outstanding trade publicly — the rest is locked up\n* Next catalyst: Starship test flight scheduled for Thursday July 16, first since May booster failure\n\nWhat's driving it:\n\n1. **Hype trade unwinding** — the $2T+ post-IPO market cap embedded aggressive Starship + Starlink cash-flow assumptions.\n2. **Thin float, thin support** — with ~4% of shares public, the same flow that ripped it 45%+ in a week is unwinding just as fast.\n3. **Company bonds also softer** — the $25B inaugural bond offering priced in June has drifted wider.\n\nFull breakdown: [https://stock-tldr.xyz/releases/spcx-below-ipo-price-first-time-july-15-2026](https://stock-tldr.xyz/releases/spcx-below-ipo-price-first-time-july-15-2026)"
+      },
+      "publishDate": "2026-07-16T01:31:29.572Z"
+    },
     {
       "id": "pypl-stripe-advent-53b-takeover-offer-july-15-2026",
       "categories": [
