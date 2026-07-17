@@ -1,8 +1,234 @@
 {
-  "generatedAt": "2026-07-16T13:26:55.319Z",
+  "generatedAt": "2026-07-17T01:40:51.826Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nflx-q2-2026-earnings-july-16",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Netflix (NFLX) Q2 2026 — revenue $12.56B (+13.4% Y/Y) and diluted EPS $0.80 beat by a hair, but Q3 revenue guide $12.86B (+11.7% Y/Y) undershoots ~$13B consensus; NFLX -~8% AH to ~$68.28 from $74.35 close",
+      "org": "Netflix",
+      "date": "2026-07-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000211/ex991_q226.htm",
+      "summary": "Netflix Q2 revenue $12.56B (+13.4% Y/Y) and EPS $0.80 both narrowly beat; op margin 33.4% ahead of 33% guide. But Q3 revenue guide $12.86B (+11.7%) undershoots ~$13B est and NFLX -~8% AH.",
+      "tickers": [
+        "NFLX"
+      ],
+      "metrics": {
+        "EPS": "$0.80 vs $0.79 est (+11% Y/Y)",
+        "Revenue": "$12.56B (+13.4% Y/Y) vs $12.59B est",
+        "Op margin": "33.4% (vs 33% guide, 34.1% Y/Y)",
+        "Q3 rev guide": "$12.86B (+11.7% Y/Y) vs ~$13B est",
+        "Q3 EPS guide": "$0.82",
+        "FY26 revenue": "$51.0-$51.4B (narrowed from $50.7-$51.7B)",
+        "FY26 op margin": "31.5% (reiterated)",
+        "Move": "-~8% AH to ~$68.28 (from $74.35 close)",
+        "Free cash flow": "$1.53B"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-light",
+        "streaming",
+        "media",
+        "faang",
+        "after-hours-selloff"
+      ],
+      "explainer": {
+        "tagline": "Netflix beat Q2 by a hair but a soft Q3 revenue guide sinks NFLX ~8% after-hours to a ~10-month low.",
+        "whatIsIt": "Netflix reported Q2 FY26 on Thursday July 16 after the close. Q2 revenue was $12.56B (+13.4% Y/Y, +12% FX-neutral) and diluted EPS was $0.80 — both essentially in-line with company guidance and a hair above Street ($12.59B / $0.79). But the Q3 revenue outlook of $12.86B (11.7% Y/Y growth) undershot analyst estimates that had drifted to ~$13B.",
+        "howItWorks": "Q2 operating income of $4.19B and 33.4% op margin were slightly ahead of the 33% guide on expense timing. FY26 revenue range was narrowed to $51.0-$51.4B (from $50.7-$51.7B) and op margin is still targeted at 31.5%. Q3 forecast: revenue $12.86B, op margin 33.2%, net income $3.45B, diluted EPS $0.82. Q2 free cash flow was $1.53B; content amortization is still guided to grow ~10% in 2026, weighted to H1.",
+        "whyItMatters": "NFLX slid ~8% in after-hours to about $68.28 (from a $74.35 close), the lowest level since September 2025 per Hollywood Reporter's read. The tape here is deceleration: Y/Y revenue growth is stepping down 17.6% (Q4'25) → 16.2% (Q1'26) → 13.4% (Q2'26) → 11.7% (Q3'26 guide). The recent price hikes have now fully cycled through UCAN, engagement grew just +2% in H1 vs +1.5% in FY25, and management is leaning on ads, video podcasts, creator content and AI-driven personalization for the next leg. Read-across into DIS, WBD, and PARA is negative on ad-market signal.",
+        "forWho": "streaming/AdTech desks, momentum-tech PMs",
+        "tryIt": "https://finance.yahoo.com/quote/NFLX/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108293063-1776425706461-gettyimages-2271161314-yanow-netflix260416_np9SR.jpeg?v=1784233440&w=1920&h=1080",
+        "alt": "Netflix logo branding on a device screen",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "8-K (Q2 Letter)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000211/ex991_q226.htm"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
+        },
+        {
+          "label": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-q2-earnings-2026-nflx-stock-price-declines-1236650105/"
+        },
+        {
+          "label": "NFLX Quote",
+          "url": "https://finance.yahoo.com/quote/NFLX/"
+        }
+      ],
+      "reddit": {
+        "title": "Netflix Q2 beats on both lines but Q3 revenue guide $12.86B misses ~$13B consensus — NFLX -8% AH to ~$68",
+        "body": "Netflix printed Q2 on Thursday July 16. It technically beat, but the tape hated the deceleration in the Q3 guide.\n\n* Q2 revenue $12.56B (+13.4% Y/Y) vs $12.59B est — in-line with the letter, hair light on Street\n* Q2 diluted EPS $0.80 (+11% Y/Y) vs $0.79 est\n* Q2 op margin 33.4% vs 33.0% guide, op income $4.19B\n* Q3 revenue guide $12.86B (+11.7% Y/Y) vs ~$13B consensus\n* FY26 revenue narrowed to $51.0-$51.4B; op margin still 31.5%\n* NFLX -~8% AH to ~$68.28 from a $74.35 close (lowest since Sept 2025)\n\nThree things the market is chewing on:\n\n1. **Growth is stepping down every quarter** — 17.6% (Q4'25) → 16.2% (Q1'26) → 13.4% (Q2'26) → 11.7% (Q3'26 guide). The recent UCAN price hike has now fully rolled through.\n2. **Engagement is barely growing** — view hours +2% in H1'26 vs +1.5% in FY25, even with the World Cup and Winter Olympics competing for attention.\n3. **The next-leg story is now ads + creators + AI** — management leaned on the ad tier, video podcasts, Danny Go!/Salish & Jordan Matter creator content, and AI personalization.\n\nFCF for Q2 was $1.53B. Content amortization is still guided +10% for FY26.\n\nNext catalysts: Q3 print in mid-October, plus read-across into DIS, WBD, PARA on ad-market signal.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nflx-q2-2026-earnings-july-16](https://stock-tldr.xyz/releases/nflx-q2-2026-earnings-july-16)"
+      },
+      "publishDate": "2026-07-17T01:40:51.826Z"
+    },
+    {
+      "id": "abb-rotork-55b-acquisition-july-16-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "ABB (ABBN.SW) agrees $5.5B all-cash takeover of UK's Rotork (ROR.L) on Thursday July 16 — 503p + 3p permitted dividend = 506p (73% premium to Wed close, £4.14B fully-diluted equity); Rotork LON +67% intraday to ~485p, ABB's largest-ever deal",
+      "org": "ABB",
+      "date": "2026-07-16",
+      "url": "https://live.euronext.com/en/financial-news/abb-announces-biggest-ever-acquisition-55-billion-deal-rotork",
+      "summary": "ABB to buy UK flow-control firm Rotork for 503p cash + 3p permitted dividend (506p) — 73% premium to July 15 close, ~£4.14B equity / ~$5.5B deal. ABB's largest ever, funded by Oct 2025 robotics-to-SoftBank proceeds.",
+      "tickers": [
+        "ABB",
+        "ROR.L"
+      ],
+      "metrics": {
+        "Cash offer": "503p per share + 3p permitted interim dividend = 506p total",
+        "Equity value (FD)": "£4.136B fully-diluted",
+        "Deal size": "~$5.5B / ~£5.5B (ABB's largest ever)",
+        "Premium": "73.0% to 290.8p July 15 close; ~60% to 3-month VWAP",
+        "Rotork move": "+~67% intraday to ~485p",
+        "Funding": "$4.8B from Oct 2025 sale of robotics unit to SoftBank",
+        "Rotork FY25 revenue": "~$1B (~+8% annual growth)",
+        "Expected close": "H1 2027 (scheme of arrangement, subject to shareholder + regulatory approval)"
+      },
+      "importance": "major",
+      "tags": [
+        "mna",
+        "cross-border",
+        "uk-take-private",
+        "industrials",
+        "automation",
+        "flow-control",
+        "all-cash",
+        "abb",
+        "rotork",
+        "scheme-of-arrangement",
+        "eps-accretive"
+      ],
+      "explainer": {
+        "tagline": "ABB agrees to buy UK flow-control specialist Rotork for $5.5B all-cash at a 73% premium — the Swiss group's biggest deal ever.",
+        "whatIsIt": "Swiss engineering group ABB announced on Thursday July 16 that it has reached agreement with the board of Bath-based Rotork on a recommended all-cash takeover at 503p per share, plus a permitted 3p interim dividend, for a total of 506p. The offer values Rotork's fully-diluted equity at £4.136B and the deal at approximately $5.5B — ABB's largest acquisition ever.",
+        "howItWorks": "The offer is made by ABB Automation Holding UK Limited, an indirect wholly-owned ABB subsidiary, via a court-sanctioned scheme of arrangement under Part 26 of the Companies Act 2006. The 506p total is a 73.0% premium to Rotork's 290.8p closing price on Wednesday July 15 and roughly 60% to the 3-month VWAP. ABB is funding the deal from the $4.8B proceeds of its October 2025 sale of the robotics division to SoftBank. Rotork's board — chaired by Dorothy Thompson — unanimously recommends. Completion is expected in H1 2027, subject to shareholder approval, court sanction and antitrust clearances.",
+        "whyItMatters": "Rotork LON shares surged ~67% intraday to ~485p on the news — one of the biggest single-day moves for a UK mid-cap in 2026. ABB adds Rotork's ~$1B/year of valve-actuator revenue and flow-control instrumentation to its own automation portfolio; ABB says the deal adds ~3% to group revenue and is immediately accretive to Op EBITA margin, EPS-accretive in year two. It's another data point in the wave of foreign bids for UK-listed companies this year (Intertek, Schroders, Ingredion-for-Tate & Lyle, Unilever food unit) that has UK 2026 dealmaking on track to top prior years.",
+        "forWho": "European industrials M&A, UK special-situations, merger-arb",
+        "tryIt": "https://finance.yahoo.com/quote/ROR.L/"
+      },
+      "image": {
+        "url": "https://www.rte.ie/images/00112ae3-1600.jpg",
+        "alt": "ABB and Rotork industrial branding — Swiss automation giant to acquire UK flow-control specialist",
+        "fit": "cover",
+        "credit": "RTE"
+      },
+      "links": [
+        {
+          "label": "ABB Press Release",
+          "url": "https://live.euronext.com/en/financial-news/abb-announces-biggest-ever-acquisition-55-billion-deal-rotork"
+        },
+        {
+          "label": "Rotork RNS Offer",
+          "url": "https://www.investegate.co.uk/announcement/rns/rotork--ror/offer-for-rotork-plc/9671294"
+        },
+        {
+          "label": "RTE Coverage",
+          "url": "https://www.rte.ie/news/business/2026/0716/1583636-abbs-biggest-purchase-with-5-5-billion-deal-for-rotork/"
+        },
+        {
+          "label": "Yahoo UK Recap",
+          "url": "https://uk.finance.yahoo.com/news/rotork-agrees-5-5-billion-091013384.html"
+        }
+      ],
+      "reddit": {
+        "title": "ABB agrees $5.5B all-cash takeover of UK's Rotork — 506p offer at 73% premium, ROR.L +67% intraday, ABB's biggest deal ever",
+        "body": "Swiss engineering giant ABB (ABBN.SW) and Rotork (ROR.L) announced a recommended cash takeover on Thursday July 16.\n\n* 503p cash per share + 3p permitted interim dividend = **506p per share**\n* Fully-diluted equity value of £4.136B; total deal ~$5.5B — ABB's **largest acquisition ever**\n* Premium: **73.0%** to Rotork's 290.8p close on Wed July 15; ~60% to 3-month VWAP\n* Rotork LON surged **~67% intraday to ~485p** — one of the biggest single-day mid-cap pops of 2026\n* Rotork board (Chair Dorothy Thompson) unanimously recommends\n* Funded from the $4.8B ABB got in Oct 2025 for selling its robotics unit to SoftBank\n\nStructure and rationale:\n\n1. **Scheme of arrangement** — court-sanctioned Part 26 process via ABB Automation Holding UK Limited. Completion targeted H1 2027, subject to shareholder + regulatory approval.\n2. **Strategic fit** — Rotork's ~$1B/year valve-actuator + flow-control instrumentation biz plugs into ABB's process automation portfolio. Adds ~3% to ABB group revenue, immediately Op EBITA-margin accretive, EPS-accretive in year 2.\n3. **UK take-private wave** — this joins bids for Intertek, Schroders, Ingredion-for-Tate & Lyle, Unilever food unit. UK 2026 dealmaking is on track to top prior years.\n\nNext catalysts: Rotork shareholder vote + antitrust clearances through H1 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/abb-rotork-55b-acquisition-july-16-2026](https://stock-tldr.xyz/releases/abb-rotork-55b-acquisition-july-16-2026)"
+      },
+      "publishDate": "2026-07-17T01:40:51.826Z"
+    },
+    {
+      "id": "man-q2-2026-earnings-july-16",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "ManpowerGroup (MAN) Q2 2026 — revenue $4.9B (+8% Y/Y, +6% cc) and adj EPS $0.99 (+27% cc) beat as Manpower brand rips; Q3 EPS guide $0.96-$1.06 midpoint tops Street and MAN +32.4% intraday to $52.14 fresh 52-week high",
+      "org": "ManpowerGroup",
+      "date": "2026-07-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000871763/000119312526305399/man-ex99_1.htm",
+      "summary": "Manpower Q2 revenue $4.9B (+8% Y/Y, +6% cc) beat, adj EPS $0.99 (+27% cc); Q3 EPS guide $0.96-$1.06 tops consensus. Stock +32.4% intraday to $52.14, a fresh 52-week high — staffing cycle signal.",
+      "tickers": [
+        "MAN",
+        "RHI",
+        "KFRC"
+      ],
+      "metrics": {
+        "Revenue": "$4.9B (+8% Y/Y, +6% constant currency)",
+        "Reported EPS": "$1.13 (includes +$0.14 net Jefferson Wells sale/restructuring)",
+        "Adjusted EPS": "$0.99 (+27% constant currency)",
+        "Q3 EPS guide": "$0.96-$1.06 (midpoint $1.01; incl. 2¢ FX drag, 44% ETR)",
+        "Move": "+32.4% intraday to $52.14 (52-week high)",
+        "US Manpower brand growth": "+16% (per company + prior coverage)"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "staffing",
+        "workforce-solutions",
+        "cyclicals",
+        "manpower-brand",
+        "guidance-raise",
+        "52-week-high"
+      ],
+      "explainer": {
+        "tagline": "ManpowerGroup posts a sharp Q2 beat on a recovering staffing cycle; stock rips 32% to a 52-week high.",
+        "whatIsIt": "ManpowerGroup, the global workforce-solutions firm, reported Q2 2026 on Thursday July 16 before the open. Revenue was $4.9B (+8% Y/Y, +6% constant currency) and adjusted diluted EPS was $0.99 (+27% constant currency), well ahead of Street. Reported GAAP EPS was $1.13 — boosted by ~$0.14 of net gains from the Jefferson Wells US divestiture and offset by strategic transformation, restructuring and a discontinued-business liquidation charge.",
+        "howItWorks": "CEO Jonas Prising cited 'very strong growth' in the core Manpower brand and improving trends across Experis and Talent Solutions, with continued cost discipline. Q3 diluted EPS guidance of $0.96-$1.06 (midpoint $1.01) includes an estimated 2¢ FX drag and a 44% effective tax rate. Prising called 2026 'an important inflection point' as the company advances its global strategic transformation program and expands AI capabilities via strategic partnerships. The prior-year quarter included adjustments that had reduced EPS by $2.22, hence the sharp headline swing.",
+        "whyItMatters": "MAN surged 32.4% in the morning session to $52.14, a fresh 52-week high — the biggest single-day pop for the name in years and a positive read for the staffing sector. Recovery in US IT and RPO staffing (US Manpower brand +16%) suggests the corporate-hiring bottom may be in. The stock is now +73% YTD but still well below its pre-2022 peak. Peers Robert Half (RHI) and Kforce (KFRC) get the read-across.",
+        "forWho": "cyclicals/staffing desks, small-cap PMs",
+        "tryIt": "https://finance.yahoo.com/quote/MAN/"
+      },
+      "image": {
+        "url": "https://stockstory.org/stockstory/company-image/MAN",
+        "alt": "ManpowerGroup corporate branding card",
+        "fit": "cover",
+        "credit": "StockStory"
+      },
+      "links": [
+        {
+          "label": "8-K (Q2 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000871763/000119312526305399/man-ex99_1.htm"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-manpowergroup-man-stock-trading-203322721.html"
+        },
+        {
+          "label": "StockStory Detail",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-16-manpowergroups-nyseman-q2-cy2026-sales-top-estimates-stock-jumps-123"
+        },
+        {
+          "label": "MAN Quote",
+          "url": "https://finance.yahoo.com/quote/MAN/"
+        }
+      ],
+      "reddit": {
+        "title": "ManpowerGroup Q2: adj EPS $0.99 vs $0.79 est on $4.9B revenue (+8%), Q3 guide tops Street — MAN +32.4% intraday to $52.14 fresh 52-wk high",
+        "body": "Staffing giant ManpowerGroup (MAN) printed a hard beat on Thursday July 16 that lit up the tape.\n\n* Revenue $4.9B (+8% Y/Y, +6% constant currency)\n* Adjusted EPS $0.99 (+27% constant currency) vs $0.79 est\n* Reported EPS $1.13 (includes ~$0.14 net of Jefferson Wells US divestiture / restructuring)\n* Q3 diluted EPS guide $0.96-$1.06 (midpoint $1.01, tops consensus) — includes a 2¢ FX drag and 44% ETR\n* MAN **+32.4% intraday to $52.14** — fresh 52-week high, biggest single-day pop for the name in years\n\nThree things behind the rip:\n\n1. **US IT and RPO staffing recovering** — US Manpower brand +16% growth, strength in manufacturing, retail, aerospace, and logistics.\n2. **Cyclical turn signal** — CEO Jonas Prising called 2026 'an important inflection point' as the transformation program advances and AI capabilities expand via strategic partnerships.\n3. **Guidance beat + no obvious FX headwind** — Q3 midpoint $1.01 vs Street looking for less; even with the 2¢ FX drag, the print carried.\n\nRead-across: peers Robert Half (RHI) and Kforce (KFRC) both should catch a bid on Friday.\n\nNext catalysts: Q3 print in mid/late-October, plus monthly BLS payrolls / JOLTS for staffing-cycle confirmation.\n\nFull breakdown: [https://stock-tldr.xyz/releases/man-q2-2026-earnings-july-16](https://stock-tldr.xyz/releases/man-q2-2026-earnings-july-16)"
+      },
+      "publishDate": "2026-07-17T01:40:51.826Z"
+    },
     {
       "id": "tsm-q2-2026-earnings-july-16",
       "categories": [

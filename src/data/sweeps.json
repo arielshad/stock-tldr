@@ -7398,6 +7398,47 @@
         "sector",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260717t014051z",
+      "timestamp": "2026-07-17T01:40:51.826Z",
+      "source": "github-actions-sweep",
+      "summary": "Three market-moving items from Thursday July 16 2026: Netflix Q2 beat but Q3 revenue guide undershoot sends NFLX -~8% AH to ~$68; ABB agrees $5.5B all-cash takeover of UK's Rotork at 73% premium (its biggest deal ever, ROR.L +67% intraday); ManpowerGroup Q2 crushed with staffing cycle turning, MAN +32.4% to a 52-week high.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nflx-q2-2026-earnings-july-16",
+          "title": "Netflix (NFLX) Q2 2026 — revenue $12.56B (+13.4% Y/Y) and diluted EPS $0.80 beat by a hair, but Q3 revenue guide $12.86B (+11.7% Y/Y) undershoots ~$13B consensus; NFLX -~8% AH to ~$68.28 from $74.35 close",
+          "category": "earnings",
+          "note": "Mega-cap FAANG earnings — beat on both lines but Q3 revenue guide light vs ~$13B Street, stock -~8% AH."
+        },
+        {
+          "id": "abb-rotork-55b-acquisition-july-16-2026",
+          "title": "ABB (ABBN.SW) agrees $5.5B all-cash takeover of UK's Rotork (ROR.L) on Thursday July 16 — 503p + 3p permitted dividend = 506p (73% premium to Wed close, £4.14B fully-diluted equity); Rotork LON +67% intraday to ~485p, ABB's largest-ever deal",
+          "category": "mna",
+          "note": "ABB's largest-ever acquisition; UK take-private wave continues with 73% premium recommended offer for Rotork."
+        },
+        {
+          "id": "man-q2-2026-earnings-july-16",
+          "title": "ManpowerGroup (MAN) Q2 2026 — revenue $4.9B (+8% Y/Y, +6% cc) and adj EPS $0.99 (+27% cc) beat as Manpower brand rips; Q3 EPS guide $0.96-$1.06 midpoint tops Street and MAN +32.4% intraday to $52.14 fresh 52-week high",
+          "category": "earnings",
+          "note": "32% single-session pop on a Q2 beat + Q3 guide raise signals a turning staffing cycle — top single-name mover on July 16."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
