@@ -1,8 +1,358 @@
 {
-  "generatedAt": "2026-07-17T01:40:51.826Z",
+  "generatedAt": "2026-07-17T13:10:09.448Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trv-q2-2026-earnings-july-17",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Travelers (TRV) Q2 2026 — core EPS $10.04 crushes $5.34 est on $12.15B revenue; combined ratio 83.6% (-11.8pt Y/Y), $518M cat losses, $1.31B buyback + $1.25/sh dividend; TRV ~flat at $340",
+      "org": "The Travelers Companies",
+      "date": "2026-07-17",
+      "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx",
+      "summary": "TRV Q2 core EPS $10.04 nearly 2x est on $12.15B revenue; combined ratio 83.6% (-11.8pt Y/Y) as underlying 84.1% and $518M cat losses undershoot Street; $1.31B buyback + $1.25/sh dividend, TRV ~flat at $340.",
+      "tickers": [
+        "TRV"
+      ],
+      "metrics": {
+        "Core EPS": "$10.04 vs $5.34 est (+86% beat)",
+        "Diluted EPS (GAAP)": "$10.26",
+        "Net Income": "$2.208B",
+        "Core Income": "$2.160B",
+        "Revenue": "$12.15B",
+        "Net Written Premiums": "$11.53B",
+        "Combined Ratio": "83.6% (-11.8pt Y/Y)",
+        "Underlying Combined Ratio": "84.1%",
+        "Cat Losses (pre-tax)": "$518M",
+        "Book Value/Share": "$158.81 (+5% YTD)",
+        "Buyback": "$1.31B (4.3M sh @ $304.06 avg)",
+        "Dividend": "$1.25/sh",
+        "Move": "~flat at $340.01"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "revenue-inline",
+        "p-and-c-insurance",
+        "combined-ratio",
+        "cat-losses",
+        "buyback",
+        "dividend"
+      ],
+      "explainer": {
+        "tagline": "Travelers Q2 core EPS $10.04 nearly doubles the $5.34 consensus as combined ratio drops 11.8 points to 83.6% on light cats and heavy prior-year reserve releases.",
+        "whatIsIt": "The Travelers Companies (TRV) reported Q2 2026 before the open on Friday July 17. Net income was $2.208B / $10.26 diluted EPS, core income $2.160B / $10.04 core EPS. Revenue was $12.15B, roughly in-line with the ~$12.2B consensus but the underlying quality drove a massive bottom-line beat.",
+        "howItWorks": "The consolidated combined ratio was 83.6%, 11.8 points lower than Q2'25's 95.4% and well below the ~95% Street mark. The underlying combined ratio (ex-cats and prior-year development) improved to 84.1%. Catastrophe losses were $518M pre-tax, down sharply from the year-ago quarter. Prior-year favorable reserve development contributed $578M pre-tax across all three segments. Net written premiums were $11.53B; ex-Canadian personal lines (divested in Q1) premiums were up ~1%. Book value/share ended Q2 at $158.81 (+5% YTD). Travelers repurchased 4.3M shares for $1.31B at $304.06 avg and paid a $1.25/sh dividend.",
+        "whyItMatters": "TRV was essentially flat at $340.01 after the print — the market read the big beat as low-quality (light-cat quarter + reserve releases rather than a step-change in underwriting margin) and net premiums earned slightly missed the ~$10.96B mark. Still, this is a base-case for the P&C carriers: a benign first-half cat season and continued price/rate flow-through should show up in ALL, CB, HIG and CINF prints over the next two weeks. Book value miss vs $167 est is the second-order concern for long-only holders.",
+        "forWho": "insurance analysts, financials PMs",
+        "tryIt": "https://finance.yahoo.com/quote/TRV/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Travelers_Tower%2C_Hartford%2C_Connecticut.jpg/960px-Travelers_Tower%2C_Hartford%2C_Connecticut.jpg",
+        "alt": "Travelers Tower headquarters in Hartford, Connecticut",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "TRV Q2 Press Release",
+          "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx"
+        },
+        {
+          "label": "StockStory Summary",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-17-travelers-nysetrv-reports-q2-cy2026-in-line-with-expectations"
+        },
+        {
+          "label": "TRV Quote",
+          "url": "https://finance.yahoo.com/quote/TRV/"
+        }
+      ],
+      "reddit": {
+        "title": "Travelers Q2 core EPS $10.04 nearly doubles $5.34 consensus — combined ratio 83.6% (-11.8pt Y/Y), $518M in cats, TRV flat at $340",
+        "body": "Travelers dropped Q2 pre-open on Friday July 17. The headline is a monster — but the tape reads it as light-cat + reserve releases rather than a step-change in underwriting.\n\n* Core EPS $10.04 vs $5.34 consensus (+86% beat), diluted GAAP EPS $10.26\n* Net income $2.208B, core income $2.160B, revenue $12.15B (in-line)\n* Net written premiums $11.53B; ex-Canada disposal, NWP up ~1%\n* Consolidated combined ratio 83.6% vs 95.4% Y/Y (-11.8pt), underlying 84.1%\n* Cat losses $518M pre-tax; favorable prior-year reserve development $578M pre-tax\n* Book value/share $158.81 (+5% YTD) — missed the $167 est\n* Buyback $1.31B (4.3M sh @ $304.06 avg) + $1.25/sh dividend\n* TRV ~flat at $340.01 after the print\n\nWhy it moved less than the beat suggests:\n\n1. **Beat quality is soft** — light-cat quarter ($518M cats vs seasonal ~$1.5B run-rate) plus $578M of reserve releases account for most of the surprise.\n2. **Net premiums earned came in ~2% light** at $10.75B vs $10.96B est — top-line growth is decelerating.\n3. **Book value miss vs consensus** — $158.81 vs ~$167 est — the sell-side had modeled bigger AOCI recovery.\n\nRead-across into the P&C group: ALL, CB, HIG, CINF report over the next two weeks and should also print a benign H1 cat season.\n\nFull breakdown: [https://stock-tldr.xyz/releases/trv-q2-2026-earnings-july-17](https://stock-tldr.xyz/releases/trv-q2-2026-earnings-july-17)"
+      },
+      "publishDate": "2026-07-17T13:10:09.448Z"
+    },
+    {
+      "id": "tfc-q2-2026-earnings-july-17",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Truist (TFC) Q2 2026 — diluted EPS $1.23 (+37% Y/Y) beats $1.08 est on $5.27B revenue; net income to common $1.5B, $1.8B returned via dividends + buybacks, $556B total assets",
+      "org": "Truist Financial",
+      "date": "2026-07-17",
+      "url": "https://media.truist.com/2026-07-17-Truist-reports-second-quarter-2026-results",
+      "summary": "TFC Q2 diluted EPS $1.23 (+37% Y/Y) beats $1.08 est on $5.27B revenue (vs $5.24B est); $1.5B net income to common, $1.8B returned via dividends + buybacks, total assets $556B.",
+      "tickers": [
+        "TFC"
+      ],
+      "metrics": {
+        "Diluted EPS": "$1.23 vs $1.08 est (+37% Y/Y)",
+        "Revenue": "$5.27B vs $5.24B est",
+        "Net Income (common)": "$1.5B",
+        "Capital Return": "$1.8B (dividends + buyback)",
+        "Total Assets": "$556B"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "regional-bank",
+        "capital-return",
+        "buyback"
+      ],
+      "explainer": {
+        "tagline": "Truist prints Q2 diluted EPS $1.23 up 37% Y/Y — beats the $1.08 Street on a $5.27B revenue quarter with $1.8B returned to shareholders.",
+        "whatIsIt": "Truist Financial (NYSE: TFC), the sixth-largest US regional by assets, reported Q2 2026 results before the open on Friday July 17. Diluted EPS was $1.23, up 37% versus 2Q25, on total revenue of $5.27B. Net income available to common shareholders was $1.5B. Chairman/CEO Bill Rogers and CFO Mike Maguire hosted the call at 8am ET.",
+        "howItWorks": "EPS beat the $1.08 Street consensus, and revenue edged past the $5.24B mark. Total assets at quarter-end were $556B. Capital return was heavy: $1.8B combined via the common dividend and buybacks. Full segment detail (net interest income, NIM, loans, deposits, provision) sits in the Q2 2026 Quarterly Performance Summary at ir.truist.com/earnings and the 10-Q filed later.",
+        "whyItMatters": "TFC caps the big-bank Q2 earnings week (JPM/GS/WFC/C/BAC on the 14th–15th, BLK/BK/MS on the 15th) with a clean beat on both lines and heavy capital return. The 37% Y/Y EPS growth is one of the highest in the regional-bank group and rhymes with the broader Q2 story: NII stabilization + higher fees + normalized credit. Read-across is supportive for USB, RF, CFG, KEY prints next week.",
+        "forWho": "regional-bank analysts, financials PMs",
+        "tryIt": "https://finance.yahoo.com/quote/TFC/"
+      },
+      "image": {
+        "url": "https://media.truist.com/image/TruistWhiteLogo_social.jpg",
+        "alt": "Truist Financial corporate logo",
+        "fit": "contain",
+        "credit": "Truist Financial"
+      },
+      "links": [
+        {
+          "label": "TFC Q2 Press Release",
+          "url": "https://media.truist.com/2026-07-17-Truist-reports-second-quarter-2026-results"
+        },
+        {
+          "label": "Truist IR — Earnings",
+          "url": "https://ir.truist.com/earnings"
+        },
+        {
+          "label": "TFC Quote",
+          "url": "https://finance.yahoo.com/quote/TFC/"
+        }
+      ],
+      "reddit": {
+        "title": "Truist Q2 diluted EPS $1.23 up 37% Y/Y beats $1.08 est on $5.27B revenue — $1.8B returned via dividend + buyback",
+        "body": "Truist (TFC) printed Q2 pre-open on Friday July 17, closing out the big-bank week.\n\n* Diluted EPS $1.23 vs $1.08 est (+37% Y/Y)\n* Revenue $5.27B vs $5.24B est\n* Net income available to common $1.5B\n* Total assets $556B\n* $1.8B returned to shareholders via dividends + buyback in Q2\n\nWhy it matters:\n\n1. **37% Y/Y EPS growth is top-tier for the regionals** — the Y/Y comp is boosted by 2Q25 charges, but the absolute $1.23 is a clean beat.\n2. **Heavy capital return** — $1.8B in a single quarter signals the balance sheet is comfortable with CET1 and management sees the shares as capital-efficient.\n3. **Read-across is positive for USB, RF, CFG, KEY** — the same Q2 template (NII stabilization + higher fees + normal credit) should show up next week.\n\nSegment/NIM/loan detail sits in the Q2 2026 Quarterly Performance Summary at ir.truist.com/earnings.\n\nNext catalysts: USB, RF, CFG report next week. TFC 10-Q filing over the next 40 days.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tfc-q2-2026-earnings-july-17](https://stock-tldr.xyz/releases/tfc-q2-2026-earnings-july-17)"
+      },
+      "publishDate": "2026-07-17T13:10:09.448Z"
+    },
+    {
+      "id": "fitb-q2-2026-earnings-july-17",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Fifth Third (FITB) Q2 2026 — adj EPS $1.02 vs $0.84 est on $3.28B revenue (+46.7% Y/Y); GAAP EPS $0.83 excludes $0.19 in items; NII $2.22B, NIM 3.4%, efficiency 64.3%; stock flat at $59.86",
+      "org": "Fifth Third Bancorp",
+      "date": "2026-07-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000035527/000003552726000193/q22026earningsrelease.htm",
+      "summary": "FITB Q2 adj EPS $1.02 beats $0.84 est on $3.28B revenue (+46.7% Y/Y); GAAP EPS $0.83 excludes $0.19 in items; NII $2.22B (in-line), NIM 3.4%, efficiency 64.3% (Street 59.1%); stock flat at $59.86.",
+      "tickers": [
+        "FITB"
+      ],
+      "metrics": {
+        "Adjusted EPS": "$1.02 vs $0.84 est",
+        "GAAP EPS": "$0.83 (excludes $0.19 in items)",
+        "Revenue": "$3.28B vs $3.25B est (+46.7% Y/Y)",
+        "Net Interest Income": "$2.22B (+48.2% Y/Y)",
+        "NIM": "3.4% (in-line)",
+        "Efficiency Ratio": "64.3% (vs 59.1% est)",
+        "Tangible Book Value/Share": "$23.15 (vs $23.35 est)",
+        "Move": "~flat at $59.86"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "regional-bank",
+        "net-interest-income",
+        "efficiency-ratio"
+      ],
+      "explainer": {
+        "tagline": "Fifth Third prints adj EPS $1.02 vs $0.84 est on a 46.7% Y/Y revenue jump — but efficiency 64.3% vs 59.1% est and $0.19 of one-time items pull GAAP to $0.83.",
+        "whatIsIt": "Fifth Third Bancorp (NASDAQ: FITB) reported Q2 2026 results before the open on Friday July 17. Adjusted EPS was $1.02 versus the $0.84 Street; GAAP EPS was $0.83 after $0.19 of certain items. Revenue was $3.28B (+46.7% Y/Y), and net interest income was $2.22B (+48.2% Y/Y) — the Y/Y comparison is heavily distorted by the Comerica combination that closed earlier in the year.",
+        "howItWorks": "NIM printed 3.4%, in-line with consensus. NII of $2.22B was ~0.6% light versus the $2.23B mark. The efficiency ratio came in at 64.3% versus a 59.1% Street estimate — the primary miss in the print, reflecting integration expense from Comerica. Tangible book value per share was $23.15 versus $23.35 est. Fifth Third guided next quarter's revenue to a $3.55B midpoint and set full-year 2026 revenue guidance at a $13.31B midpoint.",
+        "whyItMatters": "FITB was flat at $59.86 immediately after the print — the market gave partial credit for the beat but dinged the elevated efficiency ratio and slight NII/book miss. This is the first read on how the Comerica deal is scaling: the revenue and NII step-ups are the accounting of the combined entity, and the 64.3% efficiency is the number to watch as integration costs roll off through 2027. Read-across to CMA close-tracking is limited (already merged), but supportive for other consolidators in the Southeast/Midwest regional bank space.",
+        "forWho": "regional-bank analysts",
+        "tryIt": "https://finance.yahoo.com/quote/FITB/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fifth_Third_Bank_Headquarters.jpg/960px-Fifth_Third_Bank_Headquarters.jpg",
+        "alt": "Fifth Third Bank headquarters tower",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K (Q2 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000035527/000003552726000193/q22026earningsrelease.htm"
+        },
+        {
+          "label": "StockStory Summary",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-17-fifth-third-bancorp-nasdaqfitb-posts-better-than-expected-sales-in-q2-cy2026"
+        },
+        {
+          "label": "FITB Quote",
+          "url": "https://finance.yahoo.com/quote/FITB/"
+        }
+      ],
+      "reddit": {
+        "title": "Fifth Third Q2 adj EPS $1.02 beats $0.84 est on $3.28B revenue (+46.7% Y/Y post-Comerica), but efficiency ratio 64.3% vs 59.1% est — FITB flat at $59.86",
+        "body": "Fifth Third Bancorp (FITB) printed Q2 pre-open on Friday July 17. First real look at the post-Comerica-close income statement.\n\n* Adjusted EPS $1.02 vs $0.84 est\n* GAAP EPS $0.83 (excludes $0.19 of certain items — mostly Comerica integration)\n* Revenue $3.28B vs $3.25B est (+46.7% Y/Y)\n* NII $2.22B (+48.2% Y/Y) — ~0.6% below $2.23B est\n* NIM 3.4% in-line\n* Efficiency ratio 64.3% vs 59.1% est (main miss)\n* Tangible book value/sh $23.15 vs $23.35 est\n* FITB ~flat at $59.86 post-print\n\nThree things to note:\n\n1. **The 46.7% Y/Y revenue jump is Comerica arithmetic**, not organic. Adjust every Y/Y line for the deal.\n2. **Efficiency ratio 64.3% is the number to watch** — Comerica integration expense sits here; management targets normalize through 2027.\n3. **NII slight miss + book value miss** are why the stock isn't rewarding the EPS beat.\n\nNext catalysts: Q3 print in October; management update on Comerica cost synergy realization; USB/CFG/RF prints next week for regional-bank read-across.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fitb-q2-2026-earnings-july-17](https://stock-tldr.xyz/releases/fitb-q2-2026-earnings-july-17)"
+      },
+      "publishDate": "2026-07-17T13:10:09.448Z"
+    },
+    {
+      "id": "us-housing-starts-june-2026-july-17",
+      "categories": [
+        "macro"
+      ],
+      "title": "US June 2026 housing starts jump +19.0% M/M to 1.427M SAAR — biggest monthly gain in years, ~8% above the 1.320M consensus; building permits -0.9% to 1.410M as multi-family (5+ units) -4.7% offsets single-family +1.2%",
+      "org": "U.S. Census Bureau",
+      "date": "2026-07-17",
+      "url": "https://www.census.gov/construction/nrc/current/index.html",
+      "summary": "US housing starts +19.0% M/M in June to 1.427M SAAR, ~8% above the 1.320M consensus and up from a revised 1.199M in May. Building permits fell 0.9% to 1.410M as multi-family (5+ units) -4.7% offset single-family +1.2%.",
+      "tickers": [],
+      "metrics": {
+        "Housing Starts (SAAR)": "1.427M vs 1.320M est",
+        "Housing Starts M/M": "+19.0%",
+        "Prior Month (revised)": "1.199M (from 1.177M)",
+        "Building Permits (SAAR)": "1.410M (-0.9% M/M)",
+        "Single-family Permits": "892K (+1.2% M/M)",
+        "Multi-family Permits (5+ units)": "468K (-4.7% M/M)",
+        "Regional Permits (Midwest)": "-18.9% to 193K",
+        "Regional Permits (South)": "+1.9% to 762K",
+        "Regional Permits (West)": "+4.9% to 322K",
+        "Regional Permits (Northeast)": "+2.3% to 133K"
+      },
+      "importance": "major",
+      "tags": [
+        "macro",
+        "housing-starts",
+        "building-permits",
+        "residential-construction",
+        "census",
+        "hud",
+        "single-family",
+        "multi-family"
+      ],
+      "explainer": {
+        "tagline": "US housing starts surged +19.0% M/M in June to a 1.427M annualized rate — the sharpest monthly jump in years — but building permits slipped -0.9% as multi-family softness lingers.",
+        "whatIsIt": "The Census Bureau and HUD jointly released the June 2026 New Residential Construction data at 8:30am ET on Friday July 17. Housing starts hit a seasonally-adjusted annual rate of 1.427M, up +19.0% from May's revised 1.199M (originally reported as 1.177M) and about 8% above the 1.320M consensus. Building permits printed 1.410M, down 0.9% from May.",
+        "howItWorks": "The mix is a two-track story. Single-family permits rose +1.2% to 892K annualized, while multi-family permits for buildings with 5+ units fell -4.7% to 468K. Regionally, permits climbed in the Northeast (+2.3% to 133K), South (+1.9% to 762K), and West (+4.9% to 322K), but collapsed in the Midwest (-18.9% to 193K). Housing starts benefited from favorable weather and pull-forward from the seasonal slog earlier in the year.",
+        "whyItMatters": "The +19% starts jump is the biggest one-month gain in years and reads bullish for home-builder revenue: LEN, DHI, PHM, TOL, and MTH all track single-family activity closely. On the flip side, the permits softness — especially multi-family 5+ units and Midwest — points to a still-cautious pipeline. For rates: the print is inflationary at the margin (shelter-CPI upstream), which nudges the 2Y/10Y higher and keeps the July 28-29 FOMC lean-hawkish narrative alive.",
+        "forWho": "macro/rates traders, homebuilder analysts",
+        "tryIt": "https://fred.stlouisfed.org/series/HOUST"
+      },
+      "image": {
+        "url": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&id=HOUST",
+        "alt": "FRED chart of US privately-owned housing units started, total units",
+        "fit": "cover",
+        "credit": "Federal Reserve Bank of St. Louis / FRED"
+      },
+      "links": [
+        {
+          "label": "Census — New Residential Construction",
+          "url": "https://www.census.gov/construction/nrc/current/index.html"
+        },
+        {
+          "label": "FRED HOUST Series",
+          "url": "https://fred.stlouisfed.org/series/HOUST"
+        },
+        {
+          "label": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/housing-starts"
+        },
+        {
+          "label": "Census Housing Topic",
+          "url": "https://www.census.gov/topics/housing.html"
+        }
+      ],
+      "reddit": {
+        "title": "US housing starts +19% M/M in June to 1.427M SAAR — biggest jump in years, blows past 1.320M consensus; building permits -0.9% as multi-family drags",
+        "body": "Census + HUD released June 2026 New Residential Construction at 8:30 ET on Friday July 17.\n\n* Housing starts: 1.427M SAAR, +19.0% M/M — vs 1.320M consensus\n* Prior month revised up to 1.199M from 1.177M\n* Building permits: 1.410M SAAR, -0.9% M/M\n* Single-family permits: 892K (+1.2% M/M)\n* Multi-family (5+ units): 468K (-4.7% M/M)\n* Midwest permits collapsed -18.9% to 193K\n\nTwo-track story:\n\n1. **Starts are a headline blow-out** — biggest monthly jump in years; favorable weather and pull-forward after a slow start to the year. Bullish read-through into LEN, DHI, PHM, TOL, MTH.\n2. **Permits softness signals pipeline caution** — multi-family 5+ units and the Midwest are still weak. Forward-look for 2H'26 completions is muddier than the starts print implies.\n3. **Rates-market read is inflationary at the margin** — shelter-CPI upstream, nudges 2Y/10Y higher, keeps the July 28–29 FOMC narrative lean-hawkish.\n\nNext catalysts: FOMC July 28–29, June PCE July 31, homebuilder Q2 earnings prints (DHI Jul 22, PHM Jul 22).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-housing-starts-june-2026-july-17](https://stock-tldr.xyz/releases/us-housing-starts-june-2026-july-17)"
+      },
+      "publishDate": "2026-07-17T13:10:09.448Z"
+    },
+    {
+      "id": "nikkei-ai-selloff-kioxia-july-17-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Japan AI selloff — Nikkei 225 -4.0% to 64,141 on Friday July 17 as Kioxia -16% wipes ¥30T ($185B, -52% from June peak) after Bain exit; SoftBank -9%, Advantest -7.2%, Tokyo Electron -8.2%, Topix -2.72%",
+      "org": "Tokyo Stock Exchange",
+      "date": "2026-07-17",
+      "url": "https://asia.nikkei.com/business/markets/kioxia-dives-16-as-ai-stocks-face-deleveraging",
+      "summary": "Nikkei 225 sank -4.0% to 64,141 on Friday July 17 as Kioxia crashed -16% (wiping ¥30T / $185B, now -52% from June peak) after Bain Capital exit + AI-cycle deleveraging fears; SoftBank -9%, Advantest -7.2%, Tokyo Electron -8.2%.",
+      "tickers": [],
+      "metrics": {
+        "Nikkei 225": "-4.03% to 64,140",
+        "Topix": "-2.72% to 3,919",
+        "Kioxia": "-16% (-52% from June peak, -¥30T / $185B market value)",
+        "SoftBank Group": "-9%",
+        "Advantest": "-7.2%",
+        "Tokyo Electron": "-8.2%",
+        "TSMC ADR (US premarket)": "-4%",
+        "Kioxia YTD (through peak)": "+600%",
+        "KOSPI": "lower on AI/chip weakness"
+      },
+      "importance": "major",
+      "tags": [
+        "japan",
+        "nikkei",
+        "asia-selloff",
+        "ai-stocks",
+        "semiconductors",
+        "chip-rout",
+        "kioxia",
+        "softbank",
+        "advantest",
+        "memory-chip",
+        "deleveraging"
+      ],
+      "explainer": {
+        "tagline": "Nikkei 225 -4% in the worst Tokyo session of the year as memory-chip name Kioxia crashes -16% and the Japanese AI trade unwinds broadly.",
+        "whatIsIt": "Japan's Nikkei 225 fell 4.03% to 64,140 on Friday July 17 in a sharp, chip-led selloff. The Topix dropped 2.72% to 3,919. The move was the biggest single-session drop in Tokyo of 2026 to date and cascaded across the Asian AI complex: Korea's KOSPI slid on chip weakness, and TSMC's US ADR (TSM) fell ~4% in premarket trading.",
+        "howItWorks": "Kioxia Holdings — the NAND memory maker that IPO'd at record valuations — was the epicenter: shares crashed as much as 16% in Tokyo, taking the stock to -52% from its June peak. Bloomberg pegs the market-value loss from the peak at ¥30T (~$185B). Bain Capital, which took Kioxia public, has been exiting its stake, which many investors read as a top signal. SoftBank Group — a major AI/chip bet in Japan — lost ~9%. Chip-equipment names Advantest (-7.2%) and Tokyo Electron (-8.2%) sold off in sympathy. Kioxia had rallied more than 600% year-to-date at its peak.",
+        "whyItMatters": "This is the second leg of the July AI-deleveraging trade after the SK Hynix / Samsung KOSPI crash on July 13. Two catalysts collided: (1) TSMC's Thursday guidance lift to a $60-64B FY26 capex (from $52-56B) which pumped ~5% into the SOX overnight, then unwound into concerns about how much of memory pricing was already discounted; and (2) Bain's continued Kioxia sell-down feeding a broader position-unwind by leveraged holders. Read-across for US markets: SMH/SOXX weak, Nasdaq futures -1.6%, and specific names MU, SNDK, LRCX, KLAC, AMAT into today's cash session.",
+        "forWho": "semis PMs, Japan-focused desks, AI-thematic traders",
+        "tryIt": "https://asia.nikkei.com/business/markets/japanese-stocks-plunge-as-ai-deleverage-sends-kioxia-down-16"
+      },
+      "image": {
+        "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/17/552177.jpg?v=3.1",
+        "alt": "Kioxia signage and Tokyo market news display during the July 17 selloff",
+        "fit": "cover",
+        "credit": "The Japan Times"
+      },
+      "links": [
+        {
+          "label": "Nikkei Asia (Kioxia -16%)",
+          "url": "https://asia.nikkei.com/business/markets/kioxia-dives-16-as-ai-stocks-face-deleveraging"
+        },
+        {
+          "label": "Nikkei Asia (AI Deleverage)",
+          "url": "https://asia.nikkei.com/business/markets/japanese-stocks-plunge-as-ai-deleverage-sends-kioxia-down-16"
+        },
+        {
+          "label": "Business Recorder Recap",
+          "url": "https://www.brecorder.com/news/40430504/japans-nikkei-slumps-over-4-on-tech-selloff-middle-east-conflict"
+        },
+        {
+          "label": "News On Japan",
+          "url": "https://newsonjapan.com/article/149844.php"
+        }
+      ],
+      "reddit": {
+        "title": "Nikkei 225 -4% to 64,141 on Friday as Kioxia crashes -16% (-¥30T / $185B, -52% from June peak); SoftBank -9%, Advantest -7.2%, Tokyo Electron -8.2%",
+        "body": "Japan's Nikkei just had its worst single-day drop of 2026 as the Asian AI trade came apart on Friday July 17.\n\n* Nikkei 225: -4.03% to 64,140 — worst session of 2026\n* Topix: -2.72% to 3,919\n* Kioxia Holdings: -16% intraday; -52% from June peak; -¥30T (~$185B) market value gone; had rallied +600% YTD at peak\n* SoftBank Group: -9%\n* Advantest (chip test equipment): -7.2%\n* Tokyo Electron (chip equipment): -8.2%\n* TSMC ADR (TSM) premarket: -4%\n\nWhat broke this session:\n\n1. **Bain Capital exit from Kioxia is the trigger** — investors reading Bain's continued sell-down as the top signal for the AI-memory cycle.\n2. **TSMC's capex hike on Thursday backfired** — guiding FY26 capex to $60-64B (from $52-56B) initially pumped SOX overnight, then unwound into worries that memory ASPs are ahead of demand.\n3. **Second leg of the July AI deleverage** — first was SK Hynix/Samsung KOSPI crash on July 13. Leveraged AI-basket positions are getting stress-tested.\n\nUS read-across: SMH/SOXX weak into the open, Nasdaq futures -1.6%, specific names MU, SNDK, LRCX, KLAC, AMAT.\n\nNext catalysts: MU, LRCX, KLAC prints later in July; TSMC ADR reaction into the US cash session; more BOJ commentary on FX/yen if the selloff extends.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nikkei-ai-selloff-kioxia-july-17-2026](https://stock-tldr.xyz/releases/nikkei-ai-selloff-kioxia-july-17-2026)"
+      },
+      "publishDate": "2026-07-17T13:10:09.448Z"
+    },
     {
       "id": "nflx-q2-2026-earnings-july-16",
       "categories": [

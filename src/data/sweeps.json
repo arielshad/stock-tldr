@@ -7439,6 +7439,57 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260717t131009z",
+      "timestamp": "2026-07-17T13:10:09.448Z",
+      "source": "github-actions-sweep",
+      "summary": "Friday July 17 2026 sweep: 5 items added covering big-bank/insurance Q2 prints (TRV, TFC, FITB), the blowout June US housing starts release, and the -4% Nikkei chip-led selloff led by Kioxia (-16%).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trv-q2-2026-earnings-july-17",
+          "title": "Travelers (TRV) Q2 2026 — core EPS $10.04 crushes $5.34 est on $12.15B revenue; combined ratio 83.6% (-11.8pt Y/Y), $518M cat losses, $1.31B buyback + $1.25/sh dividend; TRV ~flat at $340",
+          "category": "earnings",
+          "note": "Travelers Q2 core EPS $10.04 vs $5.34 est; combined ratio 83.6% is 11.8pt Y/Y improvement — primary source (Travelers IR) confirms all metrics; stock ~flat on beat-quality question."
+        },
+        {
+          "id": "tfc-q2-2026-earnings-july-17",
+          "title": "Truist (TFC) Q2 2026 — diluted EPS $1.23 (+37% Y/Y) beats $1.08 est on $5.27B revenue; net income to common $1.5B, $1.8B returned via dividends + buybacks, $556B total assets",
+          "category": "earnings",
+          "note": "Truist Q2 diluted EPS $1.23 (+37% Y/Y) vs $1.08 est — Truist newsroom press release confirms EPS, revenue, and $1.8B capital return."
+        },
+        {
+          "id": "fitb-q2-2026-earnings-july-17",
+          "title": "Fifth Third (FITB) Q2 2026 — adj EPS $1.02 vs $0.84 est on $3.28B revenue (+46.7% Y/Y); GAAP EPS $0.83 excludes $0.19 in items; NII $2.22B, NIM 3.4%, efficiency 64.3%; stock flat at $59.86",
+          "category": "earnings",
+          "note": "Fifth Third Q2 adj EPS $1.02 vs $0.84 est on $3.28B revenue (+46.7% Y/Y post-Comerica combo); SEC 8-K press release + StockStory summary confirm all metrics."
+        },
+        {
+          "id": "us-housing-starts-june-2026-july-17",
+          "title": "US June 2026 housing starts jump +19.0% M/M to 1.427M SAAR — biggest monthly gain in years, ~8% above the 1.320M consensus; building permits -0.9% to 1.410M as multi-family (5+ units) -4.7% offsets single-family +1.2%",
+          "category": "macro",
+          "note": "June housing starts +19% M/M to 1.427M SAAR is the biggest monthly jump in years — Census/HUD 8:30 ET release; multi-track story with soft permits."
+        },
+        {
+          "id": "nikkei-ai-selloff-kioxia-july-17-2026",
+          "title": "Japan AI selloff — Nikkei 225 -4.0% to 64,141 on Friday July 17 as Kioxia -16% wipes ¥30T ($185B, -52% from June peak) after Bain exit; SoftBank -9%, Advantest -7.2%, Tokyo Electron -8.2%, Topix -2.72%",
+          "category": "mover",
+          "note": "Nikkei -4% led by Kioxia -16% (¥30T value gone) — Nikkei Asia and Bloomberg primary reporting; second leg of the July AI deleverage after July 13 KOSPI crash."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "sector"
+      ]
     }
   ]
 }
