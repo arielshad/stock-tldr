@@ -1,8 +1,309 @@
 {
-  "generatedAt": "2026-07-17T13:10:09.448Z",
+  "generatedAt": "2026-07-18T01:28:00.485Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "kimi-k3-us-chip-rout-sox-bear-market-july-17-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "US chip stocks — PHLX Semiconductor Index (SOX) enters bear market Friday July 17 (>20% off June record) as Moonshot's 2.8T-param Kimi K3 debuts; NVDA -2.2%, INTC -2.0%, CDNS -9.5%, SNPS -7.9%, AMAT/LRCX/KLAC/ARM each ~-4%",
+      "org": "Philadelphia Semiconductor Index",
+      "date": "2026-07-17",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html",
+      "summary": "SOX slid up to 5.7% intraday, tipping >20% below its late-June record and confirming a bear market after a 105% March-low-to-June-peak AI rally; catalyst was Beijing-based Moonshot AI unveiling Kimi K3, a 2.8T-parameter open-weight model.",
+      "tags": [
+        "semis",
+        "sox",
+        "bear-market",
+        "ai-capex",
+        "kimi-k3",
+        "moonshot",
+        "china-ai",
+        "open-weights",
+        "nvda",
+        "amd",
+        "intel",
+        "eda",
+        "arm-holdings"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^SOX",
+        "NVDA",
+        "INTC",
+        "CDNS",
+        "SNPS",
+        "AMAT"
+      ],
+      "metrics": {
+        "SOX intraday": "-5.7%",
+        "SOX drawdown from peak": ">20% (bear market)",
+        "Prior AI rally": "+105% (Mar low → Jun peak)",
+        "NVDA": "-2.2%",
+        "INTC": "-2.0%",
+        "CDNS": "-9.5%",
+        "SNPS": "-7.9%",
+        "AMAT / LRCX / KLAC / ARM": "each ~-4%",
+        "S&P 500 close": "7,457.69 (-1.01%)",
+        "Nasdaq close": "25,520.24 (-1.40%)",
+        "S&P weekly": "-1.6%",
+        "Nasdaq weekly": "-2.9%"
+      },
+      "explainer": {
+        "tagline": "Chinese AI startup Moonshot drops the world's largest open-weight model and the US chip index enters a bear market the same session.",
+        "whatIsIt": "The Philadelphia Semiconductor Index (SOX) fell as much as 5.7% on Friday July 17, breaching the 20% drawdown threshold from its late-June record and confirming a bear market. The 30-stock benchmark had rallied 105% from its March low to that June peak, so the reset is more air-out than fundamentals crack.",
+        "howItWorks": "The catalyst was Beijing-based Moonshot AI releasing Kimi K3, a 2.8-trillion-parameter open-weight model with a 1M-token context window that activates 16 of 896 experts per token. Independent benchmarks show K3 trailing Anthropic's Claude Fable 5 and OpenAI's GPT-5.6 Sol on overall intelligence, but beating Fable 5 on Arena.ai's front-end code benchmark and undercutting both on price (input $0.30–$3, output $15 per million tokens). Full weights are set to land under a Modified MIT-style license on Hugging Face by July 27.",
+        "whyItMatters": "The AI-capex trade — long US hyperscaler chips, short everything else — cracked in one session. Nvidia -2.2%, Intel -2.0%, Applied Materials / Lam Research / KLA / Arm each ~-4%, and the EDA duo took it hardest: Cadence -9.5% and Synopsys -7.9%. The parallel to DeepSeek's January 2025 R1 release is explicit — Wall Street is pricing in that open-weight Chinese frontier models can substitute for premium API tokens, which pressures both proprietary-model incumbents and the CapEx cycle funding them.",
+        "forWho": "semis desks, AI-thematic funds, options market-makers",
+        "tryIt": "https://finance.yahoo.com/quote/%5ESOX/"
+      },
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/Bf3cosvjPduc22JVWXLHJE-1920-80.png",
+        "alt": "Moonshot AI Kimi K3 announcement banner",
+        "fit": "cover",
+        "credit": "Moonshot AI / Tom's Hardware"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance: Jul 17 close",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html"
+        },
+        {
+          "label": "Motley Fool: chip rout deepens",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/"
+        },
+        {
+          "label": "Tom's Hardware: Kimi K3",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3"
+        },
+        {
+          "label": "SiliconANGLE: K3 open weights",
+          "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/"
+        },
+        {
+          "label": "^SOX chart",
+          "url": "https://finance.yahoo.com/quote/%5ESOX/"
+        }
+      ],
+      "reddit": {
+        "title": "US chip stocks enter bear market: SOX -5.7% intraday, >20% off June peak as China's Moonshot drops 2.8T-parameter Kimi K3 open model",
+        "body": "Friday July 17 flipped the AI-capex trade. The Philadelphia Semiconductor Index (SOX) tipped into bear-market territory intraday, and the entire chip complex went red.\n\n* SOX -5.7% intraday, now >20% below its late-June record\n* Prior rally: +105% from March low to June peak\n* NVDA -2.2%, INTC -2.0%, AMAT / LRCX / KLAC / ARM each ~-4%\n* EDA hit hardest: CDNS -9.5%, SNPS -7.9%\n* S&P 500 -1.01% to 7,457.69, Nasdaq -1.40% to 25,520.24\n* Weekly: S&P -1.6%, Nasdaq -2.9%\n\nTwo things converged:\n\n1. **Moonshot AI released Kimi K3** — a 2.8T-parameter open-weight model with a 1M-token context window. Independent benchmarks put it behind Claude Fable 5 and GPT-5.6 Sol on overall intelligence but ahead of Fable 5 on Arena.ai's front-end code benchmark. Priced $0.30–$3 input / $15 output per million tokens; weights land on Hugging Face July 27.\n2. **The AI-capex reflex broke** — the pattern of \"Chinese frontier model → sell US chips\" that traders learned during DeepSeek R1 in January 2025 ran again, this time on a 105% two-quarter rally that had a lot of air to let out.\n\nNext catalysts: earnings from AVGO, AMD, and NVDA later this cycle; open-weight release on July 27.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kimi-k3-us-chip-rout-sox-bear-market-july-17-2026](https://stock-tldr.xyz/releases/kimi-k3-us-chip-rout-sox-bear-market-july-17-2026)"
+      },
+      "publishDate": "2026-07-18T01:28:00.485Z"
+    },
+    {
+      "id": "umich-consumer-sentiment-prelim-july-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "US preliminary July 2026 UMich consumer sentiment jumps to 54.4 (5-month high) vs 51.0 consensus and 49.5 June final — 9.9% M/M gain on falling gas prices; 1-yr inflation expectations ease to 4.2% (from 4.6%), 5-yr steady at 3.3%",
+      "org": "University of Michigan",
+      "date": "2026-07-17",
+      "url": "https://investinglive.com/news/us-july-prelim-umich-consumer-sentiment-54-4-vs-51-0-expected",
+      "summary": "Preliminary July UMich sentiment rose 9.9% M/M to 54.4 — a five-month high — versus 51.0 consensus and 49.5 June final, with all five components improving and 1-year inflation expectations easing to 4.2% from 4.6%.",
+      "tags": [
+        "macro",
+        "consumer-sentiment",
+        "umich",
+        "inflation-expectations",
+        "gasoline",
+        "sentiment"
+      ],
+      "importance": "major",
+      "tickers": [],
+      "metrics": {
+        "UMich sentiment (prelim)": "54.4 vs 51.0 est",
+        "Prior (June final)": "49.5",
+        "M/M change": "+9.9%",
+        "Y/Y change": "-11.8%",
+        "Current Conditions": "54.9 (from 47.7)",
+        "Expectations": "54.0 (from 50.7)",
+        "1-yr inflation exp.": "4.2% (from 4.6%)",
+        "5-yr inflation exp.": "3.3% (unchanged)"
+      },
+      "explainer": {
+        "tagline": "Preliminary July UMich sentiment beat by a wide margin at 54.4 — a five-month high — as gas prices eased and inflation expectations ticked down.",
+        "whatIsIt": "The University of Michigan's preliminary July 2026 Survey of Consumers put headline sentiment at 54.4, up from 49.5 in June and beating consensus (51.0) by 3.4 points. It is the second consecutive month with a ~10% M/M jump and the highest reading since February. Sentiment is still down 11.8% Y/Y.",
+        "howItWorks": "All five sub-indices improved. Current Economic Conditions climbed to 54.9 from 47.7 and the Expectations gauge rose to 54.0 from 50.7, with buying conditions for durables and year-ahead business conditions each up ~20%. Survey director Joanne Hsu credited 'easing price pressures at the pump.' One-year inflation expectations fell to 4.2% from 4.6%; the five-year outlook held at 3.3%.",
+        "whyItMatters": "A sentiment print this far above consensus, alongside cooler CPI (June headline +3.5% Y/Y) and softer PPI (-0.3% M/M) earlier in the week, tightens the demand-side story that had leaned recession-y since the tariff shock. Falling inflation expectations reduce pressure on the Warsh Fed to lean hawkish at the July 28–29 meeting, though sentiment remains 12% below year-ago levels and is historically volatile month to month. Final July prints July 31."
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2025-_Consumer_sentiment_%28US%29.svg/1280px-2025-_Consumer_sentiment_%28US%29.svg.png",
+        "alt": "University of Michigan Consumer Sentiment Index long-run chart",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "UMich Surveys of Consumers",
+          "url": "http://www.sca.isr.umich.edu/"
+        },
+        {
+          "label": "InvestingLive: 54.4 vs 51.0",
+          "url": "https://investinglive.com/news/us-july-prelim-umich-consumer-sentiment-54-4-vs-51-0-expected"
+        },
+        {
+          "label": "Baltimore Sun coverage",
+          "url": "https://www.baltimoresun.com/2026/07/17/us-consumer-sentiment-rebounds-to-five-month-high-sustaining-it-will-be-difficult/"
+        },
+        {
+          "label": "FRED UMCSENT series",
+          "url": "https://fred.stlouisfed.org/series/UMCSENT"
+        }
+      ],
+      "reddit": {
+        "title": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected — biggest beat in months, 5-year inflation expectations hold at 3.3%",
+        "body": "Preliminary July University of Michigan consumer sentiment blew past the estimate on Friday, extending a two-month rebound.\n\n* Headline: 54.4 vs 51.0 est (+9.9% M/M from 49.5)\n* Current Conditions: 54.9 (from 47.7)\n* Expectations: 54.0 (from 50.7)\n* All five sub-indices improved; buying-conditions for durables and year-ahead business conditions each +~20%\n* 1-yr inflation expectations: 4.2% (down from 4.6%)\n* 5-yr inflation expectations: 3.3% (unchanged)\n* Highest reading since February; still -11.8% Y/Y\n\nWhy it matters:\n\n1. **Second consecutive ~10% M/M jump** — the recovery is starting to look real, not a one-month bounce.\n2. **Falling near-term inflation expectations** — pump prices are doing the work, and it reduces pressure on the Warsh Fed to keep policy tight into the July 28–29 meeting.\n3. **Consistent with the softer CPI/PPI week** — headline CPI +3.5% Y/Y, PPI -0.3% M/M (both trounced consensus).\n\nNext catalysts: final July print July 31, then FOMC July 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/umich-consumer-sentiment-prelim-july-2026](https://stock-tldr.xyz/releases/umich-consumer-sentiment-prelim-july-2026)"
+      },
+      "publishDate": "2026-07-18T01:28:00.485Z"
+    },
+    {
+      "id": "rf-q2-2026-earnings-july-17",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Regions Financial (RF) Q2 2026 — adjusted diluted EPS $0.68 vs $0.63 est on $1.91B GAAP revenue ($1.95B adj); net income $549M ($583M adj), NII $1.28B, NIM 3.66%, CET1 10.7%; adj revenue +2% Y/Y and adj EPS +13% Y/Y",
+      "org": "Regions Financial",
+      "date": "2026-07-17",
+      "url": "https://sg.finance.yahoo.com/news/regions-reports-earnings-549-million-100000589.html",
+      "summary": "Regions posted Q2 GAAP diluted EPS $0.64 and adjusted $0.68 (vs $0.63 est) on $1.91B revenue and $549M net income ($583M adjusted); NII was $1.28B, NIM 3.66%, CET1 10.7% and average loans $98.7B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "regional-bank",
+        "nii",
+        "nim",
+        "q2-2026",
+        "cet1"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "RF"
+      ],
+      "metrics": {
+        "EPS (adj)": "$0.68 vs $0.63 est",
+        "EPS (GAAP)": "$0.64 (+8% Y/Y)",
+        "Revenue (GAAP)": "$1.907B",
+        "Adj revenue": "$1.947B (+2% Y/Y)",
+        "Net income": "$549M ($583M adj)",
+        "NII": "$1.277B",
+        "NIM": "3.66%",
+        "CET1": "10.7%",
+        "Avg loans": "$98.7B",
+        "Avg deposits": "$130.7B",
+        "Adj EPS Y/Y": "+13%"
+      },
+      "explainer": {
+        "tagline": "Regions Q2 adjusted EPS of $0.68 beat consensus by ~8% on record wealth flows and stable NIM at 3.66%.",
+        "whatIsIt": "Regions Financial (RF) reported Q2 2026 net income of $549 million and GAAP diluted EPS of $0.64. On an adjusted basis, EPS was $0.68 (vs $0.63 consensus) and net income $583 million. GAAP total revenue was $1.907 billion; adjusted total revenue $1.947 billion (+2% Y/Y), with net interest income at $1.277 billion.",
+        "howItWorks": "Net interest margin held at 3.66% annualized. Average loans stood at $98.7B and average deposits at $130.7B, with capital anchored at a 10.7% CET1 ratio (9.5% including AOCI). Diluted EPS grew 8% Y/Y and adjusted EPS grew 13% Y/Y on stable revenue plus operating leverage.",
+        "whyItMatters": "The beat continues the mid-cap regional bank pattern this quarter — steady NIM, credit costs contained, capital returned. Shares slipped in early trading despite the beat, per follow-on coverage, as buy-side had already positioned into the print. Combined with JPM/BAC/WFC/C/MS/GS/BLK/BK results earlier in the week, the Q2 setup implies a healthier core spread environment for regionals than feared coming into the quarter.",
+        "forWho": "regional-bank specialists, credit desks",
+        "tryIt": "https://ir.regions.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Regions_Center%2C_downtown_Birmingham.jpg/960px-Regions_Center%2C_downtown_Birmingham.jpg",
+        "alt": "Regions Center headquarters in downtown Birmingham, Alabama",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Regions Reports Q2 2026",
+          "url": "https://sg.finance.yahoo.com/news/regions-reports-earnings-549-million-100000589.html"
+        },
+        {
+          "label": "Regions Investor Relations",
+          "url": "https://ir.regions.com/"
+        },
+        {
+          "label": "RF quote — Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/RF/"
+        }
+      ],
+      "reddit": {
+        "title": "Regions Financial (RF) Q2 2026 — adj EPS $0.68 beats $0.63 est, NIM holds 3.66%, CET1 10.7% — regional bank print quietly beats across the board",
+        "body": "Regions capped the Q2 bank week with a clean beat.\n\n* Adjusted diluted EPS: $0.68 vs $0.63 est\n* GAAP diluted EPS: $0.64 (+8% Y/Y)\n* Net income: $549M GAAP / $583M adjusted\n* GAAP revenue: $1.907B; adjusted revenue $1.947B (+2% Y/Y)\n* Net interest income: $1.277B; NIM 3.66% annualized\n* Average loans: $98.7B; average deposits: $130.7B\n* CET1 ratio: 10.7%\n* Adjusted EPS +13% Y/Y\n\nWhy it matters:\n\n1. **NIM stable at 3.66%** — the fear coming into the quarter was that regionals would give back margin as deposit repricing lagged; RF's number says that didn't happen.\n2. **Adj revenue and adj EPS growth diverge** — 2% revenue vs 13% EPS is operating leverage doing the work.\n3. **Fits the regional-bank pattern** — TFC / FITB / RF this week all beat with contained credit and returned capital.\n\nNext catalysts: KEY, HBAN, CMA next week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rf-q2-2026-earnings-july-17](https://stock-tldr.xyz/releases/rf-q2-2026-earnings-july-17)"
+      },
+      "publishDate": "2026-07-18T01:28:00.485Z"
+    },
+    {
+      "id": "iran-kuwait-desal-strike-oil-surge-july-17-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Iran strikes Kuwait power + desalination plant on Friday July 17 as US bombs Iranian infrastructure — Brent +4.6% to $88.10 close, WTI +4.5% to $82.49; Brent and WTI both up >10% for the week amid escalating US–Iran targeting of civilian infrastructure",
+      "org": "State of Kuwait",
+      "date": "2026-07-17",
+      "url": "https://www.news4jax.com/news/world/2026/07/17/iranian-strike-damages-a-kuwait-desalination-plant-exposing-water-vulnerability-in-dry-mideast/",
+      "summary": "Iran hit a Kuwait power + desalination plant Friday July 17 in retaliation for US strikes on Iranian bridges and airport/rail targets; Brent closed +4.6% at $88.10 and WTI +4.5% at $82.49, capping a >10% weekly gain for crude.",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "iran",
+        "kuwait",
+        "geopolitics",
+        "middle-east",
+        "desalination",
+        "opec",
+        "us-iran-conflict"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent close": "$88.10 (+4.6%)",
+        "WTI close": "$82.49 (+4.5%)",
+        "Brent weekly": ">+10%",
+        "WTI weekly": ">+10%",
+        "Kuwait desal share of drinking water": "~90%",
+        "Iran-claimed targets": "Bahrain, Jordan, Kuwait, Oman, Qatar, Syria"
+      },
+      "explainer": {
+        "tagline": "Iran struck a Kuwait power and desalination plant in retaliation for US strikes on Iranian bridges; oil closed at one-month highs.",
+        "whatIsIt": "Kuwait's government confirmed on Friday July 17 that an Iranian attack damaged a power plant and desalination facility, sparking a fire that hit multiple electricity generation units. Kuwait depends on desalination for ~90% of its drinking water, making the target unusually consequential for civilian infrastructure. Iran also said it hit US targets in Bahrain, Jordan, Kuwait, Oman, Qatar and Syria in the same retaliation round.",
+        "howItWorks": "The strikes came hours after US forces struck Iranian bridges, an airport and a railway station, and escalated the ongoing US–Iran exchange begun early July. Brent crude futures rose about 4.6% to close at $88.10 per barrel and WTI added about 4.5% to settle at $82.49 — both at one-month highs. Both benchmarks finished the week up >10% as the conflict expanded from military to civilian and energy-adjacent infrastructure.",
+        "whyItMatters": "Attacks on desalination and power infrastructure open a new escalation lane that markets had not priced. Kuwait, Bahrain, and Qatar are all critical Gulf energy hubs — a broader civilian-target war has direct implications for oil supply, tanker insurance and LNG flows. With crude up >10% for the week and the SOX rout separately pressuring risk assets, the oil-inflation feedback loop is back on the table just as the July 28–29 FOMC approaches.",
+        "forWho": "energy desks, macro traders, oil-sensitive credit",
+        "tryIt": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      "image": {
+        "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/EXUUVMODNZCTRGBAXOVG5MOKKU.jpg?_a=DATAg1kSZAA0",
+        "alt": "Damaged Kuwait desalination facility after Iranian strike, July 17 2026",
+        "fit": "cover",
+        "credit": "Graham Media Group / News4JAX"
+      },
+      "links": [
+        {
+          "label": "News4JAX: Kuwait desal strike",
+          "url": "https://www.news4jax.com/news/world/2026/07/17/iranian-strike-damages-a-kuwait-desalination-plant-exposing-water-vulnerability-in-dry-mideast/"
+        },
+        {
+          "label": "France24: Middle East live",
+          "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station"
+        },
+        {
+          "label": "Quartz: oil +12% on Iran-Kuwait",
+          "url": "https://qz.com/oil-prices-iran-kuwait-infrastructure-red-sea-houthi-071726"
+        },
+        {
+          "label": "Brent crude chart",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ],
+      "reddit": {
+        "title": "Iran hits Kuwait desalination + power plant in retaliation for US infrastructure strikes — Brent closes $88.10 (+4.6%), WTI $82.49 (+4.5%), both up >10% for the week",
+        "body": "The US–Iran conflict expanded from military to civilian infrastructure on Friday July 17. Kuwait — which gets ~90% of its drinking water from desalination — was directly targeted.\n\n* Kuwait confirms Iranian strike damaged a power + desalination plant, sparked a fire across multiple generating units\n* Iran claims strikes on US targets in Bahrain, Jordan, Kuwait, Oman, Qatar, and Syria\n* US struck Iranian bridges, an airport, and a railway station hours earlier\n* Brent crude: $88.10 close (+4.6% on the day, >+10% for the week)\n* WTI crude: $82.49 close (+4.5% on the day, >+10% for the week)\n* Both benchmarks at one-month highs\n\nWhy it matters:\n\n1. **New escalation lane** — desalination and civilian power are targets markets had not priced. Kuwait, Bahrain, Qatar are all critical Gulf energy hubs.\n2. **Oil-inflation loop re-engaged** — crude +>10% weekly plus the SOX-into-bear-market backdrop is exactly the mix that puts an inflation restart back on Fed talking points.\n3. **FOMC July 28–29 next week** — Warsh will have to address the oil impulse either way.\n\nNext catalysts: FOMC July 28–29, next US Iran strike round.\n\nFull breakdown: [https://stock-tldr.xyz/releases/iran-kuwait-desal-strike-oil-surge-july-17-2026](https://stock-tldr.xyz/releases/iran-kuwait-desal-strike-oil-surge-july-17-2026)"
+      },
+      "publishDate": "2026-07-18T01:28:00.485Z"
+    },
     {
       "id": "trv-q2-2026-earnings-july-17",
       "categories": [

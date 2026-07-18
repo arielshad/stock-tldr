@@ -7490,6 +7490,52 @@
         "mover",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260718t012800z",
+      "timestamp": "2026-07-18T01:28:00.485Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep for the July 17 US session close: added SOX bear market (Kimi K3 catalyst) + preliminary UMich sentiment beat + Regions Financial Q2 earnings + Iran–Kuwait desalination strike with Brent/WTI surge. Weekend AH quiet.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "kimi-k3-us-chip-rout-sox-bear-market-july-17-2026",
+          "title": "US chip stocks — PHLX Semiconductor Index (SOX) enters bear market Friday July 17 (>20% off June record) as Moonshot's 2.8T-param Kimi K3 debuts; NVDA -2.2%, INTC -2.0%, CDNS -9.5%, SNPS -7.9%, AMAT/LRCX/KLAC/ARM each ~-4%",
+          "category": "sector",
+          "note": "SOX entered a bear market intraday July 17 on the Moonshot Kimi K3 launch — >20% off June record after a 105% rally; distinct from the same-day Kioxia/Nikkei item, whose driver is Bain's exit."
+        },
+        {
+          "id": "umich-consumer-sentiment-prelim-july-2026",
+          "title": "US preliminary July 2026 UMich consumer sentiment jumps to 54.4 (5-month high) vs 51.0 consensus and 49.5 June final — 9.9% M/M gain on falling gas prices; 1-yr inflation expectations ease to 4.2% (from 4.6%), 5-yr steady at 3.3%",
+          "category": "macro",
+          "note": "Preliminary UMich sentiment beat by 3.4 points (54.4 vs 51.0), a 5-month high with inflation expectations easing — meaningful macro tape ahead of the July 28–29 FOMC."
+        },
+        {
+          "id": "rf-q2-2026-earnings-july-17",
+          "title": "Regions Financial (RF) Q2 2026 — adjusted diluted EPS $0.68 vs $0.63 est on $1.91B GAAP revenue ($1.95B adj); net income $549M ($583M adj), NII $1.28B, NIM 3.66%, CET1 10.7%; adj revenue +2% Y/Y and adj EPS +13% Y/Y",
+          "category": "earnings",
+          "note": "Regions Financial adj EPS $0.68 vs $0.63 with NIM stable at 3.66% and CET1 10.7% — a clean regional-bank print that fits the quarter's pattern."
+        },
+        {
+          "id": "iran-kuwait-desal-strike-oil-surge-july-17-2026",
+          "title": "Iran strikes Kuwait power + desalination plant on Friday July 17 as US bombs Iranian infrastructure — Brent +4.6% to $88.10 close, WTI +4.5% to $82.49; Brent and WTI both up >10% for the week amid escalating US–Iran targeting of civilian infrastructure",
+          "category": "commodity",
+          "note": "Fresh escalation Jul 17: Iran hits Kuwait desalination + power plant, oil closes at 1-month highs, weekly +>10% — distinct from the Jul 12 Kuwait Oil offshore platform hit and the Jul 13 Hormuz-toll item."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "macro",
+        "earnings",
+        "commodity"
+      ]
     }
   ]
 }
