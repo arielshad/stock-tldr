@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-07-18T01:28:00.485Z",
+  "generatedAt": "2026-07-18T12:55:54.450Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "meta-anthropic-10b-compute-lease-rumor-july-17-2026",
+      "categories": [
+        "rumor",
+        "mover"
+      ],
+      "title": "Reportedly: Meta (META) and Anthropic in early talks for up to $10B compute-lease deal over two years — NYT/Reuters scoop on Friday July 17; META closes -2.79% at $646.01 after paring 6% intraday losses on the report",
+      "org": "Meta Platforms",
+      "date": "2026-07-17",
+      "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+      "summary": "NYT scoop confirmed by Reuters: Anthropic proposed in June to lease up to $10B of Meta data-center compute over 2 years, paid monthly; talks nascent. META closes -2.79% at $646.01 after paring 6% intraday loss.",
+      "tags": [
+        "rumor",
+        "ai-compute",
+        "cloud",
+        "meta-compute",
+        "capex",
+        "hyperscaler",
+        "anthropic",
+        "neocloud",
+        "leasing",
+        "data-center"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "META"
+      ],
+      "metrics": {
+        "Potential deal size": "$10B over 2 years",
+        "Structure": "Monthly payments, either side can exit early",
+        "Proposed by": "Anthropic (June 2026)",
+        "META close": "$646.01 (-2.79%)",
+        "META intraday low": "-~6%"
+      },
+      "explainer": {
+        "tagline": "NYT reports Anthropic proposed a $10B, 2-year compute lease from Meta in June — Meta is still weighing the deal.",
+        "whatIsIt": "The New York Times reported Friday afternoon that Anthropic and Meta are in early talks for a potential deal in which Anthropic would lease up to $10B of Meta data-center compute over two years. Reuters and CNBC confirmed with a source familiar. Both companies declined or did not immediately comment.",
+        "howItWorks": "Per the source: Anthropic pitched the arrangement in June. Payments would be monthly across the two-year term, and either side could exit early. Terms remain subject to change and talks have become complicated because Meta does not yet have a business selling its computing power. The proposal is roughly one-third the size of Anthropic's $45B, 3-year compute deal with SpaceX signed in May.",
+        "whyItMatters": "This is a concrete first data point on the 'Meta Compute' cloud pivot that Bloomberg previewed on July 1. If it closes, it would diversify Meta beyond ads, monetize excess GPU capacity, and put Meta head-to-head with CoreWeave (CRWV) and Nebius (NBIS) in neocloud. META shares pared a ~6% intraday drop after the scoop and closed -2.79% at $646.01 — the report helped soften a bad tape driven by the semis-rout and NFLX -10%.",
+        "forWho": "AI-capex traders, hyperscaler analysts, neocloud investors",
+        "tryIt": "https://finance.yahoo.com/quote/META/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108269269-1771956501574-gettyimages-2261852583-INDIA_AI_SUMMIT.jpeg?v=1774360265&w=1920&h=1080",
+        "alt": "Meta Platforms and Anthropic logos backdrop at an AI industry event",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-talks-10-billion-anthropic-162927340.html"
+        },
+        {
+          "label": "TradingView (Reuters)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43J0X5:0-meta-anthropic-in-talks-for-potential-10-billion-compute-lease-deal-source-says/"
+        },
+        {
+          "label": "Yahoo Finance (Quartz)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-talks-lease-meta-computing-170931284.html"
+        },
+        {
+          "label": "META Chart",
+          "url": "https://finance.yahoo.com/quote/META/"
+        }
+      ],
+      "reddit": {
+        "title": "NYT scoop: Anthropic proposed $10B, 2-year compute lease from Meta — META -2.79% Friday after paring 6% intraday loss on the report",
+        "body": "Late Friday scoop from the New York Times, confirmed by Reuters and CNBC, that Anthropic pitched Meta in June on renting up to $10B of Meta data-center compute over two years:\n\n* Structure: monthly payments; either side can exit early\n* Proposed by Anthropic in June; Meta still evaluating\n* Roughly a third the size of Anthropic's $45B, 3-year SpaceX compute deal signed in May\n* Both companies declined or did not immediately comment\n* META closed -2.79% at $646.01 after trading down ~6% intraday earlier — the scoop actually helped pare the drop\n\nWhy people are paying attention:\n\n1. **First concrete data point on the 'Meta Compute' pivot** — Bloomberg flagged the general framework July 1; this is the first specific counterparty and deal size.\n2. **Diversification away from ads** — Meta would monetize GPU capacity and step into neocloud lane against CoreWeave and Nebius.\n3. **AI-capex confidence check** — comes into a week where the semi sector (SOX) entered a bear market on 'is AI capex being reset lower?' worries; a $10B multi-year lease pushes the other way.\n\nCaveat: talks are early per the source, terms subject to change, and Meta does not currently have a business selling compute. Not a done deal.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-anthropic-10b-compute-lease-rumor-july-17-2026](https://stock-tldr.xyz/releases/meta-anthropic-10b-compute-lease-rumor-july-17-2026)"
+      },
+      "publishDate": "2026-07-18T12:55:54.450Z"
+    },
     {
       "id": "kimi-k3-us-chip-rout-sox-bear-market-july-17-2026",
       "categories": [

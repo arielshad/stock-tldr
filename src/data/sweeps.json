@@ -7536,6 +7536,36 @@
         "earnings",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260718t125554z",
+      "timestamp": "2026-07-18T12:55:54.450Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: NYT/Reuters scoop on Friday July 17 that Anthropic has proposed a $10B, 2-year Meta data-center compute lease — Meta considering. META closed -2.79% at $646.01 after paring a ~6% intraday drop on the report. Everything else from the last 24h (Friday earnings crush, SOX bear market, Iran/Kuwait strike, UMich sentiment, housing starts, Nikkei rout, TSMC, ASML, NFLX, UNH, GE, ABT, ABB/Rotork, JBHT, AAPL China approval, JNJ, MS/BLK/BNY, US PPI, and prior geopolitical items) is already in the feed. China Q2 GDP miss (July 15) falls outside the 72h date cap and was not added.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "meta-anthropic-10b-compute-lease-rumor-july-17-2026",
+          "title": "Reportedly: Meta (META) and Anthropic in early talks for up to $10B compute-lease deal over two years — NYT/Reuters scoop on Friday July 17; META closes -2.79% at $646.01 after paring 6% intraday losses on the report",
+          "category": "rumor",
+          "note": "Fresh NYT scoop from Friday July 17; Meta stock reacted (paring intraday loss); tier-1 confirmed by Reuters and CNBC; specific $10B, 2-year deal with named counterparty (Anthropic). Distinct from the July 1 general 'Meta Compute' Bloomberg preview and the July 10 Iris chip memo item — this one adds a specific proposed deal size and counterparty."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rumor",
+        "mover",
+        "earnings",
+        "macro",
+        "commodity",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }
