@@ -7566,6 +7566,41 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260719t013305z",
+      "timestamp": "2026-07-19T01:33:05.447Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep found 2 additions since the last run: CENTCOM's Saturday July 18 confirmation of 2 US KIA + 1 missing in Jordan from Friday's Iranian missile/drone attack (first American military deaths in the 2026 Iran war since March, escalation of the sixth Iran-war item this month), and the Dutch TTF European gas benchmark's near-4-month-high €57.49/MWh close on Friday July 17 (+15% W/W, +29% MTD) as Qatar halted maritime activity and Hormuz LNG risk widened.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-jordan-2-kia-july-18-2026",
+          "title": "CENTCOM confirms 2 US service members killed, 1 missing after Iranian missile + drone attack on US position in Jordan on Friday July 17 — first US KIA of the 2026 Iran war since March, US military death toll now 16",
+          "category": "macro",
+          "note": "CENTCOM-confirmed US KIA is a distinct, headline news event; existing Iran-Kuwait-desal item mentions Jordan only in passing and predates the KIA disclosure."
+        },
+        {
+          "id": "eu-ttf-gas-4month-high-july-17-2026",
+          "title": "European Dutch TTF natural gas closes €57.49/MWh on Friday July 17 — nearly 4-month high, +15% for the week and +29% MTD as Qatar suspends maritime activity and US-Iran conflict widens threat to Hormuz LNG chokepoint",
+          "category": "commodity",
+          "note": "TTF benchmark at ~4-month high with distinct weekly/MTD magnitude and specific Qatar-Ras Laffan trigger; existing Iran-oil items focus on Brent/WTI and did not cover the European gas move."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "crypto",
+        "mna",
+        "earnings",
+        "rumor"
+      ]
     }
   ]
 }
