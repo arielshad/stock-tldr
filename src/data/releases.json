@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-07-19T01:33:05.447Z",
+  "generatedAt": "2026-07-19T12:57:39.487Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "isrg-q2-2026-earnings-july-17",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Intuitive Surgical (ISRG) Q2 2026 — revenue $2.89B (+19% Y/Y) beats $2.82B est and adj EPS $2.80 crushes $2.51 est on worldwide procedure +16%; but ISRG -14.15% to $345.42 on Friday July 17 as management narrows FY26 da Vinci guide toward 14.5% midpoint on ACA subsidy expiry",
+      "org": "Intuitive Surgical",
+      "date": "2026-07-17",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-nasdaq-isrg-surprises-201941629.html",
+      "summary": "Intuitive Surgical Q2 revenue $2.89B (+19% Y/Y) and non-GAAP EPS $2.80 both beat as worldwide procedures grew ~16% (da Vinci 15%, Ion 36%). But management narrowed FY26 da Vinci procedure growth toward the 14.5% midpoint of its 13.5-15.5% range on ACA subsidy expiry, sending ISRG -14.15% Friday to $345.42.",
+      "tickers": [
+        "ISRG"
+      ],
+      "metrics": {
+        "Revenue": "$2.89B (+19% Y/Y) vs $2.82B est",
+        "Adj EPS": "$2.80 vs $2.51 est",
+        "Worldwide procedures": "+16% Y/Y",
+        "da Vinci procedures": "+15% Y/Y",
+        "Ion procedures": "+36% Y/Y",
+        "da Vinci placements": "468 (vs 395 Y/Y), incl 246 da Vinci 5",
+        "Ion placements": "55 (vs 54 Y/Y)",
+        "da Vinci installed base": "11,710 systems (+12% Y/Y)",
+        "FY26 procedure growth guide": "13.5%–15.5% (narrowed toward 14.5% midpoint)",
+        "FY26 gross margin guide": "68.0%–69.0%",
+        "Move": "-14.15% Friday July 17 close to $345.42 (-$56.91)"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-narrow",
+        "medtech",
+        "robotic-surgery",
+        "da-vinci",
+        "aca-subsidy",
+        "elective-procedures"
+      ],
+      "explainer": {
+        "tagline": "ISRG beats Q2 on every line but a narrowed FY26 procedure-growth guide on ACA subsidy expiry sends the stock -14% Friday.",
+        "whatIsIt": "Intuitive Surgical reported Q2 CY26 after the close on Thursday July 16. Q2 revenue was $2.89B (+19% Y/Y) and non-GAAP diluted EPS was $2.80, both ahead of Street ($2.82B / $2.51). Worldwide procedures grew ~16% Y/Y, with da Vinci +15% and Ion +36%. Despite the beat, the stock sold off -14.15% on Friday July 17 to close at $345.42.",
+        "howItWorks": "Intuitive placed 468 da Vinci systems in Q2 (up from 395), including 246 next-gen da Vinci 5 units (vs 180). Ion placements ticked to 55. The da Vinci installed base reached 11,710 systems as of June 30 (+12% Y/Y) and Ion is at 1,096 (+21%). The FY26 outlook keeps worldwide da Vinci procedure growth at 13.5%–15.5% but management said actuals now track closer to the 14.5% midpoint; gross-margin guide is 68.0%–69.0%.",
+        "whyItMatters": "The market read the guide narrowing as a US deceleration signal. Management flagged the expiring enhanced ACA marketplace subsidies as a headwind to elective-procedure volumes in H2 2026, plus international capital-cycle drag. Sell-side analysts cut price targets on Friday, adding pressure. Read-across into medtech peers (SYK, MDT, BSX, TMO, DHR) on the ACA-subsidy patient-access thesis; -14% is one of ISRG's worst single-session moves in recent memory even though the print itself was a clean beat.",
+        "forWho": "medtech PMs, healthcare desks",
+        "tryIt": "https://finance.yahoo.com/quote/ISRG/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/73682D4CAE23519C513402B86206B7582A56FB5E0C1070ED1910DDACC208EC1B/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2F574471a64f73c5b7ab5467864b954a1e",
+        "alt": "Intuitive Surgical earnings coverage graphic",
+        "fit": "cover",
+        "credit": "StockStory via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "8-K (Q2 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000047/q226ex-991earningsrelease.htm"
+        },
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/intuitive-announces-second-quarter-earnings/2386246/amp"
+        },
+        {
+          "label": "Analyst PT Cuts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/isrg-stock-sinks-analysts-cut-193500742.html"
+        },
+        {
+          "label": "ISRG Quote",
+          "url": "https://finance.yahoo.com/quote/ISRG/"
+        }
+      ],
+      "reddit": {
+        "title": "Intuitive Surgical beats Q2 on every line ($2.89B rev, $2.80 EPS) but ISRG still -14.15% to $345.42 on ACA subsidy expiry killing FY26 US procedure guide",
+        "body": "Intuitive Surgical printed Q2 CY26 after close on Thursday July 16. The print itself was a clean beat — the guide is what did the damage.\n\n* Q2 revenue $2.89B (+19% Y/Y) vs $2.82B est\n* Non-GAAP diluted EPS $2.80 vs $2.51 est\n* Worldwide procedures +16% Y/Y (da Vinci +15%, Ion +36%)\n* 468 da Vinci placements (vs 395 Y/Y), including 246 da Vinci 5 systems\n* da Vinci installed base 11,710 (+12% Y/Y), Ion at 1,096 (+21%)\n* ISRG -14.15% Friday July 17 to $345.42, down $56.91 on the day\n\nWhy the tape hated a beat:\n\n1. **FY26 da Vinci procedure growth guide narrowed toward the 14.5% midpoint** of the 13.5-15.5% range — no raise despite the +15% Q2 print\n2. **ACA marketplace subsidy expiry is a stated H2 headwind** for elective-procedure volumes; management called it out on the call\n3. **International softness** — capital-cycle drag on system placements outside the US\n\nSell-side analysts cut price targets on Friday. Read-across watch: SYK, MDT, BSX and other elective-procedure names on the ACA patient-access thesis.\n\nFull breakdown: [https://stock-tldr.xyz/releases/isrg-q2-2026-earnings-july-17](https://stock-tldr.xyz/releases/isrg-q2-2026-earnings-july-17)"
+      },
+      "publishDate": "2026-07-19T12:57:39.487Z"
+    },
     {
       "id": "us-iran-jordan-2-kia-july-18-2026",
       "categories": [

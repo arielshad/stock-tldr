@@ -7601,6 +7601,31 @@
         "earnings",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260719t125739z",
+      "timestamp": "2026-07-19T12:57:39.487Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday July 19 sweep for the Jul 16–19 window. Existing feed already covered Fri Jul 17 chip rout (SOX bear market), Iran/Kuwait strikes, Meta/Anthropic rumor, Nikkei AI selloff, Kioxia, US housing starts, UMich, RF/TRV/TFC/FITB earnings and the Jul 18 Jordan KIA. Added one missed Thu Jul 16 AH mover: Intuitive Surgical (ISRG) -14.15% on Friday despite a clean Q2 beat, as management narrowed FY26 procedure growth toward 14.5% midpoint on ACA subsidy expiry. Weekend Jul 18–19 events (8th consecutive US strike on Iran, 2nd Kuwait desalination attack, Aqaba airport threat) are narrative continuations of already-covered items and did not qualify on their own with markets closed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "isrg-q2-2026-earnings-july-17",
+          "title": "Intuitive Surgical (ISRG) Q2 2026 — revenue $2.89B (+19% Y/Y) beats $2.82B est and adj EPS $2.80 crushes $2.51 est on worldwide procedure +16%; but ISRG -14.15% to $345.42 on Friday July 17 as management narrows FY26 da Vinci guide toward 14.5% midpoint on ACA subsidy expiry",
+          "category": "earnings",
+          "note": "ISRG beat Q2 revenue ($2.89B vs $2.82B est) and EPS ($2.80 vs $2.51 est) but stock -14.15% to $345.42 on Friday July 17 after management narrowed FY26 da Vinci procedure guide to 14.5% midpoint and flagged ACA marketplace subsidy expiry as an H2 elective-procedures headwind. Report date reflects Friday trading session where the move materialized (Q2 was reported AH Thu July 16). Primary source: SEC 8-K filed July 16."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
