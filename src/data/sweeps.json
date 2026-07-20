@@ -7626,6 +7626,51 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260720t140112z",
+      "timestamp": "2026-07-20T14:01:12.214Z",
+      "source": "github-actions-sweep",
+      "summary": "Monday July 20 pre-open sweep — three qualifying items: DPZ Q2 2026 earnings (EPS miss but stock +7% premarket), AMD Helios rack-scale launch with Microsoft Azure as new customer (AMD +~3.5%), and Alibaba's Sunday preview of Qwen3.8-Max at WAIC Shanghai (BABA +~4%). Weekend US-Iran escalation (3rd US KIA in Iraq, 9th night of strikes) is a continuation of already-covered war narrative — no distinct market-moving beat added.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dpz-q2-2026-earnings-july-20",
+          "title": "Domino's Pizza (DPZ) Q2 2026 — diluted EPS $4.07 misses $4.17 est but revenue $1.19B (+4.3% Y/Y) beats $1.18B est; US same-store +0.1% whiffs +0.62% est and international -0.1% vs +0.5% est, weakest US comp in over a year; DPZ +~7% premarket to $343.50 as revenue beat + 209 net new stores overshadow the EPS/comp miss",
+          "category": "earnings",
+          "note": "Q2 2026 print before Monday open — headline EPS miss but revenue beat and share reaction (+~7% premarket) make it a clear earnings/mover."
+        },
+        {
+          "id": "amd-microsoft-helios-azure-deployment-july-20-2026",
+          "title": "AMD (AMD) +~3.5% premarket Monday July 20 — Microsoft to deploy AMD Helios rack-scale AI system 'at scale' on Azure joining Meta / OpenAI / Oracle / TCS as early customers; Helios stitches 72 Instinct MI455X GPUs with 31.1TB HBM4 (1.4 EFLOPS FP8 / 2.9 EFLOPS FP4), ships 2H 2026",
+          "category": "mover",
+          "note": "Monday Advancing AI keynote launches Helios rack with Microsoft as newest Azure customer; AMD's most direct answer to Nvidia NVL72 to date, with a live premarket move and rebuttal to last week's AI-capex-cut narrative."
+        },
+        {
+          "id": "baba-qwen38-max-preview-launch-july-19-2026",
+          "title": "Alibaba (BABA) +~4% premarket Monday July 20 — previews Qwen3.8-Max at WAIC Shanghai on Sunday July 19: 2.4-trillion-parameter sparse MoE multimodal (first Qwen >1T with vision), 1M-token context, Alibaba claims 'second only to Fable 5' on internal benchmarks; open-weight release promised 'soon' without date",
+          "category": "mover",
+          "note": "Sunday WAIC preview of 2.4T-param multimodal model, second Chinese frontier drop in three days after Kimi K3; BABA +~4% premarket monday. Vendor benchmark only — no independent evals yet."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna",
+        "regulatory",
+        "article",
+        "video"
+      ]
     }
   ]
 }
