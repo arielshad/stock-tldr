@@ -7710,6 +7710,65 @@
         "analyst",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260721t132556z",
+      "timestamp": "2026-07-21T13:25:56.890Z",
+      "source": "github-actions-sweep",
+      "summary": "Q2 2026 earnings-season momentum: GM and 3M both beat + raise (2nd time in 2026), STLD prints record 3.7M-ton steel shipments, DHI beats EPS but cuts FY26 revenue guide on housing affordability, Nvidia's 9.3% Nebius stake disclosed via 13G, and Nikkei scoops TSMC's 5–10% 2027 chip-price hike.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gm-q2-2026-earnings-july-21",
+          "title": "General Motors (GM) Q2 2026 — adj EPS $3.57 crushes $3.20 est on $48.0B revenue (+1.9% Y/Y); FY26 adj EBIT guide raised to $14–16B (from $13.5–15.5B) and adj EPS to $12–$14 (from $11.50–$13.50), 2nd raise of 2026; but GM -~1% premarket as $2.3B EV supplier-claims special charge sends GAAP net income to $1.305B (-31.1% Y/Y) and GAAP diluted EPS to $1.41",
+          "category": "earnings",
+          "note": "Adj EPS $3.57 vs $3.20 est, 2nd guidance raise of 2026 with EBIT-adj to $14–16B; but GAAP hit by $2.3B EV special charge and stock -1% premarket."
+        },
+        {
+          "id": "mmm-q2-2026-earnings-july-21",
+          "title": "3M (MMM) Q2 2026 — adj EPS $2.40 (+11% Y/Y) beats $2.27 est on $6.5B revenue (+2.4% Y/Y) and 5.4% adj organic growth; FY26 adj EPS guide lifted to $8.80–$8.95 (from $8.50–$8.70) as adj operating margin hits 24.9% (+40bp); MMM +5.8% premarket",
+          "category": "earnings",
+          "note": "Beat + raise + 5.8% premarket pop — 3M is the industrials-demand barometer."
+        },
+        {
+          "id": "nbis-nvda-93pct-stake-13g-july-20-2026",
+          "title": "Nebius (NBIS) +5.7% premarket Tuesday July 21 after Nvidia (NVDA) discloses 9.3% stake in AI-cloud provider via Schedule 13G filed July 13 and released Monday July 20 evening — ~22.26M shares (~1.19M common + ~21M warrant from prior $2B strategic investment); Freedom Capital upgrades to Buy with $200 PT (from $159)",
+          "category": "mover",
+          "note": "Nvidia's 13G disclosure of 9.3% Nebius stake formalizes AI-neocloud alignment; NBIS +5.7% premarket, analyst PT upgrades."
+        },
+        {
+          "id": "tsm-2027-price-hike-nikkei-july-21-2026",
+          "title": "TSMC (TSM) +3.68% premarket Tuesday July 21 after Nikkei Asia reports 5–10% chip-manufacturing price hike for 2027 across advanced and mature nodes (12/16/28nm); HPC customers needing above-plan capacity face additional 10–15% premium, effective January 2027; TSMC CEO C.C. Wei calls pricing 'strategic, not opportunistic'",
+          "category": "sector",
+          "note": "Nikkei scoop on TSMC's 5–10% 2027 chip-price hike with HPC premium — pricing-power confirmation for AI capex-inflation thesis, TSM +3.68% premarket."
+        },
+        {
+          "id": "dhi-q3-fy26-earnings-july-21",
+          "title": "D.R. Horton (DHI) fiscal Q3 2026 (quarter ended June 30) — diluted EPS $3.20 beats $3.07 est (but down from $3.36 Y/Y) on $9.227B revenue (flat Y/Y) and 23,983 homes closed (+4% Y/Y); FY26 revenue guide CUT to $32.5–$33.0B (from $33.5–$34.5B) and closings to 83,800–84,300 (from 86,000–87,500) as buyer incentives and higher construction costs compress margins",
+          "category": "earnings",
+          "note": "EPS beat but FY26 revenue and closings guide CUT — margin compression from buyer incentives + construction costs is the tell."
+        },
+        {
+          "id": "stld-q2-2026-earnings-july-20",
+          "title": "Steel Dynamics (STLD) Q2 2026 (reported AH Monday July 20) — record steel shipments 3.7M tons on $6.1B net sales (+33.4% Y/Y, +17% surprise vs $5.2B est); diluted EPS $3.69 vs $3.56 est (vs $2.01 Y/Y) on $534M net income; adj EBITDA $921M and $200M Q2 buybacks; average external steel price up $105/ton sequentially to $1,298/ton as ferrous scrap only added $16/ton",
+          "category": "earnings",
+          "note": "Record 3.7M-ton shipments and +$105/ton sequential price gain drive massive top-line beat; cleanest US steel-cycle read into NUE and CLF."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "insider",
+        "sector",
+        "housing",
+        "semis"
+      ]
     }
   ]
 }

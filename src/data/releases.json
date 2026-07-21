@@ -1,8 +1,434 @@
 {
-  "generatedAt": "2026-07-21T01:33:37.570Z",
+  "generatedAt": "2026-07-21T13:25:56.890Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "gm-q2-2026-earnings-july-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "General Motors (GM) Q2 2026 — adj EPS $3.57 crushes $3.20 est on $48.0B revenue (+1.9% Y/Y); FY26 adj EBIT guide raised to $14–16B (from $13.5–15.5B) and adj EPS to $12–$14 (from $11.50–$13.50), 2nd raise of 2026; but GM -~1% premarket as $2.3B EV supplier-claims special charge sends GAAP net income to $1.305B (-31.1% Y/Y) and GAAP diluted EPS to $1.41",
+      "org": "General Motors",
+      "date": "2026-07-21",
+      "url": "https://www.prnewswire.com/news-releases/gm-releases-2026-second-quarter-results-raises-full-year-2026-guidance-and-declares-quarterly-dividend-302830216.html",
+      "summary": "GM Q2 2026: adj EPS $3.57 vs $3.20 est on $48.0B rev; FY26 adj EBIT guide lifted to $14–16B and adj EPS to $12–14, but stock slips ~1% premarket as $2.3B EV charge cuts GAAP NI 31% to $1.31B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q2-2026",
+        "autos",
+        "ev-charge",
+        "tariffs",
+        "gm",
+        "gmna"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GM",
+        "F",
+        "STLA"
+      ],
+      "metrics": {
+        "EPS": "$3.57 adj vs $3.20 est",
+        "Revenue": "$48.0B (+1.9% Y/Y)",
+        "EBIT-adj": "$3.94B (+29.8% Y/Y)",
+        "GAAP NI": "$1.305B (-31.1% Y/Y)",
+        "GAAP EPS": "$1.41 (-26% Y/Y)",
+        "GMNA margin": "8.6% (+2.5pt)",
+        "Move": "-~1% premarket"
+      },
+      "explainer": {
+        "tagline": "GM crushes adj EPS and raises FY guide for the 2nd time in 2026, but a $2.3B EV special charge caps GAAP and the stock dips premarket",
+        "whatIsIt": "General Motors reported Q2 2026 results Tuesday morning July 21, beating adjusted EPS at $3.57 (vs $3.20 consensus) on $48.0B revenue (+1.9% Y/Y), and raised its full-year 2026 EBIT-adjusted guidance to $14–16B and adj EPS to $12–14 — the second guidance lift of 2026.",
+        "howItWorks": "EBIT-adjusted came in at $3.943B (+29.8% Y/Y) with GMNA margin 8.6% (up 2.5pt) as consistent transaction prices (~$52,000 avg), lower warranty costs, narrowing EV losses, and #1 US position by unit sales drove operating strength. GAAP net income was $1.305B (-31.1% Y/Y) and diluted GAAP EPS $1.41 (-26%) after a $2.3B mostly-EV special charge for supplier-claim settlements. Tariff cost forecast held at $2.5–3.5B for the year. Board declared $0.18/sh dividend payable September 17. Adjusted automotive FCF surged 78% Y/Y to $5.0B in the quarter.",
+        "whyItMatters": "GM's second consecutive 2026 guide raise signals US auto pricing is holding despite tariffs, warranty pressure fading, and the multi-billion EV write-down is largely behind them. The ~1% premarket dip reflects headline GAAP weakness and skepticism about tariff pass-through. Read-through to Ford (F) and Stellantis (STLA) on North American margin durability, and to Rivian (RIVN) on GM's continued EV pullback.",
+        "forWho": "auto sector traders and North American cyclicals"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/36D4DDEF6532A659E5DF90637DC2A45D1E1A33FCBC76D7A3C7492658C0A22A07/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_free_press_natl_articles_245%2Ffda86f39fc677e618d517b8c1732c5ea",
+        "alt": "General Motors Detroit headquarters signage",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "GM Press Release",
+          "url": "https://www.prnewswire.com/news-releases/gm-releases-2026-second-quarter-results-raises-full-year-2026-guidance-and-declares-quarterly-dividend-302830216.html"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-reports-stronger-expected-110226876.html"
+        },
+        {
+          "label": "GM 8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000804269/000080426926000018/a2q26gmfearningsrelease.htm"
+        },
+        {
+          "label": "GM Chart",
+          "url": "https://finance.yahoo.com/quote/GM"
+        }
+      ],
+      "reddit": {
+        "title": "GM Q2 crushes: adj EPS $3.57 vs $3.20 est, $48B revenue, FY guide raised for the 2nd time — but stock slips premarket on $2.3B EV charge",
+        "body": "GM printed a beat-and-raise Tuesday morning but the tape doesn't care because a $2.3B EV-related special charge tanks the GAAP line.\n\n* Adjusted EPS **$3.57** vs $3.20 consensus (+41% Y/Y)\n* Revenue **$48.0B** (+1.9% Y/Y), beats by ~$1B\n* EBIT-adjusted **$3.94B** (+30% Y/Y); GMNA margin 8.6% (+2.5pt)\n* GAAP net income **$1.31B** (-31% Y/Y) after $2.3B EV supplier-claims charge; GAAP EPS $1.41 (-26%)\n* Adj auto FCF **$5.0B** (+78% Y/Y)\n* Stock **-~1% premarket** despite the beat\n\nGuidance raised for the 2nd time in 2026:\n\n1. **EBIT-adjusted** — $14.0–16.0B (from $13.5–15.5B)\n2. **Adj diluted EPS** — $12.00–14.00 (from $11.50–13.50)\n3. **Adj automotive FCF** — $9.5–11.5B (from $9.0–11.0B)\n4. **Tariff cost estimate** — unchanged at $2.5–3.5B for FY26\n\nMary Barra's team cited consistent transaction prices (~$52K avg), lower warranty costs, and narrowing EV losses. #1 US automaker by unit sales in Q2. Board declared $0.18/sh dividend.\n\nFull breakdown: [https://stock-tldr.xyz/releases/gm-q2-2026-earnings-july-21](https://stock-tldr.xyz/releases/gm-q2-2026-earnings-july-21)"
+      },
+      "publishDate": "2026-07-21T13:25:56.890Z"
+    },
+    {
+      "id": "mmm-q2-2026-earnings-july-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "3M (MMM) Q2 2026 — adj EPS $2.40 (+11% Y/Y) beats $2.27 est on $6.5B revenue (+2.4% Y/Y) and 5.4% adj organic growth; FY26 adj EPS guide lifted to $8.80–$8.95 (from $8.50–$8.70) as adj operating margin hits 24.9% (+40bp); MMM +5.8% premarket",
+      "org": "3M",
+      "date": "2026-07-21",
+      "url": "https://www.prnewswire.com/news-releases/3m-reports-second-quarter-2026-results-increases-full-year-guidance-302830119.html",
+      "summary": "3M Q2 2026: adj EPS $2.40 vs $2.27 est on $6.5B revenue, adj organic +5.4%, adj op margin 24.9%; FY26 adj EPS guide raised to $8.80–$8.95 (from $8.50–$8.70), MMM +5.8% premarket.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q2-2026",
+        "industrials",
+        "3m",
+        "operating-margin",
+        "mmm"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MMM"
+      ],
+      "metrics": {
+        "EPS": "$2.40 adj vs $2.27 est (+11% Y/Y)",
+        "GAAP EPS": "$1.78 (+33% Y/Y)",
+        "Revenue": "$6.5B (+2.4% Y/Y)",
+        "Adj organic growth": "+5.4% Y/Y",
+        "Adj op margin": "24.9% (+40bp)",
+        "Adj FCF": "$1.3B",
+        "Move": "+5.8% premarket"
+      },
+      "explainer": {
+        "tagline": "3M beats top and bottom lines, raises FY26 adj EPS guide again, and stock pops ~6% premarket",
+        "whatIsIt": "3M reported Q2 2026 results Tuesday morning July 21 with adj EPS $2.40 (+11% Y/Y) beating the $2.27 consensus, revenue $6.5B (+2.4% Y/Y), adj organic sales +5.4%, and lifted FY26 adj EPS guide to $8.80–$8.95 (from $8.50–$8.70).",
+        "howItWorks": "GAAP EPS $1.78 (+33% Y/Y) benefited from ongoing legal-charge normalization vs prior year. Adj operating margin expanded 40bp Y/Y to 24.9%. Operating cash flow was $1.0B, adjusted FCF $1.3B, with $1.4B returned via dividends and buybacks. Updated FY26 adj sales growth guide raised to >4.5% and organic to >3.5%, with adj operating-margin expansion of 70–80bp for the year. New strategic partnerships with Microsoft and Airbus also announced. CEO Bill Brown said the print reflects a 'strong second quarter, exceeding expectations with mid-single-digit sales growth, robust operating margins of about 25%, and double-digit EPS growth.'",
+        "whyItMatters": "3M is a barometer for global industrial demand and its second FY26 raise in a row suggests broad-based end-market strength holding up despite tariff-cost pressure. Positive read-across to peers like Emerson (EMR), Honeywell (HON), and Illinois Tool Works (ITW). MMM's +5.8% premarket pop is its largest single-day move since the January guidance raise.",
+        "forWho": "industrial cyclicals traders and dividend investors"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1399097/3M-Logo.jpg?id=OA2773016&p=facebook",
+        "alt": "3M corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "3M Press Release",
+          "url": "https://www.prnewswire.com/news-releases/3m-reports-second-quarter-2026-results-increases-full-year-guidance-302830119.html"
+        },
+        {
+          "label": "3M 8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000066740/000006674026000242/q22026-8kerexx991.htm"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3m-nyse-mmm-exceeds-q2-105310493.html"
+        },
+        {
+          "label": "MMM Chart",
+          "url": "https://finance.yahoo.com/quote/MMM"
+        }
+      ],
+      "reddit": {
+        "title": "3M Q2 beat: adj EPS $2.40 vs $2.27 est, adj op margin 24.9%, FY26 adj EPS guide raised to $8.80-8.95 — MMM +5.8% premarket",
+        "body": "3M delivered a clean beat + raise Tuesday morning. Here's what hit:\n\n* Adjusted EPS **$2.40** vs $2.27 consensus (+11% Y/Y)\n* GAAP EPS **$1.78** (+33% Y/Y)\n* Revenue **$6.5B** (+2.4% Y/Y), adj organic growth +5.4% Y/Y\n* Adj operating margin **24.9%** (+40bp Y/Y)\n* Q2 op cash flow $1.0B; adj FCF $1.3B\n* $1.4B returned via dividends + buybacks\n* MMM **+5.8% premarket**\n\nRaised FY26 guide:\n\n1. **Adj EPS** — $8.80–$8.95 (from $8.50–$8.70)\n2. **Adj sales growth** — >4.5%\n3. **Adj organic** — >3.5%\n4. **Adj op-margin expansion** — 70–80bp for FY\n\nCEO Bill Brown: 'strong second quarter, exceeding expectations… double-digit EPS growth.' Also announced strategic partnerships with Microsoft and Airbus.\n\nRead-through to Emerson (EMR), Honeywell (HON), Illinois Tool Works (ITW) on industrial end-market demand.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mmm-q2-2026-earnings-july-21](https://stock-tldr.xyz/releases/mmm-q2-2026-earnings-july-21)"
+      },
+      "publishDate": "2026-07-21T13:25:56.890Z"
+    },
+    {
+      "id": "nbis-nvda-93pct-stake-13g-july-20-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "Nebius (NBIS) +5.7% premarket Tuesday July 21 after Nvidia (NVDA) discloses 9.3% stake in AI-cloud provider via Schedule 13G filed July 13 and released Monday July 20 evening — ~22.26M shares (~1.19M common + ~21M warrant from prior $2B strategic investment); Freedom Capital upgrades to Buy with $200 PT (from $159)",
+      "org": "Nvidia",
+      "date": "2026-07-20",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-shares-climb-nvidia-reveals-105253442.html",
+      "summary": "Nvidia disclosed 9.3% stake in AI-cloud (neocloud) firm Nebius via Schedule 13G filed July 13, released Monday July 20 evening — ~22.26M shares including warrant from $2B strategic investment; NBIS +5.7% premarket July 21 as Freedom Capital upgrades to Buy with $200 PT.",
+      "tags": [
+        "insider",
+        "13g",
+        "ai-capex",
+        "neocloud",
+        "nvda",
+        "nbis",
+        "stake-disclosure",
+        "sec-filing"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NBIS",
+        "NVDA"
+      ],
+      "metrics": {
+        "NVDA stake": "9.3% (~22.26M shares)",
+        "Prior investment": "$2B strategic",
+        "Move (NBIS)": "+5.7% premarket",
+        "Freedom Capital PT": "$200 (up from $159)",
+        "Northland PT": "$410 (Outperform)",
+        "BofA PT": "$280 (Buy)"
+      },
+      "explainer": {
+        "tagline": "Nvidia's 9.3% Nebius stake, disclosed via Schedule 13G Monday evening, sends NBIS +5.7% premarket and unlocks analyst upgrades",
+        "whatIsIt": "Nvidia filed a Schedule 13G with the SEC dated July 13, made public Monday evening July 20, disclosing a 9.3% beneficial ownership in Amsterdam-based AI-cloud ('neocloud') provider Nebius Group NV (NBIS). The stake comprises ~22.26M shares — ~1.19M common shares plus ~21M shares tied to a warrant from Nvidia's previously announced $2B strategic investment. NBIS opened Tuesday July 21 +5.7% premarket.",
+        "howItWorks": "The disclosure makes Nvidia one of Nebius's largest holders. The warrant portion is not exercisable until September 11, 2026. Nebius, spun out of Yandex, targets 5+ GW of AI compute capacity by 2030 and is both an Nvidia customer and partner. Analyst reaction was bullish: Freedom Capital upgraded to Buy from Hold with a $200 PT (from $159), Northland Outperform with a $410 PT, and BofA reiterated Buy with a $280 PT. Nebius reports Q2 2026 earnings on July 29.",
+        "whyItMatters": "The 13G formalizes Nvidia's alignment with the fast-growing neocloud tier that competes with hyperscalers (AWS/Azure/GCP) for AI compute. Positive read-through for CoreWeave (CRWV) and other GPU-cloud specialists as the market prices Nvidia's supply-chain investments as durable partnerships. NBIS has gained ~250% over the past 12 months and its market cap sits ~$46B.",
+        "forWho": "AI-infrastructure traders and neocloud sector followers",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NBIS&type=SC+13"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/9FF96E71523EBE677B744EE3D71CA1CD036CC0E684CC13B22F494F55A3885CE7/subgraphmysterio/resizefill_w1200_h659;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F502114410869f906cf47db4d52741509",
+        "alt": "Nebius and Nvidia corporate logos composite",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-shares-climb-nvidia-reveals-105253442.html"
+        },
+        {
+          "label": "CryptoBriefing Coverage",
+          "url": "https://cryptobriefing.com/nebius-stock-surges-nvidia-9-percent-stake/"
+        },
+        {
+          "label": "Benzinga Analysis",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60570158/the-nvidia-effect-why-ai-cloud-play-nebius-is-surging-right-now"
+        },
+        {
+          "label": "NBIS Chart",
+          "url": "https://finance.yahoo.com/quote/NBIS"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia discloses 9.3% stake in Nebius via 13G — NBIS +5.7% premarket, Freedom Capital upgrades to Buy with $200 PT",
+        "body": "Nvidia filed a Schedule 13G Monday evening disclosing a 9.3% beneficial-ownership position in Amsterdam AI-cloud (neocloud) firm Nebius Group. Here's the shape:\n\n* Total stake **9.3%** — ~22.26M shares\n* ~1.19M common shares + ~21M shares tied to a warrant from NVDA's prior **$2B strategic investment**\n* Warrant not exercisable before **September 11, 2026**\n* NBIS **+5.7% premarket** Tuesday July 21\n* Stock up ~250% over past 12 months; market cap ~$46B\n\nAnalyst reaction:\n\n1. **Freedom Capital** — upgrades to Buy from Hold, PT $200 (from $159)\n2. **Northland** — Outperform, PT $410\n3. **Bank of America** — reiterates Buy with $280 PT\n\nNebius is spun out of Yandex, targets 5+ GW of AI compute by 2030, and is both an Nvidia customer and partner. Q2 2026 earnings hit July 29.\n\nRead-through to CoreWeave (CRWV) and other neocloud specialists — market pricing NVDA's supply-chain investments as durable partnerships.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nbis-nvda-93pct-stake-13g-july-20-2026](https://stock-tldr.xyz/releases/nbis-nvda-93pct-stake-13g-july-20-2026)"
+      },
+      "publishDate": "2026-07-21T13:25:56.890Z"
+    },
+    {
+      "id": "tsm-2027-price-hike-nikkei-july-21-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "TSMC (TSM) +3.68% premarket Tuesday July 21 after Nikkei Asia reports 5–10% chip-manufacturing price hike for 2027 across advanced and mature nodes (12/16/28nm); HPC customers needing above-plan capacity face additional 10–15% premium, effective January 2027; TSMC CEO C.C. Wei calls pricing 'strategic, not opportunistic'",
+      "org": "TSMC",
+      "date": "2026-07-21",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60571554/brace-for-pricier-chips-taiwan-semiconductor-reportedly-plans-up-to-10-price-hike",
+      "summary": "Nikkei Asia scoop Tuesday July 21: TSMC to raise chip-manufacturing prices 5–10% in 2027 across advanced and mature nodes (12/16/28nm), with HPC above-plan capacity facing +10–15% premium; TSM ADRs +3.68% premarket.",
+      "tags": [
+        "sector",
+        "semis",
+        "tsmc",
+        "pricing-power",
+        "ai-capex",
+        "nikkei-scoop",
+        "2027-pricing",
+        "tsm"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TSM"
+      ],
+      "metrics": {
+        "Base price hike": "5–10% across nodes",
+        "Mature (12/16/28nm)": "up to 10%",
+        "HPC above-plan premium": "+10–15%",
+        "Effective": "January 2027",
+        "Move (TSM)": "+3.68% premarket"
+      },
+      "explainer": {
+        "tagline": "Nikkei says TSMC will raise chip-making prices 5–10% in 2027 with a 10–15% surcharge on above-plan HPC capacity",
+        "whatIsIt": "Nikkei Asia broke Tuesday July 21 that TSMC plans to raise chip-manufacturing prices 5–10% across both advanced and mature nodes (including 12/16/28nm) beginning January 2027, with customers requesting HPC capacity above their original volumes paying an additional 10–15% premium. Negotiations ran June through July. TSM ADRs opened +3.68% premarket at ~$417.11.",
+        "howItWorks": "The hike offsets rising costs for materials, production equipment, and the buildout of overseas fabs, notably the $265B expansion in Arizona. CEO C.C. Wei said the company's 'pricing strategy is strategic, not opportunistic' and TSMC will 'continue to work closely with customers and sell our value to them.' The move follows TSMC's Q2 print last week that lifted FY26 revenue growth outlook to >40% and FY26 CapEx to $60–$64B. Wei previewed 'measured' pricing intent at the June shareholder meeting.",
+        "whyItMatters": "Confirms TSMC's pricing power in an AI-constrained supply environment and passes cost through to Nvidia, AMD, Apple, Broadcom, Qualcomm, Marvell — a small but real headwind for gross-margin models across the fabless complex. Bullish for TSM (higher revenue at similar volumes) and reinforces the AI capex-inflation narrative. Bearish tail risk for margin-constrained fabless names on advanced nodes that can't fully pass hikes through.",
+        "forWho": "semi sector traders and AI-infrastructure investors"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/21/Taiwan-Semiconductor-Manufacturing-Compa.jpg",
+        "alt": "Taiwan Semiconductor Manufacturing fab exterior",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60571554/brace-for-pricier-chips-taiwan-semiconductor-reportedly-plans-up-to-10-price-hike"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-raise-chipmaking-prices-10-083253027.html"
+        },
+        {
+          "label": "Tom's Hardware Coverage",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes"
+        },
+        {
+          "label": "TSM Chart",
+          "url": "https://finance.yahoo.com/quote/TSM"
+        }
+      ],
+      "reddit": {
+        "title": "TSMC to raise chip-making prices 5-10% in 2027 with 10-15% HPC surcharge — Nikkei scoop, TSM +3.68% premarket",
+        "body": "Nikkei Asia broke Tuesday morning that TSMC has finalized 2027 pricing:\n\n* Base price hikes **5–10%** across both advanced and mature nodes\n* Mature nodes (12nm/16nm/28nm) up to **10%**\n* HPC customers needing capacity above their original volume book an additional **10–15% premium**\n* New pricing effective **January 2027**\n* TSM ADRs **+3.68% premarket**, reached $417.11\n\nWhat this actually means:\n\n1. **Pricing power confirmed** — negotiations ran June through July; the hike offsets materials, equipment, and $265B Arizona buildout costs.\n2. **AI capex inflation** — every fabless customer (NVDA, AMD, AAPL, AVGO, QCOM, MRVL) pays more. Bullish for TSM revenue at flat volumes.\n3. **Margin passthrough risk** — margin-constrained fabless names on leading edge take the hit if they can't fully pass through.\n\nComes after last week's TSMC Q2 print that raised FY26 revenue growth to >40% and FY26 CapEx to $60–64B. CEO C.C. Wei called it 'strategic, not opportunistic.'\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsm-2027-price-hike-nikkei-july-21-2026](https://stock-tldr.xyz/releases/tsm-2027-price-hike-nikkei-july-21-2026)"
+      },
+      "publishDate": "2026-07-21T13:25:56.890Z"
+    },
+    {
+      "id": "dhi-q3-fy26-earnings-july-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "D.R. Horton (DHI) fiscal Q3 2026 (quarter ended June 30) — diluted EPS $3.20 beats $3.07 est (but down from $3.36 Y/Y) on $9.227B revenue (flat Y/Y) and 23,983 homes closed (+4% Y/Y); FY26 revenue guide CUT to $32.5–$33.0B (from $33.5–$34.5B) and closings to 83,800–84,300 (from 86,000–87,500) as buyer incentives and higher construction costs compress margins",
+      "org": "D.R. Horton",
+      "date": "2026-07-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000882184/000088218426000062/a3312026exhibit991.htm",
+      "summary": "D.R. Horton fiscal Q3 2026 (June 30): EPS $3.20 vs $3.07 est on $9.23B revenue (flat Y/Y), 23,983 closings (+4%); but CUTS FY26 revenue guide to $32.5–$33.0B and closings to 83,800–84,300 as buyer incentives and construction costs weigh.",
+      "tags": [
+        "earnings",
+        "homebuilder",
+        "guidance-cut",
+        "eps-beat",
+        "housing",
+        "q3-fy26",
+        "dhi",
+        "affordability"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DHI",
+        "LEN",
+        "PHM"
+      ],
+      "metrics": {
+        "EPS": "$3.20 vs $3.07 est (from $3.36 Y/Y)",
+        "Revenue": "$9.227B (flat Y/Y)",
+        "Homes closed": "23,983 (+4% Y/Y)",
+        "Net income": "$904.9M (vs $1.025B Y/Y)",
+        "FY26 revenue guide": "$32.5–$33.0B (cut from $33.5–$34.5B)",
+        "FY26 closings guide": "83,800–84,300 (cut from 86,000–87,500)",
+        "Move": "+0.42% premarket"
+      },
+      "explainer": {
+        "tagline": "D.R. Horton beats EPS but slashes FY26 revenue and closings outlook as buyer incentives and construction costs bite",
+        "whatIsIt": "America's largest homebuilder D.R. Horton reported fiscal Q3 2026 (quarter ended June 30) on Tuesday morning July 21, printing diluted EPS $3.20 (beating $3.07 consensus but down from $3.36 Y/Y) on $9.227B revenue (essentially flat vs $9.226B Y/Y) with 23,983 homes closed (+4% Y/Y). But it CUT full-year FY26 revenue guide to $32.5–$33.0B (from $33.5–$34.5B) and closings guide to 83,800–84,300 (from 86,000–87,500).",
+        "howItWorks": "Net income was $904.9M (down from $1.025B Y/Y) despite the closings volume gain, reflecting margin compression from mortgage-rate buydowns, price incentives, and higher construction costs needed to move product with mortgage rates still elevated. Homebuilding segment revenue $8.69B (+1.2% Y/Y). DHI ticked +0.42% premarket as the modest EPS beat offset the guidance cut. Company retained ~38,000 homes in inventory.",
+        "whyItMatters": "The largest US homebuilder's guide cut signals that housing demand at prevailing mortgage rates requires progressively larger incentives to clear inventory — bearish read-through for Lennar (LEN), NVR, PulteGroup (PHM) and the XHB ETF. Combined with last week's +19% June housing starts print, the market is getting a mixed housing signal: supply is coming in but end-buyer economics remain strained. Reinforces the Fed-cut narrative for anyone watching housing as a rate-cut proxy.",
+        "forWho": "homebuilder traders and housing / rates-macro watchers"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/D._R._Horton_logo.svg/1280px-D._R._Horton_logo.svg.png",
+        "alt": "D.R. Horton corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "DHI 8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000882184/000088218426000062/a3312026exhibit991.htm"
+        },
+        {
+          "label": "Yahoo Preview",
+          "url": "https://finance.yahoo.com/real-estate/articles/know-ahead-d-r-horton-102654309.html"
+        },
+        {
+          "label": "RTT News Recap",
+          "url": "https://www.rttnews.com/3668823/d-r-horton-q3-profit-falls-revenue-remains-flat-cuts-full-year-revenue-outlook-update.aspx"
+        },
+        {
+          "label": "DHI Chart",
+          "url": "https://finance.yahoo.com/quote/DHI"
+        }
+      ],
+      "reddit": {
+        "title": "D.R. Horton Q3 FY26 beats EPS but CUTS FY26 revenue guide to $32.5-33B and closings to 83,800-84,300",
+        "body": "America's largest homebuilder printed a mixed quarter Tuesday morning:\n\n* Diluted EPS **$3.20** vs $3.07 est (but down from $3.36 Y/Y)\n* Revenue **$9.227B** (flat Y/Y vs $9.226B)\n* Net income **$904.9M** vs $1.025B\n* Homes closed **23,983** (+4% Y/Y)\n* Homebuilding revenue $8.69B (+1.2%)\n* DHI **+0.42% premarket**\n\nGuidance CUT for the full fiscal year:\n\n1. **FY26 revenue** — $32.5–33.0B (from $33.5–34.5B) — below $33.67B consensus\n2. **FY26 closings** — 83,800–84,300 (from 86,000–87,500)\n\nThe why: mortgage-rate buydowns, price incentives, and rising construction costs are chewing margins as DHI works to keep buyers moving at still-elevated mortgage rates.\n\nRead-through to Lennar (LEN), NVR, PulteGroup (PHM) and the XHB. Combined with June's +19% housing starts, market is getting a mixed housing signal: more supply coming in but end-buyer economics strained.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dhi-q3-fy26-earnings-july-21](https://stock-tldr.xyz/releases/dhi-q3-fy26-earnings-july-21)"
+      },
+      "publishDate": "2026-07-21T13:25:56.890Z"
+    },
+    {
+      "id": "stld-q2-2026-earnings-july-20",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Steel Dynamics (STLD) Q2 2026 (reported AH Monday July 20) — record steel shipments 3.7M tons on $6.1B net sales (+33.4% Y/Y, +17% surprise vs $5.2B est); diluted EPS $3.69 vs $3.56 est (vs $2.01 Y/Y) on $534M net income; adj EBITDA $921M and $200M Q2 buybacks; average external steel price up $105/ton sequentially to $1,298/ton as ferrous scrap only added $16/ton",
+      "org": "Steel Dynamics",
+      "date": "2026-07-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001022671/000110465926075470/tm2618235d1_ex99-1.htm",
+      "summary": "STLD Q2 2026 (AH July 20): record 3.7M-ton steel shipments on $6.1B revenue (+33% Y/Y; +17% surprise), EPS $3.69 vs $3.56 est, adj EBITDA $921M, $200M buybacks. Avg external steel price $1,298/ton (+$105 sequentially).",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "steel",
+        "record-shipments",
+        "aluminum",
+        "q2-2026",
+        "stld"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "STLD",
+        "NUE",
+        "CLF"
+      ],
+      "metrics": {
+        "EPS": "$3.69 vs $3.56 est (vs $2.01 Y/Y)",
+        "Revenue": "$6.1B (+33.4% Y/Y; +17% surprise)",
+        "Steel shipments": "3.7M tons (record)",
+        "Avg steel price": "$1,298/ton (+$105 seq)",
+        "Adj EBITDA": "$921M",
+        "Op income": "$700M",
+        "Buybacks (Q2)": "$200M",
+        "Impairment": "$16M non-cash (AZ→MS)"
+      },
+      "explainer": {
+        "tagline": "Steel Dynamics posts record 3.7M-ton shipments and blows past revenue estimates as $105/ton sequential price gain flows through",
+        "whatIsIt": "Steel Dynamics reported Q2 2026 after the close Monday July 20 with record steel shipments of 3.7M tons on $6.1B revenue (+33.4% Y/Y), a +17% beat vs the $5.2B Zacks consensus. Diluted EPS $3.69 topped the $3.56 estimate and nearly doubled the $2.01 Y/Y comp. Net income was $534M (vs $269M) and adjusted EBITDA $921M.",
+        "howItWorks": "Average external steel price rose $105/ton sequentially to $1,298/ton while ferrous scrap cost only added $16/ton to $412/ton — the widening spread drove operating income to $700M. Aluminum flat-rolled sheet operations produced 53,000 metric tons in the quarter. Cash from operations was $428M. Capital returns: $200M stock repurchases and $77M dividends. STLD recorded a $16M non-cash impairment for relocating its planned second aluminum recycled-slab center from Arizona to Columbus, MS. Six-month net income $938M vs $516M (+82% H1).",
+        "whyItMatters": "STLD is the cleanest US steel-cycle read given its scrap-based mini-mill model. Record shipments + expanding spreads confirm strong end-market steel demand and pricing power — bullish read-across to Nucor (NUE) and Cleveland-Cliffs (CLF, reports July 23). Aluminum ramp positions STLD for the 2H auto-body build cycle. Stock dipped ~1% post-report as investors focused on the impairment note and forward-mix commentary.",
+        "forWho": "steel-cycle traders and industrial commodities investors"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS595643/Steel-Dynamics-Logo.jpg?id=OA2772658",
+        "alt": "Steel Dynamics corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "STLD 8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001022671/000110465926075470/tm2618235d1_ex99-1.htm"
+        },
+        {
+          "label": "STLD IR Release",
+          "url": "https://ir.steeldynamics.com/steel-dynamics-reports-second-quarter-2026-results/"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stld-q2-earnings-223002468.html"
+        },
+        {
+          "label": "STLD Chart",
+          "url": "https://finance.yahoo.com/quote/STLD"
+        }
+      ],
+      "reddit": {
+        "title": "Steel Dynamics Q2: record 3.7M-ton shipments, $6.1B revenue (+33% Y/Y) beats est by 17%, EPS $3.69 vs $3.56 est",
+        "body": "STLD dropped Q2 2026 results after Monday's close and it was a monster print:\n\n* Diluted EPS **$3.69** vs $3.56 est (vs $2.01 Y/Y, +84%)\n* Net sales **$6.1B** (+33.4% Y/Y, beats $5.2B est by +17%)\n* Net income **$534M** vs $269M Y/Y\n* Record steel shipments **3.7M tons**\n* Adjusted EBITDA **$921M**; operating income $700M\n* Average external steel price **$1,298/ton** (+$105 sequentially)\n* Ferrous scrap cost only +$16/ton to $412/ton\n* Q2 buybacks **$200M**; dividends $77M\n* Aluminum flat-rolled produced **53,000 metric tons**\n* Cash from ops $428M; liquidity $2.0B\n\nOne-off: $16M non-cash impairment for relocating the second aluminum recycled-slab center from Arizona to Columbus, Mississippi.\n\nRead-through to Nucor (NUE) and Cleveland-Cliffs (CLF, reports July 23) on US steel-cycle strength — widening spread and record volumes confirm strong end-market pricing power.\n\nFull breakdown: [https://stock-tldr.xyz/releases/stld-q2-2026-earnings-july-20](https://stock-tldr.xyz/releases/stld-q2-2026-earnings-july-20)"
+      },
+      "publishDate": "2026-07-21T13:25:56.890Z"
+    },
     {
       "id": "trump-canada-50-tariff-section-338-july-20-2026",
       "categories": [
