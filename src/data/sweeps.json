@@ -7671,6 +7671,45 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260721t013337z",
+      "timestamp": "2026-07-21T01:33:37.570Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Monday July 20 items: Trump's 50% Section 338 tariff on ~$20B of Canadian autos/alcohol/dairy; BofA's Wamsi Mohan trims Apple's near-term gross margin outlook (AAPL -2.11%); and the CDC cyclosporiasis outbreak spills from Taco Bell to sink CMG -3.95% and SG -5.86%.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-canada-50-tariff-section-338-july-20-2026",
+          "title": "Trump imposes 50% tariff on Canadian autos, alcohol and dairy under Section 338 of the 1930 Tariff Act on Monday July 20 — covers ~$20B of goods including milk/cream, hockey equipment and wine; oil, potash, fish, critical minerals and existing Section 232 steel/auto duties excluded, effective in 30 days",
+          "category": "macro",
+          "note": "First deployment of Section 338 of the 1930 Tariff Act in modern trade policy — major escalation with USMCA already in non-renewal limbo."
+        },
+        {
+          "id": "aapl-bofa-margin-caution-note-july-20-2026",
+          "title": "Apple (AAPL) -2.11% to $326.69 on Monday July 20 — BofA's Wamsi Mohan trims Q3 FY26 gross margin estimate 190bp to 36.8% and Q4 FY26 to 34.1% on memory / component cost pressure; keeps Buy rating and $380 price target with rebound above 38% expected in Q1 FY27",
+          "category": "analyst",
+          "note": "Mega-cap AAPL move on a major sell-side margin cut ~10 days before Q3 FY26 earnings; concretizes the NAND/DRAM pass-through into consumer-hardware margins."
+        },
+        {
+          "id": "cyclospora-outbreak-fast-casual-slide-july-20-2026",
+          "title": "Chipotle (CMG) -3.95% and Sweetgreen (SG) -5.86% on Monday July 20 — Placer.ai shows Taco Bell foot traffic -18.9% on Friday July 17, Chipotle -6.9%, CAVA -4.2% as CDC's 2026 cyclosporiasis outbreak (1,645 lab-confirmed cases and 141 hospitalizations across 34 states as of July 13) is traced to Taylor Farms iceberg lettuce served at Taco Bell",
+          "category": "mover",
+          "note": "Multi-name mover with regulatory backdrop — CDC/FDA-driven food-safety event with Placer.ai foot-traffic quantification across the fast-casual complex."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "analyst",
+        "mover"
+      ]
     }
   ]
 }

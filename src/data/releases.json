@@ -1,8 +1,238 @@
 {
-  "generatedAt": "2026-07-20T14:01:12.214Z",
+  "generatedAt": "2026-07-21T01:33:37.570Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-canada-50-tariff-section-338-july-20-2026",
+      "categories": [
+        "macro",
+        "regulatory"
+      ],
+      "title": "Trump imposes 50% tariff on Canadian autos, alcohol and dairy under Section 338 of the 1930 Tariff Act on Monday July 20 — covers ~$20B of goods including milk/cream, hockey equipment and wine; oil, potash, fish, critical minerals and existing Section 232 steel/auto duties excluded, effective in 30 days",
+      "org": "White House",
+      "date": "2026-07-20",
+      "url": "https://finance.yahoo.com/economy/article/trump-announces-50-tariffs-focused-on-canadian-autos-dairy-and-alcohol-in-response-to-continued-discrimination-211628074.html",
+      "summary": "Trump signs three proclamations imposing 50% tariffs on ~$20B of Canadian autos, alcohol and dairy under Section 338 of the 1930 Tariff Act; oil, potash, fish and critical minerals excluded, effective in 30 days.",
+      "tags": [
+        "tariffs",
+        "canada",
+        "trade-war",
+        "section-338",
+        "1930-tariff-act",
+        "usmca",
+        "autos",
+        "dairy",
+        "alcohol",
+        "trump",
+        "trade-policy"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Tariff rate": "50%",
+        "Legal authority": "Section 338 of Tariff Act of 1930",
+        "Effective in": "30 days",
+        "Coverage": "~$20B Canadian goods",
+        "Auto proclamation length": "18 pages of eligible goods"
+      },
+      "explainer": {
+        "tagline": "Trump signs three proclamations imposing 50% tariff on Canadian autos, alcohol and dairy under Section 338; ~$20B of goods, effective in 30 days.",
+        "whatIsIt": "President Trump on Monday July 20 signed three proclamations levying a 50% tariff on a slate of Canadian goods spanning autos, alcohol and dairy. The administration cites Canadian retaliation against prior U.S. tariffs and provincial boycotts of U.S. alcoholic beverages plus quota limits on U.S. cheese as the trigger. The action follows the July 1 U.S. decision not to renew USMCA at its first joint review.",
+        "howItWorks": "The tariffs are levied under Section 338 of the Tariff Act of 1930 — a rarely used provision authorizing duties of up to 50% on countries the President finds to have discriminated against U.S. commerce. The auto proclamation alone lists 18 pages of eligible goods; other line items include milk and cream, hockey equipment and wine. Excluded: oil, potash, fish, critical minerals and goods already carrying Section 232 national-security duties (steel and many auto parts). The duties take effect 30 days after signing on roughly $20B of Canadian imports, opening a negotiation window.",
+        "whyItMatters": "The 30-day window sets up another round of USMCA-adjacent talks after the July 1 non-renewal. Carve-outs shield Canada's biggest export categories (energy is >$130B/year), but the auto and dairy hit lands on U.S. carmakers with cross-border supply chains and on border-state consumer prices. The Canadian Chamber of Commerce called it 'a regrettable escalation' and urged both sides to use the 30-day window for talks.",
+        "forWho": "trade desks, auto suppliers, USMCA-exposed importers",
+        "tryIt": "https://www.whitehouse.gov/presidential-actions/"
+      },
+      "image": {
+        "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26197547210310-1024x683.jpg",
+        "alt": "President Trump signs Section 338 proclamations imposing 50% tariffs on Canadian autos, alcohol and dairy",
+        "fit": "cover",
+        "credit": "AP via PBS NewsHour"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/article/trump-announces-50-tariffs-focused-on-canadian-autos-dairy-and-alcohol-in-response-to-continued-discrimination-211628074.html"
+        },
+        {
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese"
+        },
+        {
+          "label": "CNN Business",
+          "url": "https://www.cnn.com/2026/07/20/business/canada-tariffs-50-percent-trump"
+        },
+        {
+          "label": "USTR USMCA statement",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review"
+        }
+      ],
+      "reddit": {
+        "title": "Trump slaps 50% tariff on ~$20B of Canadian autos, alcohol and dairy under Section 338 of the 1930 Trade Act — effective in 30 days",
+        "body": "Trump signed three proclamations Monday July 20 imposing a 50% tariff on a slate of Canadian imports, citing 'continued discrimination' against U.S. autos, alcohol and dairy.\n\n* Legal basis: Section 338 of the **Tariff Act of 1930** — allows up to 50% duties on countries deemed to discriminate against U.S. commerce\n* Auto proclamation alone runs 18 pages of eligible goods; other items include milk, cream, wine and hockey equipment\n* Excluded: oil, potash, fish, critical minerals and goods already under Section 232 (steel, many auto parts)\n* Total coverage \\~$20B of Canadian imports\n* Effective in 30 days — opens a negotiation window\n\nWhy now:\n\n1. **USMCA non-renewal on July 1** — U.S. declined to renew at the first joint review, next Mexico round the week of July 20\n2. **Provincial boycotts** — all but two Canadian provinces halted purchases of U.S. alcoholic beverages\n3. **Dairy discrimination claim** — Trump cites Canada's cheese quotas vs. more favorable EU treatment\n\nCanadian Chamber of Commerce: 'a regrettable escalation.' Energy is \\~$130B/yr of Canada exports to the U.S. and stays carved out.\n\nNext catalysts: 30-day tariff window countdown to ~August 19; U.S.–Mexico USMCA round week of July 20.\n\nFull breakdown: [https://stock-tldr.xyz/releases/trump-canada-50-tariff-section-338-july-20-2026](https://stock-tldr.xyz/releases/trump-canada-50-tariff-section-338-july-20-2026)"
+      },
+      "publishDate": "2026-07-21T01:33:37.570Z"
+    },
+    {
+      "id": "aapl-bofa-margin-caution-note-july-20-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Apple (AAPL) -2.11% to $326.69 on Monday July 20 — BofA's Wamsi Mohan trims Q3 FY26 gross margin estimate 190bp to 36.8% and Q4 FY26 to 34.1% on memory / component cost pressure; keeps Buy rating and $380 price target with rebound above 38% expected in Q1 FY27",
+      "org": "Bank of America",
+      "date": "2026-07-20",
+      "url": "https://www.fool.com/investing/2026/07/20/why-apple-stock-dropped-today/",
+      "summary": "BofA's Wamsi Mohan trims Apple's near-term gross-margin outlook 190bp to 36.8% for Q3 FY26 and 34.1% for Q4 on memory + component costs; keeps Buy and $380 PT. AAPL -2.11% to $326.69.",
+      "tags": [
+        "aapl",
+        "apple",
+        "analyst-note",
+        "bofa",
+        "wamsi-mohan",
+        "margin-caution",
+        "memory-pricing",
+        "nand",
+        "dram",
+        "component-costs",
+        "buy-rating",
+        "price-target"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AAPL"
+      ],
+      "metrics": {
+        "AAPL Move": "-2.11%",
+        "Close": "$326.69",
+        "Q3 FY26 gross margin (revised)": "36.8% (-190bp)",
+        "Q4 FY26 gross margin (revised)": "34.1%",
+        "Q1 FY27 gross margin (expected)": ">38%",
+        "Rating": "Buy (maintained)",
+        "Price target": "$380 (maintained)"
+      },
+      "explainer": {
+        "tagline": "BofA's Wamsi Mohan cuts Apple's near-term gross margin outlook on memory + component cost pressure; Buy and $380 PT held.",
+        "whatIsIt": "BofA analyst Wamsi Mohan published a Monday note warning Apple faces a ~190bp gross-margin haircut in fiscal Q3 2026 as component prices — most notably NAND and DRAM used in iPhone and Mac — surge with AI-datacenter demand crowding out storage supply. Mohan characterizes the pressure as 'transitory' and keeps his Buy rating and $380 price target.",
+        "howItWorks": "Mohan's model now sees Q3 FY26 gross margin at 36.8% (versus prior modeling that had margins ~190bp higher) and Q4 FY26 sliding to 34.1% before rebounding above 38% by Q1 FY27. Apple has already raised Mac and iPad prices this year, and Mohan sees similar iPhone hikes ahead. His note also flags valuation (~40× earnings versus 13% long-term growth) and Tim Cook's pending departure as additional overhangs. Apple reports Q3 FY26 earnings after the close on Wednesday July 30.",
+        "whyItMatters": "The note codifies what memory-chip watchers have been trading for months: NAND/DRAM spot prices are eating consumer-electronics margins. AAPL closed -2.11% at $326.69 (~$100B market-cap loss on the day) after setting a fresh record close July 15. The margin call resets the bar into July 30 earnings — a beat now requires either a smaller memory hit than modeled or a bigger services offset.",
+        "forWho": "mega-cap desks, semis analysts, options sellers into AAPL earnings",
+        "tryIt": "https://finance.yahoo.com/quote/AAPL"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1280px-Apple_logo_black.svg.png",
+        "alt": "Apple Inc. logo",
+        "fit": "contain",
+        "credit": "Apple Inc. / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/07/20/why-apple-stock-dropped-today/"
+        },
+        {
+          "label": "Yahoo recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-stock-dropped-today-192518253.html"
+        },
+        {
+          "label": "AAPL Yahoo quote",
+          "url": "https://finance.yahoo.com/quote/AAPL"
+        },
+        {
+          "label": "Wikipedia — Apple",
+          "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+        }
+      ],
+      "reddit": {
+        "title": "AAPL -2.11% to $326.69 Monday — BofA's Mohan cuts gross margin forecast 190bp on memory pricing; keeps Buy $380 PT into July 30 earnings",
+        "body": "Apple closed -2.11% at $326.69 on Monday July 20 after BofA's Wamsi Mohan trimmed near-term margins on memory + component cost pressure. He kept the Buy rating and $380 price target.\n\n* Q3 FY26 gross margin cut \\~190bp to **36.8%**\n* Q4 FY26 gross margin now modeled at **34.1%**\n* Q1 FY27 seen rebounding **above 38%** — Mohan calls the pressure 'transitory'\n* AAPL Mac + iPad prices already raised; iPhone hikes seen ahead\n* Rough \\~$100B market-cap loss on the day\n\nThe drivers:\n\n1. **NAND / DRAM spot pricing is surging** — AI datacenters are crowding out consumer-electronics storage supply\n2. **Valuation overhang** — \\~40× earnings against \\~13% long-term growth\n3. **CEO succession** — Tim Cook's pending departure is now in the model\n\nNext catalysts: Apple Q3 FY26 earnings after the close **Wednesday July 30**.\n\nFull breakdown: [https://stock-tldr.xyz/releases/aapl-bofa-margin-caution-note-july-20-2026](https://stock-tldr.xyz/releases/aapl-bofa-margin-caution-note-july-20-2026)"
+      },
+      "publishDate": "2026-07-21T01:33:37.570Z"
+    },
+    {
+      "id": "cyclospora-outbreak-fast-casual-slide-july-20-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Chipotle (CMG) -3.95% and Sweetgreen (SG) -5.86% on Monday July 20 — Placer.ai shows Taco Bell foot traffic -18.9% on Friday July 17, Chipotle -6.9%, CAVA -4.2% as CDC's 2026 cyclosporiasis outbreak (1,645 lab-confirmed cases and 141 hospitalizations across 34 states as of July 13) is traced to Taylor Farms iceberg lettuce served at Taco Bell",
+      "org": "Yum Brands",
+      "date": "2026-07-20",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/yum-cmg-sg-stocks-slide-212734994.html",
+      "summary": "Chipotle -3.95%, Sweetgreen -5.86%, Yum -0.36% on Monday as Placer.ai shows Taco Bell foot traffic -18.9% Friday after CDC ties multi-state cyclosporiasis outbreak (1,645 confirmed cases, 141 hospitalized) to Taylor Farms iceberg lettuce.",
+      "tags": [
+        "cyclospora",
+        "cyclosporiasis",
+        "food-safety",
+        "restaurants",
+        "yum",
+        "chipotle",
+        "sweetgreen",
+        "cava",
+        "taco-bell",
+        "cdc",
+        "fda",
+        "iceberg-lettuce",
+        "taylor-farms",
+        "foot-traffic",
+        "placer-ai"
+      ],
+      "importance": "major",
+      "tickers": [
+        "YUM",
+        "CMG",
+        "SG",
+        "CAVA"
+      ],
+      "metrics": {
+        "CMG Move": "-3.95%",
+        "SG Move": "-5.86%",
+        "YUM Move": "-0.36%",
+        "Taco Bell foot traffic (Fri Jul 17)": "-18.9% vs YTD Friday avg",
+        "Chipotle foot traffic": "-6.9%",
+        "CAVA foot traffic": "-4.2%",
+        "CDC confirmed cases (as of Jul 13)": "1,645 across 34 states",
+        "Hospitalizations": "141",
+        "Additional cases under review": "~5,100"
+      },
+      "explainer": {
+        "tagline": "CDC's 2026 cyclosporiasis outbreak — traced to Taylor Farms iceberg lettuce at Taco Bell — sinks fast-casual traffic and shares across the group.",
+        "whatIsIt": "The CDC's ongoing 2026 cyclosporiasis outbreak — 1,645 laboratory-confirmed cases and 141 hospitalizations across 34 states as of July 13, with ~5,100 additional cases awaiting confirmation — has hammered U.S. fast-casual restaurant traffic. Placer.ai mobility data shows Taco Bell store visits down 18.9% on Friday July 17 vs. the year-to-date Friday average; Chipotle was off 6.9% and CAVA down 4.2%.",
+        "howItWorks": "The FDA traced the outbreak to shredded iceberg lettuce served at Taco Bell locations in Indiana, Kentucky, Michigan, Ohio and West Virginia, sourced from a single Taylor Farms supplier in Mexico. Yum Brands has removed all U.S. Taylor Farms lettuce from Taco Bell stores. A Saturday sample tested positive for cyclospora but FDA on Sunday re-reviewed and classified the result as a false positive; the investigation continues. Sweetgreen told Bloomberg it does not serve iceberg lettuce and is not linked to the outbreak.",
+        "whyItMatters": "The traffic hit is spilling across the segment even for chains with no confirmed exposure — a 'salad panic' pattern the whole fast-casual complex is discounting until CDC's case-count curve rolls over. CMG closed -3.95%, SG -5.86%, YUM -0.36% on Monday. YTD returns turned negative across the group (CMG -11.9%, YUM -3.6%, SG -3.2%).",
+        "forWho": "restaurant-sector traders, consumer-discretionary funds",
+        "tryIt": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/7B78C04BC42B388B3D0B949DD48286785BFF3B0E04A0A8E50F127DFDFDADC55E/subgraphmysterio/resizefill_w1200_h781;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fbffd5969509dc56b243cbba3d6c37b33",
+        "alt": "Taco Bell storefront amid multi-state cyclosporiasis outbreak sinking fast-casual restaurant shares",
+        "fit": "cover",
+        "credit": "Stocktwits via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo / Stocktwits",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/yum-cmg-sg-stocks-slide-212734994.html"
+        },
+        {
+          "label": "CDC outbreak page",
+          "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html"
+        },
+        {
+          "label": "CMG Yahoo quote",
+          "url": "https://finance.yahoo.com/quote/CMG"
+        },
+        {
+          "label": "YUM Yahoo quote",
+          "url": "https://finance.yahoo.com/quote/YUM"
+        }
+      ],
+      "reddit": {
+        "title": "Cyclospora outbreak sinks fast-casual — CMG -3.95%, SG -5.86% Monday; Taco Bell traffic -18.9% Friday after FDA traces lettuce to Taylor Farms",
+        "body": "Fast-casual restaurants sold off Monday July 20 as the CDC's 2026 cyclosporiasis outbreak spilled from Taco Bell into the broader group.\n\n* Chipotle (CMG) **-3.95%**\n* Sweetgreen (SG) **-5.86%**\n* Yum Brands (YUM) **-0.36%**\n* Taco Bell foot traffic Friday July 17: **-18.9%** vs. the YTD Friday average (Placer.ai)\n* Chipotle traffic **-6.9%**, CAVA **-4.2%** on the same day\n* CDC as of Jul 13: **1,645** lab-confirmed cases, **141** hospitalizations across **34 states**, \\~5,100 more under review\n\nWhat's happening:\n\n1. **FDA traced the outbreak** to shredded iceberg lettuce served at Taco Bell in IN, KY, MI, OH and WV — sourced from a single Taylor Farms supplier in Mexico\n2. **Yum yanked all Taylor Farms lettuce** from U.S. Taco Bell stores\n3. **Weekend whipsaw** — a Saturday sample tested positive for cyclospora, then FDA reclassified it Sunday as a **false positive**; the investigation continues\n4. **Sweetgreen is collateral** — the chain told Bloomberg it doesn't serve iceberg lettuce and isn't linked to the outbreak, but shares still fell 5.86%\n\nYTD damage: CMG **-11.9%**, YUM **-3.6%**, SG **-3.2%**.\n\nNext catalysts: CDC case-count curve, FDA sourcing update, and CMG Q2 2026 earnings scheduled Wed July 22 AMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cyclospora-outbreak-fast-casual-slide-july-20-2026](https://stock-tldr.xyz/releases/cyclospora-outbreak-fast-casual-slide-july-20-2026)"
+      },
+      "publishDate": "2026-07-21T01:33:37.570Z"
+    },
     {
       "id": "dpz-q2-2026-earnings-july-20",
       "categories": [
