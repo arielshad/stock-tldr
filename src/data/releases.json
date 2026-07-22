@@ -1,8 +1,172 @@
 {
-  "generatedAt": "2026-07-21T13:25:56.890Z",
+  "generatedAt": "2026-07-22T01:27:07.330Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "memory-chip-rally-bofa-micron-us1-list-july-21-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Micron (MU) +12.26% to $971.59 on Tuesday July 21 — Bank of America's Vivek Arya lifts price target to $1,550 (from $1,500) and adds Micron to BofA U.S. 1 List, citing 8th straight quarterly EPS beat by 24% and $246B HBM addressable market by 2030; drags SanDisk (SNDK) +14%, Western Digital (WDC) +~12%, SOX +4.6% as memory complex rebounds from July 17 SOX bear market",
+      "org": "Bank of America / Micron Technology",
+      "date": "2026-07-21",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-micron-surges-12-as-semiconductor-strength-lifts-nasdaq/",
+      "summary": "Micron closes +12.26% at $971.59 Tuesday July 21 after BofA's Vivek Arya lifts PT to $1,550 (from $1,500) and adds MU to U.S. 1 List; memory complex rebounds — SNDK +14%, WDC +~12%, SOX +4.6%, Nasdaq +1.29%.",
+      "tickers": [
+        "MU",
+        "SNDK",
+        "WDC",
+        "SMH"
+      ],
+      "tags": [
+        "semis",
+        "memory",
+        "hbm",
+        "ai-capex",
+        "analyst",
+        "price-target",
+        "bofa",
+        "sox",
+        "smh",
+        "us1-list",
+        "rebound"
+      ],
+      "importance": "major",
+      "metrics": {
+        "MU close": "$971.59 (+12.26%)",
+        "SNDK": "+14%",
+        "WDC": "+~12%",
+        "NVDA": "+1.4%",
+        "SOX": "+4.6%",
+        "Nasdaq": "25,837.21 (+1.29%)",
+        "S&P 500": "7,509.20 (+0.89%)",
+        "Dow": "52,224.64 (+0.74%)",
+        "BofA new PT": "$1,550 (from $1,500)",
+        "Implied upside": "~83%"
+      },
+      "explainer": {
+        "tagline": "BofA's Micron U.S. 1 List add lights up memory — MU +12%, SanDisk +14%, WDC +~12%, SOX +4.6% as chips rebound from last week's bear-market low.",
+        "whatIsIt": "Micron (MU) closed Tuesday July 21 at $971.59 (+12.26%) after Bank of America's Vivek Arya raised his price target to $1,550 (from $1,500) and added Micron to BofA's U.S. 1 List of top ideas. The move powered the whole memory complex: SanDisk +14%, Western Digital ~+12%, and the PHLX Semiconductor Index (SOX) +4.6%. Nasdaq Composite finished +1.29% at 25,837.21.",
+        "howItWorks": "Arya's note frames Micron as having beat consensus EPS by 24% for the 8th straight quarter and pegs the HBM (high-bandwidth memory) addressable market at $246B by 2030. The $1,550 PT implies ~83% upside. UBS added a bullish flow, projecting Micron could repurchase >40% of shares by end-2028 and generate >$400B in FCF through 2028. The rally is the second consecutive up-day for SOX after last week's rout that pushed the index >20% below its June record.",
+        "whyItMatters": "Memory has been the volatility engine of the semi tape all summer — the SOX entered a bear market on July 17 after Moonshot's Kimi K3 debut and Nasdaq gave up early gains. Tuesday's move confirms that the AI-capex bid for HBM remains structurally intact and that Wall Street analyst desks are willing to underwrite it. SMH is again a bellwether for AI-infrastructure sentiment, and Micron's $971 close puts it back within ~3% of its June record.",
+        "forWho": "semi traders, HBM/AI-capex allocators, SMH holders",
+        "tryIt": "https://finance.yahoo.com/quote/MU/"
+      },
+      "image": {
+        "url": "https://247wallst.com/wp-content/uploads/2016/09/ram-memory-chips-idaho.jpg",
+        "alt": "Rows of DRAM memory chips on a printed circuit board",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Fool: MU +12% Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-micron-surges-12-as-semiconductor-strength-lifts-nasdaq/"
+        },
+        {
+          "label": "Benzinga: Chip Rally",
+          "url": "https://www.benzinga.com/markets/market-summary/26/07/60589094/chips-power-micron-rallies-12-percent-nasdaq-100-markets-tuesday"
+        },
+        {
+          "label": "247WS: Memory Rebound",
+          "url": "https://247wallst.com/investing/2026/07/21/sandisk-rises-8-western-digital-jumps-9-micron-adds-7-as-memory-rebound-accelerates/"
+        },
+        {
+          "label": "BofA Bull Case",
+          "url": "https://247wallst.com/investing/2026/07/21/bank-of-america-insanely-bullish-on-micron-sees-shares-rising-83-from-here/"
+        },
+        {
+          "label": "MU Chart",
+          "url": "https://finance.yahoo.com/quote/MU/"
+        }
+      ],
+      "reddit": {
+        "title": "Micron +12.26% to $971.59 Tuesday — BofA lifts PT to $1,550, adds MU to U.S. 1 List; SanDisk +14%, WDC +~12%, SOX +4.6%",
+        "body": "Memory chips ripped Tuesday July 21 as Wall Street re-underwrote the AI-HBM bid two trading days after the SOX slipped into a bear market.\n\n* Micron closed +12.26% at $971.59 — its biggest single-day move in months\n* SanDisk +14%, Western Digital +\\~12%\n* PHLX Semiconductor Index (SOX) +4.6%, second straight up day\n* Nasdaq Composite +1.29% to 25,837.21; S&P 500 +0.89% to 7,509.20; Dow +0.74% to 52,224.64\n* Nvidia +1.4%\n\nWhy it moved:\n\n1. **BofA U.S. 1 List add + PT to $1,550** — Vivek Arya lifted his target from $1,500, citing an 8th straight quarterly EPS beat by 24% and $246B HBM addressable market by 2030. Implied upside \\~83%.\n2. **UBS piggyback** — projects Micron can buy back >40% of its shares by 2028 and generate >$400B in free cash flow through 2028.\n3. **SOX bear-market bounce** — index was >20% below its June record after Moonshot's Kimi K3 debut on July 17.\n\nNext catalysts: TXN reports AH Wednesday July 22; Alphabet also Wed AH.\n\nFull breakdown: [https://stock-tldr.xyz/releases/memory-chip-rally-bofa-micron-us1-list-july-21-2026](https://stock-tldr.xyz/releases/memory-chip-rally-bofa-micron-us1-list-july-21-2026)"
+      },
+      "publishDate": "2026-07-22T01:27:07.330Z"
+    },
+    {
+      "id": "ibkr-q2-2026-earnings-july-21",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Interactive Brokers (IBKR) Q2 2026 (reported AH Tuesday July 21) — diluted EPS $0.69 (+35% Y/Y) beats $0.64 est on record $1.90B net revenue ($1.88B adj) vs $1.79B est; commission revenue $673M (+30% Y/Y), net interest income $1.06B (+23% Y/Y), customer accounts 5.19M (+34% Y/Y) and customer margin loans $108.5B (+67% Y/Y); pretax margin holds at 77%; IBKR +2.41% AH to $96.70",
+      "org": "Interactive Brokers",
+      "date": "2026-07-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000118/ibkr-20260721.htm",
+      "summary": "IBKR Q2 26 — GAAP + adj diluted EPS $0.69 (+35% Y/Y) beats $0.64 est on $1.90B net revenue; commissions +30%, NII +23%, customer accounts 5.19M (+34% Y/Y), margin loans $108.5B (+67% Y/Y); pretax margin 77%; IBKR +2.4% AH to $96.70.",
+      "tickers": [
+        "IBKR"
+      ],
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "brokers",
+        "financials",
+        "net-interest-income",
+        "commissions",
+        "margin-loans",
+        "customer-growth",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "GAAP diluted EPS": "$0.69 vs $0.64 est (+35% Y/Y from $0.51)",
+        "Net revenue (GAAP)": "$1.90B vs $1.79B est",
+        "Adj net revenue": "$1.88B vs $1.48B Y/Y",
+        "Commission revenue": "$673M (+30% Y/Y)",
+        "Net interest income": "$1.057B (+23% Y/Y)",
+        "Customer accounts": "5.19M (+34% Y/Y)",
+        "Customer margin loans": "$108.5B (+67% Y/Y)",
+        "DARTs": "4.82M (+36% Y/Y)",
+        "Pretax margin": "77%",
+        "Dividend": "$0.0875/sh, payable Sep 14 2026",
+        "AH move": "+2.41% to $96.70"
+      },
+      "explainer": {
+        "tagline": "IBKR crushes Q2 — EPS $0.69 (+35% Y/Y), revenue $1.90B, customer accounts +34% Y/Y to 5.19M and margin loans +67% Y/Y to $108.5B keep pretax margin at 77%.",
+        "whatIsIt": "Interactive Brokers reported Q2 2026 results after the close on Tuesday July 21. GAAP and adjusted diluted EPS both came in at $0.69, up from $0.51 a year ago and ahead of the $0.64 consensus. Net revenue was $1.90B GAAP / $1.88B adjusted, well above the $1.79B estimate. Shares rose 2.41% in after-hours to $96.70.",
+        "howItWorks": "Growth was broad-based across the brokerage stack. Commission revenue jumped 30% Y/Y to $673M on a 36% Y/Y surge in DARTs to 4.82M. Net interest income rose 23% to $1.057B as customer margin loans surged 67% Y/Y to $108.5B — the classic operating leverage on retained cash and margin balances. Customer accounts grew 34% Y/Y to 5.19M. The pretax profit margin held at 77% on both a reported and adjusted basis. The board declared a $0.0875/share quarterly dividend, payable September 14, 2026.",
+        "whyItMatters": "IBKR is the cleanest read on retail-plus-professional trading activity that Wall Street gets each quarter. The 34% Y/Y account growth and 67% Y/Y margin-loan expansion signal that risk appetite among self-directed and RIA clients remained high through Q2 despite the mid-year semis rout, the July 17 SOX bear market, and the ongoing U.S.-Iran conflict. A 77% pretax margin means every incremental dollar of activity drops to the bottom line with almost no friction.",
+        "forWho": "financials-sector traders, broker-comp watchers, retail-activity trackers",
+        "tryIt": "https://finance.yahoo.com/quote/IBKR/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/21/Interactive-Brokers--An-Online-Trading-P.jpg",
+        "alt": "Interactive Brokers online trading platform on a laptop screen",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Jul 21)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000118/ibkr-20260721.htm"
+        },
+        {
+          "label": "Yahoo: 2Q26 Release",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-announces-2q2026-200100596.html"
+        },
+        {
+          "label": "Benzinga: EPS Beat",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60594782/interactive-brokers-stock-climbs-as-q2-earnings-come-in-ahead-of-expectations"
+        },
+        {
+          "label": "StockTitan: Details",
+          "url": "https://www.stocktitan.net/news/IBKR/interactive-brokers-group-announces-2q2026-2fwskv83x3w0.html"
+        },
+        {
+          "label": "IBKR Chart",
+          "url": "https://finance.yahoo.com/quote/IBKR/"
+        }
+      ],
+      "reddit": {
+        "title": "IBKR Q2 26 — EPS $0.69 (+35% Y/Y) beats $0.64 est on record $1.90B revenue; accounts 5.19M (+34% Y/Y), margin loans $108.5B (+67% Y/Y), pretax margin 77%; +2.4% AH",
+        "body": "Interactive Brokers put up another textbook quarter after the close Tuesday July 21 — every gauge of activity accelerated.\n\n* GAAP + adj diluted EPS $0.69 vs $0.64 est (+35% Y/Y from $0.51)\n* Net revenue $1.90B GAAP / $1.88B adj vs $1.79B est (+27% Y/Y)\n* Commission revenue $673M (+30% Y/Y) on DARTs 4.82M (+36% Y/Y)\n* Net interest income $1.057B (+23% Y/Y)\n* Customer accounts 5.19M (+34% Y/Y); customer margin loans $108.5B (+67% Y/Y)\n* Pretax profit margin 77% (reported and adjusted)\n* IBKR +2.41% AH to $96.70; board declared $0.0875/sh quarterly dividend payable Sep 14\n\nHow the flywheel spun:\n\n1. **Margin loans ripped 67% Y/Y** — the classic self-reinforcing loop of higher account balances → more borrowable float → more NII.\n2. **Commissions +30% on DARTs +36%** — trading activity accelerated through Q2 even as semis got shredded and the SOX slipped into a bear market on July 17.\n3. **77% pretax margin held** — costs stayed pinned as revenue grew ~27% Y/Y.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ibkr-q2-2026-earnings-july-21](https://stock-tldr.xyz/releases/ibkr-q2-2026-earnings-july-21)"
+      },
+      "publishDate": "2026-07-22T01:27:07.330Z"
+    },
     {
       "id": "gm-q2-2026-earnings-july-21",
       "categories": [
