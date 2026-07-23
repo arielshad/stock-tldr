@@ -1,8 +1,375 @@
 {
-  "generatedAt": "2026-07-22T13:30:30.954Z",
+  "generatedAt": "2026-07-23T01:36:45.227Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "googl-q2-2026-earnings-july-22",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Alphabet (GOOGL) Q2 2026 — revenue $119.8B (+24% Y/Y) and Google Cloud +82% Y/Y to $24.8B beat as diluted EPS jumps to $9.11 (+294% Y/Y); but 2026 capex guide raised to $195–205B (from $180–190B) sends GOOGL -~5% AH",
+      "org": "Alphabet",
+      "date": "2026-07-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm",
+      "summary": "Alphabet Q2 2026: revenue $119.8B (+24%), Google Cloud +82% to $24.8B, operating income $40.77B (+30%), diluted EPS $9.11 (+294%); 2026 capex guide raised to $195–205B (from $180–190B) sends GOOGL -~5% AH.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "google-cloud",
+        "ai-capex",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "capex-hike"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "metrics": {
+        "Revenue": "$119.8B (+24% Y/Y)",
+        "Google Cloud": "$24.8B (+82% Y/Y)",
+        "Google Services": "$94.5B (+15% Y/Y)",
+        "YouTube ads": "$11.06B (+13% Y/Y)",
+        "Operating income": "$40.77B (+30% Y/Y)",
+        "Operating margin": "34% (+2pt Y/Y)",
+        "Diluted EPS": "$9.11 (+294% Y/Y)",
+        "2026 capex guide": "$195–205B (from $180–190B)",
+        "Move": "-~5% AH"
+      },
+      "explainer": {
+        "tagline": "Alphabet Q2 2026 beats top-to-bottom, but AI capex hike to $195–205B for 2026 (from $180–190B) drags GOOGL -~5% AH.",
+        "whatIsIt": "Alphabet reported Q2 2026 earnings after the Wednesday July 22 close. Revenue $119.8B (+24% Y/Y) tops the ~$116.9B Street estimate, Google Cloud rips +82% Y/Y to $24.8B, and diluted EPS surges 294% Y/Y to $9.11. On the analyst call, CFO Anat Ashkenazi raised 2026 capex guidance to $195–205B (from $180–190B at the Q1 print) and reaffirmed another significant increase for 2027.",
+        "howItWorks": "Google Services $94.5B (+15% Y/Y) leads with Search & other +17% and YouTube ads +13% to $11.06B; Google Cloud $24.8B (+82% Y/Y) — 12th straight double-digit quarter — as enterprise AI infrastructure and Vertex AI demand keeps outpacing supply. Consolidated operating income $40.77B (+30%) and operating margin 34% (+2pt Y/Y). Net income available to common stockholders +298% Y/Y drives diluted EPS to $9.11 (+294%). Ashkenazi said 'demand still outpaces investment' while adding $15B to the upper end of the 2026 capex range.",
+        "whyItMatters": "The Cloud print is the strongest single quarter Google has ever reported and confirms enterprise AI revenue is real, not just infrastructure spend. But the capex hike — the second raise this year — reignites the same 'return-on-AI-capex' anxiety that hit META in June: Google will now spend near double the ~$85B run-rate it entered 2026 with. GOOGL down ~5% in extended trade despite the beat sets the tone for MSFT / META / AMZN prints and for AI-infrastructure names like NVDA, AVGO, and SMCI tomorrow.",
+        "forWho": "AI-capex watchers, mega-cap earnings desks, cloud-hyperscaler analysts",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/B07E5925D8DC2A9113E3CE70CE58C7AE0975827EF516680ECB5BF92E93FB90A7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fda253e6f6f23908ecca6f3142f33a1bf",
+        "alt": "Google Cloud sign and Alphabet Q2 2026 earnings visual",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Q2 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm"
+        },
+        {
+          "label": "CNBC Live Coverage",
+          "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
+        },
+        {
+          "label": "Reuters Capex Take",
+          "url": "https://finance.yahoo.com/technology/articles/google-quarterly-cloud-revenue-growth-200517715.html"
+        },
+        {
+          "label": "GOOGL Chart",
+          "url": "https://finance.yahoo.com/quote/GOOGL"
+        }
+      ],
+      "reddit": {
+        "title": "GOOGL -5% AH despite Cloud +82% Y/Y — Alphabet hikes 2026 capex to $195-205B on Q2 print",
+        "body": "Alphabet crushed Q2 top-to-bottom Wednesday AH but the capex line stole the show:\n\n* Revenue $119.8B (+24% Y/Y) vs ~$116.9B est\n* Google Cloud $24.8B (+82% Y/Y), operating income $40.77B (+30%), margin 34%\n* Diluted EPS $9.11 (+294% Y/Y) — 12th consecutive double-digit revenue quarter\n* YouTube ads $11.06B (+13%), Search & other +17%\n\nThen the capex bomb dropped on the analyst call:\n\n1. **2026 capex guide raised to $195-205B** (from $180-190B at the Q1 print, from ~$85B run-rate entering 2026)\n2. **CFO Anat Ashkenazi** reaffirmed \"another significant increase\" to capex in 2027\n3. Her defense: **\"demand still outpaces that investment\"** — but this is the second raise this year\n\nGOOGL down ~5% AH — the same \"return-on-AI-capex\" question that hit META in June is back.\n\nNext catalysts: MSFT (Jul 30), META (Jul 30), AMZN (Jul 31), plus NVDA/AVGO/SMCI reaction Thursday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/googl-q2-2026-earnings-july-22](https://stock-tldr.xyz/releases/googl-q2-2026-earnings-july-22)"
+      },
+      "publishDate": "2026-07-23T01:36:45.227Z"
+    },
+    {
+      "id": "tsla-q2-2026-earnings-july-22",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Tesla (TSLA) Q2 2026 — record revenue $28.24B (+26% Y/Y) but adj EPS $0.33 (-18% Y/Y), gross margin 16.8% (from 17.2%), capex $5.79B (+142%) and free cash flow -$1.09B; TSLA -4.1% AH to $358.67",
+      "org": "Tesla",
+      "date": "2026-07-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026049213/exhibit991.htm",
+      "summary": "Tesla Q2 2026: record revenue $28.24B (+26% Y/Y) but adj EPS $0.33 (-18%), gross margin 16.8% (down from 17.2%), capex $5.79B (+142%) drives negative FCF -$1.09B; TSLA -4.1% AH to $358.67.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "q2-2026",
+        "ev",
+        "energy-storage",
+        "margin-compression",
+        "ai-capex",
+        "robotaxi",
+        "cybercab",
+        "fcf-miss"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TSLA"
+      ],
+      "metrics": {
+        "Revenue": "$28.24B (+26% Y/Y)",
+        "Automotive revenue": "$20.52B (+23% Y/Y)",
+        "Energy revenue": "$3.14B (+13% Y/Y)",
+        "Services revenue": "$4.58B (+50% Y/Y)",
+        "Energy storage deployed": "13.5 GWh (+41% Y/Y)",
+        "GAAP net income": "$1.11B (-5% Y/Y)",
+        "GAAP diluted EPS": "$0.32 (-3% Y/Y)",
+        "Adj EPS": "$0.33 (-18% Y/Y)",
+        "Gross margin": "16.8% (vs 17.2% Y/Y)",
+        "Capex": "$5.79B (+142% Y/Y)",
+        "Free cash flow": "-$1.09B (vs +$146M Y/Y)",
+        "Move": "-4.10% AH to $358.67"
+      },
+      "explainer": {
+        "tagline": "Tesla posts a record revenue quarter but adj EPS falls 18% Y/Y as AI capex ($5.79B, +142%) drives FCF negative; TSLA -4.1% AH.",
+        "whatIsIt": "Tesla reported Q2 2026 after the Wednesday July 22 close. On the top line it's a record: total revenue $28.24B (+26% Y/Y), first-ever quarter above $100B on a trailing-twelve-month basis. Below the line the story flips — margins compress, AI/compute capex nearly triples, and free cash flow flips to -$1.09B.",
+        "howItWorks": "Auto revenue $20.52B (+23%) rides the Q2 delivery record of 480,126 vehicles; energy revenue $3.14B (+13%) with 13.5 GWh deployed (+41%); services $4.58B (+50%). Gross margin drops to 16.8% (from 17.2% Y/Y). Operating expenses +47% Y/Y to $4.35B on AI/R&D/Robotaxi build-out. Capex $5.79B (+142% Y/Y), FCF -$1.09B (vs +$146M Y/Y). GAAP net income $1.11B (-5%), GAAP EPS $0.32 (-3%), adj EPS $0.33 (-18%). Updates in the letter: Cybercab production starting at Gigafactory Texas, Tesla Semi Nevada volume production this year, Robotaxi live in 7 metros, Optimus build-out at Fremont after S/X line decommissioning.",
+        "whyItMatters": "Revenue growth is unquestionable but the mix has shifted: this is now a company burning ~$1B/quarter to fund AI + Robotaxi + Optimus while auto margin still compresses. Second-order effects: cash burn narrows Musk's flexibility if the Robotaxi ramp slips, and the AI-capex line puts TSLA in the same 'when-does-it-pay-off' conversation as GOOGL/META/MSFT — timely, given Alphabet just hiked 2026 capex to $195-205B in the same session. TSLA -4.10% AH to $358.67 wipes ~$60B of market cap into Thursday's open.",
+        "forWho": "EV analysts, mega-cap earnings desks, Robotaxi/AI narrative traders",
+        "tryIt": "https://finance.yahoo.com/quote/TSLA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/B6A0857FC7C6144A495D292C18F271FD18682ED5826E1230E2679657B51B07B0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F8c92870549e5a468dcf1d888b0e14ebe",
+        "alt": "Tesla Q2 2026 earnings visual",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Q2 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026049213/exhibit991.htm"
+        },
+        {
+          "label": "Electrek Recap",
+          "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/"
+        },
+        {
+          "label": "StockTitan Report",
+          "url": "https://www.stocktitan.net/news/TSLA/tesla-releases-second-quarter-2026-financial-opf5vkit2vhk.html"
+        },
+        {
+          "label": "TSLA Chart",
+          "url": "https://finance.yahoo.com/quote/TSLA"
+        }
+      ],
+      "reddit": {
+        "title": "Tesla Q2: record $28.24B revenue but adj EPS -18% Y/Y, capex +142% to $5.79B, FCF flips to -$1.09B — TSLA -4.1% AH",
+        "body": "Tesla reported Q2 2026 Wednesday AH. Top line is a record, everything else got worse:\n\n* Revenue $28.24B (+26% Y/Y) — record; first ever $100B+ TTM quarter\n* Automotive $20.52B (+23%), Energy $3.14B (+13%), Services $4.58B (+50%)\n* Energy storage 13.5 GWh deployed (+41% Y/Y)\n* GAAP EPS $0.32 (-3%), **adj EPS $0.33 (-18% Y/Y)**\n* **Gross margin 16.8%** (down from 17.2% Y/Y)\n* **Capex $5.79B (+142% Y/Y)**, opex +47%\n* **Free cash flow -$1.09B** vs +$146M Y/Y\n\nWhat's driving the burn:\n\n1. **AI + Robotaxi + Optimus capex** — Cybercab production starting at Gigafactory Texas, Semi volume ramping in Nevada, Optimus build-out at Fremont after S/X line decommissioning\n2. **Robotaxi now live in 7 major US metros**, but no revenue disclosed against the spend\n3. **Auto margin compression continues** — record deliveries didn't translate to profit\n\nTSLA -4.10% AH to $358.67, ~$60B of market cap wiped into Thursday's open. Same session as GOOGL raising 2026 capex to $195-205B — the AI-capex payoff question is back at every mega-cap.\n\nNext catalysts: MSFT/META/AMZN prints next week, FOMC Jul 28-29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-q2-2026-earnings-july-22](https://stock-tldr.xyz/releases/tsla-q2-2026-earnings-july-22)"
+      },
+      "publishDate": "2026-07-23T01:36:45.227Z"
+    },
+    {
+      "id": "smci-60b-orders-spacex-datacenter-july-22",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Super Micro (SMCI) +19.84% to $30.56 (intraday +26.6%) on Wednesday July 22 — Q4 FY26 preliminary shows record $60B+ new orders and gross margin lifted to 15–17% (from 8.2–8.4% guide); CEO Charles Liang confirms co-building 'another new Gigawatt AI datacenter' for SpaceX and xAI within a year",
+      "org": "Super Micro Computer",
+      "date": "2026-07-22",
+      "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx",
+      "summary": "SMCI +19.84% to $30.56 (intraday +26.6%) on Wed July 22 — Q4 FY26 preliminary shows record $60B+ new orders, GM lifted to 15–17% (from 8.2–8.4% guide), and CEO confirms co-building Gigawatt AI datacenter for SpaceX and xAI within a year.",
+      "tags": [
+        "mover",
+        "ai-server",
+        "gross-margin",
+        "spacex",
+        "xai",
+        "gigawatt-datacenter",
+        "backlog",
+        "q4-fy26",
+        "preliminary"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SMCI"
+      ],
+      "metrics": {
+        "Move (close)": "+19.84% to $30.56",
+        "Intraday high": "+26.6% to $32.28",
+        "Q4 FY26 new orders": "$60B+ record",
+        "Prior gross margin guide": "8.2–8.4%",
+        "New gross margin guide": "15–17%",
+        "Q4 FY26 revenue guide": "near low end of $11.0–12.5B",
+        "Institutional holders": "49 hedge funds (from 39), +33% to $543.7M"
+      },
+      "explainer": {
+        "tagline": "SMCI Q4 FY26 preliminary shows $60B+ new orders and doubled gross-margin guide; CEO confirms co-building Gigawatt AI datacenter for SpaceX and xAI. Stock closes +19.84%.",
+        "whatIsIt": "Supermicro pre-announced Q4 FY26 (quarter ended June 30) results Tuesday after-hours; the tape ripped Wednesday July 22. Two things drove the +19.84% close: a record $60B+ in new orders during the quarter, and a doubled gross-margin range of 15–17% vs the prior 8.2–8.4% guide. Separately, CEO Charles Liang confirmed on X that Supermicro is 'co-building another new Gigawatt AI datacenter for SpaceX and xAI within a year.'",
+        "howItWorks": "Q4 FY26 revenue estimated near the low end of the $11.0–12.5B range — still ~+89.6% Y/Y at $11B. Backlog rose to record levels on the $60B+ Q4 order haul. GM lifted to 15–17% 'primarily due to a favorable customer and product mix.' Full Q4 results and management commentary come August 11 at 5pm EDT. Hedge-fund exposure widened to 49 positions (from 39) with combined value +33% to $543.7M. Neither Supermicro nor SpaceX has confirmed whether SpaceX/xAI is the anchor tenant behind the $60B backlog.",
+        "whyItMatters": "The gross-margin range doubling reframes SMCI's take on the AI-server build-out — the mix-shift narrative that dragged the stock last year has reversed. The Liang tweet ties SMCI directly into the SpaceX/xAI compute stack alongside NVDA GB200/GB300 rack systems and Dell / HPE competition, and lands the same session Alphabet raised 2026 capex to $195–205B and Tesla ran capex +142% — every hyperscaler is spending, and SMCI is now positioned as a Gigawatt-scale integrator.",
+        "forWho": "AI-infrastructure traders, semi-cap suppliers, hyperscaler-adjacent equity",
+        "tryIt": "https://finance.yahoo.com/quote/SMCI"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/71CF09B05717402F75DE5AB66FC7C0BD467A1FD5577DA5A38B4C6D19F8FC098D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F25c2f9a82d994c0db376f8bb184a1aeb",
+        "alt": "Super Micro Computer server hardware and SMCI Q4 preliminary visual",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Supermicro IR Release",
+          "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx"
+        },
+        {
+          "label": "TradingView Recap",
+          "url": "https://www.tradingview.com/news/tradingview:9333c190fa68f:0-super-micro-computer-reports-q4-fy2026-preliminary-revenue-near-low-end-of-11-0b-12-5b-gross-margin-15-17/"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-climbs-27-204833845.html"
+        },
+        {
+          "label": "SMCI Chart",
+          "url": "https://finance.yahoo.com/quote/SMCI"
+        }
+      ],
+      "reddit": {
+        "title": "SMCI +19.84% to $30.56 — Q4 preliminary shows $60B+ new orders, gross margin doubled to 15-17%, CEO confirms Gigawatt AI datacenter for SpaceX/xAI",
+        "body": "Super Micro closed +19.84% at $30.56 on Wednesday July 22 (intraday +26.6%). Q4 FY26 preliminary update Tuesday AH dropped three bombs:\n\n* Record **$60B+ in new orders** during Q4 FY26 (quarter ended June 30)\n* **Gross margin guide lifted to 15-17%**, up from the prior 8.2-8.4% — cited \"favorable customer and product mix\"\n* Q4 revenue tracking near low end of $11.0-12.5B range (~+89.6% Y/Y at $11B)\n\nThen CEO **Charles Liang** posted on X:\n\n1. **\"Co-building another new Gigawatt AI datacenter for @SpaceX and @xAI within a year\"** — SpaceX has not confirmed whether it is behind the $60B backlog\n2. **Hedge fund holders jumped to 49** (from 39), combined value +33% to $543.7M\n3. Full Q4 report and commentary due **August 11 at 5pm EDT**\n\nContext: same session Alphabet raised 2026 capex to $195-205B and Tesla ran capex +142% to $5.79B. Every hyperscaler is spending; SMCI is now positioned as a Gigawatt-scale integrator alongside NVDA GB200/GB300 racks.\n\nNext catalysts: MSFT/META/AMZN prints next week, SMCI Q4 full report August 11.\n\nFull breakdown: [https://stock-tldr.xyz/releases/smci-60b-orders-spacex-datacenter-july-22](https://stock-tldr.xyz/releases/smci-60b-orders-spacex-datacenter-july-22)"
+      },
+      "publishDate": "2026-07-23T01:36:45.227Z"
+    },
+    {
+      "id": "txn-q2-2026-earnings-july-22",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Texas Instruments (TXN) Q2 2026 — revenue $5.46B (+23% Y/Y, +13% seq) tops $5.24B est and EPS $2.14 crushes $1.95 est (includes $0.05 benefit); net income $1.98B (+53%), gross margin 61.3%; Q3 guide $5.65–6.15B / $2.23–$2.57 EPS",
+      "org": "Texas Instruments",
+      "date": "2026-07-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000097476/000009747626000148/q22026txnex99-eredgar.htm",
+      "summary": "Texas Instruments Q2 2026: revenue $5.46B (+23% Y/Y, +13% seq) tops $5.24B est, EPS $2.14 crushes $1.95 est (incl $0.05 benefit); net income $1.98B (+53%), GM 61.3%, op margin 42.3%; Q3 guide $5.65–6.15B / $2.23–$2.57 EPS.",
+      "tags": [
+        "earnings",
+        "semis",
+        "analog",
+        "industrial",
+        "auto",
+        "data-center",
+        "q2-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TXN"
+      ],
+      "metrics": {
+        "Revenue": "$5.46B (+23% Y/Y, +13% seq)",
+        "Net income": "$1.98B (+53% Y/Y)",
+        "Diluted EPS": "$2.14 (+52% Y/Y, incl $0.05 benefit)",
+        "Gross margin": "61.3%",
+        "Operating margin": "42.3%",
+        "Operating cash flow (TTM)": "$8.67B (+35%)",
+        "Free cash flow (TTM)": "$6.53B (+271%)",
+        "Q3 revenue guide": "$5.65–6.15B",
+        "Q3 EPS guide": "$2.23–2.57"
+      },
+      "explainer": {
+        "tagline": "Texas Instruments Q2 2026 crushes with revenue $5.46B (+23% Y/Y) and EPS $2.14 vs $1.95 est; Q3 guide $5.65-6.15B tops Street on industrial + data-center + auto.",
+        "whatIsIt": "Texas Instruments reported Q2 2026 after the Wednesday July 22 close. Revenue $5.46B beat the $5.24B consensus and jumped +23% Y/Y with sequential growth of +13%. Non-GAAP EPS $2.14 (includes $0.05 benefit not in prior guide) topped $1.95 est. Growth was described as 'broad' and 'led by industrial, data center and automotive.'",
+        "howItWorks": "Gross margin 61.3%, operating margin 42.3%, net income $1.98B (+53% Y/Y), EPS +52% Y/Y. Trailing-twelve-month operating cash flow $8.67B (+35% Y/Y), FCF $6.53B (+271% Y/Y) as the CHIPS Act tax credits and fab-buildout depreciation smooth out. Q3 revenue guide $5.65–6.15B (midpoint +6.7% seq) and Q3 EPS guide $2.23–2.57 both top Street expectations, signaling analog demand keeps accelerating past the 'inventory correction' bottom.",
+        "whyItMatters": "TXN is the analog bellwether — its industrial + auto mix reads through to STM, ADI, NXP, ON, and the entire industrial supply chain. Q3 guide midpoint above Street removes the last 'is the cycle done' overhang. Coming the same session as Alphabet's Cloud +82% print and SMCI's $60B backlog, the read is that AI-adjacent silicon plus real industrial recovery are both firing at once.",
+        "forWho": "semis analysts, industrial + auto sector desks",
+        "tryIt": "https://finance.yahoo.com/quote/TXN"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/TI_reports_second_quarter_2026_financial_results_and_shareholder_returns_1085373.webp",
+        "alt": "Texas Instruments Q2 2026 earnings release visual",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Q2 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000097476/000009747626000148/q22026txnex99-eredgar.htm"
+        },
+        {
+          "label": "TI Press Release",
+          "url": "https://www.prnewswire.com/news-releases/ti-reports-second-quarter-2026-financial-results-and-shareholder-returns-302832506.html"
+        },
+        {
+          "label": "StockTitan Report",
+          "url": "https://www.stocktitan.net/news/TXN/ti-reports-second-quarter-2026-financial-results-and-shareholder-fjwrl0t8xj0f.html"
+        },
+        {
+          "label": "TXN Chart",
+          "url": "https://finance.yahoo.com/quote/TXN"
+        }
+      ],
+      "reddit": {
+        "title": "TXN Q2: revenue $5.46B (+23% Y/Y) tops $5.24B est, EPS $2.14 vs $1.95 est; Q3 guide midpoint above Street on industrial + data center + auto",
+        "body": "Texas Instruments reported Q2 2026 Wednesday AH — the analog bellwether posts a clean beat with a Q3 guide that reads 'cycle turn is real':\n\n* Revenue $5.46B (+23% Y/Y, +13% seq) vs $5.24B est\n* Adj EPS $2.14 (+52% Y/Y, incl $0.05 benefit) vs $1.95 est\n* Net income $1.98B (+53% Y/Y)\n* Gross margin 61.3%, operating margin 42.3%\n* TTM operating cash flow $8.67B (+35%), FCF $6.53B (+271%)\n\nQ3 2026 guidance:\n\n1. **Revenue $5.65-6.15B** (midpoint +6.7% seq) — above Street\n2. **EPS $2.23-2.57** — above Street\n3. Growth described as \"broad\" and \"led by industrial, data center and automotive\"\n\nRead-through: reads bullishly for ADI, STM, NXP, ON, MCHP — the entire analog + industrial complex. And it lands same session as GOOGL Cloud +82% and SMCI $60B backlog: AI-adjacent silicon + real industrial recovery firing together.\n\nNext catalysts: NXP earnings, STM report, and ADI's outlook next month.\n\nFull breakdown: [https://stock-tldr.xyz/releases/txn-q2-2026-earnings-july-22](https://stock-tldr.xyz/releases/txn-q2-2026-earnings-july-22)"
+      },
+      "publishDate": "2026-07-23T01:36:45.227Z"
+    },
+    {
+      "id": "now-q2-2026-earnings-july-22",
+      "categories": [
+        "earnings"
+      ],
+      "title": "ServiceNow (NOW) Q2 2026 — revenue $3.99B (+24% Y/Y) and subscription revenue $3.88B (+24.5% Y/Y, +23% cc) beat, non-GAAP EPS $0.90 tops $0.86 est; adj op margin 29.5%, cRPO $13.2B (+21%), AI ACV crosses $1B; FY26 subscription guide raised to $15.76–15.78B",
+      "org": "ServiceNow",
+      "date": "2026-07-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000072/now-20260722.htm",
+      "summary": "ServiceNow Q2 2026: revenue $3.99B (+24% Y/Y), subscription $3.88B (+24.5%), non-GAAP EPS $0.90 beats $0.86 est; adj op margin 29.5%, cRPO $13.2B (+21%), AI ACV $1B+; FY26 sub guide raised to $15.76–15.78B (+22.5%).",
+      "tags": [
+        "earnings",
+        "enterprise-software",
+        "ai-agents",
+        "subscription",
+        "cRPO",
+        "q2-2026",
+        "guidance-raise"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NOW"
+      ],
+      "metrics": {
+        "Total revenue": "$3.99B (+24% Y/Y)",
+        "Subscription revenue": "$3.88B (+24.5% Y/Y, +23% cc)",
+        "Non-GAAP EPS": "$0.90 vs $0.86 est",
+        "Adj operating margin": "29.5%",
+        "cRPO": "$13.20B (+21% Y/Y, +21.5% cc)",
+        "ServiceNow AI ACV": ">$1B (first time)",
+        "FY26 subscription guide": "$15.76–15.78B (+22.5% Y/Y)"
+      },
+      "explainer": {
+        "tagline": "ServiceNow Q2 2026 beats on revenue + EPS and lifts full-year subscription guide as AI ACV crosses $1B for the first time.",
+        "whatIsIt": "ServiceNow reported Q2 2026 after the Wednesday July 22 close. Revenue $3.99B (+24% Y/Y) and non-GAAP EPS $0.90 both beat consensus. Management raised FY26 subscription guidance to $15.76–15.78B (+22.5%) citing 'net new ACV outperformance' and strong U.S. Federal demand.",
+        "howItWorks": "Subscription revenue $3.88B (+24.5% Y/Y, +23% cc) drove the print; cRPO $13.20B grew 21% Y/Y (+21.5% cc) — the leading indicator for next-year revenue held above 20%. Adjusted operating margin 29.5%. The tell was ServiceNow AI ACV crossing $1B in Q2 — a first for the platform's Now Assist agentic-AI suite, versus a base of zero eighteen months ago.",
+        "whyItMatters": "cRPO growth staying above 20% is the number every enterprise-software analyst was watching, given post-macro-panic budget compression at other software names. The $1B AI ACV milestone is the strongest single data point yet that AI agents are being purchased at scale, not just piloted — direct read-through to CRM, ORCL, MSFT and DDOG. NOW +~5% AH into Thursday's tape.",
+        "forWho": "enterprise-software analysts, AI-agent narrative traders",
+        "tryIt": "https://finance.yahoo.com/quote/NOW"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/C14B14744AD0BB5896C7AF053CB7F87DA3E82FA68AF5709EFDEB99FB119795A9/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F78595f66ebba47fa2ec8b9692565c710",
+        "alt": "ServiceNow Q2 2026 earnings visual",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "8-K Q2 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000072/now-20260722.htm"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-reports-second-quarter-2026-201000482.html"
+        },
+        {
+          "label": "StockTitan Report",
+          "url": "https://www.stocktitan.net/news/NOW/service-now-to-announce-second-quarter-2026-financial-results-on-m5cdholl37f1.html"
+        },
+        {
+          "label": "NOW Chart",
+          "url": "https://finance.yahoo.com/quote/NOW"
+        }
+      ],
+      "reddit": {
+        "title": "ServiceNow Q2: revenue $3.99B (+24% Y/Y), subscription +24.5%, non-GAAP EPS $0.90 beats $0.86 est — AI ACV crosses $1B for the first time",
+        "body": "ServiceNow reported Q2 2026 Wednesday AH — clean beat, FY26 subscription guide raised, and the AI ACV number is the eye-catcher:\n\n* Total revenue $3.99B (+24% Y/Y)\n* Subscription revenue $3.88B (+24.5% Y/Y, +23% cc)\n* Non-GAAP EPS $0.90 vs $0.86 est\n* Adjusted operating margin 29.5%\n* **cRPO $13.20B (+21% Y/Y, +21.5% cc)** — leading indicator held above 20%\n\nThe headline number:\n\n1. **ServiceNow AI ACV crossed $1B in Q2** — first time. Went from ~zero 18 months ago to $1B+ ARR run-rate on the Now Assist agentic-AI stack\n2. **FY26 subscription guide raised to $15.76-15.78B (+22.5%)** on \"net new ACV outperformance\" and strong US Federal\n3. NOW +~5% AH into Thursday's tape\n\nRead-through: strongest single data point that AI agents are being bought at scale, not just piloted — direct look at CRM, ORCL, MSFT Copilot and DDOG's AI attach.\n\nNext catalysts: MSFT (Jul 30) — first hyperscaler-scale read on Copilot uptake.\n\nFull breakdown: [https://stock-tldr.xyz/releases/now-q2-2026-earnings-july-22](https://stock-tldr.xyz/releases/now-q2-2026-earnings-july-22)"
+      },
+      "publishDate": "2026-07-23T01:36:45.227Z"
+    },
     {
       "id": "dhr-q2-2026-bioprocessing-scare-july-21",
       "categories": [

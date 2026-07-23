@@ -7841,6 +7841,55 @@
         "commodity",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260723t013645z",
+      "timestamp": "2026-07-23T01:36:45.227Z",
+      "source": "github-actions-sweep",
+      "summary": "July 22 AH mega-cap earnings sweep: GOOGL Cloud +82% but capex guide raised to $195-205B (from $180-190B) drags -~5% AH; TSLA record revenue but adj EPS -18%, capex +142%, FCF -$1.09B, -4.1% AH; SMCI +19.84% on $60B backlog + SpaceX Gigawatt AI datacenter; TXN and NOW both beat with raised guides.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "googl-q2-2026-earnings-july-22",
+          "title": "Alphabet (GOOGL) Q2 2026 — revenue $119.8B (+24% Y/Y) and Google Cloud +82% Y/Y to $24.8B beat as diluted EPS jumps to $9.11 (+294% Y/Y); but 2026 capex guide raised to $195–205B (from $180–190B) sends GOOGL -~5% AH",
+          "category": "earnings",
+          "note": "Mega-cap earnings — 2026 capex guide raised $15B on top-end after Cloud +82% quarter; sets AI-spend tone for MSFT/META/AMZN prints next week."
+        },
+        {
+          "id": "tsla-q2-2026-earnings-july-22",
+          "title": "Tesla (TSLA) Q2 2026 — record revenue $28.24B (+26% Y/Y) but adj EPS $0.33 (-18% Y/Y), gross margin 16.8% (from 17.2%), capex $5.79B (+142%) and free cash flow -$1.09B; TSLA -4.1% AH to $358.67",
+          "category": "earnings",
+          "note": "Mega-cap earnings — record revenue but margin compression + AI capex +142% flips FCF negative for first time in years; -4.1% AH."
+        },
+        {
+          "id": "smci-60b-orders-spacex-datacenter-july-22",
+          "title": "Super Micro (SMCI) +19.84% to $30.56 (intraday +26.6%) on Wednesday July 22 — Q4 FY26 preliminary shows record $60B+ new orders and gross margin lifted to 15–17% (from 8.2–8.4% guide); CEO Charles Liang confirms co-building 'another new Gigawatt AI datacenter' for SpaceX and xAI within a year",
+          "category": "mover",
+          "note": "AI-infrastructure catalyst — Q4 preliminary $60B+ orders + CEO confirms co-building Gigawatt AI datacenter for SpaceX/xAI; +19.84% close."
+        },
+        {
+          "id": "txn-q2-2026-earnings-july-22",
+          "title": "Texas Instruments (TXN) Q2 2026 — revenue $5.46B (+23% Y/Y, +13% seq) tops $5.24B est and EPS $2.14 crushes $1.95 est (includes $0.05 benefit); net income $1.98B (+53%), gross margin 61.3%; Q3 guide $5.65–6.15B / $2.23–$2.57 EPS",
+          "category": "earnings",
+          "note": "Analog bellwether beat + raised Q3 guide — signals broad-based industrial/auto/data-center recovery for ADI/STM/NXP/ON complex."
+        },
+        {
+          "id": "now-q2-2026-earnings-july-22",
+          "title": "ServiceNow (NOW) Q2 2026 — revenue $3.99B (+24% Y/Y) and subscription revenue $3.88B (+24.5% Y/Y, +23% cc) beat, non-GAAP EPS $0.90 tops $0.86 est; adj op margin 29.5%, cRPO $13.2B (+21%), AI ACV crosses $1B; FY26 subscription guide raised to $15.76–15.78B",
+          "category": "earnings",
+          "note": "Enterprise-software AI ACV crosses $1B for first time — strongest single data point yet that AI agents are being purchased at scale."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
