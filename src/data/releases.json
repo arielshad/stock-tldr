@@ -1,8 +1,306 @@
 {
-  "generatedAt": "2026-07-23T01:36:45.227Z",
+  "generatedAt": "2026-07-23T13:31:29.108Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ecb-july-2026-hold-225pct-july-23",
+      "categories": [
+        "macro",
+        "rates",
+        "fx"
+      ],
+      "title": "ECB holds all three key rates at 2.25% / 2.40% / 2.65% on Thursday July 23 — Governing Council keeps stance unchanged, cites 'highly volatile' energy prices from Middle East conflict and reiterates 'not pre-committing to a particular rate path'",
+      "org": "European Central Bank",
+      "date": "2026-07-23",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "summary": "ECB's Governing Council holds deposit at 2.25%, MRO at 2.40% and marginal lending at 2.65% on July 23 — 'hawkish-leaning hold' as inflation risks are watched into September's projection meeting.",
+      "tags": [
+        "ecb",
+        "rate-hold",
+        "monetary-policy",
+        "eurozone",
+        "lagarde",
+        "meeting-by-meeting",
+        "data-dependent"
+      ],
+      "importance": "major",
+      "tickers": [],
+      "metrics": {
+        "Deposit facility": "2.25% (unchanged)",
+        "Main refinancing operations": "2.40% (unchanged)",
+        "Marginal lending facility": "2.65% (unchanged)",
+        "Eurozone HICP (latest)": "~2.8%",
+        "Prior meeting": "June 11, 2026"
+      },
+      "explainer": {
+        "tagline": "ECB holds the line at 2.25% deposit — hawkish-leaning pause with data-dependence stressed.",
+        "whatIsIt": "The European Central Bank's Governing Council announced on Thursday July 23 that it is keeping all three key policy rates unchanged for a second consecutive meeting. Deposit facility stays at 2.25%, main refinancing operations at 2.40% and marginal lending facility at 2.65%.",
+        "howItWorks": "The statement flags energy prices as 'highly volatile' after the US–Iran conflict and says the full inflationary impact 'has yet to play out'. APP and PEPP portfolios continue running off at a 'measured and predictable pace'. Council reiterated it 'is not pre-committing to a particular rate path' and will decide meeting-by-meeting based on incoming data. Lagarde's press conference followed at 14:45 CET.",
+        "whyItMatters": "Prediction markets had priced ~99.5% probability of no change, so the reaction is on Lagarde's phrasing rather than the rate. A September move remains live because that meeting includes fresh staff projections; markets had partially priced a cut before oil rallied. EUR/USD, Bund yields and euro-bank funding curves are the near-term watch."
+      },
+      "image": {
+        "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4",
+        "alt": "ECB logo used as social share card for monetary policy press releases",
+        "fit": "cover",
+        "credit": "European Central Bank"
+      },
+      "links": [
+        {
+          "label": "ECB Press Release",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"
+        },
+        {
+          "label": "ECB Rate History",
+          "url": "https://tradingeconomics.com/euro-area/interest-rate"
+        },
+        {
+          "label": "Reuters/AP Recap",
+          "url": "https://www.clickorlando.com/business/2026/07/23/europes-central-bank-holds-rate-steady-amid-swings-in-oil-prices/"
+        },
+        {
+          "label": "FXStreet Preview",
+          "url": "https://www.fxstreet.com/news/european-central-bank-set-to-hold-interest-rates-amid-cooling-inflation-and-weaker-growth-202607230800"
+        }
+      ],
+      "reddit": {
+        "title": "ECB holds again — deposit 2.25%, MRO 2.40%, MLF 2.65%. Lagarde plays it hawkish while oil rallies",
+        "body": "Second consecutive hold from the Governing Council. Rate decision was fully expected (prediction markets had 99.5% priced), so the action is in the language.\n\n* Deposit facility: 2.25% (unchanged)\n* Main refinancing operations: 2.40% (unchanged)\n* Marginal lending facility: 2.65% (unchanged)\n* Statement flags energy prices as 'highly volatile' post the Middle East conflict\n* APP + PEPP still shrinking at a 'measured and predictable pace'\n\nThe two lines that mattered:\n\n1. **'Not pre-committing to a particular rate path'** — Governing Council leaves every option on the table.\n2. **Inflationary impact of the energy shock 'has yet to play out'** — cover for a hawkish-leaning tilt while oil runs.\n\nNext catalysts: Lagarde press conference at 14:45 CET, then September 10 (staff projection meeting — where the real decision goes down).\n\nFull breakdown: [https://stock-tldr.xyz/releases/ecb-july-2026-hold-225pct-july-23](https://stock-tldr.xyz/releases/ecb-july-2026-hold-225pct-july-23)"
+      },
+      "publishDate": "2026-07-23T13:31:29.108Z"
+    },
+    {
+      "id": "lmt-q2-2026-earnings-july-23",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lockheed Martin (LMT) Q2 2026 — revenue $20.1B (+11% Y/Y) and EPS $7.94 (vs $1.46 Y/Y) crush estimates, backlog jumps to record $230B on $65B new orders including $35B THAAD contract; FY26 sales guide lifted to $79.75–81.75B and EPS to $29.95–30.65, LMT +~5% pre-market Thursday July 23",
+      "org": "Lockheed Martin",
+      "date": "2026-07-23",
+      "url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-second-quarter-2026-financial-results-302833219.html",
+      "summary": "LMT beats and guides higher on $20.1B revenue, $7.94 EPS and a record $230B backlog after a $35B multi-year THAAD contract lands in the quarter. FY26 free cash flow raised to over $7B; shares up ~5% pre-market.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "defense",
+        "backlog",
+        "thaad",
+        "free-cash-flow",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "LMT"
+      ],
+      "metrics": {
+        "Revenue": "$20.1B (+11% Y/Y)",
+        "GAAP EPS": "$7.94 vs $7.22 est (vs $1.46 Y/Y)",
+        "Net income": "$1.8B",
+        "Free cash flow": "$2.9B (vs -$0.15B Y/Y)",
+        "Backlog": "$230.4B (record, from $193.6B YE 2025)",
+        "New orders": "$65B in Q2",
+        "FY26 sales guide": "$79.75–81.75B (from $77.5–80.0B)",
+        "FY26 EPS guide": "$29.95–30.65 (from $29.35–30.25)",
+        "FY26 FCF guide": ">$7.0B (from $6.5–6.8B)",
+        "Move": "+~5% pre-market"
+      },
+      "explainer": {
+        "tagline": "LMT crushes Q2, banks a $35B THAAD win, and raises full-year sales, EPS and FCF guides.",
+        "whatIsIt": "Lockheed Martin reported second-quarter 2026 revenue of $20.1B (+11% Y/Y) and GAAP EPS of $7.94 versus $1.46 a year earlier, blowing past the $7.22 consensus. The company raised full-year sales, EPS and free-cash-flow guides across the board.",
+        "howItWorks": "Segment sales: Aeronautics $8.1B (+9%), Missiles and Fire Control $4.1B (+19%), Rotary and Mission Systems $4.4B (+9%), Space $3.5B (+6%). Backlog rose to a record $230.4B on $65B of new orders including a $35B multi-year contract with the Missile Defense Agency for THAAD interceptors — the MFC backlog alone nearly doubled to $87.9B. Free cash flow swung to $2.9B from -$0.15B Y/Y.",
+        "whyItMatters": "The guide raise gives the defense complex a clean beat-and-raise print into a hot geopolitical tape (US–Iran strikes still active, Kuwait desalination hit last week). Peers (RTX, NOC, GD) read across as beneficiaries of the same missile-defense build. THAAD size is the tell — governments are locking in multi-year interceptor stockpiles rather than one-off buys.",
+        "tryIt": "https://finance.yahoo.com/quote/LMT"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS46833/LOCKHEED-MARTIN.jpg?id=OA2778009&p=facebook",
+        "alt": "Lockheed Martin corporate logo used as press-release social card",
+        "fit": "contain",
+        "credit": "Lockheed Martin / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "LMT Press Release",
+          "url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-second-quarter-2026-financial-results-302833219.html"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-q2-2026-earnings-122455574.html"
+        },
+        {
+          "label": "Zacks Note",
+          "url": "https://ca.finance.yahoo.com/news/lockheed-martin-lmt-surpasses-q2-114003317.html"
+        },
+        {
+          "label": "LMT Quote",
+          "url": "https://finance.yahoo.com/quote/LMT"
+        }
+      ],
+      "reddit": {
+        "title": "Lockheed Martin Q2 blowout — revenue $20.1B (+11%), EPS $7.94 vs $7.22 est, $230B record backlog on $35B THAAD win, FY26 guide up across the board",
+        "body": "Cleanest defense print of the cycle. LMT raised every full-year metric and shares are up ~5% pre-market.\n\n* Revenue $20.1B, +11% Y/Y\n* GAAP EPS $7.94 vs $7.22 est (Y/Y comp was $1.46 in Q2 2025)\n* Backlog jumped to record $230.4B on $65B of new orders\n* Missiles and Fire Control backlog nearly doubled to $87.9B\n* Free cash flow $2.9B vs -$0.15B Y/Y\n\nWhat actually drove the print:\n\n1. **$35B THAAD contract signed in Q2** — Missile Defense Agency locked in a multi-year interceptor buy. That single deal moves the MFC segment story.\n2. **Guide raise across the board** — FY26 sales $79.75–81.75B (from $77.5–80.0B), EPS $29.95–30.65 (from $29.35–30.25), FCF now >$7B (from $6.5–6.8B).\n3. **Geopolitical tape doing the rest** — US–Iran strikes ongoing, Kuwait desalination plant hit last week; read-across to RTX / NOC / GD.\n\nNext catalysts: earnings call this morning, and read-across for RTX (July 23 AM) and NOC (July 24 AM).\n\nFull breakdown: [https://stock-tldr.xyz/releases/lmt-q2-2026-earnings-july-23](https://stock-tldr.xyz/releases/lmt-q2-2026-earnings-july-23)"
+      },
+      "publishDate": "2026-07-23T13:31:29.108Z"
+    },
+    {
+      "id": "tmus-q2-2026-earnings-july-23",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "T-Mobile (TMUS) Q2 2026 — revenue $22.79B (+7.9% Y/Y) and diluted EPS $2.99 beat, Core Adj EBITDA $9.5B (+12%) and adj FCF guide raised to $18.4–18.8B (from $18.1–18.7B); but postpaid net account adds slowed to 277K (-13% Y/Y), TMUS -~4.6% pre-market Thursday July 23",
+      "org": "T-Mobile US",
+      "date": "2026-07-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001283699/000128369926000100/tmus-20260723.htm",
+      "summary": "TMUS beats on EPS and revenue with FCF guide raised, but slower postpaid account additions (277K, -13% Y/Y) send shares ~4.6% lower pre-market as investors watch subscriber momentum vs AT&T/VZ.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "postpaid-adds",
+        "fcf-guide-raise",
+        "wireless",
+        "telecom",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TMUS",
+        "T",
+        "VZ"
+      ],
+      "metrics": {
+        "Revenue": "$22.79B (+7.9% Y/Y)",
+        "Service revenue": "$19.0B (+9% Y/Y)",
+        "Postpaid service revenue": "$15.9B (+13% Y/Y)",
+        "GAAP diluted EPS": "$2.99 vs $2.61 est (+5% Y/Y)",
+        "Net income": "$3.2B (+1% Y/Y)",
+        "Postpaid net account adds": "277K (-13% Y/Y)",
+        "Postpaid ARPA": "$152.91 (+2% Y/Y)",
+        "Core Adj EBITDA": "$9.5B (+12% Y/Y)",
+        "Adj FCF": "$4.8B (+4% Y/Y)",
+        "FY26 adj FCF guide": "$18.4–18.8B (from $18.1–18.7B)",
+        "FY26 postpaid accounts guide": "950K–1.05M",
+        "Move": "-~4.6% pre-market"
+      },
+      "explainer": {
+        "tagline": "TMUS beats on EPS + FCF guide but postpaid additions slow, shares slip ~4.6% pre-market.",
+        "whatIsIt": "T-Mobile reported second-quarter 2026 revenue of $22.79B (+7.9% Y/Y) and diluted EPS of $2.99, both topping consensus of $22.95B / $2.61. Net income was $3.2B (+1% Y/Y).",
+        "howItWorks": "Service revenue rose 9% to $19.0B with postpaid service revenue +13% to $15.9B and ARPA up 2% to $152.91. Core Adjusted EBITDA hit $9.5B (+12%) and adjusted free cash flow was $4.8B (+4%). The company raised FY26 operating cash flow guidance to $28.4–28.8B and adjusted FCF to $18.4–18.8B (from $18.1–18.7B); postpaid net account additions guidance held at 950K–1.05M. Q2 postpaid net accounts came in at 277K (-13% Y/Y).",
+        "whyItMatters": "TMUS is now the slower-postpaid-adder in the group after AT&T posted 432K postpaid phone net adds on July 22. Investors are asking whether AT&T's fiber-plus-wireless bundling and VZ's promotional intensity are grinding at TMUS' subscriber engine. The FCF guide raise partly offsets, but the market focus stays on the account line — TMUS churns at 0.99% here vs AT&T at 0.86%.",
+        "tryIt": "https://investor.t-mobile.com/financial-performance/quarterly-results"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/T_Mobile_Delivers_Continued_Strong_Account_Growth_Translating_into_Industry_Leading_Service_Revenue_1085732.webp",
+        "alt": "T-Mobile magenta wordmark used as press-release social card for the Q2 2026 announcement",
+        "fit": "cover",
+        "credit": "T-Mobile / Stock Titan"
+      },
+      "links": [
+        {
+          "label": "TMUS 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001283699/000128369926000100/tmus-20260723.htm"
+        },
+        {
+          "label": "Stock Titan Recap",
+          "url": "https://www.stocktitan.net/news/TMUS/t-mobile-delivers-continued-strong-account-growth-translating-into-u8a6vaihnwyx.html"
+        },
+        {
+          "label": "MarketBeat Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/t-mobile-us-q2-earnings-call-highlights-2026-07-23/"
+        },
+        {
+          "label": "TMUS Quote",
+          "url": "https://finance.yahoo.com/quote/TMUS"
+        }
+      ],
+      "reddit": {
+        "title": "T-Mobile Q2 beats on EPS $2.99 and revenue $22.79B, raises FCF guide — but postpaid net accounts slow to 277K (-13% Y/Y), TMUS -4.6% pre-market",
+        "body": "Classic 'headline beat, subscriber miss' setup for TMUS.\n\n* Revenue $22.79B (+7.9% Y/Y) vs $22.95B est\n* Diluted EPS $2.99 vs $2.61 est (+5% Y/Y)\n* Postpaid service revenue $15.9B (+13% Y/Y)\n* Core Adjusted EBITDA $9.5B (+12% Y/Y)\n* Adjusted FCF $4.8B (+4% Y/Y)\n* Postpaid net account adds only 277K, -13% Y/Y\n* Postpaid ARPA $152.91 (+2% Y/Y), churn 0.99%\n\nWhy the stock is down anyway:\n\n1. **Postpaid accounts slowed to 277K** — after AT&T posted 432K postpaid phone net adds yesterday, this is the second straight quarter where TMUS is the slower-growing account business.\n2. **FCF guide raised to $18.4–18.8B** (from $18.1–18.7B) but the market is treating that as offsetting the subscriber print, not more.\n3. **Full-year postpaid guide held at 950K–1.05M** — implies second-half needs to accelerate to hit the midpoint.\n\nNext catalysts: earnings call at 4:30 pm ET, then VZ Q2 next Tuesday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tmus-q2-2026-earnings-july-23](https://stock-tldr.xyz/releases/tmus-q2-2026-earnings-july-23)"
+      },
+      "publishDate": "2026-07-23T13:31:29.108Z"
+    },
+    {
+      "id": "t-q2-2026-earnings-july-22",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AT&T (T) Q2 2026 — revenue $31.6B (+2.3% Y/Y) and adj EPS $0.65 (vs $0.59 est) beat on Wednesday July 22 as postpaid phone net adds crush to 432K (vs ~338K est) and fiber/fixed-wireless drive record 646K broadband adds; FY26 adj EPS guide reaffirmed at $2.25–$2.35",
+      "org": "AT&T",
+      "date": "2026-07-22",
+      "url": "https://www.prnewswire.com/news-releases/att-delivers-strong-second-quarter-results-as-investment-led-strategy-gains-momentum-302832049.html",
+      "summary": "AT&T posts a subscriber-led beat with 432K postpaid phone net adds and a record 646K internet adds, revenue $31.6B and adj EPS $0.65. FY26 EPS guide reaffirmed at $2.25–$2.35; adj EBITDA +5.2% to $12.3B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "postpaid-adds",
+        "fiber",
+        "fixed-wireless",
+        "wireless",
+        "telecom",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "T",
+        "TMUS",
+        "VZ"
+      ],
+      "metrics": {
+        "Revenue": "$31.6B (+2.3% Y/Y)",
+        "Adj EPS": "$0.65 vs $0.59 est",
+        "GAAP EPS (continuing ops)": "$0.66",
+        "Adj EBITDA": "$12.3B (+5.2% Y/Y)",
+        "Postpaid phone net adds": "432K (vs ~338K est)",
+        "Postpaid phone churn": "0.86%",
+        "Total internet net adds": "646K (367K fiber + 279K fixed wireless)",
+        "Fiber locations reached": "38.6M",
+        "Capex": "$5.7B",
+        "Free cash flow": "$4.7B (from $4.4B Y/Y)",
+        "FY26 adj EPS guide": "$2.25–$2.35 (reaffirmed)",
+        "FY26 FCF guide": ">$18B (reaffirmed)"
+      },
+      "explainer": {
+        "tagline": "AT&T's subscriber engine delivers — 432K postpaid phone adds, 646K broadband adds, and a clean EPS beat.",
+        "whatIsIt": "AT&T reported second-quarter 2026 revenue of $31.6B (+2.3% Y/Y) and adjusted EPS of $0.65 versus $0.59 consensus on Wednesday July 22. Adjusted EBITDA rose 5.2% to $12.3B and free cash flow was $4.7B, up from $4.4B a year earlier.",
+        "howItWorks": "The reorganized Advanced Connectivity segment reported $28.6B in revenue (+4.1%) with service revenue +5.1% to $23.5B and operating income +20.3% to $7.3B. Postpaid phone net adds of 432K beat the ~338K consensus with churn holding at 0.86%. Internet was the standout — record 646K net adds (367K fiber + 279K fixed wireless) took fiber locations reached to 38.6M. Legacy revenue -25.9% to $1.6B; Latin America +16.1% to $1.2B. Capex $5.7B.",
+        "whyItMatters": "AT&T is now taking share from TMUS on postpaid phones (432K vs TMUS' 277K reported on July 23), reversing years of the opposite. Fiber-plus-wireless bundles at scale are the drag on the T-Mobile account line. FY26 adj EPS guide of $2.25–$2.35 and >$18B FCF were reaffirmed with 'double-digit three-year growth through 2028' language — the setup is now a re-rating story if the subscriber wedge holds.",
+        "tryIt": "https://finance.yahoo.com/quote/T"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS594853/AT-T-Logo-V1.jpg?id=OA2778610&p=facebook",
+        "alt": "AT&T corporate logo used as press-release social card",
+        "fit": "contain",
+        "credit": "AT&T / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "AT&T Press Release",
+          "url": "https://www.prnewswire.com/news-releases/att-delivers-strong-second-quarter-results-as-investment-led-strategy-gains-momentum-302832049.html"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/t-q2-2026-earnings-beat-112322335.html"
+        },
+        {
+          "label": "MarketBeat Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/att-q2-earnings-call-highlights-2026-07-22/"
+        },
+        {
+          "label": "T Quote",
+          "url": "https://finance.yahoo.com/quote/T"
+        }
+      ],
+      "reddit": {
+        "title": "AT&T Q2 beat — revenue $31.6B (+2.3%), adj EPS $0.65 vs $0.59 est, 432K postpaid phone adds (vs ~338K est) and record 646K broadband net adds",
+        "body": "Cleanest subscriber print AT&T has posted in years. Investment-led strategy is showing up in every operating metric.\n\n* Revenue $31.6B (+2.3% Y/Y)\n* Adjusted EPS $0.65 vs $0.59 est\n* Adjusted EBITDA $12.3B (+5.2% Y/Y)\n* Postpaid phone net adds: 432K (vs ~338K est)\n* Postpaid phone churn: 0.86%\n* Internet net adds: 646K (367K fiber + 279K fixed wireless) — record\n* Fiber locations reached: 38.6M\n* Free cash flow: $4.7B (from $4.4B Y/Y)\n\nHere's why this print matters:\n\n1. **AT&T is out-adding T-Mobile on postpaid phones** — 432K vs the 277K TMUS just posted for the same quarter. That's a real reversal.\n2. **Fiber-plus-wireless bundling is working at scale** — 38.6M fiber locations reached and the fixed-wireless number (279K) is doing the tail end.\n3. **FY26 guide reaffirmed** — adj EPS $2.25–$2.35, FCF >$18B, and 'double-digit three-year growth through 2028' language kept intact.\n\nNext catalysts: VZ Q2 next Tuesday July 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/t-q2-2026-earnings-july-22](https://stock-tldr.xyz/releases/t-q2-2026-earnings-july-22)"
+      },
+      "publishDate": "2026-07-23T13:31:29.108Z"
+    },
     {
       "id": "googl-q2-2026-earnings-july-22",
       "categories": [

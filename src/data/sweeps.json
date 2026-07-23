@@ -7890,6 +7890,52 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260723t133129z",
+      "timestamp": "2026-07-23T13:31:29.108Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds: ECB Governing Council holds all three key rates unchanged (deposit 2.25%) at the July 23 meeting; Lockheed Martin Q2 blowout with $230B record backlog on a $35B THAAD contract and FY26 guide raise (+~5% pre-market); T-Mobile Q2 beats on EPS/revenue and raises FCF guide but postpaid net accounts slow to 277K (-4.6% pre-market); AT&T Q2 posts a subscriber-led beat with 432K postpaid phone net adds and a record 646K broadband adds.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ecb-july-2026-hold-225pct-july-23",
+          "title": "ECB holds all three key rates at 2.25% / 2.40% / 2.65% on Thursday July 23 — Governing Council keeps stance unchanged, cites 'highly volatile' energy prices from Middle East conflict and reiterates 'not pre-committing to a particular rate path'",
+          "category": "macro",
+          "note": "ECB Governing Council statement on July 23 holds all three key rates unchanged (deposit 2.25%, MRO 2.40%, MLF 2.65%) — primary macro event today; language emphasizes data-dependence and Middle East energy risk."
+        },
+        {
+          "id": "lmt-q2-2026-earnings-july-23",
+          "title": "Lockheed Martin (LMT) Q2 2026 — revenue $20.1B (+11% Y/Y) and EPS $7.94 (vs $1.46 Y/Y) crush estimates, backlog jumps to record $230B on $65B new orders including $35B THAAD contract; FY26 sales guide lifted to $79.75–81.75B and EPS to $29.95–30.65, LMT +~5% pre-market Thursday July 23",
+          "category": "earnings",
+          "note": "Lockheed Martin double-beat with a full-year sales/EPS/FCF guide raise, record $230B backlog on a $35B THAAD contract; LMT +~5% pre-market and defense-sector read-across."
+        },
+        {
+          "id": "tmus-q2-2026-earnings-july-23",
+          "title": "T-Mobile (TMUS) Q2 2026 — revenue $22.79B (+7.9% Y/Y) and diluted EPS $2.99 beat, Core Adj EBITDA $9.5B (+12%) and adj FCF guide raised to $18.4–18.8B (from $18.1–18.7B); but postpaid net account adds slowed to 277K (-13% Y/Y), TMUS -~4.6% pre-market Thursday July 23",
+          "category": "earnings",
+          "note": "T-Mobile beats on EPS and revenue with FCF guide raised, but postpaid net accounts of 277K slowed 13% Y/Y and the stock is -~4.6% pre-market — the subscriber-wedge shift vs AT&T is the story."
+        },
+        {
+          "id": "t-q2-2026-earnings-july-22",
+          "title": "AT&T (T) Q2 2026 — revenue $31.6B (+2.3% Y/Y) and adj EPS $0.65 (vs $0.59 est) beat on Wednesday July 22 as postpaid phone net adds crush to 432K (vs ~338K est) and fiber/fixed-wireless drive record 646K broadband adds; FY26 adj EPS guide reaffirmed at $2.25–$2.35",
+          "category": "earnings",
+          "note": "AT&T Q2 posts a rare double-beat plus a subscriber crush (432K postpaid phone net adds vs ~338K est, record 646K broadband adds) — the counter-print to TMUS' slowdown."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
