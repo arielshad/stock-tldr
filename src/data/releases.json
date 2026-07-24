@@ -1,8 +1,445 @@
 {
-  "generatedAt": "2026-07-24T01:34:19.259Z",
+  "generatedAt": "2026-07-24T13:27:12.415Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "brent-tops-100-red-sea-houthi-tanker-strikes-july-23-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Brent tops $100 for first time since May — +6.45% to $101.10 close on Thursday July 23 after Houthi missile + drone strikes on Saudi tankers Encelia and Layla in the Red Sea; WTI +5.37% to $91.49, five Saudi tankers reverse course",
+      "org": "Yemen Houthi Movement",
+      "date": "2026-07-23",
+      "url": "https://www.thenationalnews.com/business/energy/2026/07/23/oil-hits-100-for-the-first-time-since-may-after-houthi-attacks-on-saudi-ships-in-red-sea/",
+      "summary": "Brent closed +6.45% at $101.10 and WTI +5.37% at $91.49 on Thursday July 23 — first Brent close above $100 since May 26 — after Yemen's Houthis struck two Saudi tankers, Encelia and Layla, with missiles and drones in the Red Sea.",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "houthi",
+        "yemen",
+        "red-sea",
+        "saudi-arabia",
+        "tanker",
+        "geopolitics",
+        "energy"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "metrics": {
+        "Brent": "$101.10 (+6.45%)",
+        "WTI": "$91.49 (+5.37%)",
+        "Tankers struck": "Encelia, Layla",
+        "Saudi tankers reversed course": "5"
+      },
+      "links": [
+        {
+          "label": "The National Coverage",
+          "url": "https://www.thenationalnews.com/business/energy/2026/07/23/oil-hits-100-for-the-first-time-since-may-after-houthi-attacks-on-saudi-ships-in-red-sea/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/brent-crude-surges-past-100-133155512.html"
+        },
+        {
+          "label": "Brent Chart",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ],
+      "explainer": {
+        "tagline": "Houthi strikes on Saudi tankers push Brent above $100 for the first time since May.",
+        "whatIsIt": "Yemen's Houthi movement said on Thursday July 23 that it targeted two Saudi oil tankers — Encelia and Layla — in the Red Sea with missiles and drones, citing an announced blockade of Saudi ports and shipping. The Saudi Press Agency confirmed a fire at the bow of the Encelia; all crew were reported safe.",
+        "howItWorks": "Brent crude rallied 6.45% to close at $101.10, its first close above $100 since May 26. WTI climbed 5.37% to $91.49. Five Saudi oil tankers reversed course in the Red Sea after the Houthi-declared maritime embargo. Brent is now up roughly 40% for July as US-Iran military tensions widen the geographic risk premium beyond the Strait of Hormuz to the Red Sea route.",
+        "whyItMatters": "The Red Sea corridor and the Strait of Hormuz together carry the bulk of Saudi crude to global buyers. With Hormuz already under a Trump-imposed toll and the Red Sea now hosting active Houthi strikes on Saudi hulls, the Saudi export map is being squeezed from both sides. Higher oil at $100 flows through to CPI, tightens the Fed's cutting path (the July 29 FOMC lands next week), and lifts equity-side energy names while weighing on airlines, refiners and consumer discretionaries.",
+        "forWho": "energy desks, macro traders, tanker shipping",
+        "tryIt": "https://finance.yahoo.com/quote/BZ%3DF"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/6DF27FDF713875FA81FE9DB5561DA4C6BB91532B37A6121F87D09B8CBE2001B9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fbd4d6c918af699ba84df918be203fbdc",
+        "alt": "Oil tanker at sea representing Brent crude price surge past $100",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Brent crude closes above $100 for the first time since May — +6.45% to $101.10 after Houthis strike Saudi tankers Encelia and Layla in the Red Sea",
+        "body": "Yemen's Houthis said Thursday July 23 that they hit two Saudi oil tankers — Encelia and Layla — with missiles and drones in the Red Sea. Oil ripped:\n\n* Brent +6.45% to $101.10 close — first close >$100 since May 26\n* WTI +5.37% to $91.49\n* 5 Saudi tankers reversed course in the Red Sea after the Houthi blockade declaration\n* Fire at the bow of the Encelia (crew safe per Saudi Press Agency)\n* Brent now +~40% for July\n\nThe strategic squeeze:\n\n1. **Hormuz already tolled** — Trump reinstated the Iranian blockade July 13 with a 20% cargo toll\n2. **Red Sea now hot** — the alternative route via Petroline pipeline (bypassing Hormuz) ends at Yanbu on the Red Sea, exactly the corridor Houthis just proved they can hit\n3. **Fed cornered** — $100 oil into next Wednesday's July 29 FOMC complicates the cut-path narrative\n\nNext catalysts: July 29 FOMC statement, EIA inventories, any Iranian response.\n\nFull breakdown: [https://stock-tldr.xyz/releases/brent-tops-100-red-sea-houthi-tanker-strikes-july-23-2026](https://stock-tldr.xyz/releases/brent-tops-100-red-sea-houthi-tanker-strikes-july-23-2026)"
+      },
+      "publishDate": "2026-07-24T13:27:12.415Z"
+    },
+    {
+      "id": "trump-forced-labor-tariffs-60-countries-july-23-2026",
+      "categories": [
+        "macro",
+        "regulatory"
+      ],
+      "title": "Trump imposes Section 301 forced-labor tariffs on 60 trading partners — 12.5% on ~43 countries including China and Vietnam, 10% on 17 with some forced-labor prohibitions including UK, Canada and Mexico; effective 12:01 a.m. ET Friday July 24, replaces the expiring 10% global baseline duty",
+      "org": "White House",
+      "date": "2026-07-23",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/",
+      "summary": "Trump imposed Section 301 tariffs of 10% to 12.5% on 60 trading partners citing failure to crack down on forced labor. Vietnam and China get 12.5%; UK, Canada and Mexico get 10%. Duties take effect 12:01 a.m. ET Friday July 24.",
+      "tags": [
+        "tariffs",
+        "trade",
+        "section-301",
+        "forced-labor",
+        "trump",
+        "ustr",
+        "china",
+        "vietnam",
+        "uk",
+        "canada",
+        "mexico",
+        "eu"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Trading partners covered": "60",
+        "Rate — most countries": "12.5%",
+        "Rate — 17 countries with some forced-labor prohibitions": "10%",
+        "Effective": "12:01 a.m. ET Friday July 24, 2026",
+        "Share of US imports covered": "~99%"
+      },
+      "links": [
+        {
+          "label": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/"
+        },
+        {
+          "label": "MS Now",
+          "url": "https://www.ms.now/news/white-house-new-tariffs-forced-labor"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
+        },
+        {
+          "label": "Euronews",
+          "url": "https://www.euronews.com/business/2026/07/24/us-imposes-new-tariffs-on-dozens-of-countries-over-forced-labour-claims"
+        }
+      ],
+      "explainer": {
+        "tagline": "New Section 301 duties on 60 trading partners replace the expiring 10% global baseline — effective 12:01 a.m. Friday.",
+        "whatIsIt": "The Trump administration announced tariffs of 10% to 12.5% on 60 US trading partners it accuses of failing to crack down on forced labor in supply chains. The duties, imposed under Section 301 of US trade law, take effect at 12:01 a.m. ET on Friday July 24 and replace the flat 10% global baseline tariff that expires the same morning. US Trade Representative Jamieson Greer described the action as 'the most sweeping international labor rights action the United States has ever taken.'",
+        "howItWorks": "Most of the 60 covered countries — including China and Vietnam — face a 12.5% rate. A lower 10% rate applies to 17 countries with some existing forced-labor prohibitions, including the United Kingdom, Canada and Mexico. An additional levy is being placed on five other partners including the European Union to bring their rate to 10% or 12.5%. Exemptions include oil and gas, non-US-produced goods, items that would cause economic disruption, goods already covered by sector-specific tariffs (steel, autos), and most USMCA-compliant goods. The list covers roughly 99% of US imports.",
+        "whyItMatters": "The action swaps a flat 10% baseline for a two-tier structure targeting specific bilateral partners, using labor law rather than national-security or trade-imbalance language as the hook. Affected partners from Canberra to Brasília rejected the forced-labor rationale but signaled they would keep negotiating rather than retaliate. The step-up to 12.5% for many partners hits import prices right as Brent crude is closing above $100 — a two-way squeeze on CPI heading into next Wednesday's July 29 FOMC decision.",
+        "forWho": "trade desks, macro strategists, importers, apparel and consumer discretionary",
+        "tryIt": "https://ustr.gov"
+      },
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/22/a231888f-6a61-464e-a90b-1533ed573893/thumbnail/1200x630g2/50eeb36cf373fa3bfb97cdce02cf2f30/ap26203502303023.jpg",
+        "alt": "US Trade Representative and shipping port scene for forced-labor tariff coverage",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Trump slaps 10–12.5% Section 301 tariffs on 60 trading partners citing forced labor — effective 12:01 a.m. ET Friday, replaces the expiring flat 10% baseline",
+        "body": "The White House announced new Section 301 duties on 60 US trading partners, citing failure to crack down on forced labor. Effective 12:01 a.m. ET Friday July 24 — this replaces the flat 10% global baseline that expires the same morning.\n\n* 60 trading partners covered — ~99% of US imports\n* 12.5% rate — most, including China and Vietnam\n* 10% rate — 17 countries with existing forced-labor prohibitions, including UK, Canada and Mexico\n* 5 more (including the EU) get an additional levy to reach 10% or 12.5%\n* Exemptions: oil and gas, existing sector tariffs (steel, autos), most USMCA-compliant goods\n\nWhat's different from the earlier baseline:\n\n1. **Tiered by bilateral partner** — labor law is the hook, not trade imbalance or national security\n2. **Step-up for most** — many countries move from 10% flat to 12.5%\n3. **CPI timing** — hits import prices right as Brent closes above $100, one week before the July 29 FOMC\n\nMost partners rejected the forced-labor framing but signaled they'll keep negotiating, not retaliate — at least so far.\n\nNext catalysts: partner responses, July 29 FOMC, August CPI print.\n\nFull breakdown: [https://stock-tldr.xyz/releases/trump-forced-labor-tariffs-60-countries-july-23-2026](https://stock-tldr.xyz/releases/trump-forced-labor-tariffs-60-countries-july-23-2026)"
+      },
+      "publishDate": "2026-07-24T13:27:12.415Z"
+    },
+    {
+      "id": "vz-q2-2026-earnings-july-24",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Verizon (VZ) Q2 2026 — adj EPS $1.30 (vs $1.27 est, +6.6% Y/Y) and record 40.1% adj EBITDA margin ($13.7B, +7.2% Y/Y) as postpaid phone net adds crush at 184K (vs 106K est); FY26 adj EPS guide lifted to $4.99–$5.04 (from $4.85–$5.00 implied) and buyback target raised to $4.5B; revenue $34.3B (-0.7% Y/Y), reported EPS $0.92 on $1.8B of special items",
+      "org": "Verizon",
+      "date": "2026-07-24",
+      "url": "https://www.verizon.com/about/news/verizon-delivers-record-2q26-results",
+      "summary": "Verizon reported adj EPS $1.30 (vs $1.27 est) and record 40.1% adj EBITDA margin. Postpaid phone net adds beat at 184K vs 106K est. FY26 adj EPS guide raised to $4.99–$5.04, buyback lifted to $4.5B. Revenue $34.3B (-0.7% Y/Y).",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "buyback-raise",
+        "q2-2026",
+        "telecom",
+        "postpaid-phone",
+        "broadband",
+        "fixed-wireless"
+      ],
+      "importance": "major",
+      "tickers": [
+        "VZ",
+        "T",
+        "TMUS"
+      ],
+      "metrics": {
+        "Revenue": "$34.3B (-0.7% Y/Y)",
+        "Adjusted EPS": "$1.30 vs $1.27 est (+6.6% Y/Y)",
+        "Reported EPS": "$0.92 (-22.0% Y/Y, $1.8B special items)",
+        "Adjusted EBITDA": "$13.7B (+7.2% Y/Y, record 40.1% margin)",
+        "Postpaid phone net adds": "184K vs 106K est",
+        "Broadband net adds": "348K (+12.3% Y/Y)",
+        "Fiber net adds": "155K",
+        "Free cash flow": "$6.4B (+24.4% Y/Y)",
+        "FY26 adj EPS guide": "$4.99–$5.04 (6–7% growth)",
+        "FY26 buyback target": "up to $4.5B",
+        "H1 26 shareholder returns": "$9.4B"
+      },
+      "links": [
+        {
+          "label": "Verizon Press Release",
+          "url": "https://www.verizon.com/about/news/verizon-delivers-record-2q26-results"
+        },
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/verizon-delivers-record-2q26-results-as-strategic-transformation-ignites-accelerated-growth/2390986"
+        },
+        {
+          "label": "Benzinga",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60664589/verizon-gains-subscribers-without-price-wars-raises-outlook"
+        },
+        {
+          "label": "VZ Quote",
+          "url": "https://finance.yahoo.com/quote/VZ"
+        }
+      ],
+      "explainer": {
+        "tagline": "Verizon beats on EPS and subscribers, hikes FY26 guide and $4.5B buyback target.",
+        "whatIsIt": "Verizon reported second-quarter 2026 results before Friday July 24's open. Adjusted EPS came in at $1.30, above the $1.27 consensus and 6.6% higher year-over-year. Reported EPS was $0.92, weighed by roughly $1.8B in special items. Total operating revenue was $34.3B, down 0.7% year-over-year.",
+        "howItWorks": "Mobility and broadband service revenue rose 2.8% Y/Y to $23.4B. Adjusted EBITDA reached a record $13.7B (+7.2% Y/Y) on a record 40.1% margin. Postpaid phone net adds hit 184,000, well ahead of the 106,000 analyst consensus. Broadband adds were 348,000 (+12.3% Y/Y), including 155,000 fiber and 193,000 fixed-wireless access. Free cash flow rose 24.4% to $6.4B. Management raised FY26 guidance: adjusted EPS growth of 6.0–7.0% ($4.99–$5.04), mobility and broadband service revenue growth of 2.5–3.0%, free-cash-flow growth of 9.0–10.0%, and the full-year buyback target lifted to up to $4.5B (from $3.0B). Verizon has already returned $9.4B to shareholders in H1 2026.",
+        "whyItMatters": "This is the second straight quarter Verizon has raised guidance under CEO Dan Schulman, and the postpaid phone net-add beat came without heavy promotional subsidies — an important tell for T-Mobile and AT&T on pricing discipline in the postpaid market. Verizon's record adj EBITDA margin (40.1%) narrows the profitability gap with T-Mobile at the same time TMUS just guided below-expectations on postpaid account growth. Read-throughs to T and TMUS on subscriber share; buyback lift signals confidence heading into H2.",
+        "forWho": "telecom analysts, income-focused equity holders",
+        "tryIt": "https://finance.yahoo.com/quote/VZ"
+      },
+      "image": {
+        "url": "https://ss7.vzw.com/is/image/VerizonWireless/verizon-earnings-2q26-results-1920x1080?resMode=sharp2&scl=1",
+        "alt": "Verizon Q2 2026 earnings release cover image",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Verizon Q2: adj EPS $1.30 beats $1.27 est, postpaid phone net adds crush at 184K vs 106K est, buyback lifted to $4.5B — FY26 guide raised for 2nd straight quarter",
+        "body": "Verizon reported before Friday's open. Second straight guide raise under Dan Schulman, driven by subscriber wins without heavy promotional subsidies:\n\n* Adj EPS $1.30 vs $1.27 est (+6.6% Y/Y)\n* Revenue $34.3B (-0.7% Y/Y)\n* Adj EBITDA $13.7B (+7.2% Y/Y) — record 40.1% margin\n* Postpaid phone net adds 184K vs 106K est\n* Broadband net adds 348K (+12.3% Y/Y), fiber 155K, FWA 193K\n* Free cash flow $6.4B (+24.4% Y/Y)\n* Reported EPS $0.92 (-22% Y/Y) on $1.8B of special items\n\nGuide raise + capital return:\n\n1. **FY26 adj EPS** — $4.99–$5.04 (+6–7%), up from prior 4–5%\n2. **Mobility + broadband service revenue** — +2.5–3.0% (from +2–3%)\n3. **Buyback target** — up to $4.5B (from $3.0B)\n4. **H1 returned to shareholders** — $9.4B\n\nRead-throughs: TMUS (which just guided postpaid account adds -13% Y/Y), T (which prints strong postpaid on Wednesday July 22). Pricing discipline is winning at VZ.\n\nNext catalysts: July 29 FOMC, Q3 postpaid net-add trend, fiber acceleration.\n\nFull breakdown: [https://stock-tldr.xyz/releases/vz-q2-2026-earnings-july-24](https://stock-tldr.xyz/releases/vz-q2-2026-earnings-july-24)"
+      },
+      "publishDate": "2026-07-24T13:27:12.415Z"
+    },
+    {
+      "id": "axp-q2-2026-earnings-july-24",
+      "categories": [
+        "earnings"
+      ],
+      "title": "American Express (AXP) Q2 2026 — EPS $4.53 (+11% Y/Y) beats $4.40 est on $19.6B revenue net of interest expense (+10% Y/Y, slight miss vs $19.9B est) as billed business rips to record $455.8B (+9% FX-adjusted); provision for credit losses drops to $1.1B (from $1.4B Y/Y); FY26 revenue growth guide raised to 10% but stock -1.4% premarket on unchanged EPS outlook",
+      "org": "American Express",
+      "date": "2026-07-24",
+      "url": "https://ir.americanexpress.com/news/investor-relations-news/investor-relations-news-details/2026/American-Express-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "AmEx reported EPS $4.53 vs $4.40 est on revenue $19.6B (+10% Y/Y). Billed business hit a record $455.8B (+9% FX-adj). Provision for credit losses fell to $1.1B from $1.4B. FY26 revenue growth guide raised to 10%; stock -1.4% premarket.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-miss",
+        "guidance-raise",
+        "q2-2026",
+        "consumer-credit",
+        "affluent",
+        "travel-and-entertainment",
+        "billed-business"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AXP"
+      ],
+      "metrics": {
+        "EPS": "$4.53 vs $4.40 est (+11% Y/Y)",
+        "Revenue net of interest expense": "$19.6B (+10% Y/Y, vs $19.9B est)",
+        "Billed business": "$455.8B (+9% FX-adjusted)",
+        "T&E spending": "+10% Y/Y",
+        "Provision for credit losses": "$1.1B (vs $1.4B Y/Y)",
+        "FY26 revenue growth guide": "raised to 10%",
+        "Move": "-~1.4% premarket"
+      },
+      "links": [
+        {
+          "label": "AmEx IR",
+          "url": "https://ir.americanexpress.com/news/investor-relations-news/investor-relations-news-details/2026/American-Express-Reports-First-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "AmEx Q2 2026 Earnings Call",
+          "url": "https://ir.americanexpress.com/events/event-details/2026/Q2-2026-American-Express-Earnings-Conference-Call/default.aspx"
+        },
+        {
+          "label": "AXP Quote",
+          "url": "https://finance.yahoo.com/quote/AXP"
+        }
+      ],
+      "explainer": {
+        "tagline": "AmEx beats on EPS, raises full-year revenue guide to 10% growth as affluent card spending accelerates.",
+        "whatIsIt": "American Express reported Q2 2026 results Friday July 24 before the open. GAAP EPS came in at $4.53, up 11% year-over-year and above the $4.40 consensus. Total revenues net of interest expense climbed 10% year-over-year to $19.6B, slightly below the ~$19.9B consensus. Travel and entertainment spending grew 10% year-over-year.",
+        "howItWorks": "Billed business — the company's core spending metric — rose to a record $455.8B (+9% on a foreign-exchange-adjusted basis), up from $416.3B in the prior-year quarter. Provision for credit losses came in at $1.1B, down from $1.4B a year ago — a signal that write-offs remain contained despite the elevated rate backdrop. Management raised its FY26 revenue growth guide to 10% (from 8–10%), citing stronger-than-expected performance in the first half; the full-year EPS range was reaffirmed rather than raised.",
+        "whyItMatters": "AmEx's affluent-focused card base is a live tell on top-tier consumer spending. The T&E acceleration to +10% Y/Y and the 9% FX-adjusted billed-business growth suggest premium travel demand remains firm even as macro headlines darken. The mild premarket dip (-1.4%) reflects the revenue miss versus expectations plus the unchanged EPS outlook — investors wanted the guide raise to flow through to bottom-line. Read-throughs to V, MA on payments volumes and to DAL, MAR, HLT on premium travel.",
+        "forWho": "consumer credit analysts, payments desks, travel exposure watchers",
+        "tryIt": "https://finance.yahoo.com/quote/AXP"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/1280px-American_Express_logo_%282018%29.svg.png",
+        "alt": "American Express corporate logo",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "American Express Q2: EPS $4.53 beats $4.40 est, billed business record $455.8B (+9% FX-adj), FY26 revenue growth guide raised to 10% — stock -1.4% premarket on revenue miss",
+        "body": "AmEx reported before Friday's open. Affluent card spend holding up, credit costs down — but the guide raise didn't hit EPS:\n\n* EPS $4.53 vs $4.40 est (+11% Y/Y)\n* Revenue net of interest expense $19.6B (+10% Y/Y) — slight miss vs $19.9B est\n* Billed business record $455.8B (+9% FX-adjusted, vs $416.3B Y/Y)\n* T&E spending +10% Y/Y\n* Provision for credit losses $1.1B (down from $1.4B Y/Y)\n\nGuide + read-through:\n\n1. **FY26 revenue growth** — raised to 10% (from 8–10%)\n2. **FY26 EPS range** — reaffirmed, not raised\n3. **Premium travel demand** — +10% T&E despite oil at $100 and tariff headlines\n\nStock -1.4% premarket — investors wanted the revenue guide raise to flow through to the bottom line, and the top-line miss vs $19.9B est didn't help. Read-throughs to V, MA on payments and DAL / MAR / HLT on premium travel.\n\nNext catalysts: July 29 FOMC, September consumer credit data.\n\nFull breakdown: [https://stock-tldr.xyz/releases/axp-q2-2026-earnings-july-24](https://stock-tldr.xyz/releases/axp-q2-2026-earnings-july-24)"
+      },
+      "publishDate": "2026-07-24T13:27:12.415Z"
+    },
+    {
+      "id": "chtr-q2-2026-earnings-mover-july-24",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Charter Communications (CHTR) -10.28% on Friday July 24 despite Q2 2026 EPS beat — diluted EPS $10.66 (vs $10.06 est) on $13.5B revenue (-1.7% Y/Y, in line); adj EBITDA $5.4B (-4.3% Y/Y) misses ~$5.57B est, Internet subscribers -172K to 29.4M, video -21K to 12.5M as Spectrum Mobile lines +406K partially offset; FCF $969M (-7.4% Y/Y)",
+      "org": "Charter Communications",
+      "date": "2026-07-24",
+      "url": "https://www.prnewswire.com/news-releases/charter-announces-second-quarter-2026-results-302833892.html",
+      "summary": "Charter reported diluted EPS $10.66 vs $10.06 est but revenue $13.5B slipped -1.7% Y/Y and adj EBITDA $5.4B missed ~$5.57B est. Lost 172K Internet subs and 21K video subs; Spectrum Mobile +406K. FCF $969M (-7.4% Y/Y). CHTR -10.28%.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-in-line",
+        "ebitda-miss",
+        "subscriber-loss",
+        "q2-2026",
+        "cable",
+        "broadband",
+        "mobile",
+        "buyback"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CHTR",
+        "CMCSA"
+      ],
+      "metrics": {
+        "Revenue": "$13.5B (-1.7% Y/Y)",
+        "Adj EBITDA": "$5.4B (-4.3% Y/Y, vs ~$5.57B est)",
+        "Net income": "$1.3B (-0.7% Y/Y)",
+        "Diluted EPS": "$10.66 vs $10.06 est",
+        "Basic EPS": "$10.76",
+        "Spectrum Mobile line adds": "+406K to 12.5M total",
+        "Internet subscribers": "-172K to 29.4M",
+        "Video subscribers": "-21K to 12.5M",
+        "Free cash flow": "$969M (-7.4% Y/Y)",
+        "Capex": "$2.9B",
+        "Share repurchases": "$838M (4.0M Class A shares)",
+        "Move": "-10.28%"
+      },
+      "links": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/charter-announces-second-quarter-2026-results-302833892.html"
+        },
+        {
+          "label": "8-K Filing (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001091667/000109166726000051/chtrex991earningsrelease63.htm"
+        },
+        {
+          "label": "Charter IR",
+          "url": "https://corporate.charter.com/newsroom/charter-announces-second-quarter-2026-results"
+        },
+        {
+          "label": "CHTR Quote",
+          "url": "https://finance.yahoo.com/quote/CHTR"
+        }
+      ],
+      "explainer": {
+        "tagline": "Charter beats on EPS but loses 172K Internet subs and misses EBITDA — CHTR drops 10.28%.",
+        "whatIsIt": "Charter Communications reported Q2 2026 results Friday July 24 before the open. Diluted EPS came in at $10.66 (basic $10.76), above the $10.06 consensus. Total revenue was $13.5B, down 1.7% year-over-year and roughly in line with expectations. Adjusted EBITDA fell 4.3% to $5.4B, missing the ~$5.57B consensus. Net income was $1.3B (-0.7% Y/Y).",
+        "howItWorks": "The subscriber picture was the drag: Charter lost 172,000 residential Internet customers in Q2, taking the base to 29.4M — a continued bleed to fiber and fixed-wireless competition. Video subs fell another 21,000 to 12.5M. Spectrum Mobile lines added 406,000 (12.5M total, +15.5% Y/Y) — the one bright spot, and the segment tied to the SpaceX partnership talks flagged in June. Free cash flow was $969M (-7.4% Y/Y); capex ran $2.9B and Charter bought back 4.0M Class A shares for $838M plus retired $1.2B principal of notes for $1.0B cash.",
+        "whyItMatters": "Charter's core cable-connectivity thesis is under real pressure: -172K Internet net adds is a genuine subscriber-share loss to fiber and FWA (fixed wireless — the same product Verizon just posted +193K adds on in this same sweep). The EBITDA miss combined with declining subs shows pricing power is thinning even as mobile masks headline revenue. The 10.28% drop matches the tape's read: a mid-single-digit EPS beat doesn't buy relief when the underlying broadband business is shrinking. Read-throughs to CMCSA (same subscriber dynamic), T and TMUS (winning FWA share), and to fiber names.",
+        "forWho": "cable analysts, broadband allocators, telecom short book",
+        "tryIt": "https://finance.yahoo.com/quote/CHTR"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Charter_Announces_Second_Quarter_2026_Results_1086600.webp",
+        "alt": "Charter Communications Q2 2026 results cover image",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Charter Q2: EPS $10.66 beats $10.06 est but Internet subs -172K and adj EBITDA $5.4B misses ~$5.57B est — CHTR -10.28%",
+        "body": "Charter reported before Friday's open. EPS beat, but the subscriber picture and EBITDA miss overwhelmed the print — stock -10.28%:\n\n* Diluted EPS $10.66 vs $10.06 est\n* Revenue $13.5B (-1.7% Y/Y) — in line\n* Adj EBITDA $5.4B (-4.3% Y/Y) — miss vs ~$5.57B est\n* Net income $1.3B (-0.7% Y/Y)\n* Internet subs -172K to 29.4M — bleed to fiber + FWA continues\n* Video subs -21K to 12.5M\n* Spectrum Mobile +406K lines to 12.5M (+15.5% Y/Y) — one bright spot\n* Free cash flow $969M (-7.4% Y/Y)\n* Capex $2.9B, buybacks $838M (4.0M Class A)\n\nWhy it broke:\n\n1. **Broadband share loss is real** — VZ just reported +193K fixed-wireless adds and +155K fiber adds in the same sweep\n2. **Mobile masks the top line** — but at low margin, so it doesn't rescue EBITDA\n3. **EPS beat is buybacks-flattered** — 4.0M Class A shares retired at $838M this quarter alone\n\nRead-throughs: CMCSA (same subscriber dynamic), VZ / T / TMUS (winning FWA share).\n\nNext catalysts: SpaceX partnership news, cable overbuild data.\n\nFull breakdown: [https://stock-tldr.xyz/releases/chtr-q2-2026-earnings-mover-july-24](https://stock-tldr.xyz/releases/chtr-q2-2026-earnings-mover-july-24)"
+      },
+      "publishDate": "2026-07-24T13:27:12.415Z"
+    },
+    {
+      "id": "hca-q2-2026-earnings-july-24",
+      "categories": [
+        "earnings"
+      ],
+      "title": "HCA Healthcare (HCA) Q2 2026 — revenue $20.23B (+8.7% Y/Y) and diluted EPS $7.62 (+11.6% Y/Y) beat as same-facility admissions +2.5% and ER visits +3.6%; adj EBITDA $4.03B (+4.6% Y/Y); FY26 guide previously narrowed on July 14 to revenue $77.0–79.5B, adj EBITDA $15.4–16.1B and diluted EPS $28.70–30.50 (from prior $76.5–80.0B / $15.55–16.45B / $29.10–31.50) on $400M payer-mix headwind offset by $400M Medicaid Supplemental Payment benefit",
+      "org": "HCA Healthcare",
+      "date": "2026-07-24",
+      "url": "https://investor.hcahealthcare.com/news/news-details/2026/HCA-Healthcare-Reports-Second-Quarter-2026-Results/default.aspx",
+      "summary": "HCA reported Q2 revenue $20.23B (+8.7% Y/Y) and diluted EPS $7.62 (+11.6% Y/Y). Adj EPS $7.59 (+11.0%), adj EBITDA $4.03B (+4.6%). FY26 guide was previously narrowed lower on July 14 preview; today's print confirms.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "eps-beat",
+        "q2-2026",
+        "hospitals",
+        "healthcare",
+        "medicaid",
+        "aca-subsidies",
+        "same-facility-admissions"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HCA",
+        "UHS",
+        "THC"
+      ],
+      "metrics": {
+        "Revenue": "$20.23B (+8.7% Y/Y)",
+        "Diluted EPS": "$7.62 (+11.6% Y/Y)",
+        "Adjusted diluted EPS": "$7.59 (+11.0% Y/Y)",
+        "Adjusted EBITDA": "$4.03B (+4.6% Y/Y)",
+        "Same-facility admissions": "+2.5%",
+        "Same-facility equivalent admissions": "+2.7%",
+        "ER visits (same facility)": "+3.6%",
+        "Cash from operating activities": "$2.335B (vs $4.210B Y/Y)",
+        "FY26 revenue guide": "$77.0–79.5B",
+        "FY26 adj EBITDA guide": "$15.4–16.1B",
+        "FY26 diluted EPS guide": "$28.70–30.50"
+      },
+      "links": [
+        {
+          "label": "HCA IR",
+          "url": "https://investor.hcahealthcare.com/news/news-details/2026/HCA-Healthcare-Reports-Second-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "July 14 Preview + Guide Revision",
+          "url": "https://investor.hcahealthcare.com/news/news-details/2026/HCA-Healthcare-Previews-Second-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "8-K Filing (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000860730/000119312526302539/hca-ex99_1.htm"
+        },
+        {
+          "label": "HCA Quote",
+          "url": "https://finance.yahoo.com/quote/HCA"
+        }
+      ],
+      "explainer": {
+        "tagline": "HCA reports Q2 EPS $7.62 (+12%) confirming the July 14 preview; FY26 guide already narrowed on payer-mix shift.",
+        "whatIsIt": "HCA Healthcare reported second-quarter 2026 results Friday July 24. Revenue was $20.23B (+8.7% Y/Y), net income attributable to HCA $1.699B (+2.8%), and diluted EPS $7.62 (+11.6%). Adjusted diluted EPS was $7.59 (+11.0%). Adjusted EBITDA was $4.03B (+4.6%). Same-facility admissions rose 2.5% and same-facility equivalent admissions rose 2.7%; same-facility ER visits were up 3.6%.",
+        "howItWorks": "HCA previewed today's numbers on July 14 alongside a full-year guidance revision: revenue narrowed to $77.0–79.5B (from $76.5–80.0B), net income to $6.3–6.7B (from $6.495–7.035B), adjusted EBITDA to $15.4–16.1B (from $15.55–16.45B), and diluted EPS to $28.70–30.50 (from $29.10–31.50). Management flagged an approximately $400M unfavorable pretax impact from a payer-mix shift tied to health-insurance-exchange coverage losses, offset by approximately $400M in incremental Medicaid Supplemental Payment Program benefit primarily from Florida. Operating cash flow fell to $2.335B from $4.210B in Q2 2025.",
+        "whyItMatters": "The Q2 numbers land squarely on the July 14 preview — a formal confirmation rather than a fresh surprise, but the same-facility volume growth (admissions +2.5%, ER visits +3.6%) shows underlying demand is still expanding despite the guidance narrowing. The payer-mix headwind is the core story: as ACA subsidies expire and coverage shrinks, hospitals see more uninsured/self-pay volume, which compresses realized reimbursement. That risk is not HCA-specific — read-through to UHS, THC and other for-profit hospital operators.",
+        "forWho": "healthcare-services analysts, hospital equity holders",
+        "tryIt": "https://finance.yahoo.com/quote/HCA"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2019_HCA_logo.svg/1280px-2019_HCA_logo.svg.png",
+        "alt": "HCA Healthcare corporate logo",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "HCA Healthcare Q2: revenue $20.23B (+8.7% Y/Y), diluted EPS $7.62 (+11.6% Y/Y), same-facility admissions +2.5% — confirms July 14 preview + narrowed FY26 guide",
+        "body": "HCA reported before Friday's open. Numbers match the July 14 preliminary preview:\n\n* Revenue $20.23B (+8.7% Y/Y)\n* Diluted EPS $7.62 (+11.6% Y/Y)\n* Adj EPS $7.59 (+11.0% Y/Y)\n* Adj EBITDA $4.03B (+4.6% Y/Y)\n* Same-facility admissions +2.5%\n* Same-facility ER visits +3.6%\n* Operating cash flow $2.335B (from $4.210B Y/Y)\n\nFY26 guide (narrowed on July 14 preview, confirmed today):\n\n1. **Revenue** — $77.0–79.5B (from $76.5–80.0B)\n2. **Adj EBITDA** — $15.4–16.1B (from $15.55–16.45B)\n3. **Diluted EPS** — $28.70–30.50 (from $29.10–31.50)\n\nWhat's happening under the hood:\n\n1. **-$400M pretax payer-mix headwind** — ACA subsidy expiry pushes more uninsured/self-pay volume\n2. **+$400M Medicaid Supplemental Payment benefit** — mostly Florida state programs\n3. **Volume is still growing** — +2.5% admissions and +3.6% ER visits despite the mix drag\n\nRead-through: UHS, THC on the same payer-mix dynamic.\n\nNext catalysts: Q3 admissions trend, ACA re-enrollment window.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hca-q2-2026-earnings-july-24](https://stock-tldr.xyz/releases/hca-q2-2026-earnings-july-24)"
+      },
+      "publishDate": "2026-07-24T13:27:12.415Z"
+    },
     {
       "id": "intc-q2-2026-earnings-july-23",
       "categories": [

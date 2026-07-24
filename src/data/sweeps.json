@@ -7974,6 +7974,64 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260724t132712z",
+      "timestamp": "2026-07-24T13:27:12.415Z",
+      "source": "github-actions-sweep",
+      "summary": "Six items added: Brent tops $100 on Houthi tanker strikes (Jul 23), Trump Section 301 forced-labor tariffs on 60 partners (Jul 23, effective Jul 24), and Q2 2026 earnings from Verizon (guide raise + record margin), American Express (EPS beat + FY revenue guide raise), Charter (-10.28% on subscriber losses + EBITDA miss) and HCA Healthcare (confirming July 14 preview).",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brent-tops-100-red-sea-houthi-tanker-strikes-july-23-2026",
+          "title": "Brent tops $100 for first time since May — +6.45% to $101.10 close on Thursday July 23 after Houthi missile + drone strikes on Saudi tankers Encelia and Layla in the Red Sea; WTI +5.37% to $91.49, five Saudi tankers reverse course",
+          "category": "commodity",
+          "note": "First Brent close above $100 since May 26; multi-source coverage of Houthi strikes on Encelia and Layla; five Saudi tankers reversed course. Wall of coverage."
+        },
+        {
+          "id": "trump-forced-labor-tariffs-60-countries-july-23-2026",
+          "title": "Trump imposes Section 301 forced-labor tariffs on 60 trading partners — 12.5% on ~43 countries including China and Vietnam, 10% on 17 with some forced-labor prohibitions including UK, Canada and Mexico; effective 12:01 a.m. ET Friday July 24, replaces the expiring 10% global baseline duty",
+          "category": "macro",
+          "note": "Section 301 tariffs replacing the expiring 10% baseline; effective 12:01 a.m. ET Friday July 24; covers ~99% of US imports; multiple tier-1 outlets confirmed."
+        },
+        {
+          "id": "vz-q2-2026-earnings-july-24",
+          "title": "Verizon (VZ) Q2 2026 — adj EPS $1.30 (vs $1.27 est, +6.6% Y/Y) and record 40.1% adj EBITDA margin ($13.7B, +7.2% Y/Y) as postpaid phone net adds crush at 184K (vs 106K est); FY26 adj EPS guide lifted to $4.99–$5.04 (from $4.85–$5.00 implied) and buyback target raised to $4.5B; revenue $34.3B (-0.7% Y/Y), reported EPS $0.92 on $1.8B of special items",
+          "category": "earnings",
+          "note": "Mega-cap earnings; adj EPS beat, subscriber beat, guide raise for 2nd straight quarter, buyback lifted to $4.5B."
+        },
+        {
+          "id": "axp-q2-2026-earnings-july-24",
+          "title": "American Express (AXP) Q2 2026 — EPS $4.53 (+11% Y/Y) beats $4.40 est on $19.6B revenue net of interest expense (+10% Y/Y, slight miss vs $19.9B est) as billed business rips to record $455.8B (+9% FX-adjusted); provision for credit losses drops to $1.1B (from $1.4B Y/Y); FY26 revenue growth guide raised to 10% but stock -1.4% premarket on unchanged EPS outlook",
+          "category": "earnings",
+          "note": "Mega-cap earnings; EPS beat, FY26 revenue growth guide raised to 10%, record billed business, but stock -1.4% premarket on revenue miss + no EPS raise."
+        },
+        {
+          "id": "chtr-q2-2026-earnings-mover-july-24",
+          "title": "Charter Communications (CHTR) -10.28% on Friday July 24 despite Q2 2026 EPS beat — diluted EPS $10.66 (vs $10.06 est) on $13.5B revenue (-1.7% Y/Y, in line); adj EBITDA $5.4B (-4.3% Y/Y) misses ~$5.57B est, Internet subscribers -172K to 29.4M, video -21K to 12.5M as Spectrum Mobile lines +406K partially offset; FCF $969M (-7.4% Y/Y)",
+          "category": "earnings",
+          "note": "Named mover -10.28% with clear catalyst (subscriber loss + adj EBITDA miss). Earnings + mover combo."
+        },
+        {
+          "id": "hca-q2-2026-earnings-july-24",
+          "title": "HCA Healthcare (HCA) Q2 2026 — revenue $20.23B (+8.7% Y/Y) and diluted EPS $7.62 (+11.6% Y/Y) beat as same-facility admissions +2.5% and ER visits +3.6%; adj EBITDA $4.03B (+4.6% Y/Y); FY26 guide previously narrowed on July 14 to revenue $77.0–79.5B, adj EBITDA $15.4–16.1B and diluted EPS $28.70–30.50 (from prior $76.5–80.0B / $15.55–16.45B / $29.10–31.50) on $400M payer-mix headwind offset by $400M Medicaid Supplemental Payment benefit",
+          "category": "earnings",
+          "note": "Confirms July 14 preview + guidance revision; underlying same-facility volume growth still positive but ACA-driven payer-mix shift narrows FY26 guide."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "commodity",
+        "macro",
+        "regulatory",
+        "mover"
+      ]
     }
   ]
 }
