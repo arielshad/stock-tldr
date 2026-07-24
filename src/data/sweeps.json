@@ -7936,6 +7936,44 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260724t013419z",
+      "timestamp": "2026-07-24T01:34:19.259Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds for the July 24 sweep: Intel Q2 2026 beat (revenue +25%, Data Center & AI +59%, INTC +11% AH); Union Pacific Q2 2026 beat + raise (record revenue $6.86B, adj EPS $3.41, +5.30% to $308.06); and a historic US jobless claims print (187K, lowest since Sep 1969).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "intc-q2-2026-earnings-july-23",
+          "title": "Intel (INTC) Q2 2026 — revenue $16.1B (+25% Y/Y, fastest growth since 2011) and non-GAAP EPS $0.42 (double the $0.21 est) crush as Data Center & AI +59% to $6.3B and Foundry +31% to $5.8B; Q3 guide $15.8–16.8B and $0.38 non-GAAP EPS tops $0.27 est; GAAP EPS $(2.16) reflects $12.5B CHIPS-Act escrowed-share mark-to-market, INTC +~11% AH",
+          "category": "earnings",
+          "note": "Intel's Q2 print — biggest revenue growth in 15+ years, non-GAAP EPS double the Street, Q3 guide well above consensus, INTC +11% AH after a 327% YTD run into the print."
+        },
+        {
+          "id": "unp-q2-2026-earnings-july-23",
+          "title": "Union Pacific (UNP) Q2 2026 — record operating revenue $6.864B (+12% Y/Y) and record freight revenue $6.518B (+12%) beat estimates on Thursday July 23; adj EPS $3.41 (vs $3.24 est), reported EPS $3.36 (+7% Y/Y), record net income $1.993B and adj operating ratio 59.2%; FY26 outlook raised to high-single-digit reported EPS growth; UNP +5.30% to $308.06",
+          "category": "earnings",
+          "note": "First mega-cap rail Q2 print — beat, raise, +5.30%. Freight revenue record, adj operating ratio 59.2%, FY26 EPS growth outlook lifted. Norfolk Southern merger update on Canadian National settlement."
+        },
+        {
+          "id": "us-jobless-claims-187k-1969-low-july-23-2026",
+          "title": "US initial jobless claims fall to 187,000 for week ending July 18 — lowest since September 1969, well below 210K Bloomberg consensus and down 22K from 209K prior week; continuing claims 1.796M (est 1.807M); 4-week moving average -7,250 to 207,500",
+          "category": "macro",
+          "note": "57-year low in weekly initial jobless claims (187K vs 210K est) reframes the labor market debate; runs directly against the AI-jobs-apocalypse narrative that dominated 1H 2026."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }

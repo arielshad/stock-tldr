@@ -1,8 +1,226 @@
 {
-  "generatedAt": "2026-07-23T13:31:29.108Z",
+  "generatedAt": "2026-07-24T01:34:19.259Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "intc-q2-2026-earnings-july-23",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Intel (INTC) Q2 2026 — revenue $16.1B (+25% Y/Y, fastest growth since 2011) and non-GAAP EPS $0.42 (double the $0.21 est) crush as Data Center & AI +59% to $6.3B and Foundry +31% to $5.8B; Q3 guide $15.8–16.8B and $0.38 non-GAAP EPS tops $0.27 est; GAAP EPS $(2.16) reflects $12.5B CHIPS-Act escrowed-share mark-to-market, INTC +~11% AH",
+      "org": "Intel",
+      "date": "2026-07-23",
+      "url": "https://newsroom.intel.com/corporate/intel-reports-second-quarter-2026-financial-results",
+      "summary": "Intel prints biggest quarterly revenue growth in 15 years — Data Center & AI +59% Y/Y, Foundry +31%. Non-GAAP EPS $0.42 doubles $0.21 est; GAAP $(2.16) is a $12.5B non-cash CHIPS-Act escrow markdown. INTC +11% after hours.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-2026",
+        "semis",
+        "ai-capex",
+        "data-center",
+        "foundry",
+        "chips-act"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INTC",
+        "AMD",
+        "TSM"
+      ],
+      "metrics": {
+        "Revenue": "$16.1B (+25% Y/Y)",
+        "Non-GAAP EPS": "$0.42 vs $0.21 est",
+        "GAAP EPS": "$(2.16)",
+        "Data Center & AI": "$6.3B (+59% Y/Y)",
+        "Client Computing & Physical AI": "$8.9B (+13% Y/Y)",
+        "Intel Foundry": "$5.8B (+31% Y/Y)",
+        "Q3 revenue guide": "$15.8–16.8B",
+        "Q3 non-GAAP EPS guide": "$0.38 vs $0.27 est",
+        "Move": "+~11% AH"
+      },
+      "links": [
+        {
+          "label": "Intel Newsroom",
+          "url": "https://newsroom.intel.com/corporate/intel-reports-second-quarter-2026-financial-results"
+        },
+        {
+          "label": "8-K Filing (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000155/intc-20260723.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html"
+        },
+        {
+          "label": "INTC Quote",
+          "url": "https://finance.yahoo.com/quote/INTC"
+        }
+      ],
+      "explainer": {
+        "tagline": "Intel's Q2 revenue jumps 25% — biggest quarterly growth in 15 years as AI demand outstrips capacity.",
+        "whatIsIt": "Intel reported second-quarter 2026 results after Thursday's close on July 23. Revenue reached $16.1 billion, up 25% year-over-year, the fastest quarterly growth since 2011. Non-GAAP EPS came in at $0.42 versus the $0.21 consensus, while GAAP EPS was $(2.16) on a $12.5 billion non-cash mark-to-market on the CHIPS-Act escrowed shares.",
+        "howItWorks": "Data Center & AI revenue climbed 59% Y/Y to $6.3 billion. Client Computing & Physical AI rose 13% to $8.9 billion. Intel Foundry hit $5.8 billion, up 31%. Non-GAAP gross margin recovered to 41.8%. CEO Lip-Bu Tan noted Intel 'cannot fully meet current customer demand' for data-center products. For Q3, Intel guided revenue $15.8–16.8B, non-GAAP gross margin 42.0%, and non-GAAP EPS $0.38 (versus $0.27 consensus).",
+        "whyItMatters": "The Q2 print reframes the Intel narrative: after a 327% YTD run, the beat plus above-consensus Q3 guide confirms AI is now the growth driver rather than a distraction. The 59% Y/Y jump in Data Center & AI puts Intel back in the AI-server conversation alongside AMD and NVDA. The $12.5B CHIPS-Act mark is a one-time non-cash accounting item, not an operational loss. Read-throughs to AMD (server share dynamics) and TSM (Foundry competition).",
+        "forWho": "semis traders, INTC turnaround thesis holders",
+        "tryIt": "https://finance.yahoo.com/quote/INTC"
+      },
+      "image": {
+        "url": "https://newsroom.intel.com/wp-content/uploads/2024/11/intel-card-scaled.jpg",
+        "alt": "Intel Corporation logo on newsroom card graphic",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "Intel Q2: revenue +25% to $16.1B (fastest growth since 2011), Data Center & AI +59%, non-GAAP EPS doubles estimate — INTC +11% AH",
+        "body": "Intel reported after Thursday's close on July 23. The print was well ahead across the board and CEO Lip-Bu Tan said the company 'cannot fully meet' AI data-center demand:\n\n* Revenue $16.1B (+25% Y/Y) — biggest quarterly growth in 15+ years\n* Data Center & AI $6.3B (+59% Y/Y)\n* Intel Foundry $5.8B (+31% Y/Y)\n* Client Computing & Physical AI $8.9B (+13% Y/Y)\n* Non-GAAP EPS $0.42 vs $0.21 est — double the Street\n* GAAP EPS $(2.16) reflects a $12.5B non-cash mark-to-market on CHIPS-Act escrowed shares\n\nGuide is what really got the AH move:\n\n1. **Q3 revenue $15.8–16.8B** — midpoint above Street\n2. **Q3 non-GAAP EPS $0.38** vs $0.27 consensus\n3. **Non-GAAP gross margin 42.0%** — margin recovery track intact\n\nINTC +~11% after hours after a 327% YTD run into the print. Read-throughs to AMD server share and TSM foundry competition.\n\nFull breakdown: [https://stock-tldr.xyz/releases/intc-q2-2026-earnings-july-23](https://stock-tldr.xyz/releases/intc-q2-2026-earnings-july-23)"
+      },
+      "publishDate": "2026-07-24T01:34:19.259Z"
+    },
+    {
+      "id": "unp-q2-2026-earnings-july-23",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Union Pacific (UNP) Q2 2026 — record operating revenue $6.864B (+12% Y/Y) and record freight revenue $6.518B (+12%) beat estimates on Thursday July 23; adj EPS $3.41 (vs $3.24 est), reported EPS $3.36 (+7% Y/Y), record net income $1.993B and adj operating ratio 59.2%; FY26 outlook raised to high-single-digit reported EPS growth; UNP +5.30% to $308.06",
+      "org": "Union Pacific",
+      "date": "2026-07-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000249/a2026-07x238xkex991earning.htm",
+      "summary": "Union Pacific beats and raises: record $6.864B revenue (+12%), adj EPS $3.41 (est $3.24), adj operating ratio 59.2%. FY26 EPS growth outlook lifted to high-single-digit; STB merger with Norfolk Southern still in abeyance. UNP +5.3% to $308.06.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-2026",
+        "rails",
+        "transports",
+        "mna",
+        "unp-nsc-merger"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UNP",
+        "NSC"
+      ],
+      "metrics": {
+        "Revenue": "$6.864B (+12% Y/Y)",
+        "Freight Revenue": "$6.518B (+12% Y/Y, record)",
+        "Adj EPS": "$3.41 vs $3.24 est",
+        "Reported EPS": "$3.36 (+7% Y/Y)",
+        "Net Income": "$1.993B (record)",
+        "Operating Income": "$2.763B (+9%, record)",
+        "Adj Operating Ratio": "59.2%",
+        "YTD Free Cash Flow": "$1.812B (vs $1.105B Y/Y)",
+        "FY26 outlook": "raised to high-single-digit reported EPS growth",
+        "Move": "+5.30% to $308.06"
+      },
+      "links": [
+        {
+          "label": "8-K Filing (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000249/a2026-07x238xkex991earning.htm"
+        },
+        {
+          "label": "UP Financial Press",
+          "url": "https://www.up.com/press-releases/financial"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60647165/union-pacific-posts-best-ever-freight-revenue-raises-profit-outlook"
+        },
+        {
+          "label": "UNP Quote",
+          "url": "https://finance.yahoo.com/quote/UNP"
+        }
+      ],
+      "explainer": {
+        "tagline": "UP beats and raises on record freight revenue as pricing above inflation, volume growth and productivity all click.",
+        "whatIsIt": "Union Pacific reported Q2 2026 before Thursday's open on July 23. Operating revenue rose 12% to a record $6.864 billion. Adjusted EPS of $3.41 beat the $3.24 consensus; reported EPS was $3.36 (+7% Y/Y). Net income hit a record $1.993 billion.",
+        "howItWorks": "Freight revenue climbed 12% Y/Y to a record $6.518 billion on 2% carload growth and fuel-surcharge tailwinds. Adjusted operating ratio improved to 59.2% (reported 59.7%). Freight-car velocity +5%, workforce productivity +5%, train length +2%. YTD operating cash flow $5.516B (vs $4.543B) and free cash flow $1.812B (vs $1.105B). Management raised the 2026 outlook to high-single-digit reported EPS growth.",
+        "whyItMatters": "First mega-cap rail Q2 print sets the tone for the transports; the beat + raise plus improving operating ratio confirm pricing power stayed above inflation despite a soft macro. Separately UP reached a settlement with Canadian National over competitive concerns tied to the pending Norfolk Southern (NSC) merger — the STB accepted the joint application May 28 and applicants must file supplemental information by July 27, with the deal targeted for 2027 close.",
+        "forWho": "transports/industrials investors, UNP-NSC merger arb",
+        "tryIt": "https://finance.yahoo.com/quote/UNP"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/23/Union-Pacific.jpg",
+        "alt": "Union Pacific freight train in yard, Q2 2026 earnings coverage",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Union Pacific beats and raises: record $6.86B revenue (+12%), adj EPS $3.41 crushes $3.24 est, adj OR 59.2% — UNP +5.30% to $308.06",
+        "body": "UNP reported before Thursday's open. Everything ran the right way — revenue, margin, cash flow — and management pushed FY26 EPS growth guide up:\n\n* Operating revenue **$6.864B** (+12% Y/Y) — record\n* Freight revenue **$6.518B** (+12% Y/Y) — record\n* Adj EPS **$3.41** vs $3.24 est\n* Net income **$1.993B** — record\n* Adj operating ratio **59.2%**\n* YTD FCF **$1.812B** vs $1.105B Y/Y\n\nDrivers:\n\n1. **Pricing above inflation held** — freight revenue +12% on just +2% carloads\n2. **Productivity gains stuck** — freight-car velocity +5%, workforce productivity +5%\n3. **Guide raise** — FY26 outlook lifted to high-single-digit reported EPS growth\n\nOn the merger: UP settled with Canadian National over competitive concerns tied to the Norfolk Southern deal. STB accepted the joint application on May 28; supplemental info due July 27; deal targeted for 2027.\n\nNext catalysts: STB July 27 supplemental filing, then July 24 SLB / rest of transports read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/unp-q2-2026-earnings-july-23](https://stock-tldr.xyz/releases/unp-q2-2026-earnings-july-23)"
+      },
+      "publishDate": "2026-07-24T01:34:19.259Z"
+    },
+    {
+      "id": "us-jobless-claims-187k-1969-low-july-23-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "US initial jobless claims fall to 187,000 for week ending July 18 — lowest since September 1969, well below 210K Bloomberg consensus and down 22K from 209K prior week; continuing claims 1.796M (est 1.807M); 4-week moving average -7,250 to 207,500",
+      "org": "U.S. Department of Labor",
+      "date": "2026-07-23",
+      "url": "https://qz.com/us-initial-jobless-claims-187000-lowest-2026-072326",
+      "summary": "US initial jobless claims plunged 22,000 to 187,000 in the week ended July 18 — the fewest since September 1969 and a huge undershoot of the 210K Bloomberg consensus. Continuing claims fell to 1.796M and the 4-week average dropped to 207,500.",
+      "tags": [
+        "macro",
+        "jobless-claims",
+        "labor-market",
+        "unemployment",
+        "dol",
+        "no-recession"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Initial claims": "187,000 (week ending July 18)",
+        "Consensus": "210,000 (Bloomberg)",
+        "Prior week": "209,000",
+        "W/W change": "-22,000",
+        "4-week moving avg": "207,500 (-7,250)",
+        "Continuing claims": "1.796M (est 1.807M)",
+        "Historic reference": "lowest since Sep 1969"
+      },
+      "links": [
+        {
+          "label": "Quartz Coverage",
+          "url": "https://qz.com/us-initial-jobless-claims-187000-lowest-2026-072326"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/articles/us-jobless-claims-unexpectedly-fall-150335303.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/economic-data/26/07/60643147/us-jobless-claims-187000-lowest-since-1969"
+        },
+        {
+          "label": "FRED ICSA Chart",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        }
+      ],
+      "explainer": {
+        "tagline": "US initial jobless claims fell to the fewest weekly filings since September 1969 — 187,000, well under the 210K consensus.",
+        "whatIsIt": "The Labor Department's weekly Unemployment Insurance report on Thursday July 23 showed initial claims dropped 22,000 to 187,000 in the week ending July 18. That is the lowest weekly print since September 1969 and 23,000 below the median 210,000 forecast in Bloomberg's economist survey.",
+        "howItWorks": "The 4-week moving average, which smooths week-to-week noise, fell 7,250 to 207,500. Continuing claims for the week ending July 11 declined 2,000 to 1.796 million, versus the 1.807 million estimate. Oxford Economics' Matthew Martin flagged that 'the extremely low level of claims is hard to ignore,' projecting the unemployment rate could drop to 4.2% in coming months given minimal layoffs and modest payroll growth.",
+        "whyItMatters": "The AI-jobs-apocalypse narrative that dominated 1H is running headfirst into 57-year lows in layoffs. For rates: the print pushes the September Fed cut probability lower (jobless claims are the highest-frequency labor read the Fed watches) and helped drive the 10Y higher on Thursday. For risk: the S&P still closed -1.21% because of Middle East + AI-capex worries, but the jobs data removes one of the bearish macro tail-risks investors were pricing.",
+        "forWho": "macro/rates desks, Fed-watchers, recession-thesis holders",
+        "tryIt": "https://fred.stlouisfed.org/series/ICSA"
+      },
+      "image": {
+        "url": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2273589354-300x200.jpg",
+        "alt": "Job seekers and hiring signage — weekly US jobless claims coverage",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "US jobless claims plunge to 187K — lowest since Sep 1969, vs 210K est. Not 2020, not 2008 — the lowest in 57 years",
+        "body": "Weekly Unemployment Insurance report released Thursday July 23:\n\n* Initial claims **187,000** for week ending July 18 — lowest since September 1969\n* Consensus was **210,000** (Bloomberg) — huge undershoot\n* Prior week revised to 209,000 → **-22,000 W/W**\n* Continuing claims **1.796M** vs 1.807M est\n* 4-week moving avg **207,500** (-7,250)\n\nWhat this means:\n\n1. **AI-jobs-apocalypse narrative** dominated 1H 2026 but layoffs are running at 57-year lows\n2. **Fed math shifts** — jobless claims are the highest-frequency labor input; a September cut becomes harder to justify\n3. **Oxford Economics** flags unemployment rate could fall to 4.2% in coming months on minimal layoffs + modest payroll growth\n\nMarkets still closed weak (S&P -1.21%, Nasdaq -2.15%) on Middle East + AI capex worries — but the labor tail-risk investors were pricing just got materially softer.\n\nNext catalysts: PCE July 31, jobs report August 1, then Jackson Hole Aug 21–23.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-jobless-claims-187k-1969-low-july-23-2026](https://stock-tldr.xyz/releases/us-jobless-claims-187k-1969-low-july-23-2026)"
+      },
+      "publishDate": "2026-07-24T01:34:19.259Z"
+    },
     {
       "id": "ecb-july-2026-hold-225pct-july-23",
       "categories": [
