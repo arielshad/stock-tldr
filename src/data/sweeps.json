@@ -8032,6 +8032,43 @@
         "regulatory",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260725t013622z",
+      "timestamp": "2026-07-25T01:36:22.963Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds from the July 24 tape: Tenet Healthcare's blowout Q2 beat + big FY26 guide raise (+16.5%) and the Apple + Ford UEV Apple Maps partnership that lifted AAPL +3.5% on Morgan Stanley's PT raise.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "thc-q2-2026-earnings-mover-july-24",
+          "title": "Tenet Healthcare (THC) +16.5% on Friday July 24 to $231.90 — Q2 2026 adj EPS $6.12 crushes $4.23 est on $5.63B revenue (+6.8% Y/Y, vs $5.43B est) and $1.304B adj EBITDA (23.2% margin); FY26 adj EPS guide raised to $20.30-$21.69 (from $16.38-$18.68) and revenue to $21.9-$22.5B, buyback authorization +$2.0B",
+          "category": "earnings",
+          "note": "Q2 EPS beat by 45%, Street-shattering FY26 guide raise, +$2B buyback; +16.5% Friday close on the tape."
+        },
+        {
+          "id": "aapl-ford-uev-apple-maps-partnership-july-23-2026",
+          "title": "Apple (AAPL) +3.53% to ~$333 on Friday July 24 after Apple + Ford unveil embedded Apple Maps + MapKit for Automotive SDK for Ford's 2027 Universal EV Platform — first automaker to use the new SDK, first vehicle a ~$30K midsize electric pickup built at Louisville Assembly (KY); Morgan Stanley's Erik Woodring lifts PT to $364 (from $360) and reiterates Buy",
+          "category": "mover",
+          "note": "Apple's first factory-fit auto-OS win with a launch partner and a Morgan Stanley PT bump; AAPL +3.5% Friday, primary source is the Apple newsroom announcement."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "commodity",
+        "mna",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }
