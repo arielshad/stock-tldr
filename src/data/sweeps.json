@@ -8069,6 +8069,45 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260725t130701z",
+      "timestamp": "2026-07-25T13:07:01.920Z",
+      "source": "github-actions-sweep",
+      "summary": "Adds three market-moving events from the last 72h that the prior sweep missed: (1) Digital Realty (DLR) +14% Friday on a record Q2 with $410M of post-quarter hyperscale leases and a raised FY26 guide; (2) SLB +9.93% Friday as the S&P's top gainer on a clean Q2 pre-open beat and a lifted $2.4B FY26 buyback floor; (3) Korea's KOSPI -5.72% Friday sell-side-sidecar crash with Samsung -7.59% and SK Hynix -8.34% on Brent > $100 and CXMT rotation ahead of the July 27 STAR listing.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dlr-q2-2026-earnings-mover-july-23",
+          "title": "Digital Realty (DLR) +14% on Friday July 24 — Q2 2026 Core FFO ex-promote $2.13 (+14% Y/Y) beats and revenue $1.9B (+29% Y/Y) crush, record $1.9B backlog and $410M in two July hyperscale leases; FY26 Core FFO guide lifted to $8.15–$8.20 (from $8.00–$8.10)",
+          "category": "earnings",
+          "note": "Q2 released Thursday July 23 AH; stock +14% Friday July 24. Record bookings + $410M July hyperscale leases directly re-underwrites the AI-datacenter-REIT thesis."
+        },
+        {
+          "id": "slb-q2-2026-earnings-mover-july-24",
+          "title": "SLB (Schlumberger) +9.93% to $51.91 on Friday July 24 — Q2 2026 revenue $9.0B (+3% Q/Q, +5% Y/Y) beats $8.76B est and adj EPS $0.55 (+6% Q/Q) tops $0.51 est on Digital +9% and Production Systems +7%; $648M Q2 buybacks lift FY26 minimum buyback target to $2.4B and total shareholder returns to $4B+",
+          "category": "earnings",
+          "note": "Q2 released Friday July 24 pre-open; stock closed +9.93% to $51.91 as the S&P 500's top gainer. First clean service-industry recovery print in two quarters."
+        },
+        {
+          "id": "kospi-crash-samsung-skhynix-july-24-2026",
+          "title": "KOSPI -5.72% to 6,690.62 on Friday July 24 triggers another sell-side sidecar — Samsung Electronics -7.59% and SK Hynix -8.34% lead the rout as foreigners dump ~KRW 1.6T ($1.15B) on Brent > $100 and CXMT reallocation ahead of July 27 STAR listing",
+          "category": "macro",
+          "note": "Second sidecar-triggering session in July after July 13 (KOSPI -8.95%); distinct event driven by Brent > $100, CXMT rotation and new US forced-labor tariffs. Direct read-through to US memory names."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "sector"
+      ]
     }
   ]
 }

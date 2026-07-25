@@ -1,8 +1,255 @@
 {
-  "generatedAt": "2026-07-25T01:36:22.963Z",
+  "generatedAt": "2026-07-25T13:07:01.920Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dlr-q2-2026-earnings-mover-july-23",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Digital Realty (DLR) +14% on Friday July 24 — Q2 2026 Core FFO ex-promote $2.13 (+14% Y/Y) beats and revenue $1.9B (+29% Y/Y) crush, record $1.9B backlog and $410M in two July hyperscale leases; FY26 Core FFO guide lifted to $8.15–$8.20 (from $8.00–$8.10)",
+      "org": "Digital Realty Trust",
+      "date": "2026-07-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926086270/dlr-20260723x8k.htm",
+      "summary": "Data-center REIT DLR posts record Q2 with Core FFO ex-promote $2.13 (+14% Y/Y) on $1.9B revenue (+29% Y/Y); $108M interconnection bookings, 25.4% cash renewal spreads and $1.9B backlog. FY26 Core FFO guide raised to $8.15-$8.20.",
+      "tags": [
+        "earnings",
+        "core-ffo-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "data-center",
+        "reit",
+        "hyperscale",
+        "ai-infrastructure",
+        "colocation",
+        "interconnection",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DLR",
+        "EQIX"
+      ],
+      "metrics": {
+        "Core FFO ex-promote": "$2.13 (+14% Y/Y)",
+        "FFO/share": "$2.73 (vs $1.75 Y/Y)",
+        "Revenue": "$1.9B (+29% Y/Y, +18% Q/Q)",
+        "Adj EBITDA": "$978M (+19% Y/Y)",
+        "Bookings (100% share)": "$307M annualized GAAP rent",
+        "Interconnection bookings": "$108M (+11% Q/Q record)",
+        "July hyperscale leases": "$410M annualized rent (100% share)",
+        "Backlog": "$1.9B (record, ~30% of in-place rev)",
+        "Cash renewal spreads": "25.4%",
+        "New FY26 Core FFO ex-promote guide": "$8.15-$8.20 (from $8.00-$8.10)",
+        "Dividend": "$1.22/qtr (49.5% payout)",
+        "Move": "+~14% Friday July 24"
+      },
+      "explainer": {
+        "tagline": "DLR crushes Q2 on record AI-driven data-center bookings and books $410M more in hyperscale leases in the first three weeks of July.",
+        "whatIsIt": "Digital Realty Trust (NYSE: DLR), the largest publicly-traded pure-play data-center REIT, reported Q2 2026 results after the close on Thursday July 23 that beat consensus on both lines and prompted its second FY26 guidance raise of the year. Shares rallied ~14% on Friday as investors read the print as a clean call-out of hyperscale AI demand.",
+        "howItWorks": "Core FFO/share ex-promote was $2.13 (+14% Y/Y), FFO/share was $2.73 (vs $1.75 Y/Y) and revenue hit $1.9B (+29% Y/Y, +18% Q/Q); adj EBITDA reached $978M (+19% Y/Y). Q2 bookings totaled $307M in annualized GAAP base rent at 100% share (record $108M from the 0-1 MW plus interconnection category), with a record 25.4% cash renewal spread. Post-quarter, in July, DLR signed two additional hyperscale leases representing $410M annualized rent. Total backlog hit a record $1.9B (100% share), ~30% of in-place data-center revenue. Management lifted FY26 Core FFO ex-promote to $8.15-$8.20 (from $8.00-$8.10) — 10% constant-currency growth at the midpoint.",
+        "whyItMatters": "The print re-underwrites the AI-capex-to-datacenter-REIT thesis after several quarters of investors debating whether hyperscaler capex would flow to REITs or self-build. $410M of leases signed in three post-quarter weeks and a record backlog imply demand is running well ahead of DLR's ability to deliver megawatts. Read-throughs: Equinix (EQIX), Iron Mountain (IRM) data-center segment, and the private-market data-center comps get a marked-to-market. Read on the other side: Alphabet's $195-$205B FY26 capex guide (July 22) at least partially funds this demand.",
+        "forWho": "AI infrastructure longs, REIT PMs, hyperscaler capex trackers",
+        "tryIt": "https://finance.yahoo.com/quote/DLR"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/dabe9af5-a528-4432-8a44-867697ef609b",
+        "alt": "Digital Realty Trust Q2 2026 earnings graphic",
+        "fit": "cover",
+        "credit": "Digital Realty via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (July 23)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926086270/dlr-20260723x8k.htm"
+        },
+        {
+          "label": "8-K on StockTitan",
+          "url": "https://www.stocktitan.net/sec-filings/DLR/8-k-digital-realty-trust-inc-reports-material-event-294167073020.html"
+        },
+        {
+          "label": "Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-q2-earnings-230620971.html"
+        },
+        {
+          "label": "DLR Ticker Page",
+          "url": "https://finance.yahoo.com/quote/DLR"
+        }
+      ],
+      "reddit": {
+        "title": "DLR +14% Friday — Q2 Core FFO $2.13 beats, adds $410M of hyperscale leases in first 3 weeks of July, backlog jumps to record $1.9B",
+        "body": "Digital Realty Trust posted a record Q2 on Thursday night and got paid Friday. The setup:\n\n* Core FFO/share ex-promote $2.13 (+14% Y/Y), reported FFO $2.73 vs $1.75 Y/Y\n* Revenue $1.9B (+29% Y/Y, +18% Q/Q), adj EBITDA $978M (+19% Y/Y)\n* Q2 bookings $307M annualized rent at 100% share — record $108M interconnection\n* Cash renewal spreads a record 25.4%\n* Two July hyperscale leases signed post-quarter = another $410M annualized rent\n* Total backlog record $1.9B, ~30% of in-place data-center revenue\n\nGuide raise:\n\n1. **FY26 Core FFO ex-promote** — lifted to $8.15-$8.20 (from $8.00-$8.10), 10% constant-currency growth at the midpoint\n2. **FY26 revenue ex-promote** — $6.85-$6.95B\n3. **FY26 adj EBITDA** — $3.75-$3.85B\n\nThe print re-underwrites the AI-capex-to-data-center-REIT trade. $410M of leases in three weeks isn't a fluke — hyperscaler demand is running ahead of DLR's ability to bring megawatts online. Read-throughs to EQIX / IRM data-center segment and private data-center comps.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dlr-q2-2026-earnings-mover-july-23](https://stock-tldr.xyz/releases/dlr-q2-2026-earnings-mover-july-23)"
+      },
+      "publishDate": "2026-07-25T13:07:01.920Z"
+    },
+    {
+      "id": "slb-q2-2026-earnings-mover-july-24",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "SLB (Schlumberger) +9.93% to $51.91 on Friday July 24 — Q2 2026 revenue $9.0B (+3% Q/Q, +5% Y/Y) beats $8.76B est and adj EPS $0.55 (+6% Q/Q) tops $0.51 est on Digital +9% and Production Systems +7%; $648M Q2 buybacks lift FY26 minimum buyback target to $2.4B and total shareholder returns to $4B+",
+      "org": "SLB",
+      "date": "2026-07-24",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60673911/slb-says-energy-security-is-reigniting-global-oil-investment",
+      "summary": "Oilfield services giant SLB prints Q2 revenue $9.0B (+3% Q/Q, +5% Y/Y) beat and adj EPS $0.55 vs $0.51 est on Digital +9% and Production Systems +7%; Middle East -13% Q/Q on conflict. Buys back $648M in Q2, lifts FY26 minimum to $2.4B. Stock +9.93% to $51.91.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "buyback",
+        "oilfield-services",
+        "digital-oilfield",
+        "production-systems",
+        "middle-east",
+        "energy-security",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SLB",
+        "HAL",
+        "BKR"
+      ],
+      "metrics": {
+        "Revenue": "$9.0B (+3% Q/Q, +5% Y/Y, vs $8.76B est)",
+        "Adj EPS": "$0.55 (+6% Q/Q, -26% Y/Y, vs $0.51 est)",
+        "GAAP EPS": "$0.52 (+4% Q/Q, -30% Y/Y)",
+        "Cash from ops": "$1.4B",
+        "Free cash flow": "$716M",
+        "Q2 buybacks": "$648M",
+        "FY26 min buyback target": "$2.4B",
+        "FY26 total shareholder returns target": "$4B+",
+        "Digital revenue": "+9% Q/Q (data-center solutions +33% Q/Q, +80% Y/Y)",
+        "Production Systems revenue": "+7% Q/Q",
+        "Middle East revenue": "$1.66B (-13% Q/Q on conflict)",
+        "Net debt": "$8.7B",
+        "Q3 rev guide": "+3-4% Q/Q, +75bp adj EBITDA margin",
+        "Q4 rev guide": ">$10B (~+5% Y/Y), ~24% adj EBITDA margin",
+        "Move": "+9.93% to $51.91"
+      },
+      "explainer": {
+        "tagline": "SLB tops Street on Digital +9% and Production Systems +7% and lifts its FY26 buyback floor to $2.4B, even as Middle East revenue drops 13% on the US-Iran conflict.",
+        "whatIsIt": "SLB (NYSE: SLB, formerly Schlumberger) reported Q2 2026 results pre-open on Friday July 24. Revenue and EPS beat consensus, and management pointed to 'energy security' as reigniting a global oil-and-gas capex cycle. Shares closed +9.93% at $51.91 — top gainer on the S&P 500 for the session.",
+        "howItWorks": "Revenue was $9.0B (+3% Q/Q, +5% Y/Y) vs $8.76B est; adj EPS $0.55 vs $0.51 est (+6% Q/Q, -26% Y/Y as the year-ago quarter included a lumpy divestiture gain). Digital revenue grew +9% Q/Q with data-center solutions +33% Q/Q / +80% Y/Y; Production Systems +7% Q/Q on the ChampionX acquisition and offshore. Middle East revenue -13% Q/Q to $1.66B on the ongoing US-Iran conflict disrupting activity. Cash from operations was $1.4B and free cash flow $716M; SLB repurchased $648M of stock in Q2 and now targets a minimum of $2.4B in FY26 buybacks and $4B+ in total shareholder returns. Q3 guide: sequential revenue +3-4% and +75bp adj EBITDA margin expansion; Q4 revenue seen exceeding $10B (~+5% Y/Y) with ~24% adj EBITDA margin.",
+        "whyItMatters": "SLB is the world's largest oilfield-services company and the print reads as a service-industry recovery signal after two quarters of shrinking backlogs. Data-center solutions +80% Y/Y is a direct AI/hyperscaler read-through — SLB's ancillary Digital business now runs a ~$2B annualized exit rate expected by end-2027. Comps HAL and BKR trade on the same tape, so this bumps the whole services complex. Middle East disruption is a real headwind but management is guiding through it, and Q4 >$10B implies confidence a recovery is loading for 2027.",
+        "forWho": "energy desks, oilfield-services analysts, buyback-yield PMs",
+        "tryIt": "https://finance.yahoo.com/quote/SLB"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/97182123983548E48368B066742A667C68B859D540983A28C0FF59B099756040/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Ff541c90e0d995722d10914cb76a7c653",
+        "alt": "SLB Schlumberger oilfield services rig image",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Zacks"
+      },
+      "links": [
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60673911/slb-says-energy-security-is-reigniting-global-oil-investment"
+        },
+        {
+          "label": "Yahoo Earnings Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-tops-q2-earnings-120001578.html"
+        },
+        {
+          "label": "Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-q2-earnings-call-highlights-170351085.html"
+        },
+        {
+          "label": "SLB Ticker Page",
+          "url": "https://finance.yahoo.com/quote/SLB"
+        }
+      ],
+      "reddit": {
+        "title": "SLB +9.93% Friday to $51.91 — Q2 revenue $9B beats, buybacks lift FY26 minimum to $2.4B, and Digital data-center solutions +80% Y/Y",
+        "body": "SLB (the ex-Schlumberger) was the S&P 500's top gainer Friday after a clean Q2 pre-open beat. The setup:\n\n* Revenue $9.0B (+3% Q/Q, +5% Y/Y) vs $8.76B est\n* Adj EPS $0.55 (+6% Q/Q) vs $0.51 est; GAAP $0.52\n* Cash from ops $1.4B, free cash flow $716M\n* $648M Q2 buybacks — FY26 minimum target lifted to $2.4B, total shareholder returns $4B+\n* Digital revenue +9% Q/Q — data-center solutions +33% Q/Q / +80% Y/Y\n* Production Systems +7% Q/Q on ChampionX + offshore\n* Middle East -13% Q/Q to $1.66B on the US-Iran conflict\n\nGuide:\n\n1. **Q3** — revenue +3-4% Q/Q, +75bp adj EBITDA margin expansion\n2. **Q4** — revenue >$10B (~+5% Y/Y), ~24% adj EBITDA margin\n3. **2027 exit** — data-center solutions annualized run rate >$2B\n\nRead-through — this is the first clean service-industry recovery signal in two quarters. HAL and BKR trade on the same tape. The data-center solutions line is SLB's ancillary AI/hyperscaler exposure and it's compounding fast.\n\nFull breakdown: [https://stock-tldr.xyz/releases/slb-q2-2026-earnings-mover-july-24](https://stock-tldr.xyz/releases/slb-q2-2026-earnings-mover-july-24)"
+      },
+      "publishDate": "2026-07-25T13:07:01.920Z"
+    },
+    {
+      "id": "kospi-crash-samsung-skhynix-july-24-2026",
+      "categories": [
+        "macro",
+        "mover"
+      ],
+      "title": "KOSPI -5.72% to 6,690.62 on Friday July 24 triggers another sell-side sidecar — Samsung Electronics -7.59% and SK Hynix -8.34% lead the rout as foreigners dump ~KRW 1.6T ($1.15B) on Brent > $100 and CXMT reallocation ahead of July 27 STAR listing",
+      "org": "Korea Exchange",
+      "date": "2026-07-24",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262051833-south-korea-sell-off-ikospi-plunge-sk-hynix-samsung-tradingkey",
+      "summary": "KOSPI -5.72% close to 6,690.62 on Friday July 24 (down 406 pts, 30% off June high) triggers sell-side sidecar. Samsung Electronics -7.59%, SK Hynix -8.34%, foreign selling ~KRW 1.6T on Brent > $100 and CXMT reallocation ahead of Monday July 27 STAR debut.",
+      "tags": [
+        "kospi",
+        "circuit-breaker",
+        "sidecar",
+        "samsung-electronics",
+        "sk-hynix",
+        "korea",
+        "chips",
+        "memory",
+        "hbm",
+        "foreign-selling",
+        "middle-east",
+        "cxmt"
+      ],
+      "importance": "major",
+      "tickers": [
+        "EWY",
+        "SMH"
+      ],
+      "metrics": {
+        "KOSPI close": "6,690.62 (-5.72%, -406.27 pts)",
+        "From June peak": "-30%",
+        "KOSDAQ": "-~5%",
+        "Samsung Electronics (005930)": "-7.59% to ~KRW 250,000",
+        "SK Hynix (000660)": "-8.34%",
+        "Kioxia": "-9.49%",
+        "SoftBank Group": "-7.06%",
+        "SK Square": "-9.01%",
+        "Hyundai Motor": "-7.99%",
+        "Foreign net selling": "~KRW 1.6T (~$1.15B)",
+        "US memory read-through": "MU -~6%, SNDK -~9% on Friday",
+        "Brent driver": ">$100 (+6.45% to $101.10 Thursday)"
+      },
+      "explainer": {
+        "tagline": "KOSPI plunges 5.7% and triggers another sell-side sidecar as Middle East oil shock + foreign flight to CXMT compound the July memory sell-off.",
+        "whatIsIt": "South Korea's KOSPI closed Friday July 24 at 6,690.62, down 5.72% (-406 pts) and ~30% off the June record high. Both KOSPI and KOSDAQ triggered a sell-side sidecar during the session — a temporary suspension of program sell orders — as Samsung Electronics and SK Hynix, together over 30% of the index, both dropped 7-8%. This is Korea's fifth sidecar of July after the July 13 crash (KOSPI -8.95%, 7th circuit breaker of the year) already covered in the feed.",
+        "howItWorks": "Samsung Electronics fell 7.59% to ~KRW 250,000 and SK Hynix -8.34%, with Kioxia (Japan) -9.49% and SoftBank Group -7.06% dragging the Asia AI-memory complex. Foreign investors net sold ~KRW 1.6T ($1.15B) of Korean equities. Drivers: (1) Brent crude closed +6.45% at $101.10 on Thursday July 23 after Houthi strikes on Saudi tankers Encelia and Layla, above $100 for the first time since May; (2) Asian hedge funds rotating out of Samsung/SK Hynix into China's ChangXin Memory Technologies (CXMT) ahead of its ~$85B market-cap STAR Market listing Monday July 27; (3) new US Section 301 forced-labor tariffs on South Korea and dozens of trading partners effective July 24. The Korean FSC also lifted cash-deposit requirements for leveraged ETF trading from KRW 10M to KRW 30M effective July 31, capping retail leverage in the same names that drive 70%+ of KOSPI volume.",
+        "whyItMatters": "The KOSPI is now the global lead for the AI-memory trade, so its second sidecar-triggering session in July feeds directly into US chip tape — Micron -~6% and SanDisk -~9% on Friday, SOX -1.5% as memory led. This also sets up a binary CXMT listing on Monday July 27: if CXMT prices hot at ~570x institutional demand and $85B implied cap, that validates the rotation-out-of-Samsung/SK Hynix trade; if it prices soft, expect a reverse squeeze back into Korean names. The Middle East oil overlay adds a macro layer that's not yet priced into US chip multiples.",
+        "forWho": "Asia chip PMs, memory long/shorts, macro EM desks, AI-capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/EWY"
+      },
+      "image": {
+        "url": "https://resource.tradingkey.com/uploads/20251024/korean-90a912adb47543d59b343e73d324456a.jpg",
+        "alt": "KOSPI board showing red screens on July 24 2026",
+        "fit": "cover",
+        "credit": "TradingKey"
+      },
+      "links": [
+        {
+          "label": "TradingKey Coverage",
+          "url": "https://www.tradingkey.com/analysis/stocks/more/262051833-south-korea-sell-off-ikospi-plunge-sk-hynix-samsung-tradingkey"
+        },
+        {
+          "label": "Sunday Guardian KRX Wrap",
+          "url": "https://sundayguardianlive.com/business/korea-stock-market-krx-today-july-24-why-is-the-korean-stock-market-down-today-kospi-drops-542-kosdaq-falls-nearly-5-samsung-electronics-sk-hynix-sink-over-7-check-top-gainers-losers-244874/"
+        },
+        {
+          "label": "24/7 Wall St — US memory read-through",
+          "url": "https://247wallst.com/investing/2026/07/24/sk-hynix-and-micron-sink-6-sandisk-drops-9-as-korea-chip-selloff-hits-u-s-memory-stocks/"
+        },
+        {
+          "label": "KRX South Korea Ticker",
+          "url": "https://tradingeconomics.com/south-korea/stock-market"
+        }
+      ],
+      "reddit": {
+        "title": "KOSPI -5.72% Friday to 6,690 — Samsung -7.59%, SK Hynix -8.34%, sell-side sidecar triggered again; foreigners dump $1.15B on oil + CXMT rotation",
+        "body": "Korea's chip-heavy KOSPI just posted its worst session since the July 13 crash. Friday July 24:\n\n* KOSPI -5.72% to 6,690.62 (-406 pts) — down ~30% from the June record\n* KOSDAQ -~5%\n* Samsung Electronics -7.59% to ~KRW 250,000\n* SK Hynix -8.34%\n* Kioxia (Japan) -9.49%, SoftBank -7.06%, SK Square -9.01%, Hyundai Motor -7.99%\n* Both KOSPI and KOSDAQ triggered a sell-side sidecar (program-sell halt)\n* Foreigners net sold ~KRW 1.6T (~$1.15B) of Korean equities\n\nThree drivers hit at once:\n\n1. **Brent > $100** — first time since May after Houthi strikes on Saudi tankers, +6.45% to $101.10 Thursday close\n2. **CXMT rotation** — Asian hedge funds selling Samsung / SK Hynix ahead of China's ChangXin Memory listing on the STAR Market Monday July 27 (~$85B implied cap, ~570x institutional demand)\n3. **US forced-labor tariffs** — new Section 301 duties on South Korea + 59 other countries effective July 24\n\nUS memory read-through: MU -~6%, SNDK -~9% on Friday. Monday's CXMT print is now the binary — hot listing validates the rotation, soft listing sends a squeeze back into Samsung / SK Hynix.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kospi-crash-samsung-skhynix-july-24-2026](https://stock-tldr.xyz/releases/kospi-crash-samsung-skhynix-july-24-2026)"
+      },
+      "publishDate": "2026-07-25T13:07:01.920Z"
+    },
     {
       "id": "thc-q2-2026-earnings-mover-july-24",
       "categories": [
