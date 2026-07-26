@@ -8123,6 +8123,37 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260726t130017z",
+      "timestamp": "2026-07-26T13:00:17.502Z",
+      "source": "github-actions-sweep",
+      "summary": "One-add sweep — Deckers (DECK) Q1 FY27 earnings on Thursday July 23 (reported AH), with the stock -6.1% Friday July 24 despite an EPS beat and FY27 guide raise as tariff + freight headwinds compress Q2 gross-margin outlook. Rest of the 72h window is already densely covered (Intel, T-Mobile, Union Pacific, LMT, jobless claims, ECB, Trump forced-labor tariffs, KOSPI/Samsung/SK Hynix crash, Brent > $100, DLR, SLB, VZ, AXP, CHTR, HCA, THC, Apple/Ford Maps, plus Wednesday July 22 tape). Nothing new on Saturday/Sunday.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "deck-q1-fy27-earnings-mover-july-23",
+          "title": "Deckers (DECK) -6.1% on Friday July 24 despite Q1 FY27 crossing $1B revenue for first time — adj EPS $0.94 beats $0.88 est on $1.020B revenue (+5.7% Y/Y, tops $1.017B est) with HOKA +7.7% to $703.5M and UGG +4.9% to $278.0M; FY27 EPS guide lifted $0.05 to $7.35–$7.50, but Q2 gross-margin outlook cut on tariff + freight headwinds; Truist trims PT to $105 (from $125), Buy",
+          "category": "earnings",
+          "note": "Only qualifying new item — verified primary IR press release + tier-1 recap (Yahoo/WWD) + analyst reaction (Truist). Bloom Energy -14.9% and Nebius -10% Friday moves were reviewed but dropped: BE lacks a named single-event catalyst (Q2 print is July 28); NBIS drop is sector-wide AI-cloud derating with the July 20 NBIS entry already covering the Nvidia stake story. BioLife/Repligen $1.5B deal (July 22) sits just outside the 72h window."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna",
+        "analyst",
+        "regulatory"
+      ]
     }
   ]
 }
