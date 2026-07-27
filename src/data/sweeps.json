@@ -8185,6 +8185,35 @@
         "rates",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260727t141336z",
+      "timestamp": "2026-07-27T14:13:36.345Z",
+      "source": "github-actions-sweep",
+      "summary": "One qualifying M&A print this sweep: argenx (ARGX) announces a $2.2B all-cash tender for Forte Biosciences (FBRX) at $77/share on Monday July 27. Weekend markets otherwise dominated by the ongoing US–Iran strike pause (already in feed) that let Brent fall as much as 7.4% below $90; Ukraine's Caspian Sea strike on an Iran-linked vessel added a new geopolitical fault line but with no distinct market move yet. Fed decision, mega-cap earnings, and PCE are all this week — nothing has printed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "argx-forte-fbrx-22b-buyout-july-27-2026",
+          "title": "argenx (ARGX) to acquire Forte Biosciences (FBRX) for $2.2B all-cash on Monday July 27 — $77/share, ~86% premium to VWAP since July 9 Phase 1b vitiligo readout; FBRX +22.05% to $66.86 in overnight trade",
+          "category": "mna",
+          "note": "$2.2B all-cash biotech M&A announced pre-market Monday, FBRX +22% overnight, primary-source press release + SEC-filed transaction, argenx diversifying off Vyvgart with FB102 anti-CD122 platform."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "macro",
+        "earnings",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
