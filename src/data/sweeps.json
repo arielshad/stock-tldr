@@ -8154,6 +8154,37 @@
         "analyst",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260727t015446z",
+      "timestamp": "2026-07-27T01:54:46.655Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet weekend, one add: U.S. and Iran hit pause on strikes for a second straight day Sunday July 26, tanking Brent -5.05% to $91.89 and WTI -5.23% to $84.64 as UN Ambassador Waltz frames Trump 'giving talks some space' on the Sunday shows. Paramount/WBD $110B merger delay to June 2027 verified but dropped for being ~73h past the announcement — just outside the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-iran-strike-pause-oil-crash-july-26-2026",
+          "title": "Brent -5.05% to $91.89 and WTI -5.23% to $84.64 on Sunday July 26 — U.S. and Iran pause strikes for a second straight day after 13 straight nights of U.S. bombing; UN Ambassador Waltz on 'Meet the Press' says Trump is 'giving talks some space'",
+          "category": "commodity",
+          "note": "Weekend pause in the U.S.-Iran shooting war unwinds last week's Brent-above-$100 spike — first fresh oil driver since the July 23 Houthi surge, and the setup for Sunday-night risk-on futures."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "mna",
+        "regulatory",
+        "earnings",
+        "crypto",
+        "rates",
+        "mover"
+      ]
     }
   ]
 }

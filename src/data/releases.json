@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-07-26T13:00:17.502Z",
+  "generatedAt": "2026-07-27T01:54:46.655Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-strike-pause-oil-crash-july-26-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Brent -5.05% to $91.89 and WTI -5.23% to $84.64 on Sunday July 26 — U.S. and Iran pause strikes for a second straight day after 13 straight nights of U.S. bombing; UN Ambassador Waltz on 'Meet the Press' says Trump is 'giving talks some space'",
+      "org": "White House",
+      "date": "2026-07-26",
+      "url": "https://finance.yahoo.com/energy/articles/oil-slips-more-5-us-221044741.html",
+      "summary": "Brent -5.05% to $91.89 and WTI -5.23% to $84.64 on Sunday July 26 as the U.S. paused Iran strikes for a second night; Waltz says Trump is giving diplomacy 'some space' while additional military assets move into the region.",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "us-iran",
+        "hormuz",
+        "ceasefire",
+        "diplomacy",
+        "waltz",
+        "trump",
+        "risk-on"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "metrics": {
+        "Brent": "$91.89 (-5.05%)",
+        "WTI": "$84.64 (-5.23%)",
+        "U.S. pause": "Fri Jul 24 + Sat Jul 25 nights",
+        "Iran pause": "Sun Jul 26",
+        "Prior U.S. strike streak": "13 straight nights"
+      },
+      "explainer": {
+        "tagline": "Oil crashes ~5% Sunday as U.S. and Iran hit pause on strikes for a second straight day and Trump 'gives talks some space'.",
+        "whatIsIt": "The U.S. paused its bombing campaign against Iran on Friday July 24 and Saturday July 25, ending a 13-straight-night streak of strikes. On Sunday July 26 Iran also stopped attacks, and U.S. Ambassador to the UN Mike Waltz used the Sunday shows to frame the pause as Trump 'giving talks some space' for diplomacy.",
+        "howItWorks": "Waltz told NBC's 'Meet the Press' that talks are ongoing 'at every level, from the more technical aspect of it all the way to the highest levels', and on 'Fox News Sunday' said Trump is 'giving it a little bit of room'. He also warned that 'additional military assets are moving into the region'. Iranian officials and their Omani counterparts have been holding what one Iranian official called constructive talks.",
+        "whyItMatters": "Brent front-month fell $4.89 (-5.05%) to $91.89 and WTI dropped $4.67 (-5.23%) to $84.64, both at their lowest in nearly a week, unwinding part of the surge that briefly took Brent above $100 last week. Shipping remains cautious with fewer than 10 commodity vessels a day transiting Hormuz over the weekend, so any restoration of flows is expected to be gradual.",
+        "forWho": "energy desks, macro traders, tanker names",
+        "tryIt": "https://finance.yahoo.com/quote/BZ%3DF"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/98B0D11A0D99081AED3E97F4E4C494CFC2A998EB4FCA5B1B9450E9027D15D8DC/subgraphmysterio/resizefill_w1200_h759;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fabeb6b03fc0cedbe528c4f1033280453",
+        "alt": "Oil pumping unit at dusk as Brent and WTI slide on U.S.-Iran strike pause",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/energy/articles/oil-slips-more-5-us-221044741.html"
+        },
+        {
+          "label": "BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/oil/2026/07/26/oil-prices-ease-after-us-and-iran-pause-their-attacks/"
+        },
+        {
+          "label": "Waltz on CBS",
+          "url": "https://www.cbsnews.com/news/united-nations-ambassador-mike-waltz-iran-strikes-pause-diplomacy-trump/"
+        },
+        {
+          "label": "Brent Chart",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "Oil -5% Sunday as U.S. and Iran pause strikes for 2nd straight day — Brent $91.89, WTI $84.64",
+        "body": "The U.S. and Iran both stood down over the weekend, ending a 13-night U.S. bombing streak and unwinding part of last week's Brent-above-$100 spike.\n\n* Brent front-month -$4.89 (-5.05%) to $91.89\n* WTI front-month -$4.67 (-5.23%) to $84.64\n* U.S. paused strikes Fri July 24 and Sat July 25 nights; Iran paused Sun July 26\n* Fewer than 10 commodity vessels/day transited the Strait of Hormuz over the weekend\n\nWhat Waltz said Sunday:\n\n1. **'Meet the Press'** — Trump is 'giving some talks some space… happening at every level, from the more technical aspect all the way to the highest levels'.\n2. **'Fox News Sunday'** — 'He's giving talks some space, he's giving it a little bit of room'.\n3. **Hedge on the pause** — Waltz added that 'additional military assets are moving into the region'.\n\nIranian and Omani officials have been holding what Tehran calls constructive talks.\n\nNext catalysts: whether the pause holds into Monday's U.S. open, and the FOMC decision Wednesday July 29 at 2 p.m. ET.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-strike-pause-oil-crash-july-26-2026](https://stock-tldr.xyz/releases/us-iran-strike-pause-oil-crash-july-26-2026)"
+      },
+      "publishDate": "2026-07-27T01:54:46.655Z"
+    },
     {
       "id": "deck-q1-fy27-earnings-mover-july-23",
       "categories": [
