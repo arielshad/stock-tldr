@@ -8214,6 +8214,47 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260728t013011z",
+      "timestamp": "2026-07-28T01:30:11.337Z",
+      "source": "github-actions-sweep",
+      "summary": "Three additions from the Monday July 27, 2026 tape: ChangXin Memory Technologies' historic +466% Shanghai STAR debut (Asia's biggest IPO of 2026 at $8.6B), the resulting -~12% SanDisk rout on China-memory-competition fears, and Cadence Design Systems' Q2 beat + raise on record $8.1B backlog.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cxmt-shanghai-star-ipo-debut-july-27-2026",
+          "title": "ChangXin Memory Technologies (CXMT) +466% Shanghai STAR debut on Monday July 27 — Asia's biggest IPO of 2026 raises 57.92B yuan ($8.6B) at 8.66 yuan/share, opens above 49 yuan and settles near a $487B market cap that briefly makes CXMT China's most valuable listed company",
+          "category": "ipo",
+          "note": "Asia's biggest IPO of 2026 and mainland China's largest since Agricultural Bank of China in 2010 — brief displacement of ICBC as China's most valuable listed name is a market-structure moment."
+        },
+        {
+          "id": "sndk-china-memory-rout-mover-july-27-2026",
+          "title": "SanDisk (SNDK) -~12% on Monday July 27 to ~$1,268 as intraday low $1,222.01 marks fresh 3-month low — Chinese competition fears deepen after ChangXin Memory (CXMT) +466% Shanghai debut; SNDK now down ~45% from June record high $2,354.39",
+          "category": "mover",
+          "note": "Russell 1000's worst-performing name on Monday and the cleanest US-listed expression of the CXMT China-competition shock."
+        },
+        {
+          "id": "cdns-q2-2026-earnings-guide-raise-july-27",
+          "title": "Cadence Design Systems (CDNS) Q2 2026 — adj EPS $2.11 (vs $2.06 est) on $1.584B revenue (+24.2% Y/Y) beat; FY26 revenue guide raised to $6.26-$6.34B (from $6.13-$6.23B) and adj EPS to $8.05-$8.15 (from $7.85-$7.95) with record $8.1B backlog; CDNS +~4-5% AH Monday July 27",
+          "category": "earnings",
+          "note": "Mega-cap EDA vendor beat and raised both revenue and adj EPS guides with a record $8.1B backlog — bullish AI-capex tell on a day the memory complex sold off."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "mover",
+        "earnings",
+        "sector",
+        "macro",
+        "commodity"
+      ]
     }
   ]
 }
