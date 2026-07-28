@@ -8255,6 +8255,49 @@
         "macro",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260728t133450z",
+      "timestamp": "2026-07-28T13:34:50.919Z",
+      "source": "github-actions-sweep",
+      "summary": "Three earnings beat-and-raises from Tuesday's pre-market: Coca-Cola (KO) with organic revenue +6% and comparable EPS $0.97 vs $0.93 est, Sherwin-Williams (SHW) with record $6.79B revenue and FY26 adj EPS lifted to $11.80-$12.20 midpoint, and UPS with adj EPS $1.76 beat and FY26 revenue guide raised to ~$91.2B as International revenue rips +12.5%. Nothing new-and-additive from the US/Iran de-escalation (already covered) or Fed (decision is tomorrow July 29).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ko-q2-2026-earnings-guide-raise-july-28",
+          "title": "Coca-Cola (KO) Q2 2026 — organic revenue +6% and comparable EPS $0.97 (+11% Y/Y) beat $0.93 est on unit case volume +5%; FY26 guide raised to organic revenue ~5% (top of 4-5%) and comparable EPS +9-10% (from +8-9%), free-cash-flow lifted to ~$12.4B; KO +2-3% premarket Tuesday July 28",
+          "category": "earnings",
+          "note": "Mega-cap staples beat-and-raise with 5% unit case volume growth and FY26 comparable EPS guide raised to +9-10%; stock +2-3% premarket Tuesday."
+        },
+        {
+          "id": "shw-q2-2026-earnings-guide-raise-july-28",
+          "title": "Sherwin-Williams (SHW) Q2 2026 — adj EPS $3.70 (+9.5% Y/Y) beats $3.52 est on record $6.79B revenue (+7.5%) and 24.6% Paint Stores margin; FY26 adj EPS guide raised to $11.80-$12.20 midpoint (+2.6%), Consumer Brands revenue rips +21.5%; SHW +~6% premarket Tuesday July 28",
+          "category": "earnings",
+          "note": "Coatings mega-cap beat + FY26 adj EPS guide raised to $11.80-$12.20 midpoint (+2.6%) with Consumer Brands revenue +21.5%; housing-adjacent read-through as SHW +~6% premarket."
+        },
+        {
+          "id": "ups-q2-2026-earnings-guide-raise-july-28",
+          "title": "UPS (UPS) Q2 2026 — adj EPS $1.76 (vs $1.65 est) on $22.8B revenue (vs $21.75B est) beat and FY26 revenue guide raised to ~$91.2B, adj EPS to ~$7.22; International revenue +12.5% to $5.04B; $891M transformation charge ($1.05/sh) drives GAAP diluted EPS to $0.71",
+          "category": "earnings",
+          "note": "Transports beat + FY26 revenue guide raised to ~$91.2B and adj EPS to ~$7.22 as International revenue rips +12.5%; $891M ($1.05/sh) transformation charge distorts GAAP EPS."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "commodity",
+        "rates",
+        "analyst",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }
