@@ -8298,6 +8298,56 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260729t013314z",
+      "timestamp": "2026-07-29T01:33:14.496Z",
+      "source": "github-actions-sweep",
+      "summary": "Post-market July 28 sweep: Boeing Q2 (record $715B backlog + $0.6B FCF but $280M Air Force One charge), Visa fiscal Q3 (net rev +14%, EPS beat, $6.2B returned), Ford Q2 (adj EPS beat + FY26 EBIT guide raised to $10-$11B), Corning -~18% (worst day since 2002 on Q3 guide at low end of Street), and Conference Board Consumer Confidence 90.8 vs 92.4 est ahead of Wednesday's FOMC.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ba-q2-2026-earnings-mover-july-28",
+          "title": "Boeing (BA) Q2 2026 — revenue $24.6B (+8% Y/Y) beats and record $715B backlog with FCF returning to +$0.6B on 171 commercial deliveries (highest since 2018), but $280M Air Force One VC-25B charge flips Defense to a $15M operating loss and core loss per share widens to ($0.76) vs ($0.31) est",
+          "category": "earnings",
+          "note": "Boeing Q2 beat on revenue and FCF turned positive with record backlog, but $280M VC-25B Air Force One charge widens core loss to ($0.76) vs ($0.31) est."
+        },
+        {
+          "id": "v-q3-fy26-earnings-july-28",
+          "title": "Visa (V) fiscal Q3 2026 — net revenue $11.6B (+14% Y/Y) beats and non-GAAP EPS $3.32 (+11% Y/Y) tops $3.23 est on 10% constant-dollar payments-volume growth and 12% cross-border ex-Europe; $4.9B repurchased and $0.670/sh dividend declared, $6.2B total capital returned in the quarter",
+          "category": "earnings",
+          "note": "Visa fiscal Q3 net revenue $11.6B +14% and non-GAAP EPS $3.32 beat $3.23 est on 10% payments-vol growth and 12% cross-border ex-Europe; $6.2B capital returned."
+        },
+        {
+          "id": "f-q2-2026-earnings-guide-raise-july-28",
+          "title": "Ford (F) Q2 2026 — adj EPS $0.42 (vs $0.35 est) beats and FY26 adj EBIT guide raised to $10-$11B (from $8.5-$10.5B), adj FCF guide lifted to $6-$7B (from $5-$6B); Ford Pro rev $17.8B (-5%) hit by aluminum-supply constraints, Model e loss narrows $410M Y/Y; F +~5% AH Tuesday July 28",
+          "category": "earnings",
+          "note": "Ford Q2 adj EPS $0.42 beats $0.35 est and FY26 adj EBIT guide raised to $10-$11B, adj FCF to $6-$7B; F +~5% AH."
+        },
+        {
+          "id": "glw-q2-2026-mover-guide-crash-july-28",
+          "title": "Corning (GLW) -~18% on Tuesday July 28 — biggest single-day drop since July 2002 — despite Q2 2026 beat (core EPS $0.78 +30% Y/Y, core sales $4.74B +17%) as Q3 guide of $0.85-$0.89 core EPS / $4.9-$5.0B core sales lands at low end of $0.85/$4.99B est; Optical Communications +32% to $2.07B and Enterprise Networks +65%",
+          "category": "mover",
+          "note": "Corning -~18%, biggest single-day drop since July 2002, despite Q2 beat as Q3 guide lands at low end of the Street on optical/AI-infra pullback."
+        },
+        {
+          "id": "us-consumer-confidence-july-2026",
+          "title": "Conference Board Consumer Confidence Index falls to 90.8 in July 2026 (vs 92.4 Bloomberg est), down 1.4 from an upwardly revised 92.2 in June — Present Situation Index -3.6 to 114.9 (third straight monthly decline) while Expectations Index stays at 74.7, well below the 80 recession-signal threshold; survey period covered July 1-22 during ongoing Middle East conflict",
+          "category": "macro",
+          "note": "Conference Board Consumer Confidence 90.8 in July vs 92.4 est, 3rd straight monthly decline in Present Situation Index; sets backdrop for Wednesday's FOMC decision."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
