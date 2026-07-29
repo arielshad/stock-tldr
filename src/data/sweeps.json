@@ -8348,6 +8348,55 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260729t135630z",
+      "timestamp": "2026-07-29T13:56:30.974Z",
+      "source": "github-actions-sweep",
+      "summary": "Five Q2/Q4 earnings adds spanning the AH Tuesday semis-cap bifurcation (KLA -14% combined vs Teradyne +~13% and Seagate +~8%) plus Wednesday premarket P&G miss and Humana FY GAAP guide cut. FOMC decision 2:00 PM ET and Meta/Microsoft/Qualcomm after the close will be swept next run.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "klac-q4-fy26-mover-july-28",
+          "title": "KLA (KLAC) -6.18% to $190.80 on Tuesday July 28 then -7.74% AH to $176.04 after Q4 FY26 revenue $3.66B beats $3.60B est and non-GAAP EPS $1.05 tops $1.00 est — Q1 FY27 guide $4.0B ± $0.2B / non-GAAP EPS $1.16 ± $0.10 lands in line but memory-pricing and tariff mix-margin headwinds crater the WFE bellwether",
+          "category": "mover",
+          "note": "WFE bellwether beat both lines but cratered ~14% combined regular + AH on margin-mix/tariff headwinds — cleanest read on the semi-cap air pocket."
+        },
+        {
+          "id": "ter-q2-2026-earnings-mover-july-28",
+          "title": "Teradyne (TER) +12.8–14.6% AH Tuesday July 28 to ~$364–$367 — Q2 2026 revenue $1.329B (+104% Y/Y) and non-GAAP EPS $2.47 (vs $2.11 est) crush; Q3 revenue guide midpoint $1.25B lands 21% above the Street and non-GAAP EPS guide $2.00 tops $1.44 est on AI-test and Robotics ramp",
+          "category": "earnings",
+          "note": "AI-test duopoly confirmation — Q3 revenue guide 21% above Street and EPS guide 39% above est on HBM/advanced-packaging test intensity."
+        },
+        {
+          "id": "stx-q4-fy26-earnings-mover-july-28",
+          "title": "Seagate (STX) +~8% AH Tuesday July 28 — Q4 FY26 revenue $3.6B (+48% Y/Y, +17% Q/Q) and non-GAAP EPS $5.71 crush; Q1 FY27 guide $4.1B ± $0.1B revenue and non-GAAP EPS $7.30 ± $0.20 trounce est on HAMR Mozaic drives now 40% of nearline exabyte shipments",
+          "category": "earnings",
+          "note": "Cleanest AI-storage print of the quarter: record 52.7% GM, HAMR Mozaic 40% of nearline EB shipments, Q1 FY27 guide well above Street."
+        },
+        {
+          "id": "pg-q4-fy26-earnings-july-29",
+          "title": "Procter & Gamble (PG) Q4 fiscal 2026 — core EPS $1.43 (vs $1.41 est) beats but revenue $21.2B (+2% Y/Y) undershoots $21.38B est on 0% organic sales; FY27 guide sales +1–3%, organic sales +1–3%, core EPS in-line to +3% (midpoint $7.00); PG -~3% premarket Wed July 29 as CEO Jejurikar also named chair effective Aug 1",
+          "category": "earnings",
+          "note": "Staples elasticity finally biting — flat organic sales after four years of price-led growth, FY27 guide narrow, -~3% premarket."
+        },
+        {
+          "id": "hum-q2-2026-earnings-mover-july-29",
+          "title": "Humana (HUM) Q2 2026 — adj EPS $7.61 (vs $7.22 est) and revenue $40.87B (+26% Y/Y, vs $40.61B est) beat but FY26 GAAP EPS guide slashed to at-least $6.52 (from at-least $8.36) though adj EPS floor held at $9.00; insurance benefit ratio 91.2%; HUM -~8% premarket Wed July 29",
+          "category": "earnings",
+          "note": "Beat every Q2 line but slashed FY26 GAAP EPS floor to $6.52 (from $8.36); H2 implied step-down re-opens the managed-care MLR wound."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
