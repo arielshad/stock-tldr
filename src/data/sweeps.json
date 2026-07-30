@@ -8454,6 +8454,57 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260730t133658z",
+      "timestamp": "2026-07-30T13:36:58.429Z",
+      "source": "github-actions-sweep",
+      "summary": "5 items ship: ICE agrees $6B all-cash acquisition of MarketAxess; Q2 GDP advance prints +1.5% (miss vs +2.1% est); LRCX crushes Q4 with 20-yr-high margins + massive Q1 FY27 guide beat; ARM beats + raises but stock sells off ~6-8%; EMCOR +13.8% on data-center MEP build-out.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ice-marketaxess-6b-acquisition-july-30-2026",
+          "title": "Intercontinental Exchange (ICE) to acquire MarketAxess (MKTX) for ~$6.0B in all-cash on Thursday July 30 — $167/sh, 33% premium to Wednesday July 29 close; $5.7B enterprise value at 10.6x LTM EBITDA pro-forma, ~$100M annual synergies within 3 years, close H1 2027 pending MKTX shareholder + regulatory approvals",
+          "category": "mna",
+          "note": "$6B all-cash M&A announced today; 33% premium, primary source ICE IR + Yahoo Finance + citybiz coverage."
+        },
+        {
+          "id": "us-q2-2026-gdp-advance-1pct5-july-30",
+          "title": "US Q2 2026 GDP advance estimate +1.5% annualized on Thursday July 30 — misses +2.1% consensus and decelerates from Q1's +2.1%; PCE price index +5.1% (from +4.6% in Q1) but core PCE +3.4% (from +4.4%); real final sales to private domestic purchasers accelerates to +3.9% (from +1.7%)",
+          "category": "macro",
+          "note": "BEA release at 8:30 EDT today; miss vs consensus but private-demand +3.9% underneath, PCE-index re-acceleration."
+        },
+        {
+          "id": "lrcx-q4-fy26-earnings-mover-july-29",
+          "title": "Lam Research (LRCX) +~7.8% premarket Thursday July 30 after Q4 FY26 record — revenue $6.72B (+30% Y/Y, +15% Q/Q) beats $6.55B est, non-GAAP EPS $1.82 tops $1.68 est with gross margin 52.0% (20-year high) and operating margin 38.4% record; Q1 FY27 guide $8.10B ± $0.4B (13.6% above est) and EPS $2.15 ± $0.15 smashes Street on AI-driven WFE demand",
+          "category": "earnings",
+          "note": "WFE bellwether Q4 FY26 report Wed AH; Q1 FY27 guide 13.6% above Street; +~7.8% premarket July 30."
+        },
+        {
+          "id": "arm-q1-fy27-earnings-mover-july-29",
+          "title": "ARM Holdings (ARM) -~6-8% AH Wednesday July 29 / premarket Thursday July 30 despite record Q1 FY27 — total revenue $1.29B (+22% Y/Y) beats $1.27B est, non-GAAP EPS $0.45 crushes $0.37 est on royalty $715M (+22%) and licensing $574M (+23%); data center royalties more than doubled Y/Y, ARM AGI CPU demand tops $2B across FY27-FY28",
+          "category": "earnings",
+          "note": "ARM Q1 FY27 record but stock -6-8% AH/premarket on stretched setup; data-center royalties >2x Y/Y."
+        },
+        {
+          "id": "eme-q2-2026-earnings-mover-july-30",
+          "title": "EMCOR (EME) +~13.8% Thursday July 30 — Q2 2026 GAAP diluted EPS $9.06 crushes $7.23 est (+25.9%) on revenue $5.15B (+20% Y/Y, vs $4.73B est) and operating income $547.3M (+32% Y/Y); FY26 EPS guide $32.00-$33.25 and revenue $20.0-$20.5B on data-center + electrification build-out",
+          "category": "earnings",
+          "note": "EMCOR Q2 crushes with $9.06 EPS +25.9% surprise, +13.8% on data-center + electrification MEP demand."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "macro",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
