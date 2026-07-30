@@ -8397,6 +8397,63 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260730t012606z",
+      "timestamp": "2026-07-30T01:26:06.023Z",
+      "source": "github-actions-sweep",
+      "summary": "Big earnings + FOMC night on July 29 2026: Fed holds at 3.50-3.75% on 9-3 vote with three hawkish dissents (Hammack/Kashkari/Logan), Dow -1,153 pts (-2.19%) — worst since April 2025. AH: META -~10% on EPS miss + raised capex; MSFT +~3% as Azure crosses $100B annual; SBUX +~5-8% on double beat + guide raise; QCOM -~7% on handset drag; HOOD Q2 beats on 10x event-contracts volume.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fomc-july-2026-hold-9-3-dissent-july-29",
+          "title": "FOMC July 2026 — holds at 3.50-3.75% for fifth straight meeting on 9-3 vote as Hammack, Kashkari and Logan dissent for a 25bp hike; Dow -1,153 pts (-2.19%) worst since April 2025, 30-year yield spikes 12bp to 5.21% highest in 19 years",
+          "category": "macro",
+          "note": "5th straight hold + 3 hawkish dissents + brutal cross-asset reaction = seismic day."
+        },
+        {
+          "id": "meta-q2-2026-earnings-mover-july-29",
+          "title": "Meta (META) -~10% AH Wednesday July 29 — Q2 2026 revenue $60.8B (+28% Y/Y) beats but diluted EPS $6.18 (-13% Y/Y) misses ~$7.13 est by ~$0.95 on $2.4B legal charges + $1.18B severance; capex Q2 $31.1B and FY26 capex guide raised to $130-145B (from $125-145B); Q3 revenue guide $61-64B midpoint sits below $63.15B est",
+          "category": "earnings",
+          "note": "Miss on EPS, raise on capex, softer Q3 guide — the exact combo that has broken META twice in the last month."
+        },
+        {
+          "id": "msft-q4-fy26-earnings-azure-100b-july-29",
+          "title": "Microsoft (MSFT) +~3% AH Wednesday July 29 — Q4 FY26 revenue $90.0B (+18% Y/Y) beats $87.62B est and GAAP diluted EPS $4.81 (+32% Y/Y) tops estimates as Azure & cloud services growth accelerates to +43% cc (vs +40.2% est) and FY26 Azure crosses $100B in annual revenue for the first time; Q4 capex $35.8B, FY26 capex $115.9B, $3.2B Anthropic gain adds $0.27 to EPS",
+          "category": "earnings",
+          "note": "Azure +43% cc beats +40.2% est and Azure crosses $100B annual for the first time; the AI-cloud demand story lands."
+        },
+        {
+          "id": "sbux-q3-fy26-earnings-mover-july-29",
+          "title": "Starbucks (SBUX) +~5-8% AH Wednesday July 29 — fiscal Q3 2026 revenue $9.3B beats $9.12B est and adj EPS $0.85 crushes $0.66 est on global comparable sales +7.9% (vs +5.7% est) and North America comps +8.1%; FY26 adj EPS guide raised to $2.55-$2.65 (from $2.25-$2.45), FY26 US comp guide lifted to '>6%' and Q4 US comps expected 6.5%+",
+          "category": "earnings",
+          "note": "Every top-line metric beat + FY26 guide raise; the print that operationalises the 'Back to Starbucks' turnaround."
+        },
+        {
+          "id": "qcom-q3-fy26-earnings-mover-july-29",
+          "title": "Qualcomm (QCOM) -~7% AH Wednesday July 29 — Q3 FY26 revenue $9.9B beats $9.67B est but adj EPS $2.21 misses $2.23 est as handset revenue drops 20% Y/Y to $5.1B despite automotive +61% Y/Y to $1.59B and IoT +9% to $1.83B; Q4 revenue guide $9.70-$10.50B and EPS $2.05-$2.25 midpoints roughly in line",
+          "category": "earnings",
+          "note": "Revenue beat but 2-cent EPS miss and -20% Y/Y handset revenue overshadow +61% auto growth."
+        },
+        {
+          "id": "hood-q2-2026-earnings-july-29",
+          "title": "Robinhood (HOOD) Q2 2026 — revenue $1.31B (+32% Y/Y) beats $1.26B est and diluted EPS $0.62 crushes $0.41 est on net income $573M (+48% Y/Y); event-contracts trading volume 13.6B (+10x Y/Y) drives the beat while crypto revenue $100M drops 38% Y/Y; HOOD closed -3% at $89.84 on the session before AH release",
+          "category": "earnings",
+          "note": "Event-contracts trading volume 10x's Y/Y to 13.6B contracts and drives the top-line beat, offsetting a 38% Y/Y crypto revenue decline."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

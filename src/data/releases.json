@@ -1,8 +1,456 @@
 {
-  "generatedAt": "2026-07-29T13:56:30.974Z",
+  "generatedAt": "2026-07-30T01:26:06.023Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fomc-july-2026-hold-9-3-dissent-july-29",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "FOMC July 2026 — holds at 3.50-3.75% for fifth straight meeting on 9-3 vote as Hammack, Kashkari and Logan dissent for a 25bp hike; Dow -1,153 pts (-2.19%) worst since April 2025, 30-year yield spikes 12bp to 5.21% highest in 19 years",
+      "org": "Federal Reserve",
+      "date": "2026-07-29",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "summary": "Fed holds federal funds range at 3.50-3.75% for fifth straight meeting on 9-3 vote. Hammack, Kashkari and Logan dissented for +25bp. Warsh press conference: 'no soft inflation target'. Dow -1,153 pts (-2.19%), 30Y +12bp to 5.21%.",
+      "tags": [
+        "fomc",
+        "fed",
+        "rates",
+        "monetary-policy",
+        "warsh",
+        "hawkish-hold",
+        "dissent",
+        "inflation",
+        "treasury-yields",
+        "macro",
+        "july-2026"
+      ],
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^IXIC",
+        "^TNX"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Fed funds range": "3.50-3.75% (unchanged)",
+        "Vote": "9-3 (Hammack, Kashkari, Logan dissent +25bp)",
+        "Dow": "-1,153.18 pts (-2.19%) to 51,594.14",
+        "S&P 500": "-1.52% to 7,316.15",
+        "Nasdaq": "-1.74% to 24,442.94",
+        "10Y yield": "+7bp to 4.67%",
+        "30Y yield": "+12bp to 5.21% (19-yr high)"
+      },
+      "explainer": {
+        "tagline": "Fed holds at 3.50-3.75% on a 9-3 vote as three regional presidents dissent for a hike and long-end yields spike to a 19-year high.",
+        "whatIsIt": "The FOMC voted 9-3 on Wednesday July 29 to keep the federal funds target range at 3.50-3.75% for the fifth consecutive meeting. Cleveland's Beth Hammack, Minneapolis' Neel Kashkari and Dallas' Lorie Logan dissented in favor of a 25bp hike. Chair Kevin Warsh's press conference doubled down on his 'no soft inflation target' framing.",
+        "howItWorks": "The statement kept the language that economic activity is 'expanding at a solid pace' while flagging inflation as 'elevated' relative to the 2% goal. Three dissents on a hold is the biggest hawkish split at an FOMC since 2019. Warsh reiterated the Fed 'will deliver price stability' and pushed back on giving forward guidance, urging markets to trade the data rather than Fed policy.",
+        "whyItMatters": "The Dow dropped 1,153.18 points (-2.19%) to 51,594.14 for its worst session since April 2025 as traders read the three dissents and Warsh's 'no soft target' rhetoric as confirmation the next move is a hike, not a cut. The 30-year yield surged 12bp to 5.21%, its highest since 2007, and the 10-year jumped 7bp to 4.67%. S&P -1.52% to 7,316.15; Nasdaq -1.74% to 24,442.94.",
+        "forWho": "rates traders, macro allocators, duration desks",
+        "tryIt": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/DAA14F5080A38E4D70049998E9EB97FB692110E314F064C56FBCFF57520751F1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-06%2F4d13a210-6a7b-11f1-b5f1-0bd9bdecb8c5",
+        "alt": "Fed Chair Kevin Warsh at a July 2026 press conference podium",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html"
+        },
+        {
+          "label": "CNN: Cliffhanger Meeting",
+          "url": "https://www.cnn.com/2026/07/29/business/live-news/federal-reserve-interest-rate-07-29-26"
+        },
+        {
+          "label": "Yahoo Live Blog",
+          "url": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
+        }
+      ],
+      "reddit": {
+        "title": "Fed holds at 3.50-3.75% on 9-3 vote as Hammack, Kashkari and Logan dissent for a hike — Dow -1,153 pts (-2.19%), 30Y yield spikes to 5.21%, highest since 2007",
+        "body": "Warsh's second FOMC as chair delivered a hawkish hold. The market did not like it.\n\n* Fed funds range unchanged at 3.50-3.75% for the 5th straight meeting\n* Vote 9-3 — Beth Hammack (Cleveland), Neel Kashkari (Minneapolis) and Lorie Logan (Dallas) all dissented in favor of a 25bp HIKE\n* Statement says inflation 'remains elevated' vs the 2% goal, economy still 'expanding at a solid pace'\n* Warsh presser: 'There is no soft inflation target. There's only a target, and it's 2%'\n\nMarket reaction was ugly:\n\n1. **Dow -1,153.18 pts (-2.19%)** to 51,594.14 — worst day since April 2025\n2. **S&P 500 -1.52%** to 7,316.15 / **Nasdaq -1.74%** to 24,442.94\n3. **Long end spikes** — 30Y yield +12bp to 5.21%, the highest since 2007; 10Y +7bp to 4.67%\n\nBond market read: three dissents plus Warsh's 'no soft target' framing = next move is a hike, not a cut.\n\nNext catalysts: Q2 GDP advance estimate Thursday July 30 (8:30 AM ET), then AAPL/AMZN after the close.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-july-2026-hold-9-3-dissent-july-29](https://stock-tldr.xyz/releases/fomc-july-2026-hold-9-3-dissent-july-29)"
+      },
+      "publishDate": "2026-07-30T01:26:06.023Z"
+    },
+    {
+      "id": "meta-q2-2026-earnings-mover-july-29",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Meta (META) -~10% AH Wednesday July 29 — Q2 2026 revenue $60.8B (+28% Y/Y) beats but diluted EPS $6.18 (-13% Y/Y) misses ~$7.13 est by ~$0.95 on $2.4B legal charges + $1.18B severance; capex Q2 $31.1B and FY26 capex guide raised to $130-145B (from $125-145B); Q3 revenue guide $61-64B midpoint sits below $63.15B est",
+      "org": "Meta Platforms",
+      "date": "2026-07-29",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx",
+      "summary": "Meta Q2 2026 — revenue $60.8B (+28% Y/Y) beats but EPS $6.18 misses ~$7.13 est on $3.6B one-off charges. FY26 capex guide raised to $130-145B. Q3 rev guide $61-64B softer than $63.15B est. META -~10% AH.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "eps-miss",
+        "revenue-beat",
+        "guide-soft",
+        "ai-capex",
+        "capex-raise",
+        "reality-labs",
+        "advertising",
+        "q2-2026",
+        "mover"
+      ],
+      "tickers": [
+        "META"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$60.8B (+28% Y/Y, beat)",
+        "EPS": "$6.18 (-13% Y/Y, vs ~$7.13 est)",
+        "Net income": "$15.8B (-14% Y/Y)",
+        "Operating margin": "31% (vs 43% Y/Y)",
+        "Q2 capex": "$31.1B",
+        "FY26 capex guide": "$130-145B (raised from $125-145B)",
+        "Q3 rev guide": "$61-64B (est ~$63.15B)",
+        "Family DAP": "3.60B (+3% Y/Y)",
+        "Move": "-~10% AH"
+      },
+      "explainer": {
+        "tagline": "Meta beats on revenue but misses EPS by ~$0.95 and raises the low end of 2026 AI capex to $130B — stock -~10% AH.",
+        "whatIsIt": "Meta reported Q2 2026 results after the close on Wednesday July 29. Revenue of $60.8B (+28% Y/Y) topped the Street but diluted EPS of $6.18 fell short of the ~$7.13 consensus by roughly $0.95, dragged by $2.4B of legal charges and $1.18B of severance from the May 2026 workforce reductions.",
+        "howItWorks": "Family Daily Active People grew 3% Y/Y to 3.60B, ad impressions +14% Y/Y and average ad price +12% Y/Y — the ad engine is still working. But operating margin collapsed to 31% from 43% Y/Y as expenses jumped 55%. Q2 capex hit $31.1B and the FY26 capex range was raised at the low end to $130-145B (from $125-145B). Q3 revenue guide of $61-64B sits below the $63.15B Street estimate at the midpoint.",
+        "whyItMatters": "The EPS miss + raised capex + softer Q3 guide combo sent META down ~10% in extended trade, extending a rough stretch for the name. The AI-spend-versus-margin trade cracked further: investors want to see the return on the FY26 $130B+ AI outlay show up in ad revenue, and this print didn't clear that bar.",
+        "forWho": "AI capex traders, mega-cap growth funds, ad-tech analysts",
+        "tryIt": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx"
+      },
+      "image": {
+        "url": "https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png",
+        "alt": "Meta Platforms corporate infinity symbol",
+        "fit": "contain",
+        "credit": "Meta Platforms"
+      },
+      "links": [
+        {
+          "label": "Meta Q2 2026 Release",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "Finviz AH Movers",
+          "url": "https://finviz.com/news/291841/meta-msft-making-outsized-post-earnings-moves"
+        },
+        {
+          "label": "CNBC AH Movers",
+          "url": "https://www.cnbc.com/2026/07/29/stocks-making-the-biggest-moves-after-hours-msft-meta-sbux-cvna.html"
+        },
+        {
+          "label": "META Chart",
+          "url": "https://finance.yahoo.com/quote/META/"
+        }
+      ],
+      "reddit": {
+        "title": "META -~10% AH after Q2 miss — EPS $6.18 vs ~$7.13 est on $3.6B in legal + severance charges; FY26 AI capex guide raised to $130-145B",
+        "body": "Meta whiffed on the bottom line and raised the AI capex bill again. That combo is the exact reason the stock got beaten down.\n\n* Revenue $60.8B (+28% Y/Y) — actually beat\n* Diluted EPS $6.18 (-13% Y/Y) vs ~$7.13 est — miss of ~$0.95\n* Net income $15.8B (-14% Y/Y), operating margin collapses to 31% from 43% Y/Y\n* Q2 capex $31.1B; **FY26 capex guide raised at the low end to $130-145B** (from $125-145B)\n* Q3 revenue guide $61-64B — low end below the $63.15B Street\n\nWhat blew up the EPS line:\n\n1. **$2.4B in legal charges** in the quarter\n2. **$1.18B in severance** from the May 2026 workforce reduction\n3. **Expenses +55% Y/Y** — Reality Labs and AI infra keep eating\n\nFamily DAP still growing (3.60B, +3% Y/Y), ad prices +12%, impressions +14%. The ad engine is fine. The market is losing patience with the AI capex-to-margin drag.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-q2-2026-earnings-mover-july-29](https://stock-tldr.xyz/releases/meta-q2-2026-earnings-mover-july-29)"
+      },
+      "publishDate": "2026-07-30T01:26:06.023Z"
+    },
+    {
+      "id": "msft-q4-fy26-earnings-azure-100b-july-29",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Microsoft (MSFT) +~3% AH Wednesday July 29 — Q4 FY26 revenue $90.0B (+18% Y/Y) beats $87.62B est and GAAP diluted EPS $4.81 (+32% Y/Y) tops estimates as Azure & cloud services growth accelerates to +43% cc (vs +40.2% est) and FY26 Azure crosses $100B in annual revenue for the first time; Q4 capex $35.8B, FY26 capex $115.9B, $3.2B Anthropic gain adds $0.27 to EPS",
+      "org": "Microsoft",
+      "date": "2026-07-29",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast",
+      "summary": "MSFT Q4 FY26 — revenue $90.0B (+18% Y/Y) beats $87.62B est and GAAP EPS $4.81 (+32%) crushes as Azure +43% cc (vs 40.2% est), Azure crosses $100B annual, Q4 capex $35.8B and $3.2B Anthropic gain adds $0.27; MSFT +~3% AH.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "azure",
+        "cloud",
+        "ai-capex",
+        "anthropic-gain",
+        "revenue-beat",
+        "eps-beat",
+        "q4-fy26",
+        "microsoft-cloud"
+      ],
+      "tickers": [
+        "MSFT"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$90.0B (+18% Y/Y, beat $87.62B est)",
+        "GAAP EPS": "$4.81 (+32% Y/Y)",
+        "Non-GAAP EPS": "$4.74 (+23% Y/Y)",
+        "Microsoft Cloud": "$59.3B (+27% Y/Y)",
+        "Azure & cloud services": "+43% cc (vs +40.2% est)",
+        "Intelligent Cloud": "$39.3B (+32% Y/Y)",
+        "Q4 capex": "$35.8B",
+        "FY26 capex": "$115.9B",
+        "Anthropic gain": "$3.2B (+$0.27 EPS)",
+        "cRPO": "$678B (+84% Y/Y)",
+        "Copilot paid seats": ">30M",
+        "Move": "+~3% AH"
+      },
+      "explainer": {
+        "tagline": "Azure accelerates to +43% cc, crosses $100B in annual revenue for the first time, and a $3.2B Anthropic gain drops $0.27 to EPS.",
+        "whatIsIt": "Microsoft reported fiscal Q4 2026 results after the close on Wednesday July 29. Revenue of $90.0B (+18% Y/Y) beat the $87.62B Street; GAAP diluted EPS came in at $4.81 (+32% Y/Y) and non-GAAP EPS at $4.74 (+23% Y/Y). FY26 revenue landed at $331.8B (+18%).",
+        "howItWorks": "Microsoft Cloud revenue was $59.3B (+27% Y/Y). Azure and other cloud services grew 43% at constant currency, well above the +40.2% StreetAccount estimate, and full-year FY26 Azure revenue crossed $100B for the first time. Intelligent Cloud +32% to $39.3B, Productivity & Business Processes +14% to $37.8B, More Personal Computing -4% to $12.9B. Commercial remaining performance obligation ballooned to $678B (+84%). Q4 capex hit $35.8B; full-year FY26 capex $115.9B. A $3.2B unrealized gain on Microsoft's Anthropic stake added $0.27 to Q4 EPS.",
+        "whyItMatters": "MSFT +~3% in extended trade after Nadella pointed to a $37B annual AI run rate on the call and Azure accelerated for the second straight quarter. The Azure > $100B milestone reframes the AI capex debate that hammered META on the same night: for MSFT, at least, the spending is still translating into cloud growth.",
+        "forWho": "AI infra bulls, mega-cap growth, cloud-services analysts",
+        "tryIt": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Microsoft_Q4_FY2026_Revenue_Rises_18_to_90_Billion_1088958.webp",
+        "alt": "Microsoft Q4 FY2026 earnings visual highlighting $90B revenue and Azure growth",
+        "fit": "cover",
+        "credit": "Stock Titan"
+      },
+      "links": [
+        {
+          "label": "MSFT Q4 FY26 Release",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast"
+        },
+        {
+          "label": "Stock Titan Coverage",
+          "url": "https://www.stocktitan.net/news/MSFT/microsoft-earnings-press-release-available-on-investor-relations-mudq0yxh92n9.html"
+        },
+        {
+          "label": "CNBC AH Movers",
+          "url": "https://www.cnbc.com/2026/07/29/stocks-making-the-biggest-moves-after-hours-msft-meta-sbux-cvna.html"
+        },
+        {
+          "label": "MSFT Chart",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ],
+      "reddit": {
+        "title": "MSFT Q4 FY26 crush — revenue $90B (+18%) beats $87.6B est, Azure +43% cc smashes +40.2% est, Azure crosses $100B annual for the first time",
+        "body": "Microsoft's Q4 was the antidote to Meta on the same night — big AI capex, but the cloud line is actually accelerating.\n\n* Revenue **$90.0B (+18% Y/Y)** vs $87.62B est\n* GAAP diluted EPS **$4.81 (+32% Y/Y)** — $3.2B Anthropic stake gain added $0.27\n* Non-GAAP EPS $4.74 (+23% Y/Y)\n* Microsoft Cloud $59.3B (+27%), Intelligent Cloud $39.3B (+32%)\n* **Azure & cloud services +43% cc** vs +40.2% est — acceleration for the second straight quarter\n* **Azure annual revenue crossed $100B for the first time**\n* Commercial RPO $678B (+84% Y/Y)\n* Q4 capex $35.8B, FY26 capex $115.9B\n* Copilot paid seats >30M\n\nOn the call Nadella pointed to a **$37B annual AI run rate** (+123% Y/Y).\n\nMSFT +~3% AH. The AI capex trade lives here; on the same night META raised its FY26 capex to $130-145B and got hammered because Azure-style acceleration didn't show through.\n\nNext catalysts: AAPL and AMZN after the close Thursday July 30.\n\nFull breakdown: [https://stock-tldr.xyz/releases/msft-q4-fy26-earnings-azure-100b-july-29](https://stock-tldr.xyz/releases/msft-q4-fy26-earnings-azure-100b-july-29)"
+      },
+      "publishDate": "2026-07-30T01:26:06.023Z"
+    },
+    {
+      "id": "sbux-q3-fy26-earnings-mover-july-29",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Starbucks (SBUX) +~5-8% AH Wednesday July 29 — fiscal Q3 2026 revenue $9.3B beats $9.12B est and adj EPS $0.85 crushes $0.66 est on global comparable sales +7.9% (vs +5.7% est) and North America comps +8.1%; FY26 adj EPS guide raised to $2.55-$2.65 (from $2.25-$2.45), FY26 US comp guide lifted to '>6%' and Q4 US comps expected 6.5%+",
+      "org": "Starbucks",
+      "date": "2026-07-29",
+      "url": "https://finance.yahoo.com/markets/stocks/article/starbucks-stock-pops-on-sustained-sales-growth-raised-guidance-154557895.html",
+      "summary": "SBUX fiscal Q3 2026 — revenue $9.3B beats $9.12B est and adj EPS $0.85 tops $0.66 est on global comps +7.9% (vs +5.7% est) and NA comps +8.1%; FY26 adj EPS guide raised to $2.55-$2.65 from $2.25-$2.45; SBUX +~5-8% AH.",
+      "tags": [
+        "earnings",
+        "guide-raise",
+        "same-store-sales",
+        "consumer",
+        "restaurants",
+        "turnaround",
+        "q3-fy26",
+        "mover"
+      ],
+      "tickers": [
+        "SBUX"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$9.3B (beat $9.12B est)",
+        "Adj EPS": "$0.85 (vs $0.66 est; +70% Y/Y)",
+        "Global comps": "+7.9% (vs +5.7% est)",
+        "North America comps": "+8.1% (vs +6% est)",
+        "FY26 adj EPS guide": "$2.55-$2.65 (raised from $2.25-$2.45)",
+        "FY26 US comp guide": ">6% (raised from 5%+)",
+        "Q4 US comp guide": "6.5%+",
+        "Move": "+~5-8% AH"
+      },
+      "explainer": {
+        "tagline": "Starbucks smokes Q3 estimates and raises FY26 EPS to $2.55-$2.65 as North America comps +8.1% shows the turnaround is landing.",
+        "whatIsIt": "Starbucks reported fiscal Q3 2026 (quarter ended June 29, 2026) after the close on Wednesday July 29. Revenue of $9.3B beat the $9.12B consensus and adjusted EPS of $0.85 blew past the $0.66 Street on the back of a 7.9% global same-store sales beat versus the 5.7% expectation.",
+        "howItWorks": "Comparable sales are what matters here. Global comps came in +7.9% vs +5.7% Wall Street expectation, driven by +4.2% transactions and +3.5% ticket. North America / US comps rose +8.1% versus a +6% expectation. Management raised FY26 adjusted EPS guidance to $2.55-$2.65 (from $2.25-$2.45), lifted the FY26 US comp forecast to 'a little more than 6%' from 5%+, and guided Q4 US comps to 6.5%+.",
+        "whyItMatters": "CEO Brian Niccol's 'Back to Starbucks' plan has been the SBUX pitch for a year. This is the print that operationalised it — every top-line metric beat and the guide-raise was material. SBUX popped 5-8% in extended trade toward a 52-week high on the double beat + raise combo.",
+        "forWho": "consumer-discretionary traders, restaurant analysts, turnaround funds",
+        "tryIt": "https://finance.yahoo.com/quote/SBUX/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/56A7BD562B7A3E7A5CC18A975120B9C0CEDCE01858AC84E7BDC1EADCFCDC1F3C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fd08fdb54-a241-4c47-8e37-4bf3e4e90ebc",
+        "alt": "Starbucks storefront exterior after Q3 FY2026 earnings beat",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/article/starbucks-stock-pops-on-sustained-sales-growth-raised-guidance-154557895.html"
+        },
+        {
+          "label": "MarketBeat: EPS Beat",
+          "url": "https://www.marketbeat.com/instant-alerts/starbucks-nasdaqsbux-posts-earnings-results-beats-estimates-by-020-eps-2026-07-29/"
+        },
+        {
+          "label": "Benzinga: 52-Week High",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60782534/starbucks-stock-surges-to-52-week-high-following-q3-double-beat"
+        },
+        {
+          "label": "SBUX Chart",
+          "url": "https://finance.yahoo.com/quote/SBUX/"
+        }
+      ],
+      "reddit": {
+        "title": "Starbucks Q3 double beat — global comps +7.9% vs 5.7% est, adj EPS $0.85 vs $0.66 est, FY26 EPS guide raised to $2.55-$2.65",
+        "body": "SBUX finally printed the Q3 the bulls have been waiting for. Every top-line metric beat.\n\n* Revenue **$9.3B** vs $9.12B est\n* Adj EPS **$0.85** vs $0.66 est\n* **Global comparable sales +7.9%** vs +5.7% est (transactions +4.2%, ticket +3.5%)\n* **North America comps +8.1%** vs +6% est\n\nGuide raise across the board:\n\n1. **FY26 adj EPS raised to $2.55-$2.65** (from $2.25-$2.45)\n2. **FY26 US comp guide lifted to '>6%'** (from 5%+)\n3. **Q4 US comps expected 6.5%+**\n\nSBUX +5% to +8% in extended trade toward a 52-week high — CEO Brian Niccol's 'Back to Starbucks' turnaround is finally showing through in the print, not just the deck.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sbux-q3-fy26-earnings-mover-july-29](https://stock-tldr.xyz/releases/sbux-q3-fy26-earnings-mover-july-29)"
+      },
+      "publishDate": "2026-07-30T01:26:06.023Z"
+    },
+    {
+      "id": "qcom-q3-fy26-earnings-mover-july-29",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Qualcomm (QCOM) -~7% AH Wednesday July 29 — Q3 FY26 revenue $9.9B beats $9.67B est but adj EPS $2.21 misses $2.23 est as handset revenue drops 20% Y/Y to $5.1B despite automotive +61% Y/Y to $1.59B and IoT +9% to $1.83B; Q4 revenue guide $9.70-$10.50B and EPS $2.05-$2.25 midpoints roughly in line",
+      "org": "Qualcomm",
+      "date": "2026-07-29",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60778498/qualcomm-q3-highlights-revenue-beat-eps-miss-ceo-says-solid-execution-of-growth-strategy",
+      "summary": "QCOM Q3 FY26 — revenue $9.9B beats $9.67B est but adj EPS $2.21 misses $2.23 est as QCT handset -20% Y/Y to $5.1B despite auto +61% and IoT +9%; Q4 guide $9.70-$10.50B revenue / $2.05-$2.25 EPS. QCOM -~7% AH.",
+      "tags": [
+        "earnings",
+        "semis",
+        "handset-slump",
+        "auto-semis",
+        "eps-miss",
+        "revenue-beat",
+        "q3-fy26",
+        "mover"
+      ],
+      "tickers": [
+        "QCOM"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$9.9B (beat $9.67B est)",
+        "Adj EPS": "$2.21 (miss vs $2.23 est)",
+        "QCT total": "$8.5B",
+        "Handsets": "$5.1B (-20% Y/Y)",
+        "Automotive": "$1.59B (+61% Y/Y)",
+        "IoT": "$1.83B (+9% Y/Y)",
+        "QTL": "$1.3B",
+        "Q4 rev guide": "$9.70-$10.50B",
+        "Q4 EPS guide": "$2.05-$2.25",
+        "Move": "-~7% AH"
+      },
+      "explainer": {
+        "tagline": "Handset revenue drops 20% Y/Y and drags an otherwise clean auto/IoT quarter into a small EPS miss.",
+        "whatIsIt": "Qualcomm reported fiscal Q3 2026 after the close on Wednesday July 29. Revenue of $9.9B beat the $9.67B Street but adjusted EPS of $2.21 missed the $2.23 consensus by two cents. CEO Cristiano Amon flagged the print as 'solid execution of our growth strategy' and said the company expects China handset sales to rebound with 'double-digit sequential growth' next quarter.",
+        "howItWorks": "QCT chip revenue totalled $8.5B. Handsets came in at $5.1B (-20% Y/Y) as memory-cost pass-through and China weakness bit; auto rose 61% Y/Y to $1.59B for the 23rd straight quarter of double-digit growth; IoT +9% Y/Y to $1.83B. Licensing (QTL) was $1.3B. Q4 revenue guide of $9.70-$10.50B and adj EPS guide of $2.05-$2.25 land roughly in line with Street midpoints.",
+        "whyItMatters": "QCOM slid ~7% in extended trade — the two-cent EPS miss and the -20% handset print outweighed the modest revenue beat and the auto growth story. On a night when MSFT confirmed AI-cloud demand and META raised capex, QCOM's tape reset the semis 'ex-Nvidia' narrative on handset softness.",
+        "forWho": "semis traders, mobile-supply-chain analysts, auto-chip investors",
+        "tryIt": "https://finance.yahoo.com/quote/QCOM/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/29/The-Logo-And-Building-For-Qualcomm.jpg",
+        "alt": "Qualcomm corporate logo and headquarters signage",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "links": [
+        {
+          "label": "Benzinga Q3 Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/07/60778498/qualcomm-q3-highlights-revenue-beat-eps-miss-ceo-says-solid-execution-of-growth-strategy"
+        },
+        {
+          "label": "Quiver Q3 Revenue",
+          "url": "https://www.quiverquant.com/news/Qualcomm+Q3+revenue+falls+4%25+to+%249.947+billion"
+        },
+        {
+          "label": "24/7 Wall St Live",
+          "url": "https://247wallst.com/investing/2026/07/29/live-will-qualcomm-smash-q3-earnings-tonight-after-5-ytd-decline/"
+        },
+        {
+          "label": "QCOM Chart",
+          "url": "https://finance.yahoo.com/quote/QCOM/"
+        }
+      ],
+      "reddit": {
+        "title": "QCOM -~7% AH — Q3 revenue $9.9B beats $9.67B est but adj EPS $2.21 misses by 2 cents as handsets crash 20% Y/Y",
+        "body": "Qualcomm's Q3 print showed the auto/IoT story working but the handset base still bleeding.\n\n* Revenue **$9.9B** vs $9.67B est — beat\n* Adj EPS **$2.21** vs $2.23 est — 2-cent miss\n* **QCT $8.5B**: Handsets **$5.1B (-20% Y/Y)**, Automotive **$1.59B (+61% Y/Y)**, IoT **$1.83B (+9% Y/Y)**\n* QTL licensing $1.3B\n* Q4 rev guide $9.70-$10.50B, adj EPS guide $2.05-$2.25 — roughly in line\n\nWhat drove the sell-off:\n\n1. **Handset revenue -20% Y/Y** — memory-cost pressure and China weakness\n2. **EPS miss** — small in dollar terms but the first miss in five quarters\n3. **In-line guide** — no upside surprise to offset\n\nCEO Amon says China handset sales rebound with 'double-digit sequential growth' next quarter and that Q3 marks the bottom. Auto and IoT still doing their job — 23rd straight quarter of double-digit auto growth.\n\nFull breakdown: [https://stock-tldr.xyz/releases/qcom-q3-fy26-earnings-mover-july-29](https://stock-tldr.xyz/releases/qcom-q3-fy26-earnings-mover-july-29)"
+      },
+      "publishDate": "2026-07-30T01:26:06.023Z"
+    },
+    {
+      "id": "hood-q2-2026-earnings-july-29",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Robinhood (HOOD) Q2 2026 — revenue $1.31B (+32% Y/Y) beats $1.26B est and diluted EPS $0.62 crushes $0.41 est on net income $573M (+48% Y/Y); event-contracts trading volume 13.6B (+10x Y/Y) drives the beat while crypto revenue $100M drops 38% Y/Y; HOOD closed -3% at $89.84 on the session before AH release",
+      "org": "Robinhood",
+      "date": "2026-07-29",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhoods-latest-earnings-beat-wall-233756477.html",
+      "summary": "HOOD Q2 2026 — revenue $1.31B (+32% Y/Y) beats $1.26B est, EPS $0.62 crushes $0.41 est, net income $573M (+48%); event contracts 13.6B (+10x Y/Y) drive beat, crypto rev $100M -38% Y/Y. HOOD -3% during regular session to $89.84.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "event-contracts",
+        "crypto",
+        "retail-brokerage",
+        "prediction-markets",
+        "q2-2026"
+      ],
+      "tickers": [
+        "HOOD"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$1.31B (+32% Y/Y, beat $1.26B est)",
+        "Diluted EPS": "$0.62 (vs $0.41 est)",
+        "Net income": "$573M (+48% Y/Y)",
+        "Event contracts": "13.6B (+10x Y/Y)",
+        "Crypto revenue": "$100M (-38% Y/Y)",
+        "Crypto notional": "$40B ($18B Robinhood + $22B Bitstamp)",
+        "Regular-session move": "-3% to $89.84"
+      },
+      "explainer": {
+        "tagline": "Event-contracts trading volume 10x's Y/Y to 13.6B and drives the top-line beat, offsetting a 38% Y/Y drop in crypto revenue.",
+        "whatIsIt": "Robinhood reported Q2 2026 after the close on Wednesday July 29. Revenue of $1.31B (+32% Y/Y) beat the $1.26B consensus, and diluted EPS of $0.62 crushed the $0.41 Street on net income of $573M (+48% Y/Y).",
+        "howItWorks": "Prediction markets did the heavy lifting: event-contracts trading volume hit a record 13.6B contracts, up more than 10x Y/Y. Crypto revenue dropped 38% Y/Y to $100M as notional volumes came in at $40B ($18B on the Robinhood app, down 35% Y/Y, and $22B on Bitstamp). CEO Vlad Tenev flagged Robinhood Chain (Arbitrum-based, launched July 2026) and Trump Accounts as the next product-velocity bets.",
+        "whyItMatters": "The market is treating HOOD as the reference stock for the prediction-markets/event-contracts theme. Q2 confirmed the mix shift: brokerage / event-contracts up, crypto down. HOOD closed -3% on the day at $89.84 (regular session, ahead of the AH release), leaving the AH reaction to Thursday's tape.",
+        "forWho": "retail-broker analysts, prediction-market watchers, crypto-fintech investors",
+        "tryIt": "https://finance.yahoo.com/quote/HOOD/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/034FC47F834B11B7C9C2094A6C7527D3E65C2C500BBE6ECF43C10CB947874C1B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fcea247a4fab158477dcf90f1aa059109",
+        "alt": "Robinhood mobile app screen shown after Q2 2026 earnings beat",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/robinhoods-latest-earnings-beat-wall-233756477.html"
+        },
+        {
+          "label": "CoinGape HOOD Preview",
+          "url": "https://coingape.com/markets/hood-stock-price-prediction-ahead-of-robinhoods-july-29-q2-earnings-release/"
+        },
+        {
+          "label": "HOOD Chart",
+          "url": "https://finance.yahoo.com/quote/HOOD/"
+        }
+      ],
+      "reddit": {
+        "title": "HOOD Q2 crushes — revenue $1.31B beats $1.26B est, EPS $0.62 vs $0.41 est, event contracts explode 10x Y/Y to 13.6B",
+        "body": "Robinhood's Q2 confirms the mix shift the bulls have been pricing: prediction markets are now the growth driver, crypto is coming off.\n\n* Revenue **$1.31B (+32% Y/Y)** vs $1.26B est\n* Diluted EPS **$0.62** vs $0.41 est\n* Net income **$573M (+48% Y/Y)**\n* **Event contracts traded 13.6B, over 10x Y/Y** — record\n* Crypto revenue $100M (-38% Y/Y); notional $40B ($18B Robinhood app -35% Y/Y + $22B Bitstamp)\n\nStrategy commentary from CEO Vlad Tenev:\n\n1. **Robinhood Chain** — Arbitrum-based L2 launched July 2026, focused on meme coins + tokenized RWAs\n2. **Trump Accounts** — new savings/investment product line\n3. Framing: 'make everyone an owner'\n\nHOOD closed regular-session -3% at $89.84 before the AH release. The Q2 print may reset that tape into Thursday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hood-q2-2026-earnings-july-29](https://stock-tldr.xyz/releases/hood-q2-2026-earnings-july-29)"
+      },
+      "publishDate": "2026-07-30T01:26:06.023Z"
+    },
     {
       "id": "klac-q4-fy26-mover-july-28",
       "categories": [
