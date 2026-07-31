@@ -8505,6 +8505,63 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260731t014022z",
+      "timestamp": "2026-07-31T01:40:22.721Z",
+      "source": "github-actions-sweep",
+      "summary": "July 30 was one of the biggest single earnings days of 2026 — Amazon and Apple both reported after the bell (Cook's final call), plus the June PCE print. Sweep adds 6 items: AMZN and AAPL earnings, June PCE, Reddit (beat but -10% on Google worry), Strategy (MSTR $8.22B BTC loss), and Coinbase (miss but record 10.3% market share).",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amzn-q2-2026-earnings-aws-37pct-july-30",
+          "title": "Amazon (AMZN) +~8-9% AH Thursday July 30 — Q2 2026 crushes with revenue $200.6B (+20% Y/Y, first-ever $200B+ quarter) and diluted EPS $5.75 vs $1.82 est on AWS +36.7% Y/Y to $42.2B (fastest growth in 18 quarters) at 39.4% margin, advertising +26% to $19.8B, operating income $27.5B (+43%); Q3 guide $197-202B / $22.5-26.5B op income",
+          "category": "earnings",
+          "note": "First-ever $200B+ quarter and AWS +37% (fastest in 18 quarters) — mega-cap seismic-tier print with +8-9% AH move."
+        },
+        {
+          "id": "aapl-q3-fy26-earnings-cook-final-call-july-30",
+          "title": "Apple (AAPL) -~3-4% AH Thursday July 30 despite Q3 FY26 revenue $109.4B (+16% Y/Y) and diluted EPS $2.02 (+29%) both records — iPhone $54.25B (+22%) beats $53.86B est but Services $30.74B misses $31.22B and Greater China $18.8B misses $19.6B est; gross margin 50.1%, Tim Cook's final earnings call before Sept 1 handoff to John Ternus",
+          "category": "earnings",
+          "note": "Record June quarter and iPhone +22% beat, but Services + China miss; Tim Cook's final earnings call before Sept 1 handoff to Ternus."
+        },
+        {
+          "id": "us-june-pce-headline-3pct7-july-30",
+          "title": "US June 2026 PCE — headline +3.7% Y/Y (from +4.1% in May, -0.1% M/M) and core PCE +3.3% Y/Y (from +3.4% May) on Thursday July 30; Fed's preferred gauge cools but core still stuck at/above 3.3% for four straight months, longest such stretch since fall 2023",
+          "category": "macro",
+          "note": "Fed's preferred inflation gauge — headline cools sharply (-40bp to 3.7%) but core sticky at 3.3% for 4 straight months, feeds both sides of Wednesday's 3-dissent hold."
+        },
+        {
+          "id": "rddt-q2-2026-earnings-google-search-worry-july-30",
+          "title": "Reddit (RDDT) -~10.3% AH Thursday July 30 despite Q2 2026 beat — revenue $805M (+61% Y/Y) crushes $744.94M est, diluted EPS $1.25 vs $0.95 est on net income $253M and adj EBITDA $343M (43% margin); Q3 guide $860-870M tops $828M est; but stock craters after CEO Steve Huffman calls Google search referrals 'choppy' late in quarter",
+          "category": "earnings",
+          "note": "Clean beat + guide raise but -10% AH after CEO calls Google search referrals 'choppy' — Google-referral exposure story continues."
+        },
+        {
+          "id": "mstr-q2-2026-earnings-btc-8b-loss-july-30",
+          "title": "Strategy (MSTR) Q2 2026 — $8.22B net loss and diluted EPS -$24.45 vs analyst est -$2.19 loss on $8.32B unrealized Bitcoin mark-to-market loss; revenue $122.4M (+7% Y/Y) misses $124.48M est; company holds 843,775 BTC bought at ~$75,476 average / ~$63.6B cost basis, paused BTC buying for 5 straight weeks (longest halt in ~2 years) after raising $8.41B in Q2 stock offerings",
+          "category": "earnings",
+          "note": "$8.22B net loss on unrealized BTC mark-to-market; 843,775 BTC held at $75,476 avg. GAAP earnings now essentially a BTC-price proxy."
+        },
+        {
+          "id": "coin-q2-2026-earnings-market-share-record-july-30",
+          "title": "Coinbase (COIN) -~5.86% AH Thursday July 30 to ~$154 from $163.58 close — Q2 2026 revenue $1.22B misses $1.29B est by $70M and GAAP net loss $359.5M / EPS -$1.36 misses -$0.42 est, but exchange achieves record 10.3% share of global crypto trading volume (3rd consecutive quarter of share gains) and subscription-and-services hits 48% of net revenue (from 29% two years ago)",
+          "category": "earnings",
+          "note": "Revenue + EPS miss and -5.86% AH, but record 10.3% global crypto volume share and 48% subs/services diversification are the offsetting bull story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto"
+      ]
     }
   ]
 }

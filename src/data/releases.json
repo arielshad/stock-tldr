@@ -1,8 +1,446 @@
 {
-  "generatedAt": "2026-07-30T13:36:58.429Z",
+  "generatedAt": "2026-07-31T01:40:22.721Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "amzn-q2-2026-earnings-aws-37pct-july-30",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Amazon (AMZN) +~8-9% AH Thursday July 30 — Q2 2026 crushes with revenue $200.6B (+20% Y/Y, first-ever $200B+ quarter) and diluted EPS $5.75 vs $1.82 est on AWS +36.7% Y/Y to $42.2B (fastest growth in 18 quarters) at 39.4% margin, advertising +26% to $19.8B, operating income $27.5B (+43%); Q3 guide $197-202B / $22.5-26.5B op income",
+      "org": "Amazon",
+      "date": "2026-07-30",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
+      "summary": "Amazon Q2 2026 crushes on AWS +37% Y/Y (fastest in 18 quarters) to $42.2B and advertising +26% to $19.8B — revenue $200.6B beats and op income $27.5B (+43%). Stock +~8-9% after hours.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q2-2026",
+        "mega-cap",
+        "aws",
+        "cloud",
+        "ai-capex",
+        "advertising",
+        "guidance-raise"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+      ],
+      "metrics": {
+        "Revenue": "$200.6B (+20% Y/Y, vs $196.9B est)",
+        "EPS": "$5.75 vs $1.82 est",
+        "AWS": "$42.2B (+37% Y/Y) at 39.4% op margin",
+        "Advertising": "$19.8B (+26% Y/Y)",
+        "Operating Income": "$27.5B (+43% Y/Y)",
+        "Q3 Guide": "$197-202B rev / $22.5-26.5B op income",
+        "Move": "+~8-9% AH"
+      },
+      "explainer": {
+        "tagline": "Amazon crosses $200B in a single quarter for the first time as AWS accelerates to 37% growth and operating income jumps 43%.",
+        "whatIsIt": "Amazon reported Q2 2026 results after the bell on Thursday July 30. Revenue hit $200.6B (+20% Y/Y), the first $200B+ quarter in company history, and operating income of $27.5B (+43% Y/Y) blew past guidance of $20-24B. Diluted EPS came in at $5.75 vs $1.82 consensus — boosted by ~$53B in non-operating gains, primarily an Anthropic mark-to-market. Shares jumped ~8-9% in extended trading.",
+        "howItWorks": "AWS delivered $42.2B in revenue (+36.7% Y/Y), the fastest growth rate in 18 quarters, at a 39.4% operating margin and $16.6B in segment operating income (from $10.2B a year ago). Advertising revenue grew 26% Y/Y to $19.8B. North America revenue was $116.2B (+16%) and International $42.2B (+15%). Property and equipment purchases hit $169B on a trailing 12-month basis (+64% Y/Y), driving trailing free cash flow to -$7.6B on AI infrastructure buildout. Q3 guidance calls for $197-202B in net sales (+9-12% Y/Y) and $22.5-26.5B in operating income.",
+        "whyItMatters": "AWS acceleration to 37% growth validates the case that hyperscaler AI demand is real and translating to cloud revenue — a direct read-through for MSFT Azure (+43% cc reported Wednesday) and GOOGL Cloud (+82%). The 43% jump in operating income against $60B+ in capex intensity is the datapoint AI-skeptics needed to see to justify the spending. Amazon's $200B quarterly run-rate makes it one of only three companies (with WMT and AAPL) at that scale — and the only one growing 20%.",
+        "forWho": "AI-capex traders, cloud sell-side, mega-cap allocators",
+        "tryIt": "https://finance.yahoo.com/quote/AMZN"
+      },
+      "image": {
+        "url": "https://assets.aboutamazon.com/dims4/default/b5e119e/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F32%2Fcb%2F18921b874429b171cd02e81f698b%2Funtitled-july-28-2026-at-14-41-50-7-1.jpeg",
+        "alt": "Amazon Q2 2026 earnings press release header",
+        "fit": "cover",
+        "credit": "Amazon"
+      },
+      "links": [
+        {
+          "label": "Amazon Press Release",
+          "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-q2-2026-earnings-aws-204411872.html"
+        },
+        {
+          "label": "Motley Fool Market Wrap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/30/stock-market-today-july-30-amazon-soars-over-8-after-hours-on-earnings-beat/"
+        },
+        {
+          "label": "AMZN Quote",
+          "url": "https://finance.yahoo.com/quote/AMZN"
+        }
+      ],
+      "reddit": {
+        "title": "Amazon Q2 2026: $200.6B revenue, AWS +37% Y/Y to $42.2B — first $200B+ quarter, stock +8% AH",
+        "body": "AMZN crushed after the bell Thursday July 30 — the AI-capex bull case just got a lot louder.\n\n* Revenue $200.6B (+20% Y/Y) — first ever $200B+ quarter, beats $196.9B est\n* Diluted EPS $5.75 vs $1.82 est (boosted by ~$53B non-op Anthropic mark-to-market gain)\n* Operating income $27.5B (+43% Y/Y) blows past $20-24B guide\n* Q3 guide: $197-202B rev, $22.5-26.5B op income\n\nWhy it matters:\n\n1. **AWS accelerates to 37%** — fastest growth in 18 quarters, $42.2B revenue at 39.4% op margin. Segment op income doubled to $16.6B from $10.2B.\n2. **Ads +26% to $19.8B** — high-margin flywheel keeps compounding.\n3. **Capex ripping** — $169B trailing 12-month property + equipment purchases (+64% Y/Y), FCF -$7.6B. This is the AI infra bet.\n\nRead-through to MSFT (Azure +43% cc reported Wednesday) and GOOGL (Cloud +82% reported last week). Hyperscaler AI demand is real, all three showed it in the print.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amzn-q2-2026-earnings-aws-37pct-july-30](https://stock-tldr.xyz/releases/amzn-q2-2026-earnings-aws-37pct-july-30)"
+      },
+      "publishDate": "2026-07-31T01:40:22.721Z"
+    },
+    {
+      "id": "aapl-q3-fy26-earnings-cook-final-call-july-30",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Apple (AAPL) -~3-4% AH Thursday July 30 despite Q3 FY26 revenue $109.4B (+16% Y/Y) and diluted EPS $2.02 (+29%) both records — iPhone $54.25B (+22%) beats $53.86B est but Services $30.74B misses $31.22B and Greater China $18.8B misses $19.6B est; gross margin 50.1%, Tim Cook's final earnings call before Sept 1 handoff to John Ternus",
+      "org": "Apple",
+      "date": "2026-07-30",
+      "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/",
+      "summary": "Apple Q3 FY26 hits records — revenue $109.4B (+16%), EPS $2.02 (+29%), iPhone +22%. But Services and Greater China miss estimates; stock -3-4% AH. Tim Cook's final earnings call as CEO.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q3-fy26",
+        "mega-cap",
+        "iphone",
+        "services",
+        "china",
+        "ceo-transition",
+        "tim-cook",
+        "ternus"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "AAPL"
+      ],
+      "metrics": {
+        "Revenue": "$109.4B (+16% Y/Y, record June quarter)",
+        "EPS": "$2.02 (+29% Y/Y, vs $1.89 est)",
+        "iPhone": "$54.25B (+22% Y/Y, vs $53.86B est)",
+        "Services": "$30.74B (+12% Y/Y, misses $31.22B est)",
+        "Mac": "$10.35B (vs $8.74B est)",
+        "iPad": "$6.19B (misses $6.92B est)",
+        "Greater China": "$18.8B (misses $19.6B est)",
+        "Gross Margin": "50.1% (vs 46.5% Y/Y)",
+        "Net Income": "$29.8B",
+        "Move": "-~3-4% AH"
+      },
+      "explainer": {
+        "tagline": "Apple posts record June quarter with iPhone +22%, but Services and China come in short — and Tim Cook signs off before the Sept 1 handoff to John Ternus.",
+        "whatIsIt": "Apple reported fiscal Q3 2026 results after the bell on Thursday July 30. Revenue of $109.4B (+16% Y/Y) and diluted EPS of $2.02 (+29% Y/Y) were both June-quarter records, but the beat was uneven: iPhone and Mac blew past estimates while Services and Greater China missed. Shares dropped roughly 3-4% in extended trading. The call was Tim Cook's last as CEO — the previously-announced transition to John Ternus takes effect September 1, with Cook moving to executive chairman.",
+        "howItWorks": "iPhone revenue was $54.25B (+22% Y/Y) vs $53.86B est. Mac hit $10.35B vs $8.74B est. Services was $30.74B (+12%), a record but short of $31.22B consensus, with FX headwinds cited. iPad came in at $6.19B vs $6.92B est. Greater China revenue was $18.8B (up from $15.4B Y/Y) but below the $19.6B analysts modeled. Gross margin expanded to 50.1% from 46.5% Y/Y, helped by ~11 cents per share of tariff rebates and Services scale. Apple also declared a $0.27 dividend payable August 13.",
+        "whyItMatters": "The iPhone beat is the print's biggest positive — 22% unit-driven growth is above the recent trend and helps quiet worries about the AI-phone cycle. But two things offset: Services growth decelerated below Street after years of predictable +14% comps, and China missed even as it recovered Y/Y — feeding the debate about whether the Alibaba-powered Apple Intelligence approval (July 15) is enough to reset the China trajectory. Cook's final print also brings management-transition risk into focus with John Ternus taking over in five weeks.",
+        "forWho": "Mega-cap allocators, semis, EMS suppliers",
+        "tryIt": "https://finance.yahoo.com/quote/AAPL"
+      },
+      "image": {
+        "url": "https://www.apple.com/newsroom/images/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/tile/Apple-John-Ternus-Tim-Cook_lp.jpg.og.jpg?202605201549",
+        "alt": "Tim Cook and John Ternus at Apple Park ahead of the September 2026 CEO handoff",
+        "fit": "cover",
+        "credit": "Apple"
+      },
+      "links": [
+        {
+          "label": "MacRumors Recap",
+          "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/"
+        },
+        {
+          "label": "Cook Farewell Details",
+          "url": "https://www.macrumors.com/2026/07/30/tim-cook-thanks-apple-shareholders/"
+        },
+        {
+          "label": "Apple CEO Handoff PR",
+          "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+        },
+        {
+          "label": "AAPL Quote",
+          "url": "https://finance.yahoo.com/quote/AAPL"
+        }
+      ],
+      "reddit": {
+        "title": "Apple Q3 FY26 (Cook's last quarter as CEO): Revenue $109.4B, iPhone $54.25B beats — but Services + China miss, stock -3-4% AH",
+        "body": "Apple posted a record June quarter Thursday July 30 — but two soft spots sent the stock lower in the after-hours session.\n\n* Revenue $109.4B (+16% Y/Y) — record June quarter\n* Diluted EPS $2.02 (+29% Y/Y) vs $1.89 est\n* iPhone $54.25B (+22% Y/Y) beats $53.86B est\n* Mac $10.35B beats $8.74B est\n* Services $30.74B (+12%) MISSES $31.22B est\n* Greater China $18.8B MISSES $19.6B est\n* Gross margin 50.1% (vs 46.5% Y/Y)\n* Dividend: $0.27/share payable Aug 13\n\nThree things to watch:\n\n1. **iPhone +22% is the print** — unit-driven, well above trend, quiets AI-cycle worries.\n2. **Services growth cooled** — a rare miss for the segment Street has modeled at ~14% comps.\n3. **CEO transition in five weeks** — Cook's final earnings call. John Ternus takes over September 1 (announced April 20, 2026).\n\nNext catalysts: Ternus's first earnings call in late October, September iPhone event, and holiday guide.\n\nFull breakdown: [https://stock-tldr.xyz/releases/aapl-q3-fy26-earnings-cook-final-call-july-30](https://stock-tldr.xyz/releases/aapl-q3-fy26-earnings-cook-final-call-july-30)"
+      },
+      "publishDate": "2026-07-31T01:40:22.721Z"
+    },
+    {
+      "id": "us-june-pce-headline-3pct7-july-30",
+      "categories": [
+        "macro"
+      ],
+      "title": "US June 2026 PCE — headline +3.7% Y/Y (from +4.1% in May, -0.1% M/M) and core PCE +3.3% Y/Y (from +3.4% May) on Thursday July 30; Fed's preferred gauge cools but core still stuck at/above 3.3% for four straight months, longest such stretch since fall 2023",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-07-30",
+      "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "summary": "Fed's preferred inflation gauge cools in June — headline PCE +3.7% Y/Y (from +4.1%) and core +3.3% (from +3.4%). Core stuck at/above 3.3% for four months, longest run since 2023.",
+      "tags": [
+        "macro",
+        "pce",
+        "core-pce",
+        "inflation",
+        "fed",
+        "june-2026",
+        "bea"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline PCE Y/Y": "+3.7% (vs +4.1% May)",
+        "Headline PCE M/M": "-0.1%",
+        "Core PCE Y/Y": "+3.3% (vs +3.4% May)",
+        "Core PCE M/M": "+0.1%",
+        "Streak": "Core at/above 3.3% for 4 straight months"
+      },
+      "explainer": {
+        "tagline": "Fed's preferred inflation gauge cools sharply on the headline in June — but core PCE stays sticky at 3.3%, extending the longest above-3.3% run since 2023.",
+        "whatIsIt": "The Bureau of Economic Analysis published the June 2026 Personal Income and Outlays report on Thursday July 30. Headline PCE fell 0.1% M/M and dropped to +3.7% Y/Y (from +4.1% in May), the biggest month-over-month drop in the headline in some time. Core PCE — which strips out food and energy and is the Fed's preferred inflation gauge — rose 0.1% M/M and eased to +3.3% Y/Y (from +3.4% in May).",
+        "howItWorks": "Headline PCE benefited from lower energy prices in June. Core PCE at +3.3% has now been at or above that level for four straight months — the longest such streak since the fall of 2023. The report lands the day after the FOMC held rates at 3.50-3.75% on a 9-3 hawkish-dissent vote, with three members (Hammack, Kashkari, Logan) pushing for a 25bp hike. The June print doesn't materially shift the case for either side of that debate: headline cooled, core stayed sticky.",
+        "whyItMatters": "The 40bp drop in headline PCE gives the Fed's doves a talking point, but sticky core keeps the hawks' case alive — the setup that produced Wednesday's 3-dissent hold. Fed funds futures pricing barely moved on the print. Markets are now looking to August 1 nonfarm payrolls and the August 26 next PCE release as the next inflection points on the September FOMC path.",
+        "forWho": "Macro traders, rates desks, Fed watchers",
+        "tryIt": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy"
+      },
+      "image": {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285568235a.JPG?c=16x9&q=w_800,c_fill",
+        "alt": "US consumer spending scene amid the June 2026 PCE inflation release",
+        "fit": "cover",
+        "credit": "Getty Images via CNN"
+      },
+      "links": [
+        {
+          "label": "BEA PCE Index",
+          "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+        },
+        {
+          "label": "BEA Core PCE",
+          "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy"
+        },
+        {
+          "label": "Cleveland Fed Nowcast",
+          "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+        }
+      ],
+      "reddit": {
+        "title": "June PCE: Headline +3.7% Y/Y (from +4.1%), Core +3.3% (from +3.4%) — Fed's preferred gauge cools on headline, sticky on core",
+        "body": "BEA dropped June 2026 Personal Income and Outlays Thursday July 30 — day after the Fed held rates at 3.50-3.75% on a 9-3 hawkish-dissent vote.\n\n* Headline PCE -0.1% M/M, +3.7% Y/Y (from +4.1% in May)\n* Core PCE +0.1% M/M, +3.3% Y/Y (from +3.4% in May)\n* Core at/above 3.3% for 4 straight months — longest such stretch since fall 2023\n\nTwo takeaways:\n\n1. **Doves get the headline drop** — 40bp cooling gives the case for easier policy some fuel.\n2. **Hawks keep the core stickiness** — 3.3% four months running is exactly the setup that produced Wednesday's 3-dissent hold and calls for a hike.\n\nNext catalysts: August 1 NFP, then August 26 PCE release. September FOMC path still very much in play.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-june-pce-headline-3pct7-july-30](https://stock-tldr.xyz/releases/us-june-pce-headline-3pct7-july-30)"
+      },
+      "publishDate": "2026-07-31T01:40:22.721Z"
+    },
+    {
+      "id": "rddt-q2-2026-earnings-google-search-worry-july-30",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Reddit (RDDT) -~10.3% AH Thursday July 30 despite Q2 2026 beat — revenue $805M (+61% Y/Y) crushes $744.94M est, diluted EPS $1.25 vs $0.95 est on net income $253M and adj EBITDA $343M (43% margin); Q3 guide $860-870M tops $828M est; but stock craters after CEO Steve Huffman calls Google search referrals 'choppy' late in quarter",
+      "org": "Reddit",
+      "date": "2026-07-30",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-nyse-rddt-delivers-strong-202030913.html",
+      "summary": "Reddit Q2 2026 crushes revenue and EPS estimates and Q3 guide beats — but stock -10% AH after CEO Steve Huffman calls Google search referrals 'choppy' late in the quarter.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-2026",
+        "advertising",
+        "google-search",
+        "rddt",
+        "social"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RDDT",
+        "GOOGL"
+      ],
+      "metrics": {
+        "Revenue": "$805M (+61% Y/Y, vs $744.94M est)",
+        "EPS": "$1.25 vs $0.95 est",
+        "Net Income": "$253M",
+        "Adj EBITDA": "$343M at 43% margin",
+        "DAUq (global daily uniques)": "130.3M (+18% Y/Y)",
+        "Q3 Revenue Guide": "$860-870M (vs $828M est)",
+        "Move": "-~10.3% AH (to as low as $162.71 from $178.60 close)"
+      },
+      "explainer": {
+        "tagline": "Reddit beats top and bottom lines and hikes Q3 guide well above Street — but the stock drops ~10% after CEO calls Google search referrals 'choppy'.",
+        "whatIsIt": "Reddit reported Q2 2026 results after Thursday July 30's close. Revenue jumped 61% Y/Y to $805M, EPS came in at $1.25 vs $0.95 est, adjusted EBITDA hit $343M (43% margin), and Q3 revenue guidance of $860-870M sailed past the $828M consensus. Despite the clean beat, shares fell as much as 10.3% in after-hours trading — to as low as $162.71 from a $178.60 regular-session close.",
+        "howItWorks": "Global daily active uniques reached 130.3M (+18% Y/Y). Net income was $253M. In the investor letter CEO Steve Huffman wrote that 'search referrals were choppy in the quarter, and traffic was more volatile later in the quarter.' Reddit's user acquisition funnel leans heavily on Google organic traffic — Q1 metrics showed logged-out users making up a huge share of daily traffic. Investors read the Google-referral commentary as a structural risk to the growth engine.",
+        "whyItMatters": "This is the second Reddit earnings in a row where a headline beat couldn't offset the Google-referral overhang. It highlights the extent to which the social/UGC-content flywheel is exposed to Google's search-product changes (AI Overviews, algorithm updates), and by extension how a single external partner can dictate multiple-compression on an otherwise excellent Q. Read-through for other Google-referral-dependent names (Pinterest, Yelp, publisher stocks).",
+        "forWho": "Growth-tech traders, social/ad-tech, Google ecosystem watchers",
+        "tryIt": "https://finance.yahoo.com/quote/RDDT"
+      },
+      "image": {
+        "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2026/07/30/reddit-gettyy_feature.jpg",
+        "alt": "Reddit logo signage — Q2 2026 earnings",
+        "fit": "cover",
+        "credit": "Getty Images via Shacknews"
+      },
+      "links": [
+        {
+          "label": "Reddit 8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/RDDT/8-k-reddit-inc-reports-material-event-162e95400070.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-nyse-rddt-delivers-strong-202030913.html"
+        },
+        {
+          "label": "Shacknews Coverage",
+          "url": "https://www.shacknews.com/article/150199/reddit-rddt-q2-2026-earnings-results"
+        },
+        {
+          "label": "RDDT Quote",
+          "url": "https://finance.yahoo.com/quote/RDDT"
+        }
+      ],
+      "reddit": {
+        "title": "Reddit (RDDT) beats + raises Q3 guide BIG but stock -10% AH — CEO says Google search referrals were 'choppy'",
+        "body": "Textbook 'beat and drop' after the close Thursday July 30 — the fundamentals were great, one line in the CEO letter did all the damage.\n\n* Revenue $805M (+61% Y/Y) vs $744.94M est\n* Diluted EPS $1.25 vs $0.95 est\n* Net income $253M, adj EBITDA $343M (43% margin)\n* Global daily active uniques 130.3M (+18% Y/Y)\n* Q3 revenue guide $860-870M vs $828M est\n* Stock -10.3% AH to as low as $162.71 from $178.60 close\n\nWhat broke it:\n\n1. **The 'choppy' quote** — CEO Steve Huffman's investor letter said 'search referrals were choppy in the quarter, and traffic was more volatile later in the quarter.'\n2. **Google exposure** — Reddit's user funnel leans on Google organic. AI Overviews / algorithm changes = single-vendor structural risk.\n3. **Second time this year** — headline beats keep getting sold on the same Google worry. Multiple compression is happening in real time.\n\nRead-through: any Google-referral-heavy name (PINS, YELP, publishers).\n\nFull breakdown: [https://stock-tldr.xyz/releases/rddt-q2-2026-earnings-google-search-worry-july-30](https://stock-tldr.xyz/releases/rddt-q2-2026-earnings-google-search-worry-july-30)"
+      },
+      "publishDate": "2026-07-31T01:40:22.721Z"
+    },
+    {
+      "id": "mstr-q2-2026-earnings-btc-8b-loss-july-30",
+      "categories": [
+        "earnings",
+        "crypto"
+      ],
+      "title": "Strategy (MSTR) Q2 2026 — $8.22B net loss and diluted EPS -$24.45 vs analyst est -$2.19 loss on $8.32B unrealized Bitcoin mark-to-market loss; revenue $122.4M (+7% Y/Y) misses $124.48M est; company holds 843,775 BTC bought at ~$75,476 average / ~$63.6B cost basis, paused BTC buying for 5 straight weeks (longest halt in ~2 years) after raising $8.41B in Q2 stock offerings",
+      "org": "Strategy",
+      "date": "2026-07-30",
+      "url": "https://www.aol.com/articles/strategy-misses-q2-earnings-estimates-201819000.html",
+      "summary": "Strategy (MSTR) Q2 2026 posts $8.22B net loss and $24.45 diluted EPS loss vs $2.19 est loss on $8.32B unrealized BTC mark-to-market. Holds 843,775 BTC at $75,476 avg; paused buying 5 weeks.",
+      "tags": [
+        "earnings",
+        "crypto",
+        "bitcoin",
+        "btc-holdings",
+        "mark-to-market",
+        "mstr",
+        "saylor",
+        "q2-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MSTR",
+        "BTC-USD"
+      ],
+      "metrics": {
+        "Net Loss": "-$8.22B",
+        "Diluted EPS": "-$24.45 (vs -$2.19 est loss)",
+        "Revenue": "$122.4M (+7% Y/Y, vs $124.48M est)",
+        "BTC Unrealized Loss": "-$8.32B",
+        "BTC Holdings": "843,775 BTC",
+        "BTC Avg Cost": "$75,476 / coin (~$63.6B total)",
+        "Capital Raised (Q2)": "$8.41B in stock offerings",
+        "BTC Buying Pause": "5 straight weeks (longest halt in ~2 years)",
+        "Stock (close)": "$97.74 (+4.41% on the day; ~flat AH)"
+      },
+      "explainer": {
+        "tagline": "Strategy posts $8.22B net loss on unrealized Bitcoin mark-to-market as MSTR pauses BTC buying for 5 weeks and equity raises hit $8.41B in Q2.",
+        "whatIsIt": "Michael Saylor's Strategy (formerly MicroStrategy) reported Q2 2026 results on Thursday July 30. The company booked an $8.22B net loss and diluted EPS of -$24.45 — vastly wider than the -$2.19 loss the Street modeled — driven almost entirely by an $8.32B unrealized mark-to-market loss on its Bitcoin holdings as BTC drifted lower during the quarter. Software revenue was $122.4M (+7% Y/Y), a slight miss vs $124.48M est. Despite the loss the stock closed the regular session +4.41% at $97.74 (soft PCE tailwind) and moved ~flat after hours.",
+        "howItWorks": "Strategy now holds 843,775 BTC purchased at an average of ~$75,476 per coin (~$63.6B total cost basis) — making it by far the largest corporate BTC holder. In Q2 the company raised $8.41B through stock offerings, then paused BTC purchases for five straight weeks, the longest buying halt in nearly two years. The GAAP mark-to-market rules that came into effect in 2025 mean BTC price swings now flow directly through the income statement each quarter, making MSTR's headline earnings a proxy for BTC price direction rather than operating performance.",
+        "whyItMatters": "The $24.45 EPS loss vs $2.19 est is the sharpest reminder yet that MSTR's headline earnings are essentially a leveraged Bitcoin position statement — not a signal of underlying business quality. Read-through to other corporate BTC holders (Tesla, Block, Marathon Digital) that also mark to market. The 5-week buying pause plus the equity raise tempo will be watched for signals about how Strategy sizes its next BTC add — the buy-side treats those flows as marginal BTC bid.",
+        "forWho": "Crypto/equity crossover traders, BTC macro, MSTR options",
+        "tryIt": "https://finance.yahoo.com/quote/MSTR"
+      },
+      "image": {
+        "url": "https://www.cryptotimes.io/wp-content/uploads/2026/07/Strategy-Stock-MSTR-Navigates-Volatility-Ahead-of-Q2-2026-Earnings-Call.jpg",
+        "alt": "Strategy MSTR stock ahead of Q2 2026 earnings call",
+        "fit": "cover",
+        "credit": "The Crypto Times"
+      },
+      "links": [
+        {
+          "label": "AOL/TheStreet Recap",
+          "url": "https://www.aol.com/articles/strategy-misses-q2-earnings-estimates-201819000.html"
+        },
+        {
+          "label": "Coingape Coverage",
+          "url": "https://coingape.com/coinbase-strategy-miss-earnings-estimates-as-stock-prices-fall/"
+        },
+        {
+          "label": "The Crypto Times Preview",
+          "url": "https://www.cryptotimes.io/2026/07/30/strategy-stock-mstr-navigates-volatility-ahead-of-q2-2026-earnings-call/"
+        },
+        {
+          "label": "MSTR Quote",
+          "url": "https://finance.yahoo.com/quote/MSTR"
+        }
+      ],
+      "reddit": {
+        "title": "Strategy (MSTR) Q2 2026: -$8.22B net loss, EPS -$24.45 vs -$2.19 est — $8.32B unrealized BTC mark-to-market, holds 843,775 BTC at $75.4K avg",
+        "body": "Saylor's Strategy posted its Q2 2026 numbers Thursday July 30 — the GAAP-mark-to-market accounting change is now the whole story.\n\n* Net loss $8.22B on $8.32B unrealized BTC mark-to-market\n* Diluted EPS -$24.45 vs analyst est -$2.19 loss\n* Software revenue $122.4M (+7% Y/Y) vs $124.48M est\n* Holdings: 843,775 BTC at ~$75,476 avg / ~$63.6B cost\n* Q2 capital raise: $8.41B via stock offerings\n* Paused BTC buys for 5 straight weeks — longest halt in ~2 years\n* Stock closed +4.41% at $97.74 on soft PCE, ~flat AH\n\nThree things to know:\n\n1. **Headline EPS is now a BTC price proxy** — 2025 mark-to-market rules mean every BTC swing flows through the income statement.\n2. **The pause matters** — 5 weeks with no buys is a shift from the relentless BTC accumulation pattern.\n3. **Equity issuance still on** — $8.41B raised in Q2 keeps the dilution-for-BTC flywheel spinning even without new adds.\n\nRead-through: TSLA, SQ (Block), MARA and other corporate BTC holders that mark to market.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mstr-q2-2026-earnings-btc-8b-loss-july-30](https://stock-tldr.xyz/releases/mstr-q2-2026-earnings-btc-8b-loss-july-30)"
+      },
+      "publishDate": "2026-07-31T01:40:22.721Z"
+    },
+    {
+      "id": "coin-q2-2026-earnings-market-share-record-july-30",
+      "categories": [
+        "earnings",
+        "crypto"
+      ],
+      "title": "Coinbase (COIN) -~5.86% AH Thursday July 30 to ~$154 from $163.58 close — Q2 2026 revenue $1.22B misses $1.29B est by $70M and GAAP net loss $359.5M / EPS -$1.36 misses -$0.42 est, but exchange achieves record 10.3% share of global crypto trading volume (3rd consecutive quarter of share gains) and subscription-and-services hits 48% of net revenue (from 29% two years ago)",
+      "org": "Coinbase",
+      "date": "2026-07-30",
+      "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx",
+      "summary": "Coinbase Q2 2026 revenue $1.22B misses $1.29B est and EPS -$1.36 misses -$0.42; stock -5.86% AH. But market share hits record 10.3% and subs/services now 48% of net revenue.",
+      "tags": [
+        "earnings",
+        "crypto",
+        "coinbase",
+        "coin",
+        "market-share",
+        "q2-2026",
+        "crypto-exchange",
+        "subscription-services"
+      ],
+      "importance": "major",
+      "tickers": [
+        "COIN",
+        "BTC-USD"
+      ],
+      "metrics": {
+        "Revenue": "$1.22B (misses $1.29B est by $70M)",
+        "GAAP Net Loss": "-$359.5M",
+        "Diluted EPS": "-$1.36 (misses -$0.42 est)",
+        "Global Crypto Volume Share": "10.3% (all-time high, +120bp from 9.1% in Q1)",
+        "Subscription+Services Share": "48% of net revenue (from 29% <2 yrs ago)",
+        "Transaction Revenue": "$599M (-21% Q/Q)",
+        "Adj EBITDA Streak": "14 straight positive quarters",
+        "Stock (close → AH)": "$163.58 → ~$154 (-5.86%)"
+      },
+      "explainer": {
+        "tagline": "Coinbase misses Q2 revenue by $70M and EPS by nearly a dollar — but grabs record 10.3% share of global crypto trading volume, third straight quarter of gains.",
+        "whatIsIt": "Coinbase reported Q2 2026 results after Thursday July 30's close. Revenue of $1.22B fell $70M short of the $1.29B Street estimate, and GAAP net loss of $359.5M translated to a diluted EPS of -$1.36, well below the -$0.42 consensus. Shares fell 5.86% in extended trading, from a $163.58 close to a low of $151.30 (trading around $154 into the evening).",
+        "howItWorks": "Total revenue declined 14% Q/Q on a 21% drop in transaction revenue to $599M as spot volumes cooled quarter-over-quarter. But subscription and services revenue reached 48% of net revenue, up from 29% less than two years ago — validating the diversification narrative. Global crypto trading volume market share hit an all-time high 10.3% (from 9.1% in Q1), the third consecutive quarter of share gains driven by the 'Everything Exchange' product suite. Adjusted EBITDA remained positive for the 14th straight quarter. A new crypto binaries experience launched late in the quarter drove 3x daily traders and 4x daily revenue vs May averages.",
+        "whyItMatters": "The miss is the third revenue whiff of 2026 for Coinbase — margin compression from lower transaction spreads is now a structural pressure. But the 10.3% market share number is the largest offset: Coinbase is winning share as smaller exchanges lose it, and 48% subs/services means the business is less exposed to crypto trading volume swings. Read-through to Robinhood (crypto revenue -38% Y/Y in its own Q2 report on July 29) and to prediction-markets pure-plays now that COIN's crypto binaries are ramping.",
+        "forWho": "Crypto-equity traders, COIN options, prediction-market watchers",
+        "tryIt": "https://finance.yahoo.com/quote/COIN"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Coinbase_Q2_Earnings_Everything_Exchange_Drives_3rd_Consecutive_Quarter_of_Record_Crypto_Trading_Vo_1089964.webp",
+        "alt": "Coinbase Q2 2026 earnings cover — Everything Exchange share gains",
+        "fit": "cover",
+        "credit": "Coinbase via StockTitan"
+      },
+      "links": [
+        {
+          "label": "Coinbase IR Release",
+          "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx"
+        },
+        {
+          "label": "CoinDesk Recap",
+          "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates"
+        },
+        {
+          "label": "StockTitan Details",
+          "url": "https://www.stocktitan.net/news/COIN/coinbase-q2-earnings-everything-exchange-drives-3rd-consecutive-w099b4b7cvll.html"
+        },
+        {
+          "label": "COIN Quote",
+          "url": "https://finance.yahoo.com/quote/COIN"
+        }
+      ],
+      "reddit": {
+        "title": "Coinbase Q2 2026: Revenue $1.22B misses by $70M, EPS -$1.36 vs -$0.42 est, stock -5.86% AH — but market share hits record 10.3%",
+        "body": "Mixed print Thursday July 30 — the headline miss dominated the tape but the market-share story is real.\n\n* Revenue $1.22B (misses $1.29B est by $70M)\n* GAAP net loss $359.5M, diluted EPS -$1.36 vs -$0.42 est\n* Transaction revenue -21% Q/Q to $599M\n* Stock $163.58 close → ~$154 AH (-5.86%)\n\nOffsetting the miss:\n\n1. **Record 10.3% global crypto volume share** — third consecutive quarter of gains, up from 9.1% in Q1. COIN is winning share as smaller exchanges shed it.\n2. **Subs & services 48% of net revenue** — up from 29% less than two years ago. The 'not-just-trading-fees' pivot is showing up.\n3. **Crypto binaries launched late Q2** — CEO note flags 3x daily traders and 4x daily revenue vs May averages after launch. New product cycle.\n\nRead-through to Robinhood (its own Q2 on July 29 showed crypto rev -38% Y/Y) and prediction-market names.\n\nFull breakdown: [https://stock-tldr.xyz/releases/coin-q2-2026-earnings-market-share-record-july-30](https://stock-tldr.xyz/releases/coin-q2-2026-earnings-market-share-record-july-30)"
+      },
+      "publishDate": "2026-07-31T01:40:22.721Z"
+    },
     {
       "id": "ice-marketaxess-6b-acquisition-july-30-2026",
       "categories": [
