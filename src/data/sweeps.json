@@ -8562,6 +8562,56 @@
         "macro",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260731t133729z",
+      "timestamp": "2026-07-31T13:37:29.979Z",
+      "source": "github-actions-sweep",
+      "summary": "Friday July 31 2026 sweep — 4 items added: KOSPI's record 17.9% single-day rally as Asia AI trade snaps back on MSFT/AMZN cloud blowouts (SK Hynix +30%, Samsung +28%), Exxon and Chevron Q2 2026 supermajor earnings (Chevron's best quarter in 6+ years, Exxon's record Permian production and $9.4B shareholder returns), and the BOJ July 31 hold at 1.0% with a hawkish Takata dissent that shifts odds to an October hike.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "kospi-record-rally-18pct-ai-recovery-july-31-2026",
+          "title": "KOSPI +17.9% to 6,695.45 on Friday July 31 — largest single-day gain ever as SK Hynix +30% (daily limit) and Samsung +28% snap back from 3-day rout, TSMC ADR +10%; Microsoft Azure blowout + Amazon AWS +36.7% revive AI trade across Asia",
+          "category": "mover",
+          "note": "Largest single-day gain in KOSPI history — genuinely historic move directly caused by MSFT+AMZN AI-capex confirmations, wall of coverage."
+        },
+        {
+          "id": "xom-q2-2026-earnings-record-permian-july-31",
+          "title": "ExxonMobil (XOM) Q2 2026 — net income $14.5B (GAAP EPS $3.48, adj $3.52) on record Permian production and highest upstream output in 20+ years; revenue $116B (+42% Y/Y) beats, $23.6B operating cash flow, $9.4B returned to shareholders ($4.3B div + $5.1B buybacks) on Friday July 31",
+          "category": "earnings",
+          "note": "Supermajor Q2 with record Permian output and $9.4B shareholder returns; primary IR source."
+        },
+        {
+          "id": "cvx-q2-2026-earnings-hess-record-oil-july-31",
+          "title": "Chevron (CVX) Q2 2026 — best quarterly profit in 6+ years at net income $12.1B / diluted EPS $6.11 (adj $6.06 vs $5.56 est); record 4,070 MBOED production (+20% Y/Y post-Hess), record $8.4B debt paydown, $3B buybacks + $1.78/sh dividend on Friday July 31",
+          "category": "earnings",
+          "note": "First full post-Hess quarter, best profit in 6+ years, adj EPS crushes est by $0.50, record production & debt paydown."
+        },
+        {
+          "id": "boj-july-2026-hold-1pct-takata-dissent-july-31",
+          "title": "Bank of Japan holds at 1.00% in 8-1 vote on Friday July 31 — Hajime Takata dissents for 25bp hike to 1.25%; Board flags core inflation likely 'clearly above 2%' in H2 FY2026 and strategists lift odds of October hike",
+          "category": "macro",
+          "note": "Only major CB still tightening; hold vote 8-1 with hawkish Outlook Report shifts odds to Oct hike."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "rates",
+        "mover",
+        "sector",
+        "commodity",
+        "crypto",
+        "mna",
+        "fx"
+      ]
     }
   ]
 }
