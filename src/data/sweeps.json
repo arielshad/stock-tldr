@@ -8650,6 +8650,37 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260801t125823z",
+      "timestamp": "2026-08-01T12:58:23.627Z",
+      "source": "github-actions-sweep",
+      "summary": "Added 2 Q2 2026 earnings items released July 30 AH not yet in feed: Rivian (RIVN) revenue and loss beat with FY26 guide raise but stock -9.57% Fri on dilution/cost concerns; First Solar (FSLR) EPS +43% surprise on 57.3% gross margin, FY26 guide reaffirmed, stock +2.44% Fri.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rivn-q2-2026-earnings-guide-raise-july-30",
+          "title": "Rivian (RIVN) Q2 2026 — revenue $1.658B (+27% Y/Y) beats $1.52B est and adj loss $(0.47) narrower than $(0.65) est; FY26 delivery guide lifted to 65-70K and capex cut $250M, but stock -9.57% to $15.22 on Friday July 31 as dilution + cost concerns override the beat",
+          "category": "earnings",
+          "note": "Q2 earnings released Thu Jul 30 AH — distinct from the earlier July 2 deliveries pre-announcement and the July 7 share-offering items; the -9.57% Friday move + FY26 guide raise makes this the main financial-results event."
+        },
+        {
+          "id": "fslr-q2-2026-earnings-eps-crush-july-30",
+          "title": "First Solar (FSLR) Q2 2026 — GAAP diluted EPS $3.92 crushes $2.74 est (+43% surprise) on net sales $1.056B (-4% Y/Y, in-line $1.065B est); gross margin 57.3% (vs 45.5% Y/Y), adj EBITDA $644M (+15% Y/Y), 45.1 GW backlog through 2030; FY26 guide reaffirmed, FSLR +2.44% to $211.03 on Friday July 31",
+          "category": "earnings",
+          "note": "43% EPS surprise + 1,180bp gross margin expansion is the Q2 story; FY26 guide reaffirmation validates the backlog thesis. Not yet covered in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
