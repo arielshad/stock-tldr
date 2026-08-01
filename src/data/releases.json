@@ -1,8 +1,224 @@
 {
-  "generatedAt": "2026-07-31T13:37:29.979Z",
+  "generatedAt": "2026-08-01T01:38:11.643Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rblx-q2-2026-earnings-mover-july-31",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Roblox (RBLX) -26.9% to $35.60 on Friday July 31 — worst single-day drop ever after Q2 2026 revenue $1.47B misses $1.59B est and Q3 bookings guide $1.58-1.65B implies first-ever Y/Y bookings decline (-14% to -18%); ~$10B market cap wiped, two Wall Street gaming analysts issue simultaneous Sell downgrades",
+      "org": "Roblox",
+      "date": "2026-07-31",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026051059/ex991-robloxq22026earnin.htm",
+      "summary": "Roblox -26.9% to $35.60 Friday July 31 as Q2 revenue $1.47B misses $1.59B est and Q3 bookings guide implies first-ever Y/Y decline; ~$10B market cap wiped in worst single-day drop ever.",
+      "tags": [
+        "earnings",
+        "mover",
+        "revenue-miss",
+        "guidance-cut",
+        "q2-2026",
+        "gaming",
+        "monetization",
+        "algorithm-change",
+        "age-verification",
+        "sell-downgrade"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RBLX"
+      ],
+      "metrics": {
+        "Revenue": "$1.47B (miss vs $1.59B est)",
+        "Bookings": "$1.56B (+8% Y/Y, low end of guide)",
+        "DAU": "123M (+10% Y/Y)",
+        "Hours engaged": "29B (+5% Y/Y)",
+        "Adj EPS": "-$0.26 vs -$0.34 est",
+        "Q3 bookings guide": "$1.58-1.65B (-14% to -18% Y/Y implied)",
+        "Move": "-26.9% to $35.60"
+      },
+      "links": [
+        {
+          "label": "Roblox 8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026051059/ex991-robloxq22026earnin.htm"
+        },
+        {
+          "label": "Shareholder Letter (PDF)",
+          "url": "https://s27.q4cdn.com/984876518/files/doc_financials/2026/q2/Roblox-Q2-2026-Earnings-Shareholder-Letter.pdf"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-shares-plummet-revenue-miss-155800728.html"
+        },
+        {
+          "label": "24/7 Wall St Coverage",
+          "url": "https://247wallst.com/investing/2026/07/31/roblox-plunges-29-in-worst-day-ever-as-monetization-warning-prompts-sell-ratings/"
+        },
+        {
+          "label": "RBLX Ticker",
+          "url": "https://finance.yahoo.com/quote/RBLX"
+        }
+      ],
+      "explainer": {
+        "tagline": "Roblox posts its worst single-day drop ever as Q2 revenue misses and Q3 bookings guide implies a first-ever Y/Y decline.",
+        "whatIsIt": "Roblox reported Q2 2026 results after the close Thursday July 30. Revenue $1.47B missed the $1.59B Wall Street consensus even as bookings of $1.56B grew 8% Y/Y at the low end of company guidance. Q3 bookings guide of $1.58-$1.65B implies the first-ever Y/Y bookings decline (-14% to -18%).",
+        "howItWorks": "DAU rose 10% Y/Y to 123M and hours engaged +5% to 29B, but bookings-per-DAU deteriorated — particularly in the US/Canada and the under-13 cohort. Management cited a recommendation-algorithm rewrite that steers users toward longer-lasting titles over 'cash-grabby' viral games, plus friction from the new age-verification rollout (57% of global DAUs now age-checked). Adj EPS -$0.26 was slightly better than -$0.34 est. Operating cash flow $318M and FCF $294M both nearly doubled Y/Y; $380M spent on 8.2M share repurchases in Q2.",
+        "whyItMatters": "The stock crashed 26.9% to $35.60, wiping ~$10B from a ~$34.9B pre-print market cap in what BusinessWire called RBLX's worst day ever. Two Wall Street gaming analysts issued simultaneous Sell downgrades. The setup that supported RBLX's valuation — DAU growth compounding into higher monetization — cracked when management essentially chose long-term engagement over near-term bookings, taking guidance visibility with it.",
+        "forWho": "gaming/consumer-tech desks and single-name traders",
+        "tryIt": "https://finance.yahoo.com/quote/RBLX"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/732B5F056A5A35D228F27580381D058A04B24C5329DAADD931732344E8CD733B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2F52c60b605f720ebc57f38a1bac74546b",
+        "alt": "Roblox logo displayed on a phone screen with declining stock chart context",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "RBLX -26.9% to $35.60 — Roblox's worst day ever as Q3 bookings guide implies first-ever Y/Y decline",
+        "body": "Roblox just had its worst single-day drop ever after Q2 2026 results and a brutal Q3 bookings warning. Here's what happened:\n\n* Q2 revenue $1.47B missed $1.59B consensus\n* Bookings $1.56B (+8% Y/Y) came in at the LOW end of guidance\n* DAU +10% Y/Y to 123M, hours engaged +5% to 29B — engagement fine, monetization broken\n* Q3 bookings guide $1.58-$1.65B implies -14% to -18% Y/Y — the first-ever Y/Y bookings decline\n* ~$10B market cap wiped from ~$34.9B pre-print base\n\nWhat actually broke:\n\n1. **Algorithm rewrite** — management now steers users toward longer-lasting games over viral 'cash-grabby' titles. Long-term retention up, in-app spending down.\n2. **Age-verification drag** — 57% of global DAUs are now age-checked, and monetization in the U13 cohort is soft.\n3. **Full-year guide withdrawn** — visibility gone, Wall Street cut Sell ratings.\n\nOp cash flow $318M and FCF $294M both nearly doubled Y/Y, and Roblox bought back $380M in stock during Q2. Cash + investments now $6.1B. Fundamentals of the business aren't the story — the story is that the growth math just changed.\n\nNext catalysts: Q3 print (bookings will either confirm the decline or break the trend) and any read-through on the U13 cohort under the new verification regime.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rblx-q2-2026-earnings-mover-july-31](https://stock-tldr.xyz/releases/rblx-q2-2026-earnings-mover-july-31)"
+      },
+      "publishDate": "2026-08-01T01:38:11.643Z"
+    },
+    {
+      "id": "mpwr-q2-2026-earnings-ai-power-july-30",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Monolithic Power (MPWR) +~11% on Friday July 31 after record Q2 2026 — revenue $980.6M (+47.6% Y/Y, +21.9% Q/Q) tops $920.5M est and non-GAAP EPS $6.50 crushes $5.98 est on Enterprise Data +164.3% Y/Y to $380.6M (39% of revenue); Q3 revenue guide $1.14-1.16B implies +18% Q/Q sequential ramp on AI-server power demand",
+      "org": "Monolithic Power Systems",
+      "date": "2026-07-30",
+      "url": "https://www.stocktitan.net/news/MPWR/monolithic-power-systems-reports-second-quarter-results-on-july-30-dsaq1tub5v33.html",
+      "summary": "MPWR +~11% Friday July 31 on record Q2 2026 revenue $980.6M (+47.6% Y/Y) and non-GAAP EPS $6.50 vs $5.98 est; Enterprise Data +164.3% Y/Y as Q3 guide $1.14-1.16B rides AI-server power ramp.",
+      "tags": [
+        "earnings",
+        "beat",
+        "guidance-raise",
+        "q2-2026",
+        "semis",
+        "power-management",
+        "ai-server",
+        "enterprise-data",
+        "hyperscaler-capex"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MPWR"
+      ],
+      "metrics": {
+        "Revenue": "$980.6M (+47.6% Y/Y, +21.9% Q/Q, vs $920.5M est)",
+        "Non-GAAP EPS": "$6.50 vs $5.98 est",
+        "GAAP EPS": "$5.22",
+        "Non-GAAP gross margin": "55.6%",
+        "Enterprise Data revenue": "$380.6M (+164.3% Y/Y, 38.8% of total)",
+        "Q3 revenue guide": "$1.14-1.16B (midpoint +17.1% Q/Q)"
+      },
+      "links": [
+        {
+          "label": "MPWR Q2 2026 Release",
+          "url": "https://www.stocktitan.net/news/MPWR/monolithic-power-systems-reports-second-quarter-results-on-july-30-dsaq1tub5v33.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-beats-q2-earnings-120100716.html"
+        },
+        {
+          "label": "Motley Fool Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/monolithic-power-systems-mpwr-q2-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "MPWR Ticker",
+          "url": "https://finance.yahoo.com/quote/MPWR"
+        }
+      ],
+      "explainer": {
+        "tagline": "Monolithic Power posts record Q2 with Enterprise Data revenue +164% Y/Y as AI-server power demand pulls forward.",
+        "whatIsIt": "MPWR reported Q2 2026 after the close Thursday July 30. Revenue $980.6M grew 47.6% Y/Y and 21.9% sequentially, topping $920.5M consensus. Non-GAAP EPS $6.50 crushed $5.98 est; GAAP EPS $5.22.",
+        "howItWorks": "The Enterprise Data segment — MPWR's exposure to AI-server power delivery — hit $380.6M, up 164.3% Y/Y and 44.8% Q/Q, and now represents 38.8% of total revenue (from ~26% a year ago). Automotive shipped 1,500+ new sockets in H1. Non-GAAP gross margin held at 55.6%. Q3 revenue guide $1.14-$1.16B implies +17.1% sequential at the midpoint and puts MPWR on a >$4B annualized run-rate for the first time.",
+        "whyItMatters": "MPWR is the second-order beneficiary of the AI capex wave — every GPU rack needs multi-phase power-management ICs, and hyperscalers now spending $720-$745B combined on 2026 capex flow through into MPWR's Enterprise Data book. The stock jumped ~11% Friday July 31 alongside broader semi-strength on the Amazon AWS +37% print. The 164% Y/Y comp says the ramp is still accelerating, not decelerating.",
+        "forWho": "semi/AI-infrastructure analysts and power-management specialists",
+        "tryIt": "https://finance.yahoo.com/quote/MPWR"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Monolithic_Power_Systems_Reports_Second_Quarter_Results_on_July_30_2026_1089840.webp",
+        "alt": "Monolithic Power Systems Q2 2026 earnings cover image",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "MPWR +~11% Friday — record Q2 revenue $980.6M (+47.6% Y/Y), Enterprise Data +164% Y/Y as AI-server power ramp accelerates",
+        "body": "Monolithic Power Systems just posted the cleanest AI-picks-and-shovels print of the week. Numbers:\n\n* Revenue $980.6M — +47.6% Y/Y, +21.9% Q/Q, beat $920.5M est\n* Non-GAAP EPS $6.50 vs $5.98 est\n* Non-GAAP gross margin 55.6%\n* Enterprise Data revenue $380.6M — +164.3% Y/Y, +44.8% Q/Q, now 38.8% of total (from ~26% a year ago)\n* Q3 revenue guide $1.14-$1.16B — midpoint implies +17.1% Q/Q, first quarter above $1B\n\nWhy this matters:\n\n1. **Second-order AI beneficiary** — every AI-server rack needs multi-phase power-management ICs. MPWR is the pure-play name on that motion.\n2. **The comp is accelerating, not fading** — 164% Y/Y on a base that already grew 100%+ last quarter is unusual on the WFE side of the trade.\n3. **Hyperscaler capex confirmed** — Amazon/Microsoft/Meta/Alphabet combined $720-$745B 2026 capex flows straight into power-density suppliers like MPWR.\n\nAutomotive shipped 1,500+ new sockets in H1 as a secondary growth vector.\n\nNext catalysts: Q3 print (does the +17% seq land?), Enterprise Data segment share (does it clear 45%?), and any Nvidia Blackwell Ultra + Rubin socket disclosures.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mpwr-q2-2026-earnings-ai-power-july-30](https://stock-tldr.xyz/releases/mpwr-q2-2026-earnings-ai-power-july-30)"
+      },
+      "publishDate": "2026-08-01T01:38:11.643Z"
+    },
+    {
+      "id": "us-q2-2026-eci-real-wages-fall-july-31",
+      "categories": [
+        "macro"
+      ],
+      "title": "US Q2 2026 Employment Cost Index +0.9% Q/Q (vs +0.8% est) and +3.4% Y/Y on Friday July 31 — private-industry real (inflation-adjusted) wages -0.4% Y/Y, the first Y/Y decline since 2022 as Iran-conflict energy prices reignite CPI",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-07-31",
+      "url": "https://www.bls.gov/news.release/eci.htm",
+      "summary": "US Q2 2026 ECI +0.9% Q/Q tops +0.8% est; private-industry real wages -0.4% Y/Y, first drop since 2022 as Iran-conflict CPI reignites even as nominal wages hold near 3%.",
+      "tags": [
+        "macro",
+        "eci",
+        "employment-cost-index",
+        "wages",
+        "real-wages",
+        "q2-2026",
+        "bls",
+        "inflation",
+        "fed-preferred-wage-gauge"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Total compensation Q/Q": "+0.9% (vs +0.8% est)",
+        "Total compensation Y/Y": "+3.4%",
+        "Wages & salaries Y/Y": "+3.2%",
+        "Benefits Y/Y": "+3.8%",
+        "Private industry compensation Y/Y": "+3.3%",
+        "Real private wages Y/Y": "-0.4% (first drop since 2022)"
+      },
+      "links": [
+        {
+          "label": "BLS ECI Release",
+          "url": "https://www.bls.gov/news.release/eci.htm"
+        },
+        {
+          "label": "BLS ECI Home",
+          "url": "https://www.bls.gov/eci/"
+        },
+        {
+          "label": "Indeed Hiring Lab Analysis",
+          "url": "https://www.hiringlab.org/2026/07/31/q2-2026-employment-cost-index-losing-ground/"
+        },
+        {
+          "label": "FRED ECIWAG Series",
+          "url": "https://fred.stlouisfed.org/series/ECIWAG"
+        }
+      ],
+      "explainer": {
+        "tagline": "The Fed's preferred wage gauge cools less than expected as real wages for private workers fall for the first time in four years.",
+        "whatIsIt": "The BLS released the Q2 2026 Employment Cost Index Friday July 31. Total civilian compensation rose 0.9% Q/Q seasonally adjusted, one tick above the +0.8% Bloomberg consensus, and 3.4% Y/Y over the four quarters ending June.",
+        "howItWorks": "Wages and salaries rose 0.9% Q/Q and 3.2% Y/Y; benefit costs rose 1.0% Q/Q and 3.8% Y/Y. Private-industry compensation grew 3.3% Y/Y (from 3.5% a year earlier). The headline surprise is beneath the nominal print: real, inflation-adjusted wages and salaries for private-sector workers fell 0.4% Y/Y — the first Y/Y decline since 2022 — because Iran-conflict energy prices pushed CPI higher through Q2 even as nominal wage growth cooled.",
+        "whyItMatters": "ECI is the Fed's preferred wage measure precisely because it's mix-adjusted, so a hotter-than-expected print reduces the case for the Fed's current hold-through-year-end stance and stiffens the resolve of the Hammack/Kashkari/Logan hike-dissent camp seen at the July 29 FOMC. Real-wage decline complicates the political calculus for Fed Chair Warsh; it's also a consumer-spending headwind that feeds into softer big-ticket demand.",
+        "forWho": "macro traders, rate-vol desks, and Fed-watchers",
+        "tryIt": "https://www.bls.gov/eci/"
+      },
+      "image": {
+        "url": "https://d341ezm4iqaae0.cloudfront.net/hiringlaborg/2026/07/31105538/Retail_manageronphoneathardwarestorecountergetty-1-1024x644.jpg",
+        "alt": "Retail manager on a phone at a hardware store counter, illustrating the wage-cost squeeze on private-sector workers",
+        "fit": "cover",
+        "credit": "Getty via Indeed Hiring Lab"
+      },
+      "reddit": {
+        "title": "Q2 2026 ECI +0.9% Q/Q beats +0.8% est — private real wages -0.4% Y/Y, first Y/Y decline since 2022",
+        "body": "The BLS Q2 2026 Employment Cost Index dropped Friday July 31 and had one of the ugliest details of the summer buried underneath a clean-looking nominal print.\n\n* Total compensation +0.9% Q/Q vs +0.8% est\n* Y/Y comp +3.4% — wages +3.2%, benefits +3.8%\n* Private-industry comp Y/Y +3.3% (from 3.5% a year earlier)\n* **Private-industry REAL wages -0.4% Y/Y — first Y/Y decline since 2022**\n\nThe why:\n\n1. **Nominal wage growth cooled** — but only slowly. Workers still getting ~3% raises in aggregate.\n2. **Inflation rebounded** — Iran-conflict energy prices pushed CPI higher through Q2, wiping out real gains.\n3. **ECI is the Fed's preferred wage gauge** — mix-adjusted, quarterly, and the number a hawkish FOMC watches. +0.9% Q/Q above est stiffens the case for the Hammack/Kashkari/Logan hike-dissent camp seen at the July 29 meeting.\n\nWarsh now has a political problem: hotter-than-expected wages *and* real-wage compression at the same time. Consumers feel poorer; the Fed's inflation fight isn't done.\n\nNext catalysts: July NFP (Aug 7), July CPI (Aug 12), and Warsh's first Jackson Hole speech (Aug 21-23 window).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-q2-2026-eci-real-wages-fall-july-31](https://stock-tldr.xyz/releases/us-q2-2026-eci-real-wages-fall-july-31)"
+      },
+      "publishDate": "2026-08-01T01:38:11.643Z"
+    },
     {
       "id": "kospi-record-rally-18pct-ai-recovery-july-31-2026",
       "categories": [

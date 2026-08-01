@@ -8612,6 +8612,44 @@
         "mna",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260801t013811z",
+      "timestamp": "2026-08-01T01:38:11.643Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds for the Friday July 31 US close: Roblox (RBLX) -26.9% single-day crash (worst ever) on Q2 miss + first-ever Y/Y bookings guide decline; Monolithic Power (MPWR) +~11% on record Q2 with Enterprise Data +164% Y/Y as the AI-server power ramp accelerates; and the Q2 2026 Employment Cost Index (BLS) where +0.9% Q/Q beat consensus and real private-sector wages fell 0.4% Y/Y for the first time since 2022.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rblx-q2-2026-earnings-mover-july-31",
+          "title": "Roblox (RBLX) -26.9% to $35.60 on Friday July 31 — worst single-day drop ever after Q2 2026 revenue $1.47B misses $1.59B est and Q3 bookings guide $1.58-1.65B implies first-ever Y/Y bookings decline (-14% to -18%); ~$10B market cap wiped, two Wall Street gaming analysts issue simultaneous Sell downgrades",
+          "category": "mover",
+          "note": "Single-day -26.9% move + $10B market cap wipe on Q2 miss and first-ever Y/Y bookings guide decline clearly clears the mover bar; RBLX earnings not yet in feed."
+        },
+        {
+          "id": "mpwr-q2-2026-earnings-ai-power-july-30",
+          "title": "Monolithic Power (MPWR) +~11% on Friday July 31 after record Q2 2026 — revenue $980.6M (+47.6% Y/Y, +21.9% Q/Q) tops $920.5M est and non-GAAP EPS $6.50 crushes $5.98 est on Enterprise Data +164.3% Y/Y to $380.6M (39% of revenue); Q3 revenue guide $1.14-1.16B implies +18% Q/Q sequential ramp on AI-server power demand",
+          "category": "earnings",
+          "note": "Record Q2 with Enterprise Data +164% Y/Y is the cleanest AI-picks-and-shovels beat of the week; +~11% mover on Fri July 31 confirms the print reprices the name."
+        },
+        {
+          "id": "us-q2-2026-eci-real-wages-fall-july-31",
+          "title": "US Q2 2026 Employment Cost Index +0.9% Q/Q (vs +0.8% est) and +3.4% Y/Y on Friday July 31 — private-industry real (inflation-adjusted) wages -0.4% Y/Y, the first Y/Y decline since 2022 as Iran-conflict energy prices reignite CPI",
+          "category": "macro",
+          "note": "ECI is a Fed-preferred wage gauge; hotter-than-est print with real private wages falling for first time since 2022 is a genuine macro moment, not a filler."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
