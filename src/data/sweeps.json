@@ -8711,6 +8711,35 @@
         "rates",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260802t125909z",
+      "timestamp": "2026-08-02T12:59:09.108Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend Saturday-night geopolitics: Trump posted late Aug 1 that he cancelled a planned US strike on Iran after Saudi MBS urged de-escalation, claiming 'perimeters of a deal' agreed to reopen the Strait of Hormuz and end Iran's nuclear program. Iran has not corroborated. This is the standing weekend story — reverses the WSJ Friday scoop that had lifted WTI above $86. All other Friday July 31 items already in feed; no new Berkshire Q2 print yet (expected Monday Aug 3).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-cancel-iran-strike-hormuz-deal-aug-2-2026",
+          "title": "Trump cancels planned US strike on Iran late Saturday Aug 1 — Truth Social post claims 'perimeters of a deal' agreed with Iran and Mideast allies for 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT' and 'an end to Iran's nuclear threat'; Israel joins commitment, Saudi Crown Prince MBS urged de-escalation, Iran FM Araghchi warns any resumed attack will draw a 'proportionate response'",
+          "category": "macro",
+          "note": "Late Saturday Truth Social post reverses Friday's WSJ-reported strike order; verified across Al Jazeera, CBS, CNBC, ABC, Bloomberg. Market impact is Sunday-night oil futures + Monday equities — clearly clears major bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "earnings",
+        "crypto",
+        "mna",
+        "rates"
+      ]
     }
   ]
 }

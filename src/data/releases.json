@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-08-02T01:38:34.880Z",
+  "generatedAt": "2026-08-02T12:59:09.108Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-cancel-iran-strike-hormuz-deal-aug-2-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump cancels planned US strike on Iran late Saturday Aug 1 — Truth Social post claims 'perimeters of a deal' agreed with Iran and Mideast allies for 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT' and 'an end to Iran's nuclear threat'; Israel joins commitment, Saudi Crown Prince MBS urged de-escalation, Iran FM Araghchi warns any resumed attack will draw a 'proportionate response'",
+      "org": "White House",
+      "date": "2026-08-02",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached",
+      "summary": "Trump posts late Saturday that he cancelled a planned attack on Iran after 'perimeters of a deal' agreed to reopen the Strait of Hormuz and end Iran's nuclear threat; Iran has not corroborated. Oil closed +5.4% Fri.",
+      "tags": [
+        "iran",
+        "trump",
+        "hormuz",
+        "geopolitics",
+        "oil",
+        "ceasefire",
+        "truth-social",
+        "mbs",
+        "saudi-arabia",
+        "israel",
+        "middle-east"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Truth Social post": "Aug 1, 11:10 PM EDT",
+        "WTI (Fri Jul 31 post-settle)": "$86+/bbl on strike order",
+        "Deal terms": "Reopen Hormuz + end nuclear program",
+        "MBS call": "Aug 2, 4:54 AM EDT"
+      },
+      "explainer": {
+        "tagline": "Trump calls off Iran strike he ordered Friday, says deal to reopen the Strait of Hormuz has agreed 'perimeters.'",
+        "whatIsIt": "Late Saturday August 1 Trump posted on Truth Social that he had cancelled a planned US military attack on Iran after allies asked him to hold off, saying 'perimeters of a deal' have been agreed. The proposed framework calls for the 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT' and 'an end to Iran's nuclear threat.' It reverses the WSJ-reported Friday order to attack Iran as soon as this weekend that had lifted WTI above $86 in post-settlement trade.",
+        "howItWorks": "Trump wrote he had 'agreed, for the future benefit of the world and, likewise, the survival of a successful and prosperous Iran, to cancel the attack, subject to being able to rapidly make a DEAL,' adding that 'The country of Israel joins me in this commitment.' Saudi Crown Prince MBS spoke with Trump at 4:54 AM EDT urging de-escalation. Iran's Foreign Minister Abbas Araghchi held calls with Pakistani, Turkish and Saudi officials while stressing Iran will respond 'proportionately' if strikes resume; Iranian state media declined to corroborate that a deal has been agreed.",
+        "whyItMatters": "If the deal holds, the Hormuz reopening would reverse the shipping-lane closure Iran imposed March 4 that pushed Brent to $101 on July 23 and drove Q2 CPI/PCE back above 3%. Immediate market impact plays out at Sunday-night oil futures open and Monday cash equities: energy names (XOM, CVX, SLB) that just posted record Iran-war Q2s become the swing trade, defence primes (LMT) give back some of the recent bid, and the dollar/yen bid on safe-haven flows likely fades. Deal is not confirmed by Tehran, so risk of re-escalation remains live.",
+        "forWho": "energy desks, macro traders, oil & defence pairs",
+        "tryIt": "https://truthsocial.com/@realDonaldTrump"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6eb30a1916-1785639690.jpg?resize=1200%2C630",
+        "alt": "President Trump speaks to reporters as he announces cancellation of planned Iran strike",
+        "fit": "cover",
+        "credit": "AFP via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera Report",
+          "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html"
+        },
+        {
+          "label": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/"
+        },
+        {
+          "label": "ABC Live Updates",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405"
+        }
+      ],
+      "reddit": {
+        "title": "Trump cancels planned Iran strike late Saturday, says 'perimeters of a deal' agreed to reopen the Strait of Hormuz — Iran has not corroborated",
+        "body": "Late Saturday August 1 (11:10 PM EDT), President Trump posted on Truth Social that he cancelled a planned U.S. attack on Iran after allies asked him to hold off. Here's what he claims was agreed:\n\n* 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT'\n* 'An end to Iran's nuclear threat'\n* Israel 'joins me in this commitment'\n* Cancellation is 'subject to being able to rapidly make a DEAL'\n\nContext for how we got here:\n\n1. **WSJ Friday scoop** — Trump ordered a strike 'as soon as this weekend,' with CBS adding that Iranian oil refineries and power plants were on the target list.\n2. **WTI popped past $86/bbl** in post-settlement trade Friday July 31 on the strike headlines.\n3. **Saudi call** — Crown Prince Mohammed bin Salman spoke with Trump at 4:54 AM EDT Aug 2, pushing 'de-escalation and diplomacy.'\n4. **Iran has NOT confirmed** — Iranian state media declined to corroborate that any deal perimeters have been agreed; FM Abbas Araghchi told Turkish, Pakistani and Saudi counterparts Iran will respond 'proportionately' if strikes resume.\n\nMarket read-through into Sunday-night oil futures and Monday cash open: if the Hormuz reopening holds, energy names (XOM, CVX, SLB) that just posted record Iran-war Q2s become the swing trade, LMT and other defence primes give back some of the bid, and safe-haven dollar/yen flows likely fade.\n\nFull breakdown: [https://stock-tldr.xyz/releases/trump-cancel-iran-strike-hormuz-deal-aug-2-2026](https://stock-tldr.xyz/releases/trump-cancel-iran-strike-hormuz-deal-aug-2-2026)"
+      },
+      "publishDate": "2026-08-02T12:59:09.108Z"
+    },
     {
       "id": "btc-below-63k-crypto-sell-off-july-31-2026",
       "categories": [
