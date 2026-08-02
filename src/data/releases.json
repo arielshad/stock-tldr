@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-08-01T12:58:23.627Z",
+  "generatedAt": "2026-08-02T01:38:34.880Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "btc-below-63k-crypto-sell-off-july-31-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "Bitcoin -2.9% to $62,929 on Friday July 31 — biggest 12h drop in a month wipes $360M in leveraged bets; ETH -2.8% to $1,867 and SOL -2.0% to $73 as Fed dissents, Coinbase miss and Coldcard exploit unwind risk appetite",
+      "org": "Cryptocurrency Market",
+      "date": "2026-07-31",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+      "summary": "BTC drops ~$3K in 12h to $62,929 (-2.9%) on Friday July 31 as three FOMC hawk dissents, Coinbase Q2 miss and Coldcard exploit ($70M+ drained) squeeze risk; ETH -2.8% to $1,867, SOL -2.0% to $73.",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "solana",
+        "risk-off",
+        "options-expiry",
+        "coldcard-exploit",
+        "clarity-act",
+        "fed-dissents"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD"
+      ],
+      "metrics": {
+        "BTC price": "$62,929 (-2.9% on day)",
+        "12h drop": "~$3,000",
+        "ETH": "$1,867 (-2.8%)",
+        "SOL": "$73.04 (-2.0%)",
+        "XRP": "$1.07",
+        "BTC July return": "+4.5%",
+        "Liquidations (24h)": "~$360M"
+      },
+      "explainer": {
+        "tagline": "BTC drops ~$3K in 12 hours to $62,929 on Friday July 31 as risk appetite unwinds across crypto.",
+        "whatIsIt": "Bitcoin fell 2.9% on Friday July 31 to close at ~$62,929, its sharpest single-session move of the month, dragging the whole crypto complex lower. Ethereum, Solana, XRP and the CoinDesk 20 Index all closed in the red as speculative positioning got squeezed.",
+        "howItWorks": "The move came in a compressed ~12h window and wiped out roughly $360M in leveraged crypto bets. Traders blame three concurrent hits: (1) news that three Fed board members dissented for a hike at Wednesday's FOMC, pushing longer-dated yields higher; (2) Coinbase's (COIN) Q2 miss Thursday plus MicroStrategy's (MSTR) $8.2B unrealized BTC loss print, both re-pricing crypto-adjacent equities; (3) a ~$70M+ Coldcard hardware-wallet exploit affecting ~1,200 wallets, plus fading Congressional momentum for the CLARITY Act. It also coincided with the settlement of ~$9.6B in bitcoin options at Deribit.",
+        "whyItMatters": "Even after Friday's slide, BTC still finished July +4.5% — its best month since February — while the Nasdaq fell 3.2%. But the setup into August is fragile: the most popular position on Deribit is now a $60K BTC put, and futures traders have pared long positioning for the first time since April. If forced sellers step aside as analysts expect, spot Bitcoin ETF flows become the swing factor for whether Q3 opens on a low or a lower low.",
+        "forWho": "Crypto desks, macro-crossover traders, spot BTC/ETH ETF allocators.",
+        "tryIt": "https://farside.co.uk/btc/"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/s3y3vcno/production/e5be27224bd7ac7866d20593432ecaaa0ad610c9-2044x1108.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "alt": "Bitcoin price chart showing sharp drop on Friday July 31 2026",
+        "fit": "cover",
+        "credit": "CoinDesk"
+      },
+      "links": [
+        {
+          "label": "CoinDesk — BTC July Gain Holds",
+          "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say"
+        },
+        {
+          "label": "Motley Fool — Crypto Today",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/31/crypto-market-today-july-31-bitcoin-slides-below-usd63-000-and-coinbase-tumbles-10/"
+        },
+        {
+          "label": "CoinDesk — $60K Put Leads",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august"
+        },
+        {
+          "label": "BTC-USD Chart",
+          "url": "https://finance.yahoo.com/quote/BTC-USD/"
+        },
+        {
+          "label": "Spot BTC ETF Flows",
+          "url": "https://farside.co.uk/btc/"
+        }
+      ],
+      "reddit": {
+        "title": "Bitcoin -2.9% to $62,929 on Friday July 31 — biggest 12h drop of the month wipes ~$360M in leveraged bets, still ends July +4.5%",
+        "body": "Bitcoin closed the final trading day of July under $63K after a compressed ~12h slide, dragging the whole crypto complex lower even as US equities rallied on Amazon.\n\n* **BTC** -2.9% to **$62,929** (biggest single-day move of July)\n* **ETH** -2.8% to $1,867, **SOL** -2.0% to $73.04, **XRP** flat at $1.07\n* **~$360M** in leveraged crypto positions liquidated in 24h\n* BTC still ends July **+4.5%**, best month since February; Nasdaq -3.2% for July\n* **$60K BTC put** is now the most popular position on Deribit for August\n\nThree hits landed at once:\n\n1. **Hawkish Fed** — three Fed board members dissented for a hike at Wednesday's FOMC; the 30Y Treasury closed the week at 5.28%, highest since 2007\n2. **Crypto-equity earnings misses** — COIN -10.59% to $146.26 on a Q2 revenue miss, MSTR printed an $8.2B unrealized BTC loss\n3. **Coldcard exploit** — ~$70M+ drained from ~1,200 Coldcard hardware wallets, plus fading Congressional momentum for the CLARITY Act; ~$9.6B in BTC options settled at Deribit\n\nNext catalysts: NFP jobs report Friday Aug 7, Palantir + AMD earnings this week, and whether spot BTC ETF flows swing back in after ten sessions of net outflows.\n\nFull breakdown: [https://stock-tldr.xyz/releases/btc-below-63k-crypto-sell-off-july-31-2026](https://stock-tldr.xyz/releases/btc-below-63k-crypto-sell-off-july-31-2026)"
+      },
+      "publishDate": "2026-08-02T01:38:34.880Z"
+    },
     {
       "id": "rivn-q2-2026-earnings-guide-raise-july-30",
       "categories": [

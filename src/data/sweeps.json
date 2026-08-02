@@ -8681,6 +8681,36 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260802t013834z",
+      "timestamp": "2026-08-02T01:38:34.880Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep for weekend Aug 1-2 2026 — added Bitcoin's sharp July 31 drop below $63K (biggest 12h move of the month, $360M liquidated) on Fed hawkish dissents, Coinbase Q2 miss, MSTR $8B loss and Coldcard exploit. Jersey Mike's NYSE IPO on July 30 was over 72h old at the sweep timestamp so it was dropped per Hard Rule 2. No new items on Trump-Iran weekend escalation — no confirmed new strikes materialized before sweep and existing Iran/oil war items cover the standing narrative.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "btc-below-63k-crypto-sell-off-july-31-2026",
+          "title": "Bitcoin -2.9% to $62,929 on Friday July 31 — biggest 12h drop in a month wipes $360M in leveraged bets; ETH -2.8% to $1,867 and SOL -2.0% to $73 as Fed dissents, Coinbase miss and Coldcard exploit unwind risk appetite",
+          "category": "crypto",
+          "note": "Sharpest BTC single-day move of July with a full crypto-wide unwind, distinct from the MSTR/COIN Q2 earnings items already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "crypto",
+        "earnings",
+        "macro",
+        "commodity",
+        "rates",
+        "mna"
+      ]
     }
   ]
 }
