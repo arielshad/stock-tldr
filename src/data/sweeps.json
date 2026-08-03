@@ -8767,6 +8767,40 @@
         "earnings-scan",
         "crypto-scan"
       ]
+    },
+    {
+      "id": "sweep-20260803t142434z",
+      "timestamp": "2026-08-03T14:24:34.612Z",
+      "source": "github-actions-sweep",
+      "summary": "Two additions on Aug 3 sweep: (1) AZN/BMY $400B pharma merger rumor broken by FT Sunday Aug 2 with AZN -7.3% premarket and BMY +8%, (2) Alibaba Qwen3.8-Max flips from July 19 WAIC preview to broad availability + open-weights next week with HK:9988 +7% close and BABA ADR +4.73% premarket. FERG S&P 500 inclusion (announced Jul 31 after close) dropped as its date field is 86h old, outside the 72h cap.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "azn-bmy-400b-merger-talks-rumor-aug-2-2026",
+          "title": "Reportedly: AstraZeneca (AZN) held merger talks with Bristol Myers Squibb (BMY) on ~$400B combined deal — FT breaks Sunday Aug 2; AZN -7.3% and BMY +8% premarket Monday Aug 3",
+          "category": "rumor",
+          "note": "FT tier-1 rumor with multi-outlet confirmation (CNBC, Reuters, Bloomberg, Benzinga); classified as rumor per Hard Rule #4 title convention ('Reportedly:'). Semantic dedup: no existing AZN+BMY merger entries in feed."
+        },
+        {
+          "id": "baba-qwen38-max-ga-open-weights-aug-3-2026",
+          "title": "Alibaba (BABA) — Qwen3.8-Max made widely available Monday Aug 3 ahead of open-weights release next week; HK:9988 +7.01% to HK$125.20 close, BABA ADR +4.73% to $128.03 premarket",
+          "category": "mover",
+          "note": "Distinct milestone from July 19 WAIC preview entry (baba-qwen38-max-preview-launch-july-19-2026) — Aug 3 is GA + open-weights commitment; kept as new item with cross-reference in whatIsIt."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rumor",
+        "mna",
+        "mover",
+        "sector",
+        "china-ai"
+      ]
     }
   ]
 }

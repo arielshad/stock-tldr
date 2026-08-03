@@ -1,8 +1,172 @@
 {
-  "generatedAt": "2026-08-03T01:35:22.907Z",
+  "generatedAt": "2026-08-03T14:24:34.612Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "azn-bmy-400b-merger-talks-rumor-aug-2-2026",
+      "categories": [
+        "rumor",
+        "mna"
+      ],
+      "title": "Reportedly: AstraZeneca (AZN) held merger talks with Bristol Myers Squibb (BMY) on ~$400B combined deal — FT breaks Sunday Aug 2; AZN -7.3% and BMY +8% premarket Monday Aug 3",
+      "org": "AstraZeneca",
+      "date": "2026-08-02",
+      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+      "summary": "FT reports Sunday Aug 2 that AZN (~$263B) and BMY (~$133B) have held preliminary merger talks in recent months on a ~$400B combined-value tie-up; both companies declined comment, analysts flag significant FTC scrutiny on oncology overlap.",
+      "tickers": [
+        "AZN",
+        "BMY"
+      ],
+      "tags": [
+        "rumor",
+        "mna",
+        "pharma",
+        "azn",
+        "bmy",
+        "ft-report",
+        "oncology",
+        "megadeal",
+        "ftc-scrutiny",
+        "cash-and-shares"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Combined market cap": "~$400B",
+        "AZN market cap": "~$263B",
+        "BMY market cap": "~$133B",
+        "AZN move": "-7.3% premarket (NYSE) / -6.4% (LON)",
+        "BMY move": "+8% premarket",
+        "Deal structure": "TBD, likely cash and shares"
+      },
+      "explainer": {
+        "tagline": "FT reports AstraZeneca held preliminary talks with Bristol Myers Squibb on a ~$400B combined-value merger — would be the largest pharma megadeal ever.",
+        "whatIsIt": "The Financial Times reported Sunday August 2 that AstraZeneca (UK-listed, ~$263B market cap) has explored a merger with US rival Bristol Myers Squibb (~$133B market cap) in recent months, with a combined value approaching $400B. Reuters and Bloomberg confirmed via anonymous sources that talks were held; both companies declined to comment or did not respond.",
+        "howItWorks": "The exact structure is undetermined but the FT indicated any deal would likely mix cash and shares. A tie-up would make AZN the world's fourth-largest drugmaker, surpassing AZN's $39B 2021 Alexion acquisition as the largest deal in its history and eclipsing BMY's $80B 2019 Celgene purchase. Reuters' source said a deal could 'materialize soon' but also that negotiations could be delayed or fall apart. Antitrust lawyer Andre Barlow told AOL/Reuters he expects the Trump FTC to scrutinize the combination given significant overlap in cancer immunotherapy franchises — likely requiring divestitures similar to BMY's $13.4B Otezla sale during the Celgene deal.",
+        "whyItMatters": "AZN shares tumbled 7.3% in NYSE premarket Monday and 6.4% on London — analysts told CNBC follow-up they were 'perplexed' by the strategic logic given both firms' cancer overlap and AZN's UK-listing sensitivities. BMY climbed 8% premarket on the takeout premium possibility. A megadeal at this size would be the largest pharma M&A ever and reset the sector's consolidation calculus after years of frozen dealmaking on antitrust and drug-pricing concerns.",
+        "forWho": "healthcare M&A desks, pharma equity analysts",
+        "tryIt": "https://finance.yahoo.com/quote/AZN"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/33728453-MM_Cancer_research_picks_bris.jpg?v=1354732729&w=1920&h=1080",
+        "alt": "Bristol Myers Squibb cancer research signage",
+        "fit": "cover",
+        "credit": "CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC: FT reports $400B talks",
+          "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html"
+        },
+        {
+          "label": "CNBC: analysts perplexed",
+          "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html"
+        },
+        {
+          "label": "Benzinga: deal talks summary",
+          "url": "https://www.benzinga.com/markets/equities/26/08/60862279/astrazeneca-bristol-myers-squibb-reportedly-in-talks-for-400-billion-merger"
+        },
+        {
+          "label": "Reuters via AOL: source detail",
+          "url": "https://www.aol.com/articles/astrazeneca-holds-talks-bristol-myers-193616000.html"
+        },
+        {
+          "label": "AZN quote",
+          "url": "https://finance.yahoo.com/quote/AZN"
+        },
+        {
+          "label": "BMY quote",
+          "url": "https://finance.yahoo.com/quote/BMY"
+        }
+      ],
+      "reddit": {
+        "title": "Reportedly: AstraZeneca and Bristol Myers held merger talks on a ~$400B combined-value deal (FT) — AZN -7.3%, BMY +8% premarket",
+        "body": "The Financial Times reported Sunday Aug 2 that AstraZeneca (AZN) has been exploring a merger with Bristol Myers Squibb (BMY). Reuters and Bloomberg confirmed via anonymous sources. Both companies declined to comment.\n\n* AZN market cap ~$263B; BMY market cap ~$133B — combined near $400B\n* Talks 'held in recent months', deal could 'materialize soon' or 'fall apart' per Reuters\n* Structure TBD; FT indicates likely cash-and-shares\n* Would surpass AZN's $39B Alexion (2021) as its largest deal ever\n* AZN -7.3% premarket NYSE, -6.4% on LON; BMY +8% premarket\n\nWhy analysts are 'perplexed' per CNBC's Monday follow-up:\n\n1. **Cancer overlap = FTC risk** — both are top-3 in oncology immunotherapies. Antitrust lawyer cited by Reuters expects a Trump FTC to demand divestitures similar to BMY's $13.4B Otezla sale during the 2019 Celgene deal.\n2. **UK-listing sensitivities** — AZN losing its UK-headquartered status would be politically loud in London where it's the biggest FTSE 100 constituent.\n3. **No obvious pipeline logic** — analysts say the two portfolios don't fill each other's gaps cleanly; largely doubling down on the same cancer franchises.\n\nRumor, not confirmed. Both companies still declining to comment as of Monday morning.\n\nFull breakdown: [https://stock-tldr.xyz/releases/azn-bmy-400b-merger-talks-rumor-aug-2-2026](https://stock-tldr.xyz/releases/azn-bmy-400b-merger-talks-rumor-aug-2-2026)"
+      },
+      "publishDate": "2026-08-03T14:24:34.612Z"
+    },
+    {
+      "id": "baba-qwen38-max-ga-open-weights-aug-3-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Alibaba (BABA) — Qwen3.8-Max made widely available Monday Aug 3 ahead of open-weights release next week; HK:9988 +7.01% to HK$125.20 close, BABA ADR +4.73% to $128.03 premarket",
+      "org": "Alibaba",
+      "date": "2026-08-03",
+      "url": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+      "summary": "Alibaba on Monday Aug 3 flipped its 2.4T-parameter multimodal MoE Qwen3.8-Max from July 19 WAIC preview to broad availability via Model Studio APIs and QwenWork; open-weights release scheduled next week; HK:9988 +7.01% to HK$125.20, BABA ADR +4.73%.",
+      "tickers": [
+        "BABA",
+        "9988.HK"
+      ],
+      "tags": [
+        "mover",
+        "china-ai",
+        "ai-capex",
+        "open-weights",
+        "qwen",
+        "alibaba-cloud",
+        "multimodal",
+        "moe",
+        "sector-rotation",
+        "china-tech"
+      ],
+      "importance": "major",
+      "metrics": {
+        "9988.HK close": "HK$125.20 (+7.01%)",
+        "BABA ADR premarket": "$128.03 (+4.73%)",
+        "Model parameters": "2.4T sparse MoE (~95B active per query)",
+        "Context window": "1M tokens",
+        "Pricing": "$2 / $6 per M input/output tokens",
+        "Open-weights release": "next week (as of Aug 3)"
+      },
+      "explainer": {
+        "tagline": "Alibaba flips Qwen3.8-Max from July 19 WAIC preview to broad availability + open-weights next week — HK:9988 +7%, BABA ADR +4.7% premarket.",
+        "whatIsIt": "On Monday August 3 Alibaba Cloud made Qwen3.8-Max, its largest AI model, widely accessible through Model Studio APIs and QwenWork, the workplace agent platform which entered public beta the same day. The model was first previewed at WAIC Shanghai on Sunday July 19 as a limited preview; today marks broad availability with a commitment to release the open-weights next week — a return to open-sourcing after Alibaba kept recent Max-tier models closed.",
+        "howItWorks": "Qwen3.8-Max is a 2.4-trillion-parameter sparse Mixture-of-Experts model that activates ~95 billion parameters per query, keeping inference costs manageable. Context window is 1 million tokens (~750K words per query), and the model handles text, images, video and documents. Pricing is $2 per M input tokens and $6 per M output tokens. Alibaba positions it as competitive with OpenAI/Anthropic frontier models; independent leaderboards rank it 5th on Text Arena and 2nd on Vision Arena. The company also released Qwen3.8-27B, a smaller sibling, and both will go open-weight.",
+        "whyItMatters": "The move drove Hong Kong-listed Alibaba (9988.HK) +7.01% to HK$125.20 on Monday's close and BABA ADR +4.73% to $128.03 in US premarket, with Union Bancaire Privée's managing director telling Benzinga that 'investors continue to underestimate Chinese AI models because of US chip restrictions.' Two Chinese frontier drops in ~two weeks (Moonshot's 2.8T Kimi K3 and now Qwen3.8-Max GA + open-weights) keeps pressure on AI-capex bulls: enterprise China spend is rotating toward domestic frontier models, and open-weights availability compresses margins for US closed-weight vendors selling into APAC.",
+        "forWho": "China tech investors, AI infra desks, semis analysts tracking capex signals",
+        "tryIt": "https://qwen.aliyun.com/"
+      },
+      "image": {
+        "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/03/f7b1d0fc-9e0c-4932-86dd-a706e9775b77_0341efe0.jpg?itok=NNJzRXGy&v=1785725388",
+        "alt": "Alibaba Qwen3.8-Max product illustration",
+        "fit": "cover",
+        "credit": "South China Morning Post"
+      },
+      "links": [
+        {
+          "label": "SCMP: Qwen3.8-Max widely accessible",
+          "url": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release"
+        },
+        {
+          "label": "MarkTechPost: technical writeup",
+          "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/"
+        },
+        {
+          "label": "Benzinga: BABA premarket move + analyst quote",
+          "url": "https://www.benzinga.com/markets/tech/26/08/60865269/alibaba-stock-is-gaining-monday-whats-going-on"
+        },
+        {
+          "label": "Invezz: launch coverage",
+          "url": "https://invezz.com/news/2026/08/03/alibaba-shares-jump-6-after-launch-of-qwen3-8-max-its-biggest-ai-model-yet/"
+        },
+        {
+          "label": "Yahoo Tech: capabilities",
+          "url": "https://tech.yahoo.com/ai/articles/qwen3-8-max-alibabas-ai-130334823.html"
+        },
+        {
+          "label": "BABA quote",
+          "url": "https://finance.yahoo.com/quote/BABA"
+        }
+      ],
+      "reddit": {
+        "title": "Alibaba flips Qwen3.8-Max from preview to broad availability + open-weights next week — HK:9988 +7% to HK$125.20, BABA ADR +4.7% premarket",
+        "body": "On Monday Aug 3 Alibaba Cloud made Qwen3.8-Max broadly available via Model Studio APIs and QwenWork (public beta today), and committed to a next-week open-weights release. Preview only landed July 19 at WAIC Shanghai — two-week timeline from preview → GA → open-weights.\n\n* 2.4-trillion-parameter sparse MoE, ~95B active per query\n* 1M-token context (~750K words), multimodal — text/images/video/docs\n* Pricing: $2 per M input tokens / $6 per M output tokens\n* Leaderboards: 5th on Text Arena, 2nd on Vision Arena\n* HK:9988 closed +7.01% at HK$125.20; BABA ADR +4.73% at $128.03 premarket\n* Smaller sibling Qwen3.8-27B also going open-weight\n\nWhy this matters for the AI trade:\n\n1. **Second Chinese frontier drop in ~two weeks** — Moonshot shipped Kimi K3 (2.8T open-weight) July 17; Qwen3.8-Max now going open-weight. Enterprise-China spend rotating toward domestic frontier.\n2. **Open-weights = US margin pressure** — closed-weight vendors selling into APAC lose leverage when a comparable open model exists.\n3. **BABA read-through** — Union Bancaire Privée managing director told Benzinga investors still 'underestimate Chinese AI models because of US chip restrictions.'\n\nFull breakdown: [https://stock-tldr.xyz/releases/baba-qwen38-max-ga-open-weights-aug-3-2026](https://stock-tldr.xyz/releases/baba-qwen38-max-ga-open-weights-aug-3-2026)"
+      },
+      "publishDate": "2026-08-03T14:24:34.612Z"
+    },
     {
       "id": "brent-crash-opec-hike-iran-talks-aug-2-2026",
       "categories": [
