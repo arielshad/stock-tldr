@@ -8740,6 +8740,33 @@
         "mna",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260803t013522z",
+      "timestamp": "2026-08-03T01:35:22.907Z",
+      "source": "github-actions-sweep",
+      "summary": "One-item sweep on Sunday Aug 2 into Monday Aug 3 open: Brent Oct -7.3% to $81.55 at Sunday CME reopen as OPEC+ agrees 188K bpd September hike completing the 1.65M bpd 2023 voluntary-cut rollback and Trump signals Monday Iran talks. Berkshire Q2 has not yet posted; skipped to avoid pre-release speculation.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brent-crash-opec-hike-iran-talks-aug-2-2026",
+          "title": "Brent Oct -7.3% to $81.55 on Sunday Aug 2 as Trump signals Monday Iran talks + OPEC+ agrees 188K bpd September hike, completing the 1.65M bpd rollback",
+          "category": "commodity",
+          "note": "OPEC+ Aug 2 press release + Bloomberg Aug 2 Sunday CME-open oil crash + Trump Air Force One comments on Iran talks Monday. Distinct from the existing Aug 2 'trump-cancel-iran-strike-hormuz-deal' item, which is the political/diplomatic story — this one is the OPEC+ supply decision + market reaction."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "earnings-scan",
+        "crypto-scan"
+      ]
     }
   ]
 }

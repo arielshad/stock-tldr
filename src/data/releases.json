@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-08-02T12:59:09.108Z",
+  "generatedAt": "2026-08-03T01:35:22.907Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "brent-crash-opec-hike-iran-talks-aug-2-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Brent Oct -7.3% to $81.55 on Sunday Aug 2 as Trump signals Monday Iran talks + OPEC+ agrees 188K bpd September hike, completing the 1.65M bpd rollback",
+      "org": "OPEC+",
+      "date": "2026-08-02",
+      "url": "https://www.opec.org/pr-detail/1854611-2-august-2026.html",
+      "summary": "Sunday-open Brent Oct futures fell as much as 7.3% to $81.55 as Trump reiterated fresh US-Iran talks begin Monday and eight OPEC+ core producers agreed a 188K bpd September output hike, completing the unwind of the 1.65M bpd 2023 voluntary-cut package.",
+      "tags": [
+        "oil",
+        "opec-plus",
+        "brent",
+        "wti",
+        "hormuz",
+        "iran",
+        "supply",
+        "voluntary-cuts",
+        "sep-2026",
+        "cme-sunday-open"
+      ],
+      "tickers": [
+        "CL=F"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Brent Oct": "-7.3% to $81.55/bbl",
+        "September +": "+188,000 bpd",
+        "Cumulative rollback complete": "1.65M bpd (Apr 2023 tranche)",
+        "Next OPEC+ meeting": "6 Sep 2026"
+      },
+      "explainer": {
+        "tagline": "OPEC+ Sunday hike + Trump-Iran talks Monday drain the war premium — Brent Oct opens -7.3% to $81.55.",
+        "whatIsIt": "Two Sunday-August-2 events hit oil together: OPEC+'s seven core voluntary-cut members (Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, Oman) agreed a 188K bpd September output hike, completing the phased rollback of the 1.65M bpd cut announced in April 2023. Hours later, Trump said fresh US-Iran talks begin Monday, extending the strike-pause narrative that also underlay Aug 1's Truth Social 'perimeters of a deal' post on the Strait of Hormuz.",
+        "howItWorks": "Brent October futures fell as much as 7.3% to $81.55/bbl at Sunday CME reopen per Bloomberg, WTI dipped below $80 after failing twice last week to break its 100-day SMA. OPEC+'s statement said the seven participants will 'implement a production adjustment of 188 thousand barrels per day from the additional voluntary adjustments announced in April 2023,' also flagging catch-up on any overproduced volumes since January 2024. The group next meets 6 September 2026 to set October quotas.",
+        "whyItMatters": "The Hormuz-conflict risk premium that pushed Brent through $100 on 23 July has been steadily unwound: first with the July 26 US-Iran strike pause (Brent -5.05% to $91.89), then Trump's Aug 1 Truth Social deal-perimeters post, and now the Aug 2 combo of Monday-talks confirmation + the OPEC+ tap fully unrolling. Analyst Jorge Leon cautioned the Sunday-decision only formalizes what's already largely on paper — Hormuz-transit constraints mean member nations aren't hitting the quotas anyway.",
+        "forWho": "energy desks, macro allocators, EM FX",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_OPEC.svg/1280px-Flag_of_OPEC.svg.png",
+        "alt": "Flag of OPEC — green field with a stylized emblem, used by the Organization of Petroleum Exporting Countries",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "OPEC+ Aug 2 Statement",
+          "url": "https://www.opec.org/pr-detail/1854611-2-august-2026.html"
+        },
+        {
+          "label": "Al-Monitor Aug 2 Recap",
+          "url": "https://www.al-monitor.com/originals/2026/08/opec-boosts-september-production-188000-barrelsday"
+        },
+        {
+          "label": "FX Leaders — Oil Dives",
+          "url": "https://www.fxleaders.com/news/2026/08/02/oil-prices-dive-brent-and-wti-crude-breach-80-on-iran-talks-and-opec-adding-supply/"
+        },
+        {
+          "label": "WTI Futures (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        }
+      ],
+      "reddit": {
+        "title": "Brent Oct -7.3% to $81.55 at Sunday CME open — OPEC+ green-lights 188K bpd September hike AND Trump confirms Iran talks Monday",
+        "body": "Two Sunday, Aug 2 catalysts collided to drain what's left of the Hormuz war premium out of oil.\n\n* Brent October futures fell as much as 7.3% to $81.55/bbl at the Sunday CME reopen\n* WTI dipped below $80/bbl after failing twice last week at its 100-day SMA\n* OPEC+ agreed a **+188K bpd September output hike** — the seventh consecutive monthly bump and the one that finishes unwinding the 1.65M bpd voluntary cut tranche from April 2023\n\nTwo drivers, one weekend:\n\n1. **OPEC+ tap fully open** — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman agreed the September add and reiterated intent to compensate for any overproduction since January 2024. Next meeting: **6 September** for October quotas.\n2. **Trump-Iran talks Monday** — following Aug 1's Truth Social post claiming 'perimeters of a deal' on reopening the Strait of Hormuz, Trump said Sunday on Air Force One that fresh US-Iran talks begin Monday afternoon.\n\nCaveat from OPEC-watcher Jorge Leon: 'Today's decision changes little in the near term because Hormuz remains constrained. The real market impact will come when normal export flows resume.'\n\nNext catalysts: US-Iran talks Monday Aug 3, then July NFP Friday, then OPEC+ Sept 6.\n\nFull breakdown: [https://stock-tldr.xyz/releases/brent-crash-opec-hike-iran-talks-aug-2-2026](https://stock-tldr.xyz/releases/brent-crash-opec-hike-iran-talks-aug-2-2026)"
+      },
+      "publishDate": "2026-08-03T01:35:22.907Z"
+    },
     {
       "id": "trump-cancel-iran-strike-hormuz-deal-aug-2-2026",
       "categories": [
