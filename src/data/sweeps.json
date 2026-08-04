@@ -8848,6 +8848,40 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260804t135538z",
+      "timestamp": "2026-08-04T13:55:38.746Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: onsemi (ON) Q2 2026 earnings beat + Q3 guide raise on AI data center design wins (NVIDIA MGX, Great Wall) with shares +7.6% premarket Tuesday; and Bessent's Aug 4 Squawk Box remarks flagging a possible US-Iran Hormuz reopening 'today or tomorrow' with 'freedom of movement' that crashed WTI ~4% and lifted Dow/S&P to fresh intraday records.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "on-q2-2026-earnings-ai-data-center-aug-3",
+          "title": "onsemi (ON) +~7.6% premarket Tuesday Aug 4 after Q2 2026 non-GAAP EPS $0.74 crushes $0.65 est on $1.60B revenue (+9% Y/Y); Q3 revenue guide $1.65-1.75B (midpoint $1.70B) tops $1.60B est on AI data center revenue expected to more than double in 2026, non-GAAP gross margin expands to 39.3% (4th straight quarter)",
+          "category": "earnings",
+          "note": "Q2 beat + Q3 guide $100M above Street + AI data center 'more than double in 2026' guidance; +~7.6% premarket Tuesday Aug 4 satisfies mover bar and confirms the AWS/Azure AI-capex read-through into power/analog semis."
+        },
+        {
+          "id": "bessent-hormuz-deal-comments-aug-4-2026",
+          "title": "Treasury Sec. Bessent tells CNBC's Squawk Box on Tuesday Aug 4 there's 'a chance we may have a deal today or tomorrow' to reopen the Strait of Hormuz with 'freedom of movement' — WTI -~4% to $77.22, Brent -3% to $81.24; 10Y yield -~2bp to 4.667%; Dow +577 pts (+1.09%) to record intraday 53,759 and S&P 500 to fresh intraday high 7,649",
+          "category": "macro",
+          "note": "Bessent's Squawk Box comments Tuesday Aug 4 give the highest-level US timing signal on Hormuz since Trump's Aug 2 post; WTI -~4% and multiple US indices at fresh intraday records — distinct from the Aug 2 Trump-claims-framework item in both content (specific 'today/tomorrow' + 'freedom of movement' language) and market action."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }

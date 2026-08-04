@@ -1,8 +1,169 @@
 {
-  "generatedAt": "2026-08-04T01:28:20.500Z",
+  "generatedAt": "2026-08-04T13:55:38.746Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "on-q2-2026-earnings-ai-data-center-aug-3",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "onsemi (ON) +~7.6% premarket Tuesday Aug 4 after Q2 2026 non-GAAP EPS $0.74 crushes $0.65 est on $1.60B revenue (+9% Y/Y); Q3 revenue guide $1.65-1.75B (midpoint $1.70B) tops $1.60B est on AI data center revenue expected to more than double in 2026, non-GAAP gross margin expands to 39.3% (4th straight quarter)",
+      "org": "onsemi",
+      "tickers": [
+        "ON",
+        "NVDA"
+      ],
+      "date": "2026-08-03",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337876/0/en/onsemi-Reports-Second-Quarter-2026-Results.html",
+      "summary": "Chipmaker beats top and bottom line, guides Q3 above consensus, and says AI data center revenue will more than double in 2026 on wins with NVIDIA MGX and China's Great Wall.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "q2-2026",
+        "semis",
+        "power-semis",
+        "ai-data-center",
+        "nvidia-mgx",
+        "gross-margin"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1.60B (+9% Y/Y)",
+        "Non-GAAP EPS": "$0.74 vs $0.65 est",
+        "GAAP EPS": "$0.56",
+        "Non-GAAP GM": "39.3% (+4th straight qtr expansion)",
+        "Q3 Revenue guide": "$1.65-$1.75B (mid $1.70B vs $1.60B est)",
+        "Q3 GM guide": "40.0-42.0%",
+        "Move": "+~7.6% premarket Tuesday Aug 4"
+      },
+      "explainer": {
+        "tagline": "onsemi Q2 crushes on AI data center power; Q3 guide $100M above the Street and shares +7.6% premarket.",
+        "whatIsIt": "onsemi, a top US supplier of power semiconductors and image sensors, reported Q2 2026 results after the bell Monday Aug 3. Revenue of $1.604B rose 9% Y/Y and beat the Street's ~$1.55B estimate, while non-GAAP diluted EPS of $0.74 topped the ~$0.65 consensus. The company said AI data center is its fastest-growing business and now expects that segment's 2026 revenue to more than double.",
+        "howItWorks": "GAAP gross margin came in at 38.4% and non-GAAP GM at 39.3% — the fourth straight quarter of sequential expansion. GAAP diluted EPS was $0.56; non-GAAP $0.74. Q3 2026 revenue guidance is $1.65-$1.75B (midpoint $1.70B, ~9% above est) with non-GAAP GM of 40.0-42.0%. Management cited design wins in NVIDIA's MGX AI-server power ecosystem and a strategic AI data center platform win with Great Wall, a leading China cloud infrastructure power supplier.",
+        "whyItMatters": "The beat + AI data center commentary reinforces the read-through from Amazon AWS +36.7% and Microsoft Azure +43% that AI capex spending is flowing through the entire power/semis supply chain — not just accelerator vendors. It reinforces the recent AI-server power theme that also drove Monolithic Power (MPWR) +11% and Lam Research beats last week.",
+        "forWho": "semis analysts, AI-infra allocators, power-management investors",
+        "tryIt": "https://finance.yahoo.com/quote/ON"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/5ee83abc-f6c8-4f57-b432-9bb3bc56a2c1",
+        "alt": "onsemi Q2 2026 earnings release cover image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "onsemi Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/03/3337876/0/en/onsemi-Reports-Second-Quarter-2026-Results.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/onsemi-reports-second-quarter-2026-200500760.html"
+        },
+        {
+          "label": "MarketScreener Recap",
+          "url": "https://www.marketscreener.com/news/on-semiconductor-shares-jump-pre-bell-following-q2-beat-ce7f50ded98ef727"
+        },
+        {
+          "label": "Benzinga Preview",
+          "url": "https://www.benzinga.com/markets/earnings/26/08/60896597/on-semiconductor-shifts-capacity-to-ai-data-centers-over-automotive"
+        },
+        {
+          "label": "Yahoo Finance ON",
+          "url": "https://finance.yahoo.com/quote/ON"
+        }
+      ],
+      "reddit": {
+        "title": "onsemi Q2 beats: EPS $0.74 vs $0.65, Q3 revenue guide $100M above Street, AI data center revenue to more than double in 2026 — ON +7.6% premarket",
+        "body": "onsemi (ON) reported Q2 2026 after the bell Monday Aug 3 and shares are up ~7.6% in premarket Tuesday. Here's what mattered:\n\n* Revenue $1.604B (+9% Y/Y) vs ~$1.55B est\n* Non-GAAP EPS $0.74 crushes ~$0.65 est; GAAP EPS $0.56\n* Non-GAAP gross margin 39.3% — fourth straight quarter of sequential expansion\n* Q3 revenue guide $1.65-$1.75B (mid $1.70B) tops $1.60B est\n* Q3 non-GAAP GM guide 40-42%\n\nWhat drove it:\n\n1. **AI data center now the fastest-growing segment** — company expects 2026 revenue to more than double, with design wins in NVIDIA's MGX AI-server power ecosystem and China's Great Wall cloud infrastructure.\n2. **Power/margin story** — non-GAAP GM expanded again to 39.3% and Q3 guide implies 40-42%, ~200bp of further expansion.\n3. **Auto/industrial de-emphasis working** — capacity shifting to data centers is where the Q3 upside came from.\n\nRead-through to MPWR, NVDA supply chain, and other power/analog names.\n\nFull breakdown: [https://stock-tldr.xyz/releases/on-q2-2026-earnings-ai-data-center-aug-3](https://stock-tldr.xyz/releases/on-q2-2026-earnings-ai-data-center-aug-3)"
+      },
+      "publishDate": "2026-08-04T13:55:38.746Z"
+    },
+    {
+      "id": "bessent-hormuz-deal-comments-aug-4-2026",
+      "categories": [
+        "macro",
+        "commodity",
+        "rates"
+      ],
+      "title": "Treasury Sec. Bessent tells CNBC's Squawk Box on Tuesday Aug 4 there's 'a chance we may have a deal today or tomorrow' to reopen the Strait of Hormuz with 'freedom of movement' — WTI -~4% to $77.22, Brent -3% to $81.24; 10Y yield -~2bp to 4.667%; Dow +577 pts (+1.09%) to record intraday 53,759 and S&P 500 to fresh intraday high 7,649",
+      "org": "U.S. Treasury",
+      "tickers": [
+        "CL=F",
+        "^GSPC",
+        "^DJI",
+        "^TNX"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+      "summary": "Bessent tells Squawk Box a US-Iran Hormuz deal could come Tuesday or Wednesday with 'freedom of movement' (no toll). Oil crashes ~4%, Dow hits fresh record, 10Y yields dip below 4.67%.",
+      "tags": [
+        "macro",
+        "hormuz",
+        "iran",
+        "us-iran-deal",
+        "bessent",
+        "treasury",
+        "oil",
+        "wti",
+        "brent",
+        "sp500-record",
+        "dow-record",
+        "risk-on",
+        "yields"
+      ],
+      "importance": "major",
+      "metrics": {
+        "WTI": "$77.22 (-~4%)",
+        "Brent": "$81.24 (-3%)",
+        "10Y": "4.667% (-~2bp)",
+        "Dow": "53,759.88 (+581.47 / +1.09%) intraday record",
+        "S&P 500": "7,649.13 (+48.63 / +0.64%) intraday record",
+        "Nasdaq": "26,231.59 (+317.69 / +1.23%)"
+      },
+      "explainer": {
+        "tagline": "Bessent says a Hormuz reopening could land today or tomorrow — oil dumps ~4%, US indices notch fresh intraday records.",
+        "whatIsIt": "Treasury Secretary Scott Bessent appeared on CNBC's 'Squawk Box' the morning of Tuesday Aug 4 and said 'there is a chance we may have a deal today or tomorrow to open the Strait and move towards a more normalized position in this conflict.' Asked whether Iran would be allowed to charge a toll for passage, Bessent replied 'It would be freedom of movement.' The remarks land two days after President Trump's Aug 2 Truth Social post claiming 'perimeters of a deal' were already agreed with Iran.",
+        "howItWorks": "The comments triggered a fast risk-on rotation. WTI crude futures fell nearly 4% to $77.22 and Brent lost 3% to $81.24, giving back a chunk of the geopolitical premium. The 10-year Treasury yield slipped ~2bp to 4.667% as the peace-premium unwind spread into rates. Equities extended gains: the Dow rose 581 points (+1.09%) to 53,759.88, S&P 500 +0.64% to 7,649.13 and Nasdaq +1.23% to 26,231.59 — both the Dow and S&P set fresh intraday all-time highs. Qatar was reported to be circulating draft US-Iran deal language, though no direct US-Iran talks were confirmed.",
+        "whyItMatters": "This is the highest-level, most specific US timing signal since Trump's Aug 2 claim of a de-escalation framework. A confirmed Hormuz reopening with 'freedom of movement' — no Iranian toll — would fully unwind the ~$20-30/bbl geopolitical premium built up since the July 13 blockade reinstatement and the July 23 Red Sea tanker strikes that pushed Brent above $100. It also gives risk assets air-cover for the ongoing mega-cap earnings + AI-capex rally to keep going.",
+        "forWho": "oil traders, macro allocators, energy equity investors, Treasury/rates desks",
+        "tryIt": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108344430-1785846072731-bessent1.jpg?v=1785846078&w=1920&h=1080",
+        "alt": "Treasury Secretary Scott Bessent on CNBC's Squawk Box discussing Iran-US Hormuz deal",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC — Bessent Quote",
+          "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html"
+        },
+        {
+          "label": "CNBC — Oil Reaction",
+          "url": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html"
+        },
+        {
+          "label": "CNBC — Treasury Yields",
+          "url": "https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html"
+        },
+        {
+          "label": "CNBC — 'Last Chance'",
+          "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html"
+        },
+        {
+          "label": "TippInsights Recap",
+          "url": "https://tippinsights.com/bessent-says-hormuz-deal-could-come-this-week/"
+        }
+      ],
+      "reddit": {
+        "title": "Treasury Sec Bessent says Hormuz deal may hit 'today or tomorrow' with 'freedom of movement' — WTI -4% to $77.22, Dow hits fresh record",
+        "body": "Treasury Secretary Scott Bessent went on CNBC's Squawk Box Tuesday morning Aug 4 and said a US-Iran deal to reopen the Strait of Hormuz could come as early as today or tomorrow. Markets moved fast:\n\n* WTI crude -~4% to $77.22\n* Brent -3% to $81.24\n* 10-year Treasury yield -~2bp to 4.667%\n* Dow +577 pts (+1.09%) to intraday record 53,759\n* S&P 500 +0.64% to fresh intraday high 7,649\n* Nasdaq +1.23% to 26,231\n\nBessent's exact words: *\"There is a chance we may have a deal today or tomorrow to open the strait and move towards a more normalized position in this conflict.\"* On whether Iran gets to charge a toll: *\"It would be freedom of movement.\"*\n\nContext:\n\n1. **Sequence with Trump** — this comes two days after Trump's Aug 2 Truth Social post claiming 'perimeters of a deal' with Iran and Mideast allies.\n2. **Qatar mediation** — separate reports say Qatar is circulating draft US-Iran deal language, though no direct talks are confirmed.\n3. **What's at stake** — a confirmed reopening with no Iranian toll would fully unwind the ~$20-30/bbl geopolitical premium from the July 13 blockade and the July 23 Red Sea tanker attacks that pushed Brent above $100.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bessent-hormuz-deal-comments-aug-4-2026](https://stock-tldr.xyz/releases/bessent-hormuz-deal-comments-aug-4-2026)"
+      },
+      "publishDate": "2026-08-04T13:55:38.746Z"
+    },
     {
       "id": "pltr-q2-2026-earnings-us-comm-149pct-aug-3",
       "categories": [
