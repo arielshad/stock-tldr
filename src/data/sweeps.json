@@ -8801,6 +8801,53 @@
         "sector",
         "china-ai"
       ]
+    },
+    {
+      "id": "sweep-20260804t012820z",
+      "timestamp": "2026-08-04T01:28:20.500Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 3, 2026 sweep: four adds. Palantir crushes Q2 (rev +93%, U.S. commercial +149%, FY26 guide lifted) and jumps ~10% AH; Amazon becomes 5th company ever to top $3T market cap on Aug 3, closing +4.58% at $284.02; hot US ISM Manufacturing PMI 55.6 (highest since May 2022); Snap +8.4% AH on Q2 beat.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "pltr-q2-2026-earnings-us-comm-149pct-aug-3",
+          "title": "Palantir (PLTR) Q2 2026 — revenue $1.935B (+93% Y/Y) crushes $1.81B est and diluted EPS $0.41 tops $0.34 est on U.S. commercial +149% Y/Y to $764M and U.S. government +90% to $809M; FY26 revenue guide raised to $8.150-$8.158B (82% Y/Y) and U.S. commercial guide to >$3.424B (134% Y/Y); PLTR +11.99% AH Monday Aug 3 to $140.72 from $125.65 close",
+          "category": "earnings",
+          "note": "Mega-cap AI-software beat with sharp FY guide raise and +~10% AH move."
+        },
+        {
+          "id": "amzn-3t-market-cap-milestone-aug-3-2026",
+          "title": "Amazon (AMZN) becomes 5th company ever to top $3 trillion market cap on Monday Aug 3 — stock +4.58% to $284.02 record close on Q2 AWS afterglow, joins AAPL, MSFT, NVDA and GOOG in the $3T club",
+          "category": "mover",
+          "note": "Historic milestone — 5th company ever to top $3T market cap; Aug 3 record close."
+        },
+        {
+          "id": "us-ism-manufacturing-pmi-556-july-aug-3-2026",
+          "title": "US ISM Manufacturing PMI July 2026 jumps to 55.6 (vs 54.0 est) on Monday Aug 3 — 2.3-pt gain vs June, highest reading since May 2022 (55.9), 7th straight month of expansion; Employment Index climbs to 52.8 from 49.7",
+          "category": "macro",
+          "note": "1.6-pt macro beat; highest ISM Manufacturing since May 2022 resets rate-cut path."
+        },
+        {
+          "id": "snap-q2-2026-earnings-mover-aug-3",
+          "title": "Snap (SNAP) +~8.4% AH to $5.50 Monday Aug 3 after Q2 CY2026 revenue $1.60B (+18.9% Y/Y) beats $1.54B est and adj EBITDA $250M crushes $185M est (+34.7%); GAAP EPS $(0.10) beats $(0.12), operating margin -10.7% (from -19.3% Y/Y)",
+          "category": "earnings",
+          "note": "Mid-cap ad-tech beat with 34.7% adj EBITDA surprise and +8.4% AH move."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }
