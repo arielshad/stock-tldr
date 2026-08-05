@@ -8882,6 +8882,57 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260805t013424z",
+      "timestamp": "2026-08-05T01:34:24.158Z",
+      "source": "github-actions-sweep",
+      "summary": "Four new items covering Aug 4 2026: broad U.S.-stocks record close (S&P first record in two months, Dow first-ever above 54,000), Caterpillar's first-ever $20B+ quarter with a record $72.1B backlog, AMD's record Q2 with Anthropic 2GW MI450 pact but -8.81% AH, and SpaceX's debut post-IPO earnings beat undone by $18.4B capex (-~7% AH). One update: PLTR's Aug 4 regular-session +29.45% close.",
+      "counts": {
+        "added": 4,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-sp500-dow-record-close-aug-4-2026",
+          "title": "U.S. stocks — S&P 500 +1.79% to 7,736.52 (first record in 2 months) and Dow +907.47 pts (+1.71%) to 54,085.88 (first-ever close above 54,000) on Tuesday Aug 4; Nasdaq Composite +2.59% to 26,584.99 as tech +4.20%, industrials +3.42%; WTI -~6% to $75.32 on Hormuz optimism, 10Y yield -7bp to 4.61%",
+          "category": "macro",
+          "note": "Broad-market record closes are a distinct milestone — first S&P record in two months and first-ever Dow settle above 54,000; not covered by any single-name existing item."
+        },
+        {
+          "id": "cat-q2-2026-earnings-record-backlog-aug-4",
+          "title": "Caterpillar (CAT) +5.60% Tuesday Aug 4 after first-ever $20B+ quarter — Q2 2026 revenue $20.5B (+24% Y/Y) crushes $19.2B est, adj EPS $8.17 tops $5.71 est (+43% surprise; +73% Y/Y), record backlog $72.1B (+$34.6B Y/Y; +$9B Q/Q) on data-center-power demand; raises FY26 sales guide to mid-to-high teens growth",
+          "category": "earnings",
+          "note": "First-ever $20B+ quarter and record $72.1B backlog quantify AI-data-center power spillover into industrials; +5.60% helped push the Dow to a record."
+        },
+        {
+          "id": "amd-q2-2026-earnings-mi350-anthropic-aug-4",
+          "title": "AMD (AMD) -8.81% AH to $472.89 on Tuesday Aug 4 despite record Q2 2026 — revenue $11.5B (+50% Y/Y, +13% Q/Q), non-GAAP EPS $1.66 (+246% Y/Y) vs $1.55 est, data center $6.7B (+107%) as Instinct MI350P ships; Q3 revenue guide ~$13B ±$300M (+41% Y/Y); Anthropic strikes 2GW MI450 Helios deployment pact",
+          "category": "earnings",
+          "note": "Record Q2 with data center +107% Y/Y and 2GW MI450 Helios deal with Anthropic; unusually the beat/raise triggered a -8.81% AH move on already-priced-in expectations."
+        },
+        {
+          "id": "spcx-q2-2026-first-earnings-capex-aug-4",
+          "title": "SpaceX (SPCX) -~7% AH to $116.70 from $125.33 on Tuesday Aug 4 after first-ever public earnings — Q2 2026 revenue $7.81B (+92% Y/Y from $4.06B) beats $6.93B est, adj EBITDA $3.5B vs $2.0B est on AI +247% Y/Y to $2.56B and Connectivity +66% to $4.29B; capex $18.4B blows past ~$13B est; CFO Johnsen guides $100B annualized run-rate by year-end",
+          "category": "earnings",
+          "note": "SpaceX's first-ever public earnings — revenue and EBITDA beat, but $18.4B capex blew past ~$13B est and shares fell ~7% AH."
+        }
+      ],
+      "updated": [
+        {
+          "id": "pltr-q2-2026-earnings-us-comm-149pct-aug-3",
+          "title": "Palantir (PLTR) Q2 2026 — revenue $1.935B (+93% Y/Y) crushes $1.81B est and diluted EPS $0.41 tops $0.34 est on U.S. commercial +149% Y/Y to $764M and U.S. government +90% to $809M; FY26 revenue guide raised to $8.150-$8.158B (82% Y/Y) and U.S. commercial guide to >$3.424B (134% Y/Y); PLTR +11.99% AH Monday Aug 3 to $140.72 from $125.65 close",
+          "note": "Add PLTR's +29.45% Aug 4 regular-session close ($162.66; best day since Feb 2024) alongside the +12% AH pop already tracked."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "sector"
+      ]
     }
   ]
 }

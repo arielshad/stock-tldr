@@ -1,8 +1,341 @@
 {
-  "generatedAt": "2026-08-04T13:55:38.746Z",
+  "generatedAt": "2026-08-05T01:34:24.158Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-sp500-dow-record-close-aug-4-2026",
+      "categories": [
+        "macro",
+        "sector"
+      ],
+      "title": "U.S. stocks — S&P 500 +1.79% to 7,736.52 (first record in 2 months) and Dow +907.47 pts (+1.71%) to 54,085.88 (first-ever close above 54,000) on Tuesday Aug 4; Nasdaq Composite +2.59% to 26,584.99 as tech +4.20%, industrials +3.42%; WTI -~6% to $75.32 on Hormuz optimism, 10Y yield -7bp to 4.61%",
+      "org": "S&P Dow Jones Indices",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^IXIC",
+        "^TNX",
+        "CL=F"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/",
+      "summary": "S&P 500 closes at 7,736.52 (+1.79%) for its first record since early June and Dow settles at 54,085.88 (+1.71%) — its first-ever close above 54,000 — on tech leadership and Hormuz easing.",
+      "tags": [
+        "us-stocks",
+        "record-close",
+        "sp500",
+        "dow",
+        "nasdaq",
+        "tech-rally",
+        "palantir",
+        "caterpillar",
+        "hormuz",
+        "oil",
+        "treasury-yields"
+      ],
+      "importance": "major",
+      "metrics": {
+        "S&P 500": "+1.79% (+136.02 pts) to 7,736.52 (record close)",
+        "Dow": "+1.71% (+907.47 pts) to 54,085.88 (record; first-ever above 54,000)",
+        "Nasdaq": "+2.59% (+671.10 pts) to 26,584.99",
+        "Info Tech sector": "+4.20%",
+        "Industrials sector": "+3.42%",
+        "WTI crude": "-~6% to $75.32/bbl",
+        "10Y yield": "-7bp to 4.61%",
+        "Gold": "+1.01% to $4,075.26/oz"
+      },
+      "explainer": {
+        "tagline": "S&P 500 sets first record close in two months and Dow tops 54,000 for the first time as tech rebounds and Hormuz talks brighten.",
+        "whatIsIt": "U.S. stocks logged broad-based record closes on Tuesday Aug 4. The S&P 500's 7,736.52 finish was its first record close since early June (breaking a two-month stretch below the prior peak), and the Dow's 54,085.88 close was its first-ever settle above 54,000. The Nasdaq Composite jumped 2.59% to 26,584.99, its best session since June, and the Russell 2000 also set a record close.",
+        "howItWorks": "Info Tech (+4.20%) and Industrials (+3.42%) led the tape. Palantir soared 29.45% to $162.66 after 'otherworldly' Q2 results (US commercial +149% Y/Y), and Caterpillar climbed 5.60% after posting its first-ever $20B+ quarter with a record $72.1B backlog. WTI crude fell about 6% to $75.32/bbl as Treasury Secretary Bessent told CNBC a Strait of Hormuz deal could arrive 'today or tomorrow' and Trump gave Iran 'every last chance'. The 10-year yield eased 7bp to 4.61% on lower oil, and gold added 1.01% to $4,075.26/oz.",
+        "whyItMatters": "The record closes cap a four-session winning streak for all four major indexes and reset the psychology after a soft July into the July 29 FOMC hawkish hold. Tech's +4.20% day rebuilds the 'AI-capex earnings pay off' narrative just as SpaceX and AMD prepare to report after the bell, and CAT's record backlog quantifies the industrials-side pull-through from the same data-center buildout. Rate-sensitive breadth expanded as the 10Y eased and small caps also printed records.",
+        "forWho": "index traders, macro allocators, AI-capex investors",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F446dde0c7af61257ba43e10a3a4377ea2eab4d36-300x180.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "alt": "Traders on the NYSE floor react as the S&P 500 and Dow log record closes",
+        "fit": "cover",
+        "credit": "The Motley Fool"
+      },
+      "links": [
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/"
+        },
+        {
+          "label": "Schaeffer's Wrap",
+          "url": "https://www.schaeffersresearch.com/content/ezines/2026/08/04/dow-s-p-500-log-record-closes-as-stocks-stay-hot"
+        },
+        {
+          "label": "CNBC Live Blog",
+          "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "Dow Chart",
+          "url": "https://finance.yahoo.com/quote/%5EDJI"
+        }
+      ],
+      "reddit": {
+        "title": "S&P 500 sets first record close in two months at 7,736.52 (+1.79%), Dow closes above 54,000 for the first time ever — tech +4.2%, industrials +3.4%, oil -6% on Hormuz optimism",
+        "body": "U.S. stocks logged broad record closes Tuesday Aug 4. Here's what happened:\n\n* S&P 500 +1.79% (+136.02) to 7,736.52 — first record close since early June\n* Dow +907.47 pts (+1.71%) to 54,085.88 — first-ever close above 54,000\n* Nasdaq Composite +2.59% (+671.10) to 26,584.99\n* Info Tech +4.20%, Industrials +3.42% led sectors\n* WTI crude -~6% to $75.32 on Hormuz-deal optimism; 10Y yield -7bp to 4.61%; gold +1.01% to $4,075.26\n\nWhat drove it:\n\n1. **Palantir 'otherworldly'** — PLTR +29.45% to $162.66 after Q2 US commercial +149% Y/Y powered the Nasdaq.\n2. **Industrials pulled through** — Caterpillar +5.60% after first-ever $20B+ quarter with record $72.1B backlog on data-center-power demand.\n3. **Middle East cools** — Bessent told CNBC a Strait of Hormuz deal could land 'today or tomorrow'; oil dumped ~6%, freeing rate-sensitive breadth.\n\nNext catalysts: SpaceX (SPCX) and AMD earnings after the bell tonight; Disney (DIS) tomorrow morning.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-sp500-dow-record-close-aug-4-2026](https://stock-tldr.xyz/releases/us-stocks-sp500-dow-record-close-aug-4-2026)"
+      },
+      "publishDate": "2026-08-05T01:34:24.158Z"
+    },
+    {
+      "id": "cat-q2-2026-earnings-record-backlog-aug-4",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Caterpillar (CAT) +5.60% Tuesday Aug 4 after first-ever $20B+ quarter — Q2 2026 revenue $20.5B (+24% Y/Y) crushes $19.2B est, adj EPS $8.17 tops $5.71 est (+43% surprise; +73% Y/Y), record backlog $72.1B (+$34.6B Y/Y; +$9B Q/Q) on data-center-power demand; raises FY26 sales guide to mid-to-high teens growth",
+      "org": "Caterpillar",
+      "tickers": [
+        "CAT"
+      ],
+      "date": "2026-08-04",
+      "url": "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Inc--to-Announce-Second-Quarter-2026-Financial-Results-on-August-4/default.aspx",
+      "summary": "Caterpillar posts its first quarter ever above $20B in sales, adj EPS $8.17 vs $5.71 est, and record $72.1B backlog on AI-data-center power demand; shares +5.60% on the day.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "q2-2026",
+        "industrials",
+        "record-backlog",
+        "power-energy",
+        "ai-data-center",
+        "construction"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$20.5B (+24% Y/Y from $16.6B) — first-ever above $20B",
+        "Adj EPS": "$8.17 vs $5.71 est (+43% surprise; +73% Y/Y)",
+        "GAAP EPS": "$7.77 (up from $4.62)",
+        "Adj op margin": "21.9% (+430bp Y/Y)",
+        "Backlog": "$72.1B (+$34.6B Y/Y; +$9B Q/Q) — record",
+        "Power & Energy": "sales $8.238B (+17%), profit $2.027B (+30%)",
+        "Construction Industries": "sales $8.346B (+35%), profit $1.947B (+57%)",
+        "Resource Industries": "sales $4.648B (+20%), profit $693M (+23%)",
+        "ME&T FCF": "$5.1B (record)",
+        "FY26 guide": "raised to mid-to-high teens sales growth (from low-double-digit)",
+        "Move": "+5.60% Tuesday Aug 4 (record close context)"
+      },
+      "explainer": {
+        "tagline": "Caterpillar posts its first-ever $20B+ quarter and record $72.1B backlog on AI-data-center power demand; shares +5.60%.",
+        "whatIsIt": "Caterpillar reported Q2 2026 results before the open Tuesday Aug 4 at 5:30am CDT. Sales and revenues of $20.5B (+24% Y/Y from $16.6B) marked the first quarter in company history above $20B, while adjusted profit of $8.17/share crushed the ~$5.71 Street estimate and rose 73% Y/Y. GAAP EPS was $7.77 vs $4.62 in the year-ago quarter.",
+        "howItWorks": "The backlog grew $9B sequentially to a record $72.1B, up ~$34.6B Y/Y (~+92%). Segment sales were led by Construction Industries at $8.346B (+35%) with profit $1.947B (+57%), Power & Energy at $8.238B (+17%) with profit $2.027B (+30%), and Resource Industries at $4.648B (+20%). Adjusted operating margin expanded 430bp to 21.9%. Machinery, Energy & Transportation free cash flow was a record $5.1B, and management raised FY26 sales guidance to mid-to-high-teens growth from prior low-double-digit.",
+        "whyItMatters": "The record backlog and Power & Energy strength quantify how much AI-data-center capex is now spilling into industrial-power gear (large reciprocating engines, generators, switchgear). CAT closed +5.60% on the session and helped power the Dow to its first-ever close above 54,000. Read-through: Cummins (CMI), Eaton (ETN), Vertiv (VRT), GE Vernova (GEV) and other data-center-power beneficiaries.",
+        "forWho": "industrials analysts, AI-infra allocators, dividend-growth investors",
+        "tryIt": "https://finance.yahoo.com/quote/CAT"
+      },
+      "image": {
+        "url": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270284034-300x202.jpg",
+        "alt": "Caterpillar heavy equipment on display at a construction site",
+        "fit": "cover",
+        "credit": "Getty Images via Quartz"
+      },
+      "links": [
+        {
+          "label": "CAT Earnings Advisory",
+          "url": "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Inc--to-Announce-Second-Quarter-2026-Financial-Results-on-August-4/default.aspx"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/08/60906229/caterpillar-cashes-in-on-ai-buildout-raises-2026-sales-outlook"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/caterpillar-q2-2026-earnings-record-revenue-data-centers-080426"
+        },
+        {
+          "label": "StockTitan Earnings Advisory",
+          "url": "https://www.stocktitan.net/news/CAT/caterpillar-inc-to-announce-second-quarter-2026-financial-results-on-9kfz64shfa3s.html"
+        },
+        {
+          "label": "CAT Chart",
+          "url": "https://finance.yahoo.com/quote/CAT"
+        }
+      ],
+      "reddit": {
+        "title": "Caterpillar (CAT) posts first-ever $20B+ quarter: Q2 revenue $20.5B (+24% Y/Y), adj EPS $8.17 vs $5.71 est, record $72.1B backlog (+92% Y/Y) on AI-data-center power — CAT +5.60% Aug 4",
+        "body": "Caterpillar reported Q2 2026 before the bell Tuesday Aug 4 and the stock closed +5.60%. Here's what mattered:\n\n* Revenue $20.5B (+24% Y/Y from $16.6B) — first-ever above $20B\n* Adj EPS $8.17 crushes $5.71 est (+43% surprise; +73% Y/Y); GAAP EPS $7.77\n* Backlog jumps $9B Q/Q to record $72.1B (+~92% Y/Y)\n* Adj op margin 21.9% (+430bp Y/Y); ME&T free cash flow $5.1B (record)\n* FY26 sales guide raised to mid-to-high teens growth (from low-double-digit)\n\nSegment breakdown:\n\n1. **Construction Industries** — sales $8.346B (+35%), profit $1.947B (+57%)\n2. **Power & Energy** — sales $8.238B (+17%), profit $2.027B (+30%); this is where the data-center-power demand shows up\n3. **Resource Industries** — sales $4.648B (+20%), profit $693M (+23%)\n\nRead-through to CMI, ETN, VRT, GEV and other data-center-power names. CAT helped power the Dow to its first-ever close above 54,000.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cat-q2-2026-earnings-record-backlog-aug-4](https://stock-tldr.xyz/releases/cat-q2-2026-earnings-record-backlog-aug-4)"
+      },
+      "publishDate": "2026-08-05T01:34:24.158Z"
+    },
+    {
+      "id": "amd-q2-2026-earnings-mi350-anthropic-aug-4",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AMD (AMD) -8.81% AH to $472.89 on Tuesday Aug 4 despite record Q2 2026 — revenue $11.5B (+50% Y/Y, +13% Q/Q), non-GAAP EPS $1.66 (+246% Y/Y) vs $1.55 est, data center $6.7B (+107%) as Instinct MI350P ships; Q3 revenue guide ~$13B ±$300M (+41% Y/Y); Anthropic strikes 2GW MI450 Helios deployment pact",
+      "org": "AMD",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "AVGO"
+      ],
+      "date": "2026-08-04",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+      "summary": "AMD posts record Q2 revenue of $11.5B (+50% Y/Y), data center +107% on MI350P shipments, Q3 guide $13B ±$300M, and inks 2GW MI450 pact with Anthropic — but shares slide 8.81% AH.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "q2-2026",
+        "semis",
+        "data-center",
+        "instinct-mi350",
+        "epyc",
+        "anthropic",
+        "helios"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$11.536B (+50% Y/Y, +13% Q/Q) — record",
+        "Non-GAAP EPS": "$1.66 vs $1.55 est (+246% Y/Y)",
+        "GAAP EPS": "$1.38 (+156% Y/Y)",
+        "Net income (GAAP)": "$2.297B",
+        "Non-GAAP GM": "56%",
+        "Data Center": "$6.718B (+107% Y/Y) — 58% of revenue",
+        "Client": "$3.062B (+23% Y/Y)",
+        "Gaming": "$779M (-31% Y/Y)",
+        "Embedded": "$977M (+19% Y/Y)",
+        "Q3 revenue guide": "~$13B ±$300M (~+41% Y/Y, +13% Q/Q)",
+        "Q3 GM guide": "~56% non-GAAP",
+        "Move": "-8.81% AH to $472.89 (1.8× avg vol)"
+      },
+      "explainer": {
+        "tagline": "AMD posts a record $11.5B quarter with data-center revenue up 107%, but shares fall ~9% AH as guidance already priced in.",
+        "whatIsIt": "Advanced Micro Devices reported Q2 2026 results after the close Tuesday Aug 4. Revenue of $11.536B (+50% Y/Y, +13% Q/Q) was a company record, non-GAAP diluted EPS of $1.66 topped the ~$1.55 Street and was up 246% Y/Y, and GAAP EPS was $1.38 (+156% Y/Y). Data Center revenue more than doubled to $6.718B (+107% Y/Y), driven by EPYC server-CPU demand and shipments of the Instinct MI350P GPU.",
+        "howItWorks": "Client revenue was $3.062B (+23%), Gaming $779M (-31%), Embedded $977M (+19%). Non-GAAP gross margin came in at 56%, with net income (GAAP) of $2.297B. For Q3 2026, AMD guided revenue to roughly $13B ±$300M (~+41% Y/Y and ~+13% Q/Q) with non-GAAP gross margin of ~56%. On the call CEO Lisa Su cited scaling Instinct deployments and announced a strategic partnership with Anthropic to deploy up to 2 gigawatts of MI450 Series GPUs in AMD Helios racks. Despite the beat and raise, AMD shares fell 8.81% to $472.89 in after-hours trading on 1.8× average volume.",
+        "whyItMatters": "The 107% Y/Y jump in data center revenue and $13B Q3 guide validate the MI350 ramp and the multi-year Helios/EPYC roadmap. But with AMD entering the print already up ~8% intraday and trading well above 50x forward earnings, the AH sell-off signals that the beat/raise was already priced in. The Anthropic 2GW MI450 pact is the highest-profile hyperscaler win to date and puts a direct competitive pin in NVIDIA's Blackwell roadmap; supply-chain read-through to AVGO, MRVL, TSM ahead of NVDA's Aug 26 print.",
+        "forWho": "semis analysts, AI-capex allocators, AMD/NVDA options traders",
+        "tryIt": "https://finance.yahoo.com/quote/AMD"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_661b7dbf4bb7a7700c9d5fee920a408f/amd/db/834/7308/social_image_resized.jpg",
+        "alt": "AMD investor relations social card for Q2 2026 financial results",
+        "fit": "cover",
+        "credit": "AMD Investor Relations"
+      },
+      "links": [
+        {
+          "label": "AMD Press Release",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/AMD/amd-reports-second-quarter-2026-financial-s9qsl4zgkkw3.html"
+        },
+        {
+          "label": "MarketBeat Report",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-8-4-advanced-micro-devices-inc-stock/"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amd-stock-ahead-q2-152100876.html"
+        },
+        {
+          "label": "AMD Chart",
+          "url": "https://finance.yahoo.com/quote/AMD"
+        }
+      ],
+      "reddit": {
+        "title": "AMD Q2 2026 crushes: revenue $11.5B (+50% Y/Y), data center $6.7B (+107%), non-GAAP EPS $1.66 vs $1.55 est, Q3 guide $13B; Anthropic strikes 2GW MI450 Helios pact — but stock -8.81% AH",
+        "body": "AMD reported Q2 2026 after the bell Tuesday Aug 4 and beat on every line, but shares fell 8.81% to $472.89 in after-hours on 1.8x average volume. Here's what mattered:\n\n* Revenue $11.536B (+50% Y/Y, +13% Q/Q) — record\n* Data center revenue $6.718B (+107% Y/Y) — 58% of total; MI350P shipping\n* Non-GAAP EPS $1.66 vs $1.55 est (+246% Y/Y); GAAP $1.38\n* Non-GAAP gross margin 56%\n* Q3 revenue guide ~$13B ±$300M (+41% Y/Y, +13% Q/Q)\n\nWhat drove the AH sell-off despite the beat/raise:\n\n1. **Priced in already** — AMD went into the print up ~8% intraday and had rallied hard into the number.\n2. **Guide roughly in line, not blowout** — $13B ± $300M is solid but not the multi-billion beat some hoped for.\n3. **Anthropic 2GW MI450 pact is the headline** — highest-profile hyperscaler design win to date, direct pin in NVDA Blackwell roadmap, but doesn't monetize until Helios volume.\n\nRead-through to AVGO, MRVL, TSM ahead of NVDA earnings Aug 26.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amd-q2-2026-earnings-mi350-anthropic-aug-4](https://stock-tldr.xyz/releases/amd-q2-2026-earnings-mi350-anthropic-aug-4)"
+      },
+      "publishDate": "2026-08-05T01:34:24.158Z"
+    },
+    {
+      "id": "spcx-q2-2026-first-earnings-capex-aug-4",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "SpaceX (SPCX) -~7% AH to $116.70 from $125.33 on Tuesday Aug 4 after first-ever public earnings — Q2 2026 revenue $7.81B (+92% Y/Y from $4.06B) beats $6.93B est, adj EBITDA $3.5B vs $2.0B est on AI +247% Y/Y to $2.56B and Connectivity +66% to $4.29B; capex $18.4B blows past ~$13B est; CFO Johnsen guides $100B annualized run-rate by year-end",
+      "org": "SpaceX",
+      "tickers": [
+        "SPCX"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
+      "summary": "SpaceX's first-ever quarterly report tops revenue and EBITDA on AI +247% and Starlink +66%, but $18.4B in capex — well above the ~$13B analyst view — sends shares down ~7% AH.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "ebitda-beat",
+        "q2-2026",
+        "spacex",
+        "starlink",
+        "ai-capex",
+        "capex-blowout",
+        "first-earnings"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$7.81B (+92% Y/Y from $4.06B) vs $6.93B est",
+        "GAAP EPS": "-$0.09 vs -$0.26 est",
+        "Adj EBITDA": "$3.5B (+191% Y/Y) vs $2.0B est",
+        "Net loss": "$541M (from $1.0B loss Y/Y)",
+        "Connectivity (Starlink)": "$4.291B (+66% Y/Y) vs $3.83B est",
+        "AI segment": "$2.561B (+247% Y/Y) vs $2.18B est",
+        "Space segment": "$962M (+29% Y/Y) vs $835M est",
+        "Capex": "$18.37B (vs ~$13B est)",
+        "Sequential revenue": "up from $4.7B in Q1 2026",
+        "Guide": "on pace for $100B annualized run-rate by year-end (CFO Bret Johnsen)",
+        "Move": "-~7% AH to $116.70 from $125.33 close"
+      },
+      "explainer": {
+        "tagline": "SpaceX's debut post-IPO quarter beats on revenue and EBITDA, but $18.4B in capex — well above the ~$13B expectation — sends shares down ~7% after hours.",
+        "whatIsIt": "SpaceX reported its first-ever quarterly results as a public company after the close Tuesday Aug 4 (the company IPO'd on Nasdaq under SPCX on June 12, 2026). Q2 2026 revenue of $7.81B (+92% Y/Y from $4.06B; up from $4.7B in Q1) beat the ~$6.93B consensus, GAAP loss per share came in at -$0.09 vs -$0.26 expected, and adjusted EBITDA of $3.5B blew past the $2.0B analyst view and was up 191% Y/Y. Net loss narrowed to $541M from $1.0B a year ago.",
+        "howItWorks": "All three reporting segments beat: Connectivity (Starlink) $4.291B (+66% Y/Y) vs $3.83B est, AI $2.561B (+247%) vs $2.18B est, and Space $962M (+29%) vs $835M est. On the call, CFO Bret Johnsen said the company is on pace to reach $100B in annualized recurring revenue by year-end and highlighted an additional $6.7B of contracted cloud-services revenue over a six-month period starting in October. The bear read: capital expenditures of $18.37B (vs analyst expectations of ~$13B) reignited the same 'AI-capex-return' worry that has weighed on Oracle, Alphabet and Meta.",
+        "whyItMatters": "The first-ever earnings print re-anchors the SPCX story around the AI segment (+247%) and Starlink monetization (+66%), rather than launch cadence. But the $18.4B capex line — roughly 40% above the Street — reset expectations on when SpaceX's AI compute investments earn a return, and shares fell as much as ~7% to $116.70 from a $125.33 regular-session close. Read-through to peers running the same 'spend now, monetize later' playbook (MSFT, META, GOOG, ORCL) and to SpaceX suppliers on the Anysphere/xAI stack.",
+        "forWho": "SPCX shareholders, AI-infra allocators, space + telecom analysts",
+        "tryIt": "https://finance.yahoo.com/quote/SPCX"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg/1280px-USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg",
+        "alt": "SpaceX Starbase launch site in Boca Chica, Texas",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CNBC Live Updates",
+          "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html"
+        },
+        {
+          "label": "Yahoo Finance Live Blog",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
+        },
+        {
+          "label": "Shacknews Recap",
+          "url": "https://www.shacknews.com/article/150244/spacex-spcx-q2-2026-earnings-results"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/spacex-earnings-revenue-q2-2026-080426"
+        },
+        {
+          "label": "SPCX Chart",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ],
+      "reddit": {
+        "title": "SpaceX (SPCX) first-ever earnings: Q2 revenue $7.81B (+92% Y/Y) beats, adj EBITDA $3.5B vs $2.0B est, AI segment +247% Y/Y — but $18.4B capex vs $13B est sends stock down ~7% AH to $116.70",
+        "body": "SpaceX reported its first-ever quarterly results as a public company after Tuesday Aug 4 close, and the stock fell as much as ~7% to $116.70 from a $125.33 regular-session finish. Here's what mattered:\n\n* Revenue $7.81B (+92% Y/Y from $4.06B) beats $6.93B est\n* GAAP EPS -$0.09 vs -$0.26 est; net loss narrows to $541M from $1.0B Y/Y\n* Adj EBITDA $3.5B (+191% Y/Y) vs $2.0B est\n* All three segments beat: Connectivity/Starlink $4.29B (+66%), AI $2.56B (+247%), Space $962M (+29%)\n* CFO Johnsen: on pace for $100B annualized run-rate by year-end + $6.7B of additional cloud contracts starting October\n\nWhy the stock sold off despite the beat:\n\n1. **Capex blew past estimates** — $18.37B vs ~$13B est reignited the 'AI-capex return' worry that already weighed on ORCL, MSFT, META, GOOG.\n2. **Stock had rallied into the print** — the setup was already elevated.\n3. **First earnings = elevated expectations** — the buy-side wanted a bigger blowout to justify the ~$1.75T IPO valuation.\n\nRead-through to hyperscaler capex names running the same 'spend now, monetize later' playbook.\n\nFull breakdown: [https://stock-tldr.xyz/releases/spcx-q2-2026-first-earnings-capex-aug-4](https://stock-tldr.xyz/releases/spcx-q2-2026-first-earnings-capex-aug-4)"
+      },
+      "publishDate": "2026-08-05T01:34:24.158Z"
+    },
     {
       "id": "on-q2-2026-earnings-ai-data-center-aug-3",
       "categories": [
@@ -201,7 +534,8 @@
         "Rule of 40": "155%",
         "Adj FCF": "$1.220B (63% margin)",
         "FY26 Rev Guide": "$8.150-$8.158B (82% Y/Y)",
-        "Move": "+11.99% AH to $140.72 from $125.65 close"
+        "Move (AH Aug 3)": "+11.99% to $140.72 from $125.65 close",
+        "Move (Aug 4 close)": "+29.45% to $162.66 — best single-day since Feb 2024"
       },
       "links": [
         {
