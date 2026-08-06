@@ -8933,6 +8933,68 @@
         "macro",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260806t013229z",
+      "timestamp": "2026-08-06T01:32:29.697Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 5 was earnings-heavy: Shopify blowout Q2 (+25%), Lilly Q2 (+48% revenue, guide raise) contrasted with Novo Nordisk's Aug 4 early print (-5%), Disney FQ3 (streaming profit doubles, buyback lifted to $9B+), Uber Q2 ($10B TTM FCF milestone, soft Q3 guide). Weak ADP July (+44K) and ISM Services employment (47.4 contraction) added a softening-labor macro echo.",
+      "counts": {
+        "added": 7,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "shop-q2-2026-earnings-monster-aug-5",
+          "title": "Shopify (SHOP) Q2 2026 — 'monster quarter' with revenue +34% to $3.58B, GMV +32% to $115.6B, FCF $654M (18% margin) and Q3 guide low-thirties revenue growth; stock +25% Wednesday Aug 5",
+          "category": "earnings",
+          "note": "Q2 beat with 30%+ growth across every top-line metric and Q3 low-thirties revenue guide well above ~26% Street; ~25% stock move."
+        },
+        {
+          "id": "lly-q2-2026-earnings-glp1-lead-aug-5",
+          "title": "Eli Lilly (LLY) Q2 2026 — revenue $23.0B (+48% Y/Y) crushes on Mounjaro $9.9B (+91%) and Zepbound $4.93B U.S. (+44%); adj EPS $8.38 tops $6.01 est; FY26 guide lifted to $85–87B; LLY +4%+ Wednesday Aug 5",
+          "category": "earnings",
+          "note": "Mega-cap pharma print: +48% revenue, +91% Mounjaro, guidance raised — widens GLP-1 gap over Novo."
+        },
+        {
+          "id": "dis-q3-fy2026-earnings-streaming-parks-aug-5",
+          "title": "Walt Disney (DIS) Q3 FY2026 — adj EPS $2.06 crushes $1.86 est on revenue $25.25B (+7% Y/Y); streaming op income doubles to ~$712M, Experiences +10% to $9.97B; buyback target raised to ≥$9B",
+          "category": "earnings",
+          "note": "Streaming operating income doubled to ~$712M; buyback target raised to ≥$9B."
+        },
+        {
+          "id": "uber-q2-2026-earnings-fcf-10b-aug-5",
+          "title": "Uber (UBER) Q2 2026 — revenue $14.19B (+12% Y/Y) roughly in-line, adj EPS $0.81 meets est; gross bookings $58B (+22% Y/Y, above high end of guide); TTM free cash flow tops $10B for first time; Q3 gross-bookings guide $58.25–60.25B seen light",
+          "category": "earnings",
+          "note": "First-ever quarter with TTM FCF >$10B; soft Q3 gross-bookings guide capped upside."
+        },
+        {
+          "id": "adp-july-2026-44k-jobs-miss-aug-5",
+          "title": "ADP July 2026 — private payrolls +44K vs +70K est, weakest of the year and roughly half of June's revised +95K; job-stayer pay +4.4% Y/Y, job-changer pay +7.0% Y/Y (fastest since Aug 2025)",
+          "category": "macro",
+          "note": "Weakest ADP private-payrolls print of 2026; +44K vs +70K est."
+        },
+        {
+          "id": "ism-services-july-2026-541-employment-contract-aug-5",
+          "title": "US ISM Services PMI July 2026 — 54.1% (vs 54.5% est), 25th straight month in expansion, but Employment index plunges to 47.4% (contraction) as Business Activity jumps +3.7pt to 59.1%",
+          "category": "macro",
+          "note": "Services activity resilient (59.1) but Employment sub-index drops to 47.4 (contraction), echoing weak ADP."
+        },
+        {
+          "id": "nvo-q2-2026-earnings-guide-raise-aug-4",
+          "title": "Novo Nordisk (NVO) Q2 2026 — reported a day early Tuesday Aug 4; sales +7% Y/Y with Ozempic DKK 31.375B (+3%) and Wegovy injectable DKK 19.484B (+1%); Wegovy pill DKK 3.218B and ~90% of U.S. oral obesity market; guidance raised but NVO -~5% as U.S. GLP-1 lead slips further to Lilly",
+          "category": "earnings",
+          "note": "Released a day early Aug 4; sales growth decelerated to 7%; stock -~5% as pair-trade with LLY widened."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
