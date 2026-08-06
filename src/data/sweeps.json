@@ -8995,6 +8995,57 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260806t134616z",
+      "timestamp": "2026-08-06T13:46:16.944Z",
+      "source": "github-actions-sweep",
+      "summary": "5 fresh items for Thu Aug 6, 2026: PTON's first-ever full-year profit is offset by weak FY27 guide (-13% open); DDOG posts record single-day drop (-17.3%) despite beat-and-raise; SPCX ~911.5M-share (~$116B) lockup partially expires; COP nearly doubles Y/Y earnings, doubles buybacks, and pivots into Iraq's Kirkuk + Syria; MCD beats EPS but US comps decelerate to +0.8% (softest in six quarters).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "pton-q4-fy26-earnings-first-annual-profit-aug-6",
+          "title": "Peloton (PTON) — first-ever full-year profit but FY27 guide -4% at midpoint; stock -13% Thursday Aug 6",
+          "category": "earnings",
+          "note": "First-ever GAAP annual profit for PTON, but FY27 revenue guide is -3.9% at midpoint; stock -13% at open — mover-worthy."
+        },
+        {
+          "id": "ddog-q2-2026-earnings-record-single-day-drop-aug-6",
+          "title": "Datadog (DDOG) -17.3% Thursday Aug 6 — record single-day drop despite Q2 beat and raised FY26 guide",
+          "category": "mover",
+          "note": "Beat-and-raise but DDOG on pace for record single-day drop (-17.3%) on valuation-first sell-the-news."
+        },
+        {
+          "id": "spcx-lockup-expiration-116b-aug-6",
+          "title": "SpaceX (SPCX) IPO lockup partially expires Thursday Aug 6 — ~911.5M shares (~$116B) freed to trade",
+          "category": "mover",
+          "note": "One of the largest lockup expirations in history — ~911.5M SpaceX insider shares (~$116B) become tradeable Aug 6."
+        },
+        {
+          "id": "cop-q2-2026-earnings-buyback-double-iraq-aug-6",
+          "title": "ConocoPhillips (COP) Q2 2026 — net income $3.9B (adj EPS $3.24 beats $2.96 est), doubles buybacks, adds Kirkuk JV + Syria re-entry",
+          "category": "earnings",
+          "note": "Cleanest Big Oil print of the season: $3.9B net income (2× Y/Y), $2.0B buybacks (doubled), Kirkuk JV + Syria re-entry."
+        },
+        {
+          "id": "mcd-q2-2026-earnings-us-comps-soft-aug-4",
+          "title": "McDonald's (MCD) Q2 2026 — adj EPS $3.38 beats but revenue $7.1B light; global comps +1.3% slows from +3.8% Y/Y",
+          "category": "earnings",
+          "note": "EPS beat but US comps +0.8% (softest in 6 quarters); Skye Anderson named USA president to fix domestic execution."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "insider",
+        "macro"
+      ]
     }
   ]
 }
