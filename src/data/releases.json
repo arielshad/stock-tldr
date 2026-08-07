@@ -1,8 +1,157 @@
 {
-  "generatedAt": "2026-08-07T02:13:09.008Z",
+  "generatedAt": "2026-08-07T12:44:19.710Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "net-q2-2026-earnings-ai-agents-half-traffic-aug-6",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cloudflare (NET) Q2 2026 — revenue $696.1M (+36% Y/Y) and non-GAAP EPS $0.29 beat; Q3 revenue guide $736–$737M and FY26 raised to $2.864–$2.870B; stock +14.9% AH Thursday Aug 6 as CEO Matthew Prince flags AI-agent traffic now over 50% of network",
+      "org": "Cloudflare",
+      "date": "2026-08-06",
+      "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-second-quarter-2026-financial-results/",
+      "summary": "NET Q2 2026: revenue $696.1M (+36% Y/Y) and non-GAAP EPS $0.29 (vs $0.27 est) beat; Q3 rev guide $736–$737M tops Street; FY26 raised to $2.864–$2.870B; stock +14.9% AH Aug 6.",
+      "tickers": [
+        "NET"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "cloud",
+        "cdn",
+        "cybersecurity",
+        "ai",
+        "ai-agents",
+        "q2-2026",
+        "guidance-raise",
+        "revenue-beat",
+        "eps-beat"
+      ],
+      "metrics": {
+        "Revenue": "$696.1M (+36% Y/Y)",
+        "Non-GAAP EPS": "$0.29 vs $0.27 est",
+        "GAAP EPS": "-$0.48",
+        "Non-GAAP gross margin": "73.1%",
+        "Large customers": "4,698 (+27% Y/Y)",
+        "Q3 revenue guide": "$736.0–$737.0M",
+        "FY26 revenue guide": "$2.864–$2.870B",
+        "Move": "+14.9% AH Thu Aug 6"
+      },
+      "explainer": {
+        "tagline": "Cloudflare tops Q2 estimates, lifts full-year outlook, and says AI-agent traffic has crossed half the network for the first time.",
+        "whatIsIt": "Cloudflare (NYSE: NET) reported second-quarter 2026 results after the close on Thursday August 6, beating on both the top and bottom line and raising full-year 2026 revenue guidance. The company operates a global edge network for CDN, security and Zero Trust products and increasingly for hosting AI inference and agent traffic. Shares jumped roughly 15% in after-hours trading on the print.",
+        "howItWorks": "Q2 revenue was $696.1 million, up 36% year-over-year, on non-GAAP earnings of $0.29 per share versus $0.27 consensus (GAAP was a loss of $0.48 per share). Non-GAAP gross margin held at 73.1%. Large customers (paying more than $100K annually) rose 27% year-over-year to 4,698. Management guided Q3 revenue to $736.0–$737.0 million and lifted the full-year 2026 range to $2.864–$2.870 billion, with FY26 non-GAAP EPS pegged at $1.25–$1.26. On the call, CEO Matthew Prince said automated traffic from AI agents has surpassed 50% of Cloudflare's network for the first time.",
+        "whyItMatters": "NET is the latest infrastructure name to show that hyperscaler AI capex is trickling down into edge and networking revenue rather than staying bottled up at the GPU layer. The 27% jump in $100K+ customers and the Q3 guide about 2% above the Street suggest enterprise workloads keep migrating to the platform. The stock had been near record highs into the print, so a beat-and-raise plus an AI-agents narrative gave bulls a fresh reason to press.",
+        "forWho": "software & networking equity investors, AI infrastructure watchers",
+        "tryIt": "https://finance.yahoo.com/quote/NET"
+      },
+      "image": {
+        "url": "https://cf-assets.www.cloudflare.com/dzlvafdwdttg/53qCYhQbir5WtIU0VDWESo/5b0a0e044a5352bc0f43e122815779c8/unnamed-3.png",
+        "alt": "Cloudflare Q2 2026 earnings announcement graphic",
+        "fit": "contain",
+        "credit": "Cloudflare"
+      },
+      "links": [
+        {
+          "label": "Cloudflare Press Release",
+          "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-second-quarter-2026-financial-results/"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/NET/cloudflare-announces-second-quarter-2026-financial-6hawe1aj0b2k.html"
+        },
+        {
+          "label": "Yahoo: Bullish Q2 Read",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-nyse-net-reports-bullish-202810450.html"
+        },
+        {
+          "label": "NET Quote",
+          "url": "https://finance.yahoo.com/quote/NET"
+        }
+      ],
+      "reddit": {
+        "title": "Cloudflare (NET) crushes Q2: revenue $696M (+36% Y/Y), raises FY26 guide, AI-agent traffic now over 50% of the network — stock +15% AH",
+        "body": "Cloudflare printed a clean beat-and-raise after the bell Thursday and shares popped roughly 15% AH.\n\n* Q2 revenue $696.1M, +36% Y/Y (est $665M)\n* Non-GAAP EPS $0.29 vs $0.27 est (GAAP was a $0.48/sh loss)\n* Non-GAAP gross margin 73.1%\n* $100K+ customers 4,698, +27% Y/Y\n* Q3 revenue guide $736.0–$737.0M — above the Street\n* FY26 revenue guide raised to $2.864–$2.870B\n\nTwo things stood out on the call:\n\n1. **AI-agent traffic tipping point** — CEO Matthew Prince said automated traffic from AI agents has crossed 50% of Cloudflare's network for the first time, framing NET as an edge layer for the agentic web.\n2. **Enterprise land grab is real** — record net-add of large ($100K+) customers and Q3 guide roughly 2% above consensus suggest workload migration is still accelerating despite a near-record stock coming into the print.\n\nNext catalysts: Q3 CY2026 report in early November; hyperscaler capex updates in September earnings previews.\n\nFull breakdown: [https://stock-tldr.xyz/releases/net-q2-2026-earnings-ai-agents-half-traffic-aug-6](https://stock-tldr.xyz/releases/net-q2-2026-earnings-ai-agents-half-traffic-aug-6)"
+      },
+      "publishDate": "2026-08-07T12:44:19.710Z"
+    },
+    {
+      "id": "team-q4-fy26-earnings-cloud-31pct-aug-6",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Atlassian (TEAM) Q4 FY26 — revenue $1.766B (+28% Y/Y) and non-GAAP EPS $1.87 crush est; Cloud revenue $1.213B (+31%), subscription ARR $6.61B (+23%); stock +~30% pre-market Fri Aug 7 as BofA upgrades to Buy, PT to $175 from $105",
+      "org": "Atlassian",
+      "date": "2026-08-06",
+      "url": "https://www.stocktitan.net/sec-filings/TEAM/8-k-atlassian-corp-reports-material-event-1b53d1a45da0.html",
+      "summary": "TEAM Q4 FY26: revenue $1.766B (+28% Y/Y) and non-GAAP EPS $1.87 (vs $1.48 est); Cloud rev $1.213B (+31%); subscription ARR $6.61B (+23%); stock +~30% pre-market Aug 7; BofA upgrades to Buy, PT $175.",
+      "tickers": [
+        "TEAM"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "software",
+        "cloud",
+        "collab",
+        "ai",
+        "q4-fy26",
+        "revenue-beat",
+        "eps-beat",
+        "analyst-upgrade"
+      ],
+      "metrics": {
+        "Q4 revenue": "$1,766M (+28% Y/Y)",
+        "Q4 Cloud revenue": "$1,213M (+31% Y/Y)",
+        "Q4 non-GAAP EPS": "$1.87 vs $1.48 est",
+        "Q4 GAAP EPS": "$0.55",
+        "Subscription ARR": "$6,606M (+23% Y/Y)",
+        "RPO": "$4,817M (+44% Y/Y)",
+        "FY26 revenue": "$6,572M (+26% Y/Y)",
+        "FY27 revenue growth guide": "~13% Y/Y",
+        "Move": "+~30% pre-market Fri Aug 7"
+      },
+      "explainer": {
+        "tagline": "Atlassian's Q4 lands well above consensus, Cloud growth reaccelerates to 31%, and Bank of America says the AI story is finally an asset.",
+        "whatIsIt": "Atlassian (NASDAQ: TEAM), the maker of Jira, Confluence and Bitbucket, reported its fiscal Q4 2026 (June-quarter) results after the close on Thursday August 6. The company beat consensus on revenue and non-GAAP EPS, called out record-setting large enterprise deal activity, and guided fiscal 2027 with a mid-teens headline growth rate that management said is masked by planned Data Center end-of-life dynamics.",
+        "howItWorks": "Q4 revenue was $1.766 billion, up 28% year-over-year, on non-GAAP diluted EPS of $1.87 (vs $1.48 consensus) and GAAP diluted EPS of $0.55. Cloud revenue rose 31% to $1.213 billion. Subscription ARR reached $6.606 billion, up 23% year-over-year, and remaining performance obligations (RPO) grew 44% to $4.817 billion. Full-year FY26 revenue was $6.572 billion, up 26%. FY27 guidance targets about 13% total revenue growth with roughly 25.5% Cloud growth and non-GAAP operating margin near 25%. Bank of America upgraded TEAM to Buy from Neutral with a $175 price target (up from $105), arguing Atlassian is now an 'AI beneficiary rather than an AI victim'.",
+        "whyItMatters": "TEAM had been in the software penalty box on fears that Copilot-style AI would eat into seat-based collaboration pricing. A Cloud reacceleration to +31%, record $1M+/$3M+/$5M+ ACV deal activity and a 44% RPO jump argue the opposite — enterprises are consolidating more, not fewer, workflows onto Atlassian's platform. The BofA upgrade and roughly 30% pre-market pop mark a sharp regime change in the analyst narrative for the stock.",
+        "forWho": "software equity investors, growth-stock traders",
+        "tryIt": "https://finance.yahoo.com/quote/TEAM"
+      },
+      "image": {
+        "url": "https://ts2.tech/wp-content/uploads/2026/08/atlassian-nasdaqteam-shares-jump-35-as-cloud-growth-offsets-data-center-drag-1.jpg",
+        "alt": "Atlassian Q4 FY26 earnings coverage graphic showing cloud growth",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Atlassian 8-K",
+          "url": "https://www.stocktitan.net/sec-filings/TEAM/8-k-atlassian-corp-reports-material-event-1b53d1a45da0.html"
+        },
+        {
+          "label": "Yahoo: FY26 Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-announces-fourth-quarter-fiscal-200500156.html"
+        },
+        {
+          "label": "Stocktwits: BofA Upgrade",
+          "url": "https://stocktwits.com/news-articles/markets/equity/team-stock-hits-7-month-high-bofa-upgrade-atlassian-ai-beneficiary/cZofc7wRJBV"
+        },
+        {
+          "label": "TEAM Quote",
+          "url": "https://finance.yahoo.com/quote/TEAM"
+        }
+      ],
+      "reddit": {
+        "title": "Atlassian (TEAM) blows out Q4: revenue $1.77B (+28% Y/Y), Cloud +31%, EPS $1.87 vs $1.48 est — stock +~30% pre-market, BofA lifts PT to $175",
+        "body": "Atlassian delivered one of the cleanest software prints of the season Thursday night and Friday's tape is showing it.\n\n* Q4 FY26 revenue $1.766B, +28% Y/Y\n* Cloud revenue $1.213B, +31% Y/Y (reaccelerated)\n* Non-GAAP EPS $1.87 vs $1.48 est; GAAP $0.55\n* Subscription ARR $6.606B, +23% Y/Y\n* RPO $4.817B, +44% Y/Y\n* FY26 total revenue $6.572B, +26% Y/Y\n\nWhy the tape ripped ~30% into the open:\n\n1. **Cloud reaccelerated to 31%** — the AI-cannibalization bear case ran into a wall as $1M+, $3M+ and $5M+ ACV deal cohorts all hit record quarters.\n2. **BofA upgrade + big PT jump** — moved TEAM to Buy from Neutral and lifted the price target to $175 from $105, calling Atlassian an 'AI beneficiary rather than an AI victim' with Teamwork Graph as a differentiated asset.\n3. **FY27 guide reads better than it prints** — headline ~13% total revenue growth is dragged by Data Center end-of-life; Cloud growth guided ~25.5% with non-GAAP operating margin ~25%.\n\nNext catalysts: FY27 Q1 report in late October; sell-side model updates over the next 48 hours.\n\nFull breakdown: [https://stock-tldr.xyz/releases/team-q4-fy26-earnings-cloud-31pct-aug-6](https://stock-tldr.xyz/releases/team-q4-fy26-earnings-cloud-31pct-aug-6)"
+      },
+      "publishDate": "2026-08-07T12:44:19.710Z"
+    },
     {
       "id": "app-q2-2026-earnings-miss-first-ever-aug-5",
       "categories": [

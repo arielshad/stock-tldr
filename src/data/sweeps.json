@@ -9089,6 +9089,41 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260807t124419z",
+      "timestamp": "2026-08-07T12:44:19.710Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Aug-6 after-close software prints added: Cloudflare (NET) beat-and-raise with AI-agents traffic call, stock +14.9% AH; and Atlassian (TEAM) Q4 FY26 crush with Cloud reacceleration to +31% and BofA upgrade, stock +~30% pre-market Aug 7. Cross-checked existing feed — no collision with the Aug 6 items already covered (ABNB, DDOG, TTD, PTON, COP, WDC, APP, SPCX lockup).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "net-q2-2026-earnings-ai-agents-half-traffic-aug-6",
+          "title": "Cloudflare (NET) Q2 2026 — revenue $696.1M (+36% Y/Y) and non-GAAP EPS $0.29 beat; Q3 revenue guide $736–$737M and FY26 raised to $2.864–$2.870B; stock +14.9% AH Thursday Aug 6 as CEO Matthew Prince flags AI-agent traffic now over 50% of network",
+          "category": "earnings",
+          "note": "Included: beat-and-raise with sharp +15% AH move and a fresh AI-agents narrative tied to hyperscaler capex diffusion."
+        },
+        {
+          "id": "team-q4-fy26-earnings-cloud-31pct-aug-6",
+          "title": "Atlassian (TEAM) Q4 FY26 — revenue $1.766B (+28% Y/Y) and non-GAAP EPS $1.87 crush est; Cloud revenue $1.213B (+31%), subscription ARR $6.61B (+23%); stock +~30% pre-market Fri Aug 7 as BofA upgrades to Buy, PT to $175 from $105",
+          "category": "earnings",
+          "note": "Included: Cloud growth reacceleration to +31%, +30% stock move pre-market Aug 7, and a Bank of America upgrade explicitly flipping the AI-victim thesis."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "analyst",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
