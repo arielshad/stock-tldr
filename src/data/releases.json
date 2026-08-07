@@ -1,8 +1,311 @@
 {
-  "generatedAt": "2026-08-06T13:46:16.944Z",
+  "generatedAt": "2026-08-07T02:13:09.008Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "app-q2-2026-earnings-miss-first-ever-aug-5",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AppLovin (APP) Q2 2026 — revenue $1.924B misses $1.95B est on soft gaming; Q3 guide $2.07B mid also light; stock -21% Thursday Aug 6 in first guide miss since IPO",
+      "org": "AppLovin",
+      "date": "2026-08-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000057/exhibit991-2q26earningspre.htm",
+      "summary": "AppLovin Q2 revenue $1.924B (+52.8% Y/Y) misses $1.95B est; adj EBITDA $1.614B (+58% Y/Y, 84% margin) below $1.64B est; Q3 revenue guide $2.07B midpoint under $2.08B est. APP -21% Aug 6 to $331.57.",
+      "tags": [
+        "earnings",
+        "revenue-miss",
+        "adtech",
+        "mobile-gaming",
+        "q2-2026",
+        "guide-miss",
+        "first-ever",
+        "post-ipo-milestone"
+      ],
+      "importance": "major",
+      "tickers": [
+        "APP"
+      ],
+      "metrics": {
+        "Revenue": "$1.924B (+52.8% Y/Y) vs $1.95B est",
+        "GAAP EPS": "$3.76 vs $3.75 est",
+        "Adj EBITDA": "$1.614B (+58% Y/Y, 84% margin) vs $1.64B est",
+        "Free cash flow": "$863.3M",
+        "Q3 revenue guide": "$2.07B midpoint vs $2.08B est",
+        "Q3 EBITDA guide": "$1.73B vs $1.75B est",
+        "Move": "-21% to $331.57 on Thursday Aug 6"
+      },
+      "links": [
+        {
+          "label": "AppLovin 8-K Q2 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000057/exhibit991-2q26earningspre.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/06/applovin-stock-q2-earnings-revenue.html"
+        },
+        {
+          "label": "Yahoo Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-nasdaq-app-misses-q2-203826929.html"
+        },
+        {
+          "label": "APP Ticker",
+          "url": "https://finance.yahoo.com/quote/APP/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AppLovin's Q2 revenue and Q3 guide both fall short of Street estimates in what Piper called its first guide miss since IPO; stock -21%.",
+        "whatIsIt": "AppLovin reported Q2 CY2026 revenue of $1.924B, up 52.8% Y/Y but $26M below the $1.95B consensus. GAAP EPS of $3.76 met expectations at $3.75, but adjusted EBITDA of $1.614B (84% margin) missed the $1.64B estimate.",
+        "howItWorks": "Revenue landed inside the company's own $1.925–1.955B May guide range but at the low end. Q3 revenue guide of $2.07B midpoint came in under $2.08B est, and adj EBITDA guide $1.73B vs $1.75B est. Free cash flow was $863.3M on operating cash flow of $869M. Management attributed the shortfall to slower-than-normal model improvements in the core gaming (AXON) segment, which drives most of ad-network growth.",
+        "whyItMatters": "First time APP has missed the midpoint of its own top-line and EBITDA guide since going public, per Piper Sandler. Stock closed -21% at $331.57 Thursday Aug 6, hitting a 52-week low of $341.42 intraday. AXON deceleration threatens the reflexive 'AI-driven ad-tech = buy' thesis that carried APP up ~5x off 2024 lows; e-commerce ads expansion (initially the big 2026 driver) now bears more weight to sustain growth.",
+        "forWho": "ad-tech traders, mobile-gaming exposure watchers",
+        "tryIt": "https://finance.yahoo.com/quote/APP/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108208436-1759780394802-gettyimages-2228237651-porzycki-siliconv250808_npMHf.jpeg?v=1769543610&w=1920&h=1080",
+        "alt": "AppLovin corporate logo on a smartphone screen",
+        "fit": "cover",
+        "credit": "CNBC / Getty"
+      },
+      "reddit": {
+        "title": "AppLovin -21% to $331.57 — Q2 revenue $1.924B misses $1.95B est and Q3 guide light; Piper flags first-ever guide miss since IPO",
+        "body": "APP just had its worst session since going public after Q2 CY2026 came in soft on both the print and the forward guide.\n\n* Revenue $1.924B (+52.8% Y/Y) vs $1.95B est — $26M miss at the low end of company's own $1.925–1.955B guide\n* Adj EBITDA $1.614B (+58% Y/Y, 84% margin) vs $1.64B est\n* GAAP EPS $3.76 vs $3.75 est (in line)\n* Free cash flow $863.3M on $869M operating cash\n* Q3 revenue guide $2.07B mid vs $2.08B est; Q3 adj EBITDA guide $1.73B vs $1.75B est\n* Stock -21% to $331.57 on Thursday Aug 6, 52-week low of $341.42 intraday\n\nWhy it cracked:\n\n1. **First guide miss since IPO** — Piper Sandler flagged this as the first time APP has missed its own midpoint on both revenue and adj EBITDA since going public.\n2. **AXON model deceleration** — management said gaming underperformed on 'slower-than-normal model improvement,' the exact engine that drove the 5x run off 2024 lows.\n3. **E-commerce ads has to carry more weight** — the 2026 ad-network growth story pivots harder onto non-gaming just as AI-ad-tech multiples de-rate.\n\nFull breakdown: [https://stock-tldr.xyz/releases/app-q2-2026-earnings-miss-first-ever-aug-5](https://stock-tldr.xyz/releases/app-q2-2026-earnings-miss-first-ever-aug-5)"
+      },
+      "publishDate": "2026-08-07T02:13:09.008Z"
+    },
+    {
+      "id": "ttd-q2-2026-earnings-guide-cut-aug-6",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Trade Desk (TTD) Q2 2026 — revenue $715M (+3% Y/Y) misses $752M est and Q3 guide 'at least $650M' implies -12% Y/Y; stock -22% AH Thursday Aug 6",
+      "org": "The Trade Desk",
+      "date": "2026-08-06",
+      "url": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "summary": "TTD Q2 revenue $715M grew only 3% Y/Y and missed $752M est; adj EPS $0.34 vs $0.40 est; adj EBITDA $241M below $271M Y/Y. Q3 guide 'at least $650M' vs $805M est implies -12% Y/Y. Stock -22% AH.",
+      "tags": [
+        "earnings",
+        "revenue-miss",
+        "guide-cut",
+        "adtech",
+        "programmatic",
+        "q2-2026",
+        "cfo-transition",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TTD",
+        "MGNI",
+        "PUBM"
+      ],
+      "metrics": {
+        "Revenue": "$715.1M (+3% Y/Y) vs $752M est",
+        "GAAP EPS": "$0.14 vs $0.18 Y/Y",
+        "Adj EPS": "$0.34 vs $0.40 est",
+        "Adj EBITDA": "$241M vs $271M Y/Y",
+        "Net income": "$64M vs $90M Y/Y",
+        "Q3 revenue guide": "at least $650M (~-12% Y/Y) vs $805M est",
+        "Q3 adj EBITDA guide": "~$160M",
+        "Move": "-6.8% intraday + -22% AH on Thursday Aug 6"
+      },
+      "links": [
+        {
+          "label": "TTD Q2 Press Release",
+          "url": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Reports-Second-Quarter-2026-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-trade-desk-plummets-after-hours-on-weak-q2-results/"
+        },
+        {
+          "label": "Benzinga Analysis",
+          "url": "https://www.benzinga.com/markets/earnings/26/08/61020011/the-trade-desk-stock-craters-on-q2-earnings-heres-why"
+        },
+        {
+          "label": "TTD Ticker",
+          "url": "https://finance.yahoo.com/quote/TTD/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Trade Desk's Q2 revenue growth slows to +3% Y/Y, EBITDA contracts, and Q3 guide implies a ~12% top-line decline — TTD craters 22% after hours.",
+        "whatIsIt": "The Trade Desk reported Q2 CY2026 revenue of $715.1M, up only 3% from $694M a year ago and $37M below the $752M consensus. Adjusted EPS of $0.34 missed the $0.40 estimate by 15%, and adj EBITDA of $241M fell from $271M Y/Y. GAAP net income dropped to $64M from $90M.",
+        "howItWorks": "Q3 revenue guidance of 'at least $650M' would mark the first ever Y/Y decline for the DSP leader — down ~12% from $736M in Q3 2025 — and lands about $155M below the $805M Wall Street modeled. Q3 adj EBITDA guide of ~$160M implies further margin compression from Q2's 34% level. New CFO Nate Olmstead, who took over July 9, told the call that visibility is 'somewhat more limited than it has been in recent history' and that guidance 'should really be considered credible' rather than conservative.",
+        "whyItMatters": "TTD is the largest independent buy-side ad platform in the 'open internet,' so a second consecutive guide-down (after May's Q2 floor of $750M) suggests share loss to walled gardens (Amazon DSP, Meta, Google) is accelerating, not stabilizing. SSP names Magnite (MGNI +18%) and PubMatic diverged sharply after hours as capital rotates within the ad-tech stack. Stock -6.8% during Thursday's session, then -22% AH puts TTD ~80% off its all-time high.",
+        "forWho": "ad-tech traders, digital-advertising desks",
+        "tryIt": "https://finance.yahoo.com/quote/TTD/"
+      },
+      "image": {
+        "url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/06/Kiev--Ukraine---February-1--2021-In-This.jpg",
+        "alt": "Trade Desk logo displayed on a smartphone screen",
+        "fit": "cover",
+        "credit": "Benzinga"
+      },
+      "reddit": {
+        "title": "Trade Desk (TTD) -22% AH — Q2 revenue growth slows to +3% Y/Y and Q3 guide implies first-ever revenue decline of ~12%",
+        "body": "TTD just delivered its worst quarter as a public company. Revenue growth crashed from >20% to +3%, and Q3 guide is worse.\n\n* Q2 revenue $715.1M (+3% Y/Y) vs $752M est — misses by $37M\n* Adj EPS $0.34 vs $0.40 est (15% miss)\n* Adj EBITDA $241M vs $271M Y/Y — first Y/Y contraction\n* GAAP EPS $0.14 vs $0.18 Y/Y; net income $64M vs $90M Y/Y\n* Q3 revenue guide 'at least $650M' — would be ~-12% Y/Y and $155M below Street's $805M\n* Q3 adj EBITDA guide ~$160M\n* Stock -6.8% intraday then -22% AH Thursday Aug 6\n\nWhy it broke:\n\n1. **Second consecutive guide-down** — TTD already reset May's Q2 floor from $750M+ down; now Q3 goes negative Y/Y.\n2. **Open-internet share loss to walled gardens** — Amazon DSP, Meta and Google appear to be taking programmatic budgets faster than the 'open web' can absorb.\n3. **New CFO admits visibility gone** — Nate Olmstead (in the chair since July 9) said visibility is 'somewhat more limited than it has been in recent history.'\n4. **SSP names ripped higher** — Magnite +17.7% intraday as capital rotates within ad-tech.\n\nTTD now sits ~80% off its all-time high.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ttd-q2-2026-earnings-guide-cut-aug-6](https://stock-tldr.xyz/releases/ttd-q2-2026-earnings-guide-cut-aug-6)"
+      },
+      "publishDate": "2026-08-07T02:13:09.008Z"
+    },
+    {
+      "id": "wdc-q4-fy26-earnings-beat-stock-fall-aug-5",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Western Digital (WDC) Q4 FY26 — revenue $3.75B (+44% Y/Y) and non-GAAP EPS $3.56 beat, Q1 FY27 guide +42–49% Y/Y; but stock -13% Thursday Aug 6 in worst drop since March 2020 as AI-storage rally unwinds",
+      "org": "Western Digital",
+      "date": "2026-08-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000106040/000162828026053305/a4ex991-pressreleaseq426.htm",
+      "summary": "WDC Q4 FY26 revenue $3.75B (+44% Y/Y) beat $3.70B est, non-GAAP EPS $3.56 beat $3.31; cloud 89% of mix. Q1 FY27 guide revenue +42–49% Y/Y. Stock -13% Aug 6 after 219% YTD run; SNDK and STX also fell.",
+      "tags": [
+        "earnings",
+        "beat",
+        "hdd",
+        "cloud-storage",
+        "ai-capex",
+        "q4-fy26",
+        "sell-the-news",
+        "storage"
+      ],
+      "importance": "major",
+      "tickers": [
+        "WDC",
+        "STX",
+        "SNDK"
+      ],
+      "metrics": {
+        "Revenue": "$3.75B (+44% Y/Y) vs $3.70B est",
+        "Non-GAAP EPS": "$3.56 vs $3.31 est",
+        "GAAP EPS": "$8.21",
+        "Non-GAAP gross margin": "54.4%",
+        "GAAP gross margin": "54.1%",
+        "Cloud revenue": "$3.3B (89% of total, +43% Y/Y)",
+        "Operating cash flow": "$1.39B",
+        "Free cash flow": "$1.28B",
+        "FY26 revenue": "$12.9B (+36% Y/Y)",
+        "FY26 free cash flow": "$3.5B",
+        "Q1 FY27 revenue guide": "+42–49% Y/Y (~$4B+)",
+        "Q1 FY27 EPS guide": "$3.85–$4.15",
+        "Move": "-13.4% Thursday Aug 6 from $519.17"
+      },
+      "links": [
+        {
+          "label": "WDC 8-K Q4 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000106040/000162828026053305/a4ex991-pressreleaseq426.htm"
+        },
+        {
+          "label": "Benzinga: Worst Since 2020",
+          "url": "https://www.benzinga.com/trading-ideas/technicals/26/08/60998025/western-digital-wdc-stock-worst-drop-since-march-2020-earnings-sandisk"
+        },
+        {
+          "label": "Motley Fool Analysis",
+          "url": "https://www.fool.com/investing/2026/08/06/why-did-western-digital-stock-crash-after-earnings/"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-q4-earnings-beat-141500049.html"
+        },
+        {
+          "label": "WDC Ticker",
+          "url": "https://finance.yahoo.com/quote/WDC/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Western Digital's Q4 blew past estimates and Q1 guide implies $4B+ revenue, but WDC still dropped 13% — its worst session since March 2020.",
+        "whatIsIt": "WDC reported fiscal Q4 2026 revenue of $3.75B, up 44% Y/Y and $50M above the $3.70B consensus. Non-GAAP EPS of $3.56 topped the $3.31 estimate. Cloud revenue was $3.3B, 89% of total and up 43% Y/Y as hyperscalers front-loaded high-capacity HDD orders for AI training data.",
+        "howItWorks": "Non-GAAP gross margin expanded to 54.4% (from ~45% Y/Y). Q1 FY27 guidance calls for revenue up 42–49% Y/Y — implying roughly $4.0–4.15B — and non-GAAP EPS of $3.85–$4.15, above Street's ~$3.75. Free cash flow was $1.28B for the quarter and $3.5B for the full fiscal year on $12.9B in revenue (+36%).",
+        "whyItMatters": "WDC entered the print +219% YTD and +620% over 12 months on the AI-storage thesis, so the market read decelerating sequential margin/revenue growth as sell-the-news. Peers Sandisk (SNDK) and Seagate (STX) also fell in sympathy as the AI-memory/storage trade unwound. It is the largest single-day WDC drop since the March 2020 COVID crash, per Benzinga.",
+        "forWho": "semis-adjacent traders, AI-capex trackers, HDD/NAND desks",
+        "tryIt": "https://finance.yahoo.com/quote/WDC/"
+      },
+      "image": {
+        "url": "https://www.westerndigital.com/content/dam/store/en-us/portal-assets/logos/WesternDigital-Open-Graph-Logo-1600x627-Clear-Spaced.png",
+        "alt": "Western Digital company logo",
+        "fit": "contain",
+        "credit": "Western Digital"
+      },
+      "reddit": {
+        "title": "Western Digital (WDC) beats big — Q4 revenue $3.75B (+44% Y/Y), Q1 guide implies $4B+ — and still drops 13%, worst day since March 2020",
+        "body": "Textbook sell-the-news in AI storage. WDC crushed the print on nearly every line, guided higher, and got pancaked anyway.\n\n* Q4 FY26 revenue $3.75B (+44% Y/Y) vs $3.70B est\n* Non-GAAP EPS $3.56 vs $3.31 est; GAAP EPS $8.21\n* Non-GAAP gross margin 54.4% (from ~45% Y/Y)\n* Cloud revenue $3.3B — 89% of total, +43% Y/Y on hyperscaler HDD buys\n* FY26 revenue $12.9B (+36%); FY26 free cash flow $3.5B\n* Q1 FY27 revenue guide +42–49% Y/Y (~$4.0–4.15B); EPS guide $3.85–$4.15 (above Street's ~$3.75)\n* Stock -13.4% Aug 6 from $519.17 — largest one-day drop since March 2020\n\nWhat cracked:\n\n1. **Entered print +219% YTD, +620% over 12 months** — the AI-storage rally was priced for perfection.\n2. **Sequential deceleration read the wrong way** — Street heard smaller Q/Q margin/revenue expansion and de-rated the multiple.\n3. **SNDK and STX fell in sympathy** — full AI-memory/storage complex unwound as a group.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wdc-q4-fy26-earnings-beat-stock-fall-aug-5](https://stock-tldr.xyz/releases/wdc-q4-fy26-earnings-beat-stock-fall-aug-5)"
+      },
+      "publishDate": "2026-08-07T02:13:09.008Z"
+    },
+    {
+      "id": "abnb-q2-2026-earnings-beat-guide-raise-aug-6",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Airbnb (ABNB) Q2 2026 — revenue $3.6B (+17% Y/Y) and EPS $1.37 beat; nights and experiences booked +10% Y/Y (+14M); Q3 guide $4.69–4.77B tops $4.61B est; stock +9% AH Thursday Aug 6",
+      "org": "Airbnb",
+      "date": "2026-08-06",
+      "url": "https://news.airbnb.com/airbnb-q2-2026-financial-results/",
+      "summary": "ABNB Q2 revenue $3.6B (+17% Y/Y) beat $3.58B est and EPS $1.37 crushed $1.25; net income $816M and adj EBITDA $1.3B at 35% margin. Q3 guide $4.69–4.77B tops $4.61B est. Stock +9% AH to $163.60.",
+      "tags": [
+        "earnings",
+        "beat",
+        "travel",
+        "consumer-discretionary",
+        "q2-2026",
+        "guide-raise",
+        "nights-booked",
+        "experiences"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ABNB"
+      ],
+      "metrics": {
+        "Revenue": "$3.6B (+17% Y/Y) vs $3.58B est",
+        "GAAP EPS": "$1.37 vs $1.25 est (+9.5% beat)",
+        "Net income": "$816M",
+        "Adj EBITDA": "$1.3B (+21% Y/Y, 35% margin)",
+        "Nights and experiences booked": "+10.4% Y/Y (+14M nights)",
+        "Q3 revenue guide": "$4.69–4.77B vs $4.61B est",
+        "Move": "+9% AH to $163.60 on Thursday Aug 6"
+      },
+      "links": [
+        {
+          "label": "Airbnb Q2 Newsroom",
+          "url": "https://news.airbnb.com/airbnb-q2-2026-financial-results/"
+        },
+        {
+          "label": "Airbnb IR Release",
+          "url": "https://investors.airbnb.com/press-releases/news-details/2026/Airbnb-Announces-Second-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/ABNB/airbnb-announces-second-quarter-2026-236qugsa79yg.html"
+        },
+        {
+          "label": "ABNB Ticker",
+          "url": "https://finance.yahoo.com/quote/ABNB/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Airbnb beats top and bottom, adds 14M nights (+10% Y/Y), raises Q3 guide $80M above Street — ABNB +9% AH.",
+        "whatIsIt": "Airbnb reported Q2 CY2026 revenue of $3.6B, +17% Y/Y and $20M above the $3.58B consensus. GAAP EPS of $1.37 crushed the $1.25 estimate by 9.5%, and net income was $816M. Nights and experiences booked grew 10.4% Y/Y — 14M more than Q2 2025 — accelerating from Q1 2026.",
+        "howItWorks": "Adjusted EBITDA of $1.3B was +21% Y/Y and expanded margin to 35%. Q3 revenue guide of $4.69–4.77B lands ~$80M above the $4.61B Street estimate. Airbnb also raised its full-year outlook for both revenue growth and adj EBITDA margin, citing benefits from investments in the Icons and Experiences reboot alongside price-transparency changes.",
+        "whyItMatters": "The travel-cycle wobble that hit Booking and Expedia earlier this quarter (Middle East / dollar headwind) didn't translate to ABNB, which posted its fastest bookings growth in five quarters. Beat + guide-raise combo pushed the stock +9% AH to $163.60 with volume 1.7x average. This is the second consecutive quarter of accelerating nights growth, which is the metric that had been consistently missing for the last two years.",
+        "forWho": "consumer discretionary traders, travel-industry watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ABNB/"
+      },
+      "image": {
+        "url": "https://news.airbnb.com/wp-content/uploads/sites/4/2026/08/Q2_2026_Shareholderletter_Newsroom_3000x2000_1.5x.png?resize=2400,1260",
+        "alt": "Airbnb Q2 2026 Shareholder Letter cover",
+        "fit": "cover",
+        "credit": "Airbnb"
+      },
+      "reddit": {
+        "title": "Airbnb (ABNB) +9% AH — Q2 revenue $3.6B (+17% Y/Y) beats, EPS $1.37 crushes $1.25 est, nights booked +10% Y/Y accelerating; Q3 guide $80M above Street",
+        "body": "Best Airbnb quarter in a while. Both lines beat, nights growth actually re-accelerated, and management raised the full-year framework.\n\n* Q2 revenue $3.6B (+17% Y/Y) vs $3.58B est\n* GAAP EPS $1.37 vs $1.25 est (+9.5% beat); net income $816M\n* Adj EBITDA $1.3B (+21% Y/Y) at 35% margin\n* Nights and experiences booked +10.4% Y/Y — 14M more nights than Q2 2025\n* Q3 revenue guide $4.69–4.77B vs $4.61B est (~$80M above)\n* Full-year revenue-growth and adj-EBITDA-margin outlook raised\n* Stock +9% AH to $163.60 with volume 1.7x average\n\nWhy it moved:\n\n1. **Second straight quarter of accelerating bookings** — the exact metric that had been missing for two years.\n2. **Travel-cycle scare didn't stick** — Middle East / dollar drag that hit BKNG and EXPE earlier didn't translate to ABNB.\n3. **Icons + Experiences reboot showing up** — management flagged early ROI from the platform expansion and price-transparency changes.\n\nFull breakdown: [https://stock-tldr.xyz/releases/abnb-q2-2026-earnings-beat-guide-raise-aug-6](https://stock-tldr.xyz/releases/abnb-q2-2026-earnings-beat-guide-raise-aug-6)"
+      },
+      "publishDate": "2026-08-07T02:13:09.008Z"
+    },
     {
       "id": "pton-q4-fy26-earnings-first-annual-profit-aug-6",
       "categories": [

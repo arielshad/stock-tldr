@@ -9046,6 +9046,49 @@
         "insider",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260807t021309z",
+      "timestamp": "2026-08-07T02:13:09.008Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 6 was earnings-driven: three high-profile ad/tech names printed misses or sell-the-news (APP -21%, TTD -22% AH, WDC -13%) while ABNB beat and guided higher (+9% AH). No FOMC/CPI action this window; the market's tape was driven by these single-name catalysts.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "app-q2-2026-earnings-miss-first-ever-aug-5",
+          "title": "AppLovin (APP) Q2 2026 — revenue $1.924B misses $1.95B est on soft gaming; Q3 guide $2.07B mid also light; stock -21% Thursday Aug 6 in first guide miss since IPO",
+          "category": "earnings",
+          "note": "APP -21% on Q2 revenue miss + Q3 guide light — Piper flagged first guide miss since IPO. Mega-cap ad-tech mover with sector implications."
+        },
+        {
+          "id": "ttd-q2-2026-earnings-guide-cut-aug-6",
+          "title": "Trade Desk (TTD) Q2 2026 — revenue $715M (+3% Y/Y) misses $752M est and Q3 guide 'at least $650M' implies -12% Y/Y; stock -22% AH Thursday Aug 6",
+          "category": "earnings",
+          "note": "TTD -22% AH on Q2 miss + Q3 guide implying first-ever Y/Y revenue decline. Major open-internet DSP loses share to walled gardens."
+        },
+        {
+          "id": "wdc-q4-fy26-earnings-beat-stock-fall-aug-5",
+          "title": "Western Digital (WDC) Q4 FY26 — revenue $3.75B (+44% Y/Y) and non-GAAP EPS $3.56 beat, Q1 FY27 guide +42–49% Y/Y; but stock -13% Thursday Aug 6 in worst drop since March 2020 as AI-storage rally unwinds",
+          "category": "earnings",
+          "note": "WDC -13% despite beating on every line and guiding up — worst session since March 2020. Sell-the-news in AI storage after +219% YTD run; SNDK/STX also fell."
+        },
+        {
+          "id": "abnb-q2-2026-earnings-beat-guide-raise-aug-6",
+          "title": "Airbnb (ABNB) Q2 2026 — revenue $3.6B (+17% Y/Y) and EPS $1.37 beat; nights and experiences booked +10% Y/Y (+14M); Q3 guide $4.69–4.77B tops $4.61B est; stock +9% AH Thursday Aug 6",
+          "category": "earnings",
+          "note": "ABNB +9% AH on beat + guide raise; nights growth reaccelerates for second straight quarter."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
