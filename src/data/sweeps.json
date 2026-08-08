@@ -9162,6 +9162,33 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260808t122936z",
+      "timestamp": "2026-08-08T12:29:36.173Z",
+      "source": "github-actions-sweep",
+      "summary": "Added Berkshire Hathaway Q2 2026 earnings — released Saturday Aug 8. Operating earnings +16.3% Y/Y to $12.98B and Q2 buybacks of $4.5B (vs $300M in Q1) mark Greg Abel's clearest capital-allocation shift since taking over from Buffett. All other Aug 7 movers (TTWO, VST, TEAM, NET, ABNB, jobs report) already in the feed; SPCX Aug 7 Argus upgrade skipped to avoid piling onto existing SPCX Q2/lockup items.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brk-q2-2026-earnings-buyback-surge-aug-8",
+          "title": "Berkshire Hathaway (BRK.B) Q2 2026 — operating earnings $12.98B (+16.3% Y/Y) and $4.5B in Q2 buybacks (vs ~$300M in Q1) mark Greg Abel's clearest capital-allocation pivot; insurance float grows to $177.5B",
+          "category": "earnings",
+          "note": "Berkshire Q2 press release posted Saturday 7am CT — the $4.5B Q2 buyback is 15x Q1's pace and the largest single-quarter repurchase since 2021, a clear Abel-era capital-allocation signal. Data verified against the primary-source PDF press release (aug0826.pdf)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "insider",
+        "macro",
+        "mover"
+      ]
     }
   ]
 }
