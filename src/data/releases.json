@@ -1,8 +1,247 @@
 {
-  "generatedAt": "2026-08-07T12:44:19.710Z",
+  "generatedAt": "2026-08-08T00:54:58.932Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-jobs-july-2026-aug-7",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. July 2026 jobs report — nonfarm payrolls -23K (first monthly loss since 2020) vs +80K est; May and June combined revised DOWN 103K; unemployment 4.1% only because participation slipped; S&P 500 to record 7,757.64 as September Fed hike odds slide 57% → 44%",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-08-07",
+      "url": "https://www.bls.gov/news.release/archives/empsit_08072026.htm",
+      "summary": "BLS July NFP -23K vs +80K est — the first monthly decline since December 2020. Prior two months revised -103K combined; unemployment 4.1% (-0.1pp) as participation drops; wages +3.2% Y/Y (lowest since May 2021). S&P +0.62% record close 7,757.64, 10Y -6bp to ~4.62%.",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "^DJI",
+        "^IXIC"
+      ],
+      "importance": "seismic",
+      "tags": [
+        "jobs-report",
+        "nonfarm-payrolls",
+        "employment",
+        "unemployment",
+        "labor-market",
+        "wage-growth",
+        "july-2026",
+        "downward-revisions",
+        "fomc",
+        "warsh",
+        "rate-cut-repricing",
+        "s&p-500-record"
+      ],
+      "metrics": {
+        "Nonfarm payrolls (July)": "-23K vs +80K est",
+        "May revision": "+63K (from +129K; -66K)",
+        "June revision": "+20K (from +57K; -37K)",
+        "Combined May+June revision": "-103K",
+        "Unemployment rate": "4.1% (from 4.2%)",
+        "Avg hourly earnings Y/Y": "+3.2% (lowest since May 2021)",
+        "Local government education": "-50K",
+        "Leisure & hospitality": "-40K",
+        "Retail trade": "-19K",
+        "Financial activities": "-14K",
+        "Healthcare": "+22K",
+        "Professional & business services": "+18K",
+        "S&P 500 close": "7,757.64 (+0.62%, record)",
+        "Nasdaq Composite close": "26,690.62 (+1.30%)",
+        "Dow Jones close": "54,036.93 (+0.28%)",
+        "S&P weekly": "+3.5%",
+        "Nasdaq weekly": "+5.0%",
+        "10Y Treasury": "~4.62% (-6bp)",
+        "Sept Fed hike odds": "43.9% (from 57% pre-print)"
+      },
+      "explainer": {
+        "tagline": "BLS July jobs prints the first negative payrolls month since 2020, with combined May+June revisions of -103K — S&P sets a fresh record and the market yanks September Fed-hike odds sharply lower.",
+        "whatIsIt": "The Bureau of Labor Statistics' July 2026 Employment Situation, released 8:30 a.m. ET Friday August 7, showed nonfarm payrolls declined by 23,000 versus the Dow Jones +80K consensus — the first monthly loss since December 2020. The unemployment rate ticked down to 4.1% from 4.2%, but for the 'wrong' reason: labor force participation slipped as workers left the job market. Prior two months lost a combined 103K in revisions.",
+        "howItWorks": "May was revised to +63K (from +129K) and June to +20K (from +57K). Losses were led by local government education (-50K), leisure & hospitality (-40K), retail trade (-19K) and financial activities (-14K); healthcare (+22K) and professional & business services (+18K) contributed the meaningful gains. Average hourly earnings rose 3.2% year-over-year — the softest wage pace since May 2021. Reaction was immediate: the 10-year Treasury yield fell about 6 basis points to roughly 4.62%, the S&P 500 closed at a fresh record 7,757.64 (+0.62%), the Nasdaq Composite gained 1.30% to 26,690.62, and the Dow added 0.28% to 54,036.93. For the week the S&P rose ~3.5% and the Nasdaq ~5.0%, the best week since April. Rate-futures markets cut the probability of a September Fed hike to 43.9% from 57% just before the release; a hold now prices at 60.4%.",
+        "whyItMatters": "This is the cleanest labor-side data point yet against Chair Warsh's hawkish tilt. The Fed has been dissenting toward hikes to slow sticky services inflation, but a negative payrolls print with 103K of downward revisions puts the labor-market pillar of that case under stress. Front-end rates and rate-sensitive equities (regional banks, homebuilders, small caps) rallied on the shape of the print. Next week's CPI (August 13) is now the swing variable — a firm print keeps hikes on the table; a cool print flips the base case toward cuts, which Citi already forecasts for October.",
+        "forWho": "macro traders, front-end rates desks, Fed-watchers",
+        "tryIt": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "Bureau of Labor Statistics emblem — July 2026 Employment Situation report",
+        "fit": "contain",
+        "credit": "U.S. Bureau of Labor Statistics"
+      },
+      "links": [
+        {
+          "label": "BLS Release",
+          "url": "https://www.bls.gov/news.release/archives/empsit_08072026.htm"
+        },
+        {
+          "label": "Full PDF",
+          "url": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+        },
+        {
+          "label": "Yahoo Live Blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+        },
+        {
+          "label": "Rate Cut Repricing",
+          "url": "https://finance.yahoo.com/economy/policy/articles/us-rate-futures-cut-chances-124656547.html"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "July NFP -23K vs +80K est — FIRST negative payrolls print since 2020, May+June revised DOWN 103K; S&P closes at record as Sept Fed hike odds crater 57% → 44%",
+        "body": "BLS just dropped the July jobs report at 8:30 AM ET Friday, and it's ugly enough to reshape the Fed path.\n\n* Nonfarm payrolls **-23K** vs +80K est — first monthly loss since December 2020\n* May revised to **+63K** (from +129K), June revised to **+20K** (from +57K) — combined **-103K**\n* Unemployment **4.1%** (from 4.2%) — but only because participation dropped\n* Average hourly earnings **+3.2% Y/Y** — softest wage print since May 2021\n* Local government education -50K, leisure & hospitality -40K, retail -19K, financial -14K\n* Healthcare +22K and prof/business services +18K provided what little support there was\n\nMarket reaction was immediate:\n\n1. **10Y yield -6bp to ~4.62%** — front-end rates rallied hard\n2. **S&P 500 to record 7,757.64 (+0.62%)** — Nasdaq +1.30% to 26,690.62, Dow +0.28% to 54,036.93\n3. **Weekly: S&P +3.5%, Nasdaq +5.0%** — best week since April\n4. **Sept Fed hike odds 57% → 43.9%** per rate futures; a hold now sits at 60.4%\n\nThis is the cleanest labor-side print yet against Warsh's hawkish FOMC. The dissenters have been arguing for hikes on sticky services inflation — a negative payrolls month with 103K of downward revisions makes that a lot harder.\n\nNext catalysts: CPI on Aug 13, then Warsh at Jackson Hole later this month. Citi already has the next move as an October cut.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-jobs-july-2026-aug-7](https://stock-tldr.xyz/releases/us-jobs-july-2026-aug-7)"
+      },
+      "publishDate": "2026-08-08T00:54:58.932Z"
+    },
+    {
+      "id": "ttwo-q1-fy27-earnings-gta-vi-unprecedented-aug-7",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Take-Two (TTWO) Q1 FY27 — net bookings $1.39B tops $1.32–$1.37B guide, FY27 net bookings guide reiterated at $8.0–$8.2B; CEO Zelnick calls GTA VI pre-orders 'unprecedented' with November 19 launch on track; stock +4.2% Friday Aug 7",
+      "org": "Take-Two Interactive",
+      "date": "2026-08-07",
+      "url": "https://ir.take2games.com/static-files/4f630313-26c4-4e73-a556-a2db39514449",
+      "summary": "TTWO Q1 FY27 net bookings $1.39B beat $1.32–$1.37B guide; GAAP revenue $1.5B (+2% Y/Y), GAAP net loss $34M (includes $43M impairment). FY27 net bookings guide reiterated $8.0–$8.2B; Zelnick calls GTA VI pre-orders 'unprecedented'; TTWO +4.2% Friday.",
+      "tickers": [
+        "TTWO"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "video-games",
+        "q1-fy27",
+        "guidance-reiterated",
+        "gta6",
+        "recurrent-consumer-spending",
+        "pre-orders",
+        "mover"
+      ],
+      "metrics": {
+        "Net bookings": "$1.39B (vs $1.32–$1.37B guide)",
+        "GAAP revenue": "$1.5B (+2% Y/Y)",
+        "GAAP net loss": "$34.1M (incl. $43.4M impairment)",
+        "Recurrent consumer spending": "84% of net bookings (-1% Y/Y vs -3% guide)",
+        "NBA 2K RCS": "+7% Y/Y",
+        "Grand Theft Auto RCS": "+3% Y/Y",
+        "FY27 net bookings guide": "$8.0–$8.2B (unchanged, ~+20% at midpoint)",
+        "GTA VI launch": "November 19, 2026 (on track)",
+        "GTA VI price": "$79.99 (PS5 / Xbox Series X|S)",
+        "Move": "+4.2% Fri Aug 7"
+      },
+      "explainer": {
+        "tagline": "Take-Two beats the Q1 bookings guide, reiterates its $8.0–$8.2B FY27 outlook and Chairman Zelnick calls GTA VI pre-orders 'unprecedented' — stock +4.2%.",
+        "whatIsIt": "Take-Two Interactive reported first-quarter fiscal 2027 results (three months ended June 30, 2026) before the open on Friday August 7, topping its own bookings guide and — critically — leaving its FY27 outlook and the November 19 launch of Grand Theft Auto VI untouched. Shares rose about 4.2% during Friday trading as management characterized pre-orders as running above any prior title.",
+        "howItWorks": "Q1 net bookings of $1.39B cleared the $1.32–$1.37B guide range; GAAP revenue was $1.5B (+2% Y/Y). GAAP net loss came in at $34.1M, wider than prior year, and included a $43.4M impairment charge tied to an unannounced third-party title. Recurrent consumer spending was 84% of net bookings and declined only 1% vs the guided -3%, led by NBA 2K RCS +7% and Grand Theft Auto RCS +3%. FY27 net bookings guidance was reiterated at $8.0–$8.2B (implying ~20% growth at the midpoint) and the company expects to reach a net-cash position by year-end. On the call, Chairman and CEO Strauss Zelnick said GTA VI pre-orders are 'at levels no one's ever seen before at Take-Two or in the industry.' The title is priced at $79.99 on PS5 and Xbox Series X|S for a Nov 19 release.",
+        "whyItMatters": "GTA VI is the single biggest catalyst on the consumer-software calendar and TTWO's FY27 shape depends almost entirely on its launch window. A reiterated $8.0–$8.2B guide with 'unprecedented' pre-order commentary is the cleanest confirmation the Street was going to get three months out — and enough to send the stock ~4% higher on Friday. With Q2 CPI risk ahead of Wednesday's print and a soft jobs backdrop, TTWO's re-rating trades independently of macro so long as the GTA VI window holds.",
+        "forWho": "consumer-software sell-side, video-game tape watchers, GTA VI launch-window traders",
+        "tryIt": "https://finance.yahoo.com/quote/TTWO"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Take-Two_Interactive_Logo.svg/1280px-Take-Two_Interactive_Logo.svg.png",
+        "alt": "Take-Two Interactive logo",
+        "fit": "contain",
+        "credit": "Take-Two Interactive / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "IR Press Release",
+          "url": "https://ir.take2games.com/static-files/4f630313-26c4-4e73-a556-a2db39514449"
+        },
+        {
+          "label": "IR Quarterly Earnings",
+          "url": "https://www.take2games.com/ir/quarterly-earnings"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/two-stock-rises-4-2-164437477.html"
+        },
+        {
+          "label": "TTWO Quote",
+          "url": "https://finance.yahoo.com/quote/TTWO"
+        }
+      ],
+      "reddit": {
+        "title": "TTWO Q1 FY27 beats bookings guide at $1.39B, reiterates $8.0–$8.2B FY27 outlook; Zelnick calls GTA VI pre-orders 'unprecedented' — stock +4.2%",
+        "body": "Take-Two dropped Q1 FY27 before the bell Friday Aug 7 and kept everything about the November 19 GTA VI launch intact.\n\n* Net bookings **$1.39B** vs guide $1.32–$1.37B\n* GAAP revenue $1.5B (+2% Y/Y), GAAP net loss $34.1M (includes $43.4M third-party title impairment)\n* Recurrent consumer spending 84% of net bookings, only -1% Y/Y vs -3% guide\n* NBA 2K RCS **+7% Y/Y**, GTA RCS **+3% Y/Y**\n* FY27 net bookings guide **reiterated $8.0–$8.2B** (~+20% at midpoint)\n* Expects net-cash position by year-end — dry powder for M&A\n\nThe key on the call:\n\n1. **GTA VI on track for November 19** — no schedule change\n2. **Zelnick on pre-orders: 'unprecedented'** — 'levels no one's ever seen before at Take-Two or in the industry'\n3. **Priced $79.99 on PS5 / Xbox Series X|S** — pre-order campaign kicked off June 25\n\nStock **+4.2%** Friday. The reiterated guide plus the pre-order color is the cleanest signal the Street was going to get three months out.\n\nNext catalysts: GTA VI Nov 19 launch, Q2 FY27 print in early November, holiday console sell-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ttwo-q1-fy27-earnings-gta-vi-unprecedented-aug-7](https://stock-tldr.xyz/releases/ttwo-q1-fy27-earnings-gta-vi-unprecedented-aug-7)"
+      },
+      "publishDate": "2026-08-08T00:54:58.932Z"
+    },
+    {
+      "id": "vst-q2-2026-earnings-helix-commit-aug-7",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Vistra (VST) Q2 2026 — revenue $4.02B misses $5.46B est but adj. EBITDA $1.77B beats and rises 30% Y/Y; FY26 adj. EBITDA guide affirmed at $6.8–$7.6B; commits up to $1.0B to Helix Digital Infrastructure JV with KKR/KIA/NVIDIA",
+      "org": "Vistra",
+      "date": "2026-08-07",
+      "url": "https://www.prnewswire.com/news-releases/vistra-reports-second-quarter-2026-results-302845874.html",
+      "summary": "VST Q2 2026 revenue $4.017B misses $5.46B est and net income $305M misses $556M est, but ongoing operations adj. EBITDA $1.767B (+30% Y/Y) tops $1.64B est. FY26 EBITDA guide affirmed $6.8–$7.6B, FCF-before-growth $3.925–$4.725B; commits up to $1.0B to Helix.",
+      "tickers": [
+        "VST"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "utilities",
+        "power",
+        "ai-data-centers",
+        "q2-2026",
+        "guidance-affirmed",
+        "helix",
+        "nvidia",
+        "kkr",
+        "mixed-print"
+      ],
+      "metrics": {
+        "Revenue": "$4.017B vs $5.46B est",
+        "Net income": "$305M vs $556M est",
+        "Ongoing ops adj. EBITDA": "$1.767B (+30% Y/Y) vs $1.64B est",
+        "H1 2026 net income": "$1.334B vs $59M in H1 2025",
+        "H1 2026 ongoing ops adj. EBITDA": "$3.261B vs $2.589B in H1 2025",
+        "FY26 ongoing ops adj. EBITDA guide": "$6.8–$7.6B (affirmed)",
+        "FY26 adj. FCF before growth guide": "$3.925–$4.725B (affirmed)",
+        "Helix commitment": "up to $1.0B",
+        "Generation fleet target (YE 2026)": "~50,000 MW"
+      },
+      "explainer": {
+        "tagline": "Vistra misses on revenue and net income but beats on EBITDA (+30% Y/Y), reaffirms FY26 guide, and locks in up to $1B for the Helix AI-power venture with KKR and NVIDIA.",
+        "whatIsIt": "Vistra Corp. (NYSE: VST) reported second-quarter 2026 results on Friday August 7. The headline is mixed — a top-line miss and a wide gap to the consensus net income figure, offset by a clean beat on ongoing operations adjusted EBITDA and an affirmation of the FY26 guide. Alongside the print, the company disclosed a commitment of up to $1.0 billion to Helix Digital Infrastructure, the KKR-led AI-power venture announced in June with NVIDIA and the Kuwait Investment Authority.",
+        "howItWorks": "Q2 revenue was $4.017B versus a $5.46B Street estimate, and net income $305M versus $556M expected. Ongoing operations adjusted EBITDA came in at $1.767B, up 30% year-over-year and above the $1.64B consensus. Six-month numbers show the underlying momentum: H1 2026 net income $1.334B versus $59M in H1 2025, and H1 ongoing operations adjusted EBITDA $3.261B versus $2.589B a year earlier. Management affirmed FY26 ongoing operations adjusted EBITDA guidance of $6.8–$7.6B and adjusted free cash flow before growth of $3.925–$4.725B. Vistra also confirmed a commitment of up to $1.0B into Helix, where it is the 'preferred power partner' to hyperscaler-focused data-center capacity, leveraging its projected ~50,000 MW year-end 2026 fleet.",
+        "whyItMatters": "The two-part print keeps VST in the middle of the AI-power trade: near-term revenue variability from wholesale power and hedging optics matters less to the story than long-dated EBITDA growth and the Helix capital deployment. The +30% EBITDA growth confirms the operational grind; the $1B Helix check is the concrete cash going into the AI-datacenter power buildout with a Nvidia-backed vehicle. Read-through to nuclear-and-gas independent power producers (TLN, NRG, CEG) plus the newer nuclear names (SMR, NNE) is directionally supportive.",
+        "forWho": "utilities and power desks, AI-infrastructure traders, IPP watchers",
+        "tryIt": "https://finance.yahoo.com/quote/VST"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1239707/Vistra-Corp-Logo.jpg?id=OA2834308&p=facebook",
+        "alt": "Vistra Corp. logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "PR Newswire Release",
+          "url": "https://www.prnewswire.com/news-releases/vistra-reports-second-quarter-2026-results-302845874.html"
+        },
+        {
+          "label": "Vistra IR",
+          "url": "https://investor.vistracorp.com/2026-08-07-Vistra-Reports-Second-Quarter-2026-Results"
+        },
+        {
+          "label": "VST Quote",
+          "url": "https://finance.yahoo.com/quote/VST"
+        }
+      ],
+      "reddit": {
+        "title": "Vistra Q2 2026: revenue miss ($4.02B vs $5.46B est), net income miss ($305M vs $556M est), but adj. EBITDA beats at $1.77B (+30% Y/Y); FY26 guide affirmed and up to $1B commits to Helix AI-power JV",
+        "body": "Vistra (VST) dropped a mixed Q2 print Friday Aug 7 — bad on the headlines, good enough on the underlying to keep the guide intact.\n\n* Revenue **$4.017B** vs $5.46B est\n* Net income **$305M** vs $556M est\n* Ongoing operations adjusted EBITDA **$1.767B** (+30% Y/Y) vs $1.64B est — the beat that matters\n* H1 2026 net income $1.334B vs $59M in H1 2025\n* H1 2026 ongoing ops adj. EBITDA $3.261B vs $2.589B in H1 2025\n\nThe forward pieces:\n\n1. **FY26 ongoing ops adj. EBITDA guide affirmed at $6.8–$7.6B** — no cut, no raise\n2. **FY26 adj. FCF before growth affirmed at $3.925–$4.725B**\n3. **Up to $1.0B committed to Helix Digital Infrastructure** — the KKR / KIA / NVIDIA-backed AI-power venture, where Vistra is the preferred power partner\n4. **~50,000 MW generation fleet target by year-end 2026** — the underlying capacity Vistra is leaning into hyperscaler power demand\n\nRead-through: for the AI-power trade, the EBITDA beat plus Helix cash commitment matters more than the revenue optics. Watch TLN, CEG, NRG, and the newer nuclear names (SMR, NNE) for follow-through.\n\nNext catalysts: Q3 print in early November, Helix data-center capacity announcements.\n\nFull breakdown: [https://stock-tldr.xyz/releases/vst-q2-2026-earnings-helix-commit-aug-7](https://stock-tldr.xyz/releases/vst-q2-2026-earnings-helix-commit-aug-7)"
+      },
+      "publishDate": "2026-08-08T00:54:58.932Z"
+    },
     {
       "id": "net-q2-2026-earnings-ai-agents-half-traffic-aug-6",
       "categories": [

@@ -9124,6 +9124,44 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260808t005458z",
+      "timestamp": "2026-08-08T00:54:58.932Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh Aug 7 items: BLS July jobs report (-23K vs +80K est, first monthly loss since 2020, sent S&P to a record 7,757.64 and cut September Fed hike odds 57% → 44%); Take-Two Q1 FY27 (bookings beat, FY27 guide reiterated at $8.0–$8.2B, Zelnick calls GTA VI pre-orders 'unprecedented', stock +4.2%); Vistra Q2 (revenue miss but EBITDA +30% Y/Y beat, FY26 guide affirmed, commits up to $1B to Helix AI-power JV with KKR/KIA/NVIDIA).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-jobs-july-2026-aug-7",
+          "title": "U.S. July 2026 jobs report — nonfarm payrolls -23K (first monthly loss since 2020) vs +80K est; May and June combined revised DOWN 103K; unemployment 4.1% only because participation slipped; S&P 500 to record 7,757.64 as September Fed hike odds slide 57% → 44%",
+          "category": "macro",
+          "note": "Seismic: first negative NFP since 2020, -103K prior-two-month revisions, S&P record close, Fed September hike odds cut 13pp; primary source is BLS Employment Situation release Aug 7 8:30am ET."
+        },
+        {
+          "id": "ttwo-q1-fy27-earnings-gta-vi-unprecedented-aug-7",
+          "title": "Take-Two (TTWO) Q1 FY27 — net bookings $1.39B tops $1.32–$1.37B guide, FY27 net bookings guide reiterated at $8.0–$8.2B; CEO Zelnick calls GTA VI pre-orders 'unprecedented' with November 19 launch on track; stock +4.2% Friday Aug 7",
+          "category": "earnings",
+          "note": "Major: bookings beat + reiterated FY27 outlook + 'unprecedented' GTA VI pre-order color 3 months from launch; +4.2% Friday."
+        },
+        {
+          "id": "vst-q2-2026-earnings-helix-commit-aug-7",
+          "title": "Vistra (VST) Q2 2026 — revenue $4.02B misses $5.46B est but adj. EBITDA $1.77B beats and rises 30% Y/Y; FY26 adj. EBITDA guide affirmed at $6.8–$7.6B; commits up to $1.0B to Helix Digital Infrastructure JV with KKR/KIA/NVIDIA",
+          "category": "earnings",
+          "note": "Major: mixed headline but +30% Y/Y ongoing ops adj. EBITDA beat, FY26 guide affirmed, up to $1B committed to Helix — direct read-through to the AI-power trade."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
