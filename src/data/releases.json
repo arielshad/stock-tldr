@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-08-08T12:29:36.173Z",
+  "generatedAt": "2026-08-09T00:52:29.982Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "djt-crypto-com-cro-deal-terminated-aug-7-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Trump Media (DJT), Crypto.com and Yorkville mutually terminate ~$6.42B 'Trump Media Group CRO Strategy' SPAC on Friday Aug 7 — plus Truth Social prediction-market integration and Crypto.com ETF servicing agreement scrapped; CRO -6% to $0.05009 (lowest since 2023)",
+      "org": "Trump Media & Technology Group",
+      "date": "2026-08-07",
+      "url": "https://www.stocktitan.net/sec-filings/DJT/8-k-trump-media-technology-group-corp-reports-material-event-3f4445a83617.html",
+      "summary": "Trump Media, Crypto.com and Yorkville Acquisition mutually killed the $6.42B CRO treasury SPAC (plus a Truth Social prediction-market tie-up and an ETF servicing pact) on Friday Aug 7, citing 'prevailing market conditions' and shifting priorities. CRO fell 6% to $0.05009, its lowest since 2023.",
+      "tags": [
+        "crypto",
+        "cro",
+        "cronos",
+        "djt",
+        "trump-media",
+        "crypto-com",
+        "yorkville",
+        "spac",
+        "digital-asset-treasury",
+        "termination",
+        "8-k"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DJT",
+        "CRO-USD"
+      ],
+      "metrics": {
+        "Deal terminated": "~$6.42B (SPAC + $1B CRO + $200M cash + warrants + $5B credit line)",
+        "CRO move": "-6% to $0.05009 (lowest since 2023)",
+        "DJT BTC treasury": "9,542 BTC (~$600M) retained"
+      },
+      "explainer": {
+        "tagline": "$6.42B Trump Media–Crypto.com CRO treasury SPAC dies; CRO -6% to a 2023 low as three planned tie-ups all get scrapped.",
+        "whatIsIt": "Trump Media & Technology Group (NASDAQ: DJT), Crypto.com and Yorkville Acquisition Corp. filed an 8-K on Friday Aug 7, 2026 disclosing they had signed a Mutual Termination and Release Agreement ending the previously announced business combination that would have created 'Trump Media Group CRO Strategy, Inc.' The originally announced funding package around the SPAC was reported at ~$6.42B, structured as $1B of CRO tokens, $200M cash, warrants, and a $5B credit line. Two related tie-ups — a Crypto.com ETF servicing agreement for Yorkville America ETFs and a Truth Social prediction-market integration — were also scrapped in the same filing.",
+        "howItWorks": "The 8-K classifies the termination under Item 1.02 (material termination of a definitive agreement) and states that 'all initial discussions and development efforts regarding the proposed business combination and digital asset treasury structure' will cease. Yorkville America's existing and future ETF offerings remain unchanged; the ETF servicing partnership with Crypto.com is what was terminated. Interim CEO Kevin McGurn told Axios the pivot reflects a saturated digital-asset-treasury market and a shift toward media, data licensing and finalizing DJT's proposed merger with fusion-energy firm TAE Technologies. Crypto.com CEO Kris Marszalek said: 'moving forward under current market conditions doesn't make sense.'",
+        "whyItMatters": "CRO fell ~6% to $0.05009 — the token's lowest level since 2023 — as the anticipated $1B CRO purchase from the treasury vehicle evaporates. The termination is the most concrete sign yet that the 2024-25 wave of publicly-traded digital-asset-treasury (DAT) SPAC vehicles has stalled amid falling premiums, tighter capital-markets conditions and heightened ethics scrutiny around the Trump family's crypto ventures. Trump Media still holds ~9,542 BTC (~$600M at recent prices) on its balance sheet, so DJT retains material crypto exposure — but its ambition to become a diversified DAT operator is off the table.",
+        "forWho": "crypto desks, DAT-SPAC arb funds, DJT holders",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001849635&type=8-K&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/s3y3vcno/production/841ac31fb4e72ea7f68c4ff1293a8c535f8c28c0-510x287.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "alt": "Trump Media & Technology Group and Crypto.com logos over a red-tinted CRO-Cronos token backdrop",
+        "fit": "cover",
+        "credit": "CoinDesk"
+      },
+      "links": [
+        {
+          "label": "DJT 8-K Filing",
+          "url": "https://www.stocktitan.net/sec-filings/DJT/8-k-trump-media-technology-group-corp-reports-material-event-3f4445a83617.html"
+        },
+        {
+          "label": "CoinDesk: DJT Scraps Deals",
+          "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal"
+        },
+        {
+          "label": "CryptoSlate: $6.4B Venture Canceled",
+          "url": "https://cryptoslate.com/trump-medias-6-4-billion-crypto-venture-canceled-amid-escalating-trump-ethics-concerns/"
+        },
+        {
+          "label": "CryptoTimes: CRO -8%",
+          "url": "https://www.cryptotimes.io/2026/08/08/trump-media-scraps-6-4b-cro-treasury-deal-cro-token-drops/"
+        },
+        {
+          "label": "DJT quote",
+          "url": "https://finance.yahoo.com/quote/DJT/"
+        }
+      ],
+      "reddit": {
+        "title": "Trump Media, Crypto.com and Yorkville kill the $6.42B CRO treasury SPAC — CRO -6% to $0.05009, its lowest since 2023",
+        "body": "Trump Media (DJT) filed an 8-K Friday Aug 7 disclosing a Mutual Termination and Release Agreement with Crypto.com and Yorkville Acquisition Corp. Three planned tie-ups died at once:\n\n* $6.42B 'Trump Media Group CRO Strategy' SPAC — was funded by $1B CRO tokens + $200M cash + warrants + $5B credit line\n* Crypto.com ETF servicing agreement for Yorkville America ETFs\n* Truth Social prediction-market integration\n* CRO fell **6% to $0.05009** — its lowest print since 2023\n* DJT still holds \\~9,542 BTC (\\~$600M) on the balance sheet\n\nTwo drivers pushed the reversal:\n\n1. **DAT-SPAC market has stalled** — Interim CEO Kevin McGurn told Axios the digital-asset-treasury space is saturated; premia to NAV have compressed. Crypto.com CEO Kris Marszalek: 'moving forward under current market conditions doesn't make sense.'\n2. **Focus shifts to TAE fusion + media** — DJT is redirecting to media, data licensing and closing its planned merger with fusion-energy developer TAE Technologies.\n\nNext catalysts: DJT's inaugural earnings call Monday Aug 10 at 5:00 p.m. ET.\n\nFull breakdown: [https://stock-tldr.xyz/releases/djt-crypto-com-cro-deal-terminated-aug-7-2026](https://stock-tldr.xyz/releases/djt-crypto-com-cro-deal-terminated-aug-7-2026)"
+      },
+      "publishDate": "2026-08-09T00:52:29.982Z"
+    },
     {
       "id": "brk-q2-2026-earnings-buyback-surge-aug-8",
       "categories": [
