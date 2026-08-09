@@ -9219,6 +9219,39 @@
         "commodity",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260809t123941z",
+      "timestamp": "2026-08-09T12:39:41.822Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday Aug 9 sweep: added Friday Aug 7 items missed by prior sweeps — Wendy's Q2 FY26 (turnaround, dividend cut, guide pull) and the silver rally on the jobs shock. Skipped Twilio Q2 (release date Aug 6, exceeds 72h cap) and TTD/Cloudflare follow-on Friday moves (already covered as Thursday-print items).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wen-q2-fy26-turnaround-guide-pull-dividend-cut-aug-7",
+          "title": "Wendy's (WEN) Q2 FY26 — U.S. same-restaurant sales -7.0% (traffic -12.5%), 2026 outlook withdrawn, quarterly dividend halved to $0.07 ($0.28 annualized) as new CEO Bob Wright starts turnaround",
+          "category": "earnings",
+          "note": "First Q2 print under new CEO Bob Wright — U.S. comps -7% traffic -12.5%, 2026 outlook withdrawn, dividend halved to $0.07/qtr."
+        },
+        {
+          "id": "silver-plus-49pct-jobs-miss-cta-cover-aug-7-2026",
+          "title": "Silver +4.9% to $64.38/oz on Friday Aug 7 — six-week high on July jobs shock (-23K vs +80K est) as dollar drops and CTAs cover shorts; gold +1.8% to ~$4,342",
+          "category": "commodity",
+          "note": "Spot silver +4.9% Friday to six-week high on July payrolls miss; light CTA positioning amplified the move."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "commodity",
+        "macro"
+      ]
     }
   ]
 }
