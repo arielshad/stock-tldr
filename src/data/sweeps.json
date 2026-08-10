@@ -9252,6 +9252,34 @@
         "commodity",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260810t005710z",
+      "timestamp": "2026-08-10T00:57:10.294Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet Sunday sweep. Only material addition is a substantive update to the Berkshire Q2 2026 item after the 10-Q revealed Abel was a net buyer of equities for the first time in 14 quarters (~$20B) and drew the cash pile down $32B to $365.5B — reframing the entry from a buyback story to a full capital-allocation pivot. No new qualifying items in Aug 8–10 window.",
+      "counts": {
+        "added": 0,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [
+        {
+          "id": "brk-q2-2026-earnings-buyback-surge-aug-8",
+          "title": "Berkshire Hathaway (BRK.B) Q2 2026 — Greg Abel's first quarter as net buyer of equities in 3+ years: ~$20B net stock purchases end a 14-quarter selling streak, cash pile falls $32B to $365.5B, $4.5B in Q2 buybacks and operating earnings $12.98B (+16.3% Y/Y)",
+          "note": "10-Q reveal: net stock buyer for first time in 14 quarters (~$20B), cash pile fell $32B to $365.5B — reframes the item from a buyback story to a full capital-allocation pivot."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "insider",
+        "macro",
+        "commodity",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }

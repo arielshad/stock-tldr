@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:39:41.822Z",
+  "generatedAt": "2026-08-10T00:57:10.294Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
@@ -240,7 +240,7 @@
         "earnings",
         "insider"
       ],
-      "title": "Berkshire Hathaway (BRK.B) Q2 2026 — operating earnings $12.98B (+16.3% Y/Y) and $4.5B in Q2 buybacks (vs ~$300M in Q1) mark Greg Abel's clearest capital-allocation pivot; insurance float grows to $177.5B",
+      "title": "Berkshire Hathaway (BRK.B) Q2 2026 — Greg Abel's first quarter as net buyer of equities in 3+ years: ~$20B net stock purchases end a 14-quarter selling streak, cash pile falls $32B to $365.5B, $4.5B in Q2 buybacks and operating earnings $12.98B (+16.3% Y/Y)",
       "org": "Berkshire Hathaway",
       "tickers": [
         "BRK.B",
@@ -248,7 +248,7 @@
       ],
       "date": "2026-08-08",
       "url": "https://www.berkshirehathaway.com/news/aug0826.pdf",
-      "summary": "Berkshire posted Q2 operating earnings of $12.98B (+16.3% Y/Y) and repurchased ~$4.5B of stock in the quarter — 15x Q1's ~$300M pace and the biggest buyback quarter since 2021. Class A share count fell to 1,431,693 by June 30.",
+      "summary": "Berkshire posted Q2 operating earnings $12.98B (+16.3% Y/Y) and — per the 10-Q — was a net buyer of stocks for the first time in 14 quarters, purchasing ~$20B more in equities than sold. Cash pile fell to $365.5B from Q1's record $397.4B; buybacks ran $4.5B, ~19x Q1's $235M.",
       "tags": [
         "earnings",
         "q2-2026",
@@ -265,15 +265,17 @@
         "Operating earnings": "$12.98B (+16.3% Y/Y from $11.16B)",
         "Net income": "$25.67B (incl. $12.68B investment gains)",
         "EPS (Class B)": "$11.91 vs $5.73 Y/Y",
-        "Q2 buybacks": "~$4.5B (six-month total ~$4.8B)",
+        "Net stock purchases": "~$20B (first net-buyer quarter in 14; prior streak of net selling)",
+        "Cash + Treasuries": "$365.5B (Jun 30) vs $397.4B (Mar 31) — $31.9B drawdown",
+        "Q2 buybacks": "~$4.5B (six-month total ~$4.8B; Q1 was ~$235M)",
         "Insurance float": "$177.5B (+$1.1B since YE 2025)",
         "Class A shares outstanding": "1,431,693 (Jun 30)"
       },
       "explainer": {
-        "tagline": "Greg Abel's second quarter as CEO delivers a 15x buyback surge and a 16% operating-earnings gain.",
-        "whatIsIt": "Berkshire Hathaway published Q2 2026 results on Saturday Aug 8. Net earnings attributable to shareholders came in at $25.67B, more than double last year's $12.37B, boosted by a $12.68B swing in investment gains on the equity book. Operating earnings — the metric Berkshire itself flags as the true measure of business performance — rose to $12.98B from $11.16B a year earlier.",
-        "howItWorks": "The segment breakout: insurance-underwriting $1.73B (down from $1.99B), insurance-investment income $3.06B, BNSF railroad $1.56B, Berkshire Hathaway Energy $891M (+27% Y/Y), and manufacturing/service/retailing $4.47B (+24% Y/Y). The 'Other' line jumped to $1.27B on $326M of FX gains from non-USD debt. Berkshire repurchased about $4.5B of its own shares in Q2 — bringing the six-month total to ~$4.8B, meaning Q1 was only ~$300M. Insurance float ticked up to $177.5B from $176.4B at year-end 2025.",
-        "whyItMatters": "The buyback pace is the story. Under Warren Buffett, Berkshire hadn't bought back more than $2B in a quarter since 2022 and had stopped buying entirely for stretches. A $4.5B print is the largest since Q1 2021. It signals Abel — in his second quarter as CEO after Buffett handed over on Jan 1 — views the stock as cheap even with BRK.B near a 52-week high. Also notable: the six-month cadence of after-tax realized gains on investment sales ($7.5B) suggests Berkshire kept trimming equities. Focus Monday shifts to the 10-Q for the cash pile (was $397.4B at Q1) and the equity book breakdown.",
+        "tagline": "In his second quarter as CEO, Greg Abel ended Berkshire's 14-quarter selling streak, deploying ~$32B of cash into stock and buybacks.",
+        "whatIsIt": "Berkshire Hathaway published Q2 2026 results on Saturday Aug 8 alongside its 10-Q. Net earnings attributable to shareholders were $25.67B, more than double last year's $12.37B, boosted by a $12.68B swing in investment gains on the equity book. Operating earnings — Berkshire's own preferred measure — rose to $12.98B from $11.16B a year earlier.",
+        "howItWorks": "The 10-Q's capital-allocation lines are the story. Berkshire was a net buyer of equities for the first time in 14 quarters, purchasing roughly $20B more in stock than it sold, and repurchased ~$4.5B of its own shares (six-month total ~$4.8B; Q1 was just ~$235M). The combined outflow drew the cash-and-Treasuries pile from a record $397.4B at Q1 down to $365.5B at June 30 — a $31.9B decline. Segment breakout: insurance-underwriting $1.73B (down from $1.99B), insurance-investment income $3.06B, BNSF $1.56B, Berkshire Hathaway Energy $891M (+27% Y/Y), manufacturing/service/retailing $4.47B (+24% Y/Y). 'Other' jumped to $1.27B on $326M of FX gains from non-USD debt. Insurance float ticked up to $177.5B from $176.4B at year-end 2025.",
+        "whyItMatters": "The shift is what watchers have been waiting for since Buffett handed over on Jan 1. Berkshire had been a net seller of stocks for 14 straight quarters — one of the longest such stretches in company history — while the cash pile grew every quarter. Ending both streaks in the same quarter, with a $32B cash drawdown and a $4.5B buyback (the largest since Q1 2021), is the clearest signal yet that Abel views current prices as attractive. A separately-disclosed $10B private placement in Alphabet (announced June 1) is inside the Q2 window; the balance of what Berkshire bought becomes visible in the Aug 14 13F filing.",
         "forWho": "large-cap value investors, Berkshire watchers",
         "tryIt": "Read the 10-Q at berkshirehathaway.com/qtrly/2ndqtr26.pdf"
       },
@@ -293,8 +295,8 @@
           "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
         },
         {
-          "label": "CNBC Earnings Preview",
-          "url": "https://www.cnbc.com/2026/08/07/berkshire-earnings-may-prove-stock-is-cheap-and-that-abel-and-buffett-think-so-too.html"
+          "label": "24/7 Wall St: 14-Quarter Streak Ends",
+          "url": "https://247wallst.com/investing/2026/08/08/berkshire-hathaway-just-did-something-it-hasnt-done-in-more-than-3-years/"
         },
         {
           "label": "Yahoo BRK.B Quote",
@@ -302,8 +304,8 @@
         }
       ],
       "reddit": {
-        "title": "Berkshire Q2 2026: Greg Abel just went from $300M in Q1 buybacks to $4.5B in Q2 — biggest single quarter since 2021",
-        "body": "Berkshire Hathaway dropped Q2 numbers Saturday morning. The buyback line is the whole story:\n\n* Q2 buybacks ~**$4.5B** — vs only ~$300M in Q1 (six-month total ~$4.8B)\n* Largest quarterly repurchase since Q1 2021\n* Class A share count fell to 1,431,693 by June 30\n* Operating earnings $12.98B, +16.3% Y/Y (vs $11.16B)\n* Net income $25.67B (includes $12.68B unrealized equity gains — mostly noise)\n* Insurance float $177.5B, +$1.1B since YE 2025\n\nThree things to unpack:\n\n1. **Abel's capital-allocation signal** — under Buffett, Berkshire hadn't cracked $2B in a quarter since 2022 and often paused entirely. A $4.5B print in Abel's second quarter as CEO reads as \"the stock is cheap here\" even with BRK.B near a 52-week high.\n2. **Segments look clean** — BHE +27% Y/Y to $891M, manufacturing/services/retailing +24% to $4.47B, BNSF +6%. Insurance underwriting the one soft spot at $1.73B (down from $1.99B).\n3. **Still selling equities** — six-month after-tax realized gains on investment sales were $7.5B, so the sales trend that started under Buffett continued in Q2.\n\nNext catalyst: the 10-Q itself for the cash pile (was $397.4B at Q1) and the equity holdings breakdown.\n\nFull breakdown: [https://stock-tldr.xyz/releases/brk-q2-2026-earnings-buyback-surge-aug-8](https://stock-tldr.xyz/releases/brk-q2-2026-earnings-buyback-surge-aug-8)"
+        "title": "Berkshire Q2 2026: Abel ends Buffett's 14-quarter selling streak — $20B net stock purchases, cash pile drops $32B to $365.5B, buybacks up 19x to $4.5B",
+        "body": "Berkshire Hathaway dropped Q2 numbers and its 10-Q on Saturday. Two long-running streaks broke at once:\n\n* Net buyer of equities for the first time in **14 quarters** — bought ~$20B more stock than it sold\n* Cash + Treasuries fell to **$365.5B** from Q1's record $397.4B (a $31.9B drawdown)\n* Q2 buybacks **~$4.5B** (six-month total ~$4.8B; Q1 was just $235M) — largest quarterly buyback since Q1 2021\n* Operating earnings $12.98B, +16.3% Y/Y (vs $11.16B)\n* Net income $25.67B (includes $12.68B unrealized equity gains — mostly noise)\n* Insurance float $177.5B, +$1.1B since YE 2025\n\nThree things to unpack:\n\n1. **Abel's capital-allocation signal** — under Buffett, Berkshire hadn't been a net stock buyer since Q4 2022. Ending both the buyback pause and the equity-selling streak in Abel's second quarter as CEO reads as \"prices are attractive here.\"\n2. **The cash pile finally moves** — after 14 quarters of hoarding cash to a record $397.4B, Abel drew it down $32B in a single quarter. Direction matters more than magnitude.\n3. **Segments look clean** — BHE +27% Y/Y to $891M, manufacturing/services/retailing +24% to $4.47B, BNSF +6%. Insurance underwriting the one soft spot at $1.73B (down from $1.99B).\n\nNext catalyst: the Aug 14 13F filing reveals which stocks Berkshire bought beyond the already-disclosed $10B Alphabet private placement.\n\nFull breakdown: [https://stock-tldr.xyz/releases/brk-q2-2026-earnings-buyback-surge-aug-8](https://stock-tldr.xyz/releases/brk-q2-2026-earnings-buyback-surge-aug-8)"
       },
       "publishDate": "2026-08-08T12:29:36.173Z"
     },
