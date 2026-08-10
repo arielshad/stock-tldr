@@ -9280,6 +9280,41 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260810t125209z",
+      "timestamp": "2026-08-10T12:52:09.378Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Aug 10 earnings items: Ferguson (FERG) Q2 FY26 beat + guide raise + FloWorks M&A, and Barrick Mining (B) Q2 2026 beat plus a same-morning $1.95B settlement with Newmont expanding Nevada Gold Mines JV into a ~100M-oz complex and greenlighting Barrick's planned North American IPO. Existing feed already covers Aug 4-8 mega-cap earnings, the July NFP shock, Berkshire Q2, and the Iran/Hormuz weekend developments.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ferg-q2-2026-earnings-guide-raise-aug-10",
+          "title": "Ferguson (FERG) Q2 2026 (quarter ended June 30) — sales $8.8B (+4.6% Y/Y) beats $8.68B est, adj EPS $3.39 (+5.3% Y/Y) tops $3.30 est on non-residential organic +8%; FY26 sales-growth guide lifted to mid-single-digit; signs deal to acquire FloWorks and completes 5 tuck-ins; shares +~1.3% pre-market Monday Aug 10",
+          "category": "earnings",
+          "note": "Aug 10 pre-market print — sales + EPS beat, mid-single-digit FY26 guide raise, FloWorks M&A. Not in existing feed."
+        },
+        {
+          "id": "b-q2-2026-earnings-newmont-ngm-deal-aug-10",
+          "title": "Barrick Mining (B) Q2 2026 — adj EPS $0.82 (+74% Y/Y) on $5.29B revenue, gold production 796koz beats 730-770koz guide, $1.21B Q2 buyback; separately, Newmont pays Barrick $1.95B cash to fold Fourmile + Fiberline + Mike into a nearly 100M-oz Nevada Gold Mines complex and greenlights Barrick's planned North American IPO by year-end",
+          "category": "earnings",
+          "note": "Aug 10 pre-market: Barrick Q2 beat (796koz above guide, +74% Y/Y adj EPS) AND same-morning $1.95B Nevada Gold Mines settlement with Newmont that greenlights Barrick's North American IPO."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mna",
+        "mover",
+        "commodity",
+        "macro",
+        "crypto"
+      ]
     }
   ]
 }
