@@ -9315,6 +9315,53 @@
         "macro",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260811t005628z",
+      "timestamp": "2026-08-11T00:56:28.905Z",
+      "source": "github-actions-sweep",
+      "summary": "Four Aug 10 additions: Nvidia's $500B AI-infra funding pact with six Wall Street asset managers (NVDA -~3%, ~$130B cap wipe), Intel's $15B common-stock offering (INTC close $101.65 after -3.7% intraday), oil's ~5% pop as the Iran/Oman Hormuz deal stalls (Brent ~$87.72, WTI ~$82.13) and Bloomberg's rumor that Ryan Cohen may pull GameStop's $56B eBay bid for a JV + board-seats path.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-wall-street-500b-ai-funding-aug-10-2026",
+          "title": "Nvidia (NVDA) teams with Apollo, Blackstone, BlackRock (GIP), Brookfield, Goldman Sachs and KKR on $500B AI infrastructure funding — NVDA -~3% Mon Aug 10 as ~$130B market cap wipes",
+          "category": "sector",
+          "note": "FT-broken and CNBC-corroborated via Jensen Huang on-camera confirmation; NVDA -3% / ~$130B cap loss."
+        },
+        {
+          "id": "intc-15b-common-stock-offering-aug-10-2026",
+          "title": "Intel (INTC) launches proposed $15B underwritten common stock offering — JPM, Goldman, MS, Citi lead with $2.25B over-allotment; INTC closes $101.65 after early -3.7% dip",
+          "category": "mover",
+          "note": "Primary-source press release from Intel Newsroom + IR; $15B base + $2.25B greenshoe underwritten by JPM/GS/MS/Citi."
+        },
+        {
+          "id": "oil-hormuz-stall-brent-8772-aug-10-2026",
+          "title": "Oil jumps ~5% Monday Aug 10 — Brent settles ~$87.72 and WTI ~$82.13 as Iran/Oman deal to reopen Strait of Hormuz stalls; FM Araghchi says U.S. must ease sanctions and 'pay war reparations'",
+          "category": "commodity",
+          "note": "Al Jazeera + CNBC + CNN + CBS coverage of Iran FM Araghchi's demands as the Iran/Oman deal date slipped; Brent +5% to $87.72, WTI +5% to $82.13."
+        },
+        {
+          "id": "gme-ebay-56b-bid-withdrawal-rumor-aug-10-2026",
+          "title": "Rumor: GameStop (GME) CEO Ryan Cohen weighing pulling $56B eBay (EBAY) takeover bid — Bloomberg says a JV with 1,600 GME stores + board seats is the alternative; GME still holds 9.75% eBay stake",
+          "category": "rumor",
+          "note": "Bloomberg-broken rumor with matched PYMNTS/AOL/Quartz/Yahoo coverage; labelled 'Rumor:' and tagged as rumor tier per prompt."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "commodity",
+        "macro",
+        "rumor",
+        "mna"
+      ]
     }
   ]
 }

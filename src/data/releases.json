@@ -1,8 +1,316 @@
 {
-  "generatedAt": "2026-08-10T12:52:09.378Z",
+  "generatedAt": "2026-08-11T00:56:28.905Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-wall-street-500b-ai-funding-aug-10-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "Nvidia (NVDA) teams with Apollo, Blackstone, BlackRock (GIP), Brookfield, Goldman Sachs and KKR on $500B AI infrastructure funding — NVDA -~3% Mon Aug 10 as ~$130B market cap wipes",
+      "org": "NVIDIA",
+      "date": "2026-08-10",
+      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "summary": "Nvidia and six of the largest Wall Street asset managers — Apollo, Blackstone, BlackRock (via Global Infrastructure Partners), Brookfield, Goldman Sachs and KKR — will mobilize more than $500B of third-party capital for hyperscalers, frontier labs and enterprises to fund data centers, power and NVDA hardware. NVDA fell ~3% Monday Aug 10 shedding roughly $130B of market cap.",
+      "tags": [
+        "nvda",
+        "ai-infrastructure",
+        "ai-capex",
+        "data-centers",
+        "apollo",
+        "blackstone",
+        "blackrock",
+        "brookfield",
+        "goldman-sachs",
+        "kkr",
+        "500b",
+        "financing",
+        "hyperscalers",
+        "gigawatts"
+      ],
+      "tickers": [
+        "NVDA",
+        "APO",
+        "BX",
+        "BLK",
+        "GS",
+        "KKR"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Package size": ">$500B third-party capital",
+        "Consortium size": "6 firms + Nvidia",
+        "NVDA move (Mon Aug 10)": "~-3%",
+        "NVDA market-cap loss": "~$130B intraday"
+      },
+      "explainer": {
+        "tagline": "Six of Wall Street's biggest asset managers will build a >$500B financing rail for AI infrastructure buyers of Nvidia hardware.",
+        "whatIsIt": "Nvidia and a coalition of Apollo Global Management, Blackstone, BlackRock's Global Infrastructure Partners, Brookfield Asset Management, Goldman Sachs and KKR will create dedicated pools of capital 'at significant scale at attractive rates for Nvidia customers,' per Financial Times reporting Monday Aug 10 that Bloomberg, CNBC, NBC News and Reuters corroborated. The package targets more than $500B of third-party capital for hyperscalers, frontier AI labs and enterprises to build data centers, power generation and buy Nvidia hardware.",
+        "howItWorks": "The consortium extends previous AI-financing programs (e.g., Apollo/Blackstone's June $35B partnership with Broadcom for 20+ GW of compute) into a Nvidia-anchored rail across chips, energy and real assets. Jensen Huang told CNBC he approached only the six firms and none turned him down. Terms and timeline for individual deployments were not disclosed at publication; the six firms declined to comment or did not immediately respond to media requests.",
+        "whyItMatters": "It formalizes the plumbing of AI capex — the private-credit / infra-fund complex now sits between Nvidia and its customer base, which lets buyers finance GPUs and data-center power instead of front-loading them on balance sheets. It also concentrates AI-infra risk in a handful of very large intermediaries, which several analysts flagged is 'reminiscent of 1999.' NVDA slid ~3% and shed ~$130B in market cap Monday as the market read the venture as a capex-demand hedge more than a demand pull.",
+        "forWho": "AI-infrastructure allocators, private-credit desks, mega-cap semi investors",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&w=1920&h=1080",
+        "alt": "Nvidia CEO Jensen Huang speaking, used in CNBC coverage of the $500B AI infrastructure financing partnership",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "CNBC — Nvidia $500B",
+          "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+        },
+        {
+          "label": "NBC News — Buildout",
+          "url": "https://www.nbcnews.com/tech/tech-news/nvidia-partners-wall-street-giants-raise-500-billion-ai-buildout-rcna591818"
+        },
+        {
+          "label": "Yahoo Finance — Consortium",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvda-teams-wall-street-giants-172317517.html"
+        },
+        {
+          "label": "Forbes — NVDA -$130B",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/10/nvidia-stock-loses-130-billion-in-market-value-as-firm-reportedly-enters-500-billion-ai-financing-deal/"
+        },
+        {
+          "label": "NVDA Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia + Apollo/Blackstone/BlackRock/Brookfield/Goldman/KKR to mobilize >$500B of AI-infra capital — NVDA -~3%, ~$130B market cap lost Monday Aug 10",
+        "body": "Nvidia is teaming with six of the biggest Wall Street asset managers to build a dedicated $500B+ financing rail for buyers of Nvidia hardware and the data centers/power that run them.\n\n* Consortium: **Apollo Global Management, Blackstone, BlackRock (Global Infrastructure Partners), Brookfield, Goldman Sachs, KKR** — six firms Jensen Huang says he approached and none turned him down\n* Target: **>$500B of third-party capital** for hyperscalers, frontier AI labs and enterprises\n* Scope: chips, power generation and data centers\n* NVDA reaction: **-~3% Monday**, shedding roughly **$130B in market cap**\n* Builds on prior deals like Apollo + Blackstone's **June $35B** partnership with Broadcom for 20+ GW of compute\n\nTwo ways to read it:\n\n1. **Capex demand pull** — private-credit + infra funds now sit between Nvidia and its customers, letting hyperscalers and enterprises finance GPUs and data-center power off balance sheet, which extends the AI capex cycle.\n2. **Concentration risk hedge** — several analysts said the setup is 'reminiscent of 1999.' Financing the buyer of your product is exactly the kind of vendor-financed demand that can look great going up and ugly on the way down.\n\nNext catalysts: July CPI Wed Aug 12, then CoreWeave (CRWV) earnings Mon Aug 11 AH and Cisco (CSCO) Aug 13.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-wall-street-500b-ai-funding-aug-10-2026](https://stock-tldr.xyz/releases/nvda-wall-street-500b-ai-funding-aug-10-2026)"
+      },
+      "publishDate": "2026-08-11T00:56:28.905Z"
+    },
+    {
+      "id": "intc-15b-common-stock-offering-aug-10-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Intel (INTC) launches proposed $15B underwritten common stock offering — JPM, Goldman, MS, Citi lead with $2.25B over-allotment; INTC closes $101.65 after early -3.7% dip",
+      "org": "Intel",
+      "date": "2026-08-10",
+      "url": "https://newsroom.intel.com/corporate/intel-announces-proposed-15-billion-common-stock-offering",
+      "summary": "Intel announced a proposed $15B underwritten public offering of common stock Monday Aug 10, with a 30-day over-allotment for up to $2.25B of additional shares. J.P. Morgan, Goldman Sachs, Morgan Stanley and Citi lead the deal. INTC fell ~3.7% intraday on dilution then recovered to close at $101.65.",
+      "tags": [
+        "intc",
+        "capital-raise",
+        "equity-offering",
+        "semis",
+        "foundry",
+        "dilution",
+        "ai-capex",
+        "underwriter",
+        "over-allotment"
+      ],
+      "tickers": [
+        "INTC"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Base offering": "$15B",
+        "Over-allotment (30-day)": "up to $2.25B",
+        "Underwriters": "JPM, Goldman, Morgan Stanley, Citi",
+        "INTC intraday low": "$98.03 (-~3.7%)",
+        "INTC close": "$101.65"
+      },
+      "explainer": {
+        "tagline": "Intel taps public equity for a $15B common raise on Monday Aug 10 to fund its foundry and AI capex push.",
+        "whatIsIt": "Intel priced a proposed $15B underwritten public offering of common stock Monday Aug 10 with a 30-day over-allotment option of up to $2.25B in additional shares. Proceeds are earmarked for 'general corporate purposes, which may include, but are not limited to, capital expenditures and working capital' as Intel bolsters its balance sheet ahead of continued fab and AI investment. J.P. Morgan, Goldman Sachs, Morgan Stanley and Citi are the joint book-running managers.",
+        "howItWorks": "The offering is common stock (not preferred, not convertible), meaning immediate dilution rather than a debt overhang. Intel said the raise 'is intended to further enable Intel to pursue the growth opportunities ahead while maintaining a strong balance sheet and its commitment to an investment-grade rating.' The over-allotment (or 'greenshoe') can bring the total up to $17.25B if underwriters exercise it.",
+        "whyItMatters": "It is the largest US-listed common-equity raise of the year and marks Intel management taking the dilution route to fund its foundry / AI-capex plan rather than issuing more debt. Shares slipped as low as $98.03 (-~3.7%) intraday on dilution fear before recovering to $101.65 on the close as buyers took the capital cushion as a de-risking event. The raise adds to a busy Intel financing tape that includes prior US-government stake and SoftBank-linked capital commitments in 2025-26.",
+        "forWho": "semis investors, foundry watchers, ECM desks",
+        "tryIt": "https://finance.yahoo.com/quote/INTC"
+      },
+      "image": {
+        "url": "https://newsroom.intel.com/wp-content/uploads/2024/11/intel-card-scaled.jpg",
+        "alt": "Intel corporate branding card used with the company's newsroom press releases",
+        "fit": "cover",
+        "credit": "Intel Newsroom"
+      },
+      "links": [
+        {
+          "label": "Intel Newsroom",
+          "url": "https://newsroom.intel.com/corporate/intel-announces-proposed-15-billion-common-stock-offering"
+        },
+        {
+          "label": "Intel IR Release",
+          "url": "https://www.intc.com/news-events/press-releases/detail/1778/intel-announces-proposed-15-billion-common-stock-offering"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://sg.finance.yahoo.com/news/intel-announces-proposed-15-billion-114500259.html"
+        },
+        {
+          "label": "INTC Quote",
+          "url": "https://finance.yahoo.com/quote/INTC"
+        }
+      ],
+      "reddit": {
+        "title": "Intel (INTC) launches a $15B common stock offering — $2.25B greenshoe, JPM/Goldman/MS/Citi lead; INTC closes $101.65 after -3.7% intraday",
+        "body": "Intel announced a proposed **$15B underwritten public offering of common stock** on Monday Aug 10, one of the biggest US common-equity raises of the year.\n\n* Base offering: **$15,000,000,000** in common stock\n* Over-allotment (greenshoe, 30-day): up to **$2.25B** in additional shares → max deal size **$17.25B**\n* Joint book-running managers: **JPMorgan, Goldman Sachs, Morgan Stanley, Citi**\n* Use of proceeds: 'general corporate purposes, which may include, but are not limited to, capital expenditures and working capital'\n* Stated goal: 'maintain a strong balance sheet and its commitment to an investment-grade rating'\n\nStock reaction on the day:\n\n1. **Intraday low $98.03 (-~3.7%)** on the dilution headline\n2. **Close $101.65** as buyers treated the cushion as a balance-sheet de-risking event\n\nWhy it matters:\n\n* Common (not convertible, not preferred) — instant dilution rather than a debt overhang\n* Adds to Intel's capital stack alongside the 2025-26 US-government stake and prior SoftBank-linked commitments\n* Funds the foundry + AI-capex plan Pat Gelsinger's successor team is scaling into\n\nNext catalysts: pricing/allocation of the offering, then chipmaker earnings tape (AMAT, LRCX, LUMN) later this week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/intc-15b-common-stock-offering-aug-10-2026](https://stock-tldr.xyz/releases/intc-15b-common-stock-offering-aug-10-2026)"
+      },
+      "publishDate": "2026-08-11T00:56:28.905Z"
+    },
+    {
+      "id": "oil-hormuz-stall-brent-8772-aug-10-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Oil jumps ~5% Monday Aug 10 — Brent settles ~$87.72 and WTI ~$82.13 as Iran/Oman deal to reopen Strait of Hormuz stalls; FM Araghchi says U.S. must ease sanctions and 'pay war reparations'",
+      "org": "Ministry of Foreign Affairs of the Islamic Republic of Iran",
+      "date": "2026-08-10",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz",
+      "summary": "Brent settled roughly 5% higher near $87.72/bbl and WTI near $82.13 Monday Aug 10 as an Iran/Oman deal to reopen the Strait of Hormuz slid past its expected date. Iran's Foreign Minister Abbas Araghchi said the strait will not reopen until Washington eases sanctions and pays 'war reparations.' Only 8-15 vessels crossed Aug 4-6 versus ~130/day pre-war.",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "hormuz",
+        "iran",
+        "oman",
+        "sanctions",
+        "war-premium",
+        "araghchi",
+        "energy",
+        "geopolitics"
+      ],
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Brent (Mon Aug 10)": "~+5% to $87.72/bbl",
+        "WTI (Mon Aug 10)": "~+5% to $82.13/bbl",
+        "Hormuz transits (Aug 4-6)": "8-15 vessels/day vs ~130 pre-war",
+        "Iran demand": "Sanctions relief + war reparations before reopening"
+      },
+      "explainer": {
+        "tagline": "Brent +5% to ~$87.72 Monday as the Iran/Oman handshake to reopen Hormuz slips past its expected date.",
+        "whatIsIt": "The Iran/Oman diplomatic track that had brought Brent below $82 last week fell out of consensus over the weekend. Iranian Foreign Minister Abbas Araghchi said on state media that while a deal with Oman was 'in its final stages,' the Strait of Hormuz would not reopen 'until the United States corrects its behaviour' — specifying that Washington must ease sanctions and pay 'war reparations' first.",
+        "howItWorks": "Front-month Brent settled roughly 5% higher near $87.72/bbl and WTI near $82.13/bbl. Reuters, Bloomberg, CNBC and Al Jazeera each reported the same catalyst: no signed Iran/Oman accord, Iran's escalating conditions, and a shipping picture that has effectively collapsed since the February conflict — 8 to 15 vessels crossed the strait Aug 4-6 versus roughly 130/day pre-war (about a fifth of global oil supply). Iran's Supreme Leader Mojtaba Khamenei also reshuffled the senior military ranks on Sunday, naming Ali Abdollahi armed-forces chief of staff and Ahmad Vahidi IRGC commander.",
+        "whyItMatters": "It reprices Fed-cut math: higher energy costs feed into headline CPI (July print Wed Aug 12) and let Fed hawks argue a September hike stays live even after the July NFP miss. Energy majors caught a bid intraday but the broad Energy Select Sector ETF (XLE) still finished -1.2% on the day as the market read the move as a supply-shock risk premium (bad for demand) rather than a demand-led rally. Bond yields climbed and the dollar traded firmer.",
+        "forWho": "energy desks, macro allocators, EM FX",
+        "tryIt": "https://finance.yahoo.com/quote/CL=F"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2289259660-1786367986.jpg?resize=1920%2C1440",
+        "alt": "Oil tanker photo used in Al Jazeera coverage of the Strait of Hormuz stalemate and the Aug 10 crude price surge",
+        "fit": "cover",
+        "credit": "Getty Images via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera — Iran Demands",
+          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+        },
+        {
+          "label": "CNBC — WTI/Brent",
+          "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
+        },
+        {
+          "label": "CNN — Live Updates",
+          "url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+        },
+        {
+          "label": "CBS — Iran Statement",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/"
+        },
+        {
+          "label": "WTI Futures (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        }
+      ],
+      "reddit": {
+        "title": "Oil +~5% Monday Aug 10 — Brent settles ~$87.72, WTI ~$82.13 as the Iran/Oman Hormuz deal stalls and Iran's FM says the U.S. must ease sanctions and pay 'war reparations'",
+        "body": "The Hormuz-reopening trade that dragged Brent under $82 last week unwound in one session as the Iran/Oman handshake slipped past its expected date and Iran hardened its conditions.\n\n* Brent front-month +~5% to **~$87.72/bbl**\n* WTI +~5% to **~$82.13/bbl**\n* Hormuz transits **Aug 4-6: 8-15 vessels/day**, vs ~130/day pre-war (about 1/5 of global oil supply)\n* Energy Select Sector ETF (XLE) still closed **-1.2%** — a supply-shock repricing, not a demand-led rally\n\nWhat Iran actually said:\n\n1. **FM Abbas Araghchi (Sun/Mon)** — deal with Oman 'is in its final stages' but 'the Strait of Hormuz will not reopen until the United States corrects its behaviour'\n2. **Explicit conditions** — U.S. must ease sanctions on Tehran and pay 'war reparations' before shipping normalizes\n3. **Supreme Leader Mojtaba Khamenei** — reshuffled senior military ranks Sunday, naming Ali Abdollahi armed-forces chief of staff and Ahmad Vahidi IRGC commander\n\nWhy this stings for the Fed:\n\n* Higher crude → higher headline CPI (**July print Wed Aug 12**) — after last Friday's -23K NFP miss, hawks now have an offset argument for a September hike\n* 10Y yields climbed intraday, dollar traded firmer\n\nNext catalysts: July CPI **Wed Aug 12**, July PPI Thu Aug 14, weekly EIA inventories.\n\nFull breakdown: [https://stock-tldr.xyz/releases/oil-hormuz-stall-brent-8772-aug-10-2026](https://stock-tldr.xyz/releases/oil-hormuz-stall-brent-8772-aug-10-2026)"
+      },
+      "publishDate": "2026-08-11T00:56:28.905Z"
+    },
+    {
+      "id": "gme-ebay-56b-bid-withdrawal-rumor-aug-10-2026",
+      "categories": [
+        "rumor",
+        "mna"
+      ],
+      "title": "Rumor: GameStop (GME) CEO Ryan Cohen weighing pulling $56B eBay (EBAY) takeover bid — Bloomberg says a JV with 1,600 GME stores + board seats is the alternative; GME still holds 9.75% eBay stake",
+      "org": "GameStop",
+      "date": "2026-08-10",
+      "url": "https://www.pymnts.com/business/2026/gamestop-ceo-could-withdraw-56-billion-bid-on-ebay/",
+      "summary": "Bloomberg reports Monday Aug 10 that GameStop CEO Ryan Cohen is weighing pulling the $56B unsolicited takeover offer for eBay and instead proposing a partnership/JV that would give eBay a physical retail footprint via GameStop's ~1,600 stores in exchange for board seats. GameStop still holds a 9.75% eBay stake (second-largest after Vanguard).",
+      "tags": [
+        "gme",
+        "ebay",
+        "ryan-cohen",
+        "hostile-bid",
+        "joint-venture",
+        "collectibles",
+        "trading-cards",
+        "board-seats",
+        "rumor",
+        "56b"
+      ],
+      "tickers": [
+        "GME",
+        "EBAY"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Original bid (May 2026)": "$56B (50% cash / 50% GME stock at $125/sh)",
+        "GME stake in EBAY (Jul 15)": "9.75% — 2nd-largest after Vanguard",
+        "GME since May bid": "-28%",
+        "EBAY since May bid": "+7.6% (Fri close $111.98)",
+        "eBay board response (May)": "Rejected as 'neither credible nor attractive'"
+      },
+      "explainer": {
+        "tagline": "Cohen is reportedly ditching the takeover playbook for a JV plus board seats — the classic activist off-ramp when a bid gets rejected.",
+        "whatIsIt": "Bloomberg reported Monday Aug 10 that GameStop CEO Ryan Cohen is considering withdrawing the $56B unsolicited takeover offer he made for eBay in May 2026, and instead proposing a partnership or joint venture. Under the alternative, GameStop's ~1,600 US retail locations would give eBay a physical footprint in high-margin categories like trading cards and collectibles, and GameStop would seek seats on eBay's board.",
+        "howItWorks": "The May bid was structured 50% cash / 50% GameStop common stock at $125/share; eBay's board rejected it as 'neither credible nor attractive.' Cohen escalated in July with a disclosed 9.75% eBay stake (second-largest holder after Vanguard funds). Bloomberg cites 'people familiar' and cautions no final decision has been made — Cohen retains other options. GameStop's spokesperson and eBay declined comment; PYMNTS, AOL, Quartz and Yahoo Finance ran matched coverage.",
+        "whyItMatters": "It's the standard activist off-ramp when a full takeover stalls: convert the equity stake into board influence + a commercial JV that captures the strategic value without a proxy fight. Since the May bid, GME is -28% and EBAY is +7.6% (Fri close $111.98) — the arb tape had already written off the deal. If Cohen formalizes a JV in coming weeks, expect EBAY to trade on JV economics and GME to trade on collectibles-partner narrative rather than acquisition premium.",
+        "forWho": "special-situations desks, GME/EBAY holders, activist watchers",
+        "tryIt": "https://finance.yahoo.com/quote/EBAY"
+      },
+      "image": {
+        "url": "https://www.pymnts.com/wp-content/uploads/2022/05/GameStop-1.jpg",
+        "alt": "GameStop storefront exterior used in PYMNTS coverage of the reported Ryan Cohen eBay bid withdrawal",
+        "fit": "cover",
+        "credit": "PYMNTS"
+      },
+      "links": [
+        {
+          "label": "PYMNTS — Withdrawal Rumor",
+          "url": "https://www.pymnts.com/business/2026/gamestop-ceo-could-withdraw-56-billion-bid-on-ebay/"
+        },
+        {
+          "label": "AOL — Bloomberg Report",
+          "url": "https://www.aol.com/articles/gamestop-weighing-withdrawal-ebay-bid-120023000.html"
+        },
+        {
+          "label": "Quartz — JV Alternative",
+          "url": "https://qz.com/gamestop-ebay-bid-withdrawal-partnership-joint-venture-081026"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-ryan-cohen-weighs-pulling-114718396.html"
+        },
+        {
+          "label": "EBAY Quote",
+          "url": "https://finance.yahoo.com/quote/EBAY"
+        }
+      ],
+      "reddit": {
+        "title": "Rumor (Bloomberg): GameStop's Ryan Cohen weighing pulling the $56B eBay bid — JV using GME's ~1,600 stores + board seats is Plan B; GME still holds 9.75% of EBAY",
+        "body": "Bloomberg reported Monday Aug 10 that GameStop CEO Ryan Cohen is considering **withdrawing** the $56B unsolicited takeover offer for eBay he tabled in May and pivoting to a partnership / JV instead.\n\n* Original May bid: **$56B** — 50% cash / 50% GameStop common at **$125/share**\n* eBay's board response (May): rejected as **'neither credible nor attractive'**\n* GameStop stake in eBay disclosed **July 15: 9.75%** — 2nd-largest after Vanguard funds\n* Since the bid: **GME -28%**, **EBAY +7.6%** (Fri close $111.98)\n\nWhat Plan B looks like per Bloomberg's 'people familiar':\n\n1. **JV / partnership** using GameStop's ~1,600 US stores as an eBay physical footprint in high-margin categories (trading cards, collectibles)\n2. **Board seats** for GameStop as the negotiated concession\n3. No final decision — Cohen keeps other options open\n\nWhy this is a normal off-ramp:\n\n* The 9.75% stake becomes a board lever rather than an acquisition currency\n* eBay avoids the fight and captures physical-retail economics without diluting shareholders\n* The arb tape had already priced deal failure — GME is -28%, EBAY only +7.6%\n\nThis is a **rumor** — sourced to Bloomberg 'people familiar,' matched by PYMNTS, AOL, Quartz and Yahoo Finance. GameStop and eBay declined comment.\n\nFull breakdown: [https://stock-tldr.xyz/releases/gme-ebay-56b-bid-withdrawal-rumor-aug-10-2026](https://stock-tldr.xyz/releases/gme-ebay-56b-bid-withdrawal-rumor-aug-10-2026)"
+      },
+      "publishDate": "2026-08-11T00:56:28.905Z"
+    },
     {
       "id": "ferg-q2-2026-earnings-guide-raise-aug-10",
       "categories": [
