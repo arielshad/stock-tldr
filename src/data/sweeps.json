@@ -9362,6 +9362,48 @@
         "rumor",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260811t124642z",
+      "timestamp": "2026-08-11T12:46:42.483Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 11 sweep: Riot Platforms (RIOT) 20-year, $9.1B AI data-center lease with Anthropic + Q2 2026 print alongside; Cardinal Health (CAH) FY26 close beats + FY27 EPS guide $12.40–$12.60 with fresh $5B buyback; eToro (ETOR) Q2 beat + up to $231M TradeZero acquisition for U.S. active-trader push. Skipped CoreWeave and Super Micro (both report post-market Aug 11 — not yet public) and OpenAI's $7B tender offer (flat $852B valuation — no new info beyond the already-covered March round + IPO track).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "riot-anthropic-91b-ai-lease-q2-aug-10-2026",
+          "title": "Riot Platforms (RIOT) signs 20-year, $9.1B AI data-center lease with Anthropic at Rockdale, TX — 191 MW through June 2048; RIOT +18% premarket Tue Aug 11 after +25% AH Mon Aug 10 alongside Q2 2026 miss",
+          "category": "mover",
+          "note": "Landmark AI-lease deal with Anthropic disclosed alongside Q2 print; RIOT +25% AH Mon + ~18% premarket Tue on ~$9.1B contracted revenue and $573M Morgan Stanley financing."
+        },
+        {
+          "id": "cah-q4-fy26-earnings-fy27-guide-aug-11-2026",
+          "title": "Cardinal Health (CAH) Q4 FY26 — revenue $63.7B (+6% Y/Y), non-GAAP EPS $2.91 (+40% Y/Y) tops $2.42 est on higher segment profits + one-time $100M IEEPA tariff refund; FY27 non-GAAP EPS guide $12.40–$12.60 (+13–15%) with $5B new buyback authorization",
+          "category": "earnings",
+          "note": "Large-cap healthcare distributor Q4 EPS beat ($2.91 vs $2.42), FY27 non-GAAP EPS guide $12.40–$12.60 (+13–15%), plus a fresh $5B share repurchase authorization."
+        },
+        {
+          "id": "etor-q2-2026-tradezero-231m-aug-11-2026",
+          "title": "eToro (ETOR) Q2 2026 — net contribution +9% Y/Y to $229M, funded accounts +18% to 4.28M, adj. diluted EPS $0.68 (+21% Y/Y); announces acquisition of TradeZero for up to $231M to accelerate U.S. active-trader push",
+          "category": "earnings",
+          "note": "Retail broker prints a Q2 beat (funded accounts +18%, adj. EPS $0.68) and announces up to $231M TradeZero acquisition to build out the U.S. active-trader stack."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }

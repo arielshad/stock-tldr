@@ -1,8 +1,255 @@
 {
-  "generatedAt": "2026-08-11T00:56:28.905Z",
+  "generatedAt": "2026-08-11T12:46:42.483Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "riot-anthropic-91b-ai-lease-q2-aug-10-2026",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Riot Platforms (RIOT) signs 20-year, $9.1B AI data-center lease with Anthropic at Rockdale, TX — 191 MW through June 2048; RIOT +18% premarket Tue Aug 11 after +25% AH Mon Aug 10 alongside Q2 2026 miss",
+      "org": "Riot Platforms",
+      "date": "2026-08-10",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-9-1-billion-113731732.html",
+      "summary": "Bitcoin miner Riot Platforms signed a 20-year, $9.1B data-center lease supplying 191 MW at Rockdale, Texas to a 'leading frontier AI lab' — Bloomberg identified the tenant as Anthropic. Two five-year extensions could take total value to ~$16.1B. RIOT rose ~25% AH Monday Aug 10 and ~18% premarket Tue Aug 11.",
+      "tags": [
+        "riot",
+        "anthropic",
+        "ai-capex",
+        "ai-data-center",
+        "data-centers",
+        "bitcoin-mining",
+        "rockdale",
+        "20-year-lease",
+        "191-mw",
+        "morgan-stanley-financing",
+        "9-1b",
+        "q2-2026-earnings"
+      ],
+      "tickers": [
+        "RIOT"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Contract value (base)": "~$9.1B over 20 years (through June 2048)",
+        "Contract value (with extensions)": "up to ~$16.1B",
+        "Capacity": "191 MW critical IT",
+        "Site": "Rockdale, TX",
+        "Initial delivery": "96 MW by Dec 2027",
+        "Full delivery": "191 MW by June 2028",
+        "Est. cumulative NOI": "$7.3–$8.2B over base term",
+        "Est. annual NOI": "$365–$411M",
+        "Interim financing": "$573M via Morgan Stanley",
+        "Q2 2026 revenue": "$174.2M (+14% Y/Y)",
+        "Q2 2026 data-center revenue": "$23.2M",
+        "Q2 2026 net loss": "$237.2M (-$0.68 diluted)",
+        "RIOT AH move (Mon Aug 10)": "+25%",
+        "RIOT premarket move (Tue Aug 11)": "~+18% to ~$23.02"
+      },
+      "explainer": {
+        "tagline": "Bitcoin miner Riot pivots into AI landlord — $9.1B, 20-year, 191 MW lease with Anthropic at its Rockdale, TX campus.",
+        "whatIsIt": "Riot Platforms disclosed a 20-year data-center lease agreement with 'one of the world's leading frontier AI labs' for 191 MW of critical IT capacity at its Rockdale, Texas campus, expected to generate ~$9.1B in contracted revenue through June 2048. Bloomberg reported the counterparty is Anthropic, the Claude maker. The disclosure landed alongside Riot's Q2 2026 print (revenue $174.2M +14% Y/Y, GAAP net loss $237.2M or -$0.68/share).",
+        "howItWorks": "Riot will deliver 96 MW by December 2027 and complete the full 191 MW buildout by June 2028. The company estimates cumulative NOI of $7.3–$8.2B over the base term, or ~$365–$411M annually, with two five-year extension options that could raise the total contract value to ~$16.1B. Morgan Stanley provided a $573M interim financing facility to fund early construction while Riot works toward permanent credit arrangements. Combined with its existing 50 MW AMD contract, Riot now has 241 MW of AI-lease capacity signed.",
+        "whyItMatters": "This is a step-change re-rating for Riot: bitcoin mining revenue ($113.7M in Q2, down Y/Y) is no longer the primary story — long-dated AI-lease cash flows are. It also validates the broader thesis that hyperscale AI labs are ready to buy power/space from anyone with a build-ready site, mirroring recent CoreWeave and neocloud deals. RIOT rallied ~25% in Monday's after-hours session and was up ~18% premarket Tuesday Aug 11, one of the largest single-session repricings among bitcoin miners this year.",
+        "forWho": "AI-infrastructure allocators, bitcoin miner equity investors, power/data-center desks",
+        "tryIt": "https://finance.yahoo.com/quote/RIOT"
+      },
+      "image": {
+        "url": "https://media.datacenterdynamics.com/media/images/riot_rockdale.2e16d0ba.fill-1200x630.jpg",
+        "alt": "Aerial photograph of Riot Platforms' Rockdale, Texas campus — the site earmarked for the 191 MW AI data-center lease with Anthropic",
+        "fit": "cover",
+        "credit": "Riot Platforms via DataCenterDynamics"
+      },
+      "links": [
+        {
+          "label": "Riot Press Release",
+          "url": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/"
+        },
+        {
+          "label": "Yahoo — Anthropic $9.1B",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-9-1-billion-113731732.html"
+        },
+        {
+          "label": "CoinDesk — RIOT +20% Pre",
+          "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal"
+        },
+        {
+          "label": "DCD — 191 MW Lease",
+          "url": "https://www.datacenterdynamics.com/en/news/riot-platforms-agrees-191mw-20-year-lease-agreement-with-anthropic-worth-91bn-report/"
+        },
+        {
+          "label": "RIOT Quote",
+          "url": "https://finance.yahoo.com/quote/RIOT"
+        }
+      ],
+      "reddit": {
+        "title": "Riot Platforms (RIOT) signs 20-year, $9.1B AI data-center lease with Anthropic — 191 MW at Rockdale, TX; RIOT +18% premarket after +25% AH Monday",
+        "body": "Riot Platforms just pivoted hard from bitcoin miner to AI landlord.\n\n* Deal: **20-year lease** of 191 MW of critical IT capacity at Riot's **Rockdale, TX** campus\n* Contract value: **~$9.1B** base, up to **~$16.1B** with two 5-year extensions\n* Delivery: **96 MW by Dec 2027**, full **191 MW by June 2028**\n* Estimated cumulative NOI: **$7.3–$8.2B** over the 20-year base term (**~$365–$411M/yr**)\n* Interim financing: **$573M** via **Morgan Stanley** while Riot works on permanent credit\n* Combined with the existing AMD 50 MW deal, Riot's signed AI capacity is now **241 MW**\n\nRiot officially named it 'one of the world's leading frontier AI labs.' Bloomberg reported the tenant is **Anthropic**.\n\nOn the same day Riot posted Q2 2026:\n\n1. **Revenue $174.2M** (+14% Y/Y), data-center revenue **$23.2M**\n2. **Net loss $237.2M** (-$0.68 diluted) vs a Y/Y profit\n3. Bitcoin mining revenue fell to **$113.7M** — now less than two-thirds of Riot's top line\n\nStock reaction:\n\n* Monday Aug 10 close: **$19.40 (-5.46%)** ahead of the release\n* After-hours: **+~25%**\n* Tuesday Aug 11 premarket: **+~18% to ~$23**\n\nNext catalysts: July CPI Wed Aug 12, CoreWeave (CRWV) earnings tonight, Cisco (CSCO) Aug 13.\n\nFull breakdown: [https://stock-tldr.xyz/releases/riot-anthropic-91b-ai-lease-q2-aug-10-2026](https://stock-tldr.xyz/releases/riot-anthropic-91b-ai-lease-q2-aug-10-2026)"
+      },
+      "publishDate": "2026-08-11T12:46:42.483Z"
+    },
+    {
+      "id": "cah-q4-fy26-earnings-fy27-guide-aug-11-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Cardinal Health (CAH) Q4 FY26 — revenue $63.7B (+6% Y/Y), non-GAAP EPS $2.91 (+40% Y/Y) tops $2.42 est on higher segment profits + one-time $100M IEEPA tariff refund; FY27 non-GAAP EPS guide $12.40–$12.60 (+13–15%) with $5B new buyback authorization",
+      "org": "Cardinal Health",
+      "date": "2026-08-11",
+      "url": "https://newsroom.cardinalhealth.com/2026-08-11-Cardinal-Health-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results-and-Provides-Fiscal-Year-2027-Guidance",
+      "summary": "Cardinal Health beat Q4 FY26 estimates with non-GAAP EPS $2.91 (+40% Y/Y) on revenue $63.7B (+6%). FY26 non-GAAP EPS reached $11.26 (+37%) on $254.2B revenue (+14%). FY27 non-GAAP EPS guide $12.40–$12.60 (+13–15%). Board authorized a fresh $5B buyback on top of $1.4B FY26 repurchases.",
+      "tags": [
+        "cah",
+        "earnings",
+        "q4-fy26",
+        "healthcare-distribution",
+        "pharma-distribution",
+        "medical-products",
+        "iepa-tariff-refund",
+        "buyback",
+        "fy27-guide-raise",
+        "eps-beat"
+      ],
+      "tickers": [
+        "CAH"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q4 revenue": "$63.7B (+6% Y/Y)",
+        "Q4 GAAP EPS": "$1.70 (+70% Y/Y)",
+        "Q4 non-GAAP EPS": "$2.91 (+40% Y/Y) vs $2.42 est",
+        "FY26 revenue": "$254.2B (+14% Y/Y)",
+        "FY26 non-GAAP EPS": "$11.26 (+37% Y/Y)",
+        "FY26 non-GAAP operating earnings": "$3.6B (+30% Y/Y)",
+        "FY26 operating cash flow": "$5.2B",
+        "FY26 adj. FCF": "$5.0B",
+        "FY27 non-GAAP EPS guide": "$12.40–$12.60 (+13–15% Y/Y)",
+        "FY27 adj. FCF guide": "$3.5–$4.0B",
+        "FY26 buybacks completed": "$1.4B",
+        "New buyback authorization": "$5.0B (total remaining $6.4B)",
+        "IEEPA tariff refund (GMPD Q4)": "~$100M one-time"
+      },
+      "explainer": {
+        "tagline": "Cardinal Health closes FY26 with a Q4 beat and lifts FY27 EPS guide to $12.40–$12.60 (+13–15%), plus a fresh $5B buyback authorization.",
+        "whatIsIt": "Cardinal Health, the U.S. pharma and medical-products distributor, reported Q4 FY26 (quarter ended June 30) and full-year FY26 results before the open on Tuesday Aug 11 and issued FY27 guidance. Q4 non-GAAP EPS of $2.91 topped the $2.42 consensus, and the company laid out FY27 non-GAAP EPS guidance of $12.40–$12.60 alongside a new $5B share repurchase authorization.",
+        "howItWorks": "Q4 revenue was $63.7B (+6% Y/Y); GAAP EPS $1.70 (+70%); non-GAAP EPS $2.91 (+40%), helped by a one-time ~$100M IEEPA tariff refund benefit in the Global Medical Products and Distribution (GMPD) segment. FY26 revenue reached $254.2B (+14%), non-GAAP operating earnings $3.6B (+30%), non-GAAP EPS $11.26 (+37%), operating cash flow $5.2B and adjusted FCF $5.0B. Pharma & Specialty Solutions revenue was $234.8B (+15%) with segment profit $2.8B (+23%); GMPD revenue $12.7B (+1%) with segment profit $258M (+91% aided by the tariff refund); Other revenue $6.8B (+26%) with segment profit $707M (+37%). FY27 guide assumes ~$1B of buybacks on top of the completed $1.4B in FY26, backed by the new $5B authorization (total $6.4B remaining).",
+        "whyItMatters": "The FY27 EPS setup keeps CAH near a 52-week high after a multi-year re-rating of the drug-distribution complex. The IEEPA tariff refund boosts optics on the Q4 print but management still guided FY27 to double-digit EPS growth without that tailwind. The $5B buyback authorization signals confidence in cash generation and, combined with a stable ~19–20% non-GAAP tax rate, gives shareholders visibility into FY27 return of capital.",
+        "forWho": "large-cap healthcare distributor investors, dividend-growth and buyback-yield funds, tariff/pharma-supply-chain watchers",
+        "tryIt": "https://finance.yahoo.com/quote/CAH"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS646429/Cardinal-Health-Logo-no-tagline-Logo-v1.jpg?id=OA2852015&p=facebook",
+        "alt": "Cardinal Health corporate logo used in the company's Q4 FY26 earnings press release",
+        "fit": "contain",
+        "credit": "Cardinal Health / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "CAH Press Release",
+          "url": "https://newsroom.cardinalhealth.com/2026-08-11-Cardinal-Health-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results-and-Provides-Fiscal-Year-2027-Guidance"
+        },
+        {
+          "label": "StockTitan — CAH FY27",
+          "url": "https://www.stocktitan.net/news/CAH/cardinal-health-reports-fourth-quarter-and-fiscal-year-2026-results-jtqmrvxmzvw3.html"
+        },
+        {
+          "label": "Yahoo — CAH Q4 Preview",
+          "url": "https://finance.yahoo.com/healthcare/articles/cardinal-health-announce-fourth-quarter-104500649.html"
+        },
+        {
+          "label": "CAH Quote",
+          "url": "https://finance.yahoo.com/quote/CAH"
+        }
+      ],
+      "reddit": {
+        "title": "Cardinal Health (CAH) Q4 FY26 — non-GAAP EPS $2.91 beats $2.42 est on $63.7B revenue; FY27 guide $12.40–$12.60 EPS + fresh $5B buyback authorization",
+        "body": "Cardinal Health closed FY26 with a broad Q4 beat and set up FY27 with a double-digit EPS growth guide and a big new buyback.\n\n* Q4 revenue **$63.7B (+6% Y/Y)**\n* Q4 GAAP EPS **$1.70 (+70%)**; non-GAAP EPS **$2.91 (+40%)** vs $2.42 est\n* FY26 revenue **$254.2B (+14%)**; non-GAAP EPS **$11.26 (+37%)**\n* FY26 operating cash flow **$5.2B**, adj. FCF **$5.0B**\n* Board authorized **$5.0B** in new buybacks on top of $1.4B repurchased in FY26 (**$6.4B total remaining**)\n\nFY27 guidance:\n\n1. **Non-GAAP EPS $12.40–$12.60** (+13–15% Y/Y on adjusted base)\n2. **Adj. FCF $3.5–$4.0B**\n3. **~$1B** planned buybacks; non-GAAP tax rate **19–20%**\n\nQ4 was helped by a **one-time ~$100M IEEPA tariff refund** in the Global Medical Products segment, but FY27 growth is guided ex-refund — management is essentially telling the market pharma/specialty distribution volume + segment mix carry from here.\n\nNext catalysts: July CPI Wed Aug 12.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cah-q4-fy26-earnings-fy27-guide-aug-11-2026](https://stock-tldr.xyz/releases/cah-q4-fy26-earnings-fy27-guide-aug-11-2026)"
+      },
+      "publishDate": "2026-08-11T12:46:42.483Z"
+    },
+    {
+      "id": "etor-q2-2026-tradezero-231m-aug-11-2026",
+      "categories": [
+        "earnings",
+        "mna"
+      ],
+      "title": "eToro (ETOR) Q2 2026 — net contribution +9% Y/Y to $229M, funded accounts +18% to 4.28M, adj. diluted EPS $0.68 (+21% Y/Y); announces acquisition of TradeZero for up to $231M to accelerate U.S. active-trader push",
+      "org": "eToro Group",
+      "date": "2026-08-11",
+      "url": "https://www.globenewswire.com/news-release/2026/08/11/3342553/0/en/etoro-reports-second-quarter-2026-results.html",
+      "summary": "eToro reported Q2 2026 net contribution $229M (+9% Y/Y), funded accounts 4.28M (+18%), and adjusted diluted EPS $0.68 (+21%). Separately, the retail broker agreed to acquire U.S. active-trader brokerage TradeZero for up to $231M, expected to close in 1H 2027 — its third acquisition signed this year.",
+      "tags": [
+        "etor",
+        "q2-2026-earnings",
+        "retail-brokerage",
+        "tradezero",
+        "acquisition",
+        "us-expansion",
+        "active-traders",
+        "funded-accounts",
+        "adj-eps-beat",
+        "crypto-take-rate"
+      ],
+      "tickers": [
+        "ETOR"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q2 net contribution": "$229M (+9% Y/Y)",
+        "Q2 funded accounts": "4.28M (+18% Y/Y vs 3.63M)",
+        "Q2 AUA": "$18.5B (-5% Y/Y)",
+        "Q2 adj. diluted EPS": "$0.68 (vs $0.56 in Q2 2025, +21%)",
+        "Cash + short-term inv. (Jun 30, 2026)": "$1.2B",
+        "TradeZero deal value": "up to $231M",
+        "TradeZero LTM revenue (to Jun 30, 2026)": "~$80M",
+        "TradeZero LTM gross margin": "~81%",
+        "TradeZero expected close": "1H 2027",
+        "Acquisitions signed in 2026": "3 (Zengo, Bit2C, TradeZero)"
+      },
+      "explainer": {
+        "tagline": "eToro delivers a Q2 beat on funded accounts and adj. EPS and lines up TradeZero (~$80M revenue) for up to $231M to accelerate its U.S. active-trader push.",
+        "whatIsIt": "eToro, the Nasdaq-listed multi-asset retail brokerage that IPO'd in May 2025 under 'ETOR', reported Q2 2026 results before the open Tuesday Aug 11 and simultaneously announced an agreement to acquire New York-based active-trader brokerage TradeZero for up to $231M. Company guidance for the deal: expected to close in 1H 2027, accretive to adjusted EPS in the first year post-close.",
+        "howItWorks": "Q2 net contribution (eToro's proxy for net revenue after direct trading costs) grew 9% Y/Y to $229M, funded accounts rose 18% Y/Y to 4.28M, and adjusted diluted EPS was $0.68 vs $0.56 in Q2 2025 (+21%). Assets under administration were $18.5B, down 5% Y/Y. Cash, cash equivalents and short-term investments stood at $1.2B on June 30, 2026. TradeZero — a direct-market-access, extended-hours-trading, stock-locate specialist for U.S. active traders — generated ~$80M in revenue at an ~81% gross margin in the twelve months ended June 30, 2026; its purchase adds broker-dealer infrastructure, proprietary trading platforms and operations in Canada. This is eToro's third acquisition signed this year (Zengo and Bit2C closed in Q2, focused on self-custody).",
+        "whyItMatters": "The Q2 print confirms funded-account momentum and modest adj-EPS growth even with AUA down Y/Y on crypto price swings. Buying TradeZero is a straightforward tuck-in strategy to accelerate the U.S. build — CEO Yoni Assia called it 'a faster route to launching new products for U.S. customers' — and the target's ~81% gross margin means the deal shouldn't drag on unit economics if the price ($231M / ~$80M revenue = ~2.9x LTM sales) holds. Retail-broker peers Robinhood (HOOD) and Interactive Brokers (IBKR) trade at richer multiples on active-trader monetization.",
+        "forWho": "retail-broker equity investors, EU + Israeli fintech watchers, active-trader / options-flow desks",
+        "tryIt": "https://finance.yahoo.com/quote/ETOR"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/0c7f2b57-baa2-4a5b-9a93-a48ca4351b2f",
+        "alt": "eToro Group corporate logo used in the company's Q2 2026 earnings press release",
+        "fit": "contain",
+        "credit": "eToro / GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "eToro Q2 Release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/11/3342553/0/en/etoro-reports-second-quarter-2026-results.html"
+        },
+        {
+          "label": "eToro Q2 (Manila Times)",
+          "url": "https://www.manilatimes.net/2026/08/11/tmt-newswire/globenewswire/etoro-reports-second-quarter-2026-results/2402824"
+        },
+        {
+          "label": "TradeZero Deal Terms",
+          "url": "https://cryptobriefing.com/etoro-acquires-tradezero-231-million-us-brokerage/"
+        },
+        {
+          "label": "Calcalist — TradeZero",
+          "url": "https://www.calcalistech.com/ctechnews/article/e3huleh7n"
+        },
+        {
+          "label": "ETOR Quote",
+          "url": "https://finance.yahoo.com/quote/ETOR"
+        }
+      ],
+      "reddit": {
+        "title": "eToro (ETOR) Q2 2026 — funded accounts +18% to 4.28M, adj. EPS $0.68, and up to $231M deal to buy U.S. active-trader broker TradeZero",
+        "body": "Two things from eToro at the same time on Aug 11: a Q2 beat on core growth metrics, and a tuck-in acquisition to accelerate the U.S. push.\n\n* Q2 net contribution **$229M (+9% Y/Y)**\n* Funded accounts **4.28M (+18% Y/Y)** vs 3.63M\n* Assets under administration **$18.5B (-5% Y/Y)**\n* Adjusted diluted EPS **$0.68** vs $0.56 (+21%)\n* Cash + short-term investments **$1.2B** as of June 30, 2026\n\nOn the deal:\n\n1. **TradeZero acquisition** — up to **$231M**\n2. Target is a U.S. active-trader brokerage with **~$80M LTM revenue** and an **~81% gross margin**\n3. Adds broker-dealer stack, proprietary trading platforms, Canada operations\n4. Expected to close **1H 2027**, accretive to adjusted EPS in the first year\n\nThis is eToro's **third acquisition signed in 2026** (Zengo and Bit2C both closed in Q2 to strengthen self-custody). CEO Yoni Assia said TradeZero gives eToro 'a faster route to launching new products for U.S. customers.'\n\nNext catalysts: July CPI Wed Aug 12.\n\nFull breakdown: [https://stock-tldr.xyz/releases/etor-q2-2026-tradezero-231m-aug-11-2026](https://stock-tldr.xyz/releases/etor-q2-2026-tradezero-231m-aug-11-2026)"
+      },
+      "publishDate": "2026-08-11T12:46:42.483Z"
+    },
     {
       "id": "nvda-wall-street-500b-ai-funding-aug-10-2026",
       "categories": [
