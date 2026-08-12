@@ -9404,6 +9404,55 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260812t010341z",
+      "timestamp": "2026-08-12T01:03:41.448Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 11 (Tuesday) earnings-day sweep: five confirmed Q2 prints — AI infra (CRWV +14% AH on $104B backlog and +112% Y/Y revenue), AI servers (SMCI +9% AH on 17.5% GM and $65–72B FY27 guide), SEA e-com/fintech (SE +48% Y/Y with Garena re-accelerating), premium footwear (ONON -~22% on wholesale collapse and guide cut) and fast-casual (CAVA +13% AH on +9% comps).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "crwv-q2-2026-earnings-104b-backlog-aug-11-2026",
+          "title": "CoreWeave (CRWV) Q2 2026 — revenue $2.58B (+112% Y/Y) tops $2.56B est; GAAP net loss $626M (-$1.14/sh) vs -$1.20 adj est; revenue backlog ~$104B plus $25B of net-new commitments in early Q3; adj EBITDA $1.51B (59% margin); CRWV +~14% AH Tuesday Aug 11",
+          "category": "earnings",
+          "note": "AI cloud provider's Q2 revenue +112% Y/Y with $104B backlog and $25B of net-new commits already booked in early Q3 — market-moving AI-infra print with +14% AH."
+        },
+        {
+          "id": "smci-q4-fy26-print-fy27-72b-guide-aug-11-2026",
+          "title": "Super Micro (SMCI) Q4 FY26 — revenue $11.1B misses $11.55B est but non-GAAP EPS $1.70 (+315% Y/Y) crushes $0.96 est on 17.5% gross margin (vs 9.5% Y/Y); FY27 revenue guided $65–72B vs $54.4B est; SMCI +~9% AH Tuesday Aug 11",
+          "category": "earnings",
+          "note": "Actual Q4 print with 17.5% GM (nearly 2x Y/Y) and FY27 revenue guide $65–72B vs $54B consensus — different event from July 22 preliminary business update already in feed."
+        },
+        {
+          "id": "se-q2-2026-shopee-monee-garena-aug-11-2026",
+          "title": "Sea Limited (SE) Q2 2026 — GAAP revenue $7.80B (+48% Y/Y) tops $7.27B est, diluted EPS $0.70 (+8% Y/Y), adj EBITDA $917.2M (+11%); Shopee GMV $38.3B (+28%), Monee loan book $11.1B (+63%), Garena bookings $763.5M (+16%)",
+          "category": "earnings",
+          "note": "Revenue $7.8B (+48% Y/Y) with all three engines re-accelerating including first material Garena bookings acceleration since 2023."
+        },
+        {
+          "id": "onon-q2-2026-guide-cut-wholesale-slowdown-aug-11-2026",
+          "title": "On Holding (ONON) Q2 2026 — net sales CHF 850.3M (+13.5% rep / +21.6% CC) misses CHF 878M est on wholesale slowdown (+4.8% rep / +12.7% CC vs +25.1% CC Q1); FY26 net-sales growth guide cut to low-20% CC (from ≥23%); stock -~22% Tuesday Aug 11 to ~2-yr low",
+          "category": "earnings",
+          "note": "Q2 sales miss, wholesale collapses to +4.8% rep from +25.1% CC Q1, FY26 sales guide cut from ≥23% to low-20% CC; stock -~22%."
+        },
+        {
+          "id": "cava-q2-2026-comp-9pct-guide-reaffirm-aug-11-2026",
+          "title": "CAVA (CAVA) Q2 2026 — revenue $365.4M (+31.3% Y/Y) tops $360M est, same-restaurant sales +9.0% on +5.3% traffic; adj EBITDA $54.7M (+30% Y/Y), net income $23.0M (+25%); opens 17 net new restaurants to 476 units; FY26 guide reaffirmed; CAVA +~12.7% AH Tuesday Aug 11",
+          "category": "earnings",
+          "note": "Same-restaurant sales +9.0% on +5.3% traffic; reaffirmed FY guide despite July cyclospora scare; stock +~13% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

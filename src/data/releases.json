@@ -1,8 +1,367 @@
 {
-  "generatedAt": "2026-08-11T12:46:42.483Z",
+  "generatedAt": "2026-08-12T01:03:41.448Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "crwv-q2-2026-earnings-104b-backlog-aug-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CoreWeave (CRWV) Q2 2026 — revenue $2.58B (+112% Y/Y) tops $2.56B est; GAAP net loss $626M (-$1.14/sh) vs -$1.20 adj est; revenue backlog ~$104B plus $25B of net-new commitments in early Q3; adj EBITDA $1.51B (59% margin); CRWV +~14% AH Tuesday Aug 11",
+      "org": "CoreWeave",
+      "date": "2026-08-11",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-reports-strong-second-quarter-201000108.html",
+      "summary": "AI cloud provider posts Q2 revenue $2.58B (+112% Y/Y) with $104B backlog plus $25B of net-new commitments already booked in early Q3; GAAP net loss widens to $626M; stock +~14% after hours.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "ai-infrastructure",
+        "gpu-cloud",
+        "backlog",
+        "revenue-beat",
+        "gaap-loss",
+        "nasdaq-100"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CRWV",
+        "NVDA"
+      ],
+      "metrics": {
+        "Revenue": "$2.58B (+112% Y/Y) vs $2.56B est",
+        "GAAP EPS": "-$1.14 (net loss $626M)",
+        "Adj EBITDA": "$1.51B (59% margin)",
+        "Backlog": "~$104B + $25B new commits early Q3",
+        "Active power": "1.5 GW (+~500 MW)",
+        "Contracted power": "~3.7 GW",
+        "Move": "+~14% AH"
+      },
+      "explainer": {
+        "tagline": "CoreWeave posts +112% Y/Y revenue with a $104B backlog and $25B of net-new deals already in Q3 — GPU-cloud demand is not slowing.",
+        "whatIsIt": "CoreWeave, the Nasdaq-listed AI cloud provider, reported its Q2 2026 results on Tuesday Aug 11. Revenue more than doubled Y/Y, backlog swelled to ~$104B, and management flagged an additional $25B of net-new customer commitments already booked in the first weeks of Q3.",
+        "howItWorks": "Revenue was $2.575B, up 112% from $1.212B in Q2 2025 and just above the $2.56B analyst consensus. Adjusted EBITDA was $1.51B at a 59% margin. On a GAAP basis the company still lost $626M, or $1.14 per share, as debt-funded capex ramps. Active power grew nearly 500 MW to 1.5 GW; total contracted power sits at ~3.7 GW.",
+        "whyItMatters": "The print keeps GPU-cloud capacity the tightest link in the AI stack. A $104B backlog plus $25B added in three weeks means CRWV is essentially pre-sold through 2027; comp names DLR, IREN, APLD and NBIS trade in sympathy on capacity demand. Debt load and GAAP losses remain the counter-argument for skeptics.",
+        "forWho": "AI-infrastructure and data-center desks",
+        "tryIt": "https://finance.yahoo.com/quote/CRWV/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/F3A57D3C6C0D34E0C0A7DF19F3F7F243C1C52EAEB2A7CAC78A296715EFFC0613/subgraphmysterio/resizefill_w1200_h910;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F8512248046f208854786e302b3a02d89.jpg",
+        "alt": "CoreWeave Q2 2026 earnings release banner",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-reports-strong-second-quarter-201000108.html"
+        },
+        {
+          "label": "CoreWeave IR Release",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
+        },
+        {
+          "label": "CRWV Quote",
+          "url": "https://finance.yahoo.com/quote/CRWV/"
+        }
+      ],
+      "reddit": {
+        "title": "CoreWeave Q2: revenue +112% to $2.58B, backlog $104B — and $25B of net-new commits already booked in the first three weeks of Q3",
+        "body": "CoreWeave (CRWV) dropped Q2 2026 after the bell Tuesday Aug 11. The GPU-cloud tape is not slowing.\n\n* Revenue $2.575B, +112% Y/Y, beats $2.56B est\n* Adj EBITDA $1.51B at a 59% margin\n* GAAP net loss $626M / -$1.14 per share (debt-funded capex still bites)\n* Revenue backlog ~$104B — plus $25B of net-new customer commitments added in early Q3\n* Active power +~500 MW to 1.5 GW; contracted power ~3.7 GW\n* Stock +~14% AH\n\nWhat this actually says:\n\n1. **Demand is pre-sold through 2027** — the $25B added in three weeks is essentially the size of AMD's data-center segment being freshly committed to one hyperscaler competitor.\n2. **Capacity, not chips, is the binding constraint** — CRWV can only grow as fast as it can light up power. 3.7 GW contracted is what's on the pipe.\n3. **The bear case didn't go away** — GAAP losses widened and debt is doing the heavy lifting.\n\nNext catalyst: CoreWeave's Q3 print in Nov + any new hyperscaler wins around it.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crwv-q2-2026-earnings-104b-backlog-aug-11-2026](https://stock-tldr.xyz/releases/crwv-q2-2026-earnings-104b-backlog-aug-11-2026)"
+      },
+      "publishDate": "2026-08-12T01:03:41.448Z"
+    },
+    {
+      "id": "smci-q4-fy26-print-fy27-72b-guide-aug-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Super Micro (SMCI) Q4 FY26 — revenue $11.1B misses $11.55B est but non-GAAP EPS $1.70 (+315% Y/Y) crushes $0.96 est on 17.5% gross margin (vs 9.5% Y/Y); FY27 revenue guided $65–72B vs $54.4B est; SMCI +~9% AH Tuesday Aug 11",
+      "org": "Super Micro Computer",
+      "date": "2026-08-11",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-q4-fy2026-earnings-margins-205145427.html",
+      "summary": "AI server maker's Q4 revenue $11.1B misses $11.55B est, but adj EPS $1.70 crushes $0.96 est on 17.5% gross margin (nearly double Y/Y). FY27 revenue guide $65–72B far tops $54.4B consensus; stock +~9% AH.",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "ai-server",
+        "gross-margin",
+        "guidance-raise",
+        "fy27-guide",
+        "eps-beat",
+        "revenue-miss"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SMCI",
+        "NVDA",
+        "DELL"
+      ],
+      "metrics": {
+        "Revenue": "$11.1B (vs $11.55B est)",
+        "Non-GAAP EPS": "$1.70 (+315% Y/Y) vs $0.96 est",
+        "Gross margin": "17.5% (vs 9.5% Y/Y; 15–17% prelim guide)",
+        "FY26 revenue": "$39.1B (vs $22.0B FY25)",
+        "FY27 revenue guide": "$65–72B vs $54.4B est",
+        "Move": "+~9% AH"
+      },
+      "explainer": {
+        "tagline": "SMCI misses on Q4 revenue but doubles gross margin and guides FY27 revenue as much as $18B above Street.",
+        "whatIsIt": "Super Micro Computer, the AI-server assembler, reported its fiscal Q4 (quarter ended June 30) after the close on Tuesday Aug 11. Revenue came in light of Street expectations but margins blew past its own preliminary guide, and FY27 guidance was far above where analysts had been modeling.",
+        "howItWorks": "Q4 revenue was $11.1B vs the $11.55B consensus and near the low end of management's earlier $11.0–$12.5B range. Non-GAAP EPS was $1.70, up 315% Y/Y, versus a $0.96 estimate. Gross margin printed at 17.5%, roughly double the year-ago 9.5% and topping the 15–17% July preliminary. Full-year FY26 revenue was $39.1B vs $22.0B in FY25. Management guided FY27 revenue to $65–72B, versus a $54.4B consensus.",
+        "whyItMatters": "The mix shift matters more than the headline miss. A 17.5% gross margin on $11B of revenue implies the record $60B of new orders SMCI flagged in July are landing on much better economics than the market had priced. The $65–72B FY27 range implies +67–84% revenue growth and reasserts SMCI as the third leg (behind DELL and HPE) of the enterprise AI-server pull-through of NVDA GPUs.",
+        "forWho": "AI-hardware and semis desks",
+        "tryIt": "https://finance.yahoo.com/quote/SMCI/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/45ADB5D306680CAEEDB013EEB2A403DFD7ACBA2E80E3BEDB39F2C102115746D9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fec2c3ca1755dbe8641719a8ab6675449.jpg",
+        "alt": "Super Micro Q4 FY2026 earnings coverage",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-q4-fy2026-earnings-margins-205145427.html"
+        },
+        {
+          "label": "24/7 Wall St. Cover",
+          "url": "https://247wallst.com/cards/super-micro-computer-inc-q4-2026-earnings-smci-01kzs75ekjmv562kq4bvhmapqq"
+        },
+        {
+          "label": "SMCI Preliminary Update",
+          "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx"
+        },
+        {
+          "label": "SMCI Quote",
+          "url": "https://finance.yahoo.com/quote/SMCI/"
+        }
+      ],
+      "reddit": {
+        "title": "SMCI Q4: revenue miss but adj EPS $1.70 vs $0.96 est on 17.5% gross margin (nearly 2x Y/Y); FY27 guide $65–72B vs $54B consensus",
+        "body": "Super Micro (SMCI) reported fiscal Q4 after the bell Tuesday Aug 11. Headline revenue was a miss. Almost nothing else was.\n\n* Revenue $11.1B vs $11.55B est — near the low end of management's July preliminary\n* Non-GAAP EPS $1.70 vs $0.96 est (+315% Y/Y)\n* Gross margin 17.5% vs 9.5% year-ago and vs the 15–17% July preview\n* Full-year FY26 revenue $39.1B (vs $22.0B FY25)\n* FY27 revenue guide $65B–$72B vs $54.4B consensus\n* Stock +~9% AH\n\nDrivers:\n\n1. **Mix shift, not just volume** — gross margin doubling on similar revenue means the $60B of new orders SMCI flagged in July are landing on much better economics than the Street was pricing.\n2. **FY27 range is a statement** — midpoint ~$68.5B implies +75% Y/Y and puts SMCI back on the AI-server podium next to DELL and HPE.\n3. **The July preview did the work** — the revenue miss is the report's only leg for bears; guide and margin more than offset.\n\nFull breakdown: [https://stock-tldr.xyz/releases/smci-q4-fy26-print-fy27-72b-guide-aug-11-2026](https://stock-tldr.xyz/releases/smci-q4-fy26-print-fy27-72b-guide-aug-11-2026)"
+      },
+      "publishDate": "2026-08-12T01:03:41.448Z"
+    },
+    {
+      "id": "se-q2-2026-shopee-monee-garena-aug-11-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Sea Limited (SE) Q2 2026 — GAAP revenue $7.80B (+48% Y/Y) tops $7.27B est, diluted EPS $0.70 (+8% Y/Y), adj EBITDA $917.2M (+11%); Shopee GMV $38.3B (+28%), Monee loan book $11.1B (+63%), Garena bookings $763.5M (+16%)",
+      "org": "Sea Limited",
+      "date": "2026-08-11",
+      "url": "https://www.stocktitan.net/news/SE/sea-limited-reports-second-quarter-2026-hnyva894m8wm.html",
+      "summary": "SEA topline +48% Y/Y to $7.8B, EPS $0.70 up 8% Y/Y, adj EBITDA $917M; Shopee GMV +28% to $38.3B, Monee loan book $11.1B (+63%), Garena bookings +16% — stock +6.1% premarket Aug 11.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "e-commerce",
+        "fintech",
+        "gaming",
+        "shopee",
+        "monee",
+        "garena",
+        "southeast-asia"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SE"
+      ],
+      "metrics": {
+        "Revenue": "$7.80B (+48.1% Y/Y) vs $7.27B est",
+        "Diluted EPS": "$0.70 (+7.7% Y/Y)",
+        "Adj EBITDA": "$917.2M (+10.6% Y/Y)",
+        "Shopee GMV": "$38.3B (+28.4% Y/Y)",
+        "Monee loan book": "$11.1B principal (+62.5% Y/Y)",
+        "Garena bookings": "$763.5M (+15.5% Y/Y)",
+        "Move": "+6.1% premarket"
+      },
+      "explainer": {
+        "tagline": "Sea's three engines all firing again: Shopee GMV +28%, Monee loan book +63%, Garena bookings +16%.",
+        "whatIsIt": "Sea Limited, the Singapore-listed Southeast Asia e-commerce/fintech/gaming holdco, reported Q2 2026 before the bell on Tuesday Aug 11. Revenue and every segment topped both expectations and the Q1 run rate.",
+        "howItWorks": "GAAP revenue was $7.80B, up 48.1% Y/Y and above the $7.27B FactSet consensus. Diluted EPS was $0.70 (+7.7% Y/Y) and adjusted EBITDA was $917.2M (+10.6%). Shopee GMV came in at $38.3B (+28.4% Y/Y). Monee's principal-outstanding loan book grew 62.5% Y/Y to $11.1B, with $10.0B on-book. Garena bookings were $763.5M, +15.5% Y/Y.",
+        "whyItMatters": "The reacceleration in Garena is the most watched line — the gaming segment was the drag for most of 2024–25. All three engines now growing in sync makes Sea one of the few complete EM growth stories still compounding; regional comps GRAB and BABA international units feel the read-through.",
+        "forWho": "Emerging-markets and tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/SE/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Sea_Limited_Reports_Second_Quarter_2026_Results_1253745.webp",
+        "alt": "Sea Limited Q2 2026 earnings cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "StockTitan Release",
+          "url": "https://www.stocktitan.net/news/SE/sea-limited-reports-second-quarter-2026-hnyva894m8wm.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-reports-second-quarter-103000789.html"
+        },
+        {
+          "label": "Quiver Quant Recap",
+          "url": "https://www.quiverquant.com/news/SEA+LTD+($SE)+Releases+Q2+2026+Earnings"
+        },
+        {
+          "label": "SE Quote",
+          "url": "https://finance.yahoo.com/quote/SE/"
+        }
+      ],
+      "reddit": {
+        "title": "Sea Limited Q2: revenue +48% Y/Y to $7.8B, all three engines re-accelerated — Shopee GMV +28%, Monee loan book +63%, Garena bookings +16%",
+        "body": "Sea Limited (SE) reported Q2 2026 before the bell on Tuesday Aug 11. Every segment beat both estimates and Q1 exit rates.\n\n* Revenue $7.80B, +48.1% Y/Y — tops $7.27B est\n* Diluted EPS $0.70, +7.7% Y/Y\n* Adj EBITDA $917.2M, +10.6% Y/Y\n* Shopee GMV $38.3B, +28.4% Y/Y\n* Monee loan book $11.1B principal outstanding, +62.5% Y/Y ($10.0B on-book, $1.1B off-book)\n* Garena bookings $763.5M, +15.5% Y/Y\n* Stock +6.1% premarket to $121.76\n\nThe read-through:\n\n1. **Garena is back** — the gaming line was the sandbag on the story for six quarters; +16% Y/Y bookings is the highest re-acceleration since 2023.\n2. **Monee is now a real bank** — the credit book grew a full turn faster than GMV. The mix is shifting toward fintech operating profit.\n3. **Shopee GMV +28% Y/Y** is inconsistent with the softer SEA consumer narrative other names have been telling.\n\nFull breakdown: [https://stock-tldr.xyz/releases/se-q2-2026-shopee-monee-garena-aug-11-2026](https://stock-tldr.xyz/releases/se-q2-2026-shopee-monee-garena-aug-11-2026)"
+      },
+      "publishDate": "2026-08-12T01:03:41.448Z"
+    },
+    {
+      "id": "onon-q2-2026-guide-cut-wholesale-slowdown-aug-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "On Holding (ONON) Q2 2026 — net sales CHF 850.3M (+13.5% rep / +21.6% CC) misses CHF 878M est on wholesale slowdown (+4.8% rep / +12.7% CC vs +25.1% CC Q1); FY26 net-sales growth guide cut to low-20% CC (from ≥23%); stock -~22% Tuesday Aug 11 to ~2-yr low",
+      "org": "On Holding",
+      "date": "2026-08-11",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/holding-q2-2026-earnings-stock-171220135.html",
+      "summary": "Swiss performance-shoe brand posts Q2 net sales CHF 850.3M (miss vs CHF 878M est) as wholesale slows to +4.8% rep; FY26 sales guide cut from ≥23% to low-20% CC; stock -~22% to ~2-yr low.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "guidance-cut",
+        "wholesale",
+        "dtc",
+        "gross-margin",
+        "footwear",
+        "premium-athletic"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ONON"
+      ],
+      "metrics": {
+        "Net sales": "CHF 850.3M (+13.5% rep / +21.6% CC) vs CHF 878M est",
+        "Adj EPS": "CHF 0.35 (vs CHF 0.34 est)",
+        "Gross margin": "65.4% (+390 bps Y/Y)",
+        "DTC": "+26.0% rep / +34.3% CC",
+        "Wholesale": "+4.8% rep / +12.7% CC (vs +25.1% CC Q1)",
+        "FY26 sales guide": "low-20% CC (cut from ≥23% floor)",
+        "FY26 gross-margin guide": "≥65% (raised)",
+        "Move": "-~22% to ~2-yr low"
+      },
+      "explainer": {
+        "tagline": "On Holding cracks after wholesale collapses to +4.8% and management pulls its ≥23% FY sales-growth floor.",
+        "whatIsIt": "On Holding, the Swiss premium performance-shoe maker behind the Cloud franchise, reported Q2 2026 on Tuesday Aug 11 before the open. Sales missed for the first time in six quarters, wholesale decelerated sharply, and management cut the top-line growth floor for the year.",
+        "howItWorks": "Net sales were CHF 850.3M (+13.5% reported / +21.6% constant currency) versus a CHF 878M estimate. DTC held up at +26.0% reported (+34.3% CC), but wholesale collapsed to +4.8% reported (+12.7% CC) after +25.1% CC in Q1. Adjusted EPS of CHF 0.35 beat by a hair. Gross margin expanded 390 bps to 65.4%. FY26 net-sales growth was cut to 'low-20% CC' from the prior ≥23% floor; the full-year sales range now sits at CHF 3.47–3.56B. Management framed the wholesale weakness as intentional restraint before a 2027 product refresh.",
+        "whyItMatters": "The DTC/wholesale gap is now telling two different stories about the same brand — sell-through direct is fine, but sell-in to third-party retail is falling off a cliff. Reads through to comps NKE (broad performance) and DECK (Hoka franchise) as evidence that the specialty-run wholesale channel is tightening. The gross-margin lift keeps the profitability story intact but earnings quality is now DTC-only.",
+        "forWho": "Consumer discretionary and softlines desks",
+        "tryIt": "https://finance.yahoo.com/quote/ONON/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/D7283978FF94482618DD2AD40A1481F33E38D986315D0BF3962960ACC9264608/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fbe66ec848ed9eb3a288fee8b9fb741f0.jpg",
+        "alt": "On Holding Q2 2026 earnings coverage",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/holding-q2-2026-earnings-stock-171220135.html"
+        },
+        {
+          "label": "On IR Release",
+          "url": "https://press.on-running.com/on-reports-results-for-the-second-quarter-and-six-month-period-ended-june-30-2026"
+        },
+        {
+          "label": "WWD Recap",
+          "url": "https://wwd.com/footwear-news/shoe-industry-news/on-holding-onon-q2-earnings-stock-drop-1239100973/"
+        },
+        {
+          "label": "ONON Quote",
+          "url": "https://finance.yahoo.com/quote/ONON/"
+        }
+      ],
+      "reddit": {
+        "title": "On Holding (ONON) -~22% to a 2-yr low after Q2 wholesale collapses to +4.8% rep and FY sales-growth floor cut from ≥23% to low-20% CC",
+        "body": "On Holding (ONON) reported Q2 2026 on Tuesday Aug 11 before the open. The stock tanked as much as 22% to a roughly 2-year low.\n\n* Net sales CHF 850.3M, +13.5% rep / +21.6% CC — MISS vs CHF 878M est\n* Adj EPS CHF 0.35 (barely beat CHF 0.34 est)\n* Gross margin 65.4%, +390 bps Y/Y (bright spot)\n* DTC +26.0% rep / +34.3% CC — still fine\n* Wholesale +4.8% rep / +12.7% CC — down from +25.1% CC in Q1\n* FY26 net-sales-growth guide cut to low-20% CC from ≥23% floor\n* FY26 gross-margin guide RAISED to ≥65%\n\nWhat cracked:\n\n1. **Wholesale went from cruise-control to near-stall in one quarter** — sell-in to third-party retail slowed by more than 1,200 bps CC vs Q1. DTC is holding.\n2. **Guide cut confirms it's not a timing story** — management is explicitly pulling the ≥23% growth floor and framing weaker sell-in as 'intentional restraint' before a 2027 product refresh.\n3. **Gross margin got RAISED** — profitability side of the story remains, but growth is now DTC-only.\n\nRead-through: NKE, DECK (Hoka) into their next prints.\n\nFull breakdown: [https://stock-tldr.xyz/releases/onon-q2-2026-guide-cut-wholesale-slowdown-aug-11-2026](https://stock-tldr.xyz/releases/onon-q2-2026-guide-cut-wholesale-slowdown-aug-11-2026)"
+      },
+      "publishDate": "2026-08-12T01:03:41.448Z"
+    },
+    {
+      "id": "cava-q2-2026-comp-9pct-guide-reaffirm-aug-11-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CAVA (CAVA) Q2 2026 — revenue $365.4M (+31.3% Y/Y) tops $360M est, same-restaurant sales +9.0% on +5.3% traffic; adj EBITDA $54.7M (+30% Y/Y), net income $23.0M (+25%); opens 17 net new restaurants to 476 units; FY26 guide reaffirmed; CAVA +~12.7% AH Tuesday Aug 11",
+      "org": "CAVA Group",
+      "date": "2026-08-11",
+      "url": "https://www.stocktitan.net/news/CAVA/cava-group-reports-second-quarter-2026-wtwp2s40w7mu.html",
+      "summary": "Mediterranean fast-casual posts Q2 revenue $365M (+31% Y/Y), same-restaurant sales +9.0% on +5.3% traffic, adj EBITDA $54.7M (+30%); FY26 guide reaffirmed; stock +~12.7% AH to $68.50.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "fast-casual",
+        "restaurants",
+        "same-restaurant-sales",
+        "unit-growth",
+        "guidance-reaffirmed"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CAVA",
+        "CMG"
+      ],
+      "metrics": {
+        "Revenue": "$365.4M (+31.3% Y/Y) vs $360M est",
+        "SRS": "+9.0% (traffic +5.3%)",
+        "Adj EBITDA": "$54.7M (+30% Y/Y)",
+        "Net income": "$23.0M (+25% Y/Y)",
+        "New units": "17 net (476 total, +19.6% Y/Y)",
+        "FY26 EBITDA guide": "$181–191M (reaffirmed)",
+        "FY26 SRS guide": "4.5–6.5% (reaffirmed)",
+        "Move": "+~12.65% AH to $68.50"
+      },
+      "explainer": {
+        "tagline": "CAVA posts +9% same-restaurant sales on +5.3% traffic and reaffirms full-year guide after the July cyclospora-linked demand scare.",
+        "whatIsIt": "CAVA Group, the fast-casual Mediterranean chain, reported Q2 2026 (quarter ended July 12) after the close on Tuesday Aug 11. Every headline metric came in above the Street, same-restaurant sales stayed in the mid-single-digits with traffic positive, and management left full-year guidance unchanged after the mid-July cyclospora scare that clipped traffic at fast-casual comps.",
+        "howItWorks": "Revenue was $365.4M, up 31.3% Y/Y and above the $360.1M estimate. Same-restaurant sales rose 9.0% with guest traffic +5.3%. Adjusted EBITDA was $54.7M, up 30% Y/Y. Net income was $23.0M (+25% Y/Y). CAVA opened 17 net new restaurants in the quarter, bringing the base to 476 units (+19.6% Y/Y). Full-year 2026 guidance was reaffirmed: 75–77 net new openings, 4.5–6.5% same-restaurant sales, 23.7–24.3% restaurant-level margin, $181–191M adjusted EBITDA.",
+        "whyItMatters": "The +5.3% traffic beat is the standout — every other public fast-casual name has been leaning on price. Cava separately survived the July 20 Taylor Farms cyclospora scare (CAVA foot traffic -4.2% one day) without a guide cut, which sharpens the divergence versus CMG and SG. On-brand execution keeps CAVA the last unit-growth story left in the group.",
+        "forWho": "Restaurant, consumer, and small-cap growth desks",
+        "tryIt": "https://finance.yahoo.com/quote/CAVA/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/CAVA_Group_Reports_Second_Quarter_2026_Results_1267790.webp",
+        "alt": "CAVA Group Q2 2026 earnings cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "StockTitan Release",
+          "url": "https://www.stocktitan.net/news/CAVA/cava-group-reports-second-quarter-2026-wtwp2s40w7mu.html"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://stockstory.org/us/stocks/nyse/cava/news/earnings/cavas-nysecava-q2-cy2026-sales-beat-estimates-stock-jumps-102percent"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cava-group-reports-second-quarter-201000123.html"
+        },
+        {
+          "label": "CAVA Quote",
+          "url": "https://finance.yahoo.com/quote/CAVA/"
+        }
+      ],
+      "reddit": {
+        "title": "CAVA Q2: same-restaurant sales +9.0% with traffic +5.3%, revenue $365M (+31% Y/Y), FY guide reaffirmed after July cyclospora scare — stock +~13% AH",
+        "body": "CAVA Group reported Q2 2026 (quarter ended July 12) after the close on Tuesday Aug 11. The fast-casual grower kept growing.\n\n* Revenue $365.4M, +31.3% Y/Y — beats $360.1M est\n* Same-restaurant sales +9.0% on **guest traffic +5.3%**\n* Adj EBITDA $54.7M, +30% Y/Y\n* Net income $23.0M, +25% Y/Y\n* 17 net new restaurants opened — 476 total units (+19.6% Y/Y)\n* FY26 guide REAFFIRMED: 75–77 new units, 4.5–6.5% SRS, $181–191M adj EBITDA\n* Stock +~12.65% AH to $68.50\n\nWhat sets it apart:\n\n1. **Traffic is up +5.3%** — every other public fast-casual name has been leaning on price alone. CAVA is one of the few adding real guests.\n2. **No cyclospora hangover** — the July 20 Taylor Farms scare that clipped CAVA foot traffic -4.2% didn't force a guide cut. That's the tell.\n3. **Unit growth intact** — 19.6% base growth Y/Y with margins holding leaves CAVA as the last full-tilt unit story in the group vs CMG (mature) and SG (still unprofitable).\n\nFull breakdown: [https://stock-tldr.xyz/releases/cava-q2-2026-comp-9pct-guide-reaffirm-aug-11-2026](https://stock-tldr.xyz/releases/cava-q2-2026-comp-9pct-guide-reaffirm-aug-11-2026)"
+      },
+      "publishDate": "2026-08-12T01:03:41.448Z"
+    },
     {
       "id": "riot-anthropic-91b-ai-lease-q2-aug-10-2026",
       "categories": [
