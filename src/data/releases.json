@@ -1,8 +1,153 @@
 {
-  "generatedAt": "2026-08-12T01:03:41.448Z",
+  "generatedAt": "2026-08-12T12:53:15.268Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-cpi-july-2026-aug-12",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. July 2026 CPI — headline +0.1% M/M / +3.4% Y/Y and core +0.2% M/M / +2.5% Y/Y both in line with consensus, second straight month of Y/Y deceleration ahead of Sept FOMC",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "summary": "July U.S. CPI printed +0.1% M/M and +3.4% Y/Y with core +0.2% M/M and +2.5% Y/Y — both in line with LSEG consensus. Shelter (+0.1% M/M) was ~2/3 of the monthly gain, energy fell 1.5%.",
+      "tags": [
+        "cpi",
+        "core-cpi",
+        "inflation",
+        "bls",
+        "macro",
+        "fomc-september-2026",
+        "warsh-fed",
+        "shelter",
+        "energy",
+        "disinflation"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline CPI M/M": "+0.1% (est +0.1%)",
+        "Headline CPI Y/Y": "+3.4% (vs +3.5% June)",
+        "Core CPI M/M": "+0.2% (est +0.2%)",
+        "Core CPI Y/Y": "+2.5% (vs +2.6% June)",
+        "Shelter M/M": "+0.1%",
+        "Energy M/M": "-1.5%"
+      },
+      "explainer": {
+        "tagline": "In-line July CPI: headline 3.4% Y/Y, core down to 2.5% — cools the September-hike case a notch after last week's -23K payrolls.",
+        "whatIsIt": "The BLS released the July 2026 Consumer Price Index at 8:30 a.m. ET on Wednesday, Aug 12. Headline CPI rose 0.1% M/M and 3.4% Y/Y; core CPI (ex food & energy) rose 0.2% M/M and 2.5% Y/Y. Both readings matched the LSEG economist consensus.",
+        "howItWorks": "Shelter accounted for roughly two-thirds of the monthly headline gain and rose 0.1% M/M. Energy prices fell 1.5% on the month, giving a meaningful drag on the headline number. Year-over-year, headline eased from June's 3.5% and core slipped from 2.6% — the second consecutive month of Y/Y deceleration on both series.",
+        "whyItMatters": "This is the final CPI print before Kevin Warsh's Sept 16–17 FOMC. Coming after last week's -23K July payrolls miss and a downward 103K revision to prior months, an in-line CPI takes some of the urgency out of the 'still-tight' argument for a September rate hike; markets went into the print with hike odds already sitting at ~44% versus 57% a week earlier. Shelter stickiness keeps core above the Fed's 2% target and prevents an outright dovish read.",
+        "forWho": "rates desks, macro traders, Fed watchers",
+        "tryIt": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      },
+      "image": {
+        "url": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/12083701/federal-reserve-building-in-washington-dc-on-constitution-av-28-800x420.jpeg",
+        "alt": "Federal Reserve building on Constitution Avenue, Washington D.C.",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+        },
+        {
+          "label": "BLS Release",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/cpi-inflation-july-2026"
+        },
+        {
+          "label": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/us-inflation-falls-july-2026-cpi/"
+        },
+        {
+          "label": "CPI Home",
+          "url": "https://www.bls.gov/cpi/"
+        }
+      ],
+      "reddit": {
+        "title": "July CPI in line: headline +3.4% Y/Y, core +2.5% — second straight month of Y/Y decel heading into Warsh's first FOMC",
+        "body": "The BLS just dropped July CPI at 8:30 ET. Numbers hit right on the screen:\n\n* Headline CPI +0.1% M/M, +3.4% Y/Y (vs +3.5% June)\n* Core CPI +0.2% M/M, +2.5% Y/Y (vs +2.6% June)\n* Shelter +0.1% M/M — still \\~2/3 of the monthly headline gain\n* Energy -1.5% M/M — the drag that kept headline soft\n\nWhy it matters heading into the Sept 16–17 FOMC:\n\n1. **Last CPI before Warsh's meeting** — this and the Aug print (Sep 11) are the only inflation checks left before the decision.\n2. **Second consecutive month of Y/Y decel on both series** — you can no longer call it a one-month fluke.\n3. **Shelter refuses to break** — core stuck at 2.5% keeps the Fed off any \"mission accomplished\" narrative.\n\nContext: last Friday's -23K July NFP miss and the 103K downward revision to prior months already knocked September hike odds from \\~57% to \\~44%. An in-line CPI doesn't add fuel to the hike case.\n\nNext catalysts: PPI Aug 13, retail sales Aug 15, Jackson Hole Aug 21–23, Aug CPI Sep 11, FOMC Sep 16–17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-cpi-july-2026-aug-12](https://stock-tldr.xyz/releases/us-cpi-july-2026-aug-12)"
+      },
+      "publishDate": "2026-08-12T12:53:15.268Z"
+    },
+    {
+      "id": "nbis-q2-2026-earnings-ai-cloud-surge-aug-12",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Nebius Group (NBIS) Q2 2026 — revenue $582.3M (+454% Y/Y) beats $569.9M est, adj EBITDA swings to +$236.2M from -$21M; AI cloud segment $389.7M (+841%); FY26 revenue guide reaffirmed $3.0–$3.4B and CapEx target lifted to $20–$25B; NBIS +~12% pre-market Wed Aug 12",
+      "org": "Nebius Group",
+      "date": "2026-08-12",
+      "url": "https://group.nebius.com/newsroom/nebius-reports-second-quarter-2026-financial-results",
+      "summary": "Nebius Q2 2026 revenue $582.3M (+454% Y/Y) tops $569.9M est; adj EBITDA flips to +$236.2M (from -$21M) as AI cloud rev hits $389.7M (+841%). FY26 revenue guide reaffirmed $3.0–$3.4B, capex lifted to $20–$25B. NBIS +~12% pre-market.",
+      "tags": [
+        "earnings",
+        "ai-cloud",
+        "q2-2026",
+        "revenue-beat",
+        "ebitda-positive",
+        "capex-raise",
+        "ai-infrastructure",
+        "hyperscaler",
+        "nvda-supply-chain"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NBIS",
+        "CRWV"
+      ],
+      "metrics": {
+        "Revenue": "$582.3M (+454% Y/Y) vs $569.9M est",
+        "AI Cloud revenue": "$389.7M (+841% Y/Y)",
+        "Adj EBITDA": "+$236.2M vs -$21.0M Y/Y",
+        "Adj EPS": "-$0.68 vs -$0.72 est",
+        "FY26 revenue guide": "$3.0–$3.4B (reaffirmed)",
+        "FY26 CapEx target": "$20–$25B (raised)",
+        "Move": "+~12% pre-market Wed Aug 12"
+      },
+      "explainer": {
+        "tagline": "Nebius Q2 blows past $570M consensus and swings to positive adj EBITDA; capex target raised to $20–$25B on AI cloud demand.",
+        "whatIsIt": "Nebius Group, the AI-cloud spinoff of what used to be Yandex, reported Q2 2026 results before the U.S. open on Wednesday Aug 12. Revenue was $582.3M (+454% Y/Y) versus the $569.9M consensus, with adjusted EBITDA turning positive at +$236.2M — a swing of ~$257M from the -$21.0M loss a year earlier. Adjusted EPS came in at -$0.68 versus a -$0.72 Street estimate.",
+        "howItWorks": "The AI cloud segment produced $389.7M of the quarter's revenue, up 841% Y/Y, driven by rapid capacity scaling and high GPU utilization. Management reaffirmed FY26 revenue guidance of $3.0B–$3.4B and lifted the FY26 capex target to $20–$25B to fund new data-center buildouts. Remaining performance obligations stood at $33.59B as of March 31, 2026.",
+        "whyItMatters": "Nebius is the second AI-cloud pure play to report in 48 hours after CoreWeave's $2.58B print on Tuesday, and the pattern is identical: revenue running well ahead of Wall Street models, capex targets ratcheting higher, and short-sellers (including Michael Burry, per public 13F disclosures) staying on the wrong side of the tape. NBIS was +~12% pre-market Wed Aug 12; expect echo bids across CoreWeave (CRWV), IREN, Applied Digital and the AI-adjacent power complex. The reaffirmed $3.0–$3.4B FY revenue means H2 needs ~$800M/quarter run-rate.",
+        "forWho": "AI trade traders, hyperscaler capex watchers, growth-tech PMs",
+        "tryIt": "https://finance.yahoo.com/quote/NBIS"
+      },
+      "image": {
+        "url": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/12075759/nebius-stock-plunged-31-last-month-is-it-time-to-buy-800x420.jpeg",
+        "alt": "Nebius Group logo and stock chart overlay",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Nebius Newsroom",
+          "url": "https://group.nebius.com/newsroom/nebius-reports-second-quarter-2026-financial-results"
+        },
+        {
+          "label": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/nebius-q2-2026-revenue-surges-454-percent/"
+        },
+        {
+          "label": "TradingKey Recap",
+          "url": "https://www.tradingkey.com/news/earnings/262099252-tradingkey"
+        },
+        {
+          "label": "NBIS Quote",
+          "url": "https://finance.yahoo.com/quote/NBIS"
+        }
+      ],
+      "reddit": {
+        "title": "Nebius (NBIS) Q2: revenue +454% to $582M, adj EBITDA flips +$236M, capex target raised to $20–25B — stock +~12% pre-market",
+        "body": "Nebius, the ex-Yandex AI cloud spinoff, dropped Q2 2026 before Wednesday's open. The numbers:\n\n* Revenue $582.3M (+454% Y/Y), tops $569.9M est\n* AI cloud segment $389.7M (+841% Y/Y)\n* Adj EBITDA +$236.2M — swings from -$21.0M loss a year ago\n* Adj EPS -$0.68 vs -$0.72 est\n* NBIS +\\~12% pre-market\n\nGuidance moves:\n\n1. **FY26 revenue guide reaffirmed at $3.0–$3.4B** — implies \\~$800M/quarter run-rate in H2.\n2. **FY26 capex target raised to $20–$25B** — that's an enormous data-center buildout for a company doing \\~$2.4B/yr at the midpoint of guide.\n3. **Remaining performance obligations at $33.59B** — demand visibility isn't the problem.\n\nSecond AI cloud pure-play in 48h to blow the doors off after CoreWeave's $2.58B Tuesday print. Short interest and Michael Burry's known bearish view are getting run over on both.\n\nNext catalysts: Cisco AMC tonight; CPI already in-line this morning; PPI Aug 13.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nbis-q2-2026-earnings-ai-cloud-surge-aug-12](https://stock-tldr.xyz/releases/nbis-q2-2026-earnings-ai-cloud-surge-aug-12)"
+      },
+      "publishDate": "2026-08-12T12:53:15.268Z"
+    },
     {
       "id": "crwv-q2-2026-earnings-104b-backlog-aug-11-2026",
       "categories": [

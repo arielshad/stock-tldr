@@ -9453,6 +9453,40 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260812t125315z",
+      "timestamp": "2026-08-12T12:53:15.268Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: July U.S. CPI printed in line (+3.4% headline / +2.5% core Y/Y) and Nebius Q2 2026 delivered a $582M revenue beat with adj EBITDA swinging positive; NBIS +~12% pre-market Wed Aug 12.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-july-2026-aug-12",
+          "title": "U.S. July 2026 CPI — headline +0.1% M/M / +3.4% Y/Y and core +0.2% M/M / +2.5% Y/Y both in line with consensus, second straight month of Y/Y deceleration ahead of Sept FOMC",
+          "category": "macro",
+          "note": "Only monthly CPI is a scheduled tier-1 macro print; last CPI before Warsh's Sept 16–17 FOMC, primary-source confirmed at BLS, wall-of-coverage."
+        },
+        {
+          "id": "nbis-q2-2026-earnings-ai-cloud-surge-aug-12",
+          "title": "Nebius Group (NBIS) Q2 2026 — revenue $582.3M (+454% Y/Y) beats $569.9M est, adj EBITDA swings to +$236.2M from -$21M; AI cloud segment $389.7M (+841%); FY26 revenue guide reaffirmed $3.0–$3.4B and CapEx target lifted to $20–$25B; NBIS +~12% pre-market Wed Aug 12",
+          "category": "earnings",
+          "note": "Mega beat on both revenue and margins for AI-cloud pure-play, CapEx target lifted 25% at midpoint, +~12% pre-market — clean mover + earnings catch."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
