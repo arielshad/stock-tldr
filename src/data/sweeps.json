@@ -9487,6 +9487,33 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260813t010213z",
+      "timestamp": "2026-08-13T01:02:13.628Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Cisco Q4 FY26 print + FY27 guide raise, the marquee mega-cap earnings event of the Aug 12 after-hours session.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "csco-q4-fy26-ai-orders-9b-guide-raise-aug-12-2026",
+          "title": "Cisco (CSCO) Q4 FY26 — revenue $17.3B (+18% Y/Y) beats $16.82B est, non-GAAP EPS $1.22 tops $1.17 est; FY27 revenue guide $72.2–$73.4B crushes $68.7B est on AI networking demand; FY26 hyperscaler AI infrastructure orders $9.3B (4.5× prior year); CSCO initially +3% then -4% AH Wed Aug 12",
+          "category": "earnings",
+          "note": "Beat-and-raise mega-cap earnings; FY27 revenue guide ~$4B above consensus on sustained AI networking demand; AH sell-the-news reaction after 60% YTD run."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto"
+      ]
     }
   ]
 }

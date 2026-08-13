@@ -1,8 +1,88 @@
 {
-  "generatedAt": "2026-08-12T12:53:15.268Z",
+  "generatedAt": "2026-08-13T01:02:13.628Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "csco-q4-fy26-ai-orders-9b-guide-raise-aug-12-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Cisco (CSCO) Q4 FY26 — revenue $17.3B (+18% Y/Y) beats $16.82B est, non-GAAP EPS $1.22 tops $1.17 est; FY27 revenue guide $72.2–$73.4B crushes $68.7B est on AI networking demand; FY26 hyperscaler AI infrastructure orders $9.3B (4.5× prior year); CSCO initially +3% then -4% AH Wed Aug 12",
+      "org": "Cisco",
+      "date": "2026-08-12",
+      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx",
+      "summary": "Cisco Q4 FY26 posts $17.3B revenue and $1.22 non-GAAP EPS, both beating consensus. FY27 revenue guide $72.2–$73.4B tops $68.7B est on sustained AI networking demand; FY26 hyperscaler AI orders total $9.3B, 4.5× the prior year.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q4-fy26",
+        "ai-infrastructure",
+        "ai-networking",
+        "hyperscalers",
+        "networking",
+        "silicon-one",
+        "sell-the-news"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CSCO"
+      ],
+      "metrics": {
+        "EPS": "$1.22 vs $1.17 est (+23% Y/Y)",
+        "Revenue": "$17.3B vs $16.82B est (+18% Y/Y)",
+        "GAAP EPS": "$0.97 (+52% Y/Y)",
+        "FY27 rev guide": "$72.2–$73.4B vs $68.69B est",
+        "FY27 EPS guide": "$5.05–$5.11 non-GAAP",
+        "FY26 AI orders": "$9.3B (4.5× prior year)",
+        "FY27 AI rev target": "$7.5B (up from ~$4B FY26)",
+        "Networking Q4": "$9.8B (+28% Y/Y)",
+        "Product orders Q4": "+35% Y/Y (+25% ex-hyperscaler)",
+        "Move": "+3% then -4% AH Wed Aug 12"
+      },
+      "explainer": {
+        "tagline": "Beat-and-raise with a $9.3B AI order tally — but a 60% YTD rally set the bar high, so shares faded after popping.",
+        "whatIsIt": "Cisco reported its fiscal fourth quarter and full year 2026 (quarter ended July 25) after the close on Wednesday Aug 12. Revenue, EPS, Q1 guide and FY27 guide all topped Wall Street. The story was the AI networking book: $4B of hyperscaler orders in Q4 alone brought the FY26 total to $9.3B, roughly 4.5× fiscal 2025.",
+        "howItWorks": "Q4 revenue was $17.3B (+18% Y/Y) vs $16.82B est; non-GAAP EPS $1.22 (+23% Y/Y) vs $1.17 est; GAAP EPS $0.97 (+52%). Product revenue $13.5B (+24%), with Networking $9.8B (+28%), Security $2.2B (+14%), Collaboration $1.2B (+12%). FY26 revenue closed at $63.3B (+12%). FY27 guide came in at $72.2–$73.4B (midpoint +15%) and $5.05–$5.11 non-GAAP EPS; Q1 FY27 revenue $18.0–$18.2B. Cisco expects FY27 hyperscale AI-infrastructure revenue of $7.5B, up from about $4B in FY26. In Q4 the company returned $3.2B to shareholders — $1.5B of buybacks at an average $111.53 and $1.7B of dividends.",
+        "whyItMatters": "Cisco is the primary read on U.S. hyperscaler networking capex. The FY27 revenue guide sits ~$4B above consensus and implies AI-driven networking demand is still accelerating, echoing recent commentary from AVGO, ARM and the hyperscalers themselves. But CSCO closed Aug 12 at $123.88, up ~60% YTD, and shares initially rose 3% in extended trading before falling more than 4% as investors treated the print as confirmation rather than a new catalyst — a classic sell-the-news reaction into elevated positioning. Read-through: strong hyperscaler capex trends stay intact for networking/optical peers (ANET, AVGO, MRVL, CIEN, LITE), but valuation-driven pullbacks are on the table if guides only match expectations.",
+        "forWho": "AI-networking longs, mega-cap earnings watchers",
+        "tryIt": "https://finance.yahoo.com/quote/CSCO"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS858093/Cisco-v2-Logo.jpg?id=OA2866614",
+        "alt": "Cisco corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Cisco IR Release",
+          "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx"
+        },
+        {
+          "label": "PR Newswire Copy",
+          "url": "https://www.prnewswire.com/news-releases/cisco-reports-fourth-quarter-and-fiscal-year-2026-earnings-302850096.html"
+        },
+        {
+          "label": "Yahoo Press Release",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-reports-fourth-quarter-fiscal-200500620.html"
+        },
+        {
+          "label": "Fool: Aug 12 Wrap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/12/stock-market-today-aug-12-stocks-edge-higher-as-inflation-data-eases-fed-rate-pressure/"
+        },
+        {
+          "label": "CSCO Quote",
+          "url": "https://finance.yahoo.com/quote/CSCO"
+        }
+      ],
+      "reddit": {
+        "title": "Cisco (CSCO) Q4 FY26 — beat and raise, FY27 revenue guide $72.2–73.4B vs $68.7B est, AI orders $9.3B (4.5× YoY); stock still fades -4% AH after 60% YTD rally",
+        "body": "Cisco reported Q4 fiscal 2026 after the close on Wednesday Aug 12. Beat and raise across the board — but shares faded from +3% to -4% in extended trading.\n\n* Revenue $17.3B (+18% Y/Y) vs $16.82B est\n* Non-GAAP EPS $1.22 (+23% Y/Y) vs $1.17 est\n* Networking Q4 revenue $9.8B (+28% Y/Y); total product orders +35%, +25% ex-hyperscalers\n* FY26 hyperscaler AI infrastructure orders $9.3B — about 4.5× FY25\n* Returned $3.2B in Q4: $1.5B buybacks at avg $111.53 + $1.7B dividends\n\nThe FY27 guide is the headline:\n\n1. **Revenue $72.2–$73.4B** vs $68.69B consensus — midpoint implies ~15% growth\n2. **Non-GAAP EPS $5.05–$5.11** vs the ~$4.85 street\n3. **AI infrastructure revenue eyed at $7.5B** in FY27, up from ~$4B delivered in FY26\n\nWhy the sell-off? CSCO went into the print up ~60% YTD, closing $123.88. Even a $4B beat over consensus is a confirmation, not a new catalyst, when the buyside was already there.\n\nNext catalysts: Q1 FY27 already guided $18.0–$18.2B; AMAT prints tomorrow (Aug 13); JHEQ/CIEN/MRVL earnings later in Aug for AI-networking read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/csco-q4-fy26-ai-orders-9b-guide-raise-aug-12-2026](https://stock-tldr.xyz/releases/csco-q4-fy26-ai-orders-9b-guide-raise-aug-12-2026)"
+      },
+      "publishDate": "2026-08-13T01:02:13.628Z"
+    },
     {
       "id": "us-cpi-july-2026-aug-12",
       "categories": [
