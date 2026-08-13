@@ -1,8 +1,219 @@
 {
-  "generatedAt": "2026-08-13T01:02:13.628Z",
+  "generatedAt": "2026-08-13T12:58:58.424Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bn-q2-2026-earnings-15pct-de-210b-deployable-aug-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Brookfield (BN) Q2 2026 — distributable earnings before realizations $1.4B ($0.61/sh, +15% Y/Y), total DE $1.5B ($0.66/sh); fee-bearing capital $672B, deployable capital hits record $210B on record $77B quarterly fundraising; net income $703M",
+      "org": "Brookfield Corporation",
+      "date": "2026-08-13",
+      "url": "https://www.globenewswire.com/news-release/2026/08/13/3344325/0/en/brookfield-corporation-reports-15-increase-in-earnings.html",
+      "summary": "Brookfield Q2 2026 — distributable earnings before realizations $1.4B ($0.61/sh, +15% Y/Y); total DE $1.5B ($0.66/sh); fee-bearing capital $672B; record $210B deployable capital and $77B quarterly fundraising.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "asset-management",
+        "insurance",
+        "fee-bearing-capital",
+        "deployable-capital",
+        "fundraising",
+        "oaktree",
+        "just-group"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BN"
+      ],
+      "metrics": {
+        "DE before realizations": "$0.61/sh (+15% Y/Y)",
+        "Total DE": "$0.66/sh",
+        "Net income (Q2)": "$703M",
+        "Fee-bearing capital": "$672B",
+        "Deployable capital": "$210B (record)",
+        "Q2 fundraising": "$77B (record)",
+        "H1 capital deployed": "$100B",
+        "Quarterly dividend": "$0.07/sh"
+      },
+      "explainer": {
+        "tagline": "Brookfield posts 15% growth in distributable earnings per share and a record $210B of deployable capital",
+        "whatIsIt": "Brookfield Corporation (BN), the Toronto-based alternative asset and insurance conglomerate, reported second-quarter 2026 results on Aug 13. Distributable earnings before realizations rose 15% per share on stronger asset-management fee earnings and a growing insurance book.",
+        "howItWorks": "DE before realizations came in at $1.4B ($0.61/sh) and total DE at $1.5B ($0.66/sh). Fee-bearing capital reached $672B after asset-management fee-related earnings grew 20% Y/Y. The company raised a record $77B in the quarter and $98B YTD, and deployed $100B and monetized $40B in H1. Net income was $703M ($3.7B LTM). Board declared a $0.07/sh quarterly dividend.",
+        "whyItMatters": "The record $210B of deployable capital + $77B quarterly fundraising underscores that alt-asset money is still flowing to Brookfield-sized platforms even as public equities push new highs. The Oaktree and Just Group acquisitions have closed and the corporate simplification transaction was approved by shareholders on Jul 16, positioning BN for the next capital-return leg.",
+        "forWho": "Alt-asset allocators and Brookfield-complex investors",
+        "tryIt": "https://finance.yahoo.com/quote/BN"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/dc51b021-86fa-4a9d-8941-a4f14b3bb17b",
+        "alt": "Brookfield Corporation Q2 2026 press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q2 Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344325/0/en/brookfield-corporation-reports-15-increase-in-earnings.html"
+        },
+        {
+          "label": "Stocktitan",
+          "url": "https://www.stocktitan.net/news/BN/brookfield-corporation-reports-15-increase-in-w463r4z7a947.html"
+        },
+        {
+          "label": "Yahoo Reprint",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-reports-15-increase-104500503.html"
+        },
+        {
+          "label": "BN Quote",
+          "url": "https://finance.yahoo.com/quote/BN"
+        }
+      ],
+      "reddit": {
+        "title": "Brookfield (BN) Q2 2026 — DE per share +15%, deployable capital hits record $210B on record $77B quarter",
+        "body": "Brookfield reported a strong Q2 as the alt-asset flywheel keeps compounding. Here's the take:\n\n* Distributable earnings before realizations: $1.4B or $0.61/sh (+15% Y/Y)\n* Total distributable earnings: $1.5B or $0.66/sh\n* Net income Q2: $703M ($3.7B LTM)\n* Fee-bearing capital: $672B — fee-related earnings +20% Y/Y\n* Record $77B raised in the quarter, $98B YTD\n* Record $210B of deployable capital across cash and uncalled commitments\n\nThree things worth flagging:\n\n1. **Fundraising is still very much on** — $77B in a single quarter is a fresh record and cuts against the \"alts fatigue\" narrative.\n2. **Just Group closed** — added $45B of insurance assets to the Brookfield Wealth Solutions book.\n3. **Simplification transaction approved** — shareholders greenlit it on Jul 16, setting up the next phase of capital return with $210B of dry powder.\n\nBoard declared a $0.07/sh quarterly dividend (payable Sep 29).\n\nFull breakdown: [https://stock-tldr.xyz/releases/bn-q2-2026-earnings-15pct-de-210b-deployable-aug-13-2026](https://stock-tldr.xyz/releases/bn-q2-2026-earnings-15pct-de-210b-deployable-aug-13-2026)"
+      },
+      "publishDate": "2026-08-13T12:58:58.424Z"
+    },
+    {
+      "id": "jd-q2-2026-earnings-margin-inflection-aug-13-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "JD.com (JD) Q2 2026 — net revenues RMB346.4B (US$51.1B, -2.9% Y/Y) fall on high base, but operating income swings to RMB4.5B (1.3% margin) from -RMB0.9B loss; non-GAAP EPS RMB6.29 (+26.6% Y/Y); food-delivery losses narrow; JD -~4% premarket Thu Aug 13",
+      "org": "JD.com",
+      "date": "2026-08-13",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/13/3344319/0/en/jd-com-announces-second-quarter-and-interim-2026-results.html",
+      "summary": "JD.com Q2 2026 — revenue RMB346.4B (-2.9% Y/Y) on high base, but operating income swings to RMB4.5B (1.3% margin) from -RMB0.9B loss; non-GAAP EPS RMB6.29 (+26.6%); JD Food Delivery losses narrow; JD -~4% premarket.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "china-e-commerce",
+        "jd-retail",
+        "food-delivery",
+        "margin-recovery",
+        "buyback"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JD"
+      ],
+      "metrics": {
+        "Net revenue": "RMB346.4B / $51.1B (-2.9% Y/Y)",
+        "Operating income": "RMB4.5B (1.3% margin) vs -RMB0.9B",
+        "Net income (GAAP)": "RMB7.1B",
+        "Non-GAAP EPS": "RMB6.29 (+26.6% Y/Y)",
+        "H1 free cash flow": "RMB31.4B (vs RMB10.1B)",
+        "H1 buyback": "$1.0B (2.5% of shares)",
+        "Move": "-~4% premarket"
+      },
+      "explainer": {
+        "tagline": "JD.com posts first Y/Y revenue decline in years but flips operating income sharply positive as food-delivery losses narrow",
+        "whatIsIt": "JD.com (Nasdaq: JD, HK: 9618) reported Q2 2026 results on Aug 13. Headline revenue fell 2.9% Y/Y against a high 2025 comp, but core JD Retail profitability held and the New Businesses segment (which includes JD Food Delivery) narrowed losses meaningfully.",
+        "howItWorks": "Q2 net revenues were RMB346.4B (US$51.1B), down 2.9% Y/Y. Operating income was RMB4.5B (1.3% margin) vs a RMB0.9B loss a year ago; non-GAAP operating income was RMB5.5B. GAAP net income was RMB7.1B (RMB5.01 per ADS); non-GAAP net income RMB8.9B (RMB6.29 per ADS, +26.6% Y/Y). JD Retail delivered RMB295.4B revenue and RMB13.5B operating income at 4.6% margin. H1 free cash flow was RMB31.4B (vs RMB10.1B). During H1 JD repurchased 34.9M ADSs for $1.0B, leaving $1.0B under the existing $5.0B program.",
+        "whyItMatters": "The market read is mixed: a headline top-line miss (~4% premarket sell-off) offset by a clean operating-income inflection as food-delivery losses narrow. Watch JD Retail margin durability into the Aug 18 Chinese e-commerce peak and PDD/BABA read-throughs, plus Beijing's continuing scrutiny of instant-delivery pricing wars.",
+        "forWho": "China e-commerce / ADR investors",
+        "tryIt": "https://finance.yahoo.com/quote/JD"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/8cfacbc5-6f02-44df-af23-57f426127cef",
+        "alt": "JD.com Q2 2026 earnings press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q2 Press Release",
+          "url": "https://www.globenewswire.com/en/news-release/2026/08/13/3344319/0/en/jd-com-announces-second-quarter-and-interim-2026-results.html"
+        },
+        {
+          "label": "Manila Times Reprint",
+          "url": "https://www.manilatimes.net/2026/08/13/tmt-newswire/globenewswire/jdcom-announces-second-quarter-and-interim-2026-results/2404672"
+        },
+        {
+          "label": "JD Quote",
+          "url": "https://finance.yahoo.com/quote/JD"
+        }
+      ],
+      "reddit": {
+        "title": "JD.com (JD) Q2 2026 — first revenue drop in years (-2.9% Y/Y), but operating income flips to +RMB4.5B from -RMB0.9B loss; stock -4% premarket",
+        "body": "JD.com's Q2 print is a classic 'top-line ugly, bottom-line clean' quarter. Here are the numbers:\n\n* Net revenue: RMB346.4B (US$51.1B) — down 2.9% Y/Y on tough 2025 comp\n* Operating income: RMB4.5B at 1.3% margin — vs a RMB0.9B loss a year ago\n* Non-GAAP EPS: RMB6.29 per ADS, +26.6% Y/Y\n* JD Retail operating income: RMB13.5B at 4.6% margin\n* H1 free cash flow: RMB31.4B (vs RMB10.1B)\n* H1 buyback: 34.9M ADSs for $1.0B (2.5% of shares out); $1.0B left on program\n\nTwo drivers:\n\n1. **Food-delivery losses narrowed sharply** — New Businesses (JD Food Delivery included) went from a P&L anchor to a materially smaller one, powering the operating-income swing.\n2. **JD Retail held margin** — 4.6% operating margin in peak-comp season is the whole ballgame for the print.\n\nStock traded ~-4% in premarket after the release — the top-line miss overshadowed the margin recovery.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jd-q2-2026-earnings-margin-inflection-aug-13-2026](https://stock-tldr.xyz/releases/jd-q2-2026-earnings-margin-inflection-aug-13-2026)"
+      },
+      "publishDate": "2026-08-13T12:58:58.424Z"
+    },
+    {
+      "id": "cbrs-q2-2026-earnings-gaap-miss-core-double-aug-12-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cerebras (CBRS) Q2 2026 — GAAP revenue $180.1M misses $193.6M est (-7% Y/Y), adj loss $2.98/sh vs -$0.18 est; but core revenue $209.9M (+103% Y/Y), GAAP cloud +281%, RPO $25.4B; FY26 core revenue guide raised to $880-890M; CBRS -~18% premarket Thu Aug 13",
+      "org": "Cerebras Systems",
+      "date": "2026-08-12",
+      "url": "https://www.globenewswire.com/news-release/2026/08/12/3344077/0/en/cerebras-systems-fast-inference-cloud-business-nearly-quadruples-in-second-quarter-2026.html",
+      "summary": "Cerebras Q2 2026 — GAAP revenue $180.1M misses $193.6M est on -7% Y/Y, adj loss $2.98/sh vs -$0.18 est; core revenue $209.9M (+103%); FY26 core revenue guide raised to $880-890M; RPO $25.4B; CBRS -~18% premarket.",
+      "tags": [
+        "earnings",
+        "q2-2026",
+        "ai-infra",
+        "cloud",
+        "guidance-raise",
+        "gaap-miss",
+        "ipo-alum"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CBRS"
+      ],
+      "metrics": {
+        "GAAP revenue": "$180.1M vs $193.6M est (-7% Y/Y)",
+        "Core revenue": "$209.9M (+103% Y/Y)",
+        "GAAP cloud revenue": "$126.0M (+281% Y/Y)",
+        "Adj EPS": "-$2.98 vs -$0.18 est",
+        "RPO": "$25.4B",
+        "Data center capacity": ">600 MW by end-2027",
+        "FY26 core revenue guide": "$880-$890M (raised from $855-$865M)",
+        "Q3 core revenue guide": "$214-$216M",
+        "Cash & investments": "$8.6B",
+        "Move": "-~18% premarket Aug 13"
+      },
+      "explainer": {
+        "tagline": "Cerebras beats on core AI-cloud momentum but GAAP headline whiffs badly; guide raise fails to arrest an ~18% premarket drop",
+        "whatIsIt": "Cerebras Systems (Nasdaq: CBRS), the AI wafer-scale chip and inference-cloud company, reported Q2 2026 results after the close on Aug 12. GAAP revenue and EPS both missed by wide margins, even as the company's 'core' AI-cloud franchise more than doubled and it raised the full-year outlook.",
+        "howItWorks": "GAAP total revenue was $180.1M vs the $193.6M consensus, down 7% Y/Y. Adj loss of $2.98/sh missed a -$0.18 est. The gap between GAAP and 'core' ($209.9M, +103% Y/Y) is driven by a $44.3M non-cash customer warrant amortization plus $14.5M of pass-through data-center costs. GAAP cloud revenue rose 281% to $126.0M. RPO reached $25.4B and data-center capacity live-or-contracted through end-2027 is >600 MW. Q3 core revenue is guided $214-$216M and FY26 core revenue is raised to $880-$890M. Cash + investments $8.6B.",
+        "whyItMatters": "The AI-infra names got walloped last week when the AI-capex trade cracked; a ~18% premarket drop on a raised guide from a Nvidia alternative fits the theme. Watch neo-cloud comps (CRWV, NBIS) and AMD read-through — CEO Andrew Feldman continues to pitch Cerebras plus AMD/AWS as the disaggregated-inference alternative to NVIDIA.",
+        "forWho": "AI-infrastructure investors",
+        "tryIt": "https://finance.yahoo.com/quote/CBRS"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/afe6a6bd-77db-4780-98cb-e6efc198c7f6",
+        "alt": "Cerebras Systems Q2 2026 press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q2 Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/12/3344077/0/en/cerebras-systems-fast-inference-cloud-business-nearly-quadruples-in-second-quarter-2026.html"
+        },
+        {
+          "label": "Stocktitan",
+          "url": "https://www.stocktitan.net/news/CBRS/cerebras-systems-fast-inference-cloud-business-nearly-quadruples-in-6s5hs32fdiz0.html"
+        },
+        {
+          "label": "Yahoo Reprint",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-tumbles-14-earnings-205418522.html"
+        },
+        {
+          "label": "CBRS Quote",
+          "url": "https://finance.yahoo.com/quote/CBRS"
+        }
+      ],
+      "reddit": {
+        "title": "Cerebras (CBRS) Q2 2026 — GAAP revenue $180M misses $194M est, adj loss -$2.98 vs -$0.18 est; core rev +103% and FY26 guide raised, but stock -18% premarket",
+        "body": "Cerebras just posted a messy split-decision Q2. The GAAP tape is ugly, but the underlying AI-cloud engine looks like it's compounding fast. Here's the breakdown:\n\n* GAAP revenue: $180.1M — missed the $193.6M consensus, down 7% Y/Y\n* Adj EPS: -$2.98 vs -$0.18 est\n* Core revenue (ex non-cash warrant amort + pass-through DC costs): $209.9M, +103% Y/Y\n* GAAP cloud revenue: $126.0M, +281% Y/Y\n* Remaining performance obligations: $25.4B\n* Data-center capacity (live + under contract by end-2027): >600 MW\n* Cash + investments: $8.6B\n\nGuide:\n\n1. **FY26 core revenue raised to $880–$890M** — up from prior $855–$865M range.\n2. **Q3 core revenue guided $214–$216M** — just above the $212M average estimate but shy of some >$220M bulls.\n\nMarket reaction: CBRS -~18% in Thursday premarket. Even a raised outlook isn't enough with the AI-capex trade cracked and neo-clouds (CRWV, NBIS) still digesting last week's rout.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cbrs-q2-2026-earnings-gaap-miss-core-double-aug-12-2026](https://stock-tldr.xyz/releases/cbrs-q2-2026-earnings-gaap-miss-core-double-aug-12-2026)"
+      },
+      "publishDate": "2026-08-13T12:58:58.424Z"
+    },
     {
       "id": "csco-q4-fy26-ai-orders-9b-guide-raise-aug-12-2026",
       "categories": [
