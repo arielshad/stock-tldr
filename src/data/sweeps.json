@@ -9607,6 +9607,38 @@
         "mna",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260814t124519z",
+      "timestamp": "2026-08-14T12:45:19.974Z",
+      "source": "github-actions-sweep",
+      "summary": "Two additions from the Aug 13 close: Reddit's S&P 500 inclusion (effective Aug 18, replacing AvalonBay) and Birkenstock's Q3 FY26 beat-and-raise (revenue €720M, guide lifted to 15% CC growth; BIRK closed +~17%). Aug 14 8:30 AM ET macro prints (retail sales, import prices, U-Mich sentiment) were still crossing the tape as this sweep ran — deferred to the next sweep for wall-of-coverage verification.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rddt-sp500-inclusion-aug-13-2026",
+          "title": "Reddit (RDDT) joins the S&P 500 on Aug 18, replacing AvalonBay — RDDT +~11% AH Thursday Aug 13 after S&P Dow Jones announcement at 6:12 PM ET",
+          "category": "mover",
+          "note": "S&P Dow Jones Indices announcement after Thursday's close (Aug 13 6:12 PM ET); index-inclusion trades are among the cleanest catalysts on the tape."
+        },
+        {
+          "id": "birk-q3-fy26-guide-raise-aug-13-2026",
+          "title": "Birkenstock (BIRK) Q3 FY26 — revenue €720M (+13% rep / +15% CC), adj EBITDA €242M (33.7% margin), FY26 revenue growth guide bumped to 15% CC; stock closes +~17% at ~$42.92 Thursday Aug 13",
+          "category": "earnings",
+          "note": "Fresh Aug 13 earnings — revenue beat and FY26 CC growth guide raised to top of prior range; stock +~17% intraday, a rare positive luxury/soft-lux consumer print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "earnings",
+        "macro"
+      ]
     }
   ]
 }

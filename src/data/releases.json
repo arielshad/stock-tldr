@@ -1,8 +1,162 @@
 {
-  "generatedAt": "2026-08-14T01:10:11.062Z",
+  "generatedAt": "2026-08-14T12:45:19.974Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rddt-sp500-inclusion-aug-13-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Reddit (RDDT) joins the S&P 500 on Aug 18, replacing AvalonBay — RDDT +~11% AH Thursday Aug 13 after S&P Dow Jones announcement at 6:12 PM ET",
+      "org": "S&P Dow Jones Indices",
+      "date": "2026-08-13",
+      "url": "https://www.prnewswire.com/news-releases/reddit-set-to-join-sp-500-and-sun-communities-to-join-sp-midcap-400-302851432.html",
+      "summary": "S&P Dow Jones Indices said Reddit will replace AvalonBay Communities in the S&P 500 before the open on Aug 18. RDDT closed +3.04% at $158.12 and then jumped ~11% AH on the news.",
+      "tickers": [
+        "RDDT",
+        "AVB",
+        "SUI",
+        "WBS"
+      ],
+      "metrics": {
+        "RDDT close (Aug 13)": "$158.12 (+3.04%)",
+        "RDDT after-hours move": "+~11%",
+        "S&P 500 add date": "Aug 18, 2026 (before open)",
+        "Replacing": "AvalonBay Communities (AVB)",
+        "RDDT YTD before news": "-31%"
+      },
+      "importance": "major",
+      "tags": [
+        "sp500-index-add",
+        "index-inclusion",
+        "mover",
+        "reddit",
+        "avalonbay",
+        "communication-services",
+        "rebalance"
+      ],
+      "explainer": {
+        "tagline": "Reddit finally cracks the S&P 500 — becomes only the second pure-play social media name in the index after Meta.",
+        "whatIsIt": "S&P Dow Jones Indices announced after Thursday's close (6:12 PM ET on Aug 13) that Reddit (RDDT) will be added to the S&P 500 before the market opens on Aug 18. Reddit replaces AvalonBay Communities (AVB), which is being merged out of the index following Equity Residential's acquisition of AVB. In a separate action, Sun Communities (SUI) joins the S&P MidCap 400 on Aug 20, replacing Webster Financial (WBS), which is being acquired by Banco Santander.",
+        "howItWorks": "Reddit had been passed over for S&P 500 inclusion multiple times earlier in 2026 despite clearing the $22.7B market-cap threshold. It closed regular trading Thursday at $158.12 (+3.04%) and then popped roughly 11% in after-hours as index-tracking funds' forced buying kicked in as the effective date approached. The company posted its eighth straight quarter of 60%+ revenue growth in July but was down about 31% year-to-date going into the news.",
+        "whyItMatters": "Index inclusion mechanically forces roughly $700B+ of S&P 500 tracker funds to buy Reddit shares by Aug 18, generating a well-telegraphed passive bid. RDDT becomes only the second pure-play social platform in the S&P 500 after Meta. AvalonBay stays represented in the index through the Vivmark Residential entity that will emerge from the Equity Residential merger.",
+        "forWho": "index arbitrage desks, RDDT longs, quant funds",
+        "tryIt": "https://finance.yahoo.com/quote/RDDT"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/107390787-1711029575499-107390787-17110291552024-03-21t134407z_1866706588_rc2dq6afaj9f_rtrmadp_0_reddit-ipo-1.jpg?v=1711029585&w=1920&h=1080",
+        "alt": "Reddit co-founder rings the NYSE opening bell on IPO day, March 2024",
+        "fit": "cover",
+        "credit": "Brendan McDermid / Reuters via CNBC"
+      },
+      "links": [
+        {
+          "label": "S&P DJI Release",
+          "url": "https://www.prnewswire.com/news-releases/reddit-set-to-join-sp-500-and-sun-communities-to-join-sp-midcap-400-302851432.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-shares-surge-p-500-220937768.html"
+        },
+        {
+          "label": "RDDT Quote",
+          "url": "https://finance.yahoo.com/quote/RDDT"
+        },
+        {
+          "label": "AVB Quote",
+          "url": "https://finance.yahoo.com/quote/AVB"
+        }
+      ],
+      "reddit": {
+        "title": "Reddit joins the S&P 500 on Aug 18 — RDDT pops ~11% AH after S&P Dow Jones announcement",
+        "body": "After Thursday's close S&P Dow Jones Indices confirmed Reddit will replace AvalonBay Communities in the S&P 500 before Monday Aug 18's open.\n\n* Announcement time: 6:12 PM ET on Aug 13\n* RDDT closed regular hours +3.04% at $158.12, then jumped ~11% AH on the news\n* Reddit YTD was down ~31% going into the announcement\n* AVB is being acquired by Equity Residential; combined entity Vivmark Residential remains in the S&P 500\n* Separately, Sun Communities (SUI) joins the S&P MidCap 400 on Aug 20, replacing Webster Financial (WBS)\n\nWhy it moves the stock:\n\n1. **Passive bid** — S&P 500 tracker funds now have to buy RDDT before Aug 18, a mechanical demand shock at index reweighting.\n2. **Second pureplay social in the index** — Reddit becomes only the second pure-play social-media name in the S&P 500 after Meta.\n3. **Reversal setup** — RDDT was down ~31% YTD before this print; inclusion typically compresses the discount.\n\nNext catalysts: Aug 18 open (index add takes effect), then Aug 20 SUI/WBS midcap swap.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rddt-sp500-inclusion-aug-13-2026](https://stock-tldr.xyz/releases/rddt-sp500-inclusion-aug-13-2026)"
+      },
+      "publishDate": "2026-08-14T12:45:19.974Z"
+    },
+    {
+      "id": "birk-q3-fy26-guide-raise-aug-13-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Birkenstock (BIRK) Q3 FY26 — revenue €720M (+13% rep / +15% CC), adj EBITDA €242M (33.7% margin), FY26 revenue growth guide bumped to 15% CC; stock closes +~17% at ~$42.92 Thursday Aug 13",
+      "org": "Birkenstock",
+      "date": "2026-08-13",
+      "url": "https://www.webdisclosure.com/press-release/birkenstock-holding-plc-etr-birkenstock-reports-fiscal-third-quarter-2026-results-with-15-constant-fx-revenue-growth-led-by-dtc-raises-guidance-for-fy26-Z3z9TTk20rC",
+      "summary": "Birkenstock's fiscal Q3 (ended June 30) posted €720M revenue (+13% rep / +15% constant currency), adj EBITDA €242M with a 33.7% margin, and adj EPS €0.74 (+19%). Company raised full-year FY26 revenue-growth guide to 15% CC (top of prior range) with adj EBITDA ≥€710M. Stock closed +~17% to about $42.92.",
+      "tickers": [
+        "BIRK"
+      ],
+      "metrics": {
+        "Revenue": "€720M / $836.5M (+13% rep / +15% CC, beats $822.8M est)",
+        "Adj EBITDA": "€242M (+11%, 33.7% margin)",
+        "Adj EPS": "€0.74 (+19% Y/Y) / $0.86 (est $0.87)",
+        "GAAP EPS": "€0.60 (-13% Y/Y)",
+        "DTC revenue growth": "+16% CC",
+        "APAC growth": "+23% CC (China +50%+)",
+        "New FY26 guide": "15% CC rev growth (top of prior 13–15%); adj EBITDA ≥€710M; adj EPS €1.90–€2.05",
+        "Move": "+~17% to ~$42.92 Thursday Aug 13"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "eps-miss",
+        "guidance-raise",
+        "q3-fy26",
+        "footwear",
+        "consumer-discretionary",
+        "dtc",
+        "china",
+        "apac"
+      ],
+      "explainer": {
+        "tagline": "Birkenstock revenue beat and raised outlook overwhelm a one-cent EPS miss — stock jumps ~17% on Thursday.",
+        "whatIsIt": "Sandal maker Birkenstock (NYSE: BIRK) reported its fiscal Q3 (ended June 30, 2026) on Aug 13 before the open. Revenue of €720M translated to $836.5M and cleared the $822.8M consensus, while adjusted EPS of €0.74 / $0.86 came in one cent shy of the $0.87 estimate. The company raised its FY26 revenue-growth guide to 15% in constant currency — the top of its prior 13–15% range — and now targets at least €710M of adjusted EBITDA.",
+        "howItWorks": "Reported revenue rose 13% (15% CC) with direct-to-consumer accelerating 16% CC on 13 net new store openings (124 total) and digital gains, and B2B up 15% CC. Regionally, APAC led at +23% CC with China more than doubling. Adjusted EBITDA grew 11% to €242M but margin slipped 70bp to 33.7%, and adjusted gross margin dropped 130bp to 59.2%. GAAP net income was €109.6M, down 15%.",
+        "whyItMatters": "The read-through is that premium footwear demand is holding up even as broader U.S. consumer spending signals soften — BIRK's beat-and-raise contrasts with tepid Q2 prints across mall-based apparel names. It also confirms Birkenstock's playbook of margin-preserving DTC pushes plus international expansion, especially in China. Peers Deckers (DECK), Crocs (CROX) and On Holding (ONON, which cut its FY26 growth guide on Aug 11) trade against this comp.",
+        "forWho": "consumer discretionary long/short desks, luxury/soft-lux traders",
+        "tryIt": "https://finance.yahoo.com/quote/BIRK"
+      },
+      "image": {
+        "url": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-12T115901Z_1_LYNXMPEM0B0JK_RTROPTP_4_BIRKENSTOCK-IPO.JPG",
+        "alt": "Birkenstock branding on display during the company's NYSE IPO ceremony",
+        "fit": "cover",
+        "credit": "Reuters via MarketScreener"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.webdisclosure.com/press-release/birkenstock-holding-plc-etr-birkenstock-reports-fiscal-third-quarter-2026-results-with-15-constant-fx-revenue-growth-led-by-dtc-raises-guidance-for-fy26-Z3z9TTk20rC"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-shares-jump-revenue-beat-102535844.html"
+        },
+        {
+          "label": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/birkenstock-raises-revenue-forecast-on-strong-demand-shares-jump-ce7859d9dd8bff21"
+        },
+        {
+          "label": "Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-fiscal-q3-earnings-snapshot-094910731.html"
+        },
+        {
+          "label": "BIRK Quote",
+          "url": "https://finance.yahoo.com/quote/BIRK"
+        }
+      ],
+      "reddit": {
+        "title": "Birkenstock (BIRK) +~17% — Q3 revenue €720M beats, FY26 growth guide bumped to 15% CC despite one-cent EPS miss",
+        "body": "Birkenstock jumped roughly 17% Thursday Aug 13 to about $42.92 after posting a fiscal Q3 revenue beat and raising full-year guidance.\n\n* Revenue €720M (+13% reported / +15% constant currency); $836.5M vs $822.8M est\n* Adj EBITDA €242M (+11%), 33.7% margin (down 70bp Y/Y)\n* Adj EPS €0.74 (+19% Y/Y); $0.86 vs $0.87 est (one-cent miss)\n* GAAP net income €109.6M (-15% Y/Y)\n* FY26 constant-currency revenue growth guide raised to 15% (top of prior 13–15% range); adj EBITDA now ≥€710M\n\nWhat's actually driving it:\n\n1. **DTC accelerated** — direct-to-consumer up 16% CC on 13 net new stores (124 total) and digital gains.\n2. **APAC / China** — APAC +23% CC with China more than doubling; scales that region past a rounding-error contribution.\n3. **Guide raise > EPS miss** — investors treated the one-cent EPS shortfall as noise once management flagged 15% CC growth as its new target.\n\nNext catalysts: FY26 Q4 print in November, holiday sell-through data at ONON / DECK / CROX.\n\nFull breakdown: [https://stock-tldr.xyz/releases/birk-q3-fy26-guide-raise-aug-13-2026](https://stock-tldr.xyz/releases/birk-q3-fy26-guide-raise-aug-13-2026)"
+      },
+      "publishDate": "2026-08-14T12:45:19.974Z"
+    },
     {
       "id": "wday-silver-lake-buyout-rumor-aug-13-2026",
       "categories": [
