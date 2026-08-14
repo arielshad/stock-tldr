@@ -1,8 +1,300 @@
 {
-  "generatedAt": "2026-08-13T12:58:58.424Z",
+  "generatedAt": "2026-08-14T01:10:11.062Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "wday-silver-lake-buyout-rumor-aug-13-2026",
+      "categories": [
+        "rumor",
+        "mna",
+        "mover"
+      ],
+      "title": "Rumor: Silver Lake in talks to take Workday (WDAY) private in ~$43B software buyout — WDAY +17.78% to $206.45 Thursday Aug 13 in stock's best single-day jump on record",
+      "org": "Reuters",
+      "date": "2026-08-13",
+      "url": "https://siliconangle.com/2026/08/13/workdays-stock-jumps-17-report-silver-lake-buyout-discussions/",
+      "summary": "Reuters exclusive says Silver Lake and Workday have discussed a take-private deal for the ~$43B HR + finance software vendor. Neither side commented; WDAY closed +17.78% at $206.45, best day on record.",
+      "tags": [
+        "rumor",
+        "mna",
+        "software",
+        "take-private",
+        "silver-lake",
+        "workday",
+        "wday",
+        "reuters-exclusive",
+        "private-equity"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "WDAY"
+      ],
+      "metrics": {
+        "Pre-news market cap": "~$43B",
+        "Post-news market cap": "~$51.1B",
+        "Move": "+17.78%",
+        "Close": "$206.45",
+        "YTD (before)": "-15%",
+        "Off 2024 peak": "-40%"
+      },
+      "explainer": {
+        "tagline": "Reuters says Silver Lake is in talks to buy $43B enterprise software vendor Workday; WDAY posts best day on record.",
+        "whatIsIt": "Reuters' exclusive on Thursday Aug 13 reported that private-equity firm Silver Lake and Workday (WDAY) have held discussions in recent months about a take-private deal. Workday is the HR and financial-management SaaS vendor serving 11,500+ customers including Netflix and U.S. Bank.",
+        "howItWorks": "Reuters cites people familiar with the matter; both Silver Lake and Workday declined to comment. Workday entered the session with a market cap of ~$43B and shares closed +17.78% at $206.45, valuing the company at ~$51.1B. Reuters says Silver Lake could bring in co-investors to finance the deal, similar to its earlier $55B Electronic Arts take-private with Affinity Partners and Saudi Arabia's PIF.",
+        "whyItMatters": "If it closed, this would rank among the largest software buyouts in history. WDAY had entered the day down ~15% YTD and ~40% off its 2024 peak on investor concerns about legacy-SaaS durability against AI-native workflow tools. A take-private signals PE conviction that traditional enterprise software still has cash-flow runway; a failed deal would test the recent SaaS-take-private thesis.",
+        "forWho": "enterprise-software investors, PE-arb desks",
+        "tryIt": "https://finance.yahoo.com/quote/WDAY/"
+      },
+      "image": {
+        "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/workday.png",
+        "alt": "Workday corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SiliconANGLE Report",
+          "url": "https://siliconangle.com/2026/08/13/workdays-stock-jumps-17-report-silver-lake-buyout-discussions/"
+        },
+        {
+          "label": "Benzinga: $43B Valuation",
+          "url": "https://www.benzinga.com/markets/private-markets/26/08/61194469/silver-lake-in-talks-to-take-workday-private-at-43-billion-valuation"
+        },
+        {
+          "label": "KFGO (Reuters syndicated)",
+          "url": "https://kfgo.com/2026/08/13/exclusive-silver-lake-in-talks-to-buy-workday-sources-say/"
+        },
+        {
+          "label": "WDAY Quote",
+          "url": "https://finance.yahoo.com/quote/WDAY/"
+        }
+      ],
+      "reddit": {
+        "title": "Reuters: Silver Lake in talks to take Workday private at ~$43B — WDAY closes +17.78% at $206.45, best day on record",
+        "body": "Reuters exclusive Thursday afternoon: private-equity firm Silver Lake has held talks in recent months to buy Workday (WDAY) in what would be one of the largest software buyouts ever.\n\n* Pre-news market cap: ~$43B\n* Post-news close: $206.45, +17.78% — WDAY's best single-day move on record\n* Post-news market cap: ~$51.1B\n* Silver Lake could bring in co-investors, similar to its $55B EA take-private with Affinity + PIF\n* Neither Silver Lake nor Workday commented\n\nWhy it matters:\n\n1. **Legacy SaaS re-rated** — WDAY was down ~15% YTD and ~40% off 2024 peak on fears that AI-native workflow tools chip at core HR/finance SaaS. Silver Lake sniffing take-private says PE still sees durable cash flows.\n2. **PE gets bigger** — after EA, this is another mega-take-private. If it closes, expect other slow-growth SaaS names to get looked at.\n3. **No guarantee** — sources stress talks are ongoing with no assurance of a deal. This is a rumor, not an announcement.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wday-silver-lake-buyout-rumor-aug-13-2026](https://stock-tldr.xyz/releases/wday-silver-lake-buyout-rumor-aug-13-2026)"
+      },
+      "publishDate": "2026-08-14T01:10:11.062Z"
+    },
+    {
+      "id": "us-ppi-july-2026-aug-13",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "U.S. July 2026 PPI — headline final demand 0.0% M/M vs +0.2% est (after -0.1% June) and +4.7% Y/Y (down from +5.5%); core ex-food/energy/trade services +0.4% M/M after +0.1% June",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-08-13",
+      "url": "https://www.bls.gov/news.release/archives/ppi_08132026.htm",
+      "summary": "July PPI came in cooler than expected on the headline (0.0% M/M vs +0.2% est) but core ex-food/energy/trade services jumped +0.4%. Y/Y headline slowed to 4.7% from 5.5%. S&P 500 closed at record 7,798.99.",
+      "tags": [
+        "ppi",
+        "inflation",
+        "macro",
+        "cpi-ppi",
+        "fed",
+        "fomc",
+        "sept-2026-fomc",
+        "rate-hike-odds",
+        "wholesale-prices"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Headline PPI M/M": "0.0% vs +0.2% est",
+        "Headline PPI Y/Y": "+4.7% (from +5.5% June)",
+        "Core (ex F/E/trade services) M/M": "+0.4% (from +0.1% June)",
+        "Final demand goods M/M": "-0.7%",
+        "Final demand services M/M": "+0.2%",
+        "S&P 500 close": "7,798.99 (record, +0.65%)",
+        "Nasdaq close": "+0.81%"
+      },
+      "explainer": {
+        "tagline": "Headline PPI flat in July vs +0.2% consensus and Y/Y slows to 4.7% from 5.5% — S&P 500 rips to first-ever close above 7,780.",
+        "whatIsIt": "The Bureau of Labor Statistics released the July 2026 Producer Price Index on Thursday Aug 13. Headline PPI for final demand was unchanged on the month vs +0.2% Dow Jones consensus, after -0.1% in June. Twelve-month final-demand PPI slowed to +4.7% from +5.5% in June.",
+        "howItWorks": "The soft headline was driven by a -0.7% M/M drop in final-demand goods (energy pulled lower on falling oil) partly offset by +0.2% in final-demand services. Core PPI excluding food, energy and trade services rose +0.4% M/M — a hotter number vs June's +0.1% — flagging some services stickiness even as the top line cooled. On an unadjusted basis Y/Y core-ex-F/E/T-services trended slower than the headline goods reset.",
+        "whyItMatters": "The combined CPI-then-PPI dovish week reset Sept FOMC hike odds lower and drove the S&P 500 to a fresh closing record of 7,798.99 (+0.65%), with the Nasdaq +0.81%. The 10Y yield fell as bond bulls faded the July NFP -23K miss into a firmer no-hike case, though a hot core PPI keeps PCE (Aug 26) as the next key data test.",
+        "forWho": "rates traders, macro allocators, Fed-cut positioners",
+        "tryIt": "https://www.bls.gov/news.release/ppi.toc.htm"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108348411-1786539472497-gettyimages-2289625483-AFP_C4FF3G3.jpeg?v=1786539519&w=1920&h=1080",
+        "alt": "US inflation gauge chart illustration",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "BLS PPI Release",
+          "url": "https://www.bls.gov/news.release/archives/ppi_08132026.htm"
+        },
+        {
+          "label": "CNBC PPI Coverage",
+          "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
+        },
+        {
+          "label": "Yahoo Markets Recap",
+          "url": "https://ca.finance.yahoo.com/news/stock-market-today-thursday-august-13-sp-500-record-high-nasdaq-dow-inflation-100145282.html"
+        },
+        {
+          "label": "PPI Data Tables",
+          "url": "https://www.bls.gov/news.release/ppi.toc.htm"
+        }
+      ],
+      "reddit": {
+        "title": "July PPI flat 0.0% M/M (vs +0.2% est) and Y/Y slows to 4.7% from 5.5% — but core ex-F/E/trade services +0.4%; S&P 500 closes at record 7,798.99",
+        "body": "The BLS put out July PPI Thursday morning and it was mixed but the market took the dovish read.\n\n* Headline PPI: 0.0% M/M vs +0.2% est, after -0.1% in June\n* Headline PPI: +4.7% Y/Y, down from +5.5% in June\n* Core (ex food, energy, trade services): +0.4% M/M vs +0.1% June — hotter\n* Final demand goods: -0.7% M/M (energy dragged)\n* Final demand services: +0.2% M/M\n\nMarket reaction:\n\n1. **S&P 500 to record close** — index up 0.65% to 7,798.99, clearing 7,800 intraday for the first time ever.\n2. **Nasdaq +0.81%** — semi/memory names ripped: MU +5.2%, SNDK +5.6%, MRVL +5.0%, INTC +4.9%.\n3. **Sept hike odds fade** — after July NFP -23K plus in-line CPI plus soft headline PPI, the case for a September hike keeps thinning.\n\nNext catalysts: July Retail Sales (Aug 15), then July PCE (Aug 26 — the Fed's preferred gauge).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ppi-july-2026-aug-13](https://stock-tldr.xyz/releases/us-ppi-july-2026-aug-13)"
+      },
+      "publishDate": "2026-08-14T01:10:11.062Z"
+    },
+    {
+      "id": "amat-q3-fy26-record-1025b-guide-aug-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Applied Materials (AMAT) Q3 FY26 — record revenue $9.12B beats $9.00B est, non-GAAP EPS $3.50 tops $3.39 est, GAAP EPS $3.17; Q4 revenue guide $10.25B ±$0.5B crushes $9.55B FactSet est on 'unprecedented' AI demand; AMAT -3.14% AH to $517.78",
+      "org": "Applied Materials",
+      "date": "2026-08-13",
+      "url": "https://www.stocktitan.net/news/AMAT/applied-materials-announces-third-quarter-2026-eidtjhapaxsm.html",
+      "summary": "Applied Materials reported record Q3 FY26 revenue $9.12B and non-GAAP EPS $3.50, both beats. Q4 guide $10.25B ±$0.5B trounces $9.55B FactSet est. Despite the beat + big guide, AMAT -3.14% AH to $517.78 as buy-side had priced a bigger surprise.",
+      "tags": [
+        "earnings",
+        "amat",
+        "semis",
+        "wfe",
+        "ai-capex",
+        "guidance-beat",
+        "record-revenue",
+        "fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMAT",
+        "LRCX",
+        "KLAC"
+      ],
+      "metrics": {
+        "Revenue": "$9.12B (+25% Y/Y) vs $9.00B est",
+        "Non-GAAP EPS": "$3.50 vs $3.39 est",
+        "GAAP EPS": "$3.17",
+        "Semiconductor Systems": "$7.04B",
+        "Applied Global Services": "$1.78B",
+        "Q4 revenue guide": "$10.25B ±$0.5B vs $9.55B est",
+        "Q4 non-GAAP EPS guide": "$4.02 ±$0.20",
+        "Move": "-3.14% AH to $517.78"
+      },
+      "explainer": {
+        "tagline": "AMAT posts record $9.12B Q3 revenue and guides Q4 to $10.25B — well ahead of $9.55B est — but stock -3% AH.",
+        "whatIsIt": "Applied Materials, the largest U.S. wafer-fab equipment (WFE) vendor, reported Q3 fiscal-2026 results for the quarter ended July 26, 2026. Revenue hit a record $9.12B on +25% Y/Y growth and non-GAAP EPS $3.50 (+41% Y/Y) beat consensus.",
+        "howItWorks": "Semiconductor Systems (front-end fab tools) contributed $7.04B and Applied Global Services $1.78B. Guidance for Q4 FY26 came in at ~$10.25B ±$0.5B revenue and non-GAAP EPS $4.02 ±$0.20 — well above the $9.55B FactSet estimate. Management said 'the rapid global adoption of AI drives unprecedented demand for our materials engineering solutions' and expects another 'strong growth year' in 2027.",
+        "whyItMatters": "AMAT is the bellwether for AI-driven fab capex. The Q4 guide implies a 15–25%+ Y/Y acceleration and reads well for LRCX and KLAC. Yet the stock fell -3.14% AH to $517.78 after entering the print +190% off its 12-month low — the sell-side skepticism about pricing-in confirms the sector is now trading on expectations rather than surprises.",
+        "forWho": "semi and AI-capex investors, WFE peers",
+        "tryIt": "https://finance.yahoo.com/quote/AMAT/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Applied_Materials_Announces_Third_Quarter_2026_Results_1367931.webp",
+        "alt": "Applied Materials Q3 FY26 earnings release cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Release",
+          "url": "https://www.stocktitan.net/news/AMAT/applied-materials-announces-third-quarter-2026-eidtjhapaxsm.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/earnings/26/08/61193840/applied-materials-beats-q3-estimates-issues-strong-guidance-unprecedented-demand"
+        },
+        {
+          "label": "Yahoo Press Release",
+          "url": "https://finance.yahoo.com/technology/articles/applied-materials-announces-third-quarter-200100149.html"
+        },
+        {
+          "label": "AMAT Quote",
+          "url": "https://finance.yahoo.com/quote/AMAT/"
+        }
+      ],
+      "reddit": {
+        "title": "Applied Materials (AMAT) Q3 FY26 — record $9.12B rev, non-GAAP EPS $3.50; Q4 guide $10.25B ±$0.5B (vs $9.55B est) on 'unprecedented' AI demand — yet stock -3.14% AH",
+        "body": "AMAT dropped Q3 FY26 after the close Thursday. On any normal print this is a monster — but the sell-side wanted more.\n\n* Revenue: $9.12B (+25% Y/Y) vs $9.00B est — new record\n* Non-GAAP EPS: $3.50 (+41% Y/Y) vs $3.39 est\n* GAAP EPS: $3.17\n* Semiconductor Systems: $7.04B\n* Applied Global Services: $1.78B\n* Q4 FY26 guide: revenue $10.25B ±$0.5B vs $9.55B FactSet est; non-GAAP EPS $4.02 ±$0.20\n\nAfter-hours: -3.14% to $517.78.\n\nThree things going on:\n\n1. **Guide is huge** — Q4 revenue midpoint is ~$700M above Street. CEO Gary Dickerson called AI demand for materials-engineering tools 'unprecedented' and flagged another 'strong growth year' in 2027.\n2. **Stock was priced for perfection** — AMAT had already rallied ~190% from its 12-month low. A beat + big guide isn't enough when consensus was buy-side-hot.\n3. **Bullish read-across for peers** — WFE demand at AMAT usually pulls LRCX and KLAC with it. Watch premarket Friday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amat-q3-fy26-record-1025b-guide-aug-13-2026](https://stock-tldr.xyz/releases/amat-q3-fy26-record-1025b-guide-aug-13-2026)"
+      },
+      "publishDate": "2026-08-14T01:10:11.062Z"
+    },
+    {
+      "id": "tpr-q4-fy26-guide-light-drop-aug-13-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Tapestry (TPR) Q4 FY26 — revenue $1.88B (+9% Y/Y) in line, adj EPS $1.32 vs $1.28 est; but FY27 guide $8.4–$8.5B rev / $7.80–$7.90 EPS underwhelms and TPR closes -16.49% at $128.39 on Thursday Aug 13",
+      "org": "Tapestry",
+      "date": "2026-08-13",
+      "url": "https://www.fool.com/investing/2026/08/13/why-shares-of-tapestry-were-falling-today/",
+      "summary": "Tapestry beat Q4 FY26 with $1.88B rev and $1.32 adj EPS but FY27 guidance ($8.4-$8.5B rev / $7.80-$7.90 EPS) landed only in line, disappointing after 17% CC rev / 38% EPS growth in FY26; TPR closed -16.49% at $128.39.",
+      "tags": [
+        "earnings",
+        "mover",
+        "consumer-discretionary",
+        "handbags",
+        "coach",
+        "kate-spade",
+        "guidance-in-line",
+        "fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TPR"
+      ],
+      "metrics": {
+        "Q4 revenue": "$1.88B (+9% Y/Y, in line)",
+        "Q4 adj EPS": "$1.32 vs $1.28 est",
+        "Adj EBITDA": "$444.5M (23.7% margin)",
+        "FY27 revenue guide": "$8.4–$8.5B (midpoint $8.45B)",
+        "FY27 adj EPS guide": "$7.80–$7.90 (midpoint $7.85)",
+        "FY26 growth (CC)": "+17% rev / +38% adj EPS",
+        "Kate Spade Q4 sales": "-10% Y/Y",
+        "Dividend raise": "+16%",
+        "Move": "-16.49%",
+        "Close": "$128.39"
+      },
+      "explainer": {
+        "tagline": "TPR beats Q4 but FY27 guide only matches — after 38% EPS growth in FY26 the deceleration triggers a -16% single-day rout.",
+        "whatIsIt": "Tapestry (TPR), owner of Coach and Kate Spade, reported Q4 fiscal-2026 (quarter ended late June) results before the open Thursday Aug 13. Revenue $1.88B (+8.9% Y/Y) landed in line with consensus; adj EPS $1.32 beat $1.28 est.",
+        "howItWorks": "Coach drove growth again while Kate Spade sales fell 10% Y/Y. Full-year FY26 delivered +17% CC revenue growth and +38% adj EPS growth. FY27 guidance was revenue of $8.4–$8.5B and adj EPS of $7.80–$7.90 — mid-single-digit revenue growth and low-double-digit EPS growth. That is a sharp deceleration from the FY26 run-rate. Management raised the dividend +16%.",
+        "whyItMatters": "TPR closed -16.49% at $128.39 on volume 6x average, a bull-trap unwind after the stock had rallied into the print at ~49x trailing P/E. The Kate Spade -10% comp adds concentration risk in Coach as the sole growth engine; the guide reset resets premium-accessories multiples across the space and reads negatively for RL and CPRI-type peers pending their own prints.",
+        "forWho": "consumer-discretionary desks, retail-earnings watchers",
+        "tryIt": "https://finance.yahoo.com/quote/TPR/"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883304%2Fa-woman-holding-a-shopping-back.jpg&w=1200&op=resize",
+        "alt": "Woman holding a shopping bag illustration",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Motley Fool Coverage",
+          "url": "https://www.fool.com/investing/2026/08/13/why-shares-of-tapestry-were-falling-today/"
+        },
+        {
+          "label": "StockStory (Yahoo)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-nyse-tpr-posts-q2-110618470.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/08/61178321/tapestry-admits-kate-spade-recovery-is-taking-longer-as-coach-keeps-winning"
+        },
+        {
+          "label": "TPR Quote",
+          "url": "https://finance.yahoo.com/quote/TPR/"
+        }
+      ],
+      "reddit": {
+        "title": "Tapestry (TPR) beats Q4 FY26 ($1.88B rev, $1.32 EPS) but FY27 guide only in-line — stock -16.49% to $128.39",
+        "body": "TPR reported Q4 FY26 Thursday before the open and got obliterated despite beating on both lines.\n\n* Q4 revenue: $1.88B (+9% Y/Y) — in line\n* Q4 adj EPS: $1.32 vs $1.28 est — beat\n* Adj EBITDA: $444.5M (23.7% margin)\n* FY27 rev guide: $8.4–$8.5B (mid-single-digit growth)\n* FY27 adj EPS guide: $7.80–$7.90 (low-double-digit growth)\n* Kate Spade Q4: -10% Y/Y sales\n* Dividend raised +16%\n* Close: $128.39, **-16.49%**\n\nWhy the massacre despite a beat:\n\n1. **Deceleration** — FY26 delivered +17% CC revenue and +38% adj EPS. FY27 guide dropped that to mid-single/low-double-digit. That's a step-down, not an acceleration.\n2. **Kate Spade still broken** — 10% Y/Y sales decline puts all growth on Coach's shoulders. That's concentration risk investors don't like.\n3. **Priced for perfection** — stock had rallied to ~49x trailing P/E into the print. Any in-line guide was going to hurt.\n\nRead-across is bad for RL, CPRI-type peers reporting later this cycle.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tpr-q4-fy26-guide-light-drop-aug-13-2026](https://stock-tldr.xyz/releases/tpr-q4-fy26-guide-light-drop-aug-13-2026)"
+      },
+      "publishDate": "2026-08-14T01:10:11.062Z"
+    },
     {
       "id": "bn-q2-2026-earnings-15pct-de-210b-deployable-aug-13-2026",
       "categories": [

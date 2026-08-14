@@ -9560,6 +9560,53 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260814t011011z",
+      "timestamp": "2026-08-14T01:10:11.062Z",
+      "source": "github-actions-sweep",
+      "summary": "Added 4 items for Thursday Aug 13: Silver Lake / Workday take-private rumor (WDAY best day on record), soft July PPI + S&P 500 record close, Applied Materials record Q3 FY26 with huge Q4 guide, and Tapestry -16.5% on light FY27 guide.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wday-silver-lake-buyout-rumor-aug-13-2026",
+          "title": "Rumor: Silver Lake in talks to take Workday (WDAY) private in ~$43B software buyout — WDAY +17.78% to $206.45 Thursday Aug 13 in stock's best single-day jump on record",
+          "category": "rumor",
+          "note": "Reuters exclusive on a potential ~$43B take-private; WDAY's best single-day move on record."
+        },
+        {
+          "id": "us-ppi-july-2026-aug-13",
+          "title": "U.S. July 2026 PPI — headline final demand 0.0% M/M vs +0.2% est (after -0.1% June) and +4.7% Y/Y (down from +5.5%); core ex-food/energy/trade services +0.4% M/M after +0.1% June",
+          "category": "macro",
+          "note": "Headline PPI cooler than expected; core hotter — but market took dovish read and S&P set fresh record close."
+        },
+        {
+          "id": "amat-q3-fy26-record-1025b-guide-aug-13-2026",
+          "title": "Applied Materials (AMAT) Q3 FY26 — record revenue $9.12B beats $9.00B est, non-GAAP EPS $3.50 tops $3.39 est, GAAP EPS $3.17; Q4 revenue guide $10.25B ±$0.5B crushes $9.55B FactSet est on 'unprecedented' AI demand; AMAT -3.14% AH to $517.78",
+          "category": "earnings",
+          "note": "Q4 guide $700M above Street reads as AI-capex bellwether accelerating, even though stock fell AH on priced-in expectations."
+        },
+        {
+          "id": "tpr-q4-fy26-guide-light-drop-aug-13-2026",
+          "title": "Tapestry (TPR) Q4 FY26 — revenue $1.88B (+9% Y/Y) in line, adj EPS $1.32 vs $1.28 est; but FY27 guide $8.4–$8.5B rev / $7.80–$7.90 EPS underwhelms and TPR closes -16.49% at $128.39 on Thursday Aug 13",
+          "category": "earnings",
+          "note": "Beat + in-line guide crushed the stock -16.5% — clear signal on how tight consumer-discretionary multiples are."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "rates",
+        "mover",
+        "mna",
+        "rumor"
+      ]
     }
   ]
 }
