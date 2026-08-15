@@ -1,8 +1,248 @@
 {
-  "generatedAt": "2026-08-15T00:44:29.781Z",
+  "generatedAt": "2026-08-15T12:25:19.447Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "avgo-bofa-xpv-370b-debt-note-aug-14-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Broadcom (AVGO) -5.94% to $392.99 on Friday Aug 14 after BofA's Tom Curcuruto flags AI-financing XPV vehicle could stack up to $370B of senior debt by mid-2029 at 20-GW scale; BofA cuts issuer + bond ratings but still lifts FY26 revenue and EBITDA estimates",
+      "org": "Broadcom",
+      "tickers": [
+        "AVGO",
+        "APO",
+        "BX"
+      ],
+      "date": "2026-08-14",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-plunges-5-ai-boom-170842189.html",
+      "summary": "Broadcom -5.94% to $392.99 Friday after BofA analyst Tom Curcuruto warns the Apollo/Blackstone-led XPV chip-financing vehicle could pile up ~$370B of senior debt by mid-2029; issuer + bond ratings cut, but FY26 revenue/EBITDA estimates raised.",
+      "tags": [
+        "mover",
+        "analyst-downgrade",
+        "credit-rating",
+        "ai-financing",
+        "xpv",
+        "off-balance-sheet",
+        "apollo",
+        "blackstone",
+        "anthropic",
+        "semis",
+        "bofa"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "-5.94% to $392.99 (Aug 14 close)",
+        "Analyst": "BofA — Tom Curcuruto",
+        "Rating action": "Issuer + bond ratings cut",
+        "XPV projected debt (mid-2029, 20 GW)": "up to ~$370B senior",
+        "2027 XPV new issuance (BofA est)": "~$150B",
+        "Broadcom initial-tranche backstop": "up to $29B (5-yr lease payments)",
+        "XPV Anthropic funding scope": ">1 GW of compute (first tranche)",
+        "FY26 revenue/EBITDA estimates": "Raised despite credit action"
+      },
+      "explainer": {
+        "tagline": "Bank of America's credit-side analyst turns cautious on Broadcom's off-balance-sheet AI-financing vehicle even as equity fundamentals stay strong.",
+        "whatIsIt": "Bank of America credit analyst Tom Curcuruto published a note Friday Aug 14 downgrading Broadcom's issuer and bond ratings, focused on the AI XPV Platform Broadcom co-established with Apollo Global Management and Blackstone in June 2026. Curcuruto's model shows the vehicle could accumulate up to ~$370B of senior debt by mid-2029 at a 20-gigawatt scale — including roughly $150B of new issuance in 2027 alone. Shares of Broadcom fell 5.94% to $392.99, back below the $400 line, though BofA simultaneously raised its FY26 revenue and adjusted EBITDA estimates for AVGO.",
+        "howItWorks": "The XPV Platform is an off-balance-sheet financing vehicle that raises third-party capital to buy custom AI accelerators and leases them to frontier AI labs. Apollo and Blackstone led a $35B initial financing in June 2026, and the first deployment funds more than 1 gigawatt of compute for Anthropic. Broadcom backstops customer lease payments for five years — capped at up to $29B on the initial tranche — while the platform is sized to support 20+ gigawatts through 2028. Curcuruto's $370B figure is the maximum senior-debt stack the vehicle would carry at 20 GW scale by mid-2029, not debt Broadcom itself would owe.",
+        "whyItMatters": "AI-financing structures are now the primary transmission channel for the AI capex cycle — vehicles like XPV are what let hyperscalers and frontier labs finance GPU deployments off balance sheet, and they've been a tailwind for AVGO, APO, BX and NVDA. Curcuruto's note is the first credible sell-side pushback quantifying the debt trajectory. Broadcom itself is not on the hook for $370B, but the leverage math and the residual-value guarantees are what a downturn scenario would test. Watch Broadcom credit spreads and any read-through to Apollo/Blackstone private-credit vehicles.",
+        "forWho": "AI-infra credit desks, AVGO options traders, private-credit allocators, semis analysts",
+        "tryIt": "https://finance.yahoo.com/quote/AVGO"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/52C557B3816FC1A6C894BEA07BF18DF8E48E11DC9D884BD9D2C31C3555FFE615/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_prediction_markets_613%2Fc0c0369fad57fd4a515b28402824ece6.jpg",
+        "alt": "Broadcom AI chip financing risk illustration",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-plunges-5-ai-boom-170842189.html"
+        },
+        {
+          "label": "24/7 Wall St",
+          "url": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/"
+        },
+        {
+          "label": "Benzinga",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61219624/broadcom-ai-financing-370-billion"
+        },
+        {
+          "label": "AVGO Chart",
+          "url": "https://finance.yahoo.com/quote/AVGO"
+        }
+      ],
+      "reddit": {
+        "title": "Broadcom -5.94% to $392.99 as BofA credit note flags Apollo/Blackstone XPV vehicle could pile up ~$370B of senior debt by mid-2029",
+        "body": "Bank of America credit analyst Tom Curcuruto put out a note Friday Aug 14 that dinged Broadcom's issuer and bond ratings — even as BofA raised its FY26 revenue and EBITDA estimates for the equity. AVGO closed -5.94% to $392.99, back below $400.\n\n* AVGO -5.94% to $392.99 Friday Aug 14\n* BofA cuts issuer + bond ratings on the XPV chip-financing vehicle\n* Curcuruto model: XPV could carry ~$370B senior debt by mid-2029 at 20 GW scale\n* ~$150B of new XPV issuance projected in 2027 alone\n* Broadcom's own backstop on initial tranche capped at ~$29B (5-yr lease payments)\n* First XPV deal funds >1 GW of compute for Anthropic; platform sized to 20+ GW through 2028\n\nWhy this matters:\n\n1. **First credible sell-side pushback on AI-financing plumbing** — vehicles like XPV are how hyperscalers/frontier labs are financing GPU capex off balance sheet.\n2. **Broadcom isn't on the hook for $370B** — that's the vehicle's projected debt stack, not AVGO liability. But residual-value guarantees are the number a downturn scenario would test.\n3. **Read-through to APO/BX** and other private-credit vehicles financing AI infra.\n\nNext catalysts: AVGO fiscal Q3 print in early September, NVDA Aug 26 earnings.\n\nFull breakdown: [https://stock-tldr.xyz/releases/avgo-bofa-xpv-370b-debt-note-aug-14-2026](https://stock-tldr.xyz/releases/avgo-bofa-xpv-370b-debt-note-aug-14-2026)"
+      },
+      "publishDate": "2026-08-15T12:25:19.447Z"
+    },
+    {
+      "id": "amd-baird-street-high-1250-pt-aug-14-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "AMD (AMD) +~4% on Friday Aug 14 as Baird's Tristan Gerra doubles PT to a Street-high $1,250 from $625, Outperform; model implies AMD AI GPU platform revenue of $147B by 2030 on 15% share of a $1.4T data-center AI accelerator TAM",
+      "org": "AMD",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "AVGO"
+      ],
+      "date": "2026-08-14",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-analyst-betting-amd-stock-203845278.html",
+      "summary": "Baird analyst Tristan Gerra doubles AMD price target to Street-high $1,250 from $625 (Outperform), modeling $147B in AMD AI GPU revenue by 2030 at 15% share. AMD +~4% Friday Aug 14; Jefferies also raised its target.",
+      "tags": [
+        "mover",
+        "analyst-upgrade",
+        "price-target",
+        "street-high",
+        "baird",
+        "jefferies",
+        "semis",
+        "ai-gpu",
+        "helios",
+        "mi450",
+        "data-center"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "+~4% intraday Friday Aug 14",
+        "Analyst": "Baird — Tristan Gerra",
+        "Rating": "Outperform (maintained)",
+        "New PT": "$1,250 (Street-high)",
+        "Old PT": "$625",
+        "PT change": "+100% (doubled)",
+        "2030 AI GPU revenue model": "$147B",
+        "Assumed 2030 share": "~15% of data-center AI accelerator TAM (~$1.4T)",
+        "Assumed 2030 data-center CPU TAM": "~$220B"
+      },
+      "explainer": {
+        "tagline": "Baird's Tristan Gerra doubles his AMD price target to a Street-high $1,250, modelling $147B of AMD AI GPU revenue by 2030.",
+        "whatIsIt": "Baird analyst Tristan Gerra published a note Friday Aug 14 doubling his 12-month AMD price target to $1,250 from $625 while maintaining an Outperform rating — the highest PT among all sell-side analysts covering the name. AMD shares rose roughly 4% on the session as the note framed AMD's positioning in AI GPU and AI CPU platforms. Jefferies also raised its target the same session following AMD's Advancing AI event.",
+        "howItWorks": "Gerra's model forecasts $147B of AMD AI GPU platform revenue by 2030, based on ~15% share of a projected ~$1.4T data-center AI accelerator TAM and ~$220B data-center CPU TAM. The bull case leans on AMD's Instinct MI350 (shipping now), the MI450/Helios rack-scale system entering production, EPYC server-CPU share gains, and the 2GW MI450 pact with Anthropic that AMD disclosed at its Q2 2026 print in early August. Baird's $1,250 target implies roughly 150%+ upside from prevailing levels near ~$500.",
+        "whyItMatters": "A Street-high 12-month PT of $1,250 explicitly re-rates AMD's AI-accelerator TAM assumption alongside NVIDIA's — a meaningful step-change in how the sell side models AMD's 2027–2030 earnings power. Coming just 10 days after AMD's Q2 record and the Anthropic deal, it reinforces the read-through to AVGO/MRVL custom-silicon comps ahead of NVIDIA's Aug 26 print. Watch how buy-side raises the top end of consensus, and how AMD trades into NVDA's number.",
+        "forWho": "semis analysts, AI-capex allocators, AMD/NVDA options desks",
+        "tryIt": "https://finance.yahoo.com/quote/AMD"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/F3C39B4B5DF863F8B416626DAA95AA3E2FA3B482BBBB299D3322FA1FC2D95E5D/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ffa55004840141999980cf909890c1654",
+        "alt": "AMD stock chart illustration with analyst outlook",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-analyst-betting-amd-stock-203845278.html"
+        },
+        {
+          "label": "24/7 Wall St (AMD)",
+          "url": "https://247wallst.com/investing/2026/08/14/amds-massive-upside-why-one-analyst-sees-160-price-appreciation-ahead-following-a-tough-month/"
+        },
+        {
+          "label": "24/7 Wall St (Sector)",
+          "url": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/"
+        },
+        {
+          "label": "Watcher Guru",
+          "url": "https://watcher.guru/news/baird-analyst-predicts-amd-stock-price-to-hit-1250-when-will-it"
+        },
+        {
+          "label": "AMD Chart",
+          "url": "https://finance.yahoo.com/quote/AMD"
+        }
+      ],
+      "reddit": {
+        "title": "Baird doubles AMD price target to Street-high $1,250 from $625 — models $147B in AMD AI GPU revenue by 2030; AMD +~4% Friday Aug 14",
+        "body": "Baird analyst Tristan Gerra doubled his AMD price target Friday Aug 14 and pushed it to the top of the Street-analyst tape.\n\n* New PT: **$1,250** (Street-high); old PT $625; Outperform maintained\n* Model: **$147B** of AMD AI GPU platform revenue by 2030 on ~15% share of a ~$1.4T data-center AI accelerator TAM\n* 2030 data-center CPU TAM assumed ~$220B\n* AMD +~4% intraday Friday\n* Jefferies also raised its PT after AMD's Advancing AI event\n\nWhat's underneath the bull case:\n\n1. **MI350 shipping / MI450 Helios ramp** — AMD's next-gen rackscale system is entering production; that's the vehicle for the 2GW Anthropic pact disclosed at the Q2 print.\n2. **Street-high resets consensus math** — a $1,250 PT explicitly re-rates the AI-accelerator TAM the way sell-side models NVDA. Watch buy-side top-end estimates.\n3. **Read-through to AVGO/MRVL** — same day BofA credit turned cautious on AVGO's XPV vehicle, so the AI-accelerator complex is bifurcating around Nvidia's Aug 26 print.\n\nNext catalysts: NVDA Q2 FY27 earnings Aug 26.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amd-baird-street-high-1250-pt-aug-14-2026](https://stock-tldr.xyz/releases/amd-baird-street-high-1250-pt-aug-14-2026)"
+      },
+      "publishDate": "2026-08-15T12:25:19.447Z"
+    },
+    {
+      "id": "foxa-jpm-wfc-upgrades-roku-deal-aug-14-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Fox Corp (FOXA) +5.0% to $68.71 on Friday Aug 14 after JPMorgan (Karnovsky) and Wells Fargo (Cahall) both upgrade to Overweight/Buy — PTs to $82 and $80 on stronger FY27 EBITDA math, World Cup ad tailwind and pending $22B Roku acquisition; deal-implied ROKU value rises to ~$162.60 (discount narrows to 3.5%)",
+      "org": "Fox Corporation",
+      "tickers": [
+        "FOXA",
+        "ROKU"
+      ],
+      "date": "2026-08-14",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fox-shares-jump-jpmorgan-upgrade-101257826.html",
+      "summary": "Fox Corp +5.0% to $68.71 after dual analyst upgrades: JPMorgan (David Karnovsky) to Overweight, PT $82 from $70; Wells Fargo (Steven Cahall) to Buy, PT $80 from $65 — on FY27 EBITDA raises, World Cup ad strength, and the pending Roku acquisition.",
+      "tags": [
+        "mover",
+        "analyst-upgrade",
+        "double-upgrade",
+        "jpmorgan",
+        "wells-fargo",
+        "roku",
+        "streaming",
+        "tubi",
+        "world-cup",
+        "media"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "+5.0% to $68.71 (Aug 14 intraday)",
+        "JPMorgan (David Karnovsky)": "Overweight, PT $82 (from $70)",
+        "Wells Fargo (Steven Cahall)": "Buy, PT $80 (from $65)",
+        "JPM FY27 adj EBITDA revision": "+7% (Y/Y)",
+        "JPM FY28 adj EBITDA revision": "+9% (Y/Y)",
+        "WFC FY27 EBITDA estimate": "$4.12B (from $3.85B)",
+        "WFC World Cup ad revenue est": "~$800M (from >$600M)",
+        "Roku deal EV": "$22B; $160/share ($96 cash + 0.9693 FOXA)",
+        "Implied ROKU offer value (post-move)": "~$162.60/share",
+        "Deal discount to ROKU last": "~3.5% (narrowed)"
+      },
+      "explainer": {
+        "tagline": "Two Wall Street desks upgrade Fox to a Buy on the same session — raising EBITDA math and shrinking the discount on the Fox–Roku deal.",
+        "whatIsIt": "JPMorgan analyst David Karnovsky upgraded Fox Corporation Class A shares (FOXA) to Overweight with an $82 price target (from $70), and Wells Fargo's Steven Cahall upgraded to Buy with an $80 target (from $65) — both on Friday Aug 14. FOXA rose 5.0% to $68.71. The upgrades cite Fox's fiscal-Q4 print from Aug 6 (revenue +28% Y/Y to $4.21B, adj EBITDA +27% to $1.20B), World Cup advertising tailwinds, and the pending $22B acquisition of Roku announced June 15.",
+        "howItWorks": "Karnovsky lifted FY27 and FY28 adjusted EBITDA estimates by 7% and 9%, respectively, framing the Roku transaction as the vehicle that combines Tubi with Roku's streaming OS to create the largest free ad-supported streaming TV operator in the U.S. Cahall raised his FY27 EBITDA estimate to $4.12B from $3.85B and modeled ~$800M of World Cup revenue vs a prior ~$600M+. FOXA at $68.71 mechanically lifts the implied per-share value of the cash-and-stock Roku offer ($96 cash + 0.9693 FOXA shares) to ~$162.60, narrowing the deal discount vs the $160 headline to about 3.5% and vs ROKU's Friday trade price to roughly the same.",
+        "whyItMatters": "A dual same-session upgrade from two bulge desks with new price targets in the low-$80s is the first sell-side reset since the Roku deal, and it re-rates Fox as a streaming aggregator rather than a pure linear-TV name. It also tightens the Fox–Roku arbitrage — the narrower discount signals the sell side sees higher probability of the deal closing at (or near) the disclosed terms. Watch second-derivative on ROKU, and read-through to media peers pushing into FAST/CTV consolidation.",
+        "forWho": "media/streaming analysts, M&A arbitrage desks, FOXA options traders",
+        "tryIt": "https://finance.yahoo.com/quote/FOXA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/0A3A7E6A855B40B32ED7094C5C76E1806061DB2211244329E1F22BCCB3996ACC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F11614ffc23df99e759f56b9446c15a9e.png",
+        "alt": "Fox Corporation logo with analyst upgrade illustration",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fox-shares-jump-jpmorgan-upgrade-101257826.html"
+        },
+        {
+          "label": "TS2 Recap",
+          "url": "https://ts2.tech/en/fox-stock-jumps-5-as-upgrades-shrink-the-roku-deal-discount/"
+        },
+        {
+          "label": "Blockonomi",
+          "url": "https://blockonomi.com/fox-corp-fox-stock-surges-4-following-analyst-upgrades-and-strategic-roku-acquisition/"
+        },
+        {
+          "label": "Aug 14 Market Wrap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
+        },
+        {
+          "label": "FOXA Chart",
+          "url": "https://finance.yahoo.com/quote/FOXA"
+        }
+      ],
+      "reddit": {
+        "title": "Fox Corp (FOXA) +5.0% to $68.71 as JPMorgan and Wells Fargo both upgrade — PTs to $82 and $80 on World Cup ads + Roku deal math",
+        "body": "Two bulge desks lifted Fox to Buy the same session Friday Aug 14, one week after Fox's blowout fiscal-Q4 print.\n\n* JPMorgan (David Karnovsky) → Overweight, PT **$82** (from $70)\n* Wells Fargo (Steven Cahall) → Buy, PT **$80** (from $65)\n* FOXA +5.0% to **$68.71**\n* JPM lifts FY27 and FY28 adjusted EBITDA estimates by **7% and 9%**\n* WFC FY27 EBITDA estimate to **$4.12B** (from $3.85B); World Cup revenue to ~**$800M** (from >$600M)\n* Fox-Roku deal: **$22B EV**, $160/share ($96 cash + 0.9693 FOXA); implied ROKU offer value now **~$162.60** as FOXA re-rates, deal discount narrows to ~3.5%\n\nWhy the setup:\n\n1. **First sell-side reset since the Roku deal was announced** — analysts now framing Fox as a streaming aggregator (Tubi + Roku's OS = the largest FAST platform in the US), not just linear-TV.\n2. **World Cup + advertising tailwind** — Q4 blowout (revenue +28% Y/Y, adj EBITDA +27%) fed both models.\n3. **M&A arb tightens** — the narrower discount signals the sell side sees a smoother path to close for the ROKU deal.\n\nNext catalysts: FTC second request and shareholder-vote timeline on FOXA–ROKU.\n\nFull breakdown: [https://stock-tldr.xyz/releases/foxa-jpm-wfc-upgrades-roku-deal-aug-14-2026](https://stock-tldr.xyz/releases/foxa-jpm-wfc-upgrades-roku-deal-aug-14-2026)"
+      },
+      "publishDate": "2026-08-15T12:25:19.447Z"
+    },
     {
       "id": "us-retail-sales-july-2026-aug-14",
       "categories": [

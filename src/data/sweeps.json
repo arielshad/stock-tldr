@@ -9690,6 +9690,49 @@
         "mover",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260815t122519z",
+      "timestamp": "2026-08-15T12:25:19.447Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 15 2026 sweep — three additions, all Aug 14 movers with named analyst catalysts: Broadcom -5.94% on BofA's Tom Curcuruto flagging XPV AI-financing debt trajectory (~$370B by mid-2029 at 20 GW), AMD +~4% on Baird doubling PT to Street-high $1,250, and Fox Corp +5.0% on same-session JPM (Karnovsky) + WFC (Cahall) upgrades to Overweight/Buy on Roku deal math and World Cup ad strength.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "avgo-bofa-xpv-370b-debt-note-aug-14-2026",
+          "title": "Broadcom (AVGO) -5.94% to $392.99 on Friday Aug 14 after BofA's Tom Curcuruto flags AI-financing XPV vehicle could stack up to $370B of senior debt by mid-2029 at 20-GW scale; BofA cuts issuer + bond ratings but still lifts FY26 revenue and EBITDA estimates",
+          "category": "mover",
+          "note": "Named analyst catalyst (BofA — Tom Curcuruto) and -5.94% single-name move on Friday Aug 14; first credible sell-side pushback on the XPV / AI-financing vehicle plumbing, distinct from the June 2026 XPV launch and the Aug 10 NVDA-500B AI-funding story already in the feed."
+        },
+        {
+          "id": "amd-baird-street-high-1250-pt-aug-14-2026",
+          "title": "AMD (AMD) +~4% on Friday Aug 14 as Baird's Tristan Gerra doubles PT to a Street-high $1,250 from $625, Outperform; model implies AMD AI GPU platform revenue of $147B by 2030 on 15% share of a $1.4T data-center AI accelerator TAM",
+          "category": "mover",
+          "note": "Named analyst catalyst (Baird — Tristan Gerra) doubling PT to Street-high $1,250; AMD +~4% intraday and ≥2 tier-1 outlets covering; distinct from AMD Q2 2026 earnings (Aug 4) already in the feed."
+        },
+        {
+          "id": "foxa-jpm-wfc-upgrades-roku-deal-aug-14-2026",
+          "title": "Fox Corp (FOXA) +5.0% to $68.71 on Friday Aug 14 after JPMorgan (Karnovsky) and Wells Fargo (Cahall) both upgrade to Overweight/Buy — PTs to $82 and $80 on stronger FY27 EBITDA math, World Cup ad tailwind and pending $22B Roku acquisition; deal-implied ROKU value rises to ~$162.60 (discount narrows to 3.5%)",
+          "category": "mover",
+          "note": "Two named analyst upgrades (JPMorgan David Karnovsky to Overweight, PT $82; Wells Fargo Steven Cahall to Buy, PT $80); FOXA +5.0% single-name move; narrows the Fox-Roku deal arb — no existing feed entry for the fresh upgrades."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "analyst",
+        "earnings",
+        "macro",
+        "mna",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }
