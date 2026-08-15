@@ -1,8 +1,358 @@
 {
-  "generatedAt": "2026-08-14T12:45:19.974Z",
+  "generatedAt": "2026-08-15T00:44:29.781Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-retail-sales-july-2026-aug-14",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. July 2026 retail sales -0.6% M/M vs +0.1% est on autos and online pullback; total $763.6B, +5.0% Y/Y",
+      "org": "U.S. Census Bureau",
+      "date": "2026-08-14",
+      "url": "https://www.census.gov/retail/sales.html",
+      "summary": "Advance July 2026 retail and food services sales fell 0.6% M/M to $763.6B — the biggest monthly drop in over a year — well below the +0.1% consensus. Motor vehicles -1.8%, nonstore/online -2.2%; Y/Y growth held at +5.0%.",
+      "tags": [
+        "retail-sales",
+        "macro",
+        "consumer",
+        "census-bureau",
+        "july-2026",
+        "advance-report",
+        "consumer-spending",
+        "eps-miss"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline": "-0.6% M/M vs +0.1% est",
+        "YoY": "+5.0%",
+        "Total": "$763.6B",
+        "Autos & parts": "-1.8%",
+        "Nonstore / online": "-2.2%",
+        "Gasoline stations": "-0.9%",
+        "Clothing": "+1.9%"
+      },
+      "explainer": {
+        "tagline": "U.S. July retail sales fell 0.6% M/M — the biggest monthly drop in more than a year and well below the +0.1% consensus.",
+        "whatIsIt": "The Census Bureau's advance monthly retail trade report for July 2026, released Friday. Headline sales fell 0.6% from June to a seasonally adjusted $763.6B, missing the Dow Jones consensus of +0.1%. On a year-over-year basis the total remained +5.0% higher than July 2025.",
+        "howItWorks": "Motor vehicles and parts dealers led the drop at -1.8%, followed by nonstore retailers (Amazon and online) at -2.2% and gasoline stations at -0.9%. Gains came in clothing (+1.9%), health and personal care (+0.7%), and food services (+0.5%). The advance estimate carries a ±0.4 pp sampling error.",
+        "whyItMatters": "The soft consumer print landed on the same morning as a miss on prelim UMich sentiment, pulling the S&P off Thursday's record high — S&P 500 closed -0.17% at 7,785.76 and the Nasdaq -0.28% at 26,729.16. Coming after this week's tame CPI and PPI, it sharpens focus on Powell/Warsh transition and September FOMC path.",
+        "forWho": "macro traders, rate desks",
+        "tryIt": "https://www.census.gov/retail/sales.html"
+      },
+      "image": {
+        "url": "https://investinglive.com/cms/media/Processed/Categories/featured/retail%20sales_id_149e20da-6944-4ff3-aeba-a239e3578dee_original-featured-1786710390-featured-1786711618.jpg",
+        "alt": "Retail sales storefront figures used to illustrate U.S. July retail data",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Census Retail Data",
+          "url": "https://www.census.gov/retail/sales.html"
+        },
+        {
+          "label": "InvestingLive Data",
+          "url": "https://investinglive.com/news/us-july-retail-sales-0-6-vs-0-1-expected/"
+        },
+        {
+          "label": "Yahoo/Quartz Recap",
+          "url": "https://finance.yahoo.com/economy/articles/u-retail-sales-dropped-0-124445798.html"
+        },
+        {
+          "label": "CNBC Yields",
+          "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html"
+        }
+      ],
+      "reddit": {
+        "title": "U.S. July retail sales -0.6% vs +0.1% expected — biggest drop in over a year",
+        "body": "U.S. Census Bureau released July retail sales this morning and it was a clear miss.\n\n* Headline -0.6% M/M to $763.6B, vs +0.1% consensus (Dow Jones)\n* Y/Y still +5.0%, but the momentum is fading fast\n* Motor vehicles & parts -1.8%\n* Nonstore retailers (online) -2.2%\n* Gasoline stations -0.9%\n* Clothing +1.9%, health/personal care +0.7%, food services +0.5%\n\nWhy the market cared:\n\n1. **Consumer is finally cracking** — first negative print in over a year, with the tax-refund tailwind fully faded.\n2. **Combined with a UMich sentiment miss same morning** — headline 51.0 vs 54.5 est.\n3. **S&P slipped off yesterday's record** — closed -0.17% at 7,785.76; Nasdaq -0.28%.\n\nNext catalysts: Jackson Hole (Aug 21–23), then September FOMC on Sept 16–17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-retail-sales-july-2026-aug-14](https://stock-tldr.xyz/releases/us-retail-sales-july-2026-aug-14)"
+      },
+      "publishDate": "2026-08-15T00:44:29.781Z"
+    },
+    {
+      "id": "umich-sentiment-prelim-august-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. August 2026 preliminary UMich consumer sentiment 51.0 vs 54.5 est — snaps two-month rebound",
+      "org": "University of Michigan",
+      "date": "2026-08-14",
+      "url": "https://www.sca.isr.umich.edu/",
+      "summary": "Preliminary August UMich Consumer Sentiment fell to 51.0 from 55.2 in July (est 54.5), an ~8% MoM decline that ended two months of gains. Year-ahead inflation expectations edged up to 4.3% from 4.2%; 5-10Y anchored at 3.3% for a third month.",
+      "tags": [
+        "sentiment",
+        "umich",
+        "consumer",
+        "macro",
+        "inflation-expectations",
+        "august-2026",
+        "preliminary",
+        "consumer-spending"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline": "51.0 vs 54.5 est / 55.2 prior",
+        "Current Conditions": "51.8 (vs 54.9 prior)",
+        "Expectations": "50.6 (vs 54.0 prior)",
+        "1Y Inflation Exp": "4.3% (from 4.2%)",
+        "5–10Y Inflation Exp": "3.3% (unchanged)"
+      },
+      "explainer": {
+        "tagline": "Preliminary August UMich sentiment fell to 51.0 from 55.2, snapping two months of gains and missing the 54.5 consensus.",
+        "whatIsIt": "The University of Michigan's mid-month Surveys of Consumers reading for August 2026, released Friday morning. Headline sentiment slid to 51.0 — an ~8% MoM decline — as the Current Conditions Index dropped to 51.8 (from 54.9) and Expectations to 50.6 (from 54.0).",
+        "howItWorks": "Short-run business expectations fell about 11%, long-run about 17%. Declines were sharpest among older, lower-income, and non-college households. One-year inflation expectations ticked up to 4.3% (from 4.2%), while the 5-to-10-year measure stayed at 3.3% for a third consecutive month.",
+        "whyItMatters": "The reading arrived alongside a soft July retail sales print and dovetailed with lingering Middle East headlines. It reinforces the narrative of a cooling consumer as Fed transition (Warsh chair, Miran governor) reprices September policy. Final August reading due Aug 28.",
+        "forWho": "macro traders, consumer analysts",
+        "tryIt": "https://www.sca.isr.umich.edu/"
+      },
+      "image": {
+        "url": "https://investinglive.com/cms/media/Processed/Categories/featured/consumer%20sentiment%20USA_id_23703e05-7376-4417-9a37-6af0da18113b_original-featured-1786716009.jpg",
+        "alt": "University of Michigan Surveys of Consumers stock image for August 2026 preliminary release",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "UMich Surveys",
+          "url": "https://www.sca.isr.umich.edu/"
+        },
+        {
+          "label": "InvestingLive Data",
+          "url": "https://investinglive.com/news/us-august-prelim-umich-consumer-sentiment-51-0-vs-54-5-expected/"
+        },
+        {
+          "label": "Yahoo/Quartz Coverage",
+          "url": "https://finance.yahoo.com/economy/articles/u-consumer-sentiment-falls-august-171815784.html"
+        },
+        {
+          "label": "CryptoBriefing Data",
+          "url": "https://cryptobriefing.com/michigan-consumer-sentiment-august-decline/"
+        }
+      ],
+      "reddit": {
+        "title": "UMich preliminary August consumer sentiment 51.0 vs 54.5 expected — down ~8% M/M, snaps two-month rebound",
+        "body": "Preliminary August UMich Consumer Sentiment landed well below expectations Friday morning.\n\n* Headline 51.0 vs 54.5 consensus (prior 55.2)\n* Current Conditions 51.8 (from 54.9)\n* Expectations 50.6 (from 54.0)\n* 1-year inflation expectations 4.3% (from 4.2%)\n* 5-10Y inflation expectations 3.3% (unchanged, third month)\n\nWhat drove it:\n\n1. **Short-run business expectations -11%** and long-run -17% amid weaker business-conditions outlook.\n2. **Older, lower-income, non-college households drove the drop** — largest declines by demographic.\n3. **Landed alongside a soft July retail sales print** the same morning.\n\nNext catalysts: final UMich reading Aug 28, Jackson Hole Aug 21–23, September FOMC Sept 16–17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/umich-sentiment-prelim-august-2026](https://stock-tldr.xyz/releases/umich-sentiment-prelim-august-2026)"
+      },
+      "publishDate": "2026-08-15T00:44:29.781Z"
+    },
+    {
+      "id": "nu-q2-2026-earnings-first-1b-quarter-aug-13-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Nu Holdings (NU) Q2 2026 — first $1B+ profit quarter as net income $1.06B and revenue $5.88B beat; stock +10% to ~$15.30",
+      "org": "Nu Holdings",
+      "date": "2026-08-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001691493/000129281426004222/nupr2q26_6k.htm",
+      "tickers": [
+        "NU"
+      ],
+      "summary": "Latin America's Nubank posted its first-ever $1B+ profit quarter. Q2 revenue $5.88B beat the $5.48B consensus; net income $1.06B; ROE 33%; total customers reached 139M (+4M Q/Q). Stock climbed ~10% to a five-month high near $15.30 on Aug 14.",
+      "metrics": {
+        "Revenue": "$5.88B (vs $5.48B est)",
+        "Net Income": "$1.06B (first $1B+ quarter)",
+        "ROE": "33%",
+        "Customers": "139M (+4M Q/Q)",
+        "Deposits": "$45.3B (+18% Y/Y)",
+        "Move (Aug 14)": "~+10% to ~$15.30"
+      },
+      "tags": [
+        "earnings",
+        "fintech",
+        "digital-bank",
+        "latam",
+        "brazil",
+        "mexico",
+        "colombia",
+        "nubank",
+        "eps-beat",
+        "revenue-beat"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Nubank cleared $1B in quarterly profit for the first time — Q2 net income $1.06B on $5.88B revenue and 33% ROE.",
+        "whatIsIt": "Nu Holdings (NYSE: NU) — the Brazil-headquartered digital-bank holding company for Nubank — reported Q2 2026 results after the close on August 13. Revenue reached $5.88B, above the $5.48B consensus, while net income cleared $1B for the first time in the company's 13-year history at $1.06B.",
+        "howItWorks": "Growth was broad-based across Brazil, Mexico, and Colombia. Total customers hit 139M, up ~4M from Q1, with Mexico crossing 16M as a full banking operation. Total deposits were $45.3B (+18% Y/Y, +6% Q/Q). ROE ran at 33% and the efficiency ratio has improved from 50% in Q2 2022 to 19.5% now on 65M→139M customer growth.",
+        "whyItMatters": "Shares rose 2.7% during Thursday's session and jumped an additional +9.25% in after-hours before closing Friday +~10% at a five-month high near $15.30. The print reframes the LatAm-fintech debate as a scaled, cash-generative story; StoneCo (STNE) fell ~6% on the divergence.",
+        "forWho": "EM/LatAm bank analysts, fintech investors",
+        "tryIt": "https://finance.yahoo.com/quote/NU"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nubank_logo_2021.svg/1280px-Nubank_logo_2021.svg.png",
+        "alt": "Nubank purple wordmark logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 6-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001691493/000129281426004222/nupr2q26_6k.htm"
+        },
+        {
+          "label": "24/7 Wall St Recap",
+          "url": "https://247wallst.com/investing/2026/08/14/nu-holdings-jumps-10-to-a-five-month-high-stoneco-drops-6-as-nubank-breaks-from-the-pack/"
+        },
+        {
+          "label": "MarketBeat Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/nu-q2-earnings-call-highlights-2026-08-14/"
+        },
+        {
+          "label": "NU Quote",
+          "url": "https://finance.yahoo.com/quote/NU"
+        }
+      ],
+      "reddit": {
+        "title": "Nubank (NU) Q2 2026 — first $1B+ profit quarter, revenue $5.88B beats $5.48B est, stock +10% Friday",
+        "body": "Nu Holdings dropped Q2 after the close Wednesday and the market repriced the story Thursday-Friday.\n\n* Revenue $5.88B beat the $5.48B consensus\n* Net income $1.06B — the first $1B+ quarter in Nubank's 13-year history\n* ROE 33%\n* Customers 139M (+4M Q/Q); Mexico crosses 16M as a full banking operation\n* Total deposits $45.3B (+18% Y/Y)\n\nWhy the market bought it:\n\n1. **Profit inflection is real** — margins hit new highs and the efficiency ratio dropped to 19.5% (from 50% in Q2 2022).\n2. **LatAm expansion working** — Brazil still the anchor, but Mexico's ramp is on-plan.\n3. **Stock action** — +2.73% regular Thursday, +9.25% AH, then +~10% Friday close near $15.30 (five-month high).\n\nPeer read: StoneCo (STNE) fell ~6% on the divergence.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nu-q2-2026-earnings-first-1b-quarter-aug-13-2026](https://stock-tldr.xyz/releases/nu-q2-2026-earnings-first-1b-quarter-aug-13-2026)"
+      },
+      "publishDate": "2026-08-15T00:44:29.781Z"
+    },
+    {
+      "id": "glob-q2-2026-guide-cut-mover-aug-13-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Globant (GLOB) Q2 2026 — adj EPS $1.40 misses $1.50 est, revenue $614.4M flat Y/Y; FY26 guide cut to $5.75–6.15 EPS, stock -12% Friday",
+      "org": "Globant",
+      "date": "2026-08-13",
+      "url": "https://www.prnewswire.com/news-releases/globant-reports-2026-second-quarter-financial-results-302851301.html",
+      "tickers": [
+        "GLOB"
+      ],
+      "summary": "Argentina-based IT services firm Globant missed Q2 adj EPS ($1.40 vs $1.50) even as revenue $614.4M was in line but essentially flat Y/Y. Cut FY26 adj EPS guide to $5.75–6.15 (from $6.10–6.50) and Q3 revenue guide $607–615M vs $626M est. Stock fell ~12% Friday.",
+      "metrics": {
+        "Revenue": "$614.4M (flat Y/Y, in line)",
+        "Adj EPS": "$1.40 vs $1.50 est",
+        "Adj Gross Margin": "36.5% (from 38.1%)",
+        "Adj Operating Margin": "13.2% (from 15.0%)",
+        "Q3 Revenue Guide": "$607–615M vs $626M est",
+        "FY26 EPS Guide (new)": "$5.75–6.15 (from $6.10–6.50)",
+        "Glob.AI ARR": "$52.8M (+61% Q/Q, target ≥$110M exit 2026)",
+        "Move (Aug 14)": "~-12%"
+      },
+      "tags": [
+        "earnings",
+        "it-services",
+        "eps-miss",
+        "guide-cut",
+        "ai-services",
+        "downgrade",
+        "argentina",
+        "software-services"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Globant missed Q2 adj EPS and cut its full-year outlook, driving a ~12% stock rout and a Wedbush downgrade.",
+        "whatIsIt": "Globant (NYSE: GLOB), the AI/digital-engineering services firm founded in Argentina, reported Q2 2026 results after the close on August 13. Revenue was $614.4M (essentially flat Y/Y) and adj EPS $1.40 missed the $1.50 consensus by ~6%.",
+        "howItWorks": "Adj gross margin compressed to 36.5% (from 38.1%) and adj operating margin to 13.2% (from 15.0%) on the AI-driven mix shift. Q3 revenue guide of $607–615M is below the $626M consensus, and full-year 2026 adj EPS guide was cut to $5.75–6.15 from $6.10–6.50 (vs $6.21 Street). Bright spot: Glob.AI ARR reached $52.8M (+61% Q/Q).",
+        "whyItMatters": "Shares dropped ~12% on Friday; Wedbush downgraded and JPMorgan cut its rating. Reinforces the emerging read that AI is compressing traditional IT-services demand faster than services firms can retool — echoing recent softness in the space and questions on generative-AI's short-run revenue displacement.",
+        "forWho": "IT-services analysts, AI-services investors",
+        "tryIt": "https://finance.yahoo.com/quote/GLOB/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS519764/Globant-Logo.jpg?id=OA2884313&p=facebook",
+        "alt": "Globant corporate logo used with the Q2 2026 earnings release",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q2 Press Release",
+          "url": "https://www.prnewswire.com/news-releases/globant-reports-2026-second-quarter-financial-results-302851301.html"
+        },
+        {
+          "label": "Yahoo Earnings Lag",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/globant-glob-q2-earnings-lag-220503557.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61206987/whats-going-on-with-globant-stock-on-friday"
+        },
+        {
+          "label": "GLOB Quote",
+          "url": "https://finance.yahoo.com/quote/GLOB/"
+        }
+      ],
+      "reddit": {
+        "title": "Globant (GLOB) Q2 miss + guidance cut — stock -12% Friday, Wedbush downgrade, JPMorgan cut",
+        "body": "Globant reported Q2 after the close Wednesday and the market repriced the AI-services thesis hard on Friday.\n\n* Revenue $614.4M — in line but flat Y/Y\n* Adj EPS $1.40 vs $1.50 est (~-6% miss)\n* Adj gross margin 36.5% (from 38.1%)\n* Adj operating margin 13.2% (from 15.0%)\n* Q3 revenue guide $607–615M vs $626M est\n* FY26 adj EPS guide cut to $5.75–6.15 (from $6.10–6.50)\n* Glob.AI ARR $52.8M (+61% Q/Q); target ≥$110M exiting 2026\n\nWhy the market cared:\n\n1. **Margins are compressing while revenue stalls** — the classic services problem when clients delay bookings.\n2. **Guide cut hit a broader thesis** — AI displacing IT-services demand faster than Globant can reposition.\n3. **Sell-side reset** — Wedbush downgrade and JPMorgan rating cut on Friday drove the rout.\n\nFull breakdown: [https://stock-tldr.xyz/releases/glob-q2-2026-guide-cut-mover-aug-13-2026](https://stock-tldr.xyz/releases/glob-q2-2026-guide-cut-mover-aug-13-2026)"
+      },
+      "publishDate": "2026-08-15T00:44:29.781Z"
+    },
+    {
+      "id": "sndk-investor-day-fy28-30-outlook-aug-13-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "SanDisk (SNDK) 2026 Investor Day — FY28-30 mid-to-high-teens revenue growth and ~80% GM target; stock +13.67% to $1,528",
+      "org": "SanDisk",
+      "date": "2026-08-13",
+      "url": "https://www.stocktitan.net/news/SNDK/sandisk-details-growth-strategy-and-long-term-financial-model-at-tfgp9oq5d8ja.html",
+      "tickers": [
+        "SNDK"
+      ],
+      "summary": "SanDisk's 'Sandisk In Focus' 2026 Investor Day set FY28-30 mid-to-high-teens revenue growth, ~80% non-GAAP gross margin, and ~75% non-GAAP operating margin targets — tied to AI-driven NAND demand. Also unveiled 9th-generation 2Tb QLC 3D NAND with Kioxia. Stock closed +13.67% at $1,528.11 and continued +~7% Friday.",
+      "metrics": {
+        "FY28–30 Revenue Growth": "mid- to high-teens (bit growth)",
+        "Non-GAAP GM Target": "~80%",
+        "Non-GAAP Op Margin Target": "~75%",
+        "Move (Aug 13)": "+13.67% to $1,528.11",
+        "Move (Aug 14)": "~+7%",
+        "YTD 2026": "+~580%"
+      },
+      "tags": [
+        "memory",
+        "nand",
+        "ai-infrastructure",
+        "investor-day",
+        "long-term-model",
+        "bics9",
+        "kioxia",
+        "storage",
+        "mover"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "SanDisk's Investor Day set a mid-to-high-teens FY28–30 revenue-growth model and ~80% non-GAAP GM target on AI-driven NAND demand.",
+        "whatIsIt": "SanDisk (Nasdaq: SNDK) held its 2026 'Sandisk In Focus' Investor Day on August 13. Management outlined a long-term financial model: mid- to high-teens revenue growth through FY28–30 consistent with bit growth, ~80% non-GAAP gross margin, and ~75% non-GAAP operating margin. All excess cash flow is committed to shareholder returns.",
+        "howItWorks": "The company unveiled 9th-generation, 2Tb QLC 3D flash memory jointly with Kioxia — pairing a BiCS8 array with a BiCS10-based CMOS wafer via CMOS-directly-Bonded-to-Array (CBA) architecture. The 2D-scaling approach is pitched as capital-efficient and tailored for AI-infrastructure workloads.",
+        "whyItMatters": "Stock closed +13.67% at $1,528.11 on Investor Day (~$228B market cap) and continued higher into Friday. Shares are now up ~580% YTD 2026 as memory tightens on hyperscaler NAND buys; Wedbush stayed cautious citing eventual cyclicality from added capacity and Chinese competition, but flagged that risk as several years out.",
+        "forWho": "memory/semi analysts, AI-infrastructure investors",
+        "tryIt": "https://finance.yahoo.com/quote/SNDK/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sandisk-HQ.png/1280px-Sandisk-HQ.png",
+        "alt": "SanDisk corporate headquarters exterior",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Investor Day Release",
+          "url": "https://www.stocktitan.net/news/SNDK/sandisk-details-growth-strategy-and-long-term-financial-model-at-tfgp9oq5d8ja.html"
+        },
+        {
+          "label": "MarketScreener Coverage",
+          "url": "https://www.marketscreener.com/news/sandisk-details-growth-strategy-and-long-term-financial-model-at-2026-investor-day-ce7859d9d18ffe27"
+        },
+        {
+          "label": "Yahoo Recap",
+          "url": "https://finance.yahoo.com/technology/ai/articles/sandisk-unveils-long-term-growth-155043486.html"
+        },
+        {
+          "label": "Motley Fool Take",
+          "url": "https://www.fool.com/investing/2026/08/14/why-sandisk-stock-is-soaring-today/"
+        },
+        {
+          "label": "SNDK Quote",
+          "url": "https://finance.yahoo.com/quote/SNDK/"
+        }
+      ],
+      "reddit": {
+        "title": "SanDisk (SNDK) 2026 Investor Day — FY28-30 mid-high teens rev growth, ~80% GM target; stock +13.67% to $1,528, ~$228B market cap",
+        "body": "SanDisk held its 'Sandisk In Focus' 2026 Investor Day Wednesday and delivered a very bullish long-term financial model.\n\n* FY28–30 revenue growth target: mid- to high-teens (consistent with bit growth)\n* Non-GAAP gross margin target: ~80%\n* Non-GAAP operating margin target: ~75%\n* All excess cash flow committed to shareholder returns\n* Unveiled 9th-generation, 2Tb QLC 3D NAND with Kioxia (BiCS8 array + BiCS10-based CMOS via CBA architecture)\n\nWhy the market cared:\n\n1. **Memory is tightening on AI-hyperscaler NAND buys** — Sandisk framed the entire long-term model around AI-infrastructure demand.\n2. **Margin bar is aggressive** — an ~80% GM target for a NAND vendor is a re-rating narrative, not a maintenance one.\n3. **Stock re-rated hard** — closed +13.67% to $1,528.11 (~$228B market cap), then +~7% Friday. YTD 2026 up ~580%.\n\nWedbush stayed cautious on eventual cyclicality and Chinese competition, but flagged that risk as several years out.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sndk-investor-day-fy28-30-outlook-aug-13-2026](https://stock-tldr.xyz/releases/sndk-investor-day-fy28-30-outlook-aug-13-2026)"
+      },
+      "publishDate": "2026-08-15T00:44:29.781Z"
+    },
     {
       "id": "rddt-sp500-inclusion-aug-13-2026",
       "categories": [

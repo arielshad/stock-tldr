@@ -9639,6 +9639,57 @@
         "earnings",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260815t004429z",
+      "timestamp": "2026-08-15T00:44:29.781Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-08-15 UTC. Added five items: two macro prints for Aug 14 (U.S. July retail sales -0.6% M/M miss and prelim August UMich sentiment 51.0 miss), plus three corporate stories dated Aug 13 that reset the tape into Friday — Nubank's first $1B+ profit quarter (+10%), Globant's Q2 miss and guidance cut (-12% + Wedbush/JPM downgrades), and SanDisk's Investor Day setting FY28–30 mid-to-high teens revenue growth and ~80% GM target (+13.67% to $1,528).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-retail-sales-july-2026-aug-14",
+          "title": "U.S. July 2026 retail sales -0.6% M/M vs +0.1% est on autos and online pullback; total $763.6B, +5.0% Y/Y",
+          "category": "macro",
+          "note": "Aug 14 Census advance retail sales print, first negative in over a year, pulled S&P off record."
+        },
+        {
+          "id": "umich-sentiment-prelim-august-2026",
+          "title": "U.S. August 2026 preliminary UMich consumer sentiment 51.0 vs 54.5 est — snaps two-month rebound",
+          "category": "macro",
+          "note": "Aug 14 UMich prelim sentiment miss, snapping two-month rebound, alongside soft retail sales."
+        },
+        {
+          "id": "nu-q2-2026-earnings-first-1b-quarter-aug-13-2026",
+          "title": "Nu Holdings (NU) Q2 2026 — first $1B+ profit quarter as net income $1.06B and revenue $5.88B beat; stock +10% to ~$15.30",
+          "category": "earnings",
+          "note": "Nubank Q2 milestone — first $1B+ profit quarter; +10% Friday close to five-month high."
+        },
+        {
+          "id": "glob-q2-2026-guide-cut-mover-aug-13-2026",
+          "title": "Globant (GLOB) Q2 2026 — adj EPS $1.40 misses $1.50 est, revenue $614.4M flat Y/Y; FY26 guide cut to $5.75–6.15 EPS, stock -12% Friday",
+          "category": "earnings",
+          "note": "Globant Q2 miss + FY26 guide cut, Wedbush downgrade and JPMorgan rating cut; -12% Friday."
+        },
+        {
+          "id": "sndk-investor-day-fy28-30-outlook-aug-13-2026",
+          "title": "SanDisk (SNDK) 2026 Investor Day — FY28-30 mid-to-high-teens revenue growth and ~80% GM target; stock +13.67% to $1,528",
+          "category": "mover",
+          "note": "SanDisk Investor Day long-term model with ~80% GM target, +13.67% Aug 13 close."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "sector"
+      ]
     }
   ]
 }
