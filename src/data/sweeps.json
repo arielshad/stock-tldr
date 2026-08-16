@@ -9748,6 +9748,20 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20260816t122102z",
+      "timestamp": "2026-08-16T12:21:02.321Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep on Sun 2026-08-16 12:14 UTC. Only 12h after the prior zero-add sweep and U.S. markets closed for the weekend. Aug 14 (Fri) movers — RDDT +12.63% on S&P 500 add, WDAY +17.78% on Silver Lake rumor, AVGO -5.94% on BofA XPV note, AMD +~4% on Baird Street-high PT, FOXA +5% on JPM/WFC upgrades, AMAT -5% AH post-Q3, SNDK +13.67% on Investor Day, GLOB -12% on guide cut, US retail sales -0.6% M/M, UMich sentiment 51.0 — all already in the feed. Aug 13 items (US CPI, US PPI, Reddit S&P 500 add, AMAT Q3, CBRS, CSCO Q4, BIRK, TPR, NBIS, BN, JD, Anthropic FT $2T IPO valuation scoop) fail the 72h date cap (2026-08-13T00:00Z is ~84h before sweep). Weekend Aug 15-16 quiet: BTC flat ~$63.0K with the -$390M weekly ETF outflow already reflected in Aug 14 flows; MSTR $108.6M/1,690 BTC sale disclosed Aug 10 is outside the cap; SEC canceled its Aug 14 Reg-Crypto vote without a price move; gold ~$4,388 / silver ~$64 not at ATH; no Sunday-evening deal-dump surfaced by tier-1 outlets. Nothing new that meets the inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": []
     }
   ]
 }
