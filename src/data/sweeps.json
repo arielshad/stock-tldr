@@ -9762,6 +9762,35 @@
       "added": [],
       "updated": [],
       "removed": []
+    },
+    {
+      "id": "sweep-20260817t004017z",
+      "timestamp": "2026-08-17T00:40:17.773Z",
+      "source": "github-actions-sweep",
+      "summary": "One add on a quiet weekend: Berkshire's Q2 2026 13F filed after close Friday Aug 14 shows Alphabet vaulting to a ~$37.8B third-largest position and the first net-buying quarter in 14. Scanned tier-1 markets press, macro/central-bank, crypto, M&A/rumors — nothing else new since the Aug 14 close cleared the 72h/inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brk-13f-q2-2026-alphabet-third-largest-aug-15-2026",
+          "title": "Berkshire Hathaway (BRK.B) Q2 2026 13F — Alphabet leaps to third-largest position at ~$37.8B (106M shares) as Berkshire ends 14-quarter selling streak with $19.8B net equity buys",
+          "category": "insider",
+          "note": "13F accepted 4:05pm ET Aug 14 (SEC accession 0001193125-26-352200); tier-1 coverage broke Aug 15. Alphabet becomes 3rd-largest at ~$37.8B; Berkshire ends 14-quarter selling streak with $19.8B net buys."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "insider",
+        "macro",
+        "mover",
+        "mna",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
