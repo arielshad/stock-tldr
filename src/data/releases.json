@@ -1,8 +1,375 @@
 {
-  "generatedAt": "2026-08-17T00:40:17.773Z",
+  "generatedAt": "2026-08-18T00:54:35.783Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-30y-yield-5-31-2007-high-aug-17-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "US 30-year Treasury yield tops 5.31% on Monday Aug 17 — highest since 2007 as debt-supply, sticky inflation and AI-capex issuance drive long-end selloff",
+      "org": "U.S. Treasury",
+      "date": "2026-08-17",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-bond-selloff-drives-30-164444618.html",
+      "summary": "The 30-year US Treasury yield jumped ~6bp to 5.31% on Monday, its highest since 2007, on angst over surging deficits, inflation stuck above the Fed's 2% target and a wave of long-dated corporate AI-capex issuance.",
+      "tags": [
+        "30y-treasury",
+        "long-bond",
+        "yields",
+        "bond-selloff",
+        "rates",
+        "inflation",
+        "fiscal",
+        "ai-capex",
+        "curve-steepening",
+        "us-treasury"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TYX",
+        "TLT"
+      ],
+      "metrics": {
+        "30Y yield (Mon high)": "5.31%",
+        "30Y move on day": "+~6bp",
+        "Highest since": "2007",
+        "2007 peak": "5.44%",
+        "30Y MTD": "+13bp",
+        "2Y MTD": "-12bp"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/currencies/articles/us-bond-selloff-drives-30-164444618.html"
+        },
+        {
+          "label": "^TYX Quote",
+          "url": "https://finance.yahoo.com/quote/%5ETYX/"
+        },
+        {
+          "label": "TLT (20Y+ ETF)",
+          "url": "https://finance.yahoo.com/quote/TLT/"
+        }
+      ],
+      "explainer": {
+        "tagline": "30Y Treasury yield hits 5.31% Monday, highest since 2007, as long-end sells off on deficits, inflation and AI-capex bond supply.",
+        "whatIsIt": "The yield on the 30-year US Treasury climbed roughly six basis points on Monday Aug 17 to 5.31%, breaching last month's high and reaching the loftiest since 2007. Long-end government bond yields also rose in Canada (30Y highest since 2010) and Germany (rates at 2011 levels), reflecting a global reset in the price of long-dated debt.",
+        "howItWorks": "The move steepens the curve: the 2Y is down about 12bp month-to-date while the 30Y is up 13bp, so the term premium is widening. Barclays strategist Anshul Pradhan said his desk continues to 'argue against fading the long-end selloff' and outlined a set of fiscal-and-issuance conditions that would need to break for a constructive turn. Drivers cited in coverage: mounting US government debt, inflation stuck above the Fed's 2% target for the past five years, waning demand from traditional long-bond buyers, and a fresh ramp of investment-grade issuance to fund AI capex.",
+        "whyItMatters": "Rising real yields at the long end tighten financial conditions independently of the Fed's short-rate path — negative for long-duration equity (mega-cap tech, unprofitable growth, utilities) and for housing via 30Y mortgage rates. It also raises the Treasury's cost of funding a ~$2T deficit and puts pressure on the FOMC to justify near-term rate-cut expectations. 30Y closing above 5.44% would eclipse the 2007 GFC-era peak.",
+        "forWho": "rates traders, macro, duration allocators",
+        "tryIt": "https://fred.stlouisfed.org/series/DGS30"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/8382EEC33D669F95E9E595C8580F827A3846C484C0A6673F68D4AA46E7093FFD/subgraphmysterio/resizefill_w1200_h831;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F57f82b3b83925037f8206e7613f55f46.jpg",
+        "alt": "US 30-year Treasury yield chart tops 5.31% on Aug 17, 2026 — highest since 2007",
+        "fit": "cover",
+        "credit": "Bloomberg via Yahoo Finance"
+      },
+      "reddit": {
+        "title": "30-year Treasury yield hits 5.31% — highest since 2007. Long-end selloff, curve steepening, AI-capex bond issuance takes some of the blame",
+        "body": "Monday Aug 17 the 30-year US Treasury yield rose ~6bp to 5.31%, the highest close since 2007. The 2007 peak of 5.44% is now the next test.\n\n* 30Y yield: 5.31% intraday high, up ~6bp on the day\n* 30Y MTD: +13bp; 2Y MTD: -12bp — curve is steepening\n* Canada 30Y also hit its highest since 2010; German long rates at 2011 levels\n* Fed's inflation target has been undershot for five straight years\n\nThe drivers cited in the coverage:\n\n1. **Fiscal supply** — the Treasury is funding a giant deficit with more long-dated issuance and traditional real-money buyers are backing off.\n2. **Sticky inflation** — five years of PCE above 2% is eroding faith in the 2% anchor; long-end investors want more term premium.\n3. **AI-capex borrowing** — hyperscalers and their financing vehicles are pushing IG issuance sharply higher, tightening the crowding-out screw at the long end.\n\nBarclays strategist Anshul Pradhan: 'We continue to argue against fading the long-end selloff.'\n\nWhat it matters for: 30Y mortgage rates, long-duration equity multiples, and the FOMC's story on rate cuts into September.\n\nNext catalysts: FOMC minutes later this week and Jackson Hole Aug 27–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-30y-yield-5-31-2007-high-aug-17-2026](https://stock-tldr.xyz/releases/us-30y-yield-5-31-2007-high-aug-17-2026)"
+      },
+      "publishDate": "2026-08-18T00:54:35.783Z"
+    },
+    {
+      "id": "us-empire-manufacturing-august-2026-aug-17",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 Empire State Manufacturing 20.6 vs 11.0 est — fastest pace in over four years as prices paid jumps to 58.6",
+      "org": "Federal Reserve Bank of New York",
+      "date": "2026-08-17",
+      "url": "https://www.investinglive.com/news/us-empire-manufacturing-index-20-60-vs-11-00-estimate/",
+      "summary": "The NY Fed's Empire State factory index surged to 20.6 in August (vs 11.0 est, 15.6 July) — its strongest reading in more than four years — but prices paid jumped to 58.6 and delivery times worsened.",
+      "tags": [
+        "empire-state",
+        "manufacturing",
+        "ny-fed",
+        "us-macro",
+        "prices-paid",
+        "supply-chain",
+        "regional-fed-survey"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline": "20.6 vs 11.0 est",
+        "Prior": "15.6",
+        "New orders": "17.3",
+        "Shipments": "11.7",
+        "Unfilled orders": "15.5 (from 5.0)",
+        "Prices paid": "58.6 (from 52.3)",
+        "Prices received": "22.7",
+        "Employment": "9.3",
+        "6m business outlook": "32.1"
+      },
+      "links": [
+        {
+          "label": "Investing Live Recap",
+          "url": "https://www.investinglive.com/news/us-empire-manufacturing-index-20-60-vs-11-00-estimate/"
+        },
+        {
+          "label": "NY Fed Survey Home",
+          "url": "https://www.newyorkfed.org/survey/empire/empiresurvey_overview"
+        },
+        {
+          "label": "Empire State PDF (Aug)",
+          "url": "https://www.newyorkfed.org/medialibrary/media/survey/empire/empire2026/2026_08_empire-state-manufacturing-survey.pdf"
+        },
+        {
+          "label": "Crypto Briefing Coverage",
+          "url": "https://cryptobriefing.com/empire-state-factory-index-august-2026/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Empire State factory index leaps to 20.6 in August — a >4-year high — but prices paid at 58.6 keeps inflation risk alive.",
+        "whatIsIt": "The New York Fed's Empire State Manufacturing Survey general business conditions index jumped to 20.6 in August 2026 from 15.6 in July, nearly doubling the median economist forecast of 11.0. NY Fed adviser Richard Deitz noted manufacturing activity 'increased at its fastest pace in over four years' — but with caveats.",
+        "howItWorks": "Under the hood the picture is mixed: shipments cooled to 11.7 (from 24.4) and new orders eased to 17.3 (from 22.2), yet the unfilled-orders index jumped to 15.5 from 5.0 and delivery times lengthened to 20.6, signalling backlogs. Prices paid jumped to 58.6 from 52.3, its highest reading in a while, while prices received eased to 22.7. The forward six-month business-conditions index rose to 32.1 from 27.9.",
+        "whyItMatters": "This is the first regional Fed survey to land ahead of the September FOMC and it complicates the rate-cut story: real activity is hot AND input prices are re-accelerating just as the 30Y yield tops 5.31%. Watch the Philly Fed and manufacturing PMIs later this week — a matching hot print keeps the long end offered and shortens the dovish runway.",
+        "forWho": "macro traders, rate desks",
+        "tryIt": "https://www.newyorkfed.org/survey/empire/empiresurvey_overview"
+      },
+      "image": {
+        "url": "https://investinglive.com/cms/media/Processed/Categories/featured/Empire%20Manufacturing%20Index-featured-1786969820-featured-1786970200.jpg",
+        "alt": "NY Fed Empire State Manufacturing Survey headline surges to 20.6 in August 2026",
+        "fit": "cover",
+        "credit": "InvestingLive"
+      },
+      "reddit": {
+        "title": "NY Empire State manufacturing surges to 20.6 in August (vs 11.0 est) — fastest pace in 4+ years, but prices paid rip to 58.6",
+        "body": "The first regional Fed manufacturing print for August landed hot — and inflation isn't dead in the sub-indices.\n\n* Headline: 20.6 vs 11.0 est, prior 15.6 — strongest since spring 2022\n* New orders: 17.3 (was 22.2)\n* Shipments: 11.7 (was 24.4)\n* Unfilled orders: 15.5 (was 5.0) — real backlog build\n* Prices paid: 58.6 (was 52.3) — highest in a while\n* Prices received: 22.7\n* 6-month business conditions: 32.1 (was 27.9)\n\nTwo things to notice:\n\n1. **Real activity is running hotter than expected** — NY Fed adviser Richard Deitz says manufacturing 'increased at its fastest pace in over four years,' with the caveat that delivery times worsened.\n2. **Input prices are re-accelerating** — 58.6 on prices paid is a red flag for anyone modelling a September cut, and it lands on the same day the 30Y yield hit 5.31%.\n\nNext catalysts: Philly Fed on Aug 21, then FOMC minutes and Jackson Hole (Aug 27–29).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-empire-manufacturing-august-2026-aug-17](https://stock-tldr.xyz/releases/us-empire-manufacturing-august-2026-aug-17)"
+      },
+      "publishDate": "2026-08-18T00:54:35.783Z"
+    },
+    {
+      "id": "baba-lingxi-games-trustar-sale-aug-17-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Alibaba (BABA) selling Lingxi Games unit to Trustar Capital in ~US$2B+ deal — Monday Aug 17 divestment as e-commerce giant redirects capital to AI + cloud",
+      "org": "Alibaba Group",
+      "date": "2026-08-17",
+      "url": "https://finance.yahoo.com/technology/articles/alibaba-sell-lingxi-games-more-061745401.html",
+      "summary": "Alibaba is transferring 100% of gaming studio Lingxi to Asia PE firm Trustar Capital (formerly CITIC Capital) after several rounds of talks — Reuters puts the price at >US$2B, Bloomberg at ≥US$1.5B. Lingxi CEO Zhou Bingshu stays on.",
+      "tags": [
+        "alibaba",
+        "baba",
+        "mna",
+        "divestment",
+        "gaming",
+        "china-tech",
+        "trustar-capital",
+        "citic-capital",
+        "ai-pivot",
+        "portfolio-cleanup"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "BABA",
+        "9988.HK"
+      ],
+      "metrics": {
+        "Deal size (Reuters)": ">US$2B",
+        "Deal size (Bloomberg)": "≥US$1.5B",
+        "Stake": "100% of Lingxi Games",
+        "Buyer": "Trustar Capital (fmr CITIC Capital)",
+        "Announcement": "Aug 17, 2026 internal memo"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/technology/articles/alibaba-sell-lingxi-games-more-061745401.html"
+        },
+        {
+          "label": "CoinCentral Recap",
+          "url": "https://coincentral.com/alibaba-baba-stock-company-sells-lingxi-games-to-trustar-capital-for-over-2-billion/"
+        },
+        {
+          "label": "TechTimes Coverage",
+          "url": "https://www.techtimes.com/articles/324699/20260817/alibaba-sells-lingxi-games-completing-digital-pivot-ahead-earnings-test.htm"
+        },
+        {
+          "label": "BABA Quote",
+          "url": "https://finance.yahoo.com/quote/BABA/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Alibaba unloads its Lingxi Games studio to Trustar Capital for at least US$1.5-2B and doubles down on AI + cloud capex.",
+        "whatIsIt": "Alibaba has agreed to sell 100% of its gaming subsidiary Lingxi Games to Asia-focused private equity firm Trustar Capital (formerly CITIC Capital) after several rounds of talks. Lingxi CEO Zhou Bingshu disclosed the deal in an internal memo on Monday Aug 17.",
+        "howItWorks": "Reuters (Kane Wu, Eduardo Baptista) puts the price at more than US$2B; Bloomberg pegs it at at least US$1.5B. Alibaba will transfer its entire stake in Lingxi to Trustar. Zhou and his management team will continue to run the studio. Alibaba framed the sale as part of a broader review of non-core assets to free capital and attention for strategic priorities in AI and cloud infrastructure, where CapEx guidance has stepped up sharply through the year.",
+        "whyItMatters": "This is the clearest public signal yet that Alibaba's portfolio-cleanup thesis is executing — a real cash divestment, not a strategic review. It also puts a >US$1.5B tag on a Chinese mobile-games studio at a time when Tencent and NetEase are still absorbing multiple regulation cycles, and it hands Trustar (fmr CITIC Capital) a growth asset ahead of Alibaba's next earnings test.",
+        "forWho": "China tech, PE watchers",
+        "tryIt": "https://finance.yahoo.com/quote/BABA/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/875928C4811FBE747680E3BD6D42F358D4372BE950E50508C40017CEC6B873B6/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F61e958899669675eaa19aeb5ddba9342.jpg",
+        "alt": "Alibaba logo — company divesting Lingxi Games unit to Trustar Capital",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "reddit": {
+        "title": "Alibaba (BABA) selling 100% of Lingxi Games to Trustar Capital — Reuters says >$2B, Bloomberg says ≥$1.5B",
+        "body": "Announced via internal memo Monday Aug 17 — Alibaba is offloading gaming subsidiary Lingxi Games to Trustar Capital (formerly CITIC Capital) as it consolidates capital around AI and cloud.\n\n* Buyer: Trustar Capital (Asia-focused PE, formerly CITIC Capital)\n* Stake: 100% of Lingxi Games\n* Price: >US$2B per Reuters, ≥US$1.5B per Bloomberg\n* CEO Zhou Bingshu and mgmt stay in place\n* Announcement: internal memo Monday Aug 17\n\nWhy this matters:\n\n1. **First clean cash divestment of the AI-pivot cycle** — talk about \"reviewing non-core\" is now a signed deal at a real price tag.\n2. **China gaming assets still find a bid** — despite regulatory overhang, a mobile studio clears >$1.5B in private hands.\n3. **Lands right before Alibaba's next earnings test** — capital freed for cloud/AI capex that Alibaba has been guiding higher through the year.\n\nNext catalysts: Alibaba's Q1 FY27 print (August, exact date TBD) and updated FY27 CapEx guidance.\n\nFull breakdown: [https://stock-tldr.xyz/releases/baba-lingxi-games-trustar-sale-aug-17-2026](https://stock-tldr.xyz/releases/baba-lingxi-games-trustar-sale-aug-17-2026)"
+      },
+      "publishDate": "2026-08-18T00:54:35.783Z"
+    },
+    {
+      "id": "memory-chip-rally-lutnick-apple-cxmt-ymtc-aug-17-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Memory chip stocks rally Monday Aug 17 — Micron (MU) +5.8%, Western Digital (WDC) +5.4%, SanDisk (SNDK) +~5% after Commerce Sec Lutnick tells WSJ Trump admin opposes Apple buying Chinese memory (CXMT/YMTC)",
+      "org": "U.S. Department of Commerce",
+      "date": "2026-08-17",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-17-micron-and-western-digital-shares-are-soaring-what-you-need-to-know",
+      "summary": "US memory stocks jumped Monday after Commerce Sec Howard Lutnick told the WSJ the Trump administration is 'not in favor' of Apple sourcing memory chips from Chinese suppliers CXMT and YMTC — a de facto demand handoff to Micron, Samsung and SK hynix.",
+      "tags": [
+        "memory",
+        "dram",
+        "nand",
+        "micron",
+        "sandisk",
+        "western-digital",
+        "apple",
+        "china-chip",
+        "commerce-department",
+        "trump-admin",
+        "chip-supply"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MU",
+        "SNDK",
+        "WDC",
+        "AAPL"
+      ],
+      "metrics": {
+        "MU close": "+5.8% to ~$1,030",
+        "WDC close": "+5.4%",
+        "SNDK": "+~5% (up to +10% premarket)",
+        "Named Chinese suppliers": "CXMT, YMTC",
+        "Source": "WSJ interview with Commerce Sec Lutnick"
+      },
+      "links": [
+        {
+          "label": "StockStory Recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-17-micron-and-western-digital-shares-are-soaring-what-you-need-to-know"
+        },
+        {
+          "label": "TNW Analysis",
+          "url": "https://www.thenextweb.com/news/lutnick-apple-chinese-memory-chips-cxmt-ymtc"
+        },
+        {
+          "label": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/trump-admin-apple-chinese-memory-chips/"
+        },
+        {
+          "label": "TechTimes SNDK",
+          "url": "https://www.techtimes.com/articles/324722/20260817/sandisk-surges-lutnick-bars-apple-chinese-memory-nbm-locks-939b-floor.htm"
+        },
+        {
+          "label": "MU Quote",
+          "url": "https://finance.yahoo.com/quote/MU/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Lutnick's 'not in favor' comment on Apple sourcing DRAM/NAND from CXMT and YMTC hands US memory names a demand tailwind.",
+        "whatIsIt": "US Commerce Secretary Howard Lutnick told the Wall Street Journal that the Trump administration is 'not in favor' of Apple purchasing memory chips from Chinese suppliers ChangXin Memory Technologies (CXMT, DRAM) and Yangtze Memory Technologies (YMTC, NAND). Apple had been testing CXMT DRAM and negotiating with YMTC for NAND, reportedly for products sold outside the US.",
+        "howItWorks": "There is no formal rule or export order — Lutnick said he had told Apple 'plainly' — but the signalling was enough. Memory stocks jumped in Monday trading: Micron (MU) closed +5.8% near US$1,030, Western Digital (WDC) +5.4%, and SanDisk (SNDK) traded up ~5% after a ~10% premarket spike, on the read that Apple's memory dollars would flow to Micron, Samsung and SK hynix instead of Chinese suppliers. This lands on top of last week's SanDisk Investor Day (FY28–30 mid-to-high-teens revenue growth guide) and the July BofA Micron 'US 1' upgrade, both of which framed AI-driven NAND/DRAM tightness as structural.",
+        "whyItMatters": "The US memory complex is already trading on AI-capacity tightness; an explicit Commerce Department nudge redirecting a mega-buyer like Apple hardens the demand base for MU, SNDK, WDC and SK hynix. Counterpoint: no rule = no legal enforcement, and CXMT/YMTC still supply the rest of the Android world. Watch for a formal export-control expansion at the next BIS window and any Apple statement pushing back on the framing.",
+        "forWho": "semis, memory, AI-capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/MU/"
+      },
+      "image": {
+        "url": "https://stockstory.org/stockstory/company-image/MU",
+        "alt": "Micron Technology building — US memory stocks rally Aug 17 on Lutnick Apple/China comments",
+        "fit": "cover",
+        "credit": "StockStory"
+      },
+      "reddit": {
+        "title": "Memory chips rip on Lutnick comments: MU +5.8%, WDC +5.4%, SNDK +5% (premarket +10%) after Commerce Sec says Trump admin opposes Apple buying Chinese DRAM/NAND",
+        "body": "Commerce Secretary Howard Lutnick told the WSJ the Trump administration is 'not in favor' of Apple sourcing memory from Chinese suppliers CXMT (DRAM) and YMTC (NAND). No formal rule — but the signal alone moved the tape.\n\n* Micron (MU): +5.8% to ~$1,030\n* Western Digital (WDC): +5.4%\n* SanDisk (SNDK): +~5% at open, was +10% premarket\n* Named Chinese firms: CXMT and YMTC\n* Apple was reportedly testing CXMT DRAM and in talks with YMTC on NAND for non-US products\n\nWhy it's more than one soundbite:\n\n1. **Apple is a top-3 memory buyer globally** — redirecting even a slice of that demand to MU/Samsung/SK hynix meaningfully tightens an already tight market.\n2. **Stacks on structural bull setup** — SNDK Investor Day (FY28-30 mid-to-high-teens rev growth) and BofA's Micron US-1 add all point to structural NAND/DRAM tightness through 2028.\n3. **But — no rule = no enforcement** — Lutnick said he told Apple 'plainly' but there's no export order. Counterparty risk is a policy shift, not law.\n\nNext catalysts: any BIS export-control expansion; Micron F4Q print in late September.\n\nFull breakdown: [https://stock-tldr.xyz/releases/memory-chip-rally-lutnick-apple-cxmt-ymtc-aug-17-2026](https://stock-tldr.xyz/releases/memory-chip-rally-lutnick-apple-cxmt-ymtc-aug-17-2026)"
+      },
+      "publishDate": "2026-08-18T00:54:35.783Z"
+    },
+    {
+      "id": "sofi-piper-sandler-init-overweight-aug-17-2026",
+      "categories": [
+        "analyst"
+      ],
+      "title": "Piper Sandler initiates SoFi (SOFI) at Overweight with US$22 PT — analyst Patrick Moley calls it a 'high-growth' story with a 'powerful product flywheel', ~20% upside",
+      "org": "Piper Sandler",
+      "date": "2026-08-17",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-gains-piper-sandler-111943136.html",
+      "summary": "Piper Sandler's Patrick Moley started SoFi (SOFI) at Overweight, US$22 PT (~20% upside), citing a 'powerful product flywheel', student-loan and credit-card cross-sell, and 2027E revenue of US$6.14B / EPS US$0.88.",
+      "tags": [
+        "sofi",
+        "sofi-technologies",
+        "analyst",
+        "piper-sandler",
+        "initiation",
+        "overweight",
+        "fintech",
+        "cross-sell",
+        "student-loans",
+        "credit-cards"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "SOFI"
+      ],
+      "metrics": {
+        "Rating change": "New coverage — Overweight",
+        "Old PT": "n/a (initiation)",
+        "New PT": "US$22 (~20% upside)",
+        "2026E revenue": "US$4.89B",
+        "2027E revenue": "US$6.14B",
+        "2026E EPS": "US$0.63",
+        "2027E EPS": "US$0.88",
+        "Consensus rating": "Hold",
+        "Consensus PT": "~US$19.92",
+        "Premarket move": "+~2%"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-gains-piper-sandler-111943136.html"
+        },
+        {
+          "label": "CNBC — SoFi Rebound Note",
+          "url": "https://www.cnbc.com/2026/08/17/the-sofi-rebound-has-only-just-begun-says-piper-sandler.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/large-cap/26/08/61252920/sofi-stock-offers-an-attractive-entry-point-analyst"
+        },
+        {
+          "label": "SOFI Quote",
+          "url": "https://finance.yahoo.com/quote/SOFI/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Piper Sandler starts SoFi at Overweight with US$22 PT — ~20% upside, thesis is product cross-sell into a young, creditworthy base.",
+        "whatIsIt": "Piper Sandler analyst Patrick Moley launched coverage of SoFi Technologies (SOFI) on Monday Aug 17 with an Overweight rating and a US$22 price target, roughly 20% above Friday's ~US$18 close. The consensus rating on SOFI is still Hold with an average PT near US$19.92, so Piper is above the Street.",
+        "howItWorks": "Moley's thesis: SoFi has 'a large and growing market for lending and debt consolidation, particularly among younger, creditworthy consumers,' with a 'powerful product flywheel accelerating adoption across new and existing members.' He models FY26 revenue of US$4.89B / EPS US$0.63 and FY27 revenue US$6.14B / EPS US$0.88. He flags student loan refinancing and credit cards as the biggest unmonetised optionality inside the current member base. SOFI traded up roughly 2% in the pre-market on the note.",
+        "whyItMatters": "SOFI is a barometer for consumer-fintech sentiment: an above-Street Overweight from a top-tier US broker at the same time as bank-rating agencies are debating consumer credit reset risk is a real vote of confidence. Read-through positive for names with product-cross-sell narratives (HOOD, UPST, LC) and a small counter to the 'higher-for-longer + consumer softens' bear case that has weighed on fintech multiples.",
+        "forWho": "fintech, consumer-credit traders",
+        "tryIt": "https://finance.yahoo.com/quote/SOFI/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/D351535C7F4BE32581170BFBBC0FF18272A94ED38B4539AC25809C4746C44890/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fdc6a26afde14d9ec82a9470114f012d7",
+        "alt": "SoFi Technologies logo — Piper Sandler initiates coverage at Overweight, $22 PT on Aug 17, 2026",
+        "fit": "cover",
+        "credit": "Stocktwits via Yahoo Finance"
+      },
+      "reddit": {
+        "title": "Piper Sandler starts SoFi (SOFI) at Overweight, $22 PT (~20% upside) — thesis is product cross-sell into a young, creditworthy base",
+        "body": "Monday Aug 17 pre-market — Piper Sandler analyst Patrick Moley launched coverage on SoFi Technologies. Above-Street note vs a Hold consensus.\n\n* Rating: Overweight (initiation)\n* Price target: US$22 (~20% above Friday's ~US$18 close)\n* Street average PT: ~US$19.92, consensus Hold\n* FY26E revenue: US$4.89B, EPS US$0.63\n* FY27E revenue: US$6.14B, EPS US$0.88\n* Pre-market move: +~2%\n\nThesis in three:\n\n1. **Powerful product flywheel** — cross-sell across members driving take rates and CAC efficiencies.\n2. **Young, creditworthy customer base** — the mix skews toward higher-FICO under-40s that traditional banks under-serve.\n3. **Student loans + credit cards are underpriced optionality** — the biggest unmonetised legs of the current member base.\n\nMacro backdrop: 30Y Treasury at 5.31% and consumer-credit reset debate is real, but Moley's call is 'right cycle to own SoFi.'\n\nNext catalysts: SoFi Q3 print (late October) and any Fed cut signal into September.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sofi-piper-sandler-init-overweight-aug-17-2026](https://stock-tldr.xyz/releases/sofi-piper-sandler-init-overweight-aug-17-2026)"
+      },
+      "publishDate": "2026-08-18T00:54:35.783Z"
+    },
     {
       "id": "brk-13f-q2-2026-alphabet-third-largest-aug-15-2026",
       "categories": [

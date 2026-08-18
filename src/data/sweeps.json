@@ -9791,6 +9791,59 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260818t005435z",
+      "timestamp": "2026-08-18T00:54:35.783Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 18 UTC sweep — 5 items covering Monday Aug 17's macro dislocation (30Y yield 5.31%, highest since 2007; Empire State factory index at a 4-yr high; memory-chip rally on Lutnick/Apple/China comments), Alibaba's US$2B+ Lingxi Games sale to Trustar Capital, and Piper Sandler's above-Street SoFi initiation.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-30y-yield-5-31-2007-high-aug-17-2026",
+          "title": "US 30-year Treasury yield tops 5.31% on Monday Aug 17 — highest since 2007 as debt-supply, sticky inflation and AI-capex issuance drive long-end selloff",
+          "category": "macro",
+          "note": "First 30Y-yield close above July's 5.197% and highest of the cycle; distinct from May 19 record by date, new drivers (AI-capex issuance) and new level."
+        },
+        {
+          "id": "us-empire-manufacturing-august-2026-aug-17",
+          "title": "US August 2026 Empire State Manufacturing 20.6 vs 11.0 est — fastest pace in over four years as prices paid jumps to 58.6",
+          "category": "macro",
+          "note": "First regional Fed factory survey of August, first data print into the Sep-FOMC window — headline beat consensus by nearly 2x."
+        },
+        {
+          "id": "baba-lingxi-games-trustar-sale-aug-17-2026",
+          "title": "Alibaba (BABA) selling Lingxi Games unit to Trustar Capital in ~US$2B+ deal — Monday Aug 17 divestment as e-commerce giant redirects capital to AI + cloud",
+          "category": "mna",
+          "note": "First cash-out divestment of the Alibaba AI-pivot cycle, Reuters-scoop grade."
+        },
+        {
+          "id": "memory-chip-rally-lutnick-apple-cxmt-ymtc-aug-17-2026",
+          "title": "Memory chip stocks rally Monday Aug 17 — Micron (MU) +5.8%, Western Digital (WDC) +5.4%, SanDisk (SNDK) +~5% after Commerce Sec Lutnick tells WSJ Trump admin opposes Apple buying Chinese memory (CXMT/YMTC)",
+          "category": "mover",
+          "note": "Named-catalyst rally in the US memory complex, WSJ primary source with named Commerce Sec quote."
+        },
+        {
+          "id": "sofi-piper-sandler-init-overweight-aug-17-2026",
+          "title": "Piper Sandler initiates SoFi (SOFI) at Overweight with US$22 PT — analyst Patrick Moley calls it a 'high-growth' story with a 'powerful product flywheel', ~20% upside",
+          "category": "analyst",
+          "note": "Above-Street initiation from top-tier US broker with fresh 26/27 model numbers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "mover",
+        "regulatory",
+        "mna",
+        "analyst"
+      ]
     }
   ]
 }
