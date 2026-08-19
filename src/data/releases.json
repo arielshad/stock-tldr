@@ -1,8 +1,418 @@
 {
-  "generatedAt": "2026-08-19T00:42:55.013Z",
+  "generatedAt": "2026-08-19T12:33:35.912Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "tgt-q2-fy26-earnings-aug-19-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Target (TGT) Q2 FY26 — net sales $26.5B (+5.3% Y/Y), comps +3.8% on traffic +3.6%; EPS $4.11 includes $1.65 tariff-refund tailwind; FY26 EPS guide raised to $9.90–$10.90",
+      "org": "Target",
+      "date": "2026-08-19",
+      "url": "https://corporate.target.com/press/release/2026/08/target-corporation-reports-second-quarter-earnings",
+      "summary": "Target Q2 FY26 net sales $26.5B (+5.3%), comps +3.8% with digital +8.7%; reported EPS $4.11 boosted by a $994M tariff refund; FY26 EPS guide raised to $9.90–$10.90 (or $8.25–$9.25 ex-refund).",
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "retail",
+        "big-box",
+        "tariffs",
+        "eps-beat",
+        "guidance-raise",
+        "comps",
+        "traffic"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TGT"
+      ],
+      "metrics": {
+        "Revenue": "$26.5B (+5.3% Y/Y)",
+        "Comps": "+3.8% (traffic +3.6%)",
+        "EPS": "$4.11 (incl. $1.65 tariff refund) vs $2.35 est",
+        "Digital comps": "+8.7%",
+        "FY26 EPS guide": "$9.90–$10.90 (ex-refund $8.25–$9.25)",
+        "FY26 sales growth guide": "~5%"
+      },
+      "links": [
+        {
+          "label": "Target IR Release",
+          "url": "https://corporate.target.com/press/release/2026/08/target-corporation-reports-second-quarter-earnings"
+        },
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/TGT/target-corporation-reports-second-quarter-whi1a63iatnc.html"
+        },
+        {
+          "label": "TGT on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/TGT/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Target's headline EPS $4.11 is flattered by a $994M one-time tariff refund; core sales acceleration is real but not the whole story.",
+        "whatIsIt": "Target reported Q2 FY26 earnings on Wednesday Aug 19. Net sales grew 5.3% Y/Y to $26.5B with comparable sales up 3.8%, both above Street expectations. The reported EPS of $4.11 included $1.65 of one-time tariff-refund benefit.",
+        "howItWorks": "The company received $994M in tariff refunds during the quarter that added 3.7 percentage points to operating margin. Comparable traffic rose 3.6% and digital comps grew 8.7%, with same-day delivery up more than 25%. Six core merchandising categories all grew Y/Y. Target raised FY26 GAAP/adjusted EPS guidance to $9.90–$10.90 (previously not disclosed at this range) — but ex-refund, the range is $8.25–$9.25 vs prior $7.50–$8.50.",
+        "whyItMatters": "First quarter under new CEO Michael Fiddelke where the turnaround thesis meets the numbers. Stock had run 55%+ YTD into the print; underlying (ex-tariff-refund) beat is smaller than the headline suggests, and DIY-adjacent categories still lag. Read-through for WMT (Thursday) and the broader consumer-discretionary complex.",
+        "forWho": "retail equity investors, consumer discretionary allocators",
+        "tryIt": "https://finance.yahoo.com/quote/TGT/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Target_Corporation_Reports_Second_Quarter_Earnings_1494929.webp",
+        "alt": "Target Corporation Q2 FY26 earnings release cover",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "reddit": {
+        "title": "Target (TGT) Q2 FY26: comps +3.8%, sales $26.5B (+5.3%) — but EPS $4.11 is inflated by a $994M tariff-refund one-off worth $1.65/share",
+        "body": "Target's headline beat looks huge, but the tariff-refund one-off is doing a lot of work.\n\n* Net sales $26.5B, +5.3% Y/Y\n* Comparable sales +3.8% (traffic +3.6%, digital comps +8.7%)\n* Reported EPS $4.11 vs $2.35 est — but $1.65 of that is a $994M tariff refund\n* Same-day delivery +25%+; all six core categories grew Y/Y\n\nGuidance moves:\n\n1. **FY26 EPS raised to $9.90–$10.90** — but ex-tariff-refund the range is $8.25–$9.25 (prior $7.50–$8.50), a smaller beat\n2. **FY26 sales growth guide ~5%** with operating margin ~6%\n3. **First real quarter under new CEO Michael Fiddelke**, who took over Feb 1; stock had run ~55% YTD into the print\n\nCore takeaway: real acceleration in comps and traffic, but the headline EPS line overstates the underlying beat.\n\nNext catalysts: Walmart (WMT) earnings Thursday, then July retail sales revisions.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tgt-q2-fy26-earnings-aug-19-2026](https://stock-tldr.xyz/releases/tgt-q2-fy26-earnings-aug-19-2026)"
+      },
+      "publishDate": "2026-08-19T12:33:35.912Z"
+    },
+    {
+      "id": "low-q2-fy26-earnings-aug-19-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lowe's (LOW) Q2 FY26 — sales $26.0B (+8.4% Y/Y) on FBM/ADG close, comps just +0.2%, GAAP EPS $4.27 flat; FY26 guide cut to low end (~$12.25 adj EPS) on DIY 'pressure'; stock -3% premarket",
+      "org": "Lowe's",
+      "date": "2026-08-19",
+      "url": "https://www.prnewswire.com/news-releases/lowes-reports-second-quarter-2026-sales-and-earnings-results-302854643.html",
+      "summary": "Lowe's Q2 FY26 sales $26.0B (+8.4%) helped by the Foundation Building Materials and Artisan Design Group closes; comps just +0.2%, GAAP EPS $4.27 flat vs prior year. FY26 guide narrowed to low end as DIY spending stays 'pressured'.",
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "home-improvement",
+        "diy",
+        "pro",
+        "guidance-cut",
+        "housing",
+        "fbm-integration"
+      ],
+      "importance": "major",
+      "tickers": [
+        "LOW"
+      ],
+      "metrics": {
+        "Revenue": "$26.0B (+8.4% Y/Y)",
+        "Comps": "+0.2%",
+        "GAAP EPS": "$4.27 (flat Y/Y)",
+        "Adj EPS": "$4.40 (+1.6%)",
+        "Online comps": "+15.7%",
+        "FY26 sales guide": "$92B (was $92–$94B)",
+        "FY26 adj EPS guide": "~$12.25 (was $12.25–$12.75)",
+        "Move": "~-3% premarket"
+      },
+      "links": [
+        {
+          "label": "Lowe's IR Release",
+          "url": "https://www.prnewswire.com/news-releases/lowes-reports-second-quarter-2026-sales-and-earnings-results-302854643.html"
+        },
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/LOW/lowe-s-reports-second-quarter-2026-sales-and-earnings-ru02tuuuuh3w.html"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/article/lowes-cautious-outlook-sends-stock-lower-as-retailer-flags-pressure-in-diy-spending-105716315.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "Top-line boosted by the $8.8B Foundation Building Materials deal, but underlying comps flatlined and the FY26 guide came down to the low end.",
+        "whatIsIt": "Lowe's reported Q2 FY26 on Wednesday Aug 19. Total sales $26.0B up 8.4% Y/Y — but that's flattered by the newly-closed Foundation Building Materials (FBM) and Artisan Design Group (ADG) acquisitions. Underlying comparable sales grew just 0.2%, essentially flat.",
+        "howItWorks": "GAAP diluted EPS $4.27 was flat vs the prior-year quarter; excluding $96M of acquisition-related expenses tied to FBM/ADG, adj diluted EPS was $4.40 (+1.6%). Online comps grew 15.7% and Pro plus home services drove the fifth straight quarter of positive comps, but discretionary DIY spending stayed weak. Management narrowed FY26 to the low end: sales ~$92B (from $92–$94B), comps flat (from flat–up 2%), adj EPS ~$12.25 (from $12.25–$12.75).",
+        "whyItMatters": "Read-through to the broader housing complex: with the 30-year Treasury yield at 5.31% (highest since 2007) and mortgage rates elevated, homeowners are still deferring DIY projects. CEO Ellison's Pro strategy (FBM was $8.8B) is helping mix but not fixing the DIY drag. Watch HD (already reported Aug 18), FND, POOL and BLDR read-throughs.",
+        "forWho": "housing / consumer discretionary desks",
+        "tryIt": "https://finance.yahoo.com/quote/LOW/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/LOWE_S_REPORTS_SECOND_QUARTER_2026_SALES_AND_EARNINGS_RESULTS_1494920.webp",
+        "alt": "Lowe's Q2 FY26 sales and earnings release cover",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "reddit": {
+        "title": "Lowe's (LOW) Q2 FY26: sales +8.4% to $26B but comps just +0.2%; FY26 guide cut to low end as DIY spending stays 'pressured'; stock -3% premarket",
+        "body": "Lowe's Q2 top line looks strong but the underlying business is basically flat, and the guide got narrower to the downside.\n\n* Total sales $26.0B, +8.4% Y/Y — mostly the Foundation Building Materials + Artisan Design Group closes doing the work\n* Comparable sales +0.2%, essentially flat\n* GAAP EPS $4.27 unchanged Y/Y; adj EPS $4.40 (+1.6%) ex $96M acquisition costs\n* Online comps +15.7%; Pro + home services carried\n* Stock ~-3% premarket\n\nWhat changed on guidance:\n\n1. **FY26 sales narrowed to $92B** (from $92–$94B)\n2. **FY26 adj EPS narrowed to ~$12.25** (from $12.25–$12.75)\n3. **Comparable sales expected flat** (was flat to +2%)\n\nCEO Ellison called out 'persistent DIY macro pressures' — no surprise with the 30-year Treasury at 5.31% and mortgage rates keeping homeowners frozen.\n\nNext catalysts: Home Depot already reported Tuesday (comps +1.7%); FOMC July minutes at 2pm ET today.\n\nFull breakdown: [https://stock-tldr.xyz/releases/low-q2-fy26-earnings-aug-19-2026](https://stock-tldr.xyz/releases/low-q2-fy26-earnings-aug-19-2026)"
+      },
+      "publishDate": "2026-08-19T12:33:35.912Z"
+    },
+    {
+      "id": "tjx-q2-fy27-earnings-aug-19-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "TJX (TJX) Q2 FY27 — net sales $15.2B (+5% Y/Y), comps +4% above plan; pretax margin 13.3% (+190bp); diluted EPS $1.36 (+24% Y/Y); FY27 EPS guide raised to $5.31–$5.36",
+      "org": "TJX Companies",
+      "date": "2026-08-19",
+      "url": "https://www.stocktitan.net/news/TJX/tjx-reports-q2-fy27-results-above-plan-comp-sales-growth-of-4-pretax-un8k85sp6meo.html",
+      "summary": "TJX Q2 FY27 sales $15.2B (+5%), comps +4% above plan; pretax margin 13.3% (+190bp Y/Y); diluted EPS $1.36 (+24% Y/Y); FY27 EPS guide raised to $5.31–$5.36. HomeGoods led with +7% comps.",
+      "tags": [
+        "earnings",
+        "q2-fy27",
+        "off-price",
+        "retail",
+        "comps",
+        "guidance-raise",
+        "homegoods",
+        "marmaxx"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TJX"
+      ],
+      "metrics": {
+        "Revenue": "$15.2B (+5% Y/Y)",
+        "Consolidated comps": "+4% (above plan)",
+        "Diluted EPS": "$1.36 (+24% Y/Y)",
+        "Pretax margin": "13.3% (+190bp)",
+        "Adj pretax margin (ex-tariff)": "11.9% (+50bp)",
+        "HomeGoods comps": "+7%",
+        "Marmaxx comps": "+1%",
+        "FY27 EPS guide": "$5.31–$5.36 (raised)",
+        "Q2 buyback + dividend": "$1.3B"
+      },
+      "links": [
+        {
+          "label": "TJX Q2 FY27 Announcement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-inc-report-q2-153000079.html"
+        },
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/TJX/tjx-reports-q2-fy27-results-above-plan-comp-sales-growth-of-4-pretax-un8k85sp6meo.html"
+        },
+        {
+          "label": "TJX on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/TJX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-price keeps outperforming full-price retail: TJX prints +4% comps and lifts FY27 guide, but shares fade -2% AH after the run-up.",
+        "whatIsIt": "TJX Companies (T.J. Maxx, Marshalls, HomeGoods) reported Q2 FY27 on Wednesday Aug 19. Net sales $15.2B (+5% Y/Y) and consolidated comparable sales +4% both came in above the company's plan. Diluted EPS $1.36 was up 24% Y/Y and above prior guidance.",
+        "howItWorks": "Pretax profit margin expanded to 13.3%, up 190 basis points Y/Y; excluding tariff-related benefits, the adjusted pretax margin was 11.9% (+50bp). Gross margin improved to 33.4% on stronger merchandise margin. HomeGoods led with +7% comps, TJX International and Canada both +6–7%; Marmaxx (the largest segment) lagged with only +1% comp growth. FY27 diluted EPS guide raised to $5.31–$5.36; long-term global store target lifted to 7,500 with 4% annual growth from FY28.",
+        "whyItMatters": "TJX continues to run away from full-price retail: the value/treasure-hunt off-price model keeps taking share while HD (Tuesday) reported +1.7% comps, Target (this morning) +3.8% and Lowe's just +0.2%. Read-throughs positive for ROST, BURL and other off-price names; incrementally negative for the mid-tier department stores.",
+        "forWho": "retail equity investors",
+        "tryIt": "https://finance.yahoo.com/quote/TJX/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/TJX_Reports_Q2_FY27_Results_Above_Plan_Comp_Sales_Growth_of_4_Pretax_Profit_Margin_and_Diluted_EP_1494998.webp",
+        "alt": "TJX Companies Q2 FY27 earnings release cover",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "reddit": {
+        "title": "TJX (TJX) Q2 FY27: comps +4% above plan, EPS $1.36 (+24% Y/Y), pretax margin 13.3% (+190bp), FY27 guide raised — but stock -2% AH",
+        "body": "Another quarter of off-price outperforming full-price retail, but shares faded after the run.\n\n* Net sales $15.2B, +5% Y/Y\n* Consolidated comps +4% (above plan)\n* Diluted EPS $1.36, +24% Y/Y\n* Pretax margin 13.3% (+190bp), adj 11.9% ex-tariff (+50bp)\n* HomeGoods comps +7%, TJX International +7%, Canada +6%\n* Marmaxx (largest segment) comps just +1%\n* Returned $1.3B to shareholders in Q2 ($798M buybacks + $529M dividends)\n\nGuidance and store plan:\n\n1. **FY27 diluted EPS guide raised** to $5.31–$5.36\n2. **Long-term global store target raised to 7,500** with 4% annual growth from FY28 on\n3. **Marmaxx softness** the one thing to watch — largest banner grew only 1%\n\nOff-price keeps taking share as full-price retail sputters (HD comps +1.7% Tue, LOW comps +0.2% today).\n\nFull breakdown: [https://stock-tldr.xyz/releases/tjx-q2-fy27-earnings-aug-19-2026](https://stock-tldr.xyz/releases/tjx-q2-fy27-earnings-aug-19-2026)"
+      },
+      "publishDate": "2026-08-19T12:33:35.912Z"
+    },
+    {
+      "id": "adi-q3-fy26-earnings-aug-19-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Analog Devices (ADI) Q3 FY26 — record revenue $4.02B (+40% Y/Y), adj EPS $3.45 (+68%); adj op margin 50.0%; Industrial +53% Y/Y; Q4 rev guide $4.3B ±$0.1B",
+      "org": "Analog Devices",
+      "date": "2026-08-19",
+      "url": "https://www.stocktitan.net/news/ADI/analog-devices-reports-record-fiscal-third-quarter-2026-financial-5wzzi4jqwpk2.html",
+      "summary": "Analog Devices posted record Q3 FY26 revenue $4.02B (+40% Y/Y), GAAP EPS $2.74 (+163%) and adj EPS $3.45 (+68%). Adj op margin 50%, industrial rev +53%. Q4 rev guide $4.3B ±$0.1B on 'sustained' Data Center + Industrial demand.",
+      "tags": [
+        "earnings",
+        "q3-fy26",
+        "semis",
+        "analog",
+        "industrial",
+        "data-center",
+        "ai-capex",
+        "guidance-raise",
+        "margin-expansion"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ADI"
+      ],
+      "metrics": {
+        "Revenue": "$4.02B (+40% Y/Y, record)",
+        "GAAP EPS": "$2.74 (+163% Y/Y)",
+        "Adj EPS": "$3.45 (+68% Y/Y)",
+        "Adj gross margin": "72.5%",
+        "Adj operating margin": "50.0%",
+        "Industrial revenue": "+53% Y/Y",
+        "Q4 rev guide": "$4.3B ± $0.1B",
+        "Q4 adj op margin guide": "~52.0%",
+        "Q4 adj EPS guide": "$3.86 ± $0.15",
+        "Q3 shareholder returns": "$1.7B"
+      },
+      "links": [
+        {
+          "label": "ADI PRNewswire Release",
+          "url": "http://www.prnewswire.com/news-releases/analog-devices-reports-record-fiscal-third-quarter-2026-financial-results-302854642.html"
+        },
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/ADI/analog-devices-reports-record-fiscal-third-quarter-2026-financial-5wzzi4jqwpk2.html"
+        },
+        {
+          "label": "ADI on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/ADI/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Analog Devices hits record revenue with 40% Y/Y growth and a 50% adj operating margin — the analog cycle is off the mat and Industrial is booming.",
+        "whatIsIt": "Analog Devices reported record Q3 FY26 (fiscal quarter ended August) on Wednesday Aug 19. Revenue $4.02B was up 40% Y/Y; GAAP diluted EPS jumped 163% to $2.74 and adjusted diluted EPS rose 68% to $3.45.",
+        "howItWorks": "GAAP gross margin 67.3% / adj gross margin 72.5%; GAAP operating margin 40.1% / adj operating margin 50.0%. Growth was led by Data Center and Industrial (Industrial revenue +53% Y/Y). Trailing twelve-month free cash flow $4.9B (36% of revenue). ADI returned $1.7B to shareholders in Q3 via dividends and buybacks and declared a $1.10/share quarterly dividend. Q4 FY26 guide: revenue $4.3B ±$0.1B; adj op margin ~52.0%; adj EPS $3.86 ±$0.15.",
+        "whyItMatters": "Confirms the analog / industrial upcycle is real, following TXN's constructive tone. Read-through positive for MCHP, ON and NXPI on the industrial side, and for the automation/factory-automation names ADI supplies. The 50% adj op margin at 40% Y/Y growth is the kind of print that quiets the 'AI capex is overbuilding' worry that dominated Tuesday's SOX rout.",
+        "forWho": "semi analysts, industrial-tech investors",
+        "tryIt": "https://finance.yahoo.com/quote/ADI/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Analog_Devices_Reports_Record_Fiscal_Third_Quarter_2026_Financial_Results_1494973.webp",
+        "alt": "Analog Devices Q3 FY26 earnings release cover",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "reddit": {
+        "title": "Analog Devices (ADI) Q3 FY26: record rev $4.02B (+40% Y/Y), adj EPS $3.45 (+68%), adj op margin 50%; Industrial rev +53% Y/Y",
+        "body": "The analog cycle is off the mat. ADI just printed a record quarter with 40% growth and a 50% operating margin.\n\n* Revenue $4.02B, +40% Y/Y (record)\n* GAAP EPS $2.74 (+163% Y/Y); adj EPS $3.45 (+68% Y/Y)\n* Adj gross margin 72.5%, adj operating margin 50.0%\n* Industrial revenue +53% Y/Y — big single-quarter reacceleration\n* Data Center led alongside Industrial\n* TTM free cash flow $4.9B (36% of revenue)\n* Q3 shareholder returns $1.7B (dividends + buybacks); dividend $1.10/sh\n\nGuidance:\n\n1. **Q4 revenue $4.3B ±$0.1B** — implies another sequential step-up\n2. **Q4 adj EPS $3.86 ±$0.15**; adj operating margin ~52%\n3. **CFO Puccio**: 'Demand continued to strengthen across our product portfolio and regions throughout the third quarter'\n\nWhy it matters: a 50% adj op margin at 40% Y/Y growth is exactly the print that pushes back on Tuesday's SOX-rout narrative that AI capex is peaking. Positive read-through for MCHP, ON, NXPI on the industrial analog side.\n\nFull breakdown: [https://stock-tldr.xyz/releases/adi-q3-fy26-earnings-aug-19-2026](https://stock-tldr.xyz/releases/adi-q3-fy26-earnings-aug-19-2026)"
+      },
+      "publishDate": "2026-08-19T12:33:35.912Z"
+    },
+    {
+      "id": "el-q4-fy26-earnings-aug-19-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Estée Lauder (EL) Q4 FY26 — organic net sales +5% Y/Y, revenue $3.63B tops $3.55B est, adj EPS $0.39 vs $0.32 est; FY27 adj op margin guide raised to 12.7–13.5%; stock ~+8% premarket on China + fragrance strength",
+      "org": "Estée Lauder",
+      "date": "2026-08-19",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-8-19-the-este-lauder-companies-inc-stock/",
+      "summary": "Estée Lauder Q4 FY26 organic sales +5% Y/Y, revenue $3.63B beat $3.55B est, adj EPS $0.39 vs $0.32 est. FY27 organic sales guide 3–5% affirmed and adj op margin guide raised to 12.7–13.5%. Stock ~+8% premarket on China + prestige-fragrance strength.",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "beauty",
+        "prestige",
+        "china",
+        "fragrance",
+        "guidance-raise",
+        "turnaround",
+        "eps-beat"
+      ],
+      "importance": "major",
+      "tickers": [
+        "EL"
+      ],
+      "metrics": {
+        "Q4 revenue": "$3.63B (vs $3.55B est)",
+        "Q4 organic sales growth": "+5% Y/Y",
+        "Q4 adj EPS": "$0.39 (vs $0.32 est)",
+        "FY26 organic sales growth": "+3%",
+        "FY26 as-reported sales growth": "+5%",
+        "FY27 organic sales guide": "+3% to +5%",
+        "FY27 adj op margin guide": "12.7% to 13.5% (raised)",
+        "Move": "~+8% premarket"
+      },
+      "links": [
+        {
+          "label": "MarketBeat Q4 Report",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-8-19-the-este-lauder-companies-inc-stock/"
+        },
+        {
+          "label": "EL Q4 FY26 Announcement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-companies-webcast-203500810.html"
+        },
+        {
+          "label": "EL on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/EL/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Fourth straight quarter of organic sales growth under CEO Stéphane de La Faverie's turnaround, with FY27 margin guide bumped and shares +8% premarket.",
+        "whatIsIt": "The Estée Lauder Companies reported Q4 FY26 on Wednesday Aug 19. Q4 organic net sales grew 5% Y/Y (as-reported +6%); full-year organic sales +3% with reported +5%. Q4 revenue $3.63B beat the $3.55B Street estimate; adj EPS $0.39 beat the $0.32 consensus.",
+        "howItWorks": "This marks the fourth consecutive quarter of organic growth and the company achieved full-year gross and operating margin expansion. CEO de La Faverie flagged breadth of growth across brands and stronger profitability. FY27 guidance: organic net sales growth of 3–5% (affirmed) with adjusted operating margin raised to 12.7–13.5%. Company cites resilient prestige-fragrance demand and improving China business as key drivers. Reported diluted loss of $0.32/share was restructuring-heavy; the $0.39 adj figure is the clean read.",
+        "whyItMatters": "Read-through positive for other China-exposed prestige beauty (COTY, IPAR, LVMH beauty, L'Oréal). The China recovery signal from a US-listed name that had been considered a China proxy is meaningful for macro-beta into the space. Stock had been beaten down; the +8% premarket move suggests the turnaround thesis under a new CEO is starting to earn credibility.",
+        "forWho": "consumer staples / luxury analysts, China proxies",
+        "tryIt": "https://finance.yahoo.com/quote/EL/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Est%C3%A9e_Lauder_Companies_Logo.svg/1280px-Est%C3%A9e_Lauder_Companies_Logo.svg.png",
+        "alt": "The Estée Lauder Companies logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "Estée Lauder (EL) Q4 FY26: organic sales +5%, rev $3.63B beats $3.55B est, adj EPS $0.39 vs $0.32 est; FY27 margin guide raised; stock ~+8% premarket",
+        "body": "Fourth straight quarter of organic growth for EL — the turnaround is starting to earn credibility.\n\n* Q4 revenue $3.63B vs $3.55B est\n* Q4 organic net sales +5% Y/Y (as-reported +6%)\n* Q4 adj EPS $0.39 vs $0.32 est\n* Full-year organic sales +3% / as-reported +5%\n* Full-year gross and operating margin both expanded\n* Stock ~+8% premarket\n\nGuidance:\n\n1. **FY27 organic sales guide affirmed at +3% to +5%**\n2. **FY27 adj operating margin raised to 12.7–13.5%**\n3. **CEO Stéphane de La Faverie**: 'reignited growth' driven by breadth across brands; called out resilient prestige-fragrance demand and improving China\n\nWhy it matters: EL had been trading as a broken China proxy. A beat + margin-guide-raise is the strongest signal in years that the China prestige beauty destocking cycle is behind them. Positive read-through for COTY, IPAR, LVMH beauty division and L'Oréal.\n\nFull breakdown: [https://stock-tldr.xyz/releases/el-q4-fy26-earnings-aug-19-2026](https://stock-tldr.xyz/releases/el-q4-fy26-earnings-aug-19-2026)"
+      },
+      "publishDate": "2026-08-19T12:33:35.912Z"
+    },
+    {
+      "id": "sk-hynix-40t-won-29b-buyback-aug-19-2026",
+      "categories": [
+        "insider",
+        "sector"
+      ],
+      "title": "SK Hynix unveils record 40 trillion won (~US$28.6B) share buyback + cancellation between Aug 20–Nov 19; commits >50% FCF to shareholder returns 2025–27; Korean shares -9.8% intraday then trim on 'AI-capex peak' worry",
+      "org": "SK Hynix",
+      "date": "2026-08-19",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-buy-back-cancel-070906682.html",
+      "summary": "SK Hynix announces record 40 trillion won (~US$28.6B) buyback + cancellation, executed Aug 20–Nov 19, cancelling up to 24M treasury shares. Also commits >50% of 2025–27 FCF to shareholder returns. Korean shares -9.8% intraday then recovered post-market.",
+      "tags": [
+        "insider",
+        "buyback",
+        "memory",
+        "hbm",
+        "ai-capex",
+        "korea",
+        "shareholder-returns",
+        "capital-return"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Buyback size": "40 trillion won (~US$28.6B)",
+        "Shares to cancel": "up to 24 million",
+        "Execution window": "Aug 20 – Nov 19, 2026",
+        "Capital return commitment": ">50% of 2025–27 free cash flow",
+        "Korea share move": "-9.8% Wed regular session (trimmed after)"
+      },
+      "links": [
+        {
+          "label": "Yahoo/Reuters Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-buy-back-cancel-070906682.html"
+        },
+        {
+          "label": "Free Malaysia Today",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/08/19/south-korea-s-sk-hynix-unveils-record-us-28-9bil-share-buyback"
+        },
+        {
+          "label": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/sk-hynix-to-buy-back-cancel-29-billion-of-treasury-shares-ce7859ddd08ff326"
+        }
+      ],
+      "explainer": {
+        "tagline": "SK Hynix, the world's #2 memory maker and dominant HBM supplier to Nvidia, launches a record ~$29B buyback to defend the AI-memory narrative.",
+        "whatIsIt": "SK Hynix disclosed in a regulatory filing on Wednesday Aug 19 that it will buy back and cancel up to 24 million treasury shares worth 40 trillion won (~US$28.6B) between Aug 20 and Nov 19, 2026. The company also committed to allocate more than 50% of free cash flow generated in 2025–2027 to shareholder returns.",
+        "howItWorks": "The three-month execution window is unusually compressed for a buyback of this size. The move comes after months of investor pressure on both SK Hynix and Samsung Electronics to return more of the AI-memory profit windfall through buybacks. Korean shares fell 9.8% in the regular session on 'AI capex peak' fears but pared losses after the announcement dropped; US-listed ADR (SKHY) rose ~3.9% post-market on the news.",
+        "whyItMatters": "SK Hynix is the primary HBM (high-bandwidth memory) supplier to Nvidia's H100 / H200 / GB200 stack; the size and cadence of the buyback is being read as management signalling confidence that memory pricing has NOT peaked — 'a commitment on this scale over the next three months indicates SK Hynix does not think memory pricing is about to roll over'. Read-through positive for Micron (MU), Samsung Electronics, WDC and SanDisk on the memory-cycle read; negative for the AI-capex-peak bear thesis that drove Tuesday's SOX -5% rout.",
+        "forWho": "semi + memory investors, HBM-supply-chain analysts",
+        "tryIt": "https://finance.yahoo.com/quote/SKHY/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SK_Hynix.svg/1280px-SK_Hynix.svg.png",
+        "alt": "SK Hynix corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "SK Hynix launches record ~$28.6B (40T won) buyback + share cancellation to be executed in three months, commits >50% FCF to shareholder returns through 2027",
+        "body": "The world's #2 memory maker just fired a bazooka to defend the AI-memory narrative.\n\n* Record 40 trillion won (~US$28.6B) buyback + cancellation of up to 24M treasury shares\n* Execution window: **Aug 20 – Nov 19, 2026** — three months, unusually compressed for a buyback this size\n* Committed to allocate **more than 50% of 2025–27 free cash flow** to shareholder returns\n* Korean shares -9.8% during regular session then recovered post-announcement\n* US-listed ADR (SKHY) rose ~3.9% post-market\n\nWhy management is doing this:\n\n1. **Pushback against 'AI capex peak' narrative** — a $29B buyback executed in 90 days is management saying they don't think memory pricing is about to roll over\n2. **Investor pressure** — SK Hynix + Samsung were both under pressure to return more of the record AI-memory profits after years of scant capital return detail\n3. **HBM leverage** — SK Hynix is the primary HBM supplier to Nvidia's H100/H200/GB200 stack; a big buyback confirms cashflow visibility\n\nRead-through positive for Micron (MU), Samsung Electronics, WDC, SanDisk after Tuesday's SOX -5% rout on AI-capex-peak fears.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sk-hynix-40t-won-29b-buyback-aug-19-2026](https://stock-tldr.xyz/releases/sk-hynix-40t-won-29b-buyback-aug-19-2026)"
+      },
+      "publishDate": "2026-08-19T12:33:35.912Z"
+    },
     {
       "id": "bidu-q2-2026-earnings-aug-18-2026",
       "categories": [

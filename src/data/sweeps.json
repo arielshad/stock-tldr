@@ -9914,6 +9914,64 @@
         "fintech",
         "semis"
       ]
+    },
+    {
+      "id": "sweep-20260819t123335z",
+      "timestamp": "2026-08-19T12:33:35.912Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 19 sweep: six new items covering Wednesday morning's earnings docket (TGT, LOW, TJX, ADI, EL) and SK Hynix's record ~US$29B share-buyback announcement. FOMC July minutes drop at 2pm ET but had not been released as of the sweep timestamp so are not included.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tgt-q2-fy26-earnings-aug-19-2026",
+          "title": "Target (TGT) Q2 FY26 — net sales $26.5B (+5.3% Y/Y), comps +3.8% on traffic +3.6%; EPS $4.11 includes $1.65 tariff-refund tailwind; FY26 EPS guide raised to $9.90–$10.90",
+          "category": "earnings",
+          "note": "Top-line + comp beat with a $994M tariff-refund one-off; guide raise; first real quarter under CEO Fiddelke."
+        },
+        {
+          "id": "low-q2-fy26-earnings-aug-19-2026",
+          "title": "Lowe's (LOW) Q2 FY26 — sales $26.0B (+8.4% Y/Y) on FBM/ADG close, comps just +0.2%, GAAP EPS $4.27 flat; FY26 guide cut to low end (~$12.25 adj EPS) on DIY 'pressure'; stock -3% premarket",
+          "category": "earnings",
+          "note": "Sales beat via FBM/ADG close but comps just +0.2%; FY26 guide narrowed to low end; stock -3% premarket."
+        },
+        {
+          "id": "tjx-q2-fy27-earnings-aug-19-2026",
+          "title": "TJX (TJX) Q2 FY27 — net sales $15.2B (+5% Y/Y), comps +4% above plan; pretax margin 13.3% (+190bp); diluted EPS $1.36 (+24% Y/Y); FY27 EPS guide raised to $5.31–$5.36",
+          "category": "earnings",
+          "note": "Off-price keeps outperforming: comps +4% above plan, EPS $1.36 (+24%), pretax margin 13.3%, FY27 guide raised."
+        },
+        {
+          "id": "adi-q3-fy26-earnings-aug-19-2026",
+          "title": "Analog Devices (ADI) Q3 FY26 — record revenue $4.02B (+40% Y/Y), adj EPS $3.45 (+68%); adj op margin 50.0%; Industrial +53% Y/Y; Q4 rev guide $4.3B ±$0.1B",
+          "category": "earnings",
+          "note": "Record $4.02B rev (+40%), adj EPS +68%, adj op margin 50%; pushback on Tuesday's AI-capex-peak narrative."
+        },
+        {
+          "id": "el-q4-fy26-earnings-aug-19-2026",
+          "title": "Estée Lauder (EL) Q4 FY26 — organic net sales +5% Y/Y, revenue $3.63B tops $3.55B est, adj EPS $0.39 vs $0.32 est; FY27 adj op margin guide raised to 12.7–13.5%; stock ~+8% premarket on China + fragrance strength",
+          "category": "earnings",
+          "note": "Fourth straight quarter of organic sales growth; FY27 margin guide raised; ~+8% premarket on China + fragrance strength."
+        },
+        {
+          "id": "sk-hynix-40t-won-29b-buyback-aug-19-2026",
+          "title": "SK Hynix unveils record 40 trillion won (~US$28.6B) share buyback + cancellation between Aug 20–Nov 19; commits >50% FCF to shareholder returns 2025–27; Korean shares -9.8% intraday then trim on 'AI-capex peak' worry",
+          "category": "insider",
+          "note": "Record ~US$29B buyback executed in three months; management signalling memory-pricing confidence; positive read-through for MU/Samsung/WDC."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "insider",
+        "sector",
+        "macro"
+      ]
     }
   ]
 }
