@@ -9873,6 +9873,47 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260819t004255z",
+      "timestamp": "2026-08-19T00:42:55.013Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 18 sweep: Baidu Q2 2026 earnings (ad slide continues, AI/GPU cloud accelerates), Klarna Q2 2026 (beat but cut FY26 GMV/revenue guide on German consumer, stock -~19%), and a broad US semi sector selloff (SOX ~-5%, Nasdaq -1.3%) as elevated yields and Iran tensions hit the AI trade.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bidu-q2-2026-earnings-aug-18-2026",
+          "title": "Baidu (BIDU) Q2 2026 — revenue RMB 31.3B (-4% Y/Y), online marketing -19% Y/Y as AI Cloud infra +50% and GPU cloud +283% offset ad-cash-cow slide",
+          "category": "earnings",
+          "note": "Q2 revenue miss and 4th straight ad decline for a Chinese mega-cap; AI cloud +50% and GPU cloud +283% is the offset story."
+        },
+        {
+          "id": "klar-q2-2026-guide-cut-german-consumer-aug-18-2026",
+          "title": "Klarna (KLAR) Q2 2026 — revenue $1.04B (+27% Y/Y) tops est but shares plunge ~19% as FY26 GMV guide cut to $149–151B (from >$155B) on German consumer weakness",
+          "category": "earnings",
+          "note": "Beat Q2 but cut FY26 outlook citing German consumer; ~19% single-day drop clears mover bar with named catalyst."
+        },
+        {
+          "id": "chip-sector-selloff-sox-nasdaq-aug-18-2026",
+          "title": "US semis routed Tuesday Aug 18 — PHLX Semiconductor Index (SOX) ~-5%, Nasdaq -1.3%; Micron ~-7%, Intel ~-6%, Nvidia ~-2% as elevated yields and Iran tensions hit the AI trade",
+          "category": "sector",
+          "note": "SMH-equivalent index (SOX) moved ~-5% clearly qualifying as sector-wide; multiple mega-cap semis moved >2%, meets sector + mover bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "china-tech",
+        "fintech",
+        "semis"
+      ]
     }
   ]
 }
