@@ -9972,6 +9972,47 @@
         "sector",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260820t004418z",
+      "timestamp": "2026-08-20T00:44:18.555Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Wed Aug 19 additions: (1) Moderna +176.97% on a first-ever Phase 3 win for an mRNA cancer therapy (INTerpath-001 melanoma with Merck's KEYTRUDA); (2) Fed July FOMC minutes showing a hawkish 9-3 hold with three dissenters preferring a hike; (3) Treasury doubling long-bond buyback caps to ≥$4B/op, cratering the 30Y yield ~15bp and dropping the dollar.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mrna-interpath-001-melanoma-aug-19-2026",
+          "title": "Moderna (MRNA) +176.97% to $174.38 on Wednesday Aug 19 — record daily gain as Phase 3 INTerpath-001 trial of intismeran + Merck KEYTRUDA hits recurrence-free survival endpoint in resected stage IIB-IV melanoma; first-ever Phase 3 win for an mRNA cancer therapy",
+          "category": "mover",
+          "note": "Record-scale single-name mover (+176.97%) on a platform-defining Phase 3 mRNA-cancer readout with Merck; obvious 'this just hit' item for both biotech and generalist audiences."
+        },
+        {
+          "id": "fomc-july-2026-minutes-aug-19",
+          "title": "Fed July 28–29 2026 FOMC minutes (released Wed Aug 19) — 9-3 vote to hold at 3.50–3.75%; Hammack, Kashkari, Logan dissent for a 25bp hike; participants say further tightening 'would likely be necessary' if inflation doesn't decline; Chair Warsh floats cutting FOMC meetings from 8 to 6",
+          "category": "macro",
+          "note": "Primary-source Fed minutes released Wed Aug 19; 9-3 hold with three hawkish dissenters and 'tightening would likely be necessary' language reprices September-cut odds."
+        },
+        {
+          "id": "treasury-doubles-long-bond-buybacks-aug-19-2026",
+          "title": "U.S. Treasury doubles long-bond buyback caps to at least $4B per operation from $2B (Wed Aug 19), effective Sept 9 through Nov 4 — 30Y yield falls ~15bp to 5.18%, dollar drops most in 3 weeks",
+          "category": "rates",
+          "note": "Distinct policy action responding to the Aug 17 30Y-yield spike already in the feed; Treasury doubles buyback caps effective Sept 9, and yields, dollar, gold all react intraday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro",
+        "rates",
+        "earnings",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,255 @@
 {
-  "generatedAt": "2026-08-19T12:33:35.912Z",
+  "generatedAt": "2026-08-20T00:44:18.555Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mrna-interpath-001-melanoma-aug-19-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Moderna (MRNA) +176.97% to $174.38 on Wednesday Aug 19 — record daily gain as Phase 3 INTerpath-001 trial of intismeran + Merck KEYTRUDA hits recurrence-free survival endpoint in resected stage IIB-IV melanoma; first-ever Phase 3 win for an mRNA cancer therapy",
+      "org": "Moderna",
+      "date": "2026-08-19",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-moderna-announce-phase-3-104500208.html",
+      "summary": "MRNA closed +176.97% at $174.38 on Wed Aug 19 (~$44B market-cap gain) after the Merck-partnered Phase 3 INTerpath-001 trial of intismeran + KEYTRUDA met its primary recurrence-free survival endpoint in resected melanoma.",
+      "tags": [
+        "mrna",
+        "biotech",
+        "cancer-vaccine",
+        "melanoma",
+        "phase-3",
+        "interpath-001",
+        "intismeran",
+        "keytruda",
+        "moderna",
+        "merck",
+        "mrna-therapy",
+        "individualized-neoantigen",
+        "biggest-daily-move"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "MRNA",
+        "MRK",
+        "BNTX"
+      ],
+      "metrics": {
+        "MRNA close": "$174.38 (+176.97%)",
+        "MRNA prior close": "$62.96",
+        "MRNA market cap": "$25B → $69B",
+        "MRK close": "$152.20 (+12.60%)",
+        "BNTX close": "$113.12 (+21.96%)",
+        "MRNA volume": "199.3M shares (~19× 3-mo avg)",
+        "Patients enrolled": "1,137 (2:1 randomization)",
+        "Endpoint": "RFS met + DMFS secondary met"
+      },
+      "links": [
+        {
+          "label": "Press Release (via Yahoo)",
+          "url": "https://finance.yahoo.com/healthcare/articles/merck-moderna-announce-phase-3-104500208.html"
+        },
+        {
+          "label": "Merck Press Release",
+          "url": "https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/"
+        },
+        {
+          "label": "BioSpace Coverage",
+          "url": "https://www.biospace.com/drug-development/moderna-stock-nearly-doubles-as-merck-partnered-mrna-cancer-vaccine-meets-phase-3-goal"
+        },
+        {
+          "label": "Yahoo — MRNA Quote",
+          "url": "https://finance.yahoo.com/quote/MRNA/"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/19/stock-market-today-aug-19-moderna-skyrockets-177-on-positive-phase-3-melanoma-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "MRNA nearly triples on Wed Aug 19 as the first Phase 3 mRNA cancer therapy readout — intismeran + KEYTRUDA — cuts melanoma recurrence.",
+        "whatIsIt": "Moderna and Merck reported positive Phase 3 topline data from the INTerpath-001 trial pairing intismeran autogene (an individualized mRNA neoantigen therapy previously known as mRNA-4157 / V940) with Merck's KEYTRUDA in patients with completely resected stage IIB–IV cutaneous melanoma. The combination met the primary endpoint of recurrence-free survival and a key secondary endpoint of distant metastasis-free survival versus KEYTRUDA alone. It is the first successful Phase 3 readout for any mRNA-based cancer therapy.",
+        "howItWorks": "INTerpath-001 randomized 1,137 patients 2:1 to intismeran (1 mg every three weeks, up to nine doses) plus KEYTRUDA (400 mg every six weeks, up to nine cycles for ~1 year) versus KEYTRUDA alone. The trial hit its RFS primary endpoint and DMFS key secondary; overall survival remains a secondary. The Phase 2b KEYNOTE-942 readout previously showed a 49% reduction in the risk of recurrence or death versus KEYTRUDA monotherapy. MRNA closed at $174.38 (+176.97%) on volume of 199.3M shares (~19× the three-month average); MRK closed +12.6% at $152.20; BNTX +21.96% at $113.12.",
+        "whyItMatters": "This is the platform-validating readout the mRNA-oncology thesis has been waiting for since KEYNOTE-942 — a bona fide Phase 3 win that re-anchors the value of Moderna's cancer pipeline, restarts talk of a broader neoantigen platform beyond melanoma, and lifts mRNA peers (BNTX). Merck said it plans to begin regulator talks within months, which could open a large adjuvant-melanoma addressable market as an add-on to already-approved KEYTRUDA. The scale of the MRNA move (near-tripling, $44B added) reflects both the trial result and short-covering after a multi-year drawdown.",
+        "forWho": "biotech, healthcare, mRNA platform investors",
+        "tryIt": "https://finance.yahoo.com/quote/MRNA/"
+      },
+      "image": {
+        "url": "https://irp.cdn-website.com/f4bfabcc/dms3rep/multi/opt/moderna-socialShare-1920w.png",
+        "alt": "Moderna and Merck announce positive Phase 3 INTerpath-001 melanoma trial results",
+        "fit": "contain",
+        "credit": "Moderna"
+      },
+      "reddit": {
+        "title": "MRNA +176.97% to $174.38 — biggest day ever after Merck-partnered Phase 3 melanoma vaccine trial hits primary endpoint; first-ever Phase 3 win for mRNA cancer therapy",
+        "body": "Moderna and Merck reported positive Phase 3 topline data on Wednesday Aug 19 for intismeran autogene + KEYTRUDA in resected stage IIB–IV melanoma. Primary endpoint (recurrence-free survival) met, key secondary (distant metastasis-free survival) also met.\n\n* MRNA: +176.97% to $174.38 (from $62.96 prior close) — biggest single-day gain in the stock's history\n* Market cap: $25B → $69B in one session; ~$44B added\n* MRNA volume: 199.3M shares (~19× 3-month average)\n* MRK: +12.6% to $152.20 (52-week high)\n* BNTX: +21.96% to $113.12 on mRNA-platform read-across\n\nThe trial details:\n\n1. **INTerpath-001** — 1,137 patients randomized 2:1 to intismeran (1 mg q3w, up to 9 doses) + KEYTRUDA (400 mg q6w, up to 9 cycles) vs KEYTRUDA alone.\n2. **First Phase 3 win for an mRNA cancer therapy, ever** — validates the individualized-neoantigen platform (intismeran = personalized mRNA vax targeting each patient's tumor neoantigens).\n3. **Regulatory path** — Merck R&D head Dean Li said the companies expect to begin regulator talks within months.\n\nThe Phase 2b KEYNOTE-942 readout had already shown a 49% reduction in recurrence-or-death risk vs KEYTRUDA alone. Today confirms it at Phase 3.\n\nNext catalysts: OS readout (secondary), regulatory filings, and read-through to Moderna's other intismeran indications (multiple Phase 2/3 trials underway).\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrna-interpath-001-melanoma-aug-19-2026](https://stock-tldr.xyz/releases/mrna-interpath-001-melanoma-aug-19-2026)"
+      },
+      "publishDate": "2026-08-20T00:44:18.555Z"
+    },
+    {
+      "id": "fomc-july-2026-minutes-aug-19",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "Fed July 28–29 2026 FOMC minutes (released Wed Aug 19) — 9-3 vote to hold at 3.50–3.75%; Hammack, Kashkari, Logan dissent for a 25bp hike; participants say further tightening 'would likely be necessary' if inflation doesn't decline; Chair Warsh floats cutting FOMC meetings from 8 to 6",
+      "org": "Federal Reserve",
+      "date": "2026-08-19",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+      "summary": "July 28–29 FOMC minutes released Wed Aug 19 show the Committee held 9-3 at 3.50–3.75% with Hammack, Kashkari and Logan dissenting for a 25bp hike; participants judged 'policy tightening would likely be necessary' if inflation doesn't cool.",
+      "tags": [
+        "fomc",
+        "fed",
+        "minutes",
+        "monetary-policy",
+        "rate-hold",
+        "dissent",
+        "hawkish",
+        "inflation",
+        "warsh",
+        "meeting-cadence",
+        "hammack",
+        "kashkari",
+        "logan"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Vote": "9-3 hold",
+        "Target range": "3.50%–3.75%",
+        "Dissenters": "Hammack, Kashkari, Logan (all wanted +25bp)",
+        "SPX close Aug 19": "7,707.98 (+0.21%)",
+        "Nasdaq close Aug 19": "26,331.09 (+0.16%)",
+        "Prior meeting rate move": "Hold"
+      },
+      "links": [
+        {
+          "label": "Federal Reserve — Minutes (PDF/HTML)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"
+        },
+        {
+          "label": "July 28-29 Meeting Page",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260729.htm"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "label": "^GSPC Quote",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+        },
+        {
+          "label": "^TNX Quote",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "July FOMC minutes reveal the most fractured Fed vote in years: 9-3 hold, three dissenters preferring a 25bp hike, and Chair Warsh floating a six-meeting-a-year calendar.",
+        "whatIsIt": "The Fed released the minutes of its July 28–29 policy meeting on Wednesday Aug 19 at 2:00 p.m. ET. The Committee had left the target range for the federal funds rate at 3.50%–3.75% by a 9-3 vote — the most fractured decision in years — with three regional bank presidents dissenting in favor of an immediate 25bp increase. The minutes described an 'elevated' inflation backdrop with participants saying 'policy tightening would likely be necessary' if inflation did not decline.",
+        "howItWorks": "The three dissenters were Cleveland Fed's Beth Hammack, Minneapolis Fed's Neel Kashkari and Dallas Fed's Lorie Logan, each preferring to raise the target range by 25bp on price-stability grounds. Beyond the dissent, the minutes documented broad hawkish sentiment: participants debated whether AI-driven investment is shifting relative prices or fueling broader inflation, and flagged elevated asset valuations plus leverage in hedge funds as financial-stability concerns. Chair Kevin Warsh initiated a discussion of moving from eight FOMC meetings a year to six spaced roughly every two months, noting it 'would allow more information to accumulate between meetings' — no decision, and 2026's remaining meetings stay on the current calendar.",
+        "whyItMatters": "The 9-3 vote and 'tightening would likely be necessary' language codify a hawkish skew that markets had been discounting only partially: it lowers the odds of a September cut and pushes the burden of proof onto the incoming CPI/jobs prints. Ironically, the equity reaction was muted (SPX +0.21% to 7,707.98) because the same afternoon Treasury Secretary Bessent doubled long-bond buybacks and yields fell; without that offset the read-through would have been more clearly negative for duration and long-duration equities. The Warsh cadence proposal is a structural signal — a six-meeting calendar would materially change how central-bank communication and market repricing work.",
+        "forWho": "macro traders, rates desks, Fed watchers",
+        "tryIt": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"
+      },
+      "image": {
+        "url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+        "alt": "Federal Reserve — July 28-29 2026 FOMC minutes released Aug 19",
+        "fit": "cover",
+        "credit": "Federal Reserve"
+      },
+      "reddit": {
+        "title": "Fed's July 2026 FOMC minutes (released Aug 19): 9-3 hold — Hammack, Kashkari, Logan dissented for a 25bp HIKE; participants say more tightening 'would likely be necessary' if inflation doesn't cool",
+        "body": "The Federal Reserve released the minutes of its July 28–29 meeting on Wednesday Aug 19 at 2 p.m. ET. This was the most fractured FOMC vote in years.\n\n* Vote: 9-3 to HOLD the target range at 3.50%–3.75%\n* Dissenters (all wanted +25bp): **Beth Hammack** (Cleveland), **Neel Kashkari** (Minneapolis), **Lorie Logan** (Dallas)\n* Key quote from the minutes: 'policy tightening would likely be necessary if inflation did not decline'\n* SPX close: 7,707.98 (+0.21%), Nasdaq 26,331.09 (+0.16%) — muted because Treasury simultaneously doubled long-bond buybacks and yields fell\n\nWhat came out of the minutes beyond the vote:\n\n1. **Broad hawkish sentiment** — dissent extended beyond the three named dissenters; multiple participants argued the disinflation path is at risk.\n2. **AI-and-inflation debate** — participants disagreed on whether AI capex is a one-time relative price shift or a persistent inflation impulse; timing/magnitude of productivity gains unclear.\n3. **Financial stability** — 'elevated' asset valuations flagged, along with hedge-fund leverage and possible AI-sector repricing risk.\n4. **Warsh's structural pitch** — Chair Kevin Warsh initiated a discussion of moving from 8 FOMC meetings a year to 6 (roughly every two months). No decision; 2026's remaining meetings stay on the current calendar.\n\nWhat it means: September cut odds get harder to justify without a downside surprise in CPI or jobs. The muted equity reaction was almost entirely a Treasury-buyback-driven offset, not a dovish read of the minutes.\n\nNext catalysts: Jackson Hole (Aug 27–29) — Warsh's first keynote as Chair, September CPI, September FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-july-2026-minutes-aug-19](https://stock-tldr.xyz/releases/fomc-july-2026-minutes-aug-19)"
+      },
+      "publishDate": "2026-08-20T00:44:18.555Z"
+    },
+    {
+      "id": "treasury-doubles-long-bond-buybacks-aug-19-2026",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "U.S. Treasury doubles long-bond buyback caps to at least $4B per operation from $2B (Wed Aug 19), effective Sept 9 through Nov 4 — 30Y yield falls ~15bp to 5.18%, dollar drops most in 3 weeks",
+      "org": "U.S. Treasury",
+      "date": "2026-08-19",
+      "url": "https://home.treasury.gov/news/press-releases/sb0607",
+      "summary": "Treasury announced Wed Aug 19 it will at least double liquidity-support buyback ops in the 10-20Y and 20-30Y sectors from $2B to ≥$4B per operation, effective Sept 9 through Nov 4; 30Y yield fell ~15bp to 5.18% and DXY tumbled.",
+      "tags": [
+        "treasury",
+        "bessent",
+        "buyback",
+        "long-bond",
+        "liquidity",
+        "30y-treasury",
+        "10y-treasury",
+        "rates",
+        "yield-curve",
+        "dollar",
+        "dxy",
+        "refunding"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TYX",
+        "^TNX",
+        "TLT",
+        "DX-Y.NYB"
+      ],
+      "metrics": {
+        "Prior max buyback size": "$2B per operation",
+        "New max buyback size": "≥$4B per operation",
+        "Sectors": "10Y–20Y and 20Y–30Y coupons",
+        "Effective": "Sept 9, 2026 through Nov 4, 2026",
+        "30Y yield (post-announcement)": "5.184% (~-15bp from Tuesday high 5.337%)",
+        "10Y yield (post-announcement)": "4.66% (-~6bp)",
+        "Max total repurchases through Nov 4": "~$83B"
+      },
+      "links": [
+        {
+          "label": "Treasury Press Release",
+          "url": "https://home.treasury.gov/news/press-releases/sb0607"
+        },
+        {
+          "label": "Bloomberg (via Yahoo)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bessent-boosts-debt-buybacks-climb-132618430.html"
+        },
+        {
+          "label": "TLT (20Y+ ETF)",
+          "url": "https://finance.yahoo.com/quote/TLT/"
+        },
+        {
+          "label": "^TYX (30Y Yield)",
+          "url": "https://finance.yahoo.com/quote/%5ETYX/"
+        },
+        {
+          "label": "^TNX (10Y Yield)",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bessent's Treasury doubles long-bond buyback caps to at least $4B a pop, lopping ~15bp off the 30Y yield and sinking the dollar in a surprise mid-quarter intervention.",
+        "whatIsIt": "Two weeks after publishing its scheduled Q3 buyback calendar, the U.S. Treasury said on Wednesday Aug 19 it will 'at least double' the maximum size of its liquidity-support buyback operations for longer-dated nominal coupon securities. The new $4B-per-op cap (up from $2B) applies to the 10Y-20Y and 20Y-30Y sectors and takes effect Sept 9 through the Nov 4 quarterly refunding.",
+        "howItWorks": "The action came less than 24 hours after the 30-year Treasury yield hit an intraday 5.337% on Tuesday — the highest since 2007 — with pressure driven by fiscal-deficit angst, sticky inflation and a wave of AI-capex investment-grade issuance clustered at the long end. Post-announcement the 30Y dropped ~15bp to 5.184%; the 10Y fell ~6bp to ~4.66%; and DXY had its biggest one-day drop in three weeks, sending gold ~+3.7% and silver above $65/oz. Bloomberg noted the total operations through the Nov 4 refunding could now aggregate roughly $83B. Sec. Bessent's move follows an Aug 1 U.S.-Japan yen intervention as his second market-support action this month.",
+        "whyItMatters": "The size step-up — $4B per op is still small versus a ~$32T Treasury market — matters less as pure flow than as a signal that Treasury has drawn a line at the recent long-end selloff and is willing to move outside routine calendar operations to defend it. Rates traders now have to price in a de-facto ceiling under the 30Y while the Fed is still discussing whether it needs to hike; long-duration equities and TLT get a tailwind, the dollar an offset, and gold/silver a fresh bid. The move also plays with the July FOMC minutes released hours later — the Treasury effectively softened the hawkish read of the minutes on impact.",
+        "forWho": "rates traders, duration allocators, dollar/gold macro",
+        "tryIt": "https://finance.yahoo.com/quote/TLT/"
+      },
+      "image": {
+        "url": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+        "alt": "U.S. Department of the Treasury building — Aug 19 2026 buyback expansion announcement",
+        "fit": "cover",
+        "credit": "U.S. Treasury"
+      },
+      "reddit": {
+        "title": "Bessent's Treasury doubles long-bond buyback caps from $2B to at least $4B per op — 30Y yield craters ~15bp to 5.18% in one afternoon, dollar has biggest 3-week drop",
+        "body": "On Wednesday Aug 19 — less than 24 hours after the 30-year Treasury yield hit 5.337% (highest since 2007) — the U.S. Treasury announced it will 'at least double' liquidity-support buyback operations for longer-dated coupon securities.\n\n* Prior max: $2B per op; new max: ≥$4B per op\n* Sectors: 10Y–20Y and 20Y–30Y coupons\n* Effective: Sept 9, 2026 through Nov 4, 2026 refunding\n* 30Y yield post-announcement: 5.184% (~-15bp)\n* 10Y yield: 4.66% (-~6bp)\n* DXY: biggest one-day drop in ~3 weeks\n* Gold +3.66% to $4,493/oz; silver above $65/oz\n\nWhy this matters:\n\n1. **A de-facto line in the sand** — this is Bessent's second market-support action this month (after the Aug 1 U.S.-Japan yen intervention). Treasury is signaling it will step outside routine calendar operations to defend the long end.\n2. **Muted the July FOMC minutes** — the minutes (released hours later, 9-3 hold, three hawkish dissenters) would normally have re-steepened the curve. The buyback announcement offset the reaction; SPX still eked out a +0.21% gain.\n3. **Flow vs signal** — $4B/op is small vs a ~$32T Treasury market. It's the signal, not the size, that priced in.\n\nWinners: TLT, long-duration equity, gold. Losers: DXY, short-30Y positioning.\n\nNext catalysts: Jackson Hole Aug 27–29 (Warsh's first keynote as Fed Chair), September CPI and jobs, Nov 4 quarterly refunding.\n\nFull breakdown: [https://stock-tldr.xyz/releases/treasury-doubles-long-bond-buybacks-aug-19-2026](https://stock-tldr.xyz/releases/treasury-doubles-long-bond-buybacks-aug-19-2026)"
+      },
+      "publishDate": "2026-08-20T00:44:18.555Z"
+    },
     {
       "id": "tgt-q2-fy26-earnings-aug-19-2026",
       "categories": [
