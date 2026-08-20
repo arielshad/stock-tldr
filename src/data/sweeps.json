@@ -10013,6 +10013,44 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260820t123020z",
+      "timestamp": "2026-08-20T12:30:20.622Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: Walmart Q2 FY27 earnings + rare U.S. comps miss (mega-cap earnings/mover) and the Aug 19 Trump White House crypto event that pushed Bitcoin +11.5% to ~$71.8K on a Senate CLARITY Act push. Skipped Advance Auto Parts (mid-cap notable, weak signal) and Ross Stores (reports after Thu close, outside sweep window).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wmt-q2-fy27-earnings-aug-20-2026",
+          "title": "Walmart (WMT) Q2 FY27 — revenue $187.9B (+5.9% Y/Y, +5.1% cc), adj EPS $0.81 tops $0.74 guide; U.S. comps +2.6% miss ~3.5% est; FY27 guide raised on $2.9B tariff refunds but Q3 adj EPS $0.62–$0.64 lands below ~$0.68 est; stock -6% premarket",
+          "category": "earnings",
+          "note": "Mega-cap retail earnings Aug 20 pre-open; primary source is Walmart IR press release; rare U.S. comp miss and Q3 EPS guide below consensus drove ~6% premarket drop despite headline beat and FY27 guide raise."
+        },
+        {
+          "id": "crypto-rally-trump-clarity-act-aug-19-2026",
+          "title": "Bitcoin rips +11.5% to ~$71,834 on Wed Aug 19 — biggest single-day gain since March after Trump White House crypto event pushes Senate to pass CLARITY Act; MSTR +12–13%, COIN +8–11%, CRCL +8%, CAN +20%; ~$3.3B in short liquidations, spot BTC ETFs draw $517M (biggest in 3.5 months)",
+          "category": "crypto",
+          "note": "Fresh White House crypto summit Aug 19 with CEOs of Coinbase/Robinhood/Kraken/ICE + SEC/CFTC chairs and Trump's CLARITY Act push drove BTC +11.5% to ~$71.8K (biggest single-day since March), MSTR/COIN/CRCL +8–13%, ~$3.3B in short liquidations and $517M into spot BTC ETFs — biggest crypto-policy trade re-acceleration since GENIUS Act."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "crypto",
+        "regulatory",
+        "commodity",
+        "mna",
+        "analyst"
+      ]
     }
   ]
 }
