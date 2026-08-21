@@ -10051,6 +10051,48 @@
         "mna",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260821t004018z",
+      "timestamp": "2026-08-21T00:40:18.227Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 20, 2026 earnings sweep: Deere Q3 FY26 beat + raised guide (+6.94% to $620.94), Ross Stores Q2 FY26 beat with 10% comps + raised guide (+3.6% AH), and Alibaba's Q1 FY27 revenue beat overshadowed by a 75% profit drop on record AI capex.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "de-q3-fy26-earnings-aug-20-2026",
+          "title": "Deere (DE) Q3 FY26 — net income $1.379B, EPS $5.10 tops $4.45 est on revenue $12.608B (+5% Y/Y) vs $10.92B est; FY26 net-income guide raised to $4.75–$5.0B; stock +6.94% to $620.94 as CEO May calls 2026 'bottom of the ag cycle'",
+          "category": "earnings",
+          "note": "Beat + raise + explicit 'bottom of the ag cycle' call from CEO on Aug 20; stock +6.94% to $620.94; primary Deere PR + SEC 8-K + Yahoo call cited."
+        },
+        {
+          "id": "rost-q2-fy26-earnings-aug-20-2026",
+          "title": "Ross Stores (ROST) Q2 FY26 — sales $6.3B (+13% Y/Y), comps +10% on traffic, EPS $2.66 (incl ~$0.60 IEEPA tariff refund) tops est by ~37%; FY26 EPS guide raised to $8.61–$8.77; stock +3.6% AH to $238.36",
+          "category": "earnings",
+          "note": "10% comps with a $0.60 tariff-refund kicker + raised FY26 EPS guide; stock +3.6% AH; primary Ross PR + SEC 8-K cited."
+        },
+        {
+          "id": "baba-q1-fy27-earnings-aug-20-2026",
+          "title": "Alibaba (BABA) Q1 FY27 — revenue RMB 269B (+9% Y/Y) tops est but net income -75% to RMB 10.54B as capex hits RMB 67.7B (~$10B, +75% Y/Y) on AI infra; AI Cloud +45% (22-quarter high), AI-product revenue +12th straight triple-digit-growth quarter; ADRs -~4% early Thursday",
+          "category": "earnings",
+          "note": "Revenue beat/profit crash on AI capex; SEC 6-K primary + Xinhua/Benzinga; ADRs -~4% early Thursday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates",
+        "crypto",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }
