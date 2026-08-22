@@ -10148,6 +10148,41 @@
       "coverage": [
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260822t122708z",
+      "timestamp": "2026-08-22T12:27:08.833Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds this sweep: the US-Canada trade-talk collapse triggering first-ever Section 338 tariffs at midnight into Aug 22, and Ubiquiti's record Q4 FY26 print with a component-cost warning that capped the tape at +3.3%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-canada-50pct-tariffs-effective-aug-22-2026",
+          "title": "US-Canada trade talks collapse — 50% Section 338 tariffs on ~$20B of Canadian goods effective at midnight Aug 22, Carney vows dollar-for-dollar retaliation",
+          "category": "macro",
+          "note": "First-ever presidential Section 338 tariff action, hitting ~$20B of Canadian goods at 50% after Friday-night talks collapse — Canada matches dollar-for-dollar."
+        },
+        {
+          "id": "ui-q4-fy26-earnings-aug-21-2026",
+          "title": "Ubiquiti (UI) Q4 FY26 — record revenue $937.3M (+23.5% Y/Y) tops $850.5M est, adj EPS $4.73 crushes $4.03 est; FY26 revenue $3.3B (+27.2%); component-cost warning caps stock at +3.3%",
+          "category": "earnings",
+          "note": "Ubiquiti's record Q4 with a beat-and-caution setup — revenue and EPS crushed estimates but component-cost warning held the day to +3.3%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "earnings",
+        "mover",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }
