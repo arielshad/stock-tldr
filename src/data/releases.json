@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-08-21T12:30:27.426Z",
+  "generatedAt": "2026-08-22T00:37:39.275Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "sp-global-us-flash-pmi-august-2026-aug-21",
+      "categories": [
+        "macro"
+      ],
+      "title": "S&P Global US Flash Composite PMI August 2026 — 56.0, 4-year high, as Services jumps to 56.8 (fastest since Dec 2024) and Manufacturing slips to 53.2 (13-month low); Q3 growth tracking ~3% annualized",
+      "org": "S&P Global",
+      "date": "2026-08-21",
+      "url": "https://tradingeconomics.com/united-states/composite-pmi",
+      "summary": "August flash composite PMI rose to 56.0 from 54.5, the strongest US business expansion since April 2022. Services 56.8 blew past 54.0 est; manufacturing 53.2 slipped from 53.9 as supply delays lengthened.",
+      "tickers": [],
+      "tags": [
+        "pmi",
+        "flash-pmi",
+        "sp-global",
+        "composite-pmi",
+        "services-pmi",
+        "manufacturing-pmi",
+        "august-2026",
+        "us-macro",
+        "economic-data",
+        "employment",
+        "supply-chain"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Composite PMI": "56.0 vs 54.5 prior (52-month high)",
+        "Services PMI": "56.8 vs 54.6 prior (est 54.0)",
+        "Manufacturing PMI": "53.2 vs 53.9 prior (est 53.9, 13-month low)",
+        "Q3 GDP tracking": "~3.0% annualized vs 1.5% in Q2"
+      },
+      "explainer": {
+        "tagline": "US private-sector activity hit its fastest pace since April 2022 in August, all on the services side.",
+        "whatIsIt": "S&P Global's flash Purchasing Managers' Index for August is a first look at private-sector business activity, based on survey responses collected mid-month. The composite output index came in at 56.0, up from 54.5 in July — the strongest reading in more than four years. Services (56.8) was well above the 54.0 consensus, while manufacturing (53.2) missed the 53.9 estimate and cooled to a 13-month low.",
+        "howItWorks": "PMI values above 50 indicate expansion. The composite blends manufacturing output and services activity into a single number. In August, services activity ran at its fastest pace since December 2024 while goods production posted its weakest increase in 13 months, partly on fading safety-stock building and lengthening supply-chain delays (worst in about four years). Employment grew at the fastest pace since early 2025, and business expectations for the next 12 months reached a nine-month high. Input-cost inflation stayed elevated on energy, but selling-price inflation moderated.",
+        "whyItMatters": "S&P Global's chief business economist Chris Williamson wrote that 'US business is booming, with firms reporting the fastest output growth for over four years so far in the third quarter,' consistent with GDP tracking near 3% annualized in Q3 versus 1.5% in Q2. A strong growth signal five days before Chair Warsh's Jackson Hole speech reduces the odds of near-term Fed easing and helps explain the Aug 21 curve reaction — 10Y yields ticked higher on the print, but equities held (Dow +0.98% to 53,277; S&P 500 +0.43% to 7,674) as services momentum and hiring reassured on demand.",
+        "forWho": "macro traders, rates desks, Fed watchers",
+        "tryIt": "https://tradingeconomics.com/united-states/composite-pmi"
+      },
+      "image": {
+        "url": "https://investinglive.com/cms/media/Processed/Categories/featured/SP%20global%20PMI%20US-featured-1787319873-featured-1787320011-featured-1787320183.jpg",
+        "alt": "S&P Global US PMI report banner used with the August 2026 flash release.",
+        "fit": "cover",
+        "credit": "Investing.com / S&P Global"
+      },
+      "links": [
+        {
+          "label": "Composite PMI Chart",
+          "url": "https://tradingeconomics.com/united-states/composite-pmi"
+        },
+        {
+          "label": "Services PMI Chart",
+          "url": "https://tradingeconomics.com/united-states/services-pmi"
+        },
+        {
+          "label": "Investing.com Flash",
+          "url": "https://investinglive.com/news/s-p-global-manufacturing-pmi-flash-estimate-for-august-53-2-versus-53-9-estimate/"
+        },
+        {
+          "label": "Reuters via TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44I0UZ:0-it-s-the-flash-us-composite-pmi-hits-four-year-high/"
+        },
+        {
+          "label": "CNBC Video Recap",
+          "url": "https://www.cnbc.com/video/2026/08/21/sp-global-flash-manufacturing-pmi-comes-in-at-53-point-2-in-august.html"
+        }
+      ],
+      "reddit": {
+        "title": "S&P Global US Composite PMI hits 56.0 for August — fastest business growth in over 4 years, Q3 tracking ~3% annualized",
+        "body": "August flash PMI from S&P Global came in hot Friday — services carried the whole print while manufacturing softened.\n\n* Composite PMI **56.0** vs 54.5 prior — highest since April 2022\n* Services PMI **56.8** vs 54.0 est — fastest since December 2024\n* Manufacturing PMI **53.2** vs 53.9 est — 13-month low\n* Employment growing at fastest pace since early 2025; business confidence at 9-month high\n* Supply delays lengthened to one of the worst readings in ~4 years\n\nTwo things driving the split:\n\n1. **Services demand is real** — services output at its strongest since Dec 2024, employers hiring, business expectations at a 9-month high.\n2. **Manufacturing safety-stock build is fading** — goods production hit its weakest in 13 months, and supply-chain delays are the longest in years on shipping and tariff friction.\n\nS&P Global's Chris Williamson: \"US business is booming, with firms reporting the fastest output growth for over four years so far in the third quarter.\" The survey now points to Q3 growth near 3% annualized vs 1.5% in Q2.\n\nMarket reaction Aug 21: Dow +0.98% to 53,277, S&P 500 +0.43% to 7,674, 10Y yields ticked higher on the print.\n\nNext catalysts: Warsh's first Jackson Hole speech Aug 28, Sept 16 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sp-global-us-flash-pmi-august-2026-aug-21](https://stock-tldr.xyz/releases/sp-global-us-flash-pmi-august-2026-aug-21)"
+      },
+      "publishDate": "2026-08-22T00:37:39.275Z"
+    },
     {
       "id": "bj-q2-fy26-earnings-aug-21-2026",
       "categories": [

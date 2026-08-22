@@ -10124,6 +10124,30 @@
         "earnings",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260822t003739z",
+      "timestamp": "2026-08-22T00:37:39.275Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: S&P Global US Flash Composite PMI for August 2026 hit 56.0 (4-year high, released Aug 21) on a services surge (56.8) while manufacturing eased (53.2). Scanned earnings (Zoom slight miss, no big AH movers), M&A (no fresh deal on Aug 21), macro (PMI is the only new print), crypto (BTC continuation of the CLARITY-Act rally already in feed), oil/Iran (already covered), influencer/video (nothing fresh at the bar).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "sp-global-us-flash-pmi-august-2026-aug-21",
+          "title": "S&P Global US Flash Composite PMI August 2026 — 56.0, 4-year high, as Services jumps to 56.8 (fastest since Dec 2024) and Manufacturing slips to 53.2 (13-month low); Q3 growth tracking ~3% annualized",
+          "category": "macro",
+          "note": "Released Aug 21 by S&P Global; composite 56.0 vs 54.5 prior is a genuine 52-month high macro print, primary-source verifiable, covered by Reuters/CNBC/Investing.com, and moves the pre-Jackson Hole rate narrative."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro"
+      ]
     }
   ]
 }
