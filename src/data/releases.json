@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-08-23T00:41:29.358Z",
+  "generatedAt": "2026-08-23T12:21:33.411Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "tsla-nevada-robotaxi-5000-permit-aug-21-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Tesla (TSLA) +5.14% to $362.86 on Friday Aug 21 after Nevada Transportation Authority unanimously approves full AV Network Company permit for up to 5,000 paid robotaxis across Clark County over 12 months",
+      "org": "Tesla",
+      "date": "2026-08-21",
+      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "summary": "Nevada Transportation Authority unanimously cleared Tesla for up to 5,000 commercial robotaxis in Clark County, plus 1,000 each for Waymo and Uber (via Motional/Zoox). TSLA closed +5.14% at $362.86 on Friday.",
+      "tags": [
+        "tesla",
+        "robotaxi",
+        "autonomous-vehicles",
+        "las-vegas",
+        "nevada",
+        "clark-county",
+        "regulatory-approval",
+        "waymo",
+        "uber",
+        "aviari"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TSLA",
+        "UBER"
+      ],
+      "metrics": {
+        "TSLA close": "$362.86 (+5.14%)",
+        "TSLA volume": "58.5M shares (~1.39x 3M avg)",
+        "Tesla permit cap": "5,000 vehicles (12 mo)",
+        "Waymo permit cap": "1,000 vehicles",
+        "Uber/Aviari permit cap": "1,000 vehicles"
+      },
+      "explainer": {
+        "tagline": "Nevada opens Clark County to up to 8,000 paid robotaxis; Tesla gets the biggest single-operator ceiling at 5,000 and rallies 5% on Friday.",
+        "whatIsIt": "On Thursday Aug 20 the Nevada Transportation Authority (NTA) unanimously approved full Autonomous Vehicle Network Company (AVNC) permits for Tesla, Waymo, and Uber (branded 'Aviari' via partnerships with Hyundai's Motional and Amazon's Zoox). The permits replace an interim order that had capped Tesla at just 10 robotaxis on a narrow slice of the Las Vegas Strip. Together the three permits authorize deployment of up to 8,000 driverless vehicles for paid rides across Clark County over the next 12 months.",
+        "howItWorks": "Tesla is authorized for up to 5,000 robotaxis, Waymo and Aviari each up to 1,000. Operators must begin commercial service within 120 days of permit issuance and cannot collect fares until they file vehicle inspection logs, insurance certificates, and rate tariffs with the NTA. Clark County scope covers Las Vegas but excludes Harry Reid International Airport unless the Clark County Department of Aviation separately clears each operator. Tesla's chief engineer told the NTA hearing the company would be 'extremely happy' to have ~2,500 vehicles on the road within a year, framing the 5,000 figure as a regulatory ceiling, not a deployment target.",
+        "whyItMatters": "This is the first US state to authorize five-figure paid robotaxi fleets. TSLA closed Friday Aug 21 at $362.86 (+5.14%) on 58.5M shares (~1.39x the 3-month average of 42.1M), leading a small AV-adjacent bid — Rivian +6.0% to $16.97, Ford +3.0% to $14.41. It removes the acute regulatory overhang from Tesla's July setback of a 10-vehicle interim cap and gives the AV-Ride-Hail bull case a concrete deployment path ahead of Q3 earnings. Waymo (Alphabet) and Uber, both already operating driverless commercially elsewhere, gain a fourth major US market.",
+        "forWho": "Tesla and AV thematic traders, autonomous-vehicle regulatory watchers",
+        "tryIt": "https://finance.yahoo.com/quote/TSLA/"
+      },
+      "image": {
+        "url": "https://www.teslarati.com/wp-content/uploads/2026/08/tesla-cybercab-las-vegas-nevada-1000x600.jpg",
+        "alt": "Tesla Cybercab robotaxi rendering set against the Las Vegas Strip",
+        "fit": "cover",
+        "credit": "Teslarati"
+      },
+      "links": [
+        {
+          "label": "NTA Permit Approval",
+          "url": "https://www.ktnv.com/news/nta-autonomous-vehicle-applications-approved-for-tesla-waymo-and-aviari"
+        },
+        {
+          "label": "TechCrunch: Vote Details",
+          "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"
+        },
+        {
+          "label": "Engadget Coverage",
+          "url": "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis/"
+        },
+        {
+          "label": "Stock Reaction (Motley Fool)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/21/stock-market-today-aug-21-tesla-gains-on-nevada-robotaxi-permit-approval/"
+        },
+        {
+          "label": "TSLA Ticker",
+          "url": "https://finance.yahoo.com/quote/TSLA/"
+        }
+      ],
+      "reddit": {
+        "title": "Nevada clears Tesla for up to 5,000 paid robotaxis in Clark County — TSLA +5.14% to $362.86 Friday, Waymo and Uber each cleared for 1,000",
+        "body": "Nevada Transportation Authority unanimously approved full Autonomous Vehicle Network Company permits for Tesla, Waymo, and Uber (branded Aviari via Motional/Zoox) on Thursday Aug 20 — replacing the interim order that had Tesla capped at just 10 cars on the Las Vegas Strip.\n\n* Tesla: authorized up to **5,000** robotaxis in Clark County over 12 months\n* Waymo and Uber/Aviari: **1,000** each\n* Total ceiling: up to 8,000 driverless vehicles across Clark County\n* Operators must begin commercial service within **120 days** and file inspection, insurance, and fare tariffs first\n* Harry Reid International Airport rides still require separate Clark County Dept of Aviation approval\n\nMarket reaction on Friday Aug 21:\n\n1. **TSLA closed $362.86 (+5.14%)** on 58.5M shares (~1.39x the 3-month average of 42.1M)\n2. **AV-adjacent bid** — Rivian +6.0% to $16.97, Ford +3.0% to $14.41\n3. Tesla's chief engineer told the NTA hearing the company would be 'extremely happy' with ~2,500 vehicles on the road within a year, framing 5,000 as a regulatory ceiling, not a deployment target\n\nContext: this is the first US state to clear five-figure paid robotaxi fleets and removes the acute overhang from Tesla's July setback of a 10-vehicle interim cap.\n\nNext catalysts: Tesla Q3 launch of Vegas paid rides (targeted within 30 days once inspections/tariffs are filed); NVDA earnings Aug 26; Warsh Jackson Hole speech Aug 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-nevada-robotaxi-5000-permit-aug-21-2026](https://stock-tldr.xyz/releases/tsla-nevada-robotaxi-5000-permit-aug-21-2026)"
+      },
+      "publishDate": "2026-08-23T12:21:33.411Z"
+    },
     {
       "id": "btc-78k-eth-breakout-weekly-capstone-aug-21-2026",
       "categories": [

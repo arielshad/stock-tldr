@@ -10212,6 +10212,35 @@
         "mover",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260823t122133z",
+      "timestamp": "2026-08-23T12:21:33.411Z",
+      "source": "github-actions-sweep",
+      "summary": "Sat Aug 23 sweep: added Tesla's Nevada Transportation Authority robotaxi permit (5,000-vehicle ceiling, TSLA +5.14% Friday). Weekend markets otherwise quiet; Jackson Hole and NVDA earnings loom next week.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tsla-nevada-robotaxi-5000-permit-aug-21-2026",
+          "title": "Tesla (TSLA) +5.14% to $362.86 on Friday Aug 21 after Nevada Transportation Authority unanimously approves full AV Network Company permit for up to 5,000 paid robotaxis across Clark County over 12 months",
+          "category": "mover",
+          "note": "First US state to clear five-figure paid robotaxi fleets; unanimous NTA vote replaces Tesla's July 10-car interim cap and drove TSLA +5.14% on Friday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "regulatory",
+        "macro",
+        "earnings",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
