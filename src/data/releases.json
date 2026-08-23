@@ -1,8 +1,91 @@
 {
-  "generatedAt": "2026-08-22T12:27:08.833Z",
+  "generatedAt": "2026-08-23T00:41:29.358Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "btc-78k-eth-breakout-weekly-capstone-aug-21-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Crypto weekly capstone Friday Aug 21 — Bitcoin closes $78,335 (+7.26% day, ~+24% week; best week since 2024), Ether breaks out to ~$2,515 (+8.1% day); combined US BTC + ETH spot ETFs pull $2.6B this week — biggest since October 2025",
+      "org": "Spot Bitcoin & Ether ETF complex",
+      "date": "2026-08-21",
+      "url": "https://www.forbes.com/sites/digital-assets/2026/08/21/bitcoin-flirts-with-80000-and-reaches-highest-since-may/",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "XRP-USD",
+        "SOL-USD"
+      ],
+      "summary": "Bitcoin settled at $78,335 on Friday (+7.26%) after touching an intraday $79,241, capping a ~24% weekly move — its strongest week since 2024. Ether jumped 8.1% to ~$2,515. US spot BTC ETFs took $1.9B for the week, ether ETFs $697M, combined the biggest inflow week since October 2025.",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "ether",
+        "btc-spot-etf",
+        "eth-spot-etf",
+        "etf-flows",
+        "weekly-rally",
+        "ibit",
+        "blackrock",
+        "regulatory-clarity",
+        "short-squeeze"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BTC close (Fri Aug 21)": "$78,335 (+7.26%)",
+        "BTC intraday high": "$79,241",
+        "BTC weekly gain": "~+24%",
+        "ETH close (Fri Aug 21)": "~$2,515 (+8.1%)",
+        "US BTC spot ETF inflows (week)": "$1.9B",
+        "US ETH spot ETF inflows (week)": "$697.2M",
+        "US BTC spot ETF (Thu Aug 20)": "$606M net (IBIT ~83%)",
+        "US BTC spot ETF (Fri Aug 21)": "$307M net (5th straight day)"
+      },
+      "explainer": {
+        "tagline": "Bitcoin's strongest week since 2024 caps with a $78K close and Ether joining the breakout as US spot ETFs draw $2.6B combined.",
+        "whatIsIt": "A follow-through week on top of the Aug 19 CLARITY Act–driven crypto rally. Bitcoin closed Friday Aug 21 at $78,335 (+7.26%) with an intraday $79,241, up ~24% on the week. Ether joined the move with +8.1% to ~$2,515, its highest in ~4 months. US spot Bitcoin ETFs took $1.9B of net inflows for the week; ether ETFs added $697.2M — a combined $2.6B, the strongest inflow week since October 2025.",
+        "howItWorks": "Thursday Aug 20 saw ~$606M of net BTC spot ETF inflows (BlackRock's IBIT ~83% of the flow) — the biggest single-day since May. Friday added another $307M, a fifth straight positive session. BlackRock's IBIT cumulative AUM crossed $62.4B. Ether ETF flows built on a $220.8M single-day (Aug 20) as ETHA led issuers. Cumulative launches to date: BTC ETFs $53.7B all-time, ETH ETFs $12.2B all-time.",
+        "whyItMatters": "The rally combines a policy tailwind (Trump's push on the CLARITY Act plus friendlier CFTC/SEC rulemaking signals), a weaker dollar as the Treasury doubled long-bond buybacks Aug 19, and mechanical short-covering — Bitfinex flagged open interest rose only ~4% while price climbed ~10–11%, pointing to spot-driven flows rather than leverage. Weekend liquidity is thin with ETFs and Treasuries closed, leaving 24/7 crypto markets to test the $80K level on native flow.",
+        "forWho": "crypto desks, ETF allocators, macro traders",
+        "tryIt": "https://farside.co.uk/btc/"
+      },
+      "image": {
+        "url": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-weekend-market-blackout.jpg",
+        "alt": "Bitcoin price chart above $78,000 as US spot ETF trading pauses for the weekend",
+        "fit": "cover",
+        "credit": "CryptoSlate"
+      },
+      "links": [
+        {
+          "label": "Forbes: BTC Near $80K",
+          "url": "https://www.forbes.com/sites/digital-assets/2026/08/21/bitcoin-flirts-with-80000-and-reaches-highest-since-may/"
+        },
+        {
+          "label": "KuCoin: $2.6B ETF Week",
+          "url": "https://www.kucoin.com/news/flash/bitcoin-and-ethereum-etfs-attract-2-6-billion-in-weekly-inflows"
+        },
+        {
+          "label": "CryptoSlate: Weekend Test",
+          "url": "https://cryptoslate.com/bitcoin-hits-80000s-doorstep-just-as-the-etf-bid-disappears-for-the-weekend/"
+        },
+        {
+          "label": "Rio Times: Crypto Recap",
+          "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-august-22-2026/"
+        },
+        {
+          "label": "Farside BTC ETF Flow",
+          "url": "https://farside.co.uk/btc/"
+        }
+      ],
+      "reddit": {
+        "title": "Bitcoin closes $78,335 (+7.26%) on Fri Aug 21 — best week since 2024 (~+24%). Ether breaks out to ~$2,515 (+8.1%). US BTC+ETH spot ETFs pull $2.6B combined this week, biggest inflow week since October 2025.",
+        "body": "Crypto capped its strongest week in two years on Friday Aug 21 with the ETF bid doing most of the heavy lifting.\n\n* Bitcoin closed $78,335 (+7.26%), intraday high $79,241\n* BTC weekly gain ~24% — best week since 2024\n* Ether closed ~$2,515 (+8.1% day), highest in about 4 months\n* US spot BTC ETFs: $1.9B net inflows for the week ($307M Fri, $606M Thu)\n* US spot ETH ETFs: $697.2M net inflows for the week (BlackRock's ETHA led)\n* Combined $2.6B — biggest crypto-ETF inflow week since October 2025\n* BlackRock's IBIT took ~83% of Thursday's $606M and pushed AUM past $62.4B\n\nThree things layered together:\n\n1. **Regulatory tailwind** — Trump's push on the CLARITY Act plus supportive CFTC/SEC rulemaking signals through the week.\n2. **Weaker dollar + Treasury backstop** — Bessent's doubled long-bond buyback plan (Aug 19) knocked yields off 20-year highs briefly, boosting risk assets and non-sovereign stores of value.\n3. **Spot-driven, not leverage** — Bitfinex flagged open interest rose only ~4% while price climbed ~10–11%, so this is real buying and short-covering rather than a leveraged squeeze.\n\nNext catalysts: weekend liquidity test at the $80K line (ETFs closed until Monday), then Jackson Hole and Chair Warsh's Fri Aug 28 keynote for the yield/dollar leg of the trade.\n\nFull breakdown: [https://stock-tldr.xyz/releases/btc-78k-eth-breakout-weekly-capstone-aug-21-2026](https://stock-tldr.xyz/releases/btc-78k-eth-breakout-weekly-capstone-aug-21-2026)"
+      },
+      "publishDate": "2026-08-23T00:41:29.358Z"
+    },
     {
       "id": "us-canada-50pct-tariffs-effective-aug-22-2026",
       "categories": [

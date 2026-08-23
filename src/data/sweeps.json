@@ -10183,6 +10183,35 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260823t004129z",
+      "timestamp": "2026-08-23T00:41:29.358Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend sweep (Sun Aug 23, US markets closed): one new item covering the Friday Aug 21 crypto capstone — BTC $78,335 (+7.26% day / ~+24% week, best since 2024), ETH breakout to ~$2,515, combined US BTC+ETH spot ETFs $2.6B weekly inflows (biggest since October 2025). Distinct from the existing Aug 19 CLARITY-Act rally entry (which captured the Wed White House event and initial +11.5% to $71,834). No other qualifying items surfaced through Fri Aug 21 close and the Aug 22–23 weekend; Aug 21 was quiet outside crypto and the S&P finished +0.43% at 7,674 with the 10Y back to 4.74%. Jackson Hole 2026 begins Aug 27, Warsh keynote Aug 28.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "btc-78k-eth-breakout-weekly-capstone-aug-21-2026",
+          "title": "Crypto weekly capstone Friday Aug 21 — Bitcoin closes $78,335 (+7.26% day, ~+24% week; best week since 2024), Ether breaks out to ~$2,515 (+8.1% day); combined US BTC + ETH spot ETFs pull $2.6B this week — biggest since October 2025",
+          "category": "crypto",
+          "note": "Distinct-day, distinct-driver item vs the Aug 19 CLARITY Act rally entry: this captures Friday's $78K new high, Ether's $2,515 breakout, and the $2.6B combined weekly ETF inflow story (biggest since October 2025). All numbers traced to The Block Aug 22, CryptoSlate/Forbes Aug 21, and Rio Times Aug 22."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "macro",
+        "rates",
+        "earnings",
+        "mover",
+        "mna"
+      ]
     }
   ]
 }
