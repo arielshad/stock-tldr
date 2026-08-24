@@ -10265,6 +10265,37 @@
         "regulatory",
         "fed"
       ]
+    },
+    {
+      "id": "sweep-20260824t123556z",
+      "timestamp": "2026-08-24T12:35:56.616Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: Alibaba priced a HK$80B ($10.21B) Hong Kong share placement Sunday to fund AI capex — the largest-ever primary follow-on for an HK-listed name; HK 9988 fell 9.8% Monday morning to HK$111.00. Iran-sanctions rhetoric (Bessent 'economic D-Day' op-ed) and PDD Q2 earnings noted but held for the next sweep once the 2pm ET Treasury press conference and PDD's IR release are fully public.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "baba-hk-10b-ai-placement-aug-23-2026",
+          "title": "Alibaba (BABA) prices HK$80B (~$10.2B) Hong Kong share placement — 710M new shares at HK$112.70 (8.4% discount to Friday close); 100% of proceeds earmarked for AI capex; first primary equity issuance since 2019 HK listing; HK 9988 -9.8% Monday Aug 24 morning to HK$111.00",
+          "category": "ipo",
+          "note": "Priced Sunday Aug 23, opened trading Monday Aug 24 with HK 9988 -9.8%. Primary equity issuance with clear market impact, wall-of-coverage, and confirmed by Alibaba's own IR release. Distinct from BABA Q1 FY27 earnings (Aug 20) and Lingxi Games sale (Aug 17)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "mover",
+        "earnings",
+        "macro",
+        "mna",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }
