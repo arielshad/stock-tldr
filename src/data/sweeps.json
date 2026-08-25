@@ -10296,6 +10296,40 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260825t004711z",
+      "timestamp": "2026-08-25T00:47:11.116Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Aug-24 major-tier adds: (1) Bessent's 'Operation Economic Outcast' Iran sanctions push — OFAC hits 60+ entities across 5 jurisdictions, oil sells off 2.4% but rial hits record low; (2) Trump doubles Canada auto tariff to 50% and slaps a new 50% duty on auto parts effective Jan 1, 2027 after Sunday framework talks collapse.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bessent-operation-economic-outcast-iran-aug-24-2026",
+          "title": "Treasury Secretary Bessent launches 'Operation Economic Outcast' on Monday Aug 24 — OFAC hits 60+ entities, individuals and vessels across UAE, Hong Kong, China, Singapore and Switzerland to squeeze Iran's oil, shipping, gold, aviation, tech and digital-asset lifelines",
+          "category": "regulatory",
+          "note": "Primary-source Treasury announcement + material oil-market response; broadly covered by tier-1 outlets; distinct from prior Iran items which were about military escalation or peace deals — this is the first major secondary-sanctions round."
+        },
+        {
+          "id": "trump-canada-50pct-autos-parts-steel-jan1-2027-aug-24-2026",
+          "title": "Trump threatens to double Canada auto tariffs to 50% on all cars, trucks, auto parts and steel effective Jan 1 2027 — announced Monday Aug 24 after Sunday collapse of 'framework' talks, Carney says 'you're at war when you get attacked'",
+          "category": "macro",
+          "note": "Distinct from Aug-22 Section 338 item — that covered the actual imposition of 50% duties on ~$20B general goods; this Aug-24 announcement is a new escalation adding auto-parts to the list and doubling the auto rate, effective 2027."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "commodity",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
