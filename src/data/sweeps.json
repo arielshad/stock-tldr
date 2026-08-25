@@ -10330,6 +10330,51 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260825t123533z",
+      "timestamp": "2026-08-25T12:35:33.189Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 25 sweep adds 4 items: memory-chip sector selloff Monday on Wccftech Trump-Apple-China DRAM/NAND report (SNDK -6.45%, MU -5.83%, WDC -5.24%); HIMS -7.99% on Bloomberg Visa VAMP scoop over July weight-loss chargebacks; AAOI -13.77% on Friday $600M ATM equity distribution 8-K; PDD Q2 2026 print — revenue miss, profit beat, third straight Y/Y net-income decline as Temu-ecosystem spend rises.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "memory-stocks-apple-china-nand-dram-aug-24-2026",
+          "title": "U.S. memory chip complex sells off Monday Aug 24 — SanDisk (SNDK) -6.45% to $1,493.12, Micron (MU) -5.83% to $910.43, Western Digital (WDC) -5.24% to $435.38 on Wccftech report Trump administration will greenlight Apple sourcing DRAM from CXMT and NAND from YMTC after Xi's late-September U.S. visit",
+          "category": "sector",
+          "note": "Confirmed sector selloff — three named memory stocks each down >5% at close with a specific, primary-source-adjacent catalyst (Wccftech report on Trump-Apple-China memory chip decision)."
+        },
+        {
+          "id": "hims-visa-vamp-weight-loss-aug-24-2026",
+          "title": "Hims & Hers (HIMS) -7.99% to $31.08 Monday Aug 24 after Bloomberg reports Visa placed the telehealth firm in its Acquirer Monitoring Program (VAMP) over a July surge in weight-loss GLP-1 chargebacks — must get dispute rate below 1.5% for three straight months to exit, ~$75K penalty due September",
+          "category": "mover",
+          "note": "HIMS closed -7.99% Monday on Bloomberg's Aug 21 VAMP scoop, meets ≥5% mover threshold with named catalyst plus fresh regulatory angle."
+        },
+        {
+          "id": "aaoi-600m-atm-offering-aug-24-2026",
+          "title": "Applied Optoelectronics (AAOI) -13.77% to $107.63 Monday Aug 24 — Friday 8-K disclosed $600M at-the-market equity distribution agreement with Raymond James and Needham (largest ATM in company history); 2% agent commission; shelf S-3ASR 333-283905",
+          "category": "mover",
+          "note": "AAOI -13.77% Monday off Friday's 8-K disclosing largest ATM in company history — clean named catalyst, primary-source 8-K."
+        },
+        {
+          "id": "pdd-q2-2026-earnings-aug-24-2026",
+          "title": "PDD Holdings (PDD) Q2 2026 — revenue RMB 112.4B (~$16.6B, +8% Y/Y) misses ~RMB 115.4B est; net income RMB 27.2B (~$4B, -12% Y/Y) tops ~RMB 24.4B est; adj EPS 19.33 yuan beats 18.35 yuan est; Temu ecosystem spend drags margins as VP Liu says 'we stepped up ecosystem investments'; PDD -1.48% to $87.07",
+          "category": "earnings",
+          "note": "Chinese mega-cap Q2 earnings print — primary source SEC 6-K, Reuters coverage, mixed print with real margin story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "regulatory",
+        "earnings"
+      ]
     }
   ]
 }

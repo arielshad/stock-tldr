@@ -1,8 +1,304 @@
 {
-  "generatedAt": "2026-08-25T00:47:11.116Z",
+  "generatedAt": "2026-08-25T12:35:33.189Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "memory-stocks-apple-china-nand-dram-aug-24-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "U.S. memory chip complex sells off Monday Aug 24 — SanDisk (SNDK) -6.45% to $1,493.12, Micron (MU) -5.83% to $910.43, Western Digital (WDC) -5.24% to $435.38 on Wccftech report Trump administration will greenlight Apple sourcing DRAM from CXMT and NAND from YMTC after Xi's late-September U.S. visit",
+      "org": "U.S. memory chip complex",
+      "date": "2026-08-24",
+      "url": "https://wccftech.com/trump-will-reportedly-allow-apple-to-procure-memory-chips-from-cxmt-and-ymtc-after-xis-us-visit-in-september/",
+      "summary": "Memory names crack Monday after weekend Wccftech report says Trump admin will let Apple source Chinese DRAM (CXMT) and NAND (YMTC) after the Trump-Xi September summit. SNDK -6.45%, MU -5.83%, WDC -5.24%.",
+      "tags": [
+        "memory",
+        "nand",
+        "dram",
+        "china",
+        "apple-supply-chain",
+        "cxmt",
+        "ymtc",
+        "trump-xi-summit",
+        "entity-list",
+        "sector-selloff"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SNDK",
+        "MU",
+        "WDC",
+        "AAPL"
+      ],
+      "metrics": {
+        "SNDK": "-6.45% to $1,493.12",
+        "MU": "-5.83% to $910.43",
+        "WDC": "-5.24% to $435.38",
+        "Reported policy shift": "After Trump-Xi US summit (late September 2026)"
+      },
+      "explainer": {
+        "tagline": "Wccftech report that Trump will let Apple buy CXMT DRAM and YMTC NAND after the Xi summit knocks 5–7% off the U.S. memory complex.",
+        "whatIsIt": "Weekend reporting from Wccftech says the Trump administration is prepared to sign off on Apple sourcing memory from ChangXin Memory Technologies (CXMT, DRAM) and Yangtze Memory Technologies Corp (YMTC, NAND), with the announcement expected after Trump and Xi meet in the U.S. around late September. Both Chinese chipmakers are on the Pentagon's Section 1260H 'Chinese military companies' list and YMTC is on the Commerce Department's Entity List. Apple has told the White House Chinese sourcing 'could help us on the supply side and perhaps the pricing side.'",
+        "howItWorks": "Monday close: SanDisk -6.45% to $1,493.12, Micron -5.83% to $910.43, Western Digital -5.24% to $435.38. Yahoo Finance and 24/7 Wall St flag the story as the driver; The Motley Fool notes Micron dropped 5.5% in the first five minutes of trading after the Wccftech piece hit weekend timelines. Per the reporting, DRAM/NAND sourced from CXMT and YMTC would initially only be used in Apple products sold inside China. Lynx Equity's KC Rajkumar calls the selloff an 'overreaction,' noting CXMT lacks iPhone qualification and YMTC has committed newest NAND capacity to domestic customers.",
+        "whyItMatters": "SanDisk had run 572% YTD into Friday's close and Micron/WDC had ridden the same memory-AI bid, so the tape is now pricing a real Chinese competitor gaining Apple's blessing — even a partial, China-only carve-out reprices future ASPs and margins across NAND and DRAM. It also sits inside the broader U.S.–China diplomatic setup around the September summit: markets read this as a signal Washington may trade export controls for deal wins. Watch iPhone 18 Pro memory BOM commentary and any pushback from Commerce Secretary Howard Lutnick, who publicly opposed Apple's plan on Aug 14.",
+        "forWho": "Semis traders, Apple supply-chain analysts, China policy desks.",
+        "tryIt": "https://finance.yahoo.com/quote/SNDK/"
+      },
+      "image": {
+        "url": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Apple-Trump-China-Xi-1-1920x1280.jpg",
+        "alt": "Apple logo alongside Chinese and U.S. flags used to illustrate the Trump-Xi memory chip decision",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Wccftech report",
+          "url": "https://wccftech.com/trump-will-reportedly-allow-apple-to-procure-memory-chips-from-cxmt-and-ymtc-after-xis-us-visit-in-september/"
+        },
+        {
+          "label": "Motley Fool: Why MU dropped",
+          "url": "https://www.fool.com/investing/2026/08/24/why-micron-stock-dropped-this-morning/"
+        },
+        {
+          "label": "24/7 Wall St memory selloff",
+          "url": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/"
+        },
+        {
+          "label": "SNDK quote",
+          "url": "https://stockanalysis.com/stocks/sndk/"
+        },
+        {
+          "label": "MU quote",
+          "url": "https://stockanalysis.com/stocks/mu/"
+        }
+      ],
+      "reddit": {
+        "title": "Memory chip stocks crack on report Trump will let Apple buy Chinese DRAM/NAND after Xi summit — SNDK -6.5%, MU -5.8%, WDC -5.2% Monday",
+        "body": "Wccftech reported over the weekend that the Trump administration is prepared to greenlight Apple sourcing memory chips from Chinese suppliers after Trump meets Xi in the U.S. in late September. The U.S. memory complex sold off hard on Monday Aug 24:\n\n* SanDisk (SNDK) -6.45% to $1,493.12\n* Micron (MU) -5.83% to $910.43\n* Western Digital (WDC) -5.24% to $435.38\n* Micron fell 5.5% in the first 5 minutes of trading Monday, per Motley Fool\n\nThe key details:\n\n1. **CXMT for DRAM, YMTC for NAND** — both Chinese chipmakers are on the Pentagon's Section 1260H list and YMTC is on the Commerce Entity List.\n2. **China-only initially** — per the reporting, the sourced memory would only ship in Apple products sold inside China at first.\n3. **Commerce still opposes** — Secretary Lutnick publicly opposed Apple's Chinese-memory plan on Aug 14, so this would be an override.\n4. **SNDK had run 572% YTD** into Friday's close, so the sector was primed for a repricing on any Chinese-competition news.\n\nLynx Equity's KC Rajkumar calls the drop an overreaction — CXMT lacks iPhone qualification and YMTC has committed newest NAND to domestic buyers.\n\nNext catalysts: Trump-Xi summit late September, plus any Commerce Department pushback this week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/memory-stocks-apple-china-nand-dram-aug-24-2026](https://stock-tldr.xyz/releases/memory-stocks-apple-china-nand-dram-aug-24-2026)"
+      },
+      "publishDate": "2026-08-25T12:35:33.189Z"
+    },
+    {
+      "id": "hims-visa-vamp-weight-loss-aug-24-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Hims & Hers (HIMS) -7.99% to $31.08 Monday Aug 24 after Bloomberg reports Visa placed the telehealth firm in its Acquirer Monitoring Program (VAMP) over a July surge in weight-loss GLP-1 chargebacks — must get dispute rate below 1.5% for three straight months to exit, ~$75K penalty due September",
+      "org": "Hims & Hers Health",
+      "date": "2026-08-24",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-hims-hers-health-hims-201736983.html",
+      "summary": "HIMS -7.99% to $31.08 after Bloomberg says Visa enrolled the telehealth co in its Acquirer Monitoring Program on July chargeback surge in weight-loss subscriptions. Must cut dispute rate under 1.5% for 3 straight months to exit; ~$75K bill lands in September.",
+      "tags": [
+        "hims",
+        "visa",
+        "vamp",
+        "acquirer-monitoring-program",
+        "chargebacks",
+        "glp-1",
+        "weight-loss",
+        "ftc",
+        "subscription",
+        "billing-practices"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HIMS"
+      ],
+      "metrics": {
+        "Move": "-7.99% to $31.08",
+        "Program": "Visa Acquirer Monitoring Program (VAMP)",
+        "Trigger": "Chargeback rate exceeded 1.5% in July",
+        "Exit condition": "Dispute rate <1.5% for 3 consecutive months",
+        "Penalty": "$8 per dispute, ~$75,000 due September",
+        "Notification": "Via processor Stripe earlier in August"
+      },
+      "explainer": {
+        "tagline": "Bloomberg scoops that Visa put HIMS in its Acquirer Monitoring Program after a July weight-loss chargeback spike; stock -8% to $31.08 Monday.",
+        "whatIsIt": "Bloomberg reported Thursday Aug 21 that Visa enrolled Hims & Hers in its Acquirer Monitoring Program (VAMP) after credit-card disputes in the company's weight-loss GLP-1 subscription business surged past Visa's 1.5% acceptable threshold in July. Visa notified HIMS through its payment processor Stripe earlier this month. To exit VAMP, HIMS has to hold its dispute rate below 1.5% for three consecutive months.",
+        "howItWorks": "HIMS closed -7.99% at $31.08 on Monday Aug 24, down $2.70 from Friday's $33.78 close — the ticker's worst session in about a month. Under VAMP, HIMS pays an $8 surcharge per disputed transaction; Bloomberg estimates the first bill lands in September at roughly $75,000. A Hims spokesperson told Bloomberg the company sees 'a relatively small number of disputed charges' and that checkout clearly discloses membership and medication costs. Barclays trimmed its price target to $35 from $39 on Aug 21 flagging billing/cancellation risk.",
+        "whyItMatters": "This is the second regulatory hit on Hims' subscription plumbing inside a month: the FTC on July 29 alleged deceptive billing and cancellation practices tied to weight-loss subscriptions. VAMP escalates that into direct payments-network scrutiny — if HIMS can't drive disputes back under 1.5% inside three months, it risks higher penalties, forced product/checkout changes, or processor pressure that touches the core telehealth subscription economics. The stock's implied vol and short interest already reflect a fragile setup around the GLP-1 subscription business.",
+        "forWho": "Digital-health longs, GLP-1 supply-chain watchers, subscription-economics traders.",
+        "tryIt": "https://finance.yahoo.com/quote/HIMS/"
+      },
+      "image": {
+        "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2163076767/image_2163076767.jpg?io=getty-c-w630",
+        "alt": "Hims & Hers Health signage used in Seeking Alpha coverage of the Visa penalty report",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo: Why HIMS nosedived",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-hims-hers-health-hims-201736983.html"
+        },
+        {
+          "label": "FinancialContent recap",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-24-why-hims-and-hers-health-hims-stock-is-nosediving"
+        },
+        {
+          "label": "StockStory: HIMS nosediving",
+          "url": "https://stockstory.org/us/stocks/nyse/hims/news/why-up-down/why-hims-and-hers-health-hims-stock-is-nosediving-3"
+        },
+        {
+          "label": "HIMS quote",
+          "url": "https://stockanalysis.com/stocks/hims/"
+        }
+      ],
+      "reddit": {
+        "title": "HIMS -8% Monday after Bloomberg says Visa put the telehealth co in its Acquirer Monitoring Program over weight-loss GLP-1 chargebacks",
+        "body": "Bloomberg's Aug 21 scoop hit HIMS hard on Monday. The stock closed -7.99% at $31.08, down $2.70 from Friday's $33.78 close.\n\n* Visa enrolled HIMS in its Acquirer Monitoring Program (VAMP)\n* Trigger: July chargeback rate on weight-loss GLP-1 subscriptions exceeded Visa's 1.5% acceptable threshold\n* Penalty: $8 per disputed transaction; first bill ~$75,000 due September\n* Exit requires disputes below 1.5% for **three consecutive months**\n* Notification came through payment processor Stripe earlier in August\n\nWhy it matters:\n\n1. **Second regulatory hit in a month** — the FTC on July 29 accused HIMS of deceptive billing and cancellation practices around weight-loss subs. VAMP layers payments-network scrutiny on top.\n2. **Barclays cut PT to $35 from $39 on Aug 21** citing billing/cancellation risk.\n3. **Structural risk to the subscription model** — if disputes stay elevated, HIMS faces bigger penalties, forced UX changes at checkout, or pressure from Stripe/other processors.\n\nCompany told Bloomberg it sees 'a relatively small number of disputed charges' and disclosures at checkout are clear.\n\nNext catalysts: September penalty bill, next monthly dispute-rate data, FTC docket.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hims-visa-vamp-weight-loss-aug-24-2026](https://stock-tldr.xyz/releases/hims-visa-vamp-weight-loss-aug-24-2026)"
+      },
+      "publishDate": "2026-08-25T12:35:33.189Z"
+    },
+    {
+      "id": "aaoi-600m-atm-offering-aug-24-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Applied Optoelectronics (AAOI) -13.77% to $107.63 Monday Aug 24 — Friday 8-K disclosed $600M at-the-market equity distribution agreement with Raymond James and Needham (largest ATM in company history); 2% agent commission; shelf S-3ASR 333-283905",
+      "org": "Applied Optoelectronics",
+      "date": "2026-08-24",
+      "url": "https://www.stocktitan.net/sec-filings/AAOI/8-k-applied-optoelectronics-inc-reports-material-event-b0306e118f5b.html",
+      "summary": "Optical-networking supplier AAOI drops 13.77% to $107.63 on Monday after Friday's 8-K reveals a fresh $600M ATM stock program with Raymond James & Needham — dilution fears take the tape as the largest ATM the company has ever run.",
+      "tags": [
+        "aaoi",
+        "atm-offering",
+        "at-the-market",
+        "equity-issuance",
+        "dilution",
+        "raymond-james",
+        "needham",
+        "optical-networking",
+        "shelf-registration",
+        "8-k"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AAOI"
+      ],
+      "metrics": {
+        "Move": "-13.77% to $107.63",
+        "Program size": "$600M ATM equity distribution agreement",
+        "Filed": "2026-08-21 (Friday)",
+        "Agents": "Raymond James, Needham & Company",
+        "Commission": "2% of gross sales",
+        "Shelf": "Form S-3ASR (No. 333-283905)"
+      },
+      "explainer": {
+        "tagline": "Friday 8-K launches a $600M ATM stock program; Monday tape rerates AAOI down almost 14% on dilution risk.",
+        "whatIsIt": "AAOI disclosed on Friday Aug 21 an Equity Distribution Agreement with Raymond James & Associates and Needham & Company allowing the company to sell up to $600 million of common stock via at-the-market sales into the open market from time to time. Shares can be sold on Nasdaq Global Market or other venues, with AAOI controlling timing, size, and minimum price via placement notices. The company is not obligated to sell any shares and can suspend sales at any time; agents get a 2% commission on gross sales.",
+        "howItWorks": "Monday close: AAOI -13.77% to $107.63, off $17.19 from Friday's $124.82. Filing is under an automatic shelf registration statement Form S-3ASR (Registration No. 333-283905) with a prospectus supplement filed Aug 21. Blue sky / FINRA expenses capped at $10,000; termination-related reimbursements capped at $30,000. Insider selling has run at $120.5M over the past 12 months per the pieces cited by Benzinga.",
+        "whyItMatters": "AAOI had run hard on 800G / 1.6T optical-transceiver bets tied to hyperscaler AI capex — a $600M ATM at these levels is 8-figure-scale relative to daily volume and can be tapped intraday, which is why the tape gaps down even without a single share yet sold. Watch prospectus supplement print rate: heavy usage in the first weeks would confirm the dilution overhang, while a quiet ATM keeps only the option-value discount. It also lands in a week when the memory / semis complex is already jittery on the Trump-Xi China memory story.",
+        "forWho": "Optical-networking / AI-capex traders, small-cap semis longs.",
+        "tryIt": "https://finance.yahoo.com/quote/AAOI/"
+      },
+      "image": {
+        "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2288109908_92a93d5080.jpg",
+        "alt": "Applied Optoelectronics headline image used in Stocktwits coverage of the $600M ATM equity program",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Stocktitan: AAOI 8-K",
+          "url": "https://www.stocktitan.net/sec-filings/AAOI/8-k-applied-optoelectronics-inc-reports-material-event-b0306e118f5b.html"
+        },
+        {
+          "label": "Benzinga: $600M sale",
+          "url": "https://www.benzinga.com/markets/offerings/26/08/61376582/applied-optoelectronics-plans-600-million-stock-sale"
+        },
+        {
+          "label": "TradingView Reuters wire",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44I0XU:0-applied-optoelectronics-enters-equity-distribution-agreement-with-raymond-james-needham-company/"
+        },
+        {
+          "label": "AAOI quote",
+          "url": "https://stockanalysis.com/stocks/aaoi/"
+        }
+      ],
+      "reddit": {
+        "title": "AAOI -13.77% Monday to $107.63 after Friday 8-K unveils $600M ATM stock program with Raymond James & Needham",
+        "body": "Applied Optoelectronics (AAOI) rerated hard on Monday Aug 24 as the market digested Friday's disclosure of a fresh $600M at-the-market equity program.\n\n* AAOI closed -13.77% at $107.63, down $17.19 from Friday's $124.82\n* Program size: **$600M ATM** — largest in the company's history\n* Sales agents: Raymond James & Associates and Needham & Company\n* Commission: 2% of gross sales; filed under shelf S-3ASR (No. 333-283905)\n* Insider selling has hit $120.5M over the past 12 months, per Benzinga\n\nWhy the tape gaps down before a single share is sold:\n\n1. **ATM can be tapped intraday** — placement notices let AAOI drip shares whenever the tape lets it, so dilution is an open option.\n2. **Optics + AI capex was the whole thesis** — AAOI has ridden 800G/1.6T hyperscaler orders; the raise implies management wants cash flexibility right at the top of that story.\n3. **Sector already jittery** — happens on the same day the U.S. memory complex is selling off on the Trump-Apple-China chips story.\n\nCompany is not obligated to sell any shares and can suspend or terminate at any time.\n\nNext catalysts: prospectus-supplement usage prints, any 8-K disclosing meaningful actual sales.\n\nFull breakdown: [https://stock-tldr.xyz/releases/aaoi-600m-atm-offering-aug-24-2026](https://stock-tldr.xyz/releases/aaoi-600m-atm-offering-aug-24-2026)"
+      },
+      "publishDate": "2026-08-25T12:35:33.189Z"
+    },
+    {
+      "id": "pdd-q2-2026-earnings-aug-24-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "PDD Holdings (PDD) Q2 2026 — revenue RMB 112.4B (~$16.6B, +8% Y/Y) misses ~RMB 115.4B est; net income RMB 27.2B (~$4B, -12% Y/Y) tops ~RMB 24.4B est; adj EPS 19.33 yuan beats 18.35 yuan est; Temu ecosystem spend drags margins as VP Liu says 'we stepped up ecosystem investments'; PDD -1.48% to $87.07",
+      "org": "PDD Holdings",
+      "date": "2026-08-24",
+      "url": "https://www.globenewswire.com/news-release/2026/08/24/3349572/0/en/pdd-holdings-announces-second-quarter-2026-unaudited-financial-results.html",
+      "summary": "Temu parent PDD misses on revenue, beats on profit and adj EPS. Revenue RMB 112.4B (+8% Y/Y) vs ~RMB 115.4B est; net income RMB 27.2B (-12% Y/Y) vs ~RMB 24.4B est. Ecosystem/Temu spend up 13%; ADRs -1.48% to $87.07.",
+      "tags": [
+        "pdd",
+        "temu",
+        "china-ecommerce",
+        "earnings",
+        "q2-2026",
+        "adr",
+        "revenue-miss",
+        "eps-beat",
+        "ecosystem-investment",
+        "livestream-competition"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PDD"
+      ],
+      "metrics": {
+        "Revenue": "RMB 112.4B (~$16.6B), +8% Y/Y vs ~RMB 115.4B est (miss)",
+        "Operating profit": "RMB 27.8B (~$4.1B), +8% Y/Y",
+        "Net income": "RMB 27.2B (~$4.0B), -12% Y/Y vs ~RMB 24.4B est (beat)",
+        "Adj EPS per ADS": "RMB 19.33 vs RMB 18.35 est",
+        "Operating expenses": "RMB 36.6B, +13% Y/Y",
+        "Cash + short-term investments": "RMB 456.4B (~$67.3B)",
+        "Move": "-1.48% to $87.07"
+      },
+      "explainer": {
+        "tagline": "Temu parent misses on revenue, beats on profit — third straight net-income Y/Y decline as ecosystem spending gets stepped up.",
+        "whatIsIt": "PDD Holdings, the Chinese e-commerce group that owns Pinduoduo and Temu, reported Q2 2026 (quarter ended June 30) before U.S. open on Monday Aug 24. Total revenue was RMB 112.4B (~$16.6B), up 8% Y/Y, missing the ~RMB 115.4B analyst consensus. Net income to ordinary shareholders was RMB 27.2B (~$4.0B), down 12% Y/Y — the third consecutive quarter of Y/Y profit declines — but ahead of the ~RMB 24.4B estimate. Adjusted EPS per ADS printed 19.33 yuan vs 18.35 yuan expected.",
+        "howItWorks": "Operating profit RMB 27.8B (~$4.1B), +8% Y/Y. Transaction-services revenue rose 13% to RMB 54.7B, but operating expenses climbed 13% to RMB 36.6B on higher sales and marketing spend to defend the merchant ecosystem. Finance VP Jun Liu on the call: 'We stepped up our ecosystem investments in the second quarter.' Cash, equivalents and short-term investments were RMB 456.4B (~$67.3B) as of June 30. Temu absorbed a €230M+ EU fine tied to illegal-product enforcement earlier in the year. PDD ADRs closed Monday -1.48% at $87.07 after the print.",
+        "whyItMatters": "The setup confirms the read that China's e-commerce price war is compressing PDD's margin engine — ByteDance's Douyin livestream commerce is grinding on Pinduoduo's low-price moat, and Temu's international ramp is running into EU regulation and U.S. tariff friction. The company is choosing to reinvest rather than defend margins, so the market's whipsaw between 'beat on cost discipline' and 'guide-down risk' isn't over. Watch ByteDance/Alibaba (BABA) reactions: BABA priced a HK$80B AI capex placement Aug 23; the Chinese platform group is all pivoting toward spend, not buyback.",
+        "forWho": "China e-commerce longs, Temu supply-chain watchers, cross-listing / ADR traders.",
+        "tryIt": "https://finance.yahoo.com/quote/PDD/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/27301EA5A46D4259C53456260602743D7DED52D2063BAB7163F79CD42F12A91A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F09f9e76a6b28e478166e4cb7ca27e520.jpg",
+        "alt": "PDD Holdings and Temu branding used in Yahoo Finance coverage of the Q2 2026 print",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/24/3349572/0/en/pdd-holdings-announces-second-quarter-2026-unaudited-financial-results.html"
+        },
+        {
+          "label": "PDD Q2 2026 6-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001737806/000110465926100534/tm2623874d1_ex99-1.htm"
+        },
+        {
+          "label": "Yahoo: profit falls 12%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-q2-2026-earnings-123557748.html"
+        },
+        {
+          "label": "Reuters via TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N44L0PT:0-temu-owner-pdd-misses-quarterly-revenue-estimates/"
+        },
+        {
+          "label": "PDD quote",
+          "url": "https://stockanalysis.com/stocks/pdd/"
+        }
+      ],
+      "reddit": {
+        "title": "PDD Q2 2026 — revenue RMB 112.4B (+8% Y/Y) misses ~RMB 115.4B est; net income RMB 27.2B (-12% Y/Y) beats; adj EPS beats 19.33 vs 18.35 est; ADRs -1.48% to $87.07",
+        "body": "Temu parent PDD Holdings reported Q2 2026 before the U.S. open on Monday Aug 24. Split print — revenue miss, profit beat, margin story clearly worsening.\n\n* Revenue RMB 112.4B (~$16.6B), +8% Y/Y — miss vs ~RMB 115.4B est\n* Operating profit RMB 27.8B (~$4.1B), +8% Y/Y\n* Net income RMB 27.2B (~$4.0B), **-12% Y/Y** — third straight quarter of Y/Y profit declines, but beats ~RMB 24.4B est\n* Adj EPS per ADS 19.33 yuan vs 18.35 yuan est\n* Operating expenses RMB 36.6B, +13% Y/Y on sales & marketing\n* Cash + short-term investments RMB 456.4B (~$67.3B)\n* PDD ADRs closed -1.48% at $87.07 Monday\n\nWhat's actually happening:\n\n1. **Ecosystem-investment step-up** — Finance VP Jun Liu on the call: 'We stepped up our ecosystem investments in the second quarter.' Read: PDD is subsidizing merchants against livestream commerce.\n2. **Domestic price war** — ByteDance's Douyin livestream commerce is grinding on Pinduoduo's low-price moat, and consumer demand is weak on jobs + property.\n3. **Temu regulatory drag** — Temu absorbed a €230M+ EU fine over illegal products; U.S. tariff friction on de-minimis is still a headwind.\n4. **Reinvest, don't defend margins** — company has chosen spend over buyback; setup echoes Alibaba's HK$80B AI-capex placement priced Aug 23.\n\nNext catalysts: China Q3 GDP prints, any Temu de-minimis / tariff updates, Nvidia earnings Wednesday for the broader AI-capex tone.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pdd-q2-2026-earnings-aug-24-2026](https://stock-tldr.xyz/releases/pdd-q2-2026-earnings-aug-24-2026)"
+      },
+      "publishDate": "2026-08-25T12:35:33.189Z"
+    },
     {
       "id": "bessent-operation-economic-outcast-iran-aug-24-2026",
       "categories": [
