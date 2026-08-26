@@ -10375,6 +10375,62 @@
         "regulatory",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260826t004408z",
+      "timestamp": "2026-08-26T00:44:08.006Z",
+      "source": "github-actions-sweep",
+      "summary": "Six items covering the Aug 25 tape: DKS crash after Q2 miss + Foot Locker guide cut, Intuit weak FY27 guide despite Q4 beat, Zoom Q2 beat + raise on enterprise reaccel, HEICO record Q3, and two macro prints (Conference Board Consumer Confidence at 7-mo low; July new-home sales -10.5% M/M).",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dks-q2-fy26-guide-cut-aug-25-2026",
+          "title": "Dick's Sporting Goods (DKS) -30.67% to $124.32 on Tuesday Aug 25 — worst day in 3 years after Q2 miss and cut to Foot Locker guide; consolidated Foot Locker comps -3.6%, segment operating income guided to $(40)M–$(80)M loss",
+          "category": "mover",
+          "note": "DKS -30.67% intraday on Q2 miss + FY guide cut driven by Foot Locker weakness — largest single-day drop since 2023."
+        },
+        {
+          "id": "intu-q4-fy26-guide-slowdown-aug-25-2026",
+          "title": "Intuit (INTU) Q4 FY26 — revenue $4.35B (+14% Y/Y) tops $4.27B est, adj EPS $4.03 crushes $3.58 est; FY27 revenue guide $23.28B–$23.51B (9-10% growth, from FY26's 14%) sends stock down 8.67% to $326.48 in after-hours",
+          "category": "earnings",
+          "note": "Intuit's FY27 guide implies revenue-growth decel from 14% to 9-10% as TurboTax pricing is cut to defend share — stock -8.67% AH."
+        },
+        {
+          "id": "zm-q2-fy27-beat-raise-aug-25-2026",
+          "title": "Zoom (ZM) Q2 FY27 — revenue $1.28B (+4.9% Y/Y) beats; enterprise revenue +7.8% to $787.5M (fastest in 3 years); GAAP EPS $5.15 (vs $1.16 y/y) on tax benefit; FY27 non-GAAP EPS guide raised to $6.08–$6.12",
+          "category": "earnings",
+          "note": "Zoom enterprise revenue growth reaccelerates to 3-year high +7.8% Y/Y; management raises FY27 non-GAAP EPS guide to $6.08–$6.12."
+        },
+        {
+          "id": "hei-q3-fy26-earnings-aug-25-2026",
+          "title": "HEICO (HEI) Q3 FY26 — record net income; EPS $1.67 tops $1.52 est (5th straight beat); revenue $1.413B (+11%); ETG operating income +55% Y/Y on defense/aerospace demand; operating cash flow +49% to $345.3M",
+          "category": "earnings",
+          "note": "HEICO's 5th straight beat with record net income; ETG operating income +55% Y/Y reads through to defense/aerospace subsystem demand."
+        },
+        {
+          "id": "cb-consumer-confidence-aug-2026-aug-25",
+          "title": "Conference Board Consumer Confidence August 2026 — 89.4 vs 90.2 est (7-month low); Expectations Index -5.8 pts to 68.2 (recession-warning territory below 80); Present Situation Index +6.8 pts to 121.2; jobs 'plentiful' 27.0% vs 24.4% prior",
+          "category": "macro",
+          "note": "Conference Board CCI 89.4 (7-mo low); Expectations Index at 68.2 remains well below the 80 recession-warning threshold."
+        },
+        {
+          "id": "us-new-home-sales-july-2026-aug-25",
+          "title": "US new-home sales July 2026 — SAAR 607K, -10.5% M/M from 678K (biggest monthly drop of 2026), -6.3% Y/Y; median price -2.3% M/M to $393.8K; 488K homes for sale = 9.6 months of supply",
+          "category": "macro",
+          "note": "Census reports July new-home sales SAAR 607K (-10.5% M/M) — supply climbs to 9.6 months as median price falls."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
