@@ -1,8 +1,375 @@
 {
-  "generatedAt": "2026-08-26T12:39:46.525Z",
+  "generatedAt": "2026-08-27T05:40:28.945Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-q2-fy27-earnings-aug-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "NVIDIA (NVDA) Q2 FY27 — record revenue $96.2B (+106% Y/Y, +18% Q/Q) tops $91B prior guide; Data Center $89.0B (+117%); non-GAAP EPS $2.22 vs $2.09 est; Q3 guide $108.0B ±2% (assumes zero China DC compute); AWS orders 2M more GPUs; NVDA +5.19% AH to $220.54",
+      "org": "NVIDIA",
+      "date": "2026-08-26",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "summary": "NVIDIA delivered a record Q2 FY27: $96.2B revenue (+106% Y/Y), Data Center $89.0B (+117%), non-GAAP EPS $2.22 vs $2.09 est. Q3 guide $108.0B ±2% assumes zero China DC compute. AWS orders 2M more GPUs. NVDA +5.19% AH to $220.54.",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$96.2B (+106% Y/Y, +18% Q/Q)",
+        "Non-GAAP EPS": "$2.22 vs $2.09 est",
+        "GAAP EPS": "$2.46",
+        "Data Center": "$89.0B (+117% Y/Y)",
+        "Gaming": "$7.2B (+27% Y/Y)",
+        "Gross margin": "75.0% GAAP / 75.0% non-GAAP",
+        "Q3 FY27 guide": "$108.0B ±2% (assumes zero China DC compute)",
+        "Move": "+5.19% AH to $220.54"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-fy27",
+        "semis",
+        "ai-capex",
+        "data-center",
+        "blackwell",
+        "aws",
+        "china-export-controls"
+      ],
+      "importance": "seismic",
+      "explainer": {
+        "tagline": "NVDA delivers record $96.2B Q2 FY27, guides Q3 to $108.0B, announces AWS orders 2M more GPUs; stock +5.19% AH.",
+        "whatIsIt": "NVIDIA's fiscal-Q2 print for the quarter ended July 26, 2026. Revenue of $96.2B beat the company's own $91B prior guide and grew 106% year over year, driven by Data Center revenue of $89.0B (+117% Y/Y). Non-GAAP EPS of $2.22 topped the $2.09 Street consensus.",
+        "howItWorks": "Q2 FY27 revenue $96.2B (+18% Q/Q), gross margin 75.0% (both GAAP and non-GAAP), non-GAAP EPS $2.22, GAAP EPS $2.46. Data Center $89.0B (+117% Y/Y); Gaming and AI PC $7.2B (+27%). Q3 FY27 revenue guide $108.0B ±2%, gross margin 74.0% ±50bp, opex $9.0B non-GAAP. The Q3 outlook explicitly assumes zero Data Center compute revenue from China. Alongside the print, AWS and NVIDIA announced AWS will deploy 2M more Blackwell Ultra, Rubin and Rubin Ultra GPUs in 2027–2028, plus Vera CPU-based infrastructure and 100K GPUs for U.S.-government AI factories.",
+        "whyItMatters": "This is the largest single-quarter revenue print for any semiconductor company ever and it lands with a Q3 guide $8B above the Q2 result. Data Center up 117% Y/Y anchors the AI-capex thesis just as CFO Kress said 'top-five hyperscaler' capex will climb from ~$800B in 2026 to $1.3T in 2027. The AWS 2M-GPU order confirms Amazon has tripled its committed NVIDIA capacity since GTC 2026. Read-through hits AMD, AVGO, ARM, TSM, MU/SNDK, plus power/thermal names (VRT, ETN) and NVIDIA's own equity/warrant ecosystem (CRWV, IREN, NBIS, GLW).",
+        "forWho": "Every desk",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA/"
+      },
+      "image": {
+        "url": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547",
+        "alt": "NVIDIA campus signage at headquarters",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "NVDA Q2 FY27 Release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+        },
+        {
+          "label": "AWS + NVIDIA 2M GPUs",
+          "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai"
+        },
+        {
+          "label": "About Amazon Post",
+          "url": "https://www.aboutamazon.com/news/aws/aws-nvidia-2-million-gpus-ai"
+        },
+        {
+          "label": "NVDA Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ],
+      "reddit": {
+        "title": "NVIDIA Q2 FY27: $96.2B revenue (+106% Y/Y), Data Center $89B, Q3 guide $108B, AWS orders 2M more GPUs — NVDA +5% AH",
+        "body": "Nvidia dropped its Q2 FY27 print after the bell on Wednesday Aug 26. Numbers were huge and the guide was even bigger.\n\n* Revenue $96.2B (+106% Y/Y, +18% Q/Q) — beats company's own $91B guide\n* Data Center $89.0B (+117% Y/Y) — largest single segment print in semi history\n* Non-GAAP EPS $2.22 vs $2.09 est; GAAP EPS $2.46\n* Gross margin 75.0% (GAAP and non-GAAP)\n* Q3 FY27 guide $108.0B \\±2% — $8B above the Q2 result — and assumes ZERO China DC compute revenue\n\nWhat's driving the beat:\n\n1. **AWS just tripled its NVIDIA order** — Amazon Web Services will deploy 2M more Blackwell Ultra, Rubin and Rubin Ultra GPUs in 2027-2028, plus Vera CPU infrastructure and 100K GPUs for U.S.-government AI factories.\n2. **Hyperscaler capex ramp is compounding** — CFO Colette Kress said top-five hyperscaler capex is expected to hit $1.3T in 2027 vs \\~$800B in 2026.\n3. **China assumption unchanged** — Q3 guide assumes zero Data Center compute revenue from China, leaving optionality if H200/Blackwell licenses land.\n\nAfter-hours: NVDA +5.19% to $220.54 after closing the regular session -1.59% at $209.66.\n\nNext catalysts: MRVL earnings Thu Aug 27 AH; CRM Wed Aug 27; nonfarm payrolls Sept 5; FOMC Sept 15-16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-q2-fy27-earnings-aug-26-2026](https://stock-tldr.xyz/releases/nvda-q2-fy27-earnings-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T05:40:28.945Z"
+    },
+    {
+      "id": "meta-16b7-teen-safety-settlement-aug-26-2026",
+      "categories": [
+        "regulatory"
+      ],
+      "title": "Meta (META) reaches $16.7B settlement with 29 state AGs on Wed Aug 26 to end teen social-media addiction MDL; payments across 10 years, mandatory daily time caps + overnight restrictions for teens on Facebook + Instagram; META +0.46% to $578.77",
+      "org": "State Attorneys General",
+      "date": "2026-08-26",
+      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "summary": "Meta agreed to a $16.7B settlement with 29 state AGs on Aug 26 to end the teen social-media addiction MDL. Payments span 10 years and Meta must add daily time caps and overnight restrictions for teens on Facebook and Instagram. META closed +0.46% at $578.77.",
+      "tickers": [
+        "META",
+        "SNAP"
+      ],
+      "metrics": {
+        "Settlement": "$16.68B (Meta says ~$18B over 10 years)",
+        "State AGs": "29 states + DC",
+        "Payment structure": "10-year annual installments",
+        "Required teen changes": "Daily time caps + overnight restrictions",
+        "META move": "+0.46% to $578.77"
+      },
+      "tags": [
+        "regulatory",
+        "state-ags",
+        "teen-safety",
+        "social-media",
+        "instagram",
+        "facebook",
+        "mdl-3047",
+        "settlement",
+        "california"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Meta pays $16.7B to end the 29-state teen social-media addiction case, avoids trial and gets legal closure.",
+        "whatIsIt": "A settlement between Meta Platforms and 29 state attorneys general (led by California) that ends the multistate teen social-media addiction litigation. The 29 AGs had alleged Meta designed Facebook and Instagram to be addictive to children, misled the public about platform safety, and unlawfully collected data on minors. The deal was reached Wednesday during a federal trial in Oakland, cutting the trial short.",
+        "howItWorks": "Meta will pay $16.68B, disbursed as annual installments over 10 years (Meta's own filing pegs total commitment at ~$18B including funded programs). In addition to cash, Meta agreed to implement daily time caps and overnight-hours restrictions for teen users on Facebook and Instagram nationwide, strengthen age-verification systems, and expand parental control features. Meta did not admit wrongdoing. Money will fund youth online-safety initiatives designated by the states.",
+        "whyItMatters": "This is one of the largest state-AG settlements ever and it removes a headline risk that had hung over META since 2023. The teen-time-cap requirement is a first for a U.S. social platform at this scale and sets precedent for how U.S. regulators will treat other apps used by minors. Snap traded down 7-9% intraday the same day after Pennsylvania AG filed a fresh, parallel suit against Snapchat, showing the settlement bar is now spreading across the peer set.",
+        "forWho": "Mega-cap tech investors, ad-tech desks, plaintiff-bar watchers",
+        "tryIt": "https://finance.yahoo.com/quote/META/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108267294-1771506727822-gettyimages-2261841364-SOCIAL_MEDIA_TRIAL.jpeg?v=1782239516",
+        "alt": "Meta social-media addiction trial imagery",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html"
+        },
+        {
+          "label": "Quartz Coverage",
+          "url": "https://qz.com/meta-settlement-states-kids-social-media-addiction-082626"
+        },
+        {
+          "label": "UPI Wire",
+          "url": "https://www.upi.com/Top_News/US/2026/08/26/meta-settlement-social-media-harm-states-attorneys-general/7981787757058/"
+        },
+        {
+          "label": "META Quote",
+          "url": "https://finance.yahoo.com/quote/META/"
+        }
+      ],
+      "reddit": {
+        "title": "Meta settles 29-state teen social-media addiction MDL for $16.7B — 10-year payments, mandatory teen time caps and overnight restrictions on Facebook + Instagram",
+        "body": "Meta reached a settlement Wed Aug 26 in the multi-state teen social-media addiction MDL, ending a federal trial in Oakland mid-way through.\n\n* Total cash: $16.68B (Meta says \\~$18B including funded programs), paid over 10 years\n* Parties: 29 state attorneys general led by California\n* Meta must add daily time caps and overnight-hours restrictions for teens on Facebook + Instagram\n* Strengthened age-verification and expanded parental controls also required\n* Meta denied wrongdoing\n\nWhy it matters:\n\n1. **Largest state-AG platform settlement to date** — removes a headline risk that dogged META since 2023.\n2. **First mandatory teen time-cap regime at scale** — sets a template regulators may apply to TikTok, Snap, YouTube.\n3. **Snap immediately caught next-shoe risk** — Pennsylvania AG filed its own Snapchat teen-harm suit the same day; SNAP -7% to $5.52.\n\nMarket reaction: META +0.46% to $578.77 (muted — the deal was expected).\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-16b7-teen-safety-settlement-aug-26-2026](https://stock-tldr.xyz/releases/meta-16b7-teen-safety-settlement-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T05:40:28.945Z"
+    },
+    {
+      "id": "anf-q2-fy26-earnings-aug-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Abercrombie & Fitch (ANF) +36% to $148.91 on Wed Aug 26 — Q2 FY26 net sales $1.27B (+5% Y/Y, 15th straight growth quarter); GAAP EPS $4.17 vs $1.80–$2.00 own guide on ~$100M IEEPA tariff refunds (+$1.75/sh); FY26 sales guide raised to ~5% growth; Q3 EPS guide $2.90–$3.20 + $100M buyback",
+      "org": "Abercrombie & Fitch",
+      "date": "2026-08-26",
+      "url": "https://www.globenewswire.com/news-release/2026/08/26/3351233/0/en/abercrombie-fitch-co-reports-second-quarter-fiscal-2026-results.html",
+      "summary": "ANF Q2 FY26: net sales $1.27B (+5% Y/Y), EPS $4.17 crushes $1.80–$2.00 own guide on ~$100M IEEPA tariff refunds worth $1.75/sh. FY26 sales guide raised to ~5%; Q3 EPS $2.90–$3.20 + $100M buyback. Stock +36% to $148.91.",
+      "tickers": [
+        "ANF"
+      ],
+      "metrics": {
+        "Net sales": "$1.27B (+5% Y/Y)",
+        "EPS": "$4.17 vs own $1.80–$2.00 guide (~$1.75 from tariff refunds)",
+        "IEEPA tariff refunds": "~$100M pre-tax",
+        "Abercrombie brands sales": "$596.8M (+8%)",
+        "Hollister brands sales": "$669.9M (+2%)",
+        "Comp sales": "flat companywide; Hollister -3%",
+        "FY26 sales guide": "~5% growth (from 3–5%)",
+        "Q3 sales guide": "+5–6%",
+        "Q3 EPS guide": "$2.90–$3.20",
+        "Q3 buyback": "at least $100M",
+        "Move": "+36% to $148.91"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q2-fy26",
+        "specialty-retail",
+        "tariff-refund",
+        "ieepa",
+        "buyback"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "ANF's Q2 EPS crushes its own guide on $100M in tariff refunds; company raises FY26 outlook and lifts stock 36%.",
+        "whatIsIt": "Abercrombie & Fitch's fiscal-Q2 print for the quarter ended August 1, 2026. GAAP EPS of $4.17 compared with the company's own $1.80–$2.00 guide, driven partly by a ~$100M IEEPA tariff refund credited through cost of sales that added an estimated $1.75 per diluted share. Net sales of $1.27B were up 5%, the 15th consecutive quarter of growth.",
+        "howItWorks": "Net sales $1.27B (+5%). Abercrombie brand sales $596.8M (+8%); Hollister brands $669.9M (+2%). Companywide comps flat and Hollister comps -3%, so growth came from average-unit-retail and new stores, not underlying traffic. GAAP EPS $4.17 versus prior guide of $1.80–$2.00 per diluted share. Refunds of IEEPA tariffs (~$100M pre-tax) landed as a reduction to cost of sales in the quarter. FY26 guidance now calls for net sales growth of ~5% (was 3–5%). Q3 outlook: sales +5–6%, EPS $2.90–$3.20, and at least $100M of share repurchases.",
+        "whyItMatters": "ANF joins Ross Stores and Kohl's in the group of retailers whose Q2 print was materially inflated by IEEPA tariff refunds — the same tailwind flagged as ~$0.60 for ROST and ~$100M for KSS earlier this week. That resets the run-rate math on any single-quarter beat in the tariff-exposed apparel and off-price space. The 15-quarter growth streak keeps ANF on the leaderboard of specialty apparel comps, but the flat companywide comp and Hollister -3% are the softer read for anyone modelling forward organic growth.",
+        "forWho": "Consumer discretionary desks, small/mid-cap specialty retail",
+        "tryIt": "https://finance.yahoo.com/quote/ANF/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/a9d54a34-dfff-4812-b4d4-8c8e44c90445",
+        "alt": "Abercrombie & Fitch Q2 fiscal 2026 press release header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "ANF Q2 Release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/26/3351233/0/en/abercrombie-fitch-co-reports-second-quarter-fiscal-2026-results.html"
+        },
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001018840/000101884026000041/q22026pressrelease.htm"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-soars-37-100m-153035394.html"
+        },
+        {
+          "label": "ANF Quote",
+          "url": "https://finance.yahoo.com/quote/ANF/"
+        }
+      ],
+      "reddit": {
+        "title": "Abercrombie ANF +36% to $148.91 on Q2 beat + guide raise — GAAP EPS $4.17 vs own $1.80-$2.00 guide, boosted by $100M tariff refund; FY26 outlook lifted",
+        "body": "Abercrombie & Fitch dropped its Q2 FY26 print Wednesday morning and the stock ripped ~36% to $148.91.\n\n* Net sales $1.27B, +5% Y/Y — 15th straight growth quarter\n* GAAP EPS $4.17 vs own $1.80-$2.00 guide (adds \\~$1.75/sh from IEEPA tariff refunds)\n* IEEPA tariff refunds: \\~$100M pre-tax, booked as a reduction to COGS\n* Abercrombie brands +8%; Hollister brands +2% but Hollister comps -3%\n* Companywide comps flat — beat is AUR + new-store driven, not traffic\n\nGuidance moves:\n\n1. **FY26 sales guide raised** — now expects \\~5% growth (was 3-5%)\n2. **Q3 outlook** — sales +5-6%, EPS $2.90-$3.20\n3. **Buyback restart** — at least $100M in Q3\n\nReads across to the rest of the IEEPA-refund cohort: ROST booked a similar \\~$0.60/sh tariff tailwind in Q2 and KSS booked \\~$100M this week. Treat any single-quarter beat in tariff-exposed apparel with a big \"ex-refund\" asterisk.\n\nFull breakdown: [https://stock-tldr.xyz/releases/anf-q2-fy26-earnings-aug-26-2026](https://stock-tldr.xyz/releases/anf-q2-fy26-earnings-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T05:40:28.945Z"
+    },
+    {
+      "id": "crwd-q2-fy27-earnings-aug-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CrowdStrike (CRWD) Q2 FY27 — record $332.8M net new ARR (+51% Y/Y), total ARR $5.84B (+25%); revenue $1.47B (+26%) tops $1.44B est; adj EPS $0.31 vs $0.29 est; FY27 revenue guide raised to $5.99–$6.01B; stock +~12% AH",
+      "org": "CrowdStrike Holdings",
+      "date": "2026-08-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000029/crwd-20260826xex991.htm",
+      "summary": "CrowdStrike Q2 FY27: revenue $1.47B (+26%) tops est; record net new ARR $332.8M (+51% Y/Y), total ARR $5.84B (+25%); adj EPS $0.31 vs $0.29 est; FY27 revenue guide raised to $5.99–$6.01B. Stock +~12% AH.",
+      "tickers": [
+        "CRWD"
+      ],
+      "metrics": {
+        "Revenue": "$1.47B (+26% Y/Y) vs $1.44B est",
+        "Net new ARR": "$332.8M (+51% Y/Y, record)",
+        "Total ARR": "$5.84B (+25% Y/Y)",
+        "Adj EPS": "$0.31 vs $0.29 est",
+        "GAAP net income": "$5.3M ($0.01/sh, vs -$70.2M y/y)",
+        "FY27 revenue guide": "$5.99–$6.01B (raised)",
+        "FY27 adj EPS guide": "$1.25–$1.26",
+        "Move": "+~12% AH"
+      },
+      "tags": [
+        "earnings",
+        "arr-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-fy27",
+        "cybersecurity",
+        "ai-security",
+        "falcon"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "CrowdStrike posts record $332.8M net new ARR, beats top and bottom, and raises FY27 guide; stock +12% AH.",
+        "whatIsIt": "CrowdStrike's fiscal-Q2 print for the quarter ended July 31, 2026. Revenue of $1.47B (+26% Y/Y) beat the ~$1.44B consensus and net new annual recurring revenue of $332.8M (+51% Y/Y) was a company record. Adjusted EPS of $0.31 topped the $0.29 estimate. GAAP net income of $5.3M ($0.01/sh) flipped from a $70.2M loss a year earlier.",
+        "howItWorks": "Total ARR reached $5.84B (+25% Y/Y). CEO George Kurtz cited an AI-driven security tailwind he called the 'Mythos moment' — enterprises accepting that AI adoption requires security spend. Full-year FY27 revenue guidance was raised to $5.99–$6.01B and adjusted EPS to $1.25–$1.26. Shares jumped as much as 12% in extended trading on Wednesday.",
+        "whyItMatters": "Net new ARR is the single most closely watched metric in cyber, and $332.8M reverses the deceleration narrative that dogged the stock through mid-2026. The read-across is bullish for the SaaS-security cohort (PANW, ZS, S, TENB) and reinforces the 'AI infra requires new security' pitch that also lifted OKTA's setup. Confirms cyber budgets held even as broader software spend flattened through Q2.",
+        "forWho": "Software/SaaS desks, cybersecurity investors",
+        "tryIt": "https://finance.yahoo.com/quote/CRWD/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108216195-17612465932025-10-23t184722z_216618365_rc2shhavt0i3_rtrmadp_0_crowdstrike-hldg-ceo.jpeg?v=1761246644",
+        "alt": "CrowdStrike CEO George Kurtz portrait",
+        "fit": "cover",
+        "credit": "CNBC / Reuters"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Ex 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000029/crwd-20260826xex991.htm"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-may-big-surprise-store-123908999.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html"
+        },
+        {
+          "label": "CRWD Quote",
+          "url": "https://finance.yahoo.com/quote/CRWD/"
+        }
+      ],
+      "reddit": {
+        "title": "CrowdStrike Q2 FY27: record $332.8M net new ARR (+51% Y/Y), revenue $1.47B beats, FY27 guide raised — CRWD +12% AH",
+        "body": "CrowdStrike posted its Q2 FY27 print after the bell Wed Aug 26. The setup was cautious; the print blew through it.\n\n* Revenue $1.47B, +26% Y/Y — beats $1.44B est\n* Adj EPS $0.31 vs $0.29 est\n* Net new ARR $332.8M, +51% Y/Y — a company record\n* Total ARR $5.84B, +25% Y/Y\n* GAAP net income $5.3M ($0.01/sh) vs -$70.2M a year ago\n\nWhy the market took it well:\n\n1. **Net new ARR reacceleration** — the single most-watched metric in cyber. $332.8M reverses the deceleration story that dogged CRWD through mid-2026.\n2. **FY27 guide raised** — revenue now $5.99B-$6.01B, adj EPS $1.25-$1.26.\n3. **Mythos moment** — CEO Kurtz's framing that AI adoption forces security spend; reinforces bull case for PANW, ZS, S peers.\n\nStock reaction: CRWD +\\~12% in extended trading Wednesday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crwd-q2-fy27-earnings-aug-26-2026](https://stock-tldr.xyz/releases/crwd-q2-fy27-earnings-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T05:40:28.945Z"
+    },
+    {
+      "id": "rvmd-rasonque-fda-approval-aug-26-2026",
+      "categories": [
+        "regulatory"
+      ],
+      "title": "FDA approves Revolution Medicines (RVMD) Rasonque (daraxonrasib) on Wed Aug 26 — first RAS(ON) multi-selective inhibitor cleared for previously-treated metastatic pancreatic adenocarcinoma; Phase 3 RASolute 302 median OS 13.2mo vs 6.7mo; approved 6.5mo ahead of PDUFA; list price $39,800/30-day supply",
+      "org": "U.S. Food and Drug Administration",
+      "date": "2026-08-26",
+      "url": "https://www.cnbc.com/2026/08/26/revolution-medicines-gets-fda-nod-for-targeted-pancreatic-cancer-drug.html",
+      "summary": "FDA approved Revolution Medicines' Rasonque (daraxonrasib) on Aug 26 — first RAS(ON) inhibitor cleared for previously treated metastatic pancreatic cancer. Phase 3 mOS 13.2 vs 6.7 mo; approved 6.5 mo ahead of PDUFA. List $39,800/30-day.",
+      "tickers": [
+        "RVMD"
+      ],
+      "metrics": {
+        "Median overall survival": "13.2 mo vs 6.7 mo chemo",
+        "Phase 3 trial": "RASolute 302 (n=500)",
+        "Indication": "Prev-treated metastatic PDAC or unfit for multiagent",
+        "Approval timing": "6.5 mo ahead of PDUFA",
+        "List price": "$39,800 / 30-day supply",
+        "Move": "+0.68% to $212.81 (approval largely priced in)"
+      },
+      "tags": [
+        "regulatory",
+        "fda-approval",
+        "oncology",
+        "pancreatic-cancer",
+        "ras-inhibitor",
+        "daraxonrasib",
+        "first-in-class",
+        "biotech"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "First RAS(ON) inhibitor cleared for pancreatic cancer — Phase 3 nearly doubled median survival vs standard chemo.",
+        "whatIsIt": "The FDA approved Revolution Medicines' Rasonque (daraxonrasib) on Wednesday, Aug 26 for adults with metastatic pancreatic adenocarcinoma (PDAC) who have received at least one prior systemic therapy or are ineligible for multiagent systemic therapy. It is the first RAS(ON) multi-selective and mutant-selective inhibitor approved in any indication, and the first broad RAS-targeted therapy cleared for PDAC.",
+        "howItWorks": "Approval rests on the randomized Phase 3 RASolute 302 trial (n=500) in previously-treated metastatic PDAC, where daraxonrasib produced a median overall survival of 13.2 months versus 6.7 months for standard chemotherapy — a near doubling of survival. The FDA cleared the once-daily oral drug 6.5 months ahead of the PDUFA user-fee deadline. RVMD set the U.S. list price at $39,800 for a 30-day supply, with commercially insured patients potentially paying as little as $0 through co-pay assistance.",
+        "whyItMatters": "Pancreatic cancer has been one of oncology's hardest problems — RAS mutations sit in ~90% of PDAC tumors but have historically been un-druggable. A first-in-class RAS(ON) approval opens a pipeline read-across into CRC (colorectal), NSCLC, and other RAS-driven cancers where RVMD, MRTX, KRAS-directed programs at AMGN, and RAS-degrader plays could benefit or compete. Muted stock reaction (+0.68% to $212.81) reflects the fact that RVMD had already rallied ~9% in the 20 sessions ahead of the decision.",
+        "forWho": "Biotech desks, oncology specialists",
+        "tryIt": "https://finance.yahoo.com/quote/RVMD/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108354581-17877593652026-05-31t132934z_1016476251_rc2cjlamlvv4_rtrmadp_0_revolution-cancer-pancreatic.jpeg?v=1787759450",
+        "alt": "Revolution Medicines pancreatic cancer research imagery",
+        "fit": "cover",
+        "credit": "CNBC / Reuters"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/26/revolution-medicines-gets-fda-nod-for-targeted-pancreatic-cancer-drug.html"
+        },
+        {
+          "label": "RVMD 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001628171/000119312526366931/rvmd-20260826.htm"
+        },
+        {
+          "label": "CNN Coverage",
+          "url": "https://www.cnn.com/2026/08/26/health/daraxonrasib-pancreatic-cancer-fda"
+        },
+        {
+          "label": "RVMD Quote",
+          "url": "https://finance.yahoo.com/quote/RVMD/"
+        }
+      ],
+      "reddit": {
+        "title": "FDA approves Revolution Medicines' Rasonque for pancreatic cancer 6.5 months ahead of PDUFA — first RAS(ON) inhibitor ever cleared, Phase 3 mOS 13.2mo vs 6.7mo chemo",
+        "body": "The FDA approved Revolution Medicines' Rasonque (daraxonrasib) on Wed Aug 26 for adults with previously-treated metastatic pancreatic adenocarcinoma (PDAC), or who can't tolerate multiagent chemo.\n\n* First RAS(ON) multi-selective inhibitor approved in any indication\n* First broad RAS-targeted therapy cleared for PDAC\n* Phase 3 RASolute 302: median overall survival 13.2 months vs 6.7 months on standard chemo (n=500)\n* Cleared 6.5 months ahead of the PDUFA user-fee deadline\n* U.S. list price: $39,800 per 30-day supply; commercial patients can pay as little as $0 with co-pay assistance\n\nWhy this is a big deal:\n\n1. **RAS mutations sit in \\~90% of PDAC tumors** and have been considered un-druggable for decades\n2. **Read-through to the RAS(ON) pipeline** — RVMD and peers now have a clean path into RAS-driven CRC and NSCLC indications\n3. **Muted stock reaction** — RVMD +0.68% to $212.81 (already up \\~9% in the 20 sessions ahead of the decision)\n\nFull breakdown: [https://stock-tldr.xyz/releases/rvmd-rasonque-fda-approval-aug-26-2026](https://stock-tldr.xyz/releases/rvmd-rasonque-fda-approval-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T05:40:28.945Z"
+    },
     {
       "id": "spcx-starbase-louisiana-100b-aug-25-2026",
       "categories": [

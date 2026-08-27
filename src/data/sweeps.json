@@ -10469,6 +10469,59 @@
         "earnings",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260827t054028z",
+      "timestamp": "2026-08-27T05:40:28.945Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 27 2026 pre-market sweep: 5 new items covering NVIDIA's record Q2 FY27 print + AWS 2M-GPU deal, Meta's $16.7B state-AG teen safety settlement, ANF's tariff-refund-boosted Q2 beat + guide raise, CrowdStrike's record net new ARR quarter, and the FDA's first-in-class RAS(ON) inhibitor approval for RVMD.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-q2-fy27-earnings-aug-26-2026",
+          "title": "NVIDIA (NVDA) Q2 FY27 — record revenue $96.2B (+106% Y/Y, +18% Q/Q) tops $91B prior guide; Data Center $89.0B (+117%); non-GAAP EPS $2.22 vs $2.09 est; Q3 guide $108.0B ±2% (assumes zero China DC compute); AWS orders 2M more GPUs; NVDA +5.19% AH to $220.54",
+          "category": "earnings",
+          "note": "Largest semi single-quarter revenue print ever; Q3 guide $108B lifts AI-capex thesis; AWS 2M-GPU order tripled the GTC 2026 commitment."
+        },
+        {
+          "id": "meta-16b7-teen-safety-settlement-aug-26-2026",
+          "title": "Meta (META) reaches $16.7B settlement with 29 state AGs on Wed Aug 26 to end teen social-media addiction MDL; payments across 10 years, mandatory daily time caps + overnight restrictions for teens on Facebook + Instagram; META +0.46% to $578.77",
+          "category": "regulatory",
+          "note": "Landmark $16.7B state-AG teen-safety settlement (29 states) that mandates teen time-caps and overnight restrictions on Facebook/Instagram."
+        },
+        {
+          "id": "anf-q2-fy26-earnings-aug-26-2026",
+          "title": "Abercrombie & Fitch (ANF) +36% to $148.91 on Wed Aug 26 — Q2 FY26 net sales $1.27B (+5% Y/Y, 15th straight growth quarter); GAAP EPS $4.17 vs $1.80–$2.00 own guide on ~$100M IEEPA tariff refunds (+$1.75/sh); FY26 sales guide raised to ~5% growth; Q3 EPS guide $2.90–$3.20 + $100M buyback",
+          "category": "earnings",
+          "note": "ANF +36% on Q2 EPS crushing own guide via $100M IEEPA tariff refunds and FY26 guide raise."
+        },
+        {
+          "id": "crwd-q2-fy27-earnings-aug-26-2026",
+          "title": "CrowdStrike (CRWD) Q2 FY27 — record $332.8M net new ARR (+51% Y/Y), total ARR $5.84B (+25%); revenue $1.47B (+26%) tops $1.44B est; adj EPS $0.31 vs $0.29 est; FY27 revenue guide raised to $5.99–$6.01B; stock +~12% AH",
+          "category": "earnings",
+          "note": "Record $332.8M net new ARR (+51% Y/Y) reverses the deceleration narrative; FY27 revenue and EPS guides raised; +12% AH."
+        },
+        {
+          "id": "rvmd-rasonque-fda-approval-aug-26-2026",
+          "title": "FDA approves Revolution Medicines (RVMD) Rasonque (daraxonrasib) on Wed Aug 26 — first RAS(ON) multi-selective inhibitor cleared for previously-treated metastatic pancreatic adenocarcinoma; Phase 3 RASolute 302 median OS 13.2mo vs 6.7mo; approved 6.5mo ahead of PDUFA; list price $39,800/30-day supply",
+          "category": "regulatory",
+          "note": "First-in-class RAS(ON) inhibitor cleared 6.5 mo ahead of PDUFA for previously-treated metastatic pancreatic cancer; Phase 3 doubled median survival."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "macro",
+        "analyst",
+        "crypto"
+      ]
     }
   ]
 }
