@@ -10522,6 +10522,74 @@
         "analyst",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260827t213530z",
+      "timestamp": "2026-08-27T21:35:30.550Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 27 sweep: 8 new items from a heavy earnings day — Salesforce (CRM +11.9%) launches Claudeforce with Anthropic on a big beat-and-raise, HP beats but sells off on memory-cost warning, Dollar General crushes and raises FY guide (+~10%) while Dollar Tree's Q3 EPS guide falls well short (-3%), Best Buy raises FY27 comps guide to +1.9–3.0% (-3.9% premarket on high positioning), Marvell prints record data-center quarter and raises Q3 outlook, Autodesk beats-and-raises then slips AH, and Moderna proposes a $2B zero-coupon convertible eight days after the 177% melanoma-vaccine rally.",
+      "counts": {
+        "added": 8,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "crm-q2-fy27-earnings-aug-26-2026",
+          "title": "Salesforce (CRM) Q2 FY27 — record revenue $11.3B (+11% Y/Y), non-GAAP EPS $5.90 (+103%), Agentforce ARR tops $1.5B (+240%); FY27 revenue guide raised to $46.1–$46.4B; launches Claudeforce with Anthropic; CRM +11.9% to $252.23 on Thu Aug 27",
+          "category": "earnings",
+          "note": "Record revenue and Agentforce ARR crossing $1.5B (+240%); FY27 guide raised; Claudeforce/Anthropic partnership launched; CRM +11.9% Thursday."
+        },
+        {
+          "id": "hpq-q3-fy26-earnings-aug-26-2026",
+          "title": "HP Inc (HPQ) Q3 FY26 — revenue $15.7B (+12.5% Y/Y), non-GAAP EPS $0.83 tops $0.61–$0.71 guide; Personal Systems +18% Y/Y; FY26 non-GAAP EPS guide raised to $3.19–$3.29; HPQ -2.92% to $29.63 on Thu Aug 27 as memory-cost pressure and PC-margin concerns overshadow beat",
+          "category": "earnings",
+          "note": "Q3 beat + FY26 guide raise but stock -2.92% as memory-cost warning and Q4 EPS below Street reset PC-margin expectations."
+        },
+        {
+          "id": "dg-q2-fy26-earnings-aug-27-2026",
+          "title": "Dollar General (DG) Q2 FY26 — net sales $11.29B (+5.2% Y/Y), comps +3.5%, EPS $2.48 (+33.3%); FY26 EPS guide raised to $7.80–$8.00 (from $7.20–$7.45); DG +~10% premarket Thursday Aug 27",
+          "category": "earnings",
+          "note": "Comps +3.5% and $0.60 FY26 EPS guide raise sends DG ~+10% premarket; low-end trade-down thesis has a clear beneficiary."
+        },
+        {
+          "id": "dltr-q2-fy26-earnings-aug-27-2026",
+          "title": "Dollar Tree (DLTR) Q2 FY26 — net sales $4.89B (+7.0% Y/Y), comps +3.7%, EPS $2.70 tops $1.15 est (incl $1.31 tariff-refund benefit); FY26 adj EPS guide $7.70–$8.05; Q3 adj EPS guide $0.80–$0.95 lands well below $1.39 est; DLTR -3% to $128.76",
+          "category": "earnings",
+          "note": "Big Q2 beat inflated by $1.31 tariff refund; Q3 EPS guide $0.80–$0.95 midpoint well below $1.39 est knocks stock -3%."
+        },
+        {
+          "id": "bby-q2-fy27-earnings-aug-27-2026",
+          "title": "Best Buy (BBY) Q2 FY27 — enterprise revenue $9.78B (+3.6% Y/Y), comps +4.1% (domestic +4.5%, online +5.1%), adj EPS $1.47 tops $1.35 est; FY27 revenue guide raised to $42.3–$42.8B; adj EPS guide raised to $6.70–$6.90; BBY -3.94% premarket despite beat-and-raise",
+          "category": "earnings",
+          "note": "Comps +4.1% vs +1% own guide; FY27 EPS raised to $6.70–$6.90 on AI-PC and AI-glasses pull-through; BBY -3.9% premarket on high positioning."
+        },
+        {
+          "id": "mrvl-q2-fy27-earnings-aug-27-2026",
+          "title": "Marvell (MRVL) Q2 FY27 — record revenue $2.739B (+37% Y/Y), non-GAAP EPS $0.94, Data Center revenue $2.17B (+46% Y/Y, 79% of mix); Q3 rev guide $3.15B ±5% and non-GAAP EPS $1.10 ±$0.05 top Street; MRVL -~2% AH to ~$236",
+          "category": "earnings",
+          "note": "Record $2.74B revenue, Data Center 79% of mix (+46% Y/Y); Q3 guide $3.15B tops $3.03B est but MRVL -~2% AH after 187% YTD run."
+        },
+        {
+          "id": "adsk-q2-fy27-earnings-aug-27-2026",
+          "title": "Autodesk (ADSK) Q2 FY27 — revenue $2.05B (+16% Y/Y), non-GAAP EPS $3.30 tops $3.12 est; billings $1.85B (+10%); AECO +17% Y/Y to $1.03B; FY27 revenue guide raised to $8.30–$8.35B; ADSK -~5% AH after closing +6.23% at $270.65 into the print",
+          "category": "earnings",
+          "note": "AECO +17% and FY27 revenue guide raised to $8.30–$8.35B; ADSK -~5% AH after +6.23% regular-session close on billings-growth concerns."
+        },
+        {
+          "id": "mrna-2b-convertible-notes-aug-27-2026",
+          "title": "Moderna (MRNA) -5.69% to $143.48 on Thursday Aug 27 — announces proposed $2.0B private placement of Convertible Senior Notes due 2032 (plus $300M initial-purchaser option), 8 days after 176% rally on melanoma trial win; proceeds for oncology and debt repayment; capped-call transactions to limit dilution",
+          "category": "mover",
+          "note": "Proposes $2.0B private-placement converts due 2032 (+$300M option) with capped-call hedge; 8 days after the 176.97% melanoma-vaccine rally; MRNA -5.69%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }

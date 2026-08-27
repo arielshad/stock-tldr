@@ -1,8 +1,609 @@
 {
-  "generatedAt": "2026-08-27T05:40:28.945Z",
+  "generatedAt": "2026-08-27T21:35:30.550Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "crm-q2-fy27-earnings-aug-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Salesforce (CRM) Q2 FY27 — record revenue $11.3B (+11% Y/Y), non-GAAP EPS $5.90 (+103%), Agentforce ARR tops $1.5B (+240%); FY27 revenue guide raised to $46.1–$46.4B; launches Claudeforce with Anthropic; CRM +11.9% to $252.23 on Thu Aug 27",
+      "org": "Salesforce",
+      "date": "2026-08-26",
+      "url": "https://www.salesforce.com/news/press-releases/2026/08/26/fy27-q2-earnings/",
+      "summary": "Salesforce Q2 FY27 rev $11.3B (+11%), non-GAAP EPS $5.90 (+103%); Agentforce ARR >$1.5B (+240%); FY27 rev guide raised to $46.1–46.4B; unveils Claudeforce with Anthropic; CRM +11.9% Thu.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "agentforce",
+        "ai",
+        "claudeforce",
+        "anthropic",
+        "saas",
+        "enterprise-software",
+        "q2-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CRM"
+      ],
+      "metrics": {
+        "Revenue": "$11.35B (+11% Y/Y)",
+        "Non-GAAP EPS": "$5.90 (+103% Y/Y)",
+        "GAAP EPS": "$4.29 (+119% Y/Y)",
+        "Agentforce ARR": ">$1.5B (+240% Y/Y)",
+        "cRPO": "$33.5B (+14% Y/Y)",
+        "FCF": "$1.1B (+81% Y/Y)",
+        "FY27 rev guide": "$46.1–$46.4B",
+        "Move": "+11.9% to $252.23 (Aug 27)"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.salesforce.com/news/press-releases/2026/08/26/fy27-q2-earnings/"
+        },
+        {
+          "label": "Investor Page",
+          "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-Second-Quarter-Fiscal-2027-Results/default.aspx"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html"
+        },
+        {
+          "label": "Yahoo Finance – CRM",
+          "url": "https://finance.yahoo.com/quote/CRM/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Salesforce prints a record quarter, raises FY27 guide $300M, and pairs it with a Claude-powered Agentforce co-launch.",
+        "whatIsIt": "Salesforce reported Q2 fiscal 2027 results after Wednesday's close. Revenue reached a record $11.35B (+11% Y/Y), non-GAAP EPS $5.90 (+103% Y/Y), and free cash flow $1.1B (+81% Y/Y). Alongside the print, Salesforce and Anthropic unveiled Claudeforce, a joint interface that layers Claude on top of Salesforce data and workflows.",
+        "howItWorks": "Subscription & support revenue was $10.8B (+12% Y/Y) including $456M from Informatica. Agentforce annualized recurring revenue passed $1.5B (+240% Y/Y); combined Agentforce + Data 360 ARR is nearly $3.9B (+210%). Current remaining performance obligation ended at $33.5B (+14%). Management raised the FY27 revenue outlook to $46.1–$46.4B (11–12% growth) with a 34.3% non-GAAP op margin target, and guided Q3 revenue to $11.42–$11.50B.",
+        "whyItMatters": "The print snaps a run of tepid growth quarters and gives Salesforce a credible AI-monetization story. Claudeforce reaches general availability in September and is due in every seller's demo by Dreamforce, tying Salesforce's distribution to Anthropic's frontier model. CRM closed +11.9% to $252.23, dragging ServiceNow and Adobe higher and lifting the enterprise-SaaS complex broadly.",
+        "forWho": "Enterprise-software, AI-agent and SaaS-multiple watchers.",
+        "tryIt": "https://investor.salesforce.com/financials/default.aspx"
+      },
+      "image": {
+        "url": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/08/FY27Q1-newsroom-tile-1200x675-1.png",
+        "alt": "Salesforce fiscal 2027 quarterly earnings newsroom tile.",
+        "fit": "cover",
+        "credit": "Salesforce"
+      },
+      "reddit": {
+        "title": "Salesforce (CRM) +11.9% — Agentforce ARR $1.5B (+240% Y/Y), $46.1–46.4B FY27 revenue guide, Claudeforce launched with Anthropic",
+        "body": "Salesforce printed its cleanest quarter in over a year, and Wall Street rewarded it with an $18B+ market-cap pop.\n\n* Revenue $11.35B (+11% Y/Y), non-GAAP EPS $5.90 (+103% Y/Y)\n* Agentforce ARR tops $1.5B — up 240% Y/Y\n* Agentforce + Data 360 combined ARR ~$3.9B (+210% Y/Y)\n* cRPO $33.5B (+14% Y/Y); free cash flow $1.1B (+81% Y/Y)\n* FY27 revenue guide raised $300M to $46.1–$46.4B, 34.3% non-GAAP op margin target\n* Q3 guide $11.42–$11.50B revenue, adj EPS $3.42–$3.44\n\nWhat actually moved the tape:\n\n1. **Claudeforce partnership** — Salesforce and Anthropic unveiled a joint interface that layers Claude on top of Salesforce data + workflows, GA in September, in every seller's demo by Dreamforce.\n2. **Agentic Work Units** — 3.2B delivered in Q2 alone (97% Q/Q growth), 7.0B cumulative. Gives the AI story a real usage denominator.\n3. **Guide raise ends the slump** — Salesforce cited a $300M organic raise ($200M ex-FX), snapping a run of tepid growth prints.\n\nCRM closed +11.9% at $252.23. ServiceNow +5%, Adobe +3% on the read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crm-q2-fy27-earnings-aug-26-2026](https://stock-tldr.xyz/releases/crm-q2-fy27-earnings-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "hpq-q3-fy26-earnings-aug-26-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "HP Inc (HPQ) Q3 FY26 — revenue $15.7B (+12.5% Y/Y), non-GAAP EPS $0.83 tops $0.61–$0.71 guide; Personal Systems +18% Y/Y; FY26 non-GAAP EPS guide raised to $3.19–$3.29; HPQ -2.92% to $29.63 on Thu Aug 27 as memory-cost pressure and PC-margin concerns overshadow beat",
+      "org": "HP Inc.",
+      "date": "2026-08-26",
+      "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-reports-fiscal-2026-third-quarter-results.html",
+      "summary": "HP Q3 FY26 rev $15.7B (+12.5%), non-GAAP EPS $0.83 tops $0.61–0.71 guide; Personal Systems +18%; FY26 EPS guide raised to $3.19–3.29; HPQ -2.92% Thu on memory-cost margin worries.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "personal-systems",
+        "printing",
+        "memory-costs",
+        "pc",
+        "tariff-refund",
+        "q3-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HPQ"
+      ],
+      "metrics": {
+        "Revenue": "$15.7B (+12.5% Y/Y, +10.9% cc)",
+        "Non-GAAP EPS": "$0.83 vs $0.61–$0.71 guide (incl $0.11 tariff refund)",
+        "GAAP EPS": "$0.71",
+        "Personal Systems": "$11.8B (+18% Y/Y), 4.6% op margin",
+        "Printing": "$3.9B (-2% Y/Y), 18.1% op margin",
+        "FCF": "$1.6B",
+        "FY26 non-GAAP EPS guide": "$3.19–$3.29",
+        "FY26 FCF guide": "$3.0–$3.2B",
+        "Move": "-2.92% to $29.63 (Aug 27)"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-reports-fiscal-2026-third-quarter-results.html"
+        },
+        {
+          "label": "Reuters/Wire Copy",
+          "url": "https://www.globenewswire.com/news-release/2026/08/26/3351698/0/en/hp-inc-reports-fiscal-2026-third-quarter-results.html"
+        },
+        {
+          "label": "Yahoo Finance – Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hp-hpq-stock-falls-amid-220002492.html"
+        },
+        {
+          "label": "Motley Fool – Why HPQ Sank",
+          "url": "https://www.fool.com/investing/2026/08/27/why-hp-stock-is-sinking-today/"
+        }
+      ],
+      "explainer": {
+        "tagline": "HP beats and raises but the tape only hears 'memory costs' as PC unit prices set to rise.",
+        "whatIsIt": "HP Inc reported fiscal Q3 2026 results after Wednesday's close. Revenue was $15.7B (+12.5% Y/Y), non-GAAP EPS $0.83 versus a $0.61–$0.71 guide, and management raised full-year non-GAAP EPS guidance to $3.19–$3.29. Free cash flow was $1.6B and HP returned $0.6B to shareholders via buybacks and dividends.",
+        "howItWorks": "Personal Systems revenue jumped 18% Y/Y to $11.8B on stronger commercial PC demand, but the segment operating margin held at just 4.6% as memory-chip costs climbed. Printing revenue fell 2% Y/Y to $3.9B with a 18.1% margin. HP set an aim to deliver ~$1B of annual AI-driven cost savings by end of FY27. Q4 guide: GAAP EPS $0.74–$0.84 / non-GAAP $0.69–$0.79; FY26 free cash flow now $3.0–$3.2B.",
+        "whyItMatters": "The result reinforces the AI-server-driven DRAM/NAND squeeze already visible in Micron (MU), SanDisk (SNDK) and Western Digital (WDC) tape — HP explicitly flagged higher near-term component costs as management works to mitigate. HPQ fell 2.92% to $29.63 despite the beat, with analysts pointing to PC ASP pressure and Q4 EPS guidance that came in below prior Street models.",
+        "forWho": "PC OEM, memory-cost and print/hardware allocators.",
+        "tryIt": "https://investor.hp.com/financials/default.aspx"
+      },
+      "image": {
+        "url": "https://www.hp.com/content/dam/sites/worldwide/dems/hp_og_image.jpg",
+        "alt": "HP Inc. corporate branding image.",
+        "fit": "cover",
+        "credit": "HP Inc."
+      },
+      "reddit": {
+        "title": "HP Inc (HPQ) -2.9% to $29.63 despite Q3 beat and raise — memory costs are eating PC margins",
+        "body": "HP posted a real quarter and raised the year, but the market cared about one thing: memory prices.\n\n* Revenue $15.7B (+12.5% Y/Y, +10.9% cc)\n* Non-GAAP EPS $0.83 vs $0.61–$0.71 own guide (includes $0.11 tariff refund)\n* Personal Systems $11.8B (+18% Y/Y) but only a 4.6% op margin\n* Printing $3.9B (-2% Y/Y), 18.1% margin\n* Free cash flow $1.6B; $0.6B returned via buybacks + dividends\n* FY26 non-GAAP EPS guide raised to $3.19–$3.29; FCF guide $3.0–$3.2B\n\nThe tape action:\n\n1. **Memory costs** — DRAM/NAND supply is being pulled into AI servers, tightening PC memory and pushing chips up. HP flagged it as a near-term headwind PS margin can't fully absorb.\n2. **Q4 guide underwhelms** — HP guided non-GAAP EPS $0.69–$0.79 for Q4, below prior Street models.\n3. **$1B AI cost-out plan** — Management laid out a run-rate savings target by end of FY27 to offset the component squeeze.\n\nHPQ closed -2.92% at $29.63. Read-through was ugly for memory: this print reinforces MU, SNDK, WDC as the ones with pricing power.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hpq-q3-fy26-earnings-aug-26-2026](https://stock-tldr.xyz/releases/hpq-q3-fy26-earnings-aug-26-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "dg-q2-fy26-earnings-aug-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Dollar General (DG) Q2 FY26 — net sales $11.29B (+5.2% Y/Y), comps +3.5%, EPS $2.48 (+33.3%); FY26 EPS guide raised to $7.80–$8.00 (from $7.20–$7.45); DG +~10% premarket Thursday Aug 27",
+      "org": "Dollar General",
+      "date": "2026-08-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000029534/000110465926101918/tm2623914d1_ex99.htm",
+      "summary": "Dollar General Q2 FY26 net sales $11.29B (+5.2%), comps +3.5%, EPS $2.48 (+33.3%); FY26 EPS guide raised to $7.80–$8.00; stock +~10% pre-market Thursday.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "same-store-sales",
+        "consumer-discretionary",
+        "dollar-stores",
+        "tariff-refund",
+        "traffic-growth",
+        "q2-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DG",
+        "DLTR"
+      ],
+      "metrics": {
+        "Net sales": "$11.29B (+5.2% Y/Y)",
+        "Same-store sales": "+3.5%",
+        "EPS (diluted)": "$2.48 vs $1.86 y/y (+33.3%)",
+        "Net income": "$550.3M (+33.8% Y/Y)",
+        "Gross margin": "32.6% (+127 bp)",
+        "Tariff-refund benefit": "~$0.25/sh",
+        "FY26 EPS guide": "$7.80–$8.00 (from $7.20–$7.45)",
+        "FY26 net-sales growth": "4.0–4.3% (from 3.7–4.2%)",
+        "FY26 comps guide": "2.5–2.9% (from 2.2–2.7%)",
+        "Move": "+~10% premarket to ~$135.50"
+      },
+      "links": [
+        {
+          "label": "8-K (SEC EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000029534/000110465926101918/tm2623914d1_8k.htm"
+        },
+        {
+          "label": "Earnings Press Release (EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000029534/000110465926101918/tm2623914d1_ex99.htm"
+        },
+        {
+          "label": "RTT News – Stock Up 10%",
+          "url": "https://www.rttnews.com/3685573/dollar-general-boosts-fy26-outlook-as-q2-profit-grows-stock-up-10.aspx"
+        },
+        {
+          "label": "Yahoo Finance – DG",
+          "url": "https://finance.yahoo.com/quote/DG/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dollar General crushes with fifth straight quarter of traffic growth and lifts FY26 EPS $0.60 at the midpoint.",
+        "whatIsIt": "Dollar General reported Q2 fiscal 2026 results (quarter ended July 31) before Thursday's open. Net sales rose 5.2% to $11.29B, same-store sales climbed 3.5% across all four merchandising categories, and diluted EPS surged 33.3% to $2.48. Net income grew 33.8% to $550.3M.",
+        "howItWorks": "The quarter benefited from an estimated ~$0.25/sh tariff-refund tailwind (net of reinvestments). Gross margin expanded 127 bp to 32.6% on shrink improvement and lower LIFO. Traffic grew for a fifth straight quarter. Dollar General opened 125 new U.S. stores plus one in Mexico. Management raised FY26 EPS guidance to $7.80–$8.00 from $7.20–$7.45, with net-sales growth now seen at 4.0–4.3% and comps at 2.5–2.9%. Quarterly dividend held at $0.59/sh.",
+        "whyItMatters": "The print is a clean bid on the low-end consumer's willingness to trade down and validates CEO Vasos's back-to-basics playbook after a rough 2024–25. DG jumped ~10% premarket to ~$135.50 and contrasts sharply with Dollar Tree, which fell ~3% on a weaker Q3 EPS guide. Read-through to Walmart, Target, and off-price is positive for value-focused traffic trends.",
+        "forWho": "Consumer-discretionary and low-income-consumer allocators.",
+        "tryIt": "https://finance.yahoo.com/quote/DG/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/DGheadquartersTN.jpg",
+        "alt": "Dollar General corporate headquarters in Goodlettsville, Tennessee.",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "Dollar General (DG) +10% pre-market — Q2 EPS $2.48 (+33%), FY26 EPS guide raised $0.60 to $7.80–$8.00",
+        "body": "Dollar General posted its cleanest quarter in years and hiked the FY guide by ~8%. Low-end consumer clearly showing up.\n\n* Net sales $11.29B (+5.2% Y/Y)\n* Same-store sales +3.5% across all four merchandising categories\n* Diluted EPS $2.48 (+33.3% Y/Y); net income $550.3M (+33.8%)\n* Gross margin 32.6% (+127 bp)\n* 5th straight quarter of traffic growth\n* Tariff refunds worth ~$0.25/sh (net of reinvestments)\n\nFY26 guide raised across the board:\n\n1. **EPS $7.80–$8.00** (from $7.20–$7.45) — a $0.60 midpoint raise.\n2. **Net-sales growth 4.0–4.3%** (from 3.7–4.2%).\n3. **Comps 2.5–2.9%** (from 2.2–2.7%).\n\nDG +~10% pre-market to ~$135.50. Contrast with Dollar Tree, down ~3% today on a weak Q3 guide — the low-end trade-down is finding one clear beneficiary.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dg-q2-fy26-earnings-aug-27-2026](https://stock-tldr.xyz/releases/dg-q2-fy26-earnings-aug-27-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "dltr-q2-fy26-earnings-aug-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Dollar Tree (DLTR) Q2 FY26 — net sales $4.89B (+7.0% Y/Y), comps +3.7%, EPS $2.70 tops $1.15 est (incl $1.31 tariff-refund benefit); FY26 adj EPS guide $7.70–$8.05; Q3 adj EPS guide $0.80–$0.95 lands well below $1.39 est; DLTR -3% to $128.76",
+      "org": "Dollar Tree",
+      "date": "2026-08-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000108/ex991q2-26earningspressrel.htm",
+      "summary": "Dollar Tree Q2 FY26 sales $4.89B (+7.0%), comps +3.7%, EPS $2.70 (incl $1.31 tariff-refund benefit); Q3 EPS guide $0.80–$0.95 lands well below $1.39 est; DLTR -3% to $128.76.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guide-cut",
+        "same-store-sales",
+        "consumer-discretionary",
+        "dollar-stores",
+        "tariff-refund",
+        "q2-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DLTR",
+        "DG"
+      ],
+      "metrics": {
+        "Net sales": "$4.89B (+7.0% Y/Y)",
+        "Same-store sales": "+3.7% (ticket +3.3%, traffic +0.4%)",
+        "EPS (diluted continuing ops)": "$2.70 vs $1.15 est (incl $1.31 tariff-refund benefit)",
+        "Prior-year EPS (continuing ops)": "$0.77",
+        "Operating income": "$690M (14.1% op margin)",
+        "FY26 adj EPS guide": "$7.70–$8.05 (incl ~$0.60 tariff-refund benefit)",
+        "FY26 sales guide": "$20.5–$20.7B on comps +3–4%",
+        "Q3 adj EPS guide": "$0.80–$0.95 vs $1.39 est",
+        "Move": "-3% to $128.76"
+      },
+      "links": [
+        {
+          "label": "8-K (SEC EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000101/ex991q2-26earningscallanno.htm"
+        },
+        {
+          "label": "Earnings Press Release (EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000108/ex991q2-26earningspressrel.htm"
+        },
+        {
+          "label": "24/7 Wall St – Q3 Guide Miss",
+          "url": "https://247wallst.com/investing/2026/08/27/dollar-general-advances-5-on-a-raised-full-year-outlook-dollar-tree-slips-3/"
+        },
+        {
+          "label": "Yahoo Finance – DLTR",
+          "url": "https://finance.yahoo.com/quote/DLTR/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dollar Tree crushes Q2 on tariff refunds but a soft Q3 EPS guide of $0.80–$0.95 (vs $1.39 est) sinks the stock.",
+        "whatIsIt": "Dollar Tree reported Q2 fiscal 2026 results (quarter ended August 2) before Thursday's open. Net sales rose 7.0% to $4.89B, comps +3.7% (ticket +3.3%, traffic +0.4%), and diluted continuing-ops EPS came in at $2.70 vs a $1.15 consensus — but the beat was inflated by a $1.31/sh tariff-refund benefit. Operating income was $690M on a 14.1% margin.",
+        "howItWorks": "For FY26, Dollar Tree now guides adjusted continuing-ops EPS to $7.70–$8.05 including a ~$0.60 net tariff-refund tailwind, with sales of $20.5–$20.7B on comps of 3–4%. Q3 adjusted EPS is guided to a $0.80–$0.95 range — the $0.88 midpoint is well below the $1.39 Street consensus, implying tariff-related cost re-emergence and softer near-term margin as pricing catches up. CEO Mike Creedon flagged positive traffic and basket trends.",
+        "whyItMatters": "The Q3 guide is the market's tell: strip out one-time refunds and Dollar Tree's core margin story is under pressure, in sharp contrast to Dollar General's clean beat-and-raise. DLTR closed -3% at $128.76 while DG jumped ~10% premarket — the two names are diverging on the same low-end consumer thesis. Read-through: tariff-refund benefits are decaying, and Q4 EPS quality across value retail will be scrutinized.",
+        "forWho": "Consumer-discretionary, tariff-sensitive and value-retail readers.",
+        "tryIt": "https://finance.yahoo.com/quote/DLTR/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/1280px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
+        "alt": "Dollar Tree discount store exterior in Greenville, South Carolina.",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "Dollar Tree (DLTR) -3% to $128.76 — Q2 EPS $2.70 crushes $1.15 est, but Q3 guide $0.80–$0.95 vs $1.39 consensus",
+        "body": "Dollar Tree beat by a mile on the Q2 print, then guided Q3 EPS well below the Street. Stock dropped.\n\n* Net sales $4.89B (+7.0% Y/Y); comps +3.7% (ticket +3.3%, traffic +0.4%)\n* Diluted continuing-ops EPS $2.70 vs $1.15 est\n* Operating income $690M, 14.1% op margin\n* Big caveat: Q2 EPS includes a $1.31/sh tariff-refund tailwind\n\nWhy the tape sold it:\n\n1. **Q3 EPS guide $0.80–$0.95** — midpoint $0.88, vs $1.39 consensus. Refund tailwinds fade fast.\n2. **FY26 adj EPS guide $7.70–$8.05** with only ~$0.60 in net tariff-refund benefit baked in.\n3. **DG contrast** — Dollar General same day: +10% premarket on a $0.60 FY guide raise. The low-end thesis is diverging.\n\nDLTR closed -3% at $128.76. This is the earnings-quality debate coming due for the whole value-retail complex.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dltr-q2-fy26-earnings-aug-27-2026](https://stock-tldr.xyz/releases/dltr-q2-fy26-earnings-aug-27-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "bby-q2-fy27-earnings-aug-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Best Buy (BBY) Q2 FY27 — enterprise revenue $9.78B (+3.6% Y/Y), comps +4.1% (domestic +4.5%, online +5.1%), adj EPS $1.47 tops $1.35 est; FY27 revenue guide raised to $42.3–$42.8B; adj EPS guide raised to $6.70–$6.90; BBY -3.94% premarket despite beat-and-raise",
+      "org": "Best Buy",
+      "date": "2026-08-27",
+      "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q2-fy27/",
+      "summary": "Best Buy Q2 FY27 revenue $9.78B, comps +4.1% (domestic +4.5%), adj EPS $1.47 vs $1.35 est; FY27 revenue guide raised to $42.3–$42.8B, adj EPS to $6.70–$6.90; BBY -3.94% premarket.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "same-store-sales",
+        "consumer-electronics",
+        "pc-upgrade",
+        "ai-glasses",
+        "q2-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BBY"
+      ],
+      "metrics": {
+        "Enterprise revenue": "$9.78B (+3.6% Y/Y)",
+        "Enterprise comps": "+4.1% vs +1% own May guide",
+        "Domestic comps": "+4.5%",
+        "Online comps": "+5.1%",
+        "International comps": "-1.8%",
+        "Adj diluted EPS": "$1.47 vs $1.28 y/y",
+        "GAAP diluted EPS": "$1.48 (+70% Y/Y)",
+        "FY27 revenue guide": "$42.3–$42.8B (from $41.2–$42.1B)",
+        "FY27 comps guide": "+1.9% to +3.0% (from -1.0% to +1.0%)",
+        "FY27 adj EPS guide": "$6.70–$6.90 (from $6.30–$6.60)",
+        "FY27 adj op margin": "4.4–4.5%",
+        "Move": "-3.94% premarket"
+      },
+      "links": [
+        {
+          "label": "Earnings Blog (Best Buy Corporate)",
+          "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q2-fy27/"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html"
+        },
+        {
+          "label": "Yahoo Finance – Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-shares-fall-despite-133656422.html"
+        },
+        {
+          "label": "Yahoo Finance – BBY",
+          "url": "https://finance.yahoo.com/quote/BBY/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Best Buy prints +4.1% comps vs +1% own May guide, lifts FY27 EPS $0.35 at the midpoint — and still sells off premarket.",
+        "whatIsIt": "Best Buy reported Q2 fiscal 2027 (quarter ended August 2) before Thursday's open. Enterprise revenue rose 3.6% Y/Y to $9.78B, comps came in at +4.1% versus May guidance of roughly +1%, and adj EPS was $1.47 vs a $1.35 consensus. The domestic segment did the heavy lifting at $9.07B / +4.5% comps.",
+        "howItWorks": "Computing and Mobile Phones — 46% of domestic mix — comped +6.8%, contributing roughly three of the domestic comp's 4.5 points on strength from the PC refresh cycle and AI-glasses demand. Online comps grew 5.1%. Management raised FY27 guidance: revenue to $42.3–$42.8B (from $41.2–$42.1B), comps to +1.9–3.0% (from -1.0 to +1.0%), and adj EPS to $6.70–$6.90 (from $6.30–$6.60), with adj op margin at 4.4–4.5%. Q3 comps guided +1.0 to +3.0%.",
+        "whyItMatters": "The comp acceleration is a real read on the U.S. PC replacement cycle and AI-hardware pull-through at retail, and it maps to Dell / HP AI PC commentary. Yet BBY fell 3.94% premarket — with the stock already up ~31% YTD into the print (vs S&P 500 +12%), the guide raise was largely priced in, and Q3 comp guidance implies deceleration from Q2's +4.1% pace.",
+        "forWho": "Consumer-electronics, retail-comp and PC-cycle watchers.",
+        "tryIt": "https://finance.yahoo.com/quote/BBY/"
+      },
+      "image": {
+        "url": "https://corporate.bestbuy.com/wp-content/uploads/2026/08/Q2-FY27-Earnings-Blog.jpg",
+        "alt": "Best Buy Q2 FY27 earnings announcement image.",
+        "fit": "cover",
+        "credit": "Best Buy"
+      },
+      "reddit": {
+        "title": "Best Buy (BBY) -3.9% premarket despite Q2 comps +4.1% vs +1% own guide, FY27 EPS raised $0.35 to $6.70–$6.90",
+        "body": "Best Buy printed a real beat-and-raise on the back of the PC refresh cycle and AI glasses. Stock still sold off. Sentiment problem.\n\n* Enterprise revenue $9.78B (+3.6% Y/Y)\n* Enterprise comps +4.1% vs May guide of ~+1%\n* Domestic comps +4.5%, Online +5.1%, International -1.8%\n* Adj EPS $1.47 vs $1.35 est; GAAP EPS $1.48 (+70% Y/Y)\n* Computing + Mobile (46% of domestic mix) comped +6.8% on PC refresh + AI glasses\n\nFY27 guide raised across the stack:\n\n1. **Revenue $42.3–$42.8B** (from $41.2–$42.1B).\n2. **Comps +1.9% to +3.0%** (from -1.0% to +1.0%).\n3. **Adj EPS $6.70–$6.90** (from $6.30–$6.60), op margin 4.4–4.5%.\n4. **Q3 comps guide +1.0% to +3.0%** — a deceleration from Q2's +4.1%.\n\nBBY -3.94% pre-market. Stock was already +31% YTD into the print vs S&P 500 +12%, so a decent chunk of the raise was in the tape. Read-through positive for the AI-PC and AI-hardware retail thesis.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bby-q2-fy27-earnings-aug-27-2026](https://stock-tldr.xyz/releases/bby-q2-fy27-earnings-aug-27-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "mrvl-q2-fy27-earnings-aug-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Marvell (MRVL) Q2 FY27 — record revenue $2.739B (+37% Y/Y), non-GAAP EPS $0.94, Data Center revenue $2.17B (+46% Y/Y, 79% of mix); Q3 rev guide $3.15B ±5% and non-GAAP EPS $1.10 ±$0.05 top Street; MRVL -~2% AH to ~$236",
+      "org": "Marvell Technology",
+      "date": "2026-08-27",
+      "url": "https://investor.marvell.com/news-releases/news-release-details/marvell-technology-reports-second-quarter-fiscal-year-2027",
+      "summary": "Marvell Q2 FY27 rev $2.739B (+37%), non-GAAP EPS $0.94, Data Center +46% to $2.17B (79% mix); Q3 rev guide $3.15B ±5% / EPS $1.10 tops Street; MRVL -~2% AH to ~$236.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "ai-data-center",
+        "custom-silicon",
+        "networking",
+        "semis",
+        "guidance-raise",
+        "q2-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MRVL",
+        "NVDA",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$2.739B (+37% Y/Y, +$39M above mid-point of own guide)",
+        "Non-GAAP EPS": "$0.94",
+        "GAAP EPS": "$0.33",
+        "GAAP net income": "$308.0M",
+        "Non-GAAP net income": "$865.9M",
+        "Data Center revenue": "$2.17B (+46% Y/Y, 79% of mix vs 74% y/y)",
+        "Q3 rev guide": "$3.15B ±5% (est $3.03B)",
+        "Q3 non-GAAP EPS guide": "$1.10 ±$0.05 (est $1.07)",
+        "Move": "-~2% AH to ~$236"
+      },
+      "links": [
+        {
+          "label": "Press Release (Marvell IR)",
+          "url": "https://investor.marvell.com/news-releases/news-release-details/marvell-technology-reports-second-quarter-fiscal-year-2027"
+        },
+        {
+          "label": "Yahoo Finance – Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-q2-fy2027-earnings-record-202719586.html"
+        },
+        {
+          "label": "247 Wall St – Data Center Detail",
+          "url": "https://247wallst.com/cards/data-center-growth-is-accelerating-murphy-s-segment-is-now-mrvl-quote-01m12dq8datg9b9jbjs5zymdcw"
+        },
+        {
+          "label": "Yahoo Finance – MRVL",
+          "url": "https://finance.yahoo.com/quote/MRVL/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Marvell's data-center segment now 79% of revenue as custom-silicon and 800G optics deliver a record quarter.",
+        "whatIsIt": "Marvell Technology reported Q2 fiscal 2027 (quarter ended August 1) after Thursday's close. Net revenue set a company record at $2.739B (+37% Y/Y), $39M above the mid-point of Marvell's own guide. GAAP net income was $308.0M ($0.33/sh) and non-GAAP was $865.9M ($0.94/sh).",
+        "howItWorks": "Data Center revenue rose 46% Y/Y to $2.17B and now represents 79% of total revenue, up from 74% a year ago — driven by custom AI silicon programs for hyperscaler ASIC customers and 800G optical DSPs. Marvell guided Q3 to $3.15B revenue ±5% (Street $3.03B) and non-GAAP EPS $1.10 ±$0.05 (Street $1.07), the second consecutive quarter of raised outlook.",
+        "whyItMatters": "Marvell is now the clearest listed proxy for hyperscaler custom-silicon spend outside Broadcom, and the Q3 guide implies +15%+ Q/Q data-center growth into holiday season. Even so MRVL fell ~2% AH to ~$236 as the stock was already up ~187% YTD into the print and investors focused on gross-margin guidance rather than the top-line raise.",
+        "forWho": "AI-semis, custom-silicon and networking (SOX / SMH) allocators.",
+        "tryIt": "https://finance.yahoo.com/quote/MRVL/"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_87851a5f9e6c66e45b32635dc38b9874/marvell/db/3727/33626/social_image_resized.jpg",
+        "alt": "Marvell Technology logo social share image.",
+        "fit": "contain",
+        "credit": "Marvell Technology"
+      },
+      "reddit": {
+        "title": "Marvell (MRVL) prints record $2.74B revenue (+37% Y/Y), Data Center now 79% of mix; Q3 guide $3.15B tops Street — stock -2% AH after 187% YTD run",
+        "body": "Marvell delivered a clean AI-custom-silicon beat but the stock had already gone parabolic into the print.\n\n* Revenue $2.739B (+37% Y/Y), $39M above own guide midpoint\n* Non-GAAP EPS $0.94; GAAP EPS $0.33\n* Data Center revenue $2.17B (+46% Y/Y) — now 79% of total, up from 74%\n* GAAP net income $308.0M; non-GAAP $865.9M\n\nQ3 guide (second consecutive raise):\n\n1. **Revenue $3.15B ±5%** vs $3.03B Street — implies ~+15% Q/Q.\n2. **Non-GAAP EPS $1.10 ±$0.05** vs $1.07 Street.\n3. **Custom silicon ramp** — hyperscaler ASIC programs and 800G optical DSPs driving the mix shift.\n\nMRVL -~2% AH to ~$236. Not a broken quarter — a positioning quarter. Stock was +187% YTD into the print; investors are now focused on gross-margin guidance versus the top-line raise. Read-through positive for AVGO custom-silicon TAM.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrvl-q2-fy27-earnings-aug-27-2026](https://stock-tldr.xyz/releases/mrvl-q2-fy27-earnings-aug-27-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "adsk-q2-fy27-earnings-aug-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Autodesk (ADSK) Q2 FY27 — revenue $2.05B (+16% Y/Y), non-GAAP EPS $3.30 tops $3.12 est; billings $1.85B (+10%); AECO +17% Y/Y to $1.03B; FY27 revenue guide raised to $8.30–$8.35B; ADSK -~5% AH after closing +6.23% at $270.65 into the print",
+      "org": "Autodesk",
+      "date": "2026-08-27",
+      "url": "https://adsknews.autodesk.com/en/pressrelease/autodesk-inc-announces-fiscal-2027-second-quarter-results/",
+      "summary": "Autodesk Q2 FY27 rev $2.05B (+16%), non-GAAP EPS $3.30 vs $3.12 est; AECO +17% to $1.03B; FY27 revenue guide raised to $8.30–$8.35B; ADSK -~5% AH after +6.23% regular-session close.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "eps-beat",
+        "guidance-raise",
+        "billings",
+        "aeco",
+        "cad",
+        "saas",
+        "q2-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ADSK"
+      ],
+      "metrics": {
+        "Revenue": "$2.046B (+16% Y/Y, +14% cc)",
+        "Billings": "$1.854B (+10% Y/Y)",
+        "Non-GAAP EPS": "$3.30 vs $3.12 est",
+        "GAAP EPS": "$2.33 vs $1.46 y/y",
+        "AECO revenue": "$1.029B (+17% Y/Y)",
+        "AutoCAD/AutoCAD LT": "$500M (+14% Y/Y)",
+        "Manufacturing": "$385M (+15% Y/Y)",
+        "FY27 revenue guide": "$8.295–$8.345B (from $8.16–$8.22B)",
+        "FY27 non-GAAP EPS guide": "$12.52–$12.60",
+        "FY27 FCF guide": "$2.725–$2.750B",
+        "Close (regular session)": "+6.23% to $270.65",
+        "AH move": "-~5%"
+      },
+      "links": [
+        {
+          "label": "Press Release (Autodesk News)",
+          "url": "https://adsknews.autodesk.com/en/pressrelease/autodesk-inc-announces-fiscal-2027-second-quarter-results/"
+        },
+        {
+          "label": "Yahoo Finance – Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/august-27-could-very-good-120039604.html"
+        },
+        {
+          "label": "Yahoo Finance – ADSK",
+          "url": "https://finance.yahoo.com/quote/ADSK/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Autodesk beats and raises but AH sellers focus on the modest billings growth and MaintainX integration cost.",
+        "whatIsIt": "Autodesk reported Q2 fiscal 2027 (quarter ended July 31) after Thursday's close. Revenue rose 16% Y/Y to $2.046B (+14% cc), billings grew 10% to $1.854B, and non-GAAP EPS of $3.30 topped the $3.12 consensus. GAAP EPS of $2.33 compared to $1.46 a year ago.",
+        "howItWorks": "AECO (Architecture, Engineering, Construction, Operations) — Autodesk's largest product family — grew 17% Y/Y to $1.029B on Construction Cloud momentum. AutoCAD/AutoCAD LT was $500M (+14%), Manufacturing $385M (+15%), Media & Entertainment $92M (+15%). Management raised FY27 revenue guidance to $8.295–$8.345B (from $8.16–$8.22B), with non-GAAP EPS $12.52–$12.60 and free cash flow $2.725–$2.750B, folding in the MaintainX acquisition contribution.",
+        "whyItMatters": "The AECO segment continues to compound at high teens, and the FY guide raise validates the transition-driven billings/subscription model. But the stock had closed regular session +6.23% at $270.65 on positive pre-earnings positioning, and slipped ~5% after-hours as investors weighed AI/AECO integration costs and comparatively modest billings growth. Read-through mixed for design-software peers (PTC, Bentley, Cadence).",
+        "forWho": "Design-software SaaS, construction-tech and AEC vertical readers.",
+        "tryIt": "https://finance.yahoo.com/quote/ADSK/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS980141/Autodesk-Black-Logo.jpg?id=OA2911338",
+        "alt": "Autodesk corporate logo.",
+        "fit": "contain",
+        "credit": "Autodesk / PR Newswire"
+      },
+      "reddit": {
+        "title": "Autodesk (ADSK) Q2 beat-and-raise — rev $2.05B (+16%), non-GAAP EPS $3.30 vs $3.12 est, FY27 rev guide raised to $8.30–$8.35B; stock -5% AH after +6.23% regular-session close",
+        "body": "Autodesk delivered on both revenue and EPS and raised the year. Positioning-heavy tape sold it after-hours.\n\n* Revenue $2.046B (+16% Y/Y, +14% cc)\n* Billings $1.854B (+10% Y/Y)\n* Non-GAAP EPS $3.30 vs $3.12 est; GAAP EPS $2.33 vs $1.46 y/y\n* AECO $1.029B (+17% Y/Y) — largest segment\n* AutoCAD/AutoCAD LT $500M (+14%); Manufacturing $385M (+15%); Media & Ent $92M (+15%)\n\nFY27 guide (raised across the board):\n\n1. **Revenue $8.295–$8.345B** (from $8.16–$8.22B) — folds in the MaintainX acquisition.\n2. **Non-GAAP EPS $12.52–$12.60**; FCF $2.725–$2.750B.\n3. **GAAP op margin 25–27%**.\n\nADSK closed regular session +6.23% at $270.65 on pre-earnings positioning, then slipped ~5% AH as focus turned to billings growth (only +10%) and MaintainX integration cost. Read-through mixed for design-software (PTC, Bentley, Cadence).\n\nFull breakdown: [https://stock-tldr.xyz/releases/adsk-q2-fy27-earnings-aug-27-2026](https://stock-tldr.xyz/releases/adsk-q2-fy27-earnings-aug-27-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
+    {
+      "id": "mrna-2b-convertible-notes-aug-27-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Moderna (MRNA) -5.69% to $143.48 on Thursday Aug 27 — announces proposed $2.0B private placement of Convertible Senior Notes due 2032 (plus $300M initial-purchaser option), 8 days after 176% rally on melanoma trial win; proceeds for oncology and debt repayment; capped-call transactions to limit dilution",
+      "org": "Moderna",
+      "date": "2026-08-27",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/moderna-announces-proposed-private-placement-of-2.0-billion-of-conver-1213089",
+      "summary": "Moderna proposes $2.0B private placement of Convertible Senior Notes due 2032 (plus $300M option); proceeds for oncology growth + debt; capped-call to limit dilution; MRNA -5.69% to $143.48.",
+      "tags": [
+        "convertible-notes",
+        "financing",
+        "dilution",
+        "biotech",
+        "oncology",
+        "mrna-cancer-vaccine",
+        "capped-call",
+        "144a"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MRNA"
+      ],
+      "metrics": {
+        "Offering size": "$2.0B (plus $300M initial-purchaser option)",
+        "Structure": "Convertible Senior Notes due 2032, Rule 144A (QIBs)",
+        "Coupon": "No regular interest, principal does not accrete",
+        "Use of proceeds": "General corporate purposes incl oncology investment + debt repayment",
+        "Dilution hedge": "Capped-call transactions",
+        "Move": "-5.69% to $143.48"
+      },
+      "links": [
+        {
+          "label": "Press Release (Access Newswire)",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/moderna-announces-proposed-private-placement-of-2.0-billion-of-conver-1213089"
+        },
+        {
+          "label": "Yahoo Finance – Coverage",
+          "url": "https://finance.yahoo.com/healthcare/articles/moderna-raises-2-billion-convertible-122001532.html"
+        },
+        {
+          "label": "Retail-Bull-Trap Take",
+          "url": "https://finance.yahoo.com/healthcare/articles/moderna-2b-convertible-note-deal-132602700.html"
+        },
+        {
+          "label": "Yahoo Finance – MRNA",
+          "url": "https://finance.yahoo.com/quote/MRNA/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Moderna monetizes its melanoma-driven rally with a zero-coupon $2B convertible — market reads it as dilution risk.",
+        "whatIsIt": "Moderna announced a proposed $2.0 billion private placement of Convertible Senior Notes due 2032, offered under Rule 144A to qualified institutional buyers, with an option for initial purchasers to buy up to an additional $300 million. Proceeds are earmarked for general corporate purposes, with an explicit call-out to oncology-business growth and debt repayment.",
+        "howItWorks": "The notes will not bear regular interest and the principal will not accrete. On conversion, Moderna can settle in cash, stock, or a combination at its election. To limit dilution, Moderna intends to enter into privately negotiated capped-call transactions with financial institutions covering the shares that initially underlie the notes. The offering comes 8 days after MRNA's 176.97% single-day surge on August 19 following the Phase 3 INTerpath-001 melanoma-vaccine readout with Merck's KEYTRUDA.",
+        "whyItMatters": "The market's read: management is monetizing a windfall stock price to lock in dilution-hedged capital before the rally fades. MRNA closed -5.69% at $143.48 as retail focused on dilution while long-only holders welcomed the balance-sheet flexibility for oncology R&D. Convertible pricing (conversion premium and initial cap price) will set the marginal cost of Moderna's oncology capex over the next 3–5 years.",
+        "forWho": "Biotech/large-cap-vaccine holders and convertible-arb desks.",
+        "tryIt": "https://finance.yahoo.com/quote/MRNA/"
+      },
+      "image": {
+        "url": "https://ts2.tech/wp-content/uploads/2026/08/moderna-shares-drop-5-0-wiping-out-3-0-billion-as-2-billion-convertible-notes-offering-challenges-cancer-vaccine-surge.jpg",
+        "alt": "Moderna signage overlaid with a downward-trending stock chart.",
+        "fit": "cover",
+        "credit": "ts2.tech"
+      },
+      "reddit": {
+        "title": "Moderna (MRNA) -5.7% to $143.48 — proposes $2.0B convertible senior notes due 2032 (plus $300M option), 8 days after the 177% melanoma-vaccine surge",
+        "body": "Moderna is capitalizing on last week's cancer-vaccine rally with a big zero-coupon converts deal. Market read it as dilution.\n\n* Offering: $2.0B of Convertible Senior Notes due 2032, private placement to QIBs (Rule 144A)\n* Initial-purchaser option: up to another $300M\n* Zero coupon — no regular interest, principal doesn't accrete\n* Settlement: cash, stock, or combination at Moderna's election\n* Capped-call transactions to limit dilution on the underlying shares\n* Proceeds: general corporate purposes incl oncology investment + debt repayment\n\nThe context that matters:\n\n1. **Aug 19 rally** — MRNA popped 176.97% on Phase 3 INTerpath-001 melanoma-vaccine data with Merck's KEYTRUDA. Adds ~$44.5B in market cap in a single session.\n2. **Timing** — Management issued the converts 8 days later, locking in dilution-hedged capital before the rally reverts.\n3. **Retail vs long-only** — Retail focused on dilution; long-only holders like the balance-sheet flexibility for oncology R&D.\n\nMRNA closed -5.69% at $143.48. Convertible pricing (conversion premium and cap price, to be set at deal launch) will determine the marginal cost of Moderna's oncology capex.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrna-2b-convertible-notes-aug-27-2026](https://stock-tldr.xyz/releases/mrna-2b-convertible-notes-aug-27-2026)"
+      },
+      "publishDate": "2026-08-27T21:35:30.550Z"
+    },
     {
       "id": "nvda-q2-fy27-earnings-aug-26-2026",
       "categories": [
