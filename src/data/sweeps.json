@@ -10590,6 +10590,56 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260828t073653z",
+      "timestamp": "2026-08-28T07:36:53.831Z",
+      "source": "github-actions-sweep",
+      "summary": "Five items covering Thursday Aug 27 after-close earnings (WDAY, GAP, RBRK, ULTA) and the Wednesday Aug 26 July PCE macro print — dominant tape from the last 24 hours.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wday-q2-fy27-earnings-aug-27-2026",
+          "title": "Workday (WDAY) Q2 FY27 — revenue $2.649B (+12.8% Y/Y), subscription $2.471B (+13.9%), non-GAAP EPS $2.75 tops $2.61 est; FY27 subscription guide raised to $9.94–$9.95B (13%) but Q3 subscription guide of $2.515B disappoints; WDAY -7.02% AH to $179.99 on Thu Aug 27",
+          "category": "earnings",
+          "note": "Beat + raise but Q3 subscription guide miss drove -7% AH — clear catalyst mover on a mega-cap SaaS."
+        },
+        {
+          "id": "gap-q2-fy26-earnings-aug-27-2026",
+          "title": "Gap Inc (GAP) Q2 FY26 — net sales $3.7B (-2% Y/Y), comps -1% but Gap brand +10% (11th straight quarter of growth); adjusted EPS $0.52 tops $0.42 est; FY26 adj EPS guide raised to $2.35–$2.45; GAP +~14% AH to $23.82 on Thursday Aug 27",
+          "category": "earnings",
+          "note": "+14% AH on Gap-brand strength, Old Navy weakness, and FY guidance raise — biggest retail single-name AH move."
+        },
+        {
+          "id": "rbrk-q2-fy27-earnings-aug-27-2026",
+          "title": "Rubrik (RBRK) Q2 FY27 — revenue $427.3M (+38% Y/Y) tops $396M est, subscription ARR $1.66B (+33% Y/Y); non-GAAP EPS $0.20 vs $0.04 est; FY27 revenue guide raised to $1.685–$1.693B; RBRK +11.44% to $107.13 intraday then -6.85% AH to $99.69",
+          "category": "earnings",
+          "note": "Cybersecurity beat + raise across all metrics on 38% revenue growth and 33% ARR growth; volatile AH."
+        },
+        {
+          "id": "ulta-q2-fy26-earnings-aug-27-2026",
+          "title": "Ulta Beauty (ULTA) Q2 FY26 — net sales $3.04B (+8.9% Y/Y), comps +3.8%, diluted EPS $6.55 (+13.3%) tops $6.17 est; FY26 diluted EPS guide raised to $28.70–$29.00; FY26 buyback bumped to $1.8B from $1.5B; ULTA -3.4% AH on Thu Aug 27",
+          "category": "earnings",
+          "note": "Beat, guidance raise, and $300M buyback plan bump — a clean beat with a soft AH tape."
+        },
+        {
+          "id": "us-pce-july-2026-aug-26",
+          "title": "US July 2026 PCE — headline +3.7% Y/Y (0.1pt above est, unchanged from June), core PCE +3.3% Y/Y in line; +0.2% M/M on both; personal income +0.4% M/M, spending +0.2% M/M; Fed's preferred inflation gauge stays sticky above target",
+          "category": "macro",
+          "note": "Fed's preferred inflation gauge above consensus on headline, in line on core — keeps Sept FOMC data-dependent."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
