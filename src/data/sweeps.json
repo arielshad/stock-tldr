@@ -10640,6 +10640,34 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260828t213848z",
+      "timestamp": "2026-08-28T21:38:48.829Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Fed Chair Warsh's first Jackson Hole speech ('In Our Time') on Fri Aug 28 leaned hawkish on inflation, formally distanced the Fed from forward guidance, and jolted 2Y yields ~8bp higher to 4.31%. Also scanned Friday earnings (thin — Dell reports Sep 1), Marvell -6% Friday reaction (semantic dedup with existing MRVL Q2 FY27 entry), and BTC ($80K±) with no fresh catalyst beyond the Warsh speech.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "warsh-jackson-hole-in-our-time-aug-28-2026",
+          "title": "Fed Chair Warsh delivers first Jackson Hole speech 'In Our Time' on Friday Aug 28 — inflation running above 2% target, summer readings 'do not tell me that underlying trends have meaningfully improved'; signals shift away from forward guidance; 2Y yield +~8bp to 4.31% highest since late July, S&P -0.25% to 7,711.76 (still +0.5% on week)",
+          "category": "macro",
+          "note": "First Jackson Hole speech as Fed Chair — hawkish inflation stance, formal push away from forward guidance, 2Y +8bp, and the wall-of-coverage on the day meets the bar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-08-28T07:36:53.831Z",
+  "generatedAt": "2026-08-28T21:38:48.829Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "warsh-jackson-hole-in-our-time-aug-28-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "Fed Chair Warsh delivers first Jackson Hole speech 'In Our Time' on Friday Aug 28 — inflation running above 2% target, summer readings 'do not tell me that underlying trends have meaningfully improved'; signals shift away from forward guidance; 2Y yield +~8bp to 4.31% highest since late July, S&P -0.25% to 7,711.76 (still +0.5% on week)",
+      "org": "Federal Reserve",
+      "date": "2026-08-28",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+      "summary": "Warsh's first Jackson Hole speech (his 100th day as Chair) leaned hawkish on inflation and formally distanced the Fed from forward guidance; 2Y yields jumped ~8bp; equities gave back some gains but held on the week.",
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB"
+      ],
+      "metrics": {
+        "Speech title": "In Our Time",
+        "Setting": "Jackson Hole Economic Policy Symposium, Kansas City Fed",
+        "Fed funds range (unchanged since July)": "3.50–3.75%",
+        "2Y Treasury": "+~8bp to 4.31% (highest since late July)",
+        "S&P 500 close": "7,711.76 (-0.25%)",
+        "Nasdaq close": "26,402.42 (-0.52%)",
+        "Dow close": "53,559.99 (-0.02%)",
+        "S&P 500 weekly": "+~0.5%"
+      },
+      "tags": [
+        "fed",
+        "warsh",
+        "jackson-hole",
+        "in-our-time",
+        "hawkish",
+        "inflation",
+        "forward-guidance",
+        "rate-path",
+        "central-bank"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Warsh's Jackson Hole debut leans hawkish — inflation still 'above our 2 percent target', forward guidance 'has overstayed its welcome', and the 2Y yield jumps ~8bp to 4.31%.",
+        "whatIsIt": "Federal Reserve Chair Kevin Warsh delivered his first Jackson Hole keynote — titled 'In Our Time' — on Friday Aug 28 at the Kansas City Fed's annual economic policy symposium. It marks his 100th day at the helm, three months after replacing Jerome Powell in late May.",
+        "howItWorks": "Warsh said: 'Inflation is running above our 2 percent target. So the Fed's predominant focus right now should be on prices.' He noted that while this summer's readings were 'better than expected,' they 'do not tell me that underlying trends have meaningfully improved.' Separately, he framed forward guidance as a practice that 'has overstayed its welcome' in normal times and said monetary policy should rely on 'real information across the economy' rather than predetermined commitments — echoing the July FOMC's language of awaiting new information. Fed funds range is unchanged at 3.50–3.75% since the 9-3 July hold; three dissenters wanted a hike.",
+        "whyItMatters": "Bond markets read it as hawkish and priced in more probability of a rate hike: the policy-sensitive 2Y note jumped ~8bp to 4.31%, the highest yield since late July. Equities gave back some of the Nvidia/Salesforce-driven weekly gains — S&P 500 -0.25% to 7,711.76, Nasdaq -0.52%, Dow flat — but all three indices still closed higher on the week. Warsh's push to end formal forward guidance reinforces the shift already underway since Powell's exit toward a pre-2008-style Fed that gives markets fewer certain signals.",
+        "forWho": "macro traders, front-end rates desks, FX",
+        "tryIt": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Official_portrait_of_Kevin_M._Warsh_%28cropped%292.jpg/960px-Official_portrait_of_Kevin_M._Warsh_%28cropped%292.jpg",
+        "alt": "Kevin Warsh official portrait — Federal Reserve Chair delivers first Jackson Hole speech Aug 28 2026",
+        "fit": "cover",
+        "credit": "U.S. Federal Reserve / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Fed Speech Text",
+          "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
+        },
+        {
+          "label": "Forbes Recap",
+          "url": "https://www.forbes.com/sites/tylerroush/2026/08/28/fed-chair-kevin-warsh-says-inflation-still-too-high-in-first-jackson-hole-speech/"
+        },
+        {
+          "label": "KC Fed 2026 Symposium",
+          "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/2026/"
+        },
+        {
+          "label": "10Y Treasury Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "Fed Chair Warsh's first Jackson Hole speech 'In Our Time' — inflation 'above our 2 percent target', ditching forward guidance; 2Y yield +8bp to 4.31%, bond markets price in a hike",
+        "body": "Kevin Warsh delivered his first Jackson Hole speech Friday Aug 28 (his 100th day as Fed Chair). Title: 'In Our Time'. Bond markets read it as hawkish.\n\n* Key line: 'Inflation is running above our 2 percent target. So the Fed's predominant focus right now should be on prices.'\n* On summer's better-than-expected inflation prints: they 'do not tell me that underlying trends have meaningfully improved'\n* Forward guidance 'has overstayed its welcome' in normal times — Warsh formally distancing the Fed from the practice\n* 2Y Treasury +~8bp to 4.31%, highest since late July\n* S&P 500 -0.25% to 7,711.76; Nasdaq -0.52% to 26,402.42; Dow -0.02% to 53,559.99\n* All three indices still closed higher on the week thanks to Nvidia + Salesforce earnings\n* Fed funds range unchanged at 3.50–3.75% since the 9-3 July hold (Hammack/Kashkari/Logan wanted +25bp)\n\nThree threads to pull:\n\n1. **Hawkish frame confirmed** — Warsh's Sintra (July 1), House testimony (July 14) and now Jackson Hole all lean the same direction on inflation.\n2. **Forward guidance is out** — 'we should not indulge a regime in which market participants are looking primarily to the Fed for their next trade'. Warsh wants markets less anchored to Fed signals.\n3. **September in play** — with three dissenters already wanting +25bp and Warsh saying underlying trends haven't meaningfully improved, front-end rates are pricing a hike path.\n\nNext catalysts: August jobs report (Sep 5), August CPI (mid-Sep), September FOMC decision (Sep 16–17).\n\nFull breakdown: [https://stock-tldr.xyz/releases/warsh-jackson-hole-in-our-time-aug-28-2026](https://stock-tldr.xyz/releases/warsh-jackson-hole-in-our-time-aug-28-2026)"
+      },
+      "publishDate": "2026-08-28T21:38:48.829Z"
+    },
     {
       "id": "wday-q2-fy27-earnings-aug-27-2026",
       "categories": [
