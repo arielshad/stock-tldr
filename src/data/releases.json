@@ -1,8 +1,159 @@
 {
-  "generatedAt": "2026-08-28T21:38:48.829Z",
+  "generatedAt": "2026-08-29T04:43:13.802Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "pypl-advent-stripe-deal-collapse-aug-28-2026",
+      "categories": [
+        "mover",
+        "mna"
+      ],
+      "title": "PayPal (PYPL) -12.71% to $53.66 on Friday Aug 28 — Advent + Stripe consortium abandons $53B leveraged buyout pursuit after $60.50/share bid deemed inadequate by board; PYPL had rallied 40%+ during Q2 on takeover speculation, market cap had reached ~$52.6B",
+      "org": "PayPal Holdings",
+      "date": "2026-08-28",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advent-stripe-said-abandon-50-013237447.html",
+      "summary": "Advent + Stripe walk from $53B PayPal LBO after PYPL board rejected $60.50/share as inadequate; PYPL -12.71% to $53.66 Fri Aug 28 as the takeover premium unwinds — would have been one of the biggest-ever LBOs.",
+      "tags": [
+        "mna",
+        "lbo",
+        "deal-collapse",
+        "buyout-walked",
+        "private-equity",
+        "fintech",
+        "payments",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PYPL"
+      ],
+      "metrics": {
+        "Move": "-12.71% to $53.66 (Fri Aug 28 close)",
+        "Premarket low": "-16%",
+        "Withdrawn bid": "$60.50/sh (~$53B equity value)",
+        "Prior YTD range": "up 40%+ this quarter on takeover speculation",
+        "Market cap pre-news": "~$52.6B"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance – Bloomberg",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advent-stripe-said-abandon-50-013237447.html"
+        },
+        {
+          "label": "PYMNTS – Deal Detail",
+          "url": "https://www.pymnts.com/news/acquiring/2026/advent-stripe-abandon-50-billion-pursuit-of-paypal"
+        },
+        {
+          "label": "Motley Fool – Aug 28 Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/28/stock-market-today-aug-28-paypal-falls-13-after-stripe-and-advent-abandon-usd50b-takeover/"
+        },
+        {
+          "label": "Yahoo Finance – PYPL",
+          "url": "https://finance.yahoo.com/quote/PYPL/"
+        }
+      ],
+      "explainer": {
+        "tagline": "One of the biggest-ever LBOs falls apart as Advent + Stripe walk away from a $53B PayPal takeout that PYPL's board wanted priced higher.",
+        "whatIsIt": "Bloomberg reported Friday Aug 28 that the consortium of buyout firm Advent International and payment processor Stripe has abandoned its pursuit of PayPal Holdings. The group had offered more than $50 billion for the company, with a $60.50-per-share bid valuing PayPal at roughly $53 billion. Talks failed to reach an agreement on a higher price.",
+        "howItWorks": "PayPal's board rejected the initial $60.50/share bid as inadequate, and subsequent negotiations did not produce a materially higher offer. The consortium is now no longer pursuing a deal, per people familiar with the matter cited by Bloomberg. PYPL had climbed more than 40% during Q2 on takeover chatter, reaching a market value near $52.6B; on the collapse news the stock fell as much as 16% premarket and closed -12.71% to $53.66. The buyers could still return at a later date but nothing formal is on the table.",
+        "whyItMatters": "The unwind of the takeover premium is the whole story — PYPL is now trading roughly $6-7 below the withdrawn bid, and shareholders lose the option value that had built into the stock. The failed deal also removes the largest listed-fintech LBO overhang from the private-equity pipeline; Advent and Stripe walking on price is a signal about where mega-buyout valuations top out even for names with public activist campaigns and depressed multiples.",
+        "forWho": "Fintech, event-driven and merger-arb desks; private-equity LBO watchers.",
+        "tryIt": "https://finance.yahoo.com/quote/PYPL/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/ad658f393d77561a5e2a63bfbc25f80d25124ddea277294624587f6161a42620/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F1a5b769b703972c2ccd086ae508113e7.jpg",
+        "alt": "PayPal logo and headquarters signage.",
+        "fit": "cover",
+        "credit": "Bloomberg via Yahoo Finance"
+      },
+      "reddit": {
+        "title": "PayPal (PYPL) -12.7% to $53.66 as Advent + Stripe walk from $53B LBO — board rejected $60.50/share as too low, buyers didn't come back higher",
+        "body": "One of the biggest-ever leveraged buyouts fell apart Friday morning. Here's what happened:\n\n* PYPL closed -12.71% at $53.66 (Fri Aug 28) — fell as much as 16% premarket\n* Advent International + Stripe consortium is no longer pursuing PayPal, per Bloomberg\n* Original bid: $60.50/share, valuing PayPal at ~$53B (one of the largest-ever LBOs)\n* PYPL had rallied 40%+ this quarter on takeover speculation, market cap reached ~$52.6B\n* Stock now trading ~$7 below the withdrawn bid\n\nWhy the deal died:\n\n1. **Board wanted more** — PayPal's board deemed the $60.50 offer inadequate and pushed for a higher price.\n2. **Buyers wouldn't stretch** — Advent + Stripe declined to raise their bid materially and chose to exit rather than pay up.\n3. **Regulatory + financing overhang** — the deal reportedly faced regulatory review and financing hurdles that made a stretch bid harder to justify.\n\nBloomberg notes the group could return later, but nothing is on the table now.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pypl-advent-stripe-deal-collapse-aug-28-2026](https://stock-tldr.xyz/releases/pypl-advent-stripe-deal-collapse-aug-28-2026)"
+      },
+      "publishDate": "2026-08-29T04:43:13.802Z"
+    },
+    {
+      "id": "afrm-q4-fy26-earnings-aug-27-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Affirm (AFRM) Q4 FY26 — revenue $1.17B (+33% Y/Y), GMV $14.1B (+36%) both top Street; GAAP EPS $4.62 blows past $0.85 est; FY26 GMV $50.2B vs $36.7B prior year; FY27 GMV guide >$64B / adj op margin >30.5%; AFRM +~7% Fri Aug 28",
+      "org": "Affirm Holdings",
+      "date": "2026-08-27",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-q4-2026-earnings-beat-173735811.html",
+      "summary": "Affirm Q4 FY26 rev $1.17B (+33%) beats $1.11B; GMV $14.1B (+36%) beats $13.39B; GAAP EPS $4.62 vs $0.85 est; FY27 GMV guide >$64B, adj op margin >30.5%; AFRM +~7% Fri Aug 28.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "eps-beat",
+        "gmv-beat",
+        "guidance-raise",
+        "bnpl",
+        "fintech",
+        "q4-fy26",
+        "shopify-affirm-card"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AFRM"
+      ],
+      "metrics": {
+        "Revenue": "$1.17B (+33% Y/Y, est $1.11B)",
+        "GMV": "$14.1B (+36% Y/Y, est $13.39B)",
+        "GAAP EPS": "$4.62 vs $0.85 est",
+        "Adj operating income": "$353M (30% margin)",
+        "GAAP operating income": "$147M (12.6% margin, +6pt Y/Y)",
+        "FY26 GMV": "$50.2B (vs $36.7B prior year)",
+        "FY26 Revenue": "$4.26B",
+        "Active consumers": "27.8M (+21% Y/Y)",
+        "Affirm Card actives": "5.2M (+125% Y/Y)",
+        "30-day delinquency": "2.5% (from 2.7-2.8% prior quarters)",
+        "FY27 Q1 rev guide": "$1.19–$1.22B",
+        "FY27 Q1 GMV guide": "$13.7–$14.0B",
+        "FY27 GMV guide": ">$64B",
+        "FY27 adj op margin guide": ">30.5%",
+        "Move": "+~7% on Fri Aug 28 (closed $77.49 Thu, +8.3% AH)"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance – Earnings Beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-q4-2026-earnings-beat-173735811.html"
+        },
+        {
+          "label": "Benzinga – Needham PT $100",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/08/61502138/inside-affirms-stock-rally-strong-credit-performance-and-shopify-expansion-drive-big-gains"
+        },
+        {
+          "label": "MarketBeat – Earnings Gap Up",
+          "url": "https://www.marketbeat.com/instant-alerts/price-affirm-nasdaq-afrm-shares-gap-up-on-better-than-expected-earnings-2026-08-28/"
+        },
+        {
+          "label": "Yahoo Finance – AFRM",
+          "url": "https://finance.yahoo.com/quote/AFRM/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Affirm's fiscal Q4 delivered record profitability, a big GMV beat, and FY27 guide implying GMV crosses $64B — sending shares +~7% Friday.",
+        "whatIsIt": "Affirm reported Q4 FY26 (quarter ended June 30) after Thursday Aug 27 close. Revenue jumped 33% Y/Y to $1.17B and Gross Merchandise Volume grew 36% to $14.1B, both above consensus. GAAP EPS printed $4.62, crushing the $0.85 analysts expected, boosted by adjusted operating income of $353M (30% margin) and GAAP operating income of $147M (12.6% margin, +6 percentage points Y/Y).",
+        "howItWorks": "Full-year FY26 GMV came in at $50.2B (from $36.7B) and revenue $4.26B. Active consumers grew 21% Y/Y to 27.8M, and Affirm Card actives more than doubled to 5.2M (+125%). Credit performance improved: the 30-day delinquency rate fell to 2.5% from 2.7–2.8% in prior quarters. Guidance for FY27 Q1 is revenue $1.19–$1.22B and GMV $13.7–$14.0B; for the full year, GMV above $64B and adjusted operating margin above 30.5%. Needham lifted its price forecast to $100 from $90. AFRM closed the regular session Thursday at $77.49 and gapped up ~8.3% after-hours, settling +~7% on Friday.",
+        "whyItMatters": "Affirm's beat + FY27 guide validate the buy-now-pay-later thesis at scale: GMV growth is holding above 30% Y/Y at $50B run-rate while margins expand into positive GAAP profitability. The Affirm Card doubling and Shopify integration ramp are the durable drivers. Read-through is negative for PayPal Pay-in-4 and Klarna comparables where credit is deteriorating; positive for Shopify (partner) and select consumer-fintech names.",
+        "forWho": "Fintech, consumer-credit and payments desks.",
+        "tryIt": "https://finance.yahoo.com/quote/AFRM/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/0aaa9226e95fa1c5815c486087c61fb006b8a2c4249e5ee31a3862801040a15c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fe7d97912298a4d830adbdeb457e593ad.jpg",
+        "alt": "Affirm Holdings logo and app on smartphone.",
+        "fit": "cover",
+        "credit": "Quartz via Yahoo Finance"
+      },
+      "reddit": {
+        "title": "Affirm (AFRM) prints its most profitable quarter ever: Q4 rev $1.17B (+33%), GMV $14.1B (+36%), GAAP EPS $4.62 vs $0.85 est — FY27 GMV guide >$64B sends shares +~7% Friday",
+        "body": "Affirm dropped an unambiguous beat Thursday after close and it re-rated Friday.\n\n* Revenue $1.17B (+33% Y/Y) beats $1.11B est\n* GMV $14.1B (+36% Y/Y) beats $13.39B est\n* GAAP EPS $4.62 vs $0.85 est\n* Adjusted operating income $353M (30% margin); GAAP OI $147M (12.6% margin, +6pt Y/Y)\n* FY26 GMV $50.2B (from $36.7B); FY26 revenue $4.26B\n* Active consumers 27.8M (+21%); Affirm Card actives 5.2M (+125%)\n* 30-day delinquency 2.5% (improved from 2.7–2.8%)\n\nFY27 outlook was the real kicker:\n\n1. **Q1 rev $1.19–$1.22B, GMV $13.7–$14.0B** — implies growth barely decelerates.\n2. **Full-year GMV above $64B** — up from FY26's $50.2B.\n3. **Adj operating margin above 30.5%** — Affirm is now guiding for structural profitability, not just \"path to.\"\n\nNeedham raised its PT to $100 from $90. AFRM closed +~7% on Friday after gapping up 8.3% AH Thursday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/afrm-q4-fy26-earnings-aug-27-2026](https://stock-tldr.xyz/releases/afrm-q4-fy26-earnings-aug-27-2026)"
+      },
+      "publishDate": "2026-08-29T04:43:13.802Z"
+    },
     {
       "id": "warsh-jackson-hole-in-our-time-aug-28-2026",
       "categories": [
@@ -824,11 +975,11 @@
         "earnings",
         "mover"
       ],
-      "title": "Marvell (MRVL) Q2 FY27 — record revenue $2.739B (+37% Y/Y), non-GAAP EPS $0.94, Data Center revenue $2.17B (+46% Y/Y, 79% of mix); Q3 rev guide $3.15B ±5% and non-GAAP EPS $1.10 ±$0.05 top Street; MRVL -~2% AH to ~$236",
+      "title": "Marvell (MRVL) Q2 FY27 — record revenue $2.739B (+37% Y/Y), non-GAAP EPS $0.94, Data Center revenue $2.17B (+46% Y/Y, 79% of mix); Q3 rev guide $3.15B ±5% and non-GAAP EPS $1.10 ±$0.05 top Street; but MRVL -10.28% to $216.62 on Fri Aug 28 as thin FY28 outlook + Google-warrant timing disappoint the ~187% YTD run",
       "org": "Marvell Technology",
       "date": "2026-08-27",
       "url": "https://investor.marvell.com/news-releases/news-release-details/marvell-technology-reports-second-quarter-fiscal-year-2027",
-      "summary": "Marvell Q2 FY27 rev $2.739B (+37%), non-GAAP EPS $0.94, Data Center +46% to $2.17B (79% mix); Q3 rev guide $3.15B ±5% / EPS $1.10 tops Street; MRVL -~2% AH to ~$236.",
+      "summary": "Marvell Q2 FY27 rev $2.739B (+37%), non-GAAP EPS $0.94, Data Center +46% to $2.17B (79% mix); Q3 rev guide $3.15B ±5% / EPS $1.10 tops Street. But MRVL -10.28% to $216.62 Fri Aug 28 on soft FY28 outlook and Google-warrant timing.",
       "tags": [
         "earnings",
         "revenue-beat",
@@ -854,7 +1005,10 @@
         "Data Center revenue": "$2.17B (+46% Y/Y, 79% of mix vs 74% y/y)",
         "Q3 rev guide": "$3.15B ±5% (est $3.03B)",
         "Q3 non-GAAP EPS guide": "$1.10 ±$0.05 (est $1.07)",
-        "Move": "-~2% AH to ~$236"
+        "FY27 rev outlook": "~$12B",
+        "FY28 rev outlook (indicated)": "~$18B (limited detail)",
+        "Fwd P/E": "~53x",
+        "Move": "-10.28% to $216.62 (Fri Aug 28 close, worst day since 2024)"
       },
       "links": [
         {

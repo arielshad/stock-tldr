@@ -10668,6 +10668,48 @@
         "mover",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260829t044313z",
+      "timestamp": "2026-08-29T04:43:13.802Z",
+      "source": "github-actions-sweep",
+      "summary": "Post-close Aug 28 sweep: adds the Advent+Stripe/PayPal $53B LBO collapse (PYPL -12.71% Fri) and Affirm's Q4 FY26 beat (rev $1.17B +33%, FY27 GMV guide >$64B, AFRM +~7% Fri); updates the Marvell earnings entry to reflect the actual -10.28% Friday close on soft FY28 guide.",
+      "counts": {
+        "added": 2,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "pypl-advent-stripe-deal-collapse-aug-28-2026",
+          "title": "PayPal (PYPL) -12.71% to $53.66 on Friday Aug 28 — Advent + Stripe consortium abandons $53B leveraged buyout pursuit after $60.50/share bid deemed inadequate by board; PYPL had rallied 40%+ during Q2 on takeover speculation, market cap had reached ~$52.6B",
+          "category": "mover",
+          "note": "Bloomberg-broken scoop that Advent + Stripe abandoned the $53B PayPal LBO; PYPL -12.71% to $53.66 on wall-of-coverage day."
+        },
+        {
+          "id": "afrm-q4-fy26-earnings-aug-27-2026",
+          "title": "Affirm (AFRM) Q4 FY26 — revenue $1.17B (+33% Y/Y), GMV $14.1B (+36%) both top Street; GAAP EPS $4.62 blows past $0.85 est; FY26 GMV $50.2B vs $36.7B prior year; FY27 GMV guide >$64B / adj op margin >30.5%; AFRM +~7% Fri Aug 28",
+          "category": "earnings",
+          "note": "Q4 FY26 print beat all major lines with FY27 GMV guide >$64B; AFRM +~7% Fri; Needham PT to $100."
+        }
+      ],
+      "updated": [
+        {
+          "id": "mrvl-q2-fy27-earnings-aug-27-2026",
+          "title": "Marvell (MRVL) Q2 FY27 — record revenue $2.739B (+37% Y/Y), non-GAAP EPS $0.94, Data Center revenue $2.17B (+46% Y/Y, 79% of mix); Q3 rev guide $3.15B ±5% and non-GAAP EPS $1.10 ±$0.05 top Street; but MRVL -10.28% to $216.62 on Fri Aug 28 as thin FY28 outlook + Google-warrant timing disappoint the ~187% YTD run",
+          "note": "Reality-check the AH pop — MRVL closed -10.28% at $216.62 on Fri Aug 28 as soft FY28 guide + limited Google-deal timing detail overshadowed the Q3 raise. Title and metrics updated to reflect the actual market close and FY28 outlook."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "rates",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
