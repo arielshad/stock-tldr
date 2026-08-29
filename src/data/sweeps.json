@@ -10710,6 +10710,43 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260829t155728z",
+      "timestamp": "2026-08-29T15:57:28.265Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds from Friday Aug 28's tape: NVDA -4.57% on WSJ scoop that Nvidia paused its $36B AI Compute Partnership revenue-sharing program over antitrust concerns; AMZN +3.97% after Evercore's Mark Mahaney raised his PT to $355 citing survey evidence that agentic Alexa AI drives incremental retail buys.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-ai-compute-partnership-pause-aug-28-2026",
+          "title": "NVIDIA (NVDA) -4.57% to $217.55 on Friday Aug 28 — pauses $36B AI Compute Partnership revenue-sharing program launched in July after employees flag antitrust exposure and cloud providers push back on customer-approval clause",
+          "category": "mover",
+          "note": "WSJ scoop, $36B program pause, -4.57% move — distinct catalyst from Aug 26 earnings."
+        },
+        {
+          "id": "amzn-evercore-pt-hike-alexa-agentic-ai-aug-28-2026",
+          "title": "Amazon (AMZN) +3.97% to $266.43 on Friday Aug 28 — Evercore ISI's Mark Mahaney lifts PT to $355 from $315 citing survey finding 57% of Alexa AI users bought products they weren't previously aware of; 36% shop more since AI features added",
+          "category": "analyst",
+          "note": "Named analyst (Mahaney), specific old→new PT, first survey evidence of Alexa agentic AI driving incremental buys; drove +3.97% single-day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "regulatory",
+        "analyst",
+        "earnings",
+        "macro",
+        "rates",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }

@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-08-29T04:43:13.802Z",
+  "generatedAt": "2026-08-29T15:57:28.265Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-ai-compute-partnership-pause-aug-28-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "NVIDIA (NVDA) -4.57% to $217.55 on Friday Aug 28 — pauses $36B AI Compute Partnership revenue-sharing program launched in July after employees flag antitrust exposure and cloud providers push back on customer-approval clause",
+      "org": "NVIDIA",
+      "date": "2026-08-28",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pauses-ai-cloud-revenue-120700044.html",
+      "summary": "WSJ scoop Friday Aug 28: Nvidia pauses AI Compute Partnership two months after July launch. Program let neoclouds finance GPU buildouts with Nvidia guaranteeing capacity for 50% of above-cost revenue; $36B in commitments disclosed.",
+      "tags": [
+        "mover",
+        "regulatory",
+        "antitrust",
+        "ai-capex",
+        "semis",
+        "neocloud",
+        "nvda",
+        "wsj-scoop",
+        "revenue-share"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NVDA"
+      ],
+      "metrics": {
+        "Close": "$217.55 (-$10.43, -4.57%)",
+        "Program commitments": "$36B",
+        "Program launch": "July 2026",
+        "Nvidia share of above-cost revenue": "50%"
+      },
+      "explainer": {
+        "tagline": "Nvidia pauses the $36B AI Compute Partnership after antitrust worries and pushback on a customer-approval clause; stock -4.6% to $217.55.",
+        "whatIsIt": "The Wall Street Journal reported Friday Aug 28 that Nvidia has pulled the plug on parts of the AI Compute Partnership, the revenue-sharing financing program it launched in July to help smaller cloud providers (neoclouds) buy Nvidia GPUs.",
+        "howItWorks": "Under the program Nvidia set a baseline hourly rate covering the provider's costs and took 50% of any revenue above that threshold, while committing to lease capacity itself if the neocloud couldn't place it. A quarterly filing pegged total commitments at ~$36B across six-year deals; initial partners included Sharon AI and Firmus Technologies. Nvidia has now paused new sign-ups.",
+        "whyItMatters": "Two frictions killed it. Nvidia insiders flagged antitrust exposure to customers and prospects, and cloud providers pushed back on a clause letting Nvidia approve which end-customers could rent capacity. The pause caps a week that already saw NVDA rally 5% on Q2 FY27 earnings; Friday's move erased roughly a third of that gain and reopened the 'circular financing' debate that hit chip names in late July.",
+        "forWho": "AI-infra investors, chip traders, neocloud watchers",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/782a66e5868aaaa0a711ae866292bd4830c452efd503907092f12ff3f56f0243/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F9597bf22341628a72b6661212a81297c.jpg",
+        "alt": "Nvidia logo signage",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "WSJ Report (Yahoo)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pauses-ai-cloud-revenue-120700044.html"
+        },
+        {
+          "label": "The Next Web",
+          "url": "https://thenextweb.com/news/nvidia-pauses-ai-cloud-revenue-sharing-deals"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns"
+        },
+        {
+          "label": "NVDA Chart",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia pauses its $36B AI Compute Partnership two months after launch — antitrust worries + customer-approval clause blew it up. NVDA -4.57% to $217.55.",
+        "body": "WSJ broke it Friday: Nvidia has stepped back from the AI Compute Partnership, the revenue-sharing financing program it rolled out in July to help neoclouds finance GPU buildouts.\n\nHow it worked:\n\n* Nvidia set a baseline hourly GPU rate that covered the provider's costs, then took **50%** of any revenue above that\n* Nvidia also committed to lease capacity itself if the neocloud couldn't place it — de-risking the debt\n* A quarterly filing disclosed **~$36B** in total commitments across ~6-year deals\n* Initial partners: Sharon AI, Firmus Technologies\n\nWhy it broke:\n\n1. **Antitrust alarm bells inside Nvidia** — employees warned current and prospective customers that the structure could draw scrutiny\n2. **Customer-approval clause** — Nvidia told some neoclouds they could only rent chips to approved end-customers and preferred capacity spread across multiple small AI firms; providers pushed back\n\nStock impact: NVDA closed at **$217.55, -$10.43 (-4.57%)** Friday, erasing about a third of the post-earnings rally. Reopens the 'circular financing' debate that hit chips in late July.\n\nNvidia left the door open to restructuring the program later.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-ai-compute-partnership-pause-aug-28-2026](https://stock-tldr.xyz/releases/nvda-ai-compute-partnership-pause-aug-28-2026)"
+      },
+      "publishDate": "2026-08-29T15:57:28.265Z"
+    },
+    {
+      "id": "amzn-evercore-pt-hike-alexa-agentic-ai-aug-28-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Amazon (AMZN) +3.97% to $266.43 on Friday Aug 28 — Evercore ISI's Mark Mahaney lifts PT to $355 from $315 citing survey finding 57% of Alexa AI users bought products they weren't previously aware of; 36% shop more since AI features added",
+      "org": "Evercore ISI",
+      "date": "2026-08-28",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-jumps-evercore-raises-172844250.html",
+      "summary": "Evercore's Mark Mahaney hikes AMZN PT to $355 (from $315), Buy rating maintained, after 14th annual U.S. Online Retail survey shows 57% of Alexa AI users bought unknown products; AMZN +3.97% to $266.43.",
+      "tags": [
+        "analyst",
+        "mover",
+        "price-target",
+        "amzn",
+        "alexa",
+        "agentic-ai",
+        "retail",
+        "aws",
+        "same-day-delivery",
+        "evercore"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMZN"
+      ],
+      "metrics": {
+        "Move": "+3.97% to $266.43",
+        "Rating change": "Buy (maintained)",
+        "Old PT": "$315",
+        "New PT": "$355",
+        "Alexa AI incremental buys": "57%",
+        "Alexa AI shop more": "36%",
+        "Amazon retail reach": "92% (vs Walmart 58%)",
+        "Same-day delivery regular usage": "49%"
+      },
+      "explainer": {
+        "tagline": "Evercore ISI raises AMZN price target to $355 from $315 on first survey evidence that agentic Alexa AI is additive to retail; stock +3.97% to $266.43.",
+        "whatIsIt": "Mark Mahaney of Evercore ISI lifted his 12-month Amazon price target to $355 from $315 Friday morning, keeping a Buy rating. The call is anchored to the firm's 14th annual U.S. Online Retail survey.",
+        "howItWorks": "Key survey stats: 57% of Alexa AI users say they bought something they had not previously known about (Mahaney's flag as the first evidence agentic AI is additive to retail); 36% of respondents said they shop more since AI features were added to Alexa. Amazon's retail reach held 92% of respondents (Walmart second at 58%). Same-day delivery regular usage hit 49%, and Prime members using same-day spend 3.1x more than non-Prime users. 46% of respondents exposed to Amazon's fresh-grocery checkout added perishables to cart.",
+        "whyItMatters": "The $355 PT implies roughly +33% upside from Friday's $266.43 close. Mahaney's read is that agentic AI is not just efficiency — it's additive GMV — which reframes the debate about AI monetization at AMZN beyond AWS. AMZN closed +3.97% to $266.43 to lead Mag-7 gainers on a day the S&P and Nasdaq slipped on hawkish Warsh remarks.",
+        "forWho": "large-cap tech investors, retail analysts, AI-agent watchers",
+        "tryIt": "https://finance.yahoo.com/quote/AMZN"
+      },
+      "image": {
+        "url": "https://news.stocktwits-cdn.com/large_Amazon_7e122accde.jpg",
+        "alt": "Amazon logo on cardboard package",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-jumps-evercore-raises-172844250.html"
+        },
+        {
+          "label": "Stocktwits Coverage",
+          "url": "https://stocktwits.com/news-articles/markets/equity/amzn-stock-rallies-4-percent-after-evercore-says-agentic-ai-could-supercharge-amazon-retail-growth/cZYAi4jRJAv"
+        },
+        {
+          "label": "MoneyCheck Recap",
+          "url": "https://moneycheck.com/amazon-amzn-stock-surges-4-on-evercore-upgrade-and-major-ai-infrastructure-plans/"
+        },
+        {
+          "label": "AMZN Chart",
+          "url": "https://finance.yahoo.com/quote/AMZN"
+        }
+      ],
+      "reddit": {
+        "title": "AMZN +3.97% to $266.43 on Friday — Evercore's Mahaney takes PT to $355 (from $315) after survey shows 57% of Alexa AI users bought products they didn't previously know about",
+        "body": "Evercore ISI's Mark Mahaney raised his Amazon price target to **$355 from $315** Friday morning, Buy rating maintained. AMZN closed **+3.97% at $266.43**, leading Mag-7 gainers on a down day for the tape.\n\nThe call is anchored on the firm's 14th annual U.S. Online Retail survey:\n\n* **57%** of Alexa AI users bought a product they had not previously known about — Mahaney flagged this as the first survey evidence that agentic AI is *additive* to Amazon Retail\n* **36%** of respondents said they shop more since AI features were added to Alexa\n* Amazon's retail reach: **92%** of respondents use it (Walmart a distant second at 58%)\n* Same-day delivery regular usage: **49%**; Prime members using same-day spend **3.1x** more than non-Prime\n* **46%** of respondents exposed to the fresh-grocery checkout added perishables to cart\n\nWhy it matters: the $355 PT implies roughly +33% upside from Friday's close, and reframes the AI-monetization debate at AMZN beyond AWS — Mahaney is arguing agentic AI drives incremental GMV in retail, not just cost saves.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amzn-evercore-pt-hike-alexa-agentic-ai-aug-28-2026](https://stock-tldr.xyz/releases/amzn-evercore-pt-hike-alexa-agentic-ai-aug-28-2026)"
+      },
+      "publishDate": "2026-08-29T15:57:28.265Z"
+    },
     {
       "id": "pypl-advent-stripe-deal-collapse-aug-28-2026",
       "categories": [
