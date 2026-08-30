@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-08-29T15:57:28.265Z",
+  "generatedAt": "2026-08-30T02:08:43.587Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "wheat-futures-3yr-high-aug-28-2026",
+      "categories": [
+        "commodity"
+      ],
+      "title": "Chicago wheat futures hit 3-year high on Friday Aug 28 — Sep '26 closes $7.67 (+3.27%), Dec '26 settles $7.84 (+3.1%) after touching $7.9025 (highest since Feb 14, 2023); wheat +12.1% on the week — biggest weekly gain since March 2022 — as Russia signals renewed Black Sea attacks post peace-talk collapse",
+      "org": "Chicago Board of Trade",
+      "date": "2026-08-28",
+      "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+      "summary": "Chicago wheat closed at a 3-year high Friday: Sep contract $7.67 (+24.25c, +3.27%), Dec $7.84 (+3.1%). Weekly gain 12.1% — biggest since March 2022. Driver: Russia escalating Black Sea grain-infrastructure strikes.",
+      "tags": [
+        "wheat",
+        "commodity",
+        "grains",
+        "cbot",
+        "black-sea",
+        "russia-ukraine",
+        "food-inflation",
+        "novorossiysk",
+        "sovecon",
+        "corn",
+        "geopolitics"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ZW=F"
+      ],
+      "metrics": {
+        "Wheat Sep '26 close": "$7.67 (+24.25c, +3.27%)",
+        "Wheat Dec '26 settle": "$7.84 (+3.1%)",
+        "Wheat Dec '26 intraday high": "$7.9025 — highest since Feb 14, 2023",
+        "Weekly move": "+12.1% (biggest since March 2022)",
+        "YTD": "+54.5%",
+        "SovEcon Russia Aug wheat exports": "cut ~300K MT to 1.9M MT"
+      },
+      "explainer": {
+        "tagline": "Chicago wheat rockets to a 3-year high as Russia signals renewed Black Sea strikes and Novorossiysk shipping stalls.",
+        "whatIsIt": "Chicago Board of Trade wheat futures posted a fresh 3-year high on Friday August 28 in the biggest weekly rally since March 2022. The move came after reports that Russia is preparing to escalate attacks on Ukrainian grain infrastructure following a collapse in peace talks. Corn came along for part of the ride, hitting its own 3-year high earlier in the week before easing on Friday.",
+        "howItWorks": "September wheat closed $7.67 per bushel, up 24 1/4 cents on the day (+3.27%). The more-active December contract settled 3.1% higher at 784 cents, after touching an intraday $7.9025 — the highest print since February 14, 2023. On the week, wheat rose about 12.1%, the largest weekly gain since March 2022. A major shipping line suspended service to Russia's Novorossiysk port after Ukrainian drone strikes, and Russian consultancy SovEcon cut its August Russian wheat export estimate by roughly 300,000 metric tons to 1.9 million metric tons.",
+        "whyItMatters": "Russia and Ukraine together account for more than a quarter of global wheat exports, so sustained Black Sea logistics disruption pushes food-inflation risk back into the frame just as central banks digest hawkish signals from Warsh's Jackson Hole speech. Wheat is now up roughly 54.5% year-to-date and corn about 21.8%, tightening feed costs for livestock producers and lifting import bills for buyers in the Middle East, Africa and Asia who are already rerouting to Australia and Argentina.",
+        "forWho": "ag desks, food-inflation macro traders, EM sovereign credit",
+        "tryIt": "https://www.barchart.com/futures/quotes/ZWU26"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108348933-1786603272529-gettyimages-2285482828-AA_14072026_2883242.jpeg?v=1786603346&w=1920&h=1080",
+        "alt": "Wheat crop drying in the field during harvest season",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html"
+        },
+        {
+          "label": "Barchart Analysis",
+          "url": "https://www.barchart.com/story/news/4314160/wheat-futures-surge-to-three-year-highs-as-black-sea-war-risk-escalates"
+        },
+        {
+          "label": "Sep '26 Wheat Quote",
+          "url": "https://www.barchart.com/futures/quotes/ZWU26"
+        },
+        {
+          "label": "Closing Grain Prices",
+          "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-28-2026/"
+        },
+        {
+          "label": "Yahoo Wheat Chart",
+          "url": "https://finance.yahoo.com/quote/ZW%3DF/"
+        }
+      ],
+      "reddit": {
+        "title": "Chicago wheat +12.1% on the week — biggest weekly gain since March 2022 — as Russia escalates Black Sea strikes",
+        "body": "Chicago wheat futures closed Friday Aug 28 at a fresh 3-year high after Russia signaled renewed attacks on Ukrainian grain infrastructure and shipping to Russia's Novorossiysk port stalled.\n\n* Sep '26 wheat closed $7.67, up 24 1/4 cents (+3.27%)\n* Dec '26 wheat settled $7.84 (+3.1%), touching $7.9025 intraday — highest since Feb 14, 2023\n* Weekly gain \\~12.1% — the biggest week since March 2022\n* Wheat +54.5% YTD, corn +21.8% YTD after corn hit its own 3-year high earlier in the week\n\nThe geopolitical setup behind the move:\n\n1. **Russia signaling escalation** — reports that Moscow is preparing to intensify strikes on Ukrainian grain infrastructure after peace talks broke down.\n2. **Novorossiysk disruption** — a major shipping line suspended service to the Russian Black Sea port following Ukrainian drone attacks.\n3. **SovEcon cut** — the Russian ag consultancy trimmed its August Russian wheat export estimate by roughly 300,000 MT to 1.9 million MT.\n\nRussia and Ukraine together supply more than a quarter of global wheat exports, so Middle East, African and Asian buyers are already rerouting to Australia and Argentina.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wheat-futures-3yr-high-aug-28-2026](https://stock-tldr.xyz/releases/wheat-futures-3yr-high-aug-28-2026)"
+      },
+      "publishDate": "2026-08-30T02:08:43.587Z"
+    },
     {
       "id": "nvda-ai-compute-partnership-pause-aug-28-2026",
       "categories": [

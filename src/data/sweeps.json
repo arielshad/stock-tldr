@@ -10747,6 +10747,35 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260830t020843z",
+      "timestamp": "2026-08-30T02:08:43.587Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet Labor Day weekend sweep — one catch: Chicago wheat futures printed a 3-year high on Fri Aug 28 with the biggest weekly gain since March 2022 on renewed Black Sea supply risk. Otherwise no fresh qualifying items surfaced in the ~10 hours since the prior sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wheat-futures-3yr-high-aug-28-2026",
+          "title": "Chicago wheat futures hit 3-year high on Friday Aug 28 — Sep '26 closes $7.67 (+3.27%), Dec '26 settles $7.84 (+3.1%) after touching $7.9025 (highest since Feb 14, 2023); wheat +12.1% on the week — biggest weekly gain since March 2022 — as Russia signals renewed Black Sea attacks post peace-talk collapse",
+          "category": "commodity",
+          "note": "3-year high on CBOT wheat with a >3% single-day and >12% weekly move; primary tier-1 CNBC coverage, verifiable Sep/Dec closing prices, and a clean geopolitical driver (Black Sea) not otherwise covered in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "crypto",
+        "mna",
+        "article",
+        "video"
+      ]
     }
   ]
 }
