@@ -1,8 +1,94 @@
 {
-  "generatedAt": "2026-08-30T02:08:43.587Z",
+  "generatedAt": "2026-08-30T15:51:01.897Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-venezuela-oil-deal-65b-barrels-aug-28-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Trump announces US–Venezuela oil deal on Friday Aug 28 — 55% US share of a new joint venture over 17 fields with 65B barrels of proven reserves; 25-year agreement targets 1.5M bpd, $100B private investment, second-largest private oil company by reserves after Saudi Aramco",
+      "org": "White House",
+      "date": "2026-08-28",
+      "url": "https://www.foxbusiness.com/energy/venezuela-says-trumps-historic-oil-deal-targets-1-5m-barrels-per-day-could-generate-200b",
+      "summary": "Trump Truth Social post Friday night Aug 28 announces 25-year US–Venezuela oil pact — 55% US share of output from 17 fields (~65B barrels), 1.5M bpd target; State + Pentagon negotiated with interim VP Delcy Rodriguez.",
+      "tags": [
+        "venezuela",
+        "oil",
+        "trump",
+        "rubio",
+        "hegseth",
+        "delcy-rodriguez",
+        "pdvsa",
+        "orinoco",
+        "chevron",
+        "halliburton",
+        "energy-policy",
+        "strategic-petroleum-reserve"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CVX",
+        "HAL"
+      ],
+      "metrics": {
+        "US share of output": "55%",
+        "Proven reserves": "65B barrels (17 fields)",
+        "Production target": "1.5M bpd",
+        "Deal length": "25 years",
+        "Private investment (Venezuela)": "~$100B",
+        "Projected Venezuela tax revenue": "$200B+",
+        "CVX (Fri Aug 28)": "+0.9%–1%",
+        "HAL (Fri Aug 28)": "+2.0%–2.3%"
+      },
+      "explainer": {
+        "tagline": "Trump claims a 55% US stake in a Venezuelan oil venture holding 65B barrels — biggest reserve grab since the 20th century, if it holds.",
+        "whatIsIt": "In a Truth Social post Friday night Aug 28, President Trump announced a 25-year bilateral oil agreement with Venezuela's interim government. State Sec. Marco Rubio and Defense Sec. Pete Hegseth negotiated with acting president Delcy Rodriguez; a new private joint venture receives development rights over 17 strategic oilfields with roughly 65 billion barrels of proven reserves. Trump wrote the deal 'MORE THAN DOUBLES American Oil Reserves' and would 'substantially lower Gas Prices' at 'no cost to the American Taxpayer.'",
+        "howItWorks": "The joint venture is structured with an unnamed private operator plus US government participation. The US receives an effective 55% share of output — a mix of equity stake and rights to purchase oil at cost — with production designated for the Strategic Petroleum Reserve and military use. Rodriguez said the initial production target is more than 1.5 million barrels per day, with ~$100B of private investment flowing into Venezuela and projected tax revenue of over $200B for Caracas over the deal's life. Officials said the venture, if fully developed, would rank as the second-largest private oil company by reserves after Saudi Aramco.",
+        "whyItMatters": "Independent of the sovereign deal, the WSJ reported the same day that Chevron (CVX) is close to adding two heavy-oil fields to its existing three PdVSA JVs and Halliburton (HAL) is in talks to supply equipment and services — CVX +0.9%–1% and HAL +2.0%–2.3% Friday. Energy analysts flagged the near-term impact as limited: Venezuela's damaged infrastructure needs years and billions of dollars to restore meaningful output, so pump-price relief for Labor Day is not on the table. Longer term, US access to Orinoco heavy crude reshapes the barrel mix available to Gulf Coast refiners and gives Washington a lever on OPEC+ pricing.",
+        "forWho": "energy desks, oil-services traders, macro allocators watching US strategic reserves policy",
+        "tryIt": "https://finance.yahoo.com/quote/CVX"
+      },
+      "image": {
+        "url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/donald-trump-oval-office-8.jpg?ve=1&tl=1",
+        "alt": "President Trump at Oval Office desk announcing the US–Venezuela oil agreement",
+        "fit": "cover",
+        "credit": "Fox Business"
+      },
+      "links": [
+        {
+          "label": "Fox Business — 1.5M bpd",
+          "url": "https://www.foxbusiness.com/energy/venezuela-says-trumps-historic-oil-deal-targets-1-5m-barrels-per-day-could-generate-200b"
+        },
+        {
+          "label": "Al Jazeera — Trump post",
+          "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela"
+        },
+        {
+          "label": "Time — gas-price question",
+          "url": "https://time.com/article/2026/08/29/trump-says-his-venezuela-oil-deal-will-lower-gas-prices-but-when-/"
+        },
+        {
+          "label": "Deseret — deal terms",
+          "url": "https://www.deseret.com/u-s-world/2026/08/29/what-we-know-about-venezuela-us-oil-deal/"
+        },
+        {
+          "label": "Yahoo — WSJ on CVX/HAL",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-halliburton-nearing-deals-invest-171420298.html"
+        },
+        {
+          "label": "CBS — CVX/HAL move",
+          "url": "https://www.cbsnews.com/news/venezuela-maduro-trump-oil-stock-prices-chevron-cvx/"
+        }
+      ],
+      "reddit": {
+        "title": "Trump announces 25-year US–Venezuela oil deal: 55% US share of a JV over 17 fields (65B barrels), 1.5M bpd target",
+        "body": "Trump posted on Truth Social Friday night that the US has struck a 25-year oil pact with Venezuela's interim government. Rubio (State) and Hegseth (Defense) negotiated with acting president Delcy Rodriguez.\n\n* 55% US share of output from a new private joint venture across 17 fields with ~65B barrels of proven reserves\n* Production target: more than 1.5M barrels per day (Rodriguez statement Saturday)\n* Deal length: 25 years; ~$100B private investment into Venezuela; projected $200B+ in Venezuelan tax revenue\n* Trump framing: \"MORE THAN DOUBLES American Oil Reserves\"; would be the world's #2 private oil company by reserves after Saudi Aramco\n* Chevron (CVX) +~1% and Halliburton (HAL) +~2% Friday on a separate WSJ scoop that CVX is on the verge of adding two heavy-oil fields and HAL is in talks to supply equipment/services\n\nWhy the pump-price story is soft-pedaled:\n\n1. **Infrastructure is broken** — Venezuela's oil sector needs years and billions to restore output. No Labor Day relief.\n2. **Private operator not named** — the identity of the JV's operating partner is undisclosed.\n3. **Framework, not FID** — none of the 17 fields has an approved development plan or timeline yet.\n\nNext catalysts: US energy executives (with Sec. Chris Wright) travel to Caracas next week to sign field-level production deals.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-venezuela-oil-deal-65b-barrels-aug-28-2026](https://stock-tldr.xyz/releases/us-venezuela-oil-deal-65b-barrels-aug-28-2026)"
+      },
+      "publishDate": "2026-08-30T15:51:01.897Z"
+    },
     {
       "id": "wheat-futures-3yr-high-aug-28-2026",
       "categories": [

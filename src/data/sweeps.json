@@ -10776,6 +10776,37 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260830t155101z",
+      "timestamp": "2026-08-30T15:51:01.897Z",
+      "source": "github-actions-sweep",
+      "summary": "1 add — US–Venezuela oil deal announced Friday Aug 28 by Trump (55% US share of a 65B-barrel, 17-field JV), tied to WSJ Chevron/Halliburton scoop that lifted CVX +~1% and HAL +~2% on Friday.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-venezuela-oil-deal-65b-barrels-aug-28-2026",
+          "title": "Trump announces US–Venezuela oil deal on Friday Aug 28 — 55% US share of a new joint venture over 17 fields with 65B barrels of proven reserves; 25-year agreement targets 1.5M bpd, $100B private investment, second-largest private oil company by reserves after Saudi Aramco",
+          "category": "commodity",
+          "note": "Front-page Trump Truth Social announcement Friday night Aug 28 confirmed by Bloomberg/WaPo/NPR/CNBC/Fox with market response on CVX and HAL; largest reserve-grab framing of the Maduro-capture aftermath and a distinct event from prior Iran-Hormuz oil items already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "earnings",
+        "mover",
+        "mna",
+        "crypto",
+        "article",
+        "video"
+      ]
     }
   ]
 }
