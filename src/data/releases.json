@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-08-30T15:51:01.897Z",
+  "generatedAt": "2026-08-31T02:08:06.922Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-iran-larak-hormuz-strike-jordan-retaliation-aug-30-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "US strikes Iranian rocket launchers on Larak Island Sunday Aug 30 — first attack in weeks after CENTCOM cleared Hormuz mines; IRGC retaliates overnight with missile-drone salvo on 2 US-linked bases in Jordan (King Hussein, Muwaffaq Salti/Azraq); WTI +1.8% to $84.94, Brent +1.9% to $89.79 at Asia open",
+      "org": "U.S. Central Command",
+      "date": "2026-08-30",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks",
+      "summary": "CENTCOM strikes two IRGC rocket launchers on Larak Island Sunday Aug 30 after crews were seen prepping mine-laying rockets for the Strait of Hormuz. Iran calls it 'Punishment of the Aggressor' and fires missiles at 2 US-linked bases in Jordan overnight. Oil futures +~2% at Asia open.",
+      "tags": [
+        "iran",
+        "hormuz",
+        "larak-island",
+        "centcom",
+        "irgc",
+        "geopolitics",
+        "oil",
+        "wti",
+        "brent",
+        "jordan",
+        "middle-east",
+        "sea-mines",
+        "shipping"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "WTI (Sep) at Asia open": "+1.8% to $84.94",
+        "Brent (Nov) at Asia open": "+1.9% to $89.79",
+        "IRGC salvo intercepted by Jordan": "8 missiles",
+        "US strike targets": "2 launchers"
+      },
+      "explainer": {
+        "tagline": "First direct US strike on Iran in ~1 month; Iran retaliates overnight against 2 US-linked bases in Jordan; oil futures gap +~2% at Asia open",
+        "whatIsIt": "US Central Command struck two Iranian Revolutionary Guard rocket launchers on Larak Island in the Strait of Hormuz on Sunday Aug 30, ending a month-long lull that followed the early-August Hormuz-reopening framework. CENTCOM spokesperson Navy Capt. Tim Hawkins said IRGC forces were observed preparing rockets carrying sea mines for launch into the strait's international shipping channel that CENTCOM had just cleared. Iran's IRGC acknowledged casualties ('martyrdom and injury of several of our fighters and compatriots') and pre-dawn Monday launched a combined ballistic-missile-and-drone attack it called 'Punishment of the Aggressor' on two US-linked bases in Jordan.",
+        "howItWorks": "CENTCOM said the strike was a 'limited, precise action' against IRGC minelayer teams staging on Larak Island, an Iranian outpost that sits ~10 nautical miles off Bandar Abbas at the mouth of the Strait of Hormuz. Iranian state outlets reported explosions near Larak; the IRGC statement warned every attack would be met with a 'more devastating response'. Iran's follow-on salvo hit King Hussein and Muwaffaq Salti/Al Azraq air bases in Jordan; Jordan's armed forces said air defences intercepted eight missiles that entered the kingdom's airspace at dawn Monday Aug 31, and no casualties were reported at the bases. The exchange arrived one day after an unclaimed projectile struck an inbound tanker ~12 nm north of Khasab, Oman late Saturday (2035 UTC).",
+        "whyItMatters": "The strike is the first US-Iran military exchange since the early-August Hormuz-reopening framework and comes as Bessent's OFAC sanctions campaign ramps in parallel. Global crude gapped higher at Asia open — WTI +1.8% to $84.94 and Brent +1.9% to $89.79 — retracing part of August's slide from the Trump-Iran deal announcement. The Strait of Hormuz carries ~25% of seaborne oil trade and has been running at ~24 tanker transits/week vs ~130/day pre-war; a re-mined strait would undo the ~$5/bbl risk-premium unwind since the Aug 2 deal 'perimeters' post. S&P 500 futures edged lower after Friday's -0.25% close on Warsh's hawkish Jackson Hole debut.",
+        "forWho": "energy desks, macro, geopolitical event traders",
+        "tryIt": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Article/4480437/centcom-protects-us-warships-transiting-strait-of-hormuz/"
+      },
+      "image": {
+        "url": "https://s.france24.com/media/display/8e6966dc-a4af-11f1-a8ee-005056bf30b7/w:1280/p:16x9/000-C4AZ2KD.jpg",
+        "alt": "Smoke rises after a reported explosion on Larak Island in the Strait of Hormuz",
+        "fit": "cover",
+        "credit": "France 24 / AFP"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks"
+        },
+        {
+          "label": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz"
+        },
+        {
+          "label": "Euronews / IRGC",
+          "url": "https://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory"
+        },
+        {
+          "label": "RFE/RL Signal",
+          "url": "https://www.rferl.org/a/larak-island-iran-launchers-strike/33843587.html"
+        },
+        {
+          "label": "Boston Globe / AP",
+          "url": "https://www.boston.com/news/world-news/2026/08/30/us-forces-strike-iran-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks/"
+        },
+        {
+          "label": "WTI Chart",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        },
+        {
+          "label": "Brent Chart",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "US strikes Iranian rocket launchers on Larak Island — first hit in weeks. Iran fires missile salvo at 2 US-linked bases in Jordan overnight. Oil +~2% at Asia open.",
+        "body": "One month of Hormuz calm just ended. Here's what happened over Sunday–Monday:\n\n* CENTCOM struck two IRGC rocket launchers on Larak Island at the mouth of the Strait of Hormuz on Sun Aug 30\n* IRGC crews were reportedly staging rockets carrying sea mines — the same shipping lanes CENTCOM just finished clearing last week\n* Iran's Revolutionary Guard acknowledged 'martyrdom and injury of several of our fighters and compatriots'\n* Pre-dawn Monday, Iran launched a combined missile+drone salvo it named 'Punishment of the Aggressor' on King Hussein and Muwaffaq Salti/Al Azraq bases in Jordan\n* Jordan intercepted 8 missiles that entered its airspace; no casualties reported at the bases\n* WTI +1.8% to $84.94 and Brent +1.9% to $89.79 at Asia open\n\nWhy it matters:\n\n1. **Hormuz risk-premium is back on** — WTI had shed ~$10 since Trump's Aug 2 'perimeters of a deal' Truth Social post. Sunday's exchange starts putting that back.\n2. **Shipping was already crippled** — ~24 tanker transits/week now vs ~130/day pre-war. Another mine campaign would keep it there.\n3. **Two-track pressure on Tehran** — Bessent's Aug 24 'Operation Economic Outcast' sanctions plus renewed kinetic strikes. Iran has signaled a 'more devastating' next response.\n\nNext catalysts: China Aug official PMIs (Mon), any IRGC follow-on, and whether the Trump administration issues a formal response.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-iran-larak-hormuz-strike-jordan-retaliation-aug-30-2026](https://stock-tldr.xyz/releases/us-iran-larak-hormuz-strike-jordan-retaliation-aug-30-2026)"
+      },
+      "publishDate": "2026-08-31T02:08:06.922Z"
+    },
     {
       "id": "us-venezuela-oil-deal-65b-barrels-aug-28-2026",
       "categories": [
