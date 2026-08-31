@@ -1,8 +1,168 @@
 {
-  "generatedAt": "2026-08-31T02:08:06.922Z",
+  "generatedAt": "2026-08-31T18:27:15.020Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ca-utility-rout-sb-492-aug-31-2026",
+      "categories": [
+        "regulatory",
+        "mover",
+        "sector"
+      ],
+      "title": "PG&E (PCG) -18% and Edison International (EIX) -23% on Monday Aug 31 — California legislature closes session Aug 29 with SB 492 that omits Newsom's $6B per-fire liability cap, subrogation shield and Wildfire Fund replenishment; Mizuho / BMO / Wells Fargo downgrade PCG, Mizuho cuts EIX to Neutral and Sempra (SRE) to Neutral",
+      "org": "California State Legislature",
+      "date": "2026-08-31",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-sinks-18-edison-163921802.html",
+      "summary": "California SB 492 passed Aug 29 without the liability shield Newsom pushed for; PCG -18% to $13.57, EIX -23% to $54.22 (largest single-day drop in 25+ years). Mizuho / BMO / Wells Fargo pile on downgrades.",
+      "tags": [
+        "regulatory",
+        "wildfire",
+        "california",
+        "sb-492",
+        "utilities",
+        "subrogation",
+        "sector-mover",
+        "downgrade"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PCG",
+        "EIX",
+        "SRE"
+      ],
+      "metrics": {
+        "PCG": "-18.5% to $13.57 (near 52-wk low $13.09)",
+        "EIX": "-23.1% to $54.22 (biggest 1-day drop in 25+ yrs)",
+        "SRE": "-2.0% to $82.22 (Mizuho cut to Neutral, PT $84 from $104)",
+        "XLU": "-1.0% to $42.31 (California-specific, not sector-wide)",
+        "PCG PT (BMO)": "$21 from $28 (Market Perform)",
+        "PCG PT (Wells Fargo)": "$24 from $25 (Equal Weight)",
+        "PCG PT (Mizuho)": "$16 from $21 (Neutral)",
+        "EIX PT (Mizuho)": "$70 from $86 (Neutral)"
+      },
+      "links": [
+        {
+          "label": "Yahoo/24 7 Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-sinks-18-edison-163921802.html"
+        },
+        {
+          "label": "Motley Fool PCG",
+          "url": "https://www.fool.com/investing/2026/08/31/why-pge-stock-just-crashed/"
+        },
+        {
+          "label": "Motley Fool EIX",
+          "url": "https://www.fool.com/investing/2026/08/31/why-edison-international-stock-just-crashed/"
+        },
+        {
+          "label": "24/7 Analyst Calls",
+          "url": "https://247wallst.com/investing/2026/08/31/here-are-mondays-top-wall-street-analyst-research-calls-agco-corporation-deere-co-edison-international-lumentum-holdings-pge-sempra-energy-stag-industrial-ticketplus-and-more/"
+        },
+        {
+          "label": "PCG Quote",
+          "url": "https://finance.yahoo.com/quote/PCG"
+        }
+      ],
+      "explainer": {
+        "tagline": "California utilities re-priced overnight after lawmakers strip subrogation shield and $6B per-fire cap from SB 492.",
+        "whatIsIt": "California's legislative session closed Saturday Aug 29 with passage of Senate Bill 492 — a bill that addresses wildfire claim payment speeds and data sharing but leaves out the sweeping investor protections utilities had lobbied for all year. Governor Newsom's original proposal ended insurer subrogation lawsuits against utilities and capped per-fire liability at $6B. Both were dropped after insurance-industry pushback.",
+        "howItWorks": "The final bill preserves insurer subrogation rights, does not add a Wildfire Fund replenishment mechanism, does not extend the 2028 fund sunset, and does not separate fund solvency from liability limits. Analysts moved fast: Mizuho cut PCG to Neutral ($16 from $21), EIX to Neutral ($70 from $86) and SRE to Neutral ($84 from $104). BMO cut PCG to Market Perform ($21 from $28). Wells Fargo went Equal Weight (PT $24). Argus cut EIX to Hold.",
+        "whyItMatters": "PCG opened -13.4% pre-market and traded down 18.5% intraday to $13.57 near its 52-week low ($13.09). EIX fell 23.1% to $54.22 — its worst single-day print in more than 25 years — on unresolved Eaton Fire liability exposure. SRE was cushioned by Texas/Mexico infrastructure and fell just 2.0%. XLU dropped 1.0%, confirming the market read this as California-specific statutory risk, not a broader utility repricing.",
+        "forWho": "utility desks, muni/credit analysts, California policy watchers",
+        "tryIt": "https://finance.yahoo.com/quote/PCG"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885802%2Fworker-with-a-laptop-examines-an-electric-tower-and-power-lines.jpg&w=1200&op=resize",
+        "alt": "Utility worker with a laptop examining a high-voltage electric tower and power lines",
+        "fit": "cover",
+        "credit": "The Motley Fool"
+      },
+      "reddit": {
+        "title": "PG&E -18%, Edison International -23% (biggest 1-day drop in 25+ years) after California lawmakers strip liability shield from SB 492",
+        "body": "California utilities got repriced overnight after the legislature closed its session Saturday Aug 29 with SB 492 — the version that omits everything investors were watching for.\n\n* PCG -18.5% to $13.57 (near 52-week low of $13.09)\n* EIX -23.1% to $54.22 — biggest single-day drop in more than 25 years\n* SRE only -2% to $82.22 (Texas/Mexico infrastructure cushions the hit)\n* XLU -1.0% — market treats this as California statute risk, not sector-wide\n\nWhat lawmakers dropped from Newsom's original proposal:\n\n1. **$6B per-fire liability cap** — gone. Utilities remain fully exposed on catastrophic events.\n2. **Subrogation shield** — insurers keep the right to sue utilities to recover wildfire payouts. Insurance industry pushback killed this.\n3. **Wildfire Fund replenishment mechanism** — no evergreen funding path, no extension of the 2028 sunset, no separation of fund solvency from liability caps.\n\nThe analyst pile-on:\n\n* Mizuho → Neutral on PCG (PT $16 from $21), EIX (PT $70 from $86), and SRE (PT $84 from $104)\n* BMO Capital → Market Perform on PCG (PT $21 from $28)\n* Wells Fargo → Equal Weight on PCG (PT $24 from $25)\n* Argus → Hold on EIX\n\nEIX still carries Eaton Fire exposure with no statutory relief in sight.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ca-utility-rout-sb-492-aug-31-2026](https://stock-tldr.xyz/releases/ca-utility-rout-sb-492-aug-31-2026)"
+      },
+      "publishDate": "2026-08-31T18:27:15.020Z"
+    },
+    {
+      "id": "oke-brazos-midstream-apollo-9b-aug-30-2026",
+      "categories": [
+        "mna",
+        "commodity"
+      ],
+      "title": "ONEOK (OKE) announces $4.425B all-cash acquisition of Brazos Midstream's Permian Midland Basin gas gathering and processing assets on Sunday Aug 30 — Apollo funds inject $9B minority equity (capped at 7% IRR for 9 years); ~$5B of proceeds go to debt paydown targeting 3.25x leverage; deal 7.5x 2027E EBITDA (incl ~$80M synergies), closes Q4 2026",
+      "org": "ONEOK",
+      "date": "2026-08-30",
+      "url": "https://ir.apollo.com/news-events/press-releases/detail/644/oneok-to-acquire-brazos-midstreams-permian-midland-basin",
+      "summary": "ONEOK doubles Midland Basin processing capacity to ~2.3 Bcf/d via $4.425B Brazos buy; Apollo takes $9B non-voting minority stake capped at 7% IRR. Deal immediately accretive to EPS and free cash flow. OKE +0.5% Monday.",
+      "tags": [
+        "mna",
+        "midstream",
+        "permian",
+        "midland-basin",
+        "natural-gas",
+        "gathering-processing",
+        "apollo",
+        "private-equity",
+        "deleveraging"
+      ],
+      "importance": "major",
+      "tickers": [
+        "OKE",
+        "APO"
+      ],
+      "metrics": {
+        "Deal": "$4.425B all-cash",
+        "Apollo investment": "$9B non-voting minority equity (capped 7% IRR for 9 years)",
+        "Debt paydown": "$5B proceeds → 3.25x debt/EBITDA target",
+        "Valuation (2027E)": "7.5x EBITDA incl ~$80M synergies",
+        "Valuation (2028E)": "6.0x EBITDA",
+        "Processing capacity": "~2.3 Bcf/d in Midland Basin (more than double)",
+        "Dedicated acreage": "~600,000 acres under long-term contracts",
+        "OKE Move": "+0.53% to $95.55 on Mon Aug 31",
+        "Close": "Q4 2026, subject to HSR"
+      },
+      "links": [
+        {
+          "label": "Apollo Press Release",
+          "url": "https://ir.apollo.com/news-events/press-releases/detail/644/oneok-to-acquire-brazos-midstreams-permian-midland-basin"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/oneok-bets-4-4b-brazos-140200951.html"
+        },
+        {
+          "label": "AOL Recap",
+          "url": "https://www.aol.com/articles/oneok-acquire-brazos-midstreams-permian-204000000.html"
+        },
+        {
+          "label": "BOE Report",
+          "url": "https://boereport.com/2026/08/30/oneok-to-buy-brazos-midstreams-permian-midland-basin-assets-for-4-43-billion/"
+        },
+        {
+          "label": "OKE Quote",
+          "url": "https://finance.yahoo.com/quote/OKE"
+        }
+      ],
+      "explainer": {
+        "tagline": "ONEOK doubles its Midland Basin footprint with a $4.4B Brazos buy and pulls in $9B of Apollo equity capped at a 7% return.",
+        "whatIsIt": "ONEOK announced Sunday afternoon Aug 30 that it will acquire Brazos Midstream Holdings' Permian Midland Basin gas gathering and processing assets from Morgan Stanley Infrastructure Partners for $4.425B in cash. To fund the deal and simultaneously delever, Apollo funds are committing $9B for a non-voting minority equity stake whose return is capped at 7.0% IRR for the first nine years — any upside above that cap accrues to OKE shareholders.",
+        "howItWorks": "ONEOK plans to use ~$5B of the Apollo proceeds to pay down existing debt, targeting leverage of ~3.25x debt-to-EBITDA. The Brazos assets more than double OKE's Midland Basin processing capacity to ~2.3 Bcf/d (including plants under construction), on ~600,000 dedicated acres under long-term contracts. Deal metrics: ~7.5x 2027E EBITDA including ~$80M of synergies, and 6.0x 2028E EBITDA. Immediately accretive to EPS and FCF/share; expected close Q4 2026 subject to HSR clearance.",
+        "whyItMatters": "This is one of the largest 2026 midstream deals and reshapes the Permian gas-processing hierarchy — OKE consolidates alongside its 2023 Magellan and 2024 EnLink acquisitions. Apollo (APO) locks in a preferred-return structure that behaves more like a hybrid equity/debt instrument than pure equity. For midstream investors, it validates the 20% projected annual EBITDA growth in the segment starting 2027 as Permian gas volumes ramp. OKE +0.53% to $95.55 Monday, touching a 20-day high of $97.95 intraday.",
+        "forWho": "energy desks, midstream investors, PE credit analysts",
+        "tryIt": "https://finance.yahoo.com/quote/OKE"
+      },
+      "image": {
+        "url": "https://boereport.com/wp-content/uploads/2016/08/Permian.jpg",
+        "alt": "Permian Basin oil and gas infrastructure with pipelines and gathering equipment",
+        "fit": "cover",
+        "credit": "BOE Report"
+      },
+      "reddit": {
+        "title": "ONEOK (OKE) buys Brazos Midstream's Permian gas assets for $4.425B — Apollo throws in $9B for a minority stake capped at 7% IRR",
+        "body": "ONEOK announced a two-part transaction Sunday afternoon Aug 30 that reshapes its Permian gas-processing footprint and delevers the balance sheet in one shot.\n\n* Acquisition: $4.425B all-cash for Brazos Midstream's Midland Basin gathering + processing assets (seller: Morgan Stanley Infrastructure Partners)\n* Financing: Apollo funds commit $9B for a non-voting minority equity stake with a return capped at 7.0% IRR for the first 9 years — upside above that cap belongs to OKE shareholders\n* Balance sheet: ~$5B of Apollo proceeds go to debt paydown, targeting 3.25x debt-to-EBITDA\n* Multiple: 7.5x 2027E EBITDA (including ~$80M synergies), 6.0x 2028E EBITDA\n* Capacity: doubles Midland Basin processing to ~2.3 Bcf/d on ~600K dedicated acres under long-term contracts\n* Close: Q4 2026, subject to HSR\n\nWhy the structure is interesting:\n\n1. **Apollo is effectively getting preferred-equity economics** — 7% capped return for 9 years behaves more like a hybrid instrument than pure equity, letting OKE keep upside without adding debt.\n2. **Immediately accretive to EPS and FCF/share** per ONEOK's guidance, with projected ~20% annual segment EBITDA growth beginning 2027 as Permian gas volumes ramp.\n3. **Consolidation continues** — follows OKE's Magellan (2023) and EnLink (2024) buys; the Permian midstream stack keeps getting more concentrated.\n\nOKE reaction Monday: +0.53% to $95.55, intraday high $97.95.\n\nFull breakdown: [https://stock-tldr.xyz/releases/oke-brazos-midstream-apollo-9b-aug-30-2026](https://stock-tldr.xyz/releases/oke-brazos-midstream-apollo-9b-aug-30-2026)"
+      },
+      "publishDate": "2026-08-31T18:27:15.020Z"
+    },
     {
       "id": "us-iran-larak-hormuz-strike-jordan-retaliation-aug-30-2026",
       "categories": [

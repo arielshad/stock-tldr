@@ -10837,6 +10837,44 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260831t182715z",
+      "timestamp": "2026-08-31T18:27:15.020Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds for Aug 30–31: (1) California utility rout on SB 492 without liability shield — PCG -18%, EIX -23% (worst in 25+ yrs), Mizuho/BMO/Wells Fargo downgrades. (2) ONEOK $4.4B all-cash for Brazos Midstream Permian assets + Apollo $9B minority stake, deal doubles OKE's Midland Basin processing capacity.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ca-utility-rout-sb-492-aug-31-2026",
+          "title": "PG&E (PCG) -18% and Edison International (EIX) -23% on Monday Aug 31 — California legislature closes session Aug 29 with SB 492 that omits Newsom's $6B per-fire liability cap, subrogation shield and Wildfire Fund replenishment; Mizuho / BMO / Wells Fargo downgrade PCG, Mizuho cuts EIX to Neutral and Sempra (SRE) to Neutral",
+          "category": "regulatory",
+          "note": "Two S&P names lost 18-23% intraday on a single legislative outcome; multiple sell-side downgrades from Mizuho, BMO, Wells Fargo, Argus. Primary-source confirmed via legislative outcome + analyst notes."
+        },
+        {
+          "id": "oke-brazos-midstream-apollo-9b-aug-30-2026",
+          "title": "ONEOK (OKE) announces $4.425B all-cash acquisition of Brazos Midstream's Permian Midland Basin gas gathering and processing assets on Sunday Aug 30 — Apollo funds inject $9B minority equity (capped at 7% IRR for 9 years); ~$5B of proceeds go to debt paydown targeting 3.25x leverage; deal 7.5x 2027E EBITDA (incl ~$80M synergies), closes Q4 2026",
+          "category": "mna",
+          "note": "$13B+ combined transaction (deal + Apollo stake); primary-source confirmed via ONEOK and Apollo press releases; Bloomberg tier-1 coverage."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "regulatory",
+        "mover",
+        "sector",
+        "mna",
+        "commodity",
+        "earnings",
+        "macro",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }
