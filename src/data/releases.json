@@ -1,8 +1,301 @@
 {
-  "generatedAt": "2026-08-31T18:27:15.020Z",
+  "generatedAt": "2026-09-01T02:31:22.309Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-10y-yield-4-76-jan-2025-high-aug-31-2026",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "US 10-year Treasury yield tops 4.75% Monday Aug 31 — closes 4.76%, highest since January 2025 as rising oil and hawkish Warsh push traders to price ~62% odds of September rate hike",
+      "org": "U.S. Treasury",
+      "date": "2026-08-31",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
+      "summary": "10Y Treasury yield rose 4bp to 4.76% Monday Aug 31, breaking above the January 2025 high after Warsh's Jackson Hole speech and US strikes on Iran pushed traders to raise September rate-hike odds to ~62%.",
+      "tags": [
+        "rates",
+        "treasury",
+        "10y-yield",
+        "us10y",
+        "^tnx",
+        "fed",
+        "warsh",
+        "jackson-hole",
+        "iran",
+        "oil-inflation",
+        "curve-selloff",
+        "rate-hike-odds",
+        "sep-2026-fomc"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^TNX"
+      ],
+      "metrics": {
+        "10Y yield close": "4.76% (+4bp on day)",
+        "30Y yield close": "5.26% (+5bp on day)",
+        "Prior 10Y": "4.72–4.74%",
+        "Jan 2025 high": "4.75% (last comparable level)",
+        "Sept 25bp hike odds": "~62%"
+      },
+      "explainer": {
+        "tagline": "10Y closes at 4.76%, first close above the January 2025 line as traders reprice a September rate hike back onto the table.",
+        "whatIsIt": "The benchmark 10-year US Treasury yield rose 4 basis points on Monday Aug 31 to close at 4.76%, its highest level since January 2025. The 30Y climbed 5bp to 5.26%. It was the fourth straight session of yield gains as traders priced in an increasingly hawkish Fed.",
+        "howItWorks": "Kevin Warsh's Aug 28 Jackson Hole address ('In Our Time') told markets summer inflation prints 'do not tell me' the underlying trend is at target, and US airstrikes on Iranian rocket launchers over the weekend sent WTI back near $86 and Brent above $88. Rates-derivatives desks now price roughly 62% odds of a 25bp rate hike at the Sept 15–16 FOMC, versus a coin-flip a week ago.",
+        "whyItMatters": "A confirmed break of the Jan 2025 4.75% level puts the 10Y within striking distance of the 4.99% cycle high from Oct 2023. Equity duration paid the price — the Nasdaq (-0.1%) and S&P (-0.3%) closed a winning August in the red, and rate-sensitive sectors (REITs, small-caps, utilities) led the reversal. Every basis point higher on the long end also tightens conditions for the $1T-plus AI capex-and-Treasury-issuance pipeline priced to swing FY27.",
+        "forWho": "rates traders, duration desks, utility and REIT desks, AI-capex watchers",
+        "tryIt": "https://www.federalreserve.gov/releases/h15/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/8af809e8aaaca0532db03ae8998106e5b6751b7f08e4bccf1abc3ee2c9a091f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F835a71ec-7fdd-4cb3-9db0-6c893b09ff1c",
+        "alt": "US 10-year Treasury yield close on Monday Aug 31 2026 — 4.76%, highest since January 2025",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+        },
+        {
+          "label": "10Y Data (FRED)",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        },
+        {
+          "label": "Fed H.15 Daily Rates",
+          "url": "https://www.federalreserve.gov/releases/h15/"
+        },
+        {
+          "label": "10Y Chart",
+          "url": "https://www.cnbc.com/quotes/US10Y"
+        }
+      ],
+      "reddit": {
+        "title": "10Y Treasury yield closes at 4.76% Monday — first close above the January 2025 line, September rate-hike odds back to 62%",
+        "body": "Monday Aug 31 the long end broke through the last ceiling from the Jan 2025 selloff. Here's the tape:\n\n* 10Y closed 4.76%, +4bp on the day — highest close since January 2025\n* 30Y closed 5.26%, +5bp\n* Fourth straight session of yield gains\n* Fed funds futures now price ~62% odds of a 25bp September hike, up from a coin-flip a week ago\n* S&P -0.3%, Nasdaq -0.1%, Dow -0.7% closed a winning August in the red\n\nTwo things broke rates at once:\n\n1. **Warsh's Jackson Hole speech (Aug 28)** — the new chair told markets summer prints \\\"do not tell me\\\" underlying inflation is at target and reasserted the Fed has \\\"work to do\\\".\n2. **US-Iran back at it** — weekend strikes on Iranian rocket launchers near Hormuz pushed WTI near $86 and Brent above $88, reviving the oil-passthrough inflation channel.\n\nNext catalysts: ISM Manufacturing Sept 2, JOLTS Sept 3, Nonfarm Payrolls Sept 5, then FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-10y-yield-4-76-jan-2025-high-aug-31-2026](https://stock-tldr.xyz/releases/us-10y-yield-4-76-jan-2025-high-aug-31-2026)"
+      },
+      "publishDate": "2026-09-01T02:31:22.309Z"
+    },
+    {
+      "id": "amzn-ftc-22-ags-ad-auction-20b-aug-31-2026",
+      "categories": [
+        "regulatory",
+        "mover"
+      ],
+      "title": "FTC and 22 state AGs sue Amazon (AMZN) Monday Aug 31 over 7-year 'second-price' ad-auction scheme alleged to have secretly overcharged 1M+ advertisers by $20B+; AMZN -2.7% below $260",
+      "org": "Federal Trade Commission",
+      "date": "2026-08-31",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-falls-ftc-prepares-190107212.html",
+      "summary": "FTC and 22 state AGs sued Amazon Monday Aug 31 in W.D. Wash. alleging a 7-year 'soft-reserve' scheme that charged sponsored-product advertisers full winning bids ~80% of the time in supposed second-price auctions — over $20B in alleged overcharges.",
+      "tags": [
+        "regulatory",
+        "ftc",
+        "state-ags",
+        "amzn",
+        "advertising",
+        "sponsored-products",
+        "second-price-auction",
+        "soft-reserve",
+        "antitrust",
+        "w-d-wash"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMZN"
+      ],
+      "metrics": {
+        "AMZN move": "-2.7% (worst day in over a month)",
+        "AMZN price": "below $260 at 3:40pm ET",
+        "Duration alleged": "7+ years",
+        "Advertisers affected": "1M+ brands and sellers",
+        "Alleged overcharges": "$20B+",
+        "State co-plaintiffs": 22
+      },
+      "explainer": {
+        "tagline": "22-state coalition joins FTC to accuse Amazon of running fake second-price sponsored-ad auctions and pocketing $20B+ in secret overcharges over 7 years.",
+        "whatIsIt": "The FTC, joined by 22 state attorneys general (bipartisan — 11 R, 11 D), filed suit against Amazon in the US District Court for the Western District of Washington on Monday Aug 31. The complaint alleges that Amazon's sponsored-products advertising business, one of its highest-margin segments, was rigged.",
+        "howItWorks": "In a textbook second-price (Vickrey) auction, the winner pays one cent above the second-highest bid. The FTC alleges that Amazon added an undisclosed 'soft reserve price' that quietly raised the floor, so advertisers ended up paying their full winning bid roughly 80% of the time. The complaint alleges the practice ran for more than 7 years, affected more than 1 million brands and sellers, and generated more than $20 billion in extra revenue for Amazon.",
+        "whyItMatters": "Sponsored ads are Amazon's fastest-growing and highest-margin business — the segment ran at a $65B+ annualized clip in 2026 and is the anchor of AWS-adjacent op-margin narratives. AMZN closed the session -2.7% (below $260), its worst day in over a month, and pulled the S&P 500 into the red. Google (GOOGL) and Meta (META) ad desks also came under pressure as brand budgets could rotate. Watch for injunctive relief (auction-mechanic redesign) as much as monetary damages.",
+        "forWho": "regulatory / antitrust desks, digital-ad analysts, mega-cap tech longs",
+        "tryIt": "https://www.ftc.gov/legal-library/browse/cases-proceedings/amazon"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/f3ad9aa721c587dd4f92ab7f193244c87ad160aa4a02df405bff16d4c038e644/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fec009b2d35b554c38facc62e44f67939.png",
+        "alt": "Amazon logo — FTC and 22 state AGs sue Amazon over sponsored-product ad-auction scheme on Aug 31 2026",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "FTC Press Release",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-falls-ftc-prepares-190107212.html"
+        },
+        {
+          "label": "NBC News Coverage",
+          "url": "https://www.nbcnews.com/business/business-news/amazon-sued-ftc-22-us-states-advertising-practices-rcna595411"
+        },
+        {
+          "label": "AMZN Quote",
+          "url": "https://finance.yahoo.com/quote/AMZN"
+        }
+      ],
+      "reddit": {
+        "title": "FTC + 22 state AGs sue Amazon for $20B+ ad-auction fraud — 7-year 'second-price' auction was rigged, AMZN -2.7% below $260",
+        "body": "Big regulatory shoe drops on Amazon's ad business Monday Aug 31. FTC + 22 state AGs (11 R / 11 D — properly bipartisan) filed in W.D. Wash. alleging the whole sponsored-products auction was rigged.\n\n* Alleged overcharge: $20B+ over 7 years\n* Advertisers affected: 1M+ brands and sellers\n* AMZN -2.7% on the day, closed below $260 — worst session in over a month\n* 22 state co-plaintiffs, bipartisan split\n* Filed in US District Court, Western District of Washington\n\n**The mechanic they're calling out**: sponsored-product ads use second-price auctions — winner is supposed to pay $0.01 above the runner-up bid. The FTC says Amazon added an undisclosed \\\"soft reserve price\\\" that quietly pushed the floor up so advertisers paid their full winning bid \\~80% of the time. That's the $20B delta.\n\nWhy it matters for AMZN: sponsored ads is running at a $65B+ annualized clip and is the highest-margin piece of the retail P&L. Any injunctive redesign of the auction mechanic hits gross-profit dollars directly, not just the fine.\n\nNext catalysts: Amazon response filing, other ad-tech peers (GOOGL, META) trading in sympathy.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amzn-ftc-22-ags-ad-auction-20b-aug-31-2026](https://stock-tldr.xyz/releases/amzn-ftc-22-ags-ad-auction-20b-aug-31-2026)"
+      },
+      "publishDate": "2026-09-01T02:31:22.309Z"
+    },
+    {
+      "id": "nvda-mediatek-3-5b-convertible-bonds-aug-31-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "NVIDIA (NVDA) invests $3.5B in MediaTek convertible bonds on Monday Aug 31 — deepens AI edge-to-cloud partnership spanning NVLink Fusion custom accelerators, RTX/DGX Spark PC chips and Dimensity Auto",
+      "org": "NVIDIA",
+      "date": "2026-08-31",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-5-billion-135408846.html",
+      "summary": "NVIDIA said Monday it will buy $3.5B of MediaTek convertible bonds, deepening a partnership spanning NVLink Fusion custom AI accelerators, RTX/DGX Spark AI PCs, and MediaTek's Dimensity Auto automotive stack.",
+      "tags": [
+        "mna",
+        "strategic-investment",
+        "convertible-bonds",
+        "nvda",
+        "mediatek",
+        "2454-tw",
+        "ai-infrastructure",
+        "nvlink-fusion",
+        "custom-silicon",
+        "rtx-spark",
+        "dgx-spark",
+        "dimensity-auto",
+        "ai-pc",
+        "ai-edge"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NVDA"
+      ],
+      "metrics": {
+        "Investment": "$3.5B in MediaTek convertible bonds",
+        "NVDA close": "~$220 (roughly +1% on day)",
+        "Partnership scope": "AI data center + AI PC + automotive",
+        "Coverage": "NVLink Fusion, RTX Spark, DGX Spark, Dimensity Auto"
+      },
+      "explainer": {
+        "tagline": "Nvidia writes a $3.5B convertible-bond check to MediaTek to anchor NVLink Fusion inside custom AI accelerators as hyperscalers try to move off Nvidia GPUs.",
+        "whatIsIt": "Nvidia and MediaTek announced Monday Aug 31 that Nvidia will buy $3.5B of MediaTek convertible bonds, deepening a partnership that already spans data-center AI, AI PCs and automotive. MediaTek is Taiwan's largest fabless chip designer.",
+        "howItWorks": "Under the expanded agreement, MediaTek will adopt Nvidia's NVLink Fusion — the interconnect Nvidia pitches to hyperscalers building custom XPUs so those chips can still plug into Nvidia rack-scale systems. The two also extend prior collaborations on the RTX Spark and DGX Spark chips for consumer/enterprise AI PCs, and on Nvidia-based AI platforms built into MediaTek's Dimensity Auto SoCs for cars. Rick Tsai (MediaTek Vice Chair/CEO) said the deal 'strengthens a collaboration that spans cloud AI infrastructure, local AI computing and automotive in the era of physical AI.'",
+        "whyItMatters": "It's a strategic bet-hedge: hyperscalers (AWS Trainium, Google TPU, Microsoft Maia, OpenAI, Anthropic) are building their own accelerators to reduce Nvidia dependency. By anchoring NVLink Fusion inside custom silicon designed by MediaTek — a direct competitor to Broadcom and Marvell for that XPU-design business — Nvidia keeps its interconnect (and CUDA-adjacent) moat around the very chips designed to compete with it. NVDA closed roughly +1% at ~$220. AVGO and MRVL are the names that get squeezed.",
+        "forWho": "AI-infra investors, semis desks, hyperscaler capex watchers",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/596a26fb1f1c4999ab79a621be7653bf2c4905aab162c352bdb4517b1b10ea29/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Ffa7df46af0489eb1b0c7f806f0bdff5b.jpg",
+        "alt": "NVIDIA and MediaTek deepen AI edge-to-cloud partnership with $3.5B convertible-bond investment on Aug 31 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "NVIDIA Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/08/31/3353306/0/en/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms.html"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-5-billion-135408846.html"
+        },
+        {
+          "label": "TechCrunch Analysis",
+          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+        },
+        {
+          "label": "NVDA Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia writes $3.5B convertible-bond check to MediaTek — anchors NVLink Fusion inside custom AI accelerators as hyperscalers try to route around Nvidia GPUs",
+        "body": "Monday Aug 31 Nvidia announced a $3.5B convertible-bond investment in MediaTek and expanded the partnership to cover data-center, PC and automotive AI. Details:\n\n* $3.5B check from Nvidia in MediaTek convertible bonds\n* MediaTek adopts NVLink Fusion — Nvidia's interconnect for custom AI accelerators\n* Expands existing collab on RTX Spark and DGX Spark AI PC chips\n* Extends Dimensity Auto automotive AI platforms\n* NVDA finished roughly +1% at \\~$220\n\n**Why the check makes sense**: hyperscalers (AWS Trainium, Google TPU, Microsoft Maia, OpenAI, Anthropic) are all building their own accelerators to reduce Nvidia dependency. If those chips still route over NVLink Fusion, Nvidia keeps the interconnect and CUDA-adjacent moat around silicon literally designed to compete with it.\n\n**Who gets squeezed**: Broadcom (AVGO) and Marvell (MRVL) are the incumbent XPU-design partners for the hyperscalers. MediaTek entering this business — funded and specced by Nvidia — puts direct pressure on that pipeline.\n\nJensen Huang: \\\"AI is transforming every computing platform — from the world's largest AI factories to the PC and the car.\\\"\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-mediatek-3-5b-convertible-bonds-aug-31-2026](https://stock-tldr.xyz/releases/nvda-mediatek-3-5b-convertible-bonds-aug-31-2026)"
+      },
+      "publishDate": "2026-09-01T02:31:22.309Z"
+    },
+    {
+      "id": "tsla-100gw-solar-cybercab-anticipation-aug-31-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Tesla (TSLA) +5.51% to $367.95 on Monday Aug 31 — Musk weekend post says SpaceX and Tesla each building 100 GW/yr of solar production to power data centers, with invite-only Cybercab reveal set for Sept 3 in Austin and Model 3 HK/Macau entry-price cut 8.5%",
+      "org": "Tesla",
+      "date": "2026-08-31",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-stepped-gas-155050503.html",
+      "summary": "TSLA +5.51% to $367.95 on Monday Aug 31 on 60.9M shares (~46% above 3-mo avg) after Musk's weekend post pitched 100 GW/yr each of SpaceX + Tesla solar for AI data centers, plus Sept 3 Cybercab reveal in Austin and an 8.5% HK/Macau Model 3 entry-price cut.",
+      "tags": [
+        "mover",
+        "tsla",
+        "musk",
+        "cybercab",
+        "robotaxi",
+        "fsd",
+        "solar",
+        "energy-storage",
+        "ai-datacenter",
+        "gas-turbines",
+        "model-3",
+        "hong-kong",
+        "macau",
+        "spacex"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TSLA"
+      ],
+      "metrics": {
+        "TSLA close": "$367.95 (+$19.20)",
+        "Move": "+5.51%",
+        "Volume": "60.9M (~46% above 3-mo avg)",
+        "HK Model 3 cut": "-8.5% entry price to HK$205,000 (~$26K)",
+        "Cybercab reveal": "Invite-only Austin event Sept 3 2026"
+      },
+      "explainer": {
+        "tagline": "TSLA gaps 5.5% higher on a stacked catalyst set — Musk pitches 100 GW/yr of solar for data centers, invite-only Cybercab reveal Wednesday, and an 8.5% HK/Macau Model 3 price cut.",
+        "whatIsIt": "Tesla shares surged 5.51% to close at $367.95 on Monday Aug 31 on above-average volume (60.9M shares, ~46% above the 3-month average). Three catalysts stacked into a single session.",
+        "howItWorks": "Over the weekend, Musk replied to a post about SpaceX making its own gas-turbine blades to speed data-center buildouts, adding that both SpaceX and Tesla are 'each building 100 gigawatts per year of solar production capacity as fast as possible' — reframing Tesla Energy as an AI-data-center supply-chain trade. Second: Tesla will host an invite-only Cybercab reveal in Austin on Wed Sept 3, the first steering-wheel-less production Cybercab. Third: Tesla launched a simplified rear-wheel-drive Model 3 in Hong Kong (HK$205,000, ~$26K, -8.5% vs prior base) and Macau (MOP 252,000, ~$31K), the third region after the US and South Korea to get a budget variant.",
+        "whyItMatters": "Two things drove the tape: the 'Tesla-Energy as AI-infra picks-and-shovels' framing (100 GW/yr of solar × two years = enough nameplate to feed several hyperscale campuses), and expectations that Cybercab reveal + the Nevada 5,000-robotaxi permit approved Aug 21 forms a coherent robotaxi + autonomy story going into Q3. TSLA is now up ~20% from its Aug 11 low. Watch AI-datacenter beneficiaries (VST, TLN, CEG, NEE) and legacy autonomy names (GOOGL/Waymo, UBER) trade in sympathy.",
+        "forWho": "TSLA traders, AI-datacenter power desks, autonomy watchers",
+        "tryIt": "https://finance.yahoo.com/quote/TSLA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/f99919d9acdcc5a0cef8a1238a500a4610872f48ed1d29a0d3a997e8c86f5ea0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff8145b6756dbbeb323145e77e02ffd5b.png",
+        "alt": "Tesla stock +5.51% Monday Aug 31 2026 to $367.95 on Cybercab, solar, and Model 3 catalysts",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-stepped-gas-155050503.html"
+        },
+        {
+          "label": "Cybercab Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-31-210747182.html"
+        },
+        {
+          "label": "Model 3 HK/Macau",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-cut-model-3-153127672.html"
+        },
+        {
+          "label": "TSLA Quote",
+          "url": "https://finance.yahoo.com/quote/TSLA"
+        }
+      ],
+      "reddit": {
+        "title": "TSLA +5.51% to $367.95 Monday Aug 31 — Musk pitches 100 GW/yr solar for AI data centers, invite-only Cybercab reveal Wednesday, HK/Macau Model 3 entry cut 8.5%",
+        "body": "Three catalysts landed on TSLA in the same session and the stock gapped 5.5% higher on volume.\n\n* TSLA closed $367.95, +5.51%, up $19.20\n* Volume 60.9M shares, \\~46% above the 3-month average\n* Stock now up \\~20% from its Aug 11 low\n\nThree drivers:\n\n1. **Musk weekend post reframes Tesla Energy as AI-infra** — replying to a thread about SpaceX in-house casting of gas-turbine blades, Musk said SpaceX and Tesla are \\\"each building 100 gigawatts per year of solar production capacity as fast as possible\\\" to feed AI data centers.\n2. **Invite-only Cybercab reveal Sept 3 in Austin** — first steering-wheel-less production Cybercab, on the heels of Nevada approving Tesla's 5,000-vehicle robotaxi permit on Aug 21.\n3. **HK/Macau Model 3 cut** — Tesla launched a simplified rear-wheel-drive Model 3 at HK$205,000 (\\~$26K), -8.5% vs the prior base, and at MOP 252,000 (\\~$31K) in Macau — third region after US and South Korea to get a budget variant.\n\nSympathy trades: AI-datacenter power names (VST, TLN, CEG, NEE) on the solar pitch, autonomy watchers on GOOGL/Waymo and UBER.\n\nNext catalyst: Cybercab reveal Sept 3.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-100gw-solar-cybercab-anticipation-aug-31-2026](https://stock-tldr.xyz/releases/tsla-100gw-solar-cybercab-anticipation-aug-31-2026)"
+      },
+      "publishDate": "2026-09-01T02:31:22.309Z"
+    },
     {
       "id": "ca-utility-rout-sb-492-aug-31-2026",
       "categories": [

@@ -10875,6 +10875,52 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260901t023122z",
+      "timestamp": "2026-09-01T02:31:22.309Z",
+      "source": "github-actions-sweep",
+      "summary": "Aug 31 close: US 10Y yield tops 4.75% for first time since Jan 2025 (~62% odds pricing Sep hike); FTC + 22 state AGs sue Amazon over 7-year $20B+ 'soft reserve' ad-auction scheme (AMZN -2.7%); NVIDIA writes $3.5B check to MediaTek convertible bonds to anchor NVLink Fusion in custom AI silicon; TSLA +5.5% to $367.95 on Musk's 100 GW/yr solar pitch, Sept 3 Cybercab reveal and HK/Macau Model 3 price cut.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-10y-yield-4-76-jan-2025-high-aug-31-2026",
+          "title": "US 10-year Treasury yield tops 4.75% Monday Aug 31 — closes 4.76%, highest since January 2025 as rising oil and hawkish Warsh push traders to price ~62% odds of September rate hike",
+          "category": "rates",
+          "note": "First close above the January 2025 4.75% line after Warsh Jackson Hole + Iran strikes reprice a September hike; distinct from Aug 17 30Y story (30Y now 5.26%, below its Aug 17 5.31% peak)."
+        },
+        {
+          "id": "amzn-ftc-22-ags-ad-auction-20b-aug-31-2026",
+          "title": "FTC and 22 state AGs sue Amazon (AMZN) Monday Aug 31 over 7-year 'second-price' ad-auction scheme alleged to have secretly overcharged 1M+ advertisers by $20B+; AMZN -2.7% below $260",
+          "category": "regulatory",
+          "note": "$20B+ ad-auction complaint filed Aug 31 in W.D. Wash., 22-state bipartisan coalition; AMZN -2.7% below $260 and dragged S&P into the red."
+        },
+        {
+          "id": "nvda-mediatek-3-5b-convertible-bonds-aug-31-2026",
+          "title": "NVIDIA (NVDA) invests $3.5B in MediaTek convertible bonds on Monday Aug 31 — deepens AI edge-to-cloud partnership spanning NVLink Fusion custom accelerators, RTX/DGX Spark PC chips and Dimensity Auto",
+          "category": "mna",
+          "note": "Nvidia anchors NVLink Fusion inside MediaTek-designed custom XPUs, structural hedge as hyperscalers build in-house accelerators; distinct from any prior NVDA earnings/AI-partnership entry."
+        },
+        {
+          "id": "tsla-100gw-solar-cybercab-anticipation-aug-31-2026",
+          "title": "Tesla (TSLA) +5.51% to $367.95 on Monday Aug 31 — Musk weekend post says SpaceX and Tesla each building 100 GW/yr of solar production to power data centers, with invite-only Cybercab reveal set for Sept 3 in Austin and Model 3 HK/Macau entry-price cut 8.5%",
+          "category": "mover",
+          "note": "TSLA +5.5% on Musk 100 GW/yr solar reframing (AI-datacenter picks-and-shovels), Sept 3 Cybercab reveal and HK/Macau Model 3 cut; distinct from Aug 21 Nevada robotaxi permit entry."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rates",
+        "macro",
+        "regulatory",
+        "mover",
+        "mna"
+      ]
     }
   ]
 }
