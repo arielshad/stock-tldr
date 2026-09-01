@@ -10921,6 +10921,53 @@
         "mover",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260901t155358z",
+      "timestamp": "2026-09-01T15:53:58.907Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 1 sweep — added the late-Monday Hormuz tanker strikes on Sidr and Senegal Prosperity (WTI +2.8% to $88.16), the softer-but-hot August ISM Manufacturing print (54.6, Prices Paid 71.1), Medtronic's Q1 FY27 beat-and-raise, and NIO's first-ever non-GAAP quarterly profit paired with a revenue miss.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hormuz-sidr-senegal-prosperity-tanker-strikes-aug-31-2026",
+          "title": "Two VLCCs (Saudi 'Sidr', Liberia-flag 'Senegal Prosperity') hit by projectiles exiting the Strait of Hormuz late Monday Aug 31 — WTI +$2.40 (+2.80%) to $88.16 as Tuesday Sept 1 open, escalation of US-Iran conflict weeks after Aug 30 Larak Island strikes",
+          "category": "commodity",
+          "note": "First tanker strikes on outbound VLCCs since Aug 10-14 stall; drove crude +2.8% and extends the reopened US-Iran fight after Aug 30 Larak Island strikes."
+        },
+        {
+          "id": "us-ism-manufacturing-pmi-546-aug-sep-1-2026",
+          "title": "US ISM Manufacturing PMI August 2026 = 54.6 (Tue Sept 1) — down 1.0 pt from July's 55.6 but 8th straight month of expansion; New Orders 53.7 (-3.0), Employment 51.2 (-1.6), Prices Paid unchanged at hot 71.1",
+          "category": "macro",
+          "note": "Major August macro print released 10AM ET Sept 1 — decelerated from July's 55.6 but stayed in expansion for the 8th month; Prices Paid unchanged at 71.1 keeps the Warsh-hike thesis alive."
+        },
+        {
+          "id": "mdt-q1-fy27-earnings-sep-1-2026",
+          "title": "Medtronic (MDT) Q1 FY27 — revenue $9.8B (+13.7% Y/Y organic) beats; non-GAAP EPS $1.45 (+15.1% Y/Y) tops guide; GAAP EPS $1.14 (+40.7%); FY27 organic revenue guide raised to 7.25–7.75% and non-GAAP EPS to $5.94–$6.00; MDT trades higher on Tuesday Sept 1",
+          "category": "earnings",
+          "note": "Cleanest Medtronic quarter in years — +13.7% organic revenue, EPS $1.45 beats $1.39 est, FY27 guide raised on both lines; MDT trades higher."
+        },
+        {
+          "id": "nio-q2-2026-earnings-sep-1-2026",
+          "title": "NIO (NIO) Q2 2026 — revenue RMB32.14B / US$4.74B (+69.1% Y/Y, +25.9% Q/Q) misses ~$4.95B est; deliveries 107,658 (+49.4% Y/Y); vehicle margin 18.5% (from 10.3%); first quarterly non-GAAP profit (RMB26.1M); shares fell ~4.4% on Tue Sept 1",
+          "category": "earnings",
+          "note": "First-ever non-GAAP profit for NIO and 18.5% vehicle margin held, but a revenue miss vs $4.95B whisper sent shares -~4.4%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "earnings",
+        "geopolitics",
+        "mover",
+        "rates"
+      ]
     }
   ]
 }

@@ -1,8 +1,320 @@
 {
-  "generatedAt": "2026-09-01T02:31:22.309Z",
+  "generatedAt": "2026-09-01T15:53:58.907Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hormuz-sidr-senegal-prosperity-tanker-strikes-aug-31-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Two VLCCs (Saudi 'Sidr', Liberia-flag 'Senegal Prosperity') hit by projectiles exiting the Strait of Hormuz late Monday Aug 31 — WTI +$2.40 (+2.80%) to $88.16 as Tuesday Sept 1 open, escalation of US-Iran conflict weeks after Aug 30 Larak Island strikes",
+      "org": "Strait of Hormuz",
+      "date": "2026-08-31",
+      "url": "https://finance.yahoo.com/energy/articles/two-oil-supertankers-hit-projectiles-080609465.html",
+      "summary": "Two crude supertankers exiting the Strait of Hormuz were struck by unknown projectiles late Mon Aug 31 — the Bahri-operated Sidr and Sinokor-operated Senegal Prosperity, both northeast/east of Khasab, Oman. No casualties. WTI +2.8% to $88.16.",
+      "tags": [
+        "oil",
+        "wti",
+        "brent",
+        "commodity",
+        "geopolitics",
+        "iran",
+        "saudi-arabia",
+        "hormuz",
+        "tanker-attack",
+        "bahri",
+        "sinokor",
+        "vlcc",
+        "ukmto",
+        "us-iran-war"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "WTI (Sept 1 open)": "$88.16 (+$2.40, +2.80%)",
+        "Vessels hit": "Sidr (Saudi/Bahri VLCC), Senegal Prosperity (Liberia-flag, Sinokor VLCC)",
+        "Location": "Northeast/east of Khasab, Oman (Strait of Hormuz)",
+        "Time of strikes": "Late Mon Aug 31 (~1952 UTC per Marisks)",
+        "Projectiles": "3 on Senegal Prosperity; unspecified on Sidr",
+        "Casualties": "None reported"
+      },
+      "explainer": {
+        "tagline": "Two supertankers hit by projectiles late Monday inside the Strait of Hormuz — WTI +2.8% to $88.16 as the US-Iran fight reignites after the Aug 30 Larak strikes.",
+        "whatIsIt": "Maritime security consultancy Marisks and the UK Maritime Trade Operations reported Monday night that two very-large crude carriers were struck by unknown projectiles as they exited the Persian Gulf outbound through the Strait of Hormuz. The Sidr, operated by Saudi Arabia's Bahri shipping company, was hit sailing 16.6 nautical miles northeast of Khasab, Oman. The Sinokor-operated Liberia-flag Senegal Prosperity was hit 17 nautical miles east of Khasab by three projectiles. No casualties reported. Neither operator confirmed on the record.",
+        "howItWorks": "Both tankers were making outbound transits — the highest-risk leg for chokepoint attacks. The reports came within minutes of each other and days after US strikes on Iranian rocket launchers on Larak Island on Aug 30 (see prior sweep). Bloomberg and Insurance Journal ran the wire Tuesday morning; UKMTO logged one strike but did not publicly identify the vessel. No group claimed responsibility. Marisks put the initial strike window around 19:52 UTC on Aug 31.",
+        "whyItMatters": "The Oct crude contract added $2.40 to $88.16 (+2.80%) on the news, extending oil's rise into a fresh geopolitical spike. Roughly 20% of global oil demand and one-third of seaborne LNG transits Hormuz; two mid-transit VLCC strikes materially raise war-risk premiums and could tighten realized barrels if operators pause outbound loadings, echoing the Aug 10-14 stall in Brent. Rate-sensitive risk assets sold off into Tuesday's open (Nasdaq -0.90% intraday reported), with the 10Y yield already at a 19-month high going in.",
+        "forWho": "Energy desks, tanker-rate and P&I insurance traders, macro/geopolitics allocators.",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/34413f8b6149811f2021d36bc0a6a8302628ba0edf31b179fece43a73c33544e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F5f5ca7b5b7fa789b5095563ba0c0676a.jpg",
+        "alt": "Very-large crude carrier transiting the Strait of Hormuz — file image accompanying Sept 1 2026 tanker-strike report.",
+        "fit": "cover",
+        "credit": "Bloomberg via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo/Bloomberg — Wire",
+          "url": "https://finance.yahoo.com/energy/articles/two-oil-supertankers-hit-projectiles-080609465.html"
+        },
+        {
+          "label": "Jerusalem Post — Hit",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-907225"
+        },
+        {
+          "label": "SupplyChainBrain — Recap",
+          "url": "https://www.supplychainbrain.com/articles/44770-hormuz-hostilities-pick-up-as-two-tankers-reportedly-struck"
+        },
+        {
+          "label": "Al-Monitor — Reuters wire",
+          "url": "https://www.al-monitor.com/originals/2026/09/two-tankers-carrying-saudi-oil-attacked-strait-hormuz"
+        },
+        {
+          "label": "Korea Herald — Sinokor",
+          "url": "https://www.koreaherald.com/article/10859323"
+        }
+      ],
+      "reddit": {
+        "title": "Two supertankers hit by projectiles inside the Strait of Hormuz late Monday — WTI +2.8% to $88.16, US-Iran fight reignites after Aug 30 Larak strikes",
+        "body": "Marisks and UK Maritime Trade Operations reported two very-large crude carriers were struck by unknown projectiles late Monday night as they exited the Persian Gulf via the Strait of Hormuz.\n\n* *Sidr* — Saudi Arabia's Bahri-operated VLCC, hit 16.6nm NE of Khasab, Oman\n* *Senegal Prosperity* — Liberia-flag, Sinokor-operated VLCC, hit by 3 projectiles 17nm east of Khasab\n* No casualties reported; neither operator confirmed on the record\n* WTI October contract: **+$2.40 (+2.80%) to $88.16**\n* Marisks put the initial strike window around 19:52 UTC on Aug 31\n\nWhy it matters:\n\n1. **Chokepoint risk snap-back** — roughly 20% of global oil demand and one-third of seaborne LNG transits Hormuz; two mid-transit VLCC strikes materially raise war-risk premiums.\n2. **Aug 30 escalation continues** — US struck Iranian rocket launchers on Larak Island on Sunday; this is the first tit-for-tat tanker hit since.\n3. **Rates-sensitive selloff** — 10Y yield was already at a 19-month high going into the open; Nasdaq -0.90% intraday.\n\nNext catalysts: ISM Manufacturing (out today), JOLTS Wed, NFP Fri Sep 4, Warsh's first FOMC on Sep 16-17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hormuz-sidr-senegal-prosperity-tanker-strikes-aug-31-2026](https://stock-tldr.xyz/releases/hormuz-sidr-senegal-prosperity-tanker-strikes-aug-31-2026)"
+      },
+      "publishDate": "2026-09-01T15:53:58.907Z"
+    },
+    {
+      "id": "us-ism-manufacturing-pmi-546-aug-sep-1-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "US ISM Manufacturing PMI August 2026 = 54.6 (Tue Sept 1) — down 1.0 pt from July's 55.6 but 8th straight month of expansion; New Orders 53.7 (-3.0), Employment 51.2 (-1.6), Prices Paid unchanged at hot 71.1",
+      "org": "Institute for Supply Management",
+      "date": "2026-09-01",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-6-august-2026-ism-manufacturing-pmi-report-302865127.html",
+      "summary": "US ISM Manufacturing PMI August 2026 prints 54.6 vs 55.6 July, 8th straight month of expansion. New Orders 53.7 (-3.0), Employment 51.2 (-1.6). Prices Paid stuck at 71.1 — 22nd month of overall-economy expansion.",
+      "tags": [
+        "macro",
+        "ism",
+        "manufacturing",
+        "pmi",
+        "us-economy",
+        "expansion",
+        "new-orders",
+        "prices-paid",
+        "employment",
+        "warsh-fed"
+      ],
+      "importance": "major",
+      "metrics": {
+        "PMI": "54.6 (-1.0 vs 55.6 July)",
+        "New Orders": "53.7 (-3.0)",
+        "Production": "58.3 (-0.2)",
+        "Employment": "51.2 (-1.6)",
+        "Prices Paid": "71.1 (unchanged)",
+        "Backlog": "51.8 (-3.2)",
+        "Streak": "8th straight month of expansion; 22nd of overall-economy expansion"
+      },
+      "explainer": {
+        "tagline": "ISM Manufacturing cooled a notch to 54.6 in August but stayed in expansion — Prices Paid still 71.1, a red flag for the hawkish rate-hike case Warsh has been telegraphing.",
+        "whatIsIt": "The Institute for Supply Management's August 2026 Manufacturing PMI printed at 54.6, one full point below July's post-2022-high 55.6 and above the 47.5 expansion threshold for the eighth consecutive month. Susan Spence, chair of the Manufacturing Business Survey Committee, noted the overall economy continued in expansion for the 22nd month in a row. Released Tuesday Sept 1 at 10:00 AM ET.",
+        "howItWorks": "New Orders decelerated to 53.7 from 56.7 (-3.0). Production held at 58.3 (-0.2). Employment slipped to 51.2 from 52.8 (-1.6) but stayed above the growth line. Backlog of Orders fell 3.2 pts to 51.8. The standout is Prices Paid, unchanged at 71.1 — a level historically consistent with core-goods inflation running near 3% Y/Y.",
+        "whyItMatters": "This is the exact combo the Warsh-led Fed does not want: growth still expanding, employment still expanding, but input prices sticky in the low-70s. Rate-hike odds priced into fed-funds futures for the Sept 16-17 FOMC hit >65% intraday after Warsh's Aug 28 Jackson Hole speech; a 54.6 print with 71.1 Prices Paid gives the hawks fresh ammunition. The 10Y yield held at 4.77% (19-month high) and the 2Y at 4.35%; risk assets sold off on the day.",
+        "forWho": "Rates and STIR traders, macro discretionary, industrials PMs.",
+        "tryIt": "https://fred.stlouisfed.org/series/NAPM"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS349053/INSTITUTE-FOR-SUPPLY-MANAGEMENT-LOGO-v1.jpg?id=OA2916983&p=facebook",
+        "alt": "Institute for Supply Management logo used with the August 2026 ISM Manufacturing PMI release.",
+        "fit": "contain",
+        "credit": "ISM"
+      },
+      "links": [
+        {
+          "label": "PRNewswire Release",
+          "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-6-august-2026-ism-manufacturing-pmi-report-302865127.html"
+        },
+        {
+          "label": "FXStreet Preview",
+          "url": "https://www.fxstreet.com/news/ism-manufacturing-pmi-set-to-signal-steady-expansion-in-us-factory-activity-202609010900"
+        },
+        {
+          "label": "FXStreet — Reaction",
+          "url": "https://www.fxstreet.com/news/united-states-ism-manufacturing-pmi-came-in-at-546-below-forecasts-552-in-august-202609011400"
+        },
+        {
+          "label": "ActionForex — Recap",
+          "url": "https://www.actionforex.com/live-comments/652558-us-ism-manufacturing-slows-to-54-6-as-orders-and-hiring-lose-momentum/"
+        }
+      ],
+      "reddit": {
+        "title": "US ISM Manufacturing PMI August 2026 = 54.6 (vs 55.6 July) — 8th straight month of expansion, but Prices Paid stuck at 71.1 as Warsh's Fed telegraphs a hike",
+        "body": "Cooler than July, still expanding, still hot on prices — the exact combo the Warsh Fed has been flagging.\n\n* Headline PMI **54.6** (-1.0 pt vs July's 55.6)\n* 8th straight month of manufacturing expansion; 22nd of overall-economy expansion (ISM composite)\n* New Orders 53.7 (-3.0), Production 58.3 (-0.2), Employment 51.2 (-1.6)\n* Prices Paid **71.1, unchanged** — the sticky-input tell\n* Backlog of Orders 51.8 (-3.2)\n\nWhy it matters:\n\n1. **Sticky prices vs Warsh** — his Jackson Hole Aug 28 speech said the Fed \"may have work to do\" on inflation. A 71.1 Prices Paid print is exactly what he was pointing at.\n2. **Rate-hike odds now >65%** for the Sept 16-17 FOMC per fed-funds futures — up from ~36% pre-Warsh.\n3. **Growth still positive** — 8 months of expansion means the Fed can lean hawkish without being accused of ignoring an impending contraction.\n\nNext catalysts: JOLTS Wed Sep 2, ISM Services Thu Sep 3, NFP Fri Sep 4, FOMC decision Sep 16-17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ism-manufacturing-pmi-546-aug-sep-1-2026](https://stock-tldr.xyz/releases/us-ism-manufacturing-pmi-546-aug-sep-1-2026)"
+      },
+      "publishDate": "2026-09-01T15:53:58.907Z"
+    },
+    {
+      "id": "mdt-q1-fy27-earnings-sep-1-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Medtronic (MDT) Q1 FY27 — revenue $9.8B (+13.7% Y/Y organic) beats; non-GAAP EPS $1.45 (+15.1% Y/Y) tops guide; GAAP EPS $1.14 (+40.7%); FY27 organic revenue guide raised to 7.25–7.75% and non-GAAP EPS to $5.94–$6.00; MDT trades higher on Tuesday Sept 1",
+      "org": "Medtronic",
+      "date": "2026-09-01",
+      "url": "https://www.prnewswire.com/news-releases/medtronic-reports-first-quarter-fiscal-2027-results-delivers-broad-based-portfolio-performance-and-raises-fiscal-2027-guidance-302865648.html",
+      "summary": "Medtronic Q1 FY27 revenue $9.8B (+13.7% organic), non-GAAP EPS $1.45 (+15.1%). Cardiovascular +18.9%, Diabetes +14.9%, Med-Surg +10.2%, Neuroscience +9.3%. Raises FY27 organic guide to 7.25–7.75% and non-GAAP EPS to $5.94–$6.00.",
+      "tags": [
+        "earnings",
+        "medtronic",
+        "medical-devices",
+        "q1-fy27",
+        "guidance-raise",
+        "cardiovascular",
+        "diabetes",
+        "affera",
+        "eps-beat",
+        "revenue-beat"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MDT"
+      ],
+      "metrics": {
+        "Revenue": "$9.8B (+13.7% organic Y/Y)",
+        "Non-GAAP EPS": "$1.45 (+15.1% Y/Y)",
+        "GAAP EPS": "$1.14 (+40.7% Y/Y)",
+        "Cardiovascular (organic)": "+18.9%",
+        "Neuroscience (organic)": "+9.3%",
+        "Medical Surgical (organic)": "+10.2%",
+        "Diabetes (organic)": "+14.9%",
+        "FY27 organic rev guide": "7.25%–7.75% (raised from 6.75%–7.25%)",
+        "FY27 non-GAAP EPS guide": "$5.94–$6.00 (raised)",
+        "Q1 revenue vs consensus": "$9.756B vs ~$9.55B est"
+      },
+      "explainer": {
+        "tagline": "Medtronic prints its cleanest Q1 in years — 13.7% organic revenue growth, EPS $1.45 beats, and FY27 guide goes up on both lines.",
+        "whatIsIt": "Medtronic reported Q1 FY27 results before the open Tuesday Sept 1 2026. Revenue was $9.8B, up 13.7% organic year-over-year, roughly 200 bps above the guidance midpoint. Non-GAAP diluted EPS was $1.45 (+15.1% Y/Y), ahead of the $1.39 consensus and the top of MDT's own $1.32–$1.40 guide. GAAP EPS was $1.14 (+40.7%).",
+        "howItWorks": "Growth was broad-based: Cardiovascular +18.9% organic (Affera, PulseSelect PFA, Micra), Diabetes +14.9% (Simplera CGM ramp, MiniMed 780G momentum), Medical Surgical +10.2%, Neuroscience +9.3%. Alongside the print MDT expanded the Affera Mapping & Ablation System CE Mark, closed the Scientia Vascular and SPR Therapeutics deals, and announced strategic investments in Cornerstone Robotics and Pi-Cardia. Full-year FY27 guidance was raised: organic revenue growth 7.25%–7.75% (from 6.75%–7.25%) and non-GAAP diluted EPS $5.94–$6.00 (narrowed and lifted at the low end).",
+        "whyItMatters": "MDT was priced for a slower Q1 — the beat plus guide raise on both lines lifted MDT premarket. Cardiovascular's +18.9% organic is the clearest read yet that Affera and Medtronic's PFA ramp are gaining share against Boston Scientific's (BSX) FARAPULSE franchise; watch relative EP numbers next quarter. Diabetes returning to double-digit organic growth backstops the CGM / pump story that had been in doubt vs. Dexcom (DXCM) and Insulet (PODD). The guide raise also comes despite tariff headwinds MDT had flagged, which the Street will read as a durable operating tailwind.",
+        "forWho": "Med-device long-onlies, healthcare sector PMs, MDT/BSX/DXCM/PODD pair-traders.",
+        "tryIt": "https://finance.yahoo.com/quote/MDT"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS974964/Medtronic-Logo.jpg?id=OA2921072&p=facebook",
+        "alt": "Medtronic logo used with the Q1 FY27 earnings release Sept 1 2026.",
+        "fit": "contain",
+        "credit": "Medtronic"
+      },
+      "links": [
+        {
+          "label": "PRNewswire Release",
+          "url": "https://www.prnewswire.com/news-releases/medtronic-reports-first-quarter-fiscal-2027-results-delivers-broad-based-portfolio-performance-and-raises-fiscal-2027-guidance-302865648.html"
+        },
+        {
+          "label": "SEC 8-K (Ex 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001613103/000162828026059697/exhibit991-fy27q1earningsr.htm"
+        },
+        {
+          "label": "BioSpace — Recap",
+          "url": "https://www.biospace.com/press-releases/medtronic-reports-first-quarter-fiscal-2027-results-delivers-broad-based-portfolio-performance-and-raises-fiscal-2027-guidance"
+        },
+        {
+          "label": "Manila Times — Wire",
+          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/medtronic-reports-first-quarter-fiscal-2027-results-delivers-broad-based-portfolio-performance-and-raises-fiscal-2027-guidance/2415847"
+        },
+        {
+          "label": "StockTitan — Wire",
+          "url": "https://www.stocktitan.net/news/MDT/medtronic-reports-first-quarter-fiscal-2027-results-delivers-broad-lf1sbac2p7f5.html"
+        }
+      ],
+      "reddit": {
+        "title": "Medtronic (MDT) Q1 FY27 — revenue $9.8B (+13.7% organic), EPS $1.45 beats $1.39 est, FY27 guide goes UP on both lines",
+        "body": "Medtronic reported its Q1 FY27 print before the open Tuesday Sept 1 — cleanest quarter in years, guide raise on both lines.\n\n* Revenue **$9.8B, +13.7% organic Y/Y** — roughly 200 bps above guide midpoint\n* **Non-GAAP EPS $1.45** (+15.1% Y/Y) — tops $1.39 consensus\n* GAAP EPS $1.14 (+40.7% Y/Y)\n* Segment organic: Cardiovascular +18.9%, Diabetes +14.9%, Med-Surg +10.2%, Neuroscience +9.3%\n* FY27 organic revenue guide **raised to 7.25%–7.75%** (from 6.75%–7.25%)\n* FY27 non-GAAP EPS guide **raised to $5.94–$6.00**\n* MDT **trades higher** on the print (Sept 1)\n\nWhy the print matters:\n\n1. **Cardio +18.9%** — Affera + PulseSelect PFA are clearly gaining share; watch BSX FARAPULSE next quarter.\n2. **Diabetes back to double-digits** — Simplera CGM ramp and MiniMed 780G momentum vs. DXCM/PODD.\n3. **Guide up despite tariffs** — MDT had flagged tariff headwinds; a raise anyway = durable operating tailwind.\n\nAlso announced with the print: Affera CE-Mark expansion, Scientia Vascular + SPR Therapeutics closings, strategic investments in Cornerstone Robotics and Pi-Cardia.\n\nNext catalysts: Q2 FY27 print in late Nov; Warsh's first FOMC Sep 16-17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mdt-q1-fy27-earnings-sep-1-2026](https://stock-tldr.xyz/releases/mdt-q1-fy27-earnings-sep-1-2026)"
+      },
+      "publishDate": "2026-09-01T15:53:58.907Z"
+    },
+    {
+      "id": "nio-q2-2026-earnings-sep-1-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "NIO (NIO) Q2 2026 — revenue RMB32.14B / US$4.74B (+69.1% Y/Y, +25.9% Q/Q) misses ~$4.95B est; deliveries 107,658 (+49.4% Y/Y); vehicle margin 18.5% (from 10.3%); first quarterly non-GAAP profit (RMB26.1M); shares fell ~4.4% on Tue Sept 1",
+      "org": "NIO",
+      "date": "2026-09-01",
+      "url": "https://www.globenewswire.com/news-release/2026/09/01/3353894/0/en/nio-inc-reports-unaudited-second-quarter-2026-financial-results.html",
+      "summary": "NIO Q2 2026 revenue RMB32.14B / $4.74B (+69% Y/Y), deliveries 107,658 (+49%). First-ever positive non-GAAP net profit RMB26.1M; vehicle gross margin 18.5%. Q3 guide 108–111K vehicles, revenue mid RMB33.67B. Shares -~4.4% on rev miss.",
+      "tags": [
+        "earnings",
+        "nio",
+        "china-ev",
+        "q2-2026",
+        "deliveries",
+        "gross-margin",
+        "onvo",
+        "firefly",
+        "profitability",
+        "revenue-miss"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "NIO"
+      ],
+      "metrics": {
+        "Revenue": "RMB32.14B / $4.74B (+69.1% Y/Y, +25.9% Q/Q) vs ~$4.95B est",
+        "Deliveries": "107,658 (+49.4% Y/Y, +29.0% Q/Q)",
+        "By brand": "NIO 60,945 / ONVO 29,124 / FIREFLY 17,589",
+        "Vehicle gross margin": "18.5% (vs 10.3% Y/Y)",
+        "Overall gross margin": "18.4% (vs 10.0% Y/Y)",
+        "Net loss (GAAP)": "RMB528.0M / $77.8M (vs RMB4.99B Y/Y)",
+        "Adjusted net profit (non-GAAP)": "RMB26.1M / $3.8M (first-ever positive)",
+        "Q3 guide (deliveries)": "108,000–111,000",
+        "Q3 guide (revenue mid)": "RMB33.67B",
+        "Move": "-~4.4% Sept 1"
+      },
+      "explainer": {
+        "tagline": "NIO delivers its first quarterly non-GAAP profit and 18.5% vehicle margin, but revenue misses — shares fall ~4.4% on Sept 1.",
+        "whatIsIt": "NIO reported Q2 2026 results before the US open Tuesday Sept 1 2026. Revenue was RMB32.14B ($4.74B), up 69.1% Y/Y and 25.9% Q/Q but shy of the ~$4.95B Street consensus. Q2 deliveries were 107,658 (+49.4% Y/Y), split NIO brand 60,945 / ONVO 29,124 / FIREFLY 17,589. Non-GAAP adjusted net profit came in at RMB26.1M ($3.8M) — NIO's first-ever positive quarterly adjusted profit.",
+        "howItWorks": "The margin story is the headline: overall gross margin was 18.4% (up from 10.0% Y/Y) and vehicle gross margin 18.5% (up from 10.3%), each up ~800 bps year-over-year on scale and BOM cuts across the three brands. GAAP net loss was RMB528.0M ($77.8M) vs RMB4.99B a year earlier. Q3 guidance calls for 108,000–111,000 deliveries and revenue midpoint of RMB33.67B, implying continued but only modest sequential growth. Q1 had already shown 18.8% vehicle margin, so Q2 held the line.",
+        "whyItMatters": "First quarterly non-GAAP profit is a real credibility win against the perpetual-loss narrative that has weighed on Chinese-EV multiples. But the revenue miss vs the buyside whisper triggered a ~4.4% Sept 1 selloff — bulls wanted a clean revenue beat with the deliveries print. Q3 guide implies a plateau in sequential growth just as XPeng, Li Auto and the incumbent legacy OEMs push ONVO's ~RMB150K price band. Positive-margin CGM/EV pair with margin holding is bullish for the sustainability story; light Q3 guide caps the upside.",
+        "forWho": "China-EV specialists, EM discretionary, NIO/LI/XPEV/TSLA pair-traders.",
+        "tryIt": "https://finance.yahoo.com/quote/NIO"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/NIO_Inc_Reports_Unaudited_Second_Quarter_2026_Financial_Results_1499111.webp",
+        "alt": "NIO Inc quarterly financial results cover image for Q2 2026, released Sept 1 2026.",
+        "fit": "cover",
+        "credit": "StockTitan / NIO"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/01/3353894/0/en/nio-inc-reports-unaudited-second-quarter-2026-financial-results.html"
+        },
+        {
+          "label": "SEC 6-K (Ex 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001736541/000110465926104110/tm2624535d3_ex99-1.htm"
+        },
+        {
+          "label": "Manila Times — Wire",
+          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/nio-inc-reports-unaudited-second-quarter-2026-financial-results/2415810"
+        },
+        {
+          "label": "Yahoo Finance — Reaction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-falls-q2-revenue-115646884.html"
+        },
+        {
+          "label": "StockTitan — Wire",
+          "url": "https://www.stocktitan.net/news/NIO/nio-inc-reports-unaudited-second-quarter-2026-financial-az5yopmzw61e.html"
+        }
+      ],
+      "reddit": {
+        "title": "NIO Q2 2026 — first-ever non-GAAP profit (RMB26.1M) and 18.5% vehicle margin, but revenue $4.74B misses $4.95B est — shares ~-4.4% on Sept 1",
+        "body": "NIO reported Q2 2026 before the US open Tuesday Sept 1. Real margin progress, but the revenue whisper wasn't hit.\n\n* Revenue **RMB32.14B / $4.74B** (+69.1% Y/Y, +25.9% Q/Q) — **misses ~$4.95B est**\n* Deliveries **107,658** (+49.4% Y/Y, +29.0% Q/Q) — NIO 60,945 / ONVO 29,124 / FIREFLY 17,589\n* **Overall gross margin 18.4%** (from 10.0% Y/Y); vehicle margin **18.5%** (from 10.3%)\n* Adjusted net profit (non-GAAP) **RMB26.1M / $3.8M — first-ever positive quarter**\n* GAAP net loss RMB528M vs RMB4.99B a year ago\n* Q3 guide: 108K–111K deliveries; revenue midpoint RMB33.67B\n* Shares **~-4.4%** on the print\n\nWhy it matters:\n\n1. **Margin story is real** — 800 bps Y/Y on both overall and vehicle margin, Q1's 18.8% wasn't a one-off.\n2. **First non-GAAP profit** — a real credibility win against the perpetual-loss narrative.\n3. **Guide caps upside** — Q3 implies sequential deceleration just as ONVO enters its stiffest China-EV price band vs. XPeng, Li Auto and the legacy OEMs.\n\nNext catalysts: Sept China delivery number in early Oct; Q3 print in Nov.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nio-q2-2026-earnings-sep-1-2026](https://stock-tldr.xyz/releases/nio-q2-2026-earnings-sep-1-2026)"
+      },
+      "publishDate": "2026-09-01T15:53:58.907Z"
+    },
     {
       "id": "us-10y-yield-4-76-jan-2025-high-aug-31-2026",
       "categories": [
