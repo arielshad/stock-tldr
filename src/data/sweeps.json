@@ -10968,6 +10968,62 @@
         "mover",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260902t020431z",
+      "timestamp": "2026-09-02T02:04:31.000Z",
+      "source": "github-actions-sweep",
+      "summary": "Six additions from the Sept 1, 2026 after-the-bell wave: Dell Q2 FY27 blowout ($95B AI backlog, $60.9B AI orders in Q), Palo Alto Networks Q4 FY26 (NGS ARR $9.1B +63%, Console acquisition), MongoDB Q2 FY27 (fastest growth in years at +30%), GitLab Q2 FY27 beat-and-raise, Credo Q1 FY27, and Lilly's $2.875B Merida Biosciences tuck-in.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dell-q2-fy27-95b-ai-backlog-sep-1-2026",
+          "title": "Dell (DELL) Q2 FY27 — record revenue $47.0B (+58% Y/Y), non-GAAP EPS $7.04 vs $4.92 est on $60.9B of AI-server orders booked in the quarter (record) and $95B AI backlog exiting Q2; FY27 revenue guide raised $25B to $192B (+70% Y/Y); stock jumped as much as 10% AH after closing regular session -6.80% at $425",
+          "category": "earnings",
+          "note": "Record AI-server orders and backlog resets expectations for the entire AI-infra tape; guide raised $25B to $192B."
+        },
+        {
+          "id": "panw-q4-fy26-earnings-sep-1-2026",
+          "title": "Palo Alto Networks (PANW) Q4 FY26 — revenue $3.41B (+34% Y/Y) beats, non-GAAP EPS $1.02 tops $0.98 est; NGS ARR $9.10B (+63% Y/Y), RPO $21.2B (+34%); FY27 revenue guide $14.10–$14.20B (+23–24%) tops est; announces acquisition of AI-native agentic platform Console for Cortex; PANW -5.24% to $362.08 into the print",
+          "category": "earnings",
+          "note": "NGS ARR +63% is the fastest since platformization began; Console adds agentic AI to Cortex."
+        },
+        {
+          "id": "mdb-q2-fy27-earnings-sep-1-2026",
+          "title": "MongoDB (MDB) Q2 FY27 — revenue $771.8M (+30% Y/Y), highest growth in several years; Atlas +29%, EA & other +36%; non-GAAP EPS $1.90 crushes; non-GAAP operating margin 24% (from 15%); free cash flow $137.6M (vs $69.9M y/y); FY27 revenue guide raised to $2.99–$3.03B, non-GAAP EPS $6.39–$6.58",
+          "category": "earnings",
+          "note": "Revenue re-acceleration to +30% breaks the 'AI is bad for databases' narrative; FCF nearly doubles."
+        },
+        {
+          "id": "gtlb-q2-fy27-earnings-sep-1-2026",
+          "title": "GitLab (GTLB) Q2 FY27 — revenue $286.3M (+21% Y/Y), non-GAAP EPS $0.25 tops $0.18 est; net ARR growth >40% and record gross bookings; DBNR 117%, $100K+ customers 1,571 (+17%); FY27 EPS guide raised to $0.85–$0.87 (from $0.81 consensus); stock +14% after hours",
+          "category": "earnings",
+          "note": "First clean beat + guide raise since the June restructuring; +14% AH."
+        },
+        {
+          "id": "crdo-q1-fy27-earnings-sep-1-2026",
+          "title": "Credo Technology (CRDO) Q1 FY27 — revenue $479.0M (+114.7% Y/Y, +9.6% Q/Q), non-GAAP EPS $1.20 tops $1.17 est; non-GAAP gross margin 68.0%; Q2 FY27 revenue guide $525–$535M; stock -4.43% AH to $197.47 after 5-quarter AI-connectivity rally",
+          "category": "earnings",
+          "note": "AI-connectivity chip supplier at +114.7% Y/Y is a bellwether for AEC/800G volumes; the mild AH selloff is the market questioning the whisper."
+        },
+        {
+          "id": "lly-merida-biosciences-acquire-sep-1-2026",
+          "title": "Eli Lilly (LLY) to acquire Merida Biosciences for up to $2.875B — cash upfront plus contingent milestones for a Boston-based biotech pioneering selective autoantibody-degrader biologics; lead asset MER511 (Phase 1) for Graves' disease and thyroid eye disease; preclinical MER769 in food allergy, asthma, chronic spontaneous urticaria; closes Q4 2026",
+          "category": "mna",
+          "note": "13th LLY tuck-in of 2026 signals a durable diversification pattern beyond obesity."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna"
+      ]
     }
   ]
 }

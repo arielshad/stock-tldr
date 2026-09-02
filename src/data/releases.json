@@ -1,8 +1,448 @@
 {
-  "generatedAt": "2026-09-01T15:53:58.907Z",
+  "generatedAt": "2026-09-02T02:04:31.000Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dell-q2-fy27-95b-ai-backlog-sep-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Dell (DELL) Q2 FY27 — record revenue $47.0B (+58% Y/Y), non-GAAP EPS $7.04 vs $4.92 est on $60.9B of AI-server orders booked in the quarter (record) and $95B AI backlog exiting Q2; FY27 revenue guide raised $25B to $192B (+70% Y/Y); stock jumped as much as 10% AH after closing regular session -6.80% at $425",
+      "org": "Dell Technologies",
+      "date": "2026-09-01",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-reports-record-47-billion-210500395.html",
+      "tickers": [
+        "DELL",
+        "SMCI",
+        "HPE"
+      ],
+      "summary": "Dell Q2 FY27 revenue $47.0B (+58% Y/Y), non-GAAP EPS $7.04 vs $4.92 est. $60.9B AI-server orders in the quarter, $95B AI backlog, FY27 revenue guide raised $25B to $192B (+70% Y/Y).",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "ai-server",
+        "ai-capex",
+        "isg",
+        "q2-fy27",
+        "record-revenue",
+        "backlog"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$47.0B (+58% Y/Y)",
+        "Non-GAAP EPS": "$7.04 vs $4.92 est",
+        "GAAP EPS": "$6.34 (+273% Y/Y)",
+        "ISG revenue": "$31.78B (+89% Y/Y)",
+        "AI-optimized server revenue": "$16.4B (~2× Y/Y)",
+        "AI orders booked": "$60.9B (record)",
+        "AI backlog": "$95.0B (record)",
+        "Traditional servers & networking": "+122% Y/Y",
+        "Storage": "+26% Y/Y",
+        "Client Solutions Group": "+20% Y/Y",
+        "FY27 revenue guide": "$192B (+70% Y/Y, raised $25B)",
+        "Regular session move": "-6.80% to $425",
+        "After-hours reaction": "up to +10%"
+      },
+      "explainer": {
+        "tagline": "Dell books a record $60.9B of AI-server orders in one quarter and exits Q2 with a $95B AI backlog.",
+        "whatIsIt": "Dell Technologies reported fiscal Q2 2027 results after the bell on Tuesday Sept 1, 2026. Revenue hit a record $47.0B, up 58% Y/Y, with non-GAAP EPS of $7.04 blowing past the $4.92 estimate. Management raised full-year FY27 revenue guidance by $25B to $192B, implying ~70% growth.",
+        "howItWorks": "Infrastructure Solutions Group revenue was $31.78B (+89% Y/Y) with AI-optimized servers alone contributing $16.4B, roughly double last year. Dell booked a record $60.9B of AI-server orders in the quarter and left Q2 with a $95B AI backlog. Traditional servers/networking rose 122% Y/Y, storage +26%, Client Solutions Group +20%. GAAP EPS was $6.34, up 273%.",
+        "whyItMatters": "The scale of Q2 AI-order intake resets expectations for the AI-infrastructure trade after last month's NVIDIA compute-partnership pause. Sympathy names like Super Micro (SMCI) and HPE trade off Dell's backlog readouts. Dell closed the regular session -6.80% at $425 into the print on a 266% YTD rally, then surged as much as 10% AH.",
+        "forWho": "AI-infra bulls, semis pair-traders, hyperscaler-capex watchers",
+        "tryIt": "https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-second-quarter-fiscal-2027-financial"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/3a0bf30ac1b84f4520e80fdcc521c4c95097a97d22f2c952b1a7119ae7c8855c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faustin_american_statesman_hearst_articles_361%2F2f4f1fa5043285411b3b4f5f757bf51e.jpg",
+        "alt": "Dell Technologies servers and logo — Q2 FY27 AI-server results",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/dell-reports-record-47-billion-210500395.html"
+        },
+        {
+          "label": "Yahoo AH Move",
+          "url": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html"
+        },
+        {
+          "label": "DELL Quote",
+          "url": "https://finance.yahoo.com/quote/DELL"
+        }
+      ],
+      "reddit": {
+        "title": "Dell Q2 FY27: $47B revenue (+58%), record $60.9B AI-server orders booked, $95B backlog, FY27 guide raised $25B to $192B",
+        "body": "Dell dropped its Q2 FY27 print after the bell Tuesday Sept 1 and it was as good as the AI-server bulls could have asked for.\n\n* Revenue $47.0B, +58% Y/Y — a record\n* Non-GAAP EPS $7.04 vs $4.92 est; GAAP EPS $6.34, +273% Y/Y\n* ISG revenue $31.78B, +89% Y/Y — AI-optimized servers $16.4B (\\~2× Y/Y)\n* $60.9B AI-server orders booked in the quarter — a record\n* $95B AI backlog exiting Q2\n* FY27 revenue guide raised $25B to $192B (+70% Y/Y)\n\nThe drivers:\n\n1. **AI-server intake reset the bar** — one quarter of orders ($60.9B) is bigger than most peers' full-year revenue.\n2. **The rest of Dell woke up too** — traditional servers/networking +122%, storage +26%, Client Solutions +20%.\n3. **Guide raise ended the debate** — after $165–169B at Q1 and $192B now, FY27 is officially a ~70% growth year.\n\nDELL closed the regular session -6.80% at $425 into the print (266% YTD into today) and surged as much as 10% AH.\n\nNext catalysts: NVIDIA CFO commentary at Goldman conference, SMCI / HPE prints for read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dell-q2-fy27-95b-ai-backlog-sep-1-2026](https://stock-tldr.xyz/releases/dell-q2-fy27-95b-ai-backlog-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T02:04:31.000Z"
+    },
+    {
+      "id": "panw-q4-fy26-earnings-sep-1-2026",
+      "categories": [
+        "earnings",
+        "mna"
+      ],
+      "title": "Palo Alto Networks (PANW) Q4 FY26 — revenue $3.41B (+34% Y/Y) beats, non-GAAP EPS $1.02 tops $0.98 est; NGS ARR $9.10B (+63% Y/Y), RPO $21.2B (+34%); FY27 revenue guide $14.10–$14.20B (+23–24%) tops est; announces acquisition of AI-native agentic platform Console for Cortex; PANW -5.24% to $362.08 into the print",
+      "org": "Palo Alto Networks",
+      "date": "2026-09-01",
+      "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results-302866744.html",
+      "tickers": [
+        "PANW",
+        "CRWD",
+        "ZS"
+      ],
+      "summary": "PANW Q4 FY26 revenue $3.41B (+34% Y/Y), non-GAAP EPS $1.02 vs $0.98 est. NGS ARR $9.10B (+63%), RPO $21.2B (+34%). FY27 revenue guide $14.10–$14.20B. Console (agentic AI) acquisition announced.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "cybersecurity",
+        "ngs-arr",
+        "rpo",
+        "agentic-ai",
+        "acquisition",
+        "console",
+        "q4-fy26",
+        "fy27-guide"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Q4 Revenue": "$3.41B (+34% Y/Y)",
+        "FY26 Revenue": "$11.48B (+24% Y/Y)",
+        "Q4 Non-GAAP EPS": "$1.02 vs $0.98 est",
+        "Q4 GAAP EPS": "$(0.35)",
+        "NGS ARR": "$9.10B (+63% Y/Y)",
+        "RPO": "$21.2B (+34% Y/Y)",
+        "FY27 Revenue Guide": "$14.10–$14.20B (+23–24%)",
+        "FY27 NGS ARR Guide": "$11.075–$11.175B (+22–23%)",
+        "FY27 Non-GAAP EPS Guide": "$4.16–$4.19",
+        "Regular session close": "-5.24% to $362.08"
+      },
+      "explainer": {
+        "tagline": "Palo Alto crushes NGS ARR to $9.1B (+63%), raises FY27 guide, and buys AI-native agent platform Console for Cortex.",
+        "whatIsIt": "Palo Alto Networks reported Q4 fiscal 2026 after the bell on Tuesday Sept 1, 2026. Revenue was $3.41B (+34% Y/Y), non-GAAP EPS $1.02 vs $0.98 est. The board also announced the acquisition of Console, an AI-native platform for agentic security workflows, to expand the Cortex platform.",
+        "howItWorks": "Next-Generation Security ARR reached $9.10B, up 63% Y/Y — CEO Nikesh Arora called out nearly $1B of net-new NGS ARR added in a single quarter. Remaining Performance Obligations grew to $21.2B (+34%). GAAP diluted EPS was $(0.35), reflecting acquisition and stock-comp charges. FY27 guide: revenue $14.10–$14.20B (+23–24%), NGS ARR $11.075–$11.175B, non-GAAP EPS $4.16–$4.19.",
+        "whyItMatters": "The +63% NGS ARR growth is the fastest print since the platformization strategy launched and re-anchors the bull case for security software after CRWD's Q2 beat last week. The Console acquisition doubles down on agentic AI — a direct bet against Cisco and CrowdStrike's own AI SOC pushes. PANW ran into the print at $362.08, down 5.24% during the regular session; after-hours moves were choppy.",
+        "forWho": "Security-software specialists, agentic-AI investors, platformization thesis holders",
+        "tryIt": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-10"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS381466/Palo-Alto-Networks-Logo-2025.jpg?id=OA2923989&p=facebook",
+        "alt": "Palo Alto Networks logo — Q4 FY26 earnings",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "PANW Press Release",
+          "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results-302866744.html"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/technology/articles/palo-alto-networks-reports-fiscal-200500400.html"
+        },
+        {
+          "label": "Benzinga (Console deal)",
+          "url": "https://www.benzinga.com/markets/earnings/26/09/61562954/palo-alto-beats-q4-estimates-announces-console-acquisition-to-strengthen-agentic-capabilities"
+        },
+        {
+          "label": "PANW Quote",
+          "url": "https://finance.yahoo.com/quote/PANW"
+        }
+      ],
+      "reddit": {
+        "title": "Palo Alto (PANW) Q4 FY26: revenue $3.41B (+34%), NGS ARR $9.1B (+63%), FY27 guide $14.10–14.20B, buys agentic-AI platform Console",
+        "body": "Palo Alto Networks capped fiscal 2026 with a beat, a raise, and a bolt-on:\n\n* Q4 revenue $3.41B, +34% Y/Y — beats $3.35B est\n* Non-GAAP EPS $1.02 vs $0.98 est; GAAP EPS -$0.35 on deal + SBC charges\n* NGS ARR $9.10B, +63% Y/Y — nearly $1B of net-new NGS ARR added in Q4 alone\n* Remaining Performance Obligations $21.2B, +34% Y/Y\n* FY27 guide: revenue $14.10–$14.20B (+23–24%), NGS ARR $11.075–$11.175B, non-GAAP EPS $4.16–$4.19\n\nOn the M&A front:\n\n1. **Console acquisition** — an AI-native platform enabling agentic workflows, folded into Cortex; the second AI-security tuck-in this cycle after CyberArk + Chronosphere.\n\nPANW ran into the print at $362.08, down 5.24% during the regular session.\n\nNext catalysts: Zscaler (ZS) Q4 print Sept 3 for read-through on the security tape.\n\nFull breakdown: [https://stock-tldr.xyz/releases/panw-q4-fy26-earnings-sep-1-2026](https://stock-tldr.xyz/releases/panw-q4-fy26-earnings-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T02:04:31.000Z"
+    },
+    {
+      "id": "mdb-q2-fy27-earnings-sep-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "MongoDB (MDB) Q2 FY27 — revenue $771.8M (+30% Y/Y), highest growth in several years; Atlas +29%, EA & other +36%; non-GAAP EPS $1.90 crushes; non-GAAP operating margin 24% (from 15%); free cash flow $137.6M (vs $69.9M y/y); FY27 revenue guide raised to $2.99–$3.03B, non-GAAP EPS $6.39–$6.58",
+      "org": "MongoDB",
+      "date": "2026-09-01",
+      "url": "https://www.prnewswire.com/news-releases/mongodb-inc-announces-second-quarter-fiscal-2027-financial-results-302866656.html",
+      "tickers": [
+        "MDB"
+      ],
+      "summary": "MongoDB Q2 FY27 revenue $771.8M (+30% Y/Y) — fastest growth in years. Atlas +29%, EA +36%. Non-GAAP EPS $1.90, margin 24%. FY27 guide raised to $2.99–$3.03B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "database",
+        "atlas",
+        "ai-workloads",
+        "q2-fy27",
+        "operating-margin",
+        "fcf"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$771.8M (+30% Y/Y)",
+        "Subscription revenue": "$747.1M (+31% Y/Y)",
+        "Atlas revenue growth": "+29% Y/Y",
+        "EA & other revenue growth": "+36% Y/Y",
+        "GAAP EPS": "$0.50",
+        "Non-GAAP EPS": "$1.90",
+        "Non-GAAP operating margin": "24% (from 15%)",
+        "Free cash flow": "$137.6M (vs $69.9M y/y)",
+        "Cash & short-term investments": "$2.4B",
+        "Total customers": ">70,600",
+        "Customers >$100K ARR": "2,999",
+        "FY27 revenue guide": "$2.99–$3.03B (raised)",
+        "FY27 non-GAAP EPS guide": "$6.39–$6.58"
+      },
+      "explainer": {
+        "tagline": "MongoDB posts fastest revenue growth in years (+30%), doubles non-GAAP operating margin, raises FY27 outlook.",
+        "whatIsIt": "MongoDB reported Q2 fiscal 2027 (quarter ended July 31, 2026) after the bell on Tuesday Sept 1, 2026. Total revenue was $771.8M, up 30% Y/Y — the highest growth in several years — with non-GAAP EPS of $1.90. Management raised FY27 guidance across the board.",
+        "howItWorks": "Subscription revenue $747.1M (+31%). Atlas revenue grew ~29% Y/Y; EA & other jumped ~36%. Non-GAAP operating margin nearly doubled to 24% (from 15%) as opex scaled. Free cash flow was $137.6M vs $69.9M in the year-ago period. Total customers topped 70,600 with 2,999 spending $100K+ in ARR. FY27 revenue guide $2.99–$3.03B and non-GAAP EPS $6.39–$6.58.",
+        "whyItMatters": "Growth re-acceleration to 30% and Atlas back to ~29% blunts the 'AI is bad for database software' narrative that pressured the stock all of 2025. The FCF doubling and 900bp margin expansion show the AI-workload consumption tailwind is landing on the bottom line, not just the top.",
+        "forWho": "Data-infra investors, AI-workload thesis holders, SaaS growth-at-a-reasonable-multiple",
+        "tryIt": "https://investors.mongodb.com/news-releases/news-release-details/mongodb-inc-announces-second-quarter-fiscal-2027"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS740313/MongoDB-Logo.jpg?id=OA2918905&p=facebook",
+        "alt": "MongoDB logo — Q2 FY27 earnings",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "MongoDB Press Release",
+          "url": "https://www.prnewswire.com/news-releases/mongodb-inc-announces-second-quarter-fiscal-2027-financial-results-302866656.html"
+        },
+        {
+          "label": "Yahoo Q2 Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-q2-earnings-call-highlights-230227849.html"
+        },
+        {
+          "label": "MDB Quote",
+          "url": "https://finance.yahoo.com/quote/MDB"
+        }
+      ],
+      "reddit": {
+        "title": "MongoDB (MDB) Q2 FY27: revenue $771.8M (+30% — best in years), Atlas +29%, non-GAAP margin 24% (from 15%), FCF nearly doubles",
+        "body": "MongoDB's Q2 FY27 print printed the growth re-acceleration bulls had been waiting for:\n\n* Revenue $771.8M, +30% Y/Y — highest growth in several years\n* Subscription revenue $747.1M, +31% Y/Y\n* Atlas revenue growth +29% Y/Y; EA & other +36% Y/Y\n* Non-GAAP EPS $1.90; GAAP EPS $0.50\n* Non-GAAP operating margin 24% — up from 15% a year ago\n* Free cash flow $137.6M vs $69.9M year-ago\n* 70,600+ customers total, 2,999 at $100K+ ARR\n\nGuide raise:\n\n1. **FY27 revenue $2.99–$3.03B** — implies 21–23% full-year growth, 300bp above prior Atlas guide\n2. **FY27 non-GAAP EPS $6.39–$6.58** — a step up on the margin expansion story\n\nNext catalysts: Snowflake earnings Aug 28 already out; database group next data point.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mdb-q2-fy27-earnings-sep-1-2026](https://stock-tldr.xyz/releases/mdb-q2-fy27-earnings-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T02:04:31.000Z"
+    },
+    {
+      "id": "gtlb-q2-fy27-earnings-sep-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "GitLab (GTLB) Q2 FY27 — revenue $286.3M (+21% Y/Y), non-GAAP EPS $0.25 tops $0.18 est; net ARR growth >40% and record gross bookings; DBNR 117%, $100K+ customers 1,571 (+17%); FY27 EPS guide raised to $0.85–$0.87 (from $0.81 consensus); stock +14% after hours",
+      "org": "GitLab",
+      "date": "2026-09-01",
+      "url": "https://www.stocktitan.net/news/GTLB/git-lab-reports-second-quarter-fiscal-year-2027-financial-2l2uz2m7k3k2.html",
+      "tickers": [
+        "GTLB"
+      ],
+      "summary": "GitLab Q2 FY27 revenue $286.3M (+21%), non-GAAP EPS $0.25 vs $0.18 est. DBNR 117%, $100K+ customers 1,571 (+17%). FY27 guide raised. Stock +14% AH.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "devops",
+        "ai-code",
+        "duo-agent",
+        "dbnr",
+        "buyback",
+        "q2-fy27"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$286.3M (+21% Y/Y)",
+        "Subscription revenue": "$258.3M",
+        "Non-GAAP EPS": "$0.25 vs $0.18 est",
+        "GAAP EPS": "$(0.22)",
+        "Non-GAAP operating margin": "15%",
+        "Dollar-based net retention": "117%",
+        "$100K+ ARR customers": "1,571 (+17% Y/Y)",
+        "Adj. free cash flow": "$9.8M",
+        "Cash": "$226.5M",
+        "Q2 buyback": "~3.5M shares",
+        "Q3 FY27 revenue guide": "$281–$283M",
+        "Q3 FY27 non-GAAP EPS guide": "$0.19–$0.20",
+        "FY27 revenue guide": "$1,129–$1,133M",
+        "FY27 non-GAAP EPS guide": "$0.85–$0.87",
+        "After-hours move": "+~14%"
+      },
+      "explainer": {
+        "tagline": "GitLab beats and raises with net-ARR growth topping 40%; Duo Agent + AI code narrative reignites.",
+        "whatIsIt": "GitLab reported Q2 fiscal 2027 after the bell on Tuesday Sept 1, 2026. Revenue was $286.3M (+21% Y/Y), with subscription revenue $258.3M. Non-GAAP EPS $0.25 topped $0.18 estimates, and FY27 EPS guidance was raised.",
+        "howItWorks": "Management flagged record gross bookings and net ARR growth exceeding 40% Y/Y. Dollar-based net retention held at 117%; customers >$100K in ARR reached 1,571 (+17%). Adjusted FCF $9.8M; cash $226.5M with ~3.5M shares repurchased in the quarter. Guide: Q3 revenue $281–$283M / non-GAAP EPS $0.19–$0.20; FY27 revenue $1,129–$1,133M and non-GAAP EPS $0.85–$0.87.",
+        "whyItMatters": "The net-ARR reacceleration validates GitLab's June restructuring + AI/Duo Agent pivot after Q1's whipsaw. Stock jumped ~14% AH — the largest earnings-day move since the platform relaunch.",
+        "forWho": "SaaS DevOps investors, AI-coding tools coverage, small/mid-cap growth",
+        "tryIt": "https://finance.yahoo.com/quote/GTLB"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/GitLab_Reports_Second_Quarter_Fiscal_Year_2027_Financial_Results_1499693.webp",
+        "alt": "GitLab logo — Q2 FY27 earnings",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "GitLab Press Release",
+          "url": "https://www.stocktitan.net/news/GTLB/git-lab-reports-second-quarter-fiscal-year-2027-financial-2l2uz2m7k3k2.html"
+        },
+        {
+          "label": "GTLB Quote",
+          "url": "https://finance.yahoo.com/quote/GTLB"
+        }
+      ],
+      "reddit": {
+        "title": "GitLab (GTLB) Q2 FY27: revenue $286.3M (+21%), non-GAAP EPS $0.25 vs $0.18 est, net ARR growth >40%, FY27 guide raised — stock +14% AH",
+        "body": "GitLab printed a clean beat and raise after the bell Tuesday Sept 1 — the first clean quarter since the June restructuring:\n\n* Revenue $286.3M, +21% Y/Y\n* Subscription revenue $258.3M\n* Non-GAAP EPS $0.25 vs $0.18 est; GAAP EPS -$0.22\n* Non-GAAP operating margin 15%\n* DBNR 117%; $100K+ ARR customers 1,571 (+17% Y/Y)\n* Record gross bookings; net ARR growth >40% Y/Y\n* $9.8M adjusted FCF; ~3.5M shares repurchased in Q2\n\nGuidance:\n\n1. **Q3 FY27** — revenue $281–$283M, non-GAAP EPS $0.19–$0.20\n2. **FY27** — revenue $1,129–$1,133M, non-GAAP EPS $0.85–$0.87 (vs $0.81 consensus)\n\nGTLB was quoted at ~$53.19 after hours, +14% from the regular-session close.\n\nNext catalysts: October Duo Agent GA, developer-tooling AI reads.\n\nFull breakdown: [https://stock-tldr.xyz/releases/gtlb-q2-fy27-earnings-sep-1-2026](https://stock-tldr.xyz/releases/gtlb-q2-fy27-earnings-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T02:04:31.000Z"
+    },
+    {
+      "id": "crdo-q1-fy27-earnings-sep-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Credo Technology (CRDO) Q1 FY27 — revenue $479.0M (+114.7% Y/Y, +9.6% Q/Q), non-GAAP EPS $1.20 tops $1.17 est; non-GAAP gross margin 68.0%; Q2 FY27 revenue guide $525–$535M; stock -4.43% AH to $197.47 after 5-quarter AI-connectivity rally",
+      "org": "Credo Technology",
+      "date": "2026-09-01",
+      "url": "https://www.stocktitan.net/news/CRDO/credo-technology-group-holding-ltd-reports-first-quarter-of-fiscal-0aj6bc146rcj.html",
+      "tickers": [
+        "CRDO",
+        "AVGO",
+        "MRVL"
+      ],
+      "summary": "Credo Q1 FY27 revenue $479M (+114.7% Y/Y), non-GAAP EPS $1.20 vs $1.17 est. Non-GAAP GM 68%. Q2 FY27 revenue guide $525–$535M. Stock -4.43% AH to $197.47.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "ai-connectivity",
+        "aec",
+        "800g",
+        "hyperscaler",
+        "semis",
+        "q1-fy27"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Revenue": "$479.0M (+114.7% Y/Y, +9.6% Q/Q)",
+        "Non-GAAP EPS": "$1.20 vs $1.17 est",
+        "GAAP EPS": "$0.67",
+        "GAAP gross margin": "64.5%",
+        "Non-GAAP gross margin": "68.0%",
+        "Cash & short-term investments": "$764.3M",
+        "Q2 FY27 revenue guide": "$525–$535M",
+        "Q2 FY27 non-GAAP GM guide": "67.0–69.0%",
+        "After-hours move": "-4.43% to $197.47"
+      },
+      "explainer": {
+        "tagline": "AI-connectivity chip designer Credo doubles revenue again — but the AH tape asks 'is that all?' after the run.",
+        "whatIsIt": "Credo Technology reported Q1 fiscal 2027 after the bell on Tuesday Sept 1, 2026. Revenue was $479.0M, up 114.7% Y/Y and 9.6% Q/Q, driven by continued hyperscaler ramps of Active Electrical Cables and 800G Ethernet SerDes. Non-GAAP EPS $1.20 topped $1.17 estimates.",
+        "howItWorks": "GAAP gross margin was 64.5% and non-GAAP GM 68.0%, both above target. Cash and short-term investments ended at $764.3M. Q2 FY27 guide: revenue $525–$535M with non-GAAP GM 67.0–69.0% — implying continued sequential acceleration on hyperscaler AI-cluster interconnect.",
+        "whyItMatters": "CRDO is a barometer for the connectivity slice of the AI-infra stack — AECs replacing optical inside racks, plus 800G expansion. The revenue beat was modest vs the whisper, and the stock had rallied hard into the print; it slipped ~4.4% AH to $197.47. Read-through for Broadcom (AVGO) and Marvell (MRVL) AI-DSP volumes.",
+        "forWho": "AI-networking specialists, semi-cap-equipment traders, small/mid-cap AI infra",
+        "tryIt": "https://finance.yahoo.com/quote/CRDO"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Credo_Technology_Group_Holding_Ltd_Reports_First_Quarter_of_Fiscal_Year_2027_Financial_Results_1499691.webp",
+        "alt": "Credo Technology Q1 FY27 earnings cover",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Credo Press Release",
+          "url": "https://www.stocktitan.net/news/CRDO/credo-technology-group-holding-ltd-reports-first-quarter-of-fiscal-0aj6bc146rcj.html"
+        },
+        {
+          "label": "Benzinga Coverage",
+          "url": "https://www.benzinga.com/markets/earnings/26/09/61563224/credo-technology-reports-q1-results-shares-slip"
+        },
+        {
+          "label": "CRDO Quote",
+          "url": "https://finance.yahoo.com/quote/CRDO"
+        }
+      ],
+      "reddit": {
+        "title": "Credo (CRDO) Q1 FY27: revenue $479M (+114.7% Y/Y), non-GAAP EPS $1.20 vs $1.17 est, Q2 guide $525–$535M — stock -4.4% AH after run",
+        "body": "Credo Technology dropped Q1 FY27 after the bell Tuesday Sept 1 — solid but not the whisper the stock had priced in:\n\n* Revenue $479.0M, +114.7% Y/Y, +9.6% Q/Q\n* Non-GAAP EPS $1.20 vs $1.17 est; GAAP EPS $0.67\n* GAAP gross margin 64.5%, non-GAAP 68.0%\n* Cash & short-term investments $764.3M\n* Q2 FY27 guide: revenue $525–$535M, non-GAAP GM 67.0–69.0%\n\nWhat's moving the stock:\n\n1. **Beat was modest** — top-line only slightly ahead, EPS a hair above.\n2. **Sell-the-news** — CRDO had run into the print on AI-connectivity enthusiasm; shares traded -4.43% AH to $197.47.\n\nNext catalysts: AI-networking read-throughs at Broadcom (AVGO) September and Marvell (MRVL) print later this quarter.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crdo-q1-fy27-earnings-sep-1-2026](https://stock-tldr.xyz/releases/crdo-q1-fy27-earnings-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T02:04:31.000Z"
+    },
+    {
+      "id": "lly-merida-biosciences-acquire-sep-1-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Eli Lilly (LLY) to acquire Merida Biosciences for up to $2.875B — cash upfront plus contingent milestones for a Boston-based biotech pioneering selective autoantibody-degrader biologics; lead asset MER511 (Phase 1) for Graves' disease and thyroid eye disease; preclinical MER769 in food allergy, asthma, chronic spontaneous urticaria; closes Q4 2026",
+      "org": "Eli Lilly",
+      "date": "2026-09-01",
+      "url": "https://ca.finance.yahoo.com/news/eli-lilly-buy-merida-biosciences-150800194.html",
+      "tickers": [
+        "LLY"
+      ],
+      "summary": "Lilly acquires Merida Biosciences for up to $2.875B (upfront + milestones). Lead asset MER511 targets Graves' disease and thyroid eye disease. LLY 13th tuck-in of 2026. Closes Q4.",
+      "tags": [
+        "mna",
+        "biotech",
+        "autoimmune",
+        "graves-disease",
+        "thyroid-eye-disease",
+        "autoantibody-degrader",
+        "lilly-buying-streak",
+        "allergy",
+        "asthma"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Total deal value": "up to $2.875B",
+        "Structure": "cash upfront + contingent milestone payments",
+        "Lead asset": "MER511 (Ph 1) — Graves' disease, thyroid eye disease",
+        "Other pipeline": "MER769 (preclinical) — food allergy, asthma, chronic spontaneous urticaria",
+        "Merida Series A (2025)": "$121M (Bain Life Sciences, BVF, Third Rock)",
+        "Expected close": "Q4 2026",
+        "LLY reaction on announcement": "-1.5%"
+      },
+      "explainer": {
+        "tagline": "Lilly's 13th 2026 tuck-in — up to $2.875B for a precision autoantibody-degrader platform beyond obesity.",
+        "whatIsIt": "Eli Lilly announced on Sept 1, 2026 an agreement to acquire privately-held Merida Biosciences for up to $2.875B in cash upfront plus contingent milestone payments. Merida develops engineered biologics that selectively degrade pathogenic autoantibodies — the disease-causing agents in immune-mediated conditions — rather than broadly suppressing the immune system.",
+        "howItWorks": "The lead asset MER511 is a monomeric TSHR-IgG Fc fusion protein in Phase 1 (NEXUS trial, NCT07305818) for Graves' disease and thyroid eye disease. Preclinical program MER769 targets food allergy, asthma, and chronic spontaneous urticaria; earlier programs address kidney diseases including membranous nephropathy. Merida launched in 2025 with a $121M Series A led by Bain Capital Life Sciences, BVF Partners, and Third Rock Ventures. Deal expected to close Q4 2026.",
+        "whyItMatters": "This is Lilly's 13th biotech tuck-in of 2026 — a pattern financed by Mounjaro / Zepbound cash flow and clearly aimed at diversifying beyond obesity. LLY traded -1.5% on the announcement as investors digest another cash outlay. Precedent for the autoantibody-degrader class: argenx (ARGX) Vyvgart / efgartigimod.",
+        "forWho": "Big-pharma capital-allocation watchers, biotech M&A traders, immunology specialists",
+        "tryIt": "https://finance.yahoo.com/quote/LLY"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/6a85cad98dd6d5db603eb852c577d84266dec22e12e4000845c6155a40f89f6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2F312a35e252e779ee9f12f2dde39eae18.jpg",
+        "alt": "Eli Lilly to acquire Merida Biosciences",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://ca.finance.yahoo.com/news/eli-lilly-buy-merida-biosciences-150800194.html"
+        },
+        {
+          "label": "GEN News (deal details)",
+          "url": "https://www.genengnews.com/topics/translational-medicine/lilly-looks-beyond-obesity-with-up-to-2-9b-acquisition-of-merida-biosciences/"
+        },
+        {
+          "label": "LLY Quote",
+          "url": "https://finance.yahoo.com/quote/LLY"
+        }
+      ],
+      "reddit": {
+        "title": "Eli Lilly (LLY) acquires Merida Biosciences for up to $2.875B — precision autoantibody-degrader platform; Graves', thyroid eye disease lead",
+        "body": "Lilly's 13th tuck-in of 2026, announced Sept 1: buying privately-held Boston biotech Merida Biosciences.\n\n* Deal value: up to $2.875B (cash upfront + contingent milestones)\n* Lead asset: MER511 in Phase 1 (NEXUS trial, NCT07305818) — Graves' disease and thyroid eye disease\n* MER769 (preclinical) — food allergy, asthma, chronic spontaneous urticaria\n* Earlier programs target kidney diseases (membranous nephropathy)\n* Expected close: Q4 2026\n\nStrategic read:\n\n1. **Beyond obesity** — Mounjaro/Zepbound cash flow is funding an aggressive diversification into immunology and rare disease.\n2. **Selective autoantibody-degrader class** — different mechanism from FcRn blockers (argenx Vyvgart) already validated in myasthenia gravis.\n3. **Merida capital** — 2025 Series A of $121M co-led by Bain Capital Life Sciences, BVF Partners, Third Rock Ventures.\n\nLLY traded -1.5% on the announcement as investors digest another cash outlay.\n\nFull breakdown: [https://stock-tldr.xyz/releases/lly-merida-biosciences-acquire-sep-1-2026](https://stock-tldr.xyz/releases/lly-merida-biosciences-acquire-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T02:04:31.000Z"
+    },
     {
       "id": "hormuz-sidr-senegal-prosperity-tanker-strikes-aug-31-2026",
       "categories": [
