@@ -11024,6 +11024,44 @@
         "mover",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260902t153452z",
+      "timestamp": "2026-09-02T15:34:52.790Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 2 morning sweep: ADP August payrolls missed at +38K vs +47K est (slowest since January); Uber announced ~3,300 layoffs (~10% of staff) plus RTO push; and Japan's 10Y JGB broke 3% for the first time since 1996 as the US 10Y hit 4.81% amid a global sovereign-debt selloff.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-adp-august-2026-38k-sep-2",
+          "title": "US August 2026 ADP private payrolls +38K vs +47K est (Wed Sept 2) — slowest since January, manufacturing -17K, professional services -16K; July revised up to +46K",
+          "category": "macro",
+          "note": "August ADP printed +38K vs +47K consensus, softest since January — key NFP-preview data, published Sept 2 2026."
+        },
+        {
+          "id": "uber-3300-layoffs-simpler-faster-sep-2-2026",
+          "title": "Uber (UBER) cuts ~3,300 jobs (~10% of workforce) on Wed Sept 2 — largest layoffs since Covid, 20% reduction in managers, ~99% of staff must return to office",
+          "category": "mover",
+          "note": "Uber's biggest layoff since Covid — 10% headcount cut, 20% manager reduction, RTO for ~99% of staff; covered by every tier-1 outlet Wed Sept 2."
+        },
+        {
+          "id": "jgb-10y-3pct-global-bond-rout-sep-1-2026",
+          "title": "Japan 10Y JGB yield tops 3.00% Tue Sept 1 — first time since 1996 — 20Y hits 3.885% and 30Y record 4.18% as global bond selloff sends US 10Y to 4.81%, highest since Nov 2023",
+          "category": "rates",
+          "note": "Japan 10Y broke 3% Tuesday for first time since 1996 and US 10Y hit 4.81% Wednesday — the Aug-31 existing item was about the Warsh-driven US-only move; this is a materially bigger, global bond-rout milestone with distinct drivers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "rates"
+      ]
     }
   ]
 }

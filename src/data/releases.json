@@ -1,8 +1,226 @@
 {
-  "generatedAt": "2026-09-02T02:04:31.000Z",
+  "generatedAt": "2026-09-02T15:34:52.790Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-adp-august-2026-38k-sep-2",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 ADP private payrolls +38K vs +47K est (Wed Sept 2) — slowest since January, manufacturing -17K, professional services -16K; July revised up to +46K",
+      "org": "ADP Research",
+      "date": "2026-09-02",
+      "url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August",
+      "summary": "ADP August private payrolls landed at +38,000 vs +47K consensus — the softest month since January. Manufacturing (-17K) and professional/business services (-16K) shed jobs; education & health (+45K) carried the print.",
+      "tickers": [],
+      "importance": "major",
+      "tags": [
+        "adp",
+        "jobs",
+        "employment",
+        "private-payrolls",
+        "labor-market",
+        "august-2026",
+        "macro",
+        "nfp-preview"
+      ],
+      "metrics": {
+        "ADP August": "+38,000",
+        "Consensus": "+47,000",
+        "July revised": "+46,000 (from +44K)",
+        "Manufacturing": "-17,000",
+        "Professional & business svcs": "-16,000",
+        "Education & health": "+45,000",
+        "Base pay Y/Y": "+3.2%",
+        "Job-changer base pay Y/Y": "+4.7%"
+      },
+      "links": [
+        {
+          "label": "ADP Press Release",
+          "url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August"
+        },
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/private-sector-added-38000-jobs-august-below-expectations-adp-says"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/article/the-private-sector-added-38000-jobs-last-month-missing-expectations-adp-says-123035565.html"
+        },
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-38-000-jobs-in-august-302867661.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "August ADP misses at +38K — slowest hiring since January and a signal that the labor slowdown is spreading beyond manufacturing.",
+        "whatIsIt": "ADP's monthly gauge of private-sector employment came in at +38,000 jobs for August 2026, well below the +47,000 consensus and the softest since January. It's the last read on hiring before Friday's official Bureau of Labor Statistics payrolls report.",
+        "howItWorks": "Education and health services added 45,000 to lead all categories, with leisure and hospitality +16K and construction +12K. Manufacturing shed 17,000 jobs and professional & business services lost 16,000. Base pay grew 3.2% Y/Y and 4.7% Y/Y for job-changers. July was revised up from +44K to +46K.",
+        "whyItMatters": "A softer ADP into a hot inflation backdrop is the exact combination the Fed under Warsh has been debating — labor market weakening while price pressure holds. Two-year Treasury yields ticked lower on the print while the 10Y stayed pinned near 4.81% as global bonds sold off.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1980133/3_Pay-Insights_US_Chart-2.jpg?id=OA2925536&p=facebook",
+        "alt": "ADP August 2026 pay insights chart",
+        "fit": "cover",
+        "credit": "ADP Research"
+      },
+      "reddit": {
+        "title": "ADP August private payrolls +38K vs +47K est — slowest hiring month since January, manufacturing sheds 17K",
+        "body": "August ADP just landed cold. The last labor read before Friday's official BLS jobs number:\n\n* Private payrolls +38,000 vs +47,000 expected — softest month since January 2026\n* July revised up to +46,000 (from +44K)\n* Manufacturing -17,000, professional & business services -16,000\n* Education & health carried the print at +45,000, leisure & hospitality +16K, construction +12K\n* Base pay +3.2% Y/Y; job-changer premium widened to +4.7%\n\nWhy it matters:\n\n1. **Weakening labor into sticky inflation** — the exact Powell/Warsh dilemma. Wednesday's ADP miss lands two weeks after Warsh's Jackson Hole speech pushed back on premature cuts.\n2. **Cyclical sectors leading down** — manufacturing and pro-services back-to-back weak while services still add. Classic late-cycle mix.\n3. **NFP setup Friday** — consensus is ~90K; whisper skews lower after this.\n\nNext catalysts: BLS nonfarm payrolls Friday Sept 5, then CPI mid-month.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-adp-august-2026-38k-sep-2](https://stock-tldr.xyz/releases/us-adp-august-2026-38k-sep-2)"
+      },
+      "publishDate": "2026-09-02T15:34:52.790Z"
+    },
+    {
+      "id": "uber-3300-layoffs-simpler-faster-sep-2-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Uber (UBER) cuts ~3,300 jobs (~10% of workforce) on Wed Sept 2 — largest layoffs since Covid, 20% reduction in managers, ~99% of staff must return to office",
+      "org": "Uber Technologies",
+      "date": "2026-09-02",
+      "url": "https://www.uber.com/us/en/newsroom/simplerfasteruber/",
+      "summary": "Uber cuts ~3,300 jobs — about 10% of its workforce — in its biggest reduction since Covid. Managers get thinned by 20%, only ~1% of staff stay remote, and Delivery + Tech reorganize around a Mobility-style structure.",
+      "tickers": [
+        "UBER"
+      ],
+      "importance": "major",
+      "tags": [
+        "uber",
+        "layoffs",
+        "restructuring",
+        "return-to-office",
+        "cost-cuts",
+        "management-flattening",
+        "tech-layoffs"
+      ],
+      "metrics": {
+        "Headcount cut": "~10% (~3,300)",
+        "Manager reduction": "-20%",
+        "Micro-teams eliminated": "~50%",
+        "Remote-work cap going forward": "~1% of staff",
+        "Move on Sept 2": "+0.58% to $75.68"
+      },
+      "links": [
+        {
+          "label": "Uber Newsroom",
+          "url": "https://www.uber.com/us/en/newsroom/simplerfasteruber/"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/"
+        },
+        {
+          "label": "Reuters via Business Recorder",
+          "url": "https://www.brecorder.com/news/40437598/uber-plans-10-workforce-cut-to-trim-management-layers"
+        },
+        {
+          "label": "UBER Quote",
+          "url": "https://finance.yahoo.com/quote/UBER/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Uber's biggest layoff since Covid — 3,300 jobs, 20% fewer managers, and nearly the entire staff pulled back to office.",
+        "whatIsIt": "CEO Dara Khosrowshahi told staff Wednesday morning that Uber is cutting roughly 10% of its workforce, about 3,300 people, and combining Restaurants, Retail and Direct into a single Delivery org while consolidating Core Services engineering and science into one Tech unit.",
+        "howItWorks": "Employees seven-plus layers below the CEO drop by 20%, and micro-teams (with only one or two people) get halved. Going forward only ~1% of staff will be remote — the rest must be within commuting distance of an Uber office; Uber's three-day hybrid policy will be enforced. Global teams concentrate in New York and San Francisco with regional/country hubs.",
+        "whyItMatters": "It's Uber's largest cut since 2020. The framing — flatten management, shrink coordination cost, prioritize the robotaxi push — echoes the Meta 'year of efficiency' template that ran into 2023–25. Stock ticked +0.58% to $75.68 in early trading; the read-through touches DoorDash and Lyft on cost discipline.",
+        "forWho": "gig-economy longs, tech recruiters",
+        "tryIt": "https://www.uber.com/us/en/newsroom/simplerfasteruber/"
+      },
+      "image": {
+        "url": "https://tb-static.uber.com/prod/udam-assets/46d8c275-6e09-4e62-82c7-a02bd670dff8.png",
+        "alt": "Uber simpler faster restructuring announcement",
+        "fit": "cover",
+        "credit": "Uber Newsroom"
+      },
+      "reddit": {
+        "title": "Uber cuts ~3,300 jobs (~10% of workforce) — biggest layoff since Covid, 20% fewer managers, ~99% of staff return to office",
+        "body": "Dara Khosrowshahi's 'Simpler, Faster Uber' memo hit Wednesday morning. Uber's biggest cut since the pandemic:\n\n* ~3,300 employees out, ~10% of the workforce\n* Managers thinned by 20%, micro-teams (1–2 people) cut nearly in half\n* Going forward only ~1% of staff can stay fully remote — the rest must be within commuting distance of an Uber office\n* Delivery consolidates Restaurants + Retail + Direct into one org; Tech merges Core Services engineering and science\n* Global teams concentrate in San Francisco and New York\n\nWhy now:\n\n1. **Flatten before the robotaxi transition** — the org was built for gig-network hypergrowth, not for a Waymo/Tesla AV world that Khosrowshahi has been openly preparing for.\n2. **Cost discipline into 2027** — layers below the CEO reduced, coordination overhead structurally lower.\n3. **RTO signal for tech** — nearly every remote worker gets pulled back, a harder line than Meta or Google.\n\nUBER +0.58% to $75.68 in early trading.\n\nNext catalysts: Q3 print in early November, AV Robotaxi expansion updates.\n\nFull breakdown: [https://stock-tldr.xyz/releases/uber-3300-layoffs-simpler-faster-sep-2-2026](https://stock-tldr.xyz/releases/uber-3300-layoffs-simpler-faster-sep-2-2026)"
+      },
+      "publishDate": "2026-09-02T15:34:52.790Z"
+    },
+    {
+      "id": "jgb-10y-3pct-global-bond-rout-sep-1-2026",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "Japan 10Y JGB yield tops 3.00% Tue Sept 1 — first time since 1996 — 20Y hits 3.885% and 30Y record 4.18% as global bond selloff sends US 10Y to 4.81%, highest since Nov 2023",
+      "org": "Japanese Government Bonds",
+      "date": "2026-09-02",
+      "url": "https://asia.nikkei.com/business/markets/bonds/japan-benchmark-bond-yield-hits-30-year-high-of-3-amid-global-debt-selloff",
+      "summary": "Japan's 10-year JGB yield hit 3.005% Tuesday — the first 3-handle since September 1996 — as a global sovereign-debt rout spreads. US 10Y ripped to 4.81% Wednesday, the highest since November 2023.",
+      "tickers": [
+        "^TNX"
+      ],
+      "importance": "major",
+      "tags": [
+        "jgb",
+        "japan-bonds",
+        "global-bond-selloff",
+        "sovereign-debt",
+        "us-10y",
+        "boj",
+        "warsh",
+        "rates",
+        "yield-curve"
+      ],
+      "metrics": {
+        "JGB 10Y": "3.005% (first since Sep 1996)",
+        "JGB 20Y": "3.885% (highest since 1996)",
+        "JGB 30Y": "~4.18% (record)",
+        "US 10Y (Sep 2 intraday)": "4.814% (highest since Nov 2023)",
+        "US 30Y": "5.286%",
+        "US 2Y": "~4.40%"
+      },
+      "links": [
+        {
+          "label": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/bonds/japan-benchmark-bond-yield-hits-30-year-high-of-3-amid-global-debt-selloff"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/economy/policy/articles/japans-benchmark-bond-yield-rises-063338944.html"
+        },
+        {
+          "label": "Reuters via Business Recorder",
+          "url": "https://www.brecorder.com/news/40437373/japans-benchmark-10-year-bond-yield-reaches-3-level-for-first-time-in-30-years"
+        },
+        {
+          "label": "CNBC — US 10Y at Nov-2023 high",
+          "url": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html"
+        },
+        {
+          "label": "US10Y chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "The global bond rout hit a milestone Tuesday when the Japan 10Y broke 3% for the first time since 1996; US 10Y at 4.81% Wednesday, highest since Nov 2023.",
+        "whatIsIt": "Japan's benchmark 10-year JGB yield briefly reached 3.005% during Tokyo trading Tuesday Sept 1, a level unseen since September 1996. The 20Y punched to 3.885% and the 30Y climbed to a record ~4.18%. The move rippled across the US, UK, Germany and France, with the US 10Y hitting 4.814% Wednesday morning — the highest since November 2023.",
+        "howItWorks": "Two forces are compounding. First, oil-driven inflation from the US–Iran escalation on the Strait of Hormuz — Brent near $95, WTI ~$91 — is pushing breakevens up. Second, term-premium is rebuilding on worsening fiscal outlooks in Japan, the UK and the US. Traders are pricing further BOJ hikes into September and, in the US, roughly 60% odds of a September Fed hike since Warsh's Jackson Hole speech.",
+        "whyItMatters": "A 3% JGB isn't just symbolic — it's the level at which Japanese life insurers and pension funds pull capital home instead of buying foreign bonds. That flow reversal has historically pushed US and European long-end yields higher. Equities felt it Tuesday (S&P -0.3% to 7,686), and utility, homebuilder and REIT indices are the visible sink.",
+        "forWho": "rates traders, cross-asset macro",
+        "tryIt": "https://finance.yahoo.com/quote/%5ETNX/"
+      },
+      "image": {
+        "url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F6%2F7%2F13037620-2-eng-GB%2F68008b360a36-photo_SXM2026090100005170.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
+        "alt": "Japanese Government Bond trading floor as JGB 10Y crosses 3%",
+        "fit": "cover",
+        "credit": "Nikkei Asia / FT Images"
+      },
+      "reddit": {
+        "title": "Japan 10Y JGB tops 3% for first time since 1996 — 30Y at record 4.18%, US 10Y at 4.81% (highest since Nov 2023) as global bond rout deepens",
+        "body": "The global sovereign-debt selloff hit a real milestone Tuesday Sept 1 in Tokyo:\n\n* JGB 10Y touched 3.005% — first 3-handle since September 1996\n* JGB 20Y at 3.885% (highest since 1996), JGB 30Y at a record ~4.18%\n* US 10Y ripped to 4.814% Wednesday morning — highest since November 2023\n* US 30Y at 5.286%, 2Y flat near 4.40%\n* Bunds, gilts and OATs all at multi-year highs\n\nThree drivers stacked at once:\n\n1. **Oil-driven inflation** — Brent ~$95, WTI ~$91 after fresh US strikes on Iran through the Strait of Hormuz.\n2. **BoJ behind the curve** — market pricing another hike at the September meeting; life insurers were expected to buy JGBs at 3% and instead the level attracted supply.\n3. **Warsh Jackson Hole** — 'In Our Time' speech pushed back on rate cuts, forcing US term-premium to rebuild.\n\nWhy it matters cross-asset: 3% JGB is the historic level at which Japanese lifers/pensions repatriate capital instead of buying USTs and Bunds — that reversal has pressed long-end global yields higher in every prior cycle.\n\nNext catalysts: US NFP Friday, BoJ decision this month, US CPI mid-September.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jgb-10y-3pct-global-bond-rout-sep-1-2026](https://stock-tldr.xyz/releases/jgb-10y-3pct-global-bond-rout-sep-1-2026)"
+      },
+      "publishDate": "2026-09-02T15:34:52.790Z"
+    },
     {
       "id": "dell-q2-fy27-95b-ai-backlog-sep-1-2026",
       "categories": [
