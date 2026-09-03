@@ -11062,6 +11062,51 @@
         "mover",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260903t020453z",
+      "timestamp": "2026-09-03T02:04:53.282Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 2 after-hours wave: (1) Broadcom Q3 FY26 — record $29.6B revenue and $16.7B AI semis (+221%) but Q4 guide $34.8B missed the $35.03B whisper, AVGO -5% AH; (2) Snowflake Q2 FY27 — product revenue reaccelerated to +37% and FY27 guide raised to $6.07B, SNOW +~22% AH; (3) HPE Q3 FY26 — record $12.2B revenue with first fully-integrated Juniper quarter, Networking +75%; (4) NY Fed's John Williams pushed back on a September hike, attributing yield surge to strong-economy / AI capex, S&P snapped a 3-day losing streak at +0.46%.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "avgo-q3-fy26-earnings-sep-2-2026",
+          "title": "Broadcom (AVGO) Q3 FY26 — record $29.6B revenue (+86% Y/Y), non-GAAP EPS $3.32 vs $3.24 est; AI semiconductor revenue $16.7B (+221% Y/Y, +54% Q/Q); Q4 revenue guide $34.8B misses $35.03B LSEG consensus and AVGO -5% after hours",
+          "category": "earnings",
+          "note": "Mega-cap AI-semi print with AI revenue tripling Y/Y but Q4 guide undershooting the buyside — moved the semis complex AH."
+        },
+        {
+          "id": "snow-q2-fy27-earnings-sep-2-2026",
+          "title": "Snowflake (SNOW) Q2 FY27 — product revenue $1.49B (+37% Y/Y) accelerates, non-GAAP EPS $0.62 tops est; RPO $9.00B (+30%), 828 $1M+ customers; FY27 product revenue guide raised to $6.07B (+36% Y/Y) and non-GAAP op margin lifted to 14.5%; shares surge ~22% AH",
+          "category": "earnings",
+          "note": "Product-revenue reacceleration from 30% to 37% Y/Y plus $230M FY27 revenue-guide raise sent SNOW +~22% AH — rare double-raise in data-infra."
+        },
+        {
+          "id": "hpe-q3-fy26-earnings-sep-2-2026",
+          "title": "Hewlett Packard Enterprise (HPE) Q3 FY26 — record revenue $12.2B (+34% Y/Y) beats, non-GAAP EPS $1.11 tops $0.88–$0.93 guide; Networking (with Juniper) $2.9B (+74.9%); FY26 revenue growth guide raised to 34–37%, FY26 non-GAAP EPS $3.75–$3.85, FCF ≥$3.75B; Q4 revenue guide $13.9–$14.8B",
+          "category": "earnings",
+          "note": "First quarter with Juniper fully in the fold; record revenue, Networking +75%, and FY26 revenue/EPS/FCF guide all raised."
+        },
+        {
+          "id": "williams-nyfed-yields-sept-hike-pushback-sep-2-2026",
+          "title": "NY Fed's John Williams on Wed Sept 2 — 'wait and see' on rate hike, says Treasury-yield surge reflects strong economy and AI-driven investment; S&P 500 +0.46% to 7,666.60, Dow +295 to 53,061.95, Nasdaq +0.45% to 26,217.83 snap 3-day losing streak",
+          "category": "macro",
+          "note": "Highest-profile FOMC voice to explicitly downshift Sept-hike odds, materially moved market via 'wait and see' framing and 'AI-capex yield surge' narrative."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates"
+      ]
     }
   ]
 }

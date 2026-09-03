@@ -1,8 +1,323 @@
 {
-  "generatedAt": "2026-09-02T15:34:52.790Z",
+  "generatedAt": "2026-09-03T02:04:53.282Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "avgo-q3-fy26-earnings-sep-2-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Broadcom (AVGO) Q3 FY26 — record $29.6B revenue (+86% Y/Y), non-GAAP EPS $3.32 vs $3.24 est; AI semiconductor revenue $16.7B (+221% Y/Y, +54% Q/Q); Q4 revenue guide $34.8B misses $35.03B LSEG consensus and AVGO -5% after hours",
+      "org": "Broadcom",
+      "date": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001730168/000173016826000076/avgo-08022026x8kxex99.htm",
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "MRVL"
+      ],
+      "summary": "Broadcom Q3 FY26 revenue $29.6B (+86% Y/Y), non-GAAP EPS $3.32 vs $3.24 est; AI semis $16.7B (+221%). Q4 guide $34.8B (+93% Y/Y) misses $35.03B est; AVGO -5% AH.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q3-fy26",
+        "ai-semiconductor",
+        "custom-silicon",
+        "hyperscaler",
+        "guidance-miss",
+        "semis",
+        "record-revenue",
+        "after-hours"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$29.6B (+86% Y/Y)",
+        "Non-GAAP EPS": "$3.32 vs $3.24 est (+96% Y/Y)",
+        "AI semiconductor revenue": "$16.7B (+221% Y/Y, +54% Q/Q)",
+        "Non-GAAP gross margin": "~75%",
+        "Non-GAAP operating income": "$20.10B (~68% margin)",
+        "Free cash flow": "$13.7B (46% of revenue, +95% Y/Y)",
+        "Dividend": "$0.65/share",
+        "Q4 FY26 revenue guide": "~$34.8B (+93% Y/Y) vs $35.03B LSEG est",
+        "Q4 FY26 AI semi guide": "$21.7B (+236% Y/Y)",
+        "Regular session close": "$369.68",
+        "After-hours reaction": "~-5%"
+      },
+      "explainer": {
+        "tagline": "Broadcom's AI-semi engine tripled to $16.7B in Q3, but Q4 guide of $34.8B undershot the buyside — stock -5% AH.",
+        "whatIsIt": "Broadcom reported fiscal Q3 2026 results (quarter ended August 2) after the Wednesday Sept 2 close. Revenue hit a record $29.6B (+86% Y/Y) with non-GAAP diluted EPS of $3.32 topping the $3.24 consensus. The eye-catching line was AI-semiconductor revenue at $16.7B, up 221% Y/Y and 54% Q/Q, blowing past the ~200% growth pace management had guided for.",
+        "howItWorks": "AI-semi revenue alone was larger than the total top-line print of most rivals. Non-GAAP gross margin held near 75% and operating margin ran 68%, driving $13.7B of free cash flow (+95% Y/Y, 46% of revenue). Management guided Q4 FY26 revenue to $34.8B (+93% Y/Y), with AI semi accelerating to $21.7B (+236% Y/Y). Board declared the regular $0.65 quarterly dividend.",
+        "whyItMatters": "The Q4 headline miss vs $35.03B LSEG consensus is what mattered to the tape — AVGO closed the regular session at $369.68 and fell ~5% in extended trading as buyside models had penciled higher. Ripple through custom-silicon peers (MRVL) and NVIDIA is muted since AVGO's XPU roadmap serves Google, Meta and OpenAI-linked ASIC programs, but the guide reset the ceiling on the AI-capex trade heading into Q4.",
+        "forWho": "AI-infra bulls, semis pair-traders, hyperscaler-capex desks",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001730168/000173016826000076/avgo-08022026x8kxex99.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Broadcom_Headquarters_San_Jose.jpg/1280px-Broadcom_Headquarters_San_Jose.jpg",
+        "alt": "Broadcom headquarters in San Jose — Q3 FY26 earnings",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001730168/000173016826000076/avgo-08022026x8kxex99.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/investing/2026/09/02/broadcom-earnings-ai-chip-sales-tripled-here-s-the-usd34-8-billion-number-investors-need-to-watch/"
+        },
+        {
+          "label": "AVGO Quote",
+          "url": "https://finance.yahoo.com/quote/AVGO"
+        }
+      ],
+      "reddit": {
+        "title": "Broadcom Q3 FY26: revenue $29.6B (+86%), AI semis $16.7B (+221%), Q4 guide $34.8B misses $35.03B est — AVGO -5% AH",
+        "body": "Broadcom (AVGO) dropped Q3 FY26 after the bell Wednesday Sept 2 and the AI-semi engine went full throttle — but forward guide came up shy of what the buyside had modeled.\n\n* Revenue $29.6B, +86% Y/Y — record\n* Non-GAAP EPS $3.32 vs $3.24 est (+96% Y/Y)\n* AI-semiconductor revenue $16.7B, +221% Y/Y and +54% Q/Q\n* Non-GAAP operating margin ~68%; free cash flow $13.7B (+95% Y/Y, 46% of revenue)\n* Q4 FY26 revenue guide $34.8B (+93% Y/Y) — miss vs $35.03B LSEG consensus\n* Q4 AI semi guide $21.7B (+236% Y/Y)\n\nThe drivers of the AH sell-off:\n\n1. **Guide undershot the whisper** — headline top-line missed $35.03B consensus even after last quarter's raise; the tape had priced in another beat-and-raise on the AI line.\n2. **AI acceleration is real but linear** — $16.7B this quarter to $21.7B next quarter is still +$5B seq, but the buyside AI-capex model wanted more.\n3. **Set-up was priced-in** — AVGO closed the regular session at $369.68 into a fully-loaded print; ~-5% AH gives back the entire session.\n\nNext catalysts: NVDA CFO commentary at Goldman conference, hyperscaler capex updates on early-October pre-announces.\n\nFull breakdown: [https://stock-tldr.xyz/releases/avgo-q3-fy26-earnings-sep-2-2026](https://stock-tldr.xyz/releases/avgo-q3-fy26-earnings-sep-2-2026)"
+      },
+      "publishDate": "2026-09-03T02:04:53.282Z"
+    },
+    {
+      "id": "snow-q2-fy27-earnings-sep-2-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Snowflake (SNOW) Q2 FY27 — product revenue $1.49B (+37% Y/Y) accelerates, non-GAAP EPS $0.62 tops est; RPO $9.00B (+30%), 828 $1M+ customers; FY27 product revenue guide raised to $6.07B (+36% Y/Y) and non-GAAP op margin lifted to 14.5%; shares surge ~22% AH",
+      "org": "Snowflake",
+      "date": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm",
+      "tickers": [
+        "SNOW"
+      ],
+      "summary": "Snowflake Q2 FY27 product revenue $1.49B (+37% Y/Y — 7-pt acceleration), non-GAAP EPS $0.62 beat. FY27 product revenue guide raised to $6.07B from $5.84B. Shares +~22% AH.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q2-fy27",
+        "data-cloud",
+        "ai",
+        "coco-agent",
+        "acceleration",
+        "after-hours",
+        "record-quarter"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Product revenue": "$1.49B (+37% Y/Y)",
+        "Total revenue": "$1.55B (+35% Y/Y)",
+        "Non-GAAP EPS": "$0.62",
+        "GAAP net loss": "-$191.7M (-$0.55/sh)",
+        "Non-GAAP operating margin": "15.3%",
+        "Remaining performance obligations": "$9.00B (+30% Y/Y)",
+        "Net revenue retention": "126%",
+        "Customers >$1M TTM product revenue": "828 (+27% Y/Y)",
+        "CoCo AI coding agent accounts": "9,100 (+~2,000 Q/Q)",
+        "FY27 product revenue guide (new)": "$6.07B (+36% Y/Y, up from $5.84B)",
+        "FY27 non-GAAP op margin guide": "14.5% (from 13.5%)",
+        "After-hours reaction": "+~22%"
+      },
+      "explainer": {
+        "tagline": "Snowflake's product growth reaccelerated to 37% and management raised full-year revenue by $230M — shares +22% AH.",
+        "whatIsIt": "Snowflake reported Q2 FY27 results (quarter ended July 31) after Wednesday's close. Product revenue was $1.49B, up 37% Y/Y — a seven-percentage-point acceleration versus the 30% exit rate from fiscal 2026. Non-GAAP EPS came in at $0.62, marking a fifth straight beat, and full-year product-revenue guidance was raised to $6.07B from $5.84B.",
+        "howItWorks": "Total revenue reached $1.55B (+35%). Non-GAAP operating margin hit 15.3% versus prior expectations near 13%, prompting Snowflake to lift its full-year non-GAAP operating-margin target to 14.5%. Remaining performance obligations climbed to $9.00B (+30%), net revenue retention held at 126%, and 828 customers now generate more than $1M in trailing-12-month product revenue (+27%). CoCo, Snowflake's AI coding agent, reached 9,100 accounts, up more than 2,000 in the quarter.",
+        "whyItMatters": "The reacceleration answers the bear case that consumption trends had plateaued — Snowflake is now guiding to 36% full-year product growth after opening FY27 at 26–27%. AI workloads (Snowpark, Cortex, CoCo) are showing up as durable consumption revenue rather than pilots, and management's decision to raise both growth and margin at the same time makes the FY27 setup rare among data-infra names. Shares surged ~22% in extended trading.",
+        "forWho": "Data-infra investors, growth-software desks, AI-consumption pair-traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SnowflakeBooth.jpg/1280px-SnowflakeBooth.jpg",
+        "alt": "Snowflake booth signage — Q2 FY27 earnings acceleration",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html"
+        },
+        {
+          "label": "Investingnews Recap",
+          "url": "https://investingnews.com/snowflake-reports-financial-results-for-the-second-quarter-of-fiscal-2027/"
+        },
+        {
+          "label": "SNOW Quote",
+          "url": "https://finance.yahoo.com/quote/SNOW"
+        }
+      ],
+      "reddit": {
+        "title": "Snowflake Q2 FY27: product revenue $1.49B (+37% — 7-pt acceleration), FY27 guide raised $230M to $6.07B, SNOW +~22% AH",
+        "body": "Snowflake dropped Q2 FY27 after the bell Wednesday Sept 2 and the growth deceleration story just got put on ice.\n\n* Product revenue $1.49B, +37% Y/Y — up from 30% Y/Y last quarter\n* Total revenue $1.55B, +35% Y/Y\n* Non-GAAP EPS $0.62 (5th straight beat); GAAP net loss -$191.7M\n* Non-GAAP operating margin 15.3% vs ~13% modeled\n* RPO $9.00B (+30%), net revenue retention 126%\n* 828 customers >$1M TTM product revenue (+27%)\n* CoCo AI coding agent: 9,100 accounts (+~2,000 Q/Q)\n* FY27 product revenue guide raised to $6.07B (+36% Y/Y) from $5.84B\n* FY27 non-GAAP op margin raised to 14.5% from 13.5%\n\nWhy the tape reacted:\n\n1. **Reacceleration is the rarest print in software** — going from 30% → 37% Y/Y at $1.5B/qtr scale gets a premium multiple back.\n2. **Guide raise says AI is durable** — the $230M FY27 revenue lift plus the margin bump both landed at once; consumption-model bears lose the plateau thesis.\n3. **CoCo agent is scaling** — 9,100 accounts and +2K Q/Q gives AI SKUs a real number, not a pilot count.\n\nSNOW jumped ~22% after hours.\n\nNext catalysts: Snowflake BUILD conference in November, hyperscaler AI-capex updates for read-through on consumption trends.\n\nFull breakdown: [https://stock-tldr.xyz/releases/snow-q2-fy27-earnings-sep-2-2026](https://stock-tldr.xyz/releases/snow-q2-fy27-earnings-sep-2-2026)"
+      },
+      "publishDate": "2026-09-03T02:04:53.282Z"
+    },
+    {
+      "id": "hpe-q3-fy26-earnings-sep-2-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Hewlett Packard Enterprise (HPE) Q3 FY26 — record revenue $12.2B (+34% Y/Y) beats, non-GAAP EPS $1.11 tops $0.88–$0.93 guide; Networking (with Juniper) $2.9B (+74.9%); FY26 revenue growth guide raised to 34–37%, FY26 non-GAAP EPS $3.75–$3.85, FCF ≥$3.75B; Q4 revenue guide $13.9–$14.8B",
+      "org": "Hewlett Packard Enterprise",
+      "date": "2026-09-02",
+      "url": "https://www.constellationr.com/insights/news/hpe-reports-strong-q3-juniper-networks-fold",
+      "tickers": [
+        "HPE",
+        "JNPR",
+        "DELL"
+      ],
+      "summary": "HPE Q3 FY26 revenue $12.2B (+34% Y/Y), non-GAAP EPS $1.11 (+$0.67 Y/Y) blows past $0.88–$0.93 guide. Networking (with Juniper) $2.9B (+75%). FY26 raised: revenue growth 34–37%, EPS $3.75–$3.85, FCF ≥$3.75B.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q3-fy26",
+        "juniper-integration",
+        "networking",
+        "ai-server",
+        "record-revenue",
+        "hybrid-cloud",
+        "capital-return"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$12.2B (+34% Y/Y, record)",
+        "GAAP diluted EPS": "$1.06 (+$0.85 Y/Y)",
+        "Non-GAAP diluted EPS": "$1.11 (+$0.67 Y/Y) vs $0.88–$0.93 guide",
+        "Networking (incl. Juniper) revenue": "$2.9B (+74.9% Y/Y)",
+        "Server revenue": "$6.8B (+35.3% Y/Y)",
+        "Cloud & AI segment revenue": "$9.0B (+25.4% Y/Y)",
+        "Q4 FY26 revenue guide": "$13.9B–$14.8B",
+        "FY26 revenue growth guide (raised)": "34–37%",
+        "FY26 non-GAAP EPS guide (raised)": "$3.75–$3.85",
+        "FY26 free cash flow guide": "≥$3.75B"
+      },
+      "explainer": {
+        "tagline": "HPE's first full quarter with Juniper delivers record $12.2B revenue and Networking +75%, and FY26 guide gets raised again.",
+        "whatIsIt": "HPE reported fiscal Q3 2026 results (quarter ended July 31) after the Wednesday Sept 2 close. Record revenue of $12.2B (+34% Y/Y) and non-GAAP diluted EPS of $1.11 both cleared the top end of prior guidance. Full-year FY26 outlook was raised on every line: revenue growth 34–37%, non-GAAP EPS $3.75–$3.85, free cash flow at least $3.75B.",
+        "howItWorks": "The Cloud & AI segment (which houses the Server line) generated $9.0B (+25.4% Y/Y), with Server alone at $6.8B (+35.3%). Networking — now fully consolidated with Juniper following the DOJ settlement approval in August — was $2.9B (+74.9% Y/Y), with segment operating margin 22.0%. GAAP diluted EPS came in at $1.06 (+$0.85 Y/Y). Q4 FY26 guidance was set at $13.9–$14.8B in revenue.",
+        "whyItMatters": "First integrated Juniper quarter validates the strategic thesis: networking now sits at $2.9B/qtr with a mid-20s operating margin, which changes the earnings mix and gives HPE a comp story against Cisco. Server growth of 35% keeps HPE in the AI-infrastructure conversation alongside Dell and SMCI. HPE has been one of the year's best-performing large-caps into today's print, up ~120% YTD.",
+        "forWho": "Networking desks, AI-server pair-traders, integration-story allocators",
+        "tryIt": "https://finance.yahoo.com/quote/HPE"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HPE_headquarters.jpg/1280px-HPE_headquarters.jpg",
+        "alt": "Hewlett Packard Enterprise headquarters — Q3 FY26 earnings",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Constellation Analysis",
+          "url": "https://www.constellationr.com/insights/news/hpe-reports-strong-q3-juniper-networks-fold"
+        },
+        {
+          "label": "Yahoo Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-report-q3-earnings-whats-152700745.html"
+        },
+        {
+          "label": "247 Wall St. Live",
+          "url": "https://247wallst.com/investing/2026/09/02/live-can-hpes-q3-earnings-tonight-keep-its-120-ytd-rally-going/"
+        },
+        {
+          "label": "HPE Quote",
+          "url": "https://finance.yahoo.com/quote/HPE"
+        }
+      ],
+      "reddit": {
+        "title": "HPE Q3 FY26: record $12.2B revenue (+34%), non-GAAP EPS $1.11 crushes $0.88-$0.93 guide, Networking +75% with Juniper in the fold",
+        "body": "Hewlett Packard Enterprise dropped Q3 FY26 after the bell Wednesday Sept 2 — the first fully integrated Juniper quarter, and it landed above the top of guidance on every line.\n\n* Revenue $12.2B, +34% Y/Y — record\n* Non-GAAP EPS $1.11 vs $0.88–$0.93 guide (+$0.67 Y/Y)\n* GAAP EPS $1.06 (+$0.85 Y/Y)\n* Networking (with Juniper) $2.9B, +74.9% Y/Y — 22.0% op margin\n* Server $6.8B, +35.3% Y/Y — AI infra keeps compounding\n* Cloud & AI segment $9.0B, +25.4% Y/Y\n\nThe FY26 guide raise:\n\n1. **Revenue growth lifted to 34–37%** — after last quarter's 30% guide\n2. **Non-GAAP EPS raised to $3.75–$3.85** — top-end above prior consensus\n3. **Free cash flow ≥$3.75B** — funds the ongoing Juniper synergy work\n\nQ4 guide: $13.9–$14.8B revenue.\n\nHPE is ~120% YTD into this print. Juniper had cleared the DOJ settlement in August, so the tape had already priced in the strategic clarity — this quarter validates the model.\n\nNext catalysts: Cisco earnings for a networking read-through, HPE Analyst Day for FY27 framework.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hpe-q3-fy26-earnings-sep-2-2026](https://stock-tldr.xyz/releases/hpe-q3-fy26-earnings-sep-2-2026)"
+      },
+      "publishDate": "2026-09-03T02:04:53.282Z"
+    },
+    {
+      "id": "williams-nyfed-yields-sept-hike-pushback-sep-2-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "NY Fed's John Williams on Wed Sept 2 — 'wait and see' on rate hike, says Treasury-yield surge reflects strong economy and AI-driven investment; S&P 500 +0.46% to 7,666.60, Dow +295 to 53,061.95, Nasdaq +0.45% to 26,217.83 snap 3-day losing streak",
+      "org": "Federal Reserve Bank of New York",
+      "date": "2026-09-02",
+      "url": "https://www.newyorkfed.org/newsevents/speeches/2026/wil260902",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^IXIC",
+        "^TNX"
+      ],
+      "summary": "NY Fed's John Williams on Wed Sept 2 called for a 'wait and see' stance on a Sept rate hike and attributed rising yields to a strong US economy. S&P +0.46% to 7,666.60, snapping a 3-day losing streak.",
+      "tags": [
+        "fed",
+        "williams",
+        "rate-hike",
+        "monetary-policy",
+        "fomc-sept-15-16",
+        "10y-yield",
+        "wait-and-see",
+        "market-recap",
+        "dovish"
+      ],
+      "importance": "major",
+      "metrics": {
+        "S&P 500": "7,666.60 (+0.46%)",
+        "Dow Jones": "53,061.95 (+295.07, +0.56%)",
+        "Nasdaq Composite": "26,217.83 (+0.45%)",
+        "10Y yield": "4.79% (highest since 2023)",
+        "30Y yield": "5.26%",
+        "Next FOMC meeting": "Sept 15–16",
+        "Williams' key quote": "\"I think that we have to wait and see\""
+      },
+      "explainer": {
+        "tagline": "NY Fed's Williams pushes back on a September hike and pins yield surge on strong growth — S&P snaps a 3-day losing streak.",
+        "whatIsIt": "New York Fed President John Williams spoke on Wednesday Sept 2 and offered the most explicit pushback yet against the assumption that the Sept 15–16 FOMC meeting will deliver a rate hike. He said 'I think that we have to wait and see', arguing inflation expectations remain well anchored and that recent Treasury-yield gains reflect economic strength — 'a strong US economy and a strong economic outlook fueled by big investments in AI and data centers.'",
+        "howItWorks": "Williams noted there are 'no clear signs right now' as to whether current policy is sufficient to bring inflation back to target or whether further action is needed. He attributed 5.26% on the 30Y and 4.79% on the 10Y (highest since 2023) to demand-side pressures from AI-capex, not to inflation re-acceleration. His comments landed against a hawkish Warsh Jackson Hole speech from Aug 28 and stood alongside a market that had been pricing ~66% odds of a Sept hike into Wednesday.",
+        "whyItMatters": "Williams is the highest-profile centrist voice on the FOMC and his rhetoric matters because he chairs the New York Fed's open-market desk. His comments took some of the sting out of Warsh's inflation warnings and helped rescue equities: the S&P closed +0.46% at 7,666.60, the Dow +0.56% at 53,061.95, and the Nasdaq +0.45% at 26,217.83 — all snapping three-day losing streaks. Front-end rates and dollar-sensitive assets track the Sept-hike odds re-set from here.",
+        "forWho": "Rates traders, macro allocators, mega-cap equity desks",
+        "tryIt": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/John_C._Williams_%28cropped%29.jpg/960px-John_C._Williams_%28cropped%29.jpg",
+        "alt": "John C. Williams, President of the Federal Reserve Bank of New York",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "NY Fed Speeches",
+          "url": "https://www.newyorkfed.org/newsevents/speeches"
+        },
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html"
+        },
+        {
+          "label": "Blockonomi Market Rally",
+          "url": "https://blockonomi.com/wall-street-rallies-as-feds-williams-downplays-september-rate-increase"
+        },
+        {
+          "label": "Briefs Report",
+          "url": "https://www.briefs.co/news/ny-fed-s-williams-says-yield-surge-reflects-a-sturdy-economy/"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ],
+      "reddit": {
+        "title": "NY Fed's Williams: 'wait and see' on a September hike, blames yield surge on AI-capex and strong economy — S&P +0.46% snaps 3-day losing streak",
+        "body": "NY Fed President John Williams stepped in front of the September FOMC on Wednesday Sept 2 and provided the counterweight to Warsh's Jackson Hole hawkish framing.\n\n* Williams: \"I think that we have to wait and see\" on a rate hike\n* Cites \"no clear signs\" whether current policy is sufficient\n* Attributes the yield surge to \"a strong US economy... fueled by big investments in AI and data centers\"\n* Says inflation expectations remain well anchored\n\nThe tape:\n\n* S&P 500 +0.46% to 7,666.60 — snaps 3-day losing streak\n* Dow +295.07 pts (+0.56%) to 53,061.95\n* Nasdaq +0.45% to 26,217.83\n* 10Y yield 4.79% (highest since 2023); 30Y 5.26%\n\nWhy it matters:\n\n1. **Williams is the FOMC's designated centrist** — his rhetoric usually maps closely to the direction the median dot will move.\n2. **Sept-hike odds were ~66% into today** — his \"wait and see\" line cuts that framing without officially closing the door.\n3. **Yield-surge framing is dovish** — telling the market yields are demand-side (AI-capex) not inflation-side means the Fed is not compelled to lean on the front end.\n\nNext catalysts: NFP Friday Sept 4, CPI Sept 10, FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/williams-nyfed-yields-sept-hike-pushback-sep-2-2026](https://stock-tldr.xyz/releases/williams-nyfed-yields-sept-hike-pushback-sep-2-2026)"
+      },
+      "publishDate": "2026-09-03T02:04:53.282Z"
+    },
     {
       "id": "us-adp-august-2026-38k-sep-2",
       "categories": [
