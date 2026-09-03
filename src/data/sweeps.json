@@ -11107,6 +11107,57 @@
         "macro",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260903t154037z",
+      "timestamp": "2026-09-03T15:40:37.114Z",
+      "source": "github-actions-sweep",
+      "summary": "Five Sept 3 additions: Waller Fed speech signaling a Sept-15/16 hold, Ciena Q3 crushing on AI-optical demand (+4.3% pre), Campbell's Q4 miss with a 36% dividend cut (-6.3% pre), Victoria's Secret Q2 beat but Q3 op-income guide sinks it -16% pre, and the hot ISM Services 55.4 (highest activity read since Nov 2022).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "waller-fed-hold-sep-decision-cpi-sep-3-2026",
+          "title": "Fed Governor Waller says he 'would be inclined' to hold rates at Sept 15–16 FOMC if August CPI keeps cooling — 10Y yield eases to ~4.75%",
+          "category": "macro",
+          "note": "Distinct Fed-speaker event from Sept 2 Williams; explicitly steers Sept 15–16 FOMC toward a hold if Aug CPI cooperates; 10Y eased to ~4.75%."
+        },
+        {
+          "id": "cien-q3-fy26-earnings-sep-3-2026",
+          "title": "Ciena (CIEN) Q3 FY26 — record revenue $1.67B (+37% Y/Y), adj EPS $2.11 vs $1.72 est; cloud provider revenue +82% Y/Y at 53% of mix; Q4 revenue guide $1.75B ±$50M; FY27 revenue growth guided ≥30%; stock +4.3% premarket",
+          "category": "earnings",
+          "note": "Best-in-class AI/cloud optical beat, +37% Y/Y revenue, guides FY27 ≥30%; +4.3% premarket confirms >3% mover bar."
+        },
+        {
+          "id": "cpb-q4-fy26-dividend-cut-sep-3-2026",
+          "title": "Campbell's (CPB) Q4 FY26 — net sales $2.14B (-8% Y/Y) miss, adj EPS $0.39 (-37% Y/Y); cuts dividend 36% to $0.25/yr; launches $500M cost program; FY27 adj EPS guide $1.65–$1.80 (-24 to -17% Y/Y); stock -6.3% premarket",
+          "category": "earnings",
+          "note": "Signal event for staples cohort — 36% dividend cut plus deep FY27 EPS guide-down; -6.3% premarket."
+        },
+        {
+          "id": "vsxy-q2-fy26-q3-guide-plunge-sep-3-2026",
+          "title": "Victoria's Secret (VSXY) Q2 FY26 — net sales $1.611B (+10% Y/Y) tops guide, adj EPS $0.95 vs $0.65–$0.75 guide (aided by $140M+ tariff refunds); Q3 op-income guide $10–$20M sends stock -16% premarket even as FY26 sales range raised to $7.10–$7.18B",
+          "category": "earnings",
+          "note": "Q2 tariff-refund-flattered beat overshadowed by soft Q3 op-income guide; -16% premarket — clearly mover-bar."
+        },
+        {
+          "id": "us-ism-services-pmi-aug-2026-sep-3",
+          "title": "US August 2026 ISM Services PMI = 55.4 (Wed Sept 3) — 26th straight month of expansion, tops 54.2 est; Business Activity 61.7 highest since Nov 2022, New Orders 60.9 highest since Feb 2023; Prices 72.6 stays hot",
+          "category": "macro",
+          "note": "26th straight month of expansion, Business Activity highest since Nov 2022; Prices Paid 72.6 sticky — matters for Sept FOMC framing."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates"
+      ]
     }
   ]
 }

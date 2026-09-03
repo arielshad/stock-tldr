@@ -1,8 +1,387 @@
 {
-  "generatedAt": "2026-09-03T02:04:53.282Z",
+  "generatedAt": "2026-09-03T15:40:37.114Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "waller-fed-hold-sep-decision-cpi-sep-3-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "Fed Governor Waller says he 'would be inclined' to hold rates at Sept 15–16 FOMC if August CPI keeps cooling — 10Y yield eases to ~4.75%",
+      "org": "Federal Reserve",
+      "date": "2026-09-03",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+      "summary": "Fed Governor Christopher Waller (Reuters NEXT interview, Wed Sept 3) says if disinflation continues in August CPI due next week, he supports holding the funds rate; a hot print could warrant a hike. 10Y yield ~4.75%.",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Fed funds target": "4.25–4.50%",
+        "Core PCE (July, Y/Y)": "3.3%",
+        "3M core PCE (Feb→Jul, annualized)": "4.76% → 3.05%",
+        "10Y yield": "~4.75%",
+        "FOMC meeting": "Sept 15–16, 2026",
+        "S&P 500 (intraday)": "+0.93%"
+      },
+      "importance": "major",
+      "tags": [
+        "fomc",
+        "fed",
+        "waller",
+        "rates",
+        "10y-yield",
+        "cpi",
+        "disinflation",
+        "policy-guidance"
+      ],
+      "explainer": {
+        "tagline": "Waller: continued disinflation in Aug CPI → hold; hot print → hike still on the table at Sept 15–16 FOMC.",
+        "whatIsIt": "Governor Christopher Waller delivered a Sept 3 speech titled 'The Economic Outlook and Some Comments on My Policy Communication' at a Reuters NEXT Newsmaker interview in Washington. He explicitly ties his September vote to the August CPI print due mid-month.",
+        "howItWorks": "Waller flagged that 3-month annualized core PCE has fallen from 4.76% in February to 3.05% through July, calling it 'a considerable improvement,' while headline PCE (+3.7% Y/Y) and core PCE (+3.3%) remain above the 2% goal. Exact quote: 'If this continues in the data due over the next two weeks, I would be inclined to support holding the target for the federal funds rate at its current setting.' A hot August print, he said, could still warrant a hike.",
+        "whyItMatters": "One day after NY Fed's Williams pushed back on a September hike, Waller — historically a hawk — signals the FOMC's base case tilts hold. The 10-year yield eased to ~4.75% (from Aug 31's 4.76% cycle-high) and the S&P 500 traded +0.93% intraday. Traders now key on Sept 11 CPI as the decision-defining print.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christopher_J._Waller%2C_Federal_Reserve_Governor_2.jpg/960px-Christopher_J._Waller%2C_Federal_Reserve_Governor_2.jpg",
+        "alt": "Fed Governor Christopher J. Waller — Sept 3 speech signals rate hold",
+        "fit": "cover",
+        "credit": "Federal Reserve Board / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Fed Speech (Waller)",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/feds-christopher-waller-signals-rate-125226433.html"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "label": "10Y Yield (^TNX)",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "reddit": {
+        "title": "Waller says he'd support holding rates at Sept 15–16 FOMC if August CPI keeps cooling — 10Y eases to ~4.75%",
+        "body": "Fed Governor Christopher Waller — historically the board's hawk — used a Reuters NEXT interview Wednesday to essentially telegraph a hold.\n\n* Direct quote: \"If this continues in the data due over the next two weeks, I would be inclined to support holding the target for the federal funds rate at its current setting.\"\n* 3-month annualized core PCE has fallen from 4.76% in February to 3.05% through July\n* Headline PCE still +3.7% Y/Y and core +3.3% — above the 2% goal\n* 10Y yield eased to ~4.75% (from Aug 31's 4.76% cycle high); S&P 500 +0.93% intraday\n* Fed funds target unchanged at 4.25–4.50%\n\nWhy it matters:\n\n1. **Second dovish tilt in 24 hours** — NY Fed's Williams pushed back on a Sept hike Tuesday. Waller confirming it moves the base case.\n2. **August CPI is now the decision** — the print lands Sept 11, four business days before the Sept 15–16 FOMC.\n3. **Escape hatch left open** — Waller said a hot print could still warrant a hike, so this isn't a commitment.\n\nNext catalysts: Aug CPI (Sept 11), FOMC decision (Sept 16).\n\nFull breakdown: [https://stock-tldr.xyz/releases/waller-fed-hold-sep-decision-cpi-sep-3-2026](https://stock-tldr.xyz/releases/waller-fed-hold-sep-decision-cpi-sep-3-2026)"
+      },
+      "publishDate": "2026-09-03T15:40:37.114Z"
+    },
+    {
+      "id": "cien-q3-fy26-earnings-sep-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Ciena (CIEN) Q3 FY26 — record revenue $1.67B (+37% Y/Y), adj EPS $2.11 vs $1.72 est; cloud provider revenue +82% Y/Y at 53% of mix; Q4 revenue guide $1.75B ±$50M; FY27 revenue growth guided ≥30%; stock +4.3% premarket",
+      "org": "Ciena",
+      "date": "2026-09-03",
+      "url": "https://ca.finance.yahoo.com/news/ciena-cien-beats-q3-earnings-121502205.html",
+      "summary": "Ciena Q3 FY26 (quarter ended Aug 1) — revenue $1.67B (+37% Y/Y), adj EPS $2.11 vs $1.72 est, cloud +82% Y/Y at 53% of mix; Q4 rev guide $1.75B ±$50M; FY27 revenue growth ≥30%; CIEN +4.3% premarket on AI optical demand.",
+      "tickers": [
+        "CIEN"
+      ],
+      "metrics": {
+        "Revenue": "$1.67B (+37% Y/Y)",
+        "Adj EPS": "$2.11 vs $1.72 est",
+        "Adj gross margin": "46.4% (from 41.9%)",
+        "Adj operating margin": "22.5% (from 10.7%)",
+        "Optical Networking revenue": "$1.19B (from $815.5M)",
+        "Cloud provider revenue mix": "53% (+82% Y/Y)",
+        "Q4 FY26 revenue guide": "$1.75B ± $50M",
+        "FY26 revenue guide (raised)": "$6.42B ± $50M",
+        "FY27 preliminary revenue growth": "≥30%",
+        "Move (premarket)": "+4.3%"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "ai-networking",
+        "optical",
+        "cloud",
+        "q3-fy26",
+        "semis-adjacent"
+      ],
+      "explainer": {
+        "tagline": "Optical-networking bellwether posts +37% Y/Y revenue and >2x adj-EPS beat on cloud/AI backlog, raises FY26 and preps 30%+ FY27.",
+        "whatIsIt": "Ciena reported fiscal Q3 2026 (quarter ended Aug 1) before the open Sept 3. The company sells optical transport gear that connects hyperscaler data-center campuses — the plumbing behind the AI capex build-out.",
+        "howItWorks": "Revenue $1.67B (+37% Y/Y from $1.22B) beat the $1.63B est; adj EPS $2.11 crushed $1.72 est. Cloud-provider revenue jumped 82% Y/Y and now represents 53% of the mix; Optical Networking segment revenue climbed to $1.19B from $815.5M. Adj gross margin expanded to 46.4% (from 41.9%) and adj operating margin to 22.5% (from 10.7%). Q4 revenue guide $1.75B ±$50M; FY26 revenue guide raised to $6.42B ±$50M (35% growth). Preliminary FY27 outlook: ≥30% revenue growth, 25–27% adj op margin.",
+        "whyItMatters": "Confirms cloud/AI capex is flowing to the optical layer, not just chips. CEO Gary Smith: 'AI continues to drive compounding waves of network investment.' Stock +4.3% premarket. Read-through positive for peers exposed to hyperscaler optical demand (COHR, LITE) and the broader AI-infrastructure trade after AVGO's mixed guide the prior night.",
+        "forWho": "AI-infrastructure and semis-adjacent traders",
+        "tryIt": "https://finance.yahoo.com/quote/CIEN"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ciena_logo.svg/1280px-Ciena_logo.svg.png",
+        "alt": "Ciena logo — Q3 FY26 record AI-networking revenue",
+        "fit": "contain",
+        "credit": "Ciena Corporation / Wikimedia"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://ca.finance.yahoo.com/news/ciena-cien-beats-q3-earnings-121502205.html"
+        },
+        {
+          "label": "SEC 8-K (Q3 Slides)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000936395/000162828026060245/ex9922026q3earningsprese.htm"
+        },
+        {
+          "label": "Ciena IR",
+          "url": "https://investor.ciena.com/overview/default.aspx"
+        },
+        {
+          "label": "Yahoo Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cienas-q3-2026-earnings-expect-152525493.html"
+        },
+        {
+          "label": "CIEN Quote",
+          "url": "https://finance.yahoo.com/quote/CIEN"
+        }
+      ],
+      "reddit": {
+        "title": "Ciena Q3: revenue $1.67B (+37% Y/Y), adj EPS $2.11 vs $1.72 est, cloud +82%; FY27 guided ≥30% growth. Optical is the next AI-capex leg.",
+        "body": "Ciena (CIEN) is the biggest pure-play optical-networking vendor — the plumbing between hyperscaler data-center campuses. Fiscal Q3 (ended Aug 1) came in ahead of the pre-open Sept 3.\n\n* Revenue $1.67B, +37% Y/Y (from $1.22B), beats $1.63B est\n* Adj EPS $2.11 crushes $1.72 est\n* Cloud-provider revenue +82% Y/Y, now 53% of mix\n* Optical Networking segment $1.19B (from $815.5M Y/Y)\n* Adj gross margin 46.4% (from 41.9%); adj op margin 22.5% (from 10.7%)\n* FY26 revenue guide raised to $6.42B ±$50M (35% growth at midpoint)\n* FY27 preliminary: ≥30% revenue growth, 25–27% adj op margin\n* CIEN +4.3% premarket\n\nWhy it matters:\n\n1. **Optical is the next AI-capex leg** — chips get the headlines, but hyperscaler DC-to-DC interconnect is where CIEN plays.\n2. **CEO called it out directly** — Gary Smith: \"AI continues to drive compounding waves of network investment.\"\n3. **Positive read across** — hyperscaler-optical exposure (COHR, LITE) after AVGO's mixed Q4 guide the prior night.\n\nNext catalysts: Q4 FY26 print (Dec), FY27 formal guide.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cien-q3-fy26-earnings-sep-3-2026](https://stock-tldr.xyz/releases/cien-q3-fy26-earnings-sep-3-2026)"
+      },
+      "publishDate": "2026-09-03T15:40:37.114Z"
+    },
+    {
+      "id": "cpb-q4-fy26-dividend-cut-sep-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Campbell's (CPB) Q4 FY26 — net sales $2.14B (-8% Y/Y) miss, adj EPS $0.39 (-37% Y/Y); cuts dividend 36% to $0.25/yr; launches $500M cost program; FY27 adj EPS guide $1.65–$1.80 (-24 to -17% Y/Y); stock -6.3% premarket",
+      "org": "The Campbell's Company",
+      "date": "2026-09-03",
+      "url": "https://www.stocktitan.net/news/CPB/campbell-s-reports-fourth-quarter-fiscal-2026-rqsccqfpa57l.html",
+      "summary": "Campbell's Q4 FY26 (Wed Sept 3) — net sales $2.14B (-8%) miss $2.15B est; organic -1%; adj EPS $0.39 (-37%) inline; dividend cut 36% to $0.25/sh annual; FY27 adj EPS $1.65–$1.80 (-17 to -24%); $500M cost program by FY30; CPB -6.32% premarket to $22.28.",
+      "tickers": [
+        "CPB"
+      ],
+      "metrics": {
+        "Q4 net sales": "$2.14B (-8% Y/Y)",
+        "Q4 organic net sales": "-1%",
+        "Q4 adj EPS": "$0.39 (-37% Y/Y)",
+        "Q4 GAAP EPS": "-$0.23",
+        "Q4 adj gross margin": "28.6% (-190bps)",
+        "FY26 net sales": "$9.744B (-5% Y/Y)",
+        "FY26 adj EPS": "$2.17 (-27% Y/Y)",
+        "FY27 net sales guide": "(4%) to (2%)",
+        "FY27 adj EPS guide": "$1.65 – $1.80 (-24 to -17%)",
+        "New dividend": "$0.25/sh annual (-36% from $0.39)",
+        "Cost program target": "$500M by FY30",
+        "Move (premarket)": "-6.32% to $22.28"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-miss",
+        "guidance-cut",
+        "dividend-cut",
+        "restructuring",
+        "consumer-staples",
+        "q4-fy26"
+      ],
+      "explainer": {
+        "tagline": "Consumer-staples icon prints -8% sales, cuts payout 36% and guides FY27 adj EPS to $1.65–$1.80 to accelerate debt paydown.",
+        "whatIsIt": "The Campbell's Company (formerly Campbell Soup) reported fiscal Q4 2026 pre-market Sept 3, alongside a 36% dividend cut and a new $500M cost-savings program targeting completion by FY30.",
+        "howItWorks": "Q4 net sales $2.137B declined 8% Y/Y and missed the $2.15B consensus; organic net sales -1% as Meals & Beverages growth was more than offset by Snacks weakness. Adj EPS $0.39 fell 37% Y/Y and matched estimates; GAAP EPS was -$0.23. Adj gross margin compressed 190bps to 28.6%. Full-year FY26 revenue $9.744B (-5%), adj EPS $2.17 (-27%). FY27 guide: net sales (4%)–(2%), adj EBIT -7% to -12%, adj EPS $1.65–$1.80 (-17 to -24% Y/Y). Quarterly dividend reset from $0.39 to $0.25 annual.",
+        "whyItMatters": "CEO Mick Beekhuizen: 'Our performance is not where it needs to be, and we are taking decisive action to improve it.' A dividend cut plus an EPS reset of this magnitude is a signal event for the staples cohort where CPB was already trading near multi-year lows. Stock -6.32% premarket to $22.28. Read-through: KHC, GIS, K getting flagged as vulnerable to snack-category share loss.",
+        "forWho": "staples/dividend investors",
+        "tryIt": "https://finance.yahoo.com/quote/CPB"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Campbellsoupheadquarters.jpg/1280px-Campbellsoupheadquarters.jpg",
+        "alt": "Campbell Soup Company headquarters in Camden, NJ — Q4 FY26 miss and dividend cut",
+        "fit": "cover",
+        "credit": "Wikimedia Commons / Coolcaesar (CC BY-SA 3.0)"
+      },
+      "links": [
+        {
+          "label": "Campbell's Q4 Release",
+          "url": "https://www.stocktitan.net/news/CPB/campbell-s-reports-fourth-quarter-fiscal-2026-rqsccqfpa57l.html"
+        },
+        {
+          "label": "Investing.com — Q4 Slides",
+          "url": "https://www.investing.com/news/company-news/campbells-q4-fy26-slides-sales-miss-margins-shrink-dividend-cut-93CH-4887635"
+        },
+        {
+          "label": "Yahoo — Q4 Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/campbells-q4-earnings-call-highlights-120216028.html"
+        },
+        {
+          "label": "WTOP — AP Snapshot",
+          "url": "https://wtop.com/national/2026/09/campbell-fiscal-q4-earnings-snapshot"
+        },
+        {
+          "label": "CPB Quote",
+          "url": "https://finance.yahoo.com/quote/CPB"
+        }
+      ],
+      "reddit": {
+        "title": "Campbell's (CPB) Q4 FY26: sales $2.14B miss, adj EPS $0.39 (-37% Y/Y), dividend slashed 36% to $0.25/yr, FY27 adj EPS guided $1.65–$1.80 (-17 to -24%). Stock -6% premarket.",
+        "body": "Consumer-staples icon Campbell's dropped a rough Q4 print and a dividend cut on Sept 3.\n\n* Q4 net sales $2.137B, -8% Y/Y — misses $2.15B est\n* Organic net sales -1% (Meals & Beverages growth offset by Snacks weakness)\n* Q4 adj EPS $0.39, -37% Y/Y; GAAP EPS -$0.23\n* Adj gross margin 28.6%, -190bps\n* FY26: net sales $9.744B (-5%), adj EPS $2.17 (-27%)\n* Quarterly dividend cut 36% — from $0.39 to $0.25 annual\n* FY27 guide: net sales (4%)–(2%), adj EPS $1.65–$1.80 (-17 to -24%)\n* $500M cost-savings program targeted by FY30\n* CPB -6.32% premarket to $22.28\n\nCEO framing:\n\n1. **CEO Mick Beekhuizen on the call:** \"Our performance is not where it needs to be, and we are taking decisive action to improve it.\"\n2. **Why cut the divvy** — accelerate debt paydown; the payout ratio was untenable at the new EPS run-rate.\n3. **Sector read-through** — KHC, GIS, K also facing snack-category share loss; watch for whether the group re-rates lower.\n\nNext catalysts: Q1 FY27 (Nov), investor-day details on the $500M program.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cpb-q4-fy26-dividend-cut-sep-3-2026](https://stock-tldr.xyz/releases/cpb-q4-fy26-dividend-cut-sep-3-2026)"
+      },
+      "publishDate": "2026-09-03T15:40:37.114Z"
+    },
+    {
+      "id": "vsxy-q2-fy26-q3-guide-plunge-sep-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Victoria's Secret (VSXY) Q2 FY26 — net sales $1.611B (+10% Y/Y) tops guide, adj EPS $0.95 vs $0.65–$0.75 guide (aided by $140M+ tariff refunds); Q3 op-income guide $10–$20M sends stock -16% premarket even as FY26 sales range raised to $7.10–$7.18B",
+      "org": "Victoria's Secret & Co.",
+      "date": "2026-09-03",
+      "url": "https://www.globenewswire.com/news-release/2026/09/03/3355759/0/en/victoria-s-secret-co-reports-second-quarter-2026-results.html",
+      "summary": "Victoria's Secret Q2 FY26 — net sales $1.611B (+10% Y/Y), comps +9%, adj EPS $0.95 above $0.65–$0.75 guide (helped by $140M+ tariff refunds); Q3 op-income guided $10–$20M and stock -16% premarket even as FY26 sales range raised to $7.10–$7.18B.",
+      "tickers": [
+        "VSXY"
+      ],
+      "metrics": {
+        "Q2 net sales": "$1.611B (+10% Y/Y)",
+        "Q2 comps": "+9%",
+        "Q2 adj EPS": "$0.95 vs $0.65–$0.75 guide (prior yr $0.33)",
+        "Q2 one-time tariff refunds": "$140M+",
+        "Q3 net sales guide": "$1.570B – $1.600B",
+        "Q3 operating income guide": "$10M – $20M",
+        "FY26 net sales guide (raised)": "$7.100B – $7.180B",
+        "FY26 adj operating income (raised)": "$560M – $590M",
+        "Move (premarket)": "-16%"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q3-guide-cut",
+        "guidance-raise-fy",
+        "retail",
+        "specialty-retail",
+        "q2-fy26",
+        "mover"
+      ],
+      "explainer": {
+        "tagline": "Q2 crushes on tariff refunds but soft Q3 operating income overshadows raised FY guide — stock -16% premarket.",
+        "whatIsIt": "Victoria's Secret & Co. (NYSE: VSXY) reported Q2 fiscal 2026 (quarter ended Aug 1) before the open Sept 3, along with Q3 and raised FY guidance.",
+        "howItWorks": "Q2 net sales $1.611B (+10% Y/Y) landed near the high end of the $1.590–$1.615B guide; comps +9%. Adj EPS $0.95 came in well above the $0.65–$0.75 guide (prior yr Q2: $0.33), aided by more than $140M in one-time IEEPA tariff refunds flowing through gross margin. Q3 guide: net sales $1.570–$1.600B and operating income just $10–$20M — the disappointment on this line drove the selloff. FY26 net sales guide raised to $7.100–$7.180B (from $7.030–$7.130B) and adj operating income to $560–$590M (from $550–$580M).",
+        "whyItMatters": "CEO Hillary Super: 'Our Path to Potential strategy is working, our brands are stronger and more relevant, our customer file is growing.' CFO Scott Sekella flagged 'stronger regular-price selling and disciplined execution.' Yet the Q3 op-income guide implies materially higher strategic marketing investment; with the stock up ~300% over the trailing year, the market is punishing forward-margin optics over backward-looking beats. VSXY -16% premarket.",
+        "forWho": "specialty-retail and consumer-discretionary traders",
+        "tryIt": "https://finance.yahoo.com/quote/VSXY"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Victoria%27s_Secret_Pink_Store_NYC%2C_USA.JPG/1280px-Victoria%27s_Secret_Pink_Store_NYC%2C_USA.JPG",
+        "alt": "Victoria's Secret Pink storefront in NYC — Q2 FY26 print and soft Q3 guide",
+        "fit": "cover",
+        "credit": "WestportWiki / Wikimedia Commons (CC BY-SA 3.0)"
+      },
+      "links": [
+        {
+          "label": "VSXY Q2 Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/03/3355759/0/en/victoria-s-secret-co-reports-second-quarter-2026-results.html"
+        },
+        {
+          "label": "Yahoo — Q3 Guide Slump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-shares-slump-16-123126159.html"
+        },
+        {
+          "label": "StockTitan — Wire",
+          "url": "https://www.stocktitan.net/news/VSXY/victoria-s-secret-co-reports-second-quarter-2026-iregp01y1w2j.html"
+        },
+        {
+          "label": "VSXY Quote",
+          "url": "https://finance.yahoo.com/quote/VSXY"
+        }
+      ],
+      "reddit": {
+        "title": "VSXY -16% premarket: Q2 crushes ($0.95 vs $0.65–$0.75 guide, but ~$140M tariff refunds), Q3 op-income guided just $10–$20M despite FY sales raise",
+        "body": "Victoria's Secret (VSXY) delivered a headline beat but a soft Q3 operating-income guide is doing all the talking on Sept 3.\n\n* Q2 net sales $1.611B, +10% Y/Y — near high end of $1.590–$1.615B guide\n* Comps +9%\n* Adj EPS $0.95, well above $0.65–$0.75 guide (prior year Q2: $0.33)\n* Beat aided by $140M+ in one-time IEEPA tariff refunds\n* Q3 net sales guide $1.570–$1.600B\n* Q3 operating income guide **just $10M–$20M** — the tell\n* FY26 net sales guide raised to $7.100–$7.180B (from $7.030–$7.130B)\n* FY26 adj op income raised to $560–$590M (from $550–$580M)\n* Stock -16% premarket\n\nWhy the market is punishing this:\n\n1. **Q2 was tariff-refund quality** — strip the one-timer and the beat compresses meaningfully.\n2. **Q3 op-income implies heavy marketing spend** — CFO called out strategic investment; the market is reading it as a step-down in near-term margin, not a re-acceleration.\n3. **Setup was tight** — VSXY had rallied ~300% over the last year on the Path to Potential turnaround. Any margin wobble was going to move the tape.\n\nNext catalysts: Q3 print (holiday-adjacent), analyst-day margin bridge.\n\nFull breakdown: [https://stock-tldr.xyz/releases/vsxy-q2-fy26-q3-guide-plunge-sep-3-2026](https://stock-tldr.xyz/releases/vsxy-q2-fy26-q3-guide-plunge-sep-3-2026)"
+      },
+      "publishDate": "2026-09-03T15:40:37.114Z"
+    },
+    {
+      "id": "us-ism-services-pmi-aug-2026-sep-3",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 ISM Services PMI = 55.4 (Wed Sept 3) — 26th straight month of expansion, tops 54.2 est; Business Activity 61.7 highest since Nov 2022, New Orders 60.9 highest since Feb 2023; Prices 72.6 stays hot",
+      "org": "Institute for Supply Management",
+      "date": "2026-09-03",
+      "url": "https://www.prnewswire.com/news-releases/services-pmi-at-55-4-august-2026-ism-services-pmi-report-302868046.html",
+      "summary": "ISM Services PMI 55.4 for August 2026 (up 1.3pts from 54.1) beats 54.2 est — 26th straight month of expansion. Business Activity 61.7 (highest since Nov 2022), New Orders 60.9 (highest since Feb 2023). Prices Paid rises to 72.6. Employment stays contractionary at 47.8.",
+      "tickers": [],
+      "metrics": {
+        "ISM Services (Aug)": "55.4 vs 54.2 est",
+        "Prior (July)": "54.1",
+        "M/M change": "+1.3 pts",
+        "Business Activity": "61.7 (+2.6, highest since Nov 2022)",
+        "New Orders": "60.9 (+3.7, highest since Feb 2023)",
+        "Prices Paid": "72.6 (+2.3)",
+        "Employment": "47.8 (contractionary)",
+        "Supplier Deliveries": "51.3 (-1.5)",
+        "Inventories": "56.7 (+5.3)",
+        "Expansion streak": "26 straight months"
+      },
+      "importance": "notable",
+      "tags": [
+        "ism-services",
+        "pmi",
+        "macro",
+        "prints",
+        "inflation",
+        "services-sector",
+        "employment"
+      ],
+      "explainer": {
+        "tagline": "Services sector reaccelerates in August with strongest business-activity read since Nov 2022 — but Prices Paid stays hot at 72.6.",
+        "whatIsIt": "Institute for Supply Management's August Services PMI released Sept 3 at 10:00 ET: headline 55.4, 26th consecutive month of expansion. Companion print to Sept 1's ISM Manufacturing (54.6).",
+        "howItWorks": "Headline +1.3 pts from July's 54.1 and above the 54.2 estimate. Business Activity 61.7 (+2.6) is the highest since 62.7 in Nov 2022. New Orders 60.9 (+3.7) is the highest since Feb 2023. Inventories jumped +5.3 to 56.7. Prices Paid 72.6 (+2.3) — still hot. Employment 47.8 (+0.4) contracts for a second straight month. ISM chair Steve Miller: 'The Business Activity Index had its highest reading since hitting 62.7 percent in November 2022, and the New Orders Index had its highest reading since February 2023.'",
+        "whyItMatters": "Reinforces Waller's morning message that the economy doesn't need a Sept 15–16 cut and that services inflation is still sticky (Prices 72.6). Signal for Fed watchers: the growth side of the mandate looks fine; the inflation side is the constraint. Employment contraction is the one place doves can push back — consistent with Wednesday's soft ADP print of +38K.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS349053/INSTITUTE-FOR-SUPPLY-MANAGEMENT-LOGO-v1.jpg?id=OA2926062&p=facebook",
+        "alt": "Institute for Supply Management logo — August 2026 Services PMI report",
+        "fit": "contain",
+        "credit": "Institute for Supply Management"
+      },
+      "links": [
+        {
+          "label": "ISM Services PMI Release",
+          "url": "https://www.prnewswire.com/news-releases/services-pmi-at-55-4-august-2026-ism-services-pmi-report-302868046.html"
+        },
+        {
+          "label": "ISM Reports Homepage",
+          "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/"
+        },
+        {
+          "label": "Investinglive Recap",
+          "url": "https://investinglive.com/news/ism-non-manufacturing-pmi-for-august-55-4-versus-54-2-estimate-stronger-than-expectations/"
+        }
+      ],
+      "reddit": {
+        "title": "US ISM Services PMI Aug: 55.4 vs 54.2 est — 26th straight month of expansion, Business Activity 61.7 highest since Nov 2022, Prices Paid 72.6 stays hot",
+        "body": "The ISM Services print landed at 10:00 ET on Sept 3 and blew past expectations.\n\n* Headline PMI **55.4** vs 54.2 est, up from July's 54.1 (+1.3 pts)\n* 26th consecutive month of expansion\n* **Business Activity 61.7** (+2.6) — highest since Nov 2022 (62.7)\n* **New Orders 60.9** (+3.7) — highest since Feb 2023\n* **Prices Paid 72.6** (+2.3) — still very hot\n* Inventories 56.7 (+5.3)\n* Employment 47.8 — contractionary for a second straight month\n\nHow to read it:\n\n1. **Growth side of the mandate looks fine** — services are re-accelerating, activity + new orders at multi-year highs.\n2. **Inflation side is the constraint** — Prices Paid 72.6 is not a print consistent with hitting 2% anytime soon.\n3. **Reinforces Waller's morning message** — hold, not hike, but not because the economy is weak. If Aug CPI cooperates on Sept 11, Sept 15–16 is a hold.\n4. **Only the labor side gives doves cover** — Employment 47.8 contracts, consistent with Wednesday's soft ADP +38K.\n\nNext catalysts: Aug CPI (Sept 11), FOMC decision (Sept 16).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ism-services-pmi-aug-2026-sep-3](https://stock-tldr.xyz/releases/us-ism-services-pmi-aug-2026-sep-3)"
+      },
+      "publishDate": "2026-09-03T15:40:37.114Z"
+    },
     {
       "id": "avgo-q3-fy26-earnings-sep-2-2026",
       "categories": [
