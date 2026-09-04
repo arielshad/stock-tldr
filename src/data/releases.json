@@ -1,8 +1,240 @@
 {
-  "generatedAt": "2026-09-04T01:55:56.280Z",
+  "generatedAt": "2026-09-04T16:00:08.557Z",
   "promptVersion": "1.0.0",
-  "source": "github-actions-sweep",
+  "source": "github-actions-sweep-retry",
   "items": [
+    {
+      "id": "us-nfp-august-2026-162k-sep-4",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 nonfarm payrolls +162K vs +53K est (Fri Sept 4) — nearly triple consensus, unemployment steady at 4.1%; June/July revised up net +55K; Fed Sept-hike odds jump to ~58%",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-09-04",
+      "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+      "summary": "August NFP printed +162K vs +53K Dow Jones consensus — the strongest gain since March and nearly triple estimates. Unemployment held at 4.1%; June/July revised up a net 55K; average hourly earnings +0.3% M/M. Fed Sept-15/16 hike odds jumped to ~58%.",
+      "tickers": [
+        "^GSPC",
+        "^TNX",
+        "BTC-USD"
+      ],
+      "importance": "seismic",
+      "tags": [
+        "nfp",
+        "jobs",
+        "employment",
+        "labor-market",
+        "august-2026",
+        "macro",
+        "fomc-preview",
+        "fed-hike",
+        "bls",
+        "unemployment"
+      ],
+      "metrics": {
+        "NFP August": "+162,000",
+        "Consensus (Dow Jones)": "+53,000",
+        "Unemployment rate": "4.1% (unchanged)",
+        "AHE M/M": "+0.3% to $37.75",
+        "June revised": "+31K (from +20K)",
+        "July revised": "+21K (from -23K)",
+        "10Y yield": "4.77% (+1bp)",
+        "2Y yield": "4.37% (+4bp)",
+        "Sept hike odds (CME)": "~58% (from ~55%)",
+        "BTC intraday low": "briefly <$80,000"
+      },
+      "links": [
+        {
+          "label": "BLS Release (Aug 2026)",
+          "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
+        },
+        {
+          "label": "UPI",
+          "url": "https://www.upi.com/Top_News/US/2026/09/04/nonfarm-payrolls-bureau-labor-statistics-august-2026/8801788532242"
+        },
+        {
+          "label": "HousingWire",
+          "url": "https://www.housingwire.com/articles/august-payrolls-fed-focus/"
+        },
+        {
+          "label": "TradingEconomics NFP",
+          "url": "https://tradingeconomics.com/united-states/non-farm-payrolls"
+        }
+      ],
+      "explainer": {
+        "tagline": "August NFP hit +162K vs a +53K consensus, unemployment held at 4.1%, and rate-hike odds for the Sept 15–16 FOMC jumped to ~58%.",
+        "whatIsIt": "The Bureau of Labor Statistics' Employment Situation for August 2026, released Friday Sept 4 at 8:30 a.m. ET. Nonfarm payrolls rose by 162,000 versus a Dow Jones consensus of 53,000 — nearly triple expectations. Unemployment was unchanged at 4.1%.",
+        "howItWorks": "Average hourly earnings rose 10 cents (+0.3% M/M) to $37.75. Prior months were revised up: June went from +20K to +31K (+11K) and July from -23K to +21K (+44K), a net upward revision of 55,000. The August print landed strongest since March and above the +31K average of the prior 12 months.",
+        "whyItMatters": "The blowout print upended the Sept-hike debate. Waller (Wed) and Williams (Tue) had leaned toward a hold; this reversed positioning. Fed-funds futures moved to ~58% odds of a Sept 15–16 hike from ~55% pre-print. Two-year yields rose 4bp to 4.37%; 10Y ticked to 4.77%. Bitcoin briefly broke $80,000 and gold sold off before dip-buying stabilized both. Stocks were mixed at the open (S&P -0.05%, Dow -0.16%, Nasdaq +0.09%) as the good-news-is-bad-news trade dominated.",
+        "forWho": "rates desks, macro traders, FOMC watchers",
+        "tryIt": "https://www.bls.gov/news.release/archives/empsit_09042026.htm"
+      },
+      "image": {
+        "url": "https://cdnph.upi.com/sv/ph/og/upi/8801788532242/2026/1/9c84ec7c729e9d278af60835d02d64f7/v1.5/Nonfarm-payrolls-grew-by-162000-in-August-beat-expectations.jpg",
+        "alt": "US August 2026 nonfarm payrolls +162,000",
+        "fit": "cover",
+        "credit": "UPI"
+      },
+      "reddit": {
+        "title": "US August NFP +162K vs +53K est — nearly triple consensus, unemployment 4.1%, June/July revised up +55K net; Sept-hike odds jump to ~58%",
+        "body": "August jobs report just blew the doors off consensus. Here's the tape:\n\n* Nonfarm payrolls +162,000 vs +53,000 Dow Jones consensus — strongest month since March\n* Unemployment rate unchanged at 4.1%\n* Average hourly earnings +0.3% M/M to $37.75\n* June revised UP to +31K (from +20K), July revised UP to +21K (from -23K) — net +55K in positive revisions\n* Sept 15–16 Fed hike odds jump to ~58% from ~55% pre-print\n\nWhy this matters:\n\n1. **Reverses this week's dovish Fed drift** — Williams (Tue) and Waller (Wed) had both leaned toward a Sept hold. This print puts a hike back squarely on the table.\n2. **Good news = bad news trade returned** — 10Y +1bp to 4.77%, 2Y +4bp to 4.37%, Bitcoin briefly broke $80K on the release before bouncing.\n3. **Contradicts ADP** — Wednesday's ADP said private hiring was +38K (softest since January). BLS just delivered the opposite signal.\n\nNext catalysts: August CPI on Thurs Sept 11, then Warsh's FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-nfp-august-2026-162k-sep-4](https://stock-tldr.xyz/releases/us-nfp-august-2026-162k-sep-4)"
+      },
+      "publishDate": "2026-09-04T16:00:08.557Z"
+    },
+    {
+      "id": "zs-q4-fy26-earnings-sep-3-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Zscaler (ZS) Q4 FY26 — revenue $898.2M (+25% Y/Y), non-GAAP EPS $1.19 vs $1.09 est; ARR $3.77B (+25%); FY27 revenue guide $3.908–$3.938B (~17% growth — decelerating) sends stock -3.4% premarket after +5% AH pop",
+      "org": "Zscaler",
+      "date": "2026-09-03",
+      "url": "https://www.globenewswire.com/news-release/2026/09/03/3356252/0/en/zscaler-announces-strong-fourth-quarter-and-fiscal-2026-financial-results.html",
+      "summary": "Q4 revenue $898.2M (+25% Y/Y) beat $877M est; non-GAAP EPS $1.19 vs $1.09 est; ARR $3.77B (+25%). FY27 revenue guide $3.908–$3.938B implies ~17% growth vs FY26's 25%. Stock initially +5% AH to $186.27 then reversed to -3.4% Fri premarket.",
+      "tickers": [
+        "ZS"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "cybersecurity",
+        "cloud",
+        "zero-trust",
+        "arr",
+        "fy27-guide",
+        "guide-decel",
+        "q4-2026"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$898.2M (+25% Y/Y) vs $877M est",
+        "Q4 Non-GAAP EPS": "$1.19 vs $1.09 est",
+        "ARR": "$3.77B (+25% Y/Y)",
+        "FY26 Revenue": "$3.353B (+25%)",
+        "FY26 Non-GAAP EPS": "$4.21",
+        "FY26 FCF": "$779.1M (23% of revenue)",
+        "Q1 FY27 Revenue guide": "$935–$939M (~19%)",
+        "Q1 FY27 Non-GAAP EPS guide": "$1.15–$1.16",
+        "FY27 Revenue guide": "$3.908–$3.938B (16.6–17.5%)",
+        "FY27 Non-GAAP EPS guide": "$4.86–$4.90",
+        "AH move": "initially +5% to $186.27, then -3.4% Fri premarket to $171.65"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/03/3356252/0/en/zscaler-announces-strong-fourth-quarter-and-fiscal-2026-financial-results.html"
+        },
+        {
+          "label": "Blockonomi Recap",
+          "url": "https://blockonomi.com/zscaler-zs-stock-slides-3-following-strong-q4-earnings-beat-heres-why"
+        },
+        {
+          "label": "Benzinga Analysts",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61627559/zscaler-analysts-boost-their-forecasts-after-better-than-expected-q4-earnings"
+        },
+        {
+          "label": "ZS Quote",
+          "url": "https://finance.yahoo.com/quote/ZS/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Zscaler beat on Q4 revenue, EPS and ARR, but FY27 growth guide of ~17% (from 25% in FY26) fueled a reversal from +5% AH to -3.4% Fri premarket.",
+        "whatIsIt": "Zscaler's Q4 and full-year fiscal 2026 report, released after Wed Sept 3 market close. The zero-trust cybersecurity leader delivered a clean beat and raise but investors focused on the ARR growth glide path in the FY27 guide.",
+        "howItWorks": "Q4 revenue reached $898.2M (+25% Y/Y) versus $877M consensus. Non-GAAP EPS came in at $1.19 vs $1.09 estimate. ARR ended at $3.771B, exceeding consensus by ~$26M. FY26 totals: revenue $3.353B (+25%), non-GAAP EPS $4.21, free cash flow $779.1M (23% of revenue). Guidance: Q1 FY27 revenue $935–$939M (above $927M est) with non-GAAP EPS $1.15–$1.16 (above $1.08 est); FY27 revenue $3.908–$3.938B (16.6–17.5% growth) with non-GAAP EPS $4.86–$4.90.",
+        "whyItMatters": "The FY27 growth deceleration to ~17% ARR from 25% currently is the crux. JPMorgan called the guide 'reasonably conservative,' but even that framing implies decel is real. Needham raised its target to $215 (from $180) and Stephens to $225 (from $200). Shares had rallied ~4% into the print and briefly popped 5% AH to $186.27 before reversing on the guide framing to -3.4% Friday premarket at $171.65. The setup echoes GWRE's Sept 3 print — SaaS names that beat but guide sub-current-run-rate are being punished.",
+        "forWho": "cybersecurity investors, SaaS-margin watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ZS/"
+      },
+      "image": {
+        "url": "https://blockonomi.com/wp-content/uploads/2026/09/Zscaler-1-1.webp",
+        "alt": "Zscaler ZS stock chart after Q4 FY26 earnings",
+        "fit": "cover",
+        "credit": "Blockonomi"
+      },
+      "reddit": {
+        "title": "Zscaler (ZS) Q4 beats on rev/EPS/ARR — but FY27 guide of ~17% growth (vs 25% now) reverses stock from +5% AH to -3.4% premarket",
+        "body": "Zscaler dropped Q4 FY26 after the close. Clean beat but the guide became the story:\n\n* Q4 revenue $898.2M (+25% Y/Y) vs $877M est\n* Q4 non-GAAP EPS $1.19 vs $1.09 est\n* ARR $3.77B (+25% Y/Y) beat by ~$26M\n* FY26 revenue $3.353B (+25%), non-GAAP EPS $4.21, FCF $779.1M (23% of rev)\n* Q1 FY27 rev guide $935–$939M vs $927M est\n* FY27 rev guide $3.908–$3.938B — implies ~17% growth (vs 25% delivered in FY26)\n\nWhy the reversal:\n\n1. **Guide-deceleration debate** — 25% → ~17% ARR growth is the exact framing that clobbered GWRE the same day.\n2. **JPMorgan called the FY27 outlook \"reasonably conservative\"** — but even that language implies decel is real.\n3. **Sell-side raising targets anyway** — Needham to $215 (from $180), Stephens to $225 (from $200).\n\nStock: initially +5% AH to $186.27, then -3.4% Fri premarket to $171.65 as guide-decel got parsed. Full-year prior close was $177.80.\n\nFull breakdown: [https://stock-tldr.xyz/releases/zs-q4-fy26-earnings-sep-3-2026](https://stock-tldr.xyz/releases/zs-q4-fy26-earnings-sep-3-2026)"
+      },
+      "publishDate": "2026-09-04T16:00:08.557Z"
+    },
+    {
+      "id": "iot-q2-fy27-earnings-sep-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Samsara (IOT) Q2 FY27 — revenue $508.4M (+30% Y/Y) beats $483M est, adj EPS $0.20 vs $0.16 est; ARR crosses $2.1B (+30% Y/Y — third straight quarter); FY27 rev guide raised to $2.043–$2.047B; stock +16.4% AH to $45.10, +13% Fri premarket",
+      "org": "Samsara",
+      "date": "2026-09-03",
+      "url": "https://www.stocktitan.net/news/IOT/samsara-reports-second-quarter-fiscal-year-2027-financial-s230ywugewkp.html",
+      "summary": "Samsara Q2 revenue $508.4M (+30% Y/Y) beat $483M est; adj EPS $0.20 vs $0.16 est. ARR crossed $2.1B, +30% Y/Y for the third consecutive quarter. Added record 242 $100K+ ARR customers and 20 $1M+ ARR customers. FY27 rev guide raised to $2.043–$2.047B.",
+      "tickers": [
+        "IOT"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "iot",
+        "connected-operations",
+        "arr",
+        "guide-raise",
+        "q2-fy27",
+        "fleet-management"
+      ],
+      "metrics": {
+        "Q2 Revenue": "$508.4M (+30% Y/Y) vs $483.3M est",
+        "Q2 Adj EPS": "$0.20 vs $0.16 est",
+        "ARR": "$2.1B (+30% Y/Y — 3rd straight qtr)",
+        "$100K+ ARR customers added": "242 (record)",
+        "$1M+ ARR customers added": "20 (record)",
+        "Q3 FY27 Revenue guide": "$514–$516M vs $509.68M est",
+        "FY27 Revenue guide (raised)": "$2.043–$2.047B (from $2.005–$2.013B)",
+        "FY27 Adj EPS guide": "$0.76–$0.78",
+        "FY27 Non-GAAP op margin target": "~21%",
+        "AH move": "+16.4% to $45.10 (from $38.75 close)",
+        "Fri premarket": "+13.3% to $43.91"
+      },
+      "links": [
+        {
+          "label": "Stocktitan Release",
+          "url": "https://www.stocktitan.net/news/IOT/samsara-reports-second-quarter-fiscal-year-2027-financial-s230ywugewkp.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/earnings/26/09/61617180/samsara-stock-jumps-as-q2-print-beats-expectations"
+        },
+        {
+          "label": "IOT Quote",
+          "url": "https://finance.yahoo.com/quote/IOT/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Samsara beat and raised: revenue $508M (+30%), ARR crossed $2.1B, record customer adds — shares jumped ~16% AH.",
+        "whatIsIt": "Samsara's Q2 fiscal 2027 report, released Wed Sept 3 after the close. The connected-operations platform (fleet/asset telemetry for physical operations) posted the third consecutive quarter of 30% Y/Y revenue growth and lifted full-year guidance.",
+        "howItWorks": "Q2 revenue landed at $508.4M (+30% Y/Y) versus $483.3M consensus — a 5% beat. Adjusted EPS $0.20 vs $0.16 est. ARR crossed $2.1B at +30% Y/Y, marking a third consecutive quarter at that growth rate. The company added a record 242 net-new customers with $100K+ ARR and 20 net-new customers with $1M+ ARR — both quarterly highs. Q3 revenue guide $514–$516M tops $509.68M consensus. FY27 revenue guide raised to $2.043–$2.047B from $2.005–$2.013B; non-GAAP operating margin targeted at ~21%; FY27 adj EPS $0.76–$0.78.",
+        "whyItMatters": "In a Sept 3 SaaS tape where GWRE and (initially) ZS were punished on ARR-growth deceleration, Samsara's stable 30% is a scarcity trade — the reason for the ~16% AH pop. The record enterprise adds ($100K+ and $1M+ ARR cohorts) argue the platform is landing on true fleet/industrial digitization budgets rather than pilot spend. Shares moved from a $38.75 close to $45.10 AH, holding +13% at $43.91 into Friday's pre-market.",
+        "forWho": "SaaS growth investors, industrial-tech watchers",
+        "tryIt": "https://finance.yahoo.com/quote/IOT/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Samsara_Reports_Second_Quarter_Fiscal_Year_2027_Financial_Results_1501006.webp",
+        "alt": "Samsara Q2 FY27 earnings",
+        "fit": "cover",
+        "credit": "Stocktitan"
+      },
+      "reddit": {
+        "title": "Samsara (IOT) Q2 FY27 — revenue $508M (+30% Y/Y) beats, ARR crosses $2.1B (+30% for 3rd straight qtr), record enterprise adds; stock +16% AH",
+        "body": "Samsara delivered a rare Sept 3 SaaS beat-and-raise with no growth deceleration:\n\n* Q2 revenue $508.4M (+30% Y/Y) vs $483.3M est\n* Adj EPS $0.20 vs $0.16 est\n* ARR crossed $2.1B, +30% Y/Y — third consecutive quarter at 30%\n* Added 242 $100K+ ARR customers and 20 $1M+ ARR customers (both quarterly records)\n* Q3 rev guide $514–$516M vs $509.68M est\n* FY27 rev guide raised to $2.043–$2.047B (from $2.005–$2.013B)\n* FY27 non-GAAP op margin target ~21%; FY27 adj EPS $0.76–$0.78\n\nWhy this pop:\n\n1. **Growth held — the scarcity trade** — while GWRE (-15% AH) and ZS (reversed to -3.4% premarket) got hit on ARR-growth deceleration, IOT stayed at 30%.\n2. **Record enterprise adds** — 242 net-new $100K+ ARR customers and 20 net-new $1M+ customers argue platform is landing on real industrial digitization budgets, not pilots.\n3. **Guide raise on top of the beat** — FY27 revenue midpoint lifted by ~$36M, margin target moved to ~21%.\n\nStock: +16.4% AH to $45.10 (from $38.75 close), holding +13% at $43.91 into Fri premarket.\n\nFull breakdown: [https://stock-tldr.xyz/releases/iot-q2-fy27-earnings-sep-3-2026](https://stock-tldr.xyz/releases/iot-q2-fy27-earnings-sep-3-2026)"
+      },
+      "publishDate": "2026-09-04T16:00:08.557Z"
+    },
     {
       "id": "lulu-q2-fy26-earnings-sep-3-2026",
       "categories": [
