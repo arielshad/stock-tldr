@@ -11158,6 +11158,44 @@
         "macro",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260904t015556z",
+      "timestamp": "2026-09-04T01:55:56.280Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Sept 3 (after-hours Wed) additions: LULU (major) misses Q2 revenue and cuts FY26 guide by ~$650M, stock -17.9%; RARE (major) Phase 3 Aspire trial in Angelman syndrome misses both primary and key secondary endpoints, stock -44.7% premarket, ~$1.14B mcap wiped; GWRE (major) beats Q4 but FY27 ARR guide of 18% (vs 19% delivered) triggers -14.8% AH selloff.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lulu-q2-fy26-earnings-sep-3-2026",
+          "title": "Lululemon (LULU) Q2 FY26 — net revenue $2.4B (-4% Y/Y) miss, comps -9%; Q3 revenue guide $2.29–$2.32B (-10 to -11% Y/Y) and FY26 guide cut to $10.35–$10.50B (-5 to -7%) / EPS $9.48–$9.73 (from $10.95–$11.15); shares -17.9% after hours to ~$99.95",
+          "category": "earnings",
+          "note": "Sept 3 AH — 8-K filed same day, exhibit-99.1 confirms all metrics; revenue miss + guide cut + tariff-refund optical flatter to EPS."
+        },
+        {
+          "id": "rare-aspire-angelman-trial-fail-sep-2-2026",
+          "title": "Ultragenyx (RARE) -44.7% to $14.67 premarket Wed Sept 3 — Phase 3 Aspire study of apazunersen (GTX-102) in Angelman syndrome misses BOTH primary (Bayley-4 cognitive) and key secondary (MDRI) endpoints; company launches strategic review with expense cuts",
+          "category": "mover",
+          "note": "Sept 2 AH readout, Sept 3 stock reaction — 8-K + globenewswire confirm both endpoint misses; company initiates strategic review with expense cuts."
+        },
+        {
+          "id": "gwre-q4-fy26-earnings-sep-3-2026",
+          "title": "Guidewire (GWRE) Q4 FY26 — revenue $411.1M (+15% Y/Y), non-GAAP EPS $0.99 beats est; FY26 revenue $1.475B (+23%), ARR $1.242B (+19% cc); FY27 ending-ARR guide $1.45–$1.46B (18% cc — decelerating) sends shares -14.8% AH to $172.80",
+          "category": "earnings",
+          "note": "Sept 3 AH — Q4 beat but FY27 ending-ARR guide midpoint = 18% cc growth (from FY26's 19%) triggers premium-valuation SaaS selloff."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory"
+      ]
     }
   ]
 }

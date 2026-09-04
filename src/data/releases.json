@@ -1,8 +1,246 @@
 {
-  "generatedAt": "2026-09-03T15:40:37.114Z",
+  "generatedAt": "2026-09-04T01:55:56.280Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "lulu-q2-fy26-earnings-sep-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lululemon (LULU) Q2 FY26 — net revenue $2.4B (-4% Y/Y) miss, comps -9%; Q3 revenue guide $2.29–$2.32B (-10 to -11% Y/Y) and FY26 guide cut to $10.35–$10.50B (-5 to -7%) / EPS $9.48–$9.73 (from $10.95–$11.15); shares -17.9% after hours to ~$99.95",
+      "org": "lululemon athletica",
+      "date": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000126/lulu-20260802xex991.htm",
+      "summary": "Lululemon Q2 FY26 net revenue $2.4B (-4% Y/Y), comps -9%, diluted EPS $2.92 (aided by $134.5M IEEPA tariff refund = $0.86/sh). Q3 revenue guide $2.29–$2.32B (-10 to -11%); FY26 guide cut to $10.35–$10.50B / EPS $9.48–$9.73. Shares -17.9% AH.",
+      "tickers": [
+        "LULU"
+      ],
+      "metrics": {
+        "Net revenue": "$2.4B (-4% Y/Y, -5% cc)",
+        "Comparable sales": "-9% (-10% cc)",
+        "Americas comps": "-12%",
+        "International comps": "-3% (-6% cc)",
+        "Diluted EPS": "$2.92 vs $3.10 y/y",
+        "Gross margin": "60.5% (+200 bp, incl 560 bp tariff-refund benefit)",
+        "Tariff refund": "$134.5M IEEPA (+ $4.1M interest) = $0.86/sh EPS boost",
+        "Q3 revenue guide": "$2.29–$2.32B (-10 to -11% Y/Y)",
+        "Q3 EPS guide": "$0.93–$0.98",
+        "FY26 revenue guide": "$10.35–$10.50B (-5 to -7%) — down from $11.00–$11.15B",
+        "FY26 EPS guide": "$9.48–$9.73 — down from $10.95–$11.15",
+        "Move (AH)": "-17.92% to ~$99.95"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q2-fy26",
+        "athleisure",
+        "apparel",
+        "guidance-cut",
+        "comp-sales-decline",
+        "tariff-refund",
+        "leggings",
+        "americas-weakness"
+      ],
+      "explainer": {
+        "tagline": "LULU Q2 profit beat masked by revenue miss; interim CEO cuts full-year revenue guide by ~$650M and EPS guide by ~$1.50.",
+        "whatIsIt": "Lululemon reported Q2 fiscal 2026 (13 weeks ended Aug 2) after the close Wednesday Sept 3. Net revenue fell 4% to $2.4B, missing consensus, and comparable sales dropped 9% globally. Diluted EPS came in at $2.92 vs $3.10 y/y — flattered by a $134.5M IEEPA tariff refund worth $0.86 per share.",
+        "howItWorks": "Americas revenue declined 8% and comps sank 12% — the region traders had been watching for signs of a bottom. International grew 4% (2% cc) but comps still fell 3% (6% cc). Gross margin printed 60.5%, up 200 bp reported (up 560 bp on the tariff refund alone). Q3 revenue guide of $2.29–$2.32B implies a 10–11% Y/Y decline; Q3 EPS guide $0.93–$0.98. The FY26 revenue guide was cut to $10.35–$10.50B (down 5–7% Y/Y) from $11.00–$11.15B previously; FY26 EPS guide slashed to $9.48–$9.73 from $10.95–$11.15.",
+        "whyItMatters": "Interim CEO Meghan Frank cited 'negative commentary in the media and social channels' and 'greater than expected' slowdown in core categories, especially leggings. Shares fell 17.92% AH to about $99.95 — below the prior 52-week low of $104.44 — as the guide cut confirms the erosion is worsening. Read-through to peers: NKE and other athleisure names come under scrutiny.",
+        "forWho": "consumer-discretionary traders, apparel analysts",
+        "tryIt": "https://finance.yahoo.com/quote/LULU/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/lululemon_athletica_inc_Announces_Second_Quarter_Fiscal_2026_Results_1500988.webp",
+        "alt": "Lululemon storefront — Q2 fiscal 2026 results Sept 3",
+        "fit": "cover",
+        "credit": "Business Wire / StockTitan"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Ex 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000126/lulu-20260802xex991.htm"
+        },
+        {
+          "label": "SEC 8-K Cover",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000126/lulu-20260903.htm"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/LULU/lululemon-athletica-inc-announces-second-quarter-fiscal-2026-ztmlx8ipmavo.html"
+        },
+        {
+          "label": "Yahoo/Investing.com",
+          "url": "https://ca.finance.yahoo.com/news/lululemon-tumbles-15-weak-guidance-204337889.html"
+        },
+        {
+          "label": "LULU Quote",
+          "url": "https://finance.yahoo.com/quote/LULU/"
+        }
+      ],
+      "reddit": {
+        "title": "Lululemon (LULU) -17.9% AH to ~$100 — Q2 rev $2.4B miss, comps -9%, FY26 guide slashed by ~$650M",
+        "body": "Interim CEO Meghan Frank cut the year on Wednesday's Q2 print. The tariff refund flattered the EPS line — take that away and the picture is worse than the headline.\n\n* Net revenue $2.4B (-4% Y/Y, -5% cc), missing consensus\n* Comparable sales -9% globally (-10% cc); Americas comps -12%, International comps -3%\n* Diluted EPS $2.92 vs $3.10 y/y — includes $134.5M IEEPA tariff refund worth $0.86/sh\n* Gross margin 60.5% (up 560 bp from tariff refund alone)\n* Q3 revenue guide $2.29–$2.32B (down 10–11% Y/Y); Q3 EPS $0.93–$0.98\n* FY26 revenue guide cut to $10.35–$10.50B (down 5–7%) from $11.00–$11.15B\n* FY26 EPS guide cut to $9.48–$9.73 from $10.95–$11.15\n* Shares -17.92% AH to ~$99.95 — below the prior 52-week low of $104.44\n\nWhat's driving it:\n\n1. **Americas keeps deteriorating** — comps -12% in the region traders had hoped was bottoming, revenue -8%.\n2. **Core categories cracked** — Frank called out a \"greater than expected\" slowdown in leggings and other core women's bottoms.\n3. **Brand narrative issue** — management directly cited \"negative commentary in the media and social channels\" as a Q2 traffic drag.\n4. **Tariff refund is one-time** — strip out the $0.86/sh and the operating trajectory looks materially worse.\n\nNext catalysts: Q3 print (Dec), read-across for NKE and athleisure peers.\n\nFull breakdown: [https://stock-tldr.xyz/releases/lulu-q2-fy26-earnings-sep-3-2026](https://stock-tldr.xyz/releases/lulu-q2-fy26-earnings-sep-3-2026)"
+      },
+      "publishDate": "2026-09-04T01:55:56.280Z"
+    },
+    {
+      "id": "rare-aspire-angelman-trial-fail-sep-2-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Ultragenyx (RARE) -44.7% to $14.67 premarket Wed Sept 3 — Phase 3 Aspire study of apazunersen (GTX-102) in Angelman syndrome misses BOTH primary (Bayley-4 cognitive) and key secondary (MDRI) endpoints; company launches strategic review with expense cuts",
+      "org": "Ultragenyx Pharmaceutical",
+      "date": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001515673/000119312526380165/rare-20260902.htm",
+      "summary": "Ultragenyx's Phase 3 Aspire trial of apazunersen (GTX-102) in Angelman syndrome missed both the primary Bayley-4 cognitive endpoint and the key secondary MDRI endpoint. Safety profile consistent with Phase 1/2. RARE -44.7% premarket to $14.67, ~$1.14B market cap wiped.",
+      "tickers": [
+        "RARE"
+      ],
+      "metrics": {
+        "Move (premarket)": "-44.7% to $14.67",
+        "Market cap erased": "~$1.14B",
+        "Primary endpoint": "Change from baseline in Bayley-4 cognitive raw score — missed",
+        "Key secondary endpoint": "Net response in Multidomain Responder Index (MDRI) — missed",
+        "Safety profile": "Consistent with Phase 1/2",
+        "Program status": "Under evaluation; company launches significant expense reductions"
+      },
+      "importance": "major",
+      "tags": [
+        "biotech",
+        "clinical-trial-fail",
+        "phase-3",
+        "angelman-syndrome",
+        "apazunersen",
+        "gtx-102",
+        "rare-disease",
+        "strategic-review",
+        "expense-cuts"
+      ],
+      "explainer": {
+        "tagline": "Ultragenyx's two-year Phase 1/2 momentum collapses in a single readout — Aspire misses both primary and key secondary endpoints.",
+        "whatIsIt": "After the close Tuesday Sept 2, Ultragenyx announced top-line results from Aspire, the pivotal Phase 3 study evaluating apazunersen (GTX-102) — an antisense oligonucleotide — for Angelman syndrome, a rare neurodevelopmental disorder. The company disclosed the trial 'did not achieve the primary endpoint of change from Baseline in Bayley-4 cognitive raw score' and also missed the 'key secondary endpoint of net response in Multidomain Responder Index (MDRI).'",
+        "howItWorks": "Aspire compared apazunersen to sham control on cognitive change from baseline (Bayley-4) and on the composite MDRI. Neither showed a meaningful treatment effect. The safety profile, per the 8-K, 'was consistent with Phase 1/2.' Ultragenyx said it will 'evaluate the apazunersen program in light of this outcome' and 'assess its planned operations to define and implement significant expense reductions' while focusing on commercial products (GENGLYCOS) and near-term regulatory catalysts (UX111).",
+        "whyItMatters": "GTX-102 had been the flagship program and the pipeline's largest single value driver — Angelman syndrome had no approved disease-modifying therapy. RARE fell 44.7% premarket to $14.67 on Wednesday Sept 3, erasing ~$1.14B of market cap. Read-across risk to Ionis (IONS) and other CNS-targeted antisense-oligonucleotide programs; also negative for the broader Angelman development landscape (Ionis, Roche/Genentech's rugonersen).",
+        "forWho": "biotech traders, rare-disease investors",
+        "tryIt": "https://finance.yahoo.com/quote/RARE/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/121a9bda-7a64-41f8-85e8-1693a2dfa977",
+        "alt": "Ultragenyx logo — Aspire Phase 3 in Angelman syndrome misses primary endpoint",
+        "fit": "contain",
+        "credit": "Ultragenyx / GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Sept 2)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001515673/000119312526380165/rare-20260902.htm"
+        },
+        {
+          "label": "Ultragenyx Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/02/3355481/20739/en/ultragenyx-announces-phase-3-aspire-results-in-angelman-syndrome.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/ultragenyx-shares-fall-phase-3-110050243.html"
+        },
+        {
+          "label": "BioSpace Recap",
+          "url": "https://www.biospace.com/drug-development/ultragenyxs-high-risk-angelman-bet-fails-cratering-stock-and-forcing-strategic-review"
+        },
+        {
+          "label": "RARE Quote",
+          "url": "https://finance.yahoo.com/quote/RARE/"
+        }
+      ],
+      "reddit": {
+        "title": "Ultragenyx (RARE) -44.7% premarket to $14.67 — Phase 3 Aspire in Angelman syndrome misses BOTH primary and key secondary endpoints",
+        "body": "The pivotal Phase 3 study of Ultragenyx's flagship GTX-102 (apazunersen) failed head-to-toe in Angelman syndrome after the close on Tuesday Sept 2. The stock cratered on the Sept 3 open.\n\n* Primary endpoint (change from baseline in Bayley-4 cognitive raw score) — missed\n* Key secondary endpoint (net response in Multidomain Responder Index / MDRI) — missed\n* No meaningful differences between apazunersen and sham on either measure\n* Safety profile was consistent with Phase 1/2 — so this is efficacy, not tolerability\n* Company says it will \"evaluate the apazunersen program in light of this outcome\" and launch \"significant expense reductions\"\n* Stock -44.7% premarket to $14.67 — ~$1.14B market cap wiped\n\nWhat this changes:\n\n1. **The flagship program is gone** — GTX-102 was the pipeline's largest single value driver.\n2. **Company pivots to commercial + late-stage** — focus now on GENGLYCOS (approved) and UX111 potential approval.\n3. **Read-across risk** — negative for other CNS-targeted antisense-oligonucleotide programs (IONS) and other Angelman assets (Roche/Genentech rugonersen).\n4. **Cost cuts incoming** — the 8-K explicitly flags \"significant expense reductions.\"\n\nNext catalysts: UX111 regulatory action, restructured pipeline plan.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rare-aspire-angelman-trial-fail-sep-2-2026](https://stock-tldr.xyz/releases/rare-aspire-angelman-trial-fail-sep-2-2026)"
+      },
+      "publishDate": "2026-09-04T01:55:56.280Z"
+    },
+    {
+      "id": "gwre-q4-fy26-earnings-sep-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Guidewire (GWRE) Q4 FY26 — revenue $411.1M (+15% Y/Y), non-GAAP EPS $0.99 beats est; FY26 revenue $1.475B (+23%), ARR $1.242B (+19% cc); FY27 ending-ARR guide $1.45–$1.46B (18% cc — decelerating) sends shares -14.8% AH to $172.80",
+      "org": "Guidewire Software",
+      "date": "2026-09-03",
+      "url": "https://www.stocktitan.net/news/GWRE/guidewire-announces-fourth-quarter-and-fiscal-year-2026-financial-3j0c55io38q7.html",
+      "summary": "Guidewire Q4 FY26 revenue $411.1M (+15% Y/Y), non-GAAP EPS $0.99 vs $0.93 est. FY26 revenue $1.475B (+23%), ARR $1.242B (+19% cc). FY27 ending-ARR guide $1.45–$1.46B (18% cc growth, decelerating from 19%) sends GWRE -14.8% AH to $172.80.",
+      "tickers": [
+        "GWRE"
+      ],
+      "metrics": {
+        "Q4 revenue": "$411.1M (+15% Y/Y)",
+        "Q4 subscription & support": "$266.7M (+32% Y/Y)",
+        "Q4 non-GAAP EPS": "$0.99 vs $0.93 est",
+        "Q4 GAAP EPS": "$0.38",
+        "FY26 revenue": "$1.475B (+23% Y/Y)",
+        "FY26 subscription & support": "$970.9M (+33%)",
+        "FY26 ARR": "$1.242B (+19% cc)",
+        "FY26 fully ramped ARR": "$1.578B (+22% cc)",
+        "FY26 non-GAAP EPS": "$3.43",
+        "FY26 buyback": "$606.3M (4.1M sh @ avg $148.41)",
+        "FY27 ending-ARR guide": "$1.45–$1.46B (18% cc growth)",
+        "FY27 revenue guide": "$1.707–$1.727B",
+        "FY27 subscription & support guide": "$1.240–$1.246B",
+        "FY27 non-GAAP op income guide": "$403–$423M",
+        "Move (AH)": "-14.82% from $202.86 close to $172.80"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "insurance-software",
+        "saas",
+        "cloud-migration",
+        "arr-deceleration",
+        "guidance-decel",
+        "buyback"
+      ],
+      "explainer": {
+        "tagline": "GWRE beat Q4 across the board, but an 18% FY27 ARR guide (vs 19% in FY26) hit a premium-valuation stock — shares -14.8% AH.",
+        "whatIsIt": "Guidewire — the dominant P&C-insurance core-systems software vendor — reported Q4 fiscal 2026 (quarter ended July 31) after the close Wednesday Sept 3. Revenue $411.1M (+15% Y/Y), subscription & support $266.7M (+32% Y/Y), non-GAAP EPS $0.99 (vs $0.93 est). Full year: revenue $1.475B (+23%), ARR $1.242B (+19% cc), fully ramped ARR $1.578B (+22% cc).",
+        "howItWorks": "Cloud transition mechanics continue to work: subscription & support grew 33% for FY26 and now dominates the mix. The FY27 outlook is the sore point. Guidewire guided FY27 ending ARR to $1.45–$1.46B (~18% cc growth at midpoint, vs 19% delivered in FY26). Total revenue guide is $1.707–$1.727B and non-GAAP operating income $403–$423M. Management called out that 'more than half of the net new ARR contemplated in this outlook is already under contract' with defined ramp dates. The company also repurchased $606.3M in FY26 (4.1M sh @ avg $148.41) with $31.9M remaining under authorization.",
+        "whyItMatters": "GWRE trades at premium SaaS multiples predicated on accelerating cloud ARR. Guiding to a lower growth rate — even by 1 percentage point — punctures that story and triggered a 14.82% AH selloff to $172.80 from a $202.86 regular-session close. Read-across for other insurance/vertical-SaaS names (Duck Creek, Sapiens, Applied Systems ecosystem) is now more cautious.",
+        "forWho": "software analysts, vertical-SaaS PMs, insurance-tech desks",
+        "tryIt": "https://finance.yahoo.com/quote/GWRE/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Guidewire_Announces_Fourth_Quarter_and_Fiscal_Year_2026_Financial_Results_1500998.webp",
+        "alt": "Guidewire Software Q4 fiscal 2026 results tile — Sept 3, 2026",
+        "fit": "cover",
+        "credit": "Business Wire / StockTitan"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.stocktitan.net/news/GWRE/guidewire-announces-fourth-quarter-and-fiscal-year-2026-financial-3j0c55io38q7.html"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/news/guidewire-software-gwre-q4-earnings-214002102.html"
+        },
+        {
+          "label": "Earnings Call (MarketBeat)",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-9-3-guidewire-software-inc-stock/"
+        },
+        {
+          "label": "GWRE Quote",
+          "url": "https://finance.yahoo.com/quote/GWRE/"
+        }
+      ],
+      "reddit": {
+        "title": "Guidewire (GWRE) -14.8% AH to $172.80 — Q4 beat but FY27 ARR guide of 18% (vs 19% delivered) triggers premium-valuation reset",
+        "body": "The insurance-software leader beat the print but the outlook decelerated by one point and the premium multiple could not absorb it.\n\n* Q4 revenue $411.1M (+15% Y/Y), subscription & support $266.7M (+32%)\n* Q4 non-GAAP EPS $0.99 vs $0.93 est; GAAP EPS $0.38\n* FY26 revenue $1.475B (+23%), subscription & support $970.9M (+33%)\n* FY26 ARR $1.242B (+19% cc); fully ramped ARR $1.578B (+22% cc)\n* FY26 non-GAAP EPS $3.43\n* FY26 buyback: $606.3M (4.1M shares @ $148.41 avg); $31.9M authorization left\n* FY27 ending-ARR guide $1.45–$1.46B (18% cc growth — decelerating from 19%)\n* FY27 revenue guide $1.707–$1.727B; non-GAAP op income $403–$423M\n* Stock -14.82% AH to $172.80 from $202.86 close\n\nThe read:\n\n1. **One point of deceleration was the whole story** — SaaS multiples price acceleration, not deceleration.\n2. **Guide has visibility** — mgmt says more than half of net new ARR contemplated is already under contract with ramp dates.\n3. **Buyback stays active** — $606M in FY26 but only $31.9M authorization remaining.\n4. **Read-across** — vertical-SaaS peers (Duck Creek, Sapiens) get scrutiny on their own growth cadence.\n\nNext catalysts: FY27 Q1 print (~early Dec), any authorization refresh.\n\nFull breakdown: [https://stock-tldr.xyz/releases/gwre-q4-fy26-earnings-sep-3-2026](https://stock-tldr.xyz/releases/gwre-q4-fy26-earnings-sep-3-2026)"
+      },
+      "publishDate": "2026-09-04T01:55:56.280Z"
+    },
     {
       "id": "waller-fed-hold-sep-decision-cpi-sep-3-2026",
       "categories": [
