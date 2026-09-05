@@ -1,8 +1,233 @@
 {
-  "generatedAt": "2026-09-05T01:47:06.091Z",
+  "generatedAt": "2026-09-05T14:15:20.341Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-hugging-face-acquisition-sep-3-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "NVIDIA (NVDA) to acquire Hugging Face for $12.93B on Thu Sept 3 — biggest deal in company history; stock +2.53% to $234.22 Wed close then +1.8% Fri Sept 4",
+      "org": "NVIDIA",
+      "date": "2026-09-03",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "summary": "NVIDIA agrees to buy open-source AI platform Hugging Face for $12.93B — largest acquisition in NVDA history; deal expected to close H1 2027 pending regulatory approval; NVDA +2.53% to $234.22 on the day.",
+      "tags": [
+        "mna",
+        "ai-platform",
+        "hugging-face",
+        "open-source",
+        "nvidia",
+        "ai-infrastructure",
+        "deal-h1-2027",
+        "jensen-huang"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NVDA"
+      ],
+      "metrics": {
+        "Deal": "$12.93B all-cash",
+        "NVDA move (Thu Sep 3)": "+2.53% to $234.22",
+        "NVDA move (Fri Sep 4)": "+1.8%",
+        "Hugging Face ARR": "~$150M",
+        "Platform users": "18M+ developers, 200K+ companies",
+        "Expected close": "H1 2027"
+      },
+      "explainer": {
+        "tagline": "NVIDIA agrees to buy Hugging Face for $12.93B — its largest deal ever and a push beyond chips into AI-model distribution.",
+        "whatIsIt": "NVIDIA confirmed on Thursday Sept 3 it will acquire Hugging Face, the open-weight AI hub used by more than 18 million developers, for $12.93 billion. Founder-CEO Clem Delangue approached Jensen Huang weeks before the deal. Hugging Face will remain an open, multi-cloud platform under NVIDIA ownership.",
+        "howItWorks": "The consideration totals $12,930,300,000. Hugging Face hosts 3 million models, 500K datasets, 1M applications and posted roughly $150M in annualized revenue as of August 2026, after raising $395M in venture funding since 2016. Closing is expected in the first half of 2027 subject to regulatory clearance. Existing multi-cloud and non-NVIDIA hardware support will continue.",
+        "whyItMatters": "NVDA is expanding from a hardware supplier into the AI software distribution layer — the on-ramp where developers pick models. It also blunts a competitive risk that a rival hyperscaler could buy the hub and steer developers to non-NVIDIA silicon. NVDA rose 2.53% to $234.22 on Thursday and added another 1.8% Friday, briefly approaching an all-time high.",
+        "forWho": "AI infrastructure investors and semis traders",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA/"
+      },
+      "image": {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png",
+        "alt": "NVIDIA and Hugging Face co-branded press image announcing the acquisition",
+        "fit": "cover",
+        "credit": "NVIDIA"
+      },
+      "links": [
+        {
+          "label": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+        },
+        {
+          "label": "TechCrunch Coverage",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+        },
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html"
+        },
+        {
+          "label": "NVDA Chart",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia to buy Hugging Face for $12.93B — largest acquisition in company history; NVDA +2.53% Thu to $234.22, +1.8% Fri",
+        "body": "Nvidia confirmed Thursday it will buy open-source AI platform Hugging Face for $12,930,300,000 — its largest deal ever.\n\n* Deal size: $12.93B all-cash\n* NVDA closed +2.53% at $234.22 Thu, added another +1.8% Fri Sept 4\n* Hugging Face: 18M+ developers, 3M models, 500K datasets, 1M apps, ~$150M ARR\n* Prior funding: $395M raised since 2016 (last round $235M in 2023)\n* Expected close: H1 2027, pending regulatory approval\n\nWhy it matters:\n\n1. **Platform play beyond chips** — Jensen wants Nvidia sitting at the developer on-ramp where model choice happens, not just where GPUs are provisioned.\n2. **Defensive move** — locks Hugging Face away from hyperscalers who could have steered devs to non-Nvidia silicon.\n3. **Open remains open** — HF says the platform stays multi-cloud and hardware-agnostic under Nvidia ownership.\n\nHugging Face CEO Clem Delangue approached Huang weeks before the deal.\n\nNext catalysts: regulatory review, integration path with CUDA/NIM stack.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-hugging-face-acquisition-sep-3-2026](https://stock-tldr.xyz/releases/nvda-hugging-face-acquisition-sep-3-2026)"
+      },
+      "publishDate": "2026-09-05T14:15:20.341Z"
+    },
+    {
+      "id": "btc-spot-etf-731m-inflow-sep-3-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "US spot Bitcoin ETFs pull $730.9M on Thu Sept 3 — biggest day since Jan 14; IBIT takes $454M; BTC +6.8% to $82.2K four-month high",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-09-03",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-best-day-155446523.html",
+      "summary": "US spot Bitcoin ETFs draw $730.9M on Thu Sept 3 — largest single-day inflow since Jan 14, 2026 — as BTC surges 6.8% to $82.2K four-month high on Waller's dovish Fed signal; combined ETF AUM tops $103B.",
+      "tags": [
+        "btc-spot-etf",
+        "ibit",
+        "arkb",
+        "fbtc",
+        "bitwise-bitb",
+        "btc",
+        "waller",
+        "fed-hike-odds",
+        "biggest-day-since-january"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD",
+        "IBIT"
+      ],
+      "metrics": {
+        "Total inflows (9/3)": "+$730.87M",
+        "IBIT": "+$453.96M",
+        "ARKB": "+$137.74M",
+        "FBTC": "+$74.45M",
+        "BITB": "+$24.76M",
+        "BTC move": "+6.8% to $82.2K four-month high",
+        "Combined ETF AUM": "$103.34B"
+      },
+      "explainer": {
+        "tagline": "US spot BTC ETFs post $730.9M inflow day, largest since January, as BTC clears $82K after Waller's dovish Fed pivot.",
+        "whatIsIt": "On Thursday Sept 3, US spot Bitcoin ETFs pulled in $730.9 million of net inflows — the biggest single-day intake since Jan 14, 2026. The move followed Fed Governor Christopher Waller saying he would support holding rates at the Sept FOMC if inflation keeps cooling.",
+        "howItWorks": "BlackRock's IBIT took $453.96M (62% of the total), ARK/21Shares' ARKB $137.74M, Fidelity's FBTC $74.45M, and Bitwise's BITB $24.76M. Bitcoin advanced 6.8% to a four-month high of $82,200 intraday before settling near $79,850. Combined net assets across the ETF complex hit $103.34B. Aug 31 saw $216.7M inflow, Sept 1 $236.5M outflow, Sept 2 $101.15M inflow — Sept 3 broke that mixed pattern.",
+        "whyItMatters": "The IBIT concentration — 62% of a single day — points to institutional allocation flow rather than retail chasing. Rate-cut expectations remain the near-term catalyst for BTC after the ADP miss and Waller's guidance dropped Sept-hike odds from ~70% to ~50%. Friday's hot NFP reversed some of that: BTC re-rated lower and Fri Sept 4 flow data will be watched.",
+        "forWho": "Crypto allocators and macro traders",
+        "tryIt": "https://finance.yahoo.com/quote/IBIT/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1280px-Bitcoin.svg.png",
+        "alt": "Bitcoin logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Yahoo / TheStreet",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-best-day-155446523.html"
+        },
+        {
+          "label": "Bitcoin.com News",
+          "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-pull-in-731m-as-bitcoin-price-breaks-above-80k/"
+        },
+        {
+          "label": "Crypto Basic Coverage",
+          "url": "https://thecryptobasic.com/2026/09/04/us-bitcoin-etfs-draw-731-million-in-biggest-inflow-day-since-january/"
+        },
+        {
+          "label": "BTC-USD Chart",
+          "url": "https://finance.yahoo.com/quote/BTC-USD/"
+        },
+        {
+          "label": "IBIT Chart",
+          "url": "https://finance.yahoo.com/quote/IBIT/"
+        }
+      ],
+      "reddit": {
+        "title": "US spot Bitcoin ETFs pull in $730.9M on Thu Sept 3 — biggest day since Jan 14; IBIT alone took $454M as BTC hit $82.2K",
+        "body": "US spot Bitcoin ETFs booked their strongest day of 2026 on Thursday Sept 3, right as BTC ripped to a four-month high.\n\n* Total net inflows: $730.87M — largest single day since Jan 14, 2026\n* BlackRock IBIT: +$453.96M (62% of the day's flow)\n* ARK/21Shares ARKB: +$137.74M\n* Fidelity FBTC: +$74.45M\n* Bitwise BITB: +$24.76M\n* Combined ETF AUM: $103.34B\n* BTC: +6.8% to intraday $82,200, four-month high\n\nWhat drove it:\n\n1. **Waller's dovish pivot** — Fed Governor Christopher Waller said he'd support a Sept hold if inflation keeps cooling; Sept-hike odds fell from ~70% to ~50%.\n2. **IBIT concentration signals institutional allocation** — one issuer taking 62% of a day is 'allocation flow' behavior, not retail chasing.\n3. **Weekly context** — Aug 31 +$216.7M, Sept 1 -$236.5M, Sept 2 +$101.15M, Sept 3 +$730.9M breaks the mixed pattern.\n\nNext catalysts: Fri Sept 4 flow data (post-hot NFP reversal), CPI Sept 11, FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/btc-spot-etf-731m-inflow-sep-3-2026](https://stock-tldr.xyz/releases/btc-spot-etf-731m-inflow-sep-3-2026)"
+      },
+      "publishDate": "2026-09-05T14:15:20.341Z"
+    },
+    {
+      "id": "docu-q2-fy27-earnings-sep-3-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "DocuSign (DOCU) Q2 FY27 — revenue $875.7M (+9% Y/Y) beats $867.6M est; non-GAAP EPS $1.16 vs $1.08 est; IAM 15.1% of ARR (from 12.6% Q1); FY27 revenue guide raised to $3.499–$3.507B; +3.3% AH",
+      "org": "DocuSign",
+      "date": "2026-09-03",
+      "url": "https://investor.docusign.com/news-and-events/press-releases/news-details/2026/Docusign-Announces-Second-Quarter-Fiscal-2027-Financial-Results/default.aspx",
+      "summary": "DocuSign Q2 FY27 — revenue $875.7M (+9% Y/Y) beats; non-GAAP EPS $1.16 vs $1.08 est; IAM ARR share climbs to 15.1% from 12.6%; FY27 revenue guide raised to $3.499–$3.507B; stock +3.3% after hours.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q2-fy27",
+        "saas",
+        "e-signature",
+        "iam",
+        "agentic-ai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DOCU"
+      ],
+      "metrics": {
+        "Revenue": "$875.7M (+9% Y/Y) vs $867.6M est",
+        "Non-GAAP EPS": "$1.16 vs $1.08 est (+26% Y/Y)",
+        "GAAP EPS": "$0.40 (+33% Y/Y)",
+        "Non-GAAP op margin": "31.6% (+180bp Y/Y)",
+        "Free cash flow": "$295.8M (33.8% margin)",
+        "IAM % of ARR": "15.1% (from 12.6% in Q1)",
+        "FY27 revenue guide": "$3.499–$3.507B (+9% Y/Y midpoint)",
+        "Move": "+3.3% AH"
+      },
+      "explainer": {
+        "tagline": "DocuSign Q2 FY27 tops estimates and lifts the year — IAM adoption inflects to 15.1% of ARR from 12.6% last quarter.",
+        "whatIsIt": "DocuSign reported Q2 FY27 results on Wed Sept 3 after the close. Revenue of $875.7M topped the $867.6M Street estimate; non-GAAP EPS of $1.16 beat the $1.08 consensus. Intelligent Agreement Management (IAM), the company's AI-native platform, jumped to 15.1% of total ARR from 12.6% at end-Q1.",
+        "howItWorks": "Non-GAAP operating income was $277M (+16% Y/Y) at a 31.6% margin (up 180bp). Free cash flow reached $295.8M (33.8% margin). GAAP net income was $77.7M / $0.40 diluted EPS. Guidance lifts: FY27 revenue $3.499–$3.507B (+9% midpoint) and FY27 ARR growth 8.5–9.0%. Q3 revenue guide set to underpin the raise.",
+        "whyItMatters": "The eSignature print is now less of a story than IAM adoption — the 2.5 percentage point sequential ARR-share step (12.6% → 15.1%) is the fastest since IAM launched and validates the pivot away from a pure eSignature narrative. FY27 revenue growth was decelerating to ~7% pre-guide; the raise pushes back on that concern. Shares +3.3% AH on the print.",
+        "forWho": "SaaS analysts and mid-cap growth investors",
+        "tryIt": "https://finance.yahoo.com/quote/DOCU/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS660552/Docusign-Logo-2-Logo.jpg?id=OA2929227&p=facebook",
+        "alt": "DocuSign corporate logo",
+        "fit": "contain",
+        "credit": "DocuSign via PR Newswire"
+      },
+      "links": [
+        {
+          "label": "DocuSign IR Release",
+          "url": "https://investor.docusign.com/news-and-events/press-releases/news-details/2026/Docusign-Announces-Second-Quarter-Fiscal-2027-Financial-Results/default.aspx"
+        },
+        {
+          "label": "PR Newswire Release",
+          "url": "https://www.prnewswire.com/news-releases/docusign-announces-second-quarter-fiscal-2027-financial-results-302869380.html"
+        },
+        {
+          "label": "Company News Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-4-2026-091500709.html"
+        },
+        {
+          "label": "DOCU Chart",
+          "url": "https://finance.yahoo.com/quote/DOCU/"
+        }
+      ],
+      "reddit": {
+        "title": "DocuSign Q2 FY27 — revenue $875.7M (+9% Y/Y) beats; EPS $1.16 vs $1.08 est; IAM ARR share jumps to 15.1% from 12.6%; +3.3% AH",
+        "body": "DocuSign printed a beat-and-raise Q2 FY27 on Wednesday Sept 3 after the close.\n\n* Revenue: $875.7M (+9% Y/Y) vs $867.6M est\n* Non-GAAP EPS: $1.16 vs $1.08 est (+26% Y/Y)\n* Non-GAAP op margin: 31.6% (+180bp Y/Y)\n* Free cash flow: $295.8M (33.8% margin)\n* IAM % of ARR: 15.1%, up from 12.6% at end-Q1 — biggest sequential step yet\n* FY27 revenue guide raised to $3.499–$3.507B (+9% Y/Y midpoint)\n* Shares +3.3% after hours\n\nWhy it matters:\n\n1. **IAM inflection** — the 2.5 percentage point jump in ARR share is the fastest since IAM launched, quieting the 'DOCU is just eSignature' pushback.\n2. **Guide raise pushes back on deceleration** — FY27 growth was pricing to ~7%; the raise steadies it at ~9%.\n3. **Cash quality intact** — 33.8% FCF margin as opex leverage flows through.\n\nNext catalysts: Q3 FY27 print, agentic-AI partner announcements at Momentum '26.\n\nFull breakdown: [https://stock-tldr.xyz/releases/docu-q2-fy27-earnings-sep-3-2026](https://stock-tldr.xyz/releases/docu-q2-fy27-earnings-sep-3-2026)"
+      },
+      "publishDate": "2026-09-05T14:15:20.341Z"
+    },
     {
       "id": "tsla-cybercab-launch-nhtsa-probe-sep-4-2026",
       "categories": [

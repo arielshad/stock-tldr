@@ -11264,6 +11264,46 @@
         "rates",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260905t141520z",
+      "timestamp": "2026-09-05T14:15:20.341Z",
+      "source": "github-actions-sweep",
+      "summary": "Three high-signal adds from the Sept 3 tape: NVDA's $12.93B acquisition of Hugging Face (its largest deal ever), US spot BTC ETFs' biggest single-day inflow since January ($730.9M as BTC hit $82.2K on Waller's dovish pivot), and DocuSign's Q2 FY27 beat-and-raise with IAM ARR share stepping up to 15.1%.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-hugging-face-acquisition-sep-3-2026",
+          "title": "NVIDIA (NVDA) to acquire Hugging Face for $12.93B on Thu Sept 3 — biggest deal in company history; stock +2.53% to $234.22 Wed close then +1.8% Fri Sept 4",
+          "category": "mna",
+          "note": "Largest NVDA acquisition ever ($12.93B all-cash), announced Thu Sept 3 with confirmed +2.53% same-day close and follow-through Fri Sept 4."
+        },
+        {
+          "id": "btc-spot-etf-731m-inflow-sep-3-2026",
+          "title": "US spot Bitcoin ETFs pull $730.9M on Thu Sept 3 — biggest day since Jan 14; IBIT takes $454M; BTC +6.8% to $82.2K four-month high",
+          "category": "crypto",
+          "note": "$730.9M inflow is largest daily total since Jan 14, 2026; BTC +6.8% to $82.2K four-month high on Waller dovish signal."
+        },
+        {
+          "id": "docu-q2-fy27-earnings-sep-3-2026",
+          "title": "DocuSign (DOCU) Q2 FY27 — revenue $875.7M (+9% Y/Y) beats $867.6M est; non-GAAP EPS $1.16 vs $1.08 est; IAM 15.1% of ARR (from 12.6% Q1); FY27 revenue guide raised to $3.499–$3.507B; +3.3% AH",
+          "category": "earnings",
+          "note": "Beat + raise + IAM ARR share inflection (12.6% → 15.1%); represents the fastest sequential IAM share step since launch."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "crypto",
+        "earnings",
+        "macro"
+      ]
     }
   ]
 }
