@@ -11234,6 +11234,36 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260905t014706z",
+      "timestamp": "2026-09-05T01:47:06.091Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Tesla's Fri Sept 4 -5.92% Cybercab drop combined with the same-day NHTSA Audit Query AQ26002 into self-certification. Rest of Sept 4 headline (NFP +162K) and Sept 3 earnings prints (SNOW, AVGO, HPE, LULU, GWRE, ZS, IOT) already ingested last sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tsla-cybercab-launch-nhtsa-probe-sep-4-2026",
+          "title": "Tesla (TSLA) -5.92% to $354.08 on Fri Sept 4 — invite-only Cybercab launch in Austin underwhelms (no livestream, no Musk) and NHTSA opens Audit Query AQ26002 covering ~1,000 Cybercabs to review self-certification against FMVSS",
+          "category": "mover",
+          "note": "TSLA -5.92% single-name move on a NAMED catalyst (invite-only Cybercab launch underwhelming + NHTSA Audit Query AQ26002 opened same day), tier-1 wall-of-coverage across CNBC/TechCrunch/Electrek/Fool, distinct from the Aug 31 anticipation entry."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "regulatory",
+        "earnings",
+        "macro",
+        "mna",
+        "rates",
+        "commodity"
+      ]
     }
   ]
 }

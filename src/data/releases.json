@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-09-04T16:00:08.557Z",
+  "generatedAt": "2026-09-05T01:47:06.091Z",
   "promptVersion": "1.0.0",
-  "source": "github-actions-sweep-retry",
+  "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "tsla-cybercab-launch-nhtsa-probe-sep-4-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Tesla (TSLA) -5.92% to $354.08 on Fri Sept 4 — invite-only Cybercab launch in Austin underwhelms (no livestream, no Musk) and NHTSA opens Audit Query AQ26002 covering ~1,000 Cybercabs to review self-certification against FMVSS",
+      "org": "Tesla",
+      "date": "2026-09-04",
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "summary": "Tesla fell 5.92% to $354.08 on Fri Sept 4 after Thursday's Cybercab launch in Austin drew a NHTSA Audit Query (AQ26002) into whether Tesla properly self-certified a car with no steering wheel, pedals or mirrors.",
+      "tickers": [
+        "TSLA"
+      ],
+      "importance": "major",
+      "tags": [
+        "tesla",
+        "cybercab",
+        "robotaxi",
+        "nhtsa",
+        "fmvss",
+        "self-driving",
+        "audit-query",
+        "regulatory",
+        "single-name-mover"
+      ],
+      "metrics": {
+        "Move": "-5.92% to $354.08",
+        "Volume": "64.4M shares (~53% above 3-mo avg)",
+        "Prior day": "+5.4% ahead of event (Thu Sept 3)",
+        "Audit Query": "AQ26002 covering ~1,000 Cybercabs"
+      },
+      "explainer": {
+        "tagline": "Muted Austin Cybercab launch and a same-day NHTSA audit into self-certification knock TSLA back below $360.",
+        "whatIsIt": "Tesla began commercial Cybercab rides in a geofenced area around Austin, Texas, on Thursday Sept 3 — the event was invite-only, wasn't livestreamed, and CEO Elon Musk did not appear. The next day the National Highway Traffic Safety Administration opened an Audit Query (AQ26002) into Tesla's self-certification of the vehicle.",
+        "howItWorks": "NHTSA's Office of Defects Investigation opened the audit query covering roughly 1,000 Cybercabs. The agency is examining the process and technical data Tesla used to self-certify the vehicle as compliant with Federal Motor Vehicle Safety Standards. The Cybercab has no permanently attached steering wheel, brake pedal, accelerator pedal or conventional mirrors, and Tesla's approach was to conclude that some FMVSS provisions do not apply. TSLA closed Friday down 5.92% at $354.08 on 64.4M shares (~53% above the 3-month average), giving back most of the +5.4% pre-event rally the day before.",
+        "whyItMatters": "The audit query is a lighter tool than a formal defect investigation, but it directly targets Tesla's central bet — that a driverless vehicle can be self-certified without the Part 555 exemption process used by Amazon's Zoox, which took roughly four years and led to a fleetwide recall. The outcome will shape whether Tesla can scale the Cybercab past a small Austin pilot on its current path or has to fall back on the exemption route with an annual volume cap.",
+        "forWho": "TSLA holders, AV-regulation watchers, robotaxi supply-chain names",
+        "tryIt": "https://finance.yahoo.com/quote/TSLA/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108358940-1788527112511-gettyimages-2292810316-AFP_C7B322X.jpeg?v=1788550249&w=1920&h=1080",
+        "alt": "Tesla Cybercab prototype on display with butterfly doors and no steering wheel",
+        "fit": "cover",
+        "credit": "AFP via Getty / CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC: TSLA -6% on Cybercab",
+          "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html"
+        },
+        {
+          "label": "CNBC: NHTSA Probe",
+          "url": "https://www.cnbc.com/2026/09/04/us-auto-safety-regulator-opens-probe-into-nearly-1000-tesla-cybercabs.html"
+        },
+        {
+          "label": "TechCrunch: Feds Probe",
+          "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
+        },
+        {
+          "label": "Electrek: FMVSS Detail",
+          "url": "https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-today-sept-4-tesla-falls-after-cybercab-launch-disappoints-investors/"
+        },
+        {
+          "label": "TSLA Ticker Page",
+          "url": "https://finance.yahoo.com/quote/TSLA/"
+        }
+      ],
+      "reddit": {
+        "title": "TSLA -5.9% to $354 after invite-only Cybercab launch underwhelms and NHTSA opens Audit Query AQ26002 into self-certification",
+        "body": "Two Cybercab stories hit within 24 hours and traders lined up on the sell side.\n\n* TSLA closed Friday Sept 4 at $354.08, down 5.92% on 64.4M shares (~53% above the 3-month average)\n* Fully unwinds Thursday's +5.4% pre-event rally\n* NHTSA opened Audit Query AQ26002 covering ~1,000 Cybercabs, reviewing Tesla's self-certification against FMVSS\n* Cybercab has no steering wheel, brake pedal, accelerator or conventional mirrors\n\n1. **The Austin launch fell flat** — Thursday's event was invite-only, wasn't livestreamed, and Elon Musk didn't show. Rides went live inside a geofence around Austin via the Robotaxi app.\n2. **NHTSA is questioning the self-certification path** — the audit query targets the process and technical data Tesla used to declare FMVSS compliance for a vehicle Tesla itself argues doesn't need to comply with the human-driver-oriented standards.\n3. **Zoox took four years on the alternative route** — Amazon's Zoox went through the Part 555 exemption process from 2022 to July 2026 and had to recall its fleet along the way. If Tesla is pushed onto that path, the Cybercab hits a 2,500-unit annual exemption cap.\n\nNext catalysts: NHTSA audit query updates, any expansion of the Austin geofence, Q3 delivery print.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-cybercab-launch-nhtsa-probe-sep-4-2026](https://stock-tldr.xyz/releases/tsla-cybercab-launch-nhtsa-probe-sep-4-2026)"
+      },
+      "publishDate": "2026-09-05T01:47:06.091Z"
+    },
     {
       "id": "us-nfp-august-2026-162k-sep-4",
       "categories": [
