@@ -11332,6 +11332,35 @@
         "article",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20260906t143627z",
+      "timestamp": "2026-09-06T14:36:27.510Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: OPEC+'s seven core producers held October quotas at September levels on Sun Sept 6, ending the monthly-hike phase and shifting focus to 2027 baselines. Weekend was otherwise quiet — verified pass on new equities/macro/M&A/crypto catalysts turned up nothing that cleared the bar and wasn't already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "opec-plus-october-hold-sep-6-2026",
+          "title": "OPEC+ holds October 2026 quotas at September levels on Sun Sept 6 — 7 core producers keep combined 31.01 mbd cap; next meeting Oct 4 as Iran-Hormuz disruption keeps actual output well below targets",
+          "category": "commodity",
+          "note": "Formal OPEC+ ministerial decision on Sun Sept 6 to hold October quotas — primary-source-level statement with global oil-price implications given the ongoing Iran-Hormuz disruption. Confirmed via Reuters/TASS/Business Recorder with matching country-level quota numbers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "earnings",
+        "mna",
+        "crypto",
+        "regulatory"
+      ]
     }
   ]
 }

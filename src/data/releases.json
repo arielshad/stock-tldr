@@ -1,8 +1,90 @@
 {
-  "generatedAt": "2026-09-06T01:47:25.930Z",
+  "generatedAt": "2026-09-06T14:36:27.510Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "opec-plus-october-hold-sep-6-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "OPEC+ holds October 2026 quotas at September levels on Sun Sept 6 — 7 core producers keep combined 31.01 mbd cap; next meeting Oct 4 as Iran-Hormuz disruption keeps actual output well below targets",
+      "org": "OPEC+",
+      "date": "2026-09-06",
+      "url": "https://www.brecorder.com/news/40438165/opec-keeps-oil-output-policy-unchanged-for-october",
+      "summary": "OPEC+'s seven core producers left October quotas unchanged at a combined 31.01 mbd on Sun Sept 6 — pausing after the September 188K bpd hike that completed the 1.65 mbd voluntary-cut rollback. Focus shifts to 2027 baselines; next meeting Oct 4.",
+      "tags": [
+        "opec",
+        "opec-plus",
+        "oil",
+        "commodities",
+        "brent",
+        "wti",
+        "production-quotas",
+        "saudi-arabia",
+        "russia",
+        "iran",
+        "strait-of-hormuz",
+        "energy"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "metrics": {
+        "October quota (7 core, combined)": "31.01 mbd (unchanged from Sept)",
+        "Saudi Arabia": "10.478 mbd",
+        "Russia": "9.949 mbd",
+        "Iraq": "4.431 mbd",
+        "Kuwait": "2.676 mbd",
+        "Kazakhstan": "1.628 mbd",
+        "Brent (Fri Sept 4 close)": "$96.28 (+9% w/w)",
+        "Next meeting": "Oct 4, 2026"
+      },
+      "explainer": {
+        "tagline": "OPEC+'s seven core producers hold October quotas at September levels — combined 31.01 mbd cap, next meeting Oct 4.",
+        "whatIsIt": "The seven core OPEC+ producers — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — met virtually on Sunday Sept 6 and decided to leave October production quotas at September levels. It closes the phase of monthly hikes that returned 1.65 mbd of voluntary cuts to the market and shifts the group's focus to reviewing 2027 production baselines.",
+        "howItWorks": "Combined October quota totals 31.01 mbd. Country-level: Saudi Arabia 10.478 mbd, Russia 9.949 mbd, Iraq 4.431 mbd, Kuwait 2.676 mbd, Kazakhstan 1.628 mbd, Algeria 1.007 mbd, Oman 841K bpd. The August 2 meeting had approved a final 188K bpd September increase; the Sept 6 statement makes clear the group will now pause further paper increases and reassess member production capacity before setting 2027 quotas. The next core-group meeting is Oct 4.",
+        "whyItMatters": "The hold comes days after CENTCOM struck three IRGC-linked tankers on Fri Sept 5 in the Gulf of Oman and near Kharg Island, sending Brent +9% w/w to a $96.28 Fri close — Iran-Hormuz disruption is keeping actual OPEC+ output well below paper quotas. Rystad Energy's Jorge Leon on the decision: 'OPEC+ currently has very limited power over the physical oil market. The group can change production targets on paper, but it cannot guarantee that those barrels will be produced or actually reach the market.'",
+        "forWho": "energy desks, macro traders",
+        "tryIt": "https://www.opec.org/press-releases.html"
+      },
+      "image": {
+        "url": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260906/1485875.jpg",
+        "alt": "OPEC secretariat headquarters in Vienna",
+        "fit": "cover",
+        "credit": "TASS"
+      },
+      "links": [
+        {
+          "label": "Business Recorder Recap",
+          "url": "https://www.brecorder.com/news/40438165/opec-keeps-oil-output-policy-unchanged-for-october"
+        },
+        {
+          "label": "TASS Quota Detail",
+          "url": "https://tass.com/economy/2183335"
+        },
+        {
+          "label": "The National (UAE)",
+          "url": "https://www.thenationalnews.com/business/energy/2026/09/06/opec-keeps-oil-output-policy-unchanged-for-october-amid-iran-war-uncertainty/"
+        },
+        {
+          "label": "OPEC Press Releases",
+          "url": "https://www.opec.org/press-releases.html"
+        },
+        {
+          "label": "Brent Futures",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "OPEC+ holds October 2026 quotas at September levels — 7 core producers keep combined 31.01 mbd cap; next meeting Oct 4",
+        "body": "OPEC+'s seven core producers (Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, Oman) met virtually on Sunday Sept 6 and left October quotas unchanged after the September 188K bpd hike completed the 1.65 mbd voluntary-cut rollback.\n\n* Combined October quota: **31.01 mbd** (unchanged from Sept)\n* Saudi Arabia 10.478 mbd, Russia 9.949 mbd, Iraq 4.431 mbd\n* Kuwait 2.676 mbd, Kazakhstan 1.628 mbd, Algeria 1.007 mbd, Oman 841K bpd\n* Brent settled Fri Sept 4 at $96.28, +9% on the week\n* Next core meeting: **Oct 4, 2026**\n\nWhat's actually going on:\n\n1. **Rollback phase is over** — the Sept 188K bpd increase closed out the 1.65 mbd voluntary cuts announced in April 2023. Group signals it now wants to pause monthly adjustments.\n2. **2027 baselines are the next fight** — before deciding how to unwind remaining cuts, OPEC+ has to review each member's true production capacity to set 2027 quotas.\n3. **Hormuz disruption dominates the physical market** — after CENTCOM struck 3 IRGC tankers on Fri Sept 5, actual barrels reaching the market are running well below quota. Rystad's Jorge Leon: OPEC+ 'can change production targets on paper, but it cannot guarantee that those barrels will be produced or actually reach the market.'\n\nNext catalysts: US August CPI on Sept 11, then FOMC decision Sept 15–16 (rate-hike odds ~60% post-jobs), then next OPEC+ core meeting Oct 4.\n\nFull breakdown: [https://stock-tldr.xyz/releases/opec-plus-october-hold-sep-6-2026](https://stock-tldr.xyz/releases/opec-plus-october-hold-sep-6-2026)"
+      },
+      "publishDate": "2026-09-06T14:36:27.510Z"
+    },
     {
       "id": "us-centcom-strikes-3-irgc-tankers-sep-5-2026",
       "categories": [
