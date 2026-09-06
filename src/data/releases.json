@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-09-05T14:15:20.341Z",
+  "generatedAt": "2026-09-06T01:47:25.930Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-centcom-strikes-3-irgc-tankers-sep-5-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "US CENTCOM destroys 3 IRGC oil tankers on Sat Sept 5 after Iran launches ballistic missiles at 2 US Navy warships — 'tanker for tanker' policy first invoked; Brent settled Fri +9% w/w at $96.28",
+      "org": "U.S. Central Command",
+      "date": "2026-09-05",
+      "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+      "summary": "US CENTCOM disabled M/T Downy off Kharg Island and M/T Stark 1 near Jask and destroyed M/T Kylo (Noxen) in the Gulf of Oman on Sat Sept 5 after IRGC ballistic missiles missed a US aircraft carrier and destroyer.",
+      "tags": [
+        "geopolitics",
+        "iran",
+        "us-iran-war",
+        "hormuz",
+        "centcom",
+        "irgc",
+        "kharg-island",
+        "gulf-of-oman",
+        "tanker-strikes",
+        "us-navy",
+        "oil",
+        "brent",
+        "wti",
+        "shadow-fleet"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Tankers hit": "3 IRGC vessels (M/T Downy, M/T Stark 1, M/T Kylo/Noxen)",
+        "US ships targeted": "1 aircraft carrier + 1 guided-missile destroyer (both evaded, no casualties)",
+        "Brent (Fri close)": "$96.28/bbl (+9% w/w, highest since Jul 24)",
+        "Policy": "'Tanker for tanker' — 2 US ships shot at → 3 IRGC tankers taken out"
+      },
+      "explainer": {
+        "tagline": "US CENTCOM disabled 2 IRGC crude tankers off Kharg and Jask and destroyed a third in the Gulf of Oman on Sat Sept 5, after Iran missed a US carrier + destroyer.",
+        "whatIsIt": "First direct US strikes on Iranian-flagged oil tankers of the 2026 war. CENTCOM said the IRGC launched multiple ballistic missiles at a US aircraft carrier and a guided-missile destroyer patrolling regional waters; both ships evaded and no American personnel were hurt. Hours later the US struck three IRGC crude oil carriers.",
+        "howItWorks": "M/T Downy was permanently disabled off Kharg Island (Iran's main crude export terminal). M/T Stark 1 was permanently disabled near Jask. The third vessel, empty crude carrier M/T Kylo (aka Noxen), was destroyed in the Gulf of Oman after crew was told to abandon ship. Admiral Brad Cooper (CENTCOM commander): 'If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours… destroy Iran's limited and exposed oil fleet.'",
+        "whyItMatters": "Introduces a new US 'tanker-for-tanker' rule of engagement targeting the IRGC's multi-billion-dollar shadow oil network. Sets up a large Monday move in Brent and WTI — futures settled Friday at $96.28 (Brent) up ~9% for the week on Iran risk, with US officials signaling more strikes if IRGC persists. Kharg Island handles up to 90% of Iranian crude exports, so any escalation risk-premium hits refiners, tanker/shipping names and airlines.",
+        "forWho": "energy desks, macro traders, defense contractors, shipping/tanker equities",
+        "tryIt": "https://finance.yahoo.com/quote/BZ=F"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108275228-1773036724724-gettyimages-2178325356-khargiran2024.jpeg?v=1774871530&w=1920&h=1080",
+        "alt": "Oil tankers near Kharg Island terminal, Iran's main crude export hub in the Persian Gulf.",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC: US Strikes 3 Tankers",
+          "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html"
+        },
+        {
+          "label": "NBC News Coverage",
+          "url": "https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222"
+        },
+        {
+          "label": "Jerusalem Post: CENTCOM",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-907641"
+        },
+        {
+          "label": "WTI Futures (CL=F)",
+          "url": "https://finance.yahoo.com/quote/CL=F"
+        },
+        {
+          "label": "Brent Futures (BZ=F)",
+          "url": "https://finance.yahoo.com/quote/BZ=F"
+        },
+        {
+          "label": "Kharg Island Background",
+          "url": "https://en.wikipedia.org/wiki/Kharg_Island"
+        }
+      ],
+      "reddit": {
+        "title": "US CENTCOM destroys 3 IRGC oil tankers Sat Sept 5 after Iranian ballistic missiles miss US carrier + destroyer — Brent settled Fri +9% w/w at $96.28",
+        "body": "First direct US strikes on Iranian-flagged tankers of the 2026 war. CENTCOM said IRGC missiles missed a US aircraft carrier and guided-missile destroyer patrolling regional waters — hours later, three IRGC crude carriers were hit.\n\n* M/T Downy — permanently disabled off Kharg Island (Iran's main crude export terminal)\n* M/T Stark 1 — permanently disabled near Jask (Gulf of Oman entrance)\n* M/T Kylo (aka Noxen) — destroyed in the Gulf of Oman (crew evacuated first, empty of cargo)\n* Brent settled Friday $96.28 (+9% w/w, highest since Jul 24); WTI ~$90.84 into the weekend\n* No US personnel harmed; US carrier + destroyer both evaded the IRGC missile salvos\n\nWhy this matters:\n\n1. **New 'tanker for tanker' rule of engagement** — Admiral Brad Cooper (CENTCOM commander): \"If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours… destroy Iran's limited and exposed oil fleet.\"\n2. **Targets the IRGC shadow fleet** — CENTCOM called the 3 tankers part of a \"multibillion-dollar shadow network that funds the IRGC and its regional proxies.\"\n3. **Sets up a big Monday oil move** — Kharg handles up to 90% of Iranian crude exports; any expansion of strikes hits the risk premium into US CPI print (Sept 11) and the Sept 15–16 FOMC.\n\nNext catalysts: OPEC+ JMMC review Sun Sept 6, US CPI Thu Sept 11, FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-centcom-strikes-3-irgc-tankers-sep-5-2026](https://stock-tldr.xyz/releases/us-centcom-strikes-3-irgc-tankers-sep-5-2026)"
+      },
+      "publishDate": "2026-09-06T01:47:25.930Z"
+    },
     {
       "id": "nvda-hugging-face-acquisition-sep-3-2026",
       "categories": [
