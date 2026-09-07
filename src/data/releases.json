@@ -1,8 +1,96 @@
 {
-  "generatedAt": "2026-09-07T01:39:58.918Z",
+  "generatedAt": "2026-09-07T16:52:01.168Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "asia-ai-chip-rally-astra-tailwind-sep-7-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "KOSPI +4.61% to 6,995.39 and Nikkei 225 +2.12% to 66,399 on Mon Sept 7 — SK Hynix +8.26%, Samsung +5.68%, Kioxia +7.93%, SoftBank +6.82% lead Asia AI-chip rip on OpenAI Astra + NVDA-Hugging Face memory-demand tailwind",
+      "org": "Korea Exchange",
+      "date": "2026-09-07",
+      "url": "https://en.sedaily.com/finance/2026/09/07/chip-rally-lifts-kospi-near-7000-goldman-sees-12000",
+      "summary": "Asia opened the week ripping: KOSPI +4.61% to 6,995.39 (highest since July 23), Nikkei 225 +2.12% to 66,399 as SK Hynix +8.26%, Samsung +5.68%, Kioxia +7.93% and SoftBank +6.82% catch the OpenAI Astra + NVDA-Hugging Face memory-demand bid. US closed for Labor Day.",
+      "tags": [
+        "kospi",
+        "nikkei",
+        "sk-hynix",
+        "samsung",
+        "kioxia",
+        "softbank",
+        "memory",
+        "hbm",
+        "dram",
+        "ai-capex",
+        "openai-astra",
+        "gpt-6",
+        "nvda-hugging-face",
+        "asia-open",
+        "labor-day"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^KS11",
+        "^N225"
+      ],
+      "metrics": {
+        "KOSPI": "6,995.39 (+4.61%, +308.18 pts)",
+        "Nikkei 225": "66,399 (+2.12%, +1,378 pts)",
+        "SK Hynix": "+8.26% to KRW 1,783,000",
+        "Samsung Electronics": "+5.68% to KRW 270,000",
+        "Kioxia": "+7.93% to JPY 58,780",
+        "SoftBank": "+6.82% to JPY 5,971",
+        "Advantest": "+5.70%",
+        "Tokyo Electron": "+4.74%",
+        "Foreign + institutional buy (Kospi)": "KRW 5.19T",
+        "Retail net sell (Kospi)": "KRW 6.83T",
+        "Goldman KOSPI target": "12,000"
+      },
+      "explainer": {
+        "tagline": "Asia's chipmakers ripped Monday as OpenAI's Astra release and the NVDA-Hugging Face deal reignited the AI memory trade.",
+        "whatIsIt": "First trading session of the week in Asia with US markets shut for Labor Day. Korea's KOSPI closed +4.61% at 6,995.39 — its highest level since July 23 — and Japan's Nikkei 225 rose 2.12% to 66,399 as investors piled into memory and AI-infrastructure names on the view that OpenAI's newly released GPT-6 Astra plus Nvidia's $12.93B acquisition of Hugging Face materially expand demand for HBM, DRAM and server storage.",
+        "howItWorks": "In Seoul, Samsung Electronics closed +5.68% at KRW 270,000 and SK Hynix +8.26% at KRW 1,783,000 — Kospi heavyweights alone drove the bulk of the 308-point index gain. Foreign investors bought KRW 2.55T and institutions KRW 2.64T while retail dumped KRW 6.83T (second-largest one-day retail sell on record). In Tokyo, Kioxia +7.93% (JPY 58,780), SoftBank +6.82% (JPY 5,971), Advantest +5.70% and Tokyo Electron +4.74% led the Nikkei's 1,378-point gain; TOPIX rose 0.55% to 4,125.80.",
+        "whyItMatters": "Confirms the sell-side thesis that Astra-class model rollouts translate into another leg of memory-capex demand: Samsung and SK Hynix inventories have fallen below the 10-day supply threshold, and hyperscaler AI infrastructure spend is on track to hit ~$1.3T by 2027 with memory rising to 57% of that mix from 14% in 2025. Goldman Sachs kept its 12,000 KOSPI target on 360% net-profit growth forecasts and a 7.5× forward P/E vs the index's current 5.3×. Sets a bid tone for US semi names (MU, AVGO, NVDA, WDC, SNDK) when trading reopens Tuesday.",
+        "forWho": "Global chip-cycle traders, Asia equity desks, AI infrastructure allocators.",
+        "tryIt": "https://finance.yahoo.com/quote/%5EKS11/"
+      },
+      "image": {
+        "url": "https://wimg.sedaily.com/news/cms/2026/09/07/rcv.YNA.20260907.PYH2026090718540001300_P1.jpg",
+        "alt": "KOSPI trading board on Sept 7, 2026 showing +4.61% close near 7,000",
+        "fit": "cover",
+        "credit": "Yonhap News Agency / Seoul Economic Daily"
+      },
+      "links": [
+        {
+          "label": "Seoul Econ Daily",
+          "url": "https://en.sedaily.com/finance/2026/09/07/chip-rally-lifts-kospi-near-7000-goldman-sees-12000"
+        },
+        {
+          "label": "Nikkei Recap",
+          "url": "https://sundayguardianlive.com/business/nikkei-225-today-september-7-2026-index-jumps-nearly-2-above-66300-check-why-japanese-stocks-are-rising-top-gainers-market-trends-and-key-factors-279001/"
+        },
+        {
+          "label": "TradingKey Chip Note",
+          "url": "https://www.tradingkey.com/analysis/stocks/more/262153086-japan-south-korea-stocks-kospi-nikkei225-softbank-skhynix-samsung-kioxia-nvda-tradingkey"
+        },
+        {
+          "label": "KOSPI Chart",
+          "url": "https://finance.yahoo.com/quote/%5EKS11/"
+        },
+        {
+          "label": "Nikkei Chart",
+          "url": "https://finance.yahoo.com/quote/%5EN225/"
+        }
+      ],
+      "reddit": {
+        "title": "KOSPI +4.61% to 6,995 and Nikkei +2.12% to 66,399 — Asia chips rip Monday as OpenAI Astra + NVDA-Hugging Face reignite the memory trade (US closed for Labor Day)",
+        "body": "US markets were shut for Labor Day so Asia got to set the tone — and set it hard. Memory and AI-infrastructure names lit up on the read-through from OpenAI's GPT-6 Astra release plus Nvidia's $12.93B Hugging Face acquisition.\n\n* KOSPI +4.61% to 6,995.39 — highest close since July 23, +308 pts on the session\n* Nikkei 225 +2.12% to 66,399 — +1,378 pts, TOPIX +0.55% to 4,125.80\n* SK Hynix +8.26% to KRW 1,783,000; Samsung Electronics +5.68% to KRW 270,000\n* Kioxia +7.93% to JPY 58,780; SoftBank +6.82% to JPY 5,971\n* Advantest +5.70%, Tokyo Electron +4.74% round out the top Nikkei gainers\n* Foreign + institutions bought KRW 5.19T of Kospi; retail dumped KRW 6.83T (second-largest one-day retail sell on record)\n\nWhy the tape ripped:\n\n1. **OpenAI Astra changes the memory math** — Astra was trained on 100K+ Nvidia GPUs at the Stargate Texas facility, and autonomous-agent workloads pull more HBM, DRAM and server storage. Samsung/SK Hynix inventories are already under the 10-day-supply threshold.\n2. **NVDA-Hugging Face deal** — Wednesday's $12.93B acquisition read as another vote for the AI-infrastructure buildout, feeding the memory-capex thesis.\n3. **Goldman keeps 12,000 KOSPI target** — cites 360% net-profit growth forecast and a 7.5x forward P/E vs the index's current 5.3x.\n\nNext catalysts: US CPI Sept 11 and the FOMC decision Sept 15-16 (~60% priced for a hike after Friday's +162K NFP).\n\nFull breakdown: [https://stock-tldr.xyz/releases/asia-ai-chip-rally-astra-tailwind-sep-7-2026](https://stock-tldr.xyz/releases/asia-ai-chip-rally-astra-tailwind-sep-7-2026)"
+      },
+      "publishDate": "2026-09-07T16:52:01.168Z"
+    },
     {
       "id": "iran-hormuz-prohibited-zone-rezaei-sep-6-2026",
       "categories": [

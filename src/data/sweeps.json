@@ -11387,6 +11387,37 @@
         "macro",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20260907t165201z",
+      "timestamp": "2026-09-07T16:52:01.168Z",
+      "source": "github-actions-sweep",
+      "summary": "Single-item sweep on US Labor Day: Asia AI/chip session ripped as OpenAI GPT-6 Astra and the NVDA-Hugging Face deal reignited the memory trade — KOSPI +4.61% to 6,995.39, Nikkei +2.12% to 66,399, SK Hynix +8.26%, Samsung +5.68%.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "asia-ai-chip-rally-astra-tailwind-sep-7-2026",
+          "title": "KOSPI +4.61% to 6,995.39 and Nikkei 225 +2.12% to 66,399 on Mon Sept 7 — SK Hynix +8.26%, Samsung +5.68%, Kioxia +7.93%, SoftBank +6.82% lead Asia AI-chip rip on OpenAI Astra + NVDA-Hugging Face memory-demand tailwind",
+          "category": "sector",
+          "note": "Broad Asian AI/chip session on Mon Sept 7 with named catalyst (OpenAI Astra + NVDA-Hugging Face); KOSPI +4.61% and Nikkei +2.12% clear the ≥1% sector-move bar; distinct from existing tanker-war and Aug memory-chip entries."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "earnings",
+        "mna",
+        "rates"
+      ]
     }
   ]
 }
