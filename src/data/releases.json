@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-09-06T14:36:27.510Z",
+  "generatedAt": "2026-09-07T01:39:58.918Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "iran-hormuz-prohibited-zone-rezaei-sep-6-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Iran to declare Hormuz 'prohibited zone' — security chief Rezaei on Sun Sept 6 says exclusion area will run from US Navy blockade line through the Strait into the Persian Gulf, with violators placed on Iran's sanctions list",
+      "org": "Islamic Republic of Iran",
+      "date": "2026-09-06",
+      "url": "https://fortune.com/2026/09/06/iran-exclusion-zone-us-naval-blockade-line-strait-of-hormuz-persian-gulf/",
+      "summary": "Iran's Supreme National Security Council chief Mohsen Rezaei told state TV on Sunday Sept 6 that Tehran will formally announce a Hormuz 'prohibited zone' in the coming days — one day after US strikes on three IRGC oil tankers.",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "tags": [
+        "iran",
+        "hormuz",
+        "strait-of-hormuz",
+        "oil",
+        "brent",
+        "wti",
+        "geopolitics",
+        "sanctions",
+        "us-navy",
+        "blockade",
+        "rezaei"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Zone scope": "US Navy blockade line → Strait of Hormuz → Persian Gulf",
+        "Timing": "\"coming days and weeks\" (Rezaei)",
+        "Penalty": "Ship placed on Iran sanctions list",
+        "Hormuz flows (Mon Aug 31)": "~17 mb/d (highest since Feb, per US DOE Sec. Wright)"
+      },
+      "explainer": {
+        "tagline": "Iran's security chief signals a coming Hormuz exclusion zone, one day after US Navy sank three IRGC tankers.",
+        "whatIsIt": "Mohsen Rezaei — the newly installed head of Iran's Supreme National Security Council — told Iran's state broadcaster on Sunday Sept 6 that Tehran will formally declare a 'prohibited zone' outside the Strait of Hormuz in the coming days. The announcement is a heads-up, not a formal decree: Rezaei said the zone 'should be announced in the coming days and weeks' and gave few boundary specifics. It follows Saturday's US CENTCOM strike on three IRGC oil tankers, itself a response to Iran's ballistic-missile attack on two US Navy warships earlier in the week.",
+        "howItWorks": "Per Rezaei's on-air remarks, the zone will 'begin from the line of the U.S. naval blockade, extend toward the Strait of Hormuz, and from this side continue into the Persian Gulf.' Any ship entering without coordination with Iran would be placed on Tehran's sanctions list — a designation that would knock out insurance coverage and future Strait transit for the vessel. Iran also said it will publish a new international navigation corridor agreed with Oman, 'under Iran's management,' to govern passage through the Strait. Iran claimed a separate strike on an unmanned US vessel on Sunday; the US military called that claim a 'total lie.'",
+        "whyItMatters": "Hormuz still carries roughly 9 million barrels per day of oil — about two-thirds of pre-conflict flows per US Energy Secretary Chris Wright — after a week that saw Brent settle Friday +9% w/w at $96.28 on the US-Iran tanker exchange. A formalized Iran-managed exclusion zone would raise insurance and diversion costs on every VLCC transit, tighten the war-risk bid on Brent and WTI, and complicate the US Navy 'tanker for tanker' escalation policy invoked on Saturday. It also directly feeds the Fed's September pricing debate — energy has already pushed CPI to a 3-year high in this cycle and Fed-hike odds jumped to ~58% after Friday's hot NFP.",
+        "forWho": "energy desks, geopolitics traders, shipping insurers",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF/"
+      },
+      "image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2276029086-e1788736405206.jpg?resize=1200,600",
+        "alt": "Iranian security officials and IRGC personnel near the Strait of Hormuz shoreline",
+        "fit": "cover",
+        "credit": "Getty Images via Fortune"
+      },
+      "links": [
+        {
+          "label": "Fortune — Iran exclusion zone",
+          "url": "https://fortune.com/2026/09/06/iran-exclusion-zone-us-naval-blockade-line-strait-of-hormuz-persian-gulf/"
+        },
+        {
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/iran-claims-a-strike-on-a-u-s-ship-in-the-strait-of-hormuz-but-the-u-s-denies-it"
+        },
+        {
+          "label": "SCMP coverage",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3366566/iran-will-declare-prohibited-zone-near-hormuz-coming-days-security-chief"
+        },
+        {
+          "label": "WTI (CL=F) chart",
+          "url": "https://finance.yahoo.com/quote/CL%3DF/"
+        },
+        {
+          "label": "Brent (BZ=F) chart",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+        }
+      ],
+      "reddit": {
+        "title": "Iran to declare Hormuz 'prohibited zone' after US Navy sinks 3 IRGC tankers — any ship crossing US blockade line goes on Tehran's sanctions list",
+        "body": "Iran's Supreme National Security Council chief Mohsen Rezaei told state TV on Sunday Sept 6 that Tehran will formally announce a Hormuz exclusion zone in the coming days. This lands 24 hours after CENTCOM sank three IRGC tankers under Trump's new \"tanker for tanker\" policy.\n\nWhat Rezaei said, on the record:\n\n* Zone runs from the US Navy blockade line → Strait of Hormuz → into the Persian Gulf\n* Any ship entering without Iranian coordination goes on Iran's sanctions list (kills insurance + future transit)\n* A new navigation corridor with Oman will be published, \"under Iran's management\"\n* Iran also claimed a strike on an unmanned US vessel Sunday — US military called it a \"total lie\"\n\nWhy the tape cares:\n\n1. **Hormuz still moves ~9 mb/d** (~2/3 of pre-conflict flows per US Energy Sec. Chris Wright). Any Iran-managed exclusion regime is a direct war-risk bid on tanker rates and re-insurance.\n2. **Brent closed Fri +9% w/w at $96.28**, biggest weekly gain since mid-July, on the US-Iran tanker exchange. This is fresh fuel for Monday's oil tape.\n3. **Fed pricing**: energy has already pushed CPI to a 3-year high; hot NFP Friday pushed Sept-hike odds to ~58%. A tighter Hormuz risk premium into the Sept 11 CPI print is exactly what Warsh has been flagging.\n\nNext catalysts: formal Iran announcement of the zone, US CPI Sept 11, FOMC Sept 16–17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/iran-hormuz-prohibited-zone-rezaei-sep-6-2026](https://stock-tldr.xyz/releases/iran-hormuz-prohibited-zone-rezaei-sep-6-2026)"
+      },
+      "publishDate": "2026-09-07T01:39:58.918Z"
+    },
     {
       "id": "opec-plus-october-hold-sep-6-2026",
       "categories": [

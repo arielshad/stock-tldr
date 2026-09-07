@@ -11361,6 +11361,32 @@
         "crypto",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260907t013958z",
+      "timestamp": "2026-09-07T01:39:58.918Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet Sunday tape — 11 hours after the prior sweep. One new fresh item: Iran security chief Rezaei signals a coming Hormuz 'prohibited zone' following Saturday's CENTCOM strike on three IRGC tankers.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "iran-hormuz-prohibited-zone-rezaei-sep-6-2026",
+          "title": "Iran to declare Hormuz 'prohibited zone' — security chief Rezaei on Sun Sept 6 says exclusion area will run from US Navy blockade line through the Strait into the Persian Gulf, with violators placed on Iran's sanctions list",
+          "category": "commodity",
+          "note": "Distinct from Sept 5 CENTCOM tanker strike already in feed; Rezaei's Sunday announcement is Iran's escalation response and sets up Monday oil open."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "geopolitics"
+      ]
     }
   ]
 }
