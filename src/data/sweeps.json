@@ -11418,6 +11418,39 @@
         "mna",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260908t015131z",
+      "timestamp": "2026-09-08T01:51:31.007Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh crypto items from Sunday Sept 6: Zcash's spot-ETF-fueled break to $1,225 (market cap $20B, #9 by cap) and Blockstream's Liquid Network halt after ~4,000 BTC ($320M) exited federation reserves through a valid Peg-Out Authorization Key. US closed for Labor Day; no fresh US earnings or macro since Friday's NFP.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "zcash-1200-record-sep-6-2026",
+          "title": "Zcash (ZEC) tops $1,200 intraday high $1,249 on Sun Sept 6 — market cap ~$20B, weekly rally 45%+, $17.5M shorts liquidated as Grayscale ZCSH ETF assets balloon to $463M",
+          "category": "crypto",
+          "note": "First real proof point that a US spot ETF can move a small-cap privacy coin — ZEC hit an 8-year high on ZCSH creation demand plus a $17.5M short squeeze."
+        },
+        {
+          "id": "blockstream-liquid-320m-drain-sep-6-2026",
+          "title": "Blockstream halts Liquid Network on Sun Sept 6 after ~4,000 BTC ($320M) drained from federation reserves — SideSwap Peg-Out Authorization Key implicated; USDT + DePix on Liquid unaffected",
+          "category": "crypto",
+          "note": "Largest reserve exit in Liquid Network history; Blockstream halted the sidechain and there is no public root-cause analysis yet."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "sidechain",
+        "spot-etf",
+        "privacy-coin"
+      ]
     }
   ]
 }

@@ -1,8 +1,162 @@
 {
-  "generatedAt": "2026-09-07T16:52:01.168Z",
+  "generatedAt": "2026-09-08T01:51:31.007Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "zcash-1200-record-sep-6-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Zcash (ZEC) tops $1,200 intraday high $1,249 on Sun Sept 6 — market cap ~$20B, weekly rally 45%+, $17.5M shorts liquidated as Grayscale ZCSH ETF assets balloon to $463M",
+      "org": "Zcash",
+      "date": "2026-09-06",
+      "url": "https://news.bitcoin.com/altcoins/zcash-breaches-1200-as-market-cap-hits-20-billion/",
+      "summary": "Privacy-coin ZEC ripped past $1,200 Sunday Sept 6, printing an intraday $1,249 and pushing market cap to $20.4B — a level unseen in nearly a decade — as Grayscale's ZCSH ETF sucked in $463M and $17.5M of short bets got torched.",
+      "tickers": [
+        "ZEC-USD"
+      ],
+      "tags": [
+        "zcash",
+        "zec",
+        "privacy-coin",
+        "grayscale",
+        "zcsh-etf",
+        "short-squeeze",
+        "altcoin",
+        "spot-etf",
+        "nyse-arca"
+      ],
+      "importance": "major",
+      "metrics": {
+        "ZEC intraday high": "$1,249",
+        "Weekly gain": "+45%+",
+        "Market cap": "~$20.4B",
+        "Rank by market cap": "#9 (displacing HYPE)",
+        "24h liquidations": "$24M (shorts $17.5M / longs $6.5M)",
+        "Grayscale ZCSH AUM": "~$463M (launched Aug 25 on NYSE Arca)",
+        "Grayscale ZCSH holdings": ">400,000 ZEC"
+      },
+      "explainer": {
+        "tagline": "Zcash printed an eight-year high Sunday as Grayscale's spot ETF and a violent short squeeze pushed market cap to $20B.",
+        "whatIsIt": "Zcash (ZEC), the shielded-transaction privacy coin, breached $1,200 Sunday Sept 6 and touched $1,249 intraday, its highest level since 2018. The move lifted ZEC's market cap to $20.4B — displacing HYPE for the No. 9 slot in crypto by capitalization — and completed a weekly gain north of 45%. It is the biggest live example so far of the 'privacy-coin + spot ETF' bid that emerged after Grayscale's ZCSH product started trading on NYSE Arca on Aug 25.",
+        "howItWorks": "Two mechanical drivers stacked. First, ETF inflows: Grayscale ZCSH now holds more than 400,000 ZEC and $463M in assets, giving US traders regulated exposure without touching an exchange that had previously delisted the coin. Second, a leveraged short squeeze: over the 24h ending Sunday, futures venues liquidated $24M of leveraged ZEC positions — $17.5M of it from shorts — forcing bears to buy back into a thin book. Digital Currency Group (Grayscale's parent) is also in non-binding talks through a subsidiary to accumulate 200,000 ZEC, per multiple crypto-news reports.",
+        "whyItMatters": "This is the first real proof point that a US-listed spot ETF can move a small-cap privacy coin. The privacy sector has now rallied 213% since Bitcoin's October 2025 peak, and ZEC has led — Litecoin, Monero, and Dash have all followed on smaller scales. For flow desks, the ZCSH creation-redemption arb keeps a persistent bid under ZEC as long as premiums hold; for risk desks, an $20B market cap plus $2.4B open interest and RSI near 80 means the token is one liquidation cascade away from a mirror move down. BTC held $79K through the ZEC rip.",
+        "forWho": "crypto flow desks, altcoin traders, ETF issuers",
+        "tryIt": "https://www.coingecko.com/en/coins/zcash"
+      },
+      "image": {
+        "url": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/zcash-bug-discovered-binance-predictions-trillions-in-tokenized-equity-inflows-and-more--week-in-review_nwmk.png",
+        "alt": "Zcash (ZEC) logo on a market chart background",
+        "fit": "cover",
+        "credit": "Bitcoin.com News"
+      },
+      "links": [
+        {
+          "label": "Bitcoin.com — ZEC $1,200",
+          "url": "https://news.bitcoin.com/altcoins/zcash-breaches-1200-as-market-cap-hits-20-billion/"
+        },
+        {
+          "label": "CoinCentral — ZEC ATH",
+          "url": "https://coincentral.com/zcash-zec-price-privacy-coin-surges-20-to-all-time-high-as-grayscale-etf-hits-463m"
+        },
+        {
+          "label": "Blockonomi — ZEC ATH",
+          "url": "https://blockonomi.com/zcash-zec-soars-to-record-1225-peak-as-grayscale-etf-assets-reach-463m"
+        },
+        {
+          "label": "Crypto Times — Privacy Rally",
+          "url": "https://www.cryptotimes.io/2026/09/07/zec-leads-privacy-coin-rally-as-sector-surges-213/"
+        },
+        {
+          "label": "ZEC/USD chart",
+          "url": "https://www.coingecko.com/en/coins/zcash"
+        }
+      ],
+      "reddit": {
+        "title": "Zcash (ZEC) tops $1,200 Sunday, intraday high $1,249 — market cap $20B, +45% on the week as Grayscale's ZCSH ETF pulls $463M and $17.5M of shorts get vaporized",
+        "body": "Privacy coin Zcash just printed an eight-year high on Sunday Sept 6. This is the first live proof point that a US-listed spot ETF can move a small-cap privacy coin.\n\n* ZEC intraday high $1,249, holding above $1,200 into Monday\n* Market cap $20.4B — now the #9 crypto by market cap, displacing HYPE\n* Weekly gain 45%+, monthly gain ~100%\n* Grayscale's ZCSH ETF (launched Aug 25 on NYSE Arca) holds >400K ZEC / $463M AUM\n* 24h liquidations $24M — $17.5M from shorts, $6.5M from longs (a 269% short-side imbalance)\n\nWhy the tape ripped:\n\n1. **Spot-ETF creation bid** — ZCSH gives US allocators a regulated wrapper after years of centralized exchanges delisting ZEC over privacy concerns. Fresh creations force the sponsor to buy spot.\n2. **Short squeeze** — leveraged shorts got wiped as the ETF flows pushed price through resistance; the buy-to-cover cascade fed the parabolic.\n3. **DCG stack** — Digital Currency Group (Grayscale's parent) is in non-binding talks via a subsidiary to accumulate 200K ZEC, per multiple crypto-news reports.\n\nThe broader privacy sector is up 213% since Bitcoin's Oct 2025 peak, with ZEC leading. RSI near 80 and $2.4B open interest — one liquidation cascade away from a mirror move down.\n\nFull breakdown: [https://stock-tldr.xyz/releases/zcash-1200-record-sep-6-2026](https://stock-tldr.xyz/releases/zcash-1200-record-sep-6-2026)"
+      },
+      "publishDate": "2026-09-08T01:51:31.007Z"
+    },
+    {
+      "id": "blockstream-liquid-320m-drain-sep-6-2026",
+      "categories": [
+        "crypto",
+        "regulatory"
+      ],
+      "title": "Blockstream halts Liquid Network on Sun Sept 6 after ~4,000 BTC ($320M) drained from federation reserves — SideSwap Peg-Out Authorization Key implicated; USDT + DePix on Liquid unaffected",
+      "org": "Blockstream",
+      "date": "2026-09-06",
+      "url": "https://technode.global/2026/09/07/liquid-network-pauses-320m-bitcoin-withdrawal/",
+      "summary": "Blockstream paused its Bitcoin sidechain Liquid on Sunday Sept 6 after ~4,000 of the ~4,200 BTC in a federation wallet — about $320M — exited the reserves via a SideSwap Peg-Out Authorization Key exploit. Exchanges were told to suspend L-BTC deposits and withdrawals.",
+      "tickers": [
+        "BTC-USD"
+      ],
+      "tags": [
+        "blockstream",
+        "liquid-network",
+        "sidechain",
+        "peg-out",
+        "sideswap",
+        "federation",
+        "exploit",
+        "white-hat",
+        "l-btc",
+        "bitcoin"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BTC drained": "~4,000 BTC (of ~4,200 in the wallet)",
+        "USD value": "~$320M",
+        "Sidechain status": "Halted; bridge nodes disabled",
+        "L-BTC deposits/withdrawals": "Suspended across exchanges",
+        "Assets unaffected": "USDT, DePix on Liquid",
+        "PAK owner implicated": "SideSwap (federation member)"
+      },
+      "explainer": {
+        "tagline": "Bitcoin's oldest sidechain got emptied Sunday: 4,000 BTC left the federation wallet through a valid peg-out path Blockstream can't yet explain.",
+        "whatIsIt": "Liquid Network — the Blockstream-run federated Bitcoin sidechain — paused operations Sunday Sept 6 after roughly 4,000 of the ~4,200 BTC held in a federation wallet ($320M at spot) exited the reserves. The move flowed through a legitimate Peg-Out Authorization Key (PAK) tied to federation member SideSwap; the SideSwap PAK itself was not compromised, and Blockstream has not yet published a technical root-cause analysis. Actors behind the withdrawal have described themselves as 'white hat' and, in on-chain messages analyzed by security firm Thorn, proposed returning most of the BTC once Blockstream ships a patch and federation nodes install it.",
+        "howItWorks": "Liquid's peg mechanism has two gates: a valid PAK restricts withdrawals to authorized destinations, and the federation's functionaries separately sign transactions that release BTC on the Bitcoin main chain. In this incident the PAK check passed even though — per Blockstream's public statements — no PAK or federation signing key was stolen. That points to a software validation failure in the Elements codebase running under the peg-out logic. Blockstream disabled bridge nodes, told exchanges to suspend L-BTC deposits and withdrawals, and is coordinating with federation members on a patched restart. Non-BTC assets issued on Liquid — including Tether's USDT and DePix — are not directly affected.",
+        "whyItMatters": "Liquid has been the reference L2 for institutional Bitcoin custody flows since 2018 — this is the largest reserve exit in its history and the first time the sidechain has fully halted. For BTC L2 desks, the risk-parameter answer to 'can a federated peg fail even with clean keys' just changed. For OTC and prime brokers routing Bitcoin through Liquid for settlement (Bitfinex, BitMEX, and market-makers who peg in for cheap block space), inbound and outbound L-BTC is off until the patch clears. If the white-hat framing holds and the funds return, damage is contained; if not, Blockstream faces a $320M reserve shortfall against issued L-BTC.",
+        "forWho": "BTC L2 operators, prime brokers, sidechain risk desks",
+        "tryIt": "https://blockstream.info/liquid/"
+      },
+      "image": {
+        "url": "https://technode.global/wp-content/uploads/2026/09/liquid-network.jpeg",
+        "alt": "Blockstream Liquid Network logo on a dark background",
+        "fit": "cover",
+        "credit": "TechNode Global"
+      },
+      "links": [
+        {
+          "label": "TechNode — Liquid pauses",
+          "url": "https://technode.global/2026/09/07/liquid-network-pauses-320m-bitcoin-withdrawal/"
+        },
+        {
+          "label": "Coin Republic — sidechain halts",
+          "url": "https://www.thecoinrepublic.com/2026/09/07/bitcoin-news-liquid-network-drained-of-320m-as-sidechain-halts/"
+        },
+        {
+          "label": "ETHNews — exploit drains $320M",
+          "url": "https://ethnews.com/liquid-network-exploit-drains-320m-blockstream-halts-sidechain/"
+        },
+        {
+          "label": "Shattered.io — technical writeup",
+          "url": "https://shattered.io/liquid-network-320-million-hack-2026/"
+        },
+        {
+          "label": "Liquid block explorer",
+          "url": "https://blockstream.info/liquid/"
+        }
+      ],
+      "reddit": {
+        "title": "Blockstream halts Liquid Network after ~4,000 BTC ($320M) exits federation reserves through a valid Peg-Out Authorization Key — SideSwap PAK implicated but not stolen",
+        "body": "Bitcoin's oldest federated sidechain just got emptied. Blockstream paused Liquid on Sunday Sept 6 after ~4,000 of the ~4,200 BTC in a federation wallet moved out through a legitimate peg-out path Blockstream can't yet explain.\n\n* ~4,000 BTC (~$320M) drained from the federation wallet — largest reserve exit in Liquid's history\n* Withdrawal used a valid Peg-Out Authorization Key tied to federation member SideSwap\n* Neither the SideSwap PAK nor any federation signing key was stolen — points to a software validation bug in Elements\n* Bridge nodes disabled; exchanges told to suspend L-BTC deposits and withdrawals\n* USDT and DePix issued on Liquid are not directly affected\n\nWhat happens next:\n\n1. **Actor claims 'white hat'** — messages analyzed by Thorn say most of the BTC will be returned once Blockstream ships a patch and federation nodes install it. Not confirmed publicly.\n2. **No root-cause yet** — Blockstream directed the actor to its security contact and has not published a technical writeup as of Monday morning.\n3. **Bitfinex/BitMEX exposure** — Liquid is the reference L2 for institutional BTC custody and settlement flows. Prime brokers routing peg-ins for cheap block space have inbound + outbound L-BTC locked until the patched restart.\n\nIf the funds return, damage is contained. If not, Blockstream is looking at a $320M reserve shortfall against issued L-BTC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/blockstream-liquid-320m-drain-sep-6-2026](https://stock-tldr.xyz/releases/blockstream-liquid-320m-drain-sep-6-2026)"
+      },
+      "publishDate": "2026-09-08T01:51:31.007Z"
+    },
     {
       "id": "asia-ai-chip-rally-astra-tailwind-sep-7-2026",
       "categories": [
