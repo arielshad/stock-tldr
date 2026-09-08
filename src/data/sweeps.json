@@ -11451,6 +11451,43 @@
         "spot-etf",
         "privacy-coin"
       ]
+    },
+    {
+      "id": "sweep-20260908t154829z",
+      "timestamp": "2026-09-08T15:48:29.311Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Sept 8 additions: Novartis (NVS) -12.7% premarket after Phase III HARBOR of del-desiran misses primary endpoint in DM1 (third R&D setback in a week), and a Houthi missile-drone barrage on southern Saudi Arabia's Aramco facilities in Abha and Jazan pushes Brent to $99.16 and WTI to $94.13.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "novartis-del-desiran-harbor-fail-sep-8-2026",
+          "title": "Novartis (NVS) -12.7% premarket to $139.56 on Tuesday Sept 8 — Phase III HARBOR of del-desiran (from $12B Avidity buyout) misses primary vHOT endpoint in myotonic dystrophy type 1; third trial setback in a week",
+          "category": "mover",
+          "note": "Sept 8 morning HARBOR readout is the day-of catalyst; NVS on track for worst-ever session; third R&D setback in one week frames the pipeline stress."
+        },
+        {
+          "id": "houthi-saudi-aramco-strike-brent-99-sep-8-2026",
+          "title": "Brent Nov +2.2% to $99.16, WTI Oct +2.9% to $94.13 on Tuesday Sept 8 after Houthi missile-drone barrage wounds 73 in southern Saudi Arabia — Aramco facilities in Abha and Jazan on fire, operations halted at 'several' energy sites",
+          "category": "commodity",
+          "note": "Fresh overnight strike on Aramco with confirmed operational suspensions and 73 wounded; Brent within reach of $100 for the first time since July 23."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "regulatory",
+        "mna",
+        "crypto",
+        "rumor"
+      ]
     }
   ]
 }

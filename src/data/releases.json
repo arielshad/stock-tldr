@@ -1,8 +1,164 @@
 {
-  "generatedAt": "2026-09-08T01:51:31.007Z",
+  "generatedAt": "2026-09-08T15:48:29.311Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "novartis-del-desiran-harbor-fail-sep-8-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Novartis (NVS) -12.7% premarket to $139.56 on Tuesday Sept 8 — Phase III HARBOR of del-desiran (from $12B Avidity buyout) misses primary vHOT endpoint in myotonic dystrophy type 1; third trial setback in a week",
+      "org": "Novartis",
+      "date": "2026-09-08",
+      "url": "https://www.novartis.com/news/media-releases/novartis-provides-update-delpacibart-etedesiran-del-desiran-phase-iii-harbor-study-treatment-myotonic-dystrophy-type-1-dm1",
+      "summary": "Novartis' Phase III HARBOR study of delpacibart etedesiran (del-desiran) in myotonic dystrophy type 1 missed its primary endpoint of video hand opening time (vHOT). ~150 pts, dosed every 8 weeks for 54 weeks. NVS -12.7% to $139.56 premarket — third R&D setback in a week after pelacarsen and rap-cel.",
+      "tickers": [
+        "NVS"
+      ],
+      "metrics": {
+        "Move (premarket)": "-12.7% to $139.56",
+        "Primary endpoint": "vHOT — missed (no statistically significant improvement vs placebo)",
+        "Enrollment": "~150 people with DM1",
+        "Duration": "54 weeks",
+        "Dosing": "every 8 weeks",
+        "Avidity acquisition price": "$12B"
+      },
+      "importance": "major",
+      "tags": [
+        "biotech",
+        "clinical-trial-fail",
+        "phase-3",
+        "myotonic-dystrophy",
+        "dm1",
+        "del-desiran",
+        "delpacibart-etedesiran",
+        "harbor",
+        "avidity",
+        "aoc-platform",
+        "novartis-pipeline"
+      ],
+      "explainer": {
+        "tagline": "HARBOR misses primary endpoint — Novartis's flagship DM1 antibody-oligonucleotide conjugate can't beat placebo on hand-opening time.",
+        "whatIsIt": "Before the US open on Tuesday Sept 8, Novartis said the global Phase III HARBOR study of delpacibart etedesiran (del-desiran) did not meet its primary endpoint of video hand opening time (vHOT) in myotonic dystrophy type 1 (DM1). Del-desiran came to Novartis via its $12B acquisition of Avidity Biosciences and was the lead asset in the AOC (antibody-oligonucleotide conjugate) platform. The company said secondary endpoints and exploratory analyses showed 'evidence of clinical activity' and that the program is under review 'for appropriate development path.'",
+        "howItWorks": "HARBOR enrolled ~150 people with DM1 in a randomized, double-blind, placebo-controlled study. Dosing was every 8 weeks over 54 weeks; the primary endpoint was change in vHOT — a novel objective measure of hand myotonia. Safety was 'generally consistent' with prior data. Novartis flagged that its other AOC assets remain on track: del-zota has FDA priority review for accelerated approval in DMD44, and del-brax has a planned FDA meeting in FSHD.",
+        "whyItMatters": "NVS traded ~-12.7% to $139.56 in premarket — on track for its worst session on record — as del-desiran failure caps a week that also produced the pelacarsen Lp(a)HORIZON cardiovascular-outcomes miss on Sept 4 (jointly developed with Ionis/IONS) and the pause of eight rap-cel autoimmune CAR-T trials on Sept 1 after three patient deaths. Combined del-desiran + pelacarsen peak sales had been modeled at roughly $5B. Read-across risk to other neuromuscular AOC/ASO developers (Dyne, Sarepta) and to Ionis, which loses a partnered late-stage cardiovascular readout.",
+        "forWho": "biotech traders, DM1 clinical community, generalist pharma investors",
+        "tryIt": "https://finance.yahoo.com/quote/NVS/"
+      },
+      "image": {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/f0161a05-9638-4da5-a4af-f9cdb28f0304",
+        "alt": "Novartis logo — HARBOR Phase III of del-desiran misses primary endpoint in DM1",
+        "fit": "contain",
+        "credit": "Novartis / GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Novartis Press Release",
+          "url": "https://www.novartis.com/news/media-releases/novartis-provides-update-delpacibart-etedesiran-del-desiran-phase-iii-harbor-study-treatment-myotonic-dystrophy-type-1-dm1"
+        },
+        {
+          "label": "GlobeNewswire Wire",
+          "url": "https://www.globenewswire.com/news-release/2026/09/08/3357301/0/en/novartis-provides-update-on-delpacibart-etedesiran-del-desiran-phase-iii-harbor-study-for-the-treatment-of-myotonic-dystrophy-type-1-dm1.html"
+        },
+        {
+          "label": "STAT News Coverage",
+          "url": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/"
+        },
+        {
+          "label": "Pelacarsen Miss (Sept 4)",
+          "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-fails-lower-cardiovascular-risk-closely-watched-ph-3-trial"
+        },
+        {
+          "label": "NVS Quote",
+          "url": "https://finance.yahoo.com/quote/NVS/"
+        }
+      ],
+      "reddit": {
+        "title": "Novartis (NVS) -12.7% premarket to $139.56 — Phase III HARBOR of del-desiran misses primary endpoint in DM1, third trial setback in a week",
+        "body": "Novartis's flagship neuromuscular asset from its $12B Avidity acquisition just cratered. Before the Tuesday Sept 8 open, the company said Phase III HARBOR in myotonic dystrophy type 1 (DM1) failed its primary endpoint. NVS was on track for its worst session on record.\n\n* Primary endpoint: video hand opening time (vHOT) — missed, no stat-sig improvement vs placebo\n* Trial size: ~150 people with DM1, dosed every 8 weeks for 54 weeks\n* Secondary/exploratory endpoints: \"evidence of clinical activity,\" no specific numbers released\n* Stock: -12.7% to $139.56 premarket, biggest one-day drop in NVS's history\n* Combined del-desiran + pelacarsen peak-sales potential had been pegged near $5B\n\nWhy it's a bigger story than one trial:\n\n1. **Third setback in a week** — pelacarsen (Lp(a)HORIZON, cardiovascular outcomes) missed on Sept 4; eight rap-cel autoimmune CAR-T trials paused on Sept 1 after three patient deaths from IEC-HS.\n2. **The AOC platform** — del-desiran was the pipeline validator; del-zota (DMD44) and del-brax (FSHD) still advance, but the halo is dented.\n3. **Read-across** — negative for Dyne Therapeutics and Sarepta on neuromuscular precedent, and for Ionis (IONS) which loses a partnered pelacarsen catalyst.\n\nNext catalysts: del-zota FDA action in DMD44 (priority review), rap-cel safety root-cause update, Novartis pipeline day.\n\nFull breakdown: [https://stock-tldr.xyz/releases/novartis-del-desiran-harbor-fail-sep-8-2026](https://stock-tldr.xyz/releases/novartis-del-desiran-harbor-fail-sep-8-2026)"
+      },
+      "publishDate": "2026-09-08T15:48:29.311Z"
+    },
+    {
+      "id": "houthi-saudi-aramco-strike-brent-99-sep-8-2026",
+      "categories": [
+        "commodity",
+        "mover"
+      ],
+      "title": "Brent Nov +2.2% to $99.16, WTI Oct +2.9% to $94.13 on Tuesday Sept 8 after Houthi missile-drone barrage wounds 73 in southern Saudi Arabia — Aramco facilities in Abha and Jazan on fire, operations halted at 'several' energy sites",
+      "org": "Saudi Aramco",
+      "date": "2026-09-08",
+      "url": "https://www.nbcnews.com/world/middle-east/houthi-attacks-saudi-arabia-oil-yemen-iran-war-rcna596535",
+      "summary": "Iran-backed Houthis launched dozens of ballistic missiles and drones early Tuesday Sept 8 at Aramco facilities in Abha and Jazan, plus air bases in Najran and Khamis Mushait. Saudi Energy Ministry says operations were suspended at 'several' oil facilities. 73 civilians wounded. Brent Nov +2.2% to $99.16, WTI Oct +2.9% to $94.13.",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent (Nov)": "$99.16 (+2.2%)",
+        "WTI (Oct)": "$94.13 (+2.9%)",
+        "Wounded": "73 civilians",
+        "Facilities hit": "Aramco in Abha and Jazan, plus air bases in Najran and Khamis Mushait",
+        "Operations": "'Several' oil facilities and utilities suspended (Saudi Energy Ministry)"
+      },
+      "importance": "major",
+      "tags": [
+        "oil",
+        "brent",
+        "wti",
+        "geopolitics",
+        "middle-east",
+        "houthi",
+        "yemen",
+        "saudi-arabia",
+        "aramco",
+        "supply-shock",
+        "jazan-refinery"
+      ],
+      "explainer": {
+        "tagline": "Houthis hit Aramco with dozens of drones and ballistic missiles overnight — Brent flirts with $100 for the first time since July.",
+        "whatIsIt": "Before dawn on Tuesday Sept 8, Iran-aligned Houthi forces launched what the group's military spokesman Yahya Saree called a 'broad operation' of ballistic missiles and drones at Saudi targets. Aramco facilities in Abha and Jazan and King Khalid Air Base at Khamis Mushait were among the sites hit; the Saudi Ministry of Energy said operations were temporarily suspended at 'several' oil facilities and utilities in the southern region. Saudi Press Agency reported 73 civilians wounded.",
+        "howItWorks": "The strikes come after weeks of tit-for-tat US–Iran incidents in the Strait of Hormuz. Front-month Brent (November) rose 2.2% to $99.16 and WTI (October) rose 2.9% to $94.13. The southern region houses Aramco's 400k-bpd Jazan refinery — one of Saudi Arabia's largest — which had already been restart-delayed after prior attacks. Saudi military spokesman Turki al-Maliki called the strikes 'a clear violation of Saudi sovereignty' and warned of countermeasures. Houthi spokesman Saree said 'every aggression against our country and people will be met with a firm response.'",
+        "whyItMatters": "Every fresh strike on Aramco tightens the physical crude balance and adds to the risk premium that has been building since the Hormuz shutdown-and-reopen sequence in Q2. A Brent close above $100 would be the first since July 23 (when the Encelia/Layla tanker attack sent Brent to $101.10). Energy-sector ETFs (XLE, XOP) trade with the tape; airlines, packaged food, and consumer-discretionary names carry the fuel-cost drag. Fed-hike odds for the Sept 15–16 FOMC — already ~58% after the hot Aug NFP — get an additional nudge from the oil pass-through.",
+        "forWho": "energy desks, macro traders, geopolitics-focused allocators",
+        "tryIt": "https://finance.yahoo.com/quote/BZ=F/"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260908-yemen-rs-5259f9.jpg",
+        "alt": "Houthi missile-and-drone barrage on southern Saudi Arabia — Aramco facilities in Abha and Jazan hit on Tuesday Sept 8",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "NBC News Report",
+          "url": "https://www.nbcnews.com/world/middle-east/houthi-attacks-saudi-arabia-oil-yemen-iran-war-rcna596535"
+        },
+        {
+          "label": "Al Jazeera Recap",
+          "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next"
+        },
+        {
+          "label": "Fortune Oil Recap",
+          "url": "https://fortune.com/article/price-of-oil-09-08-2026/"
+        },
+        {
+          "label": "Brent Nov Chart",
+          "url": "https://finance.yahoo.com/quote/BZ=F/"
+        },
+        {
+          "label": "WTI Oct Chart",
+          "url": "https://finance.yahoo.com/quote/CL=F/"
+        }
+      ],
+      "reddit": {
+        "title": "Brent +2.2% to $99.16, WTI +2.9% to $94.13 — Houthis hit Aramco in Abha and Jazan overnight, 73 wounded, 'several' Saudi oil facilities suspend operations",
+        "body": "Iran-backed Houthis launched dozens of ballistic missiles and drones at southern Saudi Arabia before dawn on Tuesday Sept 8. Aramco facilities are on fire, oil is flirting with $100 for the first time since July, and Fed-hike odds keep climbing.\n\n* Aramco facilities hit: Abha and Jazan\n* Air bases hit: Najran and Khamis Mushait (including King Khalid Air Base)\n* Casualties: 73 civilians wounded per Saudi Press Agency\n* Saudi Energy Ministry: operations suspended at \"several\" oil facilities and utilities\n* Brent Nov: $99.16, +2.2%\n* WTI Oct: $94.13, +2.9%\n* Yahya Saree (Houthi mil spox): \"every aggression against our country and people will be met with a firm response\"\n* Turki al-Maliki (Saudi mil spox): \"a clear violation of Saudi sovereignty\"\n\nWhy this compounds:\n\n1. **Jazan already limping** — the 400k-bpd Jazan refinery had earlier restart delays from prior Houthi strikes.\n2. **Fed math gets harder** — Sept FOMC hike odds were already ~58% after the +162K August NFP; oil pass-through nudges them up.\n3. **Break the $100 seal** — Brent has traded above $100 only briefly this cycle (July 23 tanker attacks). A close above there flips the risk-premium framing.\n\nNext catalysts: Aramco damage assessment, US CENTCOM response, Fed Sept 15–16 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/houthi-saudi-aramco-strike-brent-99-sep-8-2026](https://stock-tldr.xyz/releases/houthi-saudi-aramco-strike-brent-99-sep-8-2026)"
+      },
+      "publishDate": "2026-09-08T15:48:29.311Z"
+    },
     {
       "id": "zcash-1200-record-sep-6-2026",
       "categories": [
