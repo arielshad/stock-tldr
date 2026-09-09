@@ -11523,6 +11523,47 @@
         "regulatory",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260909t153824z",
+      "timestamp": "2026-09-09T15:38:24.904Z",
+      "source": "github-actions-sweep",
+      "summary": "Three earnings adds from Tue Sept 8 close + Wed Sept 9 open: Casey's (CASY) big EPS beat but unchanged FY27 outlook takes shares -11% premarket; Signet (SIG) beat-and-raises FY27 EPS >10% and adds $125M ASR, +9% premarket; GameStop (GME) records Q2 operating income with collectibles +57% Y/Y and raises FY26 EBITDA guide.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "casy-q1-fy27-earnings-sep-8-2026",
+          "title": "Casey's General Stores (CASY) Q1 FY27 — EPS $7.37 (+28% Y/Y) beats $6.68 est on 47.8¢/gal fuel margin; FY27 outlook unchanged sends shares -11% premarket Wed Sept 9",
+          "category": "earnings",
+          "note": "Big EPS beat sold hard on unchanged FY27 outlook — clean mover story with -11% premarket."
+        },
+        {
+          "id": "sig-q2-fy27-earnings-sep-9-2026",
+          "title": "Signet Jewelers (SIG) Q2 FY27 — adj EPS $2.19 crushes $1.72 est, comps +2.2%; FY27 adj EPS guide raised >10% to $10.45–$12.15; shares +9% premarket Wed Sept 9",
+          "category": "earnings",
+          "note": "Beat-and-raise + $125M ASR + Bread Financial extension to 2035 = clean +9% specialty-retail pop."
+        },
+        {
+          "id": "gme-q2-fy26-earnings-sep-8-2026",
+          "title": "GameStop (GME) Q2 FY26 — record $160M op income, EPS $0.51 vs $0.31; collectibles +57% Y/Y to $356M; eBay stake $4.9B; FY26 adj EBITDA guide raised to >$650M",
+          "category": "earnings",
+          "note": "Record Q2 operating income, eBay stake now $4.9B, FY26 EBITDA guide raised."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "commodity",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }
