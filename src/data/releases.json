@@ -1,8 +1,160 @@
 {
-  "generatedAt": "2026-09-08T15:48:29.311Z",
+  "generatedAt": "2026-09-09T02:02:18.468Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "qcom-amzn-aws-ai-partnership-sep-8-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Qualcomm (QCOM) +3.17% close to $174.09 (intraday +10%) on Tuesday Sept 8 — multi-generational Amazon AWS custom AI-inference silicon + optical-connectivity deal doubles down on $15B FY29 data-center revenue target",
+      "org": "Qualcomm",
+      "date": "2026-09-08",
+      "url": "https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html",
+      "summary": "Qualcomm and AWS strike a multi-generational partnership on customized AI-inference silicon and optical connectivity up to 1.6T. QCOM jumped nearly 10% intraday before closing +3.17% at $174.09 (market cap $185.9B).",
+      "tags": [
+        "semis",
+        "ai-chips",
+        "data-center",
+        "ai-inference",
+        "aws",
+        "amazon",
+        "qualcomm",
+        "custom-silicon",
+        "optical-connectivity",
+        "bedrock",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "QCOM",
+        "AMZN",
+        "NVDA"
+      ],
+      "metrics": {
+        "Close": "$174.09 (+3.17%)",
+        "Intraday high": "~+10%",
+        "Market cap": "$185.9B",
+        "FY29 DC revenue target": "$15B",
+        "Optical connectivity": "up to 1.6T"
+      },
+      "explainer": {
+        "tagline": "Qualcomm-AWS strike multi-generational custom-silicon + optical-connectivity partnership; QCOM +3.17% at $174.09 close, up nearly 10% intraday.",
+        "whatIsIt": "Qualcomm and Amazon Web Services announced a multi-generational product collaboration on customized silicon and advanced optical connectivity for AI data-center infrastructure. The two firms will jointly design chips tuned for AI inference workloads and interconnects extending up to 1.6T. Qualcomm will also deepen its use of AWS AI infrastructure, including Amazon Bedrock, for its own electronic-design-automation workflows to shorten chip design cycles.",
+        "howItWorks": "The announcement covers 'multiple generations' of custom silicon — no specific product SKUs, deal size or exclusivity period were disclosed. Qualcomm's June-announced Dragonfly C1000 data-center CPU and its stated $15B FY29 data-center revenue target frame the fit. Bank of America projects the data-center CPU market grows from $27B in 2025 to $60B by 2030. QCOM opened up nearly 10% and closed +3.17% at $174.09; market cap ~$185.9B.",
+        "whyItMatters": "This is Qualcomm's biggest push yet into the AI data-center chip market that Nvidia currently dominates. It also validates Amazon's willingness to source silicon beyond its own Trainium/Inferentia line and Nvidia GPUs — sending a signal to Broadcom, Marvell and MediaTek that AWS is expanding its custom-silicon vendor list. Reaction was mixed elsewhere in AI: NVDA held roughly flat while software names sold off on the same day on GPT-6 Astra disruption fears.",
+        "forWho": "AI-infrastructure and semis-desk traders",
+        "tryIt": "https://finance.yahoo.com/quote/QCOM/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1887034/Qualcomm_Logo.jpg?id=OA2934402&p=facebook",
+        "alt": "Qualcomm corporate logo",
+        "fit": "contain",
+        "credit": "Qualcomm / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "Qualcomm PR",
+          "url": "https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/QCOM/qualcomm-announces-multi-generational-product-collaboration-with-r10nzgxe989j.html"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/qualcomm-amazon-custom-ai-chips-data-center-090826"
+        },
+        {
+          "label": "HotHardware Deep Dive",
+          "url": "https://hothardware.com/news/qualcomm-strikes-deal-amazon-custom-ai-data-center-chips"
+        },
+        {
+          "label": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/international/2026/09/08/qualcomm-teams-with-aws-on-ai-chips-taking-on-nvidia"
+        },
+        {
+          "label": "QCOM Quote",
+          "url": "https://finance.yahoo.com/quote/QCOM/"
+        }
+      ],
+      "reddit": {
+        "title": "QCOM +3.17% close to $174.09 (nearly +10% intraday) on multi-generational Amazon AWS custom AI-chip deal",
+        "body": "Qualcomm and Amazon Web Services announced a multi-generational partnership on custom AI-inference silicon plus optical connectivity for AWS data centers on Tuesday Sept 8.\n\n* QCOM +3.17% close to $174.09; market cap $185.9B\n* Intraday high jumped nearly 10% right after the pre-market announcement\n* Optical connectivity extends up to 1.6T using QCOM SerDes + optical-DSP tech\n* Qualcomm will use AWS + Amazon Bedrock for its own EDA / chip-design workloads\n* Frames Qualcomm's stated $15B FY29 data-center revenue target\n\nWhy it matters:\n\n1. **Qualcomm's biggest push into AI data-center** — Amazon becomes the anchor customer for QCOM's Dragonfly C1000 CPU family (announced June) and future generations, all outside the Nvidia moat.\n2. **AWS diversifies beyond its own Trainium / Inferentia + NVDA GPUs** — signals that AVGO, MRVL, MediaTek and QCOM all have room in the AWS custom-silicon supply chain.\n3. **Software vs semis divergence continues** — same day CRM -4%, NOW -5%, INTU -4% on GPT-6 Astra fears while semis rallied.\n\nNext catalysts: Qualcomm Investor Day follow-up disclosures on data-center pipeline, AWS re:Invent 2026 in early December.\n\nFull breakdown: [https://stock-tldr.xyz/releases/qcom-amzn-aws-ai-partnership-sep-8-2026](https://stock-tldr.xyz/releases/qcom-amzn-aws-ai-partnership-sep-8-2026)"
+      },
+      "publishDate": "2026-09-09T02:02:18.468Z"
+    },
+    {
+      "id": "syk-supply-chain-wells-fargo-sep-8-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Stryker (SYK) -8.81% close to $276.43 on Tuesday Sept 8 — CFO Preston Wells at Wells Fargo Healthcare Conference extends peripheral-vascular supply drag into Q4, 70–80bp growth headwind through year-end; 2026 organic-growth guide 8.3–9.3% kept",
+      "org": "Stryker Corporation",
+      "date": "2026-09-08",
+      "url": "https://www.marketscreener.com/news/stryker-stock-declines-as-manufacturing-issues-continue-ce785bd8d188f120",
+      "summary": "Stryker CFO Preston Wells at Wells Fargo Healthcare Conference on Sept 8 says peripheral-vascular supply constraints and hips softness now extend into Q4 vs prior Q3-resolution guide, with a 70–80bp growth drag each quarter. Stock -8.81% to $276.43; 2026 guide held.",
+      "tags": [
+        "medtech",
+        "supply-chain",
+        "peripheral-vascular",
+        "orthopedics",
+        "hips",
+        "cyber-incident",
+        "wells-fargo-healthcare-conference",
+        "guide-extension",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SYK"
+      ],
+      "metrics": {
+        "Close": "$276.43 (-8.81%)",
+        "Market cap": "$106.0B",
+        "YTD change": "-21.4%",
+        "PV growth drag": "70–80bp per quarter (Q2–Q4)",
+        "2026 organic growth guide": "8.3–9.3% (kept)"
+      },
+      "explainer": {
+        "tagline": "Stryker CFO extends peripheral-vascular supply drag into Q4; stock -8.81% at $276.43 close on Wells Fargo conference remarks.",
+        "whatIsIt": "At the Wells Fargo Healthcare Conference on Tuesday Sept 8, Stryker CFO Preston Wells said manufacturing issues in the company's peripheral-vascular business — the lingering effect of an earlier cyber incident — will now stretch into Q4 rather than resolve in Q3 as previously guided. Wells added that hip-replacement demand this summer came in below expectations and the company is looking to a September pickup. SYK closed -8.81% at $276.43, wiping ~$10B in market cap.",
+        "howItWorks": "Wells characterized the supply constraint as 'not allowing us to reach a full supply of inventory at all of our customers and quite frankly, not allowing us to go out and really win new business.' The peripheral-vascular drag is estimated at 70–80bp of growth per quarter across Q2, Q3 and now Q4. Despite the extension, Stryker kept its FY2026 organic-growth guide at 8.3%–9.3%. Peer medtechs traded lower in sympathy — Boston Scientific and Zimmer Biomet weaker on the day.",
+        "whyItMatters": "SYK is one of the largest US medtechs at ~$106B market cap; when it warns on supply, it drags the entire ortho/vascular complex. The extension of a drag that was supposed to be behind the company sets up a second-half 2026 growth wall that the current guide leaves little margin for. Watch October 29 Q3 earnings for updated guide and any color on the cyber-incident recovery trajectory.",
+        "forWho": "medtech + large-cap healthcare desks",
+        "tryIt": "https://finance.yahoo.com/quote/SYK/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Stryker_Corporation_logo.svg",
+        "alt": "Stryker Corporation logo",
+        "fit": "contain",
+        "credit": "Stryker Corporation / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "MarketScreener Recap",
+          "url": "https://www.marketscreener.com/news/stryker-stock-declines-as-manufacturing-issues-continue-ce785bd8d188f120"
+        },
+        {
+          "label": "Stryker IR (Conference)",
+          "url": "https://investors.stryker.com/press-releases/news-details/2026/Schedule-update-Stryker-to-participate-in-the-2026-Wells-Fargo-Healthcare-Conference/default.aspx"
+        },
+        {
+          "label": "StockTitan (SYK Conference)",
+          "url": "https://www.stocktitan.net/news/SYK/stryker-to-participate-in-the-2026-wells-fargo-healthcare-fx0ow8v6rqex.html"
+        },
+        {
+          "label": "SYK Quote",
+          "url": "https://finance.yahoo.com/quote/SYK/"
+        }
+      ],
+      "reddit": {
+        "title": "SYK -8.81% to $276.43 (~$10B market cap wiped) after CFO extends peripheral-vascular supply drag into Q4 at Wells Fargo Healthcare",
+        "body": "Stryker CFO Preston Wells took the stage at the Wells Fargo Healthcare Conference on Tuesday Sept 8 and told investors the supply problems everyone thought were a Q3 issue are now a Q4 issue too.\n\n* SYK -8.81% close to $276.43; ~$10B in market cap gone\n* Peripheral-vascular growth drag: 70–80bp per quarter across Q2, Q3 and now Q4\n* Hips came in soft this summer — recovery pushed to September\n* Legacy cyber-incident from earlier in the year still gumming up inventory\n* Full-year 2026 organic-growth guide kept at 8.3–9.3%\n\nWhat happened:\n\n1. **The one-quarter problem became a three-quarter problem** — SYK previously guided PV supply issues resolved in Q3; now Q4 too, so any \"clean\" 2027 setup is pushed out.\n2. **Guide held on paper, but with less cushion** — 8.3–9.3% organic-growth guide unchanged even with three quarters of 70–80bp drag; puts more pressure on Q4 execution to stick the landing.\n3. **Sector sympathy trade** — Boston Scientific and Zimmer Biomet also traded lower on the read-through, but the drag is SYK-specific.\n\nNext catalysts: Q3 FY26 earnings expected around Oct 29 — first hard read on whether Q4 guide still holds.\n\nFull breakdown: [https://stock-tldr.xyz/releases/syk-supply-chain-wells-fargo-sep-8-2026](https://stock-tldr.xyz/releases/syk-supply-chain-wells-fargo-sep-8-2026)"
+      },
+      "publishDate": "2026-09-09T02:02:18.468Z"
+    },
     {
       "id": "novartis-del-desiran-harbor-fail-sep-8-2026",
       "categories": [

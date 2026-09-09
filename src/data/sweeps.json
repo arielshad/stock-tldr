@@ -11488,6 +11488,41 @@
         "crypto",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260909t020218z",
+      "timestamp": "2026-09-09T02:02:18.468Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Sept 8 US market movers not yet in the feed: Qualcomm-Amazon AWS multi-generational custom AI-chip + optical-connectivity partnership (QCOM +3.17% close, ~+10% intraday) and Stryker's -8.81% slide after the CFO extended peripheral-vascular supply drag into Q4 at Wells Fargo Healthcare Conference.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "qcom-amzn-aws-ai-partnership-sep-8-2026",
+          "title": "Qualcomm (QCOM) +3.17% close to $174.09 (intraday +10%) on Tuesday Sept 8 — multi-generational Amazon AWS custom AI-inference silicon + optical-connectivity deal doubles down on $15B FY29 data-center revenue target",
+          "category": "mover",
+          "note": "Major new partnership between QCOM and AWS on custom AI silicon and optical connectivity; stock reacted strongly and framing sets up QCOM's $15B FY29 data-center target."
+        },
+        {
+          "id": "syk-supply-chain-wells-fargo-sep-8-2026",
+          "title": "Stryker (SYK) -8.81% close to $276.43 on Tuesday Sept 8 — CFO Preston Wells at Wells Fargo Healthcare Conference extends peripheral-vascular supply drag into Q4, 70–80bp growth headwind through year-end; 2026 organic-growth guide 8.3–9.3% kept",
+          "category": "mover",
+          "note": "SYK -8.81% single-name mover with named CFO catalyst extending supply-chain guide from Q3 into Q4; ~$10B market-cap hit."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "earnings",
+        "mna",
+        "macro",
+        "regulatory",
+        "crypto"
+      ]
     }
   ]
 }
