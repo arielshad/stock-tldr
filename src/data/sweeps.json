@@ -11564,6 +11564,52 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260910t020230z",
+      "timestamp": "2026-09-10T02:02:30.856Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 10 sweep: Apple debuts iPhone Duo foldable + iPhone 18 Pro under new CEO John Ternus, Chewy Q2 raises FY26 guide but stock -10.83% on FCF miss, IRT-Centerspace announce $8.1B multifamily REIT merger, and Trump signs 5 Section 338 proclamations banning Canadian alcohol/dairy/motorcycles from US import.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "aapl-iphone-duo-foldable-launch-sep-9-2026",
+          "title": "Apple (AAPL) unveils iPhone Duo foldable at $1,999–$3,199 and iPhone 18 Pro on Wed Sept 9 — first product event under new CEO John Ternus; stock closes -0.28% at $315.34 on muted margin-pressure reaction",
+          "category": "mover",
+          "note": "First Apple product event under new CEO John Ternus with foldable iPhone Duo debut at $1,999–$3,199; historic form-factor change with wall-of-coverage even though AAPL closed just -0.28%."
+        },
+        {
+          "id": "chwy-q2-fy26-earnings-sep-9-2026",
+          "title": "Chewy (CHWY) Q2 FY26 — net sales $3.33B (+7.3% Y/Y), adj EPS $0.36 in-line; FY26 revenue guide raised to $13.46–$13.57B; stock -10.83% to $20.75 on FCF miss",
+          "category": "earnings",
+          "note": "Chewy Q2 FY26 beat and raised FY26 revenue guide to $13.46–$13.57B but $89.5M FCF disappointed a crowded setup — CHWY -10.83% clears the mover bar and the earnings bar."
+        },
+        {
+          "id": "irt-centerspace-merger-sep-9-2026",
+          "title": "Independence Realty Trust (IRT) to buy Centerspace (CSR) in $2.14B all-stock deal at 14.7% premium — $8.1B EV creates 44,354-unit multifamily REIT; targeted close end of Q4 2026",
+          "category": "mna",
+          "note": "Real multifamily REIT M&A announced Wednesday: $2.14B equity / $8.1B combined EV at a 14.7% CSR premium, creating a 44,354-unit apartment REIT."
+        },
+        {
+          "id": "trump-canada-import-ban-sep-8-2026",
+          "title": "Trump signs 5 Section 338 proclamations Tuesday Sept 8 banning Canadian alcohol, dairy and motorcycles from US import effective Sept 29 — direct response to Canada's dollar-for-dollar retaliation",
+          "category": "macro",
+          "note": "Full import bans on Canadian alcohol/dairy/motorcycles under Section 338 are a distinct escalation from the Aug 22/24 tariff items already in the feed — primary WH proclamations plus tier-1 coverage."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "sector"
+      ]
     }
   ]
 }
