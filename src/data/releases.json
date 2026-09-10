@@ -1,8 +1,291 @@
 {
-  "generatedAt": "2026-09-10T02:02:30.856Z",
+  "generatedAt": "2026-09-10T15:37:51.373Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-ppi-august-2026-sep-10",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 PPI +0.4% MoM matches est, +5.4% Y/Y hot vs +5.3% est — diesel +24.1% drives goods rip; sets up CPI Fri Sept 11 into Sept 15–16 FOMC",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-09-10",
+      "url": "https://www.bls.gov/news.release/archives/ppi_09102026.htm",
+      "summary": "BLS reports Final Demand PPI +0.4% MoM (matches Dow Jones consensus) and +5.4% Y/Y (vs +5.3% est) for August 2026; core +0.3% MoM / +4.7% Y/Y — both slightly hotter than expected as diesel surged 24.1%.",
+      "tags": [
+        "ppi",
+        "inflation",
+        "macro",
+        "bls",
+        "august-2026",
+        "diesel",
+        "goods-inflation",
+        "fomc-preview",
+        "cpi-preview"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "PPI MoM": "+0.4% (matches +0.4% est)",
+        "PPI Y/Y": "+5.4% vs +5.3% est",
+        "Core PPI MoM": "+0.3% (matches est)",
+        "Core PPI Y/Y": "+4.7% vs +4.6% est",
+        "Final demand goods MoM": "+1.1%",
+        "Final demand energy MoM": "+4.2%",
+        "Diesel MoM": "+24.1%",
+        "Final demand services MoM": "+0.1%"
+      },
+      "explainer": {
+        "tagline": "Hot August PPI — headline matches est but Y/Y ticks up as diesel jumps 24.1%; keeps Fed hike bet alive into next week's decision.",
+        "whatIsIt": "The Bureau of Labor Statistics released the August 2026 Producer Price Index Thursday Sept 10 at 8:30 AM ET. Final Demand PPI rose 0.4% MoM seasonally adjusted, matching the Dow Jones consensus of +0.4%. On a Y/Y unadjusted basis, PPI printed +5.4% vs +5.3% estimated — the highest annual pace since early 2026 and up from +4.7% in July.",
+        "howItWorks": "Prices for Final Demand goods jumped 1.1% MoM, driven overwhelmingly by energy (+4.2%); the BLS release states over one-third of the goods increase traced to diesel fuel prices, which jumped 24.1% in August. Final Demand services rose only 0.1% MoM, softening the mix. Core PPI (ex food, energy, trade services) rose 0.3% MoM and 4.7% Y/Y, both a tenth above the +0.3%/+4.6% consensus.",
+        "whyItMatters": "The print keeps the September 15–16 FOMC contest tight between a hold and a 25bp hike after Chair Warsh's hawkish Jackson Hole framing. 10Y Treasury yields were already at 4.845% Wednesday — the highest since November 2023. August CPI drops Friday Sept 11 (Dow Jones consensus +0.4% MoM / +3.4% Y/Y); a matching or hotter CPI print materially raises hike odds. Diesel's 24.1% jump also feeds into equity trucking/logistics and food-processing cost pressure.",
+        "forWho": "macro traders, rates desks, Fed-watchers",
+        "tryIt": "https://www.bls.gov/news.release/archives/ppi_09102026.htm"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "Bureau of Labor Statistics official emblem on the August 2026 PPI release page",
+        "fit": "contain",
+        "credit": "U.S. Bureau of Labor Statistics"
+      },
+      "links": [
+        {
+          "label": "BLS PPI Release",
+          "url": "https://www.bls.gov/news.release/archives/ppi_09102026.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html"
+        },
+        {
+          "label": "10Y Yield Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+        }
+      ],
+      "reddit": {
+        "title": "August PPI +0.4% MoM matches est, +5.4% Y/Y beats +5.3% est — diesel +24.1% drives goods rip; hike odds hold ahead of CPI Fri and FOMC next Tues–Wed",
+        "body": "BLS released August 2026 PPI Thursday morning. Headline matched consensus, but the details and Y/Y are hot.\n\n* Final Demand PPI +0.4% MoM (matches +0.4% Dow Jones est)\n* PPI Y/Y +5.4% vs +5.3% est — up from +4.7% in July\n* Core PPI (ex food/energy/trade) +0.3% MoM, +4.7% Y/Y vs +4.6% est\n* Final Demand goods +1.1% MoM; energy +4.2%; diesel +24.1% (one-third of goods increase)\n* Final Demand services only +0.1% MoM\n\nWhy it matters:\n\n1. **Fed contest tightens** — Warsh's Jackson Hole framing plus a divided July FOMC vote had already lifted Sept-hike odds. Matched MoM keeps the tape from spiking; hot Y/Y and hot core stop dovish momentum.\n2. **Diesel is the real story** — a 24.1% jump reflects Brent breaking $100 Wednesday. Fuel-cost pass-through hits logistics, trucking, food-processing margins next.\n3. **10Y already at 4.845%** — highest since Nov 2023. Bond market is not waiting.\n\nNext catalysts: August CPI Fri Sept 11 (est +0.4% MoM / +3.4% Y/Y), FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ppi-august-2026-sep-10](https://stock-tldr.xyz/releases/us-ppi-august-2026-sep-10)"
+      },
+      "publishDate": "2026-09-10T15:37:51.373Z"
+    },
+    {
+      "id": "meta-muse-ai-agent-launch-sep-9-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Meta (META) +6.55% close $653.69 Wed Sept 9 on Muse personal AI agent launch — first mega-cap consumer AI agent in US iOS/Android; volume 98% above 3-mo avg",
+      "org": "Meta Platforms",
+      "date": "2026-09-09",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "summary": "Meta unveiled Muse, a personal AI agent that autonomously books travel, shops, and fills out forms across a user's apps; the US rollout on iOS/Android drove META shares +6.55% Wednesday Sept 9 to $653.69 on 35.2M shares (98% above avg).",
+      "tags": [
+        "ai-agent",
+        "consumer-ai",
+        "product-launch",
+        "meta",
+        "muse",
+        "mega-cap",
+        "muse-spark",
+        "big-tech"
+      ],
+      "importance": "major",
+      "tickers": [
+        "META"
+      ],
+      "metrics": {
+        "Move": "+6.55% to $653.69",
+        "Volume": "35.2M shares (~98% above 3-mo avg)",
+        "Pricing": "Free tier + subscription plans",
+        "Model": "Muse Spark"
+      },
+      "explainer": {
+        "tagline": "Meta ships Muse — a personal AI agent that shops, books and files across your apps — and META gaps 6.5% on the biggest single-session move in months.",
+        "whatIsIt": "Meta Platforms launched Muse, its consumer-facing personal AI agent, in the US on Tuesday Sept 8 across iOS, Android, and muse.ai, with AI glasses support coming. Powered by Meta's new Muse Spark model, Muse executes multi-step tasks — buying tickets, scheduling appointments, filling forms, filing purchases — on a user's behalf across their apps, including WhatsApp. Meta positions it as its first product built explicitly around agentic action rather than chat.",
+        "howItWorks": "Muse runs on a dedicated Muse Secure VM with its own browser and credential isolation; a separate Sentinel agent approves each internet-bound action so the primary agent cannot exfiltrate credentials. Meta says Muse is free for most use with paid subscription plans for heavier workloads; a Link payments integration handles purchases with dispute protection. Meta explicitly commits that Muse conversations and VM data will not feed Meta's ad systems.",
+        "whyItMatters": "This is the first true mega-cap consumer agent shipping in the US, ahead of anything Google or Apple has released. Morgan Stanley reportedly framed the AI-agent market as potentially $30T long-term. META closed +6.55% at $653.69 Wednesday on 35.2M shares vs a 3-month average near 17.8M — the strongest single-session move in months. Meta separately disclosed it will book a ~$10B legal-provision charge in Q3 2026 tied to the state-AG social-media settlement, but the tape ignored that.",
+        "forWho": "mega-cap tech investors, AI-thematic funds",
+        "tryIt": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/"
+      },
+      "image": {
+        "url": "https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare.jpg?w=1200",
+        "alt": "Meta Muse personal AI agent social-share card announcing the US launch on iOS and Android",
+        "fit": "cover",
+        "credit": "Meta Platforms"
+      },
+      "links": [
+        {
+          "label": "Meta Announcement",
+          "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/"
+        },
+        {
+          "label": "Semafor Coverage",
+          "url": "https://www.semafor.com/article/09/09/2026/meta-launches-muse-ai-assistant"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-today-sept-9-meta-surges-over-6-5-on-muse-ai-agent-launch/"
+        },
+        {
+          "label": "META Chart",
+          "url": "https://finance.yahoo.com/quote/META/"
+        }
+      ],
+      "reddit": {
+        "title": "META +6.55% to $653.69 Wed Sept 9 on Muse personal AI agent launch — first mega-cap consumer agent in US, 35M shares (~2x avg)",
+        "body": "Meta shipped Muse Tuesday Sept 8 — a personal AI agent that actually does the tasks (books flights, buys tickets, schedules, fills forms) across your apps, not just chat. Tape reaction was aggressive.\n\n* META closed +6.55% at $653.69 Wednesday Sept 9\n* Volume 35.2M shares — ~98% above the 3-month average\n* Free tier + paid subscription; US launch on iOS, Android, muse.ai\n* Powered by Muse Spark, Meta's new agentic model\n* Runs in a Muse Secure VM with a separate Sentinel agent gating every internet action\n\nThree things worth flagging:\n\n1. **First mega-cap consumer agent in the US market** — Google Gemini and Apple Intelligence haven't shipped anything comparable at this scale. Morgan Stanley reportedly framed the addressable agent market as $30T long-term.\n2. **No ad-integration for Muse data** — Meta explicitly said conversations and VM data won't feed ad systems. That matters for enterprise/prosumer adoption.\n3. **Meta also disclosed a ~$10B Q3 legal charge** for the state-AG teen-social settlement in the same window. Tape ignored it.\n\nNext catalysts: user-count disclosures, Q3 earnings late-October.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-muse-ai-agent-launch-sep-9-2026](https://stock-tldr.xyz/releases/meta-muse-ai-agent-launch-sep-9-2026)"
+      },
+      "publishDate": "2026-09-10T15:37:51.373Z"
+    },
+    {
+      "id": "coo-q3-fy26-earnings-sep-9-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CooperCompanies (COO) Q3 FY26 — revenue $1.066B (+1% Y/Y) misses $1.1B est, non-GAAP EPS $1.15 (+4%); FY26 guide cut to $4.51–$4.55 vs $4.63 est; strategic review keeps CooperSurgical; stock -14.4% Thurs to $54.46",
+      "org": "CooperCompanies",
+      "date": "2026-09-09",
+      "url": "https://www.biospace.com/press-releases/coopercompanies-announces-third-quarter-2026-results",
+      "summary": "CooperCompanies posted Q3 FY26 revenue $1.066B (+1% Y/Y, missing $1.1B est) and non-GAAP EPS $1.15 (+4%); FY26 EPS guide cut to $4.51–$4.55 vs $4.63 est; board completes strategic review keeping CooperSurgical and lifts buyback authorization to $3B. Stock -14.4% Thursday to $54.46.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "guide-cut",
+        "medical-devices",
+        "contact-lens",
+        "buyback",
+        "strategic-review",
+        "q3-fy26"
+      ],
+      "importance": "major",
+      "tickers": [
+        "COO"
+      ],
+      "metrics": {
+        "Revenue": "$1.066B (+1% Y/Y) miss vs $1.1B est",
+        "Non-GAAP EPS": "$1.15 (+4% Y/Y)",
+        "GAAP EPS": "$2.24 (incl. $307.2M UK tax benefit)",
+        "FY26 EPS guide": "$4.51–$4.55 vs $4.63 est",
+        "FY26 Revenue guide": "$4.229–$4.252B vs $4.31B est",
+        "Buyback authorization": "raised to $3B from $2B",
+        "Move": "-14.4% intraday Thurs to $54.46"
+      },
+      "explainer": {
+        "tagline": "COO tumbles ~14% Thursday after Q3 revenue miss, cut FY26 guide and a strategic review that keeps CooperSurgical after bids came in light.",
+        "whatIsIt": "CooperCompanies (COO) — the contact-lens and women's-health medical-device maker — reported fiscal third-quarter 2026 results (period ended Jul 31) after Wednesday Sept 9's close. Revenue was $1.066B, up 1% Y/Y (1% organic), missing the $1.1B analyst estimate. Non-GAAP diluted EPS rose 4% to $1.15; GAAP EPS was $2.24 lifted by a $307.2M discrete UK tax benefit.",
+        "howItWorks": "CooperVision came in flat at $717M (-2% Americas, +5% EMEA, -5% Asia-Pacific) as US channel-inventory reductions weighed; CooperSurgical grew 3% organic to $349.2M, led by fertility +5%. Management guided FY26 non-GAAP EPS to $4.51–$4.55 (below the $4.63 consensus) and revenue to $4.229–$4.252B (vs $4.31B est). The board completed the CooperSurgical strategic review and elected to retain the segment — offers received were 'not in shareholders' best interest.' Buyback authorization was raised from $2B to $3B, with $1.5B still available.",
+        "whyItMatters": "The Thursday tape treated the print as a growth-reset for a medical-device compounder: shares opened at $63.48 and traded down to $54.46 by mid-morning, -14.4% intraday, on a combo of revenue miss, guide cut, and lost strategic-review optionality. CEO Al White signaled US CV channel destocking will continue into Q4 (guided -2% to 0% organic), so the derating question is whether this is a one-quarter inventory air-pocket or a structural share loss to Alcon and J&J Vision. Watch AlCon/JNJV for read-through into the CooperVision U.S. optical channel.",
+        "forWho": "med-tech / staples-growth investors",
+        "tryIt": "https://www.biospace.com/press-releases/coopercompanies-announces-third-quarter-2026-results"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/10a4810f-301c-4d8c-851d-dd09334d10d5",
+        "alt": "CooperCompanies logo accompanying the Q3 fiscal 2026 earnings and strategic-review press release",
+        "fit": "contain",
+        "credit": "CooperCompanies / GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "COO Press Release",
+          "url": "https://www.biospace.com/press-releases/coopercompanies-announces-third-quarter-2026-results"
+        },
+        {
+          "label": "Strategic Review Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/09/3359073/2200/en/coopercompanies-completes-strategic-review-increases-share-repurchase-authorization.html"
+        },
+        {
+          "label": "8-K Filing (EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000711404/000162828026061155/coo-20260909.htm"
+        },
+        {
+          "label": "COO Chart",
+          "url": "https://finance.yahoo.com/quote/COO/"
+        }
+      ],
+      "reddit": {
+        "title": "CooperCompanies (COO) -14.4% Thursday to $54.46 after Q3 revenue miss, FY26 EPS guide cut to $4.51-$4.55 vs $4.63 est, and strategic review keeps CooperSurgical",
+        "body": "COO printed Q3 FY26 after Wednesday's close. Revenue and guide both light, and the strategic review — which had been a bull-case optionality lever — ended with the company keeping CooperSurgical.\n\n* Revenue $1.066B (+1% Y/Y, +1% organic) vs $1.1B est — miss\n* Non-GAAP EPS $1.15 (+4% Y/Y); GAAP EPS $2.24 (boosted by a $307.2M UK tax benefit)\n* FY26 non-GAAP EPS guided $4.51–$4.55 vs $4.63 consensus — cut\n* FY26 revenue guide $4.229–$4.252B vs $4.31B est — cut\n* Buyback authorization raised $2B → $3B, $1.5B remaining\n\nDrivers:\n\n1. **CooperVision destocking in the US** — segment was flat at $717M with Americas -2% organic on channel inventory reduction. Guided Q4 CV -2% to 0% organic — continues into Q4.\n2. **Strategic review disappoints** — board completed the CooperSurgical process and kept it, saying offers weren't in shareholders' interest. Removes the sum-of-the-parts optionality that had propped the multiple.\n3. **Fertility bright spot** — CooperSurgical +3% organic, with fertility +5%.\n\nStock opened at $63.48 Thursday, trading $54.46 by ~11 AM ET, -14.4% intraday.\n\nNext catalysts: read-across to Alcon (ALC), J&J Vision (JNJ) contact-lens updates; COO Q4 print early Dec.\n\nFull breakdown: [https://stock-tldr.xyz/releases/coo-q3-fy26-earnings-sep-9-2026](https://stock-tldr.xyz/releases/coo-q3-fy26-earnings-sep-9-2026)"
+      },
+      "publishDate": "2026-09-10T15:37:51.373Z"
+    },
+    {
+      "id": "mrvl-fy28-outlook-raise-sep-9-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Marvell (MRVL) +4.26% close $235.01 Wed Sept 9 — CEO Matt Murphy raises FY27 revenue outlook to ~$12B (from $10B) and FY28 to ~$18B (from $13.5B); data-center >$15B in FY28",
+      "org": "Marvell Technology",
+      "date": "2026-09-09",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-ceo-matt-murphy-says-133537609.html",
+      "summary": "Marvell CEO Matt Murphy told CNBC on Tue Sept 8 the AI-silicon and connectivity maker now expects FY27 revenue ~$12B (from ~$10B guided in Dec) and FY28 ~$18B (from ~$13.5B), with FY28 data-center >$15B; MRVL closed +4.26% at $235.01 Wed Sept 9.",
+      "tags": [
+        "ai-capex",
+        "semis",
+        "custom-silicon",
+        "data-center",
+        "hyperscaler",
+        "revenue-guide-raise",
+        "connectivity",
+        "marvell"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MRVL"
+      ],
+      "metrics": {
+        "Move": "+4.26% to $235.01",
+        "FY27 outlook": "~$12B (from ~$10B in Dec)",
+        "FY28 outlook": "~$18B (from ~$13.5B)",
+        "Two-year revenue outlook": "$30B (from $23.5B)",
+        "FY28 data-center revenue": ">$15B (vs ~$2B in 2023)"
+      },
+      "explainer": {
+        "tagline": "Marvell's CEO lifts the 2-year revenue outlook by $6.5B — the third raise since December — as AI-custom-silicon and optics customer list swells to all four US mega-cloud names.",
+        "whatIsIt": "In a Tuesday Sept 8 CNBC interview, Marvell Chairman/CEO Matt Murphy raised the company's medium-term revenue targets. Marvell now expects roughly $12B in FY27 revenue (from ~$10B guided in December) and roughly $18B in FY28 (from ~$13.5B). That takes the combined two-year revenue outlook to $30B from $23.5B — the third time Marvell has upsized its outlook since Dec 2025.",
+        "howItWorks": "Murphy said Marvell now works with all four US mega-cloud customers on custom-silicon programs — AWS, Azure, Google, and Meta — and framed the company as the 'Switzerland of AI' data-center silicon. Data-center revenue is expected to top $15B in FY28 vs roughly $2B in 2023, driven by custom AI accelerators, PAM-4 electro-optics, and coherent DSPs. The updated outlook does not include any updated GAAP earnings framework; it's a top-line ambition tied to hyperscaler capex.",
+        "whyItMatters": "The raise cements Marvell alongside Broadcom in the custom-AI-silicon narrative and increases pressure on Nvidia's data-center TAM assumptions. MRVL closed +4.26% at $235.01 Wednesday; despite the raise the stock still sits ~28% below its 2026 high, reflecting how much of the AI-capex bull case is already priced. Read-through: Broadcom (AVGO), Astera Labs (ALAB), Credo (CRDO) on optical/coherent; TSMC as the fabricator for the custom parts.",
+        "forWho": "semi/AI-capex investors, hyperscaler-supply-chain traders",
+        "tryIt": "https://finance.yahoo.com/quote/MRVL/"
+      },
+      "image": {
+        "url": "https://www.marvell.com/content/dam/marvell/en/company/images/marvell-essential-technology-done-right-logo-white.jpg",
+        "alt": "Marvell Technology corporate logo — 'Essential technology, done right' branding used on the newsroom",
+        "fit": "contain",
+        "credit": "Marvell Technology"
+      },
+      "links": [
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-ceo-matt-murphy-says-133537609.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/tech/26/09/61678811/marvell-calls-itself-the-switzerland-of-ai-and-says-it-works-with-everybody"
+        },
+        {
+          "label": "Motley Fool Context",
+          "url": "https://www.fool.com/investing/2026/09/09/marvell-has-raised-its-growth-outlook-3-times-since-december-the-stock-still-sits-28-below-its-high/"
+        },
+        {
+          "label": "MRVL Chart",
+          "url": "https://finance.yahoo.com/quote/MRVL/"
+        }
+      ],
+      "reddit": {
+        "title": "Marvell (MRVL) +4.26% Wed Sept 9 to $235.01 — CEO Matt Murphy raises FY27 revenue to ~$12B (from $10B) and FY28 to ~$18B (from $13.5B); data-center FY28 >$15B",
+        "body": "Marvell CEO Matt Murphy went on CNBC Tuesday Sept 8 and materially raised the medium-term revenue outlook. Third raise since December.\n\n* FY27 revenue outlook: ~$12B (was ~$10B in Dec)\n* FY28 revenue outlook: ~$18B (was ~$13.5B)\n* Two-year revenue outlook: $30B — up from $23.5B\n* FY28 data-center revenue expected >$15B (vs ~$2B in 2023)\n* Custom-silicon customer list now includes all four US mega-cloud names\n\nWhy the tape moved:\n\n1. **All-four hyperscalers** — Marvell has custom-silicon programs with AWS, Azure, Google, and Meta. Murphy called the company 'the Switzerland of AI' — no side.\n2. **Optics + coherent DSP compounding** — PAM-4, coherent optics for interconnect are the second leg alongside custom accelerators.\n3. **Still 28% below 2026 high** — the raise moved the stock only +4.26% because a lot of AI-capex bull case is already in the price.\n\nRead-through: AVGO (comparable custom-AI biz), ALAB and CRDO (optics/retimers), TSMC (fab).\n\nNext catalysts: Q3 FY27 print in early December.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrvl-fy28-outlook-raise-sep-9-2026](https://stock-tldr.xyz/releases/mrvl-fy28-outlook-raise-sep-9-2026)"
+      },
+      "publishDate": "2026-09-10T15:37:51.373Z"
+    },
     {
       "id": "aapl-iphone-duo-foldable-launch-sep-9-2026",
       "categories": [

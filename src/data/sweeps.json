@@ -11610,6 +11610,54 @@
         "mna",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260910t153751z",
+      "timestamp": "2026-09-10T15:37:51.373Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds spanning macro (August PPI hot on diesel), a mega-cap product-launch mover (META +6.55% on Muse AI agent), a med-tech earnings miss (COO -14.4% on revenue miss + FY26 guide cut + kept-CooperSurgical outcome) and a semi/AI-capex outlook raise (MRVL +4.26% as CEO takes FY28 revenue to ~$18B).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-ppi-august-2026-sep-10",
+          "title": "US August 2026 PPI +0.4% MoM matches est, +5.4% Y/Y hot vs +5.3% est — diesel +24.1% drives goods rip; sets up CPI Fri Sept 11 into Sept 15–16 FOMC",
+          "category": "macro",
+          "note": "August PPI released today at 8:30 AM ET — matched MoM but Y/Y hotter than est, keeps Sept 15–16 FOMC contest live into Fri CPI."
+        },
+        {
+          "id": "meta-muse-ai-agent-launch-sep-9-2026",
+          "title": "Meta (META) +6.55% close $653.69 Wed Sept 9 on Muse personal AI agent launch — first mega-cap consumer AI agent in US iOS/Android; volume 98% above 3-mo avg",
+          "category": "mover",
+          "note": "Meta launched first mega-cap consumer AI agent (Muse) in the US on Sept 8; META closed +6.55% Wed Sept 9 on 98%-above-avg volume — clear mega-cap mover with named catalyst."
+        },
+        {
+          "id": "coo-q3-fy26-earnings-sep-9-2026",
+          "title": "CooperCompanies (COO) Q3 FY26 — revenue $1.066B (+1% Y/Y) misses $1.1B est, non-GAAP EPS $1.15 (+4%); FY26 guide cut to $4.51–$4.55 vs $4.63 est; strategic review keeps CooperSurgical; stock -14.4% Thurs to $54.46",
+          "category": "earnings",
+          "note": "COO printed Q3 AH Wed Sept 9 with a revenue miss + FY26 EPS guide cut + strategic review keeping CooperSurgical; stock -14.4% Thurs to $54.46."
+        },
+        {
+          "id": "mrvl-fy28-outlook-raise-sep-9-2026",
+          "title": "Marvell (MRVL) +4.26% close $235.01 Wed Sept 9 — CEO Matt Murphy raises FY27 revenue outlook to ~$12B (from $10B) and FY28 to ~$18B (from $13.5B); data-center >$15B in FY28",
+          "category": "mover",
+          "note": "Marvell CEO Murphy lifted 2-year revenue outlook by $6.5B on CNBC (Sept 8), MRVL +4.26% Wed Sept 9 — third raise since December, all four US mega-clouds now customers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "earnings",
+        "commodity",
+        "crypto",
+        "mna",
+        "fed"
+      ]
     }
   ]
 }
