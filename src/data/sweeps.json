@@ -11658,6 +11658,47 @@
         "mna",
         "fed"
       ]
+    },
+    {
+      "id": "sweep-20260911t015408z",
+      "timestamp": "2026-09-11T01:54:08.503Z",
+      "source": "github-actions-sweep",
+      "summary": "Adds three items from Thursday Sept 10: Oracle's blockbuster Q1 FY27 (RPO $664B, +$209B Y/Y; cloud infra +121%; FY27 revenue guide raised to ≥$90B), Adobe's Q3 beat paired with the surprise announcement that Anil Chakravarthy replaces Shantanu Narayen as CEO Dec 1, and Saudi Arabia's August output collapse to 6.238 mbd — the lowest since 1990 — which pushed Brent above $105 and the US 10-year yield to a two-year high of 4.90% ahead of Fri Sept 11 CPI and the Sept 15–16 FOMC.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "orcl-q1-fy27-earnings-sep-10-2026",
+          "title": "Oracle (ORCL) Q1 FY27 — cloud infra +121% to $7.4B, RPO $664B (+$209B Y/Y); FY27 revenue guide raised to at least $90B; stock +4.34% AH after -5.38% session",
+          "category": "earnings",
+          "note": "Largest RPO print in enterprise-software history ($664B, +$209B Y/Y) with $30B in new AI cloud contracts in Q1 and FY27 guide raised to ≥$90B revenue."
+        },
+        {
+          "id": "adbe-chakravarthy-ceo-q3-fy26-sep-10-2026",
+          "title": "Adobe (ADBE) Q3 FY26 — revenue $6.76B (+13%) beats, AI-first ARR $650M+ (+150%); Anil Chakravarthy takes CEO from Shantanu Narayen effective Dec 1; stock -2.14% AH to $243.50",
+          "category": "earnings",
+          "note": "Same-day double: Q3 beat with AI-first ARR $650M (+150% Y/Y) AND surprise CEO transition — Chakravarthy replaces 18-year CEO Narayen Dec 1."
+        },
+        {
+          "id": "saudi-august-output-lowest-since-1990-sep-10-2026",
+          "title": "Saudi Arabia tells OPEC August crude output fell to 6.238 mbd — lowest since 1990 (-1.9 mbd MoM); Brent Nov +3.9% to $105.16, WTI Oct +4.31% to $100.16 on Thu Sept 10",
+          "category": "commodity",
+          "note": "Physical Saudi supply shock of ~1.9 mbd (-23% MoM) — lowest reported output since Gulf War 1990 — drove Brent to $105 and 10Y yield to 4.90% (highest since Oct 2023)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "insider",
+        "commodity",
+        "macro",
+        "rates"
+      ]
     }
   ]
 }

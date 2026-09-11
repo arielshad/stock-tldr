@@ -1,8 +1,230 @@
 {
-  "generatedAt": "2026-09-10T15:37:51.373Z",
+  "generatedAt": "2026-09-11T01:54:08.503Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "orcl-q1-fy27-earnings-sep-10-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Oracle (ORCL) Q1 FY27 — cloud infra +121% to $7.4B, RPO $664B (+$209B Y/Y); FY27 revenue guide raised to at least $90B; stock +4.34% AH after -5.38% session",
+      "org": "Oracle",
+      "date": "2026-09-10",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx",
+      "summary": "ORCL posts non-GAAP EPS $1.92 vs $1.73 est on $19.3B revenue (+30% Y/Y). Cloud infra $7.4B (+121%), $30B in new AI cloud contracts booked in Q1; RPO $664B smashes $630.6B consensus. FY27 guide lifted to ≥$90B rev, $8.10 EPS.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "cloud",
+        "ai-capex",
+        "rpo",
+        "oci",
+        "q1-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ORCL",
+        "NVDA",
+        "AMD"
+      ],
+      "metrics": {
+        "EPS (non-GAAP)": "$1.92 vs $1.73 est (+11%)",
+        "Revenue": "$19.3B (+30% Y/Y) vs $19.14B est",
+        "Cloud infra rev": "$7.4B (+121% Y/Y)",
+        "RPO": "$664B vs $630.6B est (+$209B Y/Y)",
+        "New AI cloud contracts Q1": "$30B+",
+        "FY27 revenue guide": "≥$90B (+34% cc)",
+        "FY27 EPS guide": "$8.10 (+18%)",
+        "Move": "+4.34% AH (session -5.38%)"
+      },
+      "links": [
+        {
+          "label": "Oracle IR release",
+          "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx"
+        },
+        {
+          "label": "PRNewswire",
+          "url": "https://www.prnewswire.com/news-releases/oracle-announces-q1-results-driven-by-triple-digit-growth-in-cloud-infrastructure-revenues-302875728.html"
+        },
+        {
+          "label": "Stocktitan recap",
+          "url": "https://www.stocktitan.net/news/ORCL/oracle-announces-q1-results-driven-by-triple-digit-growth-in-cloud-7cg5jv2m06nk.html"
+        },
+        {
+          "label": "ORCL quote",
+          "url": "https://finance.yahoo.com/quote/ORCL/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Oracle's Q1 FY27 lands the biggest RPO print in enterprise software history and raises FY27 revenue guide to at least $90B.",
+        "whatIsIt": "Oracle reported fiscal Q1 2027 after the bell Thursday Sept 10. Total revenue $19.3B (+30% Y/Y) and non-GAAP EPS $1.92 both beat, but the number that matters is remaining performance obligations (RPO): $664B, up $209B year-over-year and $26B sequentially, blowing past the $630.6B StreetAccount consensus.",
+        "howItWorks": "Cloud infrastructure revenue was $7.4B (+121% Y/Y), with CPU/GPU infra alone at $6.5B (+151%). Multi-cloud database revenue +353%. Oracle booked more than $30B in additional AI cloud contracts during the quarter, and management raised FY27 targets to at least $90B in revenue (+34% constant currency) and $8.10 non-GAAP EPS. Capex guided at $90–95B FY27, with GPU utilization at 97.9% and 850 MW of data-center capacity added in Q1.",
+        "whyItMatters": "RPO effectively signs the demand curve for the AI infra buildout: a $209B Y/Y jump implies enterprise buyers are locking in Oracle capacity years out. Reads through to NVDA/AMD/AVGO demand and to hyperscaler capex debates. Shares traded down 5.38% during the regular session (index weakness on oil/yields) but rebounded 4.34% after hours to $159.58.",
+        "forWho": "AI-infra and cloud allocators",
+        "tryIt": "https://finance.yahoo.com/quote/ORCL/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA2938339",
+        "alt": "Oracle corporate logo",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "Oracle Q1: RPO jumps $209B Y/Y to $664B — biggest backlog print ever, FY27 revenue guide raised to $90B+, cloud infra +121%",
+        "body": "ORCL just dropped what may be the single most consequential AI-infra data point of the cycle. After-hours +4.34% (session was -5.38%).\n\n* Revenue $19.3B (+30% Y/Y) vs $19.14B est\n* Non-GAAP EPS $1.92 vs $1.73 est (+11%)\n* Cloud infra rev $7.4B (+121% Y/Y); CPU/GPU infra $6.5B (+151%)\n* RPO $664B — up $209B Y/Y, up $26B Q/Q, vs $630.6B consensus\n* $30B+ in new AI cloud contracts booked in Q1 alone\n* FY27 guide raised: revenue ≥$90B (+34% cc), EPS $8.10\n* FY27 capex guided $90–95B; GPU utilization 97.9%; 850 MW added in Q1\n\nWhy it matters:\n\n1. **RPO = demand curve for AI compute** — $209B YoY jump means customers are locking in Oracle capacity years out, not just kicking tires.\n2. **Reads across to NVDA/AMD/AVGO** — Oracle is a top-3 buyer of AI accelerators; $30B in Q1 contracts implies GPU orders don't slow into 2027.\n3. **Hyperscaler capex debate settled for now** — if Oracle is guiding $90–95B capex on FY27 revenue of $90B, this is a full commitment to buildout.\n\nNext catalysts: CPI Fri Sept 11 AM, FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/orcl-q1-fy27-earnings-sep-10-2026](https://stock-tldr.xyz/releases/orcl-q1-fy27-earnings-sep-10-2026)"
+      },
+      "publishDate": "2026-09-11T01:54:08.503Z"
+    },
+    {
+      "id": "adbe-chakravarthy-ceo-q3-fy26-sep-10-2026",
+      "categories": [
+        "earnings",
+        "insider"
+      ],
+      "title": "Adobe (ADBE) Q3 FY26 — revenue $6.76B (+13%) beats, AI-first ARR $650M+ (+150%); Anil Chakravarthy takes CEO from Shantanu Narayen effective Dec 1; stock -2.14% AH to $243.50",
+      "org": "Adobe",
+      "date": "2026-09-10",
+      "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo",
+      "summary": "Adobe posts record Q3 revenue $6.76B (+13% Y/Y), non-GAAP EPS $6.13 vs $6.08 est, AI-first ending ARR $650M+ (+150% Y/Y) and raises FY26 guide. Board names Anil Chakravarthy CEO Dec 1; Shantanu Narayen becomes executive chair after 18 years as CEO.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "ceo-transition",
+        "ai-arr",
+        "creative-cloud",
+        "q3-fy26",
+        "agentic"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ADBE"
+      ],
+      "metrics": {
+        "Revenue": "$6.76B (+13% Y/Y) vs $6.69B est",
+        "EPS (non-GAAP)": "$6.13 vs $6.08 est",
+        "AI-first ending ARR": "$650M+ (+150% Y/Y)",
+        "Total ARR": "$27.5B (+11.2% Y/Y)",
+        "FY26 revenue guide (raised)": "$26.576–$26.626B",
+        "FY26 EPS guide (raised)": "$24.45–$24.50",
+        "Q4 revenue guide": "$6.80–$6.85B",
+        "New CEO effective": "Dec 1, 2026",
+        "Move": "-2.14% AH to $243.50 (session -2.37%)"
+      },
+      "links": [
+        {
+          "label": "CEO transition PR",
+          "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo"
+        },
+        {
+          "label": "Q3 8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000796343/000079634326000147/adbeex991q326.htm"
+        },
+        {
+          "label": "Yahoo coverage",
+          "url": "https://finance.yahoo.com/technology/articles/adobe-announces-anil-chakravarthy-become-201500677.html"
+        },
+        {
+          "label": "ADBE quote",
+          "url": "https://finance.yahoo.com/quote/ADBE/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Adobe beats and raises on AI ARR blowout, but the bigger news is Anil Chakravarthy replacing Shantanu Narayen as CEO Dec 1.",
+        "whatIsIt": "Adobe reported record Q3 FY26 after the bell Thursday Sept 10 and, in a rare double-header, announced that Anil Chakravarthy — currently president of Customer Experience Orchestration and worldwide field operations — will become president and CEO effective December 1, 2026. Shantanu Narayen, CEO since 2007, transitions to executive chair.",
+        "howItWorks": "Q3 revenue $6.76B (+13% Y/Y) beat $6.69B est, non-GAAP EPS $6.13 vs $6.08 est, total ARR $27.5B (+11.2%). AI-first ending ARR crossed $650M — up more than 150% Y/Y. Management raised FY26 guide to $26.576–$26.626B revenue and $24.45–$24.50 non-GAAP EPS, and Q4 revenue guide $6.80–$6.85B. Chakravarthy previously ran Adobe's Digital Experience business and joined Adobe in 2020 from CEO of Informatica.",
+        "whyItMatters": "The CEO transition frames Adobe's next chapter around 'agentic software' — Chakravarthy's stated priority — which is where the market is punishing pure creative-tool valuations. AI ARR of $650M is real but still <3% of the $27.5B total ARR, and shares fell 2.14% after hours to $243.50 as investors weighed the beat against slower RPO growth and freemium-monetization uncertainty. Reads through to Figma / Canva / midjourney competitive dynamics and to who inherits Narayen's SaaS playbook.",
+        "forWho": "software allocators, SaaS multiples watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ADBE/"
+      },
+      "image": {
+        "url": "https://news.adobe.com/news/2026/09/media_1c82548aa127fcde4032bb951cafa40918b26b5e2.jpg?width=1200",
+        "alt": "Adobe headshots of incoming CEO Anil Chakravarthy and outgoing CEO Shantanu Narayen",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Adobe beat + raises, AI ARR $650M (+150% Y/Y) — Shantanu Narayen out as CEO after 18 years, Anil Chakravarthy in Dec 1; stock -2.14% AH",
+        "body": "Adobe dropped a double announcement Thursday after the close: solid Q3 beat *and* a CEO change.\n\n* Q3 revenue $6.76B (+13% Y/Y) vs $6.69B est\n* Non-GAAP EPS $6.13 vs $6.08 est\n* Total ARR $27.5B (+11.2% Y/Y)\n* AI-first ending ARR $650M+ — up over 150% Y/Y\n* FY26 guide raised: revenue $26.576–$26.626B, non-GAAP EPS $24.45–$24.50\n* Q4 revenue guide $6.80–$6.85B\n\nCEO transition:\n\n1. **Anil Chakravarthy becomes President and CEO Dec 1, 2026** — currently runs Customer Experience Orchestration and worldwide field ops; ex-CEO of Informatica.\n2. **Shantanu Narayen becomes executive chair** — CEO since 2007 (18 years); ran the shift from packaged software to Creative Cloud subscriptions.\n3. **Chakravarthy's mandate: 'agentic software'** — where the market is skeptical Adobe can pivot fast enough vs Figma/Canva/midjourney.\n\nStock reaction: -2.37% regular session, another -2.14% AH to $243.50 — investors weighing the beat against slower RPO growth and freemium monetization uncertainty.\n\nNext catalysts: CPI Fri Sept 11, FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/adbe-chakravarthy-ceo-q3-fy26-sep-10-2026](https://stock-tldr.xyz/releases/adbe-chakravarthy-ceo-q3-fy26-sep-10-2026)"
+      },
+      "publishDate": "2026-09-11T01:54:08.503Z"
+    },
+    {
+      "id": "saudi-august-output-lowest-since-1990-sep-10-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "Saudi Arabia tells OPEC August crude output fell to 6.238 mbd — lowest since 1990 (-1.9 mbd MoM); Brent Nov +3.9% to $105.16, WTI Oct +4.31% to $100.16 on Thu Sept 10",
+      "org": "Saudi Aramco",
+      "date": "2026-09-10",
+      "url": "https://finance.yahoo.com/energy/articles/saudi-arabia-crude-output-falls-125456513.html",
+      "summary": "Riyadh notified OPEC that August production dropped 1.9 mbd MoM to 6.238 mbd — the lowest since the Gulf War in 1990. Renewed US–Iran hostilities and Houthi strikes on Red Sea shipping choke export routes, pushing Brent above $105 and WTI back to $100.",
+      "tags": [
+        "opec",
+        "saudi-aramco",
+        "oil",
+        "brent",
+        "wti",
+        "supply-shock",
+        "iran-hormuz",
+        "houthi",
+        "gulf-war",
+        "energy-inflation"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "metrics": {
+        "Saudi Aug output": "6.238 mbd (lowest since 1990)",
+        "MoM change": "-1.9 mbd (~-23%)",
+        "Brent (Nov) settle": "$105.16 (+3.90%)",
+        "WTI (Oct) settle": "$100.16 (+4.31%)",
+        "US 10Y yield": "4.902% (highest since Oct 2023)",
+        "US 30Y yield": "5.339%"
+      },
+      "links": [
+        {
+          "label": "Yahoo report",
+          "url": "https://finance.yahoo.com/energy/articles/saudi-arabia-crude-output-falls-125456513.html"
+        },
+        {
+          "label": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/09/saudi-arabias-oil-production-slumps-lowest-36-years-war-bites"
+        },
+        {
+          "label": "Seoul Econ (10Y+Brent)",
+          "url": "https://en.sedaily.com/international/2026/09/10/brent-tops-105-as-us-10-year-yield-jumps-to-49-percent"
+        },
+        {
+          "label": "Brent chart",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ],
+      "explainer": {
+        "tagline": "Saudi August production plunges 1.9 mbd MoM to 6.238 mbd — the lowest since 1990 — as US–Iran war chokes export routes; Brent settles $105.",
+        "whatIsIt": "Saudi Arabia notified OPEC's secretariat that its August 2026 crude production fell 1.9 million barrels per day to 6.238 mbd — its lowest reported figure since 1990, before the first Gulf War. Al-Monitor put exports at ~3.1 mbd, the weakest since at least 2013. The kingdom cited renewed US–Iran hostilities and continuing Houthi strikes on Red Sea shipping and southern-Saudi energy sites.",
+        "howItWorks": "The drop is real, not policy: OPEC+ held quotas at September levels on Sept 6 and Saudi Arabia's official target still sits well above 6.2 mbd. On Thursday Sept 10, Brent for November delivery settled +3.90% at $105.16 and WTI for October +4.31% at $100.16 — both first prints back at those levels since May. Rising oil combined with a disappointing Treasury buyback ($6B vs $8–10B expected) pushed the US 10-year yield to 4.902% — the highest close since October 2023 — and the 30-year to 5.339%.",
+        "whyItMatters": "A physical supply loss of ~1.9 mbd from the world's largest swing producer is a structural shock, not a headline scare — spare-capacity math gets very tight into Q4 with the SPR at multi-decade lows. Reads through to XLE / OIH / refiners on the long side, and to transportation, chemicals and rate-sensitives on the short. The rate rip on the long end (10Y at 4.9%) sets a hostile setup for equities into next week's Sept 15–16 FOMC and Fri Sept 11 CPI.",
+        "forWho": "energy desks, macro traders, rates",
+        "tryIt": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Saudi_aramco_logo.svg/1280px-Saudi_aramco_logo.svg.png",
+        "alt": "Saudi Aramco corporate logo",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "Saudi Aug crude output collapses to 6.238 mbd — lowest since 1990 (Gulf War); Brent settles $105, WTI $100, 10Y yield hits 4.90%",
+        "body": "Saudi Arabia notified OPEC on Thursday that its August crude production plunged 1.9 million barrels a day to 6.238 mbd — the lowest figure the kingdom has reported since 1990.\n\n* Saudi Aug output: 6.238 mbd (vs ~8.1 mbd in July, ~-23% MoM)\n* Exports ~3.1 mbd — weakest since at least 2013\n* Brent (Nov) settled +3.90% to $105.16\n* WTI (Oct) settled +4.31% to $100.16\n* US 10Y yield 4.902% — highest since October 2023\n* US 30Y yield 5.339%\n\nDrivers stacked:\n\n1. **US–Iran war chokes export routes** — Riyadh explicitly cited renewed hostilities as the reason for the output drop, not a policy cut.\n2. **Houthi strikes on Saudi energy sites and Red Sea shipping** continue after last week's attack on Aramco facilities in Abha and Jazan.\n3. **Treasury buyback disappointed** — Bessent announced $6B vs $8–10B expected, adding to the yield spike on top of oil-driven inflation fear.\n\nSpare-capacity math is now very tight into Q4 with SPR at multi-decade lows.\n\nNext catalysts: CPI Fri Sept 11 AM, FOMC Sept 15–16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/saudi-august-output-lowest-since-1990-sep-10-2026](https://stock-tldr.xyz/releases/saudi-august-output-lowest-since-1990-sep-10-2026)"
+      },
+      "publishDate": "2026-09-11T01:54:08.503Z"
+    },
     {
       "id": "us-ppi-august-2026-sep-10",
       "categories": [
