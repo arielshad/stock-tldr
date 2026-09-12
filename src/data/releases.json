@@ -1,8 +1,371 @@
 {
-  "generatedAt": "2026-09-11T01:54:08.503Z",
+  "generatedAt": "2026-09-12T02:00:29.020Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-cpi-aug-2026-sep-11",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 CPI +0.4% M/M / +3.4% Y/Y (vs +3.3% est) hot; core +0.3% M/M / +2.4% Y/Y — Fed Sept-hike odds jump ~70% → ~90%, S&P +0.86% to 7,656.98 on oil relief",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-09-11",
+      "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+      "summary": "Aug CPI +0.4% M/M / +3.4% Y/Y (est +0.3% / +3.3%), core +0.3% M/M / +2.4% Y/Y. Gasoline +3.9% M/M (+27.4% Y/Y). Fed Sept-hike odds jump 70%→90%. S&P +0.86%, 10Y at 4.94%.",
+      "tags": [
+        "cpi",
+        "inflation",
+        "macro",
+        "fomc",
+        "rate-hike",
+        "energy",
+        "gasoline",
+        "warsh",
+        "aug-2026"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Headline CPI (M/M)": "+0.4% vs +0.3% est",
+        "Headline CPI (Y/Y)": "+3.4% vs +3.3% est",
+        "Core CPI (M/M)": "+0.3%",
+        "Core CPI (Y/Y)": "+2.4%",
+        "Gasoline (M/M)": "+3.9%",
+        "Gasoline (Y/Y)": "+27.4%",
+        "Energy (Y/Y)": "+16.3%",
+        "Shelter (Y/Y)": "+3.0%",
+        "Sep FOMC hike odds": "~90% (from ~70%)",
+        "S&P 500": "7,656.98 (+0.86%)",
+        "10Y yield": "4.94%"
+      },
+      "explainer": {
+        "tagline": "Hot Aug CPI +0.4% M/M pushes Sept FOMC hike odds to ~90% — but S&P rallies as oil eases off geopolitical highs.",
+        "whatIsIt": "The BLS's August 2026 CPI print, released Fri Sept 11 at 8:30am ET, came in hotter than consensus. Headline rose +0.4% M/M / +3.4% Y/Y (vs +0.3% / +3.3% est); core rose +0.3% M/M / +2.4% Y/Y. Gasoline drove over a third of the monthly increase.",
+        "howItWorks": "Headline gasoline +3.9% M/M and +27.4% Y/Y kept energy contributing +16.3% Y/Y as Iran-conflict supply shocks feed the pipeline. Shelter cooled to +3.0% Y/Y and motor vehicle insurance eased -0.8% M/M. Core acceleration to +0.3% M/M signals broadening pressure beyond energy.",
+        "whyItMatters": "Print lands into Sept 15–16 FOMC. CME FedWatch odds of a 25bp hike jumped from ~70% Thursday (post-PPI) to ~90% Friday. EY-Parthenon flipped from hold to hike call. S&P 500 still rallied +0.86% to 7,656.98 as Brent -~2% + oversold bounce dominated tape — but 10Y closed 4.94% and 2Y at 4.63% as curve prices the hike.",
+        "forWho": "Macro traders, rates desks, everyone positioned for Sept FOMC.",
+        "tryIt": "https://www.bls.gov/news.release/archives/cpi_09112026.htm"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "US Bureau of Labor Statistics emblem",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "BLS Aug 2026 CPI Release",
+          "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm"
+        },
+        {
+          "label": "CBS: Sept Hike All But Guaranteed",
+          "url": "https://www.cbsnews.com/news/fed-rate-hike-september-likelihood-cpi/"
+        },
+        {
+          "label": "Northeastern News: Sept FOMC",
+          "url": "https://news.northeastern.edu/2026/09/11/fomc-september-interest-rates/"
+        },
+        {
+          "label": "^GSPC Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "^TNX 10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "US Aug CPI +0.4% M/M / +3.4% Y/Y hot — Sept FOMC hike odds jump 70% → 90%, but S&P still rips +0.9% on oil relief",
+        "body": "August 2026 CPI came in hotter than expected and now a September rate HIKE is the base case:\n\n* Headline CPI +0.4% M/M / +3.4% Y/Y — vs +0.3% / +3.3% est\n* Core CPI +0.3% M/M / +2.4% Y/Y — broadening beyond energy\n* Gasoline +3.9% M/M / +27.4% Y/Y — over a third of the monthly headline gain\n* Shelter cooled to +3.0% Y/Y; motor vehicle insurance -0.8% M/M\n\nMarket reaction was split:\n\n1. **Rates repriced hawkish** — CME FedWatch odds of a 25bp hike at Sept 15–16 FOMC jumped from ~70% Thursday to ~90% Friday. 10Y closed 4.94%, 2Y at 4.63%. EY-Parthenon flipped its call from hold to hike.\n2. **Stocks rallied anyway** — S&P +0.86% to 7,656.98, Nasdaq +0.96% to 26,333, Dow +0.98% to 52,573 as Brent oil -~2% and 4-day losing streak snapped.\n3. **Warsh-Fed drum beat** — Chair Warsh's Jackson Hole line \"prices are too high\" now looks prescient; energy shock from Iran conflict keeps feeding CPI.\n\nNext catalysts: Sept 15–16 FOMC decision + dot plot.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-cpi-aug-2026-sep-11](https://stock-tldr.xyz/releases/us-cpi-aug-2026-sep-11)"
+      },
+      "publishDate": "2026-09-12T02:00:29.020Z"
+    },
+    {
+      "id": "ecb-sep-2026-25bp-hike",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "ECB raises deposit rate 25bp to 2.50% on Thu Sept 10 — Lagarde calls hike unanimous 'no-brainer', warns inflation to stay 'well above target for an extended period'; markets price further tightening peaking Sept 2027",
+      "org": "European Central Bank",
+      "date": "2026-09-10",
+      "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "summary": "ECB hikes 25bp: deposit 2.50%, MRO 2.65%, MLF 2.90%. Unanimous. Staff sees HICP 3.0% 2026 / 2.5% 2027 / 2.1% 2028. Growth revised up 2026 to 0.9%. Markets price 88bp more peaking Sept 2027.",
+      "tags": [
+        "ecb",
+        "rate-hike",
+        "eurozone",
+        "lagarde",
+        "inflation",
+        "monetary-policy",
+        "iran-war",
+        "energy-shock"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deposit facility": "2.50% (+25bp)",
+        "Main refinancing": "2.65% (+25bp)",
+        "Marginal lending": "2.90% (+25bp)",
+        "HICP 2026 proj": "3.0%",
+        "HICP 2027 proj": "2.5%",
+        "HICP 2028 proj": "2.1%",
+        "GDP 2026 proj": "0.9%",
+        "GDP 2027 proj": "1.4%",
+        "Further tightening priced": "88bp by Sept 2027"
+      },
+      "explainer": {
+        "tagline": "Second ECB hike since Iran-war inflation flare — 25bp across the board, unanimous, no pre-commitment on the next move.",
+        "whatIsIt": "The ECB Governing Council on Thu Sept 10 raised all three key policy rates by 25bp, taking the deposit facility to 2.50%. Lagarde called the decision a unanimous 'no-brainer' but reiterated the ECB is not 'pre-committing to a particular rate path'.",
+        "howItWorks": "New rates effective Sept 16: deposit 2.50%, main refi 2.65%, marginal lending 2.90%. Follows June's 25bp hike after Iran-war energy shock. Staff projections were revised: HICP 3.0% 2026 (unchanged), 2.5% 2027 and 2.1% 2028 (both revised up); GDP 0.9% 2026 and 1.4% 2027 (both revised up on 'greater than expected resilience').",
+        "whyItMatters": "Second hike this cycle confirms ECB is now 'in tightening mode' with markets pricing 88bp more tightening peaking Sept 2027. Sets up a global rate-hike wave: BoJ already at 1.00% and hiking, ECB now at 2.50%, and the Fed 90% priced for a hike next week. Euro area 2-year swap +~15bp; curve flattens.",
+        "forWho": "Global macro, EUR crosses, European bank equities.",
+        "tryIt": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html"
+      },
+      "image": {
+        "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/img/socialmedia/social-default.jpg?1b07e3d68efd7f29f4771d75b50bd667",
+        "alt": "European Central Bank monetary policy statement banner",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "ECB Sept 10 Statement",
+          "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html"
+        },
+        {
+          "label": "ECB Sept Statement Explained",
+          "url": "https://www.ecb.europa.eu/press/press_conference/visual-mps/2026/html/mopo_statement_explained_september.en.html"
+        },
+        {
+          "label": "FXStreet: 'No-Brainer' Hike",
+          "url": "https://www.fxstreet.com/analysis/ecb-review-a-no-brainer-hike-and-more-to-follow-202609101646"
+        }
+      ],
+      "reddit": {
+        "title": "ECB hikes 25bp — deposit rate now 2.50%, Lagarde calls it a unanimous 'no-brainer'; markets pricing 88bp more into Sept 2027",
+        "body": "The ECB delivered its second rate hike this cycle Thu Sept 10, taking the deposit facility to 2.50%. Iran-war energy shock is now driving hawkish central-bank alignment across DMs.\n\n* Deposit rate 2.50%, main refi 2.65%, marginal lending 2.90% — all +25bp\n* Vote was unanimous; effective Sept 16\n* Staff HICP projections: 3.0% 2026, 2.5% 2027 (revised up), 2.1% 2028 (revised up)\n* Growth revised UP: 0.9% 2026, 1.4% 2027 on 'greater than expected resilience'\n* Markets price 88bp more tightening peaking Sept 2027\n\nWhat Lagarde said:\n\n1. **'Inflation is set to remain well above target for an extended period'** — hawkish framing that surprised even the ECB doves.\n2. **'A unanimous no-brainer'** — no dissent, and \"door wide open\" for further hikes.\n3. **'Not pre-committing to a particular rate path'** — meeting-by-meeting stays the mantra.\n\nContext: BoJ already at 1.00% and eyeing October, and Fed hike odds at 90% for Sept 15–16. It's a synchronized DM hiking cycle again.\n\nNext catalysts: US Sept FOMC Sept 15–16, next ECB meeting Oct 22–23.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ecb-sep-2026-25bp-hike](https://stock-tldr.xyz/releases/ecb-sep-2026-25bp-hike)"
+      },
+      "publishDate": "2026-09-12T02:00:29.020Z"
+    },
+    {
+      "id": "nasdaq-payward-100m-tokenized-equity-sep-10",
+      "categories": [
+        "crypto",
+        "mna"
+      ],
+      "title": "Nasdaq Ventures commits $100M to Kraken parent Payward at $21B valuation on Thu Sept 10 — Nasdaq Equity Tokens (NETs) with full voting rights targeted for Q2 2027 launch; Payward adopts Nasdaq market surveillance across all venues",
+      "org": "Nasdaq",
+      "date": "2026-09-10",
+      "url": "https://fortune.com/2026/09/10/nasdaq-tokenized-stocks-100-million-investment-kraken-parent-payward/",
+      "summary": "Nasdaq Ventures puts $100M into Kraken parent Payward at $21B. Expands March 2026 deal; Nasdaq Equity Tokens (NETs) with voting rights target Q2 2027 launch. Payward adopts Nasdaq market surveillance across crypto, equities, tokenized equities, futures, options.",
+      "tags": [
+        "nasdaq",
+        "kraken",
+        "payward",
+        "tokenized-equity",
+        "crypto",
+        "market-structure",
+        "onchain",
+        "investment"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NDAQ"
+      ],
+      "metrics": {
+        "Investment": "$100M",
+        "Valuation": "$21B",
+        "NETs launch target": "Q2 2027",
+        "Original partnership": "March 2026",
+        "Daily US clearing flow": "$2T+"
+      },
+      "explainer": {
+        "tagline": "Nasdaq puts $100M into Kraken parent to push equities onchain — NETs launch penciled Q2 2027 with full voting rights.",
+        "whatIsIt": "Announced Thu Sept 10: Nasdaq Ventures is investing $100M into Payward (parent of Kraken) at a $21B valuation. The deal expands the March 2026 'equities transformation gateway' partnership and puts Nasdaq's market surveillance tech across every Payward trading venue.",
+        "howItWorks": "Payward adopts Nasdaq's real-time surveillance across crypto, equities, tokenized equities, futures and options. The firms are building Nasdaq Equity Tokens (NETs) — onchain shares carrying the same voting rights as ordinary equity — with launch targeted for Q2 2027 and equity-token design + DLT services live H1 2027. Co-CEO Arjun Sethi: 'More than $2 trillion of stock trades run through the U.S. clearing system every day. Onchain settlement removes the wait.'",
+        "whyItMatters": "First major traditional exchange to commit real capital plus surveillance rails to a tokenized-equity crypto exchange. Ties Nasdaq's incumbent brand to Kraken's tokenized-securities push and forces the SEC to decide whether onchain shares fit under existing frameworks. Kraken's $21B mark is up sharply vs prior private-market comps for exchanges.",
+        "forWho": "Crypto infra, market-structure traders, tokenized-securities builders.",
+        "tryIt": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120"
+      },
+      "image": {
+        "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/NASDAQ-Time-Square-New-York-City.jpg",
+        "alt": "Nasdaq MarketSite building in Times Square, New York",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Fortune: Tokenized Stocks Bet",
+          "url": "https://fortune.com/2026/09/10/nasdaq-tokenized-stocks-100-million-investment-kraken-parent-payward/"
+        },
+        {
+          "label": "Crowdfund Insider Coverage",
+          "url": "https://www.crowdfundinsider.com/2026/09/309242-nasdaq-ventures-commits-100m-to-kraken-parent-entity-payward-expanding-tokenized-equity-partnership/"
+        },
+        {
+          "label": "PYMNTS: $100M Deal",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/nasdaq-invests-100-million-in-kraken-parent-payward-to-accelerate-tokenized-stock-push"
+        }
+      ],
+      "reddit": {
+        "title": "Nasdaq Ventures puts $100M into Kraken parent Payward at $21B — Nasdaq Equity Tokens (NETs) with voting rights target Q2 2027 launch",
+        "body": "Nasdaq is putting real money — and its market surveillance rails — behind a tokenized-equity push with Kraken.\n\n* $100M investment in Payward (Kraken parent) at $21B valuation, announced Thu Sept 10\n* Expands March 2026 'equities transformation gateway' partnership\n* Payward adopts Nasdaq surveillance across crypto, equities, tokenized equities, futures, options\n* Nasdaq Equity Tokens (NETs) launch penciled Q2 2027 — same voting rights as ordinary shares\n* Equity-token design + DLT services operational H1 2027\n\nWhy it matters:\n\n1. **First real capital from a major exchange into tokenized equity** — pulls Nasdaq's brand across the aisle to Kraken's securities push.\n2. **Regulatory forcing function** — 'Same voting rights as ordinary shares' will make the SEC decide whether onchain equities fit existing frameworks.\n3. **$2T/day** — Co-CEO Arjun Sethi cites the daily US clearing flow as the addressable prize; 'onchain settlement removes the wait.'\n\nNext catalysts: SEC framework decisions, NET launch H1–Q2 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nasdaq-payward-100m-tokenized-equity-sep-10](https://stock-tldr.xyz/releases/nasdaq-payward-100m-tokenized-equity-sep-10)"
+      },
+      "publishDate": "2026-09-12T02:00:29.020Z"
+    },
+    {
+      "id": "kr-q2-fy26-earnings-sep-11",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Kroger (KR) Q2 FY26 — sales $34.6B (+2%), adj EPS $1.09 vs $1.06 est, adj FIFO op profit $1.08B; ID sales cut to 0.2–0.8% (from 1–2%), adj EPS $5.10–$5.30 reaffirmed; KR +3.09% to $58.39 on Fri Sept 11",
+      "org": "Kroger",
+      "date": "2026-09-11",
+      "url": "https://www.prnewswire.com/news-releases/kroger-reports-second-quarter-2026-results-and-updates-guidance-for-2026-302876349.html",
+      "summary": "Kroger Q2 FY26 sales $34.6B, adj EPS $1.09 beats $1.06 est. Adj eCommerce +20%. ID sales guide cut to 0.2–0.8% from 1–2% (140bp IRA drag) but FY adj EPS $5.10–$5.30 held. KR +3.09% to $58.39.",
+      "tags": [
+        "kroger",
+        "grocery",
+        "q2-fy26",
+        "eps-beat",
+        "guidance-cut",
+        "ecommerce",
+        "kpm",
+        "greg-foran"
+      ],
+      "importance": "major",
+      "tickers": [
+        "KR"
+      ],
+      "metrics": {
+        "Revenue": "$34.6B (+2% Y/Y)",
+        "GAAP EPS": "$1.05 vs $0.91 prior yr",
+        "Adjusted EPS": "$1.09 vs $1.06 est",
+        "Adj FIFO op profit": "$971M vs $863M prior yr",
+        "ID sales ex-fuel": "+0.2% (vs +3.4% Q2 FY25)",
+        "Adj eCommerce": "+20%",
+        "Kroger Precision Marketing profit": "+24%",
+        "FY26 ID sales guide": "0.2%–0.8% (cut from 1.0%–2.0%)",
+        "FY26 adj EPS guide": "$5.10–$5.30 (reaffirmed)",
+        "Stock Move": "+3.09% to $58.39 close Fri Sept 11"
+      },
+      "explainer": {
+        "tagline": "Kroger EPS beats but ID-sales guide gutted — first Foran-CEO quarter shows margin discipline, top-line softness.",
+        "whatIsIt": "Kroger reported Q2 FY26 results before the open Fri Sept 11 — first full quarter under CEO Greg Foran. Sales $34.6B (+2% Y/Y), adj EPS $1.09 beats $1.06 est. FY26 identical-sales guide cut sharply to 0.2%–0.8% from 1.0%–2.0% (cited ~140bp IRA drag) but adj EPS held at $5.10–$5.30. Stock +3.09% to $58.39.",
+        "howItWorks": "GAAP EPS $1.05 vs $0.91 prior year; adj FIFO op profit $971M vs $863M. Adjusted eCommerce sales +20%, Kroger Precision Marketing profit +24%. ID sales ex-fuel just +0.2% (vs +3.4% year-ago quarter). Foran called the plan the 'most ambitious pricing investment' Kroger has done in years and set an October 20 investor day for full strategic-plan detail.",
+        "whyItMatters": "First cracked window into Foran-era Kroger post-Giant Eagle deal. Digital + retail media doing the heavy lifting on profit; brick-and-mortar comps have effectively stalled. Investor day Oct 20 becomes the real setup — bulls got a reaffirmed EPS floor, bears got a sharply lower ID-sales runway. WMT and ACI trade on the read-across.",
+        "forWho": "Consumer-staples analysts, grocery-sector allocators.",
+        "tryIt": "https://ir.kroger.com/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS344741/Kroger-Co-Logo.jpg?id=OA2938427&p=facebook",
+        "alt": "The Kroger Co. logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Kroger Q2 FY26 Release",
+          "url": "https://www.prnewswire.com/news-releases/kroger-reports-second-quarter-2026-results-and-updates-guidance-for-2026-302876349.html"
+        },
+        {
+          "label": "Stocktitan Details",
+          "url": "https://www.stocktitan.net/news/KR/kroger-reports-second-quarter-2026-results-and-updates-guidance-for-9u40w1l6wnxj.html"
+        },
+        {
+          "label": "Benzinga Transcript",
+          "url": "https://www.benzinga.com/news/26/09/61737535/kroger-reports-q2-2026-results-full-earnings-call-transcript"
+        },
+        {
+          "label": "KR Quote",
+          "url": "https://finance.yahoo.com/quote/KR"
+        }
+      ],
+      "reddit": {
+        "title": "Kroger Q2 FY26 — adj EPS $1.09 beats $1.06 est, but ID-sales guide gutted to 0.2–0.8% (from 1–2%); KR still closes +3% to $58.39",
+        "body": "First full quarter under new CEO Greg Foran and it's a mixed bag — margins hold up, top line cools sharply.\n\n* Sales $34.6B (+2% Y/Y)\n* Adj EPS $1.09 vs $1.06 est — GAAP $1.05 vs $0.91 prior yr\n* Adj FIFO operating profit $971M (vs $863M prior yr)\n* ID sales ex-fuel +0.2% — down from +3.4% year-ago quarter\n* Adjusted eCommerce +20%; Kroger Precision Marketing profit +24%\n\nGuidance:\n\n1. **ID sales without fuel CUT to 0.2%–0.8%** — down from 1.0%–2.0%; ~140bp of the drag is the Inflation Reduction Act\n2. **FY26 adj EPS $5.10–$5.30 REAFFIRMED** — plus FCF $2.7–$2.9B kept intact\n3. **Foran: 'most ambitious pricing investment' Kroger has run in years** — full plan drops at Oct 20 investor day\n\nStock closed +3.09% to $58.39 as EPS floor + retail-media strength outweighed the ID-sales cut.\n\nNext catalysts: Kroger investor day Oct 20 2026, Giant Eagle integration progress.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kr-q2-fy26-earnings-sep-11](https://stock-tldr.xyz/releases/kr-q2-fy26-earnings-sep-11)"
+      },
+      "publishDate": "2026-09-12T02:00:29.020Z"
+    },
+    {
+      "id": "rh-q2-fy26-earnings-sep-10",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "RH Q2 FY26 (AH Thu Sept 10) — revenue $922.2M (+2.6%) tops est, adj EPS $2.70 crushes $1.78 est with $55M tariff refund; adj EBITDA $178.5M (19.4% margin) +55% vs est; FY26 rev guide raised to 5.5–7%; RH +8.94% premarket to $146.00",
+      "org": "RH",
+      "date": "2026-09-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001528849/000110465926106743/rh-20260910xex99d1.htm",
+      "summary": "RH Q2 FY26 rev $922.2M (+2.6%) beats, adj EPS $2.70 vs $1.78 est ($55M tariff refund). Adj EBITDA $178.5M (19.4% margin, +55% vs est). FY26 rev guide raised to 5.5–7%. RH +8.94% premarket to $146.",
+      "tags": [
+        "rh",
+        "restoration-hardware",
+        "luxury",
+        "furniture",
+        "q2-fy26",
+        "eps-beat",
+        "guidance-raise",
+        "tariff-refund",
+        "estates-collection"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RH"
+      ],
+      "metrics": {
+        "Revenue": "$922.2M (+2.6% Y/Y)",
+        "Adjusted EPS": "$2.70 vs $1.78 est",
+        "Adjusted EBITDA": "$178.5M (19.4% margin)",
+        "Tariff refund": "$55.1M (non-recurring)",
+        "Operating margin": "11.7% (vs 14.3% Y/Y)",
+        "FY26 rev guide": "5.5%–7% (raised)",
+        "FY26 adj EBITDA margin guide": "15%–16.2%",
+        "Q3 rev guide": "$932.4M (vs $967.3M est)",
+        "Stock Move": "+8.94% premarket to $146.00"
+      },
+      "explainer": {
+        "tagline": "RH's Q2 beat is optically massive thanks to a $55M tariff refund — but revenue + EBITDA still top estimates, guide up, stock +9%.",
+        "whatIsIt": "RH (Restoration Hardware) reported Q2 FY26 (ended Aug 1) AH Thu Sept 10 in a Gary Friedman shareholder letter. Revenue $922.2M (+2.6% Y/Y) tops $915.6M est. Adjusted EPS $2.70 crushes $1.78 est — includes a $55.1M non-recurring tariff refund. Stock +8.94% premarket Fri Sept 11 to $146.00.",
+        "howItWorks": "Adj EBITDA $178.5M at 19.4% margin (+55% vs $115M est); normalized ex-tariff margin 13.4%. Operating margin 11.7% (vs 14.3% Y/Y). FCF margin expanded to 10.8% from 9%. FY26 revenue guide raised to 5.5%–7% growth with 15%–16.2% adj EBITDA margin; Q3 revenue guide $932.4M light of $967.3M est. RH Estates — new luxury collection priced ~45% above existing product — pitched as doubling addressable market over time.",
+        "whyItMatters": "Second consecutive Q on tariff tailwind post-resourcing. Signals luxury housing consumer still spending on premium furnishings even as broader housing freeze drags. Q3 rev guide light — analysts cut price targets on that vs the EBITDA beat. Read-across to WSM, W and mid-cap luxury goods.",
+        "forWho": "Housing / luxury discretionary traders, mid-cap value screens.",
+        "tryIt": "https://ir.rh.com/"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_e6a8af95489e22e29b1cb6c412394cee/rh/db/3606/32603/social_image_resized.jpg",
+        "alt": "RH (Restoration Hardware) social image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "RH Q2 FY26 SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001528849/000110465926106743/rh-20260910xex99d1.htm"
+        },
+        {
+          "label": "StockStory Details",
+          "url": "https://stockstory.org/us/stocks/nyse/rh/news/earnings/rhs-nyserh-q2-cy2026-sales-top-estimates-stock-soars"
+        },
+        {
+          "label": "Benzinga: Rally After Print",
+          "url": "https://www.benzinga.com/markets/earnings/26/09/61729072/rh-stock-rallies-after-mixed-q2-print-details-inside"
+        },
+        {
+          "label": "Benzinga: PT Cuts",
+          "url": "https://www.benzinga.com/markets/mid-cap/26/09/61745766/rh-analysts-cut-price-targets-after-q2-results-but-estates-collection-could-fuel-growth"
+        },
+        {
+          "label": "RH IR",
+          "url": "https://ir.rh.com/"
+        }
+      ],
+      "reddit": {
+        "title": "RH Q2 FY26 — adj EPS $2.70 vs $1.78 est (juiced by $55M tariff refund), rev $922M beat, FY guide raised; RH +9% premarket to $146",
+        "body": "Restoration Hardware's Q2 print AH Thursday Sept 10 came in ahead across the board — with a big one-time tariff assist. Stock ripped ~9%.\n\n* Revenue $922.2M (+2.6% Y/Y) — beats $915.6M est\n* Adj EPS $2.70 vs $1.78 est — includes $55.1M non-recurring tariff refund\n* Adj EBITDA $178.5M at 19.4% margin — +55% vs $115M est; normalized ex-tariff 13.4%\n* Operating margin 11.7% (vs 14.3% Y/Y); FCF margin expanded to 10.8%\n\nWhat's on the table:\n\n1. **FY26 revenue guide raised to 5.5%–7% growth**, adj EBITDA margin 15%–16.2%\n2. **Q3 rev guide light** — $932.4M vs $967.3M est; several analysts cut PTs on that vs the EBITDA beat\n3. **RH Estates** — new collection priced ~45% above core product, pitched as doubling the addressable market\n\nStock closed prior session $135.72; +8.94% premarket to $146.00 on results.\n\nNext catalysts: RH Estates rollout, Q3 print (Dec), housing cycle data.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rh-q2-fy26-earnings-sep-10](https://stock-tldr.xyz/releases/rh-q2-fy26-earnings-sep-10)"
+      },
+      "publishDate": "2026-09-12T02:00:29.020Z"
+    },
     {
       "id": "orcl-q1-fy27-earnings-sep-10-2026",
       "categories": [

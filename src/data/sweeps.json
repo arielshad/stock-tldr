@@ -11699,6 +11699,59 @@
         "macro",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260912t020029z",
+      "timestamp": "2026-09-12T02:00:29.020Z",
+      "source": "github-actions-sweep",
+      "summary": "5 new items covering Aug CPI (Fed hike now ~90% priced), ECB Sept 10 hike to 2.50%, Nasdaq $100M into Kraken parent Payward, and Kroger + RH Q2 earnings.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-aug-2026-sep-11",
+          "title": "US August 2026 CPI +0.4% M/M / +3.4% Y/Y (vs +3.3% est) hot; core +0.3% M/M / +2.4% Y/Y — Fed Sept-hike odds jump ~70% → ~90%, S&P +0.86% to 7,656.98 on oil relief",
+          "category": "macro",
+          "note": "Hottest CPI of the year: headline +0.4% M/M / +3.4% Y/Y beats est, pushes Sept FOMC hike odds ~70%→~90%."
+        },
+        {
+          "id": "ecb-sep-2026-25bp-hike",
+          "title": "ECB raises deposit rate 25bp to 2.50% on Thu Sept 10 — Lagarde calls hike unanimous 'no-brainer', warns inflation to stay 'well above target for an extended period'; markets price further tightening peaking Sept 2027",
+          "category": "macro",
+          "note": "Second ECB hike of the cycle since Iran-war energy shock — deposit rate now 2.50%, unanimous."
+        },
+        {
+          "id": "nasdaq-payward-100m-tokenized-equity-sep-10",
+          "title": "Nasdaq Ventures commits $100M to Kraken parent Payward at $21B valuation on Thu Sept 10 — Nasdaq Equity Tokens (NETs) with full voting rights targeted for Q2 2027 launch; Payward adopts Nasdaq market surveillance across all venues",
+          "category": "crypto",
+          "note": "Real capital + surveillance rails from a major traditional exchange behind tokenized equity — NETs target Q2 2027."
+        },
+        {
+          "id": "kr-q2-fy26-earnings-sep-11",
+          "title": "Kroger (KR) Q2 FY26 — sales $34.6B (+2%), adj EPS $1.09 vs $1.06 est, adj FIFO op profit $1.08B; ID sales cut to 0.2–0.8% (from 1–2%), adj EPS $5.10–$5.30 reaffirmed; KR +3.09% to $58.39 on Fri Sept 11",
+          "category": "earnings",
+          "note": "First full quarter under CEO Foran — EPS beats, ID-sales guide cut sharply; stock +3.09%."
+        },
+        {
+          "id": "rh-q2-fy26-earnings-sep-10",
+          "title": "RH Q2 FY26 (AH Thu Sept 10) — revenue $922.2M (+2.6%) tops est, adj EPS $2.70 crushes $1.78 est with $55M tariff refund; adj EBITDA $178.5M (19.4% margin) +55% vs est; FY26 rev guide raised to 5.5–7%; RH +8.94% premarket to $146.00",
+          "category": "earnings",
+          "note": "Massive EPS beat juiced by $55M tariff refund; FY revenue guide raised; RH +9% premarket."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
