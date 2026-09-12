@@ -11752,6 +11752,39 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260912t143654z",
+      "timestamp": "2026-09-12T14:36:54.302Z",
+      "source": "github-actions-sweep",
+      "summary": "Single add on a quiet Saturday sweep: Dell rips ~12% Friday to a fresh all-time high after RBC's David Paige initiates coverage at Outperform with a $640 PT and a supply-constrained AI-server pipeline call — a distinct analyst-driven catalyst separate from the Oracle earnings read-through already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dell-rbc-initiation-ath-sep-11-2026",
+          "title": "Dell (DELL) +11.98% intraday to record $567.29 on Fri Sept 11 — RBC's David Paige initiates Outperform, $640 PT; cites $95B AI-server backlog and supply-constrained pipeline through FY27",
+          "category": "mover",
+          "note": "Distinct catalyst — new RBC Outperform initiation with $640 PT drove ~12% Friday move to a record; separable from prior Dell Q2 earnings and Oracle Q1 FY27 read-through already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "analyst",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }

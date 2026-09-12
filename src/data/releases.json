@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-09-12T02:00:29.020Z",
+  "generatedAt": "2026-09-12T14:36:54.302Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dell-rbc-initiation-ath-sep-11-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Dell (DELL) +11.98% intraday to record $567.29 on Fri Sept 11 — RBC's David Paige initiates Outperform, $640 PT; cites $95B AI-server backlog and supply-constrained pipeline through FY27",
+      "org": "RBC Capital Markets",
+      "date": "2026-09-11",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-shares-jump-11-time-150500585.html",
+      "summary": "Dell ripped 11.98% intraday to a fresh all-time high $567.29 Friday after RBC's David Paige launched coverage with an Outperform rating and $640 price target, calling the AI-server pipeline supply-constrained rather than demand-limited through FY27.",
+      "tags": [
+        "analyst-initiation",
+        "outperform",
+        "price-target-raise",
+        "rbc",
+        "ai-infrastructure",
+        "ai-servers",
+        "ai-capex",
+        "all-time-high",
+        "semis-adjacent",
+        "enterprise-hardware",
+        "agentic-ai",
+        "memory-constrained"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DELL"
+      ],
+      "metrics": {
+        "RBC Rating": "Outperform (initiated)",
+        "New PT": "$640",
+        "Move (intraday high)": "+11.98% to $567.29",
+        "AI server backlog (exit Q2 FY27)": "$95B"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-shares-jump-11-time-150500585.html"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html"
+        },
+        {
+          "label": "RBC Note Recap",
+          "url": "https://ca.finance.yahoo.com/news/rbc-drops-jaw-dropping-price-201043556.html"
+        },
+        {
+          "label": "DELL Quote",
+          "url": "https://finance.yahoo.com/quote/DELL/"
+        }
+      ],
+      "explainer": {
+        "tagline": "RBC's David Paige initiates DELL at Outperform with a $640 PT — stock jumps ~12% to a record.",
+        "whatIsIt": "RBC Capital Markets analyst David Paige launched coverage of Dell Technologies on Friday Sept 11 with an Outperform rating and a $640 price target. The initiation was among the day's most talked-about sell-side moves and drove Dell to a new all-time high, extending an already massive 2026 run.",
+        "howItWorks": "Paige's thesis anchors on Dell exiting Q2 FY27 with a $95B AI-server backlog and a pipeline he describes as supply-constrained — primarily by memory — rather than demand-limited, with meaningful backlog persisting through FY27. He also flags agentic AI expanding the TAM for traditional compute (orchestration layers running on CPUs) and cites robust free cash flow supporting shareholder-friendly capital allocation. DELL traded as high as $567.29 (+$60.67 / +11.98%) intraday Friday, a fresh record.",
+        "whyItMatters": "The initiation reinforces the AI-server bull case at a moment when investors had begun to question durability of the trade after Adobe's guide-lower reaction Thursday. Dell has become the pure-play proxy for enterprise AI compute buildouts alongside HPE, and Paige's supply-constrained framing pushes back on the 'AI capex peak' narrative. Read-through to memory names (MU, SNDK) and networking (AVGO, ANET) is also positive.",
+        "forWho": "AI-infrastructure equity traders, sell-side desks tracking analyst-driven flows",
+        "tryIt": "https://finance.yahoo.com/quote/DELL/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/bb19d369199d2cae8b9e73275ed84548bf1aa5293d0a31371479415242e71d81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2F5ad739a2dd36bac199ef42ebee4c5eef.jpg",
+        "alt": "Dell Technologies logo on a corporate campus building",
+        "fit": "cover",
+        "credit": "Yahoo Finance / Proactive Investors"
+      },
+      "reddit": {
+        "title": "DELL +12% to record $567 on RBC Outperform initiation — $640 PT, $95B AI-server backlog called supply-constrained through FY27",
+        "body": "RBC Capital Markets analyst David Paige launched coverage of Dell on Friday Sept 11 with Outperform and a $640 price target. Stock ripped to a fresh all-time high.\n\n* DELL intraday high $567.29, up $60.67 (+11.98%)\n* RBC PT: **$640** (initiated Outperform, no prior RBC rating)\n* Dell exited Q2 FY27 with a **$95B AI-server backlog**\n* Paige calls the pipeline **supply-constrained (memory) — not demand-limited** through FY27\n* Agentic AI seen expanding traditional CPU compute TAM\n\nWhy it moved so hard:\n\n1. **Backlog is the story** — $95B backlog + $60.9B in AI orders booked in Q2 FY27 alone. Bulls needed a fresh sell-side voice validating durability.\n2. **Supply-constrained framing pushes back on 'AI-capex peak'** — after Adobe's soft Q4 guide Thursday spooked the AI complex, Paige's memory-bottleneck read reframes the trade.\n3. **Read-through to HPE, memory (MU/SNDK), networking (AVGO/ANET)** — HPE also up ~11% Friday on Oracle-linked capex commentary.\n\nNext catalysts: FOMC Sept 15–16; Micron (MU) earnings Sept 23.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dell-rbc-initiation-ath-sep-11-2026](https://stock-tldr.xyz/releases/dell-rbc-initiation-ath-sep-11-2026)"
+      },
+      "publishDate": "2026-09-12T14:36:54.302Z"
+    },
     {
       "id": "us-cpi-aug-2026-sep-11",
       "categories": [
