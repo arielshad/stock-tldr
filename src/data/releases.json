@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-09-13T01:52:09.814Z",
+  "generatedAt": "2026-09-13T15:17:21.246Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-anthropic-ipo-anchor-rumor-sep-11-2026",
+      "categories": [
+        "rumor",
+        "ipo"
+      ],
+      "title": "Reportedly: Nvidia (NVDA) in talks for up to $10B anchor stake in Anthropic's ~$100B IPO at ~$2T valuation — Reuters exclusive Thu Sept 11 flags what would be largest IPO ever, targeted to price before US Nov midterms",
+      "org": "Anthropic",
+      "tickers": [
+        "NVDA"
+      ],
+      "date": "2026-09-11",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-mulls-10-billion-anthropic-233517609.html",
+      "summary": "Reuters says Nvidia is negotiating an anchor position of up to $10B in Anthropic's planned ~$100B IPO at a ~$2T valuation — targeted before Nov midterms, would top every prior listing in market history.",
+      "tags": [
+        "rumor",
+        "ipo",
+        "anchor-investor",
+        "ai",
+        "anthropic",
+        "nvda",
+        "claude",
+        "reuters-exclusive",
+        "mega-ipo"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "Nvidia commitment (reported)": "up to $10B",
+        "IPO raise target": "up to $100B",
+        "Anthropic valuation (target)": "~$2T",
+        "Prior May 2026 post-money": "$965B",
+        "Anthropic annualized revenue (end-July)": ">$65B run rate",
+        "NVDA close Fri Sept 11": "$218.29 (-0.03%)"
+      },
+      "explainer": {
+        "tagline": "Reuters: Nvidia weighing $10B anchor cheque for Anthropic's ~$100B IPO at ~$2T valuation — would be largest listing in market history.",
+        "whatIsIt": "Reuters reported late Friday Sept 11 that Nvidia is in talks to invest up to $10B as an anchor investor in Anthropic's planned IPO. Sources tell Reuters the AI lab is targeting up to $100B in proceeds at roughly a $2T valuation, with pricing aimed before the US midterm elections in November. Bloomberg picked up the Reuters scoop the same evening.",
+        "howItWorks": "An anchor commitment is a pre-marketing pledge by a lead investor to buy a set portion of an IPO — a signal that helps anchor the book and attract other institutional demand. The reported $10B ticket would be roughly a tenth of the total raise. Anthropic's annualized revenue run rate had climbed above $65B by end-July 2026, up from ~$9B at end-2025. Its last private round in May 2026 valued the company at $965B post-money.",
+        "whyItMatters": "A $100B raise would top every prior IPO on record; a $2T mark would put Anthropic in the same tier as the largest publicly listed companies. Nvidia already sells a large share of the AI accelerators that anchor Anthropic's Claude compute stack, so a $10B equity check would tighten a supplier-customer loop already visible in Nvidia's Anthropic-linked partnerships with AMD, CoreWeave, Riot and others. Both companies declined to comment; Reuters cautions the talks are preliminary and could change.",
+        "forWho": "AI-infrastructure investors, IPO desks, Nvidia holders",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/9216975d001c026a750f0059a96cccffe064c10af9033d3d1a0222202d61b489/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F9d28a7fdcbed7f2947a6b026753dfae8.jpg",
+        "alt": "Bloomberg/Yahoo Finance article header on Reuters' Nvidia-Anthropic IPO anchor-investment scoop",
+        "fit": "cover",
+        "credit": "Bloomberg via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo/Bloomberg Recap",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-mulls-10-billion-anthropic-233517609.html"
+        },
+        {
+          "label": "Second Yahoo Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-may-invest-10-billion-142337240.html"
+        },
+        {
+          "label": "NVDA Chart",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        },
+        {
+          "label": "Anthropic Overview",
+          "url": "https://stockanalysis.com/private/anthropic/"
+        }
+      ],
+      "reddit": {
+        "title": "Reuters: Nvidia in talks for up to $10B anchor stake in Anthropic's ~$100B IPO at ~$2T valuation — would be largest listing in market history",
+        "body": "Reuters dropped the scoop late Friday Sept 11 that Nvidia is negotiating an anchor position of up to $10B in Anthropic's planned mega-IPO. Bloomberg picked it up the same night.\n\n* IPO raise target: up to $100B — larger than any listing on record\n* Implied valuation: ~$2T\n* Prior post-money (May 2026 round): $965B\n* Anthropic annualized revenue run rate (end-July): >$65B (from ~$9B at end-2025)\n* Timing: sources say pricing is aimed for before US midterm elections in November\n* NVDA reaction Fri Sept 11: $218.29, -0.03% (largely priced in given the existing commercial partnership)\n\nHow to read it:\n\n1. **Anchor commitments matter for book demand** — a pre-marketing pledge from a name like Nvidia signals the price talk is credible and helps pull in other institutional buyers.\n2. **Supplier-customer loop** — Nvidia sells the GPUs Anthropic trains and serves Claude on; a $10B equity ticket layers a capital tie on top of an existing commercial one.\n3. **Still a rumor** — Reuters attributes to \"people familiar with the matter\"; both companies declined to comment and the talks could change.\n\nNext catalysts: any confirmed underwriter mandates, S-1 filing timing, and whether Amazon (existing Anthropic backer) also anchors.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-anthropic-ipo-anchor-rumor-sep-11-2026](https://stock-tldr.xyz/releases/nvda-anthropic-ipo-anchor-rumor-sep-11-2026)"
+      },
+      "publishDate": "2026-09-13T15:17:21.246Z"
+    },
     {
       "id": "orcl-ellison-10b5-1-cancel-sep-12-2026",
       "categories": [

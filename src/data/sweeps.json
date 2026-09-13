@@ -11816,6 +11816,37 @@
         "regulatory",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20260913t151721z",
+      "timestamp": "2026-09-13T15:17:21.246Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend sweep (Sun Sept 13). One rumor-tier addition: Reuters' Friday-evening scoop that Nvidia is in talks for up to $10B anchor stake in Anthropic's planned ~$100B / ~$2T IPO. Scanned tier-1 markets press, EDGAR, central-bank wires, Iran/oil situation, weekend M&A boards and crypto — everything else in the last 72h either already ships in the feed (Oracle Ellison 10b5-1 cancel, Dell RBC ATH, CPI, ECB, Kroger/RH/Oracle/Adobe earnings, Saudi output, Iran-Hormuz sequence) or fell short of the inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-anthropic-ipo-anchor-rumor-sep-11-2026",
+          "title": "Reportedly: Nvidia (NVDA) in talks for up to $10B anchor stake in Anthropic's ~$100B IPO at ~$2T valuation — Reuters exclusive Thu Sept 11 flags what would be largest IPO ever, targeted to price before US Nov midterms",
+          "category": "rumor",
+          "note": "Reuters exclusive late Fri Sept 11 named person-familiar sources; Bloomberg-syndicated to Yahoo. Rumor tier because talks are preliminary and both firms declined comment. Would be the largest IPO in history if it prices as reported."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rumor",
+        "ipo",
+        "mna",
+        "macro",
+        "commodity",
+        "crypto",
+        "earnings",
+        "regulatory"
+      ]
     }
   ]
 }
