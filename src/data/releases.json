@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-09-12T14:36:54.302Z",
+  "generatedAt": "2026-09-13T01:52:09.814Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "orcl-ellison-10b5-1-cancel-sep-12-2026",
+      "categories": [
+        "insider"
+      ],
+      "title": "Oracle (ORCL) — Larry Ellison cancels 10b5-1 plan to sell up to 50M shares (~$7.5B) on Sat Sept 12, less than 24 hours after 10-Q disclosure; no stock sold under plan",
+      "org": "Oracle",
+      "date": "2026-09-12",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Larry-Ellison-Cancels-His-Plan-to-Sell-Oracle-Stock/default.aspx",
+      "summary": "Ellison, Oracle's ~40% owner and Executive Chair/CTO, terminates the plan adopted Jun 22 that authorized selling up to 50M shares through Oct 24; 3-sentence Oracle release says no stock was sold and he has no other plans to sell.",
+      "tags": [
+        "insider",
+        "10b5-1",
+        "executive-transaction",
+        "founder",
+        "trading-plan",
+        "orcl",
+        "ellison"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ORCL"
+      ],
+      "metrics": {
+        "Plan size": "up to 50M shares (~$7.5B)",
+        "Shares sold": "0",
+        "Adopted": "Jun 22, 2026",
+        "Original expiry": "Oct 24, 2026",
+        "Cancelled": "Sat Sept 12, 2026"
+      },
+      "explainer": {
+        "tagline": "Oracle founder terminates the $7.5B 10b5-1 plan disclosed a day earlier — press release says zero shares sold and no other sales planned.",
+        "whatIsIt": "Oracle issued a three-sentence press release Saturday Sept 12 saying Executive Chair and CTO Larry Ellison has cancelled his 10b5-1 stock-sale plan. The plan, adopted Jun 22 and scheduled to run through Oct 24, would have allowed him to sell up to 50 million ORCL shares (~$7.5B at recent prices). Oracle says no stock changed hands under it and Ellison has no other plans to sell.",
+        "howItWorks": "Oracle disclosed the plan via a Rule 10b5-1(c) footnote in the FY2027 Q1 10-Q covering the quarter ended Aug 31, 2026, filed Sept 11. Ellison, who controls roughly 40% of Oracle, has historically avoided larger insider sales. The Saturday reversal is a formal cancellation with a public commitment that he has no other plans to sell — a rare weekend investor-relations statement.",
+        "whyItMatters": "The 10b5-1 filing surfaced 24 hours after Oracle's Q1 FY2027 print showed cloud infrastructure revenue up 121% Y/Y to $7.4B and RPO expanding to $664B, with FY2027 revenue guided to at least $90B. Investors read Friday's founder-selling disclosure as an offset to that print; the Saturday cancellation reverses the signal ahead of Monday's open.",
+        "forWho": "ORCL holders and insider-signal watchers",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341439&type=10-Q&dateb=&owner=include&count=40"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA2944600",
+        "alt": "Oracle Corporation red-and-white corporate logo",
+        "fit": "contain",
+        "credit": "Oracle Corporation / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "Oracle Press Release",
+          "url": "https://investor.oracle.com/investor-news/news-details/2026/Larry-Ellison-Cancels-His-Plan-to-Sell-Oracle-Stock/default.aspx"
+        },
+        {
+          "label": "PR Newswire Mirror",
+          "url": "https://www.prnewswire.com/news-releases/larry-ellison-cancels-his-plan-to-sell-oracle-stock-302876875.html"
+        },
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/ORCL/larry-ellison-cancels-his-plan-to-sell-oracle-p0fc1y9ztr3v.html"
+        },
+        {
+          "label": "EDGAR 10-Q Index",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341439&type=10-Q&dateb=&owner=include&count=40"
+        },
+        {
+          "label": "ORCL Ticker Page",
+          "url": "https://finance.yahoo.com/quote/ORCL/"
+        }
+      ],
+      "reddit": {
+        "title": "Larry Ellison cancels $7.5B Oracle 10b5-1 stock-sale plan less than 24 hours after disclosure — zero shares sold",
+        "body": "Weird 48 hours for ORCL holders — Oracle founder Larry Ellison's founder-cash-out signal just got yanked.\n\n* Friday Sept 11: Oracle's Q1 FY2027 10-Q reveals Ellison adopted a **10b5-1 plan on Jun 22** to sell **up to 50M shares (~$7.5B)** through **Oct 24**\n* Saturday Sept 12: Oracle publishes a three-sentence release — Ellison has **cancelled** the plan, **no** stock was sold under it, and he has **no other plans** to sell any Oracle stock\n* Ellison controls ~40% of Oracle and has historically avoided larger insider sales\n* The disclosure landed 24 hours after Wed Sept 10's Q1 print showed **cloud infra +121% Y/Y to $7.4B**, **RPO $664B (+$209B Y/Y)** and **FY2027 revenue guided to at least $90B**\n\nWhy the whiplash matters:\n\n1. **Timing of disclosure looked bad** — a plan adopted in June only surfaced in Friday's 10-Q, right after the AI-driven rerating.\n2. **Weekend press release is unusual** — Oracle rarely issues Saturday investor news; the speed suggests investor pushback on Friday.\n3. **No hedged language** — the release explicitly says \"no other plans to sell,\" not the usual boilerplate.\n\nNext catalysts: Monday Sept 14 open, next Oracle Section 16 filings, Sept 15–16 FOMC decision, FY2027 Q2 print in December.\n\nFull breakdown: [https://stock-tldr.xyz/releases/orcl-ellison-10b5-1-cancel-sep-12-2026](https://stock-tldr.xyz/releases/orcl-ellison-10b5-1-cancel-sep-12-2026)"
+      },
+      "publishDate": "2026-09-13T01:52:09.814Z"
+    },
     {
       "id": "dell-rbc-initiation-ath-sep-11-2026",
       "categories": [

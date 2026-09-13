@@ -11785,6 +11785,37 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20260913t015209z",
+      "timestamp": "2026-09-13T01:52:09.814Z",
+      "source": "github-actions-sweep",
+      "summary": "One insider add: Oracle disclosed Saturday Sept 12 that Larry Ellison cancelled his 10b5-1 plan to sell up to 50M ORCL shares (~$7.5B) less than 24 hours after Friday's 10-Q surfaced it. Other candidate items (BRICS Delhi Summit outcome, networking-sector rotation on Sept 11, IBM +3.9% quantum move) did not clear the market-moving bar with primary-source confirmation or bumped up against existing coverage.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "orcl-ellison-10b5-1-cancel-sep-12-2026",
+          "title": "Oracle (ORCL) — Larry Ellison cancels 10b5-1 plan to sell up to 50M shares (~$7.5B) on Sat Sept 12, less than 24 hours after 10-Q disclosure; no stock sold under plan",
+          "category": "insider",
+          "note": "Primary Oracle IR release + tier-1 Bloomberg/CNBC coverage. Distinct event from the existing Sept 10 earnings item (orcl-q1-fy27-earnings-sep-10-2026); the $7.5B founder-selling disclosure and same-weekend reversal is a rare 10b5-1 U-turn."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "insider",
+        "earnings",
+        "macro",
+        "mover",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "sector"
+      ]
     }
   ]
 }
