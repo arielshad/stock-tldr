@@ -1,8 +1,154 @@
 {
-  "generatedAt": "2026-09-14T02:15:07.246Z",
+  "generatedAt": "2026-09-14T17:20:36.342Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-10y-yield-5pct-oct-2023-high-sep-14-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "US 10-year Treasury yield tops 5.014% intraday Mon Sept 14 — first breach of 5% since Oct 2023; Brent >$108 and hot Aug CPI push CME Fed-hike odds to ~88% ahead of Wed Sept 16 FOMC",
+      "org": "U.S. Treasury",
+      "tickers": [
+        "^TNX",
+        "^GSPC"
+      ],
+      "date": "2026-09-14",
+      "url": "https://invezz.com/in/news/2026/09/14/us-10-year-yield-tops-5percent-as-markets-price-fed-hike/",
+      "summary": "US 10Y yield touched 5.014% on Mon Sept 14 — first time above 5% since Oct 2023 — before easing to ~4.95%. Rising oil, hot Aug CPI and a hawkish Warsh-Fed setup ahead of Wed's FOMC drove the selloff.",
+      "tags": [
+        "us10y",
+        "treasury",
+        "bond-rout",
+        "rates",
+        "fomc",
+        "warsh",
+        "fed-hike",
+        "cpi",
+        "oil",
+        "duration",
+        "yield-curve"
+      ],
+      "importance": "major",
+      "metrics": {
+        "10Y intraday peak": "5.014%",
+        "10Y close": "~4.95%",
+        "Previous 5% breach": "October 2023",
+        "CME Fed-hike odds (Wed FOMC)": "~88%",
+        "Brent Nov trigger": "$108.34 (+3.56%)",
+        "S&P 500 (Mon Sept 14)": "-0.65% to ~7,606",
+        "Nasdaq 100 (Mon Sept 14)": "-1.7%",
+        "SOX index (Mon Sept 14)": "-5.7%"
+      },
+      "explainer": {
+        "tagline": "US 10-year yield printed 5.014% intraday — first 5-handle since 2023 — as oil, hot CPI and Fed-hike odds converged.",
+        "whatIsIt": "The benchmark 10-year US Treasury yield rose above 5% for the first time since October 2023 on Mon Sept 14, peaking at 5.014% before slipping back to about 4.95% into the close. The move came alongside Brent crude climbing above $108 on the Saudi East-West pipeline shutdown, a hot August CPI print that showed core services still sticky, and a hawkish Warsh-era Fed setup heading into the Sept 16 FOMC.",
+        "howItWorks": "Fed funds futures via CME FedWatch price roughly ~88% odds of a 25bp hike on Wednesday — a swing from ~70% before Friday's CPI. Yield moves are being amplified by weak dealer take-up at recent Treasury buybacks (the government repurchased $5.2B in bonds versus a $6B ceiling and $10.5B offered), and by continued net issuance to fund the 2026 budget gap. Standard Bank's Steven Barrow flagged an updated year-end 10Y target of 5.2% and Q1 2027 target of 5.3%.",
+        "whyItMatters": "5% is the psychological line that broke bond funds in Oct 2023 and put duration pain back on the table. Long-duration equities took the hit — Nasdaq 100 -1.7%, SOX -5.7% with Micron/AMD/Sandisk/Lam/Marvell/GE Vernova down 5–8%. If Wednesday's FOMC delivers a hike with a hawkish dot plot, the 10Y could push toward 5.10–5.20%. A dovish surprise is the only obvious way to reverse it near-term.",
+        "forWho": "rates traders, long-duration equity holders, mortgage desks",
+        "tryIt": "https://fred.stlouisfed.org/series/DGS10"
+      },
+      "image": {
+        "url": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/09/Investors-tracking-bond-yields.png",
+        "alt": "Traders monitoring bond-yield screens as US 10-year Treasury yield tops 5% on Sept 14 2026",
+        "fit": "cover",
+        "credit": "Invezz"
+      },
+      "links": [
+        {
+          "label": "Invezz: 10Y Tops 5%",
+          "url": "https://invezz.com/in/news/2026/09/14/us-10-year-yield-tops-5percent-as-markets-price-fed-hike/"
+        },
+        {
+          "label": "Political Wire Summary",
+          "url": "https://politicalwire.com/2026/09/14/10-year-treasury-yield-touches-5/"
+        },
+        {
+          "label": "FRED: 10Y Constant Maturity",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        },
+        {
+          "label": "10Y Yield (^TNX)",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ],
+      "reddit": {
+        "title": "US 10-year Treasury yield tops 5.014% intraday — first breach of 5% since Oct 2023 as oil surges and Fed hike odds hit ~88%",
+        "body": "The US 10-year yield printed a 5-handle for the first time in nearly three years on Mon Sept 14. Here's the tape:\n\n* 10Y intraday peak: 5.014%, before easing to ~4.95%\n* Previous time above 5%: October 2023\n* CME FedWatch: ~88% odds of a 25bp hike at Wednesday's FOMC (up from ~70% pre-CPI)\n* Brent Nov +3.56% to $108.34; WTI Oct +3.77% to $103.83 on the Saudi East-West pipeline shutdown\n* Duration pain in equities: Nasdaq 100 -1.7%, SOX -5.7% (Micron, AMD, Sandisk, Lam, Marvell, GE Vernova all down 5–8%)\n\nThree things converged:\n\n1. **Hot August CPI** — +0.4% M/M and +3.4% Y/Y headline (vs +3.3% est) confirmed inflation isn't cooling, forcing Fed-hike repricing.\n2. **Oil supply shock** — Saudi's East-West pipeline offline since Fri Sept 11 after Iraq-launched drone strikes; Reuters sources see 5–6 week repair.\n3. **Warsh-era Fed** — with Kevin Warsh as Chair, the market reads the reaction function as more hawkish than Powell's would have been.\n\nStandard Bank's Steven Barrow raised his year-end 10Y target to 5.2% and Q1 2027 to 5.3%.\n\nNext catalysts: FOMC decision + SEP + Warsh press conference on Wed Sept 16.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-10y-yield-5pct-oct-2023-high-sep-14-2026](https://stock-tldr.xyz/releases/us-10y-yield-5pct-oct-2023-high-sep-14-2026)"
+      },
+      "publishDate": "2026-09-14T17:20:36.342Z"
+    },
+    {
+      "id": "openai-ipo-delay-altman-ill-advised-sep-12-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "OpenAI CEO Sam Altman tells Fortune (Fri Sept 12) it would be 'ill-advised' to IPO in 2026 — pushes what analysts pegged as up to $1T listing to 2027 at earliest, citing AI safety and alignment demands",
+      "org": "OpenAI",
+      "date": "2026-09-12",
+      "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+      "summary": "Altman told Fortune on Fri Sept 12 that OpenAI would not IPO in 2026, calling the current moment 'ill-advised' given AI safety demands. The delay pushes what could have been a ~$1T listing to 2027 at earliest.",
+      "tags": [
+        "openai",
+        "ipo",
+        "delay",
+        "altman",
+        "ai-safety",
+        "alignment",
+        "frontier-ai",
+        "amodei-echo",
+        "private-market"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Prior IPO valuation (analysts)": "up to $1T",
+        "Delayed to (earliest)": "2027",
+        "Interview publication": "Fortune, Fri Sept 12",
+        "Same-day context": "Amodei 'Pace the Frontier' essay"
+      },
+      "explainer": {
+        "tagline": "Altman: 'ill-advised moment' to take OpenAI public — 2026 IPO off the table, delayed to 2027 or later.",
+        "whatIsIt": "In an interview published by Fortune on Fri Sept 12, OpenAI CEO Sam Altman ruled out a 2026 IPO, saying: 'I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public.' Asked whether the listing could still happen this year, he added: 'I would say not 2026, yeah. We got a lot of stuff to do, like meeting this moment of what is going to be required for safety and alignment.' The comments landed the same day Anthropic CEO Dario Amodei's 'We Must Pace the Frontier' essay called for an industry slowdown, and were echoed by Sam Altman and Elon Musk over the weekend.",
+        "howItWorks": "Analysts had pegged an OpenAI IPO in the ~$1T range on the back of its dominant enterprise share. Altman had previously suggested a listing could come as soon as this year. Pushing it to 2027 or beyond keeps OpenAI in the private-round funding stack — where the company continues to raise from strategic partners rather than public markets — and prioritises internal safety and alignment work. Altman referenced SpaceX's private valuation trajectory (peaked ~$1.8T before markdowns) as a reminder that private status isn't a ceiling on scale.",
+        "whyItMatters": "OpenAI's IPO would have been the largest listing on record if priced anywhere near the $1T mark — losing that catalyst removes a Q4 tape-fixer that AI-adjacent longs had penciled in. Combined with the Amodei essay, it hardened the 'AI capex may cool' narrative and helped drag the Nasdaq 100 -1.7% and SOX -5.7% on Mon Sept 14. It also complicates Anthropic's own targeted pre-midterm IPO (Reuters reports Nvidia weighing a $10B anchor), which now becomes the sole megacap-AI listing in view.",
+        "forWho": "AI-longs, private-market allocators, IPO desks"
+      },
+      "image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/grab-3-e1789234458574.png?resize=1200,600",
+        "alt": "OpenAI CEO Sam Altman in a Fortune interview discussing why OpenAI will not IPO in 2026",
+        "fit": "cover",
+        "credit": "Fortune"
+      },
+      "links": [
+        {
+          "label": "Fortune: Ill-Advised Moment",
+          "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
+        },
+        {
+          "label": "BusinessToday Recap",
+          "url": "https://www.businesstoday.in/technology/story/2026-public-debut-sam-altman-rules-out-openai-ipo-as-ai-safety-fears-mount-555218-2026-09-13"
+        },
+        {
+          "label": "SFChronicle Follow-up",
+          "url": "https://www.sfchronicle.com/tech/article/openai-ipo-delay-altman-22430043.php"
+        },
+        {
+          "label": "The National: IPO Ruled Out",
+          "url": "https://www.thenationalnews.com/future/technology/2026/09/13/openai-rules-out-2026-ipo-as-sam-altman-flags-ai-safety-risks/"
+        }
+      ],
+      "reddit": {
+        "title": "Sam Altman tells Fortune OpenAI won't IPO in 2026 — calls it an 'ill-advised moment' given AI safety demands; delays ~$1T listing to 2027+",
+        "body": "OpenAI CEO Sam Altman ruled out a 2026 IPO in a Fortune interview published Fri Sept 12. The quotes:\n\n* 'Given everything happening with safety, right now would be an ill-advised moment to go public'\n* 'I would say not 2026, yeah. We got a lot of stuff to do, like meeting this moment of what is going to be required for safety and alignment'\n\nContext:\n\n* Analysts had pegged the OpenAI IPO at up to ~$1T — would have been one of the largest listings on record\n* Same day: Anthropic CEO Dario Amodei publishes 'We Must Pace the Frontier' essay calling for industry slowdown; endorsed by Musk over the weekend\n* Anthropic is separately targeting a pre-Nov-midterms IPO at ~$2T valuation with Nvidia reportedly weighing $10B anchor\n\nWhat it means:\n\n1. **AI capex trade cracked** — losing the OpenAI IPO catalyst removes a Q4 tape-fixer that AI-longs had penciled in. Nasdaq 100 -1.7% and SOX -5.7% on Mon Sept 14.\n2. **Private-market extend** — OpenAI stays in the private-round funding stack; Altman referenced SpaceX's ~$1.8T private peak as a reminder that private status isn't a ceiling.\n3. **Anthropic-only megacap-AI listing** — with OpenAI parked, Anthropic's targeted IPO becomes the sole near-term AI mega-listing.\n\nNext catalysts: FOMC Sept 16 (rate decision), Anthropic S-1 timing.\n\nFull breakdown: [https://stock-tldr.xyz/releases/openai-ipo-delay-altman-ill-advised-sep-12-2026](https://stock-tldr.xyz/releases/openai-ipo-delay-altman-ill-advised-sep-12-2026)"
+      },
+      "publishDate": "2026-09-14T17:20:36.342Z"
+    },
     {
       "id": "amodei-pace-frontier-ai-slowdown-sep-12-2026",
       "categories": [

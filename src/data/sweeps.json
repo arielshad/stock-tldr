@@ -11880,6 +11880,41 @@
         "commodity",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260914t172036z",
+      "timestamp": "2026-09-14T17:20:36.342Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items: (1) US 10Y Treasury yield tops 5.014% intraday Mon Sept 14, first breach of 5% since Oct 2023, on hot Aug CPI + oil surge from Sat Sept 11 Saudi pipeline shutdown + hawkish Warsh-Fed setup; (2) Sam Altman tells Fortune Fri Sept 12 OpenAI will not IPO in 2026, calling it an ill-advised moment given AI-safety demands. Saudi East-West pipeline shutdown (Sept 11) considered but dropped as >72h old — oil-price ripple already covered in Sept 13 Iran vessel-strike item.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-10y-yield-5pct-oct-2023-high-sep-14-2026",
+          "title": "US 10-year Treasury yield tops 5.014% intraday Mon Sept 14 — first breach of 5% since Oct 2023; Brent >$108 and hot Aug CPI push CME Fed-hike odds to ~88% ahead of Wed Sept 16 FOMC",
+          "category": "macro",
+          "note": "Distinct rates milestone; prior Aug 31 item covered 4.76% first close since Jan 2025. Sept 14 is the first 5-handle since Oct 2023 — separate event with new catalysts (oil + Aug CPI + Fed)."
+        },
+        {
+          "id": "openai-ipo-delay-altman-ill-advised-sep-12-2026",
+          "title": "OpenAI CEO Sam Altman tells Fortune (Fri Sept 12) it would be 'ill-advised' to IPO in 2026 — pushes what analysts pegged as up to $1T listing to 2027 at earliest, citing AI safety and alignment demands",
+          "category": "ipo",
+          "note": "Separate from Amodei-slowdown essay item (industry-level) — this is OpenAI-specific corporate action pushing its IPO past 2026."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "ipo",
+        "commodity",
+        "earnings",
+        "regulatory"
+      ]
     }
   ]
 }
