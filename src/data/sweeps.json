@@ -11847,6 +11847,39 @@
         "earnings",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260914t021507z",
+      "timestamp": "2026-09-14T02:15:07.246Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Sept 12-13 items added: Anthropic CEO Dario Amodei's 'We Must Pace the Frontier' essay endorsed by Altman and Musk (Nasdaq 100 futures -1.2% at Sunday open); and an Iranian cargo ship strike in the Strait of Hormuz that led Oman to postpone the Monday Salalah shipping-lane talks (WTI +3.4% to $103.43, Brent +3.6% to $108.37 at Sunday open).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amodei-pace-frontier-ai-slowdown-sep-12-2026",
+          "title": "Anthropic CEO Dario Amodei's 'We Must Pace the Frontier' essay drops Fri Sept 12 — Altman and Musk endorse call to slow AI; Nasdaq 100 futures -1.2% at Sun Sept 13 open, S&P 500 futures -0.6%",
+          "category": "article",
+          "note": "First cross-industry (Anthropic/OpenAI/xAI) public consensus on slowing frontier-AI capability development; Nasdaq 100 futures -1.2% at Sunday open — clear macro-sector event."
+        },
+        {
+          "id": "iran-hormuz-vessel-strike-talks-postponed-sep-13-2026",
+          "title": "Iranian commercial vessel struck near Qeshm Island in Strait of Hormuz early Sun Sept 13 — 1 killed, 4 wounded; Oman FM postpones Monday regional shipping-lane talks 'in the interests of consensus'; WTI +3.4% to $103.43 at Sunday open, Brent +3.6% to $108.37",
+          "category": "commodity",
+          "note": "New Sunday morning vessel strike in Strait of Hormuz + Oman-announced postponement of Monday's Iran-Gulf shipping-lane talks; distinct from earlier prohibited-zone (Sept 6) and Houthi-Aramco (Sept 8) items — new event, new date, new casualties."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "article",
+        "sector",
+        "commodity",
+        "macro"
+      ]
     }
   ]
 }
