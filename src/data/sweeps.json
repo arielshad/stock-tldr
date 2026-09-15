@@ -11951,6 +11951,30 @@
         "rates",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260915t155401z",
+      "timestamp": "2026-09-15T15:54:01.604Z",
+      "source": "github-actions-sweep",
+      "summary": "Pre-FOMC pause day (Fed decision Wed Sept 16). Searched tier-1 US markets press (Bloomberg, Reuters, TheStreet, CNBC, Yahoo Finance), earnings calendars (Earnings Whispers, Yahoo, Kiplinger), macro releases (NY Fed Empire State, BLS, Treasury), M&A/deal wires (PR Newswire, GlobeNewswire, BusinessWire), and crypto flow trackers (Farside, IBIT/FBTC). No noteworthy earnings today; NY Fed Empire State September survey posted (headline 7.6, prices paid 63.1 4-year high) but is a regional Fed indicator overshadowed by tomorrow's FOMC decision. Iran Hormuz oil escalation, US 10Y >5%, cyber-safety ETF rally, Baldwin take-private, Amodei AI-slowdown essay, ORCL Ellison 10b5-1 cancel, OpenAI IPO delay, and the Aug CPI/PPI prints are all already in feed. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "crypto",
+        "commodity",
+        "rates",
+        "regulatory"
+      ]
     }
   ]
 }
