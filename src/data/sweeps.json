@@ -11915,6 +11915,42 @@
         "earnings",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260915t021739z",
+      "timestamp": "2026-09-15T02:17:39.414Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Sept 14 items: (1) CIBR cybersecurity ETF +5.99% to $100.05 with CRWD +13.85%, ZS +16.52%, PANW +13.09% as Amodei's AI-slowdown essay bifurcates the AI trade against a SOX -5.9%; (2) Baldwin Insurance Group (BWIN) $7.7B all-cash take-private by Sequence Holdings + Michael Dell's DFO at $32.50/share (88% premium to unaffected June 17 close).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cyber-etf-ai-safety-rally-sep-14-2026",
+          "title": "Cybersecurity ETF CIBR +5.99% to $100.05 Mon Sept 14 as 'AI safety trade' bids pure-plays: CRWD +13.85%, ZS +16.52%, PANW +13.09% while SOX chip gauge sinks 5.9%",
+          "category": "sector",
+          "note": "First cash session where the AI trade decoupled at scale — cyber pure-plays ripped while semis sank on the same Amodei/Altman AI-safety catalyst; CIBR ETF +5.99% is a rare sector-wide signal."
+        },
+        {
+          "id": "bwin-dfo-sequence-take-private-sep-14-2026",
+          "title": "Baldwin Insurance Group (BWIN) to go private in $7.7B all-cash deal Mon Sept 14 — Sequence Holdings + Michael Dell's DFO to pay $32.50/share, 88% premium to unaffected June 17 close",
+          "category": "mna",
+          "note": "Largest US insurance-broker take-private in years, Dell family office lead, 88% unaffected premium, primary-source confirmed (Baldwin PR + SEC 8-K Item 1.01)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mna",
+        "earnings",
+        "macro",
+        "mover",
+        "rates",
+        "commodity"
+      ]
     }
   ]
 }

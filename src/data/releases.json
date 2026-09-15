@@ -1,8 +1,166 @@
 {
-  "generatedAt": "2026-09-14T17:20:36.342Z",
+  "generatedAt": "2026-09-15T02:17:39.414Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "cyber-etf-ai-safety-rally-sep-14-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "tickers": [
+        "CIBR",
+        "CRWD",
+        "PANW",
+        "ZS"
+      ],
+      "title": "Cybersecurity ETF CIBR +5.99% to $100.05 Mon Sept 14 as 'AI safety trade' bids pure-plays: CRWD +13.85%, ZS +16.52%, PANW +13.09% while SOX chip gauge sinks 5.9%",
+      "org": "First Trust NASDAQ Cybersecurity ETF",
+      "date": "2026-09-14",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html",
+      "summary": "Cybersecurity pure-plays ripped Mon Sept 14 as chip stocks sank on Amodei's AI-slowdown call. CIBR ETF +5.99% to $100.05, CrowdStrike +13.85% to $235.38, Zscaler +16.52% to $191.73, Palo Alto +13.09% to $373.94.",
+      "tags": [
+        "cybersecurity",
+        "cibr",
+        "sector-rotation",
+        "ai-safety",
+        "crwd",
+        "panw",
+        "zs",
+        "ai-risk",
+        "amodei-essay",
+        "sox-selloff"
+      ],
+      "importance": "major",
+      "metrics": {
+        "CIBR ETF": "+5.99% to $100.05 (Sept 11 close $94.40)",
+        "CRWD": "+13.85% to $235.38 (+$28.64)",
+        "PANW": "+13.09% to $373.94 (+$43.29)",
+        "ZS": "+16.52% to $191.73 (+$27.19)",
+        "SOX (chip gauge)": "-5.9%",
+        "Nvidia": "-3.26%"
+      },
+      "explainer": {
+        "tagline": "Wall Street splits the 'AI trade' in two: chips get sold, cyber-defense gets bought as Amodei's slowdown essay reframes AI as a threat surface.",
+        "whatIsIt": "First Trust NASDAQ Cybersecurity ETF (CIBR) closed Mon Sept 14 at $100.05, up 5.99% ($5.65) — one of its largest single-day gains on record — as pure-play security names caught a sector bid. The move mirrors an inverse tape in semiconductors: the Philadelphia Semiconductor Index fell 5.9% the same session, with Nvidia -3.26% the single largest drag on the S&P 500.",
+        "howItWorks": "CIBR's top holdings all closed sharply higher: CrowdStrike (CRWD) +13.85% to $235.38, Palo Alto Networks (PANW) +13.09% to $373.94, and Zscaler (ZS) +16.52% to $191.73. CIBR weights (as of Sept 11): PANW 8.88%, CRWD 8.55%, Fortinet 8.55%, Cisco 7.04%, Broadcom 6.13%, Cloudflare 4.79%, Okta 4.08%, Zscaler 3.38%. The move came without a company-specific earnings or M&A catalyst — the trigger was Anthropic CEO Dario Amodei's Sat Sept 12 'We Must Pace the Frontier' essay warning that autonomous AI agents could 'take over the internet within a year,' plus OpenAI CEO Sam Altman's Mon endorsement. CrowdStrike CEO George Kurtz posted a weekend rebuttal arguing labs will keep advancing regardless of pace and 'securing AI's progress' is cyber's job, drawing a Jim Cramer 'MUST BUY' response on air.",
+        "whyItMatters": "The AI trade has been binary since ChatGPT: buy the picks-and-shovels (chips, hyperscalers) and everything AI-adjacent rips together. Sept 14 is the first cash session where those factors decoupled — cyber pure-plays ripped while semis sank on the same catalyst. If Amodei-style safety concerns become durable, buyers may keep rotating from capex-hungry AI infrastructure into names that get paid more when AI risk is higher, not lower. Fortinet (FTNT), Cloudflare (NET), Okta (OKTA) and SentinelOne (S) are the next-tier CIBR names to watch for follow-through.",
+        "forWho": "sector rotators, cyber PMs, systematic factor desks",
+        "tryIt": "CIBR quote & holdings: https://finance.yahoo.com/quote/CIBR/"
+      },
+      "image": {
+        "url": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2517566697.jpg",
+        "alt": "Stylized cybersecurity padlock over digital circuit board, illustrating the sector's AI-risk trade",
+        "fit": "cover",
+        "credit": "Shutterstock via 24/7 Wall St."
+      },
+      "links": [
+        {
+          "label": "24/7 Wall St. Recap",
+          "url": "https://247wallst.com/investing/2026/09/14/cybersecurity-stocks-surge-as-ai-safety-warnings-spark-security-bid-crowdstrike-and-zscaler-jump-12-palo-alto-rallies-11/"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html"
+        },
+        {
+          "label": "CIBR Factsheet",
+          "url": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=CIBR"
+        },
+        {
+          "label": "CIBR Price History",
+          "url": "https://finance.yahoo.com/quote/CIBR/history"
+        },
+        {
+          "label": "CRWD Price History",
+          "url": "https://finance.yahoo.com/quote/CRWD/history"
+        }
+      ],
+      "reddit": {
+        "title": "Cybersecurity stocks rip on 'AI safety trade' Mon Sept 14: CIBR ETF +5.99% to $100.05, CRWD +13.85%, ZS +16.52%, PANW +13.09% — same day chips lose 5.9%",
+        "body": "Monday Sept 14 was the first cash session where the two sides of the AI trade decoupled hard. Cybersecurity pure-plays got bought as chip stocks got sold — on the same catalyst.\n\n* CIBR (First Trust NASDAQ Cybersecurity ETF) +5.99% to $100.05\n* CrowdStrike (CRWD) +13.85% to $235.38 (+$28.64)\n* Zscaler (ZS) +16.52% to $191.73 (+$27.19)\n* Palo Alto Networks (PANW) +13.09% to $373.94 (+$43.29)\n* Philadelphia Semiconductor Index -5.9%, Nvidia -3.26% (single-largest S&P drag)\n\nWhat moved it:\n\n1. **Amodei's 'Pace the Frontier' essay** — Anthropic CEO's Sat Sept 12 essay warns autonomous AI agents could 'take over the internet within a year.' OpenAI's Altman endorses Mon.\n2. **Kurtz counter-narrative** — CrowdStrike CEO's weekend rebuttal argues labs will keep advancing regardless and cybersecurity's job is to make that safe. Jim Cramer calls CRWD a 'MUST BUY' Monday.\n3. **The AI trade splits** — for the first time, one shock produced a bull case for security spend and a bear case for capex-hungry semis in the same session.\n\nNext CIBR names to watch for follow-through: Fortinet (FTNT), Cloudflare (NET), Okta (OKTA), SentinelOne (S).\n\nFull breakdown: [https://stock-tldr.xyz/releases/cyber-etf-ai-safety-rally-sep-14-2026](https://stock-tldr.xyz/releases/cyber-etf-ai-safety-rally-sep-14-2026)"
+      },
+      "publishDate": "2026-09-15T02:17:39.414Z"
+    },
+    {
+      "id": "bwin-dfo-sequence-take-private-sep-14-2026",
+      "categories": [
+        "mna"
+      ],
+      "tickers": [
+        "BWIN"
+      ],
+      "title": "Baldwin Insurance Group (BWIN) to go private in $7.7B all-cash deal Mon Sept 14 — Sequence Holdings + Michael Dell's DFO to pay $32.50/share, 88% premium to unaffected June 17 close",
+      "org": "The Baldwin Group",
+      "date": "2026-09-14",
+      "url": "https://baldwin.com/news/the-baldwin-group-to-go-private-through-majority-investment-by-sequence-holdings-and-dell-family-office/",
+      "summary": "Baldwin Insurance Group (BWIN) agreed Mon Sept 14 to go private for $32.50/share cash — a $7.7B enterprise value deal led by Sequence Holdings and Michael Dell's DFO Management. 88% premium to unaffected June 17 close. Target close Q1 2027.",
+      "tags": [
+        "mna",
+        "take-private",
+        "insurance-broker",
+        "bwin",
+        "michael-dell",
+        "sequence-holdings",
+        "dfo-management",
+        "all-cash",
+        "88-percent-premium"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal": "$7.7B enterprise value, all-cash",
+        "Cash per share": "$32.50",
+        "Premium (unaffected)": "88% vs June 17, 2026 close",
+        "Premium (last close)": "9.61% vs pre-announcement close",
+        "BWIN close Sept 14": "$32.00 (+7.93%)",
+        "Equity purchase": "~$4.6B",
+        "Net debt refinanced": "~$3.1B",
+        "Multiple": "~20x LTM adj EBITDA (~$396M)",
+        "Target close": "Q1 2027"
+      },
+      "explainer": {
+        "tagline": "Michael Dell's family office and a permanent-capital vehicle pull one of the largest US insurance brokers off the public market at nearly double its June price.",
+        "whatIsIt": "Baldwin Insurance Group, Inc. (NASDAQ: BWIN) — an independent insurance distribution and risk management firm based in Tampa — announced a definitive merger agreement Mon Sept 14 to be taken private by Sequence Holdings and DFO Management, the family office of Dell Technologies founder Michael Dell. Shareholders will receive $32.50 in cash per share. Baldwin closed Mon at $32.00, up 7.93% on the day and just below the offer.",
+        "howItWorks": "Total enterprise value: approximately $7.7B, comprising ~$4.6B in equity and ~$3.1B in refinanced net debt. The $32.50 cash price is an 88% premium to Baldwin's June 17, 2026 unaffected close — the day before deal-talks were first reported in the press — and a 9.61% premium to the last close before the definitive announcement. That values Baldwin at ~20x trailing-twelve-month adjusted EBITDA of ~$396M. Sequence and DFO are financing the deal without a financing condition. Class B shares will be canceled; eligible Baldwin employees can roll a portion of their equity into the private company. Advisors: Ardea Partners and MarshBerry (Baldwin financial), Davis Polk (Baldwin legal), Perella Weinberg (special committee financial), Piper Sandler (Sequence/DFO lead financial) with Moelis, Morgan Stanley, Barclays and Wells Fargo alongside, Latham & Watkins and Sullivan & Cromwell (Sequence/DFO legal). Target close: Q1 2027, subject to shareholder and regulatory approvals.",
+        "whyItMatters": "This is one of the largest US insurance-broker take-privates on record and Michael Dell's most public deal in years. Reuters framed the strategic logic as giving Baldwin room to invest in AI-driven underwriting and distribution without quarterly earnings pressure — echoing a broader trend of mid-cap growth names exiting public markets to fund AI upgrades. For arb desks: the 1.6% spread between $32.00 and the $32.50 offer implies a ~10 month close with market-standard regulatory risk. Comparable public brokers Aon (AON), Marsh McLennan (MMC), Arthur J. Gallagher (AJG) and Ryan Specialty (RYAN) all closed higher on Mon on read-through demand for scarce independent broker assets.",
+        "forWho": "M&A arb, insurance-broker analysts, private-equity capital-markets desks",
+        "tryIt": "SEC 8-K filing index: https://www.sec.gov/Archives/edgar/data/1781755/000095010326013874/0000950103-26-013874-index.htm"
+      },
+      "image": {
+        "url": "https://baldwin.com/app/uploads/TBG-logo-standard-open-graph-1200x630-1.png",
+        "alt": "The Baldwin Group corporate open-graph logo",
+        "fit": "contain",
+        "credit": "The Baldwin Group"
+      },
+      "links": [
+        {
+          "label": "Baldwin Press Release",
+          "url": "https://baldwin.com/news/the-baldwin-group-to-go-private-through-majority-investment-by-sequence-holdings-and-dell-family-office/"
+        },
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781755/000095010326013874/0000950103-26-013874-index.htm"
+        },
+        {
+          "label": "BWIN Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/BWIN"
+        },
+        {
+          "label": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/dells-dfo-management-and-sequence-to-take-baldwin-private-in-77-billion-deal-4899611"
+        },
+        {
+          "label": "InsideArbitrage Analysis",
+          "url": "https://www.insidearbitrage.com/2026/09/sequence-holdings-and-dell-family-office-to-take-the-baldwin-group-private-for-7-70-billion/"
+        }
+      ],
+      "reddit": {
+        "title": "Baldwin Insurance (BWIN) going private for $7.7B all-cash — Sequence + Michael Dell's DFO pay $32.50/share, 88% premium to June 17 unaffected close",
+        "body": "Big US insurance broker leaving the tape. Baldwin Group (NASDAQ: BWIN) signed a definitive take-private with Sequence Holdings and Michael Dell's family office DFO Management Mon Sept 14.\n\n* Deal: **$7.7B enterprise value, all-cash**\n* Cash per share: **$32.50**\n* Premium: **88% to unaffected June 17 close** (pre-leak), 9.61% to last close pre-announcement\n* BWIN close Mon: $32.00 (+7.93%) — arb spread ~1.6% to offer\n* Equity purchase ~$4.6B + refinanced net debt ~$3.1B; ~20x LTM adj EBITDA (~$396M)\n* Target close Q1 2027, no financing condition\n\nWhat's actually going on:\n\n1. **Take-private premium is enormous vs June** — the 88% premium math is against a beaten-up unaffected price. Against the last close it's only ~9.6%, so today's action doesn't imply a bidding war yet.\n2. **Dell family office lead** — DFO manages Michael Dell's wealth; Sequence is a permanent-capital service-economy roll-up using its Atlas platform to modernize acquired businesses.\n3. **Read-through to public brokers** — Aon, Marsh McLennan, Gallagher, Ryan Specialty all closed higher on scarcity of independent broker assets.\n\nAdvisors: Ardea Partners, Davis Polk, Perella Weinberg (Baldwin side); Piper Sandler lead, plus Moelis, Morgan Stanley, Barclays, Wells Fargo, Latham, Sullivan & Cromwell (Sequence/DFO).\n\nFull breakdown: [https://stock-tldr.xyz/releases/bwin-dfo-sequence-take-private-sep-14-2026](https://stock-tldr.xyz/releases/bwin-dfo-sequence-take-private-sep-14-2026)"
+      },
+      "publishDate": "2026-09-15T02:17:39.414Z"
+    },
     {
       "id": "us-10y-yield-5pct-oct-2023-high-sep-14-2026",
       "categories": [
