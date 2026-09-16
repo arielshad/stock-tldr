@@ -11975,6 +11975,50 @@
         "rates",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260916t021108z",
+      "timestamp": "2026-09-16T02:11:08.563Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep for 2026-09-16 T02:00Z window scans equities / macro / M&A / crypto / commodities / analyst calls; FOMC (Sep 16 14:00 ET), Aug retail sales (Sep 16 08:30 ET) and BoJ (Sep 17) had not yet printed at sweep time. Added three Sept 14 items — RUM/Anthropic $13.7B compute deal disclosure, Corning $2B ATM equity offering sell-off, and Corteva board approval of the Vylor spinoff with firm distribution calendar.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "rum-anthropic-137b-compute-deal-sep-14-2026",
+          "title": "Rumble (RUM) +11.6% close $8.00 (intraday $8.65, +20.6%) Mon Sept 14 — The Information names Anthropic as customer of $13.7B six-year Maysville GA compute deal already disclosed in Northern Data 8-K",
+          "category": "mover",
+          "note": "The Information's Sun–Mon report names Anthropic as the previously-unnamed counterparty on RUM's Aug 12 $13.7B 8-K; RUM +11.6% close (intraday +20.6%), CRWV/NBIS sell in sympathy."
+        },
+        {
+          "id": "glw-2b-atm-equity-offering-sep-14-2026",
+          "title": "Corning (GLW) -13.7% close $143.60 Mon Sept 14 — biggest single-day drop since July 28 — after Fri Sept 11 8-K discloses $2B at-the-market equity distribution deal with Goldman Sachs; Coherent -11%, Lumentum -9%, Fabrinet -6% in optics-supplier drag",
+          "category": "mover",
+          "note": "GLW -13.7% Monday after Fri 8-K discloses a $2B at-the-market equity program with Goldman — biggest single-day since -18% July 28; drags COHR, LITE, FN."
+        },
+        {
+          "id": "ctva-vylor-spinoff-approved-sep-14-2026",
+          "title": "Corteva (CTVA) board approves Vylor seed-business spinoff on Mon Sept 14 — 1-for-1 pro rata dividend to CTVA holders of record Sep 24, VYLR when-issued trading opens Sept 25, regular-way trading Oct 1; distribution intended tax-free for US federal purposes",
+          "category": "mna",
+          "note": "Corteva board formally approves the Vylor seed-business spinoff — 1-for-1 dividend to CTVA holders of record Sept 24, when-issued Sept 25, regular-way Oct 1; procedural but sets index arb calendar."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "mna",
+        "regulatory",
+        "insider",
+        "macro",
+        "earnings",
+        "crypto",
+        "commodity",
+        "rumor"
+      ]
     }
   ]
 }

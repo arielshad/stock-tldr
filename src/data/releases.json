@@ -1,8 +1,233 @@
 {
-  "generatedAt": "2026-09-15T15:54:01.604Z",
+  "generatedAt": "2026-09-16T02:11:08.563Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "rum-anthropic-137b-compute-deal-sep-14-2026",
+      "categories": [
+        "mover",
+        "rumor"
+      ],
+      "title": "Rumble (RUM) +11.6% close $8.00 (intraday $8.65, +20.6%) Mon Sept 14 — The Information names Anthropic as customer of $13.7B six-year Maysville GA compute deal already disclosed in Northern Data 8-K",
+      "org": "Rum Group",
+      "date": "2026-09-14",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rumble-stock-jumps-27-reported-164000576.html",
+      "summary": "Rumble Class A jumps 11.6% to $8.00 close (intraday high $8.65, +20.6%) Mon Sept 14 after The Information reports Anthropic is the mystery counterparty behind an August 8-K disclosing a $13.7B six-year GPU-services deal at Maysville, Georgia. CoreWeave (-2.5%) and Nebius (-2.3%) sell off on the read-through.",
+      "tags": [
+        "ai-capex",
+        "compute-lease",
+        "anthropic",
+        "rumble",
+        "northern-data",
+        "gpu-cloud",
+        "maysville-ga",
+        "the-information",
+        "rumor",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "RUM",
+        "CRWV",
+        "NBIS"
+      ],
+      "metrics": {
+        "Close": "$8.00 (+11.6%)",
+        "Intraday high": "$8.65 (+20.6%)",
+        "Prior close (Fri Sep 11)": "$7.17",
+        "Deal size": "$13.7B over 6 years",
+        "Capacity": "120 MW (expandable to 180 MW)",
+        "Anthropic option": "Up to 51M RUM shares at $0.01",
+        "CRWV move": "-2.48% to $80.92",
+        "NBIS move": "-2.27% to $207.37"
+      },
+      "explainer": {
+        "tagline": "Anthropic outed as buyer of Rumble's $13.7B compute deal at Maysville, Georgia — RUM rips, Nebius and CoreWeave shed on read-through.",
+        "whatIsIt": "The Information on Sun–Mon Sept 13–14 named Anthropic as the previously-unnamed counterparty behind a $13.7B six-year compute contract Rum Group disclosed in an 8-K on Aug 12. The capacity comes from a Maysville, Georgia data center Rumble picked up when it bought Germany-listed neocloud Northern Data in an all-stock deal in June 2026.",
+        "howItWorks": "The lease covers ~120 MW of grid power at Maysville with an option to scale to 180 MW; Northern Data's existing inventory of ~22K Nvidia Hopper GPUs seeds the fit-out. Structure spans three tranches — the third contingent on customer sign-off — and lets Anthropic acquire up to 51M RUM shares at $0.01 each, half tied to Maysville consumption and half to a separate future Rum site. Construction plus chip fit-out is likely to run north of $10B, financed by additional debt and equity.",
+        "whyItMatters": "Third mega-cap-scale Anthropic compute lease in six weeks after the $9.1B Riot Platforms Rockdale deal (Aug 10) and the $10B Meta rumor (July 17), and the first to name a small-cap AI-neocloud outside the Nebius/CoreWeave/CRWV duopoly. The read-through cuts both ways: CRWV and NBIS both fell as investors saw Anthropic diversifying capacity providers, while every listed neocloud with GPU-and-power inventory now has a Rumble-style optionality bid.",
+        "forWho": "AI-infra long-onlies, small-cap trader desks tracking neocloud names",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001830547&type=8-K"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/e3a016f96c3740de6f47478c5d76c5c28d1d4c4075ac2d1f8911c79c5cf79c27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2F103921bab2d0adef8a1b4caf03883b65.jpg",
+        "alt": "Rumble logo overlaid on trading screen showing Sept 14 RUM rally on Anthropic deal disclosure",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo — RUM Rally Coverage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/rumble-stock-jumps-27-reported-164000576.html"
+        },
+        {
+          "label": "24/7 Wall St — CRWV NBIS Sell",
+          "url": "https://247wallst.com/investing/2026/09/14/rumble-soars-10-on-report-anthropic-is-the-13-7b-compute-customer-coreweave-and-nebius-drop-9/"
+        },
+        {
+          "label": "TNW — Compute Deal Details",
+          "url": "https://thenextweb.com/news/anthropic-rum-group-13-7bn-compute-deal"
+        },
+        {
+          "label": "Yahoo — RUM Quote",
+          "url": "https://finance.yahoo.com/quote/RUM/"
+        }
+      ],
+      "reddit": {
+        "title": "Rumble (RUM) +11.6% to $8.00 (intraday $8.65, +20.6%) — The Information names Anthropic as the $13.7B mystery compute customer disclosed in Rumble's Aug 8-K",
+        "body": "The Information on Sept 13–14 identified Anthropic as the previously-unnamed counterparty behind the $13.7B six-year compute contract Rum Group (fka Rumble) disclosed in an Aug 12 8-K.\n\n* RUM closed $8.00, +11.6% on the day; intraday high $8.65 = +20.6% from Fri close $7.17\n* Deal covers ~120 MW at a Maysville, GA data center Rumble inherited from its June acquisition of Germany-listed Northern Data\n* Optionality clause lets Anthropic buy up to 51M RUM shares at $0.01 each — half tied to Maysville, half to a separate future Rum site\n* Site can expand to 180 MW; Rumble estimates >$10B in construction + chip fit-out\n* Read-through cuts both ways for other AI neoclouds: CoreWeave -2.48% to $80.92, Nebius -2.27% to $207.37\n\nThree things this tells you:\n\n1. **Anthropic keeps diversifying compute** — this is the third mega-scale lease in six weeks after the $9.1B Riot Platforms Rockdale deal (Aug 10) and the $10B Meta rumor (July 17).\n2. **Neocloud optionality bid is now live** — any listed small-cap with land, power and Hopper/Blackwell inventory is a potential lease target.\n3. **CRWV / NBIS aren't the only game** — the sell-off in both names is investors adjusting for a fatter competitive set.\n\nNext catalysts: Rumble's Q3 earnings + updated capacity guidance, Anthropic's IPO filing (rumored to price before Nov midterms).\n\nFull breakdown: [https://stock-tldr.xyz/releases/rum-anthropic-137b-compute-deal-sep-14-2026](https://stock-tldr.xyz/releases/rum-anthropic-137b-compute-deal-sep-14-2026)"
+      },
+      "publishDate": "2026-09-16T02:11:08.563Z"
+    },
+    {
+      "id": "glw-2b-atm-equity-offering-sep-14-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "Corning (GLW) -13.7% close $143.60 Mon Sept 14 — biggest single-day drop since July 28 — after Fri Sept 11 8-K discloses $2B at-the-market equity distribution deal with Goldman Sachs; Coherent -11%, Lumentum -9%, Fabrinet -6% in optics-supplier drag",
+      "org": "Corning",
+      "date": "2026-09-14",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/glw-stock-drops-premarket-corning-085405425.html",
+      "summary": "Corning slumps 13.7% to $143.60 on Mon Sept 14 after a Fri Sept 11 8-K disclosed a $2B at-the-market equity distribution agreement with Goldman Sachs — no fixed price, no set share count — that lets the company issue new stock opportunistically to fund AI-optics capex. Optics peers drop in sympathy: Coherent -11% to $273.30, Lumentum -9% to $843, Fabrinet -6% to $389.69.",
+      "tags": [
+        "at-the-market",
+        "equity-offering",
+        "dilution",
+        "ai-optics",
+        "capex",
+        "goldman-sachs",
+        "corning",
+        "mover",
+        "8-k"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GLW",
+        "COHR",
+        "LITE",
+        "FN"
+      ],
+      "metrics": {
+        "Close": "$143.60 (-13.7%)",
+        "Prior close (Fri Sep 11)": "$166.40",
+        "ATM size": "Up to $2B",
+        "Commission": "1.0% on gross sales",
+        "Sales agent": "Goldman Sachs",
+        "COHR move": "-11% to $273.30",
+        "LITE move": "-9% to $843",
+        "FN move": "-6% to $389.69"
+      },
+      "explainer": {
+        "tagline": "Corning drops 13.7% — biggest single-day since July 28 — after quietly filing to sell up to $2B of stock via Goldman.",
+        "whatIsIt": "Corning filed an 8-K after Fri Sept 11 close disclosing an Equity Distribution Agreement with Goldman Sachs allowing the company to sell up to $2B of common stock 'from time to time' via an at-the-market program. Shares gapped down at Mon Sept 14 open and never recovered, closing -13.7% to $143.60 — the biggest one-day drop since the -18% Q2 guide crash on July 28.",
+        "howItWorks": "Unlike a conventional secondary, an ATM sets no fixed price or share count — Goldman drips shares into the open market when Corning tells it to, taking a 1.0% commission on gross proceeds. The deal falls under Corning's automatically-effective April 24 Form S-3 shelf; a prospectus supplement was filed alongside the 8-K on Sept 11. Net proceeds are earmarked for 'general corporate purposes,' with no disclosed spending target beyond that.",
+        "whyItMatters": "The market read this as unplanned dilution to finance AI-optics buildout — Corning has been signing multi-year fiber-supply deals with Nvidia (May 2026, $500M warrants) and Amazon (Jun 8, multibillion-dollar) that require heavy manufacturing capex. Optics peers all fell in sympathy on the same read: Coherent -11%, Lumentum -9%, Fabrinet -6%. The move is likely a mix of dilution math (~14M shares at $145 = ~$2B ÷ 855M float ≈ 1.6% dilution) and the 'if they had a great quarter coming, why raise now?' signal.",
+        "forWho": "AI-optics and semi-cap-equipment desks, GLW long-onlies, event-driven traders on ATM programs",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0000024741/000119312526389321/d154232d8k.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/0984669e45ebb6850b8d255b4b249215d0a793e43e1fa85ef7310ca2e28baad8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F015fdbc53b2caeb679a20e459f54873f",
+        "alt": "Corning logo on stock chart showing Sept 14 sell-off after $2B ATM equity offering filing",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC — Corning 8-K Sep 11",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000024741/000119312526389321/d154232d8k.htm"
+        },
+        {
+          "label": "Yahoo — GLW Premarket Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/glw-stock-drops-premarket-corning-085405425.html"
+        },
+        {
+          "label": "24/7 Wall St — Optics Sympathy",
+          "url": "https://247wallst.com/investing/2026/09/14/corning-tumbles-12-on-2b-at-the-market-equity-offering-coherent-sinks-11-lumentum-drops-9-fabrinet-slides-6/"
+        },
+        {
+          "label": "TipRanks — Corning ATM Announcement",
+          "url": "https://www.tipranks.com/news/company-announcements/corning-announces-2-billion-at-the-market-equity-program"
+        }
+      ],
+      "reddit": {
+        "title": "Corning (GLW) -13.7% to $143.60 — worst day since July 28 — after Fri 8-K discloses $2B at-the-market equity offering with Goldman as sales agent",
+        "body": "Corning gapped down at the Sept 14 open and never recovered, closing -13.7% at $143.60 after a Fri Sept 11 8-K disclosed a $2B at-the-market equity distribution deal with Goldman Sachs.\n\n* GLW closed $143.60, -13.7% vs Fri close $166.40 — biggest single-day drop since -18% Q2-guide-crash on July 28\n* ATM lets Corning sell up to $2B of common stock 'from time to time' at Goldman's discretion — no fixed price, no set share count\n* Goldman collects a 1.0% commission on gross sales\n* Optics suppliers dropped in sympathy: Coherent -11% to $273.30, Lumentum -9% to $843, Fabrinet -6% to $389.69\n\nWhy the tape read this so hard:\n\n1. **Unplanned dilution to fund AI-optics capex** — Corning has been signing multi-year fiber-supply deals with Nvidia (May, $500M warrants) and Amazon (June, multibillion). Fab expansion isn't cheap.\n2. **Wrong-signal timing** — the 'if the next quarter is strong, why raise equity now?' overhang is the market's version of Bayes' rule on management confidence.\n3. **Optics sympathy trade** — every listed fiber name got repriced on the assumption that AI-optics demand isn't as sold-out as the sell-side has been modeling.\n\nDilution math: ~14M new shares at $145 ≈ $2B on 855M float = ~1.6% dilution. Move is bigger than that, so most of the -14% is signal-shift, not math.\n\nFull breakdown: [https://stock-tldr.xyz/releases/glw-2b-atm-equity-offering-sep-14-2026](https://stock-tldr.xyz/releases/glw-2b-atm-equity-offering-sep-14-2026)"
+      },
+      "publishDate": "2026-09-16T02:11:08.563Z"
+    },
+    {
+      "id": "ctva-vylor-spinoff-approved-sep-14-2026",
+      "categories": [
+        "mna",
+        "regulatory"
+      ],
+      "title": "Corteva (CTVA) board approves Vylor seed-business spinoff on Mon Sept 14 — 1-for-1 pro rata dividend to CTVA holders of record Sep 24, VYLR when-issued trading opens Sept 25, regular-way trading Oct 1; distribution intended tax-free for US federal purposes",
+      "org": "Corteva",
+      "date": "2026-09-14",
+      "url": "https://www.prnewswire.com/news-releases/corteva-board-of-directors-approves-vylor-distribution-302876601.html",
+      "summary": "Corteva's board approves the Vylor seed-business spinoff on Mon Sept 14 — CTVA holders of record Sept 24 will receive 1 Vylor share per CTVA share, distributed pre-open on Oct 1. When-issued trading of VYLR WI opens on NYSE Sept 25; regular-way VYLR trading begins Oct 1. Distribution intended tax-free for US federal purposes.",
+      "tags": [
+        "spinoff",
+        "corteva",
+        "vylor",
+        "seed",
+        "agtech",
+        "corporate-action",
+        "vylr",
+        "8-k",
+        "when-issued"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CTVA"
+      ],
+      "metrics": {
+        "Ratio": "1 VYLR per 1 CTVA held",
+        "Record date": "Close of business Sep 24 2026",
+        "When-issued open": "Sep 25 2026 (VYLR WI)",
+        "Regular-way open": "Oct 1 2026 (VYLR)",
+        "Tax treatment": "Intended tax-free (US federal)",
+        "CTVA move Sept 14": "-1.6% to $82.54",
+        "Future Vylor CEO": "Chuck Magro",
+        "Vylor brands": "Pioneer, Brevant"
+      },
+      "explainer": {
+        "tagline": "Corteva board green-lights the Vylor seed-business spinoff — record date Sept 24, when-issued trading Sept 25, VYLR opens Oct 1.",
+        "whatIsIt": "Corteva's board on Mon Sept 14 formally approved the separation of its seed operating segment into an independent NYSE-listed company, Vylor Inc. This is the procedural approval of the split first announced May 4 when former Corteva CEO Chuck Magro was named future Vylor CEO. Investor day (Vylor at 9:00 AM ET, post-separation Corteva at 1:00 PM ET) runs Sept 15.",
+        "howItWorks": "Corteva holders of record at close of business Sept 24 receive one Vylor common share for each CTVA share held, distributed via pro rata dividend pre-open on Oct 1. When-issued trading of VYLR WI opens on NYSE Sept 25 to let investors trade the new entity ahead of the ex-date. Cash goes out in lieu of fractional shares. The transaction is intended to be tax-free to Corteva stockholders for US federal purposes except for that fractional-share cash.",
+        "whyItMatters": "Splits ~$60B-EV Corteva into a pure-play crop-protection Corteva (retained) and a pure-play seed-and-genetics Vylor with Pioneer and Brevant brands, 4K+ germplasm patents, 2K+ biotech patents. The clean 1-for-1 ratio + short 6-trading-day when-issued window sets up index and ETF rebalancing pressure into month-end. CTVA barely moved on the news (-1.6% to $82.54) because the split has been telegraphed since May; the arb window opens Sept 25.",
+        "forWho": "Event-driven / spin-off desks, ag-tech equity, index-rebalancing arbs",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001755672/000119312526391369/d71834d8k.htm"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1169031/Corteva-Logo.jpg?id=OA2942173&p=facebook",
+        "alt": "Corteva Agriscience corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "PR Newswire — Board Approval",
+          "url": "https://www.prnewswire.com/news-releases/corteva-board-of-directors-approves-vylor-distribution-302876601.html"
+        },
+        {
+          "label": "SEC — Corteva 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001755672/000119312526391369/d71834d8k.htm"
+        },
+        {
+          "label": "Corteva — Vylor Overview",
+          "url": "https://www.corteva.com/resources/media-center/introducing-vylor.html"
+        },
+        {
+          "label": "Yahoo — Approval Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/corteva-board-approves-seed-business-133253367.html"
+        }
+      ],
+      "reddit": {
+        "title": "Corteva (CTVA) board approves Vylor seed-business spinoff — 1-for-1 pro rata dividend to CTVA holders of record Sept 24, VYLR when-issued trading opens Sept 25, regular-way Oct 1, distribution intended tax-free",
+        "body": "Corteva's board formally approved the Vylor spinoff on Mon Sept 14. The split has been telegraphed since May, but this is the procedural go-ahead with a firm calendar.\n\n* Distribution: 1 Vylor common share per 1 CTVA share held, pro rata dividend\n* Record date: close of business Sept 24, 2026\n* When-issued: VYLR WI opens on NYSE Sept 25\n* Regular-way: VYLR opens Oct 1, before 9:30 AM ET\n* Tax: intended tax-free to CTVA holders for US federal purposes (except cash in lieu of fractional shares)\n* CTVA closed Sept 14 at $82.54, -1.6% — most of the split had already been priced in\n\nWhat this actually creates:\n\n1. **Pure-play seed + genetics Vylor** — Pioneer, Brevant, 4K+ germplasm patents, 2K+ biotech patents. Future CEO Chuck Magro (former Corteva CEO, named May 4).\n2. **Pure-play crop-protection Corteva** — retained parent, cleaner comp set vs FMC and Bayer's crop-science arm.\n3. **A short arb window** — only 6 trading days from when-issued open to ex-date, which means index/ETF rebalancing pressure lands right into month-end.\n\nNext catalysts: Sept 15 dual investor day (Vylor 9 AM ET, post-separation CTVA 1 PM ET), when-issued open Sept 25, VYLR regular-way trading Oct 1.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ctva-vylor-spinoff-approved-sep-14-2026](https://stock-tldr.xyz/releases/ctva-vylor-spinoff-approved-sep-14-2026)"
+      },
+      "publishDate": "2026-09-16T02:11:08.563Z"
+    },
     {
       "id": "cyber-etf-ai-safety-rally-sep-14-2026",
       "categories": [
