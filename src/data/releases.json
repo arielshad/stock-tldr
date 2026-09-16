@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-09-16T02:11:08.563Z",
+  "generatedAt": "2026-09-16T15:46:22.884Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "intc-skhy-ohio-memory-talks-sep-16-2026",
+      "categories": [
+        "rumor",
+        "mover"
+      ],
+      "title": "Reportedly: SK Hynix in early talks with Intel to make memory chips at Ohio campus — Reuters exclusive Wed Sept 16; INTC +4% to $100.55, SKHY +3.3% to $180.52, SOXX +2% as Micron flat",
+      "org": "Intel",
+      "tickers": [
+        "INTC",
+        "SKHY",
+        "MU"
+      ],
+      "date": "2026-09-16",
+      "url": "https://www.koreaherald.com/article/10875971",
+      "summary": "Reuters exclusive cites three people familiar: SK Hynix is weighing leasing part of Intel's delayed $100B Ohio campus, or a JV with Intel and hyperscalers. SK Hynix says no matters determined.",
+      "tags": [
+        "rumor",
+        "semis",
+        "memory",
+        "hbm",
+        "dram",
+        "ohio-fab",
+        "chips-act",
+        "ai-capex",
+        "reuters-exclusive",
+        "us-manufacturing"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "INTC": "+4.0% to $100.55",
+        "SKHY (ADR)": "+3.3% to $180.52",
+        "MU": "+0.9% to $935.80",
+        "SOXX": "+2%",
+        "Sources": "Reuters, 3 people familiar"
+      },
+      "explainer": {
+        "tagline": "Reuters says SK Hynix could lease part of Intel's Ohio complex, or form a JV with Intel and cloud giants, to make memory chips on U.S. soil for the first time.",
+        "whatIsIt": "Reuters reported Wednesday Sept 16 that SK Hynix — the world's largest maker of high-bandwidth memory used in AI servers — is in early talks with Intel to manufacture memory chips in the United States. Two structures are on the table. Intel called the report speculative and declined to comment on negotiations but reiterated its commitment to preparing its Ohio site. SK Hynix said it is reviewing various measures to strengthen its memory business but that no matters have been determined.",
+        "howItWorks": "Option 1 is for SK Hynix to lease part of Intel's long-delayed $100B Ohio semiconductor complex, whose two plants are not expected to be operational until 2030–2031. Option 2 is a joint venture with Intel and major cloud companies seeking stable memory supplies. Neither the deal structure nor the memory chip types (DRAM vs. HBM) have been chosen. SK Hynix currently produces no memory wafers in the U.S., though it is building a $4B advanced packaging facility for AI chips in Indiana.",
+        "whyItMatters": "For Intel, a paying tenant at the stalled Ohio site would validate its foundry ambitions and lock in a marquee customer under the CHIPS Act. For SK Hynix, a U.S. footprint would harden against tariff, sanction and procurement risk on Korean-made chips going into U.S. AI servers. For Micron, a Korean rival producing DRAM/HBM inside the U.S. could erode its national-security procurement edge — MU still rose 0.9% today. The SOXX semiconductor ETF added 2% versus a 0.6% gain for the Nasdaq 100.",
+        "forWho": "semis desks, memory-cycle traders",
+        "tryIt": "https://finance.yahoo.com/quote/INTC"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/07/SK-Hynix.jpg?resize=1200,675",
+        "alt": "SK Hynix corporate signage",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Korea Herald",
+          "url": "https://www.koreaherald.com/article/10875971"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/"
+        },
+        {
+          "label": "24/7 Wall St",
+          "url": "https://247wallst.com/investing/2026/09/16/intel-rises-4-sk-hynix-climbs-3-as-reuters-reports-talks-to-make-memory-chips-at-ohio-campus-micron-holds-flat/"
+        },
+        {
+          "label": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-reportedly-discussing-us-memory-chip-manufacturing-with-intel-options-include-leasing-ohio-plant-or-forming-joint-venture-with-other-ai-hyperscalers"
+        },
+        {
+          "label": "Stocktwits (denial)",
+          "url": "https://stocktwits.com/news-articles/markets/equity/sk-hynix-pushes-back-on-intel-us-chip-deal-says-nothing-has-been-finalized/cZtYh6aRB2r"
+        }
+      ],
+      "reddit": {
+        "title": "Reuters: SK Hynix in early talks with Intel to make memory chips at Ohio campus — INTC +4%, SKHY +3.3% on the report",
+        "body": "Reuters dropped a chip-supply-chain exclusive Wednesday morning: SK Hynix — the world's biggest maker of HBM for AI servers — is in early talks with Intel about producing memory in the U.S. for the first time.\n\n* Intel (INTC) +4.0% intraday to $100.55\n* SK Hynix ADR (SKHY) +3.3% to $180.52\n* Micron (MU) +0.9% to $935.80 — holding up despite competitive threat\n* SOXX +2% vs Nasdaq 100 +0.6%\n* Reuters cites three people familiar; Intel calls it speculative, SK Hynix says nothing is finalized\n\nTwo structures are reportedly on the table:\n\n1. **Lease Intel's Ohio campus** — SK Hynix takes part of Intel's delayed $100B semiconductor complex, whose two plants aren't expected to be operational until 2030–2031.\n2. **Joint venture with hyperscalers** — Intel + SK Hynix + major cloud companies seeking stable memory supplies for AI infra.\n\nWhy it matters: for Intel it's validation of the Ohio foundry pitch and a marquee tenant under the CHIPS Act; for SK Hynix it's a hedge against tariff/procurement risk on Korean-made chips going into U.S. AI servers; for Micron a Korean rival producing DRAM/HBM on U.S. soil chips away at the national-security procurement edge.\n\nNext catalysts: FOMC decision this afternoon (Sept 16, 2pm ET), then Micron FY26 Q4 earnings later this month.\n\nFull breakdown: [https://stock-tldr.xyz/releases/intc-skhy-ohio-memory-talks-sep-16-2026](https://stock-tldr.xyz/releases/intc-skhy-ohio-memory-talks-sep-16-2026)"
+      },
+      "publishDate": "2026-09-16T15:46:22.884Z"
+    },
     {
       "id": "rum-anthropic-137b-compute-deal-sep-14-2026",
       "categories": [

@@ -12019,6 +12019,33 @@
         "commodity",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20260916t154622z",
+      "timestamp": "2026-09-16T15:46:22.884Z",
+      "source": "github-actions-sweep",
+      "summary": "Ships one item: Reuters exclusive that SK Hynix is in early talks with Intel to make memory chips at Intel's Ohio campus (or via a JV with cloud giants). INTC +4%, SKHY +3.3%, MU flat. Kept out FOMC (decision at 2pm ET drops after this sweep) and Saudi Aramco cargo cancellations (extension of already-covered pipeline/Hormuz thread).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "intc-skhy-ohio-memory-talks-sep-16-2026",
+          "title": "Reportedly: SK Hynix in early talks with Intel to make memory chips at Ohio campus — Reuters exclusive Wed Sept 16; INTC +4% to $100.55, SKHY +3.3% to $180.52, SOXX +2% as Micron flat",
+          "category": "rumor",
+          "note": "Reuters exclusive (Wed Sept 16), primary tier-1 rumor with 3 sourced individuals; INTC +4% intraday, SKHY +3.3% intraday, SOXX +2% vs Nasdaq 100 +0.6% — clear market-moving impact; distinct from prior Intel-Apple / Intel-Google-TPU / SK Hynix ADR IPO threads."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "semis",
+        "rumor",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
