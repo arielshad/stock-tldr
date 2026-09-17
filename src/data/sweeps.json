@@ -12046,6 +12046,48 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260917t022019z",
+      "timestamp": "2026-09-17T02:20:19.822Z",
+      "source": "github-actions-sweep",
+      "summary": "3 items added: seismic FOMC 25bp hike to 3.75-4.00% (first since 2023, 12-0 vote, hawkish SEP), JBHT -13% on rare intra-quarter Q3 warning at Morgan Stanley Laguna, CLARITY Act cloture fails 49-50 (COIN -10%, CRCL -11%, BTC -4%). Coverage across macro/rates, mover, regulatory/crypto. PLAY Q2 earnings scoped but dropped: release date 2026-09-14 was 74h old at sweep — outside 72h cap.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fomc-sep-2026-25bp-hike-sep-16",
+          "title": "FOMC September 2026 — hikes 25bp to 3.75–4.00%, first rate hike since 2023; unanimous 12-0 vote and median dot signals one more 25bp by year-end",
+          "category": "macro",
+          "note": "Seismic Fed hike (first since 2023) with full dot-plot shift — primary sources federalreserve.gov and Yahoo live blog."
+        },
+        {
+          "id": "jbht-q3-warning-morgan-stanley-conf-sep-16-2026",
+          "title": "J.B. Hunt (JBHT) -13.3% close $236.73 Wed Sept 16 — rare intra-quarter warning at Morgan Stanley Laguna Conference sees Q3 EPS falling 5–10% sequentially from Q2's $1.91 on $25M driver-cost bump and $10M+ diesel headwind",
+          "category": "mover",
+          "note": "Rare intra-quarter earnings warning at Morgan Stanley Laguna conf tied to $25M driver + $10M+ diesel; -13.3% close, trucking group re-rated lower."
+        },
+        {
+          "id": "clarity-act-senate-cloture-fail-sep-15-2026",
+          "title": "Digital Asset Market CLARITY Act fails Senate cloture 49-50 on Tues Sept 15 — 4 GOP defections (Collins, Hawley, Moran, Tillis) sink year's biggest crypto bill; COIN -10.10% to $172.11, CRCL -11.41% to $86.30, BTC -~4% to ~$75.7K",
+          "category": "regulatory",
+          "note": "Senate cloture fails 49-50 on the year's biggest crypto bill; COIN -10.10%, CRCL -11.41%, MSTR -5.36%, BTC -~4%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "mover",
+        "sector",
+        "regulatory",
+        "crypto",
+        "earnings"
+      ]
     }
   ]
 }

@@ -1,8 +1,247 @@
 {
-  "generatedAt": "2026-09-16T15:46:22.884Z",
+  "generatedAt": "2026-09-17T02:20:19.822Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fomc-sep-2026-25bp-hike-sep-16",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "FOMC September 2026 — hikes 25bp to 3.75–4.00%, first rate hike since 2023; unanimous 12-0 vote and median dot signals one more 25bp by year-end",
+      "org": "Federal Reserve",
+      "date": "2026-09-16",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "summary": "Fed lifts target range 25bp to 3.75–4.00% on unanimous 12-0 vote at Warsh's fourth meeting — first hike since 2023. SEP median funds rate for end-2026 rises to 4.1% (implies one more 25bp); Dow -1.21% to 51,461.90, 10Y tops 5%.",
+      "tags": [
+        "fomc",
+        "fed",
+        "rate-hike",
+        "warsh",
+        "sep-dot-plot",
+        "hawkish",
+        "monetary-policy",
+        "10y-yield"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "New target range": "3.75–4.00% (+25bp)",
+        "Vote": "12-0 unanimous",
+        "SEP median FF rate end-2026": "4.1%",
+        "SEP median FF rate end-2027": "4.1%",
+        "SEP median FF rate longer run": "3.2%",
+        "S&P 500": "-0.45% to 7,551.81",
+        "Dow": "-1.21% to 51,461.90 (-631.21 pts)",
+        "Nasdaq": "-0.01% to 25,978.42",
+        "10Y Treasury": "tops 5.04% intraday, first breach since Oct 2023"
+      },
+      "explainer": {
+        "tagline": "Fed hikes 25bp to 3.75–4.00% on a unanimous 12-0 vote — first hike since 2023, dot plot signals one more this year.",
+        "whatIsIt": "The Federal Open Market Committee raised the target range for the federal funds rate by 25 basis points to 3.75–4.00% at its September 15-16 meeting — the first hike in roughly three years. The move was widely expected: CME FedWatch put odds of a hike near 92% into the print. Chair Kevin Warsh's press conference struck a hawkish tone on persistent inflation.",
+        "howItWorks": "Vote was 12-0 unanimous with no dissents. The statement notes 'inflation remains elevated' and frames the hike as supporting 'a timelier return to the Committee's 2 percent goal'; jobs 'have kept pace with the workforce' and 'unemployment rate has changed little.' The September Summary of Economic Projections shifted the median federal funds rate to 4.1% for end-2026 (implying one more 25bp move), 4.1% end-2027, 3.9% end-2028, and 3.2% longer run. Median 2026 PCE inflation projected at 3.7% (core PCE 3.4%), with unemployment at 4.1%.",
+        "whyItMatters": "First hike in three years cements the Warsh Fed's pivot from June's 'hawkish hold' to active tightening — driven by August CPI at 3.4% headline / 2.4% core Y/Y and Brent above $105. Long-end yields ripped: the 10-year topped 5.04% intraday, the first breach since October 2023, while the 2-year fell ~1bp on the announcement. Dow fell 631 points, S&P -0.45%, Nasdaq flat — pain concentrated in rate-sensitive financials and duration-heavy growth names.",
+        "forWho": "macro traders, rates desks, allocators",
+        "tryIt": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+      },
+      "image": {
+        "url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+        "alt": "Federal Reserve seal on the Marriner S. Eccles Building",
+        "fit": "contain",
+        "credit": "Federal Reserve"
+      },
+      "links": [
+        {
+          "label": "FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+        },
+        {
+          "label": "SEP / Dot Plot",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+        },
+        {
+          "label": "SEP Press Release",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
+        },
+        {
+          "label": "Yahoo Live Blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html"
+        },
+        {
+          "label": "Kiplinger Live",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026"
+        }
+      ],
+      "reddit": {
+        "title": "FOMC hikes 25bp to 3.75–4.00% — first Fed rate hike since 2023, unanimous 12-0, dot plot pencils in one more this year",
+        "body": "The Warsh Fed pulled the trigger. Wednesday Sept 16, the FOMC lifted the target range 25bp to 3.75–4.00% — the first hike in roughly three years — on a clean 12-0 vote.\n\n* Vote: 12-0 unanimous, no dissents\n* New range: 3.75–4.00% (from 3.50–3.75%)\n* SEP median FF rate: **4.1% end-2026** (implies one more 25bp), 4.1% end-2027, 3.9% end-2028, 3.2% longer run\n* Statement flags 'inflation remains elevated'; jobs 'kept pace with the workforce'\n* Median 2026 PCE 3.7% / core PCE 3.4%; unemployment 4.1%\n\nMarket reaction was ugly for duration:\n\n1. **Dow -631 pts (-1.21%) to 51,461.90** — Goldman led the tape lower\n2. **S&P 500 -0.45% to 7,551.81; Nasdaq essentially flat (-0.01%)** — mega-cap growth held in\n3. **10-year Treasury topped 5.04% intraday** — first breach since Oct 2023; 2Y fell ~1bp\n\nWarsh's presser was interpreted as hawkish — taciturn on how many more hikes are actually coming.\n\nNext catalysts: Oct FOMC minutes, Sept CPI and jobs prints, and any Warsh speeches ahead of the next meeting.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-sep-2026-25bp-hike-sep-16](https://stock-tldr.xyz/releases/fomc-sep-2026-25bp-hike-sep-16)"
+      },
+      "publishDate": "2026-09-17T02:20:19.822Z"
+    },
+    {
+      "id": "jbht-q3-warning-morgan-stanley-conf-sep-16-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "J.B. Hunt (JBHT) -13.3% close $236.73 Wed Sept 16 — rare intra-quarter warning at Morgan Stanley Laguna Conference sees Q3 EPS falling 5–10% sequentially from Q2's $1.91 on $25M driver-cost bump and $10M+ diesel headwind",
+      "org": "J.B. Hunt Transport Services",
+      "date": "2026-09-16",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-flags-q3-141353818.html",
+      "summary": "JBHT closes -13.3% at $236.73 Wed Sept 16 after CFO Brad Delco flags Q3 EPS falling 5–10% Q/Q from Q2's $1.91 at Morgan Stanley Laguna Conference — $25M added driver costs, $10M+ diesel headwind. Trucking group re-rated lower on the read-across.",
+      "tags": [
+        "guidance-cut",
+        "trucking",
+        "intermodal",
+        "diesel",
+        "profit-warning",
+        "cost-inflation",
+        "morgan-stanley-conference"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JBHT",
+        "ODFL",
+        "XPO",
+        "KNX"
+      ],
+      "metrics": {
+        "Move": "-13.30% to $236.73 (-$36.32)",
+        "Q2 2026 EPS": "$1.91",
+        "Q3 2026 EPS guide": "-5% to -10% Q/Q (~$1.72–$1.81 vs $2.10 est)",
+        "Driver-cost bump": "$25M sequential",
+        "Diesel headwind": "$10M+ sequential",
+        "Prior Q2 revenue": "$3.49B (+19.4% Y/Y)"
+      },
+      "explainer": {
+        "tagline": "JBHT tanks 13% after CFO Brad Delco delivers a rare intra-quarter warning at the Morgan Stanley Laguna Conference.",
+        "whatIsIt": "J.B. Hunt Transport Services warned that third-quarter earnings will fall 5% to 10% sequentially from Q2's $1.91 adjusted EPS — a rare intra-quarter disclosure delivered by CFO Brad Delco at the Morgan Stanley Laguna Conference on Tuesday evening. Consensus for Q3 had been near $2.10, so the midpoint of the new range (~$1.77) is roughly 16% below the Street.",
+        "howItWorks": "Two cost lines drive the cut: $25 million in incremental driver-related expenses (recruiting, training, sign-on bonuses) as the company staffs up for peak-season volumes, and at least $10 million from record-high diesel prices — U.S. retail diesel averaged around $6.30/gallon during the period, with prices up ~10% sequentially from July to August. Elevated insurance claims were flagged as an additional but unquantified headwind. Management characterized the pressure as 'more cyclical than structural' and said the driver cost signal is a sign of a strong freight market.",
+        "whyItMatters": "Rare intra-quarter warnings from a trucking bellwether typically get read as a macro tell — JBHT closed -13.3% at $236.73, wiping ~$35B in market cap and dragging trucking comps (ODFL, XPO, KNX, SNDR, RXO) with it. Combined with hot August PPI diesel (+24.1%) and 10Y >5%, the print reinforces the 'sticky inflation, weakening earnings' setup ahead of Q3 reporting season.",
+        "forWho": "trucking, transports, freight-macro traders",
+        "tryIt": "https://finance.yahoo.com/quote/JBHT"
+      },
+      "image": {
+        "url": "https://www.freightwaves.com/wp-content/uploads/2026/09/16/a-view-of-the-rear-of-a-JB-Hunt-trailer.jpg",
+        "alt": "Rear view of a J.B. Hunt trailer on the highway",
+        "fit": "cover",
+        "credit": "FreightWaves"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-flags-q3-141353818.html"
+        },
+        {
+          "label": "FreightWaves Report",
+          "url": "https://www.freightwaves.com/news/j-b-hunt-flags-q3-cost-pressures-shares-sink-12"
+        },
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html"
+        },
+        {
+          "label": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/09/16/why-jb-hunt-stock-dropped-today/"
+        },
+        {
+          "label": "JBHT Ticker",
+          "url": "https://finance.yahoo.com/quote/JBHT"
+        }
+      ],
+      "reddit": {
+        "title": "J.B. Hunt (JBHT) -13.3% to $236.73 on rare intra-quarter warning — Q3 EPS to drop 5–10% Q/Q on $25M driver costs and $10M+ diesel headwind",
+        "body": "JBHT delivered a very unusual mid-quarter earnings warning at the Morgan Stanley Laguna Conference Tuesday night, and Wall Street took the hint.\n\n* Stock closed **-13.3% at $236.73** (-$36.32) Wed Sept 16\n* Q2 2026 adj EPS was $1.91 → Q3 now guided **5–10% lower Q/Q** (~$1.72–$1.81)\n* Street consensus for Q3 was ~$2.10 → midpoint ~16% below the Street\n* $25M incremental driver costs (recruiting, training, sign-on bonuses)\n* $10M+ fuel headwind; U.S. diesel ran ~$6.30/gal, up ~10% MoM\n* Elevated insurance claims (unquantified)\n\nWhy this hits hard:\n\n1. **Trucking bellwethers rarely warn intra-quarter** — JBHT itself notes it doesn't typically discuss intra-quarter trends\n2. **Sector re-rated lower** — ODFL, XPO, KNX, SNDR, RXO all dragged on the read-across\n3. **Macro tell** — pairs with hot Aug PPI diesel (+24.1%) and 10Y >5% into a Fed that just hiked 25bp\n\nManagement framed it 'more cyclical than structural' — driver bidding-up is a sign freight demand is coming back.\n\nNext catalysts: Q3 earnings mid-October, weekly EIA diesel prints, ISM Manufacturing on Oct 1.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jbht-q3-warning-morgan-stanley-conf-sep-16-2026](https://stock-tldr.xyz/releases/jbht-q3-warning-morgan-stanley-conf-sep-16-2026)"
+      },
+      "publishDate": "2026-09-17T02:20:19.822Z"
+    },
+    {
+      "id": "clarity-act-senate-cloture-fail-sep-15-2026",
+      "categories": [
+        "regulatory",
+        "crypto"
+      ],
+      "title": "Digital Asset Market CLARITY Act fails Senate cloture 49-50 on Tues Sept 15 — 4 GOP defections (Collins, Hawley, Moran, Tillis) sink year's biggest crypto bill; COIN -10.10% to $172.11, CRCL -11.41% to $86.30, BTC -~4% to ~$75.7K",
+      "org": "U.S. Senate",
+      "date": "2026-09-15",
+      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "summary": "Senate motion to invoke cloture on Digital Asset Market CLARITY Act fails 49-50 Tues Sept 15 — 11 votes short of the 60-vote threshold. Four Republicans (Collins, Hawley, Moran, Tillis) join Democrats. COIN -10.10%, CRCL -11.41%, MSTR -5.36%, BTC -~4%.",
+      "tags": [
+        "clarity-act",
+        "senate",
+        "cloture",
+        "crypto-regulation",
+        "sec-cftc",
+        "coin",
+        "crcl",
+        "mstr",
+        "btc"
+      ],
+      "importance": "major",
+      "tickers": [
+        "COIN",
+        "CRCL",
+        "MSTR",
+        "BTC-USD",
+        "ETH-USD"
+      ],
+      "metrics": {
+        "Cloture vote": "49-50 (60 needed)",
+        "GOP defections": "Collins (ME), Hawley (MO), Moran (KS), Tillis (NC)",
+        "COIN": "-10.10% to $172.11",
+        "CRCL": "-11.41% to $86.30",
+        "MSTR": "-5.36% to $129.60",
+        "BTC": "-~4% to ~$75.7K",
+        "ETH": "-4.5% to ~$2,400",
+        "XRP": "-10%",
+        "Total crypto mcap": "-2.7% to $2.57T"
+      },
+      "explainer": {
+        "tagline": "Year's biggest crypto bill dies in the Senate — cloture fails 49-50, well short of the 60 needed, on 4 Republican defections.",
+        "whatIsIt": "The Senate voted 49-50 on Tuesday, September 15 to block cloture on the Digital Asset Market CLARITY Act — the crypto industry's most ambitious 2026 push, which would have split regulatory jurisdiction over digital assets between the SEC and CFTC, created a registration framework, and hardened anti–money-laundering rules. Cloture needed 60 votes to open floor debate; the motion fell 11 short.",
+        "howItWorks": "Every Democrat voted no, joined by four Republicans: Susan Collins (ME), Josh Hawley (MO), Jerry Moran (KS), and Thom Tillis (NC). Senator Chris Coons (DE) did not vote. Tillis added a motion so the bill can be reconsidered, but the compressed pre-midterm calendar makes it likely dead for 2026. Sen. Cynthia Lummis made the final floor push urging colleagues 'don't hand our future to someone else.'",
+        "whyItMatters": "Crypto-linked equities were priced for passage after Monday's anticipation rally. Tuesday's tape: Coinbase (COIN) -10.10% to $172.11 on volume ~2.15x average, Circle (CRCL) -11.41% to $86.30, Strategy (MSTR) -5.36% to $129.60. Spot BTC slipped ~4% toward $75.7K (from near $80K earlier in the week), ETH -~4.5% to ~$2,400, and XRP got hit hardest at -10% given its SEC-CFTC classification stakes. Total crypto market cap fell 2.7% to ~$2.57T.",
+        "forWho": "crypto-equity traders, DC-policy watchers, stablecoin issuers",
+        "tryIt": "https://finance.yahoo.com/quote/COIN"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108254907-1769005383264-gettyimages-2256831399-US_CAPITOL.jpeg?v=1789502467&amp;w=1920&amp;h=1080",
+        "alt": "U.S. Capitol dome exterior view",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CoinDesk Recap",
+          "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote"
+        },
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"
+        },
+        {
+          "label": "CryptoTimes Recap",
+          "url": "https://www.cryptotimes.io/2026/09/16/coinbase-and-circle-lead-crypto-stock-selloff-after-senate-blocks-clarity-act/"
+        },
+        {
+          "label": "Quartz Report",
+          "url": "https://qz.com/senate-clarity-act-crypto-vote-failed-091626"
+        },
+        {
+          "label": "Coinbase Ticker",
+          "url": "https://finance.yahoo.com/quote/COIN"
+        }
+      ],
+      "reddit": {
+        "title": "Senate blocks CLARITY Act 49-50 — crypto's biggest 2026 push dies on cloture; COIN -10.1%, CRCL -11.4%, MSTR -5.4%, BTC -~4%",
+        "body": "Crypto's marquee market-structure bill just got euthanized in the Senate. Tuesday Sept 15, the motion to invoke cloture on the Digital Asset Market CLARITY Act failed 49-50 — 11 votes short of the 60-vote threshold. Every Democrat voted no.\n\n* Cloture vote: 49-50 (needed 60)\n* Four GOP defections: **Collins (ME), Hawley (MO), Moran (KS), Tillis (NC)**\n* Coons (DE) did not vote\n* Bill would have split SEC/CFTC jurisdiction over digital assets and created a registration framework\n* Tillis added a motion to reconsider, but pre-midterm calendar makes it likely dead for 2026\n\nMarket damage:\n\n1. **Coinbase (COIN) -10.10% to $172.11** — ~2.15x avg volume, biggest single-day drop in months\n2. **Circle (CRCL) -11.41% to $86.30** — stablecoin yield rules would have hit its model directly\n3. **Strategy (MSTR) -5.36% to $129.60** — BTC-proxy names sold with the tape\n4. **BTC -~4% to ~$75.7K, ETH -~4.5% to ~$2,400, XRP -10%** — XRP hit hardest given SEC-CFTC classification stakes\n\nTotal crypto market cap: -2.7% to ~$2.57T.\n\nNext catalysts: Whether Tillis's reconsideration motion gets floor time before recess; any SEC/CFTC administrative crypto rulemakings; spot-ETF flow prints.\n\nFull breakdown: [https://stock-tldr.xyz/releases/clarity-act-senate-cloture-fail-sep-15-2026](https://stock-tldr.xyz/releases/clarity-act-senate-cloture-fail-sep-15-2026)"
+      },
+      "publishDate": "2026-09-17T02:20:19.822Z"
+    },
     {
       "id": "intc-skhy-ohio-memory-talks-sep-16-2026",
       "categories": [
