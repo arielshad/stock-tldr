@@ -1,8 +1,159 @@
 {
-  "generatedAt": "2026-09-17T02:20:19.822Z",
+  "generatedAt": "2026-09-17T15:55:27.641Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "boe-sep-2026-hold-sep-17",
+      "categories": [
+        "macro",
+        "rates",
+        "fx"
+      ],
+      "title": "BOE September 2026 — holds Bank Rate at 3.75% in 6-3 vote; Greene, Mann, Pill dissent for +25bp; MPC now sees UK CPI ~3¾% in Q4 2026 and slightly above 4% in Q1 2027",
+      "org": "Bank of England",
+      "date": "2026-09-17",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "summary": "BOE left Bank Rate at 3.75% Thurs Sept 17 in a 6-3 vote — a day after the Fed hiked. Three members (Greene, Mann, Pill) voted for a 25bp rise to 4.00%; MPC raised inflation projections through Q1 2027.",
+      "tags": [
+        "boe",
+        "mpc",
+        "rate-hold",
+        "gbp",
+        "uk-inflation",
+        "bailey",
+        "energy",
+        "middle-east",
+        "central-bank"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Bank Rate": "3.75% (held; 6-3 vote)",
+        "Dissents": "Greene, Mann, Pill (+25bp to 4.00%)",
+        "UK CPI Aug 2026": "+3.1% Y/Y",
+        "Services CPI": "+3.4% Y/Y",
+        "Projected CPI Q4 2026": "~3.75%",
+        "Projected CPI Q1 2027": "slightly above 4%"
+      },
+      "explainer": {
+        "tagline": "BOE holds at 3.75% in 6-3 vote a day after the Fed hike; three members dissented for a 25bp increase, inflation forecast raised.",
+        "whatIsIt": "The Bank of England's Monetary Policy Committee voted 6-3 to maintain Bank Rate at 3.75% at its September 2026 meeting, announced Thursday Sept 17. The three dissenters — Megan Greene, Catherine Mann and Huw Pill — preferred a 25bp increase to 4.00%. UK CPI was 3.1% in August with services inflation stuck at 3.4%.",
+        "howItWorks": "The MPC's monetary policy summary raised inflation projections to around 3.75% in Q4 2026 and slightly above 4% in Q1 2027, citing energy-price effects from the Middle East conflict with Brent near $106. The majority saw 'little evidence so far of material second-round effects' in wages, while the three dissenters argued material second-round effects were increasingly likely. The vote split matched July's 6-3 hold. Governor Bailey did not hold a press conference; investors parsed the minutes and vote split for signal.",
+        "whyItMatters": "The BOE diverged from the Fed's Sept 16 hike but signalled inflation risks that money markets are already pricing — implied probability of a November hike is around 80%. Sterling weakened modestly: EUR/GBP climbed above 0.8580, drawing near two-month highs, and Gilt yields firmed as traders leaned into a November move. The decision leaves the UK curve more hawkish than the euro area and inside striking distance of a synchronized global rate-hike leg-in with the Fed.",
+        "forWho": "macro traders, GBP desks, gilts",
+        "tryIt": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/1280px-Bank-of-England.jpg",
+        "alt": "Bank of England headquarters on Threadneedle Street, London",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BOE MPC Statement",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html"
+        },
+        {
+          "label": "Euronews Recap",
+          "url": "https://www.euronews.com/business/2026/09/17/bank-of-england-holds-rates-at-375-in-6-3-split-vote-as-inflation-hits-five-month-high"
+        },
+        {
+          "label": "MoneyWeek Live",
+          "url": "https://moneyweek.com/economy/news/live/uk-interest-rates-september-bank-of-england"
+        },
+        {
+          "label": "GBP/USD Chart",
+          "url": "https://finance.yahoo.com/quote/GBPUSD%3DX/"
+        }
+      ],
+      "reddit": {
+        "title": "Bank of England holds Bank Rate at 3.75% in 6-3 vote a day after Fed hike — 3 dissents want +25bp, MPC sees UK CPI above 4% by Q1 2027",
+        "body": "The Bank of England left Bank Rate at 3.75% today (Thurs Sept 17), a day after the Fed hiked. The vote was tighter than the headline hold suggests.\n\n* 6-3 hold — Megan Greene, Catherine Mann and Huw Pill voted for +25bp to 4.00%\n* UK CPI hit 3.1% in August; services CPI stuck at 3.4%\n* MPC now sees inflation around 3.75% in Q4 2026 and slightly above 4% in Q1 2027\n* Governor Bailey did NOT hold a press conference — investors read the vote split for signal\n* EUR/GBP climbed above 0.8580 into two-month highs after the announcement\n\nThree things to note:\n\n1. **Same vote split as July** — a 5-4 close call would have been read as hawkish; 6-3 came off as roughly in-line\n2. **Energy shock is the driver** — Middle East conflict pushed Brent to about $106, and the MPC cited that in the minutes\n3. **November now the live meeting** — money markets are pricing roughly an 80% probability of a hike then\n\nNext catalysts: UK CPI print, BoE November MPC meeting.\n\nFull breakdown: [https://stock-tldr.xyz/releases/boe-sep-2026-hold-sep-17](https://stock-tldr.xyz/releases/boe-sep-2026-hold-sep-17)"
+      },
+      "publishDate": "2026-09-17T15:55:27.641Z"
+    },
+    {
+      "id": "len-q3-fy26-earnings-sep-16-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lennar (LEN) Q3 FY26 (AH Tues Sept 16) — adj EPS $1.23 vs $1.29 est, revenue $8.05B vs ~$8.31B est; new orders -9% Y/Y, cancellation rate 20% vs 17% prior; homebuilding gross margin compresses to 15.8% from 17.5%; FY26 delivery guide cut to 80K-81K homes from 82K-83K",
+      "org": "Lennar",
+      "date": "2026-09-16",
+      "url": "https://www.prnewswire.com/news-releases/lennar-reports-third-quarter-2026-results-302881102.html",
+      "summary": "Lennar reported Q3 FY26 after Tuesday's close: adj EPS $1.23 vs $1.29 est, revenue $8.05B vs ~$8.31B est. Orders fell 9% Y/Y, cancellations rose to 20% and homebuilding gross margin compressed to 15.8%. FY26 delivery guide cut to 80–81K homes.",
+      "tickers": [
+        "LEN",
+        "DHI",
+        "PHM"
+      ],
+      "tags": [
+        "earnings",
+        "homebuilder",
+        "guidance-cut",
+        "mortgage-rates",
+        "gross-margin",
+        "orders",
+        "q3-fy26",
+        "cancellations"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj EPS": "$1.23 vs $1.29 est (miss)",
+        "GAAP EPS": "$1.19 vs $2.29 Y/Y",
+        "Revenue": "$8.05B vs ~$8.31B est (-9% Y/Y)",
+        "Home Deliveries": "20,840 (-3% Y/Y)",
+        "New Orders": "20,879 (-9% Y/Y)",
+        "Avg Sales Price": "$372,000 (-3% Y/Y)",
+        "Home GM": "15.8% (vs 17.5% Y/Y)",
+        "Cancellation Rate": "20% (vs 17% Y/Y)",
+        "FY26 Delivery Guide": "80,000–81,000 (from 82,000–83,000)",
+        "Move": "-2.8% post-print"
+      },
+      "explainer": {
+        "tagline": "Lennar misses Q3 FY26 estimates and cuts full-year delivery guidance for the second time this year as mortgage rates bite affordability.",
+        "whatIsIt": "Lennar reported Q3 FY26 results after Tuesday's close (Sept 16) for the quarter ended Aug 31, 2026. GAAP EPS was $1.19 with adjusted EPS of $1.23, missing the $1.29 consensus. Revenue of $8.05B fell 9% Y/Y and missed the ~$8.31B estimate. The company cut its full-year 2026 delivery target to 80,000–81,000 homes from 82,000–83,000, the second reduction this year.",
+        "howItWorks": "Home deliveries fell 3% to 20,840 at an average sales price of $372,000 (down 3%). New orders dropped 9% Y/Y to 20,879 and the cancellation rate rose to 20% from 17% a year ago. Homebuilding gross margin on home sales compressed to 15.8% from 17.5% as Lennar ran a roughly 12% average incentive to keep homes moving, while SG&A rose to 9.2% of home sales from 8.2%. Q4 guide is 22,000–23,000 deliveries at a $370K–$380K ASP and a 15.5%–16.0% gross margin. Executive chairman Stuart Miller said market conditions had 'deteriorated since our last earnings call.'",
+        "whyItMatters": "Lennar is one of the two largest US homebuilders, and its guide cut confirms what the 10-year yield's push above 5% and hot August CPI already implied: affordability is capping demand and forcing incentives that eat gross margin. The print lands into the Fed's Sept 16 hike and Warsh's hawkish press conference, tightening the mortgage-rate loop further. Peers D.R. Horton (DHI) and PulteGroup (PHM) print in the coming weeks; the read-across is negative but Pulte has held up better YTD. Shares fell about 2.8% following the release.",
+        "forWho": "housing, homebuilder, rates traders",
+        "tryIt": "https://finance.yahoo.com/quote/LEN/"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/company-logo/len-lg.png",
+        "alt": "Lennar corporate logo",
+        "fit": "contain",
+        "credit": "Lennar / StockTitan"
+      },
+      "links": [
+        {
+          "label": "Lennar Q3 Release",
+          "url": "https://www.prnewswire.com/news-releases/lennar-reports-third-quarter-2026-results-302881102.html"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/LEN/lennar-reports-third-quarter-2026-q0xey1vxxpxn.html"
+        },
+        {
+          "label": "StockStory Recap",
+          "url": "https://stockstory.org/us/stocks/nyse/len/news/earnings/lennar-nyselen-misses-q3-cy2026-sales-expectations"
+        },
+        {
+          "label": "LEN Ticker",
+          "url": "https://finance.yahoo.com/quote/LEN/"
+        }
+      ],
+      "reddit": {
+        "title": "Lennar (LEN) Q3 FY26 misses, cuts full-year delivery guide again — adj EPS $1.23 vs $1.29 est, orders -9% Y/Y, cancellation rate 20% vs 17%, home gross margin 15.8%",
+        "body": "Lennar reported Q3 FY26 (quarter ended Aug 31) after Tuesday's close Sept 16 — a miss on both lines and the second full-year guide cut of the year. Shares fell about 2.8% after the release.\n\n* Adj EPS $1.23 vs $1.29 est (miss); GAAP EPS $1.19 vs $2.29 Y/Y\n* Revenue $8.05B vs ~$8.31B est, down 9% Y/Y from $8.81B\n* Deliveries 20,840 (-3% Y/Y); average sales price $372,000 (-3% Y/Y)\n* New orders 20,879 (-9% Y/Y); cancellation rate rose to 20% from 17%\n* Homebuilding gross margin 15.8% vs 17.5% Y/Y; SG&A 9.2% of home sales vs 8.2%\n* FY26 delivery guide cut to 80,000–81,000 homes (from 82,000–83,000) — second cut this year\n\nThree things converged:\n\n1. **Mortgage rates broke higher** — the 10-year yield topped 5% this week and hot August CPI pushed it further, gating affordability\n2. **Incentives are eating the margin** — about 12% average incentive to keep homes moving, while gross margin drops 170bp Y/Y\n3. **Timing** — the print landed right into Warsh's hawkish Fed hike Wednesday, tightening financial conditions further\n\nNext catalysts: DHI and PHM Q3 prints, September CPI, next FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/len-q3-fy26-earnings-sep-16-2026](https://stock-tldr.xyz/releases/len-q3-fy26-earnings-sep-16-2026)"
+      },
+      "publishDate": "2026-09-17T15:55:27.641Z"
+    },
     {
       "id": "fomc-sep-2026-25bp-hike-sep-16",
       "categories": [

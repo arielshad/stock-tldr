@@ -12088,6 +12088,40 @@
         "crypto",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260917t155527z",
+      "timestamp": "2026-09-17T15:55:27.641Z",
+      "source": "github-actions-sweep",
+      "summary": "Two additions covering the Sept 17 BOE hold at 3.75% in a 6-3 vote with dissents for +25bp, and Lennar's Q3 FY26 miss with a second FY26 delivery guide cut released after Sept 16 close.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "boe-sep-2026-hold-sep-17",
+          "title": "BOE September 2026 — holds Bank Rate at 3.75% in 6-3 vote; Greene, Mann, Pill dissent for +25bp; MPC now sees UK CPI ~3¾% in Q4 2026 and slightly above 4% in Q1 2027",
+          "category": "macro",
+          "note": "First BOE decision of Sept 2026 sweep, published Thurs Sept 17; 6-3 vote and raised inflation projections keep a November hike live in money markets."
+        },
+        {
+          "id": "len-q3-fy26-earnings-sep-16-2026",
+          "title": "Lennar (LEN) Q3 FY26 (AH Tues Sept 16) — adj EPS $1.23 vs $1.29 est, revenue $8.05B vs ~$8.31B est; new orders -9% Y/Y, cancellation rate 20% vs 17% prior; homebuilding gross margin compresses to 15.8% from 17.5%; FY26 delivery guide cut to 80K-81K homes from 82K-83K",
+          "category": "earnings",
+          "note": "Q3 FY26 print (AH Tues Sept 16) miss on EPS and revenue, second FY26 delivery guide cut, gross margin compression — flagship homebuilder into the Fed's post-hike backdrop."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
