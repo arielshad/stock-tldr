@@ -12122,6 +12122,54 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260918t020523z",
+      "timestamp": "2026-09-18T02:05:23.117Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds Sept 16–17: Generac's mystery hyperscaler revealed as Amazon (up to $8B supply pact + warrant, GNRC +18.4%); Lucid signs first ex-US robotaxi customer with Bolt (25,000 Level-4 AVs across Europe); Fluence cuts FY26 revenue guide for the second time in five weeks (-14% intraday); SEC issues 5-year Innovation Exemption letting Tokenized Securities Venues trade tokenized NMS stocks after CLARITY Act failed cloture.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gnrc-amzn-8b-supply-warrant-sep-17-2026",
+          "title": "Generac (GNRC) +18.4% close $207.23 Thu Sept 17 — Amazon 8-K reveals up to $8B data-center backup-generator supply deal + 1.69M warrant at $200.93 strike; $2.4B initial deliveries 2027–2028",
+          "category": "mover",
+          "note": "8-K + warrant + $8B ceiling names Amazon as the June-2 'unnamed hyperscaler'; +18.4% close is the biggest single-session GNRC move in years and reprices the industrial-genset category as AI-capex."
+        },
+        {
+          "id": "lcid-bolt-europe-25k-robotaxi-sep-17-2026",
+          "title": "Lucid (LCID) +7.1% close $4.30 Thu Sept 17 on Bolt partnership to deploy 25,000 Level-4 robotaxis across Europe on NVIDIA Hyperion",
+          "category": "mover",
+          "note": "Lucid's first ex-US robotaxi customer; Bolt operates in 45+ countries and commits to at least 25,000 Level-4 Lucids on NVIDIA Hyperion. Stock closed +7.1%."
+        },
+        {
+          "id": "flnc-fy26-guide-cut-houston-sep-16-2026",
+          "title": "Fluence Energy (FLNC) -~14–22% Thu Sept 17 after Tue-eve FY26 guidance cut to ~$2.4B revenue and ~$200M adj EBITDA loss on Houston plant delays",
+          "category": "mover",
+          "note": "Second FY26 cut in ~5 weeks; adj EBITDA swings from ~breakeven to -$200M and Baird cuts PT 70%. Removes FLNC from the near-term AI-power/data-center ESS trade."
+        },
+        {
+          "id": "sec-innovation-exemption-tokenized-stocks-sep-17-2026",
+          "title": "SEC grants 5-year 'Innovation Exemption' Thu Sept 17 letting Tokenized Securities Venues trade tokenized NMS stocks off-exchange — HOOD/COIN/CRCL +3–5% two days after CLARITY Act failed cloture",
+          "category": "regulatory",
+          "note": "SEC regulator-led answer to the failed CLARITY Act Senate cloture on Sept 15; a 5-year conditional lane for on-chain trading of tokenized NMS stocks; HOOD/COIN/CRCL each +3–5% on the day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "insider",
+        "regulatory",
+        "crypto",
+        "macro",
+        "earnings",
+        "analyst"
+      ]
     }
   ]
 }

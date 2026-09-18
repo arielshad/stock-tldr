@@ -1,8 +1,317 @@
 {
-  "generatedAt": "2026-09-17T15:55:27.641Z",
+  "generatedAt": "2026-09-18T02:05:23.117Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "gnrc-amzn-8b-supply-warrant-sep-17-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "Generac (GNRC) +18.4% close $207.23 Thu Sept 17 — Amazon 8-K reveals up to $8B data-center backup-generator supply deal + 1.69M warrant at $200.93 strike; $2.4B initial deliveries 2027–2028",
+      "org": "Generac Holdings",
+      "date": "2026-09-17",
+      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "summary": "GNRC surges 18.4% to $207.23 on Thursday Sept 17 after 8-K filed Tues eve reveals long-term Amazon supply pact for data-center backup gensets: $2.4B initial 2027–2028 deliveries, up to $8B lifetime, plus 1.69M-share warrant at $200.93 strike.",
+      "tags": [
+        "mover",
+        "insider",
+        "warrant",
+        "data-center",
+        "hyperscaler",
+        "ai-capex",
+        "backup-power",
+        "amazon",
+        "supply-agreement",
+        "gnrc",
+        "amzn"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GNRC",
+        "AMZN",
+        "CAT",
+        "CMI"
+      ],
+      "metrics": {
+        "Move (Sept 17 close)": "+18.4% to $207.23 (prior $175.07)",
+        "Intraday high": "$231.24",
+        "After-hours (Sept 16)": "as much as +45%",
+        "Initial deliveries": "$2.4B across 2027–2028",
+        "Warrant cap": "up to $8B in aggregate payments",
+        "Warrant shares": "1,693,745 at $200.9266 strike (exp 9/16/2033)",
+        "Immediate vest": "307,954 shares (~18% of warrant)"
+      },
+      "explainer": {
+        "tagline": "Generac's mystery hyperscaler is Amazon — 8-K reveals warrant + $2.4B initial data-center backup deal, up to $8B lifetime.",
+        "whatIsIt": "Generac disclosed on Tuesday evening (Sept 15/16 8-K) that it signed a long-term supply agreement with Amazon.com NV Investment Holdings for industrial backup generators feeding Amazon's data-center fleet. Initial deliveries are pegged at $2.4B across 2027 and 2028, with the deal sized up to $8B in aggregate payments over its life. Concurrently, Generac issued Amazon a warrant to buy up to 1,693,745 GNRC common shares at $200.9266.",
+        "howItWorks": "Roughly 307,954 warrant shares vested on signing; the remaining ~1.39M shares vest in tranches tied to cumulative Amazon payments, fully vesting only if Amazon's spend reaches $8B. Warrant expires Sept 16 2033 and is exercisable in cash or cashless. GNRC closed Sept 16 up ~1% at $175.07, spiked as much as 45% in after-hours trading, opened Sept 17 at $229.50, hit an intraday high of ~$231, and closed +18.4% at $207.23 — its biggest single-day gain in years. This is the same 'unnamed hyperscaler' supply agreement Generac previewed in June, now with counterparty and dollar figures on the record.",
+        "whyItMatters": "This is the largest concrete data-center backup-power contract Generac has ever disclosed and effectively re-rates the industrial-generator category as an AI-capex derivative. Caterpillar (CAT) and Cummins (CMI) — the other two dominant hyperscaler genset suppliers — traded flat to lower on the read-across (Cummins already runs at capacity, so incremental hyperscale volume flows to the next-cheapest supplier). Amazon locking in equity upside via warrants mirrors the Anthropic/OpenAI-style 'compute + equity' template now spreading into power infrastructure.",
+        "forWho": "AI-capex traders, industrials desks, hyperscaler suppliers, event-driven",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001474735/000143774926030550/gnrc20260915_8k.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/46e48a1058d68a2011207d8b947f852ed71ac174c3f0f2a65b1f37638fcf6176/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F1538c67704f2f0cff1c1c3acfc77d964.png",
+        "alt": "Generac Holdings (GNRC) chart on Amazon data-center supply deal news",
+        "fit": "cover",
+        "credit": "Yahoo Finance / TIKR"
+      },
+      "links": [
+        {
+          "label": "Generac 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001474735/000143774926030550/gnrc20260915_8k.htm"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/generac-stock-already-20-today-143415281.html"
+        },
+        {
+          "label": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/09/17/generac-lands-24-billion-generator-deal-with-amazon/"
+        },
+        {
+          "label": "GNRC Quote",
+          "url": "https://finance.yahoo.com/quote/GNRC/"
+        }
+      ],
+      "reddit": {
+        "title": "Generac (GNRC) +18.4% to $207 on Amazon $8B data-center backup-generator deal — warrant, $2.4B initial delivery, and the mystery hyperscaler finally has a name",
+        "body": "Generac's June 2 'unnamed hyperscaler' supply announcement got its 8-K reveal after Tuesday's close: the customer is Amazon, and the deal is much bigger than the market was pricing.\n\n* GNRC closed +18.4% at $207.23 Thursday Sept 17 (intraday high $231.24), after popping as much as +45% in after-hours Tuesday\n* Prior close was $175.07, up just $1.20 on the news day itself — the move all came Wed AH + Thursday\n* Warrant issued to Amazon.com NV Investment Holdings: up to 1,693,745 shares at $200.9266 strike, expires Sept 16 2033\n* ~307,954 shares vested immediately; the rest vest in tranches tied to Amazon payments up to $8B\n* Initial supply deliveries: $2.4B across 2027 and 2028\n\nTwo things to notice:\n\n1. **The warrant is the tell.** Amazon rarely takes equity from suppliers. When it does (Anthropic, Rivian, Air Products), it's signaling long-duration strategic dependence. The vesting schedule ($8B cap) is the size Amazon actually plans to spend on Generac, not a marketing number.\n2. **Read-across is uneven.** Caterpillar (CAT) barely moved; Cummins (CMI) sat out. Cummins is already sold out through 2027 on data-center gensets, so an $8B Generac deal doesn't cannibalize it — it just confirms hyperscaler power-supply demand is bigger than the two biggest incumbents can serve.\n\nNext catalysts: GNRC Q3 print (early Nov) with first management framing of Amazon revenue phasing; CAT/CMI Q3 prints for competitive intel.\n\nFull breakdown: [https://stock-tldr.xyz/releases/gnrc-amzn-8b-supply-warrant-sep-17-2026](https://stock-tldr.xyz/releases/gnrc-amzn-8b-supply-warrant-sep-17-2026)"
+      },
+      "publishDate": "2026-09-18T02:05:23.117Z"
+    },
+    {
+      "id": "lcid-bolt-europe-25k-robotaxi-sep-17-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Lucid (LCID) +7.1% close $4.30 Thu Sept 17 on Bolt partnership to deploy 25,000 Level-4 robotaxis across Europe on NVIDIA Hyperion",
+      "org": "Lucid Group",
+      "date": "2026-09-17",
+      "url": "https://www.prnewswire.com/news-releases/lucid-and-bolt-partner-to-develop-and-deploy-autonomous-mobility-at-scale-across-europe-302881323.html",
+      "summary": "LCID closes +7.1% at $4.30 Thursday Sept 17 after unveiling a European robotaxi tie-up with Bolt: at least 25,000 Level-4 vehicles on Lucid's upcoming Midsize platform, powered by NVIDIA Hyperion; Bolt owns and operates the fleet.",
+      "tags": [
+        "mover",
+        "robotaxi",
+        "autonomous",
+        "level-4",
+        "europe",
+        "ev",
+        "partnership",
+        "nvidia-hyperion",
+        "lucid",
+        "bolt",
+        "lcid"
+      ],
+      "importance": "major",
+      "tickers": [
+        "LCID",
+        "NVDA"
+      ],
+      "metrics": {
+        "Move (Sept 17 close)": "+7.1% to $4.30",
+        "Intraday peak": "~+11%",
+        "Fleet target": "at least 25,000 Lucid AVs, Bolt goal 100,000 AVs by 2035",
+        "Platform": "Lucid Midsize (not yet in production)",
+        "Autonomy stack": "NVIDIA Hyperion (Level 4)",
+        "YTD (Sept 17)": "still down ~60%+"
+      },
+      "explainer": {
+        "tagline": "Lucid signs its first ex-US robotaxi customer: European ride-hailer Bolt commits to at least 25,000 Level-4 Lucids.",
+        "whatIsIt": "Lucid Group and Bolt — the Estonia-based European ride-hailing and shared-mobility platform — announced a strategic partnership on Wednesday Sept 17 to deploy shared autonomous mobility across major European cities. Bolt has committed to at least 25,000 Lucid autonomous vehicles as part of a broader push to operate 100,000 AVs by 2035.",
+        "howItWorks": "Vehicles will be built on Lucid's upcoming Midsize platform — which has been pushed out on the product roadmap and isn't yet in production — and run NVIDIA's Hyperion Level-4 autonomous-vehicle reference architecture (compute + sensor suite). Bolt's newly formed Autonomous Driving Solutions unit owns the fleet, handles software, safety, charging and city partnerships; Lucid Technologies co-develops the vehicle platform. The two companies did not disclose a launch date or capital commitment (unlike Lucid's July 2025 Uber deal, which came with a $750M capital infusion). Shares peaked +~11% intraday and closed at $4.30, up 7.1% for the session.",
+        "whyItMatters": "This is Lucid's first robotaxi customer outside the US and extends the 'AV via NVIDIA Hyperion + operator-owned fleet' template already used by Uber-Waymo and Uber-Lucid. Bolt operates in >45 countries, giving Lucid a European foothold before Waymo scales there. But the Midsize platform's roadmap slippage plus Lucid's ~-60% YTD stock performance temper the read-across for a name still burning cash. NVIDIA gets another Hyperion win worth flagging alongside Mercedes and Volvo.",
+        "forWho": "AV / robotaxi traders, EV growth desks, NVIDIA autonomy watchers",
+        "tryIt": "https://finance.yahoo.com/quote/LCID/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/6115245b62e889a33ad336cbf0839ef16633a128b3a4d2e25f8361294a54c73f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F113123c0-11b2-11f1-bfdd-2a55eddf2a02",
+        "alt": "Lucid Group vehicle for the Bolt European robotaxi partnership",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Lucid + Bolt PR",
+          "url": "https://www.prnewswire.com/news-releases/lucid-and-bolt-partner-to-develop-and-deploy-autonomous-mobility-at-scale-across-europe-302881323.html"
+        },
+        {
+          "label": "Electrek",
+          "url": "https://electrek.co/2026/09/17/lucid-bolt-25000-autonomous-evs-europe/"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/article/lucid-stock-jumps-on-25000-robotaxi-deal-with-europes-bolt-132433027.html"
+        }
+      ],
+      "reddit": {
+        "title": "Lucid (LCID) +7% on Bolt deal to deploy 25,000 Level-4 robotaxis across Europe — first ex-US AV customer, but Midsize platform still on paper",
+        "body": "Lucid found its first robotaxi customer outside the US: Estonia-based ride-hailer Bolt, which operates in 45+ countries.\n\n* LCID closed +7.1% at $4.30 Thursday Sept 17 (intraday peak ~+11%)\n* Stock is still down ~60% YTD after Midsize platform delays and cash burn\n* Bolt commits to at least 25,000 Lucid AVs; broader Bolt goal is 100,000 AVs on platform by 2035\n* Vehicles run NVIDIA's Hyperion Level-4 autonomy stack (same reference architecture used by Mercedes/Volvo)\n* Bolt owns and operates the fleet; Lucid Technologies co-designs the vehicle\n\nTwo caveats worth flagging:\n\n1. **The vehicle doesn't exist yet.** The Midsize platform Bolt is committing to has been pushed out multiple times on Lucid's roadmap. No launch date was announced.\n2. **No capital commitment.** Unlike the July 2025 Uber deal ($750M capital infusion), this partnership disclosed no dollar figure. That's a strategic co-development MOU, not a purchase order.\n\nThe read-across worth watching is NVIDIA — Hyperion keeps landing marquee automotive customers, which is the AV-adjacent side of the AI-capex trade that doesn't get priced into the DGX/HGX conversation.\n\nNext catalysts: Lucid Q3 print for Midsize platform update; Bolt city-launch announcements.\n\nFull breakdown: [https://stock-tldr.xyz/releases/lcid-bolt-europe-25k-robotaxi-sep-17-2026](https://stock-tldr.xyz/releases/lcid-bolt-europe-25k-robotaxi-sep-17-2026)"
+      },
+      "publishDate": "2026-09-18T02:05:23.117Z"
+    },
+    {
+      "id": "flnc-fy26-guide-cut-houston-sep-16-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Fluence Energy (FLNC) -~14–22% Thu Sept 17 after Tue-eve FY26 guidance cut to ~$2.4B revenue and ~$200M adj EBITDA loss on Houston plant delays",
+      "org": "Fluence Energy",
+      "date": "2026-09-16",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3363545/0/en/fluence-energy-announces-revised-guidance-for-fiscal-year-2026-management-to-host-conference-call-at-5pm-eastern-time-today.html",
+      "summary": "FLNC drops sharply Thu Sept 17 after Tuesday evening pre-announcement: FY26 revenue guide slashed to ~$2.4B (from $2.9–3.1B in August; original $3.2–3.6B) and adj EBITDA to ~-$200M loss (from ~-$10M mid) on Houston-facility ramp delays; Baird cuts PT 70% and downgrades.",
+      "tags": [
+        "mover",
+        "guidance-cut",
+        "battery-storage",
+        "ess",
+        "houston",
+        "supply-chain",
+        "manufacturing",
+        "downgrade",
+        "flnc"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FLNC"
+      ],
+      "metrics": {
+        "Move (Sept 17)": "-13.9% afternoon session, intraday -22.7%",
+        "FY26 revenue (new)": "~$2.4B",
+        "FY26 revenue (prior August guide)": "$2.9–3.1B",
+        "FY26 revenue (original)": "$3.2–3.6B",
+        "FY26 adj EBITDA (new)": "-~$200M",
+        "FY26 adj EBITDA (prior mid)": "-~$10M",
+        "Sell-side action": "Baird cuts PT 70%, downgrades"
+      },
+      "explainer": {
+        "tagline": "Fluence cuts FY26 for the second time this year and swings adj EBITDA guide from ~breakeven to a ~$200M loss.",
+        "whatIsIt": "Battery-storage integrator Fluence Energy pre-announced a fresh FY26 guidance cut after Tuesday's close and hosted a 5PM ET conference call. Revenue is now expected at ~$2.4B (vs $2.9–3.1B in August and $3.2–3.6B originally in Feb), and adjusted EBITDA has swung to a ~$200M loss vs a prior midpoint near-breakeven.",
+        "howItWorks": "CEO Julian Nebreda attributed the cut to continued ramp delays at Fluence's Houston battery-module manufacturing facility, where a domestic contract manufacturer has been slower to reach nameplate throughput than modeled. Fluence said corrective actions have already lifted daily production. Baird slashed its price target 70% and downgraded the stock, calling the pattern of repeated cuts and ramp delays a 'material negative'. Shares dropped 13.9% in the afternoon session and traded as much as -22% intraday.",
+        "whyItMatters": "This is the second FY26 guide cut in ~5 weeks, so investor patience for 'the Houston ramp is almost there' is gone. It removes Fluence from the AI-power/data-center storage playbook near-term and hands share to Tesla Megapack and Chinese ESS suppliers. Read-across is mostly negative for domestic ESS assemblers with content-rules and IRA-linked customer bases; Tesla Energy and Fluence Freedom competitors get relative help.",
+        "forWho": "clean-tech / battery-storage traders, IRA/domestic-content watchers",
+        "tryIt": "https://finance.yahoo.com/quote/FLNC/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/b41f994140cda7196435843ec2244a7e14a2a4faba7fd5187d9d8a18efe81dca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2Fb2ff2b0d27f6a3b84a07d34e3ee9bce4.jpg",
+        "alt": "Fluence Energy battery storage system amid FY26 guidance cut",
+        "fit": "cover",
+        "credit": "Yahoo Finance / StockStory"
+      },
+      "links": [
+        {
+          "label": "Fluence Revised Guidance PR",
+          "url": "https://www.globenewswire.com/news-release/2026/09/16/3363545/0/en/fluence-energy-announces-revised-guidance-for-fiscal-year-2026-management-to-host-conference-call-at-5pm-eastern-time-today.html"
+        },
+        {
+          "label": "StockTitan",
+          "url": "https://www.stocktitan.net/news/FLNC/fluence-energy-announces-revised-guidance-for-fiscal-year-2026-ihscre93hdp0.html"
+        },
+        {
+          "label": "Yahoo (StockStory)",
+          "url": "https://ca.finance.yahoo.com/news/why-fluence-energy-flnc-stock-195417786.html"
+        },
+        {
+          "label": "Stocktwits (Baird cut)",
+          "url": "https://stocktwits.com/news-articles/markets/equity/fluence-energy-flnc-stock-guidance-cut-baird-downgrade/cZtrmwURB5N"
+        }
+      ],
+      "reddit": {
+        "title": "Fluence Energy (FLNC) -14% (intraday -22%) on FY26 guide cut to $2.4B revenue and -$200M adj EBITDA — Houston plant ramp delays again",
+        "body": "Fluence pre-announced after Tuesday's close and hosted a 5PM ET call. It's the second FY26 guide cut in ~5 weeks.\n\n* Revenue guide slashed to ~$2.4B — down from $2.9–3.1B in August and $3.2–3.6B originally in February\n* Adj EBITDA guide now ~-$200M vs prior midpoint near breakeven (-$10M)\n* Shares dropped 13.9% in the afternoon session Thursday Sept 17; intraday low was -22.7%\n* CEO Julian Nebreda pointed to continued ramp delays at Fluence's Houston contract-manufacturing site\n* Baird cut price target 70% and downgraded, flagging repeated cuts as a 'material negative'\n\nThe uncomfortable pattern:\n\n1. **This is the same ramp problem, third time.** Fluence has now blamed the Houston domestic-module ramp in three consecutive guidance revisions. Sell-side is done modeling FY27 conservatively — they're modeling FY27 like FY26 all over again.\n2. **Positioning matters.** FLNC had been trading as an AI-power / data-center ESS proxy. That thesis is unwound near-term; Tesla Energy and Chinese ESS competitors take relative share while Fluence pushes its manufacturing timeline right.\n\nNext catalysts: FY26 earnings for actual FY27 guide framing; any independent verification of Houston daily production improvement.\n\nFull breakdown: [https://stock-tldr.xyz/releases/flnc-fy26-guide-cut-houston-sep-16-2026](https://stock-tldr.xyz/releases/flnc-fy26-guide-cut-houston-sep-16-2026)"
+      },
+      "publishDate": "2026-09-18T02:05:23.117Z"
+    },
+    {
+      "id": "sec-innovation-exemption-tokenized-stocks-sep-17-2026",
+      "categories": [
+        "regulatory",
+        "crypto"
+      ],
+      "title": "SEC grants 5-year 'Innovation Exemption' Thu Sept 17 letting Tokenized Securities Venues trade tokenized NMS stocks off-exchange — HOOD/COIN/CRCL +3–5% two days after CLARITY Act failed cloture",
+      "org": "Securities and Exchange Commission",
+      "date": "2026-09-17",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "summary": "SEC issues 5-year conditional order Thu Sept 17 exempting Tokenized Securities Venues (TSVs) from the 'exchange' definition to run permissioned AMMs and liquidity pools trading tokenized NMS stocks; HOOD, COIN and CRCL each add 3–5%, recouping some of the CLARITY-cloture-fail sell-off.",
+      "tags": [
+        "regulatory",
+        "sec",
+        "tokenization",
+        "innovation-exemption",
+        "crypto",
+        "digital-assets",
+        "atkins",
+        "uyeda",
+        "nms-stock",
+        "hood",
+        "coin",
+        "crcl"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HOOD",
+        "COIN",
+        "CRCL",
+        "BLSH"
+      ],
+      "metrics": {
+        "Duration": "5 years from publication",
+        "HOOD (Sept 17)": "+~5% early / ~+3% close",
+        "COIN (Sept 17)": "+~3–4%",
+        "CRCL (Sept 17)": "+~3–4%",
+        "Context": "CLARITY Act Senate cloture failed 49–50 Tues Sept 15"
+      },
+      "explainer": {
+        "tagline": "SEC opens a 5-year on-chain lane for tokenized US stocks after Congress's crypto bill stalls.",
+        "whatIsIt": "Chair Paul Atkins's SEC issued a temporary, conditional exemptive order on Wednesday Sept 17 letting Tokenized Securities Venues (TSVs) trade tokenized National Market System (NMS) stocks via permissioned automated market makers and liquidity pools without registering as an exchange. Commissioner Mark Uyeda issued a supporting statement; the SEC is soliciting public comment on possible modifications.",
+        "howItWorks": "The relief runs 5 years from publication unless the underlying rulebook changes first. Conditions: TSVs must be US-based, sanctions-compliant, restrict access, and provide public notice, transaction transparency, stoppage coordination, books-and-records and technology safeguards. Tokenized stocks must be true digital twins — same rights as the underlying, including dividends and voting. Purely synthetic tokenized products are not permitted. Anti-fraud and anti-manipulation provisions of the securities laws apply in full.",
+        "whyItMatters": "This is the SEC's answer after the Digital Asset Market CLARITY Act failed Senate cloture 49–50 on Tuesday. It gives Robinhood, Coinbase, Circle, Bullish and Securitize a workable 5-year regulatory sandbox to launch on-chain equities trading in the US — the same product BlackRock, Kraken and DTCC have been prototyping abroad. HOOD, COIN and CRCL added 3–5%, recouping a portion of their post-CLARITY-fail selloff. It is a regulator-led workaround; a real statute is still the durable end-state.",
+        "forWho": "crypto-exchange traders, tokenization / RWA desks, market-structure watchers",
+        "tryIt": "https://www.sec.gov/newsroom/speeches-statements/atkins-innovation-exemption-bridge-toward-durable-rulemaking-091726"
+      },
+      "image": {
+        "url": "https://www.sec.gov/files/styles/open_graph/public/images/social-media-card-press-release.png?itok=EUHbCjAo",
+        "alt": "US Securities and Exchange Commission press-release social card",
+        "fit": "contain",
+        "credit": "SEC.gov"
+      },
+      "links": [
+        {
+          "label": "SEC Press Release",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+        },
+        {
+          "label": "Atkins Statement",
+          "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-innovation-exemption-bridge-toward-durable-rulemaking-091726"
+        },
+        {
+          "label": "Uyeda Statement",
+          "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-innovation-exemption-091726"
+        },
+        {
+          "label": "Securities.io",
+          "url": "https://www.securities.io/sec-grants-five-year-innovation-exemption-for-tokenized-stock-venues/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-circle-recover-sec-opens-175155962.html"
+        }
+      ],
+      "reddit": {
+        "title": "SEC grants 5-year 'Innovation Exemption' for tokenized US stock trading — Robinhood, Coinbase, Circle each +3–5% two days after CLARITY Act failed cloture",
+        "body": "Chair Paul Atkins's SEC dropped a conditional order Wednesday Sept 17 opening a 5-year on-chain lane for tokenized US stocks — a regulator-led workaround after Congress's crypto bill stalled two days earlier.\n\n* 5-year conditional exemption from the 'exchange' definition of the Securities Exchange Act of 1934\n* Applies to Tokenized Securities Venues (TSVs) running permissioned AMMs and liquidity pools\n* Tokens must be true digital twins of NMS stocks — same dividend and voting rights; purely synthetic products not allowed\n* TSVs must be US-based, sanctions-compliant, and meet public-notice, transparency, stoppage-coordination, books-and-records and tech-safeguard conditions\n* Anti-fraud and anti-manipulation rules apply in full\n\nMarket reaction Thursday Sept 17:\n\n1. **HOOD** — up ~5% at the open, ~+3% by close\n2. **COIN** — up 3–4%; partially reclaims the -10% CLARITY-cloture-fail drop from Tuesday\n3. **CRCL** — up 3–4%; also partial reclaim of -11% from Tuesday\n4. **BLSH** and Securitize also gained on the read-across\n\nThe framing worth watching: Commissioner Uyeda's supporting statement calls this a 'bridge toward durable rulemaking'. That is the tell that the SEC still wants CLARITY (or a successor bill) to land — the 5-year window is meant to let venues build product while Congress catches up, not replace legislation.\n\nNext catalysts: SEC comment period; second CLARITY cloture attempt in the Senate; first TSV launches from HOOD/COIN.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sec-innovation-exemption-tokenized-stocks-sep-17-2026](https://stock-tldr.xyz/releases/sec-innovation-exemption-tokenized-stocks-sep-17-2026)"
+      },
+      "publishDate": "2026-09-18T02:05:23.117Z"
+    },
     {
       "id": "boe-sep-2026-hold-sep-17",
       "categories": [
