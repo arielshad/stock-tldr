@@ -12170,6 +12170,37 @@
         "earnings",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260918t152648z",
+      "timestamp": "2026-09-18T15:26:48.714Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: BOJ September 2026 policy meeting — 25bp hike to 1.25% (highest since 1995), split 7-2 vote, paradoxical weaker-yen / Nikkei-rally market reaction. FedEx Q1 FY27 not yet on EDGAR; no other qualifying earnings, M&A, or macro prints in the last 24h beyond items already in the feed (FOMC hike Sep 16, BOE hold Sep 17, Philly Fed already softening, SEC tokenized-stock exemption Sep 17).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "boj-sep-2026-hike-125-sep-18",
+          "title": "Bank of Japan hikes policy rate +25bp to 1.25% on Fri Sept 18 — highest level since 1995 — in split 7-2 vote as Asada and Sato dissent for hold; Nikkei rallies +1.38% to 65,018.95 and yen slides to USD/JPY ~157",
+          "category": "macro",
+          "note": "BOJ delivers second hike of the cycle to a 31-year-high 1.25%; split 7-2 vote and weaker-yen reaction are the tradable story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "earnings",
+        "mover",
+        "mna",
+        "regulatory",
+        "crypto"
+      ]
     }
   ]
 }

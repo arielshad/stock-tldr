@@ -1,8 +1,88 @@
 {
-  "generatedAt": "2026-09-18T02:05:23.117Z",
+  "generatedAt": "2026-09-18T15:26:48.714Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "boj-sep-2026-hike-125-sep-18",
+      "categories": [
+        "macro",
+        "rates",
+        "fx"
+      ],
+      "title": "Bank of Japan hikes policy rate +25bp to 1.25% on Fri Sept 18 — highest level since 1995 — in split 7-2 vote as Asada and Sato dissent for hold; Nikkei rallies +1.38% to 65,018.95 and yen slides to USD/JPY ~157",
+      "org": "Bank of Japan",
+      "date": "2026-09-18",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
+      "summary": "BOJ lifts rate from 1.00% to 1.25%, quickens hike cycle to 3-month cadence. Board split 7-2 (Asada, Sato dissent for hold). Yen paradoxically weakens; Nikkei closes at 65,018.95 (+1.38%) as dovish dissent seen as capping pace.",
+      "tags": [
+        "boj",
+        "japan",
+        "rate-hike",
+        "monetary-policy",
+        "yen",
+        "usdjpy",
+        "jgb",
+        "nikkei",
+        "ueda",
+        "bessent"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^N225"
+      ],
+      "metrics": {
+        "Policy rate": "1.25% (+25bp from 1.00%)",
+        "Vote": "7-2 (Asada, Sato dissent for hold)",
+        "Highest since": "1995 (31-year high)",
+        "Effective date": "September 24, 2026",
+        "Nikkei 225 close": "65,018.95 (+1.38%, +882.70)",
+        "10Y JGB yield": "2.99% (-1bp)",
+        "2Y JGB yield": "1.835% (-2.5bp)",
+        "USD/JPY": "~157 (yen weaker post-decision)"
+      },
+      "explainer": {
+        "tagline": "BOJ lifts policy rate +25bp to 1.25%, highest since 1995 — but split 7-2 vote and dovish dissent send yen lower and Nikkei to a +1.4% rally.",
+        "whatIsIt": "The Bank of Japan raised its unsecured overnight call rate target by 25 basis points to 1.25% from 1.00% at Friday's Sept 18 policy meeting, effective Sept 24. It's the second hike in three months and the highest policy rate since 1995. Governor Kazuo Ueda's board split 7-2, with Toichiro Asada and Ayano Sato dissenting in favor of holding, arguing core CPI ex-fresh-food (1.7% Y/Y in August) has not yet cleared 2% and that price momentum has not accelerated enough to justify tightening.",
+        "howItWorks": "The statement said the BOJ will keep raising rates 'in response to developments in activity, prices and financial conditions,' with the Bank projecting core CPI to sit clearly above 2% through the second half of FY26 before easing back. The complementary deposit facility rate was set at 1.25% and the basic loan rate at 1.50%. Ueda framed the move as normalization, telling reporters there is no preset pace for further increases. Markets read the two dissents as capping the near-term hawkish trajectory.",
+        "whyItMatters": "Confirms Japan's exit from ultra-low rates continues on a quicker cadence — three months from the June hike vs six months from March to June. The reaction was counter-intuitive: instead of a hawkish yen surge, USD/JPY climbed above 157 and the 2Y JGB yield fell 2.5bp to 1.835% as the split vote softened pace expectations. Nikkei rallied to 65,018.95 (+1.38%) on the weaker-yen exporter tailwind. Political context: US Treasury Secretary Scott Bessent had publicly urged Ueda to 'do the right thing,' locking Japan into a hike that also fits Washington's yen-strength agenda after last week's FOMC hike to 3.75–4.00%.",
+        "forWho": "macro traders, FX desks, JGB watchers, Japan equities",
+        "tryIt": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bank_of_Japan_headquarters_in_Tokyo%2C_Japan.jpg",
+        "alt": "Bank of Japan headquarters in Nihonbashi, Tokyo",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BOJ Statement PDF",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf"
+        },
+        {
+          "label": "BOJ Statements 2026",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html"
+        },
+        {
+          "label": "InvestingLive Recap",
+          "url": "https://investinglive.com/central-banks/bank-of-japan-boj-raises-policy-rate-by-25bp-as-expected/"
+        },
+        {
+          "label": "Japan Rate History",
+          "url": "https://tradingeconomics.com/japan/interest-rate"
+        }
+      ],
+      "reddit": {
+        "title": "BOJ hikes to 1.25% — highest since 1995 — but split 7-2 vote sends yen LOWER and Nikkei to +1.4% rally",
+        "body": "Bank of Japan raised its policy rate +25bp to **1.25% from 1.00%** at Friday's Sept 18 meeting — the highest level since 1995 and the second hike in three months.\n\n* Vote 7-2 — Asada and Sato dissented for hold, arguing core CPI ex-fresh-food (1.7% Y/Y in August) is still below 2%\n* Effective Sept 24; complementary deposit rate set at 1.25%, basic loan rate 1.50%\n* Nikkei 225 closed at 65,018.95, +1.38% (+882.70) as weaker yen boosted exporters\n* USD/JPY climbed above 157 — yen at ~two-week low\n* 2Y JGB yield fell 2.5bp to 1.835%; 10Y JGB yield ~2.99% (-1bp)\n\nWhy the paradox move:\n\n1. **Two dissents softened the hawkish read** — traders had priced a stronger unanimous signal; a divided board caps how fast Ueda can go from here.\n2. **Ueda kept the door open but no preset pace** — statement said BOJ 'will continue raising rates in response to developments' but gave no forward guidance on timing.\n3. **The Bessent trade backfired short-term** — US Treasury Secretary Scott Bessent had publicly urged Ueda to 'do the right thing.' He got the hike. He didn't get the stronger yen.\n\nNext catalysts: BOJ Summary of Opinions late-September, Aug national CPI print Sept 19, Ueda October speech circuit.\n\nFull breakdown: [https://stock-tldr.xyz/releases/boj-sep-2026-hike-125-sep-18](https://stock-tldr.xyz/releases/boj-sep-2026-hike-125-sep-18)"
+      },
+      "publishDate": "2026-09-18T15:26:48.714Z"
+    },
     {
       "id": "gnrc-amzn-8b-supply-warrant-sep-17-2026",
       "categories": [
