@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-09-19T02:07:13.590Z",
+  "generatedAt": "2026-09-19T15:05:29.782Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "xene-nda-psychiatry-pause-sep-18-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Xenon Pharmaceuticals (XENE) -30.7% Fri Sept 18 to $39.75 — files azetukalner NDA for focal seizures but voluntarily pauses psychiatry enrollment on neuropsychiatric adverse events",
+      "org": "Xenon Pharmaceuticals",
+      "tickers": [
+        "XENE"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.globenewswire.com/news-release/2026/09/17/3364364/33485/en/xenon-announces-azetukalner-nda-submission-to-fda-for-focal-seizures-and-provides-update-on-psychiatry-clinical-program.html",
+      "summary": "Xenon Pharmaceuticals submitted its NDA for azetukalner in focal seizures late Thu Sept 17, but the same release disclosed a voluntary enrollment pause in ongoing MDD and bipolar depression studies following neuropsychiatric adverse events — XENE fell 30.7% to $39.75 on ~18M shares.",
+      "tags": [
+        "biotech",
+        "regulatory",
+        "fda",
+        "nda",
+        "azetukalner",
+        "epilepsy",
+        "clinical-hold",
+        "neuropsychiatry",
+        "adverse-events",
+        "single-name-mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "-30.69% ($57.35 → $39.75)",
+        "Volume": "17.9M (~9.8× 30-day avg)",
+        "Trigger": "NDA filed; psychiatry enrollment paused",
+        "Analyst": "TD Cowen Buy reiterated; Baird PT $90, Needham $60, RBC $70"
+      },
+      "explainer": {
+        "tagline": "Xenon files epilepsy NDA but pauses psychiatry trials on adverse events — stock down ~31%.",
+        "whatIsIt": "Xenon Pharmaceuticals (NASDAQ: XENE) announced late Thursday Sept 17 that it submitted a New Drug Application to the FDA for azetukalner in adults with focal onset seizures. The same release disclosed a voluntary pause of enrollment of new patients in its ongoing psychiatry (MDD and bipolar depression) studies following observed neuropsychiatric adverse events.",
+        "howItWorks": "The NDA is based on the Phase 2b X-TOLE and Phase 3 X-TOLE2 studies, where all four doses of azetukalner showed statistically significant reductions in monthly seizure frequency versus placebo, with more than 1,500 patient-years of safety data across the epilepsy program. Separately, patients currently enrolled in the MDD X-NOVA2/X-NOVA3 and X-CEED bipolar-depression studies remain active while enrollment is paused; the company said it is evaluating potential dosing modifications as a precautionary step. X-NOVA2 topline data is still expected in Q1 2027.",
+        "whyItMatters": "The market punished the psychiatry pause more than it rewarded the NDA filing: XENE fell 30.69% to $39.75 on volume of about 17.9 million shares — roughly ten times its recent daily average. The pause reintroduces execution risk into the depression program, which sell-side analysts had modeled as a multi-billion-dollar second indication. Sell-side reactions bracketed the reaction: TD Cowen reiterated a Buy but called it 'overblown,' while Baird cut its target to $90, RBC to $70, and Needham to $60. Focal-seizure NDA acceptance and any dosing update on the psychiatry studies are the next binary events for the name.",
+        "forWho": "biotech long/shorts, neuroscience specialists",
+        "tryIt": "https://finance.yahoo.com/quote/XENE/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/505b89d3-dfd1-46e8-bc3b-3c9c699ef7ec",
+        "alt": "Xenon Pharmaceuticals logo on the announcement of azetukalner NDA submission and psychiatry program pause",
+        "fit": "contain",
+        "credit": "Xenon Pharmaceuticals via GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Xenon Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/17/3364364/33485/en/xenon-announces-azetukalner-nda-submission-to-fda-for-focal-seizures-and-provides-update-on-psychiatry-clinical-program.html"
+        },
+        {
+          "label": "BioSpace: Analyst Take",
+          "url": "https://www.biospace.com/drug-development/xenon-tumbles-on-voluntary-psychiatry-hold-but-analysts-confident-in-2b-epilepsy-opportunity"
+        },
+        {
+          "label": "XENE Chart",
+          "url": "https://finance.yahoo.com/quote/XENE/"
+        },
+        {
+          "label": "BioSpace: Xenon Announcement",
+          "url": "https://www.biospace.com/press-releases/xenon-announces-azetukalner-nda-submission-to-fda-for-focal-seizures-and-provides-update-on-psychiatry-clinical-program"
+        }
+      ],
+      "reddit": {
+        "title": "XENE -30.7% Friday: Xenon files azetukalner NDA in focal seizures BUT voluntarily pauses depression trials on neuropsychiatric adverse events",
+        "body": "Xenon Pharmaceuticals (XENE) got hit for one of the biggest single-day mid-cap biotech drawdowns of 2026 on a mixed disclosure Thursday evening.\n\n* Stock closed Fri Sept 18 at **$39.75**, down **-30.69%** from $57.35\n* Volume ~**17.9M shares**, roughly 10x recent daily average\n* NDA for **azetukalner** in focal onset seizures submitted to FDA — based on X-TOLE and X-TOLE2 Phase 3 data\n* Enrollment in the MDD (X-NOVA2/X-NOVA3) and bipolar depression (X-CEED) studies **voluntarily paused** on neuropsychiatric adverse events\n* Analyst reactions: TD Cowen kept Buy; **Baird cut PT to $90, RBC to $70, Needham to $60**\n\nWhy the market punished the print:\n\n1. **Psychiatry was the multi-billion optionality** — the depression program was the reason many funds carried XENE at a premium to a pure-play epilepsy story. A hold — even a voluntary one — reintroduces execution risk into that indication.\n2. **NDA filing was already priced in** — Phase 3 X-TOLE2 readout hit last year and management had guided to a Q3 2026 filing since Q2. The filing itself doesn't surprise anyone.\n3. **Dosing questions on the epilepsy label too** — if neuropsychiatric AEs are dose-related, the FDA review of the seizure NDA could inherit tighter dose labeling.\n\nNext catalysts: FDA acceptance of the focal-seizure NDA and any dosing update on the psychiatry studies; X-NOVA2 topline data still guided to Q1 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/xene-nda-psychiatry-pause-sep-18-2026](https://stock-tldr.xyz/releases/xene-nda-psychiatry-pause-sep-18-2026)"
+      },
+      "publishDate": "2026-09-19T15:05:29.782Z"
+    },
+    {
+      "id": "coin-single-stock-perps-cftc-sep-18-2026",
+      "categories": [
+        "mover",
+        "crypto",
+        "regulatory"
+      ],
+      "title": "Coinbase (COIN) +11.7% Fri Sept 18 to $194.25 — Coinbase Derivatives files with CFTC for 24/5 single-stock perpetual futures on ~50 U.S. large-caps; Goldman lifts PT to $219",
+      "org": "Coinbase",
+      "tickers": [
+        "COIN"
+      ],
+      "date": "2026-09-18",
+      "url": "https://finance.yahoo.com/markets/options/articles/coinbase-seeks-approval-list-perpetual-173700089.html",
+      "summary": "Coinbase Derivatives filed with the CFTC on Fri Sept 18 to list cash-settled, 24/5 single-stock perpetual futures on ~50–60 U.S. large-caps including AAPL, MSFT, TSLA and NVDA. Goldman lifted its price target on COIN to $219 from $196 the same day.",
+      "tags": [
+        "crypto",
+        "derivatives",
+        "cftc",
+        "perpetual-futures",
+        "single-stock-perps",
+        "exchange",
+        "goldman-sachs",
+        "everything-exchange",
+        "analyst-upgrade",
+        "single-name-mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "+11.66% ($173.97 → $194.25)",
+        "Volume": "21.8M shares",
+        "Product": "~50–60 single-stock perpetual futures, 24/5, cash-settled",
+        "Goldman PT": "$219 (from $196), Buy"
+      },
+      "explainer": {
+        "tagline": "Coinbase files to bring crypto-style single-stock perpetual futures to U.S. traders; COIN jumps ~12%.",
+        "whatIsIt": "Coinbase Derivatives Exchange filed with the U.S. Commodity Futures Trading Commission on Friday Sept 18 to list cash-settled, no-expiry perpetual futures on individual U.S. equities. The proposal covers roughly 50 to 60 large-cap names including Apple, Microsoft, Tesla and Nvidia. Coinbase used Apple as the representative contract in the filing.",
+        "howItWorks": "The proposed contracts would trade from Sunday 8 p.m. ET through Friday 5 p.m. ET, offering exposure across overnight, pre-market, regular and after-hours periods, with leverage and no expiration. They would be cash-settled, so traders never take delivery of the underlying shares. The filing sits alongside a Sept 1 SEC Form 1-N to register Coinbase Derivatives as a national securities exchange for security futures products. Coinbase already offers similar stock perpetuals to eligible non-U.S. customers, launched in March 2026.",
+        "whyItMatters": "COIN closed +11.66% at $194.25 on volume of 21.8 million shares as investors treated the filing as a step toward a domestic derivatives franchise. Goldman Sachs lifted its target on COIN to $219 from $196 (Buy reiterated), citing derivatives, prediction markets, tokenized equities, margin lending, Base and agentic finance as growth pillars of the 'Everything Exchange' pivot. Approval is not guaranteed and CME/security-futures rules will shape final structure — but if cleared, Coinbase would be the first U.S. venue offering crypto-style perpetuals on individual U.S. equities.",
+        "forWho": "crypto/exchange equity investors, derivatives desks",
+        "tryIt": "https://finance.yahoo.com/quote/COIN/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/1d97020ed6d6a370b2d61438faa37dc9e356b2fb13b0664e1d48cec7ccd4ac47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdf3a9d90dda85929bf93162f0c5c802d.jpg",
+        "alt": "Coinbase logo on the announcement of single-stock perpetual futures CFTC filing",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance: CFTC Filing",
+          "url": "https://finance.yahoo.com/markets/options/articles/coinbase-seeks-approval-list-perpetual-173700089.html"
+        },
+        {
+          "label": "Coinbase Derivatives",
+          "url": "https://www.coinbase.com/derivatives"
+        },
+        {
+          "label": "COIN Chart",
+          "url": "https://finance.yahoo.com/quote/COIN/"
+        }
+      ],
+      "reddit": {
+        "title": "COIN +11.7% Friday to $194: Coinbase Derivatives files with CFTC for 24/5 single-stock perpetuals on Apple, Nvidia, Tesla, and ~50 more; Goldman lifts PT to $219",
+        "body": "Coinbase filed the piece of paper crypto traders have been asking for: cash-settled, no-expiry, 24/5 perpetual futures on individual U.S. stocks.\n\n* COIN closed **$194.25**, **+11.66%** on **21.8M shares**\n* Filing: **CFTC** application from **Coinbase Derivatives Exchange** on Fri Sept 18\n* Coverage: ~**50–60 U.S. large-caps** — AAPL, MSFT, TSLA, NVDA named; Apple used as the representative contract\n* Trading hours: **Sunday 8pm ET → Friday 5pm ET** — overnight, pre-, regular, after-hours\n* Complements the **Sept 1 SEC Form 1-N** to register Coinbase Derivatives as a national securities exchange for security futures\n\nSell-side reaction:\n\n1. **Goldman Sachs** raised PT to **$219 from $196** (Buy). Named the six growth pillars — perps, prediction markets, tokenized equities, margin lending, Base, agentic finance.\n2. **Bitcoin +6%** on the day back over $80,000, adding a tailwind to the crypto-equity complex.\n\nWhy this filing matters: if approved, it makes Coinbase the first U.S. venue offering crypto-style perpetuals on individual U.S. equities. Approval isn't guaranteed — security-futures rules and CME dynamics still hang over the launch — but the read-through to the 'Everything Exchange' thesis is real.\n\nFull breakdown: [https://stock-tldr.xyz/releases/coin-single-stock-perps-cftc-sep-18-2026](https://stock-tldr.xyz/releases/coin-single-stock-perps-cftc-sep-18-2026)"
+      },
+      "publishDate": "2026-09-19T15:05:29.782Z"
+    },
     {
       "id": "brk-buffett-chairman-emeritus-sep-18-2026",
       "categories": [

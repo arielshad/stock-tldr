@@ -12237,6 +12237,39 @@
         "regulatory",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260919t150529z",
+      "timestamp": "2026-09-19T15:05:29.782Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Fri Sept 18 U.S. single-name movers: Xenon Pharmaceuticals -30.7% on a mixed azetukalner NDA / psychiatry-pause disclosure, and Coinbase +11.7% after Coinbase Derivatives filed with the CFTC for 24/5 single-stock perpetual futures on ~50 U.S. large-caps.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "xene-nda-psychiatry-pause-sep-18-2026",
+          "title": "Xenon Pharmaceuticals (XENE) -30.7% Fri Sept 18 to $39.75 — files azetukalner NDA for focal seizures but voluntarily pauses psychiatry enrollment on neuropsychiatric adverse events",
+          "category": "mover",
+          "note": "Single-name mover: 30.69% decline on ~10x avg volume, primary-source press release, mixed catalyst — NDA filing plus voluntary psychiatry enrollment pause after neuropsychiatric adverse events."
+        },
+        {
+          "id": "coin-single-stock-perps-cftc-sep-18-2026",
+          "title": "Coinbase (COIN) +11.7% Fri Sept 18 to $194.25 — Coinbase Derivatives files with CFTC for 24/5 single-stock perpetual futures on ~50 U.S. large-caps; Goldman lifts PT to $219",
+          "category": "mover",
+          "note": "Single-name mover: +11.66% on ~$4B+ market cap gain; catalyst is the Coinbase Derivatives CFTC filing plus Goldman PT raise to $219."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "regulatory",
+        "crypto",
+        "biotech"
+      ]
     }
   ]
 }
