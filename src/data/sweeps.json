@@ -12201,6 +12201,42 @@
         "regulatory",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260919t020713z",
+      "timestamp": "2026-09-19T02:07:13.590Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Sept 18 2026 items: Warren Buffett becomes Berkshire Chairman Emeritus at 96 (son Howard takes the chair, Abel stays CEO, BRK.B +0.11%), and Wells Fargo's Cahall cuts Netflix to Underweight with a $57 target, sending NFLX -4.6% to $71.79.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brk-buffett-chairman-emeritus-sep-18-2026",
+          "title": "Warren Buffett becomes Chairman Emeritus of Berkshire Hathaway on Fri Sept 18 — 96-year-old ends 61-year chairman run; son Howard G. Buffett takes the chair, Greg Abel stays CEO; BRK.B closes +0.11% at $509.77",
+          "category": "insider",
+          "note": "End of Buffett's 61-year chairmanship at a ~$1T conglomerate — succession news of the most influential US investor of the last half-century."
+        },
+        {
+          "id": "nflx-wells-fargo-underweight-cahall-sep-18-2026",
+          "title": "Netflix (NFLX) -4.6% close $71.79 Fri Sept 18 — Wells Fargo's Steven Cahall cuts to Underweight from Equal Weight, slashes PT to $57 from $80 (~21% downside) on engagement decline; NFLX now -~21% YTD",
+          "category": "mover",
+          "note": "Mega-cap streaming name -4.6% on Sept 18 on a rare tier-1 analyst downgrade with a specific engagement-decline thesis and 21%-downside PT."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "analyst",
+        "insider",
+        "macro",
+        "regulatory",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,157 @@
 {
-  "generatedAt": "2026-09-18T15:26:48.714Z",
+  "generatedAt": "2026-09-19T02:07:13.590Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "brk-buffett-chairman-emeritus-sep-18-2026",
+      "categories": [
+        "insider"
+      ],
+      "title": "Warren Buffett becomes Chairman Emeritus of Berkshire Hathaway on Fri Sept 18 — 96-year-old ends 61-year chairman run; son Howard G. Buffett takes the chair, Greg Abel stays CEO; BRK.B closes +0.11% at $509.77",
+      "org": "Berkshire Hathaway",
+      "date": "2026-09-18",
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "summary": "Warren Buffett steps down as Berkshire Hathaway chairman on Fri Sept 18, becomes chairman emeritus; son Howard G. Buffett takes the chair effective immediately, Greg Abel remains CEO. BRK.B closes +0.11% at $509.77.",
+      "tickers": [
+        "BRK.A",
+        "BRK.B"
+      ],
+      "tags": [
+        "berkshire-hathaway",
+        "warren-buffett",
+        "howard-buffett",
+        "greg-abel",
+        "chairman-emeritus",
+        "executive-succession",
+        "corporate-governance",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "metrics": {
+        "BRK.B close": "$509.77 (+0.11%)",
+        "Buffett age": "96",
+        "Chairman tenure": "61 years (since 1970)",
+        "Howard Buffett board tenure": "33 years"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250815-warren-buffett-rs-8f7292.jpg",
+        "alt": "Warren Buffett, longtime Berkshire Hathaway chairman, in portrait",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
+        },
+        {
+          "label": "NBC News",
+          "url": "https://www.nbcnews.com/business/business-news/warren-buffett-steps-down-chairman-berkshire-hathaway-rcna598503"
+        },
+        {
+          "label": "CNN Business",
+          "url": "https://us.cnn.com/2026/09/18/business/buffett-retires-as-chairman-of-berkshire-hathaway"
+        },
+        {
+          "label": "Nebraska PM",
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/warren-buffett-stepping-down-as-chairman-of-berkshire-hathaway/"
+        },
+        {
+          "label": "BRK.B Ticker",
+          "url": "https://finance.yahoo.com/quote/BRK-B/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Warren Buffett ends a 61-year run as Berkshire chairman; his son Howard takes the chair, Greg Abel keeps the CEO seat.",
+        "whatIsIt": "In a letter to Berkshire Hathaway shareholders on Friday Sept 18, Warren Buffett said he is stepping down as chairman of the board effective immediately and becoming Chairman Emeritus. His 71-year-old son Howard G. Buffett — a Berkshire director for 33 years — takes the chairman role. Greg Abel, who succeeded Warren Buffett as CEO in January, remains chief executive.",
+        "howItWorks": "Buffett, 96, told shareholders 'Father Time always wins' after 61 years as chairman (since 1970). He stays on the Berkshire board and will continue to advise. The transition was announced as part of a long-planned succession framework: Abel runs day-to-day capital allocation and operations as CEO, while Howard Buffett — long designated as the family's non-executive chair to preserve Berkshire's culture — steps into the board seat his father held.",
+        "whyItMatters": "BRK.B closed +0.11% at $509.77, a muted reaction that signals the market has been pricing this transition in since Abel took the CEO role in January. Berkshire's ~$1T market cap, ~$365B cash pile and 61-year founder track record make even a symbolic handoff worth watching for allocators. The formal end of Buffett's chairmanship removes the last operational role of the most influential US investor of the last half-century.",
+        "forWho": "long-only equity allocators, Berkshire watchers, corporate-governance analysts",
+        "tryIt": "https://finance.yahoo.com/quote/BRK-B/"
+      },
+      "reddit": {
+        "title": "Warren Buffett steps down as Berkshire Hathaway chairman at 96 — son Howard takes the chair, Greg Abel stays CEO",
+        "body": "Friday Sept 18: Warren Buffett told Berkshire shareholders he's stepping down as chairman effective immediately and becoming Chairman Emeritus. Here's what changed:\n\n* Warren Buffett (age 96) ends a 61-year run as chairman — he took the role in 1970\n* Howard G. Buffett (71, Berkshire director for 33 years) becomes chairman\n* Greg Abel remains CEO — he succeeded Buffett in that role in January\n* BRK.B closed +0.11% at $509.77 — a muted reaction; market had been pricing the transition in since Abel took CEO\n* Warren stays on the board and continues to advise\n\nWhy Berkshire framed it this way:\n\n1. **Culture, not capital allocation** — the chairman-emeritus/non-executive-chairman split keeps a Buffett family member in the board seat while Abel runs capital allocation and operations day-to-day.\n2. **Long-planned succession** — Howard has been publicly designated as the family's non-executive-chair-in-waiting for years; today just made it formal.\n3. **Warren's own words** — \"Father Time always wins. He has, however, been generous with me.\"\n\nFull breakdown: [https://stock-tldr.xyz/releases/brk-buffett-chairman-emeritus-sep-18-2026](https://stock-tldr.xyz/releases/brk-buffett-chairman-emeritus-sep-18-2026)"
+      },
+      "publishDate": "2026-09-19T02:07:13.590Z"
+    },
+    {
+      "id": "nflx-wells-fargo-underweight-cahall-sep-18-2026",
+      "categories": [
+        "mover",
+        "analyst"
+      ],
+      "title": "Netflix (NFLX) -4.6% close $71.79 Fri Sept 18 — Wells Fargo's Steven Cahall cuts to Underweight from Equal Weight, slashes PT to $57 from $80 (~21% downside) on engagement decline; NFLX now -~21% YTD",
+      "org": "Wells Fargo",
+      "date": "2026-09-18",
+      "url": "https://www.schaeffersresearch.com/content/news/2026/09/18/downgrade-steep-price-target-cut-dings-netflix-stock",
+      "summary": "Netflix -4.6% to $71.79 Fri Sept 18 after Wells Fargo's Steven Cahall cuts to Underweight from Equal Weight and slashes PT to $57 from $80, citing softening viewer engagement and a weaker H2 2026 content slate.",
+      "tickers": [
+        "NFLX"
+      ],
+      "tags": [
+        "netflix",
+        "streaming",
+        "analyst-downgrade",
+        "wells-fargo",
+        "steven-cahall",
+        "underweight",
+        "price-target-cut",
+        "engagement",
+        "content-slate"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "-4.6%",
+        "Close": "$71.79",
+        "Rating change": "Equal Weight → Underweight",
+        "PT change": "$80 → $57",
+        "Implied downside": "~21%",
+        "YTD": "-~21%"
+      },
+      "image": {
+        "url": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2256989044-300x200.jpg",
+        "alt": "Netflix logo on a mobile device",
+        "fit": "cover",
+        "credit": "Getty Images via Quartz"
+      },
+      "links": [
+        {
+          "label": "Schaeffer's Analysis",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/09/18/downgrade-steep-price-target-cut-dings-netflix-stock"
+        },
+        {
+          "label": "Quartz Coverage",
+          "url": "https://qz.com/wells-fargo-netflix-stock-downgrade-price-target-091826"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-falls-4-wells-fargo-130606484.html"
+        },
+        {
+          "label": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/18/netflix-falls-4-as-wells-fargo-cuts-rating-to-underweight-with-57-target-disney-barely-budges/"
+        },
+        {
+          "label": "NFLX Ticker",
+          "url": "https://finance.yahoo.com/quote/NFLX/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Wells Fargo's Steven Cahall cuts Netflix to Underweight with a $57 target — implying ~21% more downside — on softening engagement.",
+        "whatIsIt": "On Friday Sept 18, Wells Fargo media analyst Steven Cahall downgraded Netflix to Underweight from Equal Weight and cut his 12-month price target to $57 from $80 (post-10:1 split basis). NFLX fell 4.6% on the day to close at $71.79, a fourth straight session of declines.",
+        "howItWorks": "Cahall's core thesis: Netflix's user engagement is softening, and the second-half 2026 original-content slate is weaker than expected. Wells Fargo's base case now projects a 21% year-over-year decline in viewing hours from the platform's top 100 originals, with rising subscriber churn risk into 2027 and constrained operating-margin expansion. The $57 target implies levels not seen on the chart in two years.",
+        "whyItMatters": "Netflix is now down ~21% YTD, on track for its worst calendar year since the 51% drawdown of 2022, and trading ~42% below its Oct 2025 $124.14 all-time high (post-split). The downgrade is a rare bear call — 38 of 52 sell-side analysts still rate NFLX Buy/Strong Buy per LSEG — but comes as a second Sept 18 Netflix bear note (24/7 Wall St. flagged rising churn), with Evercore's Kutgun Maral standing pat at Outperform / $110 PT as the counterpoint.",
+        "forWho": "long-onlies in mega-cap streaming, momentum traders watching NFLX's 60-DMA break",
+        "tryIt": "https://finance.yahoo.com/quote/NFLX/"
+      },
+      "reddit": {
+        "title": "Netflix -4.6% to $71.79 Fri Sept 18 as Wells Fargo cuts to Underweight, slashes PT to $57 from $80 — engagement thesis broken",
+        "body": "Wells Fargo media analyst Steven Cahall made a rare bear call on Netflix Friday, taking the stock to Underweight from Equal Weight. Here's the tape:\n\n* NFLX closed -4.6% at $71.79 (post-10:1-split levels) — fourth straight losing session\n* PT cut to $57 from $80, implying ~21% additional downside\n* Stock now down ~21% YTD — on track for worst year since 2022's -51%\n* Trades ~42% below Oct 2025 all-time high of $124.14 (post-split)\n* Broke below the 60-day moving average for the first time in a month\n\nWhat's in the note:\n\n1. **Engagement is softening** — Wells Fargo's base case now models a 21% Y/Y decline in viewing hours from Netflix's top 100 originals.\n2. **Weak H2 2026 slate** — Cahall flags a thinner original-content pipeline vs. what the buy side had priced in.\n3. **Churn risk into 2027** — softer engagement typically leads churn by 2–3 quarters; Wells sees margin-expansion headwinds from higher content spend to defend the base.\n\nCounterpoint: 38 of 52 sell-side analysts still rate NFLX Buy/Strong Buy (LSEG); Evercore's Kutgun Maral kept Outperform with a $110 target citing record Japan household penetration.\n\nNext catalysts: Q3 2026 earnings in mid-October.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nflx-wells-fargo-underweight-cahall-sep-18-2026](https://stock-tldr.xyz/releases/nflx-wells-fargo-underweight-cahall-sep-18-2026)"
+      },
+      "publishDate": "2026-09-19T02:07:13.590Z"
+    },
     {
       "id": "boj-sep-2026-hike-125-sep-18",
       "categories": [
