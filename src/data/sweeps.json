@@ -12270,6 +12270,35 @@
         "crypto",
         "biotech"
       ]
+    },
+    {
+      "id": "sweep-20260920t021004z",
+      "timestamp": "2026-09-20T02:10:04.424Z",
+      "source": "github-actions-sweep",
+      "summary": "Added a single-name mover: Nucor's Thu-eve Q3 2026 guide undershot the Street by ~10% and dragged the steel complex lower on Fri Sept 18. Rest of the last ~24h (weekend after triple-witching Fri) was quiet enough on the news front to skip.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nue-q3-guide-cut-sep-18-2026",
+          "title": "Nucor (NUE) -6.3% close $248.38 Fri Sept 18 — Thu-eve Q3 2026 guide of $5.55–$5.65 EPS lands ~10% below $6.17 consensus as $130M Q2 raw-material refund does not recur; Steel Dynamics -4.1% in sympathy",
+          "category": "mover",
+          "note": "Mega-cap steelmaker guide undershoots consensus by ~10%, drives -6.3% single-day move and -4.1% STLD sympathy read-through on ~triple-witching Friday."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "earnings",
+        "crypto",
+        "macro",
+        "commodity",
+        "mna"
+      ]
     }
   ]
 }
