@@ -12299,6 +12299,51 @@
         "commodity",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260920t151225z",
+      "timestamp": "2026-09-20T15:12:25.318Z",
+      "source": "github-actions-sweep",
+      "summary": "Three qualifying items from the Fri Sept 18 tape and the weekend: FedEx-Advent consortium clears 89.8% of InPost's €7.8B tender; US spot Bitcoin ETFs pull $433M in inflows and BTC recovers back above $80K after the Fed hike + CLARITY Act failure; and Jana Partners publicly demands a CEO change and break-up at Cooper Companies (COO).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fdx-inpost-78b-tender-clear-sep-18-2026",
+          "title": "FedEx-Advent consortium clears 89.8% tender threshold for €7.8B ($8.9B) InPost buyout on Fri Sept 18 — €15.60 per share, Brzoska stays CEO",
+          "category": "mna",
+          "note": "Sept 18 deadline cleared 80% acceptance threshold at 89.81%; €7.8B ($8.9B) is the year's largest European logistics take-private and gives FedEx a controlling stake in Europe's dominant OOH parcel-locker network."
+        },
+        {
+          "id": "btc-etfs-433m-inflow-80k-recovery-sep-18-2026",
+          "title": "US spot Bitcoin ETFs pull $433M on Fri Sept 18, biggest daily intake since Sept 3 as BTC recovers to ~$81K over weekend — +8% from Sept 15 CLARITY-Act low near $75K",
+          "category": "crypto",
+          "note": "Friday's $433M inflow — biggest since Sept 3 — closes out a barely-positive week and BTC recovers to ~$81K over the weekend from the Sept 15 CLARITY-Act low near $75K."
+        },
+        {
+          "id": "coo-jana-ceo-search-activist-sep-18-2026",
+          "title": "Cooper Companies (COO) +3.0% Fri Sept 18 to $55.40 — activist Jana Partners (1.8% stake) urges Cooper to fire CEO Al White and sell CooperVision + CooperSurgical",
+          "category": "mover",
+          "note": "WSJ scoop that Jana has taken 1.8% and demands a CEO replacement + sale of both Cooper Companies units after a run of guidance misses; distinct from the Sept 9 Q3 earnings item, which covered the print itself."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "crypto",
+        "mover",
+        "insider",
+        "earnings",
+        "macro",
+        "rates",
+        "commodity",
+        "analyst",
+        "regulatory"
+      ]
     }
   ]
 }
