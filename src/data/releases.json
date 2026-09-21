@@ -1,8 +1,217 @@
 {
-  "generatedAt": "2026-09-21T02:09:34.777Z",
+  "generatedAt": "2026-09-21T17:26:12.446Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "amd-1t-market-cap-sep-21-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "AMD crosses $1 trillion market cap intraday Mon Sept 21 — first time; stock hits all-time high ~$610 (+8.4%) as SOX +3% on Trump-Xi AI-dinner bid and Meta Muse AI-server halo",
+      "org": "Advanced Micro Devices",
+      "date": "2026-09-21",
+      "url": "https://www.fxleaders.com/news/2026/09/21/amd-stock-opens-the-door-for-700-as-chip-demand-drives-fresh-record-highs/",
+      "summary": "AMD becomes the second US chipmaker after Nvidia to cross $1T on Mon Sept 21 — shares +8.4% to ~$606.80 on Trump-Xi state dinner AI attendee list and Meta Muse-driven CPU/GPU demand; INTC +12%, ARM +15.6%.",
+      "tags": [
+        "semis",
+        "ai-capex",
+        "trillion-dollar",
+        "chip-rally",
+        "trump-xi-summit",
+        "meta-muse",
+        "sox"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMD",
+        "INTC",
+        "ARM",
+        "NVDA"
+      ],
+      "metrics": {
+        "AMD price": "~$606.80",
+        "AMD move": "+8.4%",
+        "AMD market cap": "~$990B intraday, crossed $1T at ~$615.99 52w high",
+        "YTD": "+183.51%",
+        "INTC": "+12.03% to $121.67",
+        "ARM": "+15.64% to $318.72",
+        "PHLX SOX": "+3%"
+      },
+      "explainer": {
+        "tagline": "AMD becomes the second US chipmaker to cross $1T as chip-stock rally ropes in Intel and Arm.",
+        "whatIsIt": "AMD (AMD) traded above $610 intraday on Mon Sept 21, briefly pushing its market cap through $1 trillion for the first time — a milestone previously reached only by Nvidia in the semis space. The move is part of a broad chip-stock rally with the PHLX Semiconductor Index (SOX) up more than 3% on the session.",
+        "howItWorks": "AMD closed prior sessions on a 5-day rally into today, aided by a Sept 17 supply-chain report that AMD is warning partners of a ~10% Q4 price hike on AI accelerators, Radeon GPUs and motherboard chipsets (Ryzen spared). The Yahoo Finance quote page shows shares at $606.80 (+8.39%) with intraday market cap $990.586B and 52-week range $154.78–$615.99; YTD return +183.51%.",
+        "whyItMatters": "Two catalysts are compounding today: the Trump-Xi state dinner on Thursday Sept 24 has been reported to include Jensen Huang, Sam Altman, Tim Cook and Satya Nadella, cementing the AI-diplomacy trade; and Meta's Muse AI agent launch (Sept 9) has renewed demand expectations for server CPUs, pulling Intel +12% and Arm +15.6% alongside AMD. A $1T tape print puts AMD firmly in the mega-cap tier for index and options positioning.",
+        "forWho": "chip traders, index desks, AI-thematic funds",
+        "tryIt": "https://finance.yahoo.com/quote/AMD/"
+      },
+      "image": {
+        "url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/09/16132811/AMD-scaled.webp",
+        "alt": "AMD logo on chip packaging as shares hit a record high",
+        "fit": "cover",
+        "credit": "FX Leaders"
+      },
+      "links": [
+        {
+          "label": "FX Leaders — Record High",
+          "url": "https://www.fxleaders.com/news/2026/09/21/amd-stock-opens-the-door-for-700-as-chip-demand-drives-fresh-record-highs/"
+        },
+        {
+          "label": "Yahoo Quote (AMD)",
+          "url": "https://finance.yahoo.com/quote/AMD/"
+        },
+        {
+          "label": "AMD Q4 Price Hike Report",
+          "url": "https://www.pcworld.com/article/3239912/amd-gpu-and-motherboard-prices-could-jump-10-percent-soon-ryzen-may-follow.html"
+        }
+      ],
+      "reddit": {
+        "title": "AMD just crossed $1 trillion market cap for the first time — stock +8.4% to $606, SOX +3%",
+        "body": "Monday Sept 21 chip-stock rip: AMD is the second US semi to ever trade above $1T market cap (after Nvidia). Here's the tape:\n\n* AMD +8.4% to ~$606.80 (52w high $615.99); intraday mkt cap ~$990B, crossed $1T on the print\n* Intel +12.03% to $121.67\n* Arm Holdings +15.64% to $318.72\n* PHLX Semiconductor Index (SOX) +3%\n* AMD YTD: +183.51%\n\nTwo drivers stacked today:\n\n1. **Trump-Xi state dinner Thursday Sept 24** — attendee list reportedly includes Jensen Huang, Sam Altman, Tim Cook and Satya Nadella, priming the AI-diplomacy trade.\n2. **Meta Muse AI halo** — Muse agent (launched Sept 9) is boosting server-CPU/GPU demand expectations, dragging Intel and Arm higher alongside AMD.\n\nSet-up going in: Sept 17 supply-chain report that AMD is telling partners to expect a ~10% Q4 price hike on AI accelerators, Radeon GPUs and chipsets (Ryzen spared).\n\nNext catalysts: Trump-Xi dinner Sept 24; Meta Connect keynote Sept 23-24.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amd-1t-market-cap-sep-21-2026](https://stock-tldr.xyz/releases/amd-1t-market-cap-sep-21-2026)"
+      },
+      "publishDate": "2026-09-21T17:26:12.446Z"
+    },
+    {
+      "id": "wti-97-iran-diplomacy-slide-sep-21-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "WTI -2.7% to $97.61, Brent -2.6% to $101.18 on Mon Sept 21 — 4th straight session lower, 11-day lows — as Trump says 'probably open' to meeting Iran's Pezeshkian at UNGA and CENTCOM cites six-month high in Hormuz flows",
+      "org": "Foreign Exchange",
+      "date": "2026-09-21",
+      "url": "https://finance.yahoo.com/energy/articles/oil-rises-houthi-attack-saudi-221210416.html",
+      "summary": "Crude slides for a 4th straight session to 11-day lows Mon Sept 21 as Trump says he is 'probably open' to meeting Iranian President Pezeshkian at this week's UNGA and CENTCOM says Hormuz oil/LNG flows hit a 6-month high, easing war premium.",
+      "tags": [
+        "oil",
+        "wti",
+        "brent",
+        "iran",
+        "unga",
+        "hormuz",
+        "diplomacy",
+        "trump-pezeshkian"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "WTI Oct (expiring Tues)": "$97.61 (-$2.69, -2.7%)",
+        "Brent Nov": "$101.18 (-$2.69, -2.6%)",
+        "Sessions lower": "4 in a row",
+        "Range low": "11-day"
+      },
+      "explainer": {
+        "tagline": "Oil sells off to 11-day lows as Trump signals he may meet Iran's president at UNGA and Hormuz shipments recover.",
+        "whatIsIt": "US and Brent crude both fell for a fourth consecutive session on Mon Sept 21 to 11-day lows, as investors priced in a lower geopolitical risk premium ahead of this week's United Nations General Assembly. President Trump told Fox News on Sunday he is 'probably open' to meeting Iranian President Masoud Pezeshkian on the sidelines of UNGA, saying he is in 'deciding mode.'",
+        "howItWorks": "WTI October (expiring Tuesday) settled at $97.61, down $2.69 or 2.7%; Brent November settled at $101.18, down $2.69 or 2.6%. US CENTCOM commander Admiral Brad Cooper said oil and LNG shipments through the Strait of Hormuz over the past two weeks reached a six-month high, with the main transit lanes 'clear of mines.' Saudi Arabia is also partially restoring export flows after the Aug Houthi strikes on Aramco facilities.",
+        "whyItMatters": "The 72-hour swing from >$108 Brent (Sept 14) to ~$101 Brent (Sept 21) marks a full round-trip of the September war premium and reopens the September FOMC's hawkish surprise (Sept 16, 3.75–4.00%) to disinflation-relief pushback. Energy is the largest single component of the September CPI print due Oct 11 and today's move takes an ~$8/bbl swipe out of pump-price projections. Iran granted UN visas to a six-person delegation last week, including FM Abbas Araghchi.",
+        "forWho": "energy desks, rates, inflation traders",
+        "tryIt": "https://tradingeconomics.com/commodity/crude-oil"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/87d2fc46ad26486b49965d87f528fe30c42dea241883e2e6f94b269183d5287f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fec06bbc328acf79ff3cb366db2850a8f.jpg",
+        "alt": "Oil tankers at a Middle East terminal — Hormuz shipping flows",
+        "fit": "cover",
+        "credit": "Reuters via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Reuters (Yahoo) — 11-day Low",
+          "url": "https://finance.yahoo.com/energy/articles/oil-rises-houthi-attack-saudi-221210416.html"
+        },
+        {
+          "label": "The National — Diplomacy",
+          "url": "https://www.thenationalnews.com/business/energy/2026/09/21/oil-prices-slide-on-hopes-diplomacy-at-un-will-help-end-iran-conflict/"
+        },
+        {
+          "label": "CNBC — Trump Iran Talks",
+          "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
+        },
+        {
+          "label": "Trading Economics WTI",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        }
+      ],
+      "reddit": {
+        "title": "Oil -2.7% to 11-day low: WTI $97.61, Brent $101.18 as Trump says he's 'probably open' to meeting Iran's Pezeshkian at UNGA",
+        "body": "Monday Sept 21 — crude falls for the 4th straight session as the September war premium unwinds:\n\n* WTI Oct (expiring Tues) $97.61, -$2.69 (-2.7%)\n* Brent Nov $101.18, -$2.69 (-2.6%)\n* Both benchmarks at 11-day lows; Brent back below $102 from ~$108 last week\n* Round trip: WTI ~$100→$97.61 vs $91.51 low earlier\n\nDrivers:\n\n1. **Trump signals diplomacy** — told Fox News Sunday he's 'probably open' to meeting Iranian President Masoud Pezeshkian on the sidelines of UNGA this week; described himself as in 'deciding mode.'\n2. **CENTCOM: Hormuz clear** — Admiral Brad Cooper says oil and LNG flows through the Strait of Hormuz over the past two weeks have hit a six-month high, with transit lanes 'clear of mines.'\n3. **Saudi exports recovering** — partial restoration of flows after the Aug Houthi strikes on Aramco facilities.\n\nMacro read-through: the September Fed hike (25bp to 3.75–4.00% on Sept 16) came with a hawkish dot plot on the back of hot Aug CPI +3.4% Y/Y. An ~$8 Brent give-back this week takes some of the pressure off the October CPI print (Oct 11).\n\nNext catalysts: UNGA high-level week Sept 22-26; possible Trump-Pezeshkian bilateral.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wti-97-iran-diplomacy-slide-sep-21-2026](https://stock-tldr.xyz/releases/wti-97-iran-diplomacy-slide-sep-21-2026)"
+      },
+      "publishDate": "2026-09-21T17:26:12.446Z"
+    },
+    {
+      "id": "meta-wells-fargo-796-pt-sep-21-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Meta (META) +7% to ~$712.56 on Mon Sept 21 — Wells Fargo lifts PT to $796 from $640 (Overweight) ahead of Meta Connect Sept 23-24, cites Muse traction and 25x 2027 EPS multiple",
+      "org": "Wells Fargo",
+      "date": "2026-09-21",
+      "url": "https://247wallst.com/investing/2026/09/21/meta-spikes-7-as-wells-fargo-lifts-price-target-to-796-ahead-of-connect-alphabet-nudges-higher-microsoft-holds-flat/",
+      "summary": "Wells Fargo raises META PT to $796 from $640 (Overweight maintained) Mon Sept 21 on Muse AI-agent traction and Meta Connect setup, moving to a 25x 2027 EPS multiple; META +7% to ~$712.56, part of broader Nasdaq +2% session.",
+      "tags": [
+        "analyst",
+        "price-target-raise",
+        "meta-connect",
+        "muse",
+        "ai-agents",
+        "monetization"
+      ],
+      "importance": "major",
+      "tickers": [
+        "META"
+      ],
+      "metrics": {
+        "Rating": "Overweight (maintained)",
+        "Old PT": "$640",
+        "New PT": "$796",
+        "PT change": "+$156 / +24%",
+        "Move today": "+7% intraday to ~$712.56",
+        "Valuation multiple": "25x 2027 EPS (up from 20x)"
+      },
+      "explainer": {
+        "tagline": "Wells Fargo raises Meta price target 24% to $796 on Muse traction ahead of the Sept 23-24 Meta Connect keynote.",
+        "whatIsIt": "Wells Fargo lifted its 12-month price target on Meta Platforms (META) to $796 from $640 on Mon Sept 21, keeping an Overweight rating, arguing that Meta's Muse personal AI agent (launched Sept 8) is showing 'encouraging early signs of a new product cycle' that positions the app closer to commerce than traditional feeds. Shares spiked ~7% intraday to $712.56 into the Meta Connect keynote scheduled Sept 23-24.",
+        "howItWorks": "The bank raised its valuation multiple to 25x 2027 EPS (from 20x), while trimming 2026 operating income by ~12% to reflect the Q3 $10B legal settlement, and moving 2027 EPS to $31.86 (from $32.07). The new $796 target implies ~19% upside from last close and comes ahead of what Wells Fargo says will 'either validate or crush' expectations for Muse usage disclosure at Connect. Muse launch Sept 9 is already the subject of a separate feed item (meta-muse-ai-agent-launch-sep-9-2026); today's item is the analyst action + PT jump into Connect.",
+        "whyItMatters": "META is the first mega-cap to get a Street-wide re-rating on consumer AI agent traction, and the multiple change (20x → 25x on 2027 EPS) is the operative rerating call — not the headline number. Meta Connect Sept 23-24 is now a binary event: usage numbers vs commerce-monetization proof-points. Broader read: today's tape also has ARM +15.6% and Intel +12% on server-CPU demand from the Muse AI-agent thesis.",
+        "forWho": "large-cap tech, sell-side re-rating watchers",
+        "tryIt": "https://finance.yahoo.com/quote/META/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/5301e3820a46357baf4d22a60226df25879949b7672a504e3dc89ac909ee112e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F175abad452a8dbf22f08698ebccb93d8",
+        "alt": "Meta Platforms Muse AI agent brand imagery",
+        "fit": "cover",
+        "credit": "Stocktwits via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "24/7 Wall St — Spikes 7%",
+          "url": "https://247wallst.com/investing/2026/09/21/meta-spikes-7-as-wells-fargo-lifts-price-target-to-796-ahead-of-connect-alphabet-nudges-higher-microsoft-holds-flat/"
+        },
+        {
+          "label": "Rallies.ai — PT to $796",
+          "url": "https://rallies.ai/news/meta-platforms-inc-metao-wells-fargo-raises-target-price-to-796-from-640-9360e5bb0e14179f"
+        },
+        {
+          "label": "Yahoo — Story to Tell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-heads-connect-fresh-wells-123738300.html"
+        },
+        {
+          "label": "Yahoo Quote (META)",
+          "url": "https://finance.yahoo.com/quote/META/"
+        }
+      ],
+      "reddit": {
+        "title": "Wells Fargo lifts Meta PT to $796 from $640 (+24%), moves to 25x 2027 EPS; META +7% into Meta Connect this week",
+        "body": "Analyst action into Meta Connect (Sept 23-24): Wells Fargo just re-rated Meta on Muse AI traction.\n\n* PT $796 vs $640 prior (+$156 / +24%), Overweight maintained\n* Valuation multiple lifted to 25x 2027 EPS from 20x — the operative call\n* 2027 EPS revised to $31.86 (from $32.07); 2028 EPS $38.75 (from $38.73)\n* 2026 operating income cut ~12% for the $10B Q3 legal settlement\n* META +7% intraday to ~$712.56; new PT implies ~19% upside from last close\n\nWhy now:\n\n1. **Muse thesis** — Wells Fargo argues the Sept 8 Muse launch is 'encouraging early signs of a new product cycle' with commerce-adjacent monetization surface.\n2. **Meta Connect binary** — the bank says Sept 23-24 keynote 'will either validate or crush' expectations on Muse usage disclosure.\n3. **Chip halo** — same tape has Intel +12% and Arm +15.6% on server-CPU demand from the Muse AI-agent read.\n\nNext catalysts: Meta Connect Sept 23-24 (Muse metrics); Q3 print in late October.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-wells-fargo-796-pt-sep-21-2026](https://stock-tldr.xyz/releases/meta-wells-fargo-796-pt-sep-21-2026)"
+      },
+      "publishDate": "2026-09-21T17:26:12.446Z"
+    },
     {
       "id": "us-china-pre-summit-talks-sep-20-2026",
       "categories": [

@@ -12371,6 +12371,46 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260921t172612z",
+      "timestamp": "2026-09-21T17:26:12.446Z",
+      "source": "github-actions-sweep",
+      "summary": "Monday Sept 21 US session sweep: AMD crosses $1T market cap intraday as chip-stock rally rips (INTC +12%, ARM +15.6%); crude drops to 11-day lows on Trump 'probably open' to Iran talks at UNGA; Wells Fargo lifts META PT to $796 (Overweight) ahead of Meta Connect Sept 23-24.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amd-1t-market-cap-sep-21-2026",
+          "title": "AMD crosses $1 trillion market cap intraday Mon Sept 21 — first time; stock hits all-time high ~$610 (+8.4%) as SOX +3% on Trump-Xi AI-dinner bid and Meta Muse AI-server halo",
+          "category": "mover",
+          "note": "AMD becomes second US chip mega-cap to touch $1T; +8.4% today with SOX +3%; broad AI-diplomacy + Muse-CPU-demand catalyst stack."
+        },
+        {
+          "id": "wti-97-iran-diplomacy-slide-sep-21-2026",
+          "title": "WTI -2.7% to $97.61, Brent -2.6% to $101.18 on Mon Sept 21 — 4th straight session lower, 11-day lows — as Trump says 'probably open' to meeting Iran's Pezeshkian at UNGA and CENTCOM cites six-month high in Hormuz flows",
+          "category": "commodity",
+          "note": "Brent/WTI unwind September war premium on Trump-Pezeshkian meet signal + CENTCOM's Hormuz-clear statement; material for October CPI setup."
+        },
+        {
+          "id": "meta-wells-fargo-796-pt-sep-21-2026",
+          "title": "Meta (META) +7% to ~$712.56 on Mon Sept 21 — Wells Fargo lifts PT to $796 from $640 (Overweight) ahead of Meta Connect Sept 23-24, cites Muse traction and 25x 2027 EPS multiple",
+          "category": "analyst",
+          "note": "Wells Fargo's $796 PT/25x rerating on Muse traction moves META +7% into the Meta Connect Sept 23-24 binary event."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "commodity",
+        "macro",
+        "analyst"
+      ]
     }
   ]
 }
