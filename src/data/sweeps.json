@@ -12344,6 +12344,33 @@
         "analyst",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20260921t020934z",
+      "timestamp": "2026-09-21T02:09:34.777Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: US Treasury Secretary Bessent and USTR Greer's pre-summit meeting with Chinese Vice Premier He Lifeng at JPMorgan Manhattan HQ on Sun Sept 20, teeing up the Sept 23-25 Trump-Xi Washington state visit and the Nov 10 tariff-truce cliff. Reviewed weekend geopolitics (Houthi missile at Riyadh Sept 19 — intercepted, no clean market move so dropped), crypto (BTC held ~$80-81K weekend), and Friday's SEC/BOJ items — all already covered. Ship one, hold everything else.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-china-pre-summit-talks-sep-20-2026",
+          "title": "US-China pre-summit talks Sun Sept 20 — Bessent and USTR Greer meet Vice Premier He Lifeng at JPMorgan Manhattan HQ ahead of Sept 24 Trump-Xi Washington summit; AI 'notification mechanism' proposed, Nov 10 tariff truce and rare earths on the agenda",
+          "category": "macro",
+          "note": "Front-page Bloomberg/Reuters/CNBC/Nikkei/Al Jazeera Sunday news; sets the market tone for the Sept 22-26 week and the Nov 10 tariff-truce cliff. Xi's first WH visit in 11 years."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "geopolitics",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
