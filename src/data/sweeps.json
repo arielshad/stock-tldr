@@ -12440,6 +12440,54 @@
         "earnings",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260922t160006z",
+      "timestamp": "2026-09-22T16:00:06.970Z",
+      "source": "github-actions-sweep",
+      "summary": "Four adds: Alibaba's Zhenwu V900 AI-chip + 20GW datacenter unveil at Yunqi (Tue Sept 22), AutoZone Q4 FY26 EPS beat / revenue miss (Tue BMO), CMS's proposed 15% CY2027 lab-fee cut that repriced Quest and Labcorp (Mon Sept 21), and the Shopify-Meta Muse Shop Pay agentic-checkout deal (Mon Sept 21 X posts).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "baba-zhenwu-v900-20gw-sep-22-2026",
+          "title": "Alibaba (BABA) unveils Zhenwu V900 AI chip and 20+GW global data-center plan by 2032 at Tue Sept 22 Yunqi Conference — HK shares close +2%, US ADR +3% premarket",
+          "category": "mover",
+          "note": "Same-day Alibaba Yunqi keynote unveiling a 3x-perf T-Head chip and 20GW datacenter plan — direct Nvidia-China substitution signal."
+        },
+        {
+          "id": "azo-q4-fy26-earnings-sep-22-2026",
+          "title": "AutoZone (AZO) Q4 FY26 (BMO Tue Sept 22) — EPS $56.05 beats $54 est, revenue $6.60B misses $6.71B est; gross margin +182bp to 53.3% on 145bp tariff refund; buyback $697.5M in Q4",
+          "category": "earnings",
+          "note": "Fresh Tue BMO print, EPS beat/revenue miss, with 250bp of gross-margin benefit from tariff refunds + LIFO worth flagging."
+        },
+        {
+          "id": "cms-clfs-15pct-cut-dgx-lh-sep-21-2026",
+          "title": "CMS proposes 15% CY2027 Medicare lab-fee-schedule cut on Mon Sept 21 — Quest (DGX) -5.2% AH to $232.12 (then -6.9% premarket Tue); Labcorp (LH) -3.7% AH from $320.71 close",
+          "category": "regulatory",
+          "note": "Mon Sept 21 CMS preliminary CY2027 CLFS rates — up to 15% cut, triggered ~5–7% AH/premarket selloff in DGX and 3.7% in LH."
+        },
+        {
+          "id": "shop-meta-muse-shop-pay-sep-21-2026",
+          "title": "Shopify (SHOP) +7.3% close $137.92 Mon Sept 21 as Meta's Muse AI agent adopts Shop Pay for agentic checkout — Amazon blocks Muse in contrast; SHOP +5–7% more Tue Sept 22",
+          "category": "mover",
+          "note": "First live agentic-checkout deal between a top-3 AI agent (Meta Muse) and Shopify; SHOP +7.3% Mon and +5–7% Tue."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "regulatory",
+        "macro",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }

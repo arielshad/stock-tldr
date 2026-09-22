@@ -1,8 +1,309 @@
 {
-  "generatedAt": "2026-09-22T02:15:28.757Z",
+  "generatedAt": "2026-09-22T16:00:06.970Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "baba-zhenwu-v900-20gw-sep-22-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "tickers": [
+        "BABA",
+        "NVDA"
+      ],
+      "title": "Alibaba (BABA) unveils Zhenwu V900 AI chip and 20+GW global data-center plan by 2032 at Tue Sept 22 Yunqi Conference — HK shares close +2%, US ADR +3% premarket",
+      "org": "Alibaba Group",
+      "date": "2026-09-22",
+      "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+      "summary": "At the Yunqi Conference on Tue Sept 22, Alibaba Cloud CEO Eddie Wu unveiled the Zhenwu V900 AI accelerator — 3x its predecessor, clusters of up to 500K units — and pledged 20+GW of global data-center capacity by 2032.",
+      "tags": [
+        "ai-infrastructure",
+        "china-ai",
+        "ai-chips",
+        "zhenwu-v900",
+        "t-head",
+        "alibaba-cloud",
+        "yunqi-conference",
+        "data-center-capex",
+        "nvidia-substitute",
+        "qwen"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Chip": "Zhenwu V900 — 3× perf vs Zhenwu M890 predecessor; clusters up to 500K units",
+        "Mass production": "Early 2027",
+        "Data centers": "20+GW global capacity by 2032",
+        "Qwen scale target": "5T–10T parameters",
+        "BABA HK close": "+2% Tue Sept 22",
+        "BABA US ADR": "+3% premarket Tue Sept 22"
+      },
+      "explainer": {
+        "tagline": "Alibaba unveils its most powerful AI chip yet and a six-year plan to more than triple data-center capacity, taking direct aim at the Nvidia gap in China.",
+        "whatIsIt": "At the Yunqi Conference in Hangzhou on Tuesday Sept 22, Alibaba Cloud CEO Eddie Wu unveiled a new custom AI accelerator — the Zhenwu V900 — and a plan to expand global data-center capacity to over 20 gigawatts by 2032. Alongside the hardware, Alibaba said it will scale its Qwen models to as many as 5–10 trillion parameters. HK-listed shares closed +2% Tuesday and the US ADR was up more than 3% in premarket trading.",
+        "howItWorks": "The Zhenwu V900, developed by Alibaba's in-house T-Head silicon unit, delivers roughly 3× the performance of its predecessor (the Zhenwu M890) and can be lashed together in clusters of up to 500,000 units for frontier-model training, per Wu's keynote. Mass production is scheduled for early 2027. The 20+GW capacity target is a six-year buildout that Citi analysts pair with a cloud-revenue projection of ~$160B by FY2033 (~40% CAGR FY26–FY33 vs. prior $100B FY31 estimate).",
+        "whyItMatters": "US export controls have effectively blocked Nvidia's most-capable Blackwell/GB200 accelerators from mainland China, and Beijing is pushing domestic hyperscalers to backfill with in-house silicon. A credible 3× step-up from Alibaba's T-Head — combined with a 20GW+ concrete capex target — accelerates the substitution narrative, pressures Nvidia's China total-addressable market, and re-rates BABA cloud as an AI-infra name. It also lands on the same day Trump used his UN address to keep Iran/China policy front-and-centre, keeping the AI-decoupling trade live.",
+        "forWho": "AI-infra investors, China tech allocators, semis desks",
+        "tryIt": "https://finance.yahoo.com/quote/BABA"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108365988-1790049334510-gettyimages-2292821363-img_8905.jpeg?v=1790049349&w=1920&h=1080",
+        "alt": "Alibaba Cloud CEO Eddie Wu speaking at the Yunqi Conference in Hangzhou",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html"
+        },
+        {
+          "label": "TechNode Deep Dive",
+          "url": "https://technode.com/2026/09/22/t-head-unveils-zhenwu-v900-ai-chip-in-alibabas-push-to-expand-its-ai-infrastructure-stack/"
+        },
+        {
+          "label": "The Register Deep Dive",
+          "url": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062"
+        },
+        {
+          "label": "BABA Chart",
+          "url": "https://finance.yahoo.com/quote/BABA"
+        }
+      ],
+      "reddit": {
+        "title": "Alibaba unveils Zhenwu V900 AI chip and a 20+GW datacenter plan by 2032 — 3x its predecessor, clusters up to 500K units. BABA HK +2%, US ADR +3% premarket",
+        "body": "At the Yunqi Conference in Hangzhou on Tue Sept 22, Alibaba Cloud CEO Eddie Wu did an AI-infrastructure dump aimed squarely at the gap Nvidia can no longer fill in China.\n\n* New chip: **Zhenwu V900**, built by Alibaba's in-house T-Head silicon unit — 3x the performance of its predecessor (Zhenwu M890), can be clustered up to 500,000 units for frontier training. Mass production early 2027.\n* Capacity plan: **20+ gigawatts** of global data-center capacity by 2032.\n* Model target: Qwen scaled to **5–10 trillion parameters**.\n* BABA HK closed +2% Tue Sept 22, US ADR up more than +3% in premarket.\n* Citi ties the plan to a ~$160B cloud-revenue projection by FY2033 (~40% CAGR from FY26).\n\nWhy the market cares:\n\n1. **China AI-chip substitution just got real** — a credible 3x step-up from T-Head plus a hard capex number is the biggest single signal yet that mainland hyperscalers can backfill without Nvidia's best silicon.\n2. **Cloud re-rating** — BABA has been priced like an e-commerce name; the 20GW plan reframes it as an AI-infra one.\n3. **Nvidia China TAM pressure** — every domestic chip that lands adds to the argument that Blackwell exports won't be re-enabled.\n\nNext catalysts: Trump-Xi Sept 24 Washington summit and any updated US export-control language on Chinese AI silicon.\n\nFull breakdown: [https://stock-tldr.xyz/releases/baba-zhenwu-v900-20gw-sep-22-2026](https://stock-tldr.xyz/releases/baba-zhenwu-v900-20gw-sep-22-2026)"
+      },
+      "publishDate": "2026-09-22T16:00:06.970Z"
+    },
+    {
+      "id": "azo-q4-fy26-earnings-sep-22-2026",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "AZO"
+      ],
+      "title": "AutoZone (AZO) Q4 FY26 (BMO Tue Sept 22) — EPS $56.05 beats $54 est, revenue $6.60B misses $6.71B est; gross margin +182bp to 53.3% on 145bp tariff refund; buyback $697.5M in Q4",
+      "org": "AutoZone",
+      "date": "2026-09-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000866787/000117184326006159/exh_991.htm",
+      "summary": "AutoZone's Q4 FY26 (16-week period ended Aug 29) delivers a headline EPS beat driven mostly by tariff-refund and LIFO gross-margin tailwinds; sales rose 5.6% Y/Y but missed the top-line estimate and buybacks totaled $697.5M in the quarter.",
+      "tags": [
+        "auto-parts",
+        "earnings",
+        "eps-beat",
+        "revenue-miss",
+        "tariff-refund",
+        "lifo",
+        "buybacks",
+        "q4-fy26",
+        "same-store-sales"
+      ],
+      "importance": "major",
+      "metrics": {
+        "EPS (diluted)": "$56.05 vs ~$54 est (prior year $48.71)",
+        "Revenue": "$6.60B (+5.6% Y/Y) vs $6.71B est",
+        "Total same-store sales": "+2.7% (+1.5% constant currency)",
+        "Domestic same-store": "+1.6%",
+        "International same-store": "+10.7% (+1.3% constant currency)",
+        "Gross margin": "53.3% (+182bp Y/Y) — includes 145bp tariff refund + 105bp LIFO benefit",
+        "Operating profit": "$1.30B (+10.1%)",
+        "Net income": "$931.6M",
+        "Q4 buybacks": "$697.5M",
+        "FY26 buybacks": "$2.0B (579K shares at avg $3,496)",
+        "Remaining buyback authorization": "$1.6B"
+      },
+      "explainer": {
+        "tagline": "AutoZone's fiscal-Q4 EPS beat is real, but 250bp of the 182bp gross-margin lift is one-off tariff refunds and LIFO — the underlying miss is on the top line.",
+        "whatIsIt": "AutoZone reported fiscal Q4 2026 (a 16-week period ended Aug 29) before the open on Tue Sept 22. Diluted EPS came in at $56.05, comfortably above the ~$54 Street estimate and up from $48.71 a year ago. Net sales rose 5.6% Y/Y to $6.60B but missed the $6.71B consensus. Total same-store sales grew 2.7% (domestic +1.6%, international +10.7%).",
+        "howItWorks": "Gross margin expanded 182bp Y/Y to 53.3%, but management attributed 145bp of that to tariff refunds and another 105bp to a non-cash LIFO credit — meaning the underlying ex-one-offs GM was slightly softer than reported. Operating profit rose 10.1% to $1.30B; net income was $931.6M. AutoZone bought back $697.5M of stock in Q4 (part of a $2.0B FY26 program at an average of $3,496/share) and still has $1.6B of authorization left. Full-year revenue was $20.3B (+7.4%) and full-year diluted EPS was $152.55 (+5.3%).",
+        "whyItMatters": "AZO is a bellwether for aftermarket auto-parts demand and one of the best-run tariff-pass-through names in retail; a ~1.7% revenue miss is meaningful given consensus was already braced for a soft top line. The 250bp of Q4 GM benefit from tariffs + LIFO is one-time, so 2027 gross-margin comps will be tough. Peers (ORLY, GPC, AAP) tend to trade in sympathy on AZO print day, and the tariff-refund line is a re-read on the broader 'importers eat the tariff' debate.",
+        "forWho": "consumer/retail analysts, aftermarket auto investors",
+        "tryIt": "https://finance.yahoo.com/quote/AZO"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Autozonehqmemphis.jpg/1280px-Autozonehqmemphis.jpg",
+        "alt": "AutoZone headquarters building in Memphis, Tennessee",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Exhibit (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000866787/000117184326006159/exh_991.htm"
+        },
+        {
+          "label": "8-K Cover (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000866787/000117184326006159/f8k_092126.htm"
+        },
+        {
+          "label": "Release Announcement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-release-fourth-quarter-fiscal-210000388.html"
+        },
+        {
+          "label": "AZO Chart",
+          "url": "https://finance.yahoo.com/quote/AZO"
+        }
+      ],
+      "reddit": {
+        "title": "AutoZone (AZO) Q4 FY26 — EPS $56.05 beats ~$54 est, revenue $6.60B misses $6.71B; 145bp of the 182bp gross-margin lift is one-off tariff refunds",
+        "body": "AutoZone reported fiscal Q4 (16 weeks ended Aug 29) before the open on Tue Sept 22:\n\n* EPS $56.05 (vs ~$54 est, prior year $48.71)\n* Revenue $6.60B, +5.6% Y/Y — missed $6.71B est by ~1.7%\n* Total same-store sales +2.7% (domestic +1.6%, international +10.7%)\n* Gross margin 53.3%, +182bp Y/Y — but 145bp of that is tariff refunds and another 105bp is a non-cash LIFO benefit\n* Operating profit $1.30B, +10.1%; net income $931.6M\n* Q4 buybacks $697.5M; FY26 buybacks $2.0B at avg $3,496/share; $1.6B authorization left\n\nWhat to watch:\n\n1. **The one-off nature of the margin beat** — strip 250bp of tariff/LIFO tailwinds and the underlying gross margin is slightly weaker Y/Y, which sets up hard 2027 comps.\n2. **Top-line miss is real** — a 1.7% shortfall against a consensus already braced for softness signals a slower US replacement-parts cycle.\n3. **Peer read-through** — ORLY, GPC, and AAP typically move in sympathy on AZO print day.\n\nNext catalysts: FY27 outlook color on the call; October ORLY print for peer confirmation.\n\nFull breakdown: [https://stock-tldr.xyz/releases/azo-q4-fy26-earnings-sep-22-2026](https://stock-tldr.xyz/releases/azo-q4-fy26-earnings-sep-22-2026)"
+      },
+      "publishDate": "2026-09-22T16:00:06.970Z"
+    },
+    {
+      "id": "cms-clfs-15pct-cut-dgx-lh-sep-21-2026",
+      "categories": [
+        "regulatory",
+        "mover"
+      ],
+      "tickers": [
+        "DGX",
+        "LH"
+      ],
+      "title": "CMS proposes 15% CY2027 Medicare lab-fee-schedule cut on Mon Sept 21 — Quest (DGX) -5.2% AH to $232.12 (then -6.9% premarket Tue); Labcorp (LH) -3.7% AH from $320.71 close",
+      "org": "Centers for Medicare & Medicaid Services",
+      "date": "2026-09-21",
+      "url": "https://www.cms.gov/newsroom/press-releases/cms-announces-new-preliminary-medicare-payment-rates-laboratory-services-saving-taxpayers-estimated",
+      "summary": "CMS released preliminary CY2027 Clinical Laboratory Fee Schedule rates on Mon Sept 21 — up to a statutory 15% cut on Jan 1 2027 with the phase-in continuing through 2029 — targeting ~$1B/yr in taxpayer savings. Quest and Labcorp shares repriced immediately.",
+      "tags": [
+        "cms",
+        "medicare",
+        "clfs",
+        "lab-fee-schedule",
+        "regulatory",
+        "healthcare",
+        "reimbursement",
+        "clinical-labs",
+        "dgx",
+        "lh"
+      ],
+      "importance": "major",
+      "metrics": {
+        "CLFS cut": "Up to 15% Y/Y in 2027 (statutory annual cap; phase-in through 2029)",
+        "Estimated taxpayer savings": "~$1B/yr",
+        "Basis": "Medicare paying ~16% above private-payor rates per 2026 survey (~6,400 labs)",
+        "Effective date": "Jan 1, 2027 (final rates published Nov 2026)",
+        "DGX AH move": "-5.2% to $232.12 (from ~$244.85 close)",
+        "DGX Tue premarket": "-6.9%",
+        "LH close": "$320.71 (+0.1% Mon)",
+        "LH AH move": "-3.7%"
+      },
+      "explainer": {
+        "tagline": "CMS proposes a 15% cut to Medicare lab rates for 2027 — Quest and Labcorp are the direct targets and both repriced in AH Mon and premarket Tue.",
+        "whatIsIt": "The Centers for Medicare & Medicaid Services on Mon Sept 21 released preliminary Calendar Year 2027 rates under the Clinical Laboratory Fee Schedule (CLFS), the payment framework that covers most Medicare-billed routine testing. CMS is invoking the maximum statutory annual cut of 15%, with further phased reductions of up to 15% in 2028 and 2029, and estimates ~$1B/yr in taxpayer savings. Final rates land in November after a 30-day comment window; new rates take effect Jan 1 2027.",
+        "howItWorks": "CMS's justification is a fresh 2026 payor-rate survey covering ~6,400 laboratories that shows Medicare paying roughly 16% above private-payor rates. The 15% cap comes from PAMA (the 2014 Protecting Access to Medicare Act) and can't be exceeded in a single year, but the compounding math is severe. Quest Diagnostics (DGX) — where CMS reimbursement is ~11% of revenue per its 10-K — fell 5.2% in Mon after-hours to $232.12 (after closing near a fresh 52-week high) and a further 6.9% in Tue premarket. Labcorp (LH) closed regular hours at $320.71 (+0.1%) then dropped 3.7% AH.",
+        "whyItMatters": "DGX and LH together are the CLFS trade; a full 15% cut in year one translates to ~3–6% of run-rate EPS for both, and the 3-year compounding path is much worse. It also reopens the political fight over PAMA reform (the RESULTS Act) and pulls the whole diagnostics complex — Natera, Guardant, Exact — into the reimbursement crosshairs. Watch the comment period into Oct 21 and any Congressional relief before final rates in November.",
+        "forWho": "healthcare-services analysts, single-name traders in DGX/LH, PAMA-reform watchers",
+        "tryIt": "https://finance.yahoo.com/quote/DGX"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Centers_for_Medicare_and_Medicaid_Services_logo.svg/1280px-Centers_for_Medicare_and_Medicaid_Services_logo.svg.png",
+        "alt": "Centers for Medicare and Medicaid Services official logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CMS Press Release",
+          "url": "https://www.cms.gov/newsroom/press-releases/cms-announces-new-preliminary-medicare-payment-rates-laboratory-services-saving-taxpayers-estimated"
+        },
+        {
+          "label": "CLFS Files (CMS)",
+          "url": "https://www.cms.gov/medicare/payment/fee-schedules/clinical-laboratory-fee-schedule-clfs/files"
+        },
+        {
+          "label": "Quest Statement",
+          "url": "https://newsroom.questdiagnostics.com/2026-09-16-Nine-in-10-Voters-Express-Concern-That-Medicare-Lab-Payment-Cuts-Will-Harm-Patient-Access-to-Diagnostic-Lab-Testing,-Finds-National-Survey-from-Quest-Diagnostics"
+        },
+        {
+          "label": "DGX Chart",
+          "url": "https://finance.yahoo.com/quote/DGX"
+        },
+        {
+          "label": "LH Chart",
+          "url": "https://finance.yahoo.com/quote/LH"
+        }
+      ],
+      "reddit": {
+        "title": "CMS proposes a 15% cut to 2027 Medicare lab rates — Quest (DGX) -5.2% AH to $232.12 then -6.9% premarket, Labcorp (LH) -3.7% AH",
+        "body": "The Centers for Medicare & Medicaid Services released preliminary CY2027 Clinical Laboratory Fee Schedule rates Mon Sept 21. This is the payment framework that covers most Medicare-billed routine testing, and it's the biggest single reimbursement event for DGX and LH.\n\n* Magnitude: **up to a 15% cut on Jan 1 2027** (statutory annual cap under PAMA), with further reductions of up to 15% in both 2028 and 2029.\n* Basis: a 2026 survey of ~6,400 labs showed Medicare paying ~16% above private-payor rates.\n* Impact: ~$1B/yr in taxpayer savings per CMS.\n* Quest Diagnostics (DGX): -5.2% AH to $232.12 (after intraday touching a 52-week high near $248.84), then -6.9% Tue premarket. CMS reimbursement is ~11% of DGX revenue per its 10-K.\n* Labcorp (LH): closed +0.1% at $320.71 then -3.7% AH.\n\nWhat matters:\n\n1. **Year-one EPS math is 3–6% for both DGX and LH** — a full 15% cut on the ~11% Medicare exposure implies mid-single-digit EPS drag, before mix or volume offsets.\n2. **Compounding is the real story** — 15% × 3 years phased in stacks fast.\n3. **PAMA reform (the RESULTS Act) is the only near-term escape valve** — 30-day comment period ends around Oct 21, final rates November.\n\nNext catalysts: comment-period close Oct 21; final CY2027 CLFS in November 2026.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cms-clfs-15pct-cut-dgx-lh-sep-21-2026](https://stock-tldr.xyz/releases/cms-clfs-15pct-cut-dgx-lh-sep-21-2026)"
+      },
+      "publishDate": "2026-09-22T16:00:06.970Z"
+    },
+    {
+      "id": "shop-meta-muse-shop-pay-sep-21-2026",
+      "categories": [
+        "mover"
+      ],
+      "tickers": [
+        "SHOP",
+        "META",
+        "AMZN"
+      ],
+      "title": "Shopify (SHOP) +7.3% close $137.92 Mon Sept 21 as Meta's Muse AI agent adopts Shop Pay for agentic checkout — Amazon blocks Muse in contrast; SHOP +5–7% more Tue Sept 22",
+      "org": "Shopify",
+      "date": "2026-09-21",
+      "url": "https://finance.yahoo.com/technology/ai/articles/shopify-partners-meta-muse-ai-115807895.html",
+      "summary": "Shopify CEO Tobi Lütke and Meta CEO Mark Zuckerberg confirmed via X posts on Mon Sept 21 that Meta's Muse AI agent will use Shop Pay for agentic checkout across Shopify-powered stores. SHOP closed +7.3% at $137.92 and added +5–7% more Tue.",
+      "tags": [
+        "agentic-commerce",
+        "shop-pay",
+        "meta-muse",
+        "ai-shopping",
+        "shopify",
+        "meta",
+        "amazon",
+        "ai-agents"
+      ],
+      "importance": "major",
+      "metrics": {
+        "SHOP Mon close": "$137.92 (+7.3%)",
+        "SHOP Tue intraday": "~$148 (+~7% on the day)",
+        "META Mon close": "+~7% (Wells Fargo PT hike day)",
+        "AMZN response": "Blocked Muse from marketplace",
+        "Integration": "Meta Muse ↔ Shop Pay agentic checkout, all Shopify-powered stores"
+      },
+      "explainer": {
+        "tagline": "Meta's Muse AI agent adopts Shop Pay as its checkout rails across every Shopify store — Amazon blocks the same agent, and SHOP re-rates as the default agentic-commerce plumbing.",
+        "whatIsIt": "On Monday Sept 21, Meta CEO Mark Zuckerberg and Shopify CEO Tobi Lütke both posted on X confirming a partnership that lets Meta's Muse AI agent browse Shopify-powered stores and complete purchases using Shop Pay's stored payment and shipping credentials. Muse is Meta's personal AI agent launched earlier this month; the app has been climbing US charts since. SHOP closed +7.3% at $137.92 on Monday and added another ~5–7% on Tuesday to trade near $148.",
+        "howItWorks": "The integration wires Muse directly into Shop Pay's one-tap checkout — no revenue split, timetable, or exclusivity was disclosed. Zuckerberg said 'more partnerships like this coming soon.' In stark contrast, Amazon blocked Muse from its marketplace (as it has ChatGPT, Gemini and other agents), citing terms-of-service concerns about identity concealment. Deutsche Bank framed the deal as validating Shop Pay + Shopify Catalog as the default agentic-commerce plumbing rather than eroding SHOP's economics.",
+        "whyItMatters": "This is the first live agentic-checkout deal between a top-3 US consumer AI agent (Muse) and a top-3 US ecommerce platform (Shopify), and it directly tests the 'agents disintermediate merchants' thesis. If SHOP becomes the default checkout for AI agents, take-rate defends itself; if Amazon's closed-loop wins, agentic commerce stays walled. The Sept 21 wall-of-coverage triggered SHOP's biggest single-day move since Q2 earnings; Meta's own Muse Connect week (Sept 23–24) should keep the narrative live.",
+        "forWho": "e-commerce analysts, AI-application investors, agent-commerce watchers",
+        "tryIt": "https://finance.yahoo.com/quote/SHOP"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/74c664abbffc3d83949dad78b22d932c70aa91d4a167863c5e7c23bd9d86ae5e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F41ccb7ec5eb7404ea5052a634f78c4a7.jpg",
+        "alt": "Shopify Shop Pay checkout screen next to Meta Muse assistant on a phone",
+        "fit": "cover",
+        "credit": "Quartz via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo/Quartz Report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/shopify-partners-meta-muse-ai-115807895.html"
+        },
+        {
+          "label": "Benzinga (Zuckerberg Post)",
+          "url": "https://www.benzinga.com/markets/tech/26/09/61911829/meta-shopify-ai-shopping-partnership-zuckerberg"
+        },
+        {
+          "label": "Parameter Analysis",
+          "url": "https://parameter.io/shopify-shop-stock-soars-7-on-meta-muse-ai-shopping-integration/"
+        },
+        {
+          "label": "SHOP Chart",
+          "url": "https://finance.yahoo.com/quote/SHOP"
+        }
+      ],
+      "reddit": {
+        "title": "SHOP +7.3% to $137.92 Mon Sept 21 as Meta Muse adopts Shop Pay for agentic checkout across every Shopify store — Amazon blocks Muse in contrast",
+        "body": "Meta CEO Mark Zuckerberg and Shopify CEO Tobi Lütke both posted on X Mon Sept 21 confirming that Meta's Muse AI agent will use Shop Pay for agentic checkout across all Shopify-powered stores.\n\n* Shopify (SHOP) — closed +7.3% at $137.92 Mon, added another ~5–7% Tue Sept 22 to trade near $148\n* Muse is Meta's personal AI agent, launched earlier this month, already climbing US app charts\n* Integration: Muse ↔ Shop Pay one-tap checkout across every Shopify store — no revenue split, timetable, or exclusivity disclosed\n* Zuckerberg on X: \"More partnerships like this coming soon.\"\n* Amazon blocked Muse from its marketplace, matching how it treats ChatGPT and Gemini agents — citing identity-concealment ToS concerns\n\nWhy it matters:\n\n1. **First live agentic-checkout deal between a top-3 AI agent and a top-3 US ecommerce platform** — directly tests the \"agents disintermediate merchants\" thesis.\n2. **SHOP re-rates as agentic-commerce plumbing** — Deutsche Bank framed Shop Pay + Shopify Catalog as the default rails, not a target of disintermediation.\n3. **The Amazon fork matters** — closed-loop vs open-agent commerce is now a visible strategic split.\n\nNext catalysts: Meta Connect Sept 23–24 (Muse strategy update), any second agentic-checkout partnership from Zuckerberg's teased pipeline.\n\nFull breakdown: [https://stock-tldr.xyz/releases/shop-meta-muse-shop-pay-sep-21-2026](https://stock-tldr.xyz/releases/shop-meta-muse-shop-pay-sep-21-2026)"
+      },
+      "publishDate": "2026-09-22T16:00:06.970Z"
+    },
     {
       "id": "greenland-deal-rare-earth-rally-sep-21-2026",
       "categories": [
