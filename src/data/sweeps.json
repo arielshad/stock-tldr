@@ -12411,6 +12411,35 @@
         "macro",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260922t021528z",
+      "timestamp": "2026-09-22T02:15:28.757Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: US-listed rare-earth miners (CRML +38.6%, MP +5.8%, USAR +9.2%) rallied Mon Sept 21 on Trump's Fri Sept 18 US-Denmark-Greenland security-deal Truth Social post. Broader Sept 21 tape (AMD $1T, META Wells Fargo bump, WTI slide) already in the feed; skipped INTC +12% (analyst upgrades that drove the tape landed Sept 11-15, no fresh Sept 21 catalyst) and Nasdaq 27,122 record close (broad AI rally already covered by AMD $1T entry).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "greenland-deal-rare-earth-rally-sep-21-2026",
+          "title": "Rare-earth stocks rally Mon Sept 21 on Trump-Denmark Greenland security deal — Critical Metals (CRML) +38.6% close $9.33, MP Materials +5.8% to $50.00, USA Rare Earth +9.2% to $16.78",
+          "category": "mover",
+          "note": "Distinct fresh Sept 21 story with a named political catalyst (Trump-Denmark security pact, Fri Sept 18) and verified prices across three named rare-earth tickers plus a broader basket. Doesn't overlap with any of the existing Sept 21 items (AMD $1T, META Wells Fargo, WTI oil slide, US-China pre-summit talks)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "commodity",
+        "macro",
+        "earnings",
+        "crypto"
+      ]
     }
   ]
 }

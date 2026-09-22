@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-09-21T17:26:12.446Z",
+  "generatedAt": "2026-09-22T02:15:28.757Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "greenland-deal-rare-earth-rally-sep-21-2026",
+      "categories": [
+        "mover",
+        "sector",
+        "commodity"
+      ],
+      "tickers": [
+        "CRML",
+        "MP",
+        "USAR"
+      ],
+      "title": "Rare-earth stocks rally Mon Sept 21 on Trump-Denmark Greenland security deal — Critical Metals (CRML) +38.6% close $9.33, MP Materials +5.8% to $50.00, USA Rare Earth +9.2% to $16.78",
+      "org": "Critical Metals Corp",
+      "date": "2026-09-21",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-rare-earth-stocks-climbing-144933822.html",
+      "summary": "US-listed rare-earth miners jump on Monday after Trump's Fri Sept 18 Truth Social post disclosed a US-Denmark-Greenland security pact granting the US permanent security control and screening of Chinese/Russian mineral investments.",
+      "tags": [
+        "rare-earths",
+        "critical-minerals",
+        "greenland",
+        "trump",
+        "denmark",
+        "geopolitics",
+        "tanbreez",
+        "china-decoupling",
+        "mp-materials",
+        "usa-rare-earth"
+      ],
+      "importance": "major",
+      "metrics": {
+        "CRML close": "$9.33 (+38.6% from $6.73)",
+        "MP close": "$50.00 (+5.8% from $47.26)",
+        "USAR close": "$16.78 (+9.2% from $15.37)",
+        "Deal": "US-Denmark-Greenland permanent security control (unsigned)"
+      },
+      "explainer": {
+        "tagline": "Trump's Greenland pact drives a rare-earth relief bid — Critical Metals (Tanbreez) leads +38.6% on Mon Sept 21.",
+        "whatIsIt": "US-listed rare-earth mining stocks rallied on Monday Sept 21 after President Trump used a Fri Sept 18 Truth Social post to announce a US-Denmark-Greenland security agreement. The deal, still unsigned and expected to be finalised at the UN General Assembly this week, gives Washington permanent security control in Greenland while keeping the territory part of Denmark. The State Department has said the accord also gives the US power to bar who can tap Greenland's critical minerals and mining sectors.",
+        "howItWorks": "Critical Metals (CRML), which owns the Tanbreez rare-earth project in southern Greenland, closed +38.6% at $9.33 from Fri's $6.73 (intraday high $9.64). MP Materials — the US-listed pure-play with the Trump-administration equity stake — closed +5.8% at $50.00. USA Rare Earth added +9.2% to $16.78. The deal text bans non-NATO forces and bases and adds screening mechanisms against Chinese and Russian investment; Danish PM Mette Frederiksen and Greenland government chairman Jens-Frederik Nielsen both endorsed it publicly.",
+        "whyItMatters": "The pact ties US rare-earth industrial policy to a specific piece of Arctic geography for the first time, and market participants read it as a signal that Washington will keep taking equity stakes in domestic miners to blunt China's supply-chain leverage. It follows a summer of US Government equity moves into MP Materials and USA Rare Earth. The move re-rates thinly-traded Greenland-exposed names like Critical Metals and drags a broader basket (MP, USAR, TMC) with it, even where operations sit outside the island itself.",
+        "forWho": "critical-mineral traders, geopolitics-driven allocators",
+        "tryIt": "https://finance.yahoo.com/quote/CRML"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/0bf296dff550ec8b9cbc5e1c5fb8c30788bd55646504287be654992dc04bbe09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fd873d9f1e14453cf34d1f1abf45b0269.jpg",
+        "alt": "Rare-earth ore samples on a workbench — thumbnail from the Business Insider report on Trump's Greenland deal",
+        "fit": "cover",
+        "credit": "Business Insider / Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Trump Announces Deal (NBC News)",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-agreement-denmark-secure-permanent-control-greenlands-rcna598641"
+        },
+        {
+          "label": "Rare-Earth Rally (Yahoo/BI)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/american-rare-earth-stocks-climbing-144933822.html"
+        },
+        {
+          "label": "Al Jazeera Explainer",
+          "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it"
+        },
+        {
+          "label": "CRML Chart",
+          "url": "https://finance.yahoo.com/quote/CRML"
+        },
+        {
+          "label": "MP Chart",
+          "url": "https://finance.yahoo.com/quote/MP"
+        }
+      ],
+      "reddit": {
+        "title": "Trump's Greenland security deal rips rare-earth stocks — CRML +38.6% to $9.33, MP +5.8%, USAR +9.2% on Mon Sept 21",
+        "body": "Trump used a Fri Sept 18 Truth Social post to announce a US-Denmark-Greenland security agreement — Washington gets permanent security control and screening of Chinese/Russian mineral investments, Denmark keeps sovereignty, deal is expected to be signed at the UNGA this week. US-listed rare-earth names ripped Monday:\n\n* Critical Metals (CRML) — closed $9.33, +38.6% from Fri's $6.73 (intraday high $9.64). Owns the Tanbreez rare-earth project in southern Greenland.\n* MP Materials (MP) — closed $50.00, +5.8% from $47.26. US pure-play with a Trump-administration equity stake.\n* USA Rare Earth (USAR) — closed $16.78, +9.2% from $15.37.\n* TMC The Metals Company (TMC) — reported +9.5% intraday per Business Insider.\n\nWhy the market cares:\n\n1. **First hard link between US rare-earth policy and a specific Arctic asset base** — the State Department has said the pact gives the US power to bar who taps Greenland's critical minerals.\n2. **China-decoupling narrative reinforced** — non-NATO forces and bases are banned and Chinese/Russian investment gets screened.\n3. **Follow-through on US equity stakes** — after summer moves into MP and USAR, the Greenland deal reads as more of the same playbook.\n\nDeal is still unsigned. Danish PM Mette Frederiksen and Greenland chairman Jens-Frederik Nielsen both endorsed it publicly.\n\nFull breakdown: [https://stock-tldr.xyz/releases/greenland-deal-rare-earth-rally-sep-21-2026](https://stock-tldr.xyz/releases/greenland-deal-rare-earth-rally-sep-21-2026)"
+      },
+      "publishDate": "2026-09-22T02:15:28.757Z"
+    },
     {
       "id": "amd-1t-market-cap-sep-21-2026",
       "categories": [
