@@ -12488,6 +12488,48 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260923t022213z",
+      "timestamp": "2026-09-23T02:22:13.136Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Tue Sept 22 adds: VKTX +27% on VK2735 maintenance-dosing readout, KBH Q3 FY26 (EPS beat but revenue -20% and margins compressed), and CMPX ~-30% after FDA seeks a new survival-endpoint trial for tovecimig before it will accept a BLA.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "vktx-vk2735-maintenance-data-sep-22-2026",
+          "title": "Viking Therapeutics (VKTX) +27% close $39.58 Tue Sept 22 — VK2735 maintenance study shows 97% of Phase-2 weight loss preserved on every-other-week dosing and 90% on monthly; ~22% mean weight loss at Week 33 on continued weekly",
+          "category": "mover",
+          "note": "Major single-name mover (+27% close) with primary-source IR release and a clean maintenance-dosing readout that has cross-read to LLY/NVO."
+        },
+        {
+          "id": "kbh-q3-fy26-earnings-sep-22-2026",
+          "title": "KB Home (KBH) Q3 FY26 (AH Tue Sept 22) — EPS $1.05 beats $0.89 est on $1.30B revenue (-20% Y/Y); homebuilding op margin 5.2% vs 8.1% Y/Y; net orders -12%, backlog rises for first time in four years to 4,398 homes; stock -2.7% AH",
+          "category": "earnings",
+          "note": "Q3 FY26 print for a mid-cap homebuilder — headline EPS beat but a 20% revenue decline and sharp margin compression are the actual signal for the housing complex."
+        },
+        {
+          "id": "cmpx-fda-tovecimig-additional-trial-sep-22-2026",
+          "title": "Compass Therapeutics (CMPX) -~32% Tue Sept 22 — FDA asks for an additional survival-benefit trial for tovecimig in second-line biliary tract cancer before it will accept a BLA; Wedbush cuts to Neutral, $1 PT",
+          "category": "mover",
+          "note": "Notable small-cap mover on primary-source FDA action; matters as a read-through on the OS bar for oncology accelerated approvals."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "macro",
+        "rates",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
