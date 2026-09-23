@@ -12530,6 +12530,56 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20260923t155622z",
+      "timestamp": "2026-09-23T15:56:22.330Z",
+      "source": "github-actions-sweep",
+      "summary": "Five items for Sept 23 2026: hot US S&P Global flash PMI (composite 58.4 5-year high, 10Y to 5.07%), McDonald's -4.25% on $8.5B NEXT franchisee-support plan and delayed 50k-store target, Cracker Barrel +8.3% on huge Q4 EPS beat and FY27 growth reset, Paychex -6.84% despite Q1 beat, and Cintas beat-and-raise with organic +8.9%.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "sp-global-us-flash-pmi-september-2026-sep-23",
+          "title": "S&P Global US Flash Composite PMI September 2026 — 58.4, 5-year high; Services 58.7 and Manufacturing 57.0 both smash consensus; input-cost inflation at 4-year peak sends 10Y yield to 5.07%",
+          "category": "macro",
+          "note": "Composite 58.4, 5-year high; drove 10Y yield to 5.07% (highest since 2007) and reset Fed pricing higher."
+        },
+        {
+          "id": "mcd-next-strategy-85b-franchisee-sep-23-2026",
+          "title": "McDonald's (MCD) -4.25% to $239.31 Wed Sept 23 — investor day unveils $8.5B franchisee-support plan through 2036 and slips 50,000-store target from 2027 to 2028",
+          "category": "mover",
+          "note": "-4.25% to $239.31 on investor-day $8.5B franchisee support plan and delayed 50k-restaurant target to 2028."
+        },
+        {
+          "id": "cbrl-q4-fy26-earnings-sep-23-2026",
+          "title": "Cracker Barrel (CBRL) +8.3% to $49.25 Wed Sept 23 — Q4 FY26 (Aug quarter) adj EPS $0.99 crushes $0.26 est on $849.3M revenue; FY27 revenue guide $3.325–$3.4B",
+          "category": "earnings",
+          "note": "+8.3% to $49.25 on Q4 FY26 adj EPS $0.99 vs $0.26 est and FY27 3–5% comp-sales guide."
+        },
+        {
+          "id": "payx-q1-fy27-earnings-sep-23-2026",
+          "title": "Paychex (PAYX) -6.84% to $106.65 Wed Sept 23 — Q1 FY27 adj EPS $1.34 (+10%) beats $1.32 est on $1.63B revenue (+6%), but growth-mix concerns hit stock",
+          "category": "earnings",
+          "note": "-6.84% to $106.65 despite adj EPS $1.34 beat on growth-mix and AI-spend concerns."
+        },
+        {
+          "id": "ctas-q1-fy27-raise-sep-23-2026",
+          "title": "Cintas (CTAS) Q1 FY27 (BMO Wed Sept 23) — adj EPS $1.39 (+15.8%) beats $1.35 est, revenue $3.01B (+10.9%); FY27 EPS guide raised to $5.45–$5.54",
+          "category": "earnings",
+          "note": "Beat-and-raise: adj EPS $1.39 (+15.8%), revenue $3.01B (+10.9%), organic +8.9%, FY27 EPS lifted to $5.45–$5.54."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "earnings"
+      ]
     }
   ]
 }
