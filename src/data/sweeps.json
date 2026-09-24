@@ -12580,6 +12580,41 @@
         "mover",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260924t020339z",
+      "timestamp": "2026-09-24T02:03:39.820Z",
+      "source": "github-actions-sweep",
+      "summary": "Two-item sweep: US-China 'Busan Agreement' tariff truce pushed two months to Jan 10 2027 (Bessent on Fox News Wed Sept 23) and IonQ's Tue-eve CPU-native real-time quantum error decoder + Nvidia Accelerated Quantum Research Center Superion 256 deployment (IONQ close +4.4%, intraday peak +12.5%; QBTS +5%, RGTI +4%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-china-truce-extended-jan-10-sep-23-2026",
+          "title": "US-China 'Busan Agreement' trade truce extended two months to Jan 10 2027 — Treasury Sec. Bessent tells Fox News Wed Sept 23 after unscheduled He Lifeng meeting; Xi arrives in Washington for state visit",
+          "category": "macro",
+          "note": "Distinct announcement from the Sept 20 pre-summit talks item: the actual truce extension was declared by Bessent on Fox News Wed Sept 23 after an unscheduled He Lifeng meeting, removing the Nov 10 tariff cliff that macro desks had priced."
+        },
+        {
+          "id": "ionq-cpu-error-decoder-nvda-sep-22-2026",
+          "title": "IonQ (IONQ) +4.4% close $42.54 Wed Sept 23 (intraday peak +12.5% at $45.84) — Tue-eve press release demos industry's first end-to-end real-time quantum error decoder on a single off-the-shelf CPU, plus Nvidia Accelerated Quantum Research Center Superion 256 deployment for 2027",
+          "category": "mover",
+          "note": "Clean fresh catalyst (Tue-eve press release + Nvidia deal); IONQ moved 3.3x avg volume with +12.5% intraday peak; distinct from the May 2026 IONQ Q1 earnings and other quantum items in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "earnings",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }

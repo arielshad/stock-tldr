@@ -1,8 +1,149 @@
 {
-  "generatedAt": "2026-09-23T15:56:22.330Z",
+  "generatedAt": "2026-09-24T02:03:39.820Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-china-truce-extended-jan-10-sep-23-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "US-China 'Busan Agreement' trade truce extended two months to Jan 10 2027 — Treasury Sec. Bessent tells Fox News Wed Sept 23 after unscheduled He Lifeng meeting; Xi arrives in Washington for state visit",
+      "org": "U.S. Department of the Treasury",
+      "date": "2026-09-23",
+      "url": "https://www.nbcnews.com/business/economy/us-china-extend-trade-truce-trump-rcna599525",
+      "summary": "Bessent said on Fox News Wed Sept 23 the Busan Agreement — set to expire Nov 10 — is extended to Jan 10 2027, giving both sides two more months to negotiate a broader package before tariffs revert.",
+      "tags": [
+        "macro",
+        "trade",
+        "china",
+        "tariffs",
+        "busan-agreement",
+        "trade-truce",
+        "bessent",
+        "trump-xi-summit",
+        "he-lifeng"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Prior expiry": "Nov 10 2026",
+        "New expiry": "Jan 10 2027",
+        "Extension": "~2 months"
+      },
+      "explainer": {
+        "tagline": "US-China Busan Agreement tariff truce pushed from Nov 10 to Jan 10 2027 as Xi lands in Washington.",
+        "whatIsIt": "Treasury Secretary Scott Bessent said on Fox News Wednesday Sept 23 that Washington and Beijing agreed to extend the 'Busan Agreement' — the year-old economic détente that had been due to expire Nov 10 — through Jan 10 2027. The announcement came hours after Bessent held an unscheduled meeting with Chinese Vice Premier He Lifeng in Washington.",
+        "howItWorks": "The Busan Agreement caps most US-China tariffs at their current levels and pauses further escalation while the two governments talk. Bessent said it is possible a larger economic package will be agreed by January or that both sides 'just roll the current deal' and extend again. He flagged that 'some deliverables have not been perfect on the Chinese side' and said the extension is meant to give Beijing time to be 'more fulsome in enacting the agreement.'",
+        "whyItMatters": "The extension removes the Nov 10 tariff cliff that had been the base case for macro desks and buys negotiators cover before the Trump-Xi state-visit summit on Thursday Sept 24. Rate-cut expectations, EM FX, industrial metals and China-exposed US names (AAPL, TSLA, NVDA, DE, CAT) all had that November date priced as a risk event.",
+        "forWho": "macro traders, EM FX, trade-exposed multinationals",
+        "tryIt": "https://www.federalreserve.gov/newsevents/pressreleases.htm"
+      },
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260824-scott-bessent-ew-1209p-adc4a3.jpg",
+        "alt": "Treasury Secretary Scott Bessent at a Washington podium",
+        "fit": "cover",
+        "credit": "NBC News"
+      },
+      "links": [
+        {
+          "label": "NBC News",
+          "url": "https://www.nbcnews.com/business/economy/us-china-extend-trade-truce-trump-rcna599525"
+        },
+        {
+          "label": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent"
+        },
+        {
+          "label": "FXStreet",
+          "url": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-us-china-trade-truce-extended-through-january-10-202609240003"
+        },
+        {
+          "label": "Just the News",
+          "url": "https://justthenews.com/politics-policy/finance/bessent-says-us-has-extended-trade-agreement-china-through-january-10"
+        }
+      ],
+      "reddit": {
+        "title": "US-China Busan trade truce extended two months to Jan 10 2027 — Bessent breaks it on Fox News hours before Xi's Washington state visit",
+        "body": "The Nov 10 tariff cliff is off the table. Treasury Secretary Scott Bessent said Wednesday evening the US-China Busan Agreement — the year-old cap on tariffs — has been rolled from Nov 10 2026 to Jan 10 2027.\n\n* Old expiry: **Nov 10 2026**\n* New expiry: **Jan 10 2027** (~2-month extension)\n* Trigger: unscheduled Bessent–He Lifeng meeting in Washington earlier the same day\n* Backdrop: Xi Jinping arrives at the White House Sept 24 for his first US state visit since 2015\n\nWhat Bessent actually said:\n\n1. **Deal not done, just extended** — 'it's possible a larger economic package will be agreed upon by January, but it's also possible to just roll the current deal.'\n2. **China compliance called out** — 'some deliverables have not been perfect on the Chinese side'; the two months are a compliance test.\n3. **Summit expectations reset** — with the tariff cliff gone, the Sept 24 Trump-Xi meeting is more about rare earths, AI risk protocols and Taiwan than tariff brinkmanship.\n\nNext catalysts: Trump-Xi meeting at the White House Thursday Sept 24; Nov 10 was previously the tariff-truce expiry — that risk event now moves to Jan 10 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-china-truce-extended-jan-10-sep-23-2026](https://stock-tldr.xyz/releases/us-china-truce-extended-jan-10-sep-23-2026)"
+      },
+      "publishDate": "2026-09-24T02:03:39.820Z"
+    },
+    {
+      "id": "ionq-cpu-error-decoder-nvda-sep-22-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "IonQ (IONQ) +4.4% close $42.54 Wed Sept 23 (intraday peak +12.5% at $45.84) — Tue-eve press release demos industry's first end-to-end real-time quantum error decoder on a single off-the-shelf CPU, plus Nvidia Accelerated Quantum Research Center Superion 256 deployment for 2027",
+      "org": "IonQ",
+      "date": "2026-09-22",
+      "url": "https://www.ionq.com/news/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder",
+      "summary": "IonQ said Tue Sept 22 AH it demoed the first real-time quantum error decoder running on a single off-the-shelf CPU, and disclosed its Superion 256 will deploy inside Nvidia's Accelerated Quantum Research Center in 2027; IONQ closed +4.42% at $42.54 Wed with QBTS +5%, RGTI +4%.",
+      "tickers": [
+        "IONQ",
+        "QBTS",
+        "RGTI",
+        "NVDA"
+      ],
+      "tags": [
+        "quantum",
+        "quantum-computing",
+        "error-correction",
+        "ai",
+        "nvidia-partnership",
+        "superion-256",
+        "cuda-q",
+        "nvqlink",
+        "mid-cap-tech"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Move": "+4.42% close (intraday peak +12.5%)",
+        "Close": "$42.54",
+        "Prior close": "$40.74",
+        "Intraday high": "$45.84",
+        "Volume": "~69.9M vs 21M 3-mo avg (~3.3x)",
+        "Logical qubits tested": "408",
+        "Quantum operations": ">31.5M",
+        "Decoder overhead": "0.02% stretch"
+      },
+      "explainer": {
+        "tagline": "IonQ shows real-time error correction running on a single CPU and a 2027 Nvidia research-center deployment for Superion 256.",
+        "whatIsIt": "IonQ (IONQ) put out two announcements Tuesday Sept 22 after the close. First, it demonstrated what it calls the industry's first end-to-end real-time quantum error correction decoder running on a single off-the-shelf CPU. Second, it disclosed that its 256-qubit Superion 256 system will deploy inside Nvidia's Accelerated Quantum Research Center in 2027, linked to an Nvidia GB200 NVL72 via NVQLink and orchestrated through CUDA-Q.",
+        "howItWorks": "IonQ tested a dual-decoder architecture across benchmark circuits simulating up to 408 logical qubits and 88 memory blocks executing more than 31.5M quantum operations. Under standard noise the decoder added ~0.02% stretch time — no meaningful delay. Research lead Nicolas Delfosse called it 'an important milestone' toward 'commercial-scale fault-tolerant quantum computing'; CEO Niccolo de Masi framed the Nvidia deal as 'the beginning of an era of hybrid quantum-classical computing.'",
+        "whyItMatters": "Classical decoding overhead has been the single biggest bottleneck holding back scaled fault-tolerant quantum computing; a CPU-native real-time decoder cuts a key cost curve. The Nvidia research-center deployment pulls IONQ deeper into the CUDA-Q software stack alongside AI workloads. Sector read-through: D-Wave (QBTS) +5% to $18.38, Rigetti (RGTI) +4% to $17.15 on read-across.",
+        "forWho": "quantum-computing traders, AI/semis crossover names",
+        "tryIt": "https://finance.yahoo.com/quote/IONQ"
+      },
+      "image": {
+        "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+        "alt": "IonQ quantum error decoder announcement graphic",
+        "fit": "cover",
+        "credit": "IonQ"
+      },
+      "links": [
+        {
+          "label": "IonQ Press Release",
+          "url": "https://www.ionq.com/news/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder"
+        },
+        {
+          "label": "The Quantum Insider",
+          "url": "https://thequantuminsider.com/2026/09/23/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html"
+        },
+        {
+          "label": "IONQ Quote",
+          "url": "https://finance.yahoo.com/quote/IONQ"
+        }
+      ],
+      "reddit": {
+        "title": "IonQ (IONQ) closes +4.4% at $42.54 (intraday +12.5%) after Tue-eve press release: real-time quantum error decoder on a single CPU + Nvidia research-center deployment for 2027",
+        "body": "IonQ dropped two things after the close Tuesday Sept 22 that made Wednesday's quantum sector go vertical. IONQ closed +4.42% at $42.54 after peaking +12.5% at $45.84; D-Wave (QBTS) +5%, Rigetti (RGTI) +4%.\n\n* **IONQ:** +4.42% close ($42.54), intraday peak $45.84 (+12.5%), prior close $40.74\n* **Volume:** ~69.9M shares vs ~21M 3-mo avg (~3.3x)\n* **Error decoder:** first end-to-end real-time quantum error decoder on a single off-the-shelf CPU\n* **Scale tested:** 408 logical qubits, 88 memory blocks, >31.5M quantum operations\n* **Decoder overhead:** ~0.02% stretch — effectively no delay\n* **Nvidia deal:** Superion 256 deploys at Nvidia Accelerated Quantum Research Center in 2027, linked via NVQLink to a GB200 NVL72, orchestrated by CUDA-Q\n\nWhy this matters:\n\n1. **Bottleneck is classical, not quantum** — the decoding-overhead wall has been the practical blocker for fault-tolerant scaling. A CPU-native real-time decoder cuts that cost curve.\n2. **CUDA-Q integration** — IonQ is now inside Nvidia's software stack alongside AI workloads, which is where hybrid quantum-classical roadmaps have been converging.\n3. **Sector read-across** — QBTS +5%, RGTI +4% on no company-specific news; quantum pure-plays trade as a basket.\n\nNext catalysts: 2027 Superion 256 deployment at Nvidia's research center; further error-correction benchmark disclosures.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ionq-cpu-error-decoder-nvda-sep-22-2026](https://stock-tldr.xyz/releases/ionq-cpu-error-decoder-nvda-sep-22-2026)"
+      },
+      "publishDate": "2026-09-24T02:03:39.820Z"
+    },
     {
       "id": "sp-global-us-flash-pmi-september-2026-sep-23",
       "categories": [
