@@ -1,8 +1,155 @@
 {
-  "generatedAt": "2026-09-24T02:03:39.820Z",
+  "generatedAt": "2026-09-24T16:12:50.604Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "orcl-jupiter-force-majeure-sep-24-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Oracle (ORCL) -~6% intraday Thu Sept 24 — invokes force majeure on $165B Project Jupiter New Mexico data center, sending notice to Blue Owl / Stack Infrastructure after NM State Land Office twice denies Energy Transfer's 17-mile gas pipeline permit",
+      "org": "Oracle",
+      "date": "2026-09-24",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-declares-force-majeure-165-141331149.html",
+      "summary": "Oracle sends a force majeure notice to Blue Owl's Stack Infrastructure over Project Jupiter, seeking to defer payments if the 2.45-GW New Mexico campus misses its 2028 open. ORCL fell ~4% pre-open to $138.26 and traded down as much as 6.5% intraday.",
+      "tags": [
+        "orcl",
+        "oracle",
+        "project-jupiter",
+        "force-majeure",
+        "ai-capex",
+        "stargate",
+        "data-centers",
+        "blue-owl",
+        "bloom-energy",
+        "new-mexico"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ORCL",
+        "OWL",
+        "BE"
+      ],
+      "metrics": {
+        "ORCL premarket": "-4% to $138.26",
+        "ORCL intraday low": "-6.5% (through 10:15am ET)",
+        "Project size": "$165B",
+        "Power design": "2.45 GW",
+        "Bank loan": "~$18B / ~20 banks",
+        "Loan quote": "<90c on the $"
+      },
+      "explainer": {
+        "tagline": "Oracle sends a force majeure notice to Blue Owl's Stack Infrastructure over Project Jupiter after NM regulators twice deny the pipeline that feeds the campus.",
+        "whatIsIt": "Oracle told Blue Owl-controlled developer Stack Infrastructure on Thursday that circumstances beyond its control may prevent Project Jupiter — the 2.45-gigawatt, $165B New Mexico data center campus anchoring the Stargate AI buildout with OpenAI and SoftBank — from coming online by its 2028 deadline. The notice gives Oracle a legal basis to defer lease payments on the roughly 1,400-acre site if the buildout slips.",
+        "howItWorks": "About 20 banks lent ~$18B to build the campus; that debt is now marked below 90 cents on the dollar. The core problem is upstream: New Mexico's State Land Office has denied Energy Transfer's 17-mile gas pipeline twice (March and July), pushing the in-service date to Feb 1, 2027, and Bloom Energy's solid-oxide fuel cells — the campus's power spine — cannot run without that gas. Oracle told CNBC 'Project Jupiter remains on our planned schedule,' and management said neither Jupiter nor a related site will hit FY27 revenue or earnings guidance.",
+        "whyItMatters": "This is the first crack in the Stargate story — a top-3 hyperscaler is publicly hedging its exposure to an AI-datacenter mega-project. Blue Owl (OWL) fell as the debt gapped down and its financial commitments came into focus, and Bloom Energy (BE) traded off with the campus's fuel-cell demand in doubt. Watch the Energy Transfer permit and the Blue Owl 8-K response for the next tape-moving update.",
+        "forWho": "AI-capex traders, private-credit and BDC desks, power-and-infra analysts",
+        "tryIt": "https://finance.yahoo.com/quote/ORCL"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/046179ab79e3c99fcb13af9d5d4dd1f74253adc8d7f0d1d80240e032ff64460f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4e5801942adf37b47805b32793ceff8e.jpg",
+        "alt": "Oracle headquarters campus signage",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-declares-force-majeure-165-141331149.html"
+        },
+        {
+          "label": "AI Weekly Recap",
+          "url": "https://www.aiweekly.co/alerts/oracle-sends-force-majeure-notice-on-blue-owls-project-jupiter"
+        },
+        {
+          "label": "ORCL Quote",
+          "url": "https://finance.yahoo.com/quote/ORCL/"
+        },
+        {
+          "label": "OWL Quote",
+          "url": "https://finance.yahoo.com/quote/OWL/"
+        }
+      ],
+      "reddit": {
+        "title": "Oracle sends 'force majeure' notice on $165B Project Jupiter data center — ORCL -6% intraday as $18B loan trades <90c on the $",
+        "body": "Oracle just hedged one of the biggest AI-capex projects ever. On Thursday Sept 24 it sent a force majeure notice to Blue Owl-controlled Stack Infrastructure over Project Jupiter — the 2.45-GW New Mexico data center anchoring the Stargate deal with OpenAI and SoftBank.\n\n* ORCL down ~4% pre-open to $138.26, hit -6.5% intraday through 10:15 ET\n* Project size: **$165B**, targeted online 2028\n* About **20 banks** lent **~$18B** to build the site; debt now marked **<90 cents on the dollar**\n* Blue Owl (OWL) selling off; Bloom Energy (BE) fuel cells are the campus's power spine and traded lower\n* Oracle: 'Project Jupiter remains on our planned schedule' — but the notice buys legal room to defer payments if the 2028 date slips\n\nWhy the crack is real:\n\n1. **NM State Land Office twice denied** Energy Transfer's 17-mile gas pipeline (March and July) — in-service date now Feb 1, 2027.\n2. **Bloom Energy solid-oxide fuel cells can't run without that gas** — no pipeline, no power, no data center.\n3. **Management still says no FY27 guide impact** — the notice is about the out-year buildout risk, not next quarter's revenue.\n\nNext catalysts: any Blue Owl 8-K response, Energy Transfer permit status, and Oracle's Q2 FY27 print (mid-December).\n\nFull breakdown: [https://stock-tldr.xyz/releases/orcl-jupiter-force-majeure-sep-24-2026](https://stock-tldr.xyz/releases/orcl-jupiter-force-majeure-sep-24-2026)"
+      },
+      "publishDate": "2026-09-24T16:12:50.604Z"
+    },
+    {
+      "id": "mgm-diller-people-withdraws-18b-sep-23-2026",
+      "categories": [
+        "mover",
+        "mna"
+      ],
+      "title": "MGM Resorts (MGM) -~10% intraday Thu Sept 24 as Barry Diller's People Incorporated pulls its June-1 $48.30/share (~$18B) take-private proposal Wed Sept 23 eve — People keeps 66.8M shares / 26.5% stake and stays 'open to a strategic transaction'",
+      "org": "MGM Resorts International",
+      "date": "2026-09-23",
+      "url": "https://www.prnewswire.com/news-releases/mgm-resorts-internationals-board-of-directors-confirms-commitment-to-execution-of-mgm-resorts-strategy-as-a-standalone-company-302888309.html",
+      "summary": "People Incorporated (Barry Diller) withdrew its June-1 non-binding $48.30/share buyout proposal Wed Sept 23 evening, telling MGM's special committee 'the mix' didn't come together. MGM opens Thu -~10% to ~$33.90; People keeps 66.8M-share / 26.5% stake.",
+      "tags": [
+        "mgm",
+        "mgm-resorts",
+        "people-incorporated",
+        "barry-diller",
+        "take-private",
+        "mna-terminated",
+        "13da",
+        "casinos",
+        "las-vegas",
+        "betmgm"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MGM"
+      ],
+      "metrics": {
+        "MGM Thu Sept 24 open move": "~-10% to ~$33.90",
+        "Withdrawn offer": "$48.30/share cash",
+        "Implied deal value": "~$18B",
+        "People stake retained": "66,822,350 shares / 26.5%",
+        "Offer submitted": "Jun 1, 2026"
+      },
+      "explainer": {
+        "tagline": "Diller pulls the plug on his $18B MGM take-private — MGM opens down ~10% on Thursday as the takeout floor evaporates.",
+        "whatIsIt": "People Incorporated (formerly IAC), controlled by Barry Diller, told MGM Resorts' special board committee Wednesday evening that it was withdrawing its June 1 non-binding proposal to buy the ~73% of MGM it doesn't already own at $48.30 per share in cash. The transaction would have taken MGM private at an ~$18B enterprise value. MGM's board said Thursday it will continue to operate as a standalone company.",
+        "howItWorks": "The bid was originally submitted June 1, 2026 and the two sides had been negotiating for several months through an MGM special committee. In a Schedule 13D/A (Amendment 9) filed Thursday, People disclosed no share transactions in the prior 60 days and continues to hold 66,822,350 shares — 26.5% of MGM's 251,592,756 outstanding as of July 27. Diller said 'we didn't feel the mix was coming together in the way we had hoped'; People remains 'open to and interested in the possibility of a strategic transaction' with MGM.",
+        "whyItMatters": "The $48.30 offer had been a soft price floor for MGM shares since June. With it gone, MGM opened Thursday down ~10% to ~$33.90 — below the withdrawn offer and well off the 52-week high of $51.59. Regional gaming peer Caesars (CZR) barely budged (+0.3%), confirming this is a stock-specific event tied to the aborted takeout, not a sector call. Overhang: People's 26.5% block still sits on the register with the door explicitly left open to a future deal.",
+        "forWho": "gaming/consumer-cyclical desks, event-driven and merger-arb traders",
+        "tryIt": "https://finance.yahoo.com/quote/MGM"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/7a50ad10ee1dcfad11a3a4ecece36e2a5bd3bd613796920405bf5507c44c6fa0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd87c8c32fe4ecb39605b54f0d3268e9b.jpg",
+        "alt": "MGM Grand Las Vegas exterior view",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "MGM Board Release",
+          "url": "https://www.prnewswire.com/news-releases/mgm-resorts-internationals-board-of-directors-confirms-commitment-to-execution-of-mgm-resorts-strategy-as-a-standalone-company-302888309.html"
+        },
+        {
+          "label": "SEC 13D/A #9",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000789570/000110465926110214/primary_doc.xml"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-international-sinks-10-132514357.html"
+        },
+        {
+          "label": "MGM Quote",
+          "url": "https://finance.yahoo.com/quote/MGM/"
+        }
+      ],
+      "reddit": {
+        "title": "Barry Diller's People Inc. walks away from $18B / $48.30 MGM take-private — MGM opens -10% Thu as the takeout floor evaporates",
+        "body": "Deal broke overnight Wed Sept 23. People Incorporated (formerly IAC), Diller's holding co, told MGM's special committee it was pulling the June-1 non-binding proposal to buy the rest of MGM at $48.30 a share. MGM opened Thursday down ~10% to ~$33.90.\n\n* Withdrawn offer: **$48.30/share cash**, ~$18B implied\n* MGM board: 'continues to operate as a standalone company' (Salem)\n* People stake retained: **66,822,350 shares — 26.5%** (per 13D/A #9 filed Thu Sept 24)\n* Talks had run several months through an MGM special committee\n* Caesars (CZR) barely moved (+0.3%) — this is a stock-specific event, not a gaming-sector call\n\nWhat actually happened:\n\n1. **Diller: 'the mix wasn't coming together the way we had hoped'** — People 'decided not to pursue taking the company private at this time.'\n2. **The takeout floor is gone** — MGM had been supported by the $48.30 bid since June; the print now trades below the withdrawn offer and well off the 52-week high $51.59.\n3. **Overhang stays** — People kept the 26.5% block and left the door open to 'a strategic transaction' down the line.\n\nNext catalysts: MGM's Q3 print in early November and any follow-up 13D activity from People.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mgm-diller-people-withdraws-18b-sep-23-2026](https://stock-tldr.xyz/releases/mgm-diller-people-withdraws-18b-sep-23-2026)"
+      },
+      "publishDate": "2026-09-24T16:12:50.604Z"
+    },
     {
       "id": "us-china-truce-extended-jan-10-sep-23-2026",
       "categories": [

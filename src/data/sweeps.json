@@ -12615,6 +12615,45 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20260924t161250z",
+      "timestamp": "2026-09-24T16:12:50.604Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Thu Sept 24 mega-cap tape-movers: Oracle (ORCL) invokes force majeure on the $165B Project Jupiter data center (Blue Owl / Stack Infrastructure) as NM regulators stall the Energy Transfer gas pipeline that feeds Bloom Energy's fuel cells, and Barry Diller's People Incorporated pulls its June-1 $48.30/share ($18B) MGM take-private, sending MGM -~10% at the open.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "orcl-jupiter-force-majeure-sep-24-2026",
+          "title": "Oracle (ORCL) -~6% intraday Thu Sept 24 — invokes force majeure on $165B Project Jupiter New Mexico data center, sending notice to Blue Owl / Stack Infrastructure after NM State Land Office twice denies Energy Transfer's 17-mile gas pipeline permit",
+          "category": "mover",
+          "note": "Fresh Sept 24 Bloomberg-first tape-mover; ORCL down ~6% intraday on a first-of-its-kind Stargate-project force majeure notice; not previously covered in the feed."
+        },
+        {
+          "id": "mgm-diller-people-withdraws-18b-sep-23-2026",
+          "title": "MGM Resorts (MGM) -~10% intraday Thu Sept 24 as Barry Diller's People Incorporated pulls its June-1 $48.30/share (~$18B) take-private proposal Wed Sept 23 eve — People keeps 66.8M shares / 26.5% stake and stays 'open to a strategic transaction'",
+          "category": "mover",
+          "note": "Wed-eve press-release event; $18B take-private terminated on the People side; MGM opens Thu -~10%; not previously covered (feed has no prior MGM entry)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "regulatory",
+        "analyst",
+        "crypto",
+        "commodity",
+        "rates",
+        "ipo"
+      ]
     }
   ]
 }
