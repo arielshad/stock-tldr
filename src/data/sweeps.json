@@ -12654,6 +12654,44 @@
         "rates",
         "ipo"
       ]
+    },
+    {
+      "id": "sweep-20260925t022152z",
+      "timestamp": "2026-09-25T02:21:52.588Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: Costco (COST) Q4 FY26 earnings beat after Thursday close on tariff-refund tailwind (muted +0.26% AH); FDA Molecular & Clinical Genetics panel endorses GRAIL's Galleri multi-cancer blood test 7-2 on benefit-risk — first federal endorsement of any MCED test.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cost-q4-fy26-earnings-sep-24-2026",
+          "title": "Costco (COST) Q4 FY26 (AH Thu Sept 24) — diluted EPS $6.75 tops $6.54 est on $95.72B revenue (+11.1% Y/Y); comps +9.4% (+6.7% adj); IEEPA tariff-refund tailwind +$0.15/sh; stock +0.26% AH to $898.80",
+          "category": "earnings",
+          "note": "Mega-cap consumer-staples Q4 print with ≥2 tier-1 outlets, primary 8-K, and disclosed guidance/comp numbers; muted AH reaction still meets earnings inclusion bar as a headline print."
+        },
+        {
+          "id": "gral-fda-panel-galleri-sep-23-2026",
+          "title": "GRAIL (GRAL) — FDA Molecular & Clinical Genetics panel votes 7-2-1 that Galleri multi-cancer blood test's benefits outweigh risks on Wed Sept 23; 10-0 safety, 6-4 effectiveness; stock halted all session, +36% in the two days before, -3.23% to $105.01 Thu",
+          "category": "regulatory",
+          "note": "First-ever FDA advisory-panel endorsement of a multi-cancer early-detection test; direct catalyst for GRAL's +36% two-day surge into the halted session; sets the regulatory template for the whole MCED category."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "regulatory",
+        "mover",
+        "macro",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
