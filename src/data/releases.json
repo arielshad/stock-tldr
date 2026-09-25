@@ -1,8 +1,203 @@
 {
-  "generatedAt": "2026-09-25T02:21:52.588Z",
+  "generatedAt": "2026-09-25T16:19:20.584Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "akam-anthropic-11-6b-cloud-deal-sep-24-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Akamai (AKAM) +18.3% AH to $130.66 Thu Sept 24 — announces $11.6B / 7-year Anthropic cloud commitment (up to $20.6B total) plus warrant for ~5% of common at $111.33/share",
+      "org": "Akamai Technologies",
+      "date": "2026-09-24",
+      "url": "https://www.globenewswire.com/news-release/2026/09/24/3368729/0/en/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand.html",
+      "summary": "AKAM stock jumped 18.3% after-hours Thursday to $130.66 after Akamai disclosed an $11.6B seven-year cloud commitment from Anthropic, with an additional $9B option and a warrant for up to ~5% of AKAM common at $111.33/share.",
+      "tags": [
+        "akamai",
+        "anthropic",
+        "cloud",
+        "ai-capex",
+        "cpu-workloads",
+        "warrant",
+        "partnership"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AKAM"
+      ],
+      "metrics": {
+        "Deal": "$11.6B / 7-year contractual commitment",
+        "Total potential": "up to $20.6B (with $9B optional expansion)",
+        "Warrant": "up to ~5% AKAM common (7.7M as-converted shares) at $111.33 exercise price",
+        "Capex impact": "~$5.5B total; +$1.7B in 2026",
+        "Move (AH)": "+18.3% to $130.66 vs $110.41 regular close"
+      },
+      "explainer": {
+        "tagline": "Akamai lands its largest-ever customer deal — a $11.6B/7yr Anthropic cloud commitment plus a warrant for up to 5% of the company.",
+        "whatIsIt": "Akamai Technologies (AKAM) announced Thursday it has signed a seven-year, $11.6 billion contractual commitment with Anthropic to support the AI lab's CPU workload demands on Akamai Cloud's distributed AI infrastructure. The deal also includes an option to expand by up to $9B (bringing the total potential value to ~$20.6B), and issues Anthropic a warrant for non-voting convertible preferred stock representing up to ~5% of Akamai's common stock.",
+        "howItWorks": "The initial $11.6B commitment is spread over seven years and requires ~$5.5B of associated capex; Akamai raised its 2026 capex outlook by ~$1.7B to secure supply-chain components ahead of the rollout. The warrant covers 7.7M as-converted shares at a $111.33 strike; ~2% vests with today's initial commitment and the remaining ~3% vests in 1% tranches per each additional $3B of services purchased. Company said the deal will not affect 2026 revenue guidance; it forecasts $150–300M of Anthropic revenue in 2027 and a ~$1.7B annual run-rate by 2028.",
+        "whyItMatters": "This is by far the largest customer commitment in Akamai's history and vindicates its multi-year pivot from CDN to AI cloud. It also expands Anthropic's compute footprint beyond AWS and Google — a diversification play mirroring the way OpenAI has spread deals across Oracle, Microsoft and CoreWeave. AKAM ran 18.3% after-hours to $130.66, well above the $111.33 warrant strike."
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/4ce7685a-3da0-416d-9bc1-58cc8b7812b8",
+        "alt": "Akamai and Anthropic logos on the multi-year agreement announcement graphic",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Akamai Press Release",
+          "url": "https://www.globenewswire.com/news-release/2026/09/24/3368729/0/en/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand.html"
+        },
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154dex991.htm"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/akamai-announces-11-6-billion-200100248.html"
+        },
+        {
+          "label": "AKAM Chart",
+          "url": "https://finance.yahoo.com/quote/AKAM/"
+        }
+      ],
+      "reddit": {
+        "title": "Akamai (AKAM) +18.3% after-hours to $130.66 — announces $11.6B / 7-yr Anthropic cloud deal, plus warrant for up to 5% of the company at $111.33",
+        "body": "Akamai just dropped its biggest customer deal in company history after Thursday's close. The stock ran 18.3% in extended hours to $130.66 (regular close was $110.41).\n\n* $11.6 billion contractual commitment over 7 years for Anthropic's CPU workloads on Akamai Cloud\n* Option to expand by up to $9 billion, taking the total potential to ~$20.6 billion\n* Warrant to Anthropic for 7.7 million as-converted shares — up to \\~5% of AKAM common — at $111.33 strike\n* Requires \\~$5.5B of associated capex; AKAM raised 2026 capex by \\~$1.7B for supply-chain components\n* No change to 2026 revenue guide; company sees $150–300M Anthropic revenue in 2027 and a \\~$1.7B annual run-rate by 2028\n\nWhy it's a big deal:\n\n1. **Largest customer deal ever for Akamai** — the CDN-to-AI-cloud pivot finally has a marquee anchor tenant instead of an anonymous \"frontier-model provider\" (like the $1.8B Q1 deal was).\n2. **Anthropic diversifies compute beyond AWS/Google** — mirrors how OpenAI now spreads workloads across Oracle, Microsoft and CoreWeave.\n3. **The warrant is well in-the-money** — AH move above $130 blows past the $111.33 strike price.\n\nFull breakdown: [https://stock-tldr.xyz/releases/akam-anthropic-11-6b-cloud-deal-sep-24-2026](https://stock-tldr.xyz/releases/akam-anthropic-11-6b-cloud-deal-sep-24-2026)"
+      },
+      "publishDate": "2026-09-25T16:19:20.584Z"
+    },
+    {
+      "id": "us-10y-5-22-williams-hike-sep-24-2026",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "10Y Treasury yield tops 5.22% intraday Thu Sept 24 — highest since 2007 — as NY Fed's Williams calls a 2026 hike 'reasonable'; October hike odds jump to 77.5% from 53% a day earlier",
+      "org": "Federal Reserve",
+      "date": "2026-09-24",
+      "url": "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html",
+      "summary": "US 10Y yield spiked to 5.225% intraday Thursday — highest since July 2007 — after NY Fed's John Williams said in London that another rate hike this year 'seems reasonable,' pushing October hike odds to 77.5% from 53% a day earlier.",
+      "tags": [
+        "10y",
+        "yields",
+        "treasury",
+        "hawkish",
+        "williams",
+        "ny-fed",
+        "rate-hike",
+        "fed"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "^TNX"
+      ],
+      "metrics": {
+        "10Y intraday high": "5.225% (highest since July 2007)",
+        "10Y close": "~5.15%",
+        "30Y": "highest since 2004",
+        "MOVE index": "104 (highest since March)",
+        "Oct 28 hike odds": "77.5% (up from 53% Wed)"
+      },
+      "explainer": {
+        "tagline": "Williams pivots from 'wait and see' to 'reasonable to hike again this year' — 10Y yield spikes to a 19-year high and rate-hike bets surge.",
+        "whatIsIt": "NY Fed President John Williams told the London Macro Policy Forum on Thursday that investor pricing implying another rate hike this year 'seems to me a reasonable way of thinking about it,' citing inflation still above 2% target, high energy prices and AI-capex-driven demand. It marks a hawkish pivot from his Sept 2 'wait and see' framing.",
+        "howItWorks": "The 10Y Treasury yield spiked to 5.225% intraday — the highest since July 2007 — before easing back near 5.15%. The 30Y hit its highest since 2004 and the MOVE index (bond-volatility gauge) jumped to 104, its highest since March. Fed-funds-futures-implied odds of an October 28 hike jumped to 77.5% from 53% the day before Williams spoke. Williams also said explicit forward guidance was 'over,' echoing Chair Warsh's approach of refusing to pre-signal meeting outcomes.",
+        "whyItMatters": "Williams is a permanent FOMC voter and typically the number-two voice at the Fed. His pivot removes a key dovish anchor from the committee and validates the September-October rate-hike repricing that has moved yields ~50bp in three weeks. Mortgage rates track the 10Y; equity duration compresses at higher discount rates; the 5.22% level is territory the S&P 500 has not had to digest since before the GFC."
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108287977-1775572555121-gettyimages-2269656389-WILLIAMS_INTERVIEW.jpeg?v=1775572583",
+        "alt": "New York Federal Reserve President John Williams in an interview setting",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-reasonable-see-084137013.html"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/ny-fed-john-williams-rate-hike-year-end-092426"
+        },
+        {
+          "label": "10Y Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "reddit": {
+        "title": "10Y Treasury yield hits 5.225% — highest since July 2007 — after NY Fed's Williams calls a 2026 rate hike 'reasonable'; October hike odds jump to 77.5% from 53%",
+        "body": "The rates repricing that has been building all month broke wide open on Thursday.\n\n* 10Y Treasury yield: intraday high 5.225%, highest since July 2007; settled near 5.15%\n* 30Y Treasury: highest level since 2004\n* MOVE index (bond vol): 104, highest since March\n* October 28 hike odds: 77.5%, up from 53% the day before\n\nThe catalyst was a speech in London by NY Fed President John Williams:\n\n1. **Williams flipped hawkish** — on Sept 2 he was in 'wait and see' mode; on Sept 24 he said investor pricing implying another hike this year 'seems to me a reasonable way of thinking about it.'\n2. **Framing: inflation still too high** — he cited above-target inflation, elevated energy prices, and AI-capex-driven demand.\n3. **Forward guidance is 'over'** — Williams echoed Chair Warsh in refusing to pre-signal meeting outcomes.\n\nWhy it matters: Williams is a permanent FOMC voter and the traditional number-two voice at the Fed. His pivot removes the last dovish anchor on the committee and pins the front end of the curve to another hike this year. The 10Y at 5.22% is territory the S&P 500 has not had to digest since before the 2008 crisis.\n\nNext catalysts: PCE next week, September jobs report the following Friday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-10y-5-22-williams-hike-sep-24-2026](https://stock-tldr.xyz/releases/us-10y-5-22-williams-hike-sep-24-2026)"
+      },
+      "publishDate": "2026-09-25T16:19:20.584Z"
+    },
+    {
+      "id": "us-jobless-claims-197k-57yr-low-sep-24-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "US initial jobless claims 197K for week ending Sept 19 — 57-year low territory; misses 201K consensus and fuels Thursday's hawkish Fed repricing",
+      "org": "U.S. Department of Labor",
+      "date": "2026-09-24",
+      "url": "https://oui.doleta.gov/press/2026/092426.pdf",
+      "summary": "Initial jobless claims fell 1K to 197K for the week ending Sept 19 (vs 201K consensus), keeping the series in late-1960s territory. The 4-week average dropped 1,750 to 202,250 and continuing claims edged up 2K to 1.719M.",
+      "tags": [
+        "jobless-claims",
+        "labor",
+        "unemployment",
+        "macro",
+        "dol",
+        "eta"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Initial claims (WE Sept 19)": "197,000 (-1,000 W/W)",
+        "Prior week (revised)": "198,000",
+        "Consensus": "201,000",
+        "4-week moving average": "202,250 (-1,750 W/W)",
+        "Continuing claims (WE Sept 12)": "1,719,000 (+2,000 W/W)",
+        "Insured unemployment rate": "1.1%"
+      },
+      "explainer": {
+        "tagline": "Weekly initial claims stayed at 197K — territory not seen since the late 1960s — pressuring the Fed's dovish case.",
+        "whatIsIt": "The Department of Labor's Employment and Training Administration reported Thursday morning that seasonally adjusted initial claims for unemployment insurance were 197,000 for the week ending Sept 19, down 1,000 from the prior week's revised 198,000 and below the 201,000 Reuters consensus.",
+        "howItWorks": "The 4-week moving average, which smooths week-to-week noise, fell 1,750 to 202,250. Continuing claims — a proxy for hiring pace — rose 2,000 to 1,719,000 for the week ending Sept 12, while the insured unemployment rate held at 1.1%. Levels in the sub-200K range have not been sustained since the late 1960s.",
+        "whyItMatters": "The print reinforces the 'labor market re-firming' narrative that has anchored the 2026 rate-hike repricing: layoffs are running at generational lows even as hiring intent has stalled. That same afternoon NY Fed's Williams pivoted hawkish and October hike odds surged to 77.5%; the claims data was one of the pieces underwriting that move."
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seal_of_the_United_States_Department_of_Labor.svg",
+        "alt": "Seal of the U.S. Department of Labor",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "DOL Weekly Claims PDF",
+          "url": "https://oui.doleta.gov/press/2026/092426.pdf"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/economy/articles/u-jobless-claims-fall-197-112500927.html"
+        },
+        {
+          "label": "WHBL Recap",
+          "url": "https://www.whbl.com/2026/09/24/us-weekly-jobless-claims-decrease-as-labor-market-regains-footing/"
+        },
+        {
+          "label": "FRED ICSA Series",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        }
+      ],
+      "reddit": {
+        "title": "US initial jobless claims 197K for week ending Sept 19 — 57-year low territory, well below 201K consensus",
+        "body": "The DOL/ETA weekly claims report at 8:30 AM Thursday came in tighter than expected and helped underwrite the afternoon's hawkish Fed repricing.\n\n* Initial claims: 197,000 (-1,000 W/W); consensus was 201,000\n* Prior week revised to 198,000\n* 4-week moving average: 202,250 (-1,750 W/W)\n* Continuing claims: 1,719,000 (+2,000 W/W) for week ending Sept 12\n* Insured unemployment rate: 1.1%\n\nContext:\n\n1. **Sub-200K claims levels have not been sustained since the late 1960s** — a 57-year low regime.\n2. **Hiring intent has stalled but layoffs are near record lows** — a rare mix that keeps the labor market tight without a corresponding wage-inflation blowoff.\n3. **Fuel for the Fed repricing** — same afternoon NY Fed's Williams said another rate hike this year is 'reasonable' and October hike odds jumped to 77.5% from 53%.\n\nNext catalysts: PCE inflation next week; September nonfarm payrolls the following Friday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-jobless-claims-197k-57yr-low-sep-24-2026](https://stock-tldr.xyz/releases/us-jobless-claims-197k-57yr-low-sep-24-2026)"
+      },
+      "publishDate": "2026-09-25T16:19:20.584Z"
+    },
     {
       "id": "cost-q4-fy26-earnings-sep-24-2026",
       "categories": [

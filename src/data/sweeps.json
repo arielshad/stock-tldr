@@ -12692,6 +12692,49 @@
         "crypto",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260925t161920z",
+      "timestamp": "2026-09-25T16:19:20.584Z",
+      "source": "github-actions-sweep",
+      "summary": "Three additions covering the Thursday Sept 24 rates/macro sweep: NY Fed's Williams pivoted hawkish and drove the 10Y to a 19-year high; DOL initial jobless claims came in at 197K (57-year-low territory); and Akamai jumped 18.3% AH on a landmark $11.6B/7-yr Anthropic cloud commitment.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "akam-anthropic-11-6b-cloud-deal-sep-24-2026",
+          "title": "Akamai (AKAM) +18.3% AH to $130.66 Thu Sept 24 — announces $11.6B / 7-year Anthropic cloud commitment (up to $20.6B total) plus warrant for ~5% of common at $111.33/share",
+          "category": "mover",
+          "note": "Landmark customer deal — largest in Akamai history; +18.3% AH; distinct from the May $1.8B unnamed-provider deal (akam-q1-2026-1-8b-ai-deal)."
+        },
+        {
+          "id": "us-10y-5-22-williams-hike-sep-24-2026",
+          "title": "10Y Treasury yield tops 5.22% intraday Thu Sept 24 — highest since 2007 — as NY Fed's Williams calls a 2026 hike 'reasonable'; October hike odds jump to 77.5% from 53% a day earlier",
+          "category": "rates",
+          "note": "New yield high and new hawkish pivot from Williams (different from his Sept 2 'wait and see' item and different catalyst from the Sept 14 oil-driven yield-5% breach)."
+        },
+        {
+          "id": "us-jobless-claims-197k-57yr-low-sep-24-2026",
+          "title": "US initial jobless claims 197K for week ending Sept 19 — 57-year low territory; misses 201K consensus and fuels Thursday's hawkish Fed repricing",
+          "category": "macro",
+          "note": "Weekly claims print reinforcing the tight-labor narrative that drove Thursday's Fed repricing."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro",
+        "rates",
+        "earnings",
+        "mna",
+        "crypto",
+        "commodity",
+        "regulatory"
+      ]
     }
   ]
 }
