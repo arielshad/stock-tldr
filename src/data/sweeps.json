@@ -12766,6 +12766,36 @@
         "analyst",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260926t152138z",
+      "timestamp": "2026-09-26T15:21:38.761Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Microsoft's Copilot Home/Code/Autopilot 'super app' relaunch on Fri Sept 25, MSFT +~4% to $516.17 (top Dow gainer, 2026 high) with Oppenheimer PT to $570. Scanned Trump-Xi summit close (substance already in existing us-china-truce-extended-jan-10-sep-23-2026), SBUX 250-store $300M restructuring (SBUX only -0.5%, no clean category fit — dropped rather than pad), Meta Connect keynote (already 2 Meta items this week, META move only +1% on keynote day), and GFS $19B Japan-plant Nikkei report (no confirmed material single-day US-session move).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "msft-copilot-home-code-autopilot-sep-25-2026",
+          "title": "Microsoft (MSFT) +~4% close $516.17 Fri Sept 25 — top Dow gainer, highest close of 2026 — unveils Copilot 'super app' relaunch with Home, Code and Autopilot agents; Oppenheimer's Brian Schwartz lifts PT to $570 from $515",
+          "category": "mover",
+          "note": "MSFT +~4% to $516.17 Fri Sept 25 — 2026 close high, top Dow gainer — on Copilot Home/Code/Autopilot super-app relaunch with per-seat + usage-based dual pricing model; Oppenheimer PT $570 (from $515)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "earnings",
+        "macro",
+        "mna",
+        "regulatory",
+        "product-launch",
+        "analyst"
+      ]
     }
   ]
 }

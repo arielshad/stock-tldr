@@ -1,8 +1,82 @@
 {
-  "generatedAt": "2026-09-26T02:23:02.696Z",
+  "generatedAt": "2026-09-26T15:21:38.761Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "msft-copilot-home-code-autopilot-sep-25-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Microsoft (MSFT) +~4% close $516.17 Fri Sept 25 — top Dow gainer, highest close of 2026 — unveils Copilot 'super app' relaunch with Home, Code and Autopilot agents; Oppenheimer's Brian Schwartz lifts PT to $570 from $515",
+      "org": "Microsoft",
+      "tickers": [
+        "MSFT"
+      ],
+      "date": "2026-09-25",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "summary": "Microsoft rebuilt Copilot around three tabs — Home, Code and Autopilot — with Autopilot as a persistent agent that keeps working in a customer's own M365 tenant. MSFT +~4% to $516.17 on 15% above-avg volume.",
+      "tags": [
+        "mover",
+        "copilot",
+        "autopilot",
+        "ai-agents",
+        "enterprise-ai",
+        "msft",
+        "product-launch",
+        "big-tech",
+        "microsoft-365",
+        "agentic-ai"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "+~4% to $516.17 (highest close of 2026)",
+        "Volume": "37.9M shares (+15% vs 3-mo avg)",
+        "Oppenheimer PT": "$570 (from $515), Outperform",
+        "Copilot paid seats": "30M (as of July 2026, from 20M in April)"
+      },
+      "explainer": {
+        "tagline": "Microsoft folds Copilot into a single 'super app' with a persistent Autopilot agent — MSFT closes at 2026 high.",
+        "whatIsIt": "Microsoft on Friday relaunched Copilot around three tabs. Home combines chat with Word/Excel/PowerPoint editing. Code lets non-developers build apps in natural language on GitHub Copilot's stack. Autopilot is a persistent agent with a name, a role and a goal that keeps working inside Microsoft 365 even when nobody is using it. Home and Code roll out via the Frontier program in the coming weeks; Autopilot enters private preview by month-end.",
+        "howItWorks": "Autopilot lives in the customer's own cloud tenant and executes multi-step background tasks. Microsoft introduced a two-track pricing model: user subscription licenses (USL) for everyday chat, and usage-based billing (UBB) for agentic work. A new Microsoft Copilot Managed Runtime hosts third-party apps inside M365, and FinOps for AI tools let admins track spend. Paid Copilot seats hit 30M as of July 2026, ~7% of Microsoft's 450M commercial M365 seat base.",
+        "whyItMatters": "The relaunch is Microsoft's answer to Anthropic's Claude Cowork and OpenAI's ChatGPT apps push. Analysts read it as the enterprise agent land-grab going live at scale, with usage-based billing giving MSFT a new monetisation lever on top of per-seat pricing. Oppenheimer's Brian Schwartz raised his PT to $570 from $515 (Outperform), citing customers increasingly standardising on Microsoft as their primary enterprise AI platform. MSFT +~4% to $516.17 made it the top Dow gainer and pushed the stock to its highest close of 2026.",
+        "forWho": "AI/enterprise software analysts and MSFT holders",
+        "tryIt": "https://finance.yahoo.com/quote/MSFT/"
+      },
+      "image": {
+        "url": "https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Copilot-9-25-Hero-9_22_26-1024x576.png",
+        "alt": "Microsoft Copilot Home, Code and Autopilot super app launch hero image (Sept 25, 2026)",
+        "fit": "cover",
+        "credit": "Microsoft"
+      },
+      "links": [
+        {
+          "label": "Microsoft Blog (Primary)",
+          "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/"
+        },
+        {
+          "label": "Yahoo Finance Wrap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-25-214549821.html"
+        },
+        {
+          "label": "24/7 Wall St — Oppenheimer PT",
+          "url": "https://247wallst.com/investing/2026/09/25/microsoft-climbs-3-as-oppenheimer-lifts-target-to-570-on-copilot-enterprise-pivot/"
+        },
+        {
+          "label": "GeekWire Recap",
+          "url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/"
+        },
+        {
+          "label": "MSFT Quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ],
+      "reddit": {
+        "title": "Microsoft +~4% to $516.17 Fri Sept 25 — highest close of 2026 — relaunches Copilot as a three-tab 'super app' with Home, Code and an always-on Autopilot agent",
+        "body": "Microsoft rebuilt Copilot around three tabs on Friday, and the market read it as the enterprise agent land-grab going live at scale. MSFT closed at $516.17, top Dow gainer, on 37.9M shares (15% above average).\n\n* **Home** — chat + Cowork combined, with Word/Excel/PowerPoint editing baked into the experience.\n* **Code** — lets non-developers build apps and dashboards in plain language on GitHub Copilot's stack, sandboxed inside the customer tenant.\n* **Autopilot** — a persistent agent with a name, a role and a goal, that keeps working inside Microsoft 365 even when no one is signed in. Private preview by month-end.\n* Paid Copilot seats hit 30M (up from 20M in April), \\~7% of Microsoft's 450M commercial M365 seats.\n* New pricing: per-seat subscriptions for everyday chat + usage-based billing for long-running agent work.\n\nWhy the tape moved:\n\n1. **Two monetisation levers, not one** — usage-based agent billing sits on top of per-seat Copilot pricing.\n2. **Oppenheimer PT to $570 from $515** — Brian Schwartz kept Outperform, cited customers standardising on Microsoft as their primary enterprise AI platform.\n3. **Direct shot at Anthropic and OpenAI** — Microsoft explicitly contrasted Autopilot's in-tenant model with VM-based agents like Claude Cowork.\n\nNext catalysts: Home and Code rollout via the Frontier program in the coming weeks, Autopilot private preview at end of month, and Microsoft's next earnings on Oct 29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/msft-copilot-home-code-autopilot-sep-25-2026](https://stock-tldr.xyz/releases/msft-copilot-home-code-autopilot-sep-25-2026)"
+      },
+      "publishDate": "2026-09-26T15:21:38.761Z"
+    },
     {
       "id": "nke-bofa-underperform-30-pt-sep-25-2026",
       "categories": [
