@@ -1,8 +1,161 @@
 {
-  "generatedAt": "2026-09-25T16:19:20.584Z",
+  "generatedAt": "2026-09-26T02:23:02.696Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nke-bofa-underperform-30-pt-sep-25-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Nike (NKE) -0.67% to $35.75 Fri Sept 25 — BofA's Lorraine Hutchinson cuts to Underperform, $30 PT (from $47); FY27 EPS estimate cut 11% to $1.43 ahead of Oct 1 print",
+      "org": "Bank of America",
+      "author": {
+        "name": "Lorraine Hutchinson",
+        "profileUrl": "https://finance.yahoo.com/markets/stocks/articles/nke-stock-slips-premarket-bofa-123222943.html"
+      },
+      "date": "2026-09-25",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nke-stock-slips-premarket-bofa-123222943.html",
+      "summary": "BofA's Lorraine Hutchinson cuts NKE to Underperform (from Neutral) with a $30 price target (~17% downside), citing weak wholesale momentum and China; FY27/FY28 EPS estimates trimmed 11%/12% ahead of the Q1 FY27 print due Oct 1.",
+      "tickers": [
+        "NKE"
+      ],
+      "tags": [
+        "analyst",
+        "downgrade",
+        "underperform",
+        "price-target-cut",
+        "apparel",
+        "footwear",
+        "china",
+        "wholesale",
+        "earnings-preview",
+        "q1-fy27",
+        "bofa"
+      ],
+      "metrics": {
+        "Rating change": "Neutral → Underperform",
+        "Old PT": "$47",
+        "New PT": "$30",
+        "FY27 EPS": "$1.43 (-11% vs prior est)",
+        "FY28 EPS": "$1.87 (-12% vs prior est)",
+        "Close": "$35.75 (-0.67%)",
+        "Volume": "38.2M shares (1.23× 3-mo avg)"
+      },
+      "importance": "major",
+      "explainer": {
+        "tagline": "BofA rips Nike PT to $30, tags it Underperform ahead of Oct 1 earnings — dividend flagged as at-risk on cut EPS.",
+        "whatIsIt": "Bank of America analyst Lorraine Hutchinson cut Nike from Neutral to Underperform on Friday Sept 25, dropping her price target to $30 from $47 — roughly 17% below Nike's $35.75 close. The call landed six trading days before Nike is due to report Q1 fiscal-2027 earnings.",
+        "howItWorks": "Hutchinson lowered her FY27 EPS estimate 11% to $1.43 and her FY28 estimate 12% to $1.87, putting her FY27 view about 14% below consensus. She cites a longer-than-expected turnaround, weak wholesale momentum in North America, and continued sales pressure in Greater China. Nike is guiding to a Q1 FY27 EPS of $0.44 vs. $0.49 a year ago, and the annual $1.64 dividend now exceeds her FY27 EPS estimate.",
+        "whyItMatters": "Nike is the largest holding in most large-cap apparel/consumer discretionary baskets, so a Street underperform + $30 tape sets the bar for the coming print. Peers moved: Lululemon -0.34%, Under Armour -1.56% on the read-through. Traders now key on whether the Oct 1 print resets FY27 guidance far enough to protect the dividend.",
+        "forWho": "consumer-discretionary desks, dividend investors",
+        "tryIt": "https://finance.yahoo.com/quote/NKE/"
+      },
+      "image": {
+        "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165366052/image_2165366052.jpg?io=getty-c-w630",
+        "alt": "Nike swoosh logo on the side of a Nike retail storefront",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo: BofA Cuts PT to $30",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nke-stock-slips-premarket-bofa-123222943.html"
+        },
+        {
+          "label": "CNBC: Risks Are Rising",
+          "url": "https://www.cnbc.com/2026/09/25/risks-are-rising-for-nikes-turnaround-bank-of-america-says.html"
+        },
+        {
+          "label": "Motley Fool: Market Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/25/stock-market-today-sept-25-nike-downgraded-by-bank-of-america-shares-flat/"
+        },
+        {
+          "label": "Q1 FY27 Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-nike-nke-q1-130003769.html"
+        },
+        {
+          "label": "NKE Quote",
+          "url": "https://finance.yahoo.com/quote/NKE/"
+        }
+      ],
+      "reddit": {
+        "title": "BofA cuts Nike (NKE) to Underperform, slashes PT to $30 from $47 ahead of Oct 1 earnings",
+        "body": "BofA's Lorraine Hutchinson cut Nike to Underperform on Friday and dropped her PT to $30, roughly 17% below the $35.75 close. The Q1 FY27 print is a week away.\n\n* PT $30 vs $47 prior, rating Neutral → Underperform\n* FY27 EPS estimate cut 11% to $1.43, FY28 cut 12% to $1.87\n* Hutchinson's FY27 view sits \\~14% below consensus\n* NKE closed -0.67% to $35.75 on 38.2M shares (1.23× 3-mo avg)\n* $1.64 annual dividend now exceeds her FY27 EPS estimate — flagged as at risk\n\nWhy she got more bearish:\n\n1. **Wholesale momentum still weak** — North America sell-in and sell-through both softer than restructuring plan implied.\n2. **Greater China not recovering** — pricing and traffic pressure continuing into Q1 FY27.\n3. **Turnaround timeline slipping** — restructuring plan taking longer than initially modeled, so out-year EPS keeps rebasing lower.\n\nPeers on the read-through: LULU -0.34%, UAA -1.56%.\n\nNext catalyst: Nike Q1 FY27 earnings after the close Oct 1.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nke-bofa-underperform-30-pt-sep-25-2026](https://stock-tldr.xyz/releases/nke-bofa-underperform-30-pt-sep-25-2026)"
+      },
+      "publishDate": "2026-09-26T02:23:02.696Z"
+    },
+    {
+      "id": "umich-sentiment-final-september-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. September 2026 University of Michigan final consumer sentiment 48.1 — 4-month low, -7.0% MoM; year-ahead inflation expectations climb to 4.6% from 4.0%",
+      "org": "University of Michigan Surveys of Consumers",
+      "date": "2026-09-25",
+      "url": "https://finance.yahoo.com/economy/articles/us-consumer-sentiment-eases-four-143459057.html",
+      "summary": "UMich September 2026 final sentiment prints 48.1 vs 51.7 in August — a 4-month low. Current conditions 50.9 (-1.9%), expectations 46.3 (-10.4%). One-year inflation expectations jump to 4.6% from 4.0%; long-run expectations tick to 3.4% from 3.3%.",
+      "tags": [
+        "macro",
+        "consumer-sentiment",
+        "umich",
+        "sca",
+        "consumer",
+        "inflation-expectations",
+        "current-conditions",
+        "expectations",
+        "final-print",
+        "september-2026"
+      ],
+      "metrics": {
+        "Sentiment": "48.1 (-7.0% M/M, -12.7% Y/Y)",
+        "Current Conditions": "50.9 (-1.9% M/M)",
+        "Expectations": "46.3 (-10.1% M/M)",
+        "1Y inflation": "4.6% (vs 4.0% Aug)",
+        "5-10Y inflation": "3.4% (vs 3.3% Aug)"
+      },
+      "importance": "major",
+      "explainer": {
+        "tagline": "UMich September final: sentiment slides to a 4-month low as year-ahead inflation expectations jump to 4.6%.",
+        "whatIsIt": "The University of Michigan's final September 2026 consumer sentiment reading came in at 48.1, down from 51.7 in August — a 7.0% monthly decline and the weakest print in four months. The report drops on the same Friday morning that the 10-year Treasury yield sits near 5.18%, keeping the inflation-expectations component the market's focus.",
+        "howItWorks": "Current Economic Conditions fell 1.9% to 50.9, but the forward-looking Expectations Index dropped 10.1% to 46.3 as households turned sharply more downbeat on personal finances and business conditions. Year-ahead inflation expectations climbed to 4.6% from 4.0% in August — the highest reading since June — and long-run 5-10Y expectations ticked up to 3.4% from 3.3%. Director Joanne Hsu said 'concerns over high prices continuing to climb' drove the deterioration; only durable-goods buying conditions improved, and only because consumers are pulling forward purchases to beat expected price hikes.",
+        "whyItMatters": "This is the second consumer-sentiment print in a row that shows expected inflation re-anchoring higher — reinforcing NY Fed's Williams' Thursday call that another 2026 hike remains 'reasonable' and keeping October-hike odds firmly bid. For rates traders it argues the 10Y's move above 5.10% has fundamental support; for equity desks it feeds the stagflation-vs-strength debate ahead of next Friday's September PCE.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "http://www.sca.isr.umich.edu/"
+      },
+      "image": {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295463190.jpg?c=16x9&q=w_800,c_fill",
+        "alt": "U.S. consumer walking past retail shelves with visible price stickers",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/economy/articles/us-consumer-sentiment-eases-four-143459057.html"
+        },
+        {
+          "label": "UMich SCA Release",
+          "url": "http://www.sca.isr.umich.edu/"
+        },
+        {
+          "label": "CNN Business",
+          "url": "https://www.cnn.com/2026/09/25/economy/us-consumer-sentiment-final-september"
+        },
+        {
+          "label": "Quartz Recap",
+          "url": "https://qz.com/university-michigan-consumer-sentiment-september-2026-092526"
+        },
+        {
+          "label": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/consumer-confidence"
+        }
+      ],
+      "reddit": {
+        "title": "UMich September final consumer sentiment 48.1 (4-month low) — year-ahead inflation expectations jump to 4.6% from 4.0%",
+        "body": "Friday's University of Michigan final Sept print landed weak across the board — and the inflation-expectations line is what rates desks are chewing on.\n\n* Headline sentiment 48.1 vs 51.7 in Aug, -7.0% M/M, -12.7% Y/Y — 4-month low\n* Current Conditions 50.9 (-1.9% M/M)\n* Expectations 46.3 (-10.1% M/M)\n* 1-year inflation expectations 4.6% vs 4.0% in Aug — highest since June\n* 5-10 year inflation expectations 3.4% vs 3.3% in Aug\n\nThree things the print does:\n\n1. **Re-anchors inflation expectations higher** — the two-month climb in the 1Y series is what the Fed watches; it lines up with NY Fed's Williams saying Thursday another 2026 hike is 'reasonable'.\n2. **Softens the growth side** — the Expectations sub-index dropped 10.1% M/M, which historically leads slower discretionary spending.\n3. **Keeps the October-hike bid alive** — the print stacks on Thursday's 197K jobless claims (57-year-low territory) and a 10Y sitting near 5.18%.\n\nNext catalysts: September PCE Oct 2, October FOMC Oct 29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/umich-sentiment-final-september-2026](https://stock-tldr.xyz/releases/umich-sentiment-final-september-2026)"
+      },
+      "publishDate": "2026-09-26T02:23:02.696Z"
+    },
     {
       "id": "akam-anthropic-11-6b-cloud-deal-sep-24-2026",
       "categories": [
