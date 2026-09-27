@@ -12796,6 +12796,45 @@
         "product-launch",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20260927t021838z",
+      "timestamp": "2026-09-27T02:18:38.909Z",
+      "source": "github-actions-sweep",
+      "summary": "Two items surfaced within the 72h window: the Trump-Xi state-visit fact sheet on Thu Sept 25 (formal $30B non-sensitive-goods tariff carve-out, Super Intelligence Dialogue, 10M mt/yr US coal for 2027-2028) and the Sept 21-25 spot Bitcoin ETF week ($2.39B — largest of 2026, YTD flows flip positive).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-china-summit-tariff-cut-si-dialogue-sep-25-2026",
+          "title": "US-China state visit concludes Thu Sept 25 — White House fact sheet locks in favorable tariff treatment on $30B of non-sensitive goods each way, launches Super Intelligence (SI) Dialogue, and 10M mt/yr US coal commitment for 2027–2028",
+          "category": "macro",
+          "note": "Primary-source White House fact sheet released Thu Sept 25 with concrete new commitments — narrow tariff carve-out, formal AI safety dialogue, coal offtake — not covered by the earlier Wed Sept 23 truce-extension item."
+        },
+        {
+          "id": "btc-spot-etf-weekly-2-39b-inflows-sep-21-25-2026",
+          "title": "US spot Bitcoin ETFs pull $2.39B for week ending Fri Sept 25 — largest weekly haul of 2026, YTD flow flips positive after sitting -$5.8B in mid-July; BlackRock IBIT alone +$1.16B",
+          "category": "crypto",
+          "note": "Largest weekly ETF inflow of 2026 (Farside via crypto.news/The Block), YTD flow flipped positive for the first time since spring — distinct from any per-day flow item already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "crypto",
+        "earnings",
+        "mover",
+        "analyst",
+        "commodity",
+        "rates",
+        "regulatory",
+        "mna",
+        "insider"
+      ]
     }
   ]
 }
