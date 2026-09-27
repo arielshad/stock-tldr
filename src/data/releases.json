@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-09-27T02:18:38.909Z",
+  "generatedAt": "2026-09-27T16:03:42.120Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bitget-387m-hack-north-korea-sep-24-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "Bitget confirms $387.5M hot-wallet hack — largest crypto theft of 2026 — CEO Gracy Chen names North Korea suspects; withdrawals frozen Thu Sept 24, restart plan Sept 28-Oct 2",
+      "org": "Bitget",
+      "date": "2026-09-25",
+      "url": "https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/",
+      "summary": "Bitget's Thursday-evening breach was upsized to $387.5M by Friday after Zcash and TRON balances were added — the largest single crypto exchange theft of 2026 — CEO Gracy Chen said stolen keys were not compromised; a User Protection Fund of ~$464M covers the loss.",
+      "tags": [
+        "bitget",
+        "crypto-hack",
+        "north-korea",
+        "lazarus",
+        "hot-wallet",
+        "exchange-security",
+        "cex",
+        "bgb",
+        "trm-labs"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "BNB-USD"
+      ],
+      "metrics": {
+        "Loss (revised)": "$387.5M (up from initial $351.6M)",
+        "Detected": "Thu Sept 24, 18:31 UTC",
+        "User Protection Fund": "~$464M (covers full loss)",
+        "Chains affected": "ETH, XRP Ledger, Arbitrum, Avalanche, Optimism, BNB Chain, Base (+ Zcash, TRON in revision)",
+        "BGB move": "-4.6% to $1.963 in 24h post-disclosure",
+        "Withdrawal restart": "BTC Sept 28, ETH Sept 29, USDT Sept 30, others Oct 2"
+      },
+      "explainer": {
+        "tagline": "Attackers spoofed transaction data through a compromised Bitget backend to drain $387.5M — the biggest crypto exchange heist of 2026.",
+        "whatIsIt": "Bitget, one of the largest centralized crypto exchanges, detected unauthorized transfers from its hot and warm wallets at 18:31 UTC on Thursday Sept 24. The exchange initially pegged the loss at $351.6M and paused withdrawals; by Friday Sept 25, CEO Gracy Chen said on-chain tracing brought the confirmed total to $387.5M after Zcash and TRON balances were added.",
+        "howItWorks": "Chen said the attackers compromised a backend system inside Bitget's wallet infrastructure and spoofed transaction data to trigger the exchange's own authorization process — private keys were not stolen and cold wallets were untouched. Funds moved across seven chains (ETH, XRP Ledger, Arbitrum, Avalanche, Optimism, BNB Chain, Base) plus Zcash and TRON. Bitget says the loss is fully covered by its ~$464M User Protection Fund. On Sept 26 at 03:55 UTC the exchange published a withdrawal-restart schedule: BTC Sept 28 08:00 UTC, ETH Sept 29, USDT Sept 30, other tokens Oct 2.",
+        "whyItMatters": "This is now the largest single centralized-exchange theft of 2026. TRM Labs and Chen both point to indicators consistent with North Korean actors — VPN IPs previously linked to DPRK crews, and laundering wallets that overlap with Bybit and AFX Bridge hits. BGB fell ~4.6% to $1.963 in the first 24h; BTC and ETH shrugged (each within ±0.3% of pre-event levels), suggesting broader market impact is muted for now — but the incident refocuses attention on the safety of centralized custody as ETF inflows pushed BTC ETFs to their biggest week of 2026.",
+        "forWho": "crypto desks, exchange risk teams, on-chain analysts",
+        "tryIt": "https://www.trmlabs.com/resources/blog/bitget-loses-usd-3516-million-in-hot-wallet-breach-in-likely-north-korea-attack"
+      },
+      "image": {
+        "url": "https://cdn.prod.website-files.com/6082dc5b670562507b3587b4/6ab6d6b00d823bf32f7676b2_Bitget%20Loses%20USD%20_OG.png",
+        "alt": "TRM Labs report card headlined 'Bitget Loses USD 351.6 Million in Hot Wallet Breach in Likely North Korea Attack'",
+        "fit": "cover",
+        "credit": "TRM Labs"
+      },
+      "links": [
+        {
+          "label": "Fortune (North Korea)",
+          "url": "https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/"
+        },
+        {
+          "label": "CoinDesk (CEO Explains)",
+          "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
+        },
+        {
+          "label": "TRM Labs Report",
+          "url": "https://www.trmlabs.com/resources/blog/bitget-loses-usd-3516-million-in-hot-wallet-breach-in-likely-north-korea-attack"
+        },
+        {
+          "label": "Withdrawal Schedule",
+          "url": "https://www.cryptotimes.io/2026/09/26/bitget-withdrawals-resume-september-28-full-schedule-after-387-5m-hack/"
+        },
+        {
+          "label": "PYMNTS Recap",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/bitget-suffers-years-largest-crypto-hack-as-losses-top-387-million/"
+        }
+      ],
+      "reddit": {
+        "title": "Bitget hit for $387.5M — the biggest crypto exchange hack of 2026 — CEO Gracy Chen points at North Korea; withdrawals restart Sept 28",
+        "body": "Bitget's hot and warm wallets got drained Thursday evening. It's the largest single CEX theft of 2026 and TRM Labs plus the CEO both suspect North Korean operators.\n\n* Breach detected Thu Sept 24 at 18:31 UTC — withdrawals frozen the same night\n* Initial loss $351.6M; revised to **$387.5M** on Fri Sept 25 after Zcash and TRON balances were added\n* Funds moved across 7+ chains: ETH, XRP Ledger, Arbitrum, Avalanche, Optimism, BNB Chain, Base, plus Zcash and TRON\n* User Protection Fund holds \\~$464M — covers the entire loss; user balances \"unaffected\" per Bitget\n* BGB token -4.6% to $1.963 in 24h; BTC / ETH essentially flat\n\nHow it happened:\n\n1. **Backend spoof, not a key leak** — attackers compromised a backend system inside the wallet infra, spoofed transaction data, and tricked Bitget's own authorization process into approving payouts. Private keys and cold wallets were untouched.\n2. **DPRK fingerprints** — TRM found overlaps with wallets that laundered prior Bybit and AFX Bridge hits; CEO Chen cited VPN IPs previously linked to North Korean crews.\n3. **Withdrawal restart schedule** — BTC Sept 28 08:00 UTC, ETH Sept 29, USDT Sept 30, other tokens Oct 2.\n\nNext catalysts: full incident post-mortem from Bitget, on-chain sanctions activity from OFAC, and whether TRM upgrades the North Korea attribution from \"likely\" to definitive.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bitget-387m-hack-north-korea-sep-24-2026](https://stock-tldr.xyz/releases/bitget-387m-hack-north-korea-sep-24-2026)"
+      },
+      "publishDate": "2026-09-27T16:03:42.120Z"
+    },
     {
       "id": "us-china-summit-tariff-cut-si-dialogue-sep-25-2026",
       "categories": [
