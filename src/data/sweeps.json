@@ -12887,6 +12887,53 @@
         "mna",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20260928t185854z",
+      "timestamp": "2026-09-28T18:58:54.905Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 28, 2026 sweep — 4 adds spanning a seismic NVDA record-size buyback authorization ($150B), Kodiak Sciences' pivotal Phase 3 wet-AMD success (+~145%), Northern Star's rejection of Gold Fields' $27B takeover, and the Dallas Fed's September Texas Manufacturing print. All items dated Sept 28 within the 72h cap.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-150b-buyback-sep-28-2026",
+          "title": "NVIDIA (NVDA) board authorizes additional $150B share buyback Mon Sept 28 — largest single repurchase authorization increase ever, brings remaining program to $235B",
+          "category": "mover",
+          "note": "Board-approved $150B buyback authorization increase Mon Sept 28 — largest single-authorization increase in market history; direct market-mover for a mega-cap AI leader."
+        },
+        {
+          "id": "kod-daybreak-phase3-wet-amd-sep-28-2026",
+          "title": "Kodiak Sciences (KOD) +~145% intraday Mon Sept 28 on positive DAYBREAK Phase 3 results for Zenkuda in wet AMD — primary endpoint p=0.0007",
+          "category": "mover",
+          "note": "KOD +~145% Mon Sept 28 on pivotal Phase 3 DAYBREAK wet-AMD success with a 6-month dosing durability signal; potential Eylea challenger."
+        },
+        {
+          "id": "northern-star-rejects-gold-fields-27b-sep-28-2026",
+          "title": "Northern Star Resources rejects Gold Fields' A$38.7B ($27B) all-cash-and-scrip takeover Mon Sept 28 — 'opportunistic,' 14% premium; GFI ADR -~12%",
+          "category": "mna",
+          "note": "Confirmed rejection of Gold Fields' A$38.7B takeover of Northern Star; GFI -~12% on JSE, largest attempted gold-major deal in 3 years."
+        },
+        {
+          "id": "dallas-fed-tmos-september-2026",
+          "title": "Dallas Fed Texas Manufacturing Outlook Survey September 2026 (Mon Sept 28) — general business activity 9.8 vs 11.6 prior; production surges to 29.5 — but raw materials prices index at 52.2",
+          "category": "macro",
+          "note": "First major regional-Fed manufacturing print of the month released Mon Sept 28 — hot production and record-warm prices-paid on a data-heavy macro week."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "insider",
+        "regulatory",
+        "mna",
+        "commodity",
+        "macro"
+      ]
     }
   ]
 }

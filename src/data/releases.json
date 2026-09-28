@@ -1,8 +1,290 @@
 {
-  "generatedAt": "2026-09-28T02:21:19.111Z",
+  "generatedAt": "2026-09-28T18:58:54.905Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-150b-buyback-sep-28-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "NVIDIA (NVDA) board authorizes additional $150B share buyback Mon Sept 28 — largest single repurchase authorization increase ever, brings remaining program to $235B",
+      "org": "NVIDIA",
+      "date": "2026-09-28",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "summary": "NVIDIA's board approved a $150B increase to its share repurchase authorization on Mon Sept 28, bringing the remaining program to $235B through FY2028. Stock rose ~2.1% intraday.",
+      "tags": [
+        "nvda",
+        "buyback",
+        "capital-return",
+        "ai-capex",
+        "mega-cap",
+        "semis",
+        "board-authorization",
+        "record"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "NVDA"
+      ],
+      "metrics": {
+        "New authorization": "+$150B (largest single increase ever)",
+        "Total remaining": "$235B",
+        "Timeline": "Through FY2028 (ending Jan 30, 2028)",
+        "NVDA move": "+~2.1% intraday Mon Sept 28"
+      },
+      "links": [
+        {
+          "label": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-announces-jaw-dropping-150-billion-stock-buyback-largest-single-authorization-in-history-121342628.html"
+        },
+        {
+          "label": "Press Democrat",
+          "url": "https://www.pressdemocrat.com/2026/09/28/nvidia-share-buybacks/"
+        },
+        {
+          "label": "NVDA Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ],
+      "explainer": {
+        "tagline": "NVIDIA board adds $150B to buyback — the largest single authorization increase in market history — total remaining now $235B through FY2028.",
+        "whatIsIt": "NVIDIA announced on Mon Sept 28 that its board authorized an additional $150B for share repurchases, on top of the roughly $85B remaining under the prior program. Total remaining authorization now sits at $235B, which the company expects to execute through fiscal year ending Jan 30, 2028.",
+        "howItWorks": "The $150B increment is the largest single share-repurchase authorization increase in corporate history. As of the end of Q2 FY27 (reported Aug 26), NVDA had ~$99B remaining under its prior authorization and had already returned ~$26B via buybacks and dividends in Q2 alone. The new headline number ($235B) combines the remaining old capacity with the fresh $150B.",
+        "whyItMatters": "The signal is management's confidence in ongoing AI capex cash generation — NVDA generated $59.7B in trailing net income and its forward P/E has compressed to ~24x. A buyback of this size (~5–6% of NVDA's ~$4T market cap over 15 months) is a meaningful EPS tailwind and puts a persistent institutional bid under the stock. Related semis (AMD, AVGO, TSM) trade in sympathy on the read-through to platform-shift confidence.",
+        "forWho": "mega-cap growth investors, semis desks, capital-return-focused funds",
+        "tryIt": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/affaf43d50706ca91ed9a35a125918a12797da15337e89ce79a72a457cb03055/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fd379bd37-4571-4b10-8454-b3125cd939d7",
+        "alt": "NVIDIA logo and CEO Jensen Huang used with buyback headline coverage",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "reddit": {
+        "title": "NVDA board adds $150B to buyback — the LARGEST single repurchase authorization in market history — total remaining now $235B",
+        "body": "NVIDIA dropped a bomb Monday Sept 28: the board authorized another $150 billion in share buybacks on top of the ~$85B already left in the prior program.\n\n* New authorization: **+$150B** — largest single-increase in corporate history\n* Total remaining program: **$235B** through FY2028 (ending Jan 30, 2028)\n* NVDA already returned ~$26B in Q2 FY27 alone (buybacks + dividends)\n* Stock +~2.1% intraday after the news\n* Forward P/E has compressed to ~24x despite triple-digit data-center growth\n\nWhat this actually says:\n\n1. **Management thinks the stock is undervalued** — Huang: \"once-in-a-generation platform shift to AI.\" A $235B program over ~15 months is ~5–6% of the ~$4T market cap, i.e. a real EPS tailwind, not a token gesture.\n2. **Cash generation is now a moat** — $59.7B in trailing net income funds both hyperscale AI capex AND record capital return simultaneously.\n3. **Sector read-through** — expect AMD/AVGO/TSM sympathy given the confidence signal on AI platform demand.\n\nNext catalysts: NVDA Q3 FY27 print (mid-Nov), CES Jan 2027 GPU roadmap.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-150b-buyback-sep-28-2026](https://stock-tldr.xyz/releases/nvda-150b-buyback-sep-28-2026)"
+      },
+      "publishDate": "2026-09-28T18:58:54.905Z"
+    },
+    {
+      "id": "kod-daybreak-phase3-wet-amd-sep-28-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Kodiak Sciences (KOD) +~145% intraday Mon Sept 28 on positive DAYBREAK Phase 3 results for Zenkuda in wet AMD — primary endpoint p=0.0007",
+      "org": "Kodiak Sciences",
+      "date": "2026-09-28",
+      "url": "https://www.stocktitan.net/news/KOD/zenkuda-and-tabirafusp-ted-meet-primary-endpoints-in-pivotal-c66jozvn169u.html",
+      "summary": "Kodiak Sciences (KOD) surged ~145% Mon Sept 28 after Zenkuda (tarcocimab tedromer) hit its primary endpoint in the pivotal Phase 3 DAYBREAK wet-AMD trial (p=0.0007), with 54% of patients on 6-month dosing at year one.",
+      "tags": [
+        "kod",
+        "phase-3",
+        "wet-amd",
+        "ophthalmology",
+        "biotech",
+        "daybreak",
+        "zenkuda",
+        "tarcocimab-tedromer",
+        "bla",
+        "non-inferiority"
+      ],
+      "importance": "major",
+      "tickers": [
+        "KOD"
+      ],
+      "metrics": {
+        "KOD move": "+~145% intraday Mon Sept 28",
+        "Zenkuda primary endpoint": "p=0.0007 (non-inferior vs aflibercept)",
+        "Durability (6-mo dosing)": "54% of patients at year 1",
+        "Tabirafusp-ted vision endpoint": "p=0.0036",
+        "Zenkuda intraocular inflammation": "0.0%"
+      },
+      "links": [
+        {
+          "label": "8-K (SEC EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001468748/000119312526349107/kod-ex99_1.htm"
+        },
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/KOD/zenkuda-and-tabirafusp-ted-meet-primary-endpoints-in-pivotal-c66jozvn169u.html"
+        },
+        {
+          "label": "QuiverQuant Analysis",
+          "url": "https://www.quiverquant.com/news/Kodiak+Sciences+soars+after+pivotal+DAYBREAK+Phase+3+wet+AMD+results+clear+key+endpoints"
+        },
+        {
+          "label": "KOD Quote",
+          "url": "https://finance.yahoo.com/quote/KOD/"
+        }
+      ],
+      "explainer": {
+        "tagline": "KOD +~145% Mon Sept 28 — Zenkuda hits primary endpoint in pivotal wet-AMD Phase 3 with a 6-month dosing durability read.",
+        "whatIsIt": "Kodiak Sciences reported successful pivotal Phase 3 DAYBREAK results Mon Sept 28 for Zenkuda (tarcocimab tedromer) in wet age-related macular degeneration. A companion drug (tabirafusp-ted / KSI-501) also hit its primary vision endpoint.",
+        "howItWorks": "Zenkuda achieved non-inferior vision gains vs. aflibercept (Regeneron's Eylea) with a primary endpoint p-value of 0.0007. Under a strict treat-to-dryness protocol, 54% of Zenkuda patients maintained 6-month dosing intervals at year 1 (vs. standard 4-8 week dosing for aflibercept). Intraocular inflammation was 0.0% for Zenkuda and 0.4% for tabirafusp-ted; cataract adverse events were 0.5% and 0% respectively. KOD plans a multi-indication BLA in Q4 2026 covering wet AMD, diabetic retinopathy, and retinal vein occlusion.",
+        "whyItMatters": "Longer dosing intervals are the biggest unmet need in wet AMD — the standard of care requires monthly-to-bimonthly intravitreal injections. If Zenkuda holds up in the BLA review, it becomes a direct challenger to Regeneron's Eylea/Eylea HD franchise (~$9B annual sales). REGN and IVERIC (now Astellas) also trade in sympathy on read-through to the retinal drug market. Kodiak's prior Phase 3 miss in 2022 crushed the stock; today's read is a full narrative reset.",
+        "forWho": "biotech / small-cap health-care specialists, event-driven traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001468748/000119312526349107/kod-ex99_1.htm"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/company-logo/kod-lg.png?v=18fc0ca40a",
+        "alt": "Kodiak Sciences company logo",
+        "fit": "contain",
+        "credit": "StockTitan"
+      },
+      "reddit": {
+        "title": "KOD +~145% intraday Mon — Zenkuda hits Phase 3 DAYBREAK wet-AMD primary endpoint (p=0.0007) with 54% on 6-month dosing at year 1",
+        "body": "Kodiak Sciences (KOD) delivered a full narrative reset Monday Sept 28. After a Phase 3 miss in 2022 crushed the stock, today's DAYBREAK readout hit every mark.\n\n* KOD **+~145% intraday** Mon Sept 28\n* Zenkuda (tarcocimab tedromer) primary endpoint **p=0.0007** — non-inferior vision gains vs. aflibercept\n* **54% of Zenkuda patients on 6-month dosing** at year 1 under strict treat-to-dryness protocol\n* Companion drug tabirafusp-ted (KSI-501) hit vision endpoint p=0.0036\n* Intraocular inflammation 0.0% (Zenkuda) / 0.4% (tabirafusp-ted)\n\nWhy this matters:\n\n1. **Durability is the whole game in wet AMD** — standard of care means monthly-to-bimonthly intravitreal injections. A drug with 6-month dosing is a real product.\n2. **Direct challenge to Eylea** — Regeneron's Eylea/Eylea HD franchise does ~$9B annual. Zenkuda's non-inferiority is the wedge.\n3. **Multi-indication BLA planned Q4 2026** covering wet AMD, diabetic retinopathy, and retinal vein occlusion.\n\nNext catalysts: BLA submission Q4 2026, then FDA action later 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kod-daybreak-phase3-wet-amd-sep-28-2026](https://stock-tldr.xyz/releases/kod-daybreak-phase3-wet-amd-sep-28-2026)"
+      },
+      "publishDate": "2026-09-28T18:58:54.905Z"
+    },
+    {
+      "id": "northern-star-rejects-gold-fields-27b-sep-28-2026",
+      "categories": [
+        "mna",
+        "commodity"
+      ],
+      "title": "Northern Star Resources rejects Gold Fields' A$38.7B ($27B) all-cash-and-scrip takeover Mon Sept 28 — 'opportunistic,' 14% premium; GFI ADR -~12%",
+      "org": "Northern Star Resources",
+      "date": "2026-09-28",
+      "url": "https://www.cnbcafrica.com/2026/australias-northern-star-rejects-27-billion-takeover-approach-from-gold-fields",
+      "summary": "Australia's Northern Star rejected Gold Fields' unsolicited A$38.7B (~$27B) takeover proposal Mon Sept 28, calling it 'opportunistic' at just a 14% premium. Gold Fields (GFI) fell ~12% on the JSE open.",
+      "tags": [
+        "mna",
+        "gold",
+        "gold-fields",
+        "northern-star",
+        "gfi",
+        "cross-border",
+        "rejection",
+        "mining",
+        "asx",
+        "jse",
+        "australia",
+        "south-africa"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GFI"
+      ],
+      "metrics": {
+        "Proposal size": "A$38.7B (~$27.1B) all-cash-and-scrip",
+        "Terms per NST share": "0.3125 GFI + A$7.25 cash",
+        "Original offer value (Sept 14)": "A$27.00/share",
+        "Value at Fri Sept 25 GFI close": "A$25.19/share",
+        "Premium implied": "~14% (vs 30% Australian norm)",
+        "GFI move on JSE": "-~12%"
+      },
+      "links": [
+        {
+          "label": "CNBC Africa (Reuters)",
+          "url": "https://www.cnbcafrica.com/2026/australias-northern-star-rejects-27-billion-takeover-approach-from-gold-fields"
+        },
+        {
+          "label": "Semafor",
+          "url": "https://www.semafor.com/article/09/28/2026/s-african-miner-gold-fields-27-billion-northern-star-bet-hits-wall"
+        },
+        {
+          "label": "Northern Star ASX Release",
+          "url": "https://www.nsrltd.com/media/ejyb1usd/response-to-media-speculation-gold-fields-limited-28-09-2026.pdf"
+        },
+        {
+          "label": "GFI Quote",
+          "url": "https://finance.yahoo.com/quote/GFI/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Northern Star rebuffs Gold Fields' A$38.7B ($27B) takeover as 'opportunistic' — only a 14% premium vs. Australia's 30% norm; GFI -~12%.",
+        "whatIsIt": "South Africa's Gold Fields (JSE: GFJ, NYSE: GFI) made an unsolicited proposal on Sept 14 to acquire ASX-listed Northern Star Resources — Australia's largest gold producer — in a cash-and-scrip deal originally valued at A$27.00/share. Northern Star's board formally rejected it Mon Sept 28 as 'opportunistic' and materially below fundamental value.",
+        "howItWorks": "The offer was 0.3125 new Gold Fields shares plus A$7.25 cash per Northern Star share. At Sept 14 pricing this valued NST at A$27.00; by Fri Sept 25 close, GFI's own share weakness had eroded the implied value to A$25.19. Northern Star Chairman Michael Chaney flagged that the ~14% implied premium fell well short of the ~30% norm typical for Australian corporate takeovers. A completed deal would have created the world's #2 gold miner after Newmont.",
+        "whyItMatters": "Gold Fields ADR (GFI) fell ~12% on the JSE open as the market rerated the deal probability down and priced in the cost of a potential higher bid. This is the second attempt in 12 months at cross-border gold-major consolidation (after Newmont/Newcrest 2023) — it flags renewed scarcity of Tier-1 gold resource with spot gold near record highs. Watch for a revised bid at 25–30% premium or a rival counteroffer from Newmont or Agnico Eagle (AEM).",
+        "forWho": "gold-miner specialists, M&A arb desks, ASX and JSE traders",
+        "tryIt": "https://finance.yahoo.com/quote/GFI/"
+      },
+      "image": {
+        "url": "https://img.semafor.com/4d96eb0da272915404a56128cd6336cda1a068a3-2048x1365.jpg?rect=0,146,2048,1075&w=1200&h=630&q=75&auto=format",
+        "alt": "Gold mining operation used with Semafor coverage of the rejected Gold Fields bid for Northern Star",
+        "fit": "cover",
+        "credit": "Semafor"
+      },
+      "reddit": {
+        "title": "Northern Star rejects Gold Fields' A$38.7B ($27B) all-cash-and-scrip bid — 14% premium called 'opportunistic'; GFI -~12% on JSE",
+        "body": "Australia's largest gold producer Northern Star Resources (NST.AX) formally rejected South Africa's Gold Fields' unsolicited $27B takeover proposal Monday Sept 28. It would have created the world's #2 gold miner after Newmont.\n\n* Deal size: **A$38.7B (~$27.1B)** all-cash-and-scrip\n* Terms per NST share: 0.3125 new GFI + A$7.25 cash\n* Offer originally worth A$27.00/share (Sept 14) — decayed to A$25.19 by Fri Sept 25 as GFI weakened\n* Implied premium: **~14%** (vs. ~30% norm for Australian takeovers)\n* GFI ADR: **-~12% on JSE**\n\nWhy the rejection:\n\n1. **Chaney called it \"opportunistic\"** — pitched at a moment when NST's shares had dipped, not at fundamental value.\n2. **Premium too thin** — Australian boards rarely take deals under 30%. Half the required incentive isn't enough.\n3. **Currency mix leaks value** — because 0.3125 GFI is the majority of the offer, GFI's own share weakness compresses the price paid over time.\n\nWhat's next: a bumped bid at 25–30% premium, or a counter from Newmont/Agnico. Gold near record highs is fueling Tier-1 resource scarcity.\n\nNext catalysts: any revised proposal from GFI, or emergence of a rival bidder.\n\nFull breakdown: [https://stock-tldr.xyz/releases/northern-star-rejects-gold-fields-27b-sep-28-2026](https://stock-tldr.xyz/releases/northern-star-rejects-gold-fields-27b-sep-28-2026)"
+      },
+      "publishDate": "2026-09-28T18:58:54.905Z"
+    },
+    {
+      "id": "dallas-fed-tmos-september-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "Dallas Fed Texas Manufacturing Outlook Survey September 2026 (Mon Sept 28) — general business activity 9.8 vs 11.6 prior; production surges to 29.5 — but raw materials prices index at 52.2",
+      "org": "Federal Reserve Bank of Dallas",
+      "date": "2026-09-28",
+      "url": "https://www.dallasfed.org/research/surveys/tmos/2026/2609",
+      "summary": "Dallas Fed TMOS for September 2026 (released Mon Sept 28): general business activity index 9.8 vs 11.6 prior. Production jumped to 29.5 (+13.4pt) but raw materials prices index hit 52.2 — well above 28.0 series average.",
+      "tags": [
+        "macro",
+        "dallas-fed",
+        "manufacturing",
+        "tmos",
+        "regional-fed",
+        "prices-paid",
+        "prices-received",
+        "texas",
+        "isim-preview",
+        "stagflation-watch"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "General business activity": "9.8 (vs 11.6 prior)",
+        "Production": "29.5 (+13.4pt)",
+        "New orders": "30.7 (+8.7pt)",
+        "Employment": "15.1 (+7.1pt)",
+        "Raw materials prices": "52.2 (series avg 28.0)",
+        "Finished goods prices": "27.6 (+4.9pt)",
+        "Company outlook": "8.7 (vs 19.2 prior)"
+      },
+      "links": [
+        {
+          "label": "Dallas Fed TMOS September 2026",
+          "url": "https://www.dallasfed.org/research/surveys/tmos/2026/2609"
+        },
+        {
+          "label": "Dallas Fed TMOS Series",
+          "url": "https://www.dallasfed.org/research/surveys/tmos"
+        },
+        {
+          "label": "InvestingLive Recap",
+          "url": "https://investinglive.com/news/september-dallas-fed-manufacturing-business-index-9-8-vs-11-6-prior/"
+        }
+      ],
+      "explainer": {
+        "tagline": "September Texas Manufacturing print: activity 9.8 (softer), production 29.5 (hottest since '21) — but raw materials prices 52.2, well above 28.0 series average.",
+        "whatIsIt": "The Federal Reserve Bank of Dallas released its September 2026 Texas Manufacturing Outlook Survey on Mon Sept 28 (data collected Sept 15–23). It's the first major regional Fed manufacturing print of the month — a preview of the ISM manufacturing survey coming Oct 1.",
+        "howItWorks": "The general business activity headline eased to 9.8 from 11.6 in August, still well above zero (positive = expansion). Underneath, production surged to 29.5 (+13.4pt), new orders climbed to 30.7 (+8.7pt), employment rose to 15.1 (+7.1pt), and wages/benefits ticked to 27.4 (+6.3pt). But the raw materials prices index jumped to 52.2 — well above its 28.0 series average — while finished-goods prices rose only to 27.6. The company outlook index dropped sharply to 8.7 from 19.2 as manufacturers cited tariffs, fuel costs, and trade uncertainty.",
+        "whyItMatters": "Textbook stagflation flag on a data-heavy week (JOLTS Tue, GDP + Core PCE Wed, ISM + payrolls to come). Real activity is expanding fast but input-price pressure is running well above what manufacturers can pass through — margin squeeze embedded in the numbers. On a day the market is already pricing ~65–73% odds of an October Fed hike, a hot prices-paid print reinforces the hawkish trade — 10Y yields at ~5.24% and dollar bid.",
+        "forWho": "macro traders, rates desks, US manufacturing sector watchers",
+        "tryIt": "https://www.dallasfed.org/research/surveys/tmos/2026/2609"
+      },
+      "image": {
+        "url": "https://www.dallasfed.org/-/media/Images/research/surveys/components/tmos/factory-worker-machinery-pri.jpg",
+        "alt": "Factory worker with machinery used on the Dallas Fed Texas Manufacturing Outlook Survey page",
+        "fit": "cover",
+        "credit": "Federal Reserve Bank of Dallas"
+      },
+      "reddit": {
+        "title": "Dallas Fed Texas Manufacturing Sept 2026 — activity 9.8 (softer) but production 29.5 (hottest since '21) and prices-paid 52.2 vs 28.0 avg",
+        "body": "The Federal Reserve Bank of Dallas dropped its September Texas Manufacturing Outlook Survey Mon Sept 28 — the first regional Fed manufacturing print of the month and a preview of ISM coming Oct 1.\n\n* General business activity: **9.8** vs 11.6 prior (still expansion)\n* Production: **29.5** (+13.4pt) — third straight monthly climb, hottest since July 2021\n* New orders: **30.7** (+8.7pt)\n* Employment: **15.1** (+7.1pt)\n* Raw materials prices: **52.2** — well above the 28.0 series average\n* Finished goods prices: **27.6**\n* Company outlook: 8.7 vs 19.2 prior — sharp decline\n\nWhat this print says:\n\n1. **Real activity is running hot** — production, orders, employment all accelerating.\n2. **Input-price pressure is a problem** — 52.2 prices-paid vs 27.6 prices-received is a 24.6pt spread — margins are getting compressed, or price hikes are coming.\n3. **Stagflation flag on a data-heavy week** — market already pricing ~65–73% odds of an October Fed hike. Hot prices-paid reinforces the hawkish trade — 10Y at ~5.24%.\n\nRespondents flagged tariffs, fuel costs, trade uncertainty, and difficulty sourcing raw materials domestically.\n\nNext catalysts: JOLTS Tue Sept 29, US GDP + Core PCE Wed Sept 30, ISM Manufacturing Wed Oct 1.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dallas-fed-tmos-september-2026](https://stock-tldr.xyz/releases/dallas-fed-tmos-september-2026)"
+      },
+      "publishDate": "2026-09-28T18:58:54.905Z"
+    },
     {
       "id": "bitget-387m-hack-north-korea-sep-24-2026",
       "categories": [
