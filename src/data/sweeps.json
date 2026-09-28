@@ -12865,6 +12865,28 @@
         "mna",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20260928t022119z",
+      "timestamp": "2026-09-28T02:21:19.111Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend sweep (2026-09-28 UTC 02:16). Scanned tier-1 markets press (Bloomberg, Reuters, CNBC), oil/geopolitics (Iran-Hormuz), crypto (Bitget follow-up, BTC ~$84K holding), Fed speak, weekend M&A, Asia data. Primary weekend story is Trump rejecting Iran's 7-day Hormuz roadmap on Sat Sept 26 and Iran refusing to soften demands Sun Sept 27, but the feed already carries 15+ Iran/Hormuz entries (most recent: wti-97-iran-diplomacy-slide-sep-21-2026 covering Trump-Pezeshkian UNGA overture) and Sunday-night S&P/Nasdaq futures only slipped ~0.2%, so this weekend beat lacks a clean market print. No qualifying earnings, IPOs, M&A, central-bank actions, or single-name movers with ≥3% catalysts confirmed in the 72h window. Empty sweep is success — Monday cash open will produce real prints to catch on the next run.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "crypto",
+        "rates",
+        "mna",
+        "earnings"
+      ]
     }
   ]
 }
