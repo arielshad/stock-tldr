@@ -12934,6 +12934,63 @@
         "commodity",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20260929t171758z",
+      "timestamp": "2026-09-29T17:17:58.250Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 29 2026 sweep: adds two macro prints (Conference Board Consumer Confidence 81.9 and BLS JOLTS August 7.079M) plus S&P Cotality Case-Shiller July home prices, one mega-earnings beat (Carnival record Q3 FY26 +~11%), Summit Therapeutics' Mon Sept 28 $2B AstraZeneca strategic investment, and CarMax's Q2 FY27 blowout (+5% on the day).",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cb-consumer-confidence-sep-2026",
+          "title": "Conference Board Consumer Confidence September 2026 — 81.9 (-6.7 pts) vs 89.2 est; Expectations Index falls to 63.6, deep in below-80 recession-warning zone for third straight month",
+          "category": "macro",
+          "note": "Confidence -6.7 pts to 81.9 — biggest single-month drop of 2026, primary source Conference Board release, market-moving on top of hawkish Fed."
+        },
+        {
+          "id": "jolts-aug-2026-sep-29",
+          "title": "US JOLTS August 2026 — job openings 7.079M vs 7.225M est (July revised up 64K to 7.335M); openings rate 4.3%, quits steady at 3.1M as hiring stays sticky-tight",
+          "category": "macro",
+          "note": "BLS JOLTS August 7.079M vs 7.225M est with July revised up — a rare dovish cross-current in an otherwise hawkish week."
+        },
+        {
+          "id": "case-shiller-jul-2026-sep-29",
+          "title": "S&P Cotality Case-Shiller July 2026 — 20-city home prices +2.5% Y/Y (est +2.2%), strongest annual gain since May 2025; New York +5.8% Y/Y, Chicago +6.9%, Seattle -1.6%",
+          "category": "macro",
+          "note": "20-city home prices +2.5% Y/Y beats +2.2% est — Northeast/Midwest lead, Sun Belt cools; supports sticky services-inflation narrative."
+        },
+        {
+          "id": "ccl-q3-fy26-record-sep-29-2026",
+          "title": "Carnival (CCL) +~11% Tues Sept 29 — Q3 FY26 record adj EPS $1.43 beats $1.35 est on all-time-high $8.435B revenue; FY26 adj EPS guide raised to ~$2.24 as customer deposits hit record $7.6B",
+          "category": "earnings",
+          "note": "Carnival Q3 FY26 all-time-high revenue and net income; FY26 guide raised by $150M despite fuel/FX headwind; stock +~11% at open."
+        },
+        {
+          "id": "smmt-azn-2b-strategic-invest-sep-28-2026",
+          "title": "Summit Therapeutics (SMMT) — AstraZeneca commits $2B strategic equity investment at $18.36/sh (10% premium) after Mon Sept 28 close plus ivonescimab + sone-ve GI-cancer clinical collab; SMMT opens +22%, retraces to ~+6% Tues Sept 29",
+          "category": "mover",
+          "note": "AstraZeneca's $2B strategic investment in Summit at 10% premium plus two-part ivonescimab clinical collab — the year's biggest biotech partnership announcement."
+        },
+        {
+          "id": "kmx-q2-fy27-earnings-sep-29-2026",
+          "title": "CarMax (KMX) +~5% close $59.41 Tues Sept 29 — Q2 FY27 diluted EPS $1.16 crushes $0.72 est, revenue $7.9B (+19.5% Y/Y), used-comps +13.0%; CarMax Auto Finance income +32.1%; buybacks resume in Q3",
+          "category": "earnings",
+          "note": "CarMax's biggest EPS beat since fiscal 2022 with used comps flipping to +13% Y/Y; buybacks resume; positive read-across to CVNA/AN."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna"
+      ]
     }
   ]
 }

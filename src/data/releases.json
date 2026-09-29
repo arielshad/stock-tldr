@@ -1,8 +1,416 @@
 {
-  "generatedAt": "2026-09-28T18:58:54.905Z",
+  "generatedAt": "2026-09-29T17:17:58.250Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "cb-consumer-confidence-sep-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "Conference Board Consumer Confidence September 2026 — 81.9 (-6.7 pts) vs 89.2 est; Expectations Index falls to 63.6, deep in below-80 recession-warning zone for third straight month",
+      "org": "The Conference Board",
+      "date": "2026-09-29",
+      "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html",
+      "summary": "Conference Board Consumer Confidence Index falls 6.7 points to 81.9 in September 2026 (est 89.2). Present Situation -7.9 to 109.3; Expectations -5.9 to 63.6 — third straight monthly drop.",
+      "tags": [
+        "consumer-confidence",
+        "conference-board",
+        "macro",
+        "september-2026",
+        "expectations-index",
+        "recession-signal",
+        "sentiment"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline": "81.9 vs 89.2 est (-6.7 pts M/M)",
+        "Present Situation": "109.3 (-7.9 pts)",
+        "Expectations": "63.6 (-5.9 pts, 3rd straight decline)",
+        "Jobs plentiful": "23.6% (from 24.5%)"
+      },
+      "explainer": {
+        "tagline": "Consumer Confidence collapses 6.7 points in September, deepest single-month drop of 2026; Expectations Index sits at 63.6 — well under the 80 recession-signal line for a third straight month.",
+        "whatIsIt": "The Conference Board's September 2026 Consumer Confidence Index dropped to 81.9 from 88.6 in August, a 6.7-point fall against a Bloomberg consensus of 89.2. It's the lowest reading since April 2025.",
+        "howItWorks": "The Present Situation Index — how consumers feel about jobs and business conditions right now — fell 7.9 points to 109.3, with appraisals of current business conditions turning negative for the first time since September 2024. The Expectations Index, based on the six-month outlook for income, business and labor markets, dropped 5.9 points to 63.6, its third consecutive monthly decline and well below the 80 threshold historically associated with recession. Jobs 'plentiful' slipped to 23.6% from 24.5% a month earlier. The September 1–23 survey window included the Fed's Sept 16 rate hike and continued Middle East and China trade tensions.",
+        "whyItMatters": "Confidence at this level is the kind of print that stokes the growth-scare narrative just as the Fed is hiking into it. Retail names and cyclicals took it badly on Tuesday alongside a broader risk-off tape: S&P 500 -0.77% to 7,677.80, Nasdaq -0.9% to 26,820. It also reinforces the University of Michigan's 48.1 September final print flagged last week.",
+        "forWho": "macro traders, retail-sector desks, rates traders",
+        "tryIt": "https://www.conference-board.org/topics/consumer-confidence/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS461842/The-Conference-Board-Logo.jpg?id=OA2976505&p=facebook",
+        "alt": "The Conference Board logo above the September 2026 Consumer Confidence release",
+        "fit": "contain",
+        "credit": "PR Newswire / The Conference Board"
+      },
+      "links": [
+        {
+          "label": "Conference Board Release",
+          "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html"
+        },
+        {
+          "label": "Conference Board Topic",
+          "url": "https://www.conference-board.org/topics/consumer-confidence/"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html"
+        },
+        {
+          "label": "S&P 500 Quote",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+        }
+      ],
+      "reddit": {
+        "title": "U.S. Consumer Confidence craters to 81.9 in September (est 89.2) — biggest one-month drop of 2026, Expectations Index at 63.6 for a 3rd straight month below the recession line",
+        "body": "The Conference Board just dropped a bad one. Consumer Confidence fell 6.7 points in September to a 17-month low.\n\n* Headline Index **81.9** vs 89.2 consensus, down from 88.6 in August\n* Present Situation Index -7.9 pts to 109.3 — appraisals of current business conditions negative for the first time since Sept 2024\n* Expectations Index -5.9 pts to 63.6 — third straight month below the 80 recession-signal threshold\n* Jobs 'plentiful' slipped to 23.6% from 24.5%\n\nThree things drove it:\n\n1. **The Fed hiked into a slowing consumer** — the Sept 16 +25bp move to 3.75–4.00% landed inside the Sept 1–23 survey window.\n2. **Prices/fuel back at the top of the worry list** — mentions of rising prices hit new highs in the write-in data.\n3. **Labor sentiment softened** — 'jobs plentiful' fell for a third month; the drop tracks Friday's 197K jobless-claims print (57-year low) but with wages/hours pressure.\n\nMarkets took it as a growth scare on top of hawkish Fed pricing: S&P 500 -0.77% to 7,677.80, Nasdaq -0.9% to 26,820. UMich September final was already 48.1 (-7% MoM).\n\nNext catalysts: JOLTS today (already 7.079M vs 7.225M est), Sept payrolls Oct 2, CPI Oct 10, FOMC Oct 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cb-consumer-confidence-sep-2026](https://stock-tldr.xyz/releases/cb-consumer-confidence-sep-2026)"
+      },
+      "publishDate": "2026-09-29T17:17:58.250Z"
+    },
+    {
+      "id": "jolts-aug-2026-sep-29",
+      "categories": [
+        "macro"
+      ],
+      "title": "US JOLTS August 2026 — job openings 7.079M vs 7.225M est (July revised up 64K to 7.335M); openings rate 4.3%, quits steady at 3.1M as hiring stays sticky-tight",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-09-29",
+      "url": "https://www.bls.gov/news.release/archives/jolts_09292026.htm",
+      "summary": "August JOLTS shows 7.079M job openings vs 7.225M consensus, down from a revised 7.335M in July; hires 5.2M, separations 5.1M, quits 3.1M. Openings rate 4.3%.",
+      "tags": [
+        "jolts",
+        "job-openings",
+        "labor-market",
+        "bls",
+        "august-2026",
+        "quits-rate",
+        "hiring"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Openings": "7.079M vs 7.225M est",
+        "Prior (July, revised)": "7.335M (+64K revision)",
+        "Openings rate": "4.3%",
+        "Hires": "5.2M (3.3% rate)",
+        "Quits": "3.1M (1.9% rate)",
+        "Layoffs & discharges": "1.6M (1.0% rate)"
+      },
+      "explainer": {
+        "tagline": "August job openings undershoot consensus by ~150K, but July was revised up 64K and quits stay steady at 3.1M — a labor market cooling from the top, not the bottom.",
+        "whatIsIt": "The Bureau of Labor Statistics released the August 2026 JOLTS report Tuesday, reporting 7.079 million job openings versus a 7.225 million consensus and a revised 7.335 million in July. Prior July was originally reported at 7.271 million and revised up by 64K.",
+        "howItWorks": "The job-openings rate held at 4.3%. Hires were essentially unchanged at 5.2 million (3.3% rate); total separations held at 5.1 million; quits (a leading indicator of worker confidence) came in at 3.1 million or a 1.9% rate — right in line with recent months. Layoffs and discharges were 1.6 million, or a 1.0% rate. BLS said openings 'changed little in all industries.'",
+        "whyItMatters": "The August miss on openings gave rates traders a soft cross-current against the hawkish tape that has driven the 10-year yield above 5.2%: openings are softening from the top of the range without a matching layoff surge. October rate-hike odds ticked lower on the print but stayed elevated after Williams's hawkish tone from Sept 24. Treasuries rallied in the front end intraday before giving some back.",
+        "forWho": "rates traders, macro allocators",
+        "tryIt": "https://www.bls.gov/news.release/archives/jolts_09292026.htm"
+      },
+      "image": {
+        "url": "https://investinglive.com/cms/media/Processed/Categories/featured/JOLTS%20Job%20openings_2-featured-1790690933.jpg?width=960&format=webp",
+        "alt": "JOLTS job-openings headline card for August 2026",
+        "fit": "cover",
+        "credit": "InvestingLive"
+      },
+      "links": [
+        {
+          "label": "BLS JOLTS Release",
+          "url": "https://www.bls.gov/news.release/archives/jolts_09292026.htm"
+        },
+        {
+          "label": "InvestingLive Recap",
+          "url": "https://investinglive.com/news/jolts-job-openings-7-079m-vs-7-225m-estimate/"
+        },
+        {
+          "label": "FXStreet Note",
+          "url": "https://www.fxstreet.com/news/us-jolts-job-openings-dropped-to-7079-million-in-august-202609291403"
+        }
+      ],
+      "reddit": {
+        "title": "JOLTS: August job openings 7.079M vs 7.225M est — July revised UP 64K to 7.335M, quits still 3.1M, rate 4.3%",
+        "body": "August JOLTS from BLS came in soft on the headline but the picture is more nuanced.\n\n* Job openings **7.079M** vs 7.225M consensus\n* July revised UP by 64K to 7.335M (from 7.271M)\n* Openings rate 4.3%\n* Hires 5.2M (3.3% rate), essentially unchanged\n* Quits 3.1M (1.9% rate), unchanged\n* Layoffs & discharges 1.6M (1.0% rate), essentially unchanged\n\nWhat's the tape saying:\n\n1. **Cooling from the top, not the bottom** — openings drop but layoffs stay low and quits hold. Classic 'normalization' pattern rather than the front edge of a jobs-rout.\n2. **Cross-current to Fed hawks** — after Williams's Sept 24 hike call sent the 10Y over 5.22%, a soft openings print gives dovish traders a talking point. But October hike odds are still ~72–77% on CME FedWatch.\n3. **Watch the payrolls follow-through** — the reference week for Sept nonfarm payrolls (Oct 2 release) was Sept 7–13; JOLTS covers the last business day of August.\n\nNext catalysts: NFP Fri Oct 2, CPI Oct 10, FOMC Oct 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jolts-aug-2026-sep-29](https://stock-tldr.xyz/releases/jolts-aug-2026-sep-29)"
+      },
+      "publishDate": "2026-09-29T17:17:58.250Z"
+    },
+    {
+      "id": "case-shiller-jul-2026-sep-29",
+      "categories": [
+        "macro"
+      ],
+      "title": "S&P Cotality Case-Shiller July 2026 — 20-city home prices +2.5% Y/Y (est +2.2%), strongest annual gain since May 2025; New York +5.8% Y/Y, Chicago +6.9%, Seattle -1.6%",
+      "org": "S&P Cotality",
+      "date": "2026-09-29",
+      "url": "https://www.prnewswire.com/news-releases/sp-cotality-case-shiller-index-reports-annual-gain-in-july-2026-302893034.html",
+      "summary": "Case-Shiller 20-city composite +2.5% Y/Y in July (est +2.2%) and +0.3% M/M seasonally adjusted. Chicago (+6.9%) and NY (+5.8%) lead; Seattle -1.6% and Vegas -1.3%.",
+      "tags": [
+        "case-shiller",
+        "home-prices",
+        "housing",
+        "sp-cotality",
+        "july-2026",
+        "macro"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "20-City Y/Y": "+2.5% (est +2.2%; prior +2.2%)",
+        "20-City M/M SA": "+0.3%",
+        "Chicago Y/Y": "+6.9%",
+        "New York Y/Y": "+5.8%",
+        "Seattle Y/Y": "-1.6%",
+        "Las Vegas Y/Y": "-1.3%"
+      },
+      "explainer": {
+        "tagline": "Home prices firm up in July with a 20-city +2.5% Y/Y print, best annual gain since May 2025 — Northeast/Midwest lead, Sun Belt cools.",
+        "whatIsIt": "S&P Cotality released the July 2026 Case-Shiller Home Price Indices Tuesday. The 20-city composite rose 2.5% year over year, beating a 2.2% consensus and matching the prior month's revised pace. Month-over-month, the index rose 0.3% on a seasonally adjusted basis.",
+        "howItWorks": "Chicago led the 20-city panel with a +6.9% Y/Y gain, followed by New York at +5.8%. On the other end, Seattle fell 1.6% Y/Y and Las Vegas dropped 1.3% Y/Y — continued Sun Belt / West-Coast softness. The national index was up 1.6% Y/Y. The report covers three-month averages ending in July, so it captured the tail end of the summer buying window.",
+        "whyItMatters": "Home-price stickiness at the higher end of the country is the single biggest reason services CPI keeps grinding around 3.3% core PCE. It complicates the Fed's job as the FOMC hiked back into 3.75–4.00% and Williams flagged another 2026 hike. Mortgage-heavy names (homebuilders, mREITs, title insurers) traded flat-to-lower Tuesday: LEN, DHI both roughly unchanged, KBH -2.5% following its cut FY26 delivery guide last week.",
+        "forWho": "rates traders, mortgage desks, homebuilders",
+        "tryIt": "https://fred.stlouisfed.org/series/SPCS20RSA"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS461842/The-Conference-Board-Logo.jpg?id=OA2976505&p=facebook",
+        "alt": "S&P Cotality Case-Shiller Home Price Index July 2026 release header",
+        "fit": "contain",
+        "credit": "PR Newswire / S&P Cotality"
+      },
+      "links": [
+        {
+          "label": "S&P Cotality Release",
+          "url": "https://www.prnewswire.com/news-releases/sp-cotality-case-shiller-index-reports-annual-gain-in-july-2026-302893034.html"
+        },
+        {
+          "label": "InvestingLive Recap",
+          "url": "https://investinglive.com/news/us-july-caseshiller-20-city-house-price-index-2-5-vs-2-2-expected/"
+        },
+        {
+          "label": "FRED Series",
+          "url": "https://fred.stlouisfed.org/series/SPCS20RSA"
+        }
+      ],
+      "reddit": {
+        "title": "Case-Shiller July: 20-city home prices +2.5% Y/Y (est +2.2%) — Chicago +6.9%, NYC +5.8%; Seattle -1.6%, Vegas -1.3%",
+        "body": "The July Case-Shiller print landed a touch hotter than expected, keeping the housing-inflation debate live for the Fed.\n\n* 20-city composite **+2.5% Y/Y** vs 2.2% consensus\n* 20-city composite +0.3% M/M seasonally adjusted\n* Chicago +6.9% Y/Y, New York +5.8% — Northeast/Midwest lead\n* Seattle -1.6% Y/Y, Las Vegas -1.3% — Sun Belt / West Coast cool\n* National index +1.6% Y/Y\n\nWhat it means:\n\n1. **Owner-equivalent rent stays sticky** — with prices grinding higher in the biggest markets, core-services CPI has no quick relief coming.\n2. **Fed hawks get another data point** — combined with 197K jobless claims and Williams's Sept 24 hike call, the 'housing-driven inflation floor' argument gets louder.\n3. **Builders cross-cutting** — KBH's guidance last week already implied softer volumes; higher prices helps margins but hurts affordability.\n\nNext catalysts: JOLTS/CBCC both today, FHFA Oct 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/case-shiller-jul-2026-sep-29](https://stock-tldr.xyz/releases/case-shiller-jul-2026-sep-29)"
+      },
+      "publishDate": "2026-09-29T17:17:58.250Z"
+    },
+    {
+      "id": "ccl-q3-fy26-record-sep-29-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Carnival (CCL) +~11% Tues Sept 29 — Q3 FY26 record adj EPS $1.43 beats $1.35 est on all-time-high $8.435B revenue; FY26 adj EPS guide raised to ~$2.24 as customer deposits hit record $7.6B",
+      "org": "Carnival Corporation",
+      "date": "2026-09-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000815097/000081509726000104/a20263qearningsrelease8-k.htm",
+      "summary": "Carnival Q3 FY26 (Aug qtr) adj EPS $1.43 beats $1.35 est on record $8.435B revenue; net income all-time high $1.92B. FY26 adj EPS lifted ~$150M above June guide; stock +~11% at open.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-record",
+        "cruise",
+        "guidance-raise",
+        "q3-fy26",
+        "consumer-discretionary",
+        "buyback"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CCL",
+        "RCL",
+        "NCLH"
+      ],
+      "metrics": {
+        "Adj EPS": "$1.43 vs $1.35 est",
+        "GAAP EPS": "$1.40",
+        "Revenue": "$8.435B (record) vs $8.395B est",
+        "Net income": "$1.92B (record)",
+        "Adj net income": "$1.963B",
+        "Customer deposits": "$7.6B (record, +$0.5B Y/Y)",
+        "Move (intraday)": "+11.65%",
+        "Fuel/FX headwind": "-$131M",
+        "YTD buybacks": "~$1.2B"
+      },
+      "explainer": {
+        "tagline": "Carnival prints its all-time-high quarter — Q3 record revenue, record net income, record customer deposits — and raises FY26 by $150M despite a $131M fuel/FX hit.",
+        "whatIsIt": "Carnival Corporation (CCL) reported fiscal Q3 2026 results before the open Tuesday, delivering all-time-high revenue and net income and lifting its full-year adjusted net income guide by more than $150 million from June, even after absorbing a $131 million fuel-and-FX headwind.",
+        "howItWorks": "Adjusted EPS of $1.43 beat the $1.35 Street estimate; GAAP diluted EPS was $1.40. Revenue rose 3.4% Y/Y to $8.435 billion. Net income hit $1.92 billion GAAP / $1.963 billion adjusted — both records. Customer deposits ended the quarter at a record $7.6 billion, up $0.5 billion Y/Y on flat capacity. Full-year 2026 net yields guide moved up 0.5 pt in constant currency to ~+2.3%. 2027 booked occupancy and pricing are at record levels. Buybacks totaled ~$1.2B YTD.",
+        "whyItMatters": "The print blows out the 'cruise consumer is peaking' thesis and the raised guide reads as a positive read-across for Royal Caribbean (RCL) and Norwegian Cruise Line (NCLH). It also cuts against Tuesday's broader risk-off tape — Nasdaq -0.9% and the Conference Board Consumer Confidence -6.7 pts — showing high-end / experiential leisure demand is holding while overall consumer sentiment sags.",
+        "forWho": "consumer-discretionary desks, travel-and-leisure PMs",
+        "tryIt": "https://finance.yahoo.com/quote/CCL/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/59726e3da17a38d2bbfc90690026d65924dd46cb2c4a47bf05f5a80f7885dc7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2F2b1804a23038eb5d248e624fd4368dea.jpg",
+        "alt": "Carnival Corporation cruise ship — Q3 FY2026 earnings coverage",
+        "fit": "cover",
+        "credit": "Yahoo Finance / StockStory"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000815097/000081509726000104/a20263qearningsrelease8-k.htm"
+        },
+        {
+          "label": "Yahoo Q3 Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-nyse-ccl-surprises-q3-132606427.html"
+        },
+        {
+          "label": "CCL Quote",
+          "url": "https://finance.yahoo.com/quote/CCL/"
+        },
+        {
+          "label": "SEC 8-K Cover",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000815097/000081509726000104/ccl-20260929.htm"
+        }
+      ],
+      "reddit": {
+        "title": "Carnival (CCL) +~11% on record Q3 — adj EPS $1.43 vs $1.35 est, revenue $8.43B (all-time high), FY26 guide raised despite $131M fuel/FX hit",
+        "body": "Carnival came out swinging Tuesday morning. Every headline metric was a record.\n\n* Adj EPS **$1.43** vs $1.35 est; GAAP EPS $1.40\n* Revenue **$8.435B** — all-time high\n* Net income $1.92B GAAP / $1.963B adj — both records\n* Customer deposits $7.6B (record), +$0.5B Y/Y on flat capacity\n* YTD buybacks ~$1.2B\n* Stock +~11.65% at market open\n\nThree take-aways:\n\n1. **FY26 guide raised by $150M+** — despite a $131M fuel/FX headwind, net-yield guidance moved up 0.5 pt in constant currency to ~+2.3%.\n2. **2027 already booked at records** — occupancy AND pricing at record highs a year out; deposits confirm bookings aren't just promotional.\n3. **Positive read-across to peers** — RCL and NCLH catch a bid on the print; the 'consumer-experience' trade holds even as the Conference Board Confidence Index cratered 6.7 pts.\n\nNext catalysts: RCL Q3 (Oct 28), NCLH Q3 (Oct 31), FY27 initial guide on the Q4 call.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ccl-q3-fy26-record-sep-29-2026](https://stock-tldr.xyz/releases/ccl-q3-fy26-record-sep-29-2026)"
+      },
+      "publishDate": "2026-09-29T17:17:58.250Z"
+    },
+    {
+      "id": "smmt-azn-2b-strategic-invest-sep-28-2026",
+      "categories": [
+        "mover",
+        "mna"
+      ],
+      "title": "Summit Therapeutics (SMMT) — AstraZeneca commits $2B strategic equity investment at $18.36/sh (10% premium) after Mon Sept 28 close plus ivonescimab + sone-ve GI-cancer clinical collab; SMMT opens +22%, retraces to ~+6% Tues Sept 29",
+      "org": "Summit Therapeutics",
+      "date": "2026-09-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001599298/000119312526405776/d178892dex991.htm",
+      "summary": "AstraZeneca to invest $2B in Summit convertible preferred at $18.36/sh common-equivalent (10% premium to 5-day VWAP), plus a two-part ivonescimab clinical collab starting with sone-ve in GI cancers.",
+      "tags": [
+        "biotech",
+        "equity-investment",
+        "strategic-partnership",
+        "ivonescimab",
+        "sonesitatug-vedotin",
+        "adc",
+        "gi-cancer",
+        "convertible-preferred"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SMMT",
+        "AZN"
+      ],
+      "metrics": {
+        "Investment size": "$2.0B convertible preferred",
+        "Preferred shares": "~108,955 (1:1,000 convert ratio)",
+        "Common price equivalent": "$18.36",
+        "Premium": "+10% over 5-day VWAP",
+        "SMMT open (Tue)": "+22% to $18.91",
+        "SMMT last (Tue intraday)": "~$16.34 (~+5.6% vs $15.48 Mon close)"
+      },
+      "explainer": {
+        "tagline": "AstraZeneca ends a year of will-they-won't-they by putting $2B into Summit at a 10% premium — and launches a two-track ivonescimab combo program alongside it.",
+        "whatIsIt": "Summit Therapeutics (SMMT) and AstraZeneca (AZN) announced Monday evening (Sept 28) that AZN will invest $2.0 billion in Summit convertible preferred shares and enter a two-part clinical collaboration around Summit's PD-1/VEGF bispecific ivonescimab. The deal removes a long-standing balance-sheet overhang and gives AZN board-adjacent optionality without an outright buyout.",
+        "howItWorks": "AZN will buy approximately 108,955 preferred shares that convert 1:1,000 into common at an equivalent common price of $18.36 — a 10% premium to Summit's five-day volume-weighted average. The clinical collab has two tracks: (1) an immediate program combining ivonescimab with Summit's sonesitatug vedotin (sone-ve) ADC in gastrointestinal cancers, with AZN sponsoring studies and both parties sharing costs; and (2) a non-binding MOU to explore ivonescimab paired with other AZN oncology assets, including additional ADCs. The transaction is expected to close by end of the week following announcement.",
+        "whyItMatters": "For Summit, this is the financing overhang gone plus validation of ivonescimab from the biggest ADC franchise in pharma. For AZN, it's a low-cost strategic option on the most-watched bispecific in oncology at a time when it's under merger-talks pressure with BMY. SMMT gapped +22% at the open Tuesday to $18.91 before fading to roughly +5-6% intraday as the market rationalized the pricing anchor at $18.36 and the dilution.",
+        "forWho": "biotech PMs, ADC / IO specialists, event-driven desks",
+        "tryIt": "https://finance.yahoo.com/quote/SMMT/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/7da58f88cee90b05afa8142aec4966ae4c37da8bbc2d6f87274a498db8b52896/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Fe5685b5596a6208921be6008c95c725d.jpg",
+        "alt": "AstraZeneca and Summit Therapeutics strategic equity investment announcement",
+        "fit": "cover",
+        "credit": "BusinessWire / Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001599298/000119312526405776/d178892dex991.htm"
+        },
+        {
+          "label": "Summit Press Release",
+          "url": "https://smmttx.com/news/press-releases/news-details/2026/AstraZeneca-Makes-2-Billion-Strategic-Equity-Investment-in-Summit-Therapeutics/default.aspx"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-makes-2-billion-strategic-213000200.html"
+        },
+        {
+          "label": "SMMT Quote",
+          "url": "https://finance.yahoo.com/quote/SMMT/"
+        }
+      ],
+      "reddit": {
+        "title": "AstraZeneca puts $2B into Summit Therapeutics at $18.36/sh (10% premium) — full ivonescimab + sone-ve GI-cancer collab, SMMT opens +22% then fades",
+        "body": "After a year of speculation, AZN finally moved on SMMT Monday night — but as an equity partner, not an acquirer.\n\n* AZN commits **$2.0B** to Summit convertible preferred\n* ~108,955 preferred shares, 1:1,000 convert into common at **$18.36** equivalent\n* That's a **10% premium** to Summit's 5-day VWAP\n* SMMT closed Mon $15.48 → opened Tue $18.91 (+22%) → last ~$16.34 (~+5.6%)\n\nWhat's actually in the deal:\n\n1. **Balance sheet fixed** — the $2B removes the long-standing financing overhang around a ~$50B+ market-cap clinical-stage biotech that had no product revenue.\n2. **Immediate clinical collab** — ivonescimab (PD-1/VEGF bispecific) combined with Summit's sonesitatug vedotin (sone-ve) ADC in GI cancers; AZN sponsors trials, costs shared.\n3. **Optionality on ADC portfolio** — a non-binding MOU to explore ivonescimab with other AZN cancer meds including additional ADCs; keeps a takeover on the table without paying a control premium today.\n\nWhy the fade — the market anchored to the $18.36 pricing plus dilution math from the fully-converted preferred, and gave back most of the open pop.\n\nNext catalysts: HARMONi-6 update at ESMO Oct 17-21, transaction close by end of this week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/smmt-azn-2b-strategic-invest-sep-28-2026](https://stock-tldr.xyz/releases/smmt-azn-2b-strategic-invest-sep-28-2026)"
+      },
+      "publishDate": "2026-09-29T17:17:58.250Z"
+    },
+    {
+      "id": "kmx-q2-fy27-earnings-sep-29-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "CarMax (KMX) +~5% close $59.41 Tues Sept 29 — Q2 FY27 diluted EPS $1.16 crushes $0.72 est, revenue $7.9B (+19.5% Y/Y), used-comps +13.0%; CarMax Auto Finance income +32.1%; buybacks resume in Q3",
+      "org": "CarMax",
+      "date": "2026-09-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001170010/000117001026000102/q2fy27earningsrelease.htm",
+      "summary": "KMX Q2 FY27 EPS $1.16 (+81% Y/Y) beats $0.72 est on $7.9B revenue (+19.5%); comp used unit sales +13.0%, CarMax Auto Finance income $135.6M (+32.1%). Buybacks resume in Q3.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "auto-retail",
+        "used-cars",
+        "carmax-auto-finance",
+        "buyback",
+        "q2-fy27"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "KMX",
+        "CVNA",
+        "AN"
+      ],
+      "metrics": {
+        "Diluted EPS": "$1.16 vs $0.72 est (+81% Y/Y)",
+        "Revenue": "$7.9B (+19.5% Y/Y)",
+        "Comparable used units": "+13.0% (prior year -6.3%)",
+        "Retail used units": "+13.8%",
+        "GPU (retail used)": "$2,105 (-$111 Y/Y)",
+        "CarMax Auto Finance income": "$135.6M (+32.1%)",
+        "SG&A": "$628.6M (+4.6%)",
+        "Move (close)": "+5.06% to $59.41"
+      },
+      "explainer": {
+        "tagline": "CarMax posts its biggest EPS beat in years — $1.16 vs $0.72 est on +19.5% revenue growth and +13% used comps — and says buybacks resume this quarter.",
+        "whatIsIt": "CarMax (KMX) reported fiscal Q2 2027 results before the open Tuesday, delivering a $0.44 EPS beat versus consensus on double-digit unit growth and a resumption of share repurchases in Q3.",
+        "howItWorks": "Diluted EPS of $1.16 versus $0.72 estimate, up 81.3% Y/Y from $0.64. Total revenue rose 19.5% to $7.9 billion. Combined retail + wholesale unit sales grew 14.7% to 387,735. Retail used-unit sales rose 13.8%; comparable-store used-unit sales rose 13.0% versus -6.3% in the prior-year quarter. Retail used gross profit per unit slipped $111 to $2,105 as CarMax leaned on pricing to support the volume trend. CarMax Auto Finance income jumped 32.1% to $135.6 million. SG&A grew 4.6% to $628.6 million — leverage of $157 or 8.8% per unit. Buybacks resume 'at a modest level' in Q3 FY27; a Strategic Update is scheduled for Nov 3.",
+        "whyItMatters": "The best print CarMax has had since 2022. It reads bullishly for the used-car cycle broadly — Carvana (CVNA) and AutoNation (AN) traded higher in sympathy. It also cuts against the Conference Board Consumer Confidence drop announced the same morning: a $30K used-car purchase is not sentiment-immune, so the volume acceleration suggests pent-up demand is real. Buyback restart signals management confidence in the year ahead.",
+        "forWho": "consumer-cyclical desks, auto-retail specialists",
+        "tryIt": "https://finance.yahoo.com/quote/KMX/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/2ad98537b74fed3aa3213ef1f0363ddac1fbd147c8bc1aabbce52073619cf750/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fea0c7f5e5029d7e27bf382c48c4ca6a3.png",
+        "alt": "CarMax storefront — Q2 FY27 earnings coverage",
+        "fit": "cover",
+        "credit": "Yahoo Finance / MarketBeat"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001170010/000117001026000102/q2fy27earningsrelease.htm"
+        },
+        {
+          "label": "Yahoo Earnings Note",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carmax-kmx-said-q2-earnings-140301460.html"
+        },
+        {
+          "label": "KMX Quote",
+          "url": "https://finance.yahoo.com/quote/KMX/"
+        }
+      ],
+      "reddit": {
+        "title": "CarMax (KMX) +5% — Q2 FY27 EPS $1.16 vs $0.72 est, revenue $7.9B (+19.5%), used comps +13%; buyback resumes in Q3",
+        "body": "CarMax's Q2 FY27 print was a full-on blowout — the strongest quarter since fiscal 2022.\n\n* Diluted EPS **$1.16** vs $0.72 est (+81% Y/Y)\n* Revenue **$7.9B** (+19.5% Y/Y)\n* Comp used-unit sales **+13.0%** (vs -6.3% prior year)\n* Retail used units +13.8%; combined retail + wholesale units 387,735 (+14.7%)\n* Retail GPU $2,105 (-$111 Y/Y) — pricing lever to drive volume\n* CarMax Auto Finance income $135.6M (+32.1%)\n* Buybacks resume 'at a modest level' in Q3 FY27\n* Stock +5.06% to $59.41\n\nThree take-aways:\n\n1. **Used-car cycle turned** — comps flipping from -6.3% to +13.0% Y/Y is the biggest sequential improvement CarMax has printed in years. CVNA and AN traded up in sympathy.\n2. **Financing arm is the earnings driver** — CAF income +32% while retail-unit GPU is intentionally lower. Rate normalization + a stable book is powering it.\n3. **Capital-return signal** — buybacks resume; Strategic Update slated for Nov 3 will lay out the medium-term SG&A/EPS bridge (management flagged $200M of run-rate SG&A cuts by end of FY27).\n\nNext catalysts: Strategic Update Nov 3, CVNA Q3 (Oct 28), Q3 FY27 print in December.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kmx-q2-fy27-earnings-sep-29-2026](https://stock-tldr.xyz/releases/kmx-q2-fy27-earnings-sep-29-2026)"
+      },
+      "publishDate": "2026-09-29T17:17:58.250Z"
+    },
     {
       "id": "nvda-150b-buyback-sep-28-2026",
       "categories": [
