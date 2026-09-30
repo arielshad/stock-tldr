@@ -13026,6 +13026,64 @@
         "rates",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20260930t171820z",
+      "timestamp": "2026-09-30T17:18:20.451Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept 30 midday sweep: added the August PCE cool print (headline 3.4% Y/Y vs 3.7% est) and September ADP beat (+90K vs +68K est) as they landed at 8:15–8:30am ET; the MongoDB CEO shock exit for Meta (MDB -21.6% Monday); and three Sept 30 corporate stories — HPE's $1.2B first AMD Helios order from Vultr plus FY27 guide raise, Synopsys' $1B+ AWS custom-silicon IP + royalty deal, and Citi's Sell downgrade of Moderna after the 222% cancer-vaccine rally.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-pce-aug-2026-sep-30",
+          "title": "US August 2026 PCE — headline +3.4% Y/Y vs +3.7% est (Wed Sept 30), core PCE +3.0% Y/Y unchanged; core MoM +0.2% (est +0.3%); Fed hike odds for October drop below 40%",
+          "category": "macro",
+          "note": "Fed's preferred inflation gauge — both headline (3.4% Y/Y) and core M/M (0.2%) came in below consensus; Oct hike odds cracked <40%."
+        },
+        {
+          "id": "us-adp-sep-2026-90k",
+          "title": "US ADP September 2026 — private payrolls +90K vs +68K est (Wed Sept 30), August revised down to +36K; education/health +55K, financial activities -16K",
+          "category": "macro",
+          "note": "First hiring acceleration since May; ADP is the key labor read heading into potential BLS delay from a shutdown scare."
+        },
+        {
+          "id": "mdb-ceo-desai-meta-departure-sep-28-2026",
+          "title": "MongoDB (MDB) -21.6% to $323.57 Mon Sept 28 — CEO Chirantan 'CJ' Desai resigns effective immediately to become Meta's Chief Enterprise Platform Officer; Dev Ittycheria returns as interim CEO",
+          "category": "mover",
+          "note": "Sitting CEO poached to run Meta's new enterprise-AI division; MDB -21.6% worst session in 6+ months days before Investor Day."
+        },
+        {
+          "id": "hpe-vultr-12b-amd-helios-sep-30-2026",
+          "title": "HPE +~4% premarket Wed Sept 30 — first AMD Helios AI-rack order lands at $1.2B from Vultr; HPE raises FY27 networking growth guide to high-teens/low-20s% from 14–17%",
+          "category": "mover",
+          "note": "First named customer for the AMD Helios rack — competitive answer to Nvidia's NVL72; HPE also raises FY27 networking growth guide."
+        },
+        {
+          "id": "snps-amzn-1b-custom-silicon-ip-sep-30-2026",
+          "title": "Synopsys (SNPS) +~3% premarket Wed Sept 30 — $1B+ multi-year custom silicon IP + license-plus-royalty deal with Amazon covers Nitro, Graviton and Trainium chip families",
+          "category": "mover",
+          "note": "Deal pivots Synopsys IP business to license-plus-royalty across Amazon's Nitro/Graviton/Trainium chip families."
+        },
+        {
+          "id": "mrna-citi-sell-downgrade-sep-30-2026",
+          "title": "Moderna (MRNA) -~6% premarket Wed Sept 30 — Citi's Geoff Meacham cuts to Sell from Neutral, lifts PT to $80 from $60 but flags ~60% downside vs $210 close; MRNA had run +222% off cancer-vaccine data",
+          "category": "analyst",
+          "note": "Sell-side pushback after the 222% cancer-vaccine rally; a valuation call, not a science call."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "insider",
+        "analyst",
+        "sector"
+      ]
     }
   ]
 }

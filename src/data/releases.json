@@ -1,8 +1,408 @@
 {
-  "generatedAt": "2026-09-30T02:48:26.495Z",
+  "generatedAt": "2026-09-30T17:18:20.451Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-pce-aug-2026-sep-30",
+      "categories": [
+        "macro"
+      ],
+      "title": "US August 2026 PCE — headline +3.4% Y/Y vs +3.7% est (Wed Sept 30), core PCE +3.0% Y/Y unchanged; core MoM +0.2% (est +0.3%); Fed hike odds for October drop below 40%",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-09-30",
+      "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy",
+      "summary": "August PCE cooled: headline +3.4% Y/Y (vs +3.7% est), core +3.0% Y/Y unchanged; core MoM +0.2% (below +0.3% est). Money markets now see <40% odds of an October Fed hike.",
+      "tags": [
+        "pce",
+        "inflation",
+        "fed",
+        "core-pce",
+        "macro",
+        "rate-cut",
+        "bea"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Headline PCE Y/Y": "+3.4% (est +3.7%)",
+        "Core PCE Y/Y": "+3.0% (unchanged; est +3.0%)",
+        "Headline PCE M/M": "+0.3%",
+        "Core PCE M/M": "+0.2% (est +0.3%)",
+        "Oct Fed hike odds": "<40%"
+      },
+      "links": [
+        {
+          "label": "BEA Core PCE Page",
+          "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/economy/policy/articles/u-core-pce-inflation-rises-132052964.html"
+        },
+        {
+          "label": "Traders Agency Recap",
+          "url": "https://tradersagency.com/blog/august-pce-report-headline-inflation-at-34percent-below-forecasts-core-holds-at-30percent-as-spending-jumps-09percent"
+        }
+      ],
+      "explainer": {
+        "tagline": "August PCE cools — headline slows to +3.4% Y/Y vs +3.7% est, core steady at +3.0%; Oct Fed hike odds crack below 40%.",
+        "whatIsIt": "The Bureau of Economic Analysis published its August 2026 Personal Income and Outlays report at 8:30 AM ET on Wednesday Sept 30, the Fed's preferred inflation gauge. Headline PCE cooled to +3.4% Y/Y — well below the +3.7% consensus — while core PCE held at +3.0% Y/Y for a second straight month.",
+        "howItWorks": "Headline PCE rose 0.3% M/M and 3.4% Y/Y (est 3.7%). Core PCE ex-food-and-energy rose 0.2% M/M (est 0.3%) and 3.0% Y/Y (unchanged from July). Both readings came in at or below consensus, easing pressure on the FOMC after last week's hawkish flip.",
+        "whyItMatters": "Money markets slashed the odds of an October Fed hike to under 40% from over 77% a week earlier when NY Fed's Williams called a 2026 hike 'reasonable'. The 10Y Treasury yield eased and tech-heavy indexes rallied intraday. The print pushes the next real decision to the Fed's Oct 28–29 meeting.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://www.bea.gov/news/schedule/personal-income-and-outlays-august-2026"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/5a88eaaeda61bfb3ff2e837932ed7d275e62f9a06efd02985b96fe8e5a68cc80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Ffc7708f2b7b415431e93edc24bd4cbb5.png",
+        "alt": "August 2026 US PCE inflation cools, headline print at 3.4% year-over-year",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "August PCE cools to +3.4% Y/Y — well below +3.7% estimate — Oct Fed hike odds crack under 40%",
+        "body": "The Fed's preferred inflation gauge came in cool across the board on Wednesday Sept 30.\n\n* Headline PCE +3.4% Y/Y vs +3.7% expected\n* Core PCE +3.0% Y/Y — unchanged, matches estimate\n* Headline PCE +0.3% M/M, core +0.2% M/M (below +0.3% est)\n* October Fed hike odds now <40% — down from ~77% a week ago\n\n1. **Rate-hike scare deflates** — last week's hawkish repricing after Williams' 'reasonable to hike' comments got mostly unwound this morning.\n2. **Core hasn't accelerated** — 3.0% for the second straight month is the takeaway the Fed cares about, not the noisy headline.\n3. **Bar for October hike is now high** — with core steady and services disinflating gradually, the market puts the ball back on the FOMC to explain why a hike is needed.\n\nNext catalysts: Sept nonfarm payrolls Fri Oct 3 (if shutdown doesn't delay), FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-pce-aug-2026-sep-30](https://stock-tldr.xyz/releases/us-pce-aug-2026-sep-30)"
+      },
+      "publishDate": "2026-09-30T17:18:20.451Z"
+    },
+    {
+      "id": "us-adp-sep-2026-90k",
+      "categories": [
+        "macro"
+      ],
+      "title": "US ADP September 2026 — private payrolls +90K vs +68K est (Wed Sept 30), August revised down to +36K; education/health +55K, financial activities -16K",
+      "org": "ADP Research",
+      "date": "2026-09-30",
+      "url": "https://mediacenter.adp.com/2026-09-30-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-90,000-Jobs-in-September",
+      "summary": "ADP September private payrolls +90K vs +68K est, but August revised down to +36K from +38K. First hiring acceleration since May; education/health +55K, financial activities -16K.",
+      "tags": [
+        "adp",
+        "jobs",
+        "payrolls",
+        "macro",
+        "labor-market",
+        "fed"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC"
+      ],
+      "metrics": {
+        "ADP Sept private payrolls": "+90K (est +68K)",
+        "Aug revised": "+36K (from +38K)",
+        "Base pay Y/Y": "3.2%",
+        "Job-changers pay": "4.8% Y/Y",
+        "Education/health": "+55K",
+        "Financial activities": "-16K"
+      },
+      "links": [
+        {
+          "label": "ADP Press Release",
+          "url": "https://mediacenter.adp.com/2026-09-30-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-90,000-Jobs-in-September"
+        },
+        {
+          "label": "CNBC Report",
+          "url": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html"
+        },
+        {
+          "label": "Fox Business Coverage",
+          "url": "https://www.foxbusiness.com/economy/private-sector-added-90000-jobs-september-above-expectations-adp-says"
+        }
+      ],
+      "explainer": {
+        "tagline": "ADP September private payrolls +90K beats +68K estimate, first pickup since May; August revised down to +36K.",
+        "whatIsIt": "ADP's September National Employment Report showed private-sector employment rose by 90,000 in September, above the +68K Dow Jones consensus. It marks the first monthly hiring acceleration since May after a three-month slowdown.",
+        "howItWorks": "Services drove the print: education & health +55K, leisure/hospitality +22K, information +3K. Goods added 31K on manufacturing +17K and construction +15K. Financial activities lost 16K and professional/business services shed 11K. Medium firms (50–499) added 54K, small firms 23K, large firms 14K. Base pay grew 3.2% Y/Y (3.0% job-stayers, 4.8% job-changers).",
+        "whyItMatters": "ADP is the market's fallback labor read if a possible government shutdown delays the BLS payrolls print. The beat plus soft PCE the same morning kept the goldilocks tape intact — cooling inflation without cracking the labor market. Rate-cut-in-October momentum builds; hike odds now sub-40%.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://adpemploymentreport.com/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108368241-1790358274113-gettyimages-2297111431-jr_18647_j7x94tme.jpeg?v=1790358411&w=1920&h=1080",
+        "alt": "ADP September 2026 private payrolls beat expectations at plus 90,000",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "ADP September private payrolls +90K vs +68K est — first hiring acceleration since May, August revised down to +36K",
+        "body": "ADP dropped a beat this morning that offsets some of the recent labor-market wobble.\n\n* September private payrolls +90K vs +68K expected\n* August revised down to +36K from +38K\n* Base pay +3.2% Y/Y; job-changers pay +4.8%\n* Education & health +55K led services, financial activities -16K\n\n1. **First acceleration in four months** — after Jun/Jul/Aug all printed sub-50K, September broke the slowing streak.\n2. **BLS backup** — with a potential government shutdown looming, ADP is the labor read most likely to be available if the Oct 3 NFP gets delayed.\n3. **Fits the goldilocks tape** — hiring didn't crack, inflation cooled (same-morning PCE +3.4% Y/Y vs +3.7% est). October Fed hike odds slid under 40%.\n\nNext catalysts: BLS September NFP Fri Oct 3 (pending shutdown), FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-adp-sep-2026-90k](https://stock-tldr.xyz/releases/us-adp-sep-2026-90k)"
+      },
+      "publishDate": "2026-09-30T17:18:20.451Z"
+    },
+    {
+      "id": "mdb-ceo-desai-meta-departure-sep-28-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "MongoDB (MDB) -21.6% to $323.57 Mon Sept 28 — CEO Chirantan 'CJ' Desai resigns effective immediately to become Meta's Chief Enterprise Platform Officer; Dev Ittycheria returns as interim CEO",
+      "org": "MongoDB",
+      "date": "2026-09-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001441816/000162828026063657/pressreleasedatedseptemb.htm",
+      "summary": "MongoDB CEO CJ Desai quits effective immediately Mon Sept 28 to lead Meta's new Chief Enterprise Platform division under Zuckerberg. MDB -21.6% to $323.57 — worst session in 6+ months. Dev Ittycheria back as interim.",
+      "tags": [
+        "ceo-departure",
+        "management-change",
+        "meta-hires",
+        "atlas",
+        "database",
+        "enterprise"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MDB",
+        "META"
+      ],
+      "metrics": {
+        "Move": "-21.6% to $323.57",
+        "Effective date": "Sept 28 immediate",
+        "Interim CEO": "Dev Ittycheria (2014–2025)",
+        "YTD": "-24%"
+      },
+      "links": [
+        {
+          "label": "MongoDB Press Release (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001441816/000162828026063657/pressreleasedatedseptemb.htm"
+        },
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001441816/000162828026063657/mdb-20260924.htm"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-down-21-2-060617608.html"
+        },
+        {
+          "label": "Schaeffer's Analysis",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/09/28/c-suite-shakeup-sends-mongodb-stock-spiraling"
+        }
+      ],
+      "explainer": {
+        "tagline": "CJ Desai walks out of MongoDB into Meta's new enterprise AI unit — shares crater 21.6% just days before the company's investor day.",
+        "whatIsIt": "MongoDB announced Monday Sept 28 that President and CEO Chirantan 'CJ' Desai had resigned effective immediately to join Meta Platforms as Chief Enterprise Platform Officer reporting directly to Mark Zuckerberg. Meta's new unit is chartered to sell its Muse AI stack — including Muse Code and Meta Business Agent — into enterprises. Former CEO Dev Ittycheria returns as interim President and CEO while the board runs a permanent search.",
+        "howItWorks": "The 8-K was filed with the SEC Sept 24 and disclosed publicly Monday morning; the stock cratered 21.6% to $323.57, its worst single-day since March 3. The board reaffirmed Q3 and full-year FY27 guidance and kept the $2B buyback authorization in place. MongoDB's Investor Day at Nasdaq MarketSite went ahead the next day, Sept 29.",
+        "whyItMatters": "Desai has run MongoDB's day-to-day for barely a year and his abrupt exit blows a hole in Wall Street's narrative around Atlas cloud growth and AI-workload monetization. Meta gains a senior operator to lead enterprise-AI distribution — reinforcing the read that Zuckerberg is pivoting hard toward Muse enterprise sales. For the broader software tape, another CEO-swap wobble on a cloud growth name.",
+        "forWho": "software analysts, enterprise IT",
+        "tryIt": "https://finance.yahoo.com/quote/MDB/"
+      },
+      "image": {
+        "url": "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-mongodb-branch-office-building-251650396.jpg?sfvrsn=a58dc06_4",
+        "alt": "MongoDB corporate office signage after CEO Chirantan Desai resigns for Meta",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "MDB -21.6% to $323.57 Monday — CEO CJ Desai quits immediately to run Meta's new enterprise AI unit under Zuckerberg",
+        "body": "One of the more shocking C-suite exits of the year hit MongoDB Monday Sept 28.\n\n* MDB -21.6% to $323.57 — worst single-session since March 3\n* CEO Chirantan 'CJ' Desai resigned effective immediately\n* Dev Ittycheria (CEO 2014–2025) returns as interim\n* Board reaffirmed Q3 and full-year FY27 guidance\n* $2B buyback authorization stays in place\n* MDB now -24% YTD\n\n1. **Poached to Meta enterprise** — Desai becomes Meta's Chief Enterprise Platform Officer reporting to Zuckerberg, tasked with selling Muse AI (incl. Muse Code and Meta Business Agent) into enterprises.\n2. **Timing is brutal** — the exit hits days before the MongoDB Investor Day at Nasdaq MarketSite on Sept 29, right when the Atlas + AI workload story was supposed to reset the multiple.\n3. **Meta's enterprise push turns real** — Zuckerberg spending real money to poach a sitting cloud-database CEO says the Muse enterprise motion is a serious commercial swing, not just a demo.\n\nNext catalysts: MongoDB Investor Day Sept 29, permanent CEO search.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mdb-ceo-desai-meta-departure-sep-28-2026](https://stock-tldr.xyz/releases/mdb-ceo-desai-meta-departure-sep-28-2026)"
+      },
+      "publishDate": "2026-09-30T17:18:20.451Z"
+    },
+    {
+      "id": "hpe-vultr-12b-amd-helios-sep-30-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "HPE +~4% premarket Wed Sept 30 — first AMD Helios AI-rack order lands at $1.2B from Vultr; HPE raises FY27 networking growth guide to high-teens/low-20s% from 14–17%",
+      "org": "Hewlett Packard Enterprise",
+      "date": "2026-09-30",
+      "url": "https://www.stocktitan.net/news/HPE/hpe-secures-its-first-amd-helios-order-in-1-2-billion-deal-with-awoco485lxcg.html",
+      "summary": "HPE lands first AMD Helios AI-rack order — $1.2B from cloud provider Vultr — and simultaneously raises FY27 networking growth outlook to high-teens/low-20s%. HPE +~4% premarket; AMD -0.7%.",
+      "tags": [
+        "ai-infrastructure",
+        "amd-helios",
+        "mi455x",
+        "vultr",
+        "networking",
+        "juniper",
+        "hpe-fy27-guide"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HPE",
+        "AMD"
+      ],
+      "metrics": {
+        "Deal": "$1.2B first Helios order",
+        "GPU": "72 AMD Instinct MI455X / rack",
+        "CPU": "AMD EPYC 'Venice'",
+        "FY27 networking growth": "high-teens–low-20s% (from 14–17%)",
+        "HPE premarket": "+~4%"
+      },
+      "links": [
+        {
+          "label": "StockTitan Coverage",
+          "url": "https://www.stocktitan.net/news/HPE/hpe-secures-its-first-amd-helios-order-in-1-2-billion-deal-with-awoco485lxcg.html"
+        },
+        {
+          "label": "Traders Agency Recap",
+          "url": "https://tradersagency.com/blog/hpe-lands-first-helios-order-vultr-commits-dollar12-billion-for-amd-powered-ai-racks"
+        },
+        {
+          "label": "Company News (Yahoo)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-30-2026-071600697.html"
+        },
+        {
+          "label": "HPE Quote",
+          "url": "https://finance.yahoo.com/quote/HPE/"
+        }
+      ],
+      "explainer": {
+        "tagline": "HPE bags a $1.2B AMD Helios first order from Vultr and lifts FY27 networking growth guide — first Helios shipment locks in the AMD/HPE AI rack story.",
+        "whatIsIt": "Hewlett Packard Enterprise announced on Wed Sept 30 the first customer order for the AMD Helios AI rack — a $1.2B multi-year commitment from Florida cloud provider Vultr. Each rack integrates 72 AMD Instinct MI455X GPUs, AMD EPYC 'Venice' CPUs, AMD Pensando Vulcano AI NICs and six HPE Juniper QFX5252 scale-up Ethernet switch trays.",
+        "howItWorks": "Alongside the order, HPE raised its FY27 networking growth outlook to high-teens–low-20s% (from 14–17%) and projected data-center-networking CAGR in the low-to-high 50s% through 2029. The Helios rack is HPE's answer to Nvidia's NVL72 reference platform; Vultr is a competitive-neoclouds player that has been building out US-based AI capacity through 2026.",
+        "whyItMatters": "The first Helios order de-risks the AMD/HPE partnership: HPE now has a name-brand customer for a system that competes against Nvidia's NVL72. It also reinforces AMD's MI400-series ramp story after the World Labs deal earlier this week. HPE shares +~4% premarket; AMD -0.7% as investors read this as HPE-share-capture rather than incremental MI455X demand.",
+        "forWho": "AI-infrastructure investors, networking specialists",
+        "tryIt": "https://finance.yahoo.com/quote/HPE/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/HPE_Secures_Its_First_AMD_Helios_Order_in_1_2_Billion_Deal_With_Vultr_1510427.webp",
+        "alt": "HPE and Vultr $1.2 billion AMD Helios AI rack order announcement",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "HPE +~4% premarket — first AMD Helios AI rack order is $1.2B from Vultr; FY27 networking growth guide raised to high-teens/low-20s%",
+        "body": "HPE landed the debut customer for the AMD Helios rack and simultaneously raised its FY27 guide.\n\n* $1.2B multi-year Vultr order — first Helios rack purchase\n* 72 AMD Instinct MI455X GPUs + EPYC 'Venice' CPUs + Pensando Vulcano NICs per rack\n* Six HPE Juniper QFX5252 scale-up switch trays\n* FY27 networking growth guide lifted to high-teens/low-20s% (from 14–17%)\n* Data-center-networking CAGR projected low-to-high 50s% through 2029\n* HPE +~4% premarket, AMD -0.7%\n\n1. **AMD/HPE stack gets its first named buyer** — the Helios reference platform is HPE's answer to Nvidia's NVL72, and Vultr is the neocloud validating it.\n2. **HPE guides higher on Juniper synergy** — the FY27 lift is the second raise since the Juniper acquisition closed, driven by scale-up Ethernet.\n3. **AMD reaction is muted** — the reflex was 'HPE steals share from Dell/Supermicro' rather than 'incremental MI455X demand', hence AMD flat/down.\n\nNext catalysts: HPE Networking Investor Day follow-through, MI455X shipments Q4 2026.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hpe-vultr-12b-amd-helios-sep-30-2026](https://stock-tldr.xyz/releases/hpe-vultr-12b-amd-helios-sep-30-2026)"
+      },
+      "publishDate": "2026-09-30T17:18:20.451Z"
+    },
+    {
+      "id": "snps-amzn-1b-custom-silicon-ip-sep-30-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Synopsys (SNPS) +~3% premarket Wed Sept 30 — $1B+ multi-year custom silicon IP + license-plus-royalty deal with Amazon covers Nitro, Graviton and Trainium chip families",
+      "org": "Synopsys",
+      "date": "2026-09-30",
+      "url": "https://news.synopsys.com/2026-09-30-Synopsys-and-Amazon-Announce-Strategic,-Multi-year-IP-Agreement-for-Custom-Silicon-Collaboration-Also-Extends-to-Cloud-and-AI-Powered-Engineering",
+      "summary": "Synopsys signs multi-year $1B+ custom silicon IP agreement with Amazon — covers Nitro, Graviton and Trainium chip families and pivots Synopsys IP business to a license-plus-royalty model. SNPS +~3% premarket.",
+      "tags": [
+        "chip-ip",
+        "aws",
+        "custom-silicon",
+        "trainium",
+        "graviton",
+        "royalty",
+        "eda"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SNPS",
+        "AMZN"
+      ],
+      "metrics": {
+        "Deal size": "$1B+ multi-year",
+        "Amazon chips covered": "Nitro, Graviton, Trainium",
+        "Business model": "license + royalty",
+        "SNPS premarket": "+~3%",
+        "Partnership length": "15+ years"
+      },
+      "links": [
+        {
+          "label": "Synopsys Press Release",
+          "url": "https://news.synopsys.com/2026-09-30-Synopsys-and-Amazon-Announce-Strategic,-Multi-year-IP-Agreement-for-Custom-Silicon-Collaboration-Also-Extends-to-Cloud-and-AI-Powered-Engineering"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/articles/aws-signs-1b-chip-design-134633158.html"
+        },
+        {
+          "label": "HPCwire Analysis",
+          "url": "https://www.hpcwire.com/off-the-wire/synopsys-and-amazon-expand-partnership-for-custom-silicon-and-ai-chip-design/"
+        },
+        {
+          "label": "SNPS Quote",
+          "url": "https://finance.yahoo.com/quote/SNPS/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Synopsys goes deeper with AWS: $1B+ multi-year custom-silicon IP deal covering Nitro, Graviton and Trainium, plus royalty-based commercials.",
+        "whatIsIt": "Synopsys and Amazon announced a strategic multi-year IP agreement valued at over $1B on Wed Sept 30. The deal expands Amazon's use of Synopsys application-optimized silicon IP across the Nitro (cloud security/network/storage), Graviton (general-purpose CPU) and Trainium (AI training/inference) chip families.",
+        "howItWorks": "The commercial structure is the notable change: Synopsys pivots its silicon-IP business to a license-plus-royalty model for application-optimized IP, on top of its existing EDA, simulation/analysis, and agentic-AI engineering tools. The Synopsys-AWS relationship stretches back 15 years; this extension covers both AWS's use of Synopsys IP and Synopsys' consumption of AWS cloud capacity.",
+        "whyItMatters": "Custom silicon at hyperscalers is the fastest-growing corner of chip design; the license-plus-royalty pivot turns AWS volume into a recurring take rate for Synopsys. Follows Broadcom-style ASIC upside for the tools stack and reinforces Synopsys/Cadence as picks-and-shovels beneficiaries of hyperscaler custom-silicon programs. SNPS opens +~3%; AMZN roughly flat.",
+        "forWho": "chip investors, EDA analysts",
+        "tryIt": "https://finance.yahoo.com/quote/SNPS/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1999708/prnewswire-synopsys-and-amazon-announce-strategic-multi-year-ip-agreement-09.jpg?id=OA2979660",
+        "alt": "Synopsys and Amazon strategic multi-year IP agreement announcement graphic",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "SNPS +~3% premarket — $1B+ multi-year custom silicon IP deal with AWS; covers Nitro, Graviton, Trainium — and pivots IP business to license-plus-royalty",
+        "body": "Synopsys and Amazon rolled out a chunky expansion of their 15-year relationship on Wednesday.\n\n* $1B+ multi-year IP agreement\n* Covers three Amazon chip families: Nitro, Graviton, Trainium\n* Synopsys IP business pivots to license-plus-royalty model\n* Includes Synopsys EDA, simulation/analysis and agentic-AI engineering tools\n* SNPS +~3% premarket\n\n1. **Royalty pivot is the real story** — until now Synopsys silicon IP was licensed for a fee. Adding royalty gives them exposure to AWS custom-chip volume in perpetuity.\n2. **Trainium is the AI angle** — inclusion of Amazon's AI training/inference silicon means every incremental Trainium sold pings the Synopsys top line.\n3. **Broadcom playbook for tools** — hyperscalers going custom = tailwind for EDA + IP vendors, not the merchant chip guys. Cadence should see a bid on the read-through.\n\nNext catalysts: SNPS Q4 FY26 print (early December), Cadence read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/snps-amzn-1b-custom-silicon-ip-sep-30-2026](https://stock-tldr.xyz/releases/snps-amzn-1b-custom-silicon-ip-sep-30-2026)"
+      },
+      "publishDate": "2026-09-30T17:18:20.451Z"
+    },
+    {
+      "id": "mrna-citi-sell-downgrade-sep-30-2026",
+      "categories": [
+        "analyst",
+        "mover"
+      ],
+      "title": "Moderna (MRNA) -~6% premarket Wed Sept 30 — Citi's Geoff Meacham cuts to Sell from Neutral, lifts PT to $80 from $60 but flags ~60% downside vs $210 close; MRNA had run +222% off cancer-vaccine data",
+      "org": "Citigroup",
+      "date": "2026-09-30",
+      "url": "https://247wallst.com/investing/2026/09/30/moderna-sinks-6-on-citi-downgrade-merck-and-pfizer-stay-flat/",
+      "summary": "Citi's Geoff Meacham downgrades Moderna (MRNA) to Sell from Neutral on Wed Sept 30, raises PT to $80 from $60 — still implying ~60% downside after MRNA's 222% cancer-vaccine rally. MRNA -~6% premarket toward $185.",
+      "tags": [
+        "analyst-downgrade",
+        "citi",
+        "moderna",
+        "sell-rating",
+        "intismeran-autogene",
+        "cancer-vaccine",
+        "pipeline-npv"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MRNA",
+        "MRK"
+      ],
+      "metrics": {
+        "Rating change": "Sell (from Neutral)",
+        "New PT": "$80",
+        "Old PT": "$60",
+        "Implied downside": "~60%",
+        "Prior rally": "+222% since Aug 2025",
+        "Premarket move": "-~6%"
+      },
+      "links": [
+        {
+          "label": "24/7 Wall St Report",
+          "url": "https://247wallst.com/investing/2026/09/30/moderna-sinks-6-on-citi-downgrade-merck-and-pfizer-stay-flat/"
+        },
+        {
+          "label": "Invezz Report",
+          "url": "https://invezz.com/news/2026/09/30/moderna-stock-falls-6-in-premarket-heres-why/"
+        },
+        {
+          "label": "FX Leaders Analysis",
+          "url": "https://www.fxleaders.com/news/2026/09/30/mrna-stock-retreats-toward-185-as-valuation-concerns-return-after-citi-downgrades-moderna-to-sell/"
+        },
+        {
+          "label": "MRNA Quote",
+          "url": "https://finance.yahoo.com/quote/MRNA/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Citi turns bearish on Moderna after +222% cancer-vaccine rally — Sell rating, $80 PT (up from $60), still ~60% below spot.",
+        "whatIsIt": "Citi analyst Geoff Meacham cut Moderna to Sell from Neutral pre-market Wed Sept 30 and paradoxically raised his price target to $80 from $60. MRNA closed near $210 Tuesday after a 222% rally off the August 2025 lows driven by Phase 3 melanoma data on intismeran autogene, the personalized cancer vaccine partnered with Merck.",
+        "howItWorks": "Meacham says he struggles 'to justify the valuation through public-company comparisons or pipeline [net present value]' even after raising his PT 33%. The $80 target implies ~60% downside from the ~$210 close. MRNA opened -~6% around $195 and traded near $185 in early hours.",
+        "whyItMatters": "The call is a valuation reset, not a science call — Meacham is not disputing the cancer-vaccine data. Sell-side pushback on the rally is a sign the retail-and-momentum bid is now the marginal buyer. Merck (partner on intismeran) traded flat despite the linked exposure. Broader biotech tape: a check on how tall to build multiples on single Phase-3 pivots.",
+        "forWho": "biotech long/shorts",
+        "tryIt": "https://finance.yahoo.com/quote/MRNA/"
+      },
+      "image": {
+        "url": "https://247wallst.com/wp-content/uploads/2021/03/imageForEntry38-AaQ.jpg",
+        "alt": "Moderna Inc corporate signage after Citigroup Sell downgrade",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "MRNA -~6% premarket toward $185 — Citi downgrades to Sell, raises PT to $80 from $60 (still ~60% below spot) after the 222% cancer-vaccine rally",
+        "body": "Citi threw a Sell tag on Moderna Wednesday morning after the stock's monster run.\n\n* Cut to Sell from Neutral by Citi analyst Geoff Meacham\n* PT raised to $80 from $60 — but that implies ~60% downside vs Tuesday's $210 close\n* MRNA -~6% premarket, trading around $185\n* Stock had rallied 222% since August 2025 lows on Phase 3 melanoma data (intismeran autogene with Merck)\n\n1. **Valuation, not science** — Meacham says he can't justify current levels 'through public-company comparisons or pipeline NPV.' He's not disputing the trial data.\n2. **Retail vs sell-side split widens** — every dollar past $150 is now defended by momentum longs against progressively-lower analyst PTs.\n3. **Merck stays flat** — MRK didn't move despite the intismeran autogene tie-up, suggesting the read is MRNA-specific rather than a franchise repricing.\n\nNext catalysts: MRNA Q3 print (early November), further intismeran autogene readouts.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrna-citi-sell-downgrade-sep-30-2026](https://stock-tldr.xyz/releases/mrna-citi-sell-downgrade-sep-30-2026)"
+      },
+      "publishDate": "2026-09-30T17:18:20.451Z"
+    },
     {
       "id": "amd-world-labs-82b-acquire-sep-28-2026",
       "categories": [
