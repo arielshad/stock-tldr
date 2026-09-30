@@ -12991,6 +12991,41 @@
         "macro",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20260930t024826z",
+      "timestamp": "2026-09-30T02:48:26.495Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep 2026-09-30T02:43Z. Two major M&A stories added: AMD's $8.2B all-stock acquisition of Fei-Fei Li's spatial-intelligence lab World Labs (announced Mon Sept 28, closed AMD -3.61% to $607.87) and Novo Nordisk's up-to-$2.6B licensing deal with China's Hengrui for once-weekly oral GLP-1/GIP obesity pill HRS-1596 (announced Tue Sept 29, NVO -1.03%). No standalone macro data qualified — ADP September release scheduled for Sept 30 07:15 ET has not printed yet.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amd-world-labs-82b-acquire-sep-28-2026",
+          "title": "AMD to acquire Fei-Fei Li's World Labs in $8.2B all-stock deal (Mon Sept 28) — Li joins as EVP + Chief Scientist under Lisa Su; AMD -3.61% to $607.87",
+          "category": "mna",
+          "note": "AMD's second-largest deal ever after Xilinx — all-stock, market-moving, primary-source confirmed (AMD IR press release + CNBC + Bloomberg)."
+        },
+        {
+          "id": "nvo-hengrui-hrs1596-license-sep-29-2026",
+          "title": "Novo Nordisk licenses Hengrui's once-weekly oral GLP-1/GIP HRS-1596 for up to $2.6B (Tue Sept 29) — $300M upfront, global rights ex-Greater China; NVO -1.03%, Hengrui +1.5%",
+          "category": "mna",
+          "note": "Formal Novo Nordisk press release Sept 29 via GlobeNewswire; verified on BioSpace + Investing.com; primary source + tier-1 coverage; distinct from any prior NVO earnings item."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "earnings",
+        "macro",
+        "rates",
+        "crypto"
+      ]
     }
   ]
 }
