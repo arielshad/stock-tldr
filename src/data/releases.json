@@ -1,8 +1,396 @@
 {
-  "generatedAt": "2026-10-01T02:57:06.950Z",
+  "generatedAt": "2026-10-01T17:50:51.868Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "acn-q4-fy26-earnings-oct-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Accenture (ACN) Q4 FY26 (Thu Oct 1 premarket) — $18.70B revenue (+7% LC) above $17.75–18.40B guide and GAAP diluted EPS $3.29 (+46% Y/Y); record $84.5B FY26 bookings; FY27 guide 3–6% LC revenue growth and $14.39–$14.81 diluted EPS; ACN +~18% to $217.86",
+      "org": "Accenture",
+      "date": "2026-10-01",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-reports-fourth-quarter-and-full-year-fiscal-2026-results",
+      "summary": "Accenture Q4 FY26 (Oct 1 premarket) — revenue $18.70B (+6% USD, +7% LC) tops $17.75–$18.40B guide, GAAP diluted EPS $3.29 (+46% Y/Y). Record FY26 bookings $84.54B. FY27 guide: 3–6% LC revenue growth, diluted EPS $14.39–$14.81, $9.5B+ shareholder returns. ACN +~18% to $217.86.",
+      "tickers": [
+        "ACN"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$18.70B (+6% USD, +7% LC) vs $17.75–$18.40B guide",
+        "Q4 GAAP Diluted EPS": "$3.29 (+46% Y/Y)",
+        "Q4 New Bookings": "$22.2B (+4% USD, +5% LC)",
+        "FY26 Revenue": "$74.18B (+6% USD, +5% LC)",
+        "FY26 New Bookings": "$84.54B (record, +5% USD, +3% LC)",
+        "FY26 Free Cash Flow": "$11.6B",
+        "FY26 Shareholder Returns": "$11.5B ($7.5B buybacks, $4.0B dividends)",
+        "FY27 Revenue Guide": "3–6% local-currency growth",
+        "FY27 Diluted EPS Guide": "$14.39–$14.81 (+6–9%)",
+        "FY27 Adjusted EPS Guide": "+3–6% over FY26",
+        "FY27 Capital Return Commitment": "≥$9.5B",
+        "Q4 Dividend": "$1.71/share (+5%)",
+        "Stock move": "+~18% to $217.86 (prior close $183.37)"
+      },
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "eps-beat",
+        "guidance-raise",
+        "it-services",
+        "ai-services",
+        "bookings",
+        "fy26",
+        "fy27-guide",
+        "buyback",
+        "dividend",
+        "mega-cap",
+        "october-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Accenture closes fiscal 2026 with a record $84.5B bookings year, Q4 revenue above guide, and a FY27 guide that puts a floor under the consulting rebound.",
+        "whatIsIt": "Accenture reported Q4 FY26 and full-year results on October 1 before the open. Q4 revenue was $18.70B (6% USD / 7% local currency growth) — above the company's $17.75B–$18.40B guided range — and GAAP diluted EPS came in at $3.29, up 46% year-over-year. Full-year FY26 revenue was $74.18B with record new bookings of $84.54B.",
+        "howItWorks": "Q4 new bookings were $22.2B (4% USD / 5% LC) with a 1.1 book-to-bill. FY26 free cash flow landed at $11.6B, and Accenture returned $11.5B to shareholders ($7.5B buybacks, $4.0B dividends). The board raised the quarterly dividend 5% to $1.71. FY27 guidance: revenue growth 3–6% in local currency, diluted EPS $14.39–$14.81 (+6–9%), adjusted EPS +3–6%, and at least $9.5B of capital returned to shareholders.",
+        "whyItMatters": "Accenture's Q3 FY26 print in June guided FY26 LC growth to 3–4% and sent ACN -14% premarket. This Q4 beat plus the record $84.54B bookings resets the growth narrative into FY27 and confirms AI-services demand is translating into bookings. The +~18% rally takes ACN back above $217 — a positive read-through to IT-services and consulting peers (IBM, Cognizant, Infosys, Capgemini) ahead of their own prints.",
+        "forWho": "mega-cap long-only, IT-services analysts, AI-services traders",
+        "tryIt": "https://finance.yahoo.com/quote/ACN/"
+      },
+      "image": {
+        "url": "https://newsroom.accenture.com/default-meta-image.png?width=1200&format=pjpg&optimize=medium",
+        "alt": "Accenture corporate newsroom banner for the FY2026 fourth-quarter and full-year earnings release",
+        "fit": "contain",
+        "credit": "Accenture"
+      },
+      "links": [
+        {
+          "label": "Accenture Press Release",
+          "url": "https://newsroom.accenture.com/news/2026/accenture-reports-fourth-quarter-and-full-year-fiscal-2026-results"
+        },
+        {
+          "label": "8-K Press Release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001467373/000146737326000037/q4fy26earnings8-kexhibit.htm"
+        },
+        {
+          "label": "8-K Filing (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001467373/000146737326000037/acn-20261001.htm"
+        },
+        {
+          "label": "ACN Quote",
+          "url": "https://finance.yahoo.com/quote/ACN/"
+        }
+      ],
+      "reddit": {
+        "title": "Accenture Q4 FY26: $18.70B revenue (+7% LC) beats guide, GAAP EPS $3.29 (+46% Y/Y), record $84.5B FY26 bookings — ACN +~18% to $217.86",
+        "body": "Accenture capped fiscal 2026 with a clean beat on revenue, EPS and bookings, and set a FY27 bar the Street can actually underwrite:\n\n* Q4 revenue **$18.70B** (+6% USD / **+7% LC**) — above the $17.75–$18.40B guided range\n* Q4 GAAP diluted EPS **$3.29** (+46% Y/Y)\n* Q4 new bookings **$22.2B** (book-to-bill 1.1)\n* FY26 revenue **$74.18B**; FY26 bookings **$84.54B** — a company record\n* FY26 free cash flow **$11.6B**; **$11.5B** returned to shareholders ($7.5B buybacks + $4.0B dividends)\n* Q4 dividend lifted 5% to **$1.71/share**\n* ACN **+~18% to $217.86** (prior close $183.37)\n\nFY27 guide:\n\n1. **Revenue growth 3–6% local currency** — above FY26's 5% LC pace\n2. **Diluted EPS $14.39–$14.81** (+6–9% over FY26 GAAP)\n3. **Adjusted EPS +3–6%** over FY26 adjusted\n4. **≥$9.5B returned to shareholders** in FY27\n\nContext: Q3 FY26 in June guided FY26 LC growth to 3–4% and sent ACN **-14% premarket**. Today's print resets the IT-services growth narrative and is a positive read-through to IBM, Cognizant, Infosys and Capgemini ahead of their own prints.\n\nFull breakdown: [https://stock-tldr.xyz/releases/acn-q4-fy26-earnings-oct-1-2026](https://stock-tldr.xyz/releases/acn-q4-fy26-earnings-oct-1-2026)"
+      },
+      "publishDate": "2026-10-01T17:50:51.868Z"
+    },
+    {
+      "id": "us-ism-mfg-sep-2026-oct-1",
+      "categories": [
+        "macro"
+      ],
+      "title": "US September 2026 ISM Manufacturing PMI — 54.5 vs 55.0 est (Thu Oct 1) — 9th straight month of expansion; New Orders accelerate to 55.3, Prices climb further; 10Y yield pulls back from 24-year high",
+      "org": "Institute for Supply Management",
+      "date": "2026-10-01",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
+      "summary": "US ISM Manufacturing PMI 54.5% in September (vs 55.0 est, 54.6 prior) — 9th straight month in expansion. New Orders accelerate 1.6pt to 55.3; Production eases to 56.7; Employment adds 1.5pt. Prices climb further. Overall economy grew for 23rd straight month. 10Y yield eases from its 24-year high.",
+      "tickers": [],
+      "metrics": {
+        "Headline PMI": "54.5% vs 55.0 est (54.6 August)",
+        "New Orders": "55.3 (+1.6 pt from 53.7)",
+        "Production": "56.7 (-1.6 pt from 58.3)",
+        "Employment": "expansion, +1.5 pt",
+        "Prices": "climbed further",
+        "Manufacturing expansion": "9th straight month",
+        "Overall economy expansion": "23rd straight month",
+        "Sentiment ratio": "40% positive / 60% negative comments"
+      },
+      "tags": [
+        "ism",
+        "pmi",
+        "manufacturing",
+        "macro",
+        "september-2026",
+        "prices-paid",
+        "new-orders",
+        "yields",
+        "rate-outlook",
+        "data-print"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Factory activity holds in expansion for a 9th straight month at 54.5, new orders accelerate, but prices paid keep climbing — mixed message for the yield spike.",
+        "whatIsIt": "The ISM released its September 2026 Manufacturing PMI on October 1 at 10:00 AM ET. The headline printed at 54.5%, 0.1 pt below August's 54.6% and below the 55.0 consensus — the ninth consecutive month of expansion in US manufacturing. The ISM says the overall economy continued to expand for the 23rd month in a row.",
+        "howItWorks": "New Orders accelerated to 55.3 (+1.6 pt), the 9th straight expansion reading. Production eased to 56.7 (-1.6 pt) but marked its 11th straight month in expansion. Employment stayed in expansion and gained 1.5 pt. Prices Paid climbed further from August's level, keeping price pressures top of mind. The positive-to-negative comment ratio from supply managers was 40%/60% (1-to-1.6).",
+        "whyItMatters": "The softer headline + still-sticky prices nudged traders to dial back how aggressively the Fed will raise rates near-term, pulling the 10Y Treasury yield back from the 24-year high (5.29%) it set the day before. For stocks it's a push — growth is holding up, but the prices sub-index keeps the hawkish Fed path alive. Watch Friday's September jobs report for the next signal on how fast the labor market is cooling.",
+        "forWho": "macro traders, rates desks, cyclicals/industrials",
+        "tryIt": "https://fred.stlouisfed.org/series/NAPM"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS349053/INSTITUTE-FOR-SUPPLY-MANAGEMENT-LOGO-v1.jpg?id=OA2974065&p=facebook",
+        "alt": "Institute for Supply Management ISM logo for the September 2026 Manufacturing PMI report",
+        "fit": "contain",
+        "credit": "Institute for Supply Management / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "ISM Press Release (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html"
+        },
+        {
+          "label": "ActionForex Recap",
+          "url": "https://www.actionforex.com/contributors/fundamental-analysis/656084-ism-manufacturing-holds-firm-as-demand-improves-and-price-pressures-intensify/"
+        },
+        {
+          "label": "InvestingLive Headline",
+          "url": "https://investinglive.com/news/us-september-ism-manufacturing-54-5-vs-55-0-expected/"
+        },
+        {
+          "label": "FRED Manufacturing PMI",
+          "url": "https://fred.stlouisfed.org/series/NAPM"
+        }
+      ],
+      "reddit": {
+        "title": "US ISM Manufacturing PMI 54.5 in September vs 55.0 est — 9th straight month of expansion, New Orders accelerate to 55.3, Prices keep climbing",
+        "body": "The ISM September Manufacturing PMI landed softer than the Street looked for but is still clearly in expansion. Here's the tape:\n\n* **Headline PMI 54.5%** vs 55.0 est, 54.6 in August — 9th straight month in expansion\n* **New Orders 55.3** (+1.6 pt from 53.7) — 9th straight month of order growth\n* **Production 56.7** (-1.6 pt from 58.3) — 11th straight month of expansion\n* **Employment** stayed in expansion, +1.5 pt\n* **Prices Paid** climbed further from August — still-sticky input inflation\n* Overall economy expanded for a **23rd straight month**\n\nThe mix tells a split story:\n\n1. **Demand is firming** — the New Orders acceleration is the real signal in the report\n2. **Prices are still hot** — keeps the Fed hawkish-tilt alive even as the headline missed\n3. **Yield reaction** — the 10Y Treasury pulled back from the 24-year high (5.29%) it set the day before as traders trimmed hike bets\n\nNext catalysts: September nonfarm payrolls Friday Oct 2 (challenger said layoffs fewest for Sept since 2022), then ISM Services on Oct 5.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ism-mfg-sep-2026-oct-1](https://stock-tldr.xyz/releases/us-ism-mfg-sep-2026-oct-1)"
+      },
+      "publishDate": "2026-10-01T17:50:51.868Z"
+    },
+    {
+      "id": "vicr-q3-2026-guide-raise-sep-30-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Vicor (VICR) +~11% AH Wed Sept 30 — raises Q3 2026 sequential revenue growth guide to >30% from >20% as new non-exclusive license to Vertical Power Delivery (VPD) technology drives higher royalties",
+      "org": "Vicor Corporation",
+      "date": "2026-09-30",
+      "url": "https://www.stocktitan.net/news/VICR/vicor-corporation-raises-q3-2026-revenue-itqdkfftslv3.html",
+      "summary": "Vicor (VICR) raised its Q3 2026 sequential revenue growth guide to >30% from >20% after the close on Sept 30 — the second hike in ~10 days — citing higher royalties from the first non-exclusive license to its Vertical Power Delivery (VPD) technology. VICR +~11% in after-hours trading.",
+      "tickers": [
+        "VICR"
+      ],
+      "metrics": {
+        "New Q3 2026 sequential growth guide": ">30%",
+        "Prior Q3 2026 sequential growth guide": ">20% (raised Sept 21 from near 10%)",
+        "AH move": "+~11%",
+        "Driver": "Royalties from first non-exclusive VPD technology license"
+      },
+      "tags": [
+        "guidance-raise",
+        "mover",
+        "small-cap",
+        "power-electronics",
+        "ai-infrastructure",
+        "licensing",
+        "royalty",
+        "vpd",
+        "data-center",
+        "september-2026"
+      ],
+      "importance": "notable",
+      "explainer": {
+        "tagline": "Vicor hikes Q3 sequential growth guidance to >30% in its second raise this month, as a non-exclusive VPD license converts into material royalty revenue.",
+        "whatIsIt": "After the close on September 30, Vicor Corporation lifted its Q3 2026 revenue outlook, now guiding sequential growth to more than 30% from the prior 'more than 20%' bar. This is the second raise in about ten days: on September 21, the company lifted the same metric from 'near 10%' to 'more than 20%' after announcing a new AI OEM licensee.",
+        "howItWorks": "The driver is higher expected royalty income from the first non-exclusive license to Vicor's Vertical Power Delivery (VPD) architecture, which mounts current multipliers directly beneath high-performance processors to cut power loss in dense AI racks. CEO Patrizio Vinciarelli has previously said four OEMs and hyperscalers hold licenses to Vicor's power system technology. VICR traded up ~11% in Wednesday's after-hours session on the revised guide.",
+        "whyItMatters": "The jump from 'low double-digit' sequential growth in mid-September to '>30%' by month-end implies the VPD licensing + royalty stream is materially larger than modeled — a tell on how aggressively AI OEMs are standing up new-architecture power delivery. Reads through to peers in the AI-rack power supply chain (MPWR, POWI, SMTC, VRT) as the VPD architecture spreads beyond its first licensee.",
+        "forWho": "small-cap AI power plays, semiconductor power desks, royalty-model investors",
+        "tryIt": "https://finance.yahoo.com/quote/VICR/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Vicor_Corporation_Raises_Q3_2026_Revenue_Guidance_1510763.webp",
+        "alt": "Vicor Corporation press release cover image announcing raised Q3 2026 revenue guidance",
+        "fit": "cover",
+        "credit": "Vicor / StockTitan"
+      },
+      "links": [
+        {
+          "label": "Vicor Press Release",
+          "url": "https://www.stocktitan.net/news/VICR/vicor-corporation-raises-q3-2026-revenue-itqdkfftslv3.html"
+        },
+        {
+          "label": "Benzinga Recap",
+          "url": "https://www.benzinga.com/markets/guidance/26/10/62099302/vicor-stock-soars-11-on-another-outlook-hike"
+        },
+        {
+          "label": "GlobeNewswire via Manila Times",
+          "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/vicor-corporation-raises-q3-2026-revenue-guidance/2436573"
+        },
+        {
+          "label": "VICR Quote",
+          "url": "https://finance.yahoo.com/quote/VICR/"
+        }
+      ],
+      "reddit": {
+        "title": "Vicor (VICR) raises Q3 2026 sequential revenue growth guide to >30% from >20% — second hike this month on VPD license royalties — stock +~11% AH",
+        "body": "Vicor just hiked Q3 2026 sequential revenue growth guidance for the second time in roughly ten days as a licensing deal on its Vertical Power Delivery (VPD) technology converts into royalty revenue:\n\n* **New Q3 2026 sequential growth guide: >30%** (prior: >20%)\n* **Second raise this month** — Sep 21 hike was from \"near 10%\" to \">20%\" after signing a new AI OEM licensee\n* **Driver:** higher royalties from the first non-exclusive license to **Vertical Power Delivery (VPD)** — current-multiplier chips mounted directly beneath high-performance processors to cut power loss in dense AI racks\n* **CEO Patrizio Vinciarelli** has previously said **four OEMs and hyperscalers** hold licenses to Vicor's power system tech\n* **VICR +~11%** in Wednesday's after-hours session\n\nWhy it matters: going from \"low double-digit\" sequential growth guidance to \">30%\" inside a month means the VPD royalty stream is materially larger than modeled — a signal that AI OEMs are standing up new-architecture power delivery faster than priced. Read-throughs to MPWR, POWI, SMTC and VRT as VPD spreads beyond its first licensee.\n\nFull breakdown: [https://stock-tldr.xyz/releases/vicr-q3-2026-guide-raise-sep-30-2026](https://stock-tldr.xyz/releases/vicr-q3-2026-guide-raise-sep-30-2026)"
+      },
+      "publishDate": "2026-10-01T17:50:51.868Z"
+    },
+    {
+      "id": "snps-investor-day-2026-oct-1",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Synopsys (SNPS) +10.6% to $480.98 Thu Oct 1 — 2026 Investor Day unveils multi-year OpenAI 'GPT-Synopsys' revenue-share partnership, FY27 revenue guide $11.1–$11.2B vs ~$10.8B Street est, mid-teens revenue CAGR through FY30, ~$1B buyback (up to 50% of FCF)",
+      "org": "Synopsys",
+      "date": "2026-10-01",
+      "url": "https://www.prnewswire.com/news-releases/synopsys-details-growth-strategy-and-long-term-financial-model-at-2026-investor-day-302894684.html",
+      "summary": "Synopsys 2026 Investor Day (Oct 1) — FY27 revenue guide $11.10–$11.20B (~15% growth) vs ~$10.8B Street; new OpenAI 'GPT-Synopsys' revenue-share partnership for AI chip design; raises long-term FY27–FY30 model to mid-teens revenue growth, operating margins approaching 50%, EPS/FCF +mid-20%; new ~$1B buyback. SNPS +10.59% to $480.98.",
+      "tickers": [
+        "SNPS",
+        "ANSS",
+        "CDNS"
+      ],
+      "metrics": {
+        "FY27 Revenue Guide": "$11.10–$11.20B (+~15% Y/Y, midpoint ~$11.15B)",
+        "Street Est": "~$10.81B",
+        "Long-term FY27–FY30 revenue CAGR": "mid-teens",
+        "Long-term operating margin": "approaching 50%",
+        "Long-term EPS & FCF CAGR": "mid-20%",
+        "Buyback authorization": "~$1B (up to 50% of FCF)",
+        "AWS deal (announced Sept 30)": ">$1B multi-year IP + license-plus-royalty",
+        "Stock move": "+10.59% to $480.98",
+        "Deutsche Bank PT (new / old)": "$640 / $590",
+        "Rosenblatt PT (new / old)": "$620 / $575"
+      },
+      "tags": [
+        "investor-day",
+        "guidance",
+        "openai",
+        "ai-chip-design",
+        "eda",
+        "semis",
+        "buyback",
+        "long-term-model",
+        "sell-side-upgrade",
+        "fy27-guide",
+        "october-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "At Synopsys' 2026 Investor Day, FY27 revenue guide of $11.1–$11.2B lands above Street, an OpenAI 'GPT-Synopsys' partnership slots AI into the design flow, and a new ~$1B buyback adds a capital kicker.",
+        "whatIsIt": "Synopsys held its 2026 Investor Day on October 1. Management guided FY27 (year ending Oct 31, 2027) revenue to $11.10–$11.20B — ~15% Y/Y growth at the midpoint — above the ~$10.81B Street consensus. Alongside the guide, Synopsys announced a multi-year revenue-share partnership with OpenAI to build 'GPT-Synopsys,' an AI model for chip design.",
+        "howItWorks": "The long-term FY27–FY30 financial model targets mid-teens annual revenue growth, operating margins approaching 50%, and EPS and free cash flow growth in the mid-20% range. The board authorized a new ~$1B share buyback (up to 50% of FCF). This builds on the Sept 30 announcement of a >$1B multi-year custom-silicon IP + license-plus-royalty deal with Amazon covering Nitro, Graviton and Trainium chip families. Deutsche Bank raised its price target to $640 (from $590); Rosenblatt lifted its target to $620 (from $575).",
+        "whyItMatters": "The OpenAI partnership positions Synopsys at the center of the AI-model-plus-EDA stack — a direct answer to Cadence and the custom-silicon push at hyperscalers. The FY27 guide and 2030 model reset the growth bar after the Ansys-integration jitters that dragged shares earlier in 2026. SNPS popped 10.59% to $480.98; the capital-return addition sweetens the setup for long-only holders.",
+        "forWho": "semis desks, EDA/IP analysts, AI-infrastructure traders",
+        "tryIt": "https://finance.yahoo.com/quote/SNPS/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS643179/Synopsys-CA-Headquarters-v1.jpg?id=OA2978639&p=facebook",
+        "alt": "Synopsys corporate headquarters image accompanying the 2026 Investor Day press release",
+        "fit": "cover",
+        "credit": "Synopsys / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "Synopsys Press Release",
+          "url": "https://www.prnewswire.com/news-releases/synopsys-details-growth-strategy-and-long-term-financial-model-at-2026-investor-day-302894684.html"
+        },
+        {
+          "label": "Investor Day Recap (Yahoo)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-investor-day-lifts-2030-220227448.html"
+        },
+        {
+          "label": "Analyst Reaction (24/7)",
+          "url": "https://247wallst.com/investing/2026/10/01/synopsys-investor-day-impresses-bofa-and-keybanc-driving-higher-price-targets-and-stronger-growth-outlook/"
+        },
+        {
+          "label": "SNPS Quote",
+          "url": "https://finance.yahoo.com/quote/SNPS/"
+        }
+      ],
+      "reddit": {
+        "title": "Synopsys 2026 Investor Day: FY27 revenue guide $11.1–$11.2B vs ~$10.8B est, OpenAI 'GPT-Synopsys' partnership, ~$1B buyback — SNPS +10.6% to $480.98",
+        "body": "Synopsys ripped on the back of a FY27 guide that beat consensus by ~3%, a long-term model that lifts the 2030 bar, and a partnership that puts Synopsys inside the OpenAI stack:\n\n* **FY27 revenue guide: $11.10–$11.20B** (~15% Y/Y midpoint) vs ~**$10.81B** Street\n* **OpenAI partnership** — multi-year revenue-share deal to build **'GPT-Synopsys,'** an AI model purpose-built for chip design\n* **Long-term FY27–FY30 model** — mid-teens annual revenue growth, operating margins **approaching 50%**, EPS and FCF growing **mid-20%**\n* **~$1B buyback authorization** (up to 50% of FCF)\n* **AWS deal (Sept 30)** — >$1B multi-year IP + license-plus-royalty across Nitro, Graviton and Trainium\n* **SNPS +10.59% to $480.98**\n* **Deutsche Bank PT $640** (from $590); **Rosenblatt $620** (from $575)\n\nWhy it matters:\n\n1. **OpenAI puts SNPS inside the AI stack** — direct answer to CDNS and the custom-silicon push at hyperscalers\n2. **FY27 guide + 2030 model** reset growth after the Ansys-integration jitters that dragged shares earlier in 2026\n3. **Buyback + mid-20% EPS/FCF growth** sweeten the setup for long-only holders\n\nFull breakdown: [https://stock-tldr.xyz/releases/snps-investor-day-2026-oct-1](https://stock-tldr.xyz/releases/snps-investor-day-2026-oct-1)"
+      },
+      "publishDate": "2026-10-01T17:50:51.868Z"
+    },
+    {
+      "id": "ctva-vylr-spin-off-complete-oct-1-2026",
+      "categories": [
+        "mna",
+        "sector"
+      ],
+      "title": "Corteva (CTVA) completes Vylor (VYLR) seed/genetics spin-off Thu Oct 1 — 1-for-1 pro-rata distribution to CTVA holders of record Sept 24; VYLR begins NYSE regular-way trading, targets $11.2–$11.9B FY29 net sales and $3.3–$3.7B FY29 operating EBITDA",
+      "org": "Corteva",
+      "date": "2026-10-01",
+      "url": "https://www.prnewswire.com/news-releases/vylor-completes-spin-launches-as-a-standalone-advanced-seed-and-genetics-market-leader-302895126.html",
+      "summary": "Corteva (CTVA) completed the tax-free spin-off of its seed/genetics business Vylor (NYSE: VYLR) on Oct 1 — 1-for-1 pro-rata distribution to CTVA holders of record Sept 24. CTVA now a pure-play crop-protection company; Vylor begins regular-way NYSE trading and targets FY29 net sales $11.2–$11.9B and operating EBITDA $3.3–$3.7B.",
+      "tickers": [
+        "CTVA",
+        "VYLR"
+      ],
+      "metrics": {
+        "Distribution ratio": "1 VYLR share per CTVA share (pro-rata, tax-free)",
+        "Record date": "September 24, 2026",
+        "Distribution date": "October 1, 2026 (before 9:30 AM ET)",
+        "VYLR listing": "NYSE regular-way as of Oct 1",
+        "Vylor FY29 net sales target": "$11.2–$11.9B (3–4% CAGR)",
+        "Vylor FY29 operating EBITDA target": "$3.3–$3.7B",
+        "Vylor 2027 gross licensing income target": ">$500M",
+        "Vylor long-term licensing target": ">$1B by 2035, approaching $2B by 2040",
+        "VYLR day-1 move": "+3.33% at open, intraday peak +9.0%, latest $68.90"
+      },
+      "tags": [
+        "spin-off",
+        "corporate-action",
+        "mna",
+        "ag",
+        "seeds",
+        "genetics",
+        "crop-protection",
+        "pure-play",
+        "ipo-adjacent",
+        "ctva",
+        "vylr",
+        "october-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Corteva splits in two: the seed-and-genetics business trades as Vylor (VYLR) on NYSE from Oct 1, leaving a pure-play crop-protection Corteva.",
+        "whatIsIt": "Corteva completed the tax-free spin-off of its seed and genetics operating segment into Vylor Inc. on October 1, 2026. Each Corteva stockholder of record as of the close of business on September 24 received one share of Vylor common stock for every share of CTVA held. VYLR began regular-way trading on the NYSE at the open on October 1.",
+        "howItWorks": "The split is a pro-rata dividend of all outstanding Vylor shares, intended to be tax-free for US federal income tax purposes (except cash in lieu of fractional shares). Corteva's board waived a 'Legal Restraints Condition' on September 30 after a federal appeals court denied California's last-minute motion to block the separation. Post-split, Corteva keeps the crop-protection business (biologicals, nature-based products); Vylor runs seeds, germplasm, gene editing, hybrid wheat and biofuels.",
+        "whyItMatters": "Vylor at launch targets FY29 net sales of $11.2–$11.9B (3–4% CAGR) and operating EBITDA of $3.3–$3.7B, with licensing income from Vylor One projected >$500M in 2027 and >$1B by 2035. Day-one VYLR opened +3.33% with an intraday peak +9.0% to around $68.90, while CTVA's quoted price mechanically reset to reflect the distribution (previous close $77.65). Comps: BG, ADM on the ag side; CTVA now narrower in scope and more comparable to FMC/SMG.",
+        "forWho": "ag/food traders, spin-off desks, long-only CTVA holders",
+        "tryIt": "https://finance.yahoo.com/quote/VYLR/"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1996601/Vylor_Wordmark_Graphite_RGB.jpg?id=OA2971517&p=facebook",
+        "alt": "Vylor corporate wordmark used in the October 1 2026 spin-off completion press release",
+        "fit": "contain",
+        "credit": "Vylor / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "Vylor Spin-Off Completion Press Release",
+          "url": "https://www.prnewswire.com/news-releases/vylor-completes-spin-launches-as-a-standalone-advanced-seed-and-genetics-market-leader-302895126.html"
+        },
+        {
+          "label": "Corteva Board Approves Distribution (Sep 14)",
+          "url": "https://www.prnewswire.com/news-releases/corteva-board-of-directors-approves-vylor-distribution-302876601.html"
+        },
+        {
+          "label": "Stock Spinoffs Writeup",
+          "url": "https://www.stockspinoffs.com/2026/09/14/corteva-vylor-spinoff-october-1/"
+        },
+        {
+          "label": "VYLR Quote",
+          "url": "https://finance.yahoo.com/quote/VYLR/"
+        },
+        {
+          "label": "CTVA Quote",
+          "url": "https://finance.yahoo.com/quote/CTVA/"
+        }
+      ],
+      "reddit": {
+        "title": "Corteva completes Vylor (VYLR) spin-off: seed/genetics business trades on NYSE from Oct 1, 1-for-1 to CTVA holders — Vylor targets $11.2–$11.9B FY29 net sales",
+        "body": "Corteva officially split into two public companies today. Here's the mechanics:\n\n* **Distribution ratio:** 1 Vylor (NYSE: VYLR) share per Corteva (NYSE: CTVA) share held at the close of Sept 24 (record date)\n* **Distribution:** completed before 9:30 AM ET on **October 1, 2026**, intended tax-free for US federal purposes (except cash in lieu of fractional shares)\n* **VYLR** begins regular-way NYSE trading; **CTVA**'s quoted price mechanically resets to reflect the distribution (prior close $77.65)\n* VYLR opened **+3.33%**, intraday peak **+9.0%**, latest around **$68.90**\n\nWhat each company does now:\n\n1. **Corteva (CTVA)** — pure-play crop protection: biologicals, nature-based solutions, differentiated ag chemistry\n2. **Vylor (VYLR)** — advanced seeds and genetics: germplasm, gene editing, hybrid wheat, biofuels, licensing (Vylor One)\n\nVylor's day-1 financial targets:\n\n* **FY29 net sales $11.2–$11.9B** (3–4% CAGR)\n* **FY29 operating EBITDA $3.3–$3.7B**\n* **2027 gross licensing income >$500M**; **>$1B by 2035**; approaching **$2B by 2040**\n\nLegal context: the board waived the Legal Restraints Condition on Sept 30 after a federal appeals court denied California's motion to block the separation. Comps: CTVA is now narrower, more comparable to FMC/SMG; VYLR comparables are BG, ADM on ag.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ctva-vylr-spin-off-complete-oct-1-2026](https://stock-tldr.xyz/releases/ctva-vylr-spin-off-complete-oct-1-2026)"
+      },
+      "publishDate": "2026-10-01T17:50:51.868Z"
+    },
     {
       "id": "mu-q4-fy26-earnings-sep-30-2026",
       "categories": [

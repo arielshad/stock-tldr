@@ -13125,6 +13125,58 @@
         "macro",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261001t175051z",
+      "timestamp": "2026-10-01T17:50:51.868Z",
+      "source": "github-actions-sweep",
+      "summary": "Oct 1 2026 sweep adds five items: Accenture Q4 FY26 beat and record bookings (+~18%), US ISM September Manufacturing PMI 54.5 vs 55.0 est with sticky prices, Vicor's second Q3 guidance hike this month on VPD license royalties (+~11% AH), Synopsys' 2026 Investor Day with OpenAI 'GPT-Synopsys' partnership and FY27 $11.1–$11.2B guide (+10.6%), and the Corteva/Vylor seed-and-genetics spin-off completion.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "acn-q4-fy26-earnings-oct-1-2026",
+          "title": "Accenture (ACN) Q4 FY26 (Thu Oct 1 premarket) — $18.70B revenue (+7% LC) above $17.75–18.40B guide and GAAP diluted EPS $3.29 (+46% Y/Y); record $84.5B FY26 bookings; FY27 guide 3–6% LC revenue growth and $14.39–$14.81 diluted EPS; ACN +~18% to $217.86",
+          "category": "earnings",
+          "note": "Mega-cap IT-services beat with record $84.5B FY26 bookings and FY27 guide 3–6% LC growth; stock +~18% to $217.86 confirms broad-based reset after June Q3 miss."
+        },
+        {
+          "id": "us-ism-mfg-sep-2026-oct-1",
+          "title": "US September 2026 ISM Manufacturing PMI — 54.5 vs 55.0 est (Thu Oct 1) — 9th straight month of expansion; New Orders accelerate to 55.3, Prices climb further; 10Y yield pulls back from 24-year high",
+          "category": "macro",
+          "note": "ISM-wide primary macro print on Oct 1; softer headline + still-sticky prices paid pulled 10Y yield back from 24-year high."
+        },
+        {
+          "id": "vicr-q3-2026-guide-raise-sep-30-2026",
+          "title": "Vicor (VICR) +~11% AH Wed Sept 30 — raises Q3 2026 sequential revenue growth guide to >30% from >20% as new non-exclusive license to Vertical Power Delivery (VPD) technology drives higher royalties",
+          "category": "mover",
+          "note": "Second Q3 guide hike this month on new VPD license royalties; small-cap AI-power mover with +~11% AH move."
+        },
+        {
+          "id": "snps-investor-day-2026-oct-1",
+          "title": "Synopsys (SNPS) +10.6% to $480.98 Thu Oct 1 — 2026 Investor Day unveils multi-year OpenAI 'GPT-Synopsys' revenue-share partnership, FY27 revenue guide $11.1–$11.2B vs ~$10.8B Street est, mid-teens revenue CAGR through FY30, ~$1B buyback (up to 50% of FCF)",
+          "category": "mover",
+          "note": "Distinct from the Sept 30 premarket AWS-deal entry — Investor Day adds OpenAI 'GPT-Synopsys' revenue-share, FY27 $11.1–$11.2B guide, long-term 2030 model, and ~$1B buyback; +10.6% move."
+        },
+        {
+          "id": "ctva-vylr-spin-off-complete-oct-1-2026",
+          "title": "Corteva (CTVA) completes Vylor (VYLR) seed/genetics spin-off Thu Oct 1 — 1-for-1 pro-rata distribution to CTVA holders of record Sept 24; VYLR begins NYSE regular-way trading, targets $11.2–$11.9B FY29 net sales and $3.3–$3.7B FY29 operating EBITDA",
+          "category": "mna",
+          "note": "Primary ag-sector corporate action: 1-for-1 tax-free spin-off of Corteva's seed/genetics unit into Vylor (NYSE: VYLR); CTVA now pure-play crop protection."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "sector"
+      ]
     }
   ]
 }
