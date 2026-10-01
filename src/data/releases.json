@@ -1,8 +1,251 @@
 {
-  "generatedAt": "2026-09-30T17:18:20.451Z",
+  "generatedAt": "2026-10-01T02:57:06.950Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mu-q4-fy26-earnings-sep-30-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Micron (MU) Q4 FY26 (AH Wed Sept 30) — record $54.23B revenue (+379% Y/Y from $11.32B) and non-GAAP EPS $33.42 vs $31.61 est; Q1 FY27 guide $61.5B ±$1.5B vs $57B est with $38.15 non-GAAP EPS vs $35.40 est; MU -0.28% AH to $1,071.92 on raised fiscal 2027 capex plan",
+      "org": "Micron Technology",
+      "date": "2026-09-30",
+      "url": "https://www.globenewswire.com/news-release/2026/09/30/3372366/14450/en/micron-technology-inc-reports-record-fiscal-fourth-quarter-and-full-year-2026-results.html",
+      "summary": "Micron Q4 FY26 (AH Sept 30) — record $54.23B rev (+379% Y/Y from $11.32B), non-GAAP EPS $33.42 vs $31.61 est, FY26 rev $133.2B (+256% Y/Y). Q1 FY27 guide $61.5B ±$1.5B vs $57B est, non-GAAP EPS $38.15 vs $35.40 est. MU -0.28% AH to $1,071.92 as raised FY27 capex plan tempers the beat.",
+      "tickers": [
+        "MU",
+        "NVDA",
+        "AVGO",
+        "SNDK",
+        "WDC"
+      ],
+      "metrics": {
+        "Revenue": "$54.23B (+379% Y/Y from $11.32B)",
+        "GAAP EPS": "$32.87",
+        "Non-GAAP EPS": "$33.42 vs $31.61 est",
+        "Operating cash flow": "$43.97B",
+        "FY26 revenue": "$133.2B (+256% Y/Y)",
+        "Cloud Memory Q4": "$16.28B",
+        "Core Data Center Q4": "$18.00B",
+        "Mobile & Client Q4": "$13.11B",
+        "Automotive & Embedded Q4": "$6.82B",
+        "Q1 FY27 revenue guide": "$61.5B ±$1.5B vs $57B est",
+        "Q1 FY27 non-GAAP EPS guide": "$38.15 ±$1.00 vs $35.40 est",
+        "Q1 FY27 non-GAAP gross margin guide": "~86.25%",
+        "AH move": "-0.28% to $1,071.92 (regular close $1,074.95)"
+      },
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guide-raise",
+        "memory",
+        "hbm",
+        "dram",
+        "nand",
+        "ai-memory",
+        "data-center",
+        "hyperscaler",
+        "semis",
+        "capex",
+        "q4-fy26",
+        "september-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Micron caps fiscal 2026 with a record $54.23B quarter — DRAM demand from AI data centers lifted Q4 revenue nearly 5x year-over-year, with Q1 FY27 guided to $61.5B.",
+        "whatIsIt": "Micron reported fiscal Q4 2026 results (quarter ended September 3) after the close on September 30. Revenue hit a record $54.23B vs $51.07B Street, non-GAAP EPS $33.42 vs $31.61 est, and operating cash flow $43.97B. For the full year, revenue reached $133.2B — a 256% jump from fiscal 2025.",
+        "howItWorks": "The four business units: Cloud Memory $16.28B, Core Data Center $18.00B, Mobile & Client $13.11B, Automotive & Embedded $6.82B. Q4 revenue grew from $11.32B a year earlier (+379%) and from $41.46B in Q3 (+31%). Q1 FY27 guidance: revenue $61.5B ±$1.5B vs $57B est, GAAP EPS $37.84 ±$1.00, non-GAAP EPS $38.15 ±$1.00 vs $35.40 est, non-GAAP gross margin ~86.25%. CEO Sanjay Mehrotra said Micron plans to increase fiscal 2027 capex vs prior plans, citing DRAM cleanroom needs and greater visibility from strategic customer agreements.",
+        "whyItMatters": "Q1 FY27 guided revenue of $61.5B tops Street by ~8% and non-GAAP EPS by ~8%, extending the 'beat-and-raise' streak that drove MU past $1,000 earlier in the year. The muted AH response (-0.28% to $1,071.92) came as the capex hike signaled Mehrotra is prioritizing supply durability over near-term margins. Read-throughs: NVDA (HBM demand confirmation), AVGO + the broader AI capex trade, SNDK and WDC (NAND halo), and the HBM/DRAM supply chain through calendar 2027–2028.",
+        "forWho": "semiconductor desks, AI capex traders, memory cycle followers",
+        "tryIt": "https://finance.yahoo.com/quote/MU/"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/7b41b567-5fa9-4dee-8bcb-9ea728ca57ee",
+        "alt": "Micron Technology Q4 FY2026 record earnings announcement header on September 30 2026",
+        "fit": "contain",
+        "credit": "Micron Technology / GlobeNewswire"
+      },
+      "links": [
+        {
+          "label": "Press Release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3372366/14450/en/micron-technology-inc-reports-record-fiscal-fourth-quarter-and-full-year-2026-results.html"
+        },
+        {
+          "label": "8-K Press Release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm"
+        },
+        {
+          "label": "CNBC Earnings Recap",
+          "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html"
+        },
+        {
+          "label": "Prepared Remarks (PDF)",
+          "url": "https://s25.q4cdn.com/621799436/files/doc_financials/2026/q4/Q4-FY26-Prepared-Remarks.pdf"
+        },
+        {
+          "label": "MU Quote",
+          "url": "https://finance.yahoo.com/quote/MU/"
+        }
+      ],
+      "reddit": {
+        "title": "Micron Q4 FY26: record $54.23B revenue (+379% Y/Y) and $33.42 non-GAAP EPS; Q1 FY27 guide $61.5B vs $57B est — stock -0.28% AH as capex plan jumps",
+        "body": "Micron just posted the biggest quarter in its history and guided above Street for next quarter — but the stock barely moved after hours as management flagged a step-up in fiscal 2027 capex.\n\n* Revenue: **$54.23B** (vs **$51.07B est**) — up from $11.32B a year ago\n* GAAP EPS: **$32.87**\n* Non-GAAP EPS: **$33.42** (vs **$31.61 est**)\n* Operating cash flow: **$43.97B**\n* FY26 full-year revenue: **$133.2B** (+256% Y/Y)\n* Cloud Memory **$16.28B** / Core Data Center **$18.00B** / Mobile & Client **$13.11B** / Automotive & Embedded **$6.82B**\n* MU **-0.28% AH** to $1,071.92 (regular close $1,074.95)\n\nQ1 FY27 guide tops consensus top-to-bottom:\n\n1. **Revenue $61.5B ±$1.5B** vs $57B est — ~8% ahead of the Street\n2. **Non-GAAP EPS $38.15 ±$1.00** vs $35.40 est — also ~8% ahead\n3. **Non-GAAP gross margin ~86.25%**\n4. **Higher FY27 capex plan** — CEO Sanjay Mehrotra cites DRAM cleanroom needs and greater visibility from strategic customer agreements\n\nRead-throughs: NVDA (HBM demand reconfirmed), AVGO and the broader AI capex trade, SNDK/WDC on the NAND halo. The muted after-hours response is the tell: a beat-and-raise this big usually rips the stock — the capex hike is what the tape is pricing.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mu-q4-fy26-earnings-sep-30-2026](https://stock-tldr.xyz/releases/mu-q4-fy26-earnings-sep-30-2026)"
+      },
+      "publishDate": "2026-10-01T02:57:06.950Z"
+    },
+    {
+      "id": "fico-fhfa-vantagescore-pricing-grid-sep-29-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Fair Isaac (FICO) -26.5% Tues Sept 29 to $617.87 from $840.89 — biggest one-day drop in decades after FHFA Director Bill Pulte announces Fannie Mae and Freddie Mac moving to a single mortgage pricing grid with VantageScore 4.0 joining FICO Classic",
+      "org": "Fair Isaac",
+      "date": "2026-09-29",
+      "url": "https://finance.yahoo.com/markets/stocks/article/fair-isaac-stock-plunges-20-after-fannie-and-freddie-open-door-to-fico-credit-score-rival-142841650.html",
+      "summary": "FICO -26.5% Tues Sept 29 to $617.87 (prior close $840.89) after FHFA Director Bill Pulte posted Monday night that Fannie Mae and Freddie Mac will move to a single LLPA pricing grid with VantageScore 4.0 joining the existing FICO Classic grid. Rocket Mortgage immediately named VantageScore its preferred model.",
+      "tickers": [
+        "FICO"
+      ],
+      "metrics": {
+        "Move (Sept 29)": "-26.52% to $617.87",
+        "Prior close": "$840.89",
+        "Dollar decline": "-$223.02",
+        "Follow-through (Sept 30)": "-4.11% to $592.47",
+        "52-week high": "$1,998.01",
+        "VantageScore 4.0 prior adjustment removed": "20 points",
+        "GSE share of US mortgage market": "~70%"
+      },
+      "tags": [
+        "mover",
+        "regulatory",
+        "mortgage",
+        "credit-score",
+        "fhfa",
+        "fannie-mae",
+        "freddie-mac",
+        "vantagescore",
+        "pulte",
+        "financials",
+        "fintech",
+        "sept-2026"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "A single tweet from the FHFA ended FICO's exclusive hold on GSE mortgage underwriting — the stock lost roughly a quarter of its value in one session.",
+        "whatIsIt": "Late Monday Sept 28, FHFA Director Bill Pulte announced on X that Fannie Mae and Freddie Mac — which back roughly 70% of US mortgages — will move from two separate loan-level price adjustment (LLPA) grids to a single grid, with VantageScore 4.0 joining the existing FICO Classic grid. FICO shares opened sharply lower Tuesday Sept 29 and closed down 26.5% at $617.87 from a $840.89 prior close.",
+        "howItWorks": "Under the prior framework, VantageScore 4.0 scores carried a 20-point downward adjustment in GSE pricing — effectively protecting FICO's premium pricing on per-pull origination fees. The unified grid removes that 20-point adjustment, so lenders can route to either score with no pricing penalty. FHFA has not yet published a replacement grid or a formal implementation date, but Rocket Mortgage CEO Jay Bray stated: 'Competition is healthy, especially when it can lower costs and expand responsible access to homeownership,' and the company named VantageScore its preferred model. Classic FICO is still required for manually underwritten GSE loans.",
+        "whyItMatters": "FICO's mortgage business runs almost entirely on per-pull origination fees charged to lenders every time they request a Classic FICO score for a GSE-eligible loan. The pricing-grid parity directly threatens that fee stream in a channel that touches the majority of US mortgage originations. The stock extended losses another 4.11% to $592.47 on Sept 30 and now sits more than 70% below its $1,998 52-week high. Read-throughs: TRU and EFX (VantageScore shareholders), lender names citing lower credit-pull costs, and future FHFA / CFPB credit-infrastructure actions.",
+        "forWho": "financials and fintech traders, mortgage-rate watchers, regulatory-arbitrage desks",
+        "tryIt": "https://finance.yahoo.com/quote/FICO/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/a3a56a5d40a00e203f93db43988b8bc90267273e591a23d2b8bb3a262a80adfc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F3c5ec5a1-60a6-40b9-a345-685d4a9ed19d",
+        "alt": "Fair Isaac FICO stock crashes 26.5% on Sept 29 2026 after FHFA announces single mortgage pricing grid with VantageScore",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/article/fair-isaac-stock-plunges-20-after-fannie-and-freddie-open-door-to-fico-credit-score-rival-142841650.html"
+        },
+        {
+          "label": "Pulte on X",
+          "url": "https://x.com/pulte/status/2104671321414099037"
+        },
+        {
+          "label": "HousingWire Analysis",
+          "url": "https://www.housingwire.com/articles/fhfa-gses-one-grid/"
+        },
+        {
+          "label": "Motley Fool Recap",
+          "url": "https://www.fool.com/investing/2026/09/29/why-fair-isaac-corporation-plunged-today/"
+        },
+        {
+          "label": "FICO Quote",
+          "url": "https://finance.yahoo.com/quote/FICO/"
+        }
+      ],
+      "reddit": {
+        "title": "FICO -26.5% to $617.87 Tuesday — biggest one-day drop in decades after FHFA ends VantageScore's 20-point mortgage pricing penalty; Rocket Mortgage immediately names VantageScore preferred",
+        "body": "A single X post from FHFA Director Bill Pulte collapsed FICO's quarter-century lock on GSE mortgage underwriting fees.\n\n* FICO closed **-26.52% at $617.87** on Tuesday Sept 29 (from $840.89 prior close) — a dollar drop of **$223.02**\n* Stock extended **-4.11% to $592.47** on Wednesday Sept 30\n* Now **~70% below** the $1,998 52-week high\n* Fannie + Freddie back **~70%** of all US mortgages\n* Rocket Mortgage CEO Jay Bray immediately named VantageScore his preferred model\n\nWhat Pulte actually changed:\n\n1. **Single pricing grid** — Fannie and Freddie are collapsing two separate LLPA grids into one, with VantageScore 4.0 joining the existing FICO Classic grid\n2. **20-point adjustment removed** — VantageScore scores previously carried a 20-point downward adjustment vs Classic FICO, giving FICO de facto pricing exclusivity. Gone.\n3. **No implementation date yet** — FHFA has not published the replacement grid or a go-live timestamp. Classic FICO still required for manually underwritten loans.\n4. **Fee model directly hit** — FICO's mortgage business runs on per-pull origination fees charged every time a lender requests a Classic FICO score for a GSE loan\n\nNext catalysts: FHFA's formal grid release and effective date, FICO's response and any next earnings commentary.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fico-fhfa-vantagescore-pricing-grid-sep-29-2026](https://stock-tldr.xyz/releases/fico-fhfa-vantagescore-pricing-grid-sep-29-2026)"
+      },
+      "publishDate": "2026-10-01T02:57:06.950Z"
+    },
+    {
+      "id": "hrl-brakebush-105b-chicken-sep-30-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Hormel Foods (HRL) to acquire Brakebush Brothers for ~$1.055B all-cash (Wed Sept 30) — adds a value-added chicken producer with $1.2B LTM net sales; closes Q1 FY27; HRL +~2% to ~$20.15; accretive to adj EPS starting FY28",
+      "org": "Hormel Foods",
+      "date": "2026-09-30",
+      "url": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-announces-definitive-agreement-to-acquire-brakebush-a-leading-value-added-chicken-company/",
+      "summary": "Hormel Foods (HRL) signs definitive agreement to acquire family-owned Brakebush Brothers for ~$1.055B all-cash (announced Wed Sept 30). Brakebush ran $1.2B in LTM net sales from five production plants and two R&D centers. Deal closes Q1 FY27 pending antitrust clearance. HRL +~2% to ~$20.15; management expects adj-EPS accretion beginning FY28.",
+      "tickers": [
+        "HRL"
+      ],
+      "metrics": {
+        "Deal size": "~$1.055B all-cash",
+        "Brakebush LTM net sales": "$1.2B",
+        "Production plants": 5,
+        "R&D centers": 2,
+        "HRL move (Sept 30)": "+~2% to ~$20.15",
+        "Expected close": "Q1 FY27",
+        "Adj-EPS accretion": "beginning FY28"
+      },
+      "tags": [
+        "mna",
+        "food",
+        "consumer-staples",
+        "chicken",
+        "protein",
+        "foodservice",
+        "all-cash",
+        "sept-2026"
+      ],
+      "importance": "notable",
+      "explainer": {
+        "tagline": "Spam-maker Hormel pays ~$1.055B cash for Brakebush Brothers to bulk up its foodservice chicken platform.",
+        "whatIsIt": "Hormel Foods announced on Wednesday Sept 30 a definitive agreement to acquire Westfield, Wisconsin-based Brakebush Brothers for approximately $1.055B in cash. Brakebush is a non-vertically integrated value-added chicken supplier with roughly $1.2B in LTM net sales, five production plants and two R&D centers.",
+        "howItWorks": "The transaction is structured as an all-cash deal, expected to close in Q1 of Hormel's fiscal 2027 subject to regulatory clearance and customary closing conditions. Hormel expects the acquisition to broaden its direct foodservice sales force and category expertise, lift operational efficiency and improve cash flow — with adjusted-EPS accretion beginning in fiscal 2028. The deal increases near-term leverage. HRL shares rose roughly 2% to about $20.15 on the announcement.",
+        "whyItMatters": "This is Hormel's largest acquisition since Planters, and the first material expansion into chicken against stronger protein-category comps led by Tyson and Pilgrim's Pride. The focus on foodservice (restaurants, QSRs, institutional) is where chicken volumes have grown fastest post-pandemic. For the broader protein complex it is a reminder that packaged-food consolidation is still live, after a run of quiet months in food M&A.",
+        "forWho": "consumer-staples desks, food M&A watchers, protein-complex traders",
+        "tryIt": "https://finance.yahoo.com/quote/HRL/"
+      },
+      "image": {
+        "url": "https://www.hormelfoods.com/wp-content/uploads/Newsroom_20260927_Brakebush.jpg",
+        "alt": "Hormel Foods announces $1.055 billion acquisition of Brakebush Brothers chicken producer on Sept 30 2026",
+        "fit": "cover",
+        "credit": "Hormel Foods"
+      },
+      "links": [
+        {
+          "label": "Hormel Press Release",
+          "url": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-announces-definitive-agreement-to-acquire-brakebush-a-leading-value-added-chicken-company/"
+        },
+        {
+          "label": "8-K Exhibit (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000048465/000110465926112101/tm2626547d1_ex99-1.htm"
+        },
+        {
+          "label": "Benzinga Deal Recap",
+          "url": "https://www.benzinga.com/m-a/26/09/62088644/hormel-strikes-1-06-billion-deal-to-expand-its-chicken-business"
+        },
+        {
+          "label": "HRL Quote",
+          "url": "https://finance.yahoo.com/quote/HRL/"
+        }
+      ],
+      "reddit": {
+        "title": "Hormel (HRL) buying Brakebush Brothers chicken for ~$1.055B cash — adds $1.2B LTM revenue, closes Q1 FY27, HRL +~2%; accretive to adj EPS in FY28",
+        "body": "Spam-maker Hormel Foods is making its biggest acquisition since Planters, pushing deeper into value-added chicken through Wisconsin-based Brakebush Brothers.\n\n* Deal: **~$1.055B all-cash**\n* Brakebush LTM net sales: **$1.2B**\n* **5 production plants, 2 R&D centers**\n* Target close: **Q1 FY27** (pending regulatory clearance)\n* HRL **+~2%** to ~**$20.15** on the day\n* **Accretive to adjusted EPS starting FY28** (near-term leverage rises)\n\nStrategic logic:\n\n1. **Foodservice push** — Brakebush is heavy in restaurant, QSR and institutional channels, the fastest-growing slice of chicken volumes post-pandemic\n2. **Direct sales expansion** — broadens Hormel's foodservice sales force and category expertise\n3. **Protein diversification** — reduces dependence on legacy pork and turkey, moves alongside Tyson and Pilgrim's Pride in a crowded chicken category\n\nFull breakdown: [https://stock-tldr.xyz/releases/hrl-brakebush-105b-chicken-sep-30-2026](https://stock-tldr.xyz/releases/hrl-brakebush-105b-chicken-sep-30-2026)"
+      },
+      "publishDate": "2026-10-01T02:57:06.950Z"
+    },
     {
       "id": "us-pce-aug-2026-sep-30",
       "categories": [

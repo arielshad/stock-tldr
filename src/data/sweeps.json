@@ -13084,6 +13084,47 @@
         "analyst",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20261001t025706z",
+      "timestamp": "2026-10-01T02:57:06.950Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh adds for the Sept 28–Oct 1 window: Micron's record Q4 FY26 (AH Sept 30) with a beat-and-raise but a muted after-hours move on a raised FY27 capex plan; FICO's -26.5% session on Sept 29 after FHFA Director Pulte announced Fannie/Freddie are moving to a single mortgage pricing grid with VantageScore joining FICO Classic; and Hormel's ~$1.055B all-cash acquisition of value-added chicken maker Brakebush Brothers announced Sept 30.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mu-q4-fy26-earnings-sep-30-2026",
+          "title": "Micron (MU) Q4 FY26 (AH Wed Sept 30) — record $54.23B revenue (+379% Y/Y from $11.32B) and non-GAAP EPS $33.42 vs $31.61 est; Q1 FY27 guide $61.5B ±$1.5B vs $57B est with $38.15 non-GAAP EPS vs $35.40 est; MU -0.28% AH to $1,071.92 on raised fiscal 2027 capex plan",
+          "category": "earnings",
+          "note": "Record quarterly print with explicit beat-and-raise and the first management signal of a FY27 capex step-up — major read-through for the entire HBM/AI memory supply chain."
+        },
+        {
+          "id": "fico-fhfa-vantagescore-pricing-grid-sep-29-2026",
+          "title": "Fair Isaac (FICO) -26.5% Tues Sept 29 to $617.87 from $840.89 — biggest one-day drop in decades after FHFA Director Bill Pulte announces Fannie Mae and Freddie Mac moving to a single mortgage pricing grid with VantageScore 4.0 joining FICO Classic",
+          "category": "mover",
+          "note": "Single-day collapse of over a quarter of market cap tied directly to a named FHFA policy change — one of the biggest regulatory-driven single-name moves of the year."
+        },
+        {
+          "id": "hrl-brakebush-105b-chicken-sep-30-2026",
+          "title": "Hormel Foods (HRL) to acquire Brakebush Brothers for ~$1.055B all-cash (Wed Sept 30) — adds a value-added chicken producer with $1.2B LTM net sales; closes Q1 FY27; HRL +~2% to ~$20.15; accretive to adj EPS starting FY28",
+          "category": "mna",
+          "note": "Largest Hormel M&A since Planters and a signal that packaged-food consolidation is reopening after a quiet summer in protein."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "mna",
+        "macro",
+        "crypto"
+      ]
     }
   ]
 }
