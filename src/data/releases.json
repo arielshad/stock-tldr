@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-10-02T02:59:24.389Z",
+  "generatedAt": "2026-10-02T17:01:44.929Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-nfp-sep-2026-oct-2",
+      "categories": [
+        "macro"
+      ],
+      "title": "US September 2026 Jobs Report — NFP +29K vs +84K est (Fri Oct 2), unemployment 4.2% (+0.1pp); July revised to -10K, August to +133K; Fed Oct hike odds collapse to ~20% from 64% a week ago",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-10-02",
+      "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "summary": "September payrolls grew just 29K vs 84K consensus, unemployment rose to 4.2%, and the prior two months were revised 60K lower. October rate-hike odds collapsed and 10Y yields eased.",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^TNX"
+      ],
+      "metrics": {
+        "NFP": "+29K vs +84K est",
+        "Unemployment": "4.2% vs 4.1% est (+0.1pp)",
+        "Avg Hourly Earnings Y/Y": "+3.0% (lowest since May 2021)",
+        "July revision": "+21K → -10K",
+        "August revision": "+162K → +133K",
+        "Health care": "+17K",
+        "Construction": "+11K",
+        "Professional/business services": "-9K",
+        "Financial activities": "-7K",
+        "Oct hike odds": "~20% vs ~64% a week ago",
+        "Nasdaq": "+1.23%",
+        "S&P 500": "+0.75%"
+      },
+      "tags": [
+        "jobs-report",
+        "nfp",
+        "payrolls",
+        "unemployment",
+        "bls",
+        "macro",
+        "fed",
+        "rate-hike",
+        "september-2026",
+        "revisions",
+        "cooling-labor-market"
+      ],
+      "importance": "seismic",
+      "explainer": {
+        "tagline": "September payrolls crater to +29K vs +84K est, July revised to -10K — Fed October hike bets collapse.",
+        "whatIsIt": "BLS released the September 2026 Employment Situation at 8:30am ET Fri Oct 2. Nonfarm payrolls rose just 29K vs the 84K Dow Jones consensus. The unemployment rate ticked up to 4.2% from 4.1%, and average hourly earnings growth slowed to +3.0% Y/Y — the softest annual pace since May 2021.",
+        "howItWorks": "July was revised from +21K to -10K (now negative) and August from +162K to +133K, lowering combined employment by 60K vs prior prints. Health care led with +17K (ambulatory +13K, hospitals +12K); construction added +11K. Professional/business services shed 9K and financial activities -7K. The release was USDL-26-1549.",
+        "whyItMatters": "Prediction markets priced the probability of an October Fed hike at roughly 20%, down from ~64% a week ago. Equities rallied — Nasdaq +1.23% to 27,201.52 (record close territory) and S&P 500 +0.75% to 7,723.59 — on the dovish repricing. The report puts the hawkish FOMC path called by Williams a week ago squarely in doubt.",
+        "forWho": "macro traders, rates desks, Fed watchers",
+        "tryIt": "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "Bureau of Labor Statistics emblem",
+        "fit": "contain",
+        "credit": "U.S. Bureau of Labor Statistics (public domain)"
+      },
+      "links": [
+        {
+          "label": "BLS Archive",
+          "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+        },
+        {
+          "label": "BLS Release PDF",
+          "url": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+        },
+        {
+          "label": "Yahoo Markets",
+          "url": "https://finance.yahoo.com/economy/articles/september-2026-jobs-report-payrolls-123334753.html"
+        },
+        {
+          "label": "10Y Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "September jobs report craters: NFP +29K vs 84K expected, July revised to -10K, unemployment up to 4.2% — Fed October hike odds collapse to ~20%",
+        "body": "BLS dropped September 2026 payrolls at 8:30am ET and the number is ugly.\n\n* Nonfarm payrolls +29K vs +84K Dow Jones consensus\n* Unemployment rate 4.2% vs 4.1% est (up 0.1pp)\n* July revised from +21K to **-10K** (now outright negative)\n* August revised from +162K to +133K — combined 60K hit\n* Average hourly earnings +3.0% Y/Y — slowest since May 2021\n\nWhere the hiring was/wasn't:\n\n1. **Health care did almost all the work** — +17K (ambulatory +13K, hospitals +12K)\n2. **Construction** added +11K\n3. **Professional and business services** -9K, **financial activities** -7K\n\nMarket reaction:\n\n* Prediction markets now price an October Fed hike at **~20%**, down from ~64% a week ago\n* Nasdaq +1.23% to 27,201.52 (record close territory)\n* S&P 500 +0.75% to 7,723.59, Dow +0.44% to 51,148.64\n* 10Y yields eased after sitting at 24-year highs earlier in the week\n\nNext catalysts: October CPI/PPI prints, then Oct 28–29 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-nfp-sep-2026-oct-2](https://stock-tldr.xyz/releases/us-nfp-sep-2026-oct-2)"
+      },
+      "publishDate": "2026-10-02T17:01:44.929Z"
+    },
+    {
+      "id": "tsla-q3-2026-deliveries-oct-2",
+      "categories": [
+        "mover"
+      ],
+      "title": "Tesla (TSLA) +~5.5% to ~$373 Fri Oct 2 — Q3 2026 deliveries 486,532 beat ~462K est; Model 3/Y 478,237, 'Other' models 8,295 (-48% Y/Y); production 464,391; energy storage 13.7 GWh",
+      "org": "Tesla",
+      "date": "2026-10-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm",
+      "summary": "Tesla delivered 486,532 vehicles in Q3 2026, beating the ~462K consensus by ~24K and sending the stock up ~5.5% to ~$373; Model 3/Y did the work while Cybertruck/other fell 48% Y/Y.",
+      "tickers": [
+        "TSLA",
+        "RIVN"
+      ],
+      "metrics": {
+        "Total deliveries": "486,532 vs ~461,974 est",
+        "Total production": "464,391",
+        "Model 3/Y deliveries": "478,237",
+        "Other models deliveries": "8,295 (-48% Y/Y from 15,933)",
+        "Energy storage": "13.7 GWh",
+        "Y/Y change": "-2.1% vs 497,099 Q3 2025",
+        "YTD deliveries": "1,324,681 (+8.8% Y/Y)",
+        "Move": "+~5.5% to ~$373.55",
+        "RIVN": "-3% to $14.28 on in-line Q3"
+      },
+      "tags": [
+        "tesla",
+        "deliveries",
+        "q3-2026",
+        "ev",
+        "cybertruck",
+        "model-3",
+        "model-y",
+        "energy-storage",
+        "beat",
+        "elon-musk"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Tesla's 486,532 Q3 deliveries top the ~462K Street number by ~24K and send TSLA +5.5% premarket despite a 2.1% Y/Y decline.",
+        "whatIsIt": "Tesla released its Q3 2026 production, deliveries and energy-storage report Friday Oct 2 via 8-K. Total deliveries hit 486,532 — about 24K above the ~462K Wall Street consensus and above Tesla's own internal consensus of 461,974. Production came in at 464,391 and energy storage deployments were 13.7 GWh.",
+        "howItWorks": "Model 3/Y did essentially all of the work with 478,237 deliveries, versus a 450,712 analyst survey. The 'Other Models' bucket — Cybertruck, Semi, remaining Model S/X — fell to 8,295 (below the 11,285 expected) and down 48% from the 15,933 a year ago. YTD deliveries are 1,324,681, +8.8% vs the first three quarters of 2025. Energy storage deployments of 13.7 GWh continue the ramp.",
+        "whyItMatters": "TSLA rose ~5.5% to about $373.55 mid-morning. Even with the beat, Q3 trailed the record 497,099 of Q3 2025 (helped then by rush buyers claiming the expiring $7,500 US EV credit), leaving the longer-term growth path contested ahead of the Oct 21 earnings print. Rivian, which reported in-line Q3 numbers, slipped ~3% to $14.28 — a visible premium being paid for a beat versus in-line.",
+        "forWho": "EV investors, auto desks, Nasdaq momentum traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tesla_T_symbol.svg/1280px-Tesla_T_symbol.svg.png",
+        "alt": "Tesla T logo in red",
+        "fit": "contain",
+        "credit": "Tesla / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm"
+        },
+        {
+          "label": "Electrek Recap",
+          "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-surges-5-486-532-145042966.html"
+        },
+        {
+          "label": "Newsquawk Note",
+          "url": "https://www.newsquawk.com/headlines/tesla-tsla-q3-total-deliveries-486532-exp-456-896"
+        },
+        {
+          "label": "TSLA Chart",
+          "url": "https://finance.yahoo.com/quote/TSLA"
+        }
+      ],
+      "reddit": {
+        "title": "Tesla Q3 2026 deliveries 486,532 crush ~462K estimate — TSLA +5.5%, but Cybertruck/Other falls 48% Y/Y",
+        "body": "Tesla's Q3 2026 production and delivery report just dropped and it beat on the headline but tells a split story under the hood.\n\n* Total deliveries: **486,532** vs ~461,974 Street consensus (+~24K beat)\n* Model 3/Y deliveries: 478,237 — doing essentially all the work\n* Other Models (Cybertruck, Semi, S/X remnants): just 8,295 vs ~11,285 expected and down from 15,933 a year ago (-48% Y/Y)\n* Total production: 464,391 — production *below* deliveries, so they drew down inventory\n* Energy storage deployments: 13.7 GWh\n* YTD deliveries 1,324,681, +8.8% vs the first three quarters of 2025\n\nWhat moved:\n\n1. **TSLA +5.5% to ~$373.55** mid-morning on the beat\n2. **RIVN -3% to $14.28** after reporting in-line Q3 — the market is paying for the beat, not punishing anyone for showing up\n3. Y/Y total deliveries still -2.1% vs the record 497,099 last year, which was juiced by buyers rushing the expiring $7,500 US EV credit\n\nNext catalysts: Tesla's full Q3 earnings and call on Wednesday Oct 21 after close.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-q3-2026-deliveries-oct-2](https://stock-tldr.xyz/releases/tsla-q3-2026-deliveries-oct-2)"
+      },
+      "publishDate": "2026-10-02T17:01:44.929Z"
+    },
     {
       "id": "nke-q1-fy27-earnings-oct-1-2026",
       "categories": [

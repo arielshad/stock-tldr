@@ -13214,6 +13214,39 @@
         "crypto",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20261002t170144z",
+      "timestamp": "2026-10-02T17:01:44.929Z",
+      "source": "github-actions-sweep",
+      "summary": "Sept jobs report cratered (+29K vs +84K est, UR to 4.2%, July revised to -10K), collapsing Oct Fed-hike odds to ~20% and rallying stocks; Tesla Q3 deliveries 486,532 beat ~462K consensus and sent TSLA +~5.5%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-nfp-sep-2026-oct-2",
+          "title": "US September 2026 Jobs Report — NFP +29K vs +84K est (Fri Oct 2), unemployment 4.2% (+0.1pp); July revised to -10K, August to +133K; Fed Oct hike odds collapse to ~20% from 64% a week ago",
+          "category": "macro",
+          "note": "Seismic — a 55K miss on NFP with a prior-month revision flipping July to negative, which materially re-priced the Fed path and pushed Nasdaq to a record close."
+        },
+        {
+          "id": "tsla-q3-2026-deliveries-oct-2",
+          "title": "Tesla (TSLA) +~5.5% to ~$373 Fri Oct 2 — Q3 2026 deliveries 486,532 beat ~462K est; Model 3/Y 478,237, 'Other' models 8,295 (-48% Y/Y); production 464,391; energy storage 13.7 GWh",
+          "category": "mover",
+          "note": "Major — Tesla mega-cap Q3 delivery beat ~24K above consensus with a visible 5.5% intraday move; a classic 'mover' with a named catalyst."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "earnings",
+        "crypto"
+      ]
     }
   ]
 }
