@@ -13177,6 +13177,43 @@
         "mna",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20261002t025924z",
+      "timestamp": "2026-10-02T02:59:24.389Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Oct 1 additions: Nike's Q1 FY27 miss + 'Pace' $2.5B restructuring (NKE -8.6% AH) and the WSJ scoop that Authentic Brands has approached Mattel at >$20/share (~58% premium, MAT +23% intraday). Scanned Fed/BLS/BEA (nothing new since Sept 30 PCE/ADP already in feed), earnings tape (ACN/SNPS/CTVA already covered), AH movers (NKE/COHR/MAT) and crypto (quiet).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nke-q1-fy27-earnings-oct-1-2026",
+          "title": "Nike (NKE) Q1 FY27 (Thu Oct 1 after close) — revenue $11.21B (-4% Y/Y) misses $11.33B est, GAAP EPS $0.48 beats $0.44 est; Greater China -22% / -26% cc; FY27 guide now 'high-single-digit' revenue decline, launches 'Pace' $2.5B cost program through FY31; NKE -8.6% AH to $32.14",
+          "category": "earnings",
+          "note": "Mega-cap earnings print after Thursday close with -8.6% AH move, FY27 guide cut and new $2.5B 'Pace' restructuring plan — primary-source confirmed via SEC 8-K."
+        },
+        {
+          "id": "mat-authentic-brands-takeover-rumor-oct-1-2026",
+          "title": "Reportedly: Mattel (MAT) +23% to ~$15.57 Thu Oct 1 — WSJ says Authentic Brands Group has approached Mattel about a takeover at >$20/share (~58% premium), valuing the Barbie maker at $6B+",
+          "category": "rumor",
+          "note": "WSJ-scooped takeover approach from Authentic Brands at >$20/share (~58% premium) sent MAT +23% intraday — qualifies as rumor (tier-1 outlet, named counterparty, 'people familiar') and mover (>5% with named catalyst)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "rumor",
+        "macro",
+        "rates",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }

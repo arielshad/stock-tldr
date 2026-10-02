@@ -1,8 +1,156 @@
 {
-  "generatedAt": "2026-10-01T17:50:51.868Z",
+  "generatedAt": "2026-10-02T02:59:24.389Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nke-q1-fy27-earnings-oct-1-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Nike (NKE) Q1 FY27 (Thu Oct 1 after close) — revenue $11.21B (-4% Y/Y) misses $11.33B est, GAAP EPS $0.48 beats $0.44 est; Greater China -22% / -26% cc; FY27 guide now 'high-single-digit' revenue decline, launches 'Pace' $2.5B cost program through FY31; NKE -8.6% AH to $32.14",
+      "org": "NIKE",
+      "date": "2026-10-01",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000184/q1fy27exhibit991er.htm",
+      "summary": "Nike's Q1 FY27 print topped EPS but missed revenue as Greater China fell 22% and Converse dropped 28%. CEO Elliott Hill rolled out 'Pace' — a $2.5B cost program through FY31 and FY27 guide of high-single-digit revenue decline. NKE -8.6% AH.",
+      "tickers": [
+        "NKE"
+      ],
+      "metrics": {
+        "EPS": "$0.48 vs $0.44 est (GAAP)",
+        "Revenue": "$11.21B vs $11.33B est (-4% rpt / -5% cc)",
+        "Greater China": "$1.2B (-22% rpt, -26% cc)",
+        "North America": "$5.1B (+2%)",
+        "Converse": "$263M (-28%)",
+        "Gross margin": "42.8% (+60 bps Y/Y)",
+        "FY27 outlook": "revenue -high-single-digit; adj EPS $1.15–$1.35",
+        "Move": "-8.6% AH to $32.14 (close $35.15)"
+      },
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "revenue-miss",
+        "eps-beat",
+        "guidance-cut",
+        "restructuring",
+        "pace-program",
+        "greater-china",
+        "converse",
+        "layoffs",
+        "elliott-hill",
+        "consumer-discretionary",
+        "mover"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "Nike beats on EPS, misses on revenue, cuts FY27 guide to high-single-digit decline and unveils a $2.5B restructuring; shares -8.6% AH.",
+        "whatIsIt": "Nike reported fiscal Q1 2027 after the Thursday Oct 1 close. Revenue of $11.21B fell 4% reported (5% currency-neutral) and missed the $11.33B Street number, while GAAP diluted EPS of $0.48 beat the $0.44 estimate on 60 bps of gross-margin expansion to 42.8%. CEO Elliott Hill paired the print with 'Pace', a multi-year operating-model overhaul targeting $2.5B of cumulative savings through FY31.",
+        "howItWorks": "Greater China revenue dropped to $1.2B, -22% reported and -26% currency-neutral, with EMEA -5% and Converse -28% to $263M; North America was the lone bright spot at $5.1B (+2%). FY27 guidance moved from 'low- to mid-single-digit decline' to 'high-single-digit decline', with adjusted FY27 EPS of $1.15–$1.35 before ~$0.15 of Pace restructuring charges. Pace will book ~$1.0B of cumulative pre-tax charges (primarily employee-related) through FY31, with ~$0.3B of severance already recognized in FY26 and another ~$0.3B of charges in FY27; role reductions start in calendar 2027.",
+        "whyItMatters": "Nike's miss confirms that the China re-set is deepening (not stabilising) and that the pivot to 'Sport Offense' under Elliott Hill will cost more and take longer than the Street penciled in. The stock fell 8.6% after-hours to $32.14 — the biggest single-session drop since the June 2026 reset — dragging athletic-apparel names (DECK, UAA, LULU) with it and pressuring Jordan/Converse-linked retailers (FL, DKS). It also raises the bar for the Oct 23 FTS NA footwear channel checks and the November investor day on Pace execution.",
+        "forWho": "consumer-discretionary PMs, sell-side modelling FY27 margins and Greater China mix",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000184/q1fy27exhibit991er.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/e60cdbe4f4f6051b8c2289e1e9afe01343480a4594e4b569ce70cd83b99e6370/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fa693de4f-1ec2-4759-8d11-bb0b5698ad57",
+        "alt": "Nike swoosh logo on a storefront as the company reports Q1 FY27 earnings",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Form 8-K / Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000184/q1fy27exhibit991er.htm"
+        },
+        {
+          "label": "Nike IR press release",
+          "url": "https://about.nike.com/en/newsroom/releases/nike-inc-reports-fiscal-2027-first-quarter-results"
+        },
+        {
+          "label": "Yahoo Finance coverage",
+          "url": "https://finance.yahoo.com/markets/article/nike-stock-sinks-as-revenue-misses-estimates-203030510.html"
+        },
+        {
+          "label": "NKE quote page",
+          "url": "https://finance.yahoo.com/quote/NKE/"
+        }
+      ],
+      "reddit": {
+        "title": "Nike -8.6% AH on Q1 miss and $2.5B Pace restructuring — Greater China -22%, FY27 guide cut to 'high-single-digit' revenue decline",
+        "body": "Nike reported Q1 FY27 after Thursday's close. EPS beat but every other line was weaker and the FY27 guide got cut.\n\n* Revenue $11.21B vs $11.33B est, -4% rpt / -5% cc\n* GAAP EPS $0.48 vs $0.44 est (down from $0.49 last year)\n* Greater China $1.2B, -22% rpt / -26% cc; Converse $263M, -28%\n* North America +2% to $5.1B; gross margin +60 bps to 42.8%\n* FY27 outlook moved to 'high-single-digit' revenue decline; adj EPS $1.15–$1.35 ex ~$0.15 restructuring\n* Stock closed $35.15 (-0.71%), then -8.6% AH to $32.14\n\nTwo drivers of the AH drop:\n\n1. **China is still worsening** — the -22% rpt / -26% cc Greater China print was the sixth straight down quarter and the deepest since the brand reset started.\n2. **'Pace' is bigger and more expensive than the Street modelled** — $2.5B of cumulative savings through FY31 but $1.0B of pre-tax charges (mostly employee-related), ~$0.3B in FY26 severance already recognised, another ~$0.3B of charges in FY27, and layoffs begin calendar 2027.\n\nElliott Hill: 'This work will result in fewer roles across Nike, and I want to acknowledge that news like this creates uncertainty.'\n\nNext catalysts: FTS NA footwear channel checks Oct 23, Pace investor day in November.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nke-q1-fy27-earnings-oct-1-2026](https://stock-tldr.xyz/releases/nke-q1-fy27-earnings-oct-1-2026)"
+      },
+      "publishDate": "2026-10-02T02:59:24.389Z"
+    },
+    {
+      "id": "mat-authentic-brands-takeover-rumor-oct-1-2026",
+      "categories": [
+        "rumor",
+        "mna",
+        "mover"
+      ],
+      "title": "Reportedly: Mattel (MAT) +23% to ~$15.57 Thu Oct 1 — WSJ says Authentic Brands Group has approached Mattel about a takeover at >$20/share (~58% premium), valuing the Barbie maker at $6B+",
+      "org": "Wall Street Journal",
+      "date": "2026-10-01",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45N1E2:0-mattel-attracts-takeover-interest-from-authentic-brands-group-source-says/",
+      "summary": "WSJ reported Thursday Oct 1 that Authentic Brands has privately approached Mattel about an acquisition at >$20/share, implying a $6B+ deal and ~58% premium to the $12.66 Wednesday close. MAT jumped ~23% intraday to about $15.57; no formal process is underway.",
+      "tickers": [
+        "MAT"
+      ],
+      "metrics": {
+        "Deal (reported)": ">$20/sh, ~$6B+",
+        "Premium (vs $12.66 Wed close)": "~58%",
+        "MAT move": "+23% intraday to ~$15.57",
+        "Status": "preliminary discussions; no formal sale process"
+      },
+      "tags": [
+        "rumor",
+        "takeover",
+        "mna",
+        "wsj-scoop",
+        "authentic-brands",
+        "barbie",
+        "licensing",
+        "consumer-discretionary",
+        "ceo-transition"
+      ],
+      "importance": "rumor",
+      "explainer": {
+        "tagline": "WSJ: Authentic Brands has privately approached Mattel at >$20/share, a ~58% premium, implying $6B+; MAT +23% intraday.",
+        "whatIsIt": "The Wall Street Journal reported Thursday Oct 1 that brand-licensing company Authentic Brands Group has approached Mattel about a potential acquisition at more than $20 per share, implying a $6B+ transaction. People familiar with the matter told WSJ, Reuters and CNBC that the discussions remain preliminary and that no formal sale process is underway.",
+        "howItWorks": "Mattel closed Wednesday Sept 30 at $12.66 after a 4% drop on the Roger Lynch CEO announcement; a $20 bid implies roughly a 58% premium. MAT ripped as much as 23% intraday Thursday to around $15.57 — the biggest one-day move in years — on volume several times trailing average. Lynch's pending CEO transition in November 2026 complicates any potential deal because he hasn't yet set strategy. Authentic Brands is privately held and has a track record of licensing-focused buys (Reebok, Juicy, Barneys), with Mattel's Barbie and Hot Wheels IP a strategic fit.",
+        "whyItMatters": "A deal at $20+ would be the biggest consumer-toy transaction since Hasbro's eOne break-up and the biggest licensing-platform buy in years. Confirmation would reset Hasbro (HAS) multiples and reprice JAKKS, Funko and smaller IP-licensing names. A rejection (likely given Lynch's just-announced strategy mandate) could unwind the day's move quickly — same as the 2023 Simba-Dickie / Mattel rumor fade. Watch for a Mattel 8-K or formal board statement; neither party has commented on the record yet.",
+        "forWho": "consumer-discretionary / event-driven desks, HAS short/MAT long pair-traders",
+        "tryIt": "https://finance.yahoo.com/quote/MAT/"
+      },
+      "image": {
+        "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/01/2026-10-01T182259Z_1_LYNXMPEM903WJ_RTROPTP_3_MATTEL-CEO.JPG",
+        "alt": "Mattel headquarters sign on a sunny day as takeover rumor sends shares higher",
+        "fit": "cover",
+        "credit": "Reuters"
+      },
+      "links": [
+        {
+          "label": "Reuters wire (TradingView)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45N1E2:0-mattel-attracts-takeover-interest-from-authentic-brands-group-source-says/"
+        },
+        {
+          "label": "Reuters wire reprint",
+          "url": "https://whtc.com/2026/10/01/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports/"
+        },
+        {
+          "label": "Yahoo deal recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mat-stock-jumps-23-authentic-194104192.html"
+        },
+        {
+          "label": "MAT quote",
+          "url": "https://finance.yahoo.com/quote/MAT/"
+        }
+      ],
+      "reddit": {
+        "title": "Mattel +23% intraday after WSJ scoop — Authentic Brands Group approached MAT at >$20/share, implying $6B+ and ~58% premium",
+        "body": "The Wall Street Journal reported Thursday Oct 1 that Authentic Brands Group — the Reebok/Juicy/Barneys licensing conglomerate — has privately approached Mattel about a takeover.\n\n* Reported offer at >$20/share, implying $6B+ for the Barbie maker\n* MAT closed Wednesday at $12.66 — the floated price would be a ~58% premium\n* Thursday intraday: MAT +23% to roughly $15.57 on heavy volume\n* People familiar say talks are 'very preliminary'; no formal sale process\n* No comment from either party on the record\n\nTwo wrinkles that matter:\n\n1. **CEO transition** — Mattel just appointed Condé Nast chief Roger Lynch as CEO (effective within a month, chair from Oct 2). A board that just chose Lynch for a multi-year strategy mandate is unlikely to flip to a sale without pressure.\n2. **Price gap** — the market closed only at ~$15.57, not $20. The spread signals either (a) low confidence a formal bid lands, or (b) expectation Mattel pushes for higher.\n\nNext catalysts: Mattel 8-K / formal board statement, Lynch's inaugural strategy comments, any read-through to Hasbro (HAS) and licensing peers.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mat-authentic-brands-takeover-rumor-oct-1-2026](https://stock-tldr.xyz/releases/mat-authentic-brands-takeover-rumor-oct-1-2026)"
+      },
+      "publishDate": "2026-10-02T02:59:24.389Z"
+    },
     {
       "id": "acn-q4-fy26-earnings-oct-1-2026",
       "categories": [
