@@ -13282,6 +13282,49 @@
         "crypto",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20261003t153144z",
+      "timestamp": "2026-10-03T15:31:44.565Z",
+      "source": "github-actions-sweep",
+      "summary": "Added three fresh items from the Oct 2 session: Paramount Skydance confirms Oct 6 WBD merger close and 'Skydance' parent rename, Eurozone September HICP flash prints a 3-year-high 3.8% Y/Y, and Rivian's record Q3 deliveries beat get sold -3% on an unchanged FY26 guide.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "psky-wbd-skydance-close-oct-6-2026",
+          "title": "Paramount Skydance confirms $110B Warner Bros Discovery merger closes Tuesday Oct 6, 2026 — parent renamed 'Skydance'",
+          "category": "mna",
+          "note": "Oct 2 Ellison tweet names combined parent 'Skydance' + Sept 30 8-K confirms Oct 6 close; distinct from existing June DOJ-clearance item."
+        },
+        {
+          "id": "eurozone-hicp-sep-2026-flash-3-8",
+          "title": "Eurozone September 2026 HICP flash — headline +3.8% Y/Y (vs +3.6% est, +3.2% prior), 3-year high as energy +18.8%",
+          "category": "macro",
+          "note": "Oct 2 Eurostat primary release; headline 3.8% beats 3.6% consensus and marks a 3-year high — fresh macro catalyst into Oct 29–30 ECB."
+        },
+        {
+          "id": "rivn-q3-2026-deliveries-record-oct-2",
+          "title": "Rivian (RIVN) -3.1% to $14.30 Fri Oct 2 — record Q3 2026 deliveries 19,248 (+45% Y/Y) beat ~18K est, but FY26 guide unchanged at 65–70K",
+          "category": "mover",
+          "note": "Oct 2 8-K: record Q3 but FY26 guide unchanged; stock faded to -3.12% at $14.30 making this a mover+earnings story (not duplicated by any existing Rivian item)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "macro",
+        "mover",
+        "earnings",
+        "rates",
+        "crypto",
+        "sector",
+        "analyst"
+      ]
     }
   ]
 }
