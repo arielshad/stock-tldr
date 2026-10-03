@@ -13247,6 +13247,41 @@
         "earnings",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261003t024714z",
+      "timestamp": "2026-10-03T02:47:14.895Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two Fri Oct 2 single-name mover stories the prior sweep missed: STX/WDC both -10% on a Nikkei scoop that Toshiba will double HDD capacity to meet AI data-center demand, and the ON/SYNA merger restructured to $5.7B all-cash via an 8-K filed Thu Oct 1 after close.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "stx-wdc-toshiba-hdd-double-oct-2-2026",
+          "title": "Seagate (STX) -10.2% and Western Digital (WDC) -10.2% Fri Oct 2 — Nikkei says Toshiba will invest ~¥60B (~$400M) to double HDD capacity by FY2027 at its Philippines plant, targeting 30% market share from ~10%",
+          "category": "mover",
+          "note": "AI-storage theme leaders both drop >10% on a credible supply-side threat from the #3 HDD maker — a clean sector mover with a named Nikkei-sourced catalyst and both stocks far above the 3% single-name threshold."
+        },
+        {
+          "id": "on-syna-amended-57b-cash-oct-1-2026",
+          "title": "onsemi (ON) amends Synaptics (SYNA) merger to $5.7B all-cash at $123/share (8-K filed Thu Oct 1 after close) — SYNA +~14% and ON +~5% Fri Oct 2 after the restructuring from the original $7B all-stock June 25 agreement",
+          "category": "mna",
+          "note": "Materially different deal structure (all-cash $5.7B vs original all-stock $7B) filed Thu Oct 1 after close triggered sharp Oct 2 moves in both tickers (SYNA +14%, ON +5%); evolves the June 25 story that cratered ON -23.66% at announcement."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "mna",
+        "sector",
+        "macro",
+        "crypto",
+        "earnings"
+      ]
     }
   ]
 }

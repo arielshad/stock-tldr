@@ -1,8 +1,156 @@
 {
-  "generatedAt": "2026-10-02T17:01:44.929Z",
+  "generatedAt": "2026-10-03T02:47:14.895Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "stx-wdc-toshiba-hdd-double-oct-2-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Seagate (STX) -10.2% and Western Digital (WDC) -10.2% Fri Oct 2 — Nikkei says Toshiba will invest ~¥60B (~$400M) to double HDD capacity by FY2027 at its Philippines plant, targeting 30% market share from ~10%",
+      "org": "Seagate / Western Digital",
+      "date": "2026-10-02",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-shares-fall-121819634.html",
+      "summary": "STX closed -10.22% to $848.99, WDC -10.22% to $415.29 Fri Oct 2 after Nikkei reported Toshiba plans to spend ~¥60B (~$400M) to double HDD production at its Philippines plant by FY2027.",
+      "tags": [
+        "hdd",
+        "storage",
+        "ai-data-center",
+        "mover",
+        "sector",
+        "semiconductors",
+        "capacity-expansion",
+        "toshiba",
+        "nikkei"
+      ],
+      "importance": "major",
+      "tickers": [
+        "STX",
+        "WDC"
+      ],
+      "metrics": {
+        "STX": "-10.22% to $848.99",
+        "WDC": "-10.22% to $415.29",
+        "Toshiba spend": "~¥60B (~$400M)",
+        "Target share": "30% (from ~10%)"
+      },
+      "explainer": {
+        "tagline": "Nikkei's Toshiba HDD-capacity-doubling scoop sends STX and WDC both down ~10% on fears the AI storage supply squeeze eases.",
+        "whatIsIt": "Seagate (STX) and Western Digital (WDC) each closed down ~10% on Friday Oct 2 after Nikkei reported Toshiba plans to spend ~¥60 billion (~$400 million) to double its hard-disk-drive output. The expansion is centered on Toshiba's Philippines plant and aims to meet AI-data-center storage demand by fiscal 2027.",
+        "howItWorks": "STX fell $96.58 to $848.99 (-10.22%) and WDC fell $47.27 to $415.29 (-10.22%). Toshiba, currently the third HDD maker with ~10% capacity share, has a medium-term target of 30% share. The capex plan adds new production lines for drives with up to 40% higher per-unit capacity, consistent with Toshiba's stated plan to mass-produce 65-TB-class HDDs by 2030.",
+        "whyItMatters": "STX and WDC have been two of 2026's biggest tech winners — up roughly 210% and 150% YTD coming into Friday — on the thesis that AI data-center buildouts would stress the global HDD supply chain. A credible third-player capacity expansion directly challenges that supply-tightness setup and, by extension, the pricing-leverage narrative that drove the group's re-rating.",
+        "forWho": "semis / storage traders, AI-infra desks",
+        "tryIt": "https://finance.yahoo.com/quote/STX"
+      },
+      "image": {
+        "url": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2747753477.jpg",
+        "alt": "Hard disk drive platters and read/write arm",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-shares-fall-121819634.html"
+        },
+        {
+          "label": "24/7 Wall St Analysis",
+          "url": "https://247wallst.com/investing/2026/10/02/seagate-tumbles-10-western-digital-drops-7-as-toshiba-moves-to-double-hard-disk-output/"
+        },
+        {
+          "label": "Benzinga Movers",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62132305/toshiba-wants-to-double-hdd-supply-western-digital-seagate-investors-dont-like-it"
+        },
+        {
+          "label": "STX Quote",
+          "url": "https://finance.yahoo.com/quote/STX"
+        },
+        {
+          "label": "WDC Quote",
+          "url": "https://finance.yahoo.com/quote/WDC"
+        }
+      ],
+      "reddit": {
+        "title": "Seagate and Western Digital both -10% as Nikkei reports Toshiba will spend ~¥60B ($400M) to double HDD production for AI data centers",
+        "body": "The AI-storage trade just took a hit from the smallest HDD maker. Nikkei reported Friday that Toshiba plans to roughly double its hard-disk-drive capacity at its Philippines plant by fiscal 2027, targeting ~30% market share from ~10% today.\n\nThe tape on Friday Oct 2:\n\n* STX -10.22% to $848.99 (-$96.58)\n* WDC -10.22% to $415.29 (-$47.27)\n* Toshiba capex: ~¥60B (~$400M), new lines for drives with up to 40% higher per-unit capacity\n* STX was up ~210% YTD and WDC ~150% YTD into Friday\n\nWhy the names got hit so hard:\n\n1. **Supply-tightness thesis took a credible shot** — The whole 2026 HDD rally rested on \"AI data centers run out of storage\" and both CEOs talking up pricing leverage into a tight market. A third player credibly doubling output in two years is the first real supply-side pushback.\n2. **Toshiba is going for share, not just volume** — 10% → 30% target implies not just more units, but a willingness to compete on price to win data-center contracts.\n3. **Positioning was crowded long** — After 150–210% YTD runs, both names were owned by crossover and momentum funds who de-risk fast on supply news.\n\nNext catalysts: WDC and STX fiscal Q1 earnings prints later this month, OPEC+ meeting Oct 4 for broader AI-capex sentiment.\n\nFull breakdown: [https://stock-tldr.xyz/releases/stx-wdc-toshiba-hdd-double-oct-2-2026](https://stock-tldr.xyz/releases/stx-wdc-toshiba-hdd-double-oct-2-2026)"
+      },
+      "publishDate": "2026-10-03T02:47:14.895Z"
+    },
+    {
+      "id": "on-syna-amended-57b-cash-oct-1-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "onsemi (ON) amends Synaptics (SYNA) merger to $5.7B all-cash at $123/share (8-K filed Thu Oct 1 after close) — SYNA +~14% and ON +~5% Fri Oct 2 after the restructuring from the original $7B all-stock June 25 agreement",
+      "org": "onsemi",
+      "date": "2026-10-01",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000817720/000114036126038301/ef20083029_ex99-1.htm",
+      "summary": "ON and SYNA filed an amended and restated merger agreement Thu Oct 1 after close: ON will acquire SYNA for $123/share in cash, aggregate ~$5.7B (vs ~$7B all-stock June 25 terms). SYNA +~14% and ON +~5% Fri Oct 2.",
+      "tags": [
+        "mna",
+        "amended-agreement",
+        "all-cash",
+        "semiconductors",
+        "physical-ai",
+        "sec-8-k",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ON",
+        "SYNA"
+      ],
+      "metrics": {
+        "New deal": "$5.7B all-cash",
+        "Price per share": "$123",
+        "Prior deal": "~$7B all-stock (1.350 ON per SYNA)",
+        "SYNA Move": "+~14% (Fri Oct 2)",
+        "ON Move": "+~5% (Fri Oct 2)",
+        "Debt commitment": "$2.45B term loan (Morgan Stanley)"
+      },
+      "explainer": {
+        "tagline": "onsemi flips the Synaptics deal to all-cash at $123/share, $5.7B — SYNA jumps ~14%, ON jumps ~5%.",
+        "whatIsIt": "onsemi (ON) and Synaptics (SYNA) filed an Amended and Restated Agreement and Plan of Merger via Synaptics 8-K on Thursday Oct 1 after close. Under the new terms, ON will acquire SYNA for $123 per share in cash, aggregate value ~$5.7 billion, replacing the June 25, 2026 all-stock structure (1.350 ON shares per SYNA share, ~$7B at signing).",
+        "howItWorks": "The amendment follows an unsolicited, non-binding proposal Synaptics received Sept 2, 2026 from a strategic party. Financing is a mix of ON cash on hand plus a $2.45B committed term loan from Morgan Stanley. U.S. antitrust clearance has already been obtained; closing is still targeted for mid-2027 subject to SYNA shareholder approval. ON CEO Hassane El-Khoury said the all-cash structure 'delivers higher value' and is now immediately accretive to non-GAAP EPS; SYNA CEO Rahul Patel framed the swap as 'value certainty at a meaningful premium.'",
+        "whyItMatters": "The original stock structure cratered ON (-23.66% on June 26) as the Street faded the 'physical AI' pivot; the cash restructuring removes the dilution overhang and shifts the risk from ON holders to ON's balance sheet. The deal pays SYNA holders a fixed $123 at close — removing the ON-share re-rating risk that had kept SYNA trading well below the stock-ratio implied value for months.",
+        "forWho": "semis M&A desks, SYNA/ON holders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/0001140361-26-038301-index.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/85de4d8365242cc36d144541a24ddbe78ac5c997e9038806809e241c41c57ef4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fccaaf510-e6e9-458b-96f8-de60250c7ba2",
+        "alt": "ON Semiconductor and Synaptics logos",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Synaptics 8-K (Oct 1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000817720/000114036126038301/ef20083029_ex99-1.htm"
+        },
+        {
+          "label": "8-K Index Page",
+          "url": "https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/0001140361-26-038301-index.htm"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/on-semiconductor-synaptics-stocks-jump-on-revised-merger-deal-152416209.html"
+        },
+        {
+          "label": "SYNA Quote",
+          "url": "https://finance.yahoo.com/quote/SYNA"
+        },
+        {
+          "label": "ON Quote",
+          "url": "https://finance.yahoo.com/quote/ON"
+        }
+      ],
+      "reddit": {
+        "title": "onsemi flips Synaptics deal to $5.7B all-cash at $123/share — SYNA +~14%, ON +~5% on Friday after the June $7B all-stock structure gets scrapped",
+        "body": "onsemi and Synaptics filed an amended merger agreement Thursday Oct 1 after close that completely restructures the June 25 deal.\n\nWhat changed:\n\n* New terms: $123/share all-cash, aggregate ~$5.7B\n* Old terms: 1.350 ON shares per SYNA share, ~$7B at signing\n* Financing: ON cash on hand + a $2.45B committed term loan from Morgan Stanley\n* Trigger: SYNA received an unsolicited bid from a third party on Sept 2\n* U.S. antitrust clearance already in hand; target close still mid-2027\n\nMarket reaction Fri Oct 2:\n\n1. **SYNA +~14%** — gets a fixed cash price instead of ON shares that had been trading well below the original ratio implied value\n2. **ON +~5%** — all-cash removes the dilution overhang that cratered the stock -23.66% on June 26, and ON management now flags the deal as immediately accretive to non-GAAP EPS\n3. **Original $7B deal context** — the all-stock structure had been punished for the 'physical AI' pivot narrative; cash shifts the bet from ON equity holders to ON's balance sheet\n\nNext catalysts: SYNA shareholder vote proxy filing, closing target mid-2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/on-syna-amended-57b-cash-oct-1-2026](https://stock-tldr.xyz/releases/on-syna-amended-57b-cash-oct-1-2026)"
+      },
+      "publishDate": "2026-10-03T02:47:14.895Z"
+    },
     {
       "id": "us-nfp-sep-2026-oct-2",
       "categories": [
