@@ -13325,6 +13325,39 @@
         "sector",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20261004t032007z",
+      "timestamp": "2026-10-04T03:20:07.820Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: the Oct 2 G7/IEA agreement to release up to 100M barrels of oil and diesel over four months, pushing Brent -1.48% to $100.80 and WTI -2.66% to $90.40 as the US-Israel-Iran Hormuz shock drives US diesel pump prices to record highs. Scanned equities, macro, M&A, analyst, regulatory, insider, rates, FX, commodity, crypto for Oct 1-3; everything else either outside the 72h cap or already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "g7-100m-barrel-diesel-oil-release-oct-2-2026",
+          "title": "G7 and partners to release 100M barrels of oil + diesel over four months (Fri Oct 2) — IEA-coordinated, Macron-chaired move after US-Israel-Iran Hormuz shock pushes US diesel to a record $6.37/gal avg; Brent -1.5% to $100.80, WTI -2.7% to $90.40",
+          "category": "commodity",
+          "note": "Primary-source confirmed (IEA + Macron office joint statement, Trump Truth Social post), covered by Bloomberg, WaPo, NPR, Al Jazeera, ABC, Reuters/Investing. Front-page macro commodity story that moved Brent/WTI on the day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "mover",
+        "earnings",
+        "mna",
+        "analyst",
+        "regulatory",
+        "rates",
+        "fx",
+        "crypto"
+      ]
     }
   ]
 }

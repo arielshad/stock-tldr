@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-10-03T15:31:44.565Z",
+  "generatedAt": "2026-10-04T03:20:07.820Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "g7-100m-barrel-diesel-oil-release-oct-2-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "G7 and partners to release 100M barrels of oil + diesel over four months (Fri Oct 2) — IEA-coordinated, Macron-chaired move after US-Israel-Iran Hormuz shock pushes US diesel to a record $6.37/gal avg; Brent -1.5% to $100.80, WTI -2.7% to $90.40",
+      "org": "Group of Seven",
+      "date": "2026-10-02",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile",
+      "summary": "G7 and partners agreed Fri Oct 2 to tap up to 100M barrels of emergency oil and diesel over four months, with a frontloaded diesel release in the first 20 days. IEA coordinates; Macron chairs. Brent -1.5% to $100.80, WTI -2.7% to $90.40.",
+      "tags": [
+        "g7",
+        "iea",
+        "spr",
+        "diesel",
+        "crude-oil",
+        "oil-release",
+        "brent",
+        "wti",
+        "fuel-prices",
+        "iran-war",
+        "hormuz",
+        "bessent",
+        "macron",
+        "midterms",
+        "trump"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "USO"
+      ],
+      "metrics": {
+        "Release size": "100M bbl (oil + diesel)",
+        "Duration": "4 months; frontloaded diesel first 20 days",
+        "Brent": "$100.80 (-1.48%)",
+        "WTI": "$90.40 (-2.66%)",
+        "US diesel national avg": "$6.37/gal (record $6.52 on Sep 22)",
+        "US diesel inventories (Sep 11)": "107.9M bbl (record low)"
+      },
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6abfbce8ae8a-1790950632.jpg?resize=1920%2C1440",
+        "alt": "G7 leaders at virtual meeting coordinating 100M-barrel diesel and crude oil release",
+        "fit": "cover",
+        "credit": "EPA via Al Jazeera"
+      },
+      "links": [
+        {
+          "label": "Al Jazeera: Trump hails G7 deal",
+          "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile"
+        },
+        {
+          "label": "ABC: G7 to release 100M bbl",
+          "url": "https://www.abc.net.au/news/2026-10-03/g7-to-release-100m-barrels-oil-in-bid-to-curb-soaring-prices/107224282"
+        },
+        {
+          "label": "The National: G7 agrees release",
+          "url": "https://www.thenationalnews.com/business/energy/2026/10/02/g7-members-agree-to-release-100-million-barrels-of-diesel-and-other-reserves/"
+        },
+        {
+          "label": "WTI CL=F chart",
+          "url": "https://finance.yahoo.com/quote/CL%3DF/"
+        },
+        {
+          "label": "Brent BZ=F chart",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+        }
+      ],
+      "explainer": {
+        "tagline": "G7 taps 100M barrels of emergency oil + diesel to blunt the Hormuz-war fuel shock.",
+        "whatIsIt": "G7 members (US, UK, Canada, Germany, Italy, Japan, France) and partners agreed Friday Oct 2 to release up to 100M barrels of oil and diesel from strategic stocks over four months. The release is coordinated through the International Energy Agency, with a frontloaded diesel component in the first 20 days.",
+        "howItWorks": "The decision followed a virtual meeting chaired by French President Macron, with Treasury Secretary Bessent and President Trump pressing Europe to tap its diesel stockpiles — Trump had threatened a US diesel export ban if Europe did not act. G7 leaders also pledged to refrain from export restrictions on energy and to call on producers to do the same. IEA Executive Director Fatih Birol described it as a continuation of the 400M-barrel commitment from March 2026, of which two-thirds had already been released.",
+        "whyItMatters": "Brent fell 1.48% to $100.80 and WTI dropped 2.66% to $90.40 after the news. US diesel pump prices hit $6.52/gal on Sep 22 — a record — with national inventories at 107.9M barrels on Sep 11 (record low). Goldman Sachs estimates the release can offset only about half of the diesel surge driven by Strait of Hormuz disruption from the US-Israel-Iran war that began Feb 28. Energy equities (XOM, CVX, OXY, MPC) sold off into the headline; refiners and the diesel crack are the second-order read-throughs.",
+        "forWho": "energy desks, macro traders, airline + trucking analysts",
+        "tryIt": "https://www.iea.org/news/iea-member-countries-to-carry-out-largest-ever-oil-stock-release-amid-market-disruptions-from-middle-east-conflict"
+      },
+      "reddit": {
+        "title": "G7 to release 100M barrels of oil + diesel over 4 months — Brent -1.5% to $100.80, WTI -2.7% to $90.40 after US pressure on Europe",
+        "body": "Fri Oct 2 the G7 and partners agreed to tap up to 100 million barrels of emergency oil and diesel reserves over the next four months, with a frontloaded diesel release in the first 20 days. Coordinated by the IEA, chaired by Macron, pushed hard by Trump and Treasury Secretary Bessent.\n\n* Brent fell 1.48% to $100.80 on the news\n* WTI dropped 2.66% to $90.40\n* US national diesel pump avg: $6.37/gal (record $6.52 on Sep 22)\n* US diesel inventories hit record low 107.9M barrels Sep 11\n* IEA says this follows a 400M-barrel commitment from March 2026, two-thirds already drawn\n\nWhat set this off:\n\n1. **US-Israel-Iran war Hormuz shock** — the Feb 28 2026 war has disrupted the Strait of Hormuz and pushed Brent above $100 for most of the summer.\n2. **US midterm politics** — Trump threatened a US diesel export ban if Europe did not tap its own reserves. EU + UK hold ~52Mt of combined gas/oil/diesel stocks.\n3. **Goldman math** — the release offsets only about half of the current diesel surge, per GS. A signal rather than a fix.\n\nNext catalysts: OPEC+ meets Oct 4 (expected rollover of November quotas), ISM Services PMI Oct 5, 10Y Treasury auction next week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/g7-100m-barrel-diesel-oil-release-oct-2-2026](https://stock-tldr.xyz/releases/g7-100m-barrel-diesel-oil-release-oct-2-2026)"
+      },
+      "publishDate": "2026-10-04T03:20:07.820Z"
+    },
     {
       "id": "psky-wbd-skydance-close-oct-6-2026",
       "categories": [
