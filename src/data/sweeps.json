@@ -13358,6 +13358,35 @@
         "fx",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261004t160936z",
+      "timestamp": "2026-10-04T16:09:36.337Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend sweep Oct 4, 2026. Only one new qualifying item: the OPEC+ 68th JMMC rolled over September production levels for November, extending the October pause. No other primary-source market-moving news fresh since Fri Oct 2 PM.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "opec-plus-november-hold-oct-4-2026",
+          "title": "OPEC+ Seven keep November 2026 output unchanged at Sun Oct 4 68th JMMC — second-straight monthly pause as Hormuz disruption still caps real supply at 60–80% of normal; Brent closed Fri at $102.25, WTI $91.11",
+          "category": "commodity",
+          "note": "Primary-source confirmed decision from today's 68th JMMC. Not a surprise, but a formal rollover that confirms no OPEC+ supply cushion as Hormuz still disrupts real output. Semantic distinct from the Sept 6 'October hold' entry already in the feed, which was a different meeting on a different month."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "crypto",
+        "earnings",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }

@@ -1,8 +1,83 @@
 {
-  "generatedAt": "2026-10-04T03:20:07.820Z",
+  "generatedAt": "2026-10-04T16:09:36.337Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "opec-plus-november-hold-oct-4-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "OPEC+ Seven keep November 2026 output unchanged at Sun Oct 4 68th JMMC — second-straight monthly pause as Hormuz disruption still caps real supply at 60–80% of normal; Brent closed Fri at $102.25, WTI $91.11",
+      "org": "OPEC",
+      "date": "2026-10-04",
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/04/opec-keeps-oil-output-targets-unchanged-for-november/",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "summary": "OPEC+'s seven core producers held November 2026 quotas at September-level 31 mbd at the Oct 4 68th JMMC in Vienna, extending the pause that began in October and matching Reuters-sourced expectations.",
+      "tags": [
+        "opec-plus",
+        "jmmc",
+        "oil",
+        "brent",
+        "wti",
+        "hormuz",
+        "iran",
+        "production-quota",
+        "rollover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Nov quota (7-member cap)": "~31.0 mbd (unchanged)",
+        "Brent Fri Oct 2 close": "$102.25",
+        "WTI Fri Oct 2 close": "$91.11",
+        "Real OPEC+ Gulf exports": "60–80% of normal",
+        "Next JMMC": "Nov 1, 2026"
+      },
+      "explainer": {
+        "tagline": "OPEC+ Seven roll over September output levels for November, extending the pause that started last month.",
+        "whatIsIt": "On Sunday Oct 4, 2026, the Joint Ministerial Monitoring Committee of OPEC+ — specifically the seven core members steering monthly adjustments (Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, Oman) — held its 68th meeting online and decided to maintain September 2026 required production for November 2026. This is the second straight monthly meeting at which the group has paused the series of 188K bpd increases rolled out from April through September.",
+        "howItWorks": "The seven-country format has coordinated monthly tweaks since May 1, 2026 after the UAE's exit. Combined November quotas remain near 31 mbd. In September the group completed unwinding its 1.65 mbd voluntary cut tranche; a separate 2 mbd group-wide cut agreed in 2022 stays in place through year-end. The committee statement reiterated commitment to market stability, flagged the importance of protecting maritime routes, and said the Seven will keep meeting monthly — next review Nov 1, 2026. The group is now reviewing member production capacity to set 2027 quotas.",
+        "whyItMatters": "Real output has not caught up to paper quotas. Gulf producers' exports have been running 60–80% of normal since the U.S.-Israel-Iran war effectively closed the Strait of Hormuz on Feb 28, and Saudi August output was the lowest since 1990. With Brent still above $100 after the G7's Oct 2 announcement of a coordinated 100 mbd stockpile release, a rollover was the expected outcome but confirms there is no OPEC+ cushion coming for refined-product markets. The decision keeps the oil complex (XLE, XOM, CVX, OXY) and refiners (VLO, MPC, PSX) directly linked to the Hormuz newsflow.",
+        "forWho": "energy traders, refiners, macro desks",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF"
+      },
+      "image": {
+        "url": "https://moderndiplomacy.eu/wp-content/uploads/2023/12/OPEC.jpg",
+        "alt": "OPEC headquarters banner",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "The National News Report",
+          "url": "https://www.thenationalnews.com/business/energy/2026/10/04/opec-keeps-oil-output-targets-unchanged-for-november/"
+        },
+        {
+          "label": "Modern Diplomacy Coverage",
+          "url": "https://moderndiplomacy.eu/2026/10/04/opec-keeps-november-oil-output-targets-unchanged-amid-market-uncertainty/"
+        },
+        {
+          "label": "Yahoo Finance (Reuters)",
+          "url": "https://finance.yahoo.com/energy/articles/opec-expected-keep-november-oil-102921735.html"
+        },
+        {
+          "label": "WTI Futures Chart",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        },
+        {
+          "label": "Brent Futures Chart",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "OPEC+ Seven keep November output unchanged at Sunday's 68th JMMC — second month in a row of no hike, Brent closed Friday at $102.25",
+        "body": "OPEC+'s seven monthly-adjustment members (Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, Oman) met online this Sunday for the 68th JMMC and rolled over September production levels for November 2026. Nothing surprising, but it confirms there is no cushion coming while Hormuz remains disrupted.\n\n* November quota for the Seven held at roughly 31 mbd combined — unchanged from October\n* Brent closed Friday Oct 2 at $102.25/bbl, WTI at $91.11/bbl\n* Gulf OPEC+ exports still running 60–80% of normal since Feb 28 Hormuz closure\n* 1.65 mbd voluntary cut rollback completed in September; the separate 2 mbd 2022 cut stays through year-end\n* Next JMMC: Nov 1, 2026\n\nThree points worth flagging:\n\n1. **This was the expected outcome** — Reuters-sourced delegates had been signaling a rollover all week.\n2. **The real supply story is still Hormuz, not quotas** — Saudi August output was the lowest since 1990 at 6.238 mbd; paper caps are not binding.\n3. **G7 stockpile release context** — on Oct 2 the G7 + IEA announced a 100M-barrel coordinated oil + diesel draw over four months, so the near-term supply picture is less about OPEC and more about SPRs and shipping.\n\nFull breakdown: [https://stock-tldr.xyz/releases/opec-plus-november-hold-oct-4-2026](https://stock-tldr.xyz/releases/opec-plus-november-hold-oct-4-2026)"
+      },
+      "publishDate": "2026-10-04T16:09:36.337Z"
+    },
     {
       "id": "g7-100m-barrel-diesel-oil-release-oct-2-2026",
       "categories": [
