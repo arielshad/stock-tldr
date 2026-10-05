@@ -13387,6 +13387,21 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261005t024743z",
+      "timestamp": "2026-10-05T02:47:43.476Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep. Prior sweep at 2026-10-04T16:10Z captured everything that moved markets in the current 72h window — Oct 2 jobs report, OPEC+ Nov hold on Oct 4, G7 100M barrel oil release, Rivian/Tesla Q3 deliveries, Nike Q1, Accenture Q4, Mattel/Authentic Brands rumor, Synopsys Investor Day, Corteva VYLR spin-off. Weekend of Oct 4–5 was quiet with US markets closed; the only incremental news (Bessent 'zero oil' tweet Oct 1, Trump social-media posts, Netanyahu flight security review) either falls outside 72h, is not markets-moving, or echoes items already in the feed. No qualifying candidates in equities, macro, M&A, rates, FX, commodities, crypto, analyst, or video. Empty is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": []
     }
   ]
 }
