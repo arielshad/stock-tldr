@@ -1,8 +1,244 @@
 {
-  "generatedAt": "2026-10-05T02:47:43.476Z",
+  "generatedAt": "2026-10-05T19:57:36.173Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "schneider-ptc-226b-oct-5-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Schneider Electric (SU.PA) agrees $22.6B all-cash acquisition of PTC (PTC) at $205/share on Mon Oct 5 — 42.3% premium; PTC +~34% to ~$192, Schneider -~10% in Paris on €21B debt+equity raise plan",
+      "org": "Schneider Electric",
+      "date": "2026-10-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000857005/000119312526413124/d174191dex991.htm",
+      "summary": "Schneider Electric to buy PTC for $205/share, $22.6B equity / $23.7B EV — Schneider's largest-ever deal, surpassing 2023 Aveva ($11B). Funded by ~€5–6B equity + ~€16–17B debt. Expected to close Q3 2027.",
+      "tickers": [
+        "PTC"
+      ],
+      "metrics": {
+        "Deal size (equity)": "$22.6B",
+        "Enterprise value": "$23.7B",
+        "Price per share": "$205 all-cash",
+        "Premium (vs Fri close $144.03)": "+42.3%",
+        "Premium (vs 30-day VWAP)": "+46.1%",
+        "PTC move (Mon)": "+~34% to ~$192",
+        "Schneider move (Paris)": "-~10%",
+        "Cost synergies (Yr 3 run-rate)": "€250M",
+        "Revenue synergies": "€800M",
+        "Financing": "~€5–6B equity + ~€16–17B debt",
+        "Expected close": "Q3 2027"
+      },
+      "importance": "major",
+      "tags": [
+        "mna",
+        "all-cash",
+        "industrial-software",
+        "ai",
+        "schneider-electric",
+        "ptc",
+        "digital-thread",
+        "plm",
+        "cad",
+        "iot",
+        "biggest-schneider-deal-ever"
+      ],
+      "explainer": {
+        "tagline": "Schneider's biggest deal ever: $22.6B all-cash for PTC at $205/share, a 42.3% premium — building out an industrial-software + AI stack.",
+        "whatIsIt": "French industrial giant Schneider Electric agreed on Monday Oct 5 to acquire Boston-based industrial-software company PTC for $205 per share in cash. The $22.6B equity (and $23.7B enterprise) price tops Schneider's 2023 Aveva buy ($11B) as the company's largest-ever acquisition. The deal was unanimously approved by both boards and is expected to close by Q3 2027 subject to regulatory and shareholder approval.",
+        "howItWorks": "PTC holders receive $205 per share — a 42.3% premium to Friday's $144.03 close and 46.1% to the 30-day VWAP. Total consideration is funded by ~€5–6B equity issuance plus ~€16–17B new debt via a bridge from Morgan Stanley and Société Générale. Schneider targets €250M of annual run-rate cost synergies by Year 3 and ~€800M of revenue synergies. CEO Olivier Blum called PTC the 'last brick' in Schneider's digital-thread portfolio alongside AVEVA, ETAP and the pending Cognite deal.",
+        "whyItMatters": "Combines PTC's Creo CAD, Windchill PLM, ThingWorx IoT and Codebeamer ALM with Schneider's energy management and automation stack — expanding Schneider's addressable software TAM about 3x. PTC +~34% to ~$192 vs the $205 cash offer leaves ~7% arb spread into a late-2027 close. Schneider shares fell ~10% in Paris on dilution + leverage concerns from the €21B+ financing package.",
+        "forWho": "merger-arb desks, industrial software analysts, European industrials investors",
+        "tryIt": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000857005&type=8-K"
+      },
+      "image": {
+        "url": "https://www.insidearbitrage.com/wp-content/uploads/2026/10/Schneider-Electric-PTC-Merger.png",
+        "alt": "Schneider Electric and PTC logos announcing the $22.6B all-cash acquisition",
+        "fit": "cover",
+        "credit": "InsideArbitrage"
+      },
+      "links": [
+        {
+          "label": "PTC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000857005/000119312526413124/d174191dex991.htm"
+        },
+        {
+          "label": "PTC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000857005/000119312526413124/d174191d8k.htm"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/technology/articles/schneider-electric-acquire-ptc-205-180219993.html"
+        },
+        {
+          "label": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/05/business/schneider-electric-ptc/"
+        },
+        {
+          "label": "PTC Chart",
+          "url": "https://finance.yahoo.com/quote/PTC/"
+        }
+      ],
+      "reddit": {
+        "title": "Schneider Electric to buy PTC for $22.6B all-cash at $205/share (42.3% premium) — PTC +34% to ~$192, Schneider -10% in Paris",
+        "body": "Monday Oct 5 — Schneider Electric announced its biggest deal ever: an all-cash acquisition of US industrial software firm PTC.\n\n* $205/share cash, $22.6B equity / $23.7B EV\n* **42.3% premium** to Friday's $144.03 close, 46.1% to 30-day VWAP\n* PTC +~34% to ~$192 — ~7% arb spread into a late-2027 close\n* Schneider -~10% in Paris on dilution + leverage concerns\n* Financing: ~€5–6B equity + ~€16–17B debt via MS and SocGen bridge\n\nWhy Schneider is paying up:\n\n1. **Industrial AI play** — adds Creo (CAD), Windchill (PLM), ThingWorx (IoT) and Codebeamer (ALM) to a stack that already includes AVEVA, ETAP and the pending Cognite acquisition.\n2. **Portfolio 'last brick'** — CEO Olivier Blum framed the deal as finishing the digital-thread strategy connecting physical operations with digital systems.\n3. **Synergies claimed** — €250M run-rate cost synergies by Year 3, ~€800M revenue synergies; expands software TAM ~3x.\n\nNext catalysts: PTC shareholder vote, regulatory approvals (US + EU + China). Close expected Q3 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/schneider-ptc-226b-oct-5-2026](https://stock-tldr.xyz/releases/schneider-ptc-226b-oct-5-2026)"
+      },
+      "publishDate": "2026-10-05T19:57:36.173Z"
+    },
+    {
+      "id": "chrw-rxo-58b-oct-5-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "C.H. Robinson (CHRW) -~11% / RXO +~23% on Mon Oct 5 — CHRW to acquire RXO for $5.8B stock+cash at $30.25/share (29% premium), creating a $25B EV 3PL",
+      "org": "C.H. Robinson",
+      "date": "2026-10-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001929561/000114036126038548/ef20083265_ex99-1.htm",
+      "summary": "CHRW to buy RXO for $17.25 cash + 0.0856 CHRW shares (implied $30.25/share, 29% premium to Fri close); $5.8B implied equity, $25B+ combined EV. $300M run-rate synergies within 2 years. Close H1 2027.",
+      "tickers": [
+        "CHRW",
+        "RXO"
+      ],
+      "metrics": {
+        "Deal size (implied equity)": "$5.8B",
+        "Combined enterprise value": "$25B+",
+        "Per-share consideration": "$17.25 cash + 0.0856 CHRW shares (implied $30.25)",
+        "Premium (vs Fri close)": "+29% (to $30.25 from $23.46)",
+        "Premium (vs 90-day VWAP)": "+27%",
+        "Cash/stock mix": "~57% cash / ~43% stock",
+        "RXO holder stake in combined co": "~11%",
+        "Cost synergies (2-yr run-rate)": "$300M",
+        "RXO move (Mon)": "+~23%",
+        "CHRW move (Mon)": "-~11%",
+        "Expected close": "H1 2027"
+      },
+      "importance": "major",
+      "tags": [
+        "mna",
+        "cash-and-stock",
+        "logistics",
+        "3pl",
+        "trucking-brokerage",
+        "freight-broker",
+        "chrw",
+        "rxo",
+        "lean-ai",
+        "largest-brokerage-deal"
+      ],
+      "explainer": {
+        "tagline": "History's largest truck-brokerage deal: CHRW buying RXO for $5.8B — RXO holders get $30.25 (29% premium), CHRW -11%, RXO +23%.",
+        "whatIsIt": "C.H. Robinson Worldwide (CHRW) agreed on Mon Oct 5 to acquire fellow freight broker RXO in a stock-and-cash deal valued at $5.8B equity (combined EV $25B+). The deal combines the two largest US-listed asset-light 3PLs, with CEO Dave Bozeman pitching it as a chance to apply CHRW's 'Lean AI' operating model to RXO's expedited and last-mile network. Expected to close H1 2027 subject to RXO shareholder vote and antitrust review.",
+        "howItWorks": "RXO holders receive $17.25 in cash + 0.0856 CHRW shares per RXO share — implied $30.25 per share, a 29% premium to Friday's $23.46 close and 27% premium to the 90-day VWAP. Mix is ~57% cash / ~43% stock, with proration elections allowing all-cash ($30.25) or all-stock (0.1992 CHRW shares). RXO holders will own ~11% of the combined company. CHRW targets ~$300M of net run-rate cost synergies within two years via cost-to-serve, shared services and spend optimization.",
+        "whyItMatters": "RXO +~23% to ~$28.80 vs the $30.25 implied value leaves ~5% arb spread. CHRW -~11% is the clearest tell on investor concerns: ~43% stock mix dilutes existing holders, synergy claims look aggressive against a soft freight tape, and the FTC/DOJ review will scrutinize concentration in truck brokerage. Second-order: smaller 3PLs (XPO, SAIA, ARCB, HUBG) trade in sympathy as consolidation signals a longer freight-recession bottoming thesis.",
+        "forWho": "freight analysts, merger-arb desks, transport equity investors",
+        "tryIt": "https://finance.yahoo.com/quote/RXO/"
+      },
+      "image": {
+        "url": "https://www.ttnews.com/sites/default/files/styles/social_media_1200x630/public/2026-10/Robinson-1200.jpg",
+        "alt": "C.H. Robinson truck fleet image illustrating the $5.8B RXO acquisition deal",
+        "fit": "cover",
+        "credit": "C.H. Robinson / Transport Topics"
+      },
+      "links": [
+        {
+          "label": "RXO 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001929561/000114036126038548/ef20083265_ex99-1.htm"
+        },
+        {
+          "label": "RXO 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001929561/000114036126038548/ef20083265_8k.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/10/05/ch-robinson-buy-freight-broker-rxo.html"
+        },
+        {
+          "label": "Transport Topics",
+          "url": "https://www.ttnews.com/articles/ch-robinson-rxo-deal-2026"
+        },
+        {
+          "label": "RXO Chart",
+          "url": "https://finance.yahoo.com/quote/RXO/"
+        },
+        {
+          "label": "CHRW Chart",
+          "url": "https://finance.yahoo.com/quote/CHRW/"
+        }
+      ],
+      "reddit": {
+        "title": "C.H. Robinson (CHRW) buying RXO for $5.8B stock+cash at $30.25 (29% premium) — RXO +23%, CHRW -11% on Monday",
+        "body": "Monday Oct 5 — history's largest truck-brokerage deal: C.H. Robinson agreed to acquire RXO in a cash-and-stock transaction worth $5.8B implied equity / $25B+ combined EV.\n\n* RXO holders get $17.25 cash + 0.0856 CHRW shares = implied **$30.25/share** (29% premium to Friday's $23.46)\n* Mix: ~57% cash / ~43% stock; RXO holders will own ~11% of the combined co\n* RXO +~23% to ~$28.80 — ~5% arb spread into H1 2027 close\n* CHRW -~11% — dilution + integration risk + aggressive synergy claims\n* Target: $300M of annual run-rate cost synergies within 2 years\n\nThree takeaways:\n\n1. **Lean AI pitch** — CEO Dave Bozeman is pitching the deal as applying CHRW's AI-driven operating model to RXO's expedited and last-mile business.\n2. **Antitrust will matter** — this consolidates the two biggest listed asset-light 3PLs; FTC/DOJ review will scrutinize broker concentration.\n3. **Freight tape still soft** — the combined co is going into integration against a backdrop of multi-year freight-recession pricing. CHRW -11% says the market is skeptical the synergy math works.\n\nSecond-order: smaller 3PLs (XPO, SAIA, ARCB, HUBG) trade in sympathy as the group starts pricing a consolidation / bottoming thesis.\n\nNext catalysts: RXO shareholder vote, antitrust review, expected close H1 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/chrw-rxo-58b-oct-5-2026](https://stock-tldr.xyz/releases/chrw-rxo-58b-oct-5-2026)"
+      },
+      "publishDate": "2026-10-05T19:57:36.173Z"
+    },
+    {
+      "id": "us-ism-services-pmi-sep-2026-oct-5",
+      "categories": [
+        "macro"
+      ],
+      "title": "US September 2026 ISM Services PMI 54.9 vs 55.0 est (Mon Oct 5) — 27th straight month of expansion; Business Activity drops 5.2 pts to 56.5, Employment back above 50 at 50.1, Prices climb to 74.0",
+      "org": "Institute for Supply Management",
+      "date": "2026-10-05",
+      "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
+      "summary": "ISM Services PMI 54.9 for Sept 2026 (vs 55.0 est, 55.4 prior) — 27th straight expansion. Business Activity drops 5.2 pts to 56.5, Employment rebounds +2.3 to 50.1 (first expansion in 3 months), Prices rise 1.4 to 74.0.",
+      "tickers": [],
+      "metrics": {
+        "ISM Services (Sep)": "54.9 vs 55.0 est",
+        "Prior (Aug)": "55.4",
+        "M/M change": "-0.5 pts",
+        "Business Activity": "56.5 (-5.2)",
+        "New Orders": "59.8 (-1.1)",
+        "Employment": "50.1 (+2.3, first expansion in 3 months)",
+        "Prices Paid": "74.0 (+1.4)",
+        "Supplier Deliveries": "53.2 (+1.9)",
+        "Expansion streak": "27 straight months"
+      },
+      "importance": "notable",
+      "tags": [
+        "ism-services",
+        "pmi",
+        "macro",
+        "prints",
+        "inflation",
+        "services-sector",
+        "employment",
+        "prices-paid"
+      ],
+      "explainer": {
+        "tagline": "Services PMI 54.9 lands in line (vs 55.0 est) — Business Activity cools 5.2 pts but Employment flips back to expansion and Prices stay hot at 74.0.",
+        "whatIsIt": "The ISM Services PMI for September 2026, released at 10:00 ET on Mon Oct 5, printed 54.9 — essentially in line with the 55.0 consensus and down 0.5 pts from August's 55.4. It is the 27th consecutive month of services expansion, matching the Services PMI's 76th straight month of overall-economy growth.",
+        "howItWorks": "Business Activity dropped 5.2 points to 56.5 from August's 61.7 (which had been the highest since Nov 2022). New Orders eased 1.1 points to 59.8. Employment rebounded 2.3 points to 50.1 — a return to expansion for the first time in three months. Prices Paid rose 1.4 points to 74.0, with the 12-month average at its highest since March 2023. Supplier Deliveries edged up to 53.2. 13 industries reported growth; 4 contracted.",
+        "whyItMatters": "The headline is comforting after Friday's weak Sept NFP (+29K vs +84K est) — services growth is still holding up and employment flipped back to expansion. But Prices at 74.0 is not consistent with 2% inflation; combined with ISM Mfg Prices sitting hot on Oct 1 and Core PCE +3.0% Y/Y last week, it reinforces the stag-flation framing driving Oct hike odds to collapse to ~20% from 64% a week ago. 10Y Treasury yield ticked higher after the print as the hot prices component offset the Business Activity slowdown.",
+        "forWho": "macro traders, rates desks, Fed watchers",
+        "tryIt": "https://fred.stlouisfed.org/graph/?g=1V5Rr"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS349053/INSTITUTE-FOR-SUPPLY-MANAGEMENT-LOGO-v1.jpg?id=OA2983890&p=facebook",
+        "alt": "Institute for Supply Management logo for the September 2026 Services PMI report",
+        "fit": "contain",
+        "credit": "Institute for Supply Management / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "ISM Press Release",
+          "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html"
+        },
+        {
+          "label": "ISM Reports Calendar",
+          "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+        },
+        {
+          "label": "FXStreet Calendar",
+          "url": "https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17ad5d8a193f"
+        }
+      ],
+      "reddit": {
+        "title": "US ISM Services PMI 54.9 for September (vs 55.0 est) — Business Activity drops 5.2 pts, Employment back above 50, Prices stay hot at 74.0",
+        "body": "The ISM Services print landed at 10:00 ET on Mon Oct 5 and came in essentially in line.\n\n* Headline PMI **54.9** vs 55.0 est, down from August's 55.4 (-0.5 pts)\n* 27th consecutive month of expansion\n* **Business Activity 56.5** (-5.2) — big cooldown from August's 61.7\n* **New Orders 59.8** (-1.1) — still elevated\n* **Employment 50.1** (+2.3) — first expansion read in 3 months\n* **Prices Paid 74.0** (+1.4) — 12-month average highest since March 2023\n\nHow to read it:\n\n1. **Growth side is softening but still fine** — Business Activity dropped sharply, but New Orders held and the net headline is almost unchanged.\n2. **Labor got a cleaner read** — Employment flipping above 50 is the first expansion signal in three months, partially offsetting Friday's weak NFP (+29K vs +84K est).\n3. **Prices are the problem again** — 74.0 Prices Paid is not a 2%-inflation print. Combined with Mfg Prices still hot on Oct 1 and Core PCE +3.0% Y/Y last week, the stag-flation framing stays alive.\n4. **Fed implications unchanged** — Oct hike odds remain ~20% from 64% a week ago; 10Y yield ticked higher post-print as the hot prices component offset the activity cooldown.\n\nNext catalysts: Sept FOMC minutes (Oct 8), Sept CPI (Oct 15).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ism-services-pmi-sep-2026-oct-5](https://stock-tldr.xyz/releases/us-ism-services-pmi-sep-2026-oct-5)"
+      },
+      "publishDate": "2026-10-05T19:57:36.173Z"
+    },
     {
       "id": "opec-plus-november-hold-oct-4-2026",
       "categories": [

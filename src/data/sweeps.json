@@ -13402,6 +13402,49 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20261005t195736z",
+      "timestamp": "2026-10-05T19:57:36.173Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday–Monday window (Oct 4–5): added two major M&A announcements (Schneider Electric–PTC $22.6B all-cash, C.H. Robinson–RXO $5.8B stock+cash) and the September ISM Services PMI (54.9 vs 55.0 est, prices hot at 74.0).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "schneider-ptc-226b-oct-5-2026",
+          "title": "Schneider Electric (SU.PA) agrees $22.6B all-cash acquisition of PTC (PTC) at $205/share on Mon Oct 5 — 42.3% premium; PTC +~34% to ~$192, Schneider -~10% in Paris on €21B debt+equity raise plan",
+          "category": "mna",
+          "note": "Schneider's biggest-ever deal, $22.6B all-cash at $205 (42.3% premium); PTC +~34%, Schneider -~10% on €21B+ debt+equity financing plan."
+        },
+        {
+          "id": "chrw-rxo-58b-oct-5-2026",
+          "title": "C.H. Robinson (CHRW) -~11% / RXO +~23% on Mon Oct 5 — CHRW to acquire RXO for $5.8B stock+cash at $30.25/share (29% premium), creating a $25B EV 3PL",
+          "category": "mna",
+          "note": "Largest truck-brokerage M&A ever; CHRW buying RXO for $5.8B at $30.25 (29% premium), creating a $25B+ EV 3PL; CHRW -11%, RXO +23%."
+        },
+        {
+          "id": "us-ism-services-pmi-sep-2026-oct-5",
+          "title": "US September 2026 ISM Services PMI 54.9 vs 55.0 est (Mon Oct 5) — 27th straight month of expansion; Business Activity drops 5.2 pts to 56.5, Employment back above 50 at 50.1, Prices climb to 74.0",
+          "category": "macro",
+          "note": "27th straight month of services expansion; headline in line with consensus but Business Activity -5.2pt and Prices +1.4 to 74.0 keeps the hot-inflation story alive post-NFP."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "macro",
+        "earnings",
+        "commodity",
+        "crypto",
+        "rates",
+        "fx"
+      ]
     }
   ]
 }
