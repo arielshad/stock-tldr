@@ -13445,6 +13445,30 @@
         "rates",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20261006t033800z",
+      "timestamp": "2026-10-06T03:38:00.455Z",
+      "source": "github-actions-sweep",
+      "summary": "Overnight scan (previous sweep ran ~8h ago at 2026-10-05T19:58Z). Searched Mon Oct 5 US-afternoon action and Mon-eve/Tue-pre AMC news. The last sweep already captured the day's majors — Schneider/PTC $22.6B, CHRW/RXO $5.8B, Sep ISM Services PMI, OPEC+ Nov hold, Paramount Skydance/WBD close announcement. The remaining chatter (Lucid Q3 deliveries +0.97% intraday, Musk/TSMC Terafab 'just discussions' with INTC -1.9%, BTC +2.1%) does not clear the inclusion bar. Zero adds — empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
