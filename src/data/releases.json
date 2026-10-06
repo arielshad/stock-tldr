@@ -1,8 +1,210 @@
 {
-  "generatedAt": "2026-10-06T03:38:00.455Z",
+  "generatedAt": "2026-10-06T17:41:40.748Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ceg-googl-nuclear-890mw-oct-6-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Constellation Energy (CEG) +~15% to ~$307 Tue Oct 6 — Google signs 20-year PPA for 890 MW of new nuclear capacity across 11 reactors in IL/PA/NJ + 15-year supply deal for 2.7 GW; $4.3B investment",
+      "org": "Constellation Energy",
+      "tickers": [
+        "CEG",
+        "GOOGL",
+        "GOOG"
+      ],
+      "date": "2026-10-06",
+      "url": "https://www.googlecloudpresscorner.com/2026-10-06-Google-and-Constellation-Announce-Landmark-Agreement-to-Bring-890-MW-of-New-Nuclear-Capacity-to-PJM-Grid-as-Part-of-Long-Term-Power-Deal",
+      "summary": "Google locks in 890 MW of new nuclear uprates from Constellation under a 20-year PPA + a 15-year 2.7 GW energy supply deal, with $4.3B of upgrade capex across 11 reactors. CEG closes +~15% to ~$307.",
+      "tags": [
+        "nuclear",
+        "ppa",
+        "ai-capex",
+        "data-center-power",
+        "pjm",
+        "uprate",
+        "clean-energy",
+        "gemini-enterprise"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Deal value": "$4.3B investment by Constellation",
+        "New nuclear capacity": "890 MW across 11 reactors (IL, PA, NJ)",
+        "PPA tenor": "20 years",
+        "Second deal": "15-year 2,700 MW energy supply agreement",
+        "CEG move": "+~15% to ~$306.98",
+        "Jobs": "4,400 sustained + 7,200 construction"
+      },
+      "explainer": {
+        "tagline": "Google backstops 890 MW of new nuclear uprates with a 20-year PPA, and separately locks in 2.7 GW of firm PJM supply for 15 years.",
+        "whatIsIt": "Alphabet's Google and Constellation Energy announced a long-term strategic clean-energy collaboration on Tuesday Oct 6, 2026. Google will offtake 890 MW of new nuclear capacity to be unlocked by upgrades at 11 existing Constellation-owned reactors in Illinois, Pennsylvania and New Jersey, delivered into the PJM Interconnection grid. The 890 MW is contracted under a 20-year PPA. In parallel, the two companies signed a 15-year 2,700 MW energy supply agreement from Constellation's broader PJM fleet.",
+        "howItWorks": "The 890 MW is a nuclear uprate program — modernised turbines, steam generators and digital control systems that raise thermal and electrical efficiency at each reactor rather than new builds. Constellation commits ~$4.3B of investment, sustaining ~4,400 existing jobs and creating ~7,200 construction jobs over the build-out. First uprate deliveries are expected in 2028. The companies also signed a 5-year technology alliance under which Constellation deploys Google Cloud + Gemini Enterprise for site selection, outage management and infrastructure protection.",
+        "whyItMatters": "This is the largest commercial nuclear uprate PPA announced to date for a US hyperscaler and extends the thesis that AI data-center load is turning existing nuclear fleets into long-dated infrastructure. CEG closed +~15% to ~$306.98, dragging other nuclear and small-modular-reactor names higher. Alphabet closes about flat as the cost sits inside a 20-year supply contract.",
+        "forWho": "AI-infra investors, power & utilities desks, nuclear supply chain",
+        "tryIt": "https://finance.yahoo.com/quote/CEG"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108177393-1753483898245-gettyimages-2227026811-dsc01060_copy_kiwfaftp.jpeg?v=1753484001",
+        "alt": "Constellation Energy nuclear plant cooling towers at dusk",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Joint press release",
+          "url": "https://www.googlecloudpresscorner.com/2026-10-06-Google-and-Constellation-Announce-Landmark-Agreement-to-Bring-890-MW-of-New-Nuclear-Capacity-to-PJM-Grid-as-Part-of-Long-Term-Power-Deal"
+        },
+        {
+          "label": "CNBC coverage",
+          "url": "https://www.cnbc.com/amp/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html"
+        },
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/google-signs-20-year-nuclear-deal-with-constellation-energy-to-power-ai-build-out-131104702.html"
+        },
+        {
+          "label": "CEG quote",
+          "url": "https://finance.yahoo.com/quote/CEG"
+        }
+      ],
+      "reddit": {
+        "title": "Constellation Energy +~15% to ~$307 — Google signs 20-year PPA for 890 MW of new nuclear uprates plus a 15-year 2.7 GW supply deal",
+        "body": "Google and Constellation Energy signed the biggest commercial nuclear uprate deal yet to feed AI data centers.\n\n* **PPA**: 20-year power purchase agreement for 890 MW of **new** nuclear capacity\n* **How**: equipment upgrades at 11 Constellation-owned reactors in IL, PA and NJ (turbines, steam generators, digital controls)\n* **Also**: separate 15-year energy supply agreement for an additional 2,700 MW from PJM fleet\n* **Investment**: ~$4.3B by Constellation; ~4,400 jobs sustained + ~7,200 construction jobs\n* **Timing**: first uprate expected 2028\n* **Market**: CEG closed +~15% to ~$306.98; GOOGL closed roughly flat\n\nContext — hyperscalers are turning the existing US nuclear fleet into long-dated AI-infra supply. Constellation will also run Google Cloud + Gemini Enterprise under a 5-year tech alliance for site/outage/security planning.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ceg-googl-nuclear-890mw-oct-6-2026](https://stock-tldr.xyz/releases/ceg-googl-nuclear-890mw-oct-6-2026)"
+      },
+      "publishDate": "2026-10-06T17:41:40.748Z"
+    },
+    {
+      "id": "mrvl-investor-day-fy28-20b-oct-6-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Marvell (MRVL) +5.3% close $285.77 Tue Oct 6 — Investor Day lifts FY28 revenue target to ~$20B (vs ~$18.2B Street) and sets FY31 revenue at $70–90B on a $400B AI TAM by 2030",
+      "org": "Marvell Technology",
+      "tickers": [
+        "MRVL",
+        "AVGO"
+      ],
+      "date": "2026-10-06",
+      "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-after-company-raises-2028-revenue-outlook-to-20-billion-155038471.html",
+      "summary": "Marvell's 2026 Investor Day raises FY28 revenue target to ~$20B (67% Y/Y growth) and sets a FY31 revenue model of $70–90B on a $400B AI-infrastructure TAM by 2030. MRVL closes +5.3% at $285.77.",
+      "tags": [
+        "ai-infra",
+        "custom-silicon",
+        "hyperscaler",
+        "data-center",
+        "investor-day",
+        "fy28",
+        "semis"
+      ],
+      "importance": "major",
+      "metrics": {
+        "FY28 revenue target": "~$20B (vs ~$18.2B Street est, ~$18B Aug guide)",
+        "FY28 growth": "~67% Y/Y",
+        "FY31 revenue model": "$70–90B",
+        "AI TAM by 2030": "$400B",
+        "MRVL close": "+5.30% to $285.77 (+$14.38)"
+      },
+      "explainer": {
+        "tagline": "Marvell lifts FY28 revenue to ~$20B and models $70–90B by FY31 on a $400B 2030 AI-infra TAM.",
+        "whatIsIt": "Marvell Technology hosted its 2026 Investor Day in New York on Tuesday Oct 6. CEO Matt Murphy and CFO Dan Durn unveiled a new long-term financial model targeting ~$20B of FY28 revenue (year ending Jan 2028), up from the ~$18B August guide and ahead of the ~$18.2B LSEG consensus. The company set an FY31 revenue range of $70–90B, with a midpoint ($80B) well above the Street's prior ~$46.85B FY30 estimate.",
+        "howItWorks": "The raise is driven by custom silicon demand from the four largest hyperscalers (Amazon, Google, Microsoft, Meta) plus the previously-disclosed Aug 18 Google deal that could generate up to $120B of cumulative Marvell revenue through FY33 contingent on milestones. Management sized the AI-infrastructure TAM at $400B by 2030 and said FY28's ~$20B implies ~67% Y/Y growth. Murphy: 'We expect approximately $20 billion in total company revenue in FY28, representing about 67% year-over-year growth.'",
+        "whyItMatters": "The step-up tightens Marvell's bull case versus Broadcom (AVGO +~4% on the day) in custom AI silicon. MRVL closed +5.30% to $285.77 after trading up as much as ~9.7% intraday, extending the YTD run to >240%. The 2030 TAM number also sets a reference point for other merchant AI-infra names.",
+        "forWho": "AI-infra equity investors, semi analysts, hyperscaler-exposure traders",
+        "tryIt": "https://finance.yahoo.com/quote/MRVL"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/ad8702a42aa1579846f299dbb256c123c3c32bbdafef89eeb5a5321c2ccde4ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ffbc45ad7-cec5-4408-b9ba-128939f4cec3",
+        "alt": "Marvell Technology logo and semiconductor wafer",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Reuters via Yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-after-company-raises-2028-revenue-outlook-to-20-billion-155038471.html"
+        },
+        {
+          "label": "Marvell event page",
+          "url": "https://www.marvell.com/company/events/investor-day-2026.html"
+        },
+        {
+          "label": "MRVL quote",
+          "url": "https://finance.yahoo.com/quote/MRVL"
+        }
+      ],
+      "reddit": {
+        "title": "Marvell +5.3% to $285.77 — Investor Day lifts FY28 revenue to ~$20B (67% Y/Y) and models $70–90B by FY31",
+        "body": "Marvell held its 2026 Investor Day in NYC today and gave the AI-infra bulls a new target to chase.\n\n* **FY28 revenue**: ~$20B, implying ~67% Y/Y growth\n* **vs Street**: LSEG consensus was ~$18.2B; Aug guide was ~$18B\n* **FY31 revenue model**: $70–90B (midpoint ~$80B vs Street's prior ~$46.85B FY30 est)\n* **AI TAM**: $400B by 2030\n* **Custom silicon**: wins across all four largest hyperscalers (AMZN, GOOGL, MSFT, META); Google warrant deal from Aug could generate up to $120B through FY33\n* **MRVL**: closed +5.30% to $285.77 (+$14.38); up as much as ~9.7% intraday\n* **AVGO**: +~4% on sector read-through\n\nCEO Matt Murphy: 'We expect approximately $20 billion in total company revenue in FY28, representing about 67% year-over-year growth.'\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrvl-investor-day-fy28-20b-oct-6-2026](https://stock-tldr.xyz/releases/mrvl-investor-day-fy28-20b-oct-6-2026)"
+      },
+      "publishDate": "2026-10-06T17:41:40.748Z"
+    },
+    {
+      "id": "cbrs-altman-close-partner-oct-5-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Cerebras (CBRS) +9.1% to $181.55 Mon Oct 5 — Sam Altman X post calls Cerebras a 'close partner' with 'deep engagement pushing on the frontiers of speed', reversing the Sep 30 SemiAnalysis selloff",
+      "org": "Cerebras Systems",
+      "tickers": [
+        "CBRS"
+      ],
+      "date": "2026-10-05",
+      "url": "https://finance.yahoo.com/markets/article/cerebras-stock-pops-after-openai-ceo-altman-lauds-close-partner-105240308.html",
+      "summary": "Cerebras rebounds 9% after OpenAI CEO Sam Altman posts on X that the chipmaker is a 'close partner' with 'deep engagement' — unwinding the Sep 30 SemiAnalysis sell-off that had broken CBRS below its $185 IPO price.",
+      "tags": [
+        "ai-infra",
+        "ai-chip",
+        "openai",
+        "wafer-scale",
+        "inference",
+        "altman",
+        "sentiment-rally"
+      ],
+      "importance": "major",
+      "metrics": {
+        "CBRS Oct 5 close": "+9.1% to $181.55 (from Oct 2 close $166.43)",
+        "Prior deal size": "$10B+ OpenAI contract (announced Jan + expanded Jun) for 750 MW of inference compute",
+        "IPO reference": "$185 (May 14, 2026)",
+        "YTD context": "stock had rolled below IPO on Sep 30 SemiAnalysis note"
+      },
+      "explainer": {
+        "tagline": "A one-line Altman post on X is enough to put ~$2B of market cap back on Cerebras.",
+        "whatIsIt": "Cerebras Systems (CBRS) jumped 9.1% to $181.55 on Monday Oct 5 2026 after OpenAI CEO Sam Altman posted on X: 'Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.' The post reassures investors who had sold the stock below its $185 IPO price after a Sep 30 SemiAnalysis note said OpenAI's 'Ultrafast' mode on GPT-6.1 Sol was running on Nvidia GPUs at a low batch size instead of Cerebras wafer-scale chips.",
+        "howItWorks": "The Altman post neither confirms a new order nor changes the mechanics of the existing commitment, which still consists of the ~$10B+ multi-year OpenAI compute deal first announced in January 2026 and expanded at Cerebras' Q1 FY26 release in June to cover 750 MW of inference compute. What it does is cap the downside interpretation of the SemiAnalysis note — that OpenAI is quietly stepping away from Cerebras — by having the counterparty publicly affirm the engagement.",
+        "whyItMatters": "CBRS had traded under its $185 IPO price for a full week on fears OpenAI was de-emphasising Cerebras. The 9% snap-back is sentiment-driven — no new revenue data, no new contract — but it restores the narrative that Cerebras remains inside OpenAI's inference stack alongside Nvidia. Watch whether follow-through holds through Cerebras' next earnings print and any granularity on OpenAI compute mix.",
+        "forWho": "AI-chip traders, OpenAI-supply-chain watchers, Cerebras IPO holders",
+        "tryIt": "https://finance.yahoo.com/quote/CBRS"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994",
+        "alt": "Cerebras Systems IPO day banner at Nasdaq",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/cerebras-stock-pops-after-openai-ceo-altman-lauds-close-partner-105240308.html"
+        },
+        {
+          "label": "CNBC coverage",
+          "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html"
+        },
+        {
+          "label": "CBRS quote",
+          "url": "https://finance.yahoo.com/quote/CBRS"
+        }
+      ],
+      "reddit": {
+        "title": "Cerebras +9.1% to $181.55 — Sam Altman calls it a 'close partner' on X, reversing last week's SemiAnalysis selloff",
+        "body": "Cerebras (CBRS) ripped +9.1% to $181.55 Monday on a one-sentence Altman post.\n\n* **Catalyst**: Sam Altman on X — 'Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.'\n* **Why it matters**: CBRS had traded below its $185 May IPO price for a week after a Sep 30 SemiAnalysis note said OpenAI's GPT-6.1 Sol 'Ultrafast' mode runs on Nvidia GPUs instead of Cerebras wafer-scale chips.\n* **Underlying deal**: unchanged — $10B+ multi-year OpenAI compute commitment, now covering 750 MW of inference compute (announced Jan, expanded Jun).\n* **Framing**: no new order, no new revenue data — a sentiment rebound as the counterparty publicly affirmed the engagement.\n\nNext catalysts: next CBRS quarterly print and any granularity from OpenAI on compute allocation between Nvidia and Cerebras.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cbrs-altman-close-partner-oct-5-2026](https://stock-tldr.xyz/releases/cbrs-altman-close-partner-oct-5-2026)"
+      },
+      "publishDate": "2026-10-06T17:41:40.748Z"
+    },
     {
       "id": "schneider-ptc-226b-oct-5-2026",
       "categories": [

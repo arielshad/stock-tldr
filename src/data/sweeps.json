@@ -13469,6 +13469,48 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261006t174140z",
+      "timestamp": "2026-10-06T17:41:40.748Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Oct 5–6 single-name AI-infra items added: Constellation Energy's $4.3B / 890 MW 20-year nuclear PPA with Google (CEG +~15%), Marvell's Investor Day FY28 and FY31 model raise (MRVL +5.3%), and Cerebras's +9% snap-back after Sam Altman reaffirmed the OpenAI partnership on X.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ceg-googl-nuclear-890mw-oct-6-2026",
+          "title": "Constellation Energy (CEG) +~15% to ~$307 Tue Oct 6 — Google signs 20-year PPA for 890 MW of new nuclear capacity across 11 reactors in IL/PA/NJ + 15-year supply deal for 2.7 GW; $4.3B investment",
+          "category": "mover",
+          "note": "Largest commercial nuclear uprate PPA to a US hyperscaler; CEG +~15% intraday; primary source: joint Google/Constellation press release Oct 6."
+        },
+        {
+          "id": "mrvl-investor-day-fy28-20b-oct-6-2026",
+          "title": "Marvell (MRVL) +5.3% close $285.77 Tue Oct 6 — Investor Day lifts FY28 revenue target to ~$20B (vs ~$18.2B Street) and sets FY31 revenue at $70–90B on a $400B AI TAM by 2030",
+          "category": "mover",
+          "note": "FY28 revenue target raised to ~$20B (vs ~$18.2B Street) with new $70–90B FY31 model and $400B 2030 AI TAM; distinct from the Sep 9 FY28 guide-raise (which lifted FY28 from ~$13.5B → ~$18B)."
+        },
+        {
+          "id": "cbrs-altman-close-partner-oct-5-2026",
+          "title": "Cerebras (CBRS) +9.1% to $181.55 Mon Oct 5 — Sam Altman X post calls Cerebras a 'close partner' with 'deep engagement pushing on the frontiers of speed', reversing the Sep 30 SemiAnalysis selloff",
+          "category": "mover",
+          "note": "Reactive +9% move on Altman X post reaffirming existing OpenAI commitment; separates from the Jun 23 Q1-print OpenAI-deal item and the Aug 12 Q2 earnings item."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "macro",
+        "earnings",
+        "mna",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
