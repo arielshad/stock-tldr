@@ -13536,6 +13536,40 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261007t181235z",
+      "timestamp": "2026-10-07T18:12:35.407Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two items from the last 24h: the McKesson+CD&R $5.8B all-cash take-private of Option Care Health announced Mon Oct 6, and the Sept 15-16 FOMC minutes released Wed Oct 7 (confirming the unanimous 25bp hike with 'most participants' seeing one more 25bp by year-end as 10Y/30Y Treasury yields hit fresh 24-year highs at 5.36% / 5.73%). Scanned earnings, macro, M&A, Fed, rates. STZ earnings beat but reaction was tied to broader market weakness; left out as not a clean single-name event.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "opch-mckesson-cdr-58b-oct-6-2026",
+          "title": "Option Care Health (OPCH) to go private at $32.05/share — CD&R + McKesson sign $5.8B definitive deal Mon Oct 6, 2026; 37% premium to Oct 5 close; OPCH jumps ~33% to ~$31",
+          "category": "mna",
+          "note": "Second $5B+ healthcare take-private of 2026; staged structure (PE control + strategic step-up option) is novel for McKesson. OPCH +~33% is the clean mover; no existing entry."
+        },
+        {
+          "id": "fomc-sep-2026-minutes-oct-7",
+          "title": "Fed September 15-16 2026 FOMC minutes (released Wed Oct 7) — unanimous 25bp hike to 3.75–4.00% confirmed; 'most participants' saw another 25bp by year-end as inflation 'remained elevated'; 10Y touches 5.36%, 30Y 5.73% — fresh 24-year highs",
+          "category": "macro",
+          "note": "Follows the feed's canonical pattern of a dedicated minutes entry (see Apr, Jun, Jul 2026 minutes). The Sept FOMC decision entry is separate; this entry adds the 'remained elevated' / 'most participants / one more hike' details plus the 24-year-high yield context."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "macro",
+        "rates",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
