@@ -13608,6 +13608,51 @@
         "crypto",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261008t181708z",
+      "timestamp": "2026-10-08T18:17:08.443Z",
+      "source": "github-actions-sweep",
+      "summary": "Oct 8 2026 sweep: 4 adds. AI-chip complex sells off on FT scoop that OpenAI run-rate is ~$50B (not ~$70B); SOX -3.8%, Oracle -4.8%, CoreWeave -7.4%, Nvidia -3%. PepsiCo Q3 beat-and-cut (rev $25.27B, core EPS $2.34; FY26 core EPS growth guide trimmed to +2.5–3.5%). Crescent Energy to buy Devon's Eagle Ford for ~$3.85B net. Viatris to buy Pacira at $36.50 cash (~44.8% premium) for ~$1.65B.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "openai-ft-50b-arr-chip-rout-oct-8-2026",
+          "title": "AI chip complex sells off Thursday Oct 8 — SPDR S&P Semi ETF (XSD) -4.3%, PHLX Semiconductor Index (SOX) -3.8%, Nasdaq -1% after FT reports OpenAI annualized revenue was ~$50B at end-Sept vs ~$70B investors assumed; Oracle (ORCL) -4.77% to $136.71, CoreWeave (CRWV) -7.35% to $81.95, Nvidia (NVDA) -3.02% to $230.30",
+          "category": "sector",
+          "note": "Front-page story reshaping AI-capex math. Index-level and primary-name moves far clear the inclusion bar; tier-1 FT/CNBC coverage."
+        },
+        {
+          "id": "pep-q3-fy26-earnings-oct-8-2026",
+          "title": "PepsiCo (PEP) Q3 FY26 (Thu Oct 8 premarket) — net revenue $25.27B (+5.6%) beats ~$25.0B est, organic revenue +3.1%, core EPS $2.34 (+2%) beats ~$2.30 est, GAAP EPS $2.23 (+17%); FY26 core EPS guide CUT to +2.5–3.5% (prior low end of +5–7%) as core constant-currency EPS trimmed to +1–2% (prior +4–6%); PEP +~2.7% intraday to $127.04",
+          "category": "earnings",
+          "note": "Mega-cap staples print. Beat on both lines but FY26 EPS growth guide cut materially — concrete catalyst for staples/beverages tape."
+        },
+        {
+          "id": "crgy-devon-eagle-ford-385b-oct-8-2026",
+          "title": "Crescent Energy (CRGY) to acquire Devon Energy's (DVN) Eagle Ford assets — Thu Oct 8 definitive agreement at ~$3.85B net ($4.22B gross cash subject to adjustments after Jul 1 effective date); ~68 Mboe/d net production, 600+ Tier 1 10,000-ft net locations in Karnes Trough; $2B JPM/RBC bridge; close Q4 2026 or early 2027; CRGY -~3% to ~$13.05",
+          "category": "mna",
+          "note": "Primary-source 8-K M&A: ~$3.85B net cash, 68 Mboe/d, Eagle Ford consolidation story continues."
+        },
+        {
+          "id": "vtrs-pcrx-165b-oct-8-2026",
+          "title": "Viatris (VTRS) to acquire Pacira BioSciences (PCRX) at $36.50/share cash — Thu Oct 8 definitive agreement, ~$1.65B equity value, ~44.8% premium to Tue Oct 7 close of $25.20; 10-business-day tender offer, expected to close by end of 2026; PCRX +~44% to ~$36.31; VTRS -1.1% to $17.29",
+          "category": "mna",
+          "note": "Primary-source 8-K M&A: $36.50 cash tender at ~44.8% premium, ~$1.65B equity value, PCRX +44% on the day."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "sector",
+        "mover",
+        "earnings",
+        "mna"
+      ]
     }
   ]
 }
