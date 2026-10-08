@@ -13570,6 +13570,44 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261008t033245z",
+      "timestamp": "2026-10-08T03:32:45.913Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep for 2026-10-08 (early Thursday UTC). Added two Oct 7 2026 earnings prints: Levi Strauss Q3 FY26 (tariff-refund-driven beat, FY26 EPS guide raised to $1.54-$1.56, dividend +14%, DTC undershoots) and Applied Digital Q1 FY27 (revenue +322% Y/Y, up to ~1 GW Finland capacity secured as first international step, Polaris Forge 1 live at 250 MW, 1,200 MW ND gas PPA). No seismic events. FOMC Sep 2026 minutes (Oct 7) and PSKY-WBD close (Oct 6) already in feed; PepsiCo Q3 and Delta Q3 scheduled for Oct 8 / Oct 9 and not yet filed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "levi-q3-fy26-earnings-oct-7-2026",
+          "title": "Levi Strauss (LEVI) Q3 FY26 (Wed Oct 7 after close) — adj EPS $0.48 vs $0.36 est, revenue $1.61B (+4% rpt / +5% organic); IEEPA tariff refunds of $78.6M add 490 bps to gross margin; FY26 adj EPS guide RAISED to $1.54-$1.56 (from $1.46-$1.52) and gross margin +130 bps (from +10 bps); dividend +14% to $0.16; DTC falls short of internal plan; LEVI -1.6% overnight to $19.20",
+          "category": "earnings",
+          "note": "LEVI Q3 FY26 — primary source: SEC 8-K/Exhibit 99.1 filed Oct 7 2026. Earnings beat ($0.48 adj vs $0.36 est) driven overwhelmingly by $78.6M IEEPA tariff refund. FY26 adj EPS guide raised to $1.54-$1.56 (from $1.46-$1.52). Dividend +14% + $100M ASR. DTC softness (comp +0.4%) is the one blemish. Muted AH reaction (-1.59% overnight) tells the market read it as refund-driven not demand-driven."
+        },
+        {
+          "id": "apld-q1-fy27-earnings-oct-7-2026",
+          "title": "Applied Digital (APLD) Q1 FY27 (Wed Oct 7 after close) — revenue $341.9M (+322% Y/Y), GAAP loss $(0.76)/sh ex-discontinued; Adj EBITDA $64.4M; Polaris Forge 1 at 250 MW live Oct 1; secures up to ~1 GW power capacity in Finland (first int'l); 1,200 MW Base Electron ND gas PPA; APLD -6.0% close pre-release, +5.2% overnight to $25.04",
+          "category": "earnings",
+          "note": "APLD Q1 FY27 — primary source: SEC 8-K earnings release filed Oct 7 2026 (call 5pm ET). Revenue $341.9M, +322% Y/Y, HPC Hosting dominant. New post-quarter disclosures: Finland up to ~1 GW (first international), Polaris Forge 1 at 250 MW live, Base Electron 1,200 MW ND gas PPA. GAAP loss $(221)M but Adj EBITDA $64.4M. Stock +5.2% overnight on Blue Ocean ATS, suggesting positive reaction to the composite story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "ai-infrastructure",
+        "data-center",
+        "apparel",
+        "tariffs",
+        "macro",
+        "mna",
+        "crypto",
+        "mover"
+      ]
     }
   ]
 }
