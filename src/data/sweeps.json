@@ -13653,6 +13653,30 @@
         "earnings",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20261009t032545z",
+      "timestamp": "2026-10-09T03:25:45.567Z",
+      "source": "github-actions-sweep",
+      "summary": "Thu Oct 8 2026 ~23:23 ET sweep (9h after prior cron at 18:17Z). Checked US equity after-hours earnings calendar, tier-1 markets wires, Fed/Treasury, crypto, and the OpenAI-$50B-ARR chip-rout angle. All market-moving Oct 8 items were already captured in the previous sweep (chip rout, PepsiCo Q3, Crescent/Devon $3.85B Eagle Ford, Viatris/Pacira $1.65B). Oct 8 after-hours earnings tickers (NRIX, HIFS, ODC, PKE, ATZ, T.GOL) are small/micro caps below the Stock/TLDR inclusion bar. Delta (DAL) Q3 is Oct 9 BMO — hold for the next sweep. Zero qualifying new items.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
