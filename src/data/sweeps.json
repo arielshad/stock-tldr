@@ -13677,6 +13677,36 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261009t174432z",
+      "timestamp": "2026-10-09T17:44:32.429Z",
+      "source": "github-actions-sweep",
+      "summary": "Scanned Oct 7-9 for market-moving items. Added one: Delta Q3 FY26 earnings print on Fri Oct 9 (adj EPS $1.72, FY26 EPS guide cut to $5.10-$5.60 from $6.50-$7.50 on $6B fuel cost increase) — kicks off Q3 earnings season.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dal-q3-fy26-earnings-oct-9-2026",
+          "title": "Delta Air Lines (DAL) Q3 FY26 (Fri Oct 9 premarket) — adj EPS $1.72 vs $1.70 Y/Y, adj revenue $17.6B (+16% Y/Y); FY26 EPS guide CUT to $5.10-$5.60 from $6.50-$7.50 as Delta absorbs a $6B fuel cost increase; Q4 adj EPS guide $1.15-$1.65 on ~20% revenue growth",
+          "category": "earnings",
+          "note": "First mega-cap report of Q3 earnings season; the FY26 EPS cut from $6.50-$7.50 to $5.10-$5.60 (midpoint ~$5.35 vs ~$7.00) reframes the airline group ahead of UAL/AAL."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "regulatory",
+        "rates",
+        "commodity"
+      ]
     }
   ]
 }
