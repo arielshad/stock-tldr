@@ -13707,6 +13707,43 @@
         "rates",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261010t031346z",
+      "timestamp": "2026-10-10T03:13:46.885Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two Oct 9 2026 market stories: (1) a US wireless-carrier sector rout triggered by SpaceX's Thu Oct 8 agreement to buy Grain Management's 800 MHz spectrum portfolio for Starlink Mobile (TMUS -13.3%, VZ -8.8%, T -9.8%, SPCX +1.3%); (2) Moderna's Nasdaq-100 inclusion effective pre-open Oct 9, replacing Warner Bros Discovery, with MRNA +14.21% to a 4-year high of $225.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "telecom-rout-spacex-grain-spectrum-oct-9-2026",
+          "title": "US wireless carriers rout Fri Oct 9 — TMUS -13.27%, VZ -8.75%, T -9.81% after SpaceX agrees to buy Grain Management's 800 MHz spectrum (announced Thu Oct 8 afternoon)",
+          "category": "sector",
+          "note": "Big Three US carriers all down 8-13% on a single day — sector-wide move with a named primary-source catalyst (SpaceX/Grain press release Oct 8, Musk X post, WSJ/Light Reading/Via Satellite coverage)."
+        },
+        {
+          "id": "mrna-nasdaq-100-inclusion-oct-9-2026",
+          "title": "Moderna (MRNA) +14.21% to $225 Fri Oct 9 — enters the Nasdaq-100, replacing Warner Bros Discovery (WBD) before the open",
+          "category": "mover",
+          "note": "Nasdaq-100 inclusion effective pre-open Oct 9 (announced Oct 1) drove MRNA +14.21% to a 4-year high — primary-source Nasdaq press release, confirmed via Yahoo price history."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "earnings",
+        "macro",
+        "mna",
+        "regulatory",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

@@ -1,8 +1,164 @@
 {
-  "generatedAt": "2026-10-09T17:44:32.429Z",
+  "generatedAt": "2026-10-10T03:13:46.885Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "telecom-rout-spacex-grain-spectrum-oct-9-2026",
+      "categories": [
+        "sector",
+        "mover"
+      ],
+      "title": "US wireless carriers rout Fri Oct 9 — TMUS -13.27%, VZ -8.75%, T -9.81% after SpaceX agrees to buy Grain Management's 800 MHz spectrum (announced Thu Oct 8 afternoon)",
+      "org": "SpaceX",
+      "date": "2026-10-09",
+      "url": "https://www.lightreading.com/satellite/spacex-grain-s-lowband-spectrum-is-our-ticket-to-becoming-major-mobile-carrier-",
+      "summary": "SpaceX agreed Thu Oct 8 to acquire 100% of Grain Management's 14 MHz paired 800 MHz low-band spectrum (reportedly $8B cash, per WSJ) to anchor Starlink Mobile. The Big Three carriers cratered Fri Oct 9.",
+      "tickers": [
+        "TMUS",
+        "VZ",
+        "T",
+        "SPCX"
+      ],
+      "metrics": {
+        "TMUS close": "$148.58 (-13.27%)",
+        "VZ close": "$41.65 (-8.75%)",
+        "T close": "$22.18 (-9.81%)",
+        "SPCX close": "$162.57 (+1.25%)",
+        "Spectrum": "14 MHz paired 800 MHz low-band",
+        "Reported price": "$8B cash (WSJ)",
+        "Status": "Subject to FCC approval"
+      },
+      "importance": "major",
+      "tags": [
+        "spacex",
+        "starlink-mobile",
+        "direct-to-cell",
+        "spectrum",
+        "grain-management",
+        "800mhz",
+        "telecom",
+        "wireless-carriers",
+        "tmus",
+        "verizon",
+        "att",
+        "sector-rout"
+      ],
+      "explainer": {
+        "tagline": "SpaceX locks in low-band spectrum for Starlink Mobile; T-Mobile, Verizon, AT&T all crater as a satellite-first mobile rival takes shape.",
+        "whatIsIt": "SpaceX announced Thursday afternoon Oct 8 2026 that it will acquire 100% of Grain Management's 800 MHz spectrum portfolio — up to 14 MHz of paired low-band spectrum — for use with Starlink Mobile. The deal is subject to FCC approval. Terms were not disclosed by the parties, but the Wall Street Journal reports SpaceX will pay roughly $8B in cash.",
+        "howItWorks": "Grain itself had acquired the 800 MHz portfolio from T-Mobile in August 2026 for $2.9B in cash plus Grain's 600 MHz holdings. On Friday Oct 9 the Big Three US wireless carriers sold off hard: TMUS -13.27% to $148.58, VZ -8.75% to $41.65 (with an Oct 9 ex-dividend) and T -9.81% to $22.18 (also ex-div). SpaceX (SPCX) rose 1.25% to $162.57. Elon Musk framed the deal on X as 'the last critical piece of the spectrum puzzle.'",
+        "whyItMatters": "Low-band 800 MHz penetrates walls and roofs — the gap in SpaceX's existing high-band EchoStar portfolio that forced analysts to view Starlink Mobile as a coverage layer, not a Big Three substitute. With this block in hand SpaceX can credibly target 'major mobile carrier' status in the US rather than selling capacity wholesale to Verizon/AT&T/T-Mobile. Street views split: LightShed sees a terrestrial base layer, MoffettNathanson and New Street think SpaceX still needs an MVNO deal with a Big Three, Evercore calls it mostly a coverage fix.",
+        "forWho": "telecom equity desks, satellite / space investors, tower REIT holders",
+        "tryIt": "https://finance.yahoo.com/quote/TMUS/"
+      },
+      "image": {
+        "url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt33935be1d75a2370/6a315e9a69949700080421f2/SpaceX_HQ_exterior_in_hawthorne_CA_getty_images_RF.jpg?disable=upscale&width=1200&height=630&fit=crop",
+        "alt": "SpaceX headquarters exterior in Hawthorne, California",
+        "fit": "cover",
+        "credit": "Walter Cicchetti / Getty Images (via Light Reading)"
+      },
+      "links": [
+        {
+          "label": "Light Reading",
+          "url": "https://www.lightreading.com/satellite/spacex-grain-s-lowband-spectrum-is-our-ticket-to-becoming-major-mobile-carrier-"
+        },
+        {
+          "label": "Startup Fortune",
+          "url": "https://startupfortune.com/spacex-moves-to-buy-nationwide-low-band-spectrum-to-rival-us-carriers/"
+        },
+        {
+          "label": "Telcoma Trends",
+          "url": "https://telcomagazine.com/news/spacex-to-buy-800mhz-rights-from-grain-spectrum"
+        },
+        {
+          "label": "TMUS Quote",
+          "url": "https://finance.yahoo.com/quote/TMUS/"
+        },
+        {
+          "label": "VZ Quote",
+          "url": "https://finance.yahoo.com/quote/VZ/"
+        }
+      ],
+      "reddit": {
+        "title": "US wireless carriers get crushed on Fri Oct 9: TMUS -13.3%, T -9.8%, VZ -8.8% after SpaceX agrees to buy Grain's 800 MHz spectrum for Starlink Mobile",
+        "body": "SpaceX announced Thursday afternoon Oct 8 2026 that it will acquire 100% of Grain Management's 800 MHz spectrum portfolio — up to 14 MHz of paired low-band — for Starlink Mobile. WSJ pegs the price at ~$8B cash. Deal is subject to FCC approval. Here's the Friday carnage:\n\n* T-Mobile (TMUS) -13.27% to $148.58\n* AT&T (T) -9.81% to $22.18 (also ex-div)\n* Verizon (VZ) -8.75% to $41.65 (ex-div)\n* SpaceX (SPCX) +1.25% to $162.57\n* Grain bought the 800 MHz block from T-Mobile in Aug 2026 for $2.9B cash + Grain's 600 MHz\n\nWhy it hit so hard:\n\n1. **Low-band is the missing piece** — 800 MHz penetrates walls and buildings. Without it, Starlink Mobile was a rural coverage layer. With it, SpaceX can credibly target 'major mobile carrier' status rather than wholesale capacity to the Big Three.\n2. **Musk framed it as endgame** — his X post called the deal 'the last critical piece of the spectrum puzzle.'\n3. **Street views split** — LightShed sees terrestrial base; MoffettNathanson and New Street still think an MVNO with a Big Three is needed; Evercore calls it mostly a coverage fix.\n\nNext catalysts: FCC approval timeline, VZ Q3 Oct 20 and TMUS Q3 Oct 22 (per estimates), SpaceX commentary on Starlink Mobile launch cadence.\n\nFull breakdown: [https://stock-tldr.xyz/releases/telecom-rout-spacex-grain-spectrum-oct-9-2026](https://stock-tldr.xyz/releases/telecom-rout-spacex-grain-spectrum-oct-9-2026)"
+      },
+      "publishDate": "2026-10-10T03:13:46.885Z"
+    },
+    {
+      "id": "mrna-nasdaq-100-inclusion-oct-9-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Moderna (MRNA) +14.21% to $225 Fri Oct 9 — enters the Nasdaq-100, replacing Warner Bros Discovery (WBD) before the open",
+      "org": "Moderna",
+      "date": "2026-10-09",
+      "url": "https://finviz.com/news/398161/moderna-inc-to-join-the-nasdaq-100-index-beginning-october-9-2026",
+      "summary": "Moderna joined the Nasdaq-100 (NDX) before Friday Oct 9's open, replacing Warner Bros Discovery (WBD). The index tracks >$800B of indexed assets. MRNA closed +14.21% at a 4-year high.",
+      "tickers": [
+        "MRNA",
+        "WBD",
+        "NDX"
+      ],
+      "metrics": {
+        "MRNA close": "$225.00 (+14.21%)",
+        "MRNA prior close": "$197.00",
+        "Replacing": "Warner Bros Discovery (WBD)",
+        "Index AUM tracked": ">$800B",
+        "Announced": "Oct 1 2026",
+        "Effective": "Before market open Fri Oct 9 2026"
+      },
+      "importance": "major",
+      "tags": [
+        "index-inclusion",
+        "nasdaq-100",
+        "ndx",
+        "mrna",
+        "moderna",
+        "wbd",
+        "warner-bros-discovery",
+        "mover",
+        "biotech"
+      ],
+      "explainer": {
+        "tagline": "Index-driven buy wave meets a biotech that has sextupled in 2026, lifting MRNA to its highest close in four years.",
+        "whatIsIt": "Nasdaq announced on Oct 1 2026 that Moderna (MRNA) would join the Nasdaq-100 Index (NDX) before the open on Friday Oct 9, replacing Warner Bros Discovery (WBD). WBD is leaving ahead of the Oct 6 close of its $110B merger with Paramount Skydance. The Nasdaq-100 is tracked by over 200 investment products with more than $800B in indexed assets, forcing mechanical buying by index funds and ETFs that track NDX.",
+        "howItWorks": "MRNA closed Friday Oct 9 at $225.00, up $28.00 (+14.21%) from Thursday's $197.00 close, hitting a four-year high and bringing the shares' 2026 gain to more than 500%. Index-tracker rebalancing typically drives several sessions of flow as funds complete the swap into the new member and out of the departing one. The index add compounds a biotech rally that started with Moderna/Merck's Phase 3 melanoma vaccine readout in August 2026 and extended on expectations of further cancer-vaccine data this fall.",
+        "whyItMatters": "A Nasdaq-100 add on an already-crowded long means persistent passive bid for weeks, especially from QQQ, QQQM and NDX ETFs. The WBD removal is a window into how index exits around deal closes (here, the Paramount Skydance combination) force mechanical selling into closing auctions. For biotech allocators, MRNA's reinstatement in a mega-cap benchmark marks the Covid-era vaccine maker's shift to being tracked alongside the AI/tech complex.",
+        "forWho": "biotech equity investors, index arbs, ETF market-makers",
+        "tryIt": "https://finance.yahoo.com/quote/MRNA/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Moderna_Headquarters%2C_December_2020.jpg/1280px-Moderna_Headquarters%2C_December_2020.jpg",
+        "alt": "Moderna's headquarters in Cambridge, Massachusetts (December 2020)",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Nasdaq Announcement",
+          "url": "https://finviz.com/news/398161/moderna-inc-to-join-the-nasdaq-100-index-beginning-october-9-2026"
+        },
+        {
+          "label": "Autobound Mirror",
+          "url": "https://www.autobound.ai/companies/moderna/news/moderna-inc-to-join-the-nasdaq-100-index-beginning-october-9-26216f25"
+        },
+        {
+          "label": "MRNA Quote",
+          "url": "https://finance.yahoo.com/quote/MRNA/"
+        },
+        {
+          "label": "Moderna IR",
+          "url": "https://investors.modernatx.com/"
+        }
+      ],
+      "reddit": {
+        "title": "Moderna (MRNA) +14.21% to $225 Fri Oct 9 — joined the Nasdaq-100 before the open, replacing Warner Bros Discovery",
+        "body": "Nasdaq's Oct 1 press release confirmed MRNA would enter the Nasdaq-100 Index (NDX) before the open on Friday Oct 9 2026, replacing WBD ahead of the Oct 6 close of the $110B Paramount Skydance / WBD merger. The index tracks >$800B of indexed assets — mechanical buying by every QQQ/QQQM/NDX fund in size.\n\nFriday's print:\n\n* MRNA close $225.00, up $28.00 (+14.21%)\n* Prior close $197.00 (Thursday Oct 8)\n* 4-year high; 2026 YTD now >500%\n* Replacing WBD (exiting into the Paramount Skydance deal close)\n\nWhat's compounding the index-tracker bid:\n\n1. **Melanoma vaccine readout in August** — MRNA/Merck Phase 3 INTerpath-001 win sent the stock +177% on Aug 19 2026.\n2. **Cancer vaccine pipeline catalysts into year-end** — renal and bladder data on deck.\n3. **Index-fund rebalancing is sticky** — passive flow typically runs for days as funds complete the swap.\n\nNext catalysts: ESMO Congress (Madrid, late Oct) for Phase 2 melanoma full dataset, renal cell cancer interim read.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrna-nasdaq-100-inclusion-oct-9-2026](https://stock-tldr.xyz/releases/mrna-nasdaq-100-inclusion-oct-9-2026)"
+      },
+      "publishDate": "2026-10-10T03:13:46.885Z"
+    },
     {
       "id": "dal-q3-fy26-earnings-oct-9-2026",
       "categories": [
