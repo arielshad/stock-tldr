@@ -13744,6 +13744,42 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261010t163624z",
+      "timestamp": "2026-10-10T16:36:24.620Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two Oct 8-9 items: the OCC's $350M AML cease-and-desist against American Express National Bank citing ~$13B of missed trade-based money laundering, and the UMich preliminary October consumer sentiment print at 46.3 vs 47.6 est with a sharp Current Conditions drop and inflation expectations ticking higher.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "axp-occ-fed-350m-aml-oct-8-2026",
+          "title": "OCC fines American Express National Bank $350M civil money penalty on Thu Oct 8 — BSA/AML program failed to flag ~$13B of suspected trade-based money laundering over past decade; Fed issues separate order against parent AXP",
+          "category": "regulatory",
+          "note": "Primary-source OCC + Fed enforcement actions Oct 8; $350M civil money penalty + decade-scale AML findings not previously in the feed."
+        },
+        {
+          "id": "umich-sentiment-prelim-october-2026",
+          "title": "U.S. October 2026 preliminary University of Michigan consumer sentiment 46.3 vs 47.6 est on Fri Oct 9 — 5-month low; Current Conditions crashes -12.2% to 44.7; 1Y inflation expectations tick to 4.7% from 4.6%",
+          "category": "macro",
+          "note": "Oct 9 preliminary consumer sentiment release at 46.3 vs 47.6 est — 5-month low with inflation expectations ticking higher; the next UMich print after the September final already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "regulatory",
+        "macro",
+        "earnings",
+        "mna",
+        "crypto",
+        "rates",
+        "commodity"
+      ]
     }
   ]
 }

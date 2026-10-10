@@ -1,8 +1,163 @@
 {
-  "generatedAt": "2026-10-10T03:13:46.885Z",
+  "generatedAt": "2026-10-10T16:36:24.620Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "axp-occ-fed-350m-aml-oct-8-2026",
+      "categories": [
+        "regulatory"
+      ],
+      "title": "OCC fines American Express National Bank $350M civil money penalty on Thu Oct 8 — BSA/AML program failed to flag ~$13B of suspected trade-based money laundering over past decade; Fed issues separate order against parent AXP",
+      "org": "Office of the Comptroller of the Currency",
+      "date": "2026-10-08",
+      "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-87.html",
+      "summary": "OCC hits American Express National Bank with a $350M civil money penalty and cease-and-desist order on Thu Oct 8 for BSA/AML program deficiencies. The regulator cites ~$13B of suspected trade-based money laundering activity the bank failed to timely identify and report over the past decade.",
+      "tags": [
+        "regulatory",
+        "aml",
+        "bsa",
+        "enforcement",
+        "occ",
+        "federal-reserve",
+        "cease-and-desist",
+        "civil-money-penalty",
+        "amex",
+        "trade-based-money-laundering",
+        "oct-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AXP"
+      ],
+      "metrics": {
+        "Civil money penalty": "$350M",
+        "Suspected TBML missed": "~$13B over ~10 years",
+        "FY26 guide impact": "No change — portion reserved in prior periods",
+        "Asset cap": "None"
+      },
+      "explainer": {
+        "tagline": "OCC fines Amex's national bank $350M for AML failures; cites ~$13B of trade-based money laundering it failed to flag over a decade.",
+        "whatIsIt": "The Office of the Comptroller of the Currency announced a cease-and-desist order and $350 million civil money penalty against American Express National Bank, Sandy, Utah on Thursday Oct 8 2026. The OCC said the bank's Bank Secrecy Act / anti-money-laundering compliance program was not reasonably designed to assure and monitor compliance with the BSA. The Federal Reserve issued a separate order against parent American Express Company the same day.",
+        "howItWorks": "The OCC release (news release 2026-87) cites inadequate AML staffing/resources, systemic internal-control and independent-testing gaps, weak BSA/AML training, and a risk assessment skewed toward demand-deposit products rather than credit and charge cards. Customer due diligence, customer identification program, and suspicious-activity monitoring all fell short. The regulator specifically flagged roughly $13 billion of suspected trade-based money-laundering activity over roughly the past decade that the bank failed to timely identify and report. The Fed's enforcement order targets Amex's parent and travel-services unit for failures to detect and report certain suspicious money-laundering activity. Amex, which neither admitted nor denied the findings, said a portion of the penalty was reserved in prior periods and FY26 guidance is unchanged; the orders impose no asset cap and compliance costs are not expected to affect 2027 guidance.",
+        "whyItMatters": "A $350M penalty is one of the larger BSA/AML civil money penalties the OCC has levied on a bank subsidiary this cycle, and the ~$13B TBML figure anchors the case as a decade-scale compliance failure rather than a one-off. Markets focus on three things: (1) no asset cap means the franchise can keep growing while remediation runs; (2) prior reserves mean no step-change to FY26 EPS; (3) the Fed order against the parent raises the ongoing compliance-spend baseline into 2027. Earnings land Thursday Oct 23 — guidance commentary on remediation cost is the next tape-moving line.",
+        "forWho": "bank-regulatory desks, financials analysts",
+        "tryIt": "https://finance.yahoo.com/quote/AXP/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg",
+        "alt": "American Express corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "OCC Press Release",
+          "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-87.html"
+        },
+        {
+          "label": "Federal Reserve Order",
+          "url": "https://federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
+        },
+        {
+          "label": "AXP 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000376/axp-20261008.htm"
+        },
+        {
+          "label": "Reuters via WMBD",
+          "url": "https://wmbdradio.com/2026/10/08/american-express-national-bank-fined-350-million-for-insufficient-anti-money-laundering-program/"
+        },
+        {
+          "label": "Crowdfund Insider Recap",
+          "url": "https://www.crowdfundinsider.com/?p=316717"
+        },
+        {
+          "label": "AXP Quote",
+          "url": "https://finance.yahoo.com/quote/AXP/"
+        }
+      ],
+      "reddit": {
+        "title": "OCC fines American Express National Bank $350M for AML failures — flags ~$13B of trade-based money laundering missed over a decade; Fed issues separate order against parent AXP",
+        "body": "The OCC dropped a decade-scale AML enforcement on American Express's national bank Thursday Oct 8, and the Fed piled on against the parent the same afternoon.\n\n* $350M civil money penalty + cease-and-desist order (OCC news release 2026-87)\n* ~$13B of suspected trade-based money laundering NOT timely identified or reported, per the OCC\n* BSA/AML program flagged for inadequate staffing, weak testing, weak training, and a risk assessment skewed toward demand-deposit products instead of credit/charge cards\n* Fed issued a separate order against American Express Company + its travel-services unit\n* Amex: neither admitted nor denied findings; portion of penalty already reserved in prior periods; **FY26 guidance unchanged, no asset cap**, 2027 compliance costs not expected to move the model\n\nThree things that matter:\n\n1. **Scope** — the TBML figure anchors this as a decade-long compliance failure, not a one-off.\n2. **No asset cap** — critical. Unlike other recent AML orders, Amex can keep growing the franchise while it remediates.\n3. **Pre-reserved** — Amex telling the Street the P&L is intact caps the day-one headline risk.\n\nNext catalyst: Q3 earnings Thu Oct 23.\n\nFull breakdown: [https://stock-tldr.xyz/releases/axp-occ-fed-350m-aml-oct-8-2026](https://stock-tldr.xyz/releases/axp-occ-fed-350m-aml-oct-8-2026)"
+      },
+      "publishDate": "2026-10-10T16:36:24.620Z"
+    },
+    {
+      "id": "umich-sentiment-prelim-october-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "U.S. October 2026 preliminary University of Michigan consumer sentiment 46.3 vs 47.6 est on Fri Oct 9 — 5-month low; Current Conditions crashes -12.2% to 44.7; 1Y inflation expectations tick to 4.7% from 4.6%",
+      "org": "University of Michigan Surveys of Consumers",
+      "date": "2026-10-09",
+      "url": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+      "summary": "UMich October 2026 preliminary sentiment prints 46.3 vs 47.6 est, down 3.7% from Sept final 48.1 — a 5-month low. Current Conditions crashes 12.2% to 44.7; Expectations tick up 2.2% to 47.3. 1-year inflation expectations tick to 4.7% from 4.6%, 5-year to 3.5% from 3.4%.",
+      "tags": [
+        "macro",
+        "consumer-sentiment",
+        "umich",
+        "sca",
+        "consumer",
+        "inflation-expectations",
+        "current-conditions",
+        "expectations",
+        "preliminary-print",
+        "october-2026"
+      ],
+      "metrics": {
+        "Sentiment": "46.3 vs 47.6 est (-3.7% M/M, -13.6% Y/Y)",
+        "Current Conditions": "44.7 (-12.2% M/M vs 50.9)",
+        "Expectations": "47.3 (+2.2% M/M vs 46.3)",
+        "1Y inflation": "4.7% (vs 4.6% Sept)",
+        "5Y inflation": "3.5% (vs 3.4% Sept)"
+      },
+      "importance": "major",
+      "explainer": {
+        "tagline": "UMich October preliminary 46.3 — a 5-month low with Current Conditions crashing 12.2% while inflation expectations re-anchor higher.",
+        "whatIsIt": "The University of Michigan's preliminary October 2026 consumer sentiment reading landed at 46.3 on Friday Oct 9 — below the 47.6 estimate, down 3.7% from the 48.1 September final, and down 13.6% year over year. It is the weakest headline since the May 2026 record low (44.8) and extends a slide that began with the September print.",
+        "howItWorks": "The headline split is unusually wide: the Current Economic Conditions sub-index collapsed 12.2% to 44.7 (from 50.9), while the forward-looking Consumer Expectations sub-index rose 2.2% to 47.3 (from 46.3). Year-ahead (1-year) inflation expectations ticked to 4.7% from 4.6% in September; long-run (5-year) expectations ticked to 3.5% from 3.4%. The release lands with the 10-year Treasury yield sitting near 5.25% after a week in which the 30-year printed a fresh 24-year high.",
+        "whyItMatters": "The split reads as a households-feeling-the-moment-but-still-believing-in-later pattern, but the key tape-moving line is the inflation sub-index: a second-straight tick higher on both 1Y and 5Y expectations is exactly the data point the Fed is watching after Wednesday's FOMC September minutes confirmed the 25bp Sept hike was unanimous. For rates desks it supports the long-end selloff that's taken the 30Y to its 24-year high; for equity desks it feeds the stagflation-vs-strength debate ahead of the Oct 15 CPI print and bank earnings season starting Tuesday.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "http://www.sca.isr.umich.edu/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Seal_of_the_University_of_Michigan.svg",
+        "alt": "Seal of the University of Michigan",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "UMich SCA Release",
+          "url": "http://www.sca.isr.umich.edu/"
+        },
+        {
+          "label": "FXStreet Recap",
+          "url": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000"
+        },
+        {
+          "label": "Verified Investing",
+          "url": "https://verifiedinvesting.com/blogs/us-economic-metrics/umich-sentiment-october-2026"
+        },
+        {
+          "label": "Floor Daily",
+          "url": "https://www.floordaily.net/flooring-news/consumer-sentiment-down-3-7-to-46-3-in-early-october/"
+        },
+        {
+          "label": "ABA Banking Journal",
+          "url": "https://bankingjournal.aba.com/2026/10/consumer-sentiment-falls-in-october-2/"
+        },
+        {
+          "label": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/consumer-confidence"
+        }
+      ],
+      "reddit": {
+        "title": "UMich October preliminary consumer sentiment 46.3 vs 47.6 est — 5-month low; Current Conditions crashes 12.2% to 44.7, 1-year inflation expectations tick to 4.7%",
+        "body": "Friday's University of Michigan preliminary October print landed firmly below consensus — and the Current Conditions sub-index crumbled.\n\n* Headline sentiment 46.3 vs 47.6 est, down from 48.1 Sept final — -3.7% M/M, -13.6% Y/Y; 5-month low\n* Current Economic Conditions 44.7, down 12.2% M/M from 50.9\n* Expectations 47.3, up 2.2% M/M from 46.3\n* 1-year inflation expectations 4.7% vs 4.6% in Sept\n* 5-year inflation expectations 3.5% vs 3.4% in Sept\n\nThree things the print says:\n\n1. **Current-moment pain, forward hope** — the gap between Conditions (-12.2%) and Expectations (+2.2%) is the widest in months; households feel the squeeze now but still see light later.\n2. **Inflation expectations keep ticking higher** — a second-straight M/M rise on both 1Y and 5Y lines, exactly what the Fed watches after the unanimous Sept 25bp hike.\n3. **Confirms the long-end story** — lands with the 10Y near 5.25% and the 30Y at a fresh 24-year high this week; feeds the stagflation debate ahead of Oct 15 CPI.\n\nNext catalysts: CPI Oct 15, bank earnings start Tue Oct 13, UMich final Oct 23.\n\nFull breakdown: [https://stock-tldr.xyz/releases/umich-sentiment-prelim-october-2026](https://stock-tldr.xyz/releases/umich-sentiment-prelim-october-2026)"
+      },
+      "publishDate": "2026-10-10T16:36:24.620Z"
+    },
     {
       "id": "telecom-rout-spacex-grain-spectrum-oct-9-2026",
       "categories": [
