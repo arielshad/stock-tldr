@@ -13803,6 +13803,37 @@
         "video",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20261011t170438z",
+      "timestamp": "2026-10-11T17:04:38.532Z",
+      "source": "github-actions-sweep",
+      "summary": "Added one item: Humana +15% Fri Oct 9 after CMS 2027 Medicare Advantage Star Ratings put 95% of HUM members in 4-plus star plans (vs 20% in 2026); UNH/CVS/ELV/CNC all slipped. Starbucks-Chipotle takeover rumor (FT, Thu Oct 8) was out of 72h window at finalize time; dropped per Hard Rule 2.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hum-cms-2027-star-ratings-oct-9-2026",
+          "title": "Humana (HUM) +15% Fri Oct 9 — CMS 2027 Medicare Advantage Star Ratings put 95% of HUM members in 4-star-plus plans vs 20% in 2026; six 4.5-star contracts, 11 more 4-plus contracts; Evercore ISI pegs 2028 government bonus pool at ~$4.8B",
+          "category": "mover",
+          "note": "Single-name mega-move with primary CMS regulatory catalyst — biggest MA Star Ratings rebound by a mega-cap managed-care name on record, directly reprices 2028 government bonus payments across the sector."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "regulatory",
+        "mna",
+        "rumor",
+        "earnings",
+        "macro",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }

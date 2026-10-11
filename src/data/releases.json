@@ -1,8 +1,106 @@
 {
-  "generatedAt": "2026-10-11T02:35:37.919Z",
+  "generatedAt": "2026-10-11T17:04:38.532Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hum-cms-2027-star-ratings-oct-9-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Humana (HUM) +15% Fri Oct 9 — CMS 2027 Medicare Advantage Star Ratings put 95% of HUM members in 4-star-plus plans vs 20% in 2026; six 4.5-star contracts, 11 more 4-plus contracts; Evercore ISI pegs 2028 government bonus pool at ~$4.8B",
+      "org": "Humana",
+      "date": "2026-10-09",
+      "url": "https://finviz.com/news/400747/humana-announces-improved-cms-star-ratings-with-95-percent-of-medicare-advantage-members-in-4-star-or-above-plans-for-2027",
+      "summary": "CMS released its 2027 Medicare Advantage Star Ratings on Oct 8 (industry average 3.99). Humana rebounded sharply: 95% of MA members in 4-plus star plans (vs 20% in 2026), 42% in 4.5-star plans; HUM +15% Friday to ~$225.",
+      "tags": [
+        "medicare-advantage",
+        "star-ratings",
+        "cms",
+        "healthcare",
+        "managed-care",
+        "regulatory",
+        "humana",
+        "mover",
+        "unitedhealth",
+        "cvs",
+        "elevance",
+        "centene",
+        "quality-bonus",
+        "2028-ma-bonus"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HUM",
+        "UNH",
+        "CVS",
+        "ELV",
+        "CI",
+        "CNC"
+      ],
+      "metrics": {
+        "HUM move (Fri Oct 9)": "+15% to ~$225",
+        "HUM 4-plus star enrollment (2027)": "95% (vs 20% in 2026)",
+        "HUM 4.5-star enrollment (2027)": "42%",
+        "HUM 4.5-star contracts": 6,
+        "HUM 4.0-star contracts": 12,
+        "UNH 4-plus star enrollment (JPM est)": "~67% (vs 81% in 2026)",
+        "CVS 4-plus star enrollment (JPM est)": "~70% (vs 84% in 2026)",
+        "ELV 4-plus star enrollment": "~45% (vs 53% in 2026)",
+        "CNC 4-plus star enrollment": "~9% (vs 18% in 2026)",
+        "Industry 4-plus star enrollment (MA-PD)": "~71%",
+        "MA-PD contracts earning 4-plus stars": "188 of 508 (37%)",
+        "Five-star MA-PD contracts (2027)": "15 (vs 22 for 2026)",
+        "Average MA-PD rating (2027)": 3.99,
+        "Evercore ISI 2028 HUM bonus est": "~$4.8B"
+      },
+      "explainer": {
+        "tagline": "CMS 2027 Star Ratings deliver Humana's biggest single-year rebound ever; UNH, CVS, Elevance, Centene all slip.",
+        "whatIsIt": "Centers for Medicare & Medicaid Services (CMS) published its 2027 Medicare Advantage Part C/D Star Ratings on the Oct 8 Plan Finder refresh, ahead of the Oct 15–Dec 7 open enrollment window. The 2027 ratings drive 2028 quality bonus payments. Humana announced on Oct 9 that 95% of its MA members are now in 4-star-or-higher plans, up from 20% in 2026 — a one-year rebound that reversed the methodology-driven downgrade cycle of the past two years.",
+        "howItWorks": "CMS rated 508 MA-Prescription Drug contracts; 15 earned 5 stars (vs 22 last year), 188 (37%) earned 4-plus stars, and about 71% of enrollees are in 4-plus star plans. Average MA-PD rating slipped to 3.99 from 4.01. Humana said six of its contracts earned 4.5 stars and 12 earned 4.0 stars, adding 11 new 4-plus star contracts vs 2026; its largest MA contract (~2.4M members) moved to 4 stars from 3.5. On the losing side (JPM/Capstone/Fierce Healthcare tallies): UNH 67% (vs 78–81%), CVS/Aetna 69–70% (vs 81–84%), Elevance 45% (vs 53%), Centene 9% (vs 18%), Alignment 25% (vs 100%).",
+        "whyItMatters": "4-plus star enrollment unlocks federal quality bonus payments — Evercore ISI estimates Humana's 2028 bonus pool at ~$4.8B — plus rebate dollars that fund the benefits that drive member retention. The ratings also set the competitive dynamic going into AEP open enrollment Oct 15. Humana shares jumped 15% on Oct 9 (also ~16% in the Oct 8 after-hours session on the leak); UNH added ~1.9% on relative-headwind narrative. CMS also removed 11 administrative measures (phased out by 2029) and lifted the weight on physical/mental health improvement measures from 1 to 3, so the 2027 batch reflects a methodology shift as well.",
+        "forWho": "healthcare analysts, managed-care long/short desks, policy traders",
+        "tryIt": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings"
+      },
+      "image": {
+        "url": "https://beinsure.com/wp-content/uploads/2026/10/5-22.jpg",
+        "alt": "Humana Medicare Advantage Star Ratings headline graphic",
+        "fit": "cover",
+        "credit": "Beinsure"
+      },
+      "links": [
+        {
+          "label": "Humana Press Release",
+          "url": "https://finviz.com/news/400747/humana-announces-improved-cms-star-ratings-with-95-percent-of-medicare-advantage-members-in-4-star-or-above-plans-for-2027"
+        },
+        {
+          "label": "CMS Fact Sheet (2027)",
+          "url": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings"
+        },
+        {
+          "label": "CMS Fact Sheet PDF",
+          "url": "https://www.cms.gov/files/document/fact-sheet-2027-ma-part-d-star-ratings-october-8-2026.pdf"
+        },
+        {
+          "label": "Fierce Healthcare Winners/Losers",
+          "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings"
+        },
+        {
+          "label": "Fierce Healthcare 71% Headline",
+          "url": "https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027"
+        },
+        {
+          "label": "HUM Quote",
+          "url": "https://finance.yahoo.com/quote/HUM/"
+        }
+      ],
+      "reddit": {
+        "title": "Humana (HUM) +15% Fri Oct 9 — biggest MA Star Ratings rebound ever: 95% of members in 4-plus star plans for 2027 vs 20% in 2026, Evercore pegs 2028 bonus pool at ~$4.8B",
+        "body": "CMS dropped the 2027 Medicare Advantage Star Ratings on Oct 8 and Humana was the clear winner — 95% of its MA members are now in plans rated 4 stars or higher, up from a crushed 20% for 2026.\n\n* **HUM +15%** to ~$225 Friday (~+16% in Oct 8 AH on the leak)\n* 42% of HUM MA members in 4.5-star plans\n* Six HUM contracts rated 4.5 stars, 12 rated 4.0 stars — eleven more 4-plus contracts than last year\n* Humana's largest contract (~2.4M members) jumped to 4 stars from 3.5\n* Evercore ISI estimates ~$4.8B in 2028 government bonus payments\n\nThe other side of the ratings table:\n\n1. **UNH -ratings** — 67% in 4-plus star plans vs 78–81% in 2026 (JPM)\n2. **CVS/Aetna** — 70% vs 84% (JPM); Capstone flags three of its four largest contracts declined\n3. **Elevance (ELV)** — 45% vs 53%; Capstone 'slightly positive' only because the magnitude was smaller than feared\n4. **Centene (CNC)** — 9% vs 18%\n\nIndustry-wide: 15 MA-PD contracts earned 5 stars (vs 22), 188 of 508 (37%) earned 4-plus stars, average rating 3.99 (vs 4.01). About 71% of enrollees now in 4-plus star plans. CMS also removed 11 admin measures and tripled the weight on physical/mental-health improvement measures.\n\nNext catalysts: AEP open enrollment Oct 15–Dec 7; Humana reports Q3 earnings Nov 6; CMS 2027 MA proposed rule next.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hum-cms-2027-star-ratings-oct-9-2026](https://stock-tldr.xyz/releases/hum-cms-2027-star-ratings-oct-9-2026)"
+      },
+      "publishDate": "2026-10-11T17:04:38.532Z"
+    },
     {
       "id": "axp-occ-fed-350m-aml-oct-8-2026",
       "categories": [
