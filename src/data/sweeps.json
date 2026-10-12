@@ -13834,6 +13834,36 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261012t030839z",
+      "timestamp": "2026-10-12T03:08:39.412Z",
+      "source": "github-actions-sweep",
+      "summary": "One macro/commodity item: Trump's Sun Oct 11 'ENERGY CEASEFIRE' Truth Social post for Russia-Ukraine after the Fri Oct 9 Putin call and OFAC General License 135 waiving Russian diesel sanctions through Apr 7, 2027 — Zelenskyy says 'news for me', Moscow silent, oil barely moved in Monday Asia pre-open. Hurricane Isaias Gulf shut-in (date Oct 9) was prepared but dropped because it falls just outside the 72h cap at Oct 12 02:58 UTC.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-russia-energy-ceasefire-diesel-oct-11-2026",
+          "title": "Trump posts 'ENERGY CEASEFIRE' in Russia-Ukraine war on Sun Oct 11 after Fri Oct 9 Putin call — OFAC General License 135 waives Russia diesel sanctions through 12:01 am ET Apr 7, 2027; Moscow pledges 300K tons immediate + 500K Nov + 1M + 3M more; Zelenskyy says 'news for me'",
+          "category": "macro",
+          "note": "Dual-track story: concrete OFAC action (GL 135, Fri Oct 9) + unconfirmed Trump social-media ceasefire claim (Sun Oct 11). Framing is factual, no political editorializing; the ceasefire's unconfirmed status is explicit in the title and summary. All volumes, prices and quotes trace to Kyiv Independent, Al Jazeera, NBC, TIME and Ship & Bunker. Marked major (not seismic) because Russia has not confirmed and oil didn't break out."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "commodity",
+        "earnings",
+        "mover",
+        "mna",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

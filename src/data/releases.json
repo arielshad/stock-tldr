@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-10-11T17:04:38.532Z",
+  "generatedAt": "2026-10-12T03:08:39.412Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "trump-russia-energy-ceasefire-diesel-oct-11-2026",
+      "categories": [
+        "macro",
+        "commodity"
+      ],
+      "title": "Trump posts 'ENERGY CEASEFIRE' in Russia-Ukraine war on Sun Oct 11 after Fri Oct 9 Putin call — OFAC General License 135 waives Russia diesel sanctions through 12:01 am ET Apr 7, 2027; Moscow pledges 300K tons immediate + 500K Nov + 1M + 3M more; Zelenskyy says 'news for me'",
+      "org": "The White House",
+      "date": "2026-10-11",
+      "url": "https://kyivindependent.com/trump-says-russia-agreed-to-supply-millions-of-tons-of-diesel-to-us-global-markets/",
+      "summary": "Trump posted on Truth Social Sunday: 'Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine.' Zelenskyy told Axios it 'was news for me'; Moscow silent. Follows Fri OFAC GL 135 permitting Russian diesel imports through Apr 7, 2027.",
+      "tags": [
+        "diesel",
+        "oil",
+        "russia",
+        "ukraine",
+        "sanctions",
+        "ofac",
+        "general-license-135",
+        "trump",
+        "putin",
+        "zelenskyy",
+        "ceasefire",
+        "energy",
+        "hormuz",
+        "treasury"
+      ],
+      "importance": "major",
+      "metrics": {
+        "OFAC license": "GL 135, expires 12:01 am ET Apr 7, 2027",
+        "Russia volumes (Trump claim)": "~4.8M tons: 300K immediate + 500K Nov + 1M + 3M more",
+        "US avg diesel (Oct 11, AAA)": "$6.28/gal (vs $6.53 Sep 22 peak, $3.67 yr ago)",
+        "US weekly diesel use": "~2.94M bpd (per TIME)",
+        "Russia diesel exports Q3 2026": "190K bpd (vs 690K Q2)",
+        "Russia diesel export ban": "extended through Oct 31"
+      },
+      "explainer": {
+        "tagline": "Trump claims Russia-Ukraine 'ENERGY CEASEFIRE' Sunday Oct 11, two days after OFAC waives Russian diesel sanctions through Apr 7, 2027.",
+        "whatIsIt": "On Fri Oct 9, following what Trump called a 'highly successful' phone call with Vladimir Putin, the US Treasury's Office of Foreign Assets Control issued General License 135 permitting all transactions related to the sale, delivery, offloading or importation of Russian-origin diesel until 12:01 am Eastern on April 7, 2027. Trump then posted on Truth Social that Russia had agreed to supply 300,000 tons of diesel immediately, 500,000 tons in November, 1 million tons 'immediately thereafter', and up to 3 million more 'within a short period of time'. On Sunday Oct 11, Trump posted a second message: 'Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!'",
+        "howItWorks": "GL 135 is a temporary executive waiver; the 2022 Ending Importation of Russian Oil Act stays on the books, and UK/EU bans on Russian refined-product imports (in force since Feb 5, 2023) plus the $100/bbl premium-product price cap remain unchanged. The Kremlin confirmed willingness to supply oil and petroleum products during the Putin call. Russia will permit the sale of 500,000 tons of diesel to foreign markets effective Oct 10; its domestic diesel export ban had been extended through Oct 31 after Ukrainian strikes crippled refineries (Q3 exports fell to 190K bpd from 690K bpd in Q2). On the ceasefire, Zelenskyy told Axios the announcement 'was news for me', then on ABC's 'This Week' said Ukraine would stop striking Russian refineries if Russia stopped attacking Ukraine's energy grid. Russian air strikes on Ukrainian energy infrastructure, including a power plant in Kharkiv, continued through the weekend; no Russian confirmation of the ceasefire has been issued.",
+        "whyItMatters": "The waiver is the first major US rollback of post-2022 Russia-oil sanctions and comes with US diesel averaging $6.28/gal (AAA Oct 11) — the Strait of Hormuz tanker-attack campaign (17 attacks since Sep 28) and the US-Iran war that began in February have strained global middle-distillate supply. Senators Shaheen, Schumer and Warren called the authorization 'a total betrayal' of Ukraine and said it would be challenged. Analysts cited in Al Jazeera and TIME are skeptical the volumes move prices: former IEA official Neil Atkinson said the quantities are 'minuscule' versus ~2.94M bpd US daily diesel use; IG's Chris Beauchamp called it a 'short-term fix'. Oil barely moved in Monday Asia pre-open — Brent swung from +0.7% to -1.3% ($103–105 range) in overnight trade. The ceasefire itself has not been confirmed by Russia; Trump made a similar unilateral energy-ceasefire claim on Sep 14 2026 that did not hold, as did a March 2025 30-day energy-strike pause.",
+        "forWho": "oil desks, refining-margin traders, geopolitical / macro risk desks",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF/"
+      },
+      "image": {
+        "url": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2298850697_20261009-233841_20261009-233903.jpg",
+        "alt": "Trump and Putin on a split-screen graphic as US issues Russian diesel sanctions waiver",
+        "fit": "cover",
+        "credit": "Getty via Kyiv Independent"
+      },
+      "links": [
+        {
+          "label": "Kyiv Independent Report",
+          "url": "https://kyivindependent.com/trump-says-russia-agreed-to-supply-millions-of-tons-of-diesel-to-us-global-markets/"
+        },
+        {
+          "label": "Ship & Bunker on GL 135",
+          "url": "https://shipandbunker.com/news/world/445068-us-lifts-sanctions-on-russian-diesel-for-six-months-after-trump-putin-call"
+        },
+        {
+          "label": "Al Jazeera Analysis",
+          "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions"
+        },
+        {
+          "label": "NBC News Ceasefire Post",
+          "url": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766"
+        },
+        {
+          "label": "TIME Ceasefire Context",
+          "url": "https://time.com/article/2026/10/11/trump-claims-russia-and-ukraine-have-agreed-to-an-energy-ceasefire-/"
+        }
+      ],
+      "reddit": {
+        "title": "Trump posts 'ENERGY CEASEFIRE' in Russia-Ukraine war Sunday Oct 11; Zelenskyy says 'news for me' — comes two days after Treasury waives Russian diesel sanctions through April 7, 2027",
+        "body": "A Trump-Putin call on Friday ended in the first major US rollback of post-2022 Russia-oil sanctions, plus — on Sunday — a one-sentence Trump Truth Social post declaring an energy ceasefire that neither Russia nor Ukraine has confirmed.\n\n* **OFAC General License 135** issued Fri Oct 9 — authorizes all sale/delivery/import of Russian-origin diesel through 12:01 am ET April 7, 2027\n* Trump's volume claim: ~4.8M tons (300K immediate + 500K in November + 1M + up to 3M more)\n* US avg diesel $6.28/gal on Oct 11 (AAA), vs $6.53 peak Sep 22 and $3.67 a year ago\n* Russia Q3 2026 diesel exports fell to **190K bpd from 690K bpd in Q2** after Ukrainian strikes on refineries\n* Russia extended its own domestic diesel export ban through Oct 31\n\nThree things to know about the ceasefire post itself:\n\n1. **Trump's post, in full** — 'Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!'\n2. **Zelenskyy response** — told Axios it 'was news for me'; later on ABC's This Week said Ukraine would halt strikes on Russian refineries if Russia halts strikes on Ukraine's energy grid\n3. **Russia** — no confirmation, and strikes on Ukrainian energy infrastructure including a Kharkiv power plant continued through the weekend\n\nAnalyst takeaway on volumes (per TIME/Al Jazeera): former IEA's Neil Atkinson calls the tonnages 'minuscule' versus ~2.94M bpd US daily diesel use; IG's Beauchamp calls it 'a short-term fix'. Senators Shaheen/Schumer/Warren called the waiver 'a total betrayal.' UK and EU product bans + $100/bbl premium-product price cap remain in force.\n\nOil barely moved in Monday Asia pre-open — Brent swung from +0.7% to -1.3% in a $103–105 range. A Trump energy-pause claim on Sep 14 2026 did not hold, nor did a March 2025 30-day pause.\n\nNext catalysts: US CPI Wed Oct 15; FOMC Oct 28; Russia's end-October diesel-ban deadline.\n\nFull breakdown: [https://stock-tldr.xyz/releases/trump-russia-energy-ceasefire-diesel-oct-11-2026](https://stock-tldr.xyz/releases/trump-russia-energy-ceasefire-diesel-oct-11-2026)"
+      },
+      "publishDate": "2026-10-12T03:08:39.412Z"
+    },
     {
       "id": "hum-cms-2027-star-ratings-oct-9-2026",
       "categories": [
