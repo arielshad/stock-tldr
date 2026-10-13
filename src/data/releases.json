@@ -1,8 +1,407 @@
 {
-  "generatedAt": "2026-10-13T04:17:04.758Z",
+  "generatedAt": "2026-10-13T18:49:40.911Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "jpm-q3-fy26-earnings-oct-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "JPMorgan Chase (JPM) Q3 FY26 (Tue Oct 13 premarket) — net income $15.3B / EPS $5.57 ($15.8B / $5.75 ex-$658M securities losses) vs ~$5.93 est; managed revenue $50.9B (+8%) in line with ~$51.2B est; Markets $10.3B (+15%, Equities +49%, FICC -4%), IB fees $3.0B (+14% YoY, -8% QoQ); CET1 13.9%, ROTCE 20% (21% ex); Dimon says firm REDUCED buybacks to $664M to preserve capital for 'attractive return' deployment",
+      "org": "JPMorgan Chase",
+      "date": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+      "summary": "JPMorgan Q3 FY26 (Tue Oct 13 BMO): managed revenue $50.9B (+8%) in line, EPS $5.57 ($5.75 ex-items) vs ~$5.93 consensus — headline miss offset by Markets +15% (Equities +49%) and IB fees +14%. Buybacks slashed to $664M as Dimon preserves capital.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-in-line",
+        "q3-fy26",
+        "banks",
+        "money-center",
+        "capital-markets",
+        "trading-beat",
+        "investment-banking",
+        "buyback-cut",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JPM",
+        "GS",
+        "C",
+        "BAC",
+        "WFC"
+      ],
+      "metrics": {
+        "Net income": "$15.3B (+6% Y/Y) / $15.8B ex-items",
+        "Diluted EPS": "$5.57 (+10% Y/Y) / $5.75 ex-$658M securities losses vs ~$5.93 est",
+        "Managed revenue": "$50.9B (+8% Y/Y, -13% Q/Q) vs ~$51.2B est",
+        "Net interest income": "$27.1B (+13% Y/Y, +6% Q/Q)",
+        "Markets revenue": "$10.3B (+15% Y/Y) — Equities +49%, Fixed Income -4%",
+        "Investment banking fees": "$3.0B (+14% Y/Y, -8% Q/Q)",
+        "Provision for credit losses": "$2.7B (-19% Y/Y)",
+        "Net charge-offs": "$2.2B",
+        "ROTCE": "20% (21% ex-items)",
+        "CET1 (Standardized)": "13.9%",
+        "Loans": "$1.58T (+10% Y/Y)",
+        "Deposits": "$2.78T (+9% Y/Y)",
+        "Share buybacks": "$664M (REDUCED from prior quarters)",
+        "Dividend": "$1.65 per share ($4.4B total)"
+      },
+      "explainer": {
+        "tagline": "JPM headline EPS misses on $658M securities losses, but Markets +15% and IB fees +14% drive clean beat ex-items; Dimon cuts buybacks to hoard capital.",
+        "whatIsIt": "JPMorgan Chase reported Q3 FY26 before Tuesday's open: net income $15.3B ($15.8B ex-$658M of net investment securities losses), EPS $5.57 ($5.75 ex-items), managed revenue $50.9B (+8% Y/Y). Jamie Dimon called it 'another quarter of strong results' and said 'Each line of business performed well.' The report kicks off Q3 bank earnings season.",
+        "howItWorks": "Managed revenue of $50.9B landed in line with the ~$51.2B consensus (+8% Y/Y, down 13% Q/Q as the Q2 comp included a $4.6B Visa gain). NII hit $27.1B (+13%), with Markets revenue $10.3B (+15%) — Equities +49%, Fixed Income -4%. IB fees rose 14% Y/Y to $3.0B. Provision for credit losses fell 19% to $2.7B. ROTCE was 20% (21% ex-items). Loans grew 10% to $1.58T, deposits +9% to $2.78T. Notably, Dimon slashed buybacks to just $664M vs much higher recent run-rate, saying 'we reduced share repurchases this quarter … We believe we can deploy this capital over time at very attractive returns for our shareholders.'",
+        "whyItMatters": "Opening salvo for Q3 bank earnings sets a mixed tone — the headline EPS below Street ($5.57 vs ~$5.93) is driven by one-time securities losses, while Markets and IB tracked ahead of plan. The buyback cut is the surprise: with CET1 at 13.9% and credit still benign, Dimon signaling redeployment rather than return-of-capital is a tell on near-term inorganic opportunity set. Peer reads: GS and C print same day, BAC/WFC/MS on Wed-Thu.",
+        "forWho": "bank PMs, capital-markets desks",
+        "tryIt": "https://finance.yahoo.com/quote/JPM/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/270parkave_from_empirestate_03_14_2025_%28cropped%29.jpg/960px-270parkave_from_empirestate_03_14_2025_%28cropped%29.jpg",
+        "alt": "JPMorgan Chase global HQ at 270 Park Avenue, Manhattan",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm"
+        },
+        {
+          "label": "Financial Supplement",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfex992supplement.htm"
+        },
+        {
+          "label": "8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/0001628280-26-065582-index.htm"
+        },
+        {
+          "label": "JPM Quote",
+          "url": "https://finance.yahoo.com/quote/JPM/"
+        }
+      ],
+      "reddit": {
+        "title": "JPM Q3 FY26 — managed revenue $50.9B (+8%) in line, EPS $5.57 misses $5.93 est on $658M securities losses; Markets $10.3B (+15%) and IB fees +14% beat, but Dimon slashes buybacks to $664M",
+        "body": "JPMorgan opened Q3 bank earnings season with a mixed print — headline EPS below Street, but the underlying franchise is firing.\n\n* Managed revenue $50.9B (+8% Y/Y, -13% Q/Q vs Q2's Visa-gain comp) in line with ~$51.2B est\n* Net income $15.3B ($15.8B ex-$658M net securities losses)\n* Diluted EPS $5.57 (+10% Y/Y); $5.75 ex-items vs ~$5.93 consensus\n* Net interest income $27.1B (+13% Y/Y, +6% Q/Q)\n* Markets revenue $10.3B (+15%) — Equities +49%, Fixed Income -4%\n* Investment banking fees $3.0B (+14% Y/Y, -8% Q/Q)\n* Provision for credit losses $2.7B (-19% Y/Y)\n* ROTCE 20% / 21% ex-items; CET1 13.9%\n\nThe surprise in the release:\n\n1. **Dimon cut buybacks** — only $664M of net common repurchases this quarter, well below recent run-rate. His quote: 'we reduced share repurchases this quarter … We believe we can deploy this capital over time at very attractive returns for our shareholders.'\n2. **Markets drove the ex-items beat** — Equities +49% Y/Y is the standout; combined with GS's trading, Q3 capital-markets activity clearly ran hot.\n3. **Headline miss is cosmetic** — the $0.18 drag from securities losses explains the gap to the $5.93 Street number.\n\nNext catalysts: Goldman Sachs, Citigroup, UNH, J&J all out this same morning; BAC/WFC/MS on Wed-Thu; CPI Wed Oct 14; FOMC Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jpm-q3-fy26-earnings-oct-13-2026](https://stock-tldr.xyz/releases/jpm-q3-fy26-earnings-oct-13-2026)"
+      },
+      "publishDate": "2026-10-13T18:49:40.911Z"
+    },
+    {
+      "id": "unh-q3-fy26-earnings-oct-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "UnitedHealth (UNH) Q3 FY26 (Tue Oct 13 premarket) — revenue $112.7B (-0.4% Y/Y) in line; adj EPS $4.69 vs $2.92 Y/Y crushes ~$3.66 Zacks est; GAAP EPS $4.56; medical care ratio IMPROVES to 88.4% (-150bp) with $610M favorable prior-period reserve development; FY26 adj EPS guide RAISED to ≥$20.50 (vs prior ≥$19.50 range); UHC membership 48.3M (-1.8M Y/Y) after MA plan exits; Optum Health earnings jump to $735M from $41M",
+      "org": "UnitedHealth Group",
+      "date": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000255/uhgearnings_q32026vfinal.htm",
+      "summary": "UnitedHealth Q3 FY26 (Tue Oct 13 BMO): adj EPS $4.69 crushes ~$3.66 est as medical care ratio drops 150bp to 88.4% on $610M favorable reserve development; FY26 adj EPS guide RAISED to ≥$20.50 (from ≥$19.50). The MA margin reset is working.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q3-fy26",
+        "managed-care",
+        "medicare-advantage",
+        "mcr-improvement",
+        "optum",
+        "turnaround",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UNH",
+        "HUM",
+        "CVS",
+        "ELV",
+        "CI"
+      ],
+      "metrics": {
+        "Revenue": "$112.7B (-0.4% Y/Y)",
+        "Adj EPS": "$4.69 vs $2.92 Y/Y vs ~$3.66 Zacks est",
+        "GAAP EPS": "$4.56 vs $2.59 Y/Y",
+        "Earnings from operations": "$6.6B vs $4.3B Y/Y",
+        "Medical care ratio": "88.4% (-150bp Y/Y) incl $610M favorable PPRD",
+        "Operating cost ratio": "12.8% vs 13.5% Y/Y",
+        "UHC enrollment": "48.3M (-1.8M Y/Y, -200K Q/Q)",
+        "Medicare Advantage enrollment": "7.6M (-800K Y/Y)",
+        "Optum Health revenue": "$22.9B (-10% Y/Y)",
+        "Optum Health earnings": "$735M vs $41M Y/Y",
+        "FY26 adj EPS guide (new)": "≥$20.50 (prior ≥$19.50)",
+        "FY26 GAAP EPS guide (new)": "≥$19.50",
+        "Capital return YTD": "$5.0B buybacks + $6.2B dividends"
+      },
+      "explainer": {
+        "tagline": "Managed-care turnaround print of the year: MCR drops 150bp, Optum Health earnings jump 18x, FY26 adj EPS guide raised to ≥$20.50 from ≥$19.50.",
+        "whatIsIt": "UnitedHealth Group reported Q3 FY26 before Tuesday's open: revenue $112.7B (-0.4% Y/Y), adj EPS $4.69 (from $2.92 Y/Y), GAAP EPS $4.56 (from $2.59). Medical care ratio dropped 150bp to 88.4%, aided by $610M of favorable prior-period reserve development. The company raised FY26 adj EPS guidance to ≥$20.50 from the prior ≥$19.50 range (bar for July guide top end was $20.00).",
+        "howItWorks": "The core margin story: medical care ratio improved to 88.4% vs 89.9% Y/Y despite UHC enrollment dropping 1.8M (to 48.3M) as the company exited unprofitable Medicare Advantage markets — MA members fell to 7.6M from 8.4M. Optum Health operating earnings surged to $735M from $41M as the segment lapped last year's cost pressure, even as revenue fell 10% to $22.9B. Optum Rx revenue $39.9B, Optum Insight $5.5B (+3%). Earnings from operations $6.6B (vs $4.3B Y/Y). YTD capital return $11.2B ($5.0B buybacks + $6.2B dividends). Guidance now expects FY26 adj net earnings >$18.59B.",
+        "whyItMatters": "Confirms the MA margin reset playbook is working — exit the money-losing geographies, keep the sticky members, and the ratios heal. The $4.69 adj EPS vs ~$3.66 Zacks est is one of the biggest cap-weighted managed-care beats of the year. Read-through for HUM (already up 15% last Fri on Star Ratings), ELV, and CVS: the sector's cost-trend narrative is turning. UNH closed Mon at ~$377 after a 5% intraday drop into the print — print now does the heavy lifting.",
+        "forWho": "healthcare PMs, defensive rotators",
+        "tryIt": "https://finance.yahoo.com/quote/UNH/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/UnitedHealth_Group_logo.svg",
+        "alt": "UnitedHealth Group corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000255/uhgearnings_q32026vfinal.htm"
+        },
+        {
+          "label": "UNH IR",
+          "url": "https://www.unitedhealthgroup.com/investors.html"
+        },
+        {
+          "label": "UNH Quote",
+          "url": "https://finance.yahoo.com/quote/UNH/"
+        }
+      ],
+      "reddit": {
+        "title": "UNH Q3 FY26 — adj EPS $4.69 vs $2.92 Y/Y and ~$3.66 est; MCR drops 150bp to 88.4% on $610M favorable reserve dev; FY26 adj EPS guide RAISED to ≥$20.50 (vs prior ≥$19.50)",
+        "body": "UnitedHealth printed one of the cleanest managed-care beat-and-raises of the year.\n\n* Revenue $112.7B (-0.4% Y/Y) — essentially in line\n* Adj EPS $4.69 (from $2.92 Y/Y); GAAP EPS $4.56\n* Medical care ratio 88.4% vs 89.9% Y/Y (-150bp) — $610M favorable prior-period reserve development\n* Earnings from operations $6.6B (vs $4.3B Y/Y)\n* UHC enrollment 48.3M (-1.8M Y/Y) as MA plan exits bite\n* Optum Health earnings $735M vs $41M Y/Y\n* FY26 adj EPS guide RAISED to ≥$20.50 (prior ≥$19.50)\n\nThe three things that drove the print:\n\n1. **MA margin reset is working** — exit the money-losing plans, keep the sticky members, let ratios heal. MA enrollment -800K to 7.6M was the plan.\n2. **$610M favorable reserve development** — prior-period reserves ran lighter than booked, meaning actual costs came in better than feared.\n3. **Optum Health non-event** — $735M of op earnings vs $41M a year ago. Last year's cost shocks are fully in the base.\n\nNext catalysts: HUM already got the Oct 9 Star Ratings move (+15%). ELV, CVS, CI haven't reported Q3 yet.\n\nFull breakdown: [https://stock-tldr.xyz/releases/unh-q3-fy26-earnings-oct-13-2026](https://stock-tldr.xyz/releases/unh-q3-fy26-earnings-oct-13-2026)"
+      },
+      "publishDate": "2026-10-13T18:49:40.911Z"
+    },
+    {
+      "id": "gs-q3-fy26-earnings-oct-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Goldman Sachs (GS) Q3 FY26 (Tue Oct 13 premarket) — net revenue $18.68B (+23% Y/Y) crushes ~$17.4B est; EPS $17.01 vs ~$15.39 est; Equities $6.44B (+72%, best-ever third-quarter stock-trading number); IB fees $3.22B (+21%); ROE 18.7%; $3.0B buyback + $5.00 Q4 dividend declared",
+      "org": "Goldman Sachs",
+      "date": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm",
+      "summary": "Goldman Sachs Q3 FY26 (Tue Oct 13 BMO): net revenue $18.68B (+23%) and EPS $17.01 both beat (vs ~$17.4B / ~$15.39 est) as Equities trading hits $6.44B (+72%) and IB fees $3.22B (+21%). ROE 18.7%; $3.0B buyback + Q4 dividend $5.00.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q3-fy26",
+        "banks",
+        "capital-markets",
+        "equities-trading",
+        "investment-banking",
+        "ma",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "GS",
+        "MS",
+        "JPM",
+        "C"
+      ],
+      "metrics": {
+        "Net revenue": "$18.68B (+23% Y/Y, -8% Q/Q) vs ~$17.4B est",
+        "Diluted EPS": "$17.01 vs $12.25 Y/Y vs ~$15.39 Hudson Labs est",
+        "Net earnings": "$5.29B (-20% Q/Q from Q2's $6.6B)",
+        "Equities trading revenue": "$6.44B (+72% Y/Y)",
+        "FICC trading revenue": "$3.47B (flat Y/Y)",
+        "Investment banking fees": "$3.22B (+21% Y/Y) — Advisory $1.65B, ECM $666M, DCM $904M",
+        "Global Banking & Markets revenue": "$13.46B (+32% Y/Y)",
+        "Asset & Wealth Management revenue": "$5.05B (+14% Y/Y)",
+        "Annualized ROE": "18.7% Q3 / 20.7% 9M",
+        "Book value per share": "$372.64 (+4.2% YTD)",
+        "Share buybacks (Q3)": "$3.00B (2.9M shares @ avg $1,048.73)",
+        "Q4 dividend declared": "$5.00/share (payable Dec 30)"
+      },
+      "explainer": {
+        "tagline": "Equities desk prints $6.44B (+72%) — Goldman stretches its lead in stock trading as IB fees jump 21% and ROE lands at 18.7%.",
+        "whatIsIt": "Goldman Sachs reported Q3 FY26 before Tuesday's open: net revenue $18.68B (+23% Y/Y), EPS $17.01 (vs $12.25 Y/Y), net earnings $5.29B. The quarter is down 8% from Q2's record print, but still comes in materially ahead of consensus (~$17.4B rev / ~$15.39 EPS from Hudson Labs' preview).",
+        "howItWorks": "Equities trading hit $6.44B — up 72% Y/Y and the second-biggest equities print on record (behind GS's own Q2). FICC was essentially flat at $3.47B. Investment banking fees rose 21% to $3.22B, with Advisory $1.65B (completed-deals ramp), ECM $666M, and DCM $904M. Global Banking & Markets revenue $13.46B (+32%); Asset & Wealth Management $5.05B (+14%). Annualized ROE 18.7% (20.7% YTD); book value $372.64 (+4.2% YTD). GS returned $3.0B via buyback (2.9M shares at avg $1,048.73) and declared the Q4 dividend at $5.00/share, payable Dec 30.",
+        "whyItMatters": "Confirms the Q2 Equities record wasn't a one-off — $6.44B is still extraordinary against a ~$5B/qtr sell-side expectation. Combined with JPM Markets +15% (Equities +49%) on the same day, Q3 is going to look like the strongest capital-markets quarter since the 2021 vintage. Read-through for MS (Q3 on Thursday) and the sell-side bulge bracket as a whole is unambiguously positive.",
+        "forWho": "capital-markets desks, bank PMs",
+        "tryIt": "https://finance.yahoo.com/quote/GS/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Goldman_Sachs_%2855312935052%29.jpg",
+        "alt": "Goldman Sachs global HQ at 200 West Street, Manhattan",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/gs-20261013.htm"
+        },
+        {
+          "label": "GS Quote",
+          "url": "https://finance.yahoo.com/quote/GS/"
+        }
+      ],
+      "reddit": {
+        "title": "GS Q3 FY26 — net revenue $18.68B (+23%) and EPS $17.01 crush ~$17.4B / ~$15.39 est; Equities trading $6.44B (+72%) 2nd-largest ever; IB fees $3.22B (+21%); $3B buyback + $5 Q4 dividend",
+        "body": "Goldman Sachs delivered a monster Q3 — second-biggest Equities quarter on record and a clean beat across the P&L.\n\n* Net revenue $18.68B (+23% Y/Y, -8% Q/Q) vs ~$17.4B est\n* Diluted EPS $17.01 (vs $12.25 Y/Y) vs ~$15.39 est\n* Net earnings $5.29B\n* Equities trading $6.44B (+72% Y/Y) — only its own Q2 was bigger\n* FICC $3.47B (flat Y/Y)\n* Investment banking fees $3.22B (+21%) — Advisory $1.65B, ECM $666M, DCM $904M\n* Global Banking & Markets $13.46B (+32%); AWM $5.05B (+14%)\n* Annualized ROE 18.7% (20.7% YTD); book value $372.64 (+4.2% YTD)\n* Capital return: $3.0B of Q3 buybacks + $5.00 Q4 dividend declared\n\nWhat the print says about Q3:\n\n1. **Equities is a franchise, not a trade** — $6.44B right behind the Q2 record proves last quarter wasn't a one-off; sell-side consensus for GS Equities was ~$5B/qtr before this.\n2. **IB fees are back** — $3.22B (+21%) with Advisory doing the heavy lifting. Completed-deal count caught up.\n3. **ROE 18.7% with $3B of buyback and a dividend bump** — Solomon running the capital stack hot.\n\nNext catalysts: Morgan Stanley Q3 on Thursday; same-day JPM print (Markets +15%, Equities +49%) confirms a sector-wide trading tape.\n\nFull breakdown: [https://stock-tldr.xyz/releases/gs-q3-fy26-earnings-oct-13-2026](https://stock-tldr.xyz/releases/gs-q3-fy26-earnings-oct-13-2026)"
+      },
+      "publishDate": "2026-10-13T18:49:40.911Z"
+    },
+    {
+      "id": "c-q3-fy26-earnings-oct-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Citigroup (C) Q3 FY26 (Tue Oct 13 premarket) — net income $5.2B / EPS $2.85 (+53% Y/Y, +27% ex prior-year Banamex charge) tops ~$2.68 est; revenue $23.8B (+8%) best Q3 revenue in a decade; Services +15%, Wealth +15%, Markets +6% (Equities +14%); RoTCE 11.5% (+350bp); $4.1B returned via buybacks and dividends",
+      "org": "Citigroup",
+      "date": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
+      "summary": "Citigroup Q3 FY26 (Tue Oct 13 BMO): revenue $23.8B (+8% Y/Y, best Q3 revenue in a decade) and EPS $2.85 (+53%) both beat (~$2.68 est). Services +15%, Wealth +15%, Markets +6%. RoTCE 11.5%. $4.1B capital returned.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q3-fy26",
+        "banks",
+        "money-center",
+        "services",
+        "wealth-management",
+        "capital-markets",
+        "turnaround",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "C",
+        "JPM",
+        "GS",
+        "BAC"
+      ],
+      "metrics": {
+        "Net income": "$5.25B (+40% Y/Y)",
+        "Diluted EPS": "$2.85 (+53% Y/Y, +27% ex prior-year Banamex charge) vs ~$2.68 est",
+        "Revenue": "$23.85B (+8% Y/Y) — best Q3 revenue in a decade",
+        "RoTCE": "11.5% (+350bp Y/Y)",
+        "Efficiency ratio": "58.5%",
+        "Services revenue": "$6.6B (+15% Y/Y)",
+        "Markets revenue": "$6.1B (+6% Y/Y) — FICC $4.4B (+4%), Equities $1.7B (+14%)",
+        "Banking revenue": "$1.7B (+6%, IB fees $1.35B +9%)",
+        "Wealth revenue": "$3.3B (+15% Y/Y)",
+        "US Consumer Cards": "$4.7B (flat)",
+        "Capital returned": "$4.1B (buybacks + dividends, 85% payout ratio)",
+        "CET1": "12.8%",
+        "Book value per share": "$115.61 (tangible $101.59)"
+      },
+      "explainer": {
+        "tagline": "Jane Fraser's turnaround print — Citi books 'best Q3 revenue in a decade' and $4.1B of capital return as RoTCE jumps 350bp to 11.5%.",
+        "whatIsIt": "Citigroup reported Q3 FY26 before Tuesday's open: revenue $23.85B (+8% Y/Y, the best Q3 revenue in a decade per CEO Jane Fraser), EPS $2.85 (+53% Y/Y, or +27% excluding the prior-year Banamex goodwill impairment), net income $5.25B. All five revenue-generating segments grew Y/Y; Services and Wealth both +15%.",
+        "howItWorks": "Services (TTS + cash management) delivered $6.6B revenue (+15%) and $2.6B net income (+27%). Wealth $3.3B revenue (+15%) with net income +93% to $585M — the Horta-Osorio reset is finally compounding. Markets $6.1B (+6%): FICC $4.4B (+4%, Rates/currencies flat ~$3.0B, Spread Products +13% to $1.4B); Equities $1.7B (+14%, driven by Prime balances +40%). Banking revenue +6% with IB fees $1.35B (+9%, ECM +77%). USCC flat at $4.7B. Returned $4.1B via buybacks + dividends — 85% payout ratio. CET1 12.8%, SLR 5.0%, book value $115.61 (tangible $101.59). Fraser said the quarter 'reflects the continued disciplined and consistent execution of our strategy.'",
+        "whyItMatters": "RoTCE 11.5% is the number Citi has been promising for years — this is the first quarter where the top-line engine (Services + Wealth) is actually dragging the whole P&L up materially, not just the dispositions story. Combined with JPM Markets +15% and GS Equities $6.44B same day, the bulge-bracket Q3 trading beat is unambiguous. Citi has delivered 7 of the last 8 quarters above pre-earnings EPS estimates; the capital-return pace is now consequential at 85% payout.",
+        "forWho": "bank PMs, turnaround PMs",
+        "tryIt": "https://finance.yahoo.com/quote/C/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Citi_logo_March_2023.svg",
+        "alt": "Citigroup corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm"
+        },
+        {
+          "label": "Earnings Call Announcement",
+          "url": "https://www.citigroup.com/global/news/press-release/2026/citi-third-quarter-2026-earnings-call"
+        },
+        {
+          "label": "C Quote",
+          "url": "https://finance.yahoo.com/quote/C/"
+        }
+      ],
+      "reddit": {
+        "title": "Citigroup Q3 FY26 — revenue $23.85B (+8%) best Q3 in a decade; EPS $2.85 (+53%) tops ~$2.68 est; Services +15%, Wealth +15%, Markets +6%; RoTCE jumps 350bp to 11.5%; $4.1B capital returned",
+        "body": "Jane Fraser's Citi turnaround delivered what might be its cleanest print of her tenure.\n\n* Revenue $23.85B (+8% Y/Y) — best Q3 revenue in a decade\n* EPS $2.85 (+53% Y/Y, +27% ex prior-year Banamex charge) vs ~$2.68 est\n* Net income $5.25B (+40%)\n* Services $6.6B (+15%) — TTS + cash management\n* Wealth $3.3B (+15%); net income +93% to $585M\n* Markets $6.1B (+6%) — FICC $4.4B, Equities $1.7B (+14%)\n* Banking $1.7B (+6%), IB fees $1.35B (+9%)\n* RoTCE 11.5% (+350bp Y/Y); efficiency 58.5%\n* $4.1B capital returned (85% payout ratio); CET1 12.8%\n\nWhat makes this print matter:\n\n1. **The RoTCE promise is actually here** — 11.5% is right at the mid-single-digit upgrade from the historical ~8% drag. Fraser explicitly flagged 'disciplined and consistent execution of our strategy.'\n2. **Growth is broad** — all 5 revenue segments up Y/Y; Services + Wealth +15% each is the real engine, not one-off Markets.\n3. **Equities +14% / Prime balances +40%** — rides the same trading tape that JPM Markets (+15%) and GS Equities ($6.44B) are showing.\n\nNext catalysts: BAC and MS report Wed-Thu; FOMC Oct 27-28; CPI Oct 14.\n\nFull breakdown: [https://stock-tldr.xyz/releases/c-q3-fy26-earnings-oct-13-2026](https://stock-tldr.xyz/releases/c-q3-fy26-earnings-oct-13-2026)"
+      },
+      "publishDate": "2026-10-13T18:49:40.911Z"
+    },
+    {
+      "id": "jnj-q3-fy26-earnings-oct-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Johnson & Johnson (JNJ) Q3 FY26 (Tue Oct 13 premarket) — reported sales $25.4B (+5.9% Y/Y) in line; adj EPS $2.59 (-7.5% Y/Y) misses ~$2.66 est; GAAP EPS collapses to $0.09 on one-time talc litigation special charge; Innovative Medicine $16.76B (+7.7%, ex-Stelara +~15%), MedTech $8.64B (+2.5%); FY26 adj EPS guide RAISED to $11.05-$11.15 (prior $10.96-$11.11)",
+      "org": "Johnson & Johnson",
+      "date": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm",
+      "summary": "J&J Q3 FY26 (Tue Oct 13 BMO): sales $25.4B (+5.9%) in line; adj EPS $2.59 (-7.5% Y/Y) just under ~$2.66 est as Stelara biosimilars drag; GAAP EPS $0.09 after talc settlement special charge. FY26 adj EPS guide raised to $11.05-$11.15 midpoint $11.10.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-in-line",
+        "guidance-raise",
+        "q3-fy26",
+        "pharma",
+        "medtech",
+        "innovative-medicine",
+        "stelara-loe",
+        "talc",
+        "litigation",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JNJ",
+        "ABBV",
+        "LLY",
+        "MRK",
+        "PFE"
+      ],
+      "metrics": {
+        "Reported sales": "$25.40B (+5.9% Y/Y)",
+        "Adj EPS (diluted)": "$2.59 (-7.5% Y/Y) vs ~$2.66 est",
+        "GAAP EPS (diluted)": "$0.09 (vs $2.12 Y/Y) — talc special charge",
+        "Net earnings (GAAP)": "$210M (-95.9% Y/Y)",
+        "Adj net earnings": "$6.34B (-6.8% Y/Y)",
+        "Innovative Medicine revenue": "$16.76B (+7.7% rpt, +8.0% adj-op)",
+        "MedTech revenue": "$8.64B (+2.5% rpt)",
+        "9-mo free cash flow": "~$15.1B (vs $14.2B Y/Y)",
+        "FY26 reported sales guide (new)": "$101.0B-$101.4B (prior $100.8B-$101.4B)",
+        "FY26 adj EPS guide (new)": "$11.05-$11.15 (prior $10.96-$11.11)",
+        "FY26 adj operational EPS guide (new)": "$10.95-$11.05 (prior $10.86-$11.01)"
+      },
+      "explainer": {
+        "tagline": "Sales +5.9% and guide raised, but adj EPS -7.5% on Stelara biosimilar drag and GAAP EPS to $0.09 after proposed talc litigation special charge.",
+        "whatIsIt": "Johnson & Johnson reported Q3 FY26 before Tuesday's open: reported sales $25.40B (+5.9% Y/Y), adj EPS $2.59 (-7.5% Y/Y, slightly below ~$2.66 est), GAAP EPS $0.09 after a one-time special charge for the proposed talc litigation resolution. CEO Joaquin Duato said the quarter and increased sequential growth 'reflect the accelerating momentum of our focused portfolio.'",
+        "howItWorks": "Innovative Medicine revenue $16.76B (+7.7% reported, +8.0% adjusted-operational) — TREMFYA, DARZALEX, CARVYKTI, TECVAYLI and RYBREVANT/LAZCLUZE drove growth; STELARA was a ~690bp drag as biosimilar competition continues to bite. MedTech revenue $8.64B (+2.5%) led by electrophysiology, Shockwave, contact lenses and trauma. GAAP net earnings $210M (-95.9%) reflects the proposed talc settlement charge plus Firefly Bio and Sail Biomedicines deal charges. Adj net earnings $6.34B (-6.8%). 9-mo operating cash flow ~$15.1B. The company raised FY26 adj EPS guide to $11.05-$11.15 (midpoint $11.10, from prior $11.04); reported sales guide to $101.0B-$101.4B midpoint $101.2B.",
+        "whyItMatters": "The real question coming into the print was whether the Stelara loss-of-exclusivity cliff was still manageable — ex-Stelara, Innovative Medicine is running +~15%, which is the ABBV-style 'base + growth' narrative Duato has been selling. The GAAP $0.09 EPS looks worse than it is: the special charge is a one-time hit from the proposed talc litigation resolution the company structured in July. Read-through: ABBV, LLY, MRK — the IM growth franchise is working even through LOE; MedTech growth (+2.5%) is softer than peers would want.",
+        "forWho": "pharma PMs, defensive healthcare rotators",
+        "tryIt": "https://finance.yahoo.com/quote/JNJ/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Johnson_and_Johnson_Logo.svg",
+        "alt": "Johnson & Johnson corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm"
+        },
+        {
+          "label": "JNJ IR",
+          "url": "https://www.investor.jnj.com/"
+        },
+        {
+          "label": "JNJ Quote",
+          "url": "https://finance.yahoo.com/quote/JNJ/"
+        }
+      ],
+      "reddit": {
+        "title": "JNJ Q3 FY26 — sales $25.4B (+5.9%) in line, adj EPS $2.59 (-7.5%) just below ~$2.66 est; GAAP EPS crashes to $0.09 on talc litigation special charge; FY26 adj EPS guide RAISED to $11.05-$11.15",
+        "body": "J&J printed sales growth + a guide raise, offset by Stelara biosimilar drag and a one-time talc litigation charge that smashed GAAP EPS.\n\n* Reported sales $25.40B (+5.9% Y/Y)\n* Adj EPS $2.59 (-7.5% Y/Y) vs ~$2.66 est\n* GAAP EPS $0.09 vs $2.12 Y/Y — proposed talc litigation resolution special charge\n* Innovative Medicine $16.76B (+7.7% rpt, +8.0% adj-op) — ex-Stelara ~+15%\n* MedTech $8.64B (+2.5%)\n* 9-mo adj net earnings $6.34B (-6.8%); 9-mo FCF ~$15.1B\n* FY26 adj EPS guide raised to $11.05-$11.15 (prior $10.96-$11.11)\n* FY26 reported sales guide $101.0B-$101.4B midpoint $101.2B\n\nThe three dynamics in the print:\n\n1. **Stelara LOE is still the whole adj-EPS story** — ~690bp growth drag; ex-Stelara, Innovative Medicine is doing +~15% off TREMFYA, DARZALEX, CARVYKTI, TECVAYLI, RYBREVANT/LAZCLUZE.\n2. **GAAP noise, not operational noise** — the $0.09 GAAP EPS reflects the proposed talc litigation charge plus Firefly Bio + Sail Biomedicines acquisition charges, not a real earnings problem.\n3. **Guide raise is small but real** — midpoint up ~$0.06 to $11.10 on the adj EPS; sales midpoint up ~$0.1B.\n\nNext catalysts: ABBV, LLY, MRK, PFE Q3 reports later in October.\n\nFull breakdown: [https://stock-tldr.xyz/releases/jnj-q3-fy26-earnings-oct-13-2026](https://stock-tldr.xyz/releases/jnj-q3-fy26-earnings-oct-13-2026)"
+      },
+      "publishDate": "2026-10-13T18:49:40.911Z"
+    },
     {
       "id": "bmbl-ithaca-take-private-rumor-oct-12-2026",
       "categories": [
