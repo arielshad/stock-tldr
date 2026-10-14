@@ -1,8 +1,272 @@
 {
-  "generatedAt": "2026-10-14T02:33:54.273Z",
+  "generatedAt": "2026-10-14T16:17:23.629Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "bac-q3-fy26-earnings-oct-14-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Bank of America (BAC) Q3 FY26 (Wed Oct 14 premarket) — revenue $30.0B (+3% Y/Y), GAAP net income $6.9B / EPS $0.91; adj $8.1B / $1.08 ex a $1.2B OCC+FinCEN BSA/AML regulatory settlement charge (non-tax-deductible, -$0.17 EPS); NII $16.4B (+8%); adj ROTCE 14.9%; CET1 10.9% (-37bp Q/Q); $6.0B of buybacks and $2.2B of dividends",
+      "org": "Bank of America",
+      "date": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex992.htm",
+      "summary": "BAC Q3 FY26 (Wed Oct 14 BMO): revenue $30.0B (+3%), adj EPS $1.08 on $8.1B adj net income; a $1.2B OCC+FinCEN BSA/AML settlement charge cut GAAP EPS to $0.91. NII $16.4B (+8%), adj ROTCE 14.9%, CET1 10.9%; $6.0B returned via buybacks.",
+      "tags": [
+        "earnings",
+        "q3-fy26",
+        "banks",
+        "money-center",
+        "nii-growth",
+        "trading-beat",
+        "regulatory-charge",
+        "bsa-aml",
+        "occ-fincen",
+        "buyback",
+        "financials",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BAC",
+        "JPM",
+        "C",
+        "WFC",
+        "MS"
+      ],
+      "metrics": {
+        "Revenue net of interest expense": "$30.0B (+3% Y/Y, +$0.9B)",
+        "GAAP net income": "$6.9B / adj $8.1B ex-charge",
+        "Diluted EPS": "$0.91 GAAP / $1.08 adj (vs ~$1.11-$1.17 est)",
+        "Regulatory settlement charge": "$1.2B OCC+FinCEN BSA/AML, non-tax-deductible, -$0.17 EPS",
+        "Net interest income": "$16.4B (+8% Y/Y, +$1.2B)",
+        "Noninterest expense": "$19.7B / $18.5B ex-charge (+$2.4B Y/Y)",
+        "Reported ROE / ROTCE": "9.4% / 12.6%",
+        "Adjusted ROE / ROTCE": "11.1% / 14.9%",
+        "Efficiency ratio": "66% / 62% adj",
+        "CET1 (Standardized)": "10.9% ($198B, -37bp Q/Q)",
+        "Share buybacks": "$6.0B",
+        "Dividends": "$2.2B"
+      },
+      "explainer": {
+        "tagline": "BAC posts a clean operating beat (adj EPS $1.08 on $30B revenue) but swallows a $1.2B OCC+FinCEN BSA/AML settlement that cuts GAAP EPS to $0.91 and CET1 to 10.9%.",
+        "whatIsIt": "Bank of America reported Q3 FY26 before Wednesday's open. Revenue net of interest expense rose 3% Y/Y to $30.0B; GAAP net income was $6.9B / EPS $0.91. Excluding a $1.2B regulatory settlement charge tied to Bank Secrecy Act, anti-money-laundering and sanctions-compliance consent orders with the OCC and FinCEN, adjusted net income was $8.1B / EPS $1.08. The charge is in noninterest expense and is non-tax-deductible.",
+        "howItWorks": "Net interest income grew 8% Y/Y to $16.4B as deposits rose 2% to $2.04T and loans +7% to $1.25T. Noninterest expense of $19.7B ran $2.4B above Q3 25; stripped of the $1.2B charge it was $18.5B. The regulatory accrual stems from consent orders disclosed earlier covering BSA/AML and sanctions-compliance programs; the OCC's prior December 2024 order carried no monetary penalty, so this is where the civil money penalties land. Reported efficiency ratio 66% (adj 62%), reported ROTCE 12.6% (adj 14.9%). CET1 fell 37bp Q/Q to 10.9% on the charge and $6.0B of buybacks; $2.2B of dividends paid.",
+        "whyItMatters": "Caps a mixed Q3 bank-earnings tape. JPM headline-missed on securities losses, Citi/Goldman/Wells broadly beat Tuesday; BAC's underlying franchise is tracking (NII +8%, deposits +2%), but the $1.2B charge is a real capital hit — CET1 slipped to 10.9% and headline EPS trailed consensus even as ex-charge numbers printed above. The settlement closes a long-running overhang on the AML program disclosed in 2024.",
+        "forWho": "bank PMs, financials specialists",
+        "tryIt": "https://finance.yahoo.com/quote/BAC/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bank_of_America_Corporate_Center.jpg/1280px-Bank_of_America_Corporate_Center.jpg",
+        "alt": "Bank of America Corporate Center tower in Charlotte",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex992.htm"
+        },
+        {
+          "label": "8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-20261014.htm"
+        },
+        {
+          "label": "BofA Newsroom",
+          "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/10/bank-of-america-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "label": "Quarterly Earnings",
+          "url": "https://investor.bankofamerica.com/quarterly-earnings"
+        },
+        {
+          "label": "BAC Quote",
+          "url": "https://finance.yahoo.com/quote/BAC/"
+        }
+      ],
+      "reddit": {
+        "title": "BAC Q3 FY26 — revenue $30B (+3%), adj EPS $1.08 beats; but a $1.2B OCC+FinCEN BSA/AML settlement charge drops GAAP EPS to $0.91 and knocks CET1 to 10.9%",
+        "body": "Bank of America closed Q3 bank earnings week with a clean operating beat but a sizable regulatory hit.\n\n* Revenue net of interest expense $30.0B (+3% Y/Y)\n* GAAP net income $6.9B / EPS $0.91; adjusted $8.1B / $1.08\n* $1.2B regulatory settlement charge (OCC + FinCEN BSA/AML + sanctions consent orders), non-tax-deductible, -$0.17 EPS\n* Net interest income $16.4B (+8% Y/Y)\n* Deposits $2.04T (+2% Y/Y), loans $1.25T (+7% Y/Y)\n* Noninterest expense $19.7B / $18.5B ex-charge\n* CET1 10.9% (-37bp Q/Q)\n* $6.0B of buybacks, $2.2B of dividends\n\nTwo things to flag:\n\n1. **The AML overhang finally gets a number** — the OCC's December 2024 consent order carried no fine; this quarter accrues $1.2B of civil money penalties under OCC+FinCEN orders covering BSA, AML and sanctions-compliance. Non-tax-deductible, so GAAP EPS and CET1 take the full hit.\n2. **Underlying franchise is tracking** — NII +8%, deposits +2%, loans +7%, adj ROTCE 14.9%, adj efficiency 62%. Ex-charge, this is a straightforward beat.\n\nNext catalysts: Morgan Stanley reports same morning; CPI Wed Oct 14; FOMC Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bac-q3-fy26-earnings-oct-14-2026](https://stock-tldr.xyz/releases/bac-q3-fy26-earnings-oct-14-2026)"
+      },
+      "publishDate": "2026-10-14T16:17:23.629Z"
+    },
+    {
+      "id": "ms-q3-fy26-earnings-oct-14-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Morgan Stanley (MS) Q3 FY26 (Wed Oct 14 premarket) — net revenue $20.3B (+12% Y/Y) vs ~$20.7B est, EPS $3.03 (vs $2.80 Y/Y, ~$3.12 est), net income $4.9B; ROTCE 22.6%; Institutional Securities $10.0B with Equities +41% to $5.8B; Wealth record $9.1B rev / $2.8B PBT / 30.4% margin / $232B NNA (over half IPO-related); $1.5B buyback, dividend $1.15",
+      "org": "Morgan Stanley",
+      "date": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000288/a3q26msearningsrelease.htm",
+      "summary": "Morgan Stanley Q3 FY26 (Wed Oct 14 BMO): net revenue $20.3B (+12%), EPS $3.03, ROTCE 22.6%. Wealth sets record $9.1B revenue, 30.4% pre-tax margin and $232B NNA (over half IPO-related); Equities +41% to $5.8B in Institutional. $1.5B buyback.",
+      "tags": [
+        "earnings",
+        "q3-fy26",
+        "banks",
+        "wealth-management",
+        "equities-trading",
+        "ipo-flows",
+        "capital-markets",
+        "investment-banking",
+        "buyback",
+        "dividend",
+        "financials",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MS",
+        "GS",
+        "JPM",
+        "BAC",
+        "C"
+      ],
+      "metrics": {
+        "Net revenue": "$20.3B (+12% Y/Y) vs ~$20.7B est",
+        "Net income": "$4.9B (+6% Y/Y)",
+        "Diluted EPS": "$3.03 (vs $2.80 Y/Y, ~$3.12 est)",
+        "ROTCE": "22.6% (vs 23.5% Y/Y)",
+        "CET1 (Standardized)": "14.9% (-20bp Y/Y)",
+        "Efficiency ratio": "67%",
+        "Institutional Securities revenue": "$10.0B (vs $8.5B Y/Y)",
+        "Equities trading": "$5.8B (+41% Y/Y)",
+        "Fixed Income": "$2.0B (-7%)",
+        "Investment Banking": "$2.2B (+2%)",
+        "Wealth Management revenue": "$9.1B (+10% Y/Y, record)",
+        "Wealth PBT margin": "30.4% (record)",
+        "Wealth net new assets": "$232.4B (vs $81.0B Y/Y) — ~half IPO-related",
+        "Fee-based client assets": "$3.16T (vs $2.65T Y/Y)",
+        "Investment Management AUM": "$2.05T",
+        "Share buybacks": "$1.5B (~7M shares @ $212.74 avg)",
+        "Quarterly dividend": "$1.15/share"
+      },
+      "explainer": {
+        "tagline": "MS misses on the EPS line ($3.03 vs ~$3.12) but prints a record Wealth quarter — $9.1B revenue, 30.4% pre-tax margin, $232B NNA — with Equities +41% to $5.8B.",
+        "whatIsIt": "Morgan Stanley reported Q3 FY26 before Wednesday's open: net revenue $20.3B (+12% Y/Y), net income $4.9B, diluted EPS $3.03 (vs $2.80 Y/Y). ROTCE 22.6%. The headline missed consensus (~$3.12 EPS, ~$20.7B revenue), but the Wealth segment set multiple records and Institutional trading continued the capital-markets-boom theme from JPM/GS Tuesday.",
+        "howItWorks": "Institutional Securities net revenue $10.0B (vs $8.5B Y/Y) with Equities +41% to $5.8B (driven by client engagement and Asia strength), Investment Banking +2% to $2.2B (advisory offset by lower equity underwriting), Fixed Income -7% to $2.0B. Wealth Management posted record $9.1B revenue (+10%), record $2.8B pre-tax income, record 30.4% PBT margin and record $232.4B net new assets vs $81B Y/Y, with just over half tied to IPO-related flows and fee-based flows of $80.5B. Fee-based client assets $3.16T, loans $201.1B. Investment Management revenue $1.5B (-12% on reversal of accrued carried interest). CET1 14.9%. Capital return: $1.5B of buybacks and $1.15 quarterly dividend.",
+        "whyItMatters": "The Wealth franchise is the quarter's standout — $232B of net new assets is nearly 3× last year, with the IPO channel pulling in big balances from newly-liquid employee stock. Combined with 41% Equities growth, MS confirms the Q3 capital-markets setup JPM and GS laid down Tuesday. Headline EPS below Street is cosmetic — Investment Management's carry reversal is the drag, operating franchise is firing. BAC prints same morning; GS beat earlier in the week.",
+        "forWho": "capital-markets desks, wealth-management watchers",
+        "tryIt": "https://finance.yahoo.com/quote/MS/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morgan_Stanley_Times_Square.jpg/960px-Morgan_Stanley_Times_Square.jpg",
+        "alt": "Morgan Stanley Times Square headquarters signage",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "8-K Earnings Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000288/a3q26msearningsrelease.htm"
+        },
+        {
+          "label": "Q2 2026 Release (comp)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000207/a2q26msearningsrelease.htm"
+        },
+        {
+          "label": "MS Quote",
+          "url": "https://finance.yahoo.com/quote/MS/"
+        },
+        {
+          "label": "MS on TradingView",
+          "url": "https://www.tradingview.com/symbols/NYSE-MS/"
+        }
+      ],
+      "reddit": {
+        "title": "MS Q3 FY26 — net revenue $20.3B (+12%), EPS $3.03 misses $3.12 est; Wealth sets records with $9.1B rev / 30.4% margin / $232B NNA (over half IPO-related); Equities +41% to $5.8B",
+        "body": "Morgan Stanley rounded out big-bank earnings season with a mixed headline but a blockbuster Wealth print.\n\n* Net revenue $20.3B (+12% Y/Y) vs ~$20.7B est\n* Net income $4.9B / EPS $3.03 (vs $2.80 Y/Y, ~$3.12 est)\n* ROTCE 22.6%, CET1 14.9%\n* Institutional Securities $10.0B (vs $8.5B Y/Y)\n  * Equities $5.8B (+41%) — Asia + client engagement\n  * Fixed Income $2.0B (-7%)\n  * Investment Banking $2.2B (+2%)\n* Wealth Management records across the board\n  * Revenue $9.1B (+10%) — record\n  * Pre-tax income $2.8B / 30.4% margin — record\n  * **Net new assets $232B** vs $81B Y/Y — over half IPO-related\n  * Fee-based client assets $3.16T\n* $1.5B of buybacks (~7M shares @ $212.74); $1.15 quarterly dividend\n\nThree takeaways:\n\n1. **Wealth is the story** — $232B NNA is nearly 3× last year. Just over half came from IPO-related flows, which maps to the Q3 IPO window (CoreWeave, etc. employees pulling newly-liquid stock into fee-based accounts).\n2. **Equities confirms the trading boom** — +41% Y/Y lines up with GS Equities +72% and JPM Equities +49% Tuesday. The capital-markets cycle is still accelerating.\n3. **EPS miss is cosmetic** — Investment Management revenue -12% on a reversal of accrued carried interest is the drag; strip it out, the operating franchise prints a clean beat.\n\nNext catalysts: BAC same morning; CPI Wed; FOMC Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ms-q3-fy26-earnings-oct-14-2026](https://stock-tldr.xyz/releases/ms-q3-fy26-earnings-oct-14-2026)"
+      },
+      "publishDate": "2026-10-14T16:17:23.629Z"
+    },
+    {
+      "id": "asml-q3-2026-earnings-oct-14",
+      "categories": [
+        "earnings"
+      ],
+      "title": "ASML (ASML) Q3 2026 (Wed Oct 14 premarket, Amsterdam) — record total net sales €11.7B (+25% Q/Q from €9.3B, high end of €11-12B guide), gross margin 57.5%, net income €5.0B, basic EPS €12.95; 121 litho systems shipped (113 new + 8 used); Q4 guide €14.2–15.2B / FY26 €44–45B; CEO Fouquet says planned 2027 & 2028 supply 'will not fully meet the demand of our customers'",
+      "org": "ASML",
+      "date": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
+      "summary": "ASML Q3 2026 (Wed Oct 14 BMO Amsterdam): record €11.7B net sales (high end of €11-12B guide), 57.5% gross margin, €5.0B net income, EPS €12.95; 121 systems shipped. Q4 guide €14.2-15.2B / FY26 €44-45B. CEO: 2027 & 2028 supply won't meet demand.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "semicap",
+        "lithography",
+        "euv",
+        "ai-chip-cycle",
+        "ai-capex",
+        "guidance-raise",
+        "capacity-constraint",
+        "capex",
+        "tech",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ASML",
+        "NVDA",
+        "TSM",
+        "AMAT",
+        "LRCX",
+        "KLAC"
+      ],
+      "metrics": {
+        "Total net sales": "€11.7B record (vs €9.3B Q2, high end of €11-12B guide)",
+        "Net system sales": "€8.4B (vs €6.6B Q2)",
+        "Installed Base Management sales": "€3.3B",
+        "Gross margin": "57.5% (vs 54.0% Q2, 55-57% guide)",
+        "Operating margin": "44.4%",
+        "Net income": "€5.0B (€4,960M, 42.5% margin)",
+        "Basic EPS": "€12.95",
+        "Lithography systems shipped": "121 units (113 new + 8 used, vs 91 Q2)",
+        "Cash + short-term investments": "€12.7B",
+        "Free cash flow": "€11.4B",
+        "Q4 2026 guidance": "€14.2–15.2B revenue, gross margin ~57%",
+        "FY 2026 guidance": "€44–45B revenue, gross margin ~56%",
+        "Buybacks (Q3)": "~2.8M shares for ~€4.1B",
+        "Interim dividend": "€1.88/share (payable Nov 4)"
+      },
+      "explainer": {
+        "tagline": "ASML prints record €11.7B Q3, hikes Q4 guide to €14.2-15.2B, and warns 2027/2028 planned capacity won't meet AI-driven customer demand.",
+        "whatIsIt": "ASML, the Dutch sole supplier of EUV lithography machines for leading-edge logic and memory, reported Q3 2026 before Wednesday's Amsterdam open. Total net sales were a record €11.7B — toward the high end of the €11-12B guidance range and sharply above the €9.3B Q2 print. Net income €5.0B (42.5% net margin), basic EPS €12.95, gross margin 57.5%.",
+        "howItWorks": "Net system sales rose to €8.4B from €6.6B in Q2 as 121 lithography systems shipped (113 new + 8 used, vs 91 in Q2). Installed Base Management revenue was €3.3B. Operating margin reached 44.4%. The company declined to break out quarterly bookings (ASML stopped publishing that figure earlier in 2026) but says the order book kept growing Q/Q. Q4 guide of €14.2-15.2B points to another record quarter, with gross margin ~57%; FY26 guidance tightens to €44-45B. CEO Christophe Fouquet: 'our supply as currently planned for both 2027 and 2028 will not fully meet the demand of our customers,' and ASML is 'looking at adding capacity for 2028 beyond the previously announced 30% increase.' Some customers are placing orders for 2029 and 2030.",
+        "whyItMatters": "ASML is the clearest read on AI capex at the semi-equipment layer — one supplier, visible pricing, long lead times. Record Q3, record Q4 guide and an explicit 'supply < demand' message through 2028 confirms the semi upcycle hasn't broken despite the Oct 8 Nasdaq chip rout on OpenAI revenue questions. Reads for TSM, Samsung Foundry capex plans and the broader semicap complex (AMAT, LRCX, KLAC). Fouquet's capacity signal gives sell-side longer-dated revenue visibility for the first time this cycle.",
+        "forWho": "semi analysts, AI-capex watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ASML/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ASML_headquarters_Veldhoven.jpg/1280px-ASML_headquarters_Veldhoven.jpg",
+        "alt": "ASML headquarters campus in Veldhoven, Netherlands",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "6-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm"
+        },
+        {
+          "label": "Q3 Presentation",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/a2026_10x14xpresentation.htm"
+        },
+        {
+          "label": "ASML Quote",
+          "url": "https://finance.yahoo.com/quote/ASML/"
+        },
+        {
+          "label": "ASML on TradingView",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-ASML/"
+        }
+      ],
+      "reddit": {
+        "title": "ASML Q3 2026 — record €11.7B net sales (high end of guide), €5.0B net income, GM 57.5%; Q4 guide €14.2–15.2B / FY €44–45B; CEO: planned 2027 & 2028 supply won't meet demand",
+        "body": "ASML delivered a blockbuster Q3 and the strongest AI-capex read of the semi cycle so far.\n\n* Total net sales €11.7B record (vs €9.3B in Q2, high end of €11-12B guide)\n* Net income €5.0B / basic EPS €12.95\n* Gross margin 57.5% (vs 54.0% in Q2)\n* Operating margin 44.4%\n* Net system sales €8.4B, Installed Base Management €3.3B\n* 121 lithography systems shipped (113 new + 8 used, vs 91 in Q2)\n* Free cash flow €11.4B; cash + ST investments €12.7B\n* ~€4.1B of buybacks + €1.88 interim dividend\n\nGuidance:\n\n1. **Q4 2026 €14.2–15.2B** — ~57% gross margin, +22-30% Q/Q, pointing to another record\n2. **FY 2026 €44–45B** — tightens prior €43-45B range to the high half\n3. **2027 and 2028 supply won't meet demand** — CEO Christophe Fouquet: 'our supply as currently planned for both 2027 and 2028 will not fully meet the demand of our customers.' Some customers already placing orders for 2029 and 2030. ASML looking at adding 2028 capacity beyond the previously announced 30% increase.\n\nWhy it matters: ASML is the cleanest AI-capex gauge there is — one supplier, long lead times, pricing visibility. After the Oct 8 chip rout on OpenAI revenue questions, this print re-anchors the AI build-out thesis. Reads for TSM, Samsung Foundry, and the broader semicap complex (AMAT, LRCX, KLAC).\n\nFull breakdown: [https://stock-tldr.xyz/releases/asml-q3-2026-earnings-oct-14](https://stock-tldr.xyz/releases/asml-q3-2026-earnings-oct-14)"
+      },
+      "publishDate": "2026-10-14T16:17:23.629Z"
+    },
     {
       "id": "wfc-q3-fy26-earnings-oct-13-2026",
       "categories": [

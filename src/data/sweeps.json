@@ -14002,6 +14002,48 @@
         "rates",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20261014t161723z",
+      "timestamp": "2026-10-14T16:17:23.629Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh Oct 14 earnings prints: BAC Q3 FY26 (clean beat ex a $1.2B OCC+FinCEN BSA/AML settlement charge, GAAP EPS $0.91/adj $1.08), MS Q3 FY26 (record Wealth $232B NNA on IPO flows, Equities +41%, EPS $3.03 vs $3.12 est), and ASML Q3 2026 (record €11.7B sales, GM 57.5%, Q4 guide €14.2-15.2B, CEO warns 2027-28 supply < AI-driven demand).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bac-q3-fy26-earnings-oct-14-2026",
+          "title": "Bank of America (BAC) Q3 FY26 (Wed Oct 14 premarket) — revenue $30.0B (+3% Y/Y), GAAP net income $6.9B / EPS $0.91; adj $8.1B / $1.08 ex a $1.2B OCC+FinCEN BSA/AML regulatory settlement charge (non-tax-deductible, -$0.17 EPS); NII $16.4B (+8%); adj ROTCE 14.9%; CET1 10.9% (-37bp Q/Q); $6.0B of buybacks and $2.2B of dividends",
+          "category": "earnings",
+          "note": "Oct 14 BMO BAC earnings — adj EPS $1.08 operating beat but $1.2B BSA/AML settlement charge drops GAAP EPS to $0.91 and CET1 to 10.9%. Primary SEC 8-K source."
+        },
+        {
+          "id": "ms-q3-fy26-earnings-oct-14-2026",
+          "title": "Morgan Stanley (MS) Q3 FY26 (Wed Oct 14 premarket) — net revenue $20.3B (+12% Y/Y) vs ~$20.7B est, EPS $3.03 (vs $2.80 Y/Y, ~$3.12 est), net income $4.9B; ROTCE 22.6%; Institutional Securities $10.0B with Equities +41% to $5.8B; Wealth record $9.1B rev / $2.8B PBT / 30.4% margin / $232B NNA (over half IPO-related); $1.5B buyback, dividend $1.15",
+          "category": "earnings",
+          "note": "Oct 14 BMO MS earnings — record Wealth $232B NNA (over half IPO-related), Equities +41% to $5.8B, headline EPS $3.03 miss on IM carry reversal. Primary SEC 8-K source."
+        },
+        {
+          "id": "asml-q3-2026-earnings-oct-14",
+          "title": "ASML (ASML) Q3 2026 (Wed Oct 14 premarket, Amsterdam) — record total net sales €11.7B (+25% Q/Q from €9.3B, high end of €11-12B guide), gross margin 57.5%, net income €5.0B, basic EPS €12.95; 121 litho systems shipped (113 new + 8 used); Q4 guide €14.2–15.2B / FY26 €44–45B; CEO Fouquet says planned 2027 & 2028 supply 'will not fully meet the demand of our customers'",
+          "category": "earnings",
+          "note": "Oct 14 BMO (Amsterdam) ASML earnings — record €11.7B sales, Q4 guide hiked to €14.2-15.2B, CEO Fouquet says 2027-28 planned supply won't meet AI-driven customer demand. Primary SEC 6-K source."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "rates",
+        "mover",
+        "mna",
+        "crypto",
+        "regulatory"
+      ]
     }
   ]
 }
