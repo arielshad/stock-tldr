@@ -13970,6 +13970,38 @@
         "rates",
         "analyst"
       ]
+    },
+    {
+      "id": "sweep-20261014t023354z",
+      "timestamp": "2026-10-14T02:33:54.273Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: WFC Q3 FY26 — the missing fifth mega-cap Tuesday Oct 13 bank print (EPS $1.87 beat on $21.87B revenue miss, NII +5%, loans/deposits +11%, provisions up to $1.03B). Fills the Oct 13 bank-earnings-day coverage gap left by the earlier sweep. BAC/MS/ASML and BLK haven't printed yet (Wed Oct 14 pre-market). No other items meet the inclusion bar in the overnight window: Tuesday close saw S&P 500 roughly flat, Dow -0.35%, Nasdaq -0.15%; broader chip and JNJ moves were already captured in prior entries.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "wfc-q3-fy26-earnings-oct-13-2026",
+          "title": "Wells Fargo (WFC) Q3 FY26 (Tue Oct 13 premarket) — net income $5.95B / diluted EPS $1.87 (+13% Y/Y) tops ~$1.82–$1.85 est; total revenue $21.87B (+2% Y/Y) light of ~$22.3B est; NII $12.52B (+5%); noninterest income $9.35B (-1% Y/Y, -9% Q/Q); average loans $1,033.4B (+11%), average deposits $1,482.9B (+11%); provision for credit losses $1.03B (vs $681M Y/Y); 28.6M shares repurchased for $2.5B; Scharf cites 'broad-based growth, higher earnings, and stronger returns'",
+          "category": "earnings",
+          "note": "Fifth of the Tuesday Oct 13 mega-cap bank Q3 FY26 prints (JPM, GS, C, UNH, JNJ already in the feed; WFC was missed by the earlier sweep). EPS beat with a revenue miss, NII +5%, 11% loan and deposit growth, $2.5B of buybacks; stock -~3% on the day on the revenue miss and higher provisions."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "regulatory",
+        "crypto",
+        "commodity",
+        "rates",
+        "analyst"
+      ]
     }
   ]
 }

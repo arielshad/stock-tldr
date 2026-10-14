@@ -1,8 +1,90 @@
 {
-  "generatedAt": "2026-10-13T18:49:40.911Z",
+  "generatedAt": "2026-10-14T02:33:54.273Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "wfc-q3-fy26-earnings-oct-13-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Wells Fargo (WFC) Q3 FY26 (Tue Oct 13 premarket) — net income $5.95B / diluted EPS $1.87 (+13% Y/Y) tops ~$1.82–$1.85 est; total revenue $21.87B (+2% Y/Y) light of ~$22.3B est; NII $12.52B (+5%); noninterest income $9.35B (-1% Y/Y, -9% Q/Q); average loans $1,033.4B (+11%), average deposits $1,482.9B (+11%); provision for credit losses $1.03B (vs $681M Y/Y); 28.6M shares repurchased for $2.5B; Scharf cites 'broad-based growth, higher earnings, and stronger returns'",
+      "org": "Wells Fargo",
+      "date": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm",
+      "summary": "Wells Fargo Q3 FY26 (Tue Oct 13 BMO): net income $5.95B / EPS $1.87 beats ~$1.82–$1.85 est on NII growth and 11% loan/deposit expansion; revenue $21.87B misses ~$22.3B est as noninterest income slips. $2.5B of buybacks; shares traded weaker on light revenue.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-miss",
+        "q3-fy26",
+        "banks",
+        "money-center",
+        "wells-fargo",
+        "wfc",
+        "nii-growth",
+        "credit-provisions",
+        "buyback",
+        "financials",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "WFC",
+        "JPM",
+        "C",
+        "BAC"
+      ],
+      "metrics": {
+        "Diluted EPS": "$1.87 (+13% Y/Y, -$0.13 Q/Q) vs ~$1.82–$1.85 est",
+        "Net income": "$5.95B (+6% Y/Y) from $5.59B",
+        "Total revenue": "$21.87B (+2% Y/Y, -3% Q/Q) vs ~$22.3B est",
+        "Net interest income": "$12.52B (+5% Y/Y)",
+        "Noninterest income": "$9.35B (-1% Y/Y, -9% Q/Q)",
+        "Average loans": "$1,033.4B (+11% Y/Y)",
+        "Average deposits": "$1,482.9B (+11% Y/Y)",
+        "Provision for credit losses": "$1.03B (vs $681M Y/Y)",
+        "Net charge-offs": "$983M / 0.38% of avg loans annualized",
+        "Share buybacks": "28.6M shares for $2.5B"
+      },
+      "explainer": {
+        "tagline": "Wells Fargo beats on EPS as NII and 11% loan/deposit growth outweigh a revenue miss and rising credit provisions.",
+        "whatIsIt": "Wells Fargo reported Q3 FY26 before Tuesday's open: net income $5.95B, diluted EPS $1.87 (+13% Y/Y), total revenue $21.87B (+2%). CEO Charlie Scharf said 'Our third quarter results reflect broad-based growth, higher earnings, and stronger returns,' adding that 'expense savings have funded much of the investments that are making the company stronger.' The print lands in the same Tuesday-morning bank slot as JPM, C, and GS.",
+        "howItWorks": "EPS of $1.87 cleared the ~$1.82–$1.85 Street consensus, but revenue of $21.87B came up short of the ~$22.3B estimate. Net interest income was $12.52B (+5% Y/Y) as average loans grew 11% to $1,033.4B and average deposits rose 11% to $1,482.9B. Noninterest income slipped to $9.35B (-1% Y/Y, -9% Q/Q). Provision for credit losses stepped up to $1,029M from $681M a year ago, with net charge-offs of $983M (0.38% of average loans annualized). WFC repurchased 28.6M common shares for $2.5B during the quarter.",
+        "whyItMatters": "Fourth of the five mega-cap Tuesday prints: EPS beat tracks with the broader bank-earnings pattern (strong NII, strong buybacks) but the revenue miss and $348M Y/Y jump in loan-loss provisions kept shares on the back foot — WFC closed down roughly 3% on the day. Taken with JPM, GS, and C from the same morning, Tuesday's prints show capital-markets strength and sturdy consumer/commercial lending, with credit normalization creeping back into provision lines. Next up: BAC and MS Wednesday pre-market.",
+        "forWho": "bank PMs, regional-bank traders",
+        "tryIt": "https://finance.yahoo.com/quote/WFC/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wells_Fargo_Center_%28Minneapolis%29_-_panoramio.jpg/960px-Wells_Fargo_Center_%28Minneapolis%29_-_panoramio.jpg",
+        "alt": "Wells Fargo Center tower in downtown Minneapolis",
+        "fit": "cover",
+        "credit": "Wikimedia Commons / panoramio"
+      },
+      "links": [
+        {
+          "label": "8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
+        },
+        {
+          "label": "Earnings Supplement",
+          "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000318/wfc3qer10-13x26ex992xsuppl.htm"
+        },
+        {
+          "label": "8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000318/0000072971-26-000318-index.htm"
+        },
+        {
+          "label": "WFC Quote",
+          "url": "https://finance.yahoo.com/quote/WFC/"
+        }
+      ],
+      "reddit": {
+        "title": "WFC Q3 FY26 — EPS $1.87 beats ~$1.82–$1.85 est; revenue $21.87B light of ~$22.3B est; NII +5%, loans and deposits both +11% Y/Y, provisions step up to $1.03B",
+        "body": "Wells Fargo rounded out the Tuesday Oct 13 mega-cap bank prints with an EPS beat and a revenue miss.\n\n* Net income $5.95B (+6% Y/Y) / diluted EPS $1.87 (+13% Y/Y) vs ~$1.82–$1.85 est\n* Total revenue $21.87B (+2% Y/Y) vs ~$22.3B est\n* Net interest income $12.52B (+5% Y/Y)\n* Noninterest income $9.35B (-1% Y/Y, -9% Q/Q)\n* Average loans $1,033.4B (+11% Y/Y); average deposits $1,482.9B (+11% Y/Y)\n* Provision for credit losses $1.03B vs $681M Y/Y; net charge-offs $983M (0.38% annualized)\n* 28.6M shares repurchased for $2.5B in the quarter\n\nThree things stood out:\n\n1. **NII and loan growth are the beat drivers** — NII +5% Y/Y with loans and deposits each up 11% Y/Y. Scharf: 'broad-based growth, higher earnings, and stronger returns.'\n2. **Revenue miss is on the fee side** — noninterest income -1% Y/Y and -9% sequentially, dragging total revenue below the $22.3B consensus.\n3. **Credit normalization is creeping back** — provisions stepped up to $1,029M from $681M a year ago; net charge-offs 38 bps annualized.\n\nStock finished down ~3% on the day, lagging the broader bank group's muted reaction to Tuesday's Q3 prints.\n\nNext catalysts: BAC and Morgan Stanley Wed Oct 14 BMO; ASML pre-open Wed; FOMC Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wfc-q3-fy26-earnings-oct-13-2026](https://stock-tldr.xyz/releases/wfc-q3-fy26-earnings-oct-13-2026)"
+      },
+      "publishDate": "2026-10-14T02:33:54.273Z"
+    },
     {
       "id": "jpm-q3-fy26-earnings-oct-13-2026",
       "categories": [
