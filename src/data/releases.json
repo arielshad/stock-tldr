@@ -1,8 +1,407 @@
 {
-  "generatedAt": "2026-10-15T02:15:04.224Z",
+  "generatedAt": "2026-10-15T16:04:39.968Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "tsm-q3-2026-earnings-oct-15",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Taiwan Semiconductor (TSM) Q3 2026 (Thu Oct 15 premarket) — record consolidated revenue NT$1,494.24B (US$46.72B, +50.9% Y/Y / +41.2% in US$) tops $44.6–45.8B guide and ~NT$1.46T consensus; net income NT$763.06B / diluted EPS NT$29.43 (US$4.60 per ADR); gross margin 66.4%, operating margin 58.7%, net margin 51.1%; Q4 revenue guide US$52.3–54.3B (gross 65–67%, operating 56.5–58.5%); TSM ADR -2.32% intraday to $420.03 as chips sell off on AI-debt-funding fears; Needham raises PT to $560 from $530",
+      "org": "Taiwan Semiconductor Manufacturing",
+      "date": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "summary": "Taiwan Semi posts record Q3 revenue US$46.72B (+50.9% Y/Y, +41.2% in US$) and NT$29.43 EPS (US$4.60/ADR); Q4 guide US$52.3–54.3B. TSM -2.32% intraday to $420.03 as chip complex sells off on AI financing concerns.",
+      "tickers": [
+        "TSM",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "US$46.72B (+50.9% Y/Y, +41.2% in US$)",
+        "Diluted EPS": "NT$29.43 (US$4.60/ADR)",
+        "Gross margin": "66.4%",
+        "Operating margin": "58.7%",
+        "Q4 revenue guide": "US$52.3–54.3B",
+        "Move": "-2.32% intraday to $420.03"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "semis",
+        "ai-capex",
+        "revenue-beat",
+        "record-quarter",
+        "guidance-raise",
+        "taiwan"
+      ],
+      "explainer": {
+        "tagline": "TSMC prints record US$46.72B quarter and guides Q4 to US$52.3–54.3B; AI-debt selloff still drags the ADR -2.32%.",
+        "whatIsIt": "World's largest contract chipmaker reported Q3 2026 before the open on Thursday Oct 15. Consolidated revenue of NT$1,494.24B ran well above the firm's own US$44.6–45.8B guide and LSEG's ~NT$1.46T consensus, driven by continued AI-related demand plus a smartphone-related inventory build. Diluted EPS printed NT$29.43 (US$4.60 per ADR) on net income of NT$763.06B.",
+        "howItWorks": "Gross margin landed at 66.4%, operating margin 58.7%, net margin 51.1% — all above the firm's prior guide (gross 65–67%, operating 56–58%). TSMC guided Q4 2026 revenue to US$52.3–54.3B, gross profit margin 65–67%, operating margin 56.5–58.5%, using an exchange rate assumption of NT$31.8 per US$1. CEO C.C. Wei also publicly signaled TSMC can backstop customers if Intel's advanced packaging ramp disappoints.",
+        "whyItMatters": "A beat and raise this large from the single most important node in AI hardware confirms AI capex spending has not peaked yet. Despite the print, TSM ADRs fell -2.32% to $420.03 and the semi complex (NVDA, AMD, AVGO) stayed under pressure as traders continue to focus on how OpenAI/Oracle/CoreWeave financing stacks up versus their chip orders. Needham raised its PT to $560 from $530 after the print.",
+        "forWho": "semi analysts, AI-infra traders",
+        "tryIt": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/1280px-Tsmc.svg.png",
+        "alt": "TSMC corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 6-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+        },
+        {
+          "label": "TSM Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/TSM/"
+        },
+        {
+          "label": "TSMC EDGAR Filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001046179&type=6-K"
+        }
+      ],
+      "reddit": {
+        "title": "TSMC Q3 2026: record $46.72B revenue (+50.9% Y/Y), $4.60/ADR EPS, Q4 guide $52.3–54.3B — stock still -2.3% as the AI-debt trade cracks",
+        "body": "TSMC reported its biggest quarter ever Thursday morning. Numbers below are from the company's SEC 6-K filing.\n\n* Revenue NT$1,494.24B / **US$46.72B**, +50.9% Y/Y (+41.2% in US$) — above the $44.6–45.8B company guide and ~NT$1.46T LSEG consensus\n* Net income NT$763.06B, diluted EPS NT$29.43 (**US$4.60 per ADR**)\n* Gross margin **66.4%**, operating 58.7%, net 51.1% — all above prior-quarter guide\n* Q4 2026 revenue guide **US$52.3–54.3B**, gross 65–67%, operating 56.5–58.5%\n* Needham raises PT to $560 from $530 after the print\n\nTSM ADR is still -2.32% at $420.03 as of midday. Three things to know:\n\n1. **AI capex has not peaked** — demand remains \"extremely robust\" per the call, and the Q4 guide implies ~15% sequential growth into year-end.\n2. **CEO signals Intel backstop** — Wei said TSMC can support customers if Intel's advanced-packaging ramp underwhelms, which keeps the \"only game in town\" narrative alive.\n3. **Why it's still red** — the chip tape is trading the AI-financing problem (OpenAI/Oracle/CoreWeave debt stacks) more than the fundamental, and TSMC remains the derivative.\n\nNext catalysts: NVDA earnings Nov 19, and TSMC October monthly revenue release.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsm-q3-2026-earnings-oct-15](https://stock-tldr.xyz/releases/tsm-q3-2026-earnings-oct-15)"
+      },
+      "publishDate": "2026-10-15T16:04:39.968Z"
+    },
+    {
+      "id": "us-ppi-sep-2026-oct-15",
+      "categories": [
+        "macro"
+      ],
+      "title": "US September 2026 PPI SURGES +1.3% M/M / +6.3% Y/Y vs ~+0.3% and ~+5.3% est on Thu Oct 15 — biggest monthly print since 2022; core (ex food, energy, trade services) +0.5% M/M / +5.0% Y/Y; follows Wed's hot CPI (+3.7% Y/Y) and keeps rate-hike narrative in play",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-10-15",
+      "url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "summary": "US producer prices surge +1.3% M/M and +6.3% Y/Y in September — way above the +0.3% / +5.3% consensus. Core (ex food, energy, trade services) +0.5% M/M, +5.0% Y/Y. Second hot inflation print in two days after Wed's CPI.",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "PPI final demand M/M": "+1.3% (vs ~+0.3% est)",
+        "PPI final demand Y/Y": "+6.3% (vs ~+5.3% est, prior +5.4%)",
+        "Core (ex food, energy, trade) M/M": "+0.5%",
+        "Core (ex food, energy, trade) Y/Y": "+5.0%"
+      },
+      "importance": "major",
+      "tags": [
+        "ppi",
+        "inflation",
+        "macro",
+        "fed",
+        "bls",
+        "hot-print",
+        "cpi",
+        "september-2026"
+      ],
+      "explainer": {
+        "tagline": "September producer-price index runs +1.3% M/M / +6.3% Y/Y, a huge beat that follows yesterday's hot CPI.",
+        "whatIsIt": "The BLS released its September 2026 Producer Price Index at 8:30 am ET on Thursday Oct 15. Headline final demand jumped +1.3% M/M seasonally adjusted and +6.3% Y/Y unadjusted — a sharp acceleration from August's +5.4% Y/Y pace. It is the second consecutive hot inflation print after Wednesday's September CPI printed +3.7% Y/Y.",
+        "howItWorks": "On a monthly basis, final demand goods rose and services also moved higher; the \"less foods, energy, and trade services\" measure rose +0.5% M/M and +5.0% over 12 months. The release says the +1.3% headline monthly print was the biggest in multiple quarters. The press release carried the usual embargo stamp of 8:30 am ET.",
+        "whyItMatters": "Hot CPI on Wednesday + hot PPI on Thursday pressure the already-hawkish rates narrative. The 10Y Treasury had closed Wednesday at 5.19%. Front-end rate-cut odds for the November FOMC continue to shrink, with some desks pencilling in a hike risk. Equities digested the print with the S&P 500 roughly flat intraday but the Nasdaq -0.4%, as high-duration tech typically carries the biggest P/E hit on inflation shocks.",
+        "forWho": "macro traders, rates desks, equities multiple-watchers",
+        "tryIt": "https://www.bls.gov/ppi/"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "US Bureau of Labor Statistics emblem",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "BLS Press Release",
+          "url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm"
+        },
+        {
+          "label": "BLS PPI Program",
+          "url": "https://www.bls.gov/ppi/"
+        },
+        {
+          "label": "10Y Treasury",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "reddit": {
+        "title": "US September PPI SURPRISE: +1.3% M/M / +6.3% Y/Y vs +0.3% / +5.3% est — second hot inflation print in two days after Wednesday's CPI",
+        "body": "The BLS September PPI release came in way hotter than expected on Thursday morning.\n\n* Final demand PPI **+1.3% M/M** vs ~+0.3% est (biggest monthly jump in multiple quarters)\n* Final demand PPI **+6.3% Y/Y** vs ~+5.3% est, prior +5.4% in August\n* Final demand less foods, energy, and trade services **+0.5% M/M / +5.0% Y/Y**\n\nContext from the last 24h:\n\n1. **CPI yesterday also ran hot** — September headline +3.7% Y/Y vs +3.6% est, core +2.6% Y/Y. Energy did a lot of work (gasoline +9.1% in September).\n2. **Rates are already elevated** — the 10Y closed Wednesday at 5.19% after the CPI print.\n3. **Fed implication** — the November FOMC pricing is tilting from \"maybe skip, maybe cut\" to \"skip or hike risk\" as back-to-back hot prints reset the trajectory.\n\nMarket reaction midday: S&P ~flat, Nasdaq -0.4%, Dow +0.85%. Rotation defensive and old-economy, with semis still under pressure on AI-debt concerns.\n\nNext catalysts: October CPI on Nov 13, FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ppi-sep-2026-oct-15](https://stock-tldr.xyz/releases/us-ppi-sep-2026-oct-15)"
+      },
+      "publishDate": "2026-10-15T16:04:39.968Z"
+    },
+    {
+      "id": "fmc-q3-2026-guidance-cut-oct-15",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "FMC Corp (FMC) -31.77% to $5.52 (new 52-wk low $4.84) Thu Oct 15 — profit-warning update: Q3 revenue slashed to $65–125M (prior guide ~$1B) and adj EBITDA expected NEGATIVE $565M to NEG $510M; $625–675M of impact charges; cuts channel prices in Brazil, Argentina, US, Canada; non-cash impairment risk; will reopen covenant talks with bank group; Q3 call Oct 29",
+      "org": "FMC Corporation",
+      "date": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000149/ex99110152026.htm",
+      "summary": "FMC guides Q3 revenue to just $65–125M (from ~$1B prior) and adj EBITDA to NEGATIVE $565M–510M after one-time pricing/channel actions. Stock -31.77% to $5.52 — new 52-wk low $4.84.",
+      "tickers": [
+        "FMC"
+      ],
+      "metrics": {
+        "Move": "-31.77% to $5.52 (52-wk low $4.84)",
+        "Q3 revenue guide": "$65–125M (vs prior ~$1B)",
+        "Adj EBITDA guide": "NEG $565M to NEG $510M",
+        "Charges impacting revenue/EBITDA": "~$625–675M",
+        "Covenant action": "Discussions with bank group",
+        "Q3 release date": "Oct 29, 2026"
+      },
+      "importance": "major",
+      "tags": [
+        "guidance-cut",
+        "profit-warning",
+        "mover",
+        "ag-chemicals",
+        "channel-destocking",
+        "impairment",
+        "covenants",
+        "mid-cap"
+      ],
+      "explainer": {
+        "tagline": "FMC's shock pre-release pulls Q3 revenue to $65–125M from ~$1B and flags negative EBITDA; stock halved intraday.",
+        "whatIsIt": "FMC Corporation, the ag-chemical mid-cap, filed an 8-K on Thursday Oct 15 providing a 'Third-Quarter Expectations Update' two weeks before its scheduled Oct 29 earnings release. The company said it 'cannot issue or reasonably estimate complete quarterly results in accordance with GAAP' and that commercial actions already taken will crater the headline numbers.",
+        "howItWorks": "The company said Q3 revenue is now expected at just $65–125M (prior guide ~$1B+), with adjusted EBITDA expected at NEG $565M to NEG $510M, including approximately $625–675M of charges tied to channel price adjustments in Brazil, Argentina, the US, and Canada, plus a modified US selling/pricing model. FMC also warned of a 'material non-cash impairment charge' tied to a goodwill triggering event, and said it 'intends to engage in discussions with its bank group on potential further modifications to its covenants,' while expecting to be in compliance at Sept 30, 2026. Chairman/CEO Pierre Brondeau remains in his role; a 2027–2028 preliminary outlook call is scheduled for Oct 30.",
+        "whyItMatters": "FMC was already a troubled name — board strategic-review talks were announced earlier this year — but today's pre-release is the biggest down-day in recent memory, with the stock -31.77% at $5.52 and a new 52-wk low of $4.84 (vs 52-wk high $30.95). RBC cut its PT to $9 from $11 and kept Sector Perform. Readacross is cautious for Corteva (CTVA) and other ag-chem peers on channel-destocking concerns.",
+        "forWho": "ag-chem / specialty-chem desks, high-yield credit",
+        "tryIt": "https://finance.yahoo.com/quote/FMC/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/FMCTower.jpg/960px-FMCTower.jpg",
+        "alt": "FMC Tower, Philadelphia (FMC Corporation HQ)",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000149/ex99110152026.htm"
+        },
+        {
+          "label": "FMC Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/FMC/"
+        },
+        {
+          "label": "FMC EDGAR Filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000037785&type=8-K"
+        }
+      ],
+      "reddit": {
+        "title": "FMC Corp -31.77% to $5.52 (new 52-wk low $4.84) — profit-warning update guides Q3 revenue to $65–125M (vs ~$1B prior) and EBITDA to NEG $565–510M",
+        "body": "FMC filed an 8-K before the open with a pre-release of Q3 results that is one of the ugliest I've seen from a mid-cap industrial this year.\n\n* Q3 revenue guide **$65–125M** vs prior ~$1B\n* Adjusted EBITDA guide **NEGATIVE $565M to NEG $510M**\n* ~**$625–675M** of charges impacting revenue and EBITDA from channel price cuts (Brazil, Argentina, US, Canada) and a new US selling/pricing model\n* Warns of a **material non-cash impairment charge** on a goodwill triggering event\n* Will \"engage in discussions with its bank group on potential further modifications to its covenants,\" while expecting to be compliant at Sept 30\n* Stock -31.77% to $5.52 — new 52-wk low $4.84 (52-wk high $30.95)\n* RBC cuts PT to $9 from $11, maintains Sector Perform\n\nWhat broke:\n\n1. **Channel destocking got worse, not better** — forced a one-time repricing in all four of FMC's biggest crop-chem markets.\n2. **Covenant risk** — the company telegraphs it is going back to lenders. Credit desks will care.\n3. **Full Q3 release moved to Oct 29**, with a preliminary 2027–2028 call on Oct 30. CEO Pierre Brondeau still in post.\n\nNext catalysts: Q3 release Oct 29, 2027–2028 outlook call Oct 30.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fmc-q3-2026-guidance-cut-oct-15](https://stock-tldr.xyz/releases/fmc-q3-2026-guidance-cut-oct-15)"
+      },
+      "publishDate": "2026-10-15T16:04:39.968Z"
+    },
+    {
+      "id": "bny-q3-fy26-earnings-oct-15-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Bank of New York Mellon (BNY) Q3 FY26 (Thu Oct 15 premarket) — net income to common $1.61B, diluted EPS $2.34 (+24% Y/Y), adj EPS $2.37; total revenue $5.68B (+12% Y/Y); fee revenue $4.08B (+12%); NII $1.42B (+15%); AUC/A record $63.4T (+10%); AUM $2.2T (+2%); pre-tax operating margin 38.5% (adj 38.9%); $1.4B returned ($937M buyback + $436M div); BNY +2.55% to $141.15",
+      "org": "Bank of New York Mellon",
+      "date": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000104/ex991_earningsreleasex3q26.htm",
+      "summary": "BNY posts record Q3 — EPS $2.34 (+24% Y/Y), revenue $5.68B (+12%), fee revenue $4.08B (+12%), AUC/A record $63.4T. Stock +2.55% to $141.15.",
+      "tickers": [
+        "BNY"
+      ],
+      "metrics": {
+        "Diluted EPS": "$2.34 (+24% Y/Y)",
+        "Adj EPS": "$2.37",
+        "Revenue": "$5.68B (+12% Y/Y)",
+        "Fee revenue": "$4.08B (+12%)",
+        "NII": "$1.42B (+15%)",
+        "AUC/A": "$63.4T (+10%)",
+        "Capital returned": "$1.4B ($937M buyback + $436M div)",
+        "Move": "+2.55% to $141.15"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "custodian",
+        "trust-bank",
+        "fee-income",
+        "aum",
+        "buyback"
+      ],
+      "explainer": {
+        "tagline": "BNY prints Q3 EPS +24% Y/Y and a record $63.4T AUC/A, with fee and net interest income both up double-digit percentages.",
+        "whatIsIt": "The Bank of New York Mellon reported Q3 2026 before the open on Thursday Oct 15. Net income to common shareholders was $1.61B / diluted EPS $2.34 (adj $2.37) — up 24% year over year — on total revenue of $5.68B, 12% higher than Q3 2025.",
+        "howItWorks": "Fee revenue reached $4.08B (+12% Y/Y, +1% Q/Q) on net new business, higher client activity and higher market values. Net interest income was $1.42B (+15% Y/Y, -2% Q/Q). Assets under custody and/or administration (AUC/A) hit a record $63.4T, up 10% Y/Y; AUM was $2.2T. The pre-tax operating margin was 38.5% (adj 38.9%), vs 36.4% a year ago. Capital return in the quarter: $937M buyback + $436M dividend = $1.37B total, with Tier 1 leverage of 5.7% (down 42 bps Y/Y). BNY also declared a $0.63 Q4 common dividend.",
+        "whyItMatters": "BNY is a mega-custodian — its results track asset-manager flows and overall market activity. Record AUC/A + double-digit fee and NII growth confirm the custody/trust complex is still a beneficiary of elevated equity levels and healthy capital-markets activity. The intraday move of +2.55% to $141.15 is the second-best among big-bank earners this season.",
+        "forWho": "financials sector traders, custody/asset-manager analysts",
+        "tryIt": "https://finance.yahoo.com/quote/BNY/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/BNY_%2855313999033%29.jpg/960px-BNY_%2855313999033%29.jpg",
+        "alt": "BNY (Bank of New York Mellon) headquarters",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000104/ex991_earningsreleasex3q26.htm"
+        },
+        {
+          "label": "BNY Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/BNY/"
+        },
+        {
+          "label": "BNY Financial Supplement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000104/ex992_financialsupplementx.htm"
+        }
+      ],
+      "reddit": {
+        "title": "BNY Q3 2026: EPS $2.34 (+24% Y/Y), revenue $5.68B (+12%), AUC/A record $63.4T, +$1.4B returned to shareholders — stock +2.55% to $141.15",
+        "body": "BNY (the mega-custodian) reported Q3 Thursday morning. Numbers below are from the 8-K.\n\n* Diluted EPS **$2.34** (+24% Y/Y), adjusted EPS $2.37\n* Total revenue **$5.68B** (+12% Y/Y)\n* Fee revenue **$4.08B** (+12% Y/Y) on net new business, higher activity, higher market values\n* NII **$1.42B** (+15% Y/Y)\n* Assets under custody and/or administration **record $63.4T** (+10% Y/Y); AUM $2.2T\n* Pre-tax operating margin 38.5% (adj 38.9%)\n* **$1.4B returned** to shareholders ($937M buyback + $436M dividend); $0.63 Q4 dividend declared\n* Tier 1 leverage 5.7%, down 42 bps Y/Y (margin watchers' main complaint)\n\nTwo things to take away:\n\n1. **Custody is a tape-rally beneficiary** — record AUC/A plus fee +12% confirms the \"higher asset prices = higher servicing fees\" flywheel is still turning.\n2. **Capital headroom is tighter** — Tier 1 leverage down 42 bps Y/Y is why some headlines focused on margin pressure despite the clean EPS beat.\n\nStock +2.55% to $141.15 intraday, best among big-bank reporters this morning.\n\nNext catalysts: 10-Q in a few weeks; peer prints from STT (upcoming).\n\nFull breakdown: [https://stock-tldr.xyz/releases/bny-q3-fy26-earnings-oct-15-2026](https://stock-tldr.xyz/releases/bny-q3-fy26-earnings-oct-15-2026)"
+      },
+      "publishDate": "2026-10-15T16:04:39.968Z"
+    },
+    {
+      "id": "usb-q3-fy26-earnings-oct-15-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "U.S. Bancorp (USB) Q3 FY26 (Thu Oct 15 premarket) — net income $2.20B (+10% Y/Y), diluted EPS $1.34 vs $1.22 Y/Y, record net revenue $7.97B (+8.7% Y/Y) with NII +5.6% to $4.49B (NIM 2.84% vs 2.75%) and noninterest income +13.1% to $3.48B (capital markets +69.3% on BTIG); efficiency ratio 55.9% (240 bps positive operating leverage); CET1 10.8%; avg loans $409.5B (+8%); $0.54 common div; USB +1.48% to $57.09",
+      "org": "U.S. Bancorp",
+      "date": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000054/a3q26earningsrelease.htm",
+      "summary": "USB record Q3 revenue $7.97B (+8.7% Y/Y), EPS $1.34 (+9.8% Y/Y) beats ~$1.32 est; NIM 2.84%, fee rev +14.9%, capital markets +69.3% on BTIG; efficiency ratio 55.9%. Stock +1.48% to $57.09.",
+      "tickers": [
+        "USB"
+      ],
+      "metrics": {
+        "Diluted EPS": "$1.34 vs $1.22 Y/Y (+9.8%)",
+        "Net income": "$2.20B (+10% Y/Y)",
+        "Revenue": "$7.97B (+8.7% Y/Y, record)",
+        "NII": "$4.49B (+5.6%)",
+        "NIM": "2.84% (vs 2.75% Y/Y)",
+        "Fee revenue": "$3.55B (+14.9%)",
+        "Efficiency ratio": "55.9%",
+        "CET1": "10.8%",
+        "Move": "+1.48% to $57.09"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "regional-bank",
+        "nii",
+        "fee-income",
+        "capital-markets",
+        "btig",
+        "operating-leverage"
+      ],
+      "explainer": {
+        "tagline": "USB posts record Q3 revenue $7.97B, EPS $1.34 up 9.8% Y/Y, and 240 bps of positive operating leverage.",
+        "whatIsIt": "U.S. Bancorp reported Q3 2026 before the open on Thursday Oct 15. Net income was $2.20B (+10% Y/Y), diluted EPS $1.34 (+9.8%), with record total net revenue of $7.97B — 8.7% higher than Q3 2025.",
+        "howItWorks": "Net interest income on a taxable-equivalent basis was $4.49B (+5.6% Y/Y), with the net interest margin widening to 2.84% from 2.75%. Noninterest income was $3.48B (+13.1%); fee revenue specifically grew 14.9% to $3.55B, with capital markets revenue up 69.3% Y/Y largely on BTIG. The efficiency ratio improved to 55.9% from 57.2%, delivering 240 bps of positive operating leverage. Average total loans were $409.5B (+8% Y/Y) and average deposits $526.6B (+2.9%). CET1 was 10.8% (down 10 bps Y/Y). Common dividend declared at $0.54 (vs $0.52). No buybacks in the quarter.",
+        "whyItMatters": "USB is the biggest 'regional' bank by assets and this is a clean beat on both headline earnings and the levers investors care about: NIM expansion, strong fee growth (BTIG integration delivering), and positive operating leverage. Stock +1.48% to $57.09 intraday. The read-through is positive for other regional names tied to capital markets fees.",
+        "forWho": "bank traders, regional-bank analysts",
+        "tryIt": "https://finance.yahoo.com/quote/USB/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/US_Bancorp_Center_Minneapolis_1.jpg/960px-US_Bancorp_Center_Minneapolis_1.jpg",
+        "alt": "U.S. Bancorp Center, Minneapolis",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000054/a3q26earningsrelease.htm"
+        },
+        {
+          "label": "USB Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/USB/"
+        },
+        {
+          "label": "USB Earnings Supplement",
+          "url": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000054/a3q26earningssupplement.htm"
+        }
+      ],
+      "reddit": {
+        "title": "USB Q3 2026: record revenue $7.97B (+8.7% Y/Y), EPS $1.34 (+9.8%) beats, NIM expands to 2.84%, capital markets +69.3% on BTIG — stock +1.48%",
+        "body": "US Bancorp posted a clean Q3 Thursday morning. Numbers below are from the 8-K.\n\n* Diluted EPS **$1.34** vs $1.22 Y/Y (+9.8%)\n* Net income **$2.20B** (+10% Y/Y)\n* **Record** total net revenue **$7.97B** (+8.7% Y/Y)\n* NII $4.49B (+5.6%), NIM **2.84%** vs 2.75% Y/Y\n* Fee revenue $3.55B (+14.9%); **capital markets +69.3%** on BTIG\n* Efficiency ratio **55.9%** — 240 bps of positive operating leverage\n* CET1 10.8%, no buybacks this quarter, dividend $0.54 (vs $0.52)\n* Average loans $409.5B (+8%), average deposits $526.6B (+2.9%)\n\nThree takeaways:\n\n1. **NIM finally expanding** — up 9 bps Y/Y even with the curve where it is. Big deal for the regional-bank thesis.\n2. **BTIG integration shows up in the P&L** — capital markets up 69.3% is why fee growth outpaced NII.\n3. **No buyback this quarter** — the only soft spot. USB chose to hold capital with CET1 drifting -10 bps Y/Y.\n\nStock +1.48% to $57.09 midday. Positive read-across for other regional names with capital-markets exposure.\n\nFull breakdown: [https://stock-tldr.xyz/releases/usb-q3-fy26-earnings-oct-15-2026](https://stock-tldr.xyz/releases/usb-q3-fy26-earnings-oct-15-2026)"
+      },
+      "publishDate": "2026-10-15T16:04:39.968Z"
+    },
+    {
+      "id": "pnc-q3-fy26-earnings-oct-15-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "PNC Financial (PNC) Q3 FY26 (Thu Oct 15 premarket) — net income $2.10B, diluted EPS $4.97 (adj $5.09) beats consensus ~$4.88; total revenue $6.56B (-5% Q/Q), NII $4.21B (+2% Q/Q), noninterest income $2.36B (fee income $2.14B); efficiency ratio IMPROVES to 57%; CET1 9.8%; $1.4B returned ($0.6B buyback + $0.8B dividend); avg loans $372.2B (+2%); PNC -0.54% to $214.63",
+      "org": "PNC Financial Services Group",
+      "date": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000713676/000162828026065936/q32026financialhighlightsa.htm",
+      "summary": "PNC Q3 adj EPS $5.09 beats; GAAP $4.97, net income $2.10B; revenue $6.56B; NII +2% Q/Q to $4.21B; efficiency 57%; $1.4B returned. Stock -0.54% to $214.63.",
+      "tickers": [
+        "PNC"
+      ],
+      "metrics": {
+        "Diluted EPS": "$4.97 (adj $5.09)",
+        "Net income": "$2.10B",
+        "Revenue": "$6.56B (-5% Q/Q)",
+        "NII": "$4.21B (+2% Q/Q)",
+        "Efficiency ratio": "57%",
+        "CET1": "9.8%",
+        "Capital returned": "$1.4B ($0.6B buyback + $0.8B div)",
+        "Dividend": "$2.00 per share declared",
+        "Move": "-0.54% to $214.63"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "regional-bank",
+        "nii",
+        "efficiency",
+        "buyback",
+        "fee-income"
+      ],
+      "explainer": {
+        "tagline": "PNC Q3 adj EPS $5.09 beats ~$4.88 consensus; headline revenue misses as NII grows 2% Q/Q and efficiency improves to 57%.",
+        "whatIsIt": "PNC Financial reported Q3 2026 before the open on Thursday Oct 15. Diluted EPS was $4.97 ($5.09 adjusted) on net income of $2.10B — ahead of ~$4.88 consensus. Total revenue was $6.56B, down 5% sequentially (consensus ~$6.60B), reflecting a cleaner Q2 benchmark.",
+        "howItWorks": "Net interest income was $4.21B (+2% Q/Q), noninterest income $2.36B (fee income $2.14B). The efficiency ratio improved to 57%. Average loans grew 2% to $372.2B and average deposits were up 1% to $461.2B; period-end spot deposits were up 4%. CET1 was estimated at 9.8% (vs 9.9% in Q2). Capital returned was $1.4B — $0.6B of buybacks plus $0.8B of common dividends. PNC also declared a $2.00 per-share Q4 dividend.",
+        "whyItMatters": "PNC was last year's cautionary tale (shares fell on Q4 guidance), so a quarter with adjusted EPS above the Street — delivered via sequential NII growth, better efficiency, and continued capital return — is the right counterpoint. Bloomberg flagged lending revenue 'slightly missing' and costs 'beating'. Stock -0.54% to $214.63 as the revenue line didn't fully meet the Street.",
+        "forWho": "bank traders, regional-bank analysts",
+        "tryIt": "https://finance.yahoo.com/quote/PNC/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PNClogo.svg",
+        "alt": "PNC Financial Services logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000713676/000162828026065936/q32026financialhighlightsa.htm"
+        },
+        {
+          "label": "PNC Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/PNC/"
+        },
+        {
+          "label": "PNC EDGAR Filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000713676&type=8-K"
+        }
+      ],
+      "reddit": {
+        "title": "PNC Q3 2026: adj EPS $5.09 beats ~$4.88 est, net income $2.10B, NII +2% Q/Q, efficiency improves to 57%, $1.4B returned — stock -0.54% to $214.63",
+        "body": "PNC reported Q3 Thursday morning. Numbers below are from the 8-K.\n\n* Diluted EPS **$4.97** reported / **$5.09 adjusted** (beats ~$4.88 consensus)\n* Net income $2.10B (vs $2.055B in Q2)\n* Total revenue $6.56B, down 5% Q/Q (missed ~$6.60B consensus)\n* NII **$4.21B (+2% Q/Q)**\n* Noninterest income $2.36B (fee income $2.14B)\n* Efficiency ratio improves to **57%**\n* CET1 **9.8%** (vs 9.9% in Q2)\n* Capital returned **$1.4B** ($0.6B buyback + $0.8B dividend); Q4 dividend declared $2.00/share\n* Average loans $372.2B (+2%), average deposits $461.2B (+1%)\n\nWhy the stock is slightly red despite the beat:\n\n1. **Revenue line light vs consensus** — $6.56B vs ~$6.60B, mostly a Q2 base effect.\n2. **Bloomberg frames it as lending revenue miss, costs beat** — mixed-quality beat.\n3. **Memory from last year** — Oct 2025 Q4 guide-down is still in buy-side heads.\n\nStock -0.54% to $214.63 midday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pnc-q3-fy26-earnings-oct-15-2026](https://stock-tldr.xyz/releases/pnc-q3-fy26-earnings-oct-15-2026)"
+      },
+      "publishDate": "2026-10-15T16:04:39.968Z"
+    },
     {
       "id": "us-cpi-sep-2026-oct-14",
       "categories": [
