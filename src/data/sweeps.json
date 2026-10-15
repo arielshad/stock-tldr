@@ -14044,6 +14044,37 @@
         "crypto",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261015t021504z",
+      "timestamp": "2026-10-15T02:15:04.224Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two Oct 14 primary-source events: September 2026 US CPI (+0.6% M/M / +3.7% Y/Y hot, gasoline-driven; core unchanged at +0.3% M/M / +2.6% Y/Y) and BlackRock Q3 FY26 earnings (adj EPS $15.93 vs ~$14.25 est, record $15.49T AUM, $205B of net inflows). Oct 15 TSMC Q3 results not yet released at sweep time, skipped.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-sep-2026-oct-14",
+          "title": "US September 2026 CPI +0.6% M/M / +3.7% Y/Y (above +3.6% est) hot — gasoline +9.1% drives over half of headline; core +0.3% M/M / +2.6% Y/Y (vs +2.4% in Aug); S&P -1.11% to 7,718.94, 10Y eases -3bp to 5.19%",
+          "category": "macro",
+          "note": "Primary BLS release; hot headline driven by gasoline, core unchanged. S&P -1.11%, 10Y -3bp."
+        },
+        {
+          "id": "blk-q3-fy26-earnings-oct-14-2026",
+          "title": "BlackRock (BLK) Q3 FY26 (Wed Oct 14 premarket) — adj EPS $15.93 crushes ~$14.25 est (+38% Y/Y); revenue $7.75B (+19% Y/Y); AUM record $15.49T; Q3 net inflows $205B ($175B long-term + $31B cash); $550M buyback; dividend $5.73",
+          "category": "earnings",
+          "note": "Clean beat with record $15.49T AUM, $205B net inflows, +38% Y/Y adj EPS; follows precedent of blk-q2-2026-earnings-july-15 in feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings"
+      ]
     }
   ]
 }

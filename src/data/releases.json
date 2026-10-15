@@ -1,8 +1,169 @@
 {
-  "generatedAt": "2026-10-14T16:17:23.629Z",
+  "generatedAt": "2026-10-15T02:15:04.224Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-cpi-sep-2026-oct-14",
+      "categories": [
+        "macro"
+      ],
+      "title": "US September 2026 CPI +0.6% M/M / +3.7% Y/Y (above +3.6% est) hot — gasoline +9.1% drives over half of headline; core +0.3% M/M / +2.6% Y/Y (vs +2.4% in Aug); S&P -1.11% to 7,718.94, 10Y eases -3bp to 5.19%",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-10-14",
+      "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "summary": "Sept CPI +0.6% M/M / +3.7% Y/Y (vs +3.6% est), hottest headline since early 2026 as gasoline +9.1% M/M drove over half the gain. Core +0.3% M/M / +2.6% Y/Y, in-line pace. S&P -1.11%, 10Y -3bp to 5.19%.",
+      "tags": [
+        "cpi",
+        "inflation",
+        "macro",
+        "fomc",
+        "energy",
+        "gasoline",
+        "shelter",
+        "sep-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Headline CPI (M/M, SA)": "+0.6% vs +0.3% est",
+        "Headline CPI (Y/Y)": "+3.7% vs +3.6% est",
+        "Core CPI (M/M, SA)": "+0.3%",
+        "Core CPI (Y/Y)": "+2.6%",
+        "Gasoline (M/M)": "+9.1%",
+        "Gasoline (Y/Y)": "+34.2%",
+        "Energy (M/M)": "+5.2%",
+        "Energy (Y/Y)": "+20.4%",
+        "Shelter (M/M)": "+0.4%",
+        "Shelter (Y/Y)": "+3.2%",
+        "Food (M/M)": "0.0%",
+        "Food (Y/Y)": "+2.5%",
+        "S&P 500": "7,718.94 (-1.11%)",
+        "10Y yield": "5.19% (-3bp)"
+      },
+      "explainer": {
+        "tagline": "Headline CPI jumps to +3.7% Y/Y as gasoline rips +9.1% M/M — but core holds at +0.3% M/M / +2.6% Y/Y, and 10Y yield actually eases 3bp.",
+        "whatIsIt": "The BLS September 2026 CPI, released Wednesday October 14 at 8:30 ET, came in above consensus. Headline rose +0.6% M/M (seasonally adjusted) and +3.7% Y/Y, hotter than the +0.3% / +3.6% expected. Core (ex food and energy) rose +0.3% M/M / +2.6% Y/Y vs +0.3% / +2.4% in August.",
+        "howItWorks": "Gasoline +9.1% M/M (+34.2% Y/Y) accounted for over half of the monthly all-items increase, with fuel oil +15.3% M/M and the overall energy index +5.2% M/M (+20.4% Y/Y). Shelter contributed +0.4% M/M / +3.2% Y/Y, with owners' equivalent rent +0.3% and lodging away from home +2.0%. Food was flat on the month. Within core, used cars +0.7% M/M, airline fares +1.2% M/M (+22.4% Y/Y), apparel +0.3%, medical care +0.1%.",
+        "whyItMatters": "The print lands into the next FOMC. Headline looked hot but core was essentially unchanged from August's pace, which rates desks read as a one-off energy-driven miss rather than a broadening of underlying pressure — the 10Y yield fell 3bp to 5.19% and the 2Y also eased. Equities still de-risked into the bank earnings tape: the S&P 500 closed -1.11% at 7,718.94 (snapping a run of record closes), with risk-off also driven by the day's bank-earnings mix.",
+        "forWho": "Macro traders, rates desks, Fed watchers.",
+        "tryIt": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "US Bureau of Labor Statistics emblem",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "BLS Sept 2026 CPI Release",
+          "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"
+        },
+        {
+          "label": "BLS Current CPI",
+          "url": "https://www.bls.gov/cpi/"
+        },
+        {
+          "label": "^GSPC Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "^TNX 10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "US Sept CPI +0.6% M/M / +3.7% Y/Y hot — gasoline +9.1% M/M drove over half the gain, but core at +0.3% / +2.6% held steady; 10Y actually eased 3bp to 5.19%",
+        "body": "September 2026 CPI came in above consensus but with a weirdly mixed market reaction. Here is what BLS reported:\n\n* Headline CPI +0.6% M/M (SA) / +3.7% Y/Y — vs +0.3% / +3.6% expected\n* Core CPI +0.3% M/M (SA) / +2.6% Y/Y — same pace as August's +0.3% M/M, up from +2.4% Y/Y\n* Gasoline +9.1% M/M / +34.2% Y/Y — BLS says it accounted for over half of the monthly headline gain\n* Energy +5.2% M/M / +20.4% Y/Y; fuel oil +15.3% M/M, +74.2% Y/Y\n* Shelter +0.4% M/M / +3.2% Y/Y — OER +0.3%, lodging away from home +2.0%\n* Food flat on the month; airline fares +1.2% M/M / +22.4% Y/Y\n\nMarket reaction was oddly split:\n\n1. **Yields fell** — 10Y -3bp to 5.19%, 2Y also eased. The read: headline was gasoline-driven, core unchanged, so Fed path not meaningfully re-priced.\n2. **Stocks still de-risked** — S&P -1.11% to 7,718.94 after a fresh record on Tuesday; moves also reflect a mixed bank-earnings tape.\n3. **Energy backdrop** — Trump's Oct 11 \"energy ceasefire\" with Russia and the G7 100M-barrel oil-plus-diesel release program were already in place, but they haven't yet shown up in the September print.\n\nNext catalysts: the next FOMC decision + bank-earnings continuation (BAC, MS, ASML all reported Wed Oct 14).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-cpi-sep-2026-oct-14](https://stock-tldr.xyz/releases/us-cpi-sep-2026-oct-14)"
+      },
+      "publishDate": "2026-10-15T02:15:04.224Z"
+    },
+    {
+      "id": "blk-q3-fy26-earnings-oct-14-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "BlackRock (BLK) Q3 FY26 (Wed Oct 14 premarket) — adj EPS $15.93 crushes ~$14.25 est (+38% Y/Y); revenue $7.75B (+19% Y/Y); AUM record $15.49T; Q3 net inflows $205B ($175B long-term + $31B cash); $550M buyback; dividend $5.73",
+      "org": "BlackRock",
+      "date": "2026-10-14",
+      "url": "https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-third-quarter-2026",
+      "summary": "BLK Q3: GAAP EPS $10.57 / adj EPS $15.93 (+38% Y/Y) vs ~$14.25 est. Revenue $7.75B (+19%). Record AUM $15.49T. Q3 net inflows $205B; 11% annualized organic base-fee growth. $550M buybacks, $5.73 dividend. BLK +0.72% to $1,073.79.",
+      "tags": [
+        "earnings",
+        "asset-management",
+        "q3-2026",
+        "eps-beat",
+        "revenue-beat",
+        "etf",
+        "aladdin",
+        "aum-record",
+        "hps",
+        "buyback",
+        "blk",
+        "financials"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BLK"
+      ],
+      "metrics": {
+        "EPS (GAAP)": "$10.57 (+25% Y/Y)",
+        "EPS (adjusted)": "$15.93 vs ~$14.25 est (+38% Y/Y)",
+        "Revenue": "$7.75B (+19% Y/Y)",
+        "Net income (GAAP)": "$1.66B",
+        "Net income (adjusted)": "$2.62B",
+        "AUM": "$15.49T (record)",
+        "Q3 net inflows": "$205B ($175B long-term + $31B cash)",
+        "LTM net inflows": "$869B",
+        "Organic base fee growth (annualized)": "11%",
+        "Tech services & subs revenue (Y/Y)": "+14%",
+        "Operating income (GAAP, Y/Y)": "+19%",
+        "Operating income (adjusted, Y/Y)": "+27%",
+        "Q3 buybacks": "$550M",
+        "Dividend (Q3, per share)": "$5.73",
+        "Stock move (Wed Oct 14)": "+0.72% to $1,073.79"
+      },
+      "explainer": {
+        "tagline": "BlackRock Q3 adj EPS $15.93 vs ~$14.25 est; AUM crosses $15.49T on $205B of net inflows — a clean beat into the bank-earnings tape.",
+        "whatIsIt": "BlackRock reported Q3 FY26 before the bell on Wednesday October 14. GAAP diluted EPS was $10.57 (+25% Y/Y) and adjusted diluted EPS was $15.93 (+38% Y/Y), above the ~$14.25 consensus. Revenue was $7.75 billion, up 19% Y/Y. GAAP net income was $1.66B; adjusted $2.62B.",
+        "howItWorks": "AUM ended September 30 at a record $15.49 trillion. Q3 net inflows were $205B (long-term $175B, cash management $31B), and LTM net inflows were $869B. Annualized organic base-fee growth was 11% in the quarter (10% LTM). Technology services and subscription revenue rose 14% Y/Y on continued Aladdin momentum. GAAP operating income rose 19% and adjusted operating income rose 27%. BLK returned $550M via buybacks and declared a $5.73 dividend (up from $5.21).",
+        "whyItMatters": "A fresh AUM record and in-line to beat flows, plus a clean +38% adjusted-EPS beat, confirms the private-markets build-out (post-HPS and GIP) and Aladdin continue to compound through a hiking cycle. Positive read-across to listed asset managers (BEN, TROW, IVZ, AB) and alts peers (KKR, BX, APO). Stock finished Wednesday +0.72% at $1,073.79 even as the broader S&P 500 fell -1.11% on the Sept CPI print.",
+        "forWho": "Asset-manager investors, ETF analysts, allocators.",
+        "tryIt": "https://finance.yahoo.com/quote/BLK"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/50_Hudson_Yards.png/960px-50_Hudson_Yards.png",
+        "alt": "BlackRock global HQ at 50 Hudson Yards in New York",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BLK Press Release",
+          "url": "https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-third-quarter-2026"
+        },
+        {
+          "label": "SEC 8-K (Exhibit 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+        },
+        {
+          "label": "SEC 8-K (Supplement)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_2.htm"
+        },
+        {
+          "label": "BLK Quote",
+          "url": "https://finance.yahoo.com/quote/BLK"
+        }
+      ],
+      "reddit": {
+        "title": "BlackRock Q3: AUM $15.49T (record), Q3 net inflows $205B, adj EPS $15.93 vs ~$14.25 est (+38% Y/Y), revenue $7.75B (+19% Y/Y)",
+        "body": "BlackRock reported Q3 FY26 before the open on Wednesday Oct 14 and the numbers were a clean beat across the stack:\n\n* AUM $15.49 trillion — a fresh record\n* Q3 net inflows $205B — $175B long-term + $31B cash management\n* LTM net inflows $869B\n* Revenue $7.75B, +19% Y/Y\n* GAAP diluted EPS $10.57 (+25% Y/Y); adjusted $15.93 (+38% Y/Y) vs ~$14.25 est\n* GAAP operating income +19%; adjusted operating income +27%\n* Technology services and subscription revenue +14% Y/Y — Aladdin still compounding\n* Organic base fee growth 11% annualized in the quarter (10% LTM)\n* $550M of buybacks; dividend lifted to $5.73/share (from $5.21)\n\nDrivers:\n\n1. **Private-markets build-out paying off** — HPS and GIP are now feeding the fee stack after a year of integration work\n2. **Aladdin keeps compounding** — 14% growth in tech services & subs on multi-product solutions momentum\n3. **Broad-based flows** — $205B of net inflows during a tape marked by a Fed hike and the energy shock still showing up in CPI\n\nBullish read-across: BEN, TROW, IVZ, AB (traditional AMs) and KKR, BX, APO (alts).\n\nBLK closed Wed +0.72% at $1,073.79 — out-performing the broader market's -1.11% hit from the hot Sept CPI.\n\nNext catalysts: Netflix (NFLX) Q3 Mon Oct 20 and the next FOMC decision.\n\nFull breakdown: [https://stock-tldr.xyz/releases/blk-q3-fy26-earnings-oct-14-2026](https://stock-tldr.xyz/releases/blk-q3-fy26-earnings-oct-14-2026)"
+      },
+      "publishDate": "2026-10-15T02:15:04.224Z"
+    },
     {
       "id": "bac-q3-fy26-earnings-oct-14-2026",
       "categories": [
