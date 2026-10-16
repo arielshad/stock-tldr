@@ -14167,6 +14167,61 @@
         "rumor",
         "video"
       ]
+    },
+    {
+      "id": "sweep-20261016t155338z",
+      "timestamp": "2026-10-16T15:53:38.338Z",
+      "source": "github-actions-sweep",
+      "summary": "Oct 16 adds the Friday Q3 FY26 bank/insurance batch (TRV, TFC, MTB, RF, CFG) plus Thursday-after-close Interactive Brokers (IBKR, +7.6% premarket on 71% dividend hike). Travelers crushed consensus but is -2.3% on a $295M asbestos reserve top-up; Truist took a kitchen-sink quarter with a $1.4B AFS repositioning and $5.5B subprime-auto exit; mid-cap banks (MTB, RF, CFG) continued to beat with falling NCO ratios.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trv-q3-fy26-earnings-oct-16-2026",
+          "title": "Travelers (TRV) Q3 FY26 (Fri Oct 16 premarket) — core EPS $9.18 (+13% Y/Y) blows past ~$7.13 est, GAAP EPS $9.04 (+10%); combined ratio 86.8%; cats $538M; stock -2.3% premarket on $295M asbestos reserve add",
+          "category": "earnings",
+          "note": "Primary-source confirmed Q3 FY26 earnings beat; stock -2.3% premarket on $295M asbestos reserve top-up — mover + earnings."
+        },
+        {
+          "id": "ibkr-q3-fy26-earnings-oct-15-2026",
+          "title": "Interactive Brokers (IBKR) Q3 FY26 (Thu Oct 15 after close) — adj EPS $0.67 (+18% Y/Y), net revenues $1.91B (+16%), 5.58M accounts (+35% Y/Y), $964.7B client equity; dividend hiked 71% to $0.15/qtr; stock +7.6% premarket",
+          "category": "earnings",
+          "note": "Thu after-close earnings beat + 71% dividend hike; +7.6% premarket — qualifies as mover + earnings."
+        },
+        {
+          "id": "tfc-q3-fy26-earnings-oct-16-2026",
+          "title": "Truist Financial (TFC) Q3 FY26 (Fri Oct 16 premarket) — adj EPS $1.16 (+12% Y/Y) beats ~$1.13 est; GAAP EPS crashes to $0.56 on $1.4B AFS repositioning + RAC auto-exit; stock +2.0% premarket",
+          "category": "earnings",
+          "note": "Big-four super-regional earnings with sizable balance-sheet-cleanup actions ($1.4B AFS loss, RAC exit, LightStream sale announced Oct 14)."
+        },
+        {
+          "id": "mtb-q3-fy26-earnings-oct-16-2026",
+          "title": "M&T Bank (MTB) Q3 FY26 (Fri Oct 16 premarket) — GAAP EPS $5.04 beats ~$4.98 est, net operating EPS $5.08 (+4% QoQ); NII $1.79B, NIM 3.65%; CET1 10.16%; stock +1.1% premarket",
+          "category": "earnings",
+          "note": "Northeast / CRE-heavy bellwether; EPS beat with NCO ratio improving sequentially — strong credit signal."
+        },
+        {
+          "id": "rf-q3-fy26-earnings-oct-16-2026",
+          "title": "Regions Financial (RF) Q3 FY26 (Fri Oct 16 premarket) — adj EPS $0.73 (+16% Y/Y) beats ~$0.60 est, GAAP $0.71; NII $1.30B (+3.3%); NCO ratio drops to 0.29%; stock +1.7% premarket",
+          "category": "earnings",
+          "note": "Cleanest regional-bank beat of the morning (22% EPS beat, NCO ratio nearly halved Y/Y)."
+        },
+        {
+          "id": "cfg-q3-fy26-earnings-oct-16-2026",
+          "title": "Citizens Financial (CFG) Q3 FY26 (Fri Oct 16 premarket) — EPS $1.41 (+34% Y/Y) tops ~$1.40 est, NII $1.68B (+13% Y/Y); NIM 3.19%; CET1 10.5%; stock flat premarket",
+          "category": "earnings",
+          "note": "Super-regional with 34% EPS growth, 19bp NIM expansion; relevant read on private-credit cohort."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
