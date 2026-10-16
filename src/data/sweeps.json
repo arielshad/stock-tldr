@@ -14131,6 +14131,42 @@
         "macro",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261016t020601z",
+      "timestamp": "2026-10-16T02:06:01.937Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Thursday Oct 15 earnings adds: Charles Schwab (SCHW) Q3 FY26 BMO — record revenue $7.17B / adj EPS $1.69 / Q3 core NNA $190.4B; and Alcoa (AA) Q3 2026 AMC — revenue $3.70B (+24%), adj EBITDA $789M (+192% Y/Y) with the $2.2B AliGroup JV cleared by South32 holders the same day. Reviewed JBHT Q3 (in-line, Sep 2026 warning already in feed), CSX / Netflix (not yet released), Fed/Powell, Treasury/BLS prints — no further qualifying items.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "schw-q3-fy26-earnings-oct-15-2026",
+          "title": "Charles Schwab (SCHW) Q3 FY26 (Thu Oct 15 premarket) — record net revenues $7.17B (+17% Y/Y), GAAP EPS $1.62 / adj EPS $1.69 (+29% Y/Y), record Q3 core net new assets $190.4B (+38% Y/Y); pre-tax margin 54.8% adj",
+          "category": "earnings",
+          "note": "Record Q3 revenue + adj EPS + core NNA for a mega-cap brokerage; primary-source SEC 8-K."
+        },
+        {
+          "id": "aa-q3-2026-earnings-oct-15",
+          "title": "Alcoa (AA) Q3 2026 (Thu Oct 15 after close) — revenue $3.70B (+24% Y/Y), diluted EPS $1.81 vs $0.88 Y/Y; adj EPS $1.82 vs $(0.02); adj EBITDA $789M (+192% Y/Y); free cash flow $472M; $2.6B financing raised for South32/AliGroup deal (approved by holders Oct 15)",
+          "category": "earnings",
+          "note": "Adj EBITDA +192% Y/Y with South32 holders approving AliGroup JV same day — strong aluminum-cycle datapoint; primary-source SEC 8-K."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "commodity",
+        "macro",
+        "rates",
+        "mna",
+        "rumor",
+        "video"
+      ]
     }
   ]
 }
