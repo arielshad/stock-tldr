@@ -14222,6 +14222,46 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261017t020415z",
+      "timestamp": "2026-10-17T02:04:15.875Z",
+      "source": "github-actions-sweep",
+      "summary": "Three adds covering the Fri Oct 16 AI-debt tech selloff (Nasdaq -2.15%, CoreWeave CDS to ~1,000 bps, bonds yielding >15%), Rocket Lab's Neutron maiden-flight slip from Q4 2026 to 2027 after a carbon-composite dome manufacturing defect, and Ericsson's Q3 2026 beat (adj EBITA SEK 10.1B vs SEK 7.9B est; Stockholm shares up to +11%).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "crwv-ai-debt-tech-selloff-oct-16-2026",
+          "title": "AI-debt fear tanks tech Fri Oct 16 — Nasdaq -2.15% to 26,140.03, S&P -1.09% to 7,659.44, VIX back above 20; CoreWeave (CRWV) -12% on day / -25% in 5 sessions as its CDS hits ~1,000 bps and 2031 bonds yield >15%",
+          "category": "sector",
+          "note": "Dominant market story of Fri Oct 16 — a sector-wide tech selloff triggered by CoreWeave credit stress on top of hot CPI/PPI. Nasdaq -2.15%, CRWV CDS at record ~1,000 bps."
+        },
+        {
+          "id": "rklb-neutron-2027-delay-oct-15-2026",
+          "title": "Rocket Lab (RKLB) delays Neutron maiden launch to 2027 — 8-K dated Oct 14 cites manufacturing issue on first-stage carbon-composite dome; stock closed -7.85% Oct 15 at $59.18, then another -9.94% AH to $53.30",
+          "category": "mover",
+          "note": "Primary 8-K dropped Oct 14 after close; stock reaction and broad coverage hit Oct 15 (date=2026-10-15 to reflect pricing day and keep within 72h window). RKLB -16% two-day move."
+        },
+        {
+          "id": "eric-q3-2026-earnings-oct-15-2026",
+          "title": "Ericsson (ERIC) Q3 2026 (Thu Oct 15 premarket, Stockholm) — net sales SEK 59.5B (+6% rpt / +7% organic), adj EBITA SEK 10.1B (17.0% margin) crushes ~SEK 7.9B est; Networks SEK 38.7B (+9%); diluted EPS SEK 1.77; stock up as much as 11% in Stockholm, biggest one-day gain since Jan 23",
+          "category": "earnings",
+          "note": "Clean Q3 earnings beat with up-to-11% move in Stockholm; biggest 1-day gain since Jan 23. Not previously in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "earnings",
+        "macro",
+        "rates"
+      ]
     }
   ]
 }
