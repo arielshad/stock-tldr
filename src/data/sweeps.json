@@ -14292,6 +14292,35 @@
       "updated": [],
       "removed": [],
       "coverage": []
+    },
+    {
+      "id": "sweep-20261018t150637z",
+      "timestamp": "2026-10-18T15:06:37.024Z",
+      "source": "github-actions-sweep",
+      "summary": "One add this sweep: Trump's Fri Oct 16 executive order waiving nearly all of the Lindsey O. Graham Sanctioning Russia and Iran Act two days before it was set to take effect. No qualifying earnings, Fed, or crypto events in the 72h window beyond what the feed already covers.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "trump-waives-graham-act-russia-sanctions-oct-16-2026",
+          "title": "Trump signs EO Fri Oct 16 waiving nearly all Lindsey O. Graham Sanctioning Russia and Iran Act — up-to-500% tariffs on Russian goods, up-to-100% tariffs on top-5 buyers, foreign-bank secondary sanctions, Russia sovereign-debt bans were all set to kick in Sun Oct 18; cites 'national interest' and peace negotiations",
+          "category": "macro",
+          "note": "Second Russia-sanctions waiver in two weeks, far broader than the Oct 9 OFAC General License 135; shelves the whole Graham Act regime a day before it was due to kick in with up-to-500% tariffs on Russian goods; bipartisan GOP break with Trump."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "commodity",
+        "earnings",
+        "crypto",
+        "fx"
+      ]
     }
   ]
 }
