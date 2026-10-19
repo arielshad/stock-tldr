@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-10-18T15:06:37.024Z",
+  "generatedAt": "2026-10-19T02:18:44.983Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "china-q3-2026-gdp-oct-19",
+      "categories": [
+        "macro"
+      ],
+      "title": "China Q3 2026 GDP +4.5% Y/Y Sun Oct 19 — undershoots ~4.8% MNI preview consensus; Jan-Sep GDP +4.6% to CNY 107.1T, retail sales +1.1% Y/Y Sep, real-estate development investment -20.6% Y/Y YTD, fixed-asset investment -7.2%",
+      "org": "National Bureau of Statistics of China",
+      "date": "2026-10-19",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html",
+      "summary": "China Q3 2026 GDP +4.5% Y/Y undershoots ~4.8% MNI advisor preview. Jan-Sep GDP CNY 107.1T (+4.6% Y/Y) tracks below the ~5% full-year target; retail sales +1.1% Y/Y in September, real-estate development investment -20.6% YTD, fixed-asset investment -7.2%.",
+      "tags": [
+        "china",
+        "gdp",
+        "q3-2026",
+        "macro",
+        "property-crisis",
+        "retail-sales",
+        "industrial-production",
+        "fixed-asset-investment",
+        "nbs",
+        "em"
+      ],
+      "importance": "major",
+      "tickers": [
+        "FXI",
+        "MCHI",
+        "KWEB",
+        "ASHR"
+      ],
+      "metrics": {
+        "GDP (Q3 Y/Y)": "+4.5%",
+        "GDP (Jan-Sep Y/Y)": "+4.6% to CNY 107.1T",
+        "Industrial Prod (Sep Y/Y)": "+5.5%",
+        "Retail Sales (Sep Y/Y)": "+1.1%",
+        "Retail Sales YTD": "CNY 37.0T (+1.1% Y/Y)",
+        "Fixed Asset Investment YTD": "-7.2% Y/Y",
+        "Real Estate Dev Investment YTD": "-20.6% Y/Y",
+        "Urban Unemployment (Sep)": "5.2%"
+      },
+      "explainer": {
+        "tagline": "China Q3 2026 GDP +4.5% Y/Y misses ~4.8% MNI preview as property investment dives 20.6% YTD and retail sales slow to +1.1%.",
+        "whatIsIt": "China's National Bureau of Statistics released Q3 2026 GDP at 10:00 am Beijing time Monday Oct 19 (Sun 10 pm ET). Headline growth was +4.5% Y/Y, decelerating from Q2's +4.3% advance. Jan-Sep cumulative GDP totaled CNY 107,107.1 billion, up 4.6% Y/Y — tracking below Beijing's unofficial 'around 5%' full-year target.",
+        "howItWorks": "The MNI pre-release advisor survey had expected ~4.8%. On Polymarket, the 4.3-4.6% bracket led at ~44% implied odds versus 4.6-4.9% at 38%. Jan-Sep fixed-asset investment fell 7.2% Y/Y to CNY 33.41T, with real-estate development investment down 20.6%. September retail sales of consumer goods grew just 1.1% Y/Y (broader goods + services measure +2.6% YTD) while industrial value-added rose 5.5% Y/Y in September. Urban surveyed unemployment held at 5.2%.",
+        "whyItMatters": "The two-speed economy sharpens: exports and factory output (+5.5%) are carrying what consumer demand (+1.1%) cannot. Property remains the structural drag — a 20.6% YTD contraction in real-estate development investment keeps the balance-sheet recession alive. China proxies FXI, MCHI, KWEB, iron-ore futures and base metals set Monday's reopen reaction when Shanghai/HK trade.",
+        "forWho": "macro traders, China/EM funds, commodity desks",
+        "tryIt": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/National_Bureau_of_Statistics_of_China_%2820220812161639%29.jpg",
+        "alt": "National Bureau of Statistics of China headquarters in Beijing",
+        "fit": "cover",
+        "credit": "Wikimedia Commons / N509FZ"
+      },
+      "links": [
+        {
+          "label": "NBS Release",
+          "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+        },
+        {
+          "label": "Xinhua Headline",
+          "url": "https://english.news.cn/20261019/2da9b2afcdaf42d3a3f009c338edd92a/c.html"
+        },
+        {
+          "label": "MNI Preview",
+          "url": "https://www.mnimarkets.com/articles/mni-china-advisors-eye-48percent-q3-gdp-amid-slowing-momentum-1760671752243"
+        },
+        {
+          "label": "FXI Chart",
+          "url": "https://finance.yahoo.com/quote/FXI"
+        }
+      ],
+      "reddit": {
+        "title": "China Q3 2026 GDP +4.5% Y/Y, misses ~4.8% consensus — retail sales +1.1% Y/Y in Sep, property investment -20.6% YTD",
+        "body": "China's NBS dropped Q3 2026 GDP Sunday night US time (10 AM Monday Beijing). The slow-grind continues:\n\n* Q3 GDP +4.5% Y/Y, below ~4.8% MNI advisor preview\n* Jan-Sep GDP +4.6% Y/Y to CNY 107.1T — tracking below Beijing's 'around 5%' target\n* September retail sales +1.1% Y/Y (CNY 37.0T YTD) — one of the weakest consumer prints in years\n* September industrial production +5.5% Y/Y — factories still humming on exports\n* Jan-Sep fixed-asset investment -7.2% Y/Y; real-estate development -20.6% Y/Y\n* Urban surveyed unemployment steady at 5.2%\n\nThree takeaways from the two-speed economy:\n\n1. **Property crisis isn't cyclical anymore** — a 20.6% YTD drop in real-estate development investment keeps the balance-sheet recession structural\n2. **Export engine still carrying** — +5.5% industrial production in Sep says foreign demand is doing what domestic can't\n3. **Consumer stuck near zero real growth** — +1.1% nominal retail sales with mild deflation means household spending is flat in volume terms\n\nNext catalysts: China October PMI (Oct 31), Fed Oct 27-28 FOMC decision, EU/China auto subsidy showdown.\n\nFull breakdown: [https://stock-tldr.xyz/releases/china-q3-2026-gdp-oct-19](https://stock-tldr.xyz/releases/china-q3-2026-gdp-oct-19)"
+      },
+      "publishDate": "2026-10-19T02:18:44.983Z"
+    },
     {
       "id": "trump-waives-graham-act-russia-sanctions-oct-16-2026",
       "categories": [

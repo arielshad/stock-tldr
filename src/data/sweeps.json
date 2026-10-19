@@ -14321,6 +14321,36 @@
         "crypto",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20261019t021844z",
+      "timestamp": "2026-10-19T02:18:44.983Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: China Q3 2026 GDP release on Sunday Oct 19 at 10 AM Beijing time — +4.5% Y/Y misses ~4.8% MNI preview, with property investment -20.6% YTD and retail sales +1.1% in September. Scanned: equity earnings calendar (Monday reporters: Cleveland-Cliffs, Steel Dynamics, Zions, WAL, AGNC, FITB — none traded yet), geopolitics (Trump Russia-sanctions waiver and Hormuz already covered), AI-debt rout (CRWV already covered), US rates (Warsh IMF Bangkok remarks not clearly market-moving per the article), crypto (BTC held ~$82K over weekend — no clean catalyst), tokenized stocks pushback (OKXICE's Oct 15 public notice puts the event date just outside the 72h cap).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "china-q3-2026-gdp-oct-19",
+          "title": "China Q3 2026 GDP +4.5% Y/Y Sun Oct 19 — undershoots ~4.8% MNI preview consensus; Jan-Sep GDP +4.6% to CNY 107.1T, retail sales +1.1% Y/Y Sep, real-estate development investment -20.6% Y/Y YTD, fixed-asset investment -7.2%",
+          "category": "macro",
+          "note": "Primary macro release of the sweep window — Q3 GDP missed MNI advisor consensus with the property crisis deepening (-20.6% YTD) and retail sales near zero real growth; sets the tape for Monday's Shanghai/HK reopen and China proxies."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "crypto",
+        "rates",
+        "regulatory",
+        "commodity"
+      ]
     }
   ]
 }
