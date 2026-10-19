@@ -1,8 +1,149 @@
 {
-  "generatedAt": "2026-10-19T02:18:44.983Z",
+  "generatedAt": "2026-10-19T18:01:17.426Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "clf-q3-2026-earnings-oct-19-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Cleveland-Cliffs (CLF) Q3 2026 (Mon Oct 19 premarket) — adj EBITDA $612M crushes $575M company guide / $4.76 Y/Y Q3 '25 and $286M Q2 '26; revenue $5.6B (+19% Y/Y); GAAP diluted EPS $0.26 vs -$0.51 Y/Y; adj EPS $0.28; 4.2 Mt shipments; Q4 guide ~$715M; 2027 adj EBITDA outlook >$4B",
+      "org": "Cleveland-Cliffs",
+      "tickers": [
+        "CLF"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.clevelandcliffs.com/investors/news-events/press-releases/detail/705/cleveland-cliffs-reports-third-quarter-2026-results",
+      "summary": "Cleveland-Cliffs Q3 2026 adj EBITDA $612M beat its $575M guide and jumped from $286M in Q2. Revenue $5.6B (+19% Y/Y), GAAP EPS $0.26 vs -$0.51 Y/Y. CEO flags Q4 adj EBITDA ~$715M and >$4B for 2027.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "steel",
+        "ebitda-beat",
+        "guidance-raise",
+        "cyclical",
+        "clf"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj EBITDA": "$612M vs $575M guide",
+        "Revenue": "$5.6B (+19% Y/Y)",
+        "GAAP EPS": "$0.26 vs -$0.51 Y/Y",
+        "Adj EPS": "$0.28",
+        "Shipments": "4.2 Mt",
+        "Q4 Guide": "~$715M adj EBITDA",
+        "2027 Outlook": ">$4B adj EBITDA"
+      },
+      "explainer": {
+        "tagline": "Cleveland-Cliffs posts its best quarter in three years — adj EBITDA $612M beats its own $575M guide by 6%.",
+        "whatIsIt": "Cleveland-Cliffs, the largest US flat-rolled steel producer and top iron ore pellet supplier, reported Q3 2026 results before the Mon Oct 19 open. Revenue was $5.6B on 4.2 million net tons of external steelmaking shipments. The company swung to GAAP net income of $165M ($0.26 diluted EPS) from a $0.51 loss a year ago, when steel prices and HRC spreads were trough-cycle.",
+        "howItWorks": "Adj EBITDA came in at $612M, up $326M from Q2 2026's $286M, after management had guided three months ago to roughly $575M. Adj diluted EPS was $0.28. Liquidity closed at $3.2B. For Q4 2026, management guides adj EBITDA to about $715M even with seasonal maintenance outages. For 2027, CEO Lourenco Goncalves said signed contracts and index-based pricing already support more than $4B of adj EBITDA — a step-up from the full-year 2025 run rate.",
+        "whyItMatters": "CLF is the US steel bellwether, so a sharp Q3 EBITDA ramp signals that domestic HRC pricing and auto-grade shipments stabilized after a weak H1. The $715M Q4 guide and 2027 >$4B outlook will be read as the fulcrum for the whole domestic steel group — NUE, STLD, X — and for auto-cycle exposure heading into 2027. Steel Dynamics (STLD) reports after today's close against this benchmark.",
+        "forWho": "steel traders, cyclicals desks, autos supply-chain analysts",
+        "tryIt": "https://finance.yahoo.com/quote/CLF/"
+      },
+      "image": {
+        "url": "https://www.clevelandcliffs.com/_assets/_feab9767e822a6e90812a25dadff20e9/clevelandcliffs/db/1103/9253/social_image_resized.jpg",
+        "alt": "Cleveland-Cliffs steel mill — Q3 2026 earnings release",
+        "fit": "cover",
+        "credit": "Cleveland-Cliffs Inc."
+      },
+      "links": [
+        {
+          "label": "Press Release (IR)",
+          "url": "https://www.clevelandcliffs.com/investors/news-events/press-releases/detail/705/cleveland-cliffs-reports-third-quarter-2026-results"
+        },
+        {
+          "label": "8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000764065/000076406526000112/clf-202609308xkex991.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/CLF/"
+        },
+        {
+          "label": "TradingView CLF",
+          "url": "https://www.tradingview.com/symbols/NYSE-CLF/"
+        }
+      ],
+      "reddit": {
+        "title": "Cleveland-Cliffs Q3 2026: adj EBITDA $612M crushes company's own $575M guide; Q4 guide ~$715M; 2027 outlook now >$4B",
+        "body": "CLF reported Q3 2026 before the Monday open — strongest quarter in three years per the CEO.\n\n* Revenue $5.6B (+19% Y/Y) on 4.2 million net tons shipped\n* Adj EBITDA $612M vs company's July guide of ~$575M and $286M in Q2 2026\n* GAAP EPS $0.26 vs -$0.51 Y/Y; adj EPS $0.28\n* Liquidity $3.2B at quarter end\n* Q4 2026 adj EBITDA guide: ~$715M despite seasonal maintenance outages\n* 2027 adj EBITDA outlook: >$4B based on signed contracts and index-price forecasts\n\nTwo things stand out:\n\n1. **The guidance beat the guidance** — management set the Q3 bar at $575M three months ago and delivered $612M. Then they walked Q4 up to ~$715M, so sequential momentum is still accelerating.\n2. **2027 >$4B** — if that holds, the company's 2027 EV/EBITDA re-rating math is very different from the 2025 trough-cycle multiple the Street was carrying.\n\nNext catalysts: Steel Dynamics (STLD) reports Monday after the close against this read-through, and Nucor (NUE) follows next week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/clf-q3-2026-earnings-oct-19-2026](https://stock-tldr.xyz/releases/clf-q3-2026-earnings-oct-19-2026)"
+      },
+      "publishDate": "2026-10-19T18:01:17.426Z"
+    },
+    {
+      "id": "fitb-q3-fy26-earnings-oct-19-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Fifth Third (FITB) Q3 FY26 (Mon Oct 19 premarket) — adj diluted EPS $1.13 (excl $0.23 Comerica merger / interchange litigation / tech-impairment items) vs GAAP $0.90; net income $866M (+33% Y/Y); total revenue (FTE) $3.28B (+42% Y/Y); NII $2.27B (+49% Y/Y); NIM 3.34% (+21bp Y/Y); adj ROTCE 20.6%; period-end loans $180.3B (+46% Y/Y), deposits $239.5B (+44% Y/Y) — first full quarter post-Comerica systems conversion",
+      "org": "Fifth Third Bancorp",
+      "tickers": [
+        "FITB"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000229/q32026earningsrelease.htm",
+      "summary": "Fifth Third's first full post-Comerica systems-conversion quarter: adj diluted EPS $1.13, net income $866M (+33% Y/Y), total revenue (FTE) $3.28B (+42% Y/Y), NIM 3.34%, adj ROTCE 20.6%, NCO ratio 0.31%.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "regional-bank",
+        "comerica-merger",
+        "nim",
+        "integration",
+        "fitb"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Adj Diluted EPS": "$1.13 (excl $0.23 of items)",
+        "GAAP Diluted EPS": "$0.90",
+        "Net Income": "$866M (+33% Y/Y)",
+        "Revenue (FTE)": "$3.28B (+42% Y/Y)",
+        "NII": "$2.27B (+49% Y/Y)",
+        "NIM": "3.34% (+21bp Y/Y)",
+        "Adj ROTCE": "20.6%",
+        "NCO Ratio": "0.31% vs 1.09% Y/Y"
+      },
+      "explainer": {
+        "tagline": "Fifth Third delivers adj diluted EPS $1.13, net income up 33% Y/Y and NII up 49% Y/Y in the first full quarter after its Comerica systems conversion.",
+        "whatIsIt": "Fifth Third Bancorp, the Cincinnati-based superregional bank that closed its all-stock $12.7B acquisition of Comerica on Feb 1 2026, reported Q3 2026 results before the Mon Oct 19 open. This is the first full quarter after the Labor Day systems-conversion milestone, so Comerica is now fully reflected in revenue, loans and deposits.",
+        "howItWorks": "Reported diluted EPS was $0.90 ($0.91 basic), up from $0.83 in Q2 2026 and -1% Y/Y vs $0.91 in Q3 2025. Adjusted diluted EPS was $1.13 after excluding $0.23 of after-tax items (merger-related charges, interchange litigation, and technology-related asset impairments). Net income was $866M (+8% Q/Q, +33% Y/Y). Total revenue (FTE) hit $3.28B, flat Q/Q but +42% Y/Y, with NII at $2.27B (+3% Q/Q, +49% Y/Y) and noninterest income $1.01B. NIM was 3.34% (-2bp Q/Q, +21bp Y/Y). Average portfolio loans and leases reached $179.2B (+45% Y/Y); period-end loans $180.3B. Average deposits $238.3B (+45% Y/Y); period-end $239.5B. Credit improved: NCO ratio 0.31% vs 1.09% in Q3 2025 (which included a $178M asset-backed finance charge-off). CEO Tim Spence said the quarter reflected 'the earnings power of the combined company'.",
+        "whyItMatters": "FITB is now a top-10 US bank by assets after absorbing Comerica, and this is the first clean P&L of the combined entity. Adj ROTCE at 20.6% and NIM holding above 3.3% give the Street a benchmark for how much of the $400M targeted expense synergies and asset repricing are flowing through. Watching NIM trajectory into Q4 matters for the whole super-regional complex (TFC, RF, KEY, HBAN) as rate expectations shift ahead of the Oct 27–28 FOMC.",
+        "forWho": "bank analysts, regional-bank traders, M&A integration watchers",
+        "tryIt": "https://finance.yahoo.com/quote/FITB/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fifth_Third_Bank_Headquarters.jpg/960px-Fifth_Third_Bank_Headquarters.jpg",
+        "alt": "Fifth Third Bank headquarters in Cincinnati",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Press Release (Ex 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000229/q32026earningsrelease.htm"
+        },
+        {
+          "label": "8-K on EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000229/fitb-20261019.htm"
+        },
+        {
+          "label": "Investor Presentation",
+          "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000229/fifththirdbancorppresent.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/FITB/"
+        }
+      ],
+      "reddit": {
+        "title": "Fifth Third (FITB) Q3 2026: adj EPS $1.13, net income $866M (+33% Y/Y), revenue $3.28B (+42% Y/Y) — first clean quarter post-Comerica merger",
+        "body": "Fifth Third Bancorp reported Q3 2026 before the Monday open — first full quarter after the Comerica systems conversion completed over Labor Day weekend.\n\n* Adj diluted EPS **$1.13**, after excluding $0.23 of after-tax items (merger charges, interchange litigation, tech-related impairments)\n* GAAP diluted EPS $0.90\n* Net income **$866M** (+8% Q/Q, +33% Y/Y)\n* Total revenue (FTE) $3.28B (+42% Y/Y); NII $2.27B (+49% Y/Y); noninterest income $1.01B\n* NIM 3.34% (-2bp Q/Q, +21bp Y/Y)\n* Period-end loans $180.3B (+46% Y/Y); deposits $239.5B (+44% Y/Y)\n* Adj ROTCE 20.6%; adj ROA 1.41%\n* NCO ratio 0.31% vs 1.09% in Q3 2025 (prior-year quarter included a $178M asset-backed finance charge-off)\n\nTwo takeaways:\n\n1. **Comerica is fully in the P&L now** — the +42% revenue, +45% loan and +44% deposit prints are the combined-company run rate, not partial periods.\n2. **Credit held up** — the 0.31% NCO ratio, after absorbing a legacy Comerica book, is a meaningful improvement vs 1.09% a year ago.\n\nCEO Tim Spence framed the print as building a Fifth Third that is \"better and not just bigger.\"\n\nNext catalyst: FOMC decision Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fitb-q3-fy26-earnings-oct-19-2026](https://stock-tldr.xyz/releases/fitb-q3-fy26-earnings-oct-19-2026)"
+      },
+      "publishDate": "2026-10-19T18:01:17.426Z"
+    },
     {
       "id": "china-q3-2026-gdp-oct-19",
       "categories": [

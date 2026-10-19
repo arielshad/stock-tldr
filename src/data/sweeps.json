@@ -14351,6 +14351,36 @@
         "regulatory",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261019t180117z",
+      "timestamp": "2026-10-19T18:01:17.426Z",
+      "source": "github-actions-sweep",
+      "summary": "Monday Oct 19 2026 premarket earnings sweep — added Cleveland-Cliffs Q3 (adj EBITDA $612M beats $575M guide) and Fifth Third Q3 (first full quarter post-Comerica systems conversion, adj EPS $1.13, net income +33% Y/Y).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "clf-q3-2026-earnings-oct-19-2026",
+          "title": "Cleveland-Cliffs (CLF) Q3 2026 (Mon Oct 19 premarket) — adj EBITDA $612M crushes $575M company guide / $4.76 Y/Y Q3 '25 and $286M Q2 '26; revenue $5.6B (+19% Y/Y); GAAP diluted EPS $0.26 vs -$0.51 Y/Y; adj EPS $0.28; 4.2 Mt shipments; Q4 guide ~$715M; 2027 adj EBITDA outlook >$4B",
+          "category": "earnings",
+          "note": "CLF Q3 2026 beat its own $575M adj EBITDA guide by $37M; $4B+ 2027 outlook reset expectations for US steel cycle."
+        },
+        {
+          "id": "fitb-q3-fy26-earnings-oct-19-2026",
+          "title": "Fifth Third (FITB) Q3 FY26 (Mon Oct 19 premarket) — adj diluted EPS $1.13 (excl $0.23 Comerica merger / interchange litigation / tech-impairment items) vs GAAP $0.90; net income $866M (+33% Y/Y); total revenue (FTE) $3.28B (+42% Y/Y); NII $2.27B (+49% Y/Y); NIM 3.34% (+21bp Y/Y); adj ROTCE 20.6%; period-end loans $180.3B (+46% Y/Y), deposits $239.5B (+44% Y/Y) — first full quarter post-Comerica systems conversion",
+          "category": "earnings",
+          "note": "FITB's first clean quarter after Feb 1 2026 Comerica close + Labor Day systems conversion; adj EPS $1.13, net income +33% Y/Y."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings"
+      ]
     }
   ]
 }
