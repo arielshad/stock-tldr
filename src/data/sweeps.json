@@ -14418,6 +14418,54 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261020t161158z",
+      "timestamp": "2026-10-20T16:11:58.421Z",
+      "source": "github-actions-sweep",
+      "summary": "Tue Oct 20 2026 — big Q3 earnings day for industrials & defense. GE Aerospace, RTX, NOC, 3M all beat and raised FY26 guidance. GM beat on EPS/revenue and authorized a new $20B buyback but shares fell ~5% premarket on narrowed FY ceiling.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ge-q3-2026-earnings-oct-20",
+          "title": "GE Aerospace (GE) Q3 2026 (Tue Oct 20 premarket) — adj EPS $2.25 (+36% Y/Y) tops ~$1.99 est, GAAP EPS $2.32; adj revenue $13.3B (+18% Y/Y); orders $19.0B (+49%); FY26 adj EPS guide RAISED to $8.00–$8.10 (from $7.65–$7.85), FY26 op profit $10.9–$11.0B, FCF $9.1–$9.4B; commercial services backlog over $170B; GE -~1.7% premarket on profit-take",
+          "category": "earnings",
+          "note": "GE Aerospace Q3 crushes consensus, lifts FY26 guide across the board — mega-cap aerospace bellwether print of the day."
+        },
+        {
+          "id": "rtx-q3-2026-earnings-oct-20",
+          "title": "RTX (RTX) Q3 2026 (Tue Oct 20 premarket) — adj EPS $2.26 (+33% Y/Y, incl. $0.25 IEEPA cost recovery) tops ~$1.76 est, GAAP EPS $1.89 (+34%); sales $25.0B (+11% rpt / +12% organic); record backlog $340B ($176B commercial + $164B defense); FY26 adj EPS RAISED to $7.65–$7.75 (from $7.10–$7.25), adj sales $97.0–$97.5B, FCF $9.0–$9.2B; RTX +~1.9% premarket",
+          "category": "earnings",
+          "note": "RTX Q3 adj EPS $2.26 blows past $1.76 est (incl. $0.25 IEEPA tailwind), $340B record backlog, FY26 raised."
+        },
+        {
+          "id": "noc-q3-2026-earnings-oct-20",
+          "title": "Northrop Grumman (NOC) Q3 2026 (Tue Oct 20 premarket) — GAAP EPS $7.89 beats ~$7.17 est; sales $11.12B (+7% Y/Y, all 4 segments grow); operating income $1.27B (+2%); FY26 MTM-adj EPS guide RAISED to $29.35–$29.75 (from $28.60–$29.10); adj FCF $1.81B (+44% Y/Y); backlog $109.6B (+15% YTD); book-to-bill 1.5x",
+          "category": "earnings",
+          "note": "Northrop beats and raises FY MTM-adj EPS to $29.35–$29.75; $109.6B backlog + 1.5x book-to-bill confirms B-21 ramp."
+        },
+        {
+          "id": "mmm-q3-2026-earnings-oct-20",
+          "title": "3M (MMM) Q3 2026 (Tue Oct 20 premarket) — adj EPS $2.50 (+12% Y/Y, 'new basis') tops ~$2.39 est; GAAP EPS $2.63 (+70% Y/Y); sales $6.58B (+1.0% rpt / adj +4.2%), adj organic +3.3%; adj op margin 26.2% (+110bp); FY26 adj EPS guide RAISED to $9.10–$9.15 (from $8.80–$8.95 July guide); MMM +~4.0% premarket",
+          "category": "earnings",
+          "note": "3M beats and lifts FY guide a second time in 2026; adj op margin 26.2% (+110bp Y/Y) confirms Brown restructuring playbook."
+        },
+        {
+          "id": "gm-q3-2026-earnings-oct-20",
+          "title": "General Motors (GM) Q3 2026 (Tue Oct 20 premarket) — adj EPS $3.70 (+32% Y/Y) tops ~$3.63–$3.69 est; GAAP EPS $3.73 (vs $1.35 Y/Y); revenue $50.0B (+2.9% Y/Y, vs ~$48.76B est); EBIT-adj $4.11B (+22% Y/Y); FY26 adj EPS guide RAISED to $12.75–$13.75 (from $12.00–$14.00); board approves NEW $20B share-repurchase authorization; GM -~4.7% premarket on cost / outlook concerns",
+          "category": "earnings",
+          "note": "GM beats three lines but FY ceiling cut and new $20B buyback — mega-cap auto cyclical with capital return as the key hook."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings"
+      ]
     }
   ]
 }
