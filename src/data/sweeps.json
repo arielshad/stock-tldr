@@ -14381,6 +14381,43 @@
       "coverage": [
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20261020t023545z",
+      "timestamp": "2026-10-20T02:35:45.214Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Monday Oct 19 after-close earnings prints added: Steel Dynamics (STLD) record-shipment Q3 that still missed the Street and own-guide ($5.26 EPS, stock -8% AH), plus two regional-bank reads (ZION $1.78 EPS beat with NCOs collapsing 95% Y/Y, WAL $2.45 EPS narrow beat with NIM up 4bp).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "stld-q3-2026-earnings-oct-19",
+          "title": "Steel Dynamics (STLD) Q3 2026 (Mon Oct 19 after close) — diluted EPS $5.26 (+92% Y/Y) MISSES ~$5.48 consensus and $5.34–5.38 own guide; record 3.78M tons steel shipments; net sales $6.51B (+35% Y/Y); net income $756M (+87% Y/Y); operating income $1.01B (+99%); adj EBITDA $1.19B; $276M buyback; stock closed +1.92% at $245.17 then dropped ~8% AH to ~$233.79",
+          "category": "earnings",
+          "note": "First major industrial post-close Q3 print and a cycle bellwether; record shipments but EPS miss drove ~8% AH drop — meets the mover + earnings bar."
+        },
+        {
+          "id": "zion-q3-fy26-earnings-oct-19",
+          "title": "Zions Bancorporation (ZION) Q3 FY26 (Mon Oct 19 after close) — diluted EPS $1.78 beats ~$1.65 consensus; net income to common $262M (+19% Y/Y); NII $684M (+2%); NIM 3.23% (-5bp Y/Y); customer deposits $74.5B (+5% Y/Y); CET1 11.8% (+50bp); ROTCE 16.2%; NCO just $3M vs $56M Y/Y",
+          "category": "earnings",
+          "note": "Clean EPS beat with the credit print of the quarter so far — NCOs down 95% Y/Y sets tone for the rest of the super-regional cohort."
+        },
+        {
+          "id": "wal-q3-fy26-earnings-oct-19",
+          "title": "Western Alliance (WAL) Q3 FY26 (Mon Oct 19 after close) — diluted EPS $2.45 (+7.5% Y/Y) narrowly beats ~$2.43 consensus; net income $277M (+6%); NII $807.6M (+7.6% Y/Y); NIM 3.57% (+4bp); HFI loans $61.5B (+8.7% Y/Y); deposits $81.8B (+5.8%); CET1 10.9%; NCO 0.30%",
+          "category": "earnings",
+          "note": "Narrow EPS beat with proof the deposit-optimization strategy is holding; a key read for the commercial-regional cohort post-2023 stress."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

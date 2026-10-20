@@ -1,8 +1,213 @@
 {
-  "generatedAt": "2026-10-19T18:01:17.426Z",
+  "generatedAt": "2026-10-20T02:35:45.214Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "stld-q3-2026-earnings-oct-19",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Steel Dynamics (STLD) Q3 2026 (Mon Oct 19 after close) — diluted EPS $5.26 (+92% Y/Y) MISSES ~$5.48 consensus and $5.34–5.38 own guide; record 3.78M tons steel shipments; net sales $6.51B (+35% Y/Y); net income $756M (+87% Y/Y); operating income $1.01B (+99%); adj EBITDA $1.19B; $276M buyback; stock closed +1.92% at $245.17 then dropped ~8% AH to ~$233.79",
+      "org": "Steel Dynamics",
+      "tickers": [
+        "STLD"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.prnewswire.com/news-releases/steel-dynamics-reports-third-quarter-2026-results-302913069.html",
+      "summary": "STLD's record 3.78M-ton Q3 shipments and $6.51B revenue weren't enough — EPS of $5.26 missed both the $5.48 Street and the company's own $5.34-5.38 guide; stock -8% after-hours despite 92% Y/Y EPS growth and $276M of buybacks.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "eps-miss",
+        "revenue-beat",
+        "record-shipments",
+        "steel",
+        "stld"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Diluted EPS": "$5.26 vs ~$5.48 est (miss) / $5.34-5.38 guide",
+        "Net Income": "$756M (+87% Y/Y)",
+        "Net Sales": "$6.51B (+35% Y/Y, slight beat vs ~$6.43B est)",
+        "Operating Income": "$1.01B (+99% Y/Y, +44% Q/Q)",
+        "Adj EBITDA": "$1.19B (+79% Y/Y)",
+        "Steel Shipments": "3.78 Mt (record)",
+        "Buyback (Q3)": "$276M",
+        "Move AH": "-~8% to ~$233.79"
+      },
+      "explainer": {
+        "tagline": "STLD posts record Q3 steel shipments and 92% Y/Y EPS growth, but $5.26 misses the Street and the company's own guide — shares -8% after-hours.",
+        "whatIsIt": "Steel Dynamics, the Fort Wayne-based mini-mill operator (steel, scrap recycling, fabrication, aluminum), reported Q3 2026 results after Monday Oct 19's close. The company's September guidance put EPS at $5.34–5.38, below Street consensus of ~$5.42–5.48. Actuals landed at $5.26 — below both — even as revenue and shipments set records.",
+        "howItWorks": "Diluted EPS was $5.26 on $756M net income, versus $3.69 and $534M in Q2 2026 and $2.74 and $404M in Q3 2025. Net sales reached $6.51B (+35% Y/Y, +15% Q/Q), with record steel shipments of 3.78M tons. Consolidated operating income rose $306M (+44%) sequentially to $1.01B. Segment operating income: Steel $1.03B (+43% Q/Q on $102/ton higher average selling prices and $8/ton lower ferrous scrap costs), Fabrication $91M, Recycling $33M, Aluminum -$26M (narrower loss, reached EBITDA breakeven; three cold mills now operating). Adj EBITDA was $1.19B. Operating cash flow $846M, liquidity $2.4B, $276M of stock repurchased (~1% of float), $76M dividends paid. CEO Mark Millett said domestic steel demand stayed strong on lean customer inventories and historically low imports; fabrication backlog now extends into Q2 2027. Stock closed +1.92% at $245.17 pre-release, then fell to ~$233.79 in after-hours (-4.6% from close; headline wires including Investing.com put the drop at ~8%).",
+        "whyItMatters": "This is the first big post-close print in a week stuffed with earnings. STLD is the steel-cycle bellwether and the first read on how metal spreads flowed through the P&L in Q3 after the sector-wide price lift. The EPS miss despite record shipments points to higher-than-expected unit costs (aluminum startup still a drag) or a tougher ferrous/aluminum spread than the Street modeled, and sets a cautious tone for CLF, NUE, X and the broader metals complex into their prints. Reaction also tested the market's recent willingness to shrug off misses — the ~8% AH drop says the appetite is thinner than two weeks ago.",
+        "forWho": "metals traders, cyclicals desks, materials ETF watchers",
+        "tryIt": "https://finance.yahoo.com/quote/STLD/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Steel_Dynamics_Steel_Mill%2C_Pittsboro%2C_Indiana.jpg",
+        "alt": "Steel Dynamics steel mill in Pittsboro, Indiana",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Press Release",
+          "url": "https://www.prnewswire.com/news-releases/steel-dynamics-reports-third-quarter-2026-results-302913069.html"
+        },
+        {
+          "label": "AP Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-q3-earnings-snapshot-203659364.html"
+        },
+        {
+          "label": "Investing.com Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stock-slides-8-210700671.html"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/STLD/"
+        }
+      ],
+      "reddit": {
+        "title": "Steel Dynamics (STLD) Q3 2026: EPS $5.26 MISSES $5.48 est and $5.34-5.38 own guide — stock -8% AH despite record 3.78M-ton shipments and +35% Y/Y revenue",
+        "body": "Steel Dynamics reported Q3 2026 after Monday's close. Record shipments and record revenue, but the EPS line underwhelmed:\n\n* Diluted EPS **$5.26** (+92% Y/Y) vs ~**$5.48** Street consensus — a clean miss\n* Below the company's own September guide of **$5.34–5.38**\n* Net income **$756M** vs $534M in Q2 and $404M in Q3 2025\n* Net sales **$6.51B** (+35% Y/Y) — a slight beat vs ~$6.43B est\n* Record **3.78M tons** of steel shipped\n* Adj EBITDA **$1.19B**, operating income $1.01B (+44% Q/Q)\n* $276M of stock repurchased in Q3 (\\~1% of float)\n* Stock closed +1.92% at $245.17, then fell to ~$233.79 after-hours\n\nWhat drove the miss:\n\n1. **Aluminum still a drag** — $26M operating loss, though narrower than Q2's and the platform hit EBITDA breakeven with all three cold mills running.\n2. **Fabrication soft** — $91M operating income vs $85M in Q2 even as shipments jumped 18%; margin pressure is real there.\n3. **Steel segment carried the quarter** — $1.03B operating income (+43% Q/Q), $102/ton higher avg selling prices on wider metal margins.\n\nCEO Mark Millett framed domestic demand as healthy — lean customer inventories, historically low imports, fabrication backlog into Q2 2027.\n\nNext catalysts: STLD call Oct 20 11am ET, then CLF (already out) and NUE prints on deck.\n\nFull breakdown: [https://stock-tldr.xyz/releases/stld-q3-2026-earnings-oct-19](https://stock-tldr.xyz/releases/stld-q3-2026-earnings-oct-19)"
+      },
+      "publishDate": "2026-10-20T02:35:45.214Z"
+    },
+    {
+      "id": "zion-q3-fy26-earnings-oct-19",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Zions Bancorporation (ZION) Q3 FY26 (Mon Oct 19 after close) — diluted EPS $1.78 beats ~$1.65 consensus; net income to common $262M (+19% Y/Y); NII $684M (+2%); NIM 3.23% (-5bp Y/Y); customer deposits $74.5B (+5% Y/Y); CET1 11.8% (+50bp); ROTCE 16.2%; NCO just $3M vs $56M Y/Y",
+      "org": "Zions Bancorporation",
+      "tickers": [
+        "ZION"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000109380/000010938026000125/exh991earningsrelease20260.htm",
+      "summary": "Zions beat on EPS and credit improved sharply: $1.78 diluted EPS vs ~$1.65 est, net income $262M (+19% Y/Y), net charge-offs collapsed to $3M (from $56M a year earlier), CET1 ratio climbed 50bp Y/Y to 11.8%.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "regional-bank",
+        "nim",
+        "credit-quality",
+        "cet1",
+        "zion"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Diluted EPS": "$1.78 vs ~$1.65 est",
+        "Net Income (Common)": "$262M (+19% Y/Y)",
+        "NII": "$684M (+2% Y/Y)",
+        "NIM": "3.23% (-5bp Y/Y)",
+        "Customer Deposits (ex-brokered)": "$74.5B (+5% Y/Y)",
+        "Loans & Leases": "$62.5B (+4% Y/Y)",
+        "CET1 (est.)": "11.8% (+50bp Y/Y)",
+        "ROTCE": "16.2%",
+        "Net Charge-Offs": "$3M vs $56M Y/Y"
+      },
+      "explainer": {
+        "tagline": "Zions beats on EPS ($1.78 vs ~$1.65), with net charge-offs collapsing to $3M from $56M Y/Y and CET1 climbing 50bp.",
+        "whatIsIt": "Zions Bancorporation, the Salt Lake City-based super-regional operating under seven brands across the Intermountain West and the Southwest, reported Q3 2026 results after Monday Oct 19's close. The release is a clean comp against Q3 2025 ($221M / $1.48) but a sharp step down from an outsized Q2 2026 ($452M / $3.05) that included one-time items.",
+        "howItWorks": "Diluted EPS of $1.78 cleared Street consensus of roughly $1.64–$1.67 (FMP: $1.67; Benzinga: $1.65). Net income to common was $262M, up 19% Y/Y. NII rose 2% to $684M; noninterest income rose 4% to $197M. NIM slipped 5bp Y/Y to 3.23%. Total deposits reached $77.9B (+4% Y/Y); customer deposits (ex-brokered) hit $74.5B (+5%). Loans and leases rose 4% to $62.5B. CET1 (estimated, preliminary) climbed to 11.8%, up from 11.3% a year earlier. ROTCE was 16.2%. The credit print was the standout: net charge-offs fell to just $3M, down 95% from $56M in Q3 2025. Allowance for credit losses dropped $29M Y/Y to $696M (ACL/loans 1.11% vs 1.20%). CEO Harris Simmons' call was scheduled for 5:30pm ET.",
+        "whyItMatters": "ZION is a bellwether for the super-regional cohort post-2023 banking stress; the credit improvement (NCOs down 95% Y/Y) and 50bp CET1 build Y/Y argue the sector's balance sheet has fully healed. The EPS beat and 16.2% ROTCE will frame how MTB/CFR/EWBC/HBAN prints get read this week. Watch the NIM trajectory: 3.23% vs 3.28% Y/Y shows the easing-cycle squeeze is on even as asset-sensitive banks claim they can hold the line.",
+        "forWho": "regional bank analysts, bank credit traders, CRE-exposure watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ZION/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Slc_gateway_tower_east.jpg",
+        "alt": "Zions Bank Tower at The Gateway, Salt Lake City, Utah",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Press Release (Ex 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000109380/000010938026000125/exh991earningsrelease20260.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/ZION/"
+        }
+      ],
+      "reddit": {
+        "title": "Zions (ZION) Q3 2026: EPS $1.78 beats ~$1.65 est, net charge-offs collapse to $3M (from $56M Y/Y), CET1 up 50bp to 11.8%",
+        "body": "Zions Bancorporation reported Q3 2026 after Monday's close. A clean EPS beat and a credit print that will set the tone for the super-regionals this week:\n\n* Diluted EPS **$1.78** vs ~**$1.65** Street — a solid beat\n* Net income to common **$262M** (+19% Y/Y)\n* NII **$684M** (+2% Y/Y); noninterest income $197M (+4%)\n* NIM **3.23%** (-5bp Y/Y) — the asset-sensitivity story is still being tested\n* Total deposits **$77.9B** (+4% Y/Y); customer deposits ex-brokered $74.5B (+5%)\n* Loans & leases **$62.5B** (+4% Y/Y)\n* CET1 (est.) **11.8%** vs 11.3% Y/Y — 50bp capital build\n* **Net charge-offs collapsed to $3M** from $56M a year earlier\n* ROTCE 16.2%\n\nQ3 is a clean comp vs last year ($221M / $1.48) — the step down from Q2 2026's $452M / $3.05 reflects one-time items in Q2, not run-rate deterioration.\n\nTwo takeaways:\n\n1. **Credit has fully normalized** — NCOs down 95% Y/Y, ACL/loans dropped 9bp. If this holds across MTB, CFR, EWBC prints this week, the regional-bank credit cycle is behind us.\n2. **NIM compression is real** — 3.23% vs 3.28% Y/Y shows easing is biting even for asset-sensitive balance sheets.\n\nNext catalyst: FOMC Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/zion-q3-fy26-earnings-oct-19](https://stock-tldr.xyz/releases/zion-q3-fy26-earnings-oct-19)"
+      },
+      "publishDate": "2026-10-20T02:35:45.214Z"
+    },
+    {
+      "id": "wal-q3-fy26-earnings-oct-19",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Western Alliance (WAL) Q3 FY26 (Mon Oct 19 after close) — diluted EPS $2.45 (+7.5% Y/Y) narrowly beats ~$2.43 consensus; net income $277M (+6%); NII $807.6M (+7.6% Y/Y); NIM 3.57% (+4bp); HFI loans $61.5B (+8.7% Y/Y); deposits $81.8B (+5.8%); CET1 10.9%; NCO 0.30%",
+      "org": "Western Alliance Bancorporation",
+      "tickers": [
+        "WAL"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001212545/000162828026066286/pressrelease-9302026.htm",
+      "summary": "Western Alliance narrowly beats on EPS ($2.45 vs $2.43 est), with NIM up 4bp to 3.57% and HFI loans +8.7% Y/Y to $61.5B — but CET1 drifted to 10.9% from 11.3% a year earlier and tangible book of $62.22 came in below the $64.43 Street mark.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "regional-bank",
+        "nim",
+        "deposits",
+        "cet1",
+        "wal"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Diluted EPS": "$2.45 vs ~$2.43 est (+7.5% Y/Y)",
+        "Net Income": "$277.2M (+6.4% Y/Y)",
+        "NII": "$807.6M (+7.6% Y/Y)",
+        "NIM": "3.57% (+4bp Y/Y)",
+        "Deposits": "$81.8B (+5.8% Y/Y, -0.1% Q/Q)",
+        "HFI Loans": "$61.5B (+8.7% Y/Y)",
+        "CET1 (est.)": "10.9% (-40bp Y/Y)",
+        "TBV / Share": "$62.22 vs ~$64.43 est",
+        "NCO Ratio": "0.30% (-7bp Q/Q)",
+        "Buyback (Q3)": "$92.1M"
+      },
+      "explainer": {
+        "tagline": "Western Alliance ekes out a $2.45 EPS beat; NIM up 4bp to 3.57%, loans +8.7% Y/Y, but CET1 slipped to 10.9% and TBV missed the Street.",
+        "whatIsIt": "Western Alliance Bancorporation, the Phoenix-based commercial-banking franchise that was at the center of the March 2023 deposit scare, reported Q3 2026 results after Monday Oct 19's close (~4:40pm ET). The quarter is a key read on whether the deposit optimization program (ECR-cost reductions) is sticking while the balance sheet grows.",
+        "howItWorks": "Diluted EPS of $2.45 narrowly beat the ~$2.43 Street consensus (StockStory data) and rose 7.5% Y/Y from $2.28. Net income was $277.2M (+6.4% Y/Y, +3.1% Q/Q). Pre-provision net revenue hit $419.1M (+6.4%). NII rose 7.6% to $807.6M; NIM climbed 4bp Y/Y and Q/Q to 3.57%. HFI loans reached $61.5B (+8.7% Y/Y, +1.0% Q/Q); total deposits were $81.8B, down just $119M Q/Q as commercial deposit growth offset the ECR-related deposit-cost optimization ($14M quarterly reduction, $4.5B of actions over two quarters). CET1 (preliminary) was 10.9%, down from 11.3% a year earlier. ACL to funded loans rose to 0.93% (from 0.89% Q/Q); ACL to nonaccrual loans jumped to 118% from 96%. Nonaccrual loans were $485M (0.79% of HFI). Net charge-offs ran at 0.30% (down 7bp Q/Q). Book value per share $68.14; tangible book $62.22 (below StockStory's $64.43 Street mark). The company repurchased $92.1M in Q3. CEO Kenneth Vecchione highlighted enhanced profitability, lower deposit costs, improved asset quality, stronger reserve coverage, and accelerated share repurchases.",
+        "whyItMatters": "WAL is the regional-bank beta trade — if deposit optimization is working, the broader commercial-focused regional cohort (EWBC, PACW-successors, FHN) has a usable playbook. The NIM up-tick alongside flat deposits says they can shed costly deposits without losing the franchise, but the 40bp CET1 drift and the TBV miss show capital-return ambition is running into Basel III endgame constraints. Watch the Q4 ECR-cost trajectory and whether commercial deposit growth keeps offsetting optimization.",
+        "forWho": "regional bank analysts, commercial banking specialists",
+        "tryIt": "https://finance.yahoo.com/quote/WAL/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Western_Alliance_Bancorporation_logo.png",
+        "alt": "Western Alliance Bancorporation logo",
+        "fit": "contain",
+        "credit": "Wikimedia"
+      },
+      "links": [
+        {
+          "label": "Press Release (Ex 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001212545/000162828026066286/pressrelease-9302026.htm"
+        },
+        {
+          "label": "Earnings Presentation",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001212545/000162828026066286/walq32026earningspresent.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/WAL/"
+        }
+      ],
+      "reddit": {
+        "title": "Western Alliance (WAL) Q3 2026: EPS $2.45 narrowly beats $2.43 est, NIM up 4bp to 3.57%, loans +8.7% Y/Y — but CET1 slipped to 10.9% and TBV missed",
+        "body": "Western Alliance reported Q3 2026 after Monday's close. A clean operating quarter but mixed capital-return signals:\n\n* Diluted EPS **$2.45** vs ~**$2.43** est (narrow beat, +7.5% Y/Y)\n* Net income **$277.2M** (+6.4% Y/Y, +3.1% Q/Q)\n* NII **$807.6M** (+7.6% Y/Y)\n* NIM **3.57%** (+4bp Y/Y and +4bp Q/Q)\n* HFI loans **$61.5B** (+8.7% Y/Y, +1.0% Q/Q)\n* Deposits **$81.8B** — down just $119M Q/Q as commercial growth offset ECR-cost optimization\n* **CET1 10.9%** vs 11.3% Y/Y — 40bp drift as the buyback ran\n* Tangible book $62.22 vs ~$64.43 Street est\n* NCO ratio 0.30% (-7bp Q/Q); ACL/loans 0.93%; ACL/nonaccrual 118% (vs 96% Q/Q)\n* $92.1M stock repurchased in Q3\n\nTwo takeaways:\n\n1. **Deposit optimization is working** — $4.5B of ECR-related actions over two quarters cut deposit costs by $14M/qtr, and commercial deposit growth refilled the gap. NIM up 4bp against that is the whole proof-point.\n2. **Capital is thinning** — CET1 down 40bp Y/Y, TBV below the Street. The buyback is eating headroom faster than the Basel III endgame will comfortably allow.\n\nCEO Kenneth Vecchione's framing: enhanced profitability, lower deposit costs, improved asset quality, stronger reserve coverage, accelerated repurchases.\n\nNext catalyst: FOMC Oct 27-28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wal-q3-fy26-earnings-oct-19](https://stock-tldr.xyz/releases/wal-q3-fy26-earnings-oct-19)"
+      },
+      "publishDate": "2026-10-20T02:35:45.214Z"
+    },
     {
       "id": "clf-q3-2026-earnings-oct-19-2026",
       "categories": [
