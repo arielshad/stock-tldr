@@ -1,8 +1,302 @@
 {
-  "generatedAt": "2026-10-20T16:11:58.421Z",
+  "generatedAt": "2026-10-21T02:27:56.538Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nflx-q3-2026-earnings-oct-20",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Netflix (NFLX) Q3 2026 (Tue Oct 20 after close) — revenue $12.87B (+12% Y/Y) matches ~$12.87B est, diluted EPS $0.87 beats ~$0.82 guide/est; Q4 revenue guide $13.44B undershoots ~$13.51B consensus, 2026 ad-revenue guide CUT to ~$2.7B from ~$3B, FY26 FCF guide trimmed to ~$12.0B from ~$12.5B; NFLX -~5% AH",
+      "org": "Netflix",
+      "date": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm",
+      "summary": "Netflix Q3 beats on margin, revenue in line at $12.87B (+12% Y/Y) and diluted EPS $0.87; but Q4 revenue guide $13.44B lands below ~$13.51B consensus and 2026 ad guide cut to $2.7B from $3B, sending NFLX down about 5% in after-hours trading.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-in-line",
+        "q3-2026",
+        "streaming",
+        "advertising-cut",
+        "fcf-cut",
+        "guidance-light",
+        "mega-cap"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NFLX"
+      ],
+      "metrics": {
+        "Revenue": "$12.87B (+12% Y/Y, +11% F/X neutral)",
+        "Diluted EPS": "$0.87 vs $0.59 Y/Y (+49%)",
+        "Operating income": "$4.46B (+37% Y/Y)",
+        "Op margin": "34.6% vs 28.2% Y/Y",
+        "Q4 revenue guide": "$13.44B vs ~$13.51B est",
+        "Q4 op margin guide": "26.0% (incl ~120 bps HR impact)",
+        "FY26 revenue guide": "$51.1B (+13% Y/Y)",
+        "FY26 ad revenue": "~$2.7B (was ~$3B)",
+        "FY26 FCF": "~$12.0B (was ~$12.5B)",
+        "Share repurchases Q3": "63.9M shares / $4.80B",
+        "Move": "-~5% AH"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Shareholder Letter",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://ca.finance.yahoo.com/news/netflix-stock-sinks-after-announcing-q3-earnings-q4-revenue-forecast-falls-short-of-estimates-204545261.html"
+        },
+        {
+          "label": "NFLX Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/NFLX"
+        }
+      ],
+      "explainer": {
+        "tagline": "Netflix beats Q3 but Q4 revenue guide and a $300M ad-revenue cut push the stock ~5% lower in after-hours trade.",
+        "whatIsIt": "Netflix reported Q3 2026 results after the Tue Oct 20 close, filed as an SEC 8-K at ~1:01pm PT. Revenue grew 12% Y/Y to $12.87B, in line with Street expectations, while operating margin expanded nearly 650bp to 34.6% and diluted EPS of $0.87 crushed the company's own $0.82 guide.",
+        "howItWorks": "The upside was almost entirely margin: operating income of $4.46B (+37% Y/Y) came from expense timing and tight cost control. Q4 guidance landed at $13.44B revenue (12% growth) and 26.0% op margin (vs ~31% baseline) after a ~120bp hit from recently announced headcount reductions. Netflix also trimmed FY26 ad-revenue guidance to ~$2.7B from ~$3B on slower rollout of some ad-tech features, and lowered FY26 FCF guidance to ~$12.0B from ~$12.5B on a planned Q4 real-estate transaction.",
+        "whyItMatters": "The ad-revenue cut matters more than the Q3 beat — $300M off the ad base is the second time this cycle Netflix has pushed ad-tech milestones to the right. The soft Q4 revenue line and lowered FCF compound an already weak YTD setup: NFLX has lagged the Nasdaq 100 by a wide margin in 2026 after Wells Fargo's Underweight call in September. Peers (DIS, WBD, PARA) and ad-tech names (TTD, APP) are indirect reads on the slower ramp.",
+        "forWho": "mega-cap tech & streaming investors, ad-tech watchers",
+        "tryIt": "https://finance.yahoo.com/quote/NFLX"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108293063-1776425706461-gettyimages-2271161314-yanow-netflix260416_np9SR.jpeg?v=1784233440&w=1920&h=1080",
+        "alt": "Netflix logo on a device screen",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "reddit": {
+        "title": "Netflix Q3: $0.87 EPS beats, revenue in-line at $12.87B — but Q4 guide and $300M ad cut knock NFLX ~5% after hours",
+        "body": "Netflix posted a clean margin beat Tuesday after close, then gave Q4 and ad-revenue guidance that cooled the reaction fast.\n\n* Q3 revenue $12.87B (+12% Y/Y), in line with Street\n* Diluted EPS $0.87, beats company guide of $0.82 and Street $0.82\n* Operating income $4.46B (+37% Y/Y), op margin 34.6% vs 28.2% Y/Y\n* Q4 revenue guide $13.44B vs ~$13.51B consensus\n* 2026 ad-revenue guide CUT to ~$2.7B (from ~$3B) on slower ad-tech rollout\n* FY26 FCF guide trimmed to ~$12.0B (from ~$12.5B) on Q4 real-estate deal\n* NFLX -~5% in after-hours trading\n\nThree things driving the AH drop:\n\n1. **Q4 guide light** — $13.44B vs ~$13.51B is a ~0.5% miss, small in dollars but Netflix had been running above the Street.\n2. **Ad cut matters more than the headline** — $300M off the ad base pushes the ad-era monetization story into 2027.\n3. **Op margin steps down in Q4** — guide of 26.0% vs 34.6% in Q3 reflects HR-reduction charges (~120bp) and the usual Q4 content weighting.\n\nNext catalysts: Q4 subscriber color at the Jan print, 2027 ad-tier monetization update.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nflx-q3-2026-earnings-oct-20](https://stock-tldr.xyz/releases/nflx-q3-2026-earnings-oct-20)"
+      },
+      "publishDate": "2026-10-21T02:27:56.538Z"
+    },
+    {
+      "id": "isrg-q3-2026-earnings-oct-20",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Intuitive Surgical (ISRG) Q3 2026 (Tue Oct 20 after close) — revenue $3.05B (+22% Y/Y) tops ~$2.91B est, adj EPS $3.00 (+25% Y/Y) beats ~$2.65 est; GAAP EPS $1.49 vs $1.95 Y/Y on a $450M pre-tax antitrust settlement charge ($0.99/sh); 546 da Vinci placements vs 427 Y/Y; ISRG -~7% to -~11% AH",
+      "org": "Intuitive Surgical",
+      "date": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000067/q326ex-991earningsrelease.htm",
+      "summary": "Intuitive beats Q3 with revenue $3.05B (+22% Y/Y) and adj EPS $3.00 (+25% Y/Y) on 546 da Vinci placements, but a $450M pre-tax antitrust settlement crushes GAAP EPS to $1.49 and ISRG falls roughly 7–11% in after-hours trading.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "q3-2026",
+        "medtech",
+        "robotics",
+        "da-vinci",
+        "antitrust-charge",
+        "guidance-tight"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ISRG"
+      ],
+      "metrics": {
+        "Revenue": "$3.05B (+22% Y/Y)",
+        "Non-GAAP EPS": "$3.00 (+25% Y/Y)",
+        "GAAP EPS": "$1.49 vs $1.95 Y/Y",
+        "Antitrust charge": "$450M pre-tax ($0.99/sh after tax)",
+        "Non-GAAP gross margin": "69.9% vs 68.0% Y/Y",
+        "Non-GAAP op income": "$1.27B (+30% Y/Y)",
+        "da Vinci placements": "546 vs 427 Y/Y (incl 315 da Vinci 5 vs 240)",
+        "Ion placements": "56 vs 50 Y/Y",
+        "Procedure growth": "WW procedures +~15% (da Vinci +~14%, Ion +~31%)",
+        "da Vinci installed base": "12,094 (+12% Y/Y)",
+        "FY26 da Vinci procedure guide": "+14%–15% (closer to midpoint)",
+        "Move": "-~7% to -~11% AH"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Earnings Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000067/q326ex-991earningsrelease.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000067/"
+        },
+        {
+          "label": "ISRG Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/ISRG"
+        }
+      ],
+      "explainer": {
+        "tagline": "Beat the top & bottom lines by $0.35 and double-digit placements, but a $450M antitrust charge and tighter guide push ISRG ~7–11% lower AH.",
+        "whatIsIt": "Intuitive Surgical reported Q3 2026 after Tue Oct 20 close. Revenue of $3.05B (+22% Y/Y) and adjusted EPS of $3.00 (+25% Y/Y) both beat Street estimates handily, driven by record 546 da Vinci system placements (315 of them the new da Vinci 5) and ~15% worldwide procedure growth.",
+        "howItWorks": "GAAP results were ugly: a $450M pre-tax antitrust-settlement charge took $0.99/sh out of GAAP EPS, pushing it to $1.49 vs $1.95 last year. Non-GAAP gross margin improved to 69.9% from 68.0%, and non-GAAP op income rose ~30% to $1.27B. Management narrowed FY26 da Vinci procedure growth to 14%–15% but said it expects to land closer to the midpoint, implying some deceleration vs the first-half pace.",
+        "whyItMatters": "Fundamentals are intact — placement momentum and 69.9% non-GAAP gross margin don't come from a slowing business. But investors are focused on three things: the $450M charge, a procedure-growth guide that implies 2H slowdown, and management's commentary on pricing changes that could shave 3%–5% off instrument/accessory revenue per procedure over time. The AH reaction (~-7% to -11% across sources) looks like multiple compression on a name that had rallied into print — not a thesis break.",
+        "forWho": "medtech / robotics / growth-at-reasonable-price investors",
+        "tryIt": "https://finance.yahoo.com/quote/ISRG"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Intuitive_Surgical_logo.svg/1280px-Intuitive_Surgical_logo.svg.png",
+        "alt": "Intuitive Surgical logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "ISRG Q3: beats by $0.35, revenue $3.05B (+22%), 546 da Vinci placements — but $450M antitrust charge and tighter guide send stock down ~7–11% AH",
+        "body": "Intuitive Surgical posted a strong operating quarter Tuesday after close, but a one-time charge and tighter 2H outlook overshadowed it.\n\n* Revenue $3.05B (+22% Y/Y) vs ~$2.91B est\n* Non-GAAP EPS $3.00 (+25% Y/Y) vs ~$2.65 est\n* GAAP EPS $1.49 (vs $1.95 Y/Y) — includes a $450M pre-tax antitrust settlement ($0.99/sh after tax)\n* Non-GAAP gross margin 69.9% vs 68.0% Y/Y\n* 546 da Vinci systems placed (vs 427), including 315 of the new da Vinci 5 (vs 240)\n* WW procedures +~15% Y/Y (da Vinci +~14%, Ion +~31%)\n* ISRG -~7% to -~11% in after-hours trading\n\nWhy a strong beat sold off:\n\n1. **$450M antitrust charge** — one-time but still a surprise, drags GAAP results.\n2. **FY26 procedure guide narrowed to 14%–15%** — management flags closer to the midpoint, implying 2H deceleration vs 1H pace.\n3. **Pricing commentary** — potential 3%–5% hit to instrument/accessory revenue per procedure over time on new pricing structure.\n\nNext catalysts: FY2027 outlook with Q4 print (late Jan), ongoing da Vinci 5 adoption cadence.\n\nFull breakdown: [https://stock-tldr.xyz/releases/isrg-q3-2026-earnings-oct-20](https://stock-tldr.xyz/releases/isrg-q3-2026-earnings-oct-20)"
+      },
+      "publishDate": "2026-10-21T02:27:56.538Z"
+    },
+    {
+      "id": "cof-q3-2026-earnings-oct-20",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Capital One (COF) Q3 2026 (Tue Oct 20 after close) — net income $3.5B, GAAP diluted EPS $5.61 and adj diluted EPS $6.69 (beats ~$5.50 consensus by ~$1.19); net revenue $16.3B (+3% Q/Q); NIM 8.41% (+40bp Q/Q); period-end loans $462.5B, deposits $480.7B; CET1 13.8%; Discover integration cost $338M pre-tax; COF +~5% AH",
+      "org": "Capital One Financial",
+      "date": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000927628/000092762826000142/ex991q32026earningsrelease.htm",
+      "summary": "Capital One posts its first clean full post-Discover quarter: net income $3.5B, adjusted diluted EPS $6.69 (vs ~$5.50 consensus), net revenue $16.3B, NIM 8.41% (+40bp Q/Q), $225M allowance release, CET1 13.8%. COF rose about 5% in after-hours trading.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "q3-2026",
+        "banks",
+        "credit-cards",
+        "discover-integration",
+        "nim-up",
+        "allowance-release"
+      ],
+      "importance": "major",
+      "tickers": [
+        "COF"
+      ],
+      "metrics": {
+        "Net income": "$3.5B (vs $3.0B Q2)",
+        "Diluted EPS GAAP": "$5.61 (vs $4.73 Q2)",
+        "Adj diluted EPS": "$6.69 (beats ~$5.50 est by ~$1.19)",
+        "Net revenue": "$16.3B (+3% Q/Q)",
+        "NIM": "8.41% (+40bp Q/Q)",
+        "Period-end loans HFI": "$462.5B",
+        "Period-end deposits": "$480.7B",
+        "CET1 (Basel III Std)": "13.8% (preliminary)",
+        "Provision for credit losses": "$2.9B (down $73M)",
+        "Net charge-offs": "$3.1B",
+        "Allowance release": "$225M",
+        "Discover integration cost": "$338M pre-tax ($0.42/sh)",
+        "Move": "+~5% AH"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Earnings Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000927628/000092762826000142/ex991q32026earningsrelease.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000927628/000092762826000142/"
+        },
+        {
+          "label": "COF Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/COF"
+        }
+      ],
+      "explainer": {
+        "tagline": "First clean post-Discover quarter: adj EPS $6.69 blows past ~$5.50 est, NIM jumps 40bp Q/Q to 8.41%, allowance release signals credit normalization.",
+        "whatIsIt": "Capital One reported Q3 2026 after Tue Oct 20 close, the first full quarter with Discover fully consolidated and the back-book conversion well underway. Net income was $3.5B (vs $3.0B in Q2), GAAP diluted EPS $5.61 and adjusted $6.69 — a ~$1.19/sh beat vs the ~$5.50 Street consensus.",
+        "howItWorks": "Net revenue of $16.3B rose 3% sequentially while non-interest expense fell 2% to $8.9B — net result: pre-provision earnings up 10% Q/Q to $7.5B. NIM expanded 40bp Q/Q to 8.41% on card-mix tailwind. Provision for credit losses was $2.9B, including $3.1B of net charge-offs offset by a $225M allowance release — the first release of this cycle. CET1 ratio of 13.8% (preliminary) is up from 13.7% in Q2. Discover integration costs ran $338M pre-tax ($0.42/sh after tax), plus $47M of Brex integration costs and $483M of acquisition amortization.",
+        "whyItMatters": "This is the quarter the Discover acquisition thesis gets tested with real numbers, not pro-formas. A $1.19/sh beat with margin expansion and an allowance release is the clean read bulls wanted. Watch COF cross-reads on card peers (SYF, DFS pre-merger, AXP) and the broader credit-normalization trade. First AH-reaction was +~5% — modest for the size of the beat, suggesting some was in the stock after the Jun/Jul Discover-driven rally.",
+        "forWho": "bank-earnings traders, card-cycle watchers, M&A-integration thesis investors",
+        "tryIt": "https://finance.yahoo.com/quote/COF"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/CapitalOneHQ_body.jpg/1280px-CapitalOneHQ_body.jpg",
+        "alt": "Capital One headquarters tower in McLean VA",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "Capital One Q3: adj EPS $6.69 crushes ~$5.50 est, NIM jumps 40bp to 8.41%, first allowance release of the cycle — COF +~5% AH",
+        "body": "Capital One's first full post-Discover quarter blew past expectations on both earnings and credit.\n\n* Net income $3.5B (vs $3.0B Q2)\n* Adj diluted EPS $6.69 vs ~$5.50 consensus — $1.19 beat\n* GAAP EPS $5.61 (vs $4.73 Q2)\n* Net revenue $16.3B (+3% Q/Q)\n* NIM 8.41% (+40bp Q/Q)\n* Period-end loans HFI $462.5B, deposits $480.7B\n* CET1 (preliminary) 13.8% vs 13.7% in Q2\n* Provision $2.9B (NCOs $3.1B + $225M reserve release) — first release of the cycle\n* Discover integration cost $338M pre-tax; Brex integration $47M\n* COF +~5% in after-hours trading\n\nWhy this matters:\n\n1. **First clean post-Discover quarter** — synergy numbers aren't pro-forma anymore.\n2. **Allowance release signals credit normalization** — $225M of reserves released, first of the cycle for COF.\n3. **NIM expansion** — +40bp Q/Q comes from card-mix tailwind, not just rates.\n\nNext catalysts: Discover back-book conversion through Q1 2027, Q4 buyback cadence.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cof-q3-2026-earnings-oct-20](https://stock-tldr.xyz/releases/cof-q3-2026-earnings-oct-20)"
+      },
+      "publishDate": "2026-10-21T02:27:56.538Z"
+    },
+    {
+      "id": "smci-q1-fy27-prelim-raise-oct-20",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Super Micro Computer (SMCI) preliminary Q1 FY27 (Tue Oct 20 after close) — raises Q1 revenue guide to $18.5–$19.5B from $14.5–$15.5B (+~27% midpoint vs prior) and GM guide to 12.0%–12.5% from 10.4%–10.8% on 'increased demand for AI platforms'; SMCI +~12% AH",
+      "org": "Super Micro Computer",
+      "date": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000025/smcifirstquarterfy2027busi.htm",
+      "summary": "Super Micro pre-announces Q1 FY27 with revenue now expected $18.5–$19.5B vs $14.5–$15.5B prior guide, and gross margin 12.0%–12.5% vs 10.4%–10.8% prior, citing AI-platform demand and better customer/product mix. SMCI jumped ~12% in after-hours trading.",
+      "tags": [
+        "pre-announcement",
+        "guidance-raise",
+        "ai",
+        "ai-servers",
+        "q1-fy27",
+        "gross-margin-up",
+        "nvda-ecosystem"
+      ],
+      "importance": "major",
+      "tickers": [
+        "SMCI"
+      ],
+      "metrics": {
+        "Q1 FY27 revenue (new)": "$18.5B–$19.5B (midpoint $19.0B)",
+        "Q1 FY27 revenue (prior)": "$14.5B–$15.5B (midpoint $15.0B)",
+        "Midpoint lift": "+~27%",
+        "Gross margin (new)": "12.0%–12.5%",
+        "Gross margin (prior)": "10.4%–10.8%",
+        "GM lift (midpoint)": "+~160bp",
+        "Prior consensus Q1 revenue": "~$14.99B",
+        "Earnings call": "Nov 3 at 5pm ET",
+        "Move": "+~12% AH"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Preliminary Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000025/smcifirstquarterfy2027busi.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000025/"
+        },
+        {
+          "label": "SMCI Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/SMCI"
+        }
+      ],
+      "explainer": {
+        "tagline": "SMCI pre-announces a ~27% revenue guide beat and ~160bp gross-margin lift on AI-platform demand — stock +12% AH.",
+        "whatIsIt": "Super Micro Computer issued a preliminary Q1 FY27 (quarter ended Sept 30, 2026) business update on Tue Oct 20, raising revenue guidance to $18.5–$19.5B from $14.5–$15.5B and gross margin to 12.0%–12.5% from 10.4%–10.8%. Full results and the earnings call are scheduled for Nov 3 at 5pm ET.",
+        "howItWorks": "The company attributes the revenue surge to 'increased demand for AI platforms' and the margin uplift to customer and product mix. The new revenue midpoint of ~$19.0B is ~27% above the prior midpoint of $15.0B and ~27% above the ~$14.99B Street consensus. Gross margin expansion of ~160bp vs the prior guide reversal of the margin erosion that had been a key bear case for the name.",
+        "whyItMatters": "This is a direct AI-capex read: SMCI is one of the main NVDA-ecosystem system integrators, and a $4B above-guide quarter signals that hyperscaler and tier-2 cloud buyers are still accelerating rack deliveries, not slowing. Positive for NVDA, DELL, AVGO, VRT and the broader AI-infrastructure complex — and a counter-signal to the AI-debt / CRWV credit-stress narrative that dominated last week. The margin lift (12%+ vs feared sub-10%) also directly addresses the 'commoditization' bear case.",
+        "forWho": "AI capex & semiconductor investors, cloud infra traders",
+        "tryIt": "https://finance.yahoo.com/quote/SMCI"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Super_Micro_Computer_Logo.svg/1280px-Super_Micro_Computer_Logo.svg.png",
+        "alt": "Super Micro Computer logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "reddit": {
+        "title": "SMCI pre-announces Q1 FY27: revenue guide raised to $18.5B–$19.5B from $14.5B–$15.5B (+~27% midpoint), gross margin to 12.0%–12.5% from 10.4%–10.8% — stock +~12% AH",
+        "body": "Super Micro Computer dropped a preliminary Q1 FY27 update Tuesday after close with a massive guide-up on both revenue and margin.\n\n* Q1 FY27 (ended Sept 30, 2026) revenue now estimated at $18.5B–$19.5B vs $14.5B–$15.5B prior guide\n* Midpoint lift ~27% ($19.0B vs $15.0B)\n* Gross margin now estimated 12.0%–12.5% vs 10.4%–10.8% prior\n* GM midpoint lift ~160bp\n* Street was at ~$14.99B revenue for the quarter\n* Full results and call: Nov 3 at 5pm ET\n* SMCI +~12% in after-hours trading\n\nWhy this matters:\n\n1. **AI-platform demand** — company's own language: directly points to hyperscaler/cloud rack demand still accelerating.\n2. **Margin thesis bend** — 12%+ GM pushes back on the \"SMCI gets commoditized\" bear case.\n3. **Cross-read** — net positive for NVDA, DELL, AVGO, VRT and the broader AI-infra complex; counter-signal to the CRWV / AI-debt stress tape.\n\nNext catalysts: Nov 3 earnings call for full P&L, FY27 outlook, and any customer concentration color.\n\nFull breakdown: [https://stock-tldr.xyz/releases/smci-q1-fy27-prelim-raise-oct-20](https://stock-tldr.xyz/releases/smci-q1-fy27-prelim-raise-oct-20)"
+      },
+      "publishDate": "2026-10-21T02:27:56.538Z"
+    },
     {
       "id": "ge-q3-2026-earnings-oct-20",
       "categories": [

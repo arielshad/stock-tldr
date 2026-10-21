@@ -14466,6 +14466,50 @@
       "coverage": [
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20261021t022756z",
+      "timestamp": "2026-10-21T02:27:56.538Z",
+      "source": "github-actions-sweep",
+      "summary": "Four Oct 20 after-close prints: Netflix beats Q3 but Q4 revenue guide and 2026 ad-revenue cut send NFLX -~5% AH; Intuitive Surgical beats on top & bottom but a $450M antitrust charge pushes ISRG -~7–11% AH; Capital One's first clean post-Discover quarter blows past consensus with adj EPS $6.69 and NIM +40bp, +~5% AH; Super Micro pre-announces a ~27% revenue guide raise and ~160bp gross-margin lift on AI-platform demand, +~12% AH.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nflx-q3-2026-earnings-oct-20",
+          "title": "Netflix (NFLX) Q3 2026 (Tue Oct 20 after close) — revenue $12.87B (+12% Y/Y) matches ~$12.87B est, diluted EPS $0.87 beats ~$0.82 guide/est; Q4 revenue guide $13.44B undershoots ~$13.51B consensus, 2026 ad-revenue guide CUT to ~$2.7B from ~$3B, FY26 FCF guide trimmed to ~$12.0B from ~$12.5B; NFLX -~5% AH",
+          "category": "earnings",
+          "note": "Mega-cap streaming Q3 print after Tue Oct 20 close — EPS beat but Q4 revenue, 2026 ad, and FY FCF guides all cut; ~5% AH move."
+        },
+        {
+          "id": "isrg-q3-2026-earnings-oct-20",
+          "title": "Intuitive Surgical (ISRG) Q3 2026 (Tue Oct 20 after close) — revenue $3.05B (+22% Y/Y) tops ~$2.91B est, adj EPS $3.00 (+25% Y/Y) beats ~$2.65 est; GAAP EPS $1.49 vs $1.95 Y/Y on a $450M pre-tax antitrust settlement charge ($0.99/sh); 546 da Vinci placements vs 427 Y/Y; ISRG -~7% to -~11% AH",
+          "category": "earnings",
+          "note": "Mega-cap medtech Q3 beat on revenue and non-GAAP EPS; $450M antitrust charge dragged GAAP EPS and stock -7% to -11% AH."
+        },
+        {
+          "id": "cof-q3-2026-earnings-oct-20",
+          "title": "Capital One (COF) Q3 2026 (Tue Oct 20 after close) — net income $3.5B, GAAP diluted EPS $5.61 and adj diluted EPS $6.69 (beats ~$5.50 consensus by ~$1.19); net revenue $16.3B (+3% Q/Q); NIM 8.41% (+40bp Q/Q); period-end loans $462.5B, deposits $480.7B; CET1 13.8%; Discover integration cost $338M pre-tax; COF +~5% AH",
+          "category": "earnings",
+          "note": "First full post-Discover quarter — adj EPS $6.69 vs ~$5.50 est is a $1.19 beat with margin and credit tailwinds; +~5% AH."
+        },
+        {
+          "id": "smci-q1-fy27-prelim-raise-oct-20",
+          "title": "Super Micro Computer (SMCI) preliminary Q1 FY27 (Tue Oct 20 after close) — raises Q1 revenue guide to $18.5–$19.5B from $14.5–$15.5B (+~27% midpoint vs prior) and GM guide to 12.0%–12.5% from 10.4%–10.8% on 'increased demand for AI platforms'; SMCI +~12% AH",
+          "category": "mover",
+          "note": "Preliminary Q1 FY27 guide raise of ~27% on revenue and ~160bp on gross margin on AI-platform demand; +~12% AH; direct AI-capex read."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "ai-infra"
+      ]
     }
   ]
 }
