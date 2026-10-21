@@ -1,8 +1,238 @@
 {
-  "generatedAt": "2026-10-21T02:27:56.538Z",
+  "generatedAt": "2026-10-21T16:20:10.531Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "t-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AT&T (T) Q3 2026 (Wed Oct 21 premarket) — revenue $32.3B (+5.3% Y/Y) tops ~$31.7B est, adj EPS $0.65 (+20% Y/Y) beats ~$0.62 est; GAAP continuing-ops EPS crashes to $0.13 on $2.6B non-cash impairment for held-for-sale Mexico wireless; FCF $5.0B; record 769K Advanced Connectivity internet net adds (442K fiber + 327K FWA), 379K postpaid phone net adds; FY26 adj EPS guide RAISED to ~$2.40 range, FCF $18B+, buybacks ~$10B; T -~6.4% intraday to ~$21.92",
+      "org": "AT&T",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-3q2026exhibit991.htm",
+      "summary": "AT&T Q3 beats on adj EPS $0.65 and $32.3B revenue, raises FY26 adj EPS to ~$2.40 and FCF to $18B+; GAAP EPS cratered by $2.6B Mexico impairment, stock -6.4% intraday despite record 769K broadband net adds.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "q3-2026",
+        "telecom",
+        "fiber",
+        "fwa",
+        "postpaid-phone",
+        "advanced-connectivity",
+        "mexico-impairment",
+        "buybacks"
+      ],
+      "importance": "major",
+      "tickers": [
+        "T",
+        "VZ",
+        "TMUS"
+      ],
+      "metrics": {
+        "Revenue": "$32.3B (+5.3% Y/Y)",
+        "Adj EPS": "$0.65 vs ~$0.62 est (+20% Y/Y)",
+        "GAAP EPS (cont ops)": "$0.13 (incl. $2.6B Mexico impairment)",
+        "Free cash flow": "$5.0B",
+        "Fiber net adds": "442K",
+        "Fixed wireless net adds": "327K",
+        "Postpaid phone net adds": "379K",
+        "FY26 adj EPS guide": "~$2.40 range (raised)",
+        "FY26 FCF guide": "$18B+",
+        "Move": "-~6.4% to $21.92"
+      },
+      "explainer": {
+        "tagline": "AT&T beats on top and bottom line and raises FY26 EPS, but a $2.6B Mexico impairment and heavy capex plan sink the stock ~6%.",
+        "whatIsIt": "AT&T reported Q3 2026 results before the open on Wednesday Oct 21. Revenue grew 5.3% to $32.3B, the best consolidated service-revenue growth in more than four years, and adjusted EPS of $0.65 beat consensus around $0.62. GAAP continuing-operations EPS fell to $0.13 because the company took a $2.6B non-cash impairment on its held-for-sale Mexico wireless business.",
+        "howItWorks": "Wireless service revenue grew 5.0%, equipment revenue +12.2%, and Advanced Connectivity service revenue +6.1%. AT&T delivered a record 769K Advanced Connectivity internet net adds — 442K fiber plus 327K fixed wireless — plus 379K postpaid phone net adds. Free cash flow was $5.0B. Management raised FY26 adjusted EPS guidance to the ~$2.40 range, pushed Advanced Connectivity service revenue to +5%+ with EBITDA +6%+, kept the $1.11 annualized dividend, projected ~$10B of share repurchases in 2026 inside a $24B+ plan, and raised capital investment to $23–$24B.",
+        "whyItMatters": "The headline beat and raise is overshadowed by the Mexico impairment hitting GAAP EPS and by the higher capex envelope needed to hit the 60M+ fiber-locations-by-2030 target. Shares fell about 6.4% intraday to $21.92 from a $23.42 prior close, dragging telecom peers VZ and TMUS as investors reassess AT&T's cash return pace against its ongoing network build.",
+        "forWho": "Telecom equity holders, dividend investors, credit desks tracking telco capex and buybacks.",
+        "tryIt": "https://about.att.com/story/2026/q3-earnings-reminder.html"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AT%26THQDallas.jpg/960px-AT%26THQDallas.jpg",
+        "alt": "AT&T corporate headquarters tower in downtown Dallas",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-3q2026exhibit991.htm"
+        },
+        {
+          "label": "SEC 8-K Cover",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-20261021.htm"
+        },
+        {
+          "label": "SEC EDGAR Filings (T)",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000732717&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "label": "T Price Page",
+          "url": "https://finance.yahoo.com/quote/T"
+        }
+      ],
+      "reddit": {
+        "title": "AT&T Q3 beats and raises FY26 EPS — but T -6% intraday as $2.6B Mexico impairment and bigger capex plan spook investors",
+        "body": "AT&T reported Q3 2026 before the open Wed Oct 21. On paper it is a beat-and-raise, but the stock is down about 6% intraday to roughly $21.92.\n\n* Revenue $32.3B, up 5.3% Y/Y and ahead of the ~$31.7B consensus\n* Adjusted EPS $0.65 vs ~$0.62 est, up 20% Y/Y\n* GAAP continuing-ops EPS only $0.13 — hit by a $2.6B non-cash impairment on held-for-sale Mexico wireless\n* Record 769K Advanced Connectivity internet net adds (442K fiber + 327K FWA); 379K postpaid phone net adds\n* Free cash flow $5.0B\n* FY26 adjusted EPS guide raised to ~$2.40 range; FCF $18B+; ~$10B of 2026 buybacks inside a $24B+ plan\n* Capital investment lifted to $23–$24B as it pushes toward 60M+ fiber locations by 2030\n\nWhy the stock is red despite the beat:\n\n1. **Mexico impairment** — $2.6B non-cash charge crushes GAAP optics even though it is excluded from adjusted EPS.\n2. **Capex envelope** — higher 2026 capex to fund the fiber build weighs against the cash return pace investors wanted.\n3. **Sector sympathy** — VZ and TMUS down in sympathy on the heavier spend read-through.\n\nFull breakdown: [https://stock-tldr.xyz/releases/t-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/t-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-21T16:20:10.531Z"
+    },
+    {
+      "id": "pm-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Philip Morris International (PM) Q3 2026 (Wed Oct 21 premarket) — reported net revenues $11.4B (+5.5% Y/Y), organic +7.1%; reported diluted EPS $2.12 (-4.9% Y/Y) on non-cash equity-security fair-value hit, adjusted diluted EPS $2.36 (+5.4% Y/Y; +5.8% ex-FX); smoke-free >40% of Q3 revenue; IQOS HTU shipments 41.5B (+1.5%); US ZYN shipments 3.2B pouches (+4.2%); FY26 adj EPS guide tightened to $8.29–$8.44 (+9.9%–11.9%); PM -~1.6% intraday to ~$196.73",
+      "org": "Philip Morris International",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001413329/000162828026066596/earningsreleasepm-ex991xq3.htm",
+      "summary": "PM Q3 adj EPS $2.36 (+5.4% Y/Y, +5.8% ex-FX) and organic net revenue +7.1%; smoke-free crosses 40% of revenue with IQOS HTUs +1.5% and US ZYN pouches +4.2%; FY26 adj EPS guide tightened to $8.29–$8.44; PM -1.6% intraday.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-update",
+        "q3-2026",
+        "smoke-free",
+        "iqos",
+        "zyn",
+        "nicotine",
+        "consumer-staples",
+        "tobacco"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PM",
+        "MO",
+        "BTI"
+      ],
+      "metrics": {
+        "Reported net revenues": "$11.4B (+5.5% Y/Y)",
+        "Organic net revenue growth": "+7.1%",
+        "Reported diluted EPS": "$2.12 (-4.9% Y/Y)",
+        "Adj diluted EPS": "$2.36 (+5.4% Y/Y; +5.8% ex-FX)",
+        "Smoke-free share of Q3 revenue": ">40%",
+        "IQOS HTU shipments": "41.5B units (+1.5%)",
+        "US ZYN shipments": "3.2B pouches (+4.2%)",
+        "FY26 adj EPS guide": "$8.29–$8.44 (+9.9%–11.9%)",
+        "Move": "-~1.6% to $196.73"
+      },
+      "explainer": {
+        "tagline": "PM's smoke-free portfolio crosses 40% of revenue as organic net revenue grows 7.1% and the company tightens FY26 adjusted EPS guidance to $8.29–$8.44.",
+        "whatIsIt": "Philip Morris International reported Q3 2026 results before the open on Wednesday Oct 21. Reported net revenues of $11.4B were up 5.5% Y/Y and organic net revenue grew 7.1%. Reported diluted EPS fell 4.9% to $2.12 on a non-cash fair-value adjustment on equity security investments, while adjusted diluted EPS rose 5.4% to $2.36 (+5.8% ex-FX).",
+        "howItWorks": "Smoke-free products made up more than 40% of Q3 revenue and about 42% year-to-date. IQOS heated-tobacco-unit shipments reached 41.5B units (+1.5% Y/Y, +6.7% YTD at 124.5B), with HTU adjusted in-market sales +7.1%. US ZYN pouch shipments grew 4.2% to 3.2B, and international modern-oral volumes grew 20.6%. Guidance for FY26 was updated for currency: reported diluted EPS $7.11–$7.26 and adjusted diluted EPS $8.29–$8.44 (+9.9%–11.9% vs $7.54 in 2025), with adjusted EPS excluding currency of $8.11–$8.26 (+7.5%–9.5%).",
+        "whyItMatters": "PM is the global bellwether for the shift from combustible cigarettes to IQOS and ZYN. The 40%+ smoke-free share and continued ZYN growth confirm the heated-tobacco and nicotine-pouch trade even as management flags geopolitical cost pressures and higher US growth investments pulling operating-income growth toward the lower end of the 7–9% range. PM slipped about 1.6% intraday to $196.73 as investors weighed the operating-margin commentary against the beat.",
+        "forWho": "Consumer staples investors, dividend portfolios, tobacco-sector tracking desks.",
+        "tryIt": "https://www.pmi.com/investor-relations/overview"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PM_Lausanne.jpg/1280px-PM_Lausanne.jpg",
+        "alt": "Philip Morris International operations center in Lausanne, Switzerland",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001413329/000162828026066596/earningsreleasepm-ex991xq3.htm"
+        },
+        {
+          "label": "PMI Investor Relations",
+          "url": "https://www.pmi.com/investor-relations/overview"
+        },
+        {
+          "label": "PM Price Page",
+          "url": "https://finance.yahoo.com/quote/PM"
+        }
+      ],
+      "reddit": {
+        "title": "Philip Morris Q3: smoke-free >40% of revenue, ZYN +4.2%, adj EPS $2.36 — PM -1.6% intraday despite beat",
+        "body": "Philip Morris International reported Q3 2026 before the open Wed Oct 21. Smoke-free crossed 40% of revenue and organic growth stayed firmly in the mid-single digits.\n\n* Reported net revenues $11.4B, up 5.5% Y/Y; organic +7.1%\n* Reported diluted EPS $2.12, down 4.9% Y/Y on a non-cash fair-value hit\n* Adjusted diluted EPS $2.36, up 5.4% Y/Y (+5.8% ex-FX)\n* IQOS heated-tobacco-unit shipments 41.5B (+1.5% Y/Y)\n* US ZYN pouch shipments 3.2B (+4.2% Y/Y); international modern-oral volumes +20.6%\n* FY26 adjusted EPS guide tightened to $8.29–$8.44 (+9.9%–11.9% vs $7.54 in 2025)\n* FY26 adj EPS ex-currency $8.11–$8.26 (+7.5%–9.5%)\n\nWhy it is not a cleaner tape:\n\n1. **Operating income messaging** — PM flagged a greater likelihood of landing in the lower half of its 7–9% organic operating income growth range on geopolitical cost pressures and higher US growth investment.\n2. **GAAP optics** — the $2.12 reported EPS print is lower Y/Y even though adjusted EPS is up and the business is accelerating.\n3. **Expectations setup** — PM has been a staples-sector winner into the print, so a routine beat with cautious margin language got taken as a trimming cue; shares -1.6% intraday to ~$196.73.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pm-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/pm-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-21T16:20:10.531Z"
+    },
+    {
+      "id": "dhr-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Danaher (DHR) Q3 2026 (Wed Oct 21 premarket) — revenue $6.6B (+8.5% Y/Y); GAAP diluted EPS $1.71 (+34.5% Y/Y), adj EPS $2.11 (+11.5% Y/Y); core revenue growth 3.0% / 5.5% ex-respiratory; Diagnostics total sales +17.0%; FY26 adj EPS guide RAISED to $8.57–$8.62 (from $8.45–$8.60); operating cash flow $1.9B; FCF $1.6B; DHR +~3.7% intraday to ~$232.50",
+      "org": "Danaher",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm",
+      "summary": "Danaher Q3 revenue $6.6B (+8.5%) and adj EPS $2.11 (+11.5%); core growth 3.0% / 5.5% ex-respiratory with Diagnostics total sales +17%; FY26 adj EPS guide raised to $8.57–$8.62; DHR +3.7% intraday on the beat and raise.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "q3-2026",
+        "life-sciences",
+        "biotech-tools",
+        "diagnostics",
+        "healthcare"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DHR",
+        "TMO",
+        "A"
+      ],
+      "metrics": {
+        "Revenue": "$6.6B (+8.5% Y/Y)",
+        "GAAP diluted EPS": "$1.71 (+34.5% Y/Y)",
+        "Adj diluted EPS": "$2.11 (+11.5% Y/Y)",
+        "Core revenue growth": "+3.0% (ex-respiratory +5.5%)",
+        "Diagnostics total sales": "+17.0% Y/Y",
+        "Operating cash flow": "$1.9B",
+        "Free cash flow": "$1.6B",
+        "FY26 adj EPS guide": "$8.57–$8.62 (raised from $8.45–$8.60)",
+        "Move": "+~3.7% to $232.50"
+      },
+      "explainer": {
+        "tagline": "Danaher beats Q3 estimates with revenue $6.6B, adj EPS $2.11 and 5.5% core growth ex-respiratory, and raises FY26 EPS guidance to $8.57–$8.62.",
+        "whatIsIt": "Danaher reported Q3 2026 results on Wednesday Oct 21 for the quarter ended Sept 25. Revenue rose 8.5% Y/Y to $6.6B, GAAP diluted EPS was $1.71 (+34.5%) and adjusted diluted EPS reached $2.11 (+11.5%). Core revenue grew 3.0% — at the top of guidance — and core ex-respiratory grew 5.5%, with respiratory a 2.5pp headwind to the headline core number.",
+        "howItWorks": "Segment total-sales growth: Biotechnology +0.5% (core +5.0%), Life Sciences +4.0% (core +4.5%), Diagnostics +17.0% (core +0.5%, +7.0% ex-respiratory). Acquisitions added 6.5pp to reported sales. Operating cash flow was $1.9B and non-GAAP free cash flow $1.6B. Management raised FY26 adjusted diluted EPS guidance to $8.57–$8.62 (from $8.45–$8.60) and now expects FY26 core revenue growth of ~2.5% with core ex-respiratory in the mid-single digits. Q4 guidance calls for ~3.0% core growth and ~29.5% adjusted operating margin.",
+        "whyItMatters": "Danaher is a bellwether for the life-sciences and bioprocessing cycle. The top-of-guide core print, double-digit adjusted EPS growth, and raised FY26 EPS confirm the biotech-tools recovery read-through for peers Thermo Fisher (TMO) and Agilent (A). Shares rose about 3.7% intraday to $232.50 from a $224.24 prior close.",
+        "forWho": "Healthcare specialists, life-sciences tools investors, bioprocessing supply-chain watchers.",
+        "tryIt": "https://investors.danaher.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Danaher_logo_since_2023.svg/1280px-Danaher_logo_since_2023.svg.png",
+        "alt": "Danaher Corporation corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia / Danaher"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm"
+        },
+        {
+          "label": "SEC 8-K Cover",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021.htm"
+        },
+        {
+          "label": "Danaher Investor Relations",
+          "url": "https://investors.danaher.com/"
+        },
+        {
+          "label": "DHR Price Page",
+          "url": "https://finance.yahoo.com/quote/DHR"
+        }
+      ],
+      "reddit": {
+        "title": "Danaher Q3 beats and raises FY26 EPS — biotech-tools recovery is on; DHR +3.7% intraday",
+        "body": "Danaher reported Q3 2026 on Wed Oct 21 and the biotech-tools recovery looks real. Core growth landed at the top of guidance and FY26 EPS was raised.\n\n* Revenue $6.6B, up 8.5% Y/Y\n* GAAP diluted EPS $1.71, up 34.5% Y/Y\n* Adjusted diluted EPS $2.11, up 11.5% Y/Y\n* Core revenue growth 3.0% (top of 2–3% guide); 5.5% ex-respiratory\n* Diagnostics total sales +17.0% Y/Y; core +0.5% / +7.0% ex-respiratory\n* Operating cash flow $1.9B; free cash flow $1.6B\n* FY26 adjusted EPS guide RAISED to $8.57–$8.62 (from $8.45–$8.60)\n\nWhy it matters:\n\n1. **Core ex-respiratory +5.5%** — confirms the bioprocessing / life-sciences-tools recovery narrative that peers TMO and A are tied to.\n2. **Biotechnology core +5%** — the segment most levered to pharma spend is accelerating.\n3. **Q4 setup** — guidance implies ~3% core and ~29.5% adjusted op margin, giving the FY26 EPS raise room to hold.\n\nDHR traded up about 3.7% intraday to ~$232.50.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dhr-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/dhr-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-21T16:20:10.531Z"
+    },
     {
       "id": "nflx-q3-2026-earnings-oct-20",
       "categories": [

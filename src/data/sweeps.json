@@ -14510,6 +14510,44 @@
         "mover",
         "ai-infra"
       ]
+    },
+    {
+      "id": "sweep-20261021t162010z",
+      "timestamp": "2026-10-21T16:20:10.531Z",
+      "source": "github-actions-sweep",
+      "summary": "Scanned Wednesday Oct 21 2026 premarket earnings and macro. Added three Q3 2026 earnings prints with primary SEC 8-K sources: AT&T (T) beat-and-raise obscured by a $2.6B Mexico impairment with the stock -6.4% intraday; Philip Morris (PM) with smoke-free crossing 40% of revenue and FY26 adj EPS guide tightened; and Danaher (DHR) with a top-of-guide core print and FY26 adj EPS guide raised to $8.57–$8.62.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "t-q3-2026-earnings-oct-21",
+          "title": "AT&T (T) Q3 2026 (Wed Oct 21 premarket) — revenue $32.3B (+5.3% Y/Y) tops ~$31.7B est, adj EPS $0.65 (+20% Y/Y) beats ~$0.62 est; GAAP continuing-ops EPS crashes to $0.13 on $2.6B non-cash impairment for held-for-sale Mexico wireless; FCF $5.0B; record 769K Advanced Connectivity internet net adds (442K fiber + 327K FWA), 379K postpaid phone net adds; FY26 adj EPS guide RAISED to ~$2.40 range, FCF $18B+, buybacks ~$10B; T -~6.4% intraday to ~$21.92",
+          "category": "earnings",
+          "note": "Mega-cap telco beat-and-raise with a $2.6B Mexico impairment and a -6% intraday stock move — primary-source 8-K confirmed."
+        },
+        {
+          "id": "pm-q3-2026-earnings-oct-21",
+          "title": "Philip Morris International (PM) Q3 2026 (Wed Oct 21 premarket) — reported net revenues $11.4B (+5.5% Y/Y), organic +7.1%; reported diluted EPS $2.12 (-4.9% Y/Y) on non-cash equity-security fair-value hit, adjusted diluted EPS $2.36 (+5.4% Y/Y; +5.8% ex-FX); smoke-free >40% of Q3 revenue; IQOS HTU shipments 41.5B (+1.5%); US ZYN shipments 3.2B pouches (+4.2%); FY26 adj EPS guide tightened to $8.29–$8.44 (+9.9%–11.9%); PM -~1.6% intraday to ~$196.73",
+          "category": "earnings",
+          "note": "Mega-cap consumer staples: smoke-free >40% of revenue, ZYN +4.2% US shipments, FY26 adj EPS guide tightened — primary-source 8-K confirmed."
+        },
+        {
+          "id": "dhr-q3-2026-earnings-oct-21",
+          "title": "Danaher (DHR) Q3 2026 (Wed Oct 21 premarket) — revenue $6.6B (+8.5% Y/Y); GAAP diluted EPS $1.71 (+34.5% Y/Y), adj EPS $2.11 (+11.5% Y/Y); core revenue growth 3.0% / 5.5% ex-respiratory; Diagnostics total sales +17.0%; FY26 adj EPS guide RAISED to $8.57–$8.62 (from $8.45–$8.60); operating cash flow $1.9B; FCF $1.6B; DHR +~3.7% intraday to ~$232.50",
+          "category": "earnings",
+          "note": "Life-sciences bellwether beat-and-raise with core ex-respiratory +5.5% and FY26 adj EPS guide raised — primary-source 8-K confirmed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }
