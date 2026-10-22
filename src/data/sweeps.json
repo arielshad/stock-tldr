@@ -14598,6 +14598,67 @@
         "mover",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261022t162012z",
+      "timestamp": "2026-10-22T16:20:12.205Z",
+      "source": "github-actions-sweep",
+      "summary": "Thursday Oct 22 earnings sweep: 7 major Q3 2026 (/ Q1 FY27 for PG) prints — Lockheed Martin (defense, record backlog + guide raise), Honeywell (industrials, 7% organic + guide raise), Valero (refining op income $8.8B, crack-spread blowout), Union Pacific (rails, buybacks slashed on NSC merger), Blackstone (alts, $1.37T AUM, $63B inflows), Spotify (streaming, 306M subs + 33% GM), Procter & Gamble (staples, 2.4pp volume growth). All sourced to SEC 8-K/6-K filings.",
+      "counts": {
+        "added": 7,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lmt-q3-2026-earnings-oct-22",
+          "title": "Lockheed Martin (LMT) Q3 2026 (Thu Oct 22 premarket) — GAAP diluted EPS $7.97 (+15% Y/Y) tops ~$7.43 Street est, sales $20.7B (+11% Y/Y) beat; business segment op profit $2.23B (+10%); backlog RECORD $292.0B (incl. $52.5B PAC-3 MSE award); Q3 FCF $3.0B; FY26 guide RAISED again — diluted EPS $30.35–$30.75 (prev $29.95–$30.65), sales $80.0–$82.0B, FCF $7.8–$8.0B (prev $7.0–$7.2B); 43 F-35 deliveries vs 46 Y/Y",
+          "category": "earnings",
+          "note": "Added under earnings."
+        },
+        {
+          "id": "hon-q3-2026-earnings-oct-22",
+          "title": "Honeywell (HON) Q3 2026 (Thu Oct 22 premarket) — adj EPS $2.27 (+34% Y/Y) tops ~$2.17 est; revenue $4.99B (+1% rpt / +7% organic); segment profit $1,062M (+23%), segment margin 21.3% (+370bp); Q3 FCF $688M (+15%, 95% conversion); FY26 adj EPS guide RAISED to $8.40–$8.45 (from $8.05–$8.35); sales guide to $20.0–$20.1B; FY organic growth bumped to 4%–5% (from 3%–4%)",
+          "category": "earnings",
+          "note": "Added under earnings."
+        },
+        {
+          "id": "vlo-q3-2026-earnings-oct-22",
+          "title": "Valero Energy (VLO) Q3 2026 (Thu Oct 22 premarket) — revenue $46.1B, GAAP diluted EPS $23.89 (adj $23.90), net income $6.83B; refining segment op income EXPLODES to $8.78B (+447% Y/Y from $1.6B); throughput 2.97M bpd; renewable diesel DGD JV op income $353M (vs loss Y/Y); ethanol op income $272M (+49%); cash from ops $6.93B; dividend $1.20/sh; 52% payout ratio of adj CFO",
+          "category": "earnings",
+          "note": "Added under earnings."
+        },
+        {
+          "id": "unp-q3-2026-earnings-oct-22",
+          "title": "Union Pacific (UNP) Q3 2026 (Thu Oct 22 premarket) — GAAP diluted EPS $3.49 (+16% Y/Y) tops ~$3.47 est, adj EPS $3.53 (+15%); operating revenue $7.20B (+15% Y/Y) beats ~$7.14B est; freight revenue $6.81B (+15%); revenue carloads 2.293M (+6%); operating ratio 59.1% (vs 59.2% Y/Y); net income $2.08B (+16%); YTD buybacks only $26M vs $2.68B Y/Y (preserving cash for Norfolk Southern merger)",
+          "category": "earnings",
+          "note": "Added under earnings."
+        },
+        {
+          "id": "bx-q3-2026-earnings-oct-22",
+          "title": "Blackstone (BX) Q3 2026 (Thu Oct 22 premarket) — total AUM $1,368.3B; fee-earning AUM $989.7B; perpetual-capital AUM $562.3B; Q3 inflows $63.3B (LTM $271.6B); dry powder $228.9B; GAAP diluted EPS $0.83; distributable EPS $1.32; quarterly dividend $1.12/sh (record Nov 2, pay Nov 9); Schwarzman cites 'leading platforms' addressing key global investment themes",
+          "category": "earnings",
+          "note": "Added under earnings."
+        },
+        {
+          "id": "spot-q3-2026-earnings-oct-22",
+          "title": "Spotify (SPOT) Q3 2026 (Thu Oct 22 premarket) — Premium Subscribers 306M (+9% Y/Y) tops ~305M guide; MAUs 788M (+11% Y/Y) in line with guide; Total Revenue €4,969M (+16% Y/Y); Operating Income €672M (13.5% op margin, in line with guide); Gross Margin 33.0% (+136bp Y/Y); Q3 FCF €735M; Q4 Premium subs guide 316M (implying ~10M net adds)",
+          "category": "earnings",
+          "note": "Added under earnings."
+        },
+        {
+          "id": "pg-q1-fy27-earnings-oct-22",
+          "title": "Procter & Gamble (PG) Q1 FY27 (Thu Oct 22 premarket) — net sales $23.3B (+4% Y/Y), organic sales +4%; diluted EPS $1.97 (+1%), core EPS $2.00 (+1%) tops ~$1.88 est; currency-neutral core EPS flat Y/Y; all 10 product categories AND all 6 regions grew organic sales; organic growth composition: volume +2.4pp, mix +1.1pp, pricing +0.4pp; FY27 organic sales / EPS / cash-return guidance held; sales guide updated for Thorne acquisition",
+          "category": "earnings",
+          "note": "Added under earnings."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "commodity"
+      ]
     }
   ]
 }
