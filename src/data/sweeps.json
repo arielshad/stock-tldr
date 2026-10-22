@@ -14548,6 +14548,56 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20261022t022304z",
+      "timestamp": "2026-10-22T02:23:04.470Z",
+      "source": "github-actions-sweep",
+      "summary": "Captured the Oct 21 after-close earnings deluge: Meta Q3 (mega-cap, $9.89B teen-safety AG charge + big Q4 guide, seismic), Tesla Q3 (op margin crashes 322bp on AI/robotics capex ramp), IBM Q3 (software accel, FCF raise), Lam Research Q1 FY27 (record revenue + margins, but AH -6% on narrow beat), and Texas Instruments Q3 (clean analog cycle beat, Analog +32% Y/Y).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "meta-q3-2026-earnings-oct-21",
+          "title": "Meta Platforms (META) Q3 2026 (Wed Oct 21 after close) — revenue $64.60B (+26% Y/Y) crushes ~$61.3B est, Q4 revenue guide $73.0–$76.0B tops ~$70B consensus; GAAP diluted EPS $3.83 depressed by $9.89B pre-tax charge for a 52-state AG teen-safety settlement (up to ~$18.59B total); ex-charge op income $22.88B and EPS $7.40; Reality Labs loss $4.13B on $443M revenue; FY26 capex guide narrowed to $135–$145B (from $130–$145B)",
+          "category": "earnings",
+          "note": "Mega-cap Q3 — Meta explicitly listed as a seismic example in the prompt; revenue +26% Y/Y, Q4 guide tops Street, $9.89B legal charge is a one-time step in a multi-year AG settlement liability of ~$18.59B."
+        },
+        {
+          "id": "tsla-q3-2026-earnings-oct-21",
+          "title": "Tesla (TSLA) Q3 2026 (Wed Oct 21 after close) — revenue $28.05B tops $28.04B est, non-GAAP EPS $0.48 beats ~$0.45 est; operating income collapses 56% Y/Y to $718M, op margin crashes to 2.6% (from 5.8% Y/Y); GAAP net income $787M (-43%), diluted EPS $0.22; auto gross margin 18.5%; capex $4.73B (+111% Y/Y); cash + investments $45.4B; TSLA -~2.9% AH to ~$375.19",
+          "category": "earnings",
+          "note": "Mega-cap Q3 — rev + EPS beats but op margin crashed 322bp to 2.6% as AI / Dojo / Optimus capex more than doubles; -~2.9% AH."
+        },
+        {
+          "id": "ibm-q3-2026-earnings-oct-21",
+          "title": "IBM (IBM) Q3 2026 (Wed Oct 21 after close) — revenue $17.10B (+5% Y/Y, +6% cc) tops ~$16.82B est, operating diluted EPS $2.95 (+11% Y/Y) beats ~$2.86 est; Software $7.80B (+8%), Red Hat +11%, Data +19%, Transaction Processing +9%; Infrastructure $3.71B (+4%) led by Distributed Infra +31%, IBM Z -20%; Consulting $5.33B flat; Q3 FCF $3.03B, YTD $7.79B; FY26 FCF guide RAISED to '>$1B Y/Y increase'; cc revenue guide held at 4–5%",
+          "category": "earnings",
+          "note": "Q3 beat on both lines, Red Hat +11%, Data +19%, FCF outlook raised; cc revenue growth range held — AH direction split across sources."
+        },
+        {
+          "id": "lrcx-q1-fy27-earnings-oct-21",
+          "title": "Lam Research (LRCX) Q1 FY27 (Wed Oct 21 after close) — revenue $8.22B (+22% Q/Q, +~54% Y/Y) tops ~$8.13B est, non-GAAP diluted EPS $2.20 beats ~$2.18 est; GAAP EPS $2.19; non-GAAP operating margin record 40.2%, GM 52.4%; Systems $5.73B, CSBG $2.49B; China 35% of revenue; Q2 FY27 guide revenue $8.60B ± $400M, non-GAAP EPS $2.33 ± $0.15, GM 52.5%; LRCX -~6.1% AH to ~$245",
+          "category": "earnings",
+          "note": "Record revenue + record 40.2% op margin, but narrow EPS beat and wide Dec guide after a 50%+ YTD run → -~6.1% AH to ~$245."
+        },
+        {
+          "id": "txn-q3-2026-earnings-oct-21",
+          "title": "Texas Instruments (TXN) Q3 2026 (Wed Oct 21 after close) — revenue $6.055B (+28% Y/Y) tops ~$5.92B est, GAAP diluted EPS $2.62 (+77% Y/Y) beats ~$2.42 est; Analog $4.91B (+32% Y/Y), Embedded Processing $858M (+21%), Other $286M (-6%); operating profit $2.87B (+73%), op margin 47.5%; Q3 FCF $2.96B, TTM FCF $8.42B (40.6% of revenue); Q4 2026 guide revenue $5.80–$6.30B, EPS $2.45–$2.79",
+          "category": "earnings",
+          "note": "Clean analog-cycle beat: Analog revenue +32% Y/Y, EPS +77% Y/Y, op margin 47.5%, TTM FCF 40.6% of revenue; bullish read-through for ADI/MCHP/NXPI/ON."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory"
+      ]
     }
   ]
 }

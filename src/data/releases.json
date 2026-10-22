@@ -1,8 +1,410 @@
 {
-  "generatedAt": "2026-10-21T16:20:10.531Z",
+  "generatedAt": "2026-10-22T02:23:04.470Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "meta-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings",
+        "mover",
+        "regulatory"
+      ],
+      "title": "Meta Platforms (META) Q3 2026 (Wed Oct 21 after close) — revenue $64.60B (+26% Y/Y) crushes ~$61.3B est, Q4 revenue guide $73.0–$76.0B tops ~$70B consensus; GAAP diluted EPS $3.83 depressed by $9.89B pre-tax charge for a 52-state AG teen-safety settlement (up to ~$18.59B total); ex-charge op income $22.88B and EPS $7.40; Reality Labs loss $4.13B on $443M revenue; FY26 capex guide narrowed to $135–$145B (from $130–$145B)",
+      "org": "Meta Platforms",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+      "summary": "Meta Q3: revenue $64.60B (+26% Y/Y) tops ~$61.3B est, Q4 revenue guide $73.0–$76.0B above Street; GAAP EPS $3.83 after $9.89B teen-safety AG charge; ex-charge EPS $7.40, op income $22.88B; FY26 capex narrowed to $135–$145B.",
+      "tickers": [
+        "META",
+        "GOOGL",
+        "SNAP",
+        "PINS"
+      ],
+      "importance": "seismic",
+      "tags": [
+        "earnings",
+        "ad-revenue",
+        "ai-capex",
+        "reality-labs",
+        "q3-2026",
+        "capex-guide",
+        "teen-safety-settlement",
+        "regulatory",
+        "zuckerberg",
+        "mega-cap"
+      ],
+      "metrics": {
+        "Revenue": "$64.60B (+26% Y/Y) vs ~$61.3B est",
+        "GAAP EPS": "$3.83 (incl. $9.89B legal charge)",
+        "Ex-charge EPS": "$7.40",
+        "Op income": "$12.99B (ex-charge $22.88B)",
+        "Op margin": "20% (ex-charge 35.4%)",
+        "Family of Apps revenue": "$64.16B",
+        "Reality Labs revenue": "$443M",
+        "Reality Labs op loss": "$(4.13)B",
+        "DAP": "3.64B (+3% Y/Y)",
+        "Q3 capex": "$34.91B",
+        "FY26 capex guide": "$135–$145B (narrowed)",
+        "Q4 revenue guide": "$73.0–$76.0B"
+      },
+      "explainer": {
+        "tagline": "Meta prints a $64.6B topline beat but takes a $9.89B teen-safety charge; Q4 guide blows past Street while capex guide narrows up.",
+        "whatIsIt": "Meta Platforms reported Q3 2026 financial results after the close on Wednesday October 21. Revenue of $64.60B grew 26% Y/Y and beat Street at ~$61.3B. GAAP diluted EPS came in at $3.83, dragged down by a $9.89B pre-tax charge recorded in G&A for a settlement reached in August with 52 U.S. state attorneys general over teen mental-health litigation.",
+        "howItWorks": "Operating income was $12.99B at a 20% margin; excluding the $9.89B charge, op income would have been $22.88B and diluted EPS $7.40. Family of Apps revenue was $64.16B. Reality Labs posted a $4.13B operating loss on just $443M of revenue. Daily Active People averaged 3.64B in September (+3% Y/Y). Q3 capex, including principal payments on finance leases, was $34.91B. Guidance: Q4 revenue of $73.0–$76.0B (vs ~$70B consensus), and FY26 capex narrowed to $135–$145B from the prior $130–$145B range. Meta separately disclosed that the full state-AG settlement could total up to approximately $18.59B.",
+        "whyItMatters": "Headline revenue + Q4 guide are a clear accelerant for the AI ad-targeting bull case — top line is reflating despite the Reality Labs drag. The $9.89B charge is a non-cash hit this quarter but the full $18.59B liability (over multiple years) raises the long-run cost of operating teen-facing products at scale. The narrowed, higher capex floor confirms Meta is still spending hard into Iris chips and compute — read-through for NVDA, AVGO, hyperscaler capex names, and GOOGL whose Q3 lands next week.",
+        "forWho": "mega-cap tech, ad-platform, AI-capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/META"
+      },
+      "image": {
+        "url": "https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png",
+        "alt": "Meta Platforms corporate infinity symbol",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm"
+        },
+        {
+          "label": "Meta Q3 2026 Release",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "Yahoo Finance Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-gain-powered-231519176.html"
+        },
+        {
+          "label": "META Chart",
+          "url": "https://finance.yahoo.com/quote/META"
+        }
+      ],
+      "reddit": {
+        "title": "Meta Q3: $64.6B rev (+26% Y/Y) crushes est, Q4 guide $73–76B above Street — but $9.89B teen-safety AG charge drops GAAP EPS to $3.83",
+        "body": "Meta Platforms reported Q3 2026 Wednesday after close. Topline is a monster beat, but a one-time charge takes a bite out of GAAP:\n\n* Revenue **$64.60B (+26% Y/Y)** vs ~$61.3B est\n* GAAP diluted EPS **$3.83** (incl. $9.89B legal charge)\n* Ex-charge diluted EPS would have been **$7.40**\n* Operating income $12.99B at 20% margin — ex-charge $22.88B at ~35.4%\n* Family of Apps revenue $64.16B\n* Reality Labs revenue $443M, operating loss $(4.13)B\n* Daily Active People **3.64B (+3% Y/Y)** in September\n* Q3 capex **$34.9B**\n\nThree things that matter:\n\n1. **Q4 revenue guide $73–$76B** — above the ~$70B Street consensus. AI-targeting ad engine is still accelerating.\n2. **$9.89B pre-tax charge in G&A** for the August settlement with 52 state AGs on teen mental-health litigation. Total liability could reach ~$18.59B across future payments.\n3. **FY26 capex guide narrowed to $135–$145B** (prev $130–$145B) — Meta is still spending hard into Iris chips + compute. Read-through: NVDA, AVGO, hyperscaler capex, GOOGL (reports next week).\n\nNext catalysts: GOOGL + MSFT + AMZN prints Oct 28–30, Powell presser Oct 29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/meta-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-22T02:23:04.470Z"
+    },
+    {
+      "id": "tsla-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Tesla (TSLA) Q3 2026 (Wed Oct 21 after close) — revenue $28.05B tops $28.04B est, non-GAAP EPS $0.48 beats ~$0.45 est; operating income collapses 56% Y/Y to $718M, op margin crashes to 2.6% (from 5.8% Y/Y); GAAP net income $787M (-43%), diluted EPS $0.22; auto gross margin 18.5%; capex $4.73B (+111% Y/Y); cash + investments $45.4B; TSLA -~2.9% AH to ~$375.19",
+      "org": "Tesla",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm",
+      "summary": "Tesla Q3: revenue $28.05B tops $28.04B est, adj EPS $0.48 beats ~$0.45; op income -56% Y/Y to $718M (margin 2.6% vs 5.8%); GAAP EPS $0.22; capex $4.73B (+111% Y/Y); cash + investments $45.4B; TSLA -~2.9% AH to ~$375.19.",
+      "tickers": [
+        "TSLA"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "mover",
+        "op-margin-crash",
+        "capex-ramp",
+        "ai-robotics",
+        "optimus",
+        "robotaxi",
+        "q3-2026"
+      ],
+      "metrics": {
+        "Revenue": "$28.05B vs $28.04B est",
+        "Automotive revenue": "$20.56B",
+        "Energy generation + storage revenue": "$2.88B",
+        "Services + other revenue": "$4.61B",
+        "GAAP diluted EPS": "$0.22",
+        "Non-GAAP diluted EPS": "$0.48 vs ~$0.45 est",
+        "Operating income": "$718M (-56% Y/Y)",
+        "Operating margin": "2.6% (-322bp Y/Y)",
+        "GAAP net income": "$787M (-43% Y/Y)",
+        "Automotive gross margin": "18.5%",
+        "Capex": "$4.73B (+111% Y/Y)",
+        "Cash + investments": "$45.4B",
+        "Deliveries (per Oct 2 release)": "486,532 (record)",
+        "Energy storage deployed": "13.7 GWh",
+        "Move": "-~2.9% AH to ~$375.19"
+      },
+      "explainer": {
+        "tagline": "Tesla's record deliveries convert to only a thin EPS beat; operating profit falls 56% Y/Y as AI/robotics capex more than doubles.",
+        "whatIsIt": "Tesla released Q3 2026 financial results after close Wednesday October 21. Revenue was $28.05B — just above the $28.04B consensus — and non-GAAP diluted EPS of $0.48 beat the ~$0.45 estimate. Underneath the headline beat, the operating business is weaker: operating income fell 56% Y/Y to $718M and the operating margin dropped to 2.6% from 5.8%.",
+        "howItWorks": "Automotive revenue was $20.56B with an 18.5% auto gross margin. Services + other revenue was $4.61B and energy generation + storage revenue was $2.88B. GAAP net income was $787M (-43% Y/Y), GAAP diluted EPS $0.22. Capex more than doubled to $4.73B as Tesla builds out SI training compute (targeting 400 MW by year-end), Austin fab commissioning in 2027, Dojo, Optimus, and robotaxi infrastructure. Cash and investments ended at $45.4B, up $1.9B sequentially. Q3 deliveries (previously disclosed Oct 2) were a record 486,532 and energy storage deployments were 13.7 GWh. Battery availability was called 'the limiting factor' on auto volumes this quarter.",
+        "whyItMatters": "The 322bp op-margin collapse is the story — Tesla is now spending hyperscaler-level capex but still earning like an auto OEM, and this is before Optimus volume or robotaxi revenue scales. Shares fell ~2.9% AH to ~$375.19 as the market priced in Musk's cautious commentary on Optimus timing and robotaxi regulation. Read-through for the broader AI-capex trade: Tesla is now a top-10 capex buyer alongside the hyperscalers — reinforces the 'AI capex floor keeps rising' thesis but tests investor patience for monetization.",
+        "forWho": "mega-cap EV / AI-capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/TSLA"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tesla_T_symbol.svg/1280px-Tesla_T_symbol.svg.png",
+        "alt": "Tesla T corporate symbol",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/"
+        },
+        {
+          "label": "Yahoo Market Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-gain-powered-231519176.html"
+        },
+        {
+          "label": "TSLA Chart",
+          "url": "https://finance.yahoo.com/quote/TSLA"
+        }
+      ],
+      "reddit": {
+        "title": "Tesla Q3: record deliveries, revenue $28.05B meets est, EPS $0.48 beats — but operating profit -56% Y/Y, op margin crashes to 2.6%, capex +111%",
+        "body": "Tesla reported Q3 2026 Wednesday after close. The headline beat the Street. The operating business did not:\n\n* Revenue **$28.05B** vs $28.04B est — only a hair above\n* Adj diluted EPS **$0.48** beats ~$0.45 est\n* GAAP net income **$787M (-43% Y/Y)**, GAAP EPS $0.22\n* **Operating income $718M (-56% Y/Y)**\n* **Operating margin 2.6%** vs 5.8% Y/Y — 322bp collapse\n* Automotive gross margin 18.5%, auto revenue $20.56B\n* Energy revenue $2.88B, services + other $4.61B\n* **Capex $4.73B (+111% Y/Y)** — AI compute, robotaxi, Optimus\n* Cash + investments $45.4B\n* Record 486,532 deliveries, 13.7 GWh energy storage\n\nWhy the market blinked:\n\n1. **Op margin collapse** — Tesla is spending at hyperscaler scale (SI compute, Dojo, Optimus, Austin fab) while auto profits soften. Record deliveries ≠ profit.\n2. **Battery availability was called 'the limiting factor'** on auto volumes.\n3. **Musk tone was cautious on Optimus timing + robotaxi regulation** — not the usual bull-case rhetoric.\n\nStock -~2.9% AH to ~$375.19.\n\nNext catalysts: GOOGL + MSFT + AMZN prints Oct 28–30, FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsla-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/tsla-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-22T02:23:04.470Z"
+    },
+    {
+      "id": "ibm-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings"
+      ],
+      "title": "IBM (IBM) Q3 2026 (Wed Oct 21 after close) — revenue $17.10B (+5% Y/Y, +6% cc) tops ~$16.82B est, operating diluted EPS $2.95 (+11% Y/Y) beats ~$2.86 est; Software $7.80B (+8%), Red Hat +11%, Data +19%, Transaction Processing +9%; Infrastructure $3.71B (+4%) led by Distributed Infra +31%, IBM Z -20%; Consulting $5.33B flat; Q3 FCF $3.03B, YTD $7.79B; FY26 FCF guide RAISED to '>$1B Y/Y increase'; cc revenue guide held at 4–5%",
+      "org": "IBM",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm",
+      "summary": "IBM Q3: revenue $17.10B (+5% Y/Y) tops ~$16.82B est, op EPS $2.95 beats ~$2.86 est; Software +8% (Red Hat +11%, Data +19%); Infra +4%; Consulting flat; Q3 FCF $3.03B; FY26 FCF guide raised to '>$1B Y/Y'; cc rev guide 4–5% unchanged.",
+      "tickers": [
+        "IBM"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "software",
+        "red-hat",
+        "mainframe",
+        "ai-watsonx",
+        "fcf-raise",
+        "q3-2026"
+      ],
+      "metrics": {
+        "Revenue": "$17.10B (+5% Y/Y, +6% cc) vs ~$16.82B est",
+        "GAAP diluted EPS": "$2.31 (+26% Y/Y)",
+        "Operating (non-GAAP) diluted EPS": "$2.95 (+11% Y/Y) vs ~$2.86 est",
+        "Software revenue": "$7.80B (+8% Y/Y, +9% cc)",
+        "Red Hat (Hybrid Cloud)": "+11%",
+        "Data": "+19%",
+        "Transaction Processing": "+9%",
+        "Consulting revenue": "$5.33B (flat; +2% cc)",
+        "Infrastructure revenue": "$3.71B (+4% Y/Y, +5% cc)",
+        "Distributed Infrastructure": "+31%",
+        "IBM Z": "-20%",
+        "Q3 free cash flow": "$3.03B (vs $2.37B Y/Y)",
+        "YTD free cash flow": "$7.79B (vs $7.18B YTD)",
+        "FY26 revenue guide": "4–5% cc growth (unchanged)",
+        "FY26 FCF guide": "Raised to '>$1B Y/Y increase'"
+      },
+      "explainer": {
+        "tagline": "IBM beats on both lines, lifts FCF outlook, but keeps the revenue-growth range unchanged — AH reaction splits.",
+        "whatIsIt": "IBM reported Q3 2026 results after the close Wednesday October 21. Revenue of $17.10B rose 5% Y/Y (6% constant currency) and beat the ~$16.82B consensus. Operating diluted EPS of $2.95 grew 11% Y/Y and topped the ~$2.86 estimate. GAAP diluted EPS from continuing operations was $2.31, up 26%.",
+        "howItWorks": "Software was the growth engine: $7.80B (+8% Y/Y, +9% cc), with Red Hat/Hybrid Cloud +11%, Data +19%, and Transaction Processing +9% (helped by mainframe-cycle timing). Infrastructure grew 4% to $3.71B — Distributed Infrastructure +31%, offset by IBM Z -20% late in the z17 cycle. Consulting was flat at $5.33B. Q3 FCF was $3.03B (vs $2.37B Y/Y) and YTD $7.79B. For FY26, IBM held constant-currency revenue growth at 4–5% but raised its FCF outlook to a Y/Y increase of 'more than $1 billion'. Operating margins expanded 70bp to 19.3% pre-tax.",
+        "whyItMatters": "Software acceleration + FCF raise is the bull case: the AI/watsonx + Red Hat franchise is still re-rating higher. The flat consulting line and the IBM Z decline are the softer notes, and management flagged that ~25% of software growth came from deferred-deal timing and mainframe-tied transaction processing may not repeat into Q4 — which, with the unchanged FY revenue range, is why some sources reported a sharp AH drop while others showed a gain. Read-through for ACN, GLW, HPE enterprise-IT names and for the broader hyperscaler-adjacent software bid.",
+        "forWho": "enterprise-software, large-cap IT traders",
+        "tryIt": "https://finance.yahoo.com/quote/IBM"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/IBM_CHQ_-_Oct_2014.jpg/1280px-IBM_CHQ_-_Oct_2014.jpg",
+        "alt": "IBM corporate headquarters Armonk New York",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/"
+        },
+        {
+          "label": "Yahoo Market Recap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-gain-powered-231519176.html"
+        },
+        {
+          "label": "IBM Chart",
+          "url": "https://finance.yahoo.com/quote/IBM"
+        }
+      ],
+      "reddit": {
+        "title": "IBM Q3: revenue $17.10B (+6% cc) beats, op EPS $2.95 beats, Red Hat +11% / Data +19%, FY26 FCF guide raised to '>$1B Y/Y increase' — AH reaction split",
+        "body": "IBM reported Q3 2026 Wednesday after close. Clean beat, but the market's reaction is messy:\n\n* Revenue **$17.10B (+5% Y/Y, +6% cc)** vs ~$16.82B est\n* Operating diluted EPS **$2.95 (+11% Y/Y)** vs ~$2.86 est\n* GAAP diluted EPS $2.31 (+26% Y/Y)\n* **Software $7.80B (+8%)** — Red Hat +11%, Data +19%, Transaction Processing +9%\n* Infrastructure $3.71B (+4%) — Distributed +31%, IBM Z -20% late-cycle\n* Consulting $5.33B flat (+2% cc)\n* **Q3 free cash flow $3.03B** vs $2.37B Y/Y; YTD $7.79B\n\nGuidance:\n\n1. **FY26 FCF outlook raised** to a Y/Y increase of more than $1 billion\n2. **FY26 constant-currency revenue growth held at 4–5%** — not raised despite the Q3 acceleration\n3. **~25% of Software growth** came from previously deferred deals; CFO flagged mainframe-tied Transaction Processing may not repeat in Q4\n\nWhy AH is split: beat is clear, but the unchanged revenue range + 'may not repeat' language left some holders selling the news. Sources diverge on direction — one reported a 5% AH drop to $238.60, others reported 3–6% gains.\n\nNext catalysts: GOOGL + MSFT prints Oct 28–30, FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ibm-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/ibm-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-22T02:23:04.470Z"
+    },
+    {
+      "id": "lrcx-q1-fy27-earnings-oct-21",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Lam Research (LRCX) Q1 FY27 (Wed Oct 21 after close) — revenue $8.22B (+22% Q/Q, +~54% Y/Y) tops ~$8.13B est, non-GAAP diluted EPS $2.20 beats ~$2.18 est; GAAP EPS $2.19; non-GAAP operating margin record 40.2%, GM 52.4%; Systems $5.73B, CSBG $2.49B; China 35% of revenue; Q2 FY27 guide revenue $8.60B ± $400M, non-GAAP EPS $2.33 ± $0.15, GM 52.5%; LRCX -~6.1% AH to ~$245",
+      "org": "Lam Research",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/lrcx_exhibitx991xq1x2027.htm",
+      "summary": "Lam Research Q1 FY27: revenue $8.22B (+22% Q/Q) tops ~$8.13B est, adj EPS $2.20 beats ~$2.18 est; op margin record 40.2%; Systems $5.73B; China 35%; Q2 guide $8.60B ± $400M rev / $2.33 ± $0.15 EPS; LRCX -~6.1% AH to ~$245.",
+      "tickers": [
+        "LRCX",
+        "AMAT",
+        "KLAC",
+        "ASML"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "semicap",
+        "wfe",
+        "ai-capex",
+        "hbm",
+        "advanced-packaging",
+        "china-exposure",
+        "q1-fy27"
+      ],
+      "metrics": {
+        "Revenue": "$8.22B (+22% Q/Q, record) vs ~$8.13B est",
+        "Non-GAAP diluted EPS": "$2.20 vs ~$2.18 est",
+        "GAAP diluted EPS": "$2.19",
+        "Non-GAAP operating margin": "40.2% (record)",
+        "GAAP operating margin": "40.0%",
+        "Non-GAAP gross margin": "52.4%",
+        "Systems revenue": "$5.73B",
+        "Customer Support (CSBG) revenue": "$2.49B",
+        "China % of revenue": "35%",
+        "Korea / Taiwan / Japan": "20% / 18% / 9%",
+        "Q2 FY27 revenue guide": "$8.60B ± $400M",
+        "Q2 FY27 non-GAAP EPS guide": "$2.33 ± $0.15",
+        "Q2 FY27 non-GAAP GM guide": "52.5% ± 1%",
+        "Cash + cash equivalents": "$7.44B",
+        "Move": "-~6.1% AH to ~$245"
+      },
+      "explainer": {
+        "tagline": "Record revenue + record op margin, but a narrow headline beat and a wide guide draw a 'sell-the-news' reaction after 50%+ YTD run.",
+        "whatIsIt": "Lam Research reported fiscal Q1 2027 (quarter ended September 27, 2026) after the close Wednesday October 21. Revenue of $8.22B hit a record, up 22% sequentially and above the ~$8.13B consensus. Non-GAAP diluted EPS of $2.20 narrowly beat the ~$2.18 estimate.",
+        "howItWorks": "Non-GAAP operating margin hit a company-record 40.2% on a 52.4% gross margin. Systems revenue was $5.73B and Customer Support-related revenue was $2.49B. Geographic mix was China 35% / Korea 20% / Taiwan 18% / Japan 9% / US 8% / SEA 6% / Europe 4%. Q2 FY27 guidance (December quarter): revenue $8.60B ± $400M (midpoint tops ~$8.53B est), non-GAAP diluted EPS $2.33 ± $0.15, non-GAAP gross margin 52.5% ± 1%. Lam ended with $7.44B cash and cash equivalents.",
+        "whyItMatters": "The print confirms the WFE up-cycle — HBM / advanced packaging / leading-edge logic + rising China spending are all contributing. But after a ~50%+ YTD rally into the print, the narrow beat on both revenue and EPS and the wide ±$400M revenue range on the Dec-quarter guide gave fast money an excuse to sell: LRCX fell ~6.1% AH to ~$245 from a $260.81 regular-session close. Read-through: positive for AMAT (reports Nov 13) and KLAC on WFE demand, mixed for ASML which already guided conservatively on China.",
+        "forWho": "semi-cap-equipment, AI-capex traders",
+        "tryIt": "https://finance.yahoo.com/quote/LRCX"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS1006088/Lam-Research-Logo-v1.jpg?id=OA2800298&p=facebook",
+        "alt": "Lam Research corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/lrcx_exhibitx991xq1x2027.htm"
+        },
+        {
+          "label": "SEC 8-K Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/"
+        },
+        {
+          "label": "Biggo Finance Recap",
+          "url": "https://finance.biggo.com/news/b72cc492-fc71-4a54-9927-a17b8a320449"
+        },
+        {
+          "label": "LRCX Chart",
+          "url": "https://finance.yahoo.com/quote/LRCX"
+        }
+      ],
+      "reddit": {
+        "title": "Lam Research Q1 FY27: record $8.22B rev (+22% Q/Q), record 40.2% op margin — but narrow beat + wide Dec guide spark 'sell-the-news', LRCX -6.1% AH",
+        "body": "Lam Research reported fiscal Q1 2027 Wednesday after close. Every line is a record. The market sold it anyway:\n\n* Revenue **$8.22B (+22% Q/Q, record)** vs ~$8.13B est\n* Non-GAAP diluted EPS **$2.20** vs ~$2.18 est — narrow beat\n* GAAP EPS $2.19\n* **Non-GAAP op margin 40.2% (record)** on 52.4% gross margin\n* Systems revenue $5.73B, Customer Support $2.49B\n* **China 35% of revenue** (Korea 20%, Taiwan 18%, Japan 9%)\n* Cash + equivalents $7.44B\n\nQ2 FY27 guide (Dec quarter):\n\n1. **Revenue $8.60B ± $400M** — midpoint above ~$8.53B est, but the range is wide ($8.2–$9.0B)\n2. **Non-GAAP EPS $2.33 ± $0.15**\n3. **Non-GAAP GM 52.5% ± 1%**\n\nWhy the AH drop: LRCX had rallied ~50%+ YTD into the print, the headline beats were small, and the wide ±$400M revenue band left plenty of room for a Dec-quarter miss. LRCX -~6.1% AH to ~$245 from a $260.81 close.\n\nRead-through: positive signal on WFE / HBM / advanced packaging demand → AMAT (Nov 13 report), KLAC. Mixed for ASML, which already set a conservative China bar.\n\nNext catalysts: AMAT Nov 13, FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/lrcx-q1-fy27-earnings-oct-21](https://stock-tldr.xyz/releases/lrcx-q1-fy27-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-22T02:23:04.470Z"
+    },
+    {
+      "id": "txn-q3-2026-earnings-oct-21",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Texas Instruments (TXN) Q3 2026 (Wed Oct 21 after close) — revenue $6.055B (+28% Y/Y) tops ~$5.92B est, GAAP diluted EPS $2.62 (+77% Y/Y) beats ~$2.42 est; Analog $4.91B (+32% Y/Y), Embedded Processing $858M (+21%), Other $286M (-6%); operating profit $2.87B (+73%), op margin 47.5%; Q3 FCF $2.96B, TTM FCF $8.42B (40.6% of revenue); Q4 2026 guide revenue $5.80–$6.30B, EPS $2.45–$2.79",
+      "org": "Texas Instruments",
+      "date": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/q32026txnex99-eredgar.htm",
+      "summary": "TXN Q3: revenue $6.055B (+28% Y/Y) tops ~$5.92B est, EPS $2.62 (+77%) beats ~$2.42 est; Analog +32%, Embedded +21%; op margin 47.5%; Q3 FCF $2.96B; Q4 guide revenue $5.80–$6.30B / EPS $2.45–$2.79.",
+      "tickers": [
+        "TXN",
+        "ADI",
+        "MCHP",
+        "ON",
+        "NXPI"
+      ],
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "analog",
+        "industrial",
+        "auto-semis",
+        "capex-return",
+        "q3-2026",
+        "cycle-turn"
+      ],
+      "metrics": {
+        "Revenue": "$6.055B (+28% Y/Y) vs ~$5.92B est",
+        "GAAP diluted EPS": "$2.62 (+77% Y/Y) vs ~$2.42 est",
+        "Net income": "$2.43B",
+        "Operating profit": "$2.87B (+73% Y/Y)",
+        "Operating margin": "47.5%",
+        "Analog revenue": "$4.91B (+32% Y/Y)",
+        "Analog op profit": "$2.51B (+69%)",
+        "Embedded Processing revenue": "$858M (+21% Y/Y)",
+        "Embedded Processing op profit": "$227M (+110%)",
+        "Other revenue": "$286M (-6% Y/Y)",
+        "Q3 free cash flow": "$2.96B",
+        "TTM free cash flow": "$8.42B (40.6% of TTM revenue)",
+        "Q4 2026 revenue guide": "$5.80B – $6.30B",
+        "Q4 2026 EPS guide": "$2.45 – $2.79"
+      },
+      "explainer": {
+        "tagline": "TXN delivers the clearest analog-cycle beat in years — 28% Y/Y revenue, 77% EPS growth, 47.5% op margin.",
+        "whatIsIt": "Texas Instruments reported Q3 2026 after the close Wednesday October 21. Revenue of $6.055B grew 28% Y/Y and beat the ~$5.92B consensus. GAAP diluted EPS was $2.62, up 77% Y/Y, well above the ~$2.42 estimate. Both lines topped the high end of the company's own July guide ($5.65–$6.15B revenue, $2.23–$2.57 EPS).",
+        "howItWorks": "Analog, the core franchise, delivered $4.91B revenue (+32% Y/Y) and $2.51B operating profit (+69%). Embedded Processing was $858M (+21% Y/Y) with operating profit $227M (+110%). Other was $286M (-6%). Operating profit of $2.87B was up 73% Y/Y at a 47.5% margin. Q3 FCF was $2.96B and TTM FCF was $8.42B — 40.6% of TTM revenue of $20.77B. Guidance: Q4 2026 revenue $5.80B–$6.30B (midpoint ~$6.05B, flat sequentially) and EPS $2.45–$2.79. The release includes a 1-cent reduction to EPS not in the original guidance.",
+        "whyItMatters": "This is the clearest analog cycle turn in years — Analog growing 32% Y/Y with 51% segment margins confirms broad industrial + auto + data-center demand, not just AI. Read-through is bullish for ADI (reports Nov), MCHP, NXPI, ON Semi, STM — the entire analog + industrial complex. TXN also validated the counter-cyclical capex plan from 2022–2024: FCF rebuild to 40%+ of revenue after years of under-20% during the ramp. The modest Q4 guide reflects seasonal flatness, not demand weakness.",
+        "forWho": "analog, industrial, auto-semis desks",
+        "tryIt": "https://finance.yahoo.com/quote/TXN"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/TI_signboard_Dallas.png/1280px-TI_signboard_Dallas.png",
+        "alt": "Texas Instruments signboard at Dallas headquarters",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99",
+          "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/q32026txnex99-eredgar.htm"
+        },
+        {
+          "label": "SEC 8-K Main Doc",
+          "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/txn-20261021.htm"
+        },
+        {
+          "label": "StockTitan Report",
+          "url": "https://www.stocktitan.net/news/TXN/ti-reports-third-quarter-2026-financial-results-and-shareholder-4p1drg4ycvfb.html"
+        },
+        {
+          "label": "TXN Chart",
+          "url": "https://finance.yahoo.com/quote/TXN"
+        }
+      ],
+      "reddit": {
+        "title": "TXN Q3: revenue $6.055B (+28% Y/Y) crushes est, EPS $2.62 (+77% Y/Y) beats $2.42 — Analog +32%, op margin 47.5%, TTM FCF 40.6% of revenue",
+        "body": "Texas Instruments reported Q3 2026 Wednesday after close — the cleanest analog-cycle beat in years:\n\n* Revenue **$6.055B (+28% Y/Y)** vs ~$5.92B est\n* GAAP diluted EPS **$2.62 (+77% Y/Y)** vs ~$2.42 est\n* **Operating profit $2.87B (+73% Y/Y)** at **47.5% op margin**\n* Analog revenue **$4.91B (+32% Y/Y)**, op profit $2.51B (+69%)\n* Embedded Processing $858M (+21%), op profit $227M (+110%)\n* Other $286M (-6%)\n* Q3 FCF **$2.96B**; TTM FCF **$8.42B (40.6% of TTM revenue)**\n\nQ4 2026 guide:\n\n1. **Revenue $5.80B – $6.30B** — midpoint ~$6.05B, flat seasonally\n2. **EPS $2.45 – $2.79**\n3. Beat the high end of July's guide ($5.65–$6.15B rev / $2.23–$2.57 EPS)\n\nRead-through: the analog + industrial + auto-semis cycle turn is real. Bullish for ADI (reports next month), MCHP, NXPI, ON, STM. TXN also validates the countercyclical capex spend from 2022–2024 — FCF is back above 40% of revenue after years below 20% during the ramp.\n\nNext catalysts: STM, NXPI, ADI prints in coming weeks. FOMC Oct 28–29.\n\nFull breakdown: [https://stock-tldr.xyz/releases/txn-q3-2026-earnings-oct-21](https://stock-tldr.xyz/releases/txn-q3-2026-earnings-oct-21)"
+      },
+      "publishDate": "2026-10-22T02:23:04.470Z"
+    },
     {
       "id": "t-q3-2026-earnings-oct-21",
       "categories": [
