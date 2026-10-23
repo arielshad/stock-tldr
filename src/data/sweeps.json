@@ -14659,6 +14659,39 @@
         "earnings",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261023t022417z",
+      "timestamp": "2026-10-23T02:24:17.630Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two Oct 22 items: the Nasdaq -2.6% / S&P -1.2% tech-rout + oil-spike seismic (AI-capex gut check post-META/TSLA earnings colliding with a renewed Iran-war premium on crude), and Western Digital Q1 FY27 (revenue $4.38B +55% Y/Y crushes guide; Q2 guide steps to $5.1B / +66–72% Y/Y with GM 60–61%, dividend raised 17%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nasdaq-tech-rout-oil-spike-oct-22-2026",
+          "title": "Nasdaq -2.6% Thu Oct 22 — tech rout + oil spike on Iran war — Meta -7%, Intel -8%, CoreWeave -10%; Brent >$112, WTI ~$100 at 5-month high; VIX +14% to 19.03; S&P 500 -1.2% to 7,663.43; Dow flat; initial jobless claims 194K (3-month low)",
+          "category": "mover",
+          "note": "Session-level seismic — index-level move (Nasdaq -2.6%), broad single-stock casualties, wall of tier-1 coverage, and a second catalyst (oil +Iran) distinct from the Oct 16 CRWV AI-debt selloff item."
+        },
+        {
+          "id": "wdc-q1-fy27-earnings-oct-22",
+          "title": "Western Digital (WDC) Q1 FY27 (Thu Oct 22 after close) — revenue $4.38B (+55% Y/Y, +17% Q/Q) tops $4.1B guide midpoint; non-GAAP diluted EPS $4.64 crushes ~$4.07 consensus / $3.85–$4.15 guide; GAAP EPS $4.63; non-GAAP GM 58.1%, op margin 49.1%; FCF $1.38B; dividend RAISED 17% to $0.175/sh; Q2 FY27 guide revenue $5.1B ±$100M (+66–72% Y/Y) and non-GAAP EPS $5.80 ±$0.20",
+          "category": "earnings",
+          "note": "Standalone HDD pure-play beats its own guide on revenue, EPS, and margin AND raises Q2 to $5.1B (+66–72% Y/Y); SEC 8-K primary source; dividend raised 17%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "commodity"
+      ]
     }
   ]
 }

@@ -1,8 +1,164 @@
 {
-  "generatedAt": "2026-10-22T16:20:12.205Z",
+  "generatedAt": "2026-10-23T02:24:17.630Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nasdaq-tech-rout-oil-spike-oct-22-2026",
+      "categories": [
+        "mover",
+        "macro",
+        "commodity"
+      ],
+      "title": "Nasdaq -2.6% Thu Oct 22 — tech rout + oil spike on Iran war — Meta -7%, Intel -8%, CoreWeave -10%; Brent >$112, WTI ~$100 at 5-month high; VIX +14% to 19.03; S&P 500 -1.2% to 7,663.43; Dow flat; initial jobless claims 194K (3-month low)",
+      "org": "U.S. equities",
+      "tickers": [
+        "^IXIC",
+        "^GSPC",
+        "CL=F",
+        "BTC-USD"
+      ],
+      "date": "2026-10-22",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+      "summary": "Nasdaq -2.6% to 26,008.86 and S&P 500 -1.2% to 7,663.43 on an AI-capex gut-check (Meta -7%, Tesla -3%, CoreWeave -10%, Lam -9%) while Brent topped $112 and WTI hit a 5-month high near $100 on a NYT report of planned US-Israel strikes on Iran after Nov 3.",
+      "tags": [
+        "tech-selloff",
+        "nasdaq",
+        "ai-capex",
+        "semis",
+        "oil",
+        "iran",
+        "geopolitics",
+        "vix",
+        "risk-off",
+        "jobless-claims",
+        "oct-22-2026"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Nasdaq": "26,008.86 (-2.6%)",
+        "S&P 500": "7,663.43 (-1.2%)",
+        "Dow": "52,867.98 (+0.02%)",
+        "Russell 2000": "2,784.03 (+0.1%)",
+        "VIX": "19.03 (+14.09%)",
+        "Brent": ">$112/bbl",
+        "WTI": "~$100/bbl (5-month high)",
+        "Gold": "$4,018.50 (-1.0%)",
+        "BTC": "$81,307 (-1.9%)",
+        "Initial jobless claims": "194K (3-month low)"
+      },
+      "explainer": {
+        "tagline": "Tech stocks got smacked as AI-spending fears collided with an oil spike on fresh Iran-war worries.",
+        "whatIsIt": "Thursday Oct 22 was a split-tape risk-off session. The Nasdaq Composite fell 2.6% to 26,008.86, the S&P 500 shed 1.2% to 7,663.43, and the Dow finished roughly flat at 52,867.98. The move was driven by two things at once: a reality check on AI-capex-adjacent names after Meta and Tesla's Wednesday-night reports, and a jump in oil as geopolitical risk re-priced.",
+        "howItWorks": "Meta closed down ~7% at $648.85 after its $64.6B Q3 revenue beat was overshadowed by a $9.89B pre-tax teen-safety settlement charge and an aggressive $135–145B FY26 capex guide. Tesla finished -3% despite beating on EPS. Lam Research sank ~9% after Wednesday's print, with Applied Materials and KLA off ~6% and AMD, Intel and SanDisk down 4–5%. Intel closed near $85.49 (-8%) and Nvidia near $212.21 (-4.4%). CoreWeave fell ~10% on cost-of-capital worries. On the geopolitics side, the New York Times reported the U.S. and Israel have drawn up plans for renewed strikes on Iran after the Nov 3 midterms, and Saudi Arabia reported attacks on the Dammam airport and an Aramco field. Brent crude pushed past $112 and WTI topped $100, a roughly 5-month high. The VIX jumped 14% to 19.03. Bitcoin fell below $82,000; gold slipped 1% to about $4,018. Initial jobless claims came in at 194K, the fewest in three months.",
+        "whyItMatters": "The session is the first clear read on whether mega-cap AI prints will keep carrying the tape or trigger a vol regime change. Hyperscaler capex is accelerating, but the market is now charging a higher cost of capital for the names that are debt-financing the build-out. Overlay a renewed Iran-war premium on crude and the macro backdrop stops being a one-way street. Chip names, AI-infrastructure stocks (CRWV, LRCX, AMAT, KLAC), and refiners/energy equities are the obvious tape to watch into next week's AAPL/MSFT/GOOGL/AMZN prints.",
+        "forWho": "tech/semi traders, macro desks, energy",
+        "tryIt": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/c81b8b519a0fe456bfd5181b8ac2fc88ca06d7d35b4b1c46e850f52b18cb2e44/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F28f0a79d-8b85-40c7-961e-c1875244cb32",
+        "alt": "Trader on the NYSE floor during the Oct 22 2026 tech selloff",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Live Blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+        },
+        {
+          "label": "US Indexes Close",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202801299.html"
+        },
+        {
+          "label": "Motley Fool Midday",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/"
+        },
+        {
+          "label": "Nasdaq Chart",
+          "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+        }
+      ],
+      "reddit": {
+        "title": "Nasdaq -2.6% to 26,008 — AI selloff + oil spike collide: Meta -7%, Intel -8%, CoreWeave -10%, WTI tops $100 on fresh Iran-war fears",
+        "body": "Thursday Oct 22 was the kind of session where two bear catalysts hit the tape at the same time. The index damage:\n\n* Nasdaq Composite -2.6% to 26,008.86 (down ~694 points)\n* S&P 500 -1.2% to 7,663.43; Dow basically flat at 52,867.98\n* VIX +14.1% to 19.03\n* Brent crude >$112, WTI ~$100 — a roughly 5-month high\n* 10Y Treasuries bid; BTC fell below $82K; gold -1% to ~$4,018\n\nWhat broke all at once:\n\n1. **AI-capex gut check** — Meta -7% at $648.85 on a $9.89B teen-safety charge and $135–145B FY26 capex guide; Tesla -3% despite an EPS beat; Lam Research -9%, Applied Materials/KLA -6%, AMD/Intel/SanDisk -4–5%, Nvidia -4.4%, CoreWeave -10% on cost-of-capital fears.\n2. **Iran-war premium came back** — NYT reported the US and Israel have drawn up plans for new strikes on Iran after the Nov 3 midterms; Saudi Arabia reported attacks on Dammam airport and an Aramco field.\n3. **Jobs data held firm** — initial claims 194K, the fewest in three months, keeping the Fed on the sidelines.\n\nNext catalysts: AAPL, MSFT, GOOGL, AMZN earnings next week.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nasdaq-tech-rout-oil-spike-oct-22-2026](https://stock-tldr.xyz/releases/nasdaq-tech-rout-oil-spike-oct-22-2026)"
+      },
+      "publishDate": "2026-10-23T02:24:17.630Z"
+    },
+    {
+      "id": "wdc-q1-fy27-earnings-oct-22",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Western Digital (WDC) Q1 FY27 (Thu Oct 22 after close) — revenue $4.38B (+55% Y/Y, +17% Q/Q) tops $4.1B guide midpoint; non-GAAP diluted EPS $4.64 crushes ~$4.07 consensus / $3.85–$4.15 guide; GAAP EPS $4.63; non-GAAP GM 58.1%, op margin 49.1%; FCF $1.38B; dividend RAISED 17% to $0.175/sh; Q2 FY27 guide revenue $5.1B ±$100M (+66–72% Y/Y) and non-GAAP EPS $5.80 ±$0.20",
+      "org": "Western Digital",
+      "tickers": [
+        "WDC"
+      ],
+      "date": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000106040/000162828026066882/a4ex991-pressreleaseq127.htm",
+      "summary": "WDC's Q1 FY27 blows past guidance: $4.38B revenue (+55% Y/Y), non-GAAP EPS $4.64 vs ~$4.07 Street; non-GAAP GM 58.1%; Q2 guide revenue $5.1B ±$100M (+66–72% Y/Y) and EPS $5.80 ±$0.20; dividend raised 17% to $0.175/sh.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "ai-storage",
+        "hdd",
+        "hyperscale",
+        "q1-fy27",
+        "dividend-raise",
+        "oct-22-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$4.38B (+55% Y/Y, +17% Q/Q)",
+        "Non-GAAP EPS": "$4.64 vs ~$4.07 est",
+        "GAAP EPS": "$4.63",
+        "Non-GAAP GM": "58.1%",
+        "Non-GAAP op margin": "49.1%",
+        "FCF": "$1.38B",
+        "Dividend": "$0.175/sh (+17%)",
+        "Q2 FY27 revenue guide": "$5.1B ±$100M (+66–72% Y/Y)",
+        "Q2 FY27 non-GAAP EPS guide": "$5.80 ±$0.20",
+        "Q2 FY27 non-GAAP GM guide": "60–61%"
+      },
+      "explainer": {
+        "tagline": "AI-storage demand pushed WDC's quarter well above its own prior guide, and the Q2 outlook is a bigger step-up.",
+        "whatIsIt": "Western Digital reported fiscal Q1 2027 after the close on Thursday Oct 22. The HDD-focused half of the old SanDisk split delivered $4.38B of revenue, up 55% year over year and 17% sequentially — above the top of its $4.0–$4.2B August guide. Non-GAAP diluted EPS came in at $4.64, GAAP $4.63.",
+        "howItWorks": "The beat is a margin story as much as a volume story. Non-GAAP gross margin was 58.1% and non-GAAP operating margin hit 49.1%; both are records tied to a tight hyperscale supply environment for high-capacity nearline drives. Operating cash flow was $1.60B and free cash flow $1.38B. The board lifted the quarterly dividend 17% to $0.175/share. For Q2 FY27 (ending January), management guided revenue to $5.1B ±$100M (66–72% Y/Y growth), non-GAAP EPS to $5.80 ±$0.20, and non-GAAP gross margin to 60–61%. CEO Irving Tan tied the outlook to AI training/inference, agentic AI and physical-AI workloads, noting roughly 80% of hyperscaler data remains on HDDs.",
+        "whyItMatters": "WDC is one of the two public pure-plays left on nearline HDD economics after the SanDisk NAND split. The Q2 revenue step from $4.38B to a $5.1B midpoint — and GM from 58% to 60–61% — is the biggest sequential guide the company has issued, and lands into a session (Thu Oct 22) where AI-infra names like LRCX, AMAT and CRWV were already selling off on cost-of-capital fears. Comp read-through to Seagate (STX), Marvell (MRVL) and the broader AI-infrastructure complex.",
+        "forWho": "AI-infra traders, semis desks",
+        "tryIt": "https://investor.wdc.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Western_Digital_Headquarters.jpg",
+        "alt": "Western Digital corporate headquarters",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q1 FY27 Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000106040/000162828026066882/a4ex991-pressreleaseq127.htm"
+        },
+        {
+          "label": "SEC 8-K Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/0001628280-26-066882-index.htm"
+        },
+        {
+          "label": "Earnings Date Announce",
+          "url": "https://www.westerndigital.com/ar-sa/company/newsroom/press-releases/2026/2026-10-08-wd-to-announce-first-quarter-fiscal-year-2027-financial-results"
+        },
+        {
+          "label": "WDC Chart",
+          "url": "https://finance.yahoo.com/quote/WDC/"
+        }
+      ],
+      "reddit": {
+        "title": "Western Digital (WDC) Q1 FY27: revenue $4.38B (+55% Y/Y) blows past $4.1B guide, EPS $4.64 vs ~$4.07 est; Q2 guide steps up to $5.1B revenue +66–72% Y/Y, GM 60–61%, dividend hiked 17%",
+        "body": "WDC's first full quarter as a standalone HDD pure-play came in hot. Headline numbers:\n\n* Revenue $4.38B — up 55% Y/Y, 17% Q/Q, above the top of the August $4.0–$4.2B guide\n* Non-GAAP diluted EPS $4.64 vs ~$4.07 Street / $3.85–$4.15 guide; GAAP EPS $4.63\n* Non-GAAP gross margin 58.1%, non-GAAP operating margin 49.1%\n* Operating cash flow $1.60B, free cash flow $1.38B\n* Quarterly dividend raised 17% to $0.175/sh\n\nThe Q2 FY27 guide is where it gets interesting:\n\n1. **Revenue step** — $5.1B ±$100M, implying +66% to +72% Y/Y growth, a bigger step-up than the Q1 beat.\n2. **Margin step** — non-GAAP gross margin 60% to 61% vs 58.1% this quarter.\n3. **AI-storage thesis** — CEO Irving Tan cites AI training, inference, agentic and physical-AI workloads; management says ~80% of hyperscale data center data still lives on HDDs.\n\nRead-through to STX, MRVL and the broader AI-infra complex into a tape that just sold the group off on cost-of-capital fears.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wdc-q1-fy27-earnings-oct-22](https://stock-tldr.xyz/releases/wdc-q1-fy27-earnings-oct-22)"
+      },
+      "publishDate": "2026-10-23T02:24:17.630Z"
+    },
     {
       "id": "lmt-q3-2026-earnings-oct-22",
       "categories": [
