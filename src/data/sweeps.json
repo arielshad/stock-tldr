@@ -14692,6 +14692,44 @@
         "mover",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261023t161054z",
+      "timestamp": "2026-10-23T16:10:54.091Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new items: AXP Q3 2026 (revenue + adj EPS beat, FY26 GAAP EPS guide raised, 5% headcount cut); SLB Q3 2026 (revenue + adj EPS beat, Production Systems +15% Y/Y leads mix); and the Bloomberg SpaceX-Crown Castle 80K-cell-sites rumor that moved tower REITs sharply higher and Big-4 carriers sharply lower on Oct 23.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "axp-q3-2026-earnings-oct-23",
+          "title": "American Express (AXP) Q3 2026 (Fri Oct 23 premarket) — revenue net of interest $20.1B (+9% Y/Y) tops ~$20.1B consensus; GAAP diluted EPS $5.42 (+31% Y/Y), adj diluted EPS $4.68 (+13% Y/Y) beats ~$4.47 Zacks consensus; net income $3.7B (+28%); billed business $454.0B (+8% FX-adj); net card fees $3.0B (+17% FX-adj); provisions $985M (incl. $215M CECL benefit); FY26 GAAP diluted EPS guide RAISED to $18.30–$18.60 (prev $17.30–$17.90), adj EPS $17.60–$17.90; FY26 revenue growth guide 10% held; one-timers: $982M GBTG sale gain, $336M restructuring charge (~5% headcount cut), $400M legal reserve add",
+          "category": "earnings",
+          "note": "AmEx is a flagship consumer-spending read; Q3 beat + FY26 EPS guide raise + explicit 5% headcount cut all land on the same print."
+        },
+        {
+          "id": "slb-q3-2026-earnings-oct-23",
+          "title": "SLB (SLB) Q3 2026 (Fri Oct 23 premarket) — revenue $9.45B (+5% Q/Q, +6% Y/Y) tops ~$9.27B est; GAAP diluted EPS $0.49 (-6% Q/Q, -2% Y/Y); adj EPS (ex charges & credits) $0.64 (+16% Q/Q, -7% Y/Y) beats ~$0.62 est; net income $735M; adj EBITDA $2.07B, margin 21.9%; pretax segment op income $1.58B (+12% Q/Q); Production Systems revenue $4.00B (+15% Y/Y) leads segments; CFO $1.51B, FCF $828M; Q3 buyback $656M (12.9M shares); YTD buyback $1.76B (34.0M shares); quarterly dividend $0.295/sh held",
+          "category": "earnings",
+          "note": "Global oilfield services tape read; both lines beat, Production Systems +15% Y/Y leads an offshore / Middle East mix shift versus N.A. land weakness."
+        },
+        {
+          "id": "spacex-cell-sites-rumor-oct-22-2026",
+          "title": "Rumor: SpaceX in talks for ≥80K US cell sites to build a fourth nationwide carrier — Bloomberg scoop Thu Oct 22 after close; Crown Castle (CCI) +~12% Fri Oct 23 to ~$87, American Tower (AMT) +~7%; AT&T (T) -~5%, Verizon (VZ) -~3%, T-Mobile (TMUS) lower premarket",
+          "category": "rumor",
+          "note": "Bloomberg scoop with multi-sector tape impact: tower REITs rip (CCI +12%, AMT +7%), Big-4 carriers down 3–5%. Explicit rumor tier, named primary outlet, nothing signed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "rumor",
+        "mover"
+      ]
     }
   ]
 }
