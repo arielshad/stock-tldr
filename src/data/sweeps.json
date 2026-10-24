@@ -14755,6 +14755,37 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261024t150757z",
+      "timestamp": "2026-10-24T15:07:57.202Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds from the Oct 22–23 earnings tape: LKQ preannounced a Q3 miss with FY26 guidance withdrawn, CEO Justin Jude out effective Oct 23, Abbate in Dec 15, and A&M retained for Europe (stock -22% to $17.42); Deckers posted a record Q2 FY27 with raised FY27 EPS guide but DTC comps and tariff-refund dependency sent shares -5% to $81.09.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "lkq-q3-2026-preliminary-ceo-change-oct-23",
+          "title": "LKQ Corporation (LKQ) preliminary Q3 2026 (Fri Oct 23 premarket) — revenue $3.32B (-5.1% Y/Y) misses, parts & services organic -5.4%; net loss $16–$32M incl $111M non-cash impairments (vs net income $178M Y/Y); adj diluted EPS $0.47–$0.53 (vs $0.84 Y/Y); Europe parts organic -9.8%, segment EBITDA margin 4.1–5.1% (vs 10.0%) on Germany ERP disruption; FY26 guidance WITHDRAWN; CEO Justin Jude departed Oct 23, Salvatore A. Abbate named successor effective Dec 15 (interim Office of CEO: Chairman John Mendel + Audit Chair Sue Gove); Andy Hamilton out as President of LKQ Europe; Alvarez & Marsal retained to advise European ops; stock -22.47% to $17.42 on 23.4M vol (vs 3.7M avg); Barrington Research downgrade to Market Perform",
+          "category": "mover",
+          "note": "22% single-session move on preannounced Q3 miss + withdrawn FY26 guide + CEO exit + Alvarez & Marsal engagement is one of the sharper industrials stories of the quarter."
+        },
+        {
+          "id": "deck-q2-fy27-earnings-oct-22",
+          "title": "Deckers Brands (DECK) Q2 FY27 (Wed Oct 22 after close) — record quarterly revenue $1.481B (+3.5% Y/Y, +2.8% cc); diluted EPS $2.31 (+27% Y/Y, incl $0.28 IEEPA tariff refund benefit); HOKA $677.2M (+6.8%); UGG $786.4M (+3.5%); international $644.7M (+9.0%) outruns domestic $835.8M (-0.4%); wholesale $1.093B (+5.5%), DTC $387.5M (-1.8%, comp DTC -6.4%); gross margin 60.5% (+430bp, tariff refunds ~310bp); op income $389.5M (vs $326.5M); Q2 buyback 3.2M shares for $299.3M (avg $93.65), H1 total $637.5M; FY27 diluted EPS guide RAISED to $7.80–$7.95 (incl ~$0.52 refund benefit), net sales $5.700–$5.725B, GM ~58.5%, op margin ~23%; stock -4.91% to $81.09 Fri Oct 23; Telsey PT cut to $90 from $105",
+          "category": "earnings",
+          "note": "Record Q2 and raised FY27 EPS guide, but the market read through to tariff-refund dependency and -6.4% comp DTC — classic 'beat and raise but stock fell' story."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

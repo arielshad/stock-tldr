@@ -1,8 +1,180 @@
 {
-  "generatedAt": "2026-10-24T02:22:31.535Z",
+  "generatedAt": "2026-10-24T15:07:57.202Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "lkq-q3-2026-preliminary-ceo-change-oct-23",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "LKQ Corporation (LKQ) preliminary Q3 2026 (Fri Oct 23 premarket) — revenue $3.32B (-5.1% Y/Y) misses, parts & services organic -5.4%; net loss $16–$32M incl $111M non-cash impairments (vs net income $178M Y/Y); adj diluted EPS $0.47–$0.53 (vs $0.84 Y/Y); Europe parts organic -9.8%, segment EBITDA margin 4.1–5.1% (vs 10.0%) on Germany ERP disruption; FY26 guidance WITHDRAWN; CEO Justin Jude departed Oct 23, Salvatore A. Abbate named successor effective Dec 15 (interim Office of CEO: Chairman John Mendel + Audit Chair Sue Gove); Andy Hamilton out as President of LKQ Europe; Alvarez & Marsal retained to advise European ops; stock -22.47% to $17.42 on 23.4M vol (vs 3.7M avg); Barrington Research downgrade to Market Perform",
+      "org": "LKQ Corporation",
+      "tickers": [
+        "LKQ"
+      ],
+      "date": "2026-10-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001065696/000106569626000047/exhibit991-q326earningsand.htm",
+      "summary": "LKQ preannounced Q3 2026: revenue $3.32B (-5.1%), net loss $16–$32M incl $111M impairments, adj EPS $0.47–$0.53 (vs $0.84). Withdrew FY26 guidance; CEO Jude out Oct 23, Abbate in Dec 15; A&M retained for Europe. Stock -22.47% to $17.42.",
+      "tags": [
+        "earnings",
+        "revenue-miss",
+        "eps-miss",
+        "guidance-withdrawn",
+        "ceo-change",
+        "leadership-transition",
+        "impairment",
+        "europe-weakness",
+        "erp-disruption",
+        "aftermarket",
+        "auto-parts",
+        "q3-2026",
+        "mover",
+        "oct-23-2026",
+        "analyst-downgrade",
+        "strategic-review"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Preliminary Revenue": "$3.32B (vs $3.50B Y/Y, -5.1%)",
+        "Parts & services organic growth": "-5.4%",
+        "Net income": "-$16M to -$32M (vs +$178M Y/Y)",
+        "Non-cash impairments": "$111M",
+        "GAAP diluted EPS": "-$0.06 to -$0.12 (vs +$0.69 Y/Y)",
+        "Adj diluted EPS": "$0.47–$0.53 (vs $0.84 Y/Y)",
+        "Europe parts organic growth": "-9.8%",
+        "Europe segment EBITDA margin": "4.1–5.1% (vs 10.0% Y/Y)",
+        "Full Q3 release date": "Oct 29, 2026 (8:00 AM ET)",
+        "Move": "-22.47% to $17.42 Fri Oct 23",
+        "Volume": "23.4M (vs 3.7M avg)"
+      },
+      "explainer": {
+        "tagline": "LKQ dropped 22% after a preannounced Q3 miss, withdrawn FY26 guide, and a surprise CEO exit — Europe's ERP transition broke margins.",
+        "whatIsIt": "LKQ Corporation — the Nasdaq-listed aftermarket auto-parts distributor — filed an 8-K Friday Oct 23 disclosing preliminary unaudited Q3 2026 results together with a leadership change and the withdrawal of its full-year 2026 outlook. The full Q3 release and call will follow on Thursday October 29. The combination of the preannounced miss, the departed CEO, and the pulled guide drove the stock to a 22.47% single-day drop to $17.42, its lowest level in years, on nearly 7x average volume.",
+        "howItWorks": "Preliminary Q3 2026 revenue of $3.32B compared with $3.50B in Q3 2025; parts & services organic revenue fell 5.4%. The company expects a Q3 net loss of $16–$32M (incl $111M of non-cash impairment charges) versus net income of $178M a year ago. GAAP diluted EPS is guided to -$0.06 to -$0.12 (incl $0.42 of impairments); adj diluted EPS to $0.47–$0.53, from $0.84 a year ago. Europe is the pain point: parts & services organic revenue -9.8%, with segment EBITDA margin of just 4.1–5.1% versus 10.0% a year ago, attributed to ERP disruptions in Germany and volume declines in the UK and Benelux. North America performed in line with expectations; Specialty was 'modestly below.' Full-year 2026 guidance (last updated July 30) is withdrawn. President & CEO Justin Jude departed effective Oct 23; the Board has named Salvatore A. Abbate — described by Chairman John Mendel as 'a proven operator with a track record of driving performance in complex distribution businesses' — as his successor effective Dec 15, with an interim Office of the CEO (Mendel + Audit Committee Chair Sue Gove) in between. Andy Hamilton exited as President and Managing Director of LKQ Europe. Alvarez & Marsal was retained to advise on European operations as part of the Board's ongoing strategic review.",
+        "whyItMatters": "LKQ is the dominant aftermarket parts platform in both North America and Europe, so the shock is partly a read-through on used-vehicle and collision-repair volumes in those regions. The bigger signal is operational: an ERP rollout cratered a decade-old European margin base, and the Board responded with a full leadership reset and an outside restructuring adviser — not a routine quarter. Watch the Oct 29 full release for cash flow, debt, and specific European write-down detail. Comps: GPC (NAPA parent), AAP, ORLY, AZO, O'Reilly's European collision-parts exposure, and private peers like Mekonomen.",
+        "forWho": "Industrials / consumer-cyclicals specialists; European aftermarket distributors; special-situations/activist desks",
+        "tryIt": "https://investor.lkqcorp.com/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/LKQ_Corporation_logo.svg/1280px-LKQ_Corporation_logo.svg.png",
+        "alt": "LKQ Corporation corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q3 2026 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001065696/000106569626000047/exhibit991-q326earningsand.htm"
+        },
+        {
+          "label": "LKQ Investor Relations",
+          "url": "https://investor.lkqcorp.com/"
+        },
+        {
+          "label": "LKQ Chart",
+          "url": "https://finance.yahoo.com/quote/LKQ/"
+        },
+        {
+          "label": "Oct 29 Full Q3 Release",
+          "url": "https://finviz.com/news/398790/lkq-corporation-to-release-third-quarter-2026-results-on-thursday-october-29-2026"
+        }
+      ],
+      "reddit": {
+        "title": "LKQ -22% after preannouncing Q3 miss, withdrawing FY26 guidance, firing CEO — Europe ERP transition breaks margins",
+        "body": "LKQ Corporation (aftermarket auto parts) dropped 22.47% Friday Oct 23 after an 8-K preannouncement that combined a Q3 miss, a withdrawn full-year outlook, and a surprise CEO exit — all in one filing. Full Q3 release still comes Oct 29.\n\n* Preliminary Q3 2026 revenue $3.32B vs $3.50B Y/Y (-5.1%); parts & services organic -5.4%\n* Expected Q3 net loss $16–$32M (incl $111M non-cash impairments) vs +$178M Y/Y\n* Adj diluted EPS $0.47–$0.53 vs $0.84 Y/Y\n* Europe parts organic -9.8%, segment EBITDA margin 4.1–5.1% vs 10.0% Y/Y\n* FY26 guidance (last updated July 30) WITHDRAWN\n* Stock -22.47% to $17.42 on 23.4M shares (vs 3.7M avg)\n\nThree things hit at once:\n\n1. **CEO out, successor named** — Justin Jude departed effective Oct 23. Chairman John Mendel + Audit Committee Chair Sue Gove run an interim Office of the CEO until Salvatore A. Abbate takes over Dec 15.\n2. **Europe is the pain point** — Germany ERP disruption plus UK/Benelux volume declines gutted the European margin base. Andy Hamilton out as President of LKQ Europe.\n3. **Outside restructuring adviser** — Board hired Alvarez & Marsal to advise on European operations as part of its ongoing strategic review.\n\nBarrington Research downgraded to Market Perform the same day.\n\nNext catalysts: full Q3 release and conference call Thursday Oct 29 at 8:00 AM ET.\n\nFull breakdown: [https://stock-tldr.xyz/releases/lkq-q3-2026-preliminary-ceo-change-oct-23](https://stock-tldr.xyz/releases/lkq-q3-2026-preliminary-ceo-change-oct-23)"
+      },
+      "publishDate": "2026-10-24T15:07:57.202Z"
+    },
+    {
+      "id": "deck-q2-fy27-earnings-oct-22",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Deckers Brands (DECK) Q2 FY27 (Wed Oct 22 after close) — record quarterly revenue $1.481B (+3.5% Y/Y, +2.8% cc); diluted EPS $2.31 (+27% Y/Y, incl $0.28 IEEPA tariff refund benefit); HOKA $677.2M (+6.8%); UGG $786.4M (+3.5%); international $644.7M (+9.0%) outruns domestic $835.8M (-0.4%); wholesale $1.093B (+5.5%), DTC $387.5M (-1.8%, comp DTC -6.4%); gross margin 60.5% (+430bp, tariff refunds ~310bp); op income $389.5M (vs $326.5M); Q2 buyback 3.2M shares for $299.3M (avg $93.65), H1 total $637.5M; FY27 diluted EPS guide RAISED to $7.80–$7.95 (incl ~$0.52 refund benefit), net sales $5.700–$5.725B, GM ~58.5%, op margin ~23%; stock -4.91% to $81.09 Fri Oct 23; Telsey PT cut to $90 from $105",
+      "org": "Deckers Brands",
+      "tickers": [
+        "DECK"
+      ],
+      "date": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000910521/000091052126000028/deckex991pressrelease-9302.htm",
+      "summary": "DECK Q2 FY27: record $1.481B revenue (+3.5% Y/Y), diluted EPS $2.31 (+27%, incl $0.28 IEEPA tariff refund). HOKA +6.8%, UGG +3.5%, international +9.0%. Gross margin 60.5% (+430bp). FY27 EPS guide raised to $7.80–$7.95. Stock -4.91% to $81.09 Fri.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-record",
+        "guidance-raise",
+        "footwear",
+        "hoka",
+        "ugg",
+        "ieepa-tariff-refund",
+        "tariff-benefit",
+        "buyback",
+        "q2-fy27",
+        "international-growth",
+        "dtc-weakness",
+        "oct-22-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$1,481M (+3.5% Y/Y, +2.8% cc)",
+        "HOKA revenue": "$677.2M (+6.8%)",
+        "UGG revenue": "$786.4M (+3.5%)",
+        "Other brands revenue": "$17.0M (-54.3%)",
+        "Domestic revenue": "$835.8M (-0.4%)",
+        "International revenue": "$644.7M (+9.0%)",
+        "Wholesale revenue": "$1,093M (+5.5%)",
+        "DTC revenue": "$387.5M (-1.8%; comp DTC -6.4%)",
+        "Gross margin": "60.5% (+430bp, incl ~310bp from tariff refunds)",
+        "Operating income": "$389.5M (vs $326.5M Y/Y)",
+        "Diluted EPS": "$2.31 (+27% Y/Y, incl $0.28 tariff benefit)",
+        "Q2 buyback": "3.2M shares for $299.3M (avg $93.65)",
+        "H1 FY27 buyback": "$637.5M",
+        "Buyback authorization remaining": "~$4.4B",
+        "FY27 EPS guide": "$7.80–$7.95 (incl ~$0.52 tariff benefit)",
+        "FY27 net sales guide": "$5.700B–$5.725B",
+        "FY27 GM guide": "~58.5%",
+        "FY27 op margin guide": "~23%",
+        "FY27 buyback assumption": "~$1.0B",
+        "Move": "-4.91% to $81.09 Fri Oct 23"
+      },
+      "explainer": {
+        "tagline": "Record Q2 and a raised FY27 EPS guide — but the stock fell 5% as DTC comps slipped and most of the EPS boost came from tariff refunds, not operations.",
+        "whatIsIt": "Deckers Brands reported fiscal Q2 2027 after the close on Wednesday Oct 22 for the quarter ended September 30, 2026. The HOKA and UGG parent posted record Q2 revenue of $1.481 billion, up 3.5% year over year (+2.8% constant currency), diluted EPS of $2.31 (up 27% Y/Y), and raised full-year diluted EPS guidance to $7.80–$7.95. Shares fell 4.91% to $81.09 on Friday Oct 23 as the market zeroed in on the DTC softness and the share of EPS upside driven by tariff refunds rather than core operations.",
+        "howItWorks": "By brand: HOKA revenue $677.2M (+6.8%), UGG $786.4M (+3.5%), 'other brands' $17.0M (-54.3%). By geography: international $644.7M (+9.0%) materially outran domestic $835.8M (-0.4%). By channel: wholesale $1.093B (+5.5%) carried the quarter while DTC fell to $387.5M (-1.8%), with comparable DTC sales down 6.4%. Gross margin expanded to 60.5% from 56.2%, boosted by about 310bp from IEEPA tariff net refunds received in the quarter. Operating income climbed to $389.5M from $326.5M. Diluted EPS of $2.31 includes a $0.28 benefit from those refunds (so ex-tariff EPS was ~$2.03). Deckers bought back 3.2M shares in Q2 for $299.3M at an average $93.65 — well above Friday's $81.09 close — and has repurchased $637.5M year-to-date, with roughly $4.4B still authorized. The raised FY27 outlook: net sales $5.700–$5.725B, HOKA high-single-digit growth, UGG low-single-digit growth, GM ~58.5%, SG&A ~35.5% of sales, operating margin ~23%, diluted EPS $7.80–$7.95 (incl ~$0.52 tariff refund benefit), ~$1.0B in share repurchases. Post-print, Telsey Advisory held Market Perform and cut its price target to $90 from $105.",
+        "whyItMatters": "DECK is the bellwether for premium footwear outside Nike, and the quarter confirms the HOKA/UGG duopoly is still growing — but through international and wholesale rather than the once-dominant DTC channel. The comp DTC decline of 6.4% is the second straight quarter of DTC softness and matters for peers that depend on direct channels (ONON, BIRK, CROX). The reliance on a transient IEEPA tariff refund for a meaningful chunk of the EPS raise explains the price action: investors want to see the underlying margin story stand without it. Read-through to the broader soft-lines group (NKE, LULU, VFC, UA, SKX) and to apparel importers with similar IEEPA refund exposure.",
+        "forWho": "Consumer / soft-lines discretionary analysts; tariff-policy watchers",
+        "tryIt": "https://ir.deckers.com/"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_71338783c7eeea768ab19220a3961d95/deckers/db/3588/33213/social_image_resized.jpg",
+        "alt": "Deckers Brands corporate branding — HOKA and UGG parent",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q2 FY27 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000910521/000091052126000028/deckex991pressrelease-9302.htm"
+        },
+        {
+          "label": "Deckers Investor Relations",
+          "url": "https://ir.deckers.com/"
+        },
+        {
+          "label": "DECK Chart",
+          "url": "https://finance.yahoo.com/quote/DECK/"
+        },
+        {
+          "label": "Prior Q1 FY27 Release",
+          "url": "https://ir.deckers.com/sec-filings/all-sec-filings/content/0000910521-26-000015/deckex991pressrelease-6302.htm"
+        }
+      ],
+      "reddit": {
+        "title": "Deckers (DECK) Q2 FY27: record $1.48B revenue, EPS $2.31 (+27%) — but $0.28 of EPS was tariff refund and DTC comps fell 6.4%, stock -4.91% to $81.09",
+        "body": "Deckers reported fiscal Q2 2027 Wed Oct 22 after close. Headline beat with a raised FY27 EPS guide, but the stock fell 5% as the market read through to the tariff-refund dependency and softening DTC trends.\n\n* Revenue $1.481B (+3.5% Y/Y, +2.8% cc) — a record Q2\n* Diluted EPS $2.31 (+27% Y/Y) — includes $0.28 from IEEPA tariff refunds (ex-tariff ~$2.03)\n* HOKA $677.2M (+6.8%); UGG $786.4M (+3.5%)\n* International $644.7M (+9.0%); domestic $835.8M (-0.4%)\n* Wholesale +5.5%; DTC -1.8% (comp DTC -6.4%)\n* Gross margin 60.5% (+430bp; ~310bp from tariff refunds)\n* Q2 buyback: 3.2M shares for $299.3M at $93.65 avg (well above Fri's $81.09 close)\n* FY27 EPS guide raised to $7.80–$7.95 (incl ~$0.52 tariff benefit); net sales $5.700–$5.725B\n* Stock -4.91% to $81.09 Fri Oct 23; Telsey cut PT to $90 from $105\n\nWhy the stock fell despite the raise:\n\n1. **Tariff refund is a one-time boost** — $0.28 of the EPS came from IEEPA tariff net refunds, and ~$0.52 of the full-year guide. Ex-refund EPS run-rate is noticeably lower.\n2. **DTC comp fell 6.4%** — the second straight quarter of weakness in the channel that once drove margin leverage; wholesale carried the quarter.\n3. **Domestic softness** — US sales -0.4% while international did +9.0%. The US consumer story on premium footwear is cracking.\n\nFull breakdown: [https://stock-tldr.xyz/releases/deck-q2-fy27-earnings-oct-22](https://stock-tldr.xyz/releases/deck-q2-fy27-earnings-oct-22)"
+      },
+      "publishDate": "2026-10-24T15:07:57.202Z"
+    },
     {
       "id": "be-q3-2026-earnings-oct-22",
       "categories": [
