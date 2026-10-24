@@ -14730,6 +14730,31 @@
         "rumor",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261024t022231z",
+      "timestamp": "2026-10-24T02:22:31.535Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: Bloom Energy Q3 2026 beat/raise with record $1.24B revenue, but stock -11.24% on Friday as operating cash flow swung to -$27M and capex tripled to $153.5M.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "be-q3-2026-earnings-oct-22",
+          "title": "Bloom Energy (BE) Q3 2026 (Thu Oct 22 after close) — record revenue $1,235.8M (+138.1% Y/Y) crushes consensus; GAAP diluted EPS $0.78 (vs -$0.10 Y/Y); non-GAAP diluted EPS $0.94 (+$0.79 Y/Y); non-GAAP GM 34.5% (+412bp); adj EBITDA $299.5M; FY26 guide RAISED (3rd time) to revenue $4.4–$4.6B (from $3.9–$4.2B) and non-GAAP EPS $3.10–$3.40 (from $2.55–$2.85); BUT operating cash flow -$27.1M (vs +$226M Q2), capex $153.5M (3x Q/Q), implied FCF -$180.6M; stock -11.24% Fri Oct 23 to $193.30",
+          "category": "earnings",
+          "note": "Record quarter and third FY26 guide hike (Thu Oct 22 after close), but a surprise swing to negative operating cash flow and 3x capex ramp sent BE -11.24% Fri Oct 23 — the AI data-center power pure-play's first visible cash-burn signal."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
