@@ -14808,6 +14808,35 @@
         "rumor",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261025t151604z",
+      "timestamp": "2026-10-25T15:16:04.594Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Fri Oct 23 oil-led selloff (Dow -652, Brent $116.72 6-mo high) distinct from Thu Oct 22's AI-capex tech rout already in the feed. Scanned earnings, M&A, crypto, central banks for Oct 23–25 window; nothing else cleared the inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dow-oil-spike-iran-selloff-oct-23-2026",
+          "title": "Dow -1.23% Fri Oct 23 2026 — oil-led selloff as Brent hits $116.72 (6-month high) on US-Iran strike reports — WTI $103.27 (+3.8%), 10Y back near 5%; AmEx -3% on 5% layoff announcement",
+          "category": "mover",
+          "note": "Session-level market move on named catalyst (oil spike + Iran escalation reports); covered by CNBC, Yahoo, Washington Times/AP, forex.com; distinct from Thu Oct 22 Nasdaq tech-rout entry."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "commodity",
+        "macro",
+        "earnings",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }

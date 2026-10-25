@@ -1,8 +1,97 @@
 {
-  "generatedAt": "2026-10-25T02:08:50.719Z",
+  "generatedAt": "2026-10-25T15:16:04.594Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dow-oil-spike-iran-selloff-oct-23-2026",
+      "categories": [
+        "mover",
+        "commodity",
+        "macro"
+      ],
+      "title": "Dow -1.23% Fri Oct 23 2026 — oil-led selloff as Brent hits $116.72 (6-month high) on US-Iran strike reports — WTI $103.27 (+3.8%), 10Y back near 5%; AmEx -3% on 5% layoff announcement",
+      "org": "U.S. Equities",
+      "date": "2026-10-23",
+      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+      "summary": "Oil-driven broad selloff Fri Oct 23 ahead of Oct 27–28 FOMC. Dow -652.84 to 52,215.16 (-1.23%); S&P 500 -39.75 to 7,623.68 (-0.52%); Nasdaq -53.56 to 25,955.34 (-0.21%); Brent $116.72, WTI $103.27.",
+      "tags": [
+        "us-equities",
+        "oil-spike",
+        "brent",
+        "wti",
+        "iran",
+        "dow",
+        "sp500",
+        "nasdaq",
+        "amex",
+        "layoffs",
+        "fomc-preview",
+        "treasuries",
+        "10y-yield"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^DJI",
+        "^GSPC",
+        "^IXIC",
+        "CL=F",
+        "AXP"
+      ],
+      "metrics": {
+        "Dow": "52,215.16 (-652.84, -1.23%)",
+        "S&P 500": "7,623.68 (-39.75, -0.52%)",
+        "Nasdaq": "25,955.34 (-53.56, -0.21%)",
+        "Russell 2000": "2,775.90 (-0.29%)",
+        "Brent": "$116.72 (+3.1%, 6-month high)",
+        "WTI (Dec)": "$103.27 (+3.82%)",
+        "10Y yield": "~4.99% (+~4bp)",
+        "VIX": "19.45 (+2.21%)",
+        "Gold": "$4,007.90 (-1.29%)",
+        "AXP move": "-~3%"
+      },
+      "explainer": {
+        "tagline": "Dow drops 652 pts as Brent clears $116 on reports US and Israel are weighing fresh strikes on Iran.",
+        "whatIsIt": "Friday Oct 23 was an oil-led selloff on Wall Street. Reports that the US and Israel were planning renewed attacks on Iran — paired with American embassy drawdowns in the Middle East — pushed Brent to a six-month high above $116 and dragged the Dow down 652 points. The S&P 500 and Nasdaq held up better, with cybersecurity names leading the tape.",
+        "howItWorks": "Dow Jones closed at 52,215.16 (-1.23%), S&P 500 at 7,623.68 (-0.52%), Nasdaq Composite at 25,955.34 (-0.21%). Brent crude settled at $116.72 (+3.1%), its highest since April. WTI (Dec contract) traded at $103.27 (+3.82%). The 10-year Treasury yield rose about 4 basis points to ~4.99%, after Thursday's biggest one-day drop in two years. American Express fell ~3% after disclosing plans to cut roughly 5% of its workforce (~3,500 jobs); Chevron and ConocoPhillips rose on the oil bid; SailPoint, Cloudflare and Palo Alto Networks each gained >7% on cybersecurity budget optimism.",
+        "whyItMatters": "The Dow's price-weighted structure amplified AmEx's layoff-driven slide and the broader oil-sensitivity trade, while the tech-heavy Nasdaq was shielded by cyber bids. Rising energy prices and higher Treasury yields raise the inflation-pass-through risk heading into the Oct 27–28 FOMC meeting, where markets are now reassessing the path of rate cuts. Oil-complex names (CVX, COP, VLO, XOM) benefit on the energy bid; airlines (UAL, DAL, AAL) and transports take the hit on higher jet fuel.",
+        "forWho": "macro traders, energy desks, FOMC watchers",
+        "tryIt": "https://finance.yahoo.com/quote/CL%3DF"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108408962-1791988869475-gettyimages-2300173684-mms24890_uqhapfei.jpeg?v=1791992160&w=1920&h=1080",
+        "alt": "New York Stock Exchange trading floor during an oil-driven selloff",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "CNBC Market Wrap",
+          "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+        },
+        {
+          "label": "Yahoo Live Blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html"
+        },
+        {
+          "label": "S&P 500 Quote",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+        },
+        {
+          "label": "WTI Crude",
+          "url": "https://finance.yahoo.com/quote/CL%3DF/"
+        },
+        {
+          "label": "10Y Yield",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "reddit": {
+        "title": "Dow -652 pts Friday Oct 23 as Brent hits $116 on US-Iran strike reports — oil-led selloff ahead of next week's FOMC",
+        "body": "Friday Oct 23 was an oil-led broadening of this week's selloff. Dow took the hit; Nasdaq held up on cyber bids.\n\n* Dow 52,215.16 (-652.84, -1.23%)\n* S&P 500 7,623.68 (-0.52%)\n* Nasdaq Composite 25,955.34 (-0.21%)\n* Russell 2000 2,775.90 (-0.29%)\n* Brent $116.72 (+3.1%, 6-month high)\n* WTI (Dec) $103.27 (+3.82%)\n* 10Y yield back near 5% (~4.99%)\n* VIX 19.45 (+2.21%); Gold $4,007.90 (-1.29%)\n\nWhat broke:\n\n1. **Oil spike on fresh US-Iran escalation reports** — US and Israel reportedly weighing renewed strikes; State Dept drew down Mideast embassies. Brent cleared $116, highest since April.\n2. **Dow dragged by AmEx -~3%** on announcement of ~5% workforce cut (~3,500 jobs). Price-weighted index punished.\n3. **Nasdaq cushioned by cybersecurity bids** — SailPoint, Cloudflare, Palo Alto Networks each +>7%. Energy names (CVX, COP) also rose.\n\nNext catalysts: FOMC decision Wed Oct 28 (no SEP), GOOGL + MSFT earnings AMC Tue Oct 27, AMZN after close Wed Oct 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dow-oil-spike-iran-selloff-oct-23-2026](https://stock-tldr.xyz/releases/dow-oil-spike-iran-selloff-oct-23-2026)"
+      },
+      "publishDate": "2026-10-25T15:16:04.594Z"
+    },
     {
       "id": "lkq-q3-2026-preliminary-ceo-change-oct-23",
       "categories": [
