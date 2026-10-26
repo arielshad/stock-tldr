@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-10-26T02:08:26.304Z",
+  "generatedAt": "2026-10-26T17:51:11.548Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "anthropic-s1-filing-ant-nasdaq-oct-26-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "Anthropic PBC files public S-1 Sun Oct 26 2026 — plans Nasdaq listing under ticker ANT; H1 2026 revenue $16.3B (Q2 alone $11.6B vs $4.6B full-year 2025), Q2 operating profit $974M (flip from $1.7B Q1 operating loss); H1 net loss $80.7B driven mostly by convertible-note revaluations; ~5,300 employees Sept 30 ($6.6M revenue per employee TTM vs $1.4M y/y); 80% consumption-based revenue; Goldman Sachs & Morgan Stanley listed as underwriter contacts; shares/price range TBD; EDGAR accession 0001628280-26-067168, SEC file 333-299633; seven co-founders retain 50.1% voting control via supervoting class; reporting pegs targeted valuation $1.5T–$2T with pre-Thanksgiving trading start",
+      "org": "Anthropic",
+      "date": "2026-10-26",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "summary": "Anthropic filed a public S-1 with the SEC Sunday Oct 26, planning to list on Nasdaq as 'ANT'. H1 revenue $16.3B with Q2 operating profit $974M; $80.7B H1 net loss on note revaluations. Goldman and Morgan Stanley lead.",
+      "tags": [
+        "ipo",
+        "s-1",
+        "anthropic",
+        "ant",
+        "nasdaq",
+        "ai",
+        "frontier-ai",
+        "goldman-sachs",
+        "morgan-stanley",
+        "edgar"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ANT"
+      ],
+      "metrics": {
+        "H1 2026 revenue": "$16.3B (vs $4.6B full-year 2025)",
+        "Q2 2026 revenue": "$11.6B (vs $4.7B Q1)",
+        "Q2 operating profit": "$974M (vs $1.7B Q1 operating loss)",
+        "H1 2026 net loss": "$80.7B (note revaluations)",
+        "Employees": "~5,300 (Sept 30)",
+        "Revenue per employee (TTM)": "$6.6M (vs $1.4M y/y)",
+        "Consumption-based mix (H1)": "80%",
+        "Co-founder voting control": "50.1%"
+      },
+      "explainer": {
+        "tagline": "Anthropic files a public S-1 — plans Nasdaq listing under 'ANT' with $11.6B of Q2 revenue and a $974M operating profit.",
+        "whatIsIt": "Anthropic, PBC filed a Form S-1 registration statement with the SEC on Sunday October 26, officially kicking off its public IPO process. The company intends to list its Class A common stock on the Nasdaq Global Select Market under the ticker 'ANT.' The filing isn't effective yet; share count and price range are still TBD.",
+        "howItWorks": "First-half 2026 revenue was $16.3B — Q2 alone was $11.6B (vs $4.7B in Q1 and $4.6B for all of 2025). Anthropic flipped from a $1.7B operating loss in Q1 to a $974M operating profit in Q2. Reported H1 net loss of $80.7B is driven mostly by convertible-note revaluations rather than cash burn. Head count was ~5,300 as of September 30, implying $6.6M revenue per employee on a trailing basis (vs $1.4M a year earlier). Consumption-based revenue was 80% of H1; subscriptions 20%. Goldman Sachs and Morgan Stanley are listed as the underwriter contacts; seven co-founders hold 50.1% voting control via a special share class.",
+        "whyItMatters": "This is the most-anticipated U.S. tech IPO since SpaceX. The S-1 confirms Anthropic cleared the $11.6B single-quarter revenue bar and reached operating profitability in Q2 — a reset of what public-market investors thought was possible for a frontier-AI lab. Reporting puts the targeted valuation at $1.5T–$2T, with trading reportedly starting pre-Thanksgiving. Post-listing index-fund forced buying is on the table (same mechanic SpaceX triggered this summer), and the filing re-prices Anthropic's listed comps and compute counter-parties.",
+        "forWho": "IPO desks, AI-exposure allocators, SpaceX/CoreWeave comp traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+      },
+      "image": {
+        "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "alt": "Anthropic logo on dark background accompanying its S-1 filing announcement",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Anthropic Press Release",
+          "url": "https://www.anthropic.com/news/s1-sec"
+        },
+        {
+          "label": "SEC EDGAR Filing Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.htm"
+        },
+        {
+          "label": "S-1 Primary Document",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+        },
+        {
+          "label": "Yahoo Finance Live Blog",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+        }
+      ],
+      "reddit": {
+        "title": "Anthropic files S-1 publicly — plans to list as ANT on Nasdaq, Q2 revenue $11.6B and $974M operating profit, H1 2026 revenue $16.3B",
+        "body": "Anthropic filed a public Form S-1 with the SEC on Sunday Oct 26 — the most-anticipated US tech IPO since SpaceX is officially on the public-filing track.\n\n* Ticker: **ANT** on Nasdaq Global Select Market\n* H1 2026 revenue: $16.3B (vs $4.6B all of 2025)\n* Q2 2026 revenue: $11.6B (vs $4.7B in Q1)\n* Q2 operating profit: $974M — flip from a $1.7B Q1 operating loss\n* H1 2026 net loss: $80.7B — mostly convertible-note revaluations, not cash burn\n* Headcount: ~5,300 — revenue per employee $6.6M TTM, up from $1.4M a year earlier\n* Underwriter contacts: Goldman Sachs & Morgan Stanley\n\nStructure and timing per the filing + reporting:\n\n1. **Seven co-founders retain 50.1% voting control** — supervoting share class\n2. **Consumption-based revenue is 80% of H1** — enterprise/API dominant, subscriptions just 20%\n3. **Reported valuation range $1.5T–$2T** — would be the largest tech IPO ever\n4. **Trading reportedly starts the week of Nov. 16** — pre-Thanksgiving target per WSJ coverage; share count and price range left blank in the filing\n\nNext catalysts: SEC effectiveness, pricing amendment with share count + range, roadshow kickoff.\n\nFull breakdown: [https://stock-tldr.xyz/releases/anthropic-s1-filing-ant-nasdaq-oct-26-2026](https://stock-tldr.xyz/releases/anthropic-s1-filing-ant-nasdaq-oct-26-2026)"
+      },
+      "publishDate": "2026-10-26T17:51:11.548Z"
+    },
     {
       "id": "btc-sub-80k-mideast-evac-oct-24-2026",
       "categories": [

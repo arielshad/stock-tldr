@@ -14863,6 +14863,34 @@
         "mover",
         "macro"
       ]
+    },
+    {
+      "id": "sweep-20261026t175111z",
+      "timestamp": "2026-10-26T17:51:11.548Z",
+      "source": "github-actions-sweep",
+      "summary": "Sunday Oct 26 sweep — added Anthropic's public S-1 filing (planned Nasdaq ticker 'ANT'): H1 2026 revenue $16.3B, Q2 operating profit $974M, H1 net loss $80.7B on note revaluations, Goldman/Morgan Stanley underwriters. Weekend Middle East / BTC flow is already covered by the Oct 24 BTC entry; no other primary-source-confirmed events clear the 72h bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "anthropic-s1-filing-ant-nasdaq-oct-26-2026",
+          "title": "Anthropic PBC files public S-1 Sun Oct 26 2026 — plans Nasdaq listing under ticker ANT; H1 2026 revenue $16.3B (Q2 alone $11.6B vs $4.6B full-year 2025), Q2 operating profit $974M (flip from $1.7B Q1 operating loss); H1 net loss $80.7B driven mostly by convertible-note revaluations; ~5,300 employees Sept 30 ($6.6M revenue per employee TTM vs $1.4M y/y); 80% consumption-based revenue; Goldman Sachs & Morgan Stanley listed as underwriter contacts; shares/price range TBD; EDGAR accession 0001628280-26-067168, SEC file 333-299633; seven co-founders retain 50.1% voting control via supervoting class; reporting pegs targeted valuation $1.5T–$2T with pre-Thanksgiving trading start",
+          "category": "ipo",
+          "note": "Most-anticipated US tech IPO since SpaceX — public S-1 with concrete H1 financials filed on EDGAR today, confirmed on Anthropic.com + Yahoo Finance Live. Primary sources (anthropic.com, SEC EDGAR) both verified in this run."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "crypto",
+        "macro",
+        "mover",
+        "earnings"
+      ]
     }
   ]
 }
