@@ -14837,6 +14837,32 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261026t020826z",
+      "timestamp": "2026-10-26T02:08:26.304Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: weekend crypto flush — BTC to ~$79.1K 5-week low Sat Oct 24 after WSJ reports US accelerating Mideast embassy evacuations on Iran-threat intel; ~$728M 24h crypto liquidations and ~$773M two-day spot-BTC ETF outflows preceding. Scanned equities (quiet weekend), earnings (next wave begins Mon Oct 26 AMC), macro (FOMC still Wed Oct 28), M&A (Lionsgate-Legendary already stale from Oct 20-22), oil (Brent $116 story covered in existing Oct 23 item).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "btc-sub-80k-mideast-evac-oct-24-2026",
+          "title": "Bitcoin slides to ~$79.1K 5-week low Sat Oct 24 2026 on US Middle East embassy evacuations — ETH/XRP/SOL -3-4%, ~$728M 24h crypto liquidations incl ~$234M BTC longs, ~$773M spot-BTC ETF outflows Oct 22-23",
+          "category": "crypto",
+          "note": "Weekend-specific crypto flush with clean geopolitical catalyst, confirmed by CoinDesk (Stephen Alpher) + WSJ scoop reported Saturday morning; distinct from Fri Oct 23 Dow/oil/equities item which was pre-WSJ-headline."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }

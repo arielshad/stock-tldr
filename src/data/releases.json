@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-10-25T15:16:04.594Z",
+  "generatedAt": "2026-10-26T02:08:26.304Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "btc-sub-80k-mideast-evac-oct-24-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Bitcoin slides to ~$79.1K 5-week low Sat Oct 24 2026 on US Middle East embassy evacuations — ETH/XRP/SOL -3-4%, ~$728M 24h crypto liquidations incl ~$234M BTC longs, ~$773M spot-BTC ETF outflows Oct 22-23",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-10-24",
+      "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "summary": "Bitcoin fell 2.2% in 24h to $79,700 Sat Oct 24, intraday low near $79,100 (5-week low), after WSJ reported Saturday the US is rapidly evacuating personnel from Middle East embassies on Iran-threat intel. ETH, XRP, SOL each -3-4%.",
+      "tags": [
+        "bitcoin",
+        "crypto",
+        "btc",
+        "etf-outflows",
+        "liquidation",
+        "iran",
+        "middle-east",
+        "geopolitics",
+        "weekend-selloff"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD",
+        "XRP-USD"
+      ],
+      "metrics": {
+        "BTC Sat Oct 24 low": "~$79,100 (5-week low)",
+        "BTC 24h (per CoinDesk)": "-2.2% to $79,700",
+        "BTC Sun Oct 25": "~$80,312 (-1.95% WoW)",
+        "ETH Sun Oct 25": "~$2,332 (-3.41% WoW)",
+        "SOL Sun Oct 25": "~$100.93 (-2.81% WoW)",
+        "24h crypto liquidations": "~$727.8M (longs ~$686.9M)",
+        "24h BTC liquidations": "~$239.7M ($234M longs, $16.6M shorts)",
+        "Spot BTC ETF outflow Oct 22": "-$635.5M (IBIT -$254.1M, FBTC -$217.5M)",
+        "Spot BTC ETF outflow Oct 23": "-$137.9M",
+        "Spot BTC ETF 2-day total": "-~$773M"
+      },
+      "explainer": {
+        "tagline": "Bitcoin broke below $80K to a 5-week low Saturday after the US accelerated Middle East embassy evacuations on fresh Iran-threat intel.",
+        "whatIsIt": "Bitcoin fell 2.2% in the 24 hours into Saturday morning Oct 24 to $79,700, with an intraday low near $79,100 — the weakest level in more than a month. The catalyst was a WSJ scoop Saturday morning that the US is quickly pulling diplomatic personnel from embassies and military bases across the Middle East after an intelligence assessment that Iran has intensified plans to target Americans. Ether, XRP and Solana each shed 3-4%.",
+        "howItWorks": "A Friday memo from Director of National Intelligence Jay Clayton to Secretary of State Marco Rubio reportedly wrote that 'Iran has substantially increased efforts to target U.S. personnel.' At a Friday Florida rally, President Trump told the crowd 'We may do another little \"Epic Fury\"' — a reference to the earlier US-Iran strike campaign he has threatened to re-escalate after the November midterms. By Sunday Bitcoin was back near $80,312 (-1.95% on the week), ETH $2,332 (-3.41%) and SOL $100.93 (-2.81%). 24h crypto liquidations ran ~$727.8M across ~196K traders, long-skewed at ~$686.9M; BTC-specific liquidations were ~$239.7M. US spot Bitcoin ETFs had already shed ~$635.5M on Thursday Oct 22 (IBIT -$254.1M, FBTC -$217.5M) and another ~$137.9M on Friday Oct 23, a two-day pull of ~$773M that primed the weekend break.",
+        "whyItMatters": "This is a textbook geopolitics-driven crypto flush: the trigger is a weekend headline — unavailable to spot-ETF traders — that force-feeds leverage out of 24/7 markets. The ~$773M in two-day spot-ETF outflows is the biggest signal; it says the marginal institutional buyer that carried the September rally is now on the sidelines ahead of a Fed decision Wed Oct 28 and an $11B BTC options expiry at the end of the month. Watch the $78K support shelf cited by Glassnode and the $82.4K 20-day SMA on the upside.",
+        "forWho": "crypto traders, macro desks, ETF allocators",
+        "tryIt": "https://www.coindesk.com/price/bitcoin"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/s3y3vcno/production/3cbbb05ae60659ef1c46287aae06ad1132421ba3-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "alt": "Bitcoin price slides below $80,000 on US Middle East evacuations",
+        "fit": "cover",
+        "credit": "CoinDesk"
+      },
+      "links": [
+        {
+          "label": "CoinDesk Report",
+          "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations"
+        },
+        {
+          "label": "WSVN on Evacuations",
+          "url": "https://wsvn.com/news/us-world/us-diplomats-middle-east-evacuations/"
+        },
+        {
+          "label": "Cryptonomist Weekend Recap",
+          "url": "https://en.cryptonomist.ch/2026/10/25/bitcoin-value-faces-bearish-hourly-pressure-daily-october-25-2026"
+        },
+        {
+          "label": "BTC Price (CoinDesk)",
+          "url": "https://www.coindesk.com/price/bitcoin"
+        }
+      ],
+      "reddit": {
+        "title": "Bitcoin breaks below $80K to a 5-week low Saturday — WSJ scoop that US is rapidly evacuating Mideast embassies on Iran-threat intel triggers weekend flush, $773M in two-day spot-BTC ETF outflows priming the move",
+        "body": "Bitcoin fell to a 5-week low Saturday Oct 24 after the WSJ reported Saturday morning that the US is quickly pulling personnel from Middle East embassies and military bases on intelligence Iran is prepping attacks on Americans. ETH, XRP, SOL -3-4%.\n\n* BTC Sat Oct 24 low ~$79,100; -2.2% 24h to $79,700 (per CoinDesk)\n* BTC Sun Oct 25 ~$80,312 (-1.95% WoW)\n* ETH ~$2,332 (-3.41% WoW); SOL ~$100.93 (-2.81% WoW); XRP ~$1.30\n* 24h crypto liquidations ~$727.8M across ~196K traders — longs ~$686.9M (94%)\n* BTC-specific liquidations ~$239.7M ($234M longs, $16.6M shorts)\n* Spot BTC ETFs bled ~$635.5M Thu Oct 22 (IBIT -$254M, FBTC -$218M) + ~$137.9M Fri Oct 23 = ~$773M two-day\n\nWhat broke:\n\n1. **WSJ scoop on evacuations** — reports accelerated State Dept pull-back from embassies in Saudi Arabia, Jordan, Lebanon, Qatar, UAE after DNI Jay Clayton told Rubio in a Friday memo \"Iran has substantially increased efforts to target U.S. personnel.\"\n2. **Trump re-escalation hint** — at a Florida rally Friday, he told the crowd \"We may do another little 'Epic Fury,'\" referencing the earlier US-Iran strike campaign.\n3. **Leverage was already fragile** — $773M in two-day spot-BTC ETF outflows signalled the marginal institutional bid was gone before the weekend headline hit.\n\nNext catalysts: FOMC decision Wed Oct 28, PCE Fri Oct 31, ~$11B BTC options expiry end-of-month, GOOGL + MSFT earnings AMC Tue Oct 27.\n\nFull breakdown: [https://stock-tldr.xyz/releases/btc-sub-80k-mideast-evac-oct-24-2026](https://stock-tldr.xyz/releases/btc-sub-80k-mideast-evac-oct-24-2026)"
+      },
+      "publishDate": "2026-10-26T02:08:26.304Z"
+    },
     {
       "id": "dow-oil-spike-iran-selloff-oct-23-2026",
       "categories": [
