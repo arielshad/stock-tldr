@@ -1,8 +1,246 @@
 {
-  "generatedAt": "2026-10-26T17:51:11.548Z",
+  "generatedAt": "2026-10-27T02:49:46.027Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "brazil-ibovespa-crash-lula-win-oct-26-2026",
+      "categories": [
+        "macro",
+        "fx",
+        "mover"
+      ],
+      "title": "Brazil's Ibovespa plunges 13.88% to 176,608 Mon Oct 26 2026 — worst day since March 2020 after Lula wins Oct 25 runoff ~51.79% vs Flávio Bolsonaro ~48.21%; USD/BRL +8.4% to R$5.4154; EWZ ETF close -19.8% at $34.15; B3 triggers circuit breaker after 10% drop; Bradesco -21.70%, Itaú Unibanco -13.66%, Petrobras ~-8%; Vale +4.01% and Suzano +~10% on dollar-earner bid",
+      "org": "B3 (Brasil, Bolsa, Balcão)",
+      "date": "2026-10-26",
+      "url": "https://www.riotimesonline.com/brazil-stocks-close-down-13-9-percent-lula-win-2026/",
+      "summary": "Ibovespa crashes 13.88% to 176,608 on Lula's Oct 25 runoff win vs Flávio Bolsonaro — biggest one-day drop since March 2020. BRL -8.4% to R$5.41/USD; EWZ -19.8%; B3 trips circuit breaker.",
+      "tags": [
+        "brazil",
+        "ibovespa",
+        "ewz",
+        "lula",
+        "flavio-bolsonaro",
+        "runoff",
+        "election",
+        "em-equities",
+        "circuit-breaker",
+        "brl",
+        "real",
+        "fx",
+        "petrobras",
+        "vale",
+        "bradesco",
+        "itau"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "EWZ"
+      ],
+      "metrics": {
+        "Ibovespa": "176,608 (-13.88%)",
+        "Prior close": "205,082.56 (Fri Oct 23)",
+        "Intraday low": "~169,516 (-17.3%)",
+        "USD/BRL": "R$5.4154 (+8.4% vs R$4.99 Fri)",
+        "EWZ close": "$34.15 (-19.8%)",
+        "Vale": "+4.01% to R$64.38",
+        "Bradesco (pref)": "-21.70% to R$15.95",
+        "Itaú (pref)": "-13.66% to R$41.70"
+      },
+      "links": [
+        {
+          "label": "Rio Times Close",
+          "url": "https://www.riotimesonline.com/brazil-stocks-close-down-13-9-percent-lula-win-2026/"
+        },
+        {
+          "label": "Rio Times Markets",
+          "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-october-26-2026/"
+        },
+        {
+          "label": "Runoff Results",
+          "url": "https://www.riotimesonline.com/brazil-election-results-2026/"
+        },
+        {
+          "label": "Wikipedia Election",
+          "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
+        }
+      ],
+      "explainer": {
+        "tagline": "Lula's surprise runoff win over Flávio Bolsonaro triggered Brazil's biggest one-day equity crash since March 2020 — Ibovespa -13.88%, BRL -8.4%, EWZ -19.8%.",
+        "whatIsIt": "President Luiz Inácio Lula da Silva won a fourth non-consecutive term in Brazil's Oct 25 presidential runoff with roughly 51.79% of valid votes versus Senator Flávio Bolsonaro's 48.21% (Wikipedia tally with 86.41% counted: 51.45% vs 48.55%). Markets had positioned for a Flávio Bolsonaro win on the back of pre-election polling that showed him narrowly ahead.",
+        "howItWorks": "Monday the Ibovespa fell 13.88% to 176,608.23 from Friday's 205,082.56 close, with an intraday low near 169,516 — B3's circuit breaker was activated after the index fell 10%, the first such halt since March 2020. The real sold off alongside stocks: USD/BRL closed near R$5.4154, up 8.4% from Friday's R$4.99 (intraday peak around R$5.60). The EWZ ETF closed down 19.8% at $34.15 in New York. Domestic-facing names were hit hardest — Bradesco (BBDC4) -21.70% to R$15.95, Itaú (ITUB4) -13.66% to R$41.70, Petrobras roughly -8% — while dollar-earning exporters bucked the move, with Vale (VALE3) +4.01% to R$64.38 and Suzano up roughly 10%.",
+        "whyItMatters": "Investors had read a Bolsonaro-led administration as more likely to push fiscal reforms and spending cuts that could pave the way for lower rates; Lula's win reversed that calculus and triggered concurrent exits from Brazilian equities and the currency. The combined move left Ibovespa roughly -20% in USD terms. The next policy signal is Copom's Nov 4 Selic decision, with the policy rate currently 13.75%, while a hostile Congress — Flávio Bolsonaro's party won the most lower-house seats — sets up legislative gridlock for Lula's second-term fiscal agenda.",
+        "forWho": "EM macro, Latam equity, BRL FX traders",
+        "tryIt": "https://finance.yahoo.com/quote/EWZ/"
+      },
+      "image": {
+        "url": "https://www.riotimesonline.com/wp-content/uploads/2026/07/28200629_Sao_Paulo_Skyline_28955740204129.jpg",
+        "alt": "São Paulo skyline — B3 trading floor city after Ibovespa circuit breaker Oct 26 2026",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Brazil's Ibovespa -13.88% in a single day — worst session since March 2020 after Lula wins runoff; BRL -8.4%, EWZ -19.8%, B3 trips circuit breaker",
+        "body": "Brazil's Monday was the ugliest single session since the March 2020 COVID crash. Markets had positioned for a Flávio Bolsonaro win on pre-runoff polling, and Lula's Sunday victory caught the whole desk offside.\n\n* Ibovespa closed at 176,608 (-13.88%), down from 205,082.56 on Friday; intraday low ~169,516 (-17.3%)\n* B3 tripped the circuit breaker after a 10% drop — first halt since March 2020\n* USD/BRL closed R$5.4154 (+8.4% vs R$4.99 Fri), intraday peak ~R$5.60\n* EWZ ETF closed $34.15 (-19.8%)\n* Combined index + FX hit left Ibovespa roughly -20% in USD terms\n\nWhat drove it:\n\n1. **Polls had Flávio Bolsonaro ahead going in** — most desks were positioned for his fiscal-reform platform (spending cuts → lower rates). Lula won ~51.79% vs 48.21%.\n2. **Domestics got crushed** — Bradesco (pref) -21.70%, Itaú (pref) -13.66%, Petrobras ~-8%.\n3. **Dollar-earners bid** — Vale +4.01% to R$64.38, Suzano ~+10%, as the real crashed.\n4. **Hostile Congress** — Flávio Bolsonaro's party won the most lower-house seats, limiting Lula's room on fiscal.\n\nNext catalysts: Copom (central bank) decides Selic Nov 4 — rate currently 13.75%.\n\nFull breakdown: [https://stock-tldr.xyz/releases/brazil-ibovespa-crash-lula-win-oct-26-2026](https://stock-tldr.xyz/releases/brazil-ibovespa-crash-lula-win-oct-26-2026)"
+      },
+      "publishDate": "2026-10-27T02:49:46.027Z"
+    },
+    {
+      "id": "eqt-range-resources-merger-oct-26-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "EQT Corporation (EQT) to acquire Range Resources (RRC) in all-stock merger announced Mon Oct 26 2026 (agreement dated Oct 25) — pro forma enterprise value >$50B; exchange ratio 0.987 EQT shares per Range share; EQT ~73% / Range ~27% ownership post-close; $325M base annual synergies within 2 years with path to >$600M; $20B cumulative FCF over 5 years at recent strip; combined >9 Bcfe/d net production, ~3M net acres, >3,700 miles midstream; BBB credit metrics expected at close; close targeted Q1 2027 subject to regulatory + both-sides shareholder vote; Range CEO Dennis Degner + one Range nominee join EQT board (expanded to 12 directors); joint companies cancel Q3 earnings calls, release results after close Oct 27",
+      "org": "EQT Corporation",
+      "date": "2026-10-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm",
+      "summary": "EQT announces all-stock acquisition of Range Resources; pro forma EV >$50B. 0.987 exchange ratio, EQT holders ~73% / Range ~27% post-close. $325M base synergies in 2 yrs (path >$600M). Close Q1 2027.",
+      "tags": [
+        "mna",
+        "all-stock",
+        "natural-gas",
+        "appalachia",
+        "marcellus",
+        "utica",
+        "lng",
+        "upstream",
+        "midstream",
+        "shale",
+        "fcf"
+      ],
+      "importance": "major",
+      "tickers": [
+        "EQT",
+        "RRC"
+      ],
+      "metrics": {
+        "Pro forma EV": ">$50B",
+        "Exchange ratio": "0.987 EQT per RRC",
+        "Ownership": "EQT ~73% / RRC ~27%",
+        "Base synergies": "$325M/yr within 2 yrs (path to >$600M)",
+        "5-yr cum FCF": "~$20B at strip",
+        "Combined production": ">9 Bcfe/d",
+        "Net acres": "~3M",
+        "Midstream": ">3,700 miles",
+        "Expected close": "Q1 2027",
+        "EQT board": "12 members post-close"
+      },
+      "links": [
+        {
+          "label": "EQT 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm"
+        },
+        {
+          "label": "EQT 8-K Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea0309601-8k425_eqtcorp.htm"
+        },
+        {
+          "label": "Form 425 Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112245/ea0309601-8k425_eqtcorp.htm"
+        },
+        {
+          "label": "EQT Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/EQT_Corporation"
+        }
+      ],
+      "explainer": {
+        "tagline": "EQT buys Range Resources in all-stock deal valuing the combined natural-gas producer at a pro forma EV above $50 billion; close targeted Q1 2027.",
+        "whatIsIt": "EQT Corporation and Range Resources signed a definitive merger agreement on Oct 25 (announced Oct 26 before the open) under which EQT acquires Range in an all-stock transaction. The combined company would be the largest US natural-gas producer, concentrated in the Marcellus and Utica shales of Appalachia, with pro forma enterprise value exceeding $50 billion.",
+        "howItWorks": "Each Range share converts into 0.987 EQT shares, with cash paid for fractional shares. EQT holders are expected to own about 73% of the combined company and Range holders about 27% on a fully diluted basis. EQT's board expands to 12 directors — Range CEO Dennis Degner plus one additional Range designee join. Both boards approved unanimously; closing is targeted for Q1 2027 subject to regulatory clearances and shareholder votes at both companies. EQT guides to $325M of base annual synergies within two years and a pathway to over $600M longer term, with ~$20B of cumulative free cash flow over five years at recent strip pricing and BBB-quality credit metrics expected at close. The combined platform would operate >9 Bcfe/d of net production across ~3 million net acres with >30 years of inventory and >3,700 miles of midstream infrastructure. Both companies canceled their Q3 2026 earnings calls but still plan to release results after the close on Oct 27.",
+        "whyItMatters": "This is the largest US upstream natural-gas tie-up since EQT's own 2024 Equitrans Midstream deal and creates a Marcellus-dominant supermajor just as LNG export capacity ramps on the Gulf Coast. The deal consolidates Appalachia further — the combined entity would command roughly the entire low-cost Marcellus/Utica dry-gas core — and shifts negotiating leverage with Gulf Coast LNG offtakers, pipeline operators and power-gen buyers. Watch for antitrust review of the Appalachia gas-production concentration and for peer-M&A ripples in Antero (AR), Comstock (CRK), CNX Resources (CNX) and Chesapeake-successor Expand Energy (EXE).",
+        "forWho": "Energy desks, natural-gas commodity traders, LNG strategists",
+        "tryIt": "https://finance.yahoo.com/quote/EQT/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/5/51/EQT_logo.png",
+        "alt": "EQT Corporation logo — Appalachia natural-gas producer announcing Range Resources acquisition",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "EQT buying Range Resources in all-stock deal — pro forma EV >$50B, 0.987 exchange ratio, Marcellus/Utica dominance just as US LNG exports ramp",
+        "body": "EQT Corporation (EQT) and Range Resources (RRC) signed a definitive merger agreement Oct 25 (announced before the open Oct 26). This is the biggest US upstream gas tie-up since EQT's own 2024 Equitrans deal.\n\n* All-stock transaction, pro forma enterprise value **>$50 billion**\n* Exchange ratio: 0.987 EQT shares per Range share (cash for fractions)\n* Post-close ownership: EQT holders ~73%, Range holders ~27%\n* Base synergies: $325M/yr within 2 years; path to >$600M\n* ~$20B cumulative free cash flow over 5 years at recent strip\n* Combined footprint: >9 Bcfe/d production, ~3M net acres, >3,700 miles midstream, >30 years inventory\n* BBB-quality credit metrics expected at close; targeted Q1 2027 close\n\nWhat it means:\n\n1. **Marcellus/Utica consolidation** — combined co commands essentially the whole low-cost dry-gas core of Appalachia.\n2. **LNG export leverage** — pricing power vs Gulf Coast offtakers as US LNG capacity keeps ramping.\n3. **Antitrust risk** — biggest open question. Combined share of Appalachia production will draw a hard look.\n4. **Peer M&A echo** — Antero (AR), CNX Resources (CNX), Comstock (CRK), Expand Energy (EXE) likely in play as #2 and #3 try not to get stranded.\n\nNext catalysts: both companies release Q3 2026 earnings after the close Oct 27 (joint call canceled); shareholder votes and regulatory review ahead of a Q1 2027 close target.\n\nFull breakdown: [https://stock-tldr.xyz/releases/eqt-range-resources-merger-oct-26-2026](https://stock-tldr.xyz/releases/eqt-range-resources-merger-oct-26-2026)"
+      },
+      "publishDate": "2026-10-27T02:49:46.027Z"
+    },
+    {
+      "id": "meta-35b-equity-raise-oct-26-2026",
+      "categories": [
+        "mover"
+      ],
+      "title": "Meta Platforms (META) launches ~$35B concurrent equity raise Mon Oct 26 2026 — $22.5B Class A common via forward sale agreements with Morgan Stanley + Goldman Sachs (+$3.375B underwriter option) and $12.5B of Series A mandatory convertible preferred as 250M depositary shares (listing Nasdaq as METAM, +37.5M share option); NVIDIA, AMD and Broadcom cornerstones indicate up to $5B aggregate interest in common stock; preferred auto-converts ~Aug 15 2029; forward settlement by Nov 19 2027; preliminary prospectus supplement filed Oct 26 under Reg Statement 333-299631; funds continued AI-infrastructure buildout ($135–$145B FY26 capex guide); planned ~$60B Class C ATM program expected to begin Q1 2027 (not yet agreed); Q3 2026 revenue $64.6B, 9M26 operating cash flow $97B, ~$82B cash + marketables at Q3 end",
+      "org": "Meta Platforms",
+      "date": "2026-10-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431036/d116268dfwp.htm",
+      "summary": "Meta launches $22.5B Class A common offering (forward sales w/ MS + GS) plus $12.5B mandatory convertible preferred (Nasdaq: METAM), ~$35B total; NVDA/AMD/AVGO cornerstones up to $5B; funds $135–$145B FY26 AI capex.",
+      "tags": [
+        "equity-raise",
+        "mandatory-convertible",
+        "preferred",
+        "forward-sale",
+        "ai-capex",
+        "ai-infrastructure",
+        "capex",
+        "depositary-shares",
+        "capital-markets",
+        "metam"
+      ],
+      "importance": "major",
+      "tickers": [
+        "META",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "Common stock offering": "$22.5B (+$3.375B option)",
+        "Preferred (depositary shares)": "250M shares @ $50 (~$12.5B) + 37.5M option",
+        "Preferred listing": "Nasdaq METAM",
+        "Headline raise": "~$35B underwritten",
+        "Cornerstone demand": "NVDA + AMD + AVGO up to $5B agg (non-binding)",
+        "Mandatory conversion": "On/about Aug 15, 2029",
+        "Forward settlement": "By Nov 19, 2027",
+        "FY26 capex guide": "$135–$145B",
+        "9M26 operating cash flow": "~$97B",
+        "Q3 cash + marketables": "~$82B",
+        "Planned Class C ATM": "~$60B expected Q1 2027"
+      },
+      "links": [
+        {
+          "label": "Meta FWP (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431036/d116268dfwp.htm"
+        },
+        {
+          "label": "Common 424B5",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431043/d133631d424b5.htm"
+        },
+        {
+          "label": "Preferred 424B5",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431040/d94886d424b5.htm"
+        },
+        {
+          "label": "Shelf S-3ASR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431009/d127909ds3asr.htm"
+        }
+      ],
+      "explainer": {
+        "tagline": "Meta is funding its AI buildout with roughly $35B of concurrent common + mandatory convertible preferred, with NVIDIA, AMD and Broadcom as cornerstone buyers.",
+        "whatIsIt": "On Monday Oct 26 Meta Platforms launched two concurrent underwritten public offerings: $22.5 billion of Class A common stock sold via forward sale agreements with Morgan Stanley Capital Services and Goldman Sachs & Co., and 250 million depositary shares representing fractional interests in a newly issued Series A mandatory convertible preferred stock, raising roughly $12.5 billion at a $50 liquidation preference per depositary share (preferred has a $1,000 per-share liquidation preference, 1/20th interest per depositary share). Underwriters hold 30-day options for an additional $3.375B of common and 37.5M additional depositary shares. The preferred will list on Nasdaq under symbol METAM.",
+        "howItWorks": "The forward sales let Meta price the common offering now but defer receipt of proceeds until settlement, which must occur by Nov 19, 2027; the forward purchasers deliver cash in exchange for Class A shares on dates Meta elects. The Series A preferred automatically converts on or about Aug 15, 2029 into a variable number of Class A (or, if issued and conditions are met, Class C) shares. NVIDIA, AMD and Broadcom indicated non-binding interest to buy up to $5 billion of the common stock in aggregate at the public offering price, making the AI-silicon suppliers cornerstone investors in their largest hyperscaler customer. Meta separately disclosed a planned ~$60 billion Class C ATM program expected to begin Q1 2027 (not yet agreed), implying up to ~$95 billion of total equity capacity when stacked on the current $35B underwritten raise. The company reported $64.6B of Q3 2026 revenue, ~$97B of nine-month operating cash flow and ~$82B of cash and marketable securities at Q3 end.",
+        "whyItMatters": "This is the largest single equity raise by a US mega-cap in the AI era and formalizes the capex arms race that Alphabet's own $85B raise earlier in 2026 kicked off. Issuing stock at today's level accepts dilution to fund $135–$145B of FY26 capex rather than lever further on debt — a strong statement that Meta sees AI-infrastructure returns worth the dilution math. Having NVDA/AMD/AVGO publicly step in as cornerstone equity buyers tightens an already-circular 'customers buying their supplier's stock' loop that cuts both ways: it validates the capex cycle and intensifies the systemic risk if AI monetization undershoots. Watch META for the typical issuance drag, chip names for a buy-the-order read-through, and bank fees/forward hedging flows into Nasdaq option markets.",
+        "forWho": "Capital markets desks, AI-capex watchers, mega-cap equity PMs",
+        "tryIt": "https://finance.yahoo.com/quote/META/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Meta_HQ_2023.png/1280px-Meta_HQ_2023.png",
+        "alt": "Meta Platforms Menlo Park headquarters — Meta launches $35B equity raise to fund AI infrastructure",
+        "fit": "cover"
+      },
+      "reddit": {
+        "title": "Meta just launched a ~$35B concurrent equity raise — $22.5B common via forward sales + $12.5B mandatory convertible preferred, with Nvidia/AMD/Broadcom as cornerstone buyers",
+        "body": "Meta Platforms (META) launched two concurrent underwritten public offerings on Monday Oct 26 to fund its $135–$145B FY26 AI-infrastructure capex guide. This is the biggest single equity raise by a US mega-cap in the AI era.\n\n* **Common stock:** $22.5B of Class A sold via forward sale agreements with Morgan Stanley + Goldman Sachs (+$3.375B underwriter option)\n* **Preferred:** 250M depositary shares @ $50 = ~$12.5B, representing 1/20th interests in Series A mandatory convertible preferred ($1,000 liquidation pref), listing Nasdaq as METAM (+37.5M share option)\n* **Headline raise:** ~$35B underwritten\n* **Cornerstone demand:** NVIDIA, AMD and Broadcom non-binding indications of interest for up to $5B aggregate of the common\n* **Preferred auto-conversion:** on/about Aug 15, 2029\n* **Forward settlement:** by Nov 19, 2027\n* **Planned Class C ATM:** ~$60B expected Q1 2027 (not yet agreed) — implies up to ~$95B total potential capacity\n\nWhy it matters:\n\n1. **Dilution over leverage** — Meta chose stock over debt to fund the capex ramp, a strong read on its AI ROI math.\n2. **Chipmakers buying their customer's stock** — NVDA/AMD/AVGO cornerstoning tightens the AI-capex circular funding loop that cuts both ways.\n3. **Follows Alphabet** — Alphabet's $85B raise earlier this year normalized mega-cap AI equity issuance.\n4. **9M26 cash story:** $97B operating cash flow and $82B cash + marketables at Q3 end — Meta didn't *need* the raise, it *chose* it.\n\nNext catalysts: pricing of both offerings (preferred dividend rate TBD), METAM Nasdaq listing, Alphabet / AMZN Q3 earnings this week, FOMC Oct 28.\n\nFull breakdown: [https://stock-tldr.xyz/releases/meta-35b-equity-raise-oct-26-2026](https://stock-tldr.xyz/releases/meta-35b-equity-raise-oct-26-2026)"
+      },
+      "publishDate": "2026-10-27T02:49:46.027Z"
+    },
     {
       "id": "anthropic-s1-filing-ant-nasdaq-oct-26-2026",
       "categories": [

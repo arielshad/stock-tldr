@@ -14891,6 +14891,51 @@
         "mover",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20261027t024946z",
+      "timestamp": "2026-10-27T02:49:46.027Z",
+      "source": "github-actions-sweep",
+      "summary": "Three market-moving items in the Oct 25–26 window: Brazil's Ibovespa plunged 13.88% (worst since March 2020) after Lula's surprise runoff win, EQT announced an all-stock acquisition of Range Resources with pro forma EV >$50B, and Meta launched a ~$35B concurrent common + mandatory convertible preferred equity raise with NVDA/AMD/AVGO as cornerstones.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brazil-ibovespa-crash-lula-win-oct-26-2026",
+          "title": "Brazil's Ibovespa plunges 13.88% to 176,608 Mon Oct 26 2026 — worst day since March 2020 after Lula wins Oct 25 runoff ~51.79% vs Flávio Bolsonaro ~48.21%; USD/BRL +8.4% to R$5.4154; EWZ ETF close -19.8% at $34.15; B3 triggers circuit breaker after 10% drop; Bradesco -21.70%, Itaú Unibanco -13.66%, Petrobras ~-8%; Vale +4.01% and Suzano +~10% on dollar-earner bid",
+          "category": "macro",
+          "note": "Seismic EM shock — Ibovespa -13.88% on circuit-breaker-triggering Lula runoff upset vs Flávio Bolsonaro; BRL -8.4%, EWZ -19.8%. Primary coverage via Rio Times citing B3 + TSE."
+        },
+        {
+          "id": "eqt-range-resources-merger-oct-26-2026",
+          "title": "EQT Corporation (EQT) to acquire Range Resources (RRC) in all-stock merger announced Mon Oct 26 2026 (agreement dated Oct 25) — pro forma enterprise value >$50B; exchange ratio 0.987 EQT shares per Range share; EQT ~73% / Range ~27% ownership post-close; $325M base annual synergies within 2 years with path to >$600M; $20B cumulative FCF over 5 years at recent strip; combined >9 Bcfe/d net production, ~3M net acres, >3,700 miles midstream; BBB credit metrics expected at close; close targeted Q1 2027 subject to regulatory + both-sides shareholder vote; Range CEO Dennis Degner + one Range nominee join EQT board (expanded to 12 directors); joint companies cancel Q3 earnings calls, release results after close Oct 27",
+          "category": "mna",
+          "note": "Largest US upstream gas tie-up since EQT-Equitrans 2024 — pro forma EV >$50B, 0.987 all-stock ratio, primary source EDGAR 8-K."
+        },
+        {
+          "id": "meta-35b-equity-raise-oct-26-2026",
+          "title": "Meta Platforms (META) launches ~$35B concurrent equity raise Mon Oct 26 2026 — $22.5B Class A common via forward sale agreements with Morgan Stanley + Goldman Sachs (+$3.375B underwriter option) and $12.5B of Series A mandatory convertible preferred as 250M depositary shares (listing Nasdaq as METAM, +37.5M share option); NVIDIA, AMD and Broadcom cornerstones indicate up to $5B aggregate interest in common stock; preferred auto-converts ~Aug 15 2029; forward settlement by Nov 19 2027; preliminary prospectus supplement filed Oct 26 under Reg Statement 333-299631; funds continued AI-infrastructure buildout ($135–$145B FY26 capex guide); planned ~$60B Class C ATM program expected to begin Q1 2027 (not yet agreed); Q3 2026 revenue $64.6B, 9M26 operating cash flow $97B, ~$82B cash + marketables at Q3 end",
+          "category": "mover",
+          "note": "~$35B concurrent common + mandatory convertible preferred launch (NVDA/AMD/AVGO cornerstones), primary source EDGAR free writing prospectus; funds $135–$145B FY26 AI capex."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "fx",
+        "mna",
+        "mover",
+        "equities",
+        "earnings",
+        "crypto",
+        "commodity",
+        "rates",
+        "regulatory"
+      ]
     }
   ]
 }
