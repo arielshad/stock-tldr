@@ -14936,6 +14936,55 @@
         "rates",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261027t170616z",
+      "timestamp": "2026-10-27T17:06:16.988Z",
+      "source": "github-actions-sweep",
+      "summary": "Tue Oct 27 2026 earnings deluge: Boeing cuts the 737 MAX delivery outlook and tanks ~10%, while SoFi, UPS, and Coca-Cola all beat and raise. PayPal mixes an EPS beat with a revenue miss. FOMC decision tomorrow (Oct 28).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ba-q3-2026-earnings-oct-27",
+          "title": "Boeing (BA) Q3 2026 (Tue Oct 27 premarket) — revenue $24.19B (+4% Y/Y) just below ~$24.39B est; core loss per share ($0.34) widens vs ~($0.24) est; commercial deliveries 161 (most since 2018); FCF +$464M; total backlog record $745.4B; cuts 2026 737 MAX delivery outlook, 737 ramp to 52/mo now H2 2027; stock ~-9.5% intraday",
+          "category": "earnings",
+          "note": "Primary source: Boeing 8-K ex-99.1; biggest BA one-day drop since April 2025 on another 737 MAX ramp delay"
+        },
+        {
+          "id": "sofi-q3-2026-earnings-oct-27",
+          "title": "SoFi Technologies (SOFI) Q3 2026 (Tue Oct 27 premarket) — GAAP net revenue $1.385B (+44% Y/Y) tops ~$1.25B est; adj EPS $0.18 beats; GAAP net income $241M (+73% Y/Y); adj EBITDA record $470M (34% margin); members 17.1M (+35%), products 26.7M (+44%), deposits $51.3B; raises FY26 adj net revenue to ~$5.04B + adj EBITDA ~$1.66B, initial FY27 outlook adj net revenue ~$6.4B / adj EPS ~$0.90; stock +~11-15% intraday",
+          "category": "earnings",
+          "note": "Primary source: SoFi 8-K; +44% Y/Y revenue, first-ever FY27 outlook"
+        },
+        {
+          "id": "ups-q3-2026-earnings-oct-27",
+          "title": "UPS (UPS) Q3 2026 (Tue Oct 27 premarket) — revenue $22.9B (+6.7% Y/Y) tops ~$22.28B est; adj EPS $1.69 beats ~$1.63 est; GAAP EPS $1.37 (incl $279M net charges); U.S. Domestic +4.5%, International +7.1%, SCS +18.2%; raises FY26 revenue to ~$92.6B (from ~$91.2B), adj EPS ~$7.28, FCF ~$6.1B; stock +~2-4% intraday",
+          "category": "earnings",
+          "note": "Primary source: UPS 8-K; second straight guide raise, first international op profit growth in 6 quarters"
+        },
+        {
+          "id": "ko-q3-2026-earnings-oct-27",
+          "title": "Coca-Cola (KO) Q3 2026 (Tue Oct 27 premarket) — net revenues $13.4B (+7% Y/Y) tops est, organic revenues +7%; reported EPS $0.93 (+8%), comparable EPS $0.91 (+11%) beats ~$0.88 est; unit case volume +5%; operating margin 33.4% (vs 32.0%); raises FY26 guide: organic revenue ≥5%, comparable EPS ≥11%, FCF ≥$13B (from ~$12.4B); shares little changed",
+          "category": "earnings",
+          "note": "Primary source: Coca-Cola 8-K; organic revenue +7%, volume +5%, FY26 FCF guide raised to ≥$13B"
+        },
+        {
+          "id": "pypl-q3-2026-earnings-oct-27",
+          "title": "PayPal (PYPL) Q3 2026 (Tue Oct 27 premarket) — net revenues $8.6B (+2% Y/Y, +1% cc) misses ~$8.71B est; non-GAAP EPS $1.45 (+8%) beats ~$1.31-$1.34 est; GAAP EPS $1.25 (-4%); TPV $487.1B (+6%, +7% cc), payment transactions 6.8B (+7%); active accounts 440M (+0.6%); FY26 non-GAAP EPS raised to ~$5.60 (from ~$5.38); bought back $1.5B of stock in Q3",
+          "category": "earnings",
+          "note": "Primary source: PayPal 8-K; EPS beat with revenue miss, FY26 non-GAAP EPS raised to ~$5.60"
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

@@ -1,8 +1,377 @@
 {
-  "generatedAt": "2026-10-27T02:49:46.027Z",
+  "generatedAt": "2026-10-27T17:06:16.988Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ba-q3-2026-earnings-oct-27",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Boeing (BA) Q3 2026 (Tue Oct 27 premarket) — revenue $24.19B (+4% Y/Y) just below ~$24.39B est; core loss per share ($0.34) widens vs ~($0.24) est; commercial deliveries 161 (most since 2018); FCF +$464M; total backlog record $745.4B; cuts 2026 737 MAX delivery outlook, 737 ramp to 52/mo now H2 2027; stock ~-9.5% intraday",
+      "tickers": [
+        "BA"
+      ],
+      "org": "The Boeing Company",
+      "date": "2026-10-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm",
+      "summary": "Boeing Q3: revenue $24.19B just shy of ~$24.39B est, core loss per share ($0.34) deeper than ~($0.24) est; 161 commercial deliveries (most since 2018), FCF +$464M, record $745.4B backlog, but 737 MAX production ramp to 52/mo slips to H2 2027 and 2026 delivery target cut; stock -9.5% intraday.",
+      "tags": [
+        "earnings",
+        "aerospace",
+        "boeing",
+        "737-max",
+        "787",
+        "777x",
+        "deliveries",
+        "guidance-cut",
+        "q3-2026",
+        "backlog",
+        "free-cash-flow",
+        "defense"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$24.19B (+4% Y/Y) vs ~$24.39B est",
+        "Core EPS": "($0.34) vs ~($0.24) est",
+        "FCF": "+$464M",
+        "Deliveries": "161 (most since 2018)",
+        "Backlog": "$745.4B record",
+        "Move": "~-9.5% intraday"
+      },
+      "explainer": {
+        "tagline": "Boeing misses on EPS, slips the 737 ramp to H2 2027 and cuts its 2026 delivery outlook — stock dives ~10%.",
+        "whatIsIt": "Boeing reported Q3 2026 on Tuesday October 27 premarket. Revenue of $24.19B rose 4% Y/Y but came in just below the ~$24.39B consensus, and the company posted a core loss per share of $0.34 against expectations of a ~$0.24 loss. Shares fell as much as ~10% intraday — the biggest one-day drop since April 2025 — on fresh signals the 737 MAX ramp is slipping again.",
+        "howItWorks": "Commercial Airplanes delivered 161 jets (most since 2018, +1 Y/Y) on $10.72B revenue, but the segment ran a $697M operating loss and 6.5% negative margin. Defense, Space & Security generated $7.94B revenue and $492M operating profit (6.2% margin); Global Services delivered $5.57B revenue and $1.02B operating profit at 18.3% margin. Operating cash flow was $1.50B, free cash flow +$464M, and total backlog hit a record $745.4B. Boeing said the 737 ramp to 52/month will now begin in H2 2027 (previously targeted earlier), kept the 787 line heading to 10/month before end of 2026, and reaffirmed 777X first delivery in 2027. Management cut its 2026 delivery target without giving a precise new number and said FY26 FCF should still land near $2B.",
+        "whyItMatters": "Boeing is the single largest US aerospace exporter and a Dow component, so a delivery slippage ripples through aerospace suppliers (GE Aerospace, Spirit AeroSystems, Howmet, RTX) and airlines awaiting lift. The record backlog shows demand remains intact — the bottleneck is production. The combined EPS miss plus timeline slip on the 737 program revives the long-running cash-flow credibility question management had largely contained since 2024.",
+        "forWho": "aerospace supply chain analysts and Dow tracking traders",
+        "tryIt": "https://finance.yahoo.com/quote/BA"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108469569-1793115881380-gettyimages-2271074696-BOEING_FACTORY.jpeg?v=1793115913&w=1920&h=1080",
+        "alt": "Boeing 737 MAX fuselages inside a Renton factory assembly line",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "Boeing 8-K (Q3 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm"
+        },
+        {
+          "label": "CNBC Earnings Recap",
+          "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
+        },
+        {
+          "label": "Yahoo Earnings Metrics",
+          "url": "https://ca.finance.yahoo.com/news/compared-estimates-boeing-ba-q3-123005472.html"
+        },
+        {
+          "label": "BA Chart",
+          "url": "https://finance.yahoo.com/quote/BA"
+        }
+      ],
+      "reddit": {
+        "title": "Boeing -9.5% after Q3 miss and another 737 MAX delivery cut — ramp to 52/mo now H2 2027",
+        "body": "Boeing just put out a messy Q3 on Tuesday morning. The delivery ramp is slipping again and the stock is down about 10%.\n\n* Revenue $24.19B (+4% Y/Y) vs ~$24.39B est\n* Core loss per share ($0.34) vs ~($0.24) est\n* Commercial deliveries 161 — most since 2018\n* Free cash flow +$464M\n* Backlog record $745.4B\n* Stock down ~9.5% intraday, biggest drop since April 2025\n\nThe punchline:\n\n1. **737 MAX ramp slips again** — the ramp to 52 jets per month now starts in H2 2027. Boeing cut its 2026 delivery target without giving a new number.\n2. **Commercial Airplanes still loss-making** — $10.72B revenue but a $697M operating loss at a -6.5% margin. Defense and Services carried the quarter.\n3. **Record backlog is the silver lining** — $745.4B in orders. Demand isn't the problem, production is.\n\nNext catalysts: FOMC decision Wed Oct 28, then Q4 cadence on 787 (ramp to 10/mo by year end) and the 777X first delivery still targeted 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ba-q3-2026-earnings-oct-27](https://stock-tldr.xyz/releases/ba-q3-2026-earnings-oct-27)"
+      },
+      "publishDate": "2026-10-27T17:06:16.988Z"
+    },
+    {
+      "id": "sofi-q3-2026-earnings-oct-27",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "SoFi Technologies (SOFI) Q3 2026 (Tue Oct 27 premarket) — GAAP net revenue $1.385B (+44% Y/Y) tops ~$1.25B est; adj EPS $0.18 beats; GAAP net income $241M (+73% Y/Y); adj EBITDA record $470M (34% margin); members 17.1M (+35%), products 26.7M (+44%), deposits $51.3B; raises FY26 adj net revenue to ~$5.04B + adj EBITDA ~$1.66B, initial FY27 outlook adj net revenue ~$6.4B / adj EPS ~$0.90; stock +~11-15% intraday",
+      "tickers": [
+        "SOFI"
+      ],
+      "org": "SoFi Technologies",
+      "date": "2026-10-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000065/a2026q3earningsrelease.htm",
+      "summary": "SoFi Q3: GAAP net revenue $1.385B (+44% Y/Y) crushes ~$1.25B est; adj EPS $0.18 beats; GAAP net income $241M (+73% Y/Y); record adj EBITDA $470M (34% margin); 17.1M members (+35%), $51.3B deposits; FY26 adj revenue raised to ~$5.04B and first FY27 outlook ~$6.4B revenue / ~$0.90 EPS; stock up ~11-15%.",
+      "tags": [
+        "earnings",
+        "fintech",
+        "neobank",
+        "deposits",
+        "q3-2026",
+        "guidance-raise",
+        "member-growth",
+        "ebitda-margin",
+        "lending",
+        "financial-services"
+      ],
+      "importance": "major",
+      "metrics": {
+        "GAAP Revenue": "$1.385B (+44% Y/Y) vs ~$1.25B est",
+        "Adj EPS": "$0.18 beats",
+        "Net Income": "$241M (+73% Y/Y)",
+        "Adj EBITDA": "$470M (34% margin, record)",
+        "Members": "17.1M (+35% Y/Y)",
+        "Deposits": "$51.3B",
+        "Move": "+~11-15% intraday"
+      },
+      "explainer": {
+        "tagline": "SoFi crushes Q3 estimates by 11%, raises FY26 revenue, and gives its first FY27 outlook — stock pops ~15%.",
+        "whatIsIt": "SoFi Technologies reported Q3 2026 on Tuesday October 27 premarket. GAAP net revenue of $1.385B rose 44% Y/Y and beat the ~$1.25B consensus by about $140M (~11%). Adjusted EPS of $0.18 also beat. GAAP net income of $241M was up 73% Y/Y and adjusted EBITDA hit a record $470M at a 34% margin. Shares rose roughly 11-15% intraday on both the beat and the first-ever FY27 outlook.",
+        "howItWorks": "Members reached 17.1M (+35% Y/Y, +1.2M in-quarter) and products reached 26.7M (+44% Y/Y, +2.2M in-quarter). Total deposits were $51.3B, up $5.8B in the quarter. Technology Platform revenue was a soft spot at $87M (-24% Y/Y) as a large client transitioned off; excluding that client it would have grown +18%. For FY26, SoFi raised adjusted net revenue to ~$5.04B (~40% growth) and adjusted EBITDA to ~$1.66B (~33% margin), kept adjusted net income at ~$840M, and adjusted EPS at ~$0.61. Initial FY27 guide: adjusted net revenue ~$6.4B, adjusted EBITDA ~$2.24B, adjusted net income ~$1.28B, adjusted EPS ~$0.90.",
+        "whyItMatters": "SoFi is one of the clearest consumer-fintech growth stories in a market obsessed with rate-sensitive bank earnings. A 44% revenue print, 34% EBITDA margin and 35% member growth all accelerating together is unusual at this scale and keeps SoFi set apart from legacy regional banks. The first FY27 outlook is a signal that management thinks the trajectory extends another year.",
+        "forWho": "fintech and growth-stock traders",
+        "tryIt": "https://finance.yahoo.com/quote/SOFI"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg&w=1200&op=resize",
+        "alt": "SoFi logo on signage",
+        "fit": "cover",
+        "credit": "The Motley Fool"
+      },
+      "links": [
+        {
+          "label": "SoFi 8-K (Q3 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000065/a2026q3earningsrelease.htm"
+        },
+        {
+          "label": "Motley Fool Call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/27/sofi-sofi-q3-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "MarketBeat Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-sofi-technologies-q3-earnings-call-highlights-2026-10-27/"
+        },
+        {
+          "label": "SOFI Chart",
+          "url": "https://finance.yahoo.com/quote/SOFI"
+        }
+      ],
+      "reddit": {
+        "title": "SoFi Q3: revenue +44% to $1.39B, beats by 11%, FY26 raised, first-ever FY27 outlook — stock ripping ~15%",
+        "body": "SoFi dropped a monster Q3 Tuesday morning and the stock is up ~11-15%.\n\n* GAAP net revenue $1.385B (+44% Y/Y) — beats ~$1.25B est by $140M (~11%)\n* Adj EPS $0.18 — beats\n* GAAP net income $241M, +73% Y/Y\n* Record adj EBITDA $470M at 34% margin\n* Members 17.1M (+35%), products 26.7M (+44%), deposits $51.3B\n* Technology Platform the one soft spot: $87M (-24% Y/Y) on a large client leaving\n\nThree things to notice:\n\n1. **FY26 revenue guide bumped to ~$5.04B** (from implied ~$4.8B earlier), with adj EBITDA ~$1.66B.\n2. **First-ever FY27 outlook** — adj net revenue ~$6.4B, adj EBITDA ~$2.24B, adj EPS ~$0.90. Management is explicitly telling the market the glide path extends another year.\n3. **The platform drag is a known-but-finite problem** — ex-the-departing-client, Tech Platform revenue grew +18%.\n\nNext catalyst: FOMC decision Wednesday Oct 28, which drives SoFi's lending margins.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sofi-q3-2026-earnings-oct-27](https://stock-tldr.xyz/releases/sofi-q3-2026-earnings-oct-27)"
+      },
+      "publishDate": "2026-10-27T17:06:16.988Z"
+    },
+    {
+      "id": "ups-q3-2026-earnings-oct-27",
+      "categories": [
+        "earnings"
+      ],
+      "title": "UPS (UPS) Q3 2026 (Tue Oct 27 premarket) — revenue $22.9B (+6.7% Y/Y) tops ~$22.28B est; adj EPS $1.69 beats ~$1.63 est; GAAP EPS $1.37 (incl $279M net charges); U.S. Domestic +4.5%, International +7.1%, SCS +18.2%; raises FY26 revenue to ~$92.6B (from ~$91.2B), adj EPS ~$7.28, FCF ~$6.1B; stock +~2-4% intraday",
+      "tickers": [
+        "UPS"
+      ],
+      "org": "United Parcel Service",
+      "date": "2026-10-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001090727/000162828026067381/exhibit991-earningspressre.htm",
+      "summary": "UPS Q3: revenue $22.9B (+6.7% Y/Y) tops ~$22.28B est; adj EPS $1.69 beats ~$1.63 est; growth across all three segments (Domestic +4.5%, International +7.1%, SCS +18.2%); raises FY26 guide — revenue ~$92.6B, adj EPS ~$7.28, FCF ~$6.1B. Second straight quarterly raise.",
+      "tags": [
+        "earnings",
+        "logistics",
+        "parcels",
+        "q3-2026",
+        "guidance-raise",
+        "international",
+        "supply-chain",
+        "dividend",
+        "automation",
+        "transports"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$22.9B (+6.7% Y/Y) vs ~$22.28B est",
+        "Adj EPS": "$1.69 vs ~$1.63 est",
+        "GAAP EPS": "$1.37",
+        "U.S. Domestic rev": "$14.87B (+4.5%)",
+        "Intl rev": "$5.01B (+7.1%)",
+        "SCS rev": "$2.98B (+18.2%)",
+        "FY26 revenue guide": "~$92.6B (from ~$91.2B)"
+      },
+      "explainer": {
+        "tagline": "UPS beats Q3 estimates on revenue and EPS, raises FY26 guide for the second straight quarter.",
+        "whatIsIt": "United Parcel Service reported Q3 2026 on Tuesday October 27 premarket. Revenue of $22.9B rose 6.7% Y/Y and topped ~$22.28B consensus; adjusted EPS of $1.69 beat ~$1.63. GAAP EPS of $1.37 included $279M of net charges ($0.32 per share), primarily a $182M Supply Chain Solutions goodwill impairment and $130M of after-tax transformation costs, partly offset by a $33M gain on MD-11 asset sales. Growth was positive across all three segments.",
+        "howItWorks": "U.S. Domestic revenue was $14.87B (+4.5%) with adjusted operating margin 7.0% and revenue per piece +6.1%. International revenue was $5.01B (+7.1%) at a 14.9% adjusted margin, with international revenue per piece +15.0% — international operating profit grew Y/Y for the first time in six quarters. Supply Chain Solutions revenue was $2.98B (+18.2%) at a 9.2% adjusted margin. For FY26 UPS raised: consolidated revenue to ~$92.6B (from ~$91.2B), adjusted operating profit to ~$8.75B, adjusted diluted EPS to ~$7.28, and adjusted free cash flow to ~$6.1B. Q4 revenue guidance is ~$25.7B with ~$3.3B adjusted operating profit. The company reaffirmed ~$3.0B 2026 capex and ~$5.4B dividend payments.",
+        "whyItMatters": "UPS is a bellwether for US and global package volumes heading into holiday peak. Two straight guidance raises point to a stabilized domestic premium-volume mix after the FedEx-Amazon reshuffle, and the first international profit growth in six quarters signals global trade lanes are opening back up. Positive read-through for FedEx, XPO, Old Dominion and other transports.",
+        "forWho": "transports and consumer logistics analysts",
+        "tryIt": "https://finance.yahoo.com/quote/UPS"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108448305-1792699554870-gettyimages-2288050422-golba-dailylif260728_np4i3.jpeg?v=1792699723&w=1920&h=1080",
+        "alt": "UPS delivery van and brown-uniformed worker loading parcels",
+        "fit": "cover",
+        "credit": "CNBC / Getty Images"
+      },
+      "links": [
+        {
+          "label": "UPS 8-K (Q3 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001090727/000162828026067381/exhibit991-earningspressre.htm"
+        },
+        {
+          "label": "Transport Topics Recap",
+          "url": "https://www.ttnews.com/articles/ups-earnings-q3-2026"
+        },
+        {
+          "label": "CNBC Recap",
+          "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html"
+        },
+        {
+          "label": "UPS Chart",
+          "url": "https://finance.yahoo.com/quote/UPS"
+        }
+      ],
+      "reddit": {
+        "title": "UPS Q3 beats and raises for the 2nd straight quarter — all three segments growing, FY26 revenue bumped to ~$92.6B",
+        "body": "UPS put out a cleaner-than-expected Q3 Tuesday morning. Shares up ~2-4%.\n\n* Revenue $22.9B (+6.7% Y/Y) — beats ~$22.28B est\n* Adj EPS $1.69 — beats ~$1.63 est\n* GAAP EPS $1.37 (incl. $279M net charges, $0.32/sh)\n* U.S. Domestic +4.5%, International +7.1%, Supply Chain Solutions +18.2%\n* U.S. Domestic revenue per piece +6.1%\n* International revenue per piece +15.0%\n* FY26 revenue guide raised to ~$92.6B (from ~$91.2B)\n* FY26 adj EPS to ~$7.28, FCF to ~$6.1B\n\nTwo things worth flagging:\n\n1. **International operating profit grew Y/Y for the first time in six quarters** — global trade lanes stabilizing.\n2. **Second consecutive guidance raise** — the premium-volume + automation turnaround UPS management has been promising is showing in the numbers.\n\nQ4 revenue guided to ~$25.7B with ~$3.3B adj operating profit — holiday peak expectations are already baked in.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ups-q3-2026-earnings-oct-27](https://stock-tldr.xyz/releases/ups-q3-2026-earnings-oct-27)"
+      },
+      "publishDate": "2026-10-27T17:06:16.988Z"
+    },
+    {
+      "id": "ko-q3-2026-earnings-oct-27",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Coca-Cola (KO) Q3 2026 (Tue Oct 27 premarket) — net revenues $13.4B (+7% Y/Y) tops est, organic revenues +7%; reported EPS $0.93 (+8%), comparable EPS $0.91 (+11%) beats ~$0.88 est; unit case volume +5%; operating margin 33.4% (vs 32.0%); raises FY26 guide: organic revenue ≥5%, comparable EPS ≥11%, FCF ≥$13B (from ~$12.4B); shares little changed",
+      "tickers": [
+        "KO"
+      ],
+      "org": "The Coca-Cola Company",
+      "date": "2026-10-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000021344/000162828026067403/a2026q3earningsreleaseex-9.htm",
+      "summary": "Coca-Cola Q3: net revenues $13.4B (+7% Y/Y), organic revenues +7%; comparable EPS $0.91 beats ~$0.88 est; unit case volume +5%; operating margin 33.4%. Raises FY26 — organic revenue growth ≥5%, comparable EPS growth ≥11%, FCF ≥$13B (vs ~$12.4B).",
+      "tags": [
+        "earnings",
+        "consumer-staples",
+        "beverages",
+        "q3-2026",
+        "guidance-raise",
+        "organic-revenue",
+        "volume-growth",
+        "dividend-aristocrat",
+        "zero-sugar",
+        "pricing"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net Revenue": "$13.4B (+7% Y/Y)",
+        "Organic Revenue": "+7%",
+        "Reported EPS": "$0.93 (+8%)",
+        "Comparable EPS": "$0.91 (+11%) vs ~$0.88 est",
+        "Unit Case Volume": "+5%",
+        "Operating Margin": "33.4% (vs 32.0%)",
+        "FY26 FCF guide": "≥$13.0B (from ~$12.4B)"
+      },
+      "explainer": {
+        "tagline": "Coca-Cola delivers a +7% organic revenue print, +5% volume, and raises every FY26 guidance line.",
+        "whatIsIt": "The Coca-Cola Company reported Q3 2026 on Tuesday October 27 before the open. Net revenues of $13.4B rose 7% Y/Y and organic revenues (non-GAAP) rose 7%. Reported EPS was $0.93 (+8%) and comparable EPS was $0.91 (+11%), beating the ~$0.88 LSEG consensus. Unit case volume grew 5% globally, with Coca-Cola Zero Sugar volume +16%.",
+        "howItWorks": "Operating margin expanded to 33.4% (from 32.0%) and comparable operating margin (non-GAAP) rose to 32.9% (from 31.9%). For FY26 Coca-Cola raised: organic revenue growth to at least 5% (from approximately 5%), comparable EPS growth to at least 11% (from 9-10%), comparable currency-neutral EPS growth ex-M&A to at least 9% (from 7-8%), and free cash flow to at least $13.0B (from approximately $12.4B). Q4 2026 considerations include an approximate 1% currency tailwind and 4% headwind from acquisitions and divestitures on comparable net revenues, and a 4% currency tailwind and 3% headwind from acquisitions and divestitures on comparable EPS. Management flagged elevated cost pressure from logistics and transportation.",
+        "whyItMatters": "Coca-Cola is a Dow component, dividend aristocrat and the global bellwether for away-from-home consumer spending. A 5% unit case volume print alongside 7% organic revenue growth indicates pricing and mix are holding without destroying volume — a cleaner result than peers in staples. The FCF raise to ≥$13B secures the dividend trajectory heading into FY27 and reinforces the fortress-balance-sheet thesis amid still-elevated rates.",
+        "forWho": "consumer staples and dividend-focused allocators",
+        "tryIt": "https://finance.yahoo.com/quote/KO"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg/960px-Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg",
+        "alt": "Coca-Cola Tower and Guggenheim Building, Atlanta headquarters",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Coca-Cola 8-K (Q3 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000021344/000162828026067403/a2026q3earningsreleaseex-9.htm"
+        },
+        {
+          "label": "Motley Fool Call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/27/coca-cola-ko-q3-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "MarketBeat Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-coca-cola-q3-earnings-call-highlights-2026-10-27/"
+        },
+        {
+          "label": "KO Chart",
+          "url": "https://finance.yahoo.com/quote/KO"
+        }
+      ],
+      "reddit": {
+        "title": "Coca-Cola Q3 beats and raises every FY26 line — organic revenue +7%, volume +5%, FCF guide up to ≥$13B",
+        "body": "Coca-Cola dropped a clean Q3 beat Tuesday morning. Numbers that matter:\n\n* Net revenues $13.4B (+7% Y/Y)\n* Organic revenues +7%\n* Comparable EPS $0.91 — beats ~$0.88 est (+11% Y/Y)\n* Reported EPS $0.93 (+8%)\n* Unit case volume +5% globally\n* Coca-Cola Zero Sugar volume +16%\n* Operating margin 33.4% (vs 32.0% Y/Y)\n\nThe FY26 guide was raised on every line:\n\n1. **Organic revenue growth** — now at least 5% (from approximately 5%).\n2. **Comparable EPS growth** — now at least 11% (from 9-10%).\n3. **Free cash flow** — now at least $13.0B (from approximately $12.4B).\n\nVolume held even as pricing/mix drove growth — the pricing-destroying-volume concern that haunted staples through 2025 isn't playing out here. Management did flag elevated logistics and transportation costs as a Q4 watch item.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ko-q3-2026-earnings-oct-27](https://stock-tldr.xyz/releases/ko-q3-2026-earnings-oct-27)"
+      },
+      "publishDate": "2026-10-27T17:06:16.988Z"
+    },
+    {
+      "id": "pypl-q3-2026-earnings-oct-27",
+      "categories": [
+        "earnings"
+      ],
+      "title": "PayPal (PYPL) Q3 2026 (Tue Oct 27 premarket) — net revenues $8.6B (+2% Y/Y, +1% cc) misses ~$8.71B est; non-GAAP EPS $1.45 (+8%) beats ~$1.31-$1.34 est; GAAP EPS $1.25 (-4%); TPV $487.1B (+6%, +7% cc), payment transactions 6.8B (+7%); active accounts 440M (+0.6%); FY26 non-GAAP EPS raised to ~$5.60 (from ~$5.38); bought back $1.5B of stock in Q3",
+      "tickers": [
+        "PYPL"
+      ],
+      "org": "PayPal Holdings",
+      "date": "2026-10-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001633917/000163391726000086/pypl3q-26earningsrelease.htm",
+      "summary": "PayPal Q3: net revenues $8.6B (+2% Y/Y) miss ~$8.71B est; non-GAAP EPS $1.45 (+8%) beats; TPV $487.1B (+6%), transactions 6.8B (+7%); 440M active accounts (+0.6%); FY26 non-GAAP EPS raised to ~$5.60 from ~$5.38; $1.5B of Q3 buybacks (~28M shares).",
+      "tags": [
+        "earnings",
+        "fintech",
+        "payments",
+        "q3-2026",
+        "revenue-miss",
+        "eps-beat",
+        "guidance-raise",
+        "buyback",
+        "tpv",
+        "active-accounts"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net Revenue": "$8.6B (+2% Y/Y) vs ~$8.71B est",
+        "Non-GAAP EPS": "$1.45 (+8%) beats",
+        "GAAP EPS": "$1.25 (-4%)",
+        "TPV": "$487.1B (+6%, +7% cc)",
+        "Transactions": "6.8B (+7%)",
+        "Active Accounts": "440M (+0.6%)",
+        "FY26 non-GAAP EPS guide": "~$5.60 (from ~$5.38)",
+        "Q3 Buybacks": "$1.5B / ~28M shares"
+      },
+      "explainer": {
+        "tagline": "PayPal beats on EPS, misses on revenue, raises FY26 EPS guide and keeps buying back stock.",
+        "whatIsIt": "PayPal Holdings reported Q3 2026 on Tuesday October 27 premarket. Net revenues of $8.6B grew 2% Y/Y (1% currency-neutral) and came in below the ~$8.71B consensus. Non-GAAP EPS of $1.45 beat ~$1.31-$1.34 estimates and was up 8% from $1.34 Y/Y. GAAP diluted EPS of $1.25 was down 4% from $1.30.",
+        "howItWorks": "Total Payment Volume (TPV) was $487.1B, up 6% as reported and 7% currency-neutral. Payment transactions rose 7% to 6.8 billion. Active accounts reached 440M, up just 0.6% Y/Y — still a slow-growth narrative on the user base. PayPal repurchased ~28M shares for $1.5B in the quarter, and has bought back ~117M shares for $6.0B over the trailing twelve months, with the board declaring a $0.14 quarterly dividend. The company raised FY26 non-GAAP EPS guidance to approximately $5.60 (from ~$5.38 in July) and reaffirmed FY26 GAAP EPS at ~$5.07. Q4 non-GAAP EPS guide is ~$1.43 and Q4 GAAP EPS ~$1.37. Full-year non-GAAP transaction margin dollars guidance was also raised (no figure disclosed).",
+        "whyItMatters": "PayPal's turnaround under CEO Alex Chriss has been about transaction margin, EPS growth and buybacks rather than active-account growth — this print continues that pattern. The 440M active-account number barely moves, but TPV growth of 7% currency-neutral plus a 10%+ EPS beat and a boosted FY26 EPS line keeps the capital-return thesis intact. Read-through: muted for Block (SQ) and Adyen on revenue signaling, but constructive for buyback-heavy large-cap fintech.",
+        "forWho": "fintech and buyback-focused equity traders",
+        "tryIt": "https://finance.yahoo.com/quote/PYPL"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/PayPal_San_Jose_Headquarters.jpg/1280px-PayPal_San_Jose_Headquarters.jpg",
+        "alt": "PayPal San Jose headquarters campus exterior",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "PayPal 8-K (Q3 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001633917/000163391726000086/pypl3q-26earningsrelease.htm"
+        },
+        {
+          "label": "Motley Fool Call",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/27/paypal-pypl-q3-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "MarketBeat Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-paypal-holdings-q3-earnings-call-highlights-2026-10-27/"
+        },
+        {
+          "label": "PYPL Chart",
+          "url": "https://finance.yahoo.com/quote/PYPL"
+        }
+      ],
+      "reddit": {
+        "title": "PayPal Q3: EPS $1.45 beats by ~11% but revenue misses, FY26 non-GAAP EPS guide raised to ~$5.60, $1.5B of buybacks",
+        "body": "PayPal reported Tuesday morning with a familiar pattern: strong profitability, slow top-line, and more buybacks.\n\n* Net revenues $8.6B (+2% Y/Y, +1% cc) — misses ~$8.71B est\n* Non-GAAP EPS $1.45 (+8%) — beats ~$1.31 est by ~11%\n* GAAP EPS $1.25 (-4% Y/Y)\n* TPV $487.1B (+6%, +7% cc)\n* Payment transactions 6.8B (+7%)\n* Active accounts 440M (just +0.6% Y/Y)\n* Q3 buybacks $1.5B for ~28M shares\n* TTM buybacks ~117M shares for $6.0B\n* FY26 non-GAAP EPS guide raised to ~$5.60 (from ~$5.38)\n\nWhat matters here:\n\n1. **Transaction margin, not revenue, is the story** — EPS beat 10%+ while revenue missed.\n2. **Active accounts barely grew** — 0.6% Y/Y. The user base isn't the engine any more.\n3. **Buybacks are doing a lot of work** — $6B over TTM against a market cap in the ~$55B range meaningfully shrinks the share count.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pypl-q3-2026-earnings-oct-27](https://stock-tldr.xyz/releases/pypl-q3-2026-earnings-oct-27)"
+      },
+      "publishDate": "2026-10-27T17:06:16.988Z"
+    },
     {
       "id": "brazil-ibovespa-crash-lula-win-oct-26-2026",
       "categories": [
