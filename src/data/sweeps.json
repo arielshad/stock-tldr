@@ -14985,6 +14985,49 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261028t025904z",
+      "timestamp": "2026-10-28T02:59:04.490Z",
+      "source": "github-actions-sweep",
+      "summary": "Four Q3/Q4 earnings prints from the Tuesday Oct 27 after-close window. Visa beat and raised the dividend 16% (~-1% overnight), Robinhood posted a record revenue quarter but net deposits came in soft (~-7% overnight), Seagate crushed its Q1 FY27 guide with a record 57.8% non-GAAP margin on AI storage demand but faded ~5% after a 48% two-month run, and Enphase slashed Q4 revenue guidance by 15-23% sending the stock down ~15% overnight.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "v-q4-fy26-earnings-oct-27",
+          "title": "Visa (V) Q4 FY26 (Tue Oct 27 after close) — net revenue $12.1B (+13% nominal and cc) tops ~$12.08B est; non-GAAP diluted EPS $3.48 (+17% Y/Y) beats ~$3.43 est; GAAP EPS $3.19 (+22% Y/Y); FY26 net revenue $45.9B (+15%); Q4 buybacks $4.0B (11M shares @ ~$369.12 avg), $24.4B authorization remaining; quarterly dividend RAISED 16% to $0.780/sh (payable Dec 1); overnight ~-1.3% on Blue Ocean ATS to ~$396.61",
+          "category": "earnings",
+          "note": "Mega-cap payments bellwether. 13% constant-currency revenue + 16% dividend hike + $25.6B FY26 shareholder return. Modest overnight fade on expectations priced in."
+        },
+        {
+          "id": "hood-q3-2026-earnings-oct-27",
+          "title": "Robinhood (HOOD) Q3 2026 (Tue Oct 27 after close) — record total net revenues $1.42B (+12% Y/Y) tops ~$1.34-$1.41B est; adj diluted EPS $0.60 (-3% Y/Y) beats ~$0.50 est; GAAP diluted EPS $0.51 (-16% Y/Y); transaction revenue $867M (+19%); net deposits $15.7B (17% annualized); Funded Customers 28.7M (+7%); Investment Accounts 30.4M (+9%); Platform Assets $396B (+19%); Gold Subscribers 5.2M (+34%); ARPU $200 (+5%); overnight ~-7.4% on Blue Ocean ATS to ~$87.57 despite the record",
+          "category": "earnings",
+          "note": "Record revenue + Gold subs + EPS beat but overnight -7% on net-deposit softness vs whisper and GAAP EPS -16% Y/Y. Classic good-print bad-stock reaction after YTD doubling."
+        },
+        {
+          "id": "stx-q1-fy27-earnings-oct-27",
+          "title": "Seagate (STX) Q1 FY27 (Tue Oct 27 after close) — revenue $4.233B (+61% Y/Y) crushes $4.1B ±$100M guide; non-GAAP diluted EPS $7.68 (+194% Y/Y) tops $7.30 ±$0.20 guide and ~$7.17-$7.47 est; GAAP EPS $7.59 (+212%); non-GAAP gross margin RECORD 57.8% (+17.7pp Y/Y); operating cash flow $1.69B (+218%); FCF $1.48B (+246%); Q1 buybacks $400M, dividend RAISED ~3% to $0.76/sh; Q2 FY27 guide revenue $4.8B ±$100M and non-GAAP EPS $9.20 ±$0.20; overnight ~-5.4% on Blue Ocean ATS to ~$632 after +3.67% regular close to $667.85",
+          "category": "earnings",
+          "note": "AI-storage pure play. Blew past guide on revenue, EPS and margin; raised Q2 guide materially. Overnight fade is positioning (ran $460→$680 into the print) + a very high WDC bar last week."
+        },
+        {
+          "id": "enph-q3-2026-earnings-oct-27",
+          "title": "Enphase Energy (ENPH) Q3 2026 (Tue Oct 27 after close) — revenue $293.3M (-28.5% Y/Y from $410.4M; +0.5% Q/Q) within $290-$320M guide; non-GAAP diluted EPS $0.41 misses ~$0.51 est (incl. $0.14 investment impairment hit); GAAP EPS $0.17; non-GAAP GM 45.0% (within 44-47% guide); FCF -$11.4M; cash + marketable securities $931.8M; shipped ~1.42M microinverters (655.2 MW DC) + 129.9 MWh batteries; US sell-through +5% Q/Q but -35% Y/Y; Q4 revenue guide SLASHED to $225-$255M (-15-23% Q/Q) incl. $51.2M safe harbor; no buybacks in 9M26 vs $130M in 9M25; overnight ~-15.2% on Blue Ocean ATS to ~$25.23",
+          "category": "earnings",
+          "note": "Q4 revenue guide SLASHED to $225-$255M (incl. $51.2M safe harbor), US sell-through -35% Y/Y, zero buybacks YTD vs $130M a year ago. -15% overnight — material move with named catalyst = mover tier."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
