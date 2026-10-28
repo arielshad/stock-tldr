@@ -15028,6 +15028,37 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261028t173944z",
+      "timestamp": "2026-10-28T17:39:44.464Z",
+      "source": "github-actions-sweep",
+      "summary": "Pre-FOMC sweep (decision at 2 PM ET today). Added GE Vernova Q3 2026 (massive guide raise + $20B buyback doubling + Trench M&A) from Wed Oct 28 premarket, and Novartis Q3 2026 (Tue Oct 27 premarket, core-op-income guide raised, Kisqali +37% cc) from among Oct 27 pre-market reporters not yet in the feed. Rest of the Oct 27 earnings slate and Oct 24-26 macro/M&A events already covered. Mag 7 earnings (MSFT/GOOGL/META) + FOMC decision + T-Mobile all today after sweep timestamp.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "gev-q3-2026-earnings-oct-28",
+          "title": "GE Vernova (GEV) Q3 2026 (Wed Oct 28 premarket) — revenue $12.64B (+27% rpt / +18% organic) tops ~$12.01B est; GAAP diluted EPS $4.81 crushes ~$4.25 est (vs $1.64 Y/Y); orders $29.3B (+96% organic) led by Power $21.78B (+178% organic, gas backlog 53→64 GW, 122 GW incl. slot reservations); total backlog RECORD $197B (+$20B Q/Q); adj EBITDA $1.94B, margin 15.4%; FCF $5.4B (9M FCF $15.3B); FY26 guide RAISED — revenue to $46.5–$47.5B (from $45.5–$46.5B), adj EBITDA margin 13.5–14.5% (from 12–14%), FCF to $16–17B (from $11.5–12.5B); buyback authorization DOUBLED to $20B (prior $10B), $10.1B remaining; Trench Group $9B acquisition announced (close 2027); Fitch upgraded to A- in August",
+          "category": "earnings",
+          "note": "Today's biggest premarket catalyst outside the FOMC. Orders +96% organic, backlog $197B record, raised FY26 FCF guide by ~$4.5B at midpoint, doubled buyback to $20B, announced $9B Trench Group M&A. Confirms AI-power thesis in locked-in GW/dollars."
+        },
+        {
+          "id": "nvs-q3-2026-earnings-oct-27",
+          "title": "Novartis (NVS) Q3 2026 (Tue Oct 27 premarket) — net sales $14.52B (+4% USD/cc) tops ~$14.3B est; core EPS $2.46 (+9% USD, +8% cc) beats ~$2.28 est; core operating income $6.04B (+11% USD, +10% cc), core margin 41.6% (+230bp cc); GAAP net income $1.20B (-70% USD) hit by $1.9B del-desiran IPR&D impairment; Kisqali $1.82B (+37% cc) continues to lead growth, Scemblix $593M (+66% cc), Leqvio $506M (+63% cc), Cosentyx $1.86B (+9% cc), Entresto $1.17B (-38% cc on US generic entry); Q3 FCF $5.1B (-18%); 9M net sales $42.0B (flat cc); FY26 core operating income guide RAISED to 'in line to grow low single digits cc' (from 'low single-digit decline'); Pluvicto earlier-line prostate cancer approvals; remibrutinib positive Phase III in MS",
+          "category": "earnings",
+          "note": "Oct 27 pre-market Big Pharma print we hadn't covered. First FY26 core-op-income guide raise. Kisqali on pace to overtake Entresto; del-desiran $1.9B impairment is the GAAP headline but core quality intact."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
