@@ -15059,6 +15059,51 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261029t031855z",
+      "timestamp": "2026-10-29T03:18:55.312Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep covers the Wed Oct 28, 2026 session: FOMC holds federal funds at 3.75–4.00% on a 10–2 split (Cook and Hammack dissent for a hike); Alphabet Q3 revenue +25% and Cloud +103% but GAAP EPS lands at $2.12 on an $8.7B equity-securities loss with FCF -$9.1B on $51.4B capex; Microsoft Q1 FY27 beats its own revenue guide at $92.3B with Azure +48%; ServiceNow Q3 beats guide and raises FY26 FCF margin and 2026 AI ACV target.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fomc-oct-2026-decision-oct-28",
+          "title": "FOMC October 2026 — holds federal funds target range at 3.75–4.00% on 10–2 vote (Wed Oct 28 2026) with Governor Lisa D. Cook and Cleveland Fed President Beth M. Hammack dissenting in favor of a quarter-point increase; statement says activity is 'expanding at a strong pace' with 'strong' productivity growth and 'solid' business investment, employment gains have matched labor force growth, unemployment has barely moved, and 'inflation remains high'; Committee says gathering more information will help set the policy stance appropriate to bring inflation back to 2% in a timely way",
+          "category": "macro",
+          "note": "FOMC day — primary-source hold at 3.75–4.00% with 10–2 vote and two hawkish dissents under Warsh; seismic by the inclusion-bar example 'FOMC rate decision day'."
+        },
+        {
+          "id": "googl-q3-2026-earnings-oct-28",
+          "title": "Alphabet (GOOGL) Q3 2026 (Wed Oct 28 after close) — revenue $127.6B (+25% Y/Y, 13th straight double-digit quarter); operating income $40.6B (+30%), op margin 31.8%; Google Services $96.3B (+11%), Google advertising $82.0B, Google Search & other $63.4B (+12%), YouTube ads $11.2B; Google Cloud $30.7B (+103% Y/Y), Cloud operating income $11.1B; GAAP diluted EPS $2.12 (vs $2.87 Y/Y) depressed by $8.2B other-expense line incl. $8.7B loss on equity securities; net income $26.5B total ($26.2B available to common); Q3 capex $51.4B; FCF -$9.1B in the quarter (TTM $19.7B); no share repurchases in the quarter, ~$12.4B of common stock issued under at-the-market program plus $28.7B of senior unsecured notes",
+          "category": "earnings",
+          "note": "Mega-cap earnings — Alphabet Q3 revenue beat with Cloud +103% but GAAP EPS $2.12 vs $2.87 Y/Y on $8.7B equity-securities loss, -$9.1B FCF, $0 buybacks, and ATM common issuance + $28.7B senior notes."
+        },
+        {
+          "id": "msft-q1-fy27-earnings-oct-28",
+          "title": "Microsoft (MSFT) Q1 FY27 (Wed Oct 28 after close) — revenue $92.3B (+19% Y/Y) tops $89.85–$90.95B company guide; non-GAAP diluted EPS $4.89 (+18%, +19% cc); GAAP diluted EPS $4.92 (incl. $207M net gain on OpenAI investments); operating income $45.9B (+21%, 49.7% op margin); net income $36.6B GAAP (+32%); Microsoft Cloud $63.9B (+30%, +31% cc); Azure revenue +48% (vs 44–45% constant-currency guide); new segments — Agents and Infra $76.8B (+25%), Devices and Consumer $15.5B (-3%); commercial remaining performance obligation $677B (+73%); Q1 capex $39.4B (property & equipment additions); operating cash flow $58.0B, implied FCF ~$18.6B; $4.4B of common stock repurchased, $6.8B of dividends paid; total shareholder returns $10.2B",
+          "category": "earnings",
+          "note": "Mega-cap earnings — MSFT Q1 FY27 revenue tops its own $89.85–$90.95B guide, Azure accelerates from +43% last quarter to +48%, cRPO +73% to $677B."
+        },
+        {
+          "id": "now-q3-2026-earnings-oct-28",
+          "title": "ServiceNow (NOW) Q3 2026 (Wed Oct 28 after close) — total revenue $4,106M (+20.5% Y/Y, +20% cc) beats consensus (~$4.10B) and tops company guide; subscription revenue $3,988M (+21% Y/Y, +20.5% cc); non-GAAP diluted EPS $1.00; GAAP diluted EPS $0.27 on $277M GAAP net income (incl. $633M stock-based comp); current remaining performance obligations $13.65B (+20.5% Y/Y, +21% cc); total RPO $29.7B (+22% Y/Y); Q4 2026 subscription revenue guide $4,245–$4,255M (+22.5–23% Y/Y GAAP, +21.5% cc); FY26 subscription revenue guide $15,780–$15,790M (+22.5% GAAP, +21% cc); FY26 non-GAAP free cash flow margin guide RAISED 100bp to 36%; 2026 AI annual contract value target RAISED to $1.7B (from $1B at the start of the year); 9M26 buybacks $2,225M, no repurchases in Q3",
+          "category": "earnings",
+          "note": "Enterprise software earnings — NOW beats guide across topline/profitability, raises FY26 FCF margin guide 100bp to 36%, and lifts the 2026 AI ACV target to $1.7B from $1B."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

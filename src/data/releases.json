@@ -1,8 +1,321 @@
 {
-  "generatedAt": "2026-10-28T17:39:44.464Z",
+  "generatedAt": "2026-10-29T03:18:55.312Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "fomc-oct-2026-decision-oct-28",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "FOMC October 2026 — holds federal funds target range at 3.75–4.00% on 10–2 vote (Wed Oct 28 2026) with Governor Lisa D. Cook and Cleveland Fed President Beth M. Hammack dissenting in favor of a quarter-point increase; statement says activity is 'expanding at a strong pace' with 'strong' productivity growth and 'solid' business investment, employment gains have matched labor force growth, unemployment has barely moved, and 'inflation remains high'; Committee says gathering more information will help set the policy stance appropriate to bring inflation back to 2% in a timely way",
+      "org": "Federal Reserve",
+      "date": "2026-10-28",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "summary": "FOMC holds at 3.75–4.00% on a 10–2 vote (Cook and Hammack dissent for a 25bp hike); statement calls activity 'expanding at a strong pace' with inflation still high and no explicit forward guidance under Chair Warsh.",
+      "tags": [
+        "fomc",
+        "fed",
+        "rates",
+        "monetary-policy",
+        "hold",
+        "dissent",
+        "warsh",
+        "cook-dissent",
+        "hammack-dissent",
+        "inflation"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Target range": "3.75–4.00% (held)",
+        "Vote": "10–2 (Cook, Hammack dissent for +25bp)",
+        "Prior move": "+25bp at September 16, 2026 meeting",
+        "Activity": "'expanding at a strong pace'",
+        "Inflation": "'remains high'"
+      },
+      "explainer": {
+        "tagline": "Fed holds at 3.75–4.00% in a 10–2 split as Cook and Hammack dissent for a quarter-point hike.",
+        "whatIsIt": "The Federal Open Market Committee voted on Wednesday October 28, 2026 to leave the federal funds target range unchanged at 3.75–4.00%, following the 25 basis point increase at its September 16 meeting. The vote was 10–2 — Governor Lisa D. Cook and Cleveland Fed President Beth M. Hammack both dissented in favor of a quarter-point rate hike.",
+        "howItWorks": "The statement from Chair Kevin Warsh's second meeting describes U.S. economic activity as 'expanding at a strong pace' with 'strong' productivity growth, 'solid' business investment and employment gains that have matched labor force growth, while unemployment has 'barely moved' and 'inflation remains high.' The Committee gave no explicit rate path and said it will look to incoming data to help determine the policy stance appropriate to bring inflation back to 2% in a timely way. The decision to maintain ample reserves in the banking system continues.",
+        "whyItMatters": "The 10–2 split is the first multi-member hawkish dissent of the Warsh chairmanship and signals that part of the Committee views the September hike as insufficient against sticky inflation. The hold itself matched pre-meeting OIS pricing (roughly 90% probability of a hold going into the day), but the dissent pattern and the removal of forward guidance leaves the December meeting live for either another hike or an extended hold.",
+        "forWho": "rates traders, macro desks, bank-funding analysts",
+        "tryIt": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      },
+      "image": {
+        "url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+        "alt": "Federal Reserve seal and Marriner S. Eccles Federal Reserve Board Building",
+        "fit": "cover",
+        "credit": "Federal Reserve Board"
+      },
+      "links": [
+        {
+          "label": "FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "label": "CNBC Decision Recap",
+          "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+        },
+        {
+          "label": "Reuters/Yahoo Recap",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fomc-holds-rates-steady-markets-182955276.html"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ],
+      "reddit": {
+        "title": "FOMC holds 3.75–4.00% in a 10–2 split — Cook and Hammack dissent for a 25bp HIKE under Warsh",
+        "body": "The Fed left the target range unchanged at 3.75–4.00% on Wednesday Oct 28, but the vote itself is the story.\n\n* **Vote 10–2** — Lisa Cook and Beth Hammack both dissented in favor of a quarter-point rate hike\n* Statement describes activity 'expanding at a strong pace,' productivity growth 'strong,' business investment 'solid'\n* Employment gains have 'matched labor force growth' and unemployment has 'barely moved'\n* 'Inflation remains high'\n* No explicit rate path — Warsh is still refusing forward guidance\n\nContext:\n\n1. **This is the first multi-member hawkish dissent of the Warsh chairmanship.** Two voters on a 12-member FOMC wanted another 25bp on top of the September 16 hike that took the range to 3.75–4.00%.\n2. **Pre-meeting markets had leaned a hold** — OIS pricing was roughly 90% hold, 10% hike going in, so the decision itself landed where traders expected but the composition of the vote didn't.\n3. **December is live.** Removing explicit guidance keeps the next meeting optionality in both directions depending on the next CPI/jobs prints.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-oct-2026-decision-oct-28](https://stock-tldr.xyz/releases/fomc-oct-2026-decision-oct-28)"
+      },
+      "publishDate": "2026-10-29T03:18:55.312Z"
+    },
+    {
+      "id": "googl-q3-2026-earnings-oct-28",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Alphabet (GOOGL) Q3 2026 (Wed Oct 28 after close) — revenue $127.6B (+25% Y/Y, 13th straight double-digit quarter); operating income $40.6B (+30%), op margin 31.8%; Google Services $96.3B (+11%), Google advertising $82.0B, Google Search & other $63.4B (+12%), YouTube ads $11.2B; Google Cloud $30.7B (+103% Y/Y), Cloud operating income $11.1B; GAAP diluted EPS $2.12 (vs $2.87 Y/Y) depressed by $8.2B other-expense line incl. $8.7B loss on equity securities; net income $26.5B total ($26.2B available to common); Q3 capex $51.4B; FCF -$9.1B in the quarter (TTM $19.7B); no share repurchases in the quarter, ~$12.4B of common stock issued under at-the-market program plus $28.7B of senior unsecured notes",
+      "org": "Alphabet",
+      "date": "2026-10-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm",
+      "summary": "GOOGL Q3 2026 — revenue $127.6B (+25%) and operating income $40.6B (+30%, 31.8% margin) with Google Cloud +103% to $30.7B; GAAP EPS $2.12 (vs $2.87 Y/Y) hit by $8.7B equity-securities loss; Q3 capex $51.4B, FCF -$9.1B, no buybacks.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "google-cloud",
+        "ai-capex",
+        "search",
+        "youtube",
+        "capex-surge",
+        "equity-securities-loss",
+        "q3-2026",
+        "atm-raise"
+      ],
+      "tickers": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Revenue": "$127.6B (+25% Y/Y)",
+        "GAAP EPS": "$2.12 (vs $2.87 Y/Y)",
+        "Operating income": "$40.6B (+30% Y/Y)",
+        "Operating margin": "31.8%",
+        "Google Services": "$96.3B (+11% Y/Y)",
+        "Google Cloud": "$30.7B (+103% Y/Y)",
+        "Cloud operating income": "$11.1B",
+        "Google Search & other": "$63.4B (+12% Y/Y)",
+        "YouTube ads": "$11.2B",
+        "Google advertising": "$82.0B",
+        "Other expense, net": "$(8.2)B (incl. $8.7B equity-securities loss)",
+        "Capex": "$51.4B",
+        "FCF": "-$9.1B (TTM $19.7B)",
+        "Buybacks": "$0 (Q3); issued ~$12.4B ATM common + $28.7B senior notes"
+      },
+      "explainer": {
+        "tagline": "Alphabet revenue +25% to $127.6B and Cloud +103% to $30.7B, but a $8.7B equity-securities loss drops GAAP EPS to $2.12 and quarterly FCF to -$9.1B.",
+        "whatIsIt": "Alphabet reported Q3 2026 results on Wednesday October 28 after the close. Revenue of $127.6B grew 25% year over year — the 13th straight quarter of double-digit growth. Operating income rose 30% to $40.6B at a 31.8% margin, but GAAP diluted EPS fell to $2.12 from $2.87 a year earlier on an $8.2B swing in other expense, net, which included an $8.7B loss on equity securities.",
+        "howItWorks": "Google Services revenue +11% to $96.3B, Google advertising $82.0B, Google Search & other $63.4B (+12%), YouTube ads $11.2B. The headline growth number is Google Cloud at +103% to $30.7B with $11.1B of segment operating income. The spending side ran hot: Q3 capex was $51.4B and quarterly free cash flow swung to -$9.1B (TTM FCF $19.7B). Alphabet made zero share repurchases in the quarter and instead issued approximately $12.4B of common stock under its at-the-market program and $28.7B of senior unsecured notes.",
+        "whyItMatters": "The operating result is strong — $40.6B operating income (+30%), Cloud more than doubling — but Alphabet is now funding record capex with equity issuance and new debt rather than cash flow. The $8.7B equity-securities loss drags GAAP EPS below the Y/Y comparison even as the core business beats its own prior pace. The pivot from pure buybacks to ATM common issuance plus large bond issuance resets expectations for how Alphabet will finance its 2027 AI infrastructure buildout and will put the 2026 capex outlook back on the call.",
+        "forWho": "mega-cap tech investors, AI infra desks, cloud analysts",
+        "tryIt": "https://finance.yahoo.com/quote/GOOGL/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&w=1920&h=1080",
+        "alt": "Alphabet earnings signage with Google logo",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "Alphabet 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm"
+        },
+        {
+          "label": "CNBC Alphabet Q3",
+          "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+        },
+        {
+          "label": "Earnings Press Release (PDF)",
+          "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+        },
+        {
+          "label": "GOOGL Chart",
+          "url": "https://finance.yahoo.com/quote/GOOGL/"
+        }
+      ],
+      "reddit": {
+        "title": "GOOGL Q3 2026 — revenue $127.6B (+25%), Cloud +103% to $30.7B, but $8.7B equity-securities loss drops GAAP EPS to $2.12 and quarterly FCF to -$9.1B on $51.4B capex",
+        "body": "Alphabet's operating line printed one of its best quarters ever. The non-operating line and the cash flow statement did not.\n\n* Revenue **$127.6B (+25% Y/Y)** — 13th straight quarter of double-digit growth\n* Operating income **$40.6B (+30%)**, op margin **31.8%**\n* **Google Cloud $30.7B (+103% Y/Y)**, Cloud op income $11.1B\n* Google Services $96.3B (+11%), Search & other $63.4B (+12%), YouTube ads $11.2B\n* **GAAP diluted EPS $2.12** vs **$2.87 Y/Y** — hit by $8.2B other-expense line incl. $8.7B equity-securities loss\n* **Q3 capex $51.4B**, FCF **-$9.1B** in the quarter (TTM FCF $19.7B)\n* **No share repurchases this quarter.** Alphabet instead issued ~$12.4B of common stock under its at-the-market program and $28.7B of senior unsecured notes\n\nTwo big things to unpack:\n\n1. **The operating business is firing** — Cloud doubling, Services +11%, 31.8% operating margin at $127.6B of revenue is a top-decile mega-cap print.\n2. **The capital stack just shifted hard.** From $0 of buybacks to ATM equity issuance plus a $28.7B senior-notes deal, Alphabet is now funding record AI capex with new paper rather than FCF. The $8.7B equity-securities writedown is a non-cash hit, but FCF -$9.1B is the real statement.\n\nFull breakdown: [https://stock-tldr.xyz/releases/googl-q3-2026-earnings-oct-28](https://stock-tldr.xyz/releases/googl-q3-2026-earnings-oct-28)"
+      },
+      "publishDate": "2026-10-29T03:18:55.312Z"
+    },
+    {
+      "id": "msft-q1-fy27-earnings-oct-28",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Microsoft (MSFT) Q1 FY27 (Wed Oct 28 after close) — revenue $92.3B (+19% Y/Y) tops $89.85–$90.95B company guide; non-GAAP diluted EPS $4.89 (+18%, +19% cc); GAAP diluted EPS $4.92 (incl. $207M net gain on OpenAI investments); operating income $45.9B (+21%, 49.7% op margin); net income $36.6B GAAP (+32%); Microsoft Cloud $63.9B (+30%, +31% cc); Azure revenue +48% (vs 44–45% constant-currency guide); new segments — Agents and Infra $76.8B (+25%), Devices and Consumer $15.5B (-3%); commercial remaining performance obligation $677B (+73%); Q1 capex $39.4B (property & equipment additions); operating cash flow $58.0B, implied FCF ~$18.6B; $4.4B of common stock repurchased, $6.8B of dividends paid; total shareholder returns $10.2B",
+      "org": "Microsoft",
+      "date": "2026-10-28",
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+      "summary": "MSFT Q1 FY27 — revenue $92.3B (+19%) tops guide, non-GAAP EPS $4.89 (+18%), Microsoft Cloud $63.9B (+30%), Azure +48% beating 44–45% cc guide; cRPO $677B (+73%); Q1 capex $39.4B, implied FCF ~$18.6B, $10.2B returned to shareholders.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "azure",
+        "cloud",
+        "microsoft-cloud",
+        "ai-capex",
+        "openai-gain",
+        "cRPO",
+        "guidance-beat",
+        "q1-fy27"
+      ],
+      "tickers": [
+        "MSFT"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Revenue": "$92.3B (+19% Y/Y, tops $89.85–$90.95B guide)",
+        "Non-GAAP EPS": "$4.89 (+18% Y/Y, +19% cc)",
+        "GAAP EPS": "$4.92",
+        "Operating income": "$45.9B (+21% Y/Y)",
+        "Operating margin": "49.7%",
+        "Net income": "$36.6B GAAP (+32% Y/Y)",
+        "Microsoft Cloud": "$63.9B (+30% Y/Y, +31% cc)",
+        "Azure revenue growth": "+48% (vs 44–45% cc guide)",
+        "Agents and Infra": "$76.8B (+25% Y/Y)",
+        "Devices and Consumer": "$15.5B (-3% Y/Y)",
+        "cRPO": "$677B (+73% Y/Y)",
+        "Capex (property & equipment)": "$39.4B",
+        "Operating cash flow": "$58.0B",
+        "Implied FCF": "~$18.6B",
+        "Buybacks": "$4.4B",
+        "Dividends": "$6.8B",
+        "Total shareholder returns": "$10.2B",
+        "OpenAI investment net gain": "$207M"
+      },
+      "explainer": {
+        "tagline": "Microsoft Q1 FY27 revenue $92.3B tops the top of its own guide, Azure accelerates to +48%, and Microsoft Cloud crosses $63.9B.",
+        "whatIsIt": "Microsoft reported fiscal Q1 2027 (quarter ended September 30, 2026) on Wednesday October 28 after the close. Revenue of $92.3B grew 19% year over year, above the company's $89.85–$90.95B guide. Non-GAAP diluted EPS was $4.89 (+18% Y/Y, +19% constant currency); GAAP diluted EPS was $4.92 and included a $207M net gain on OpenAI investments.",
+        "howItWorks": "Microsoft Cloud revenue was $63.9B (+30% Y/Y, +31% constant currency). Azure and other cloud services revenue grew 48%, well above the company's 44–45% constant-currency guide and the Street's ~45% expectation. Operating income was $45.9B (+21%) at a 49.7% operating margin; net income $36.6B GAAP (+32%). Microsoft reorganised reporting segments for FY27: Agents and Infra $76.8B (+25%) and Devices and Consumer $15.5B (-3%). Commercial remaining performance obligation grew 73% to $677B. Q1 capex was $39.4B of property-and-equipment additions, operating cash flow $58.0B, and the company returned $10.2B via $4.4B of buybacks and $6.8B of dividends.",
+        "whyItMatters": "Azure accelerating from +43% last quarter to +48% while printing a +73% jump in commercial RPO is the single clearest demonstration of hyperscaler demand still outrunning the AI capex buildout. Microsoft is spending $39.4B of capex in a single quarter and still generating ~$18.6B of free cash flow against a $10.2B shareholder-returns run rate. The guide-beating revenue print lands the same evening as Alphabet's GAAP EPS miss on an equity-securities writedown, sharpening the divergence inside the AI-capex trade.",
+        "forWho": "mega-cap growth, AI infra bulls, enterprise-software analysts",
+        "tryIt": "https://finance.yahoo.com/quote/MSFT/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/1280px-Aerial_Microsoft_West_Campus_August_2009.jpg",
+        "alt": "Aerial view of the Microsoft West Campus in Redmond, Washington",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "MSFT Q1 FY27 Release",
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast"
+        },
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436122/msft-ex99_1.htm"
+        },
+        {
+          "label": "Microsoft on X — Q1 FY27",
+          "url": "https://x.com/Microsoft/status/2115535611801248094"
+        },
+        {
+          "label": "MSFT Chart",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ],
+      "reddit": {
+        "title": "MSFT Q1 FY27 beats guide — revenue $92.3B (+19%), Azure +48% vs 44–45% cc guide, Microsoft Cloud $63.9B (+30%), cRPO $677B (+73%)",
+        "body": "Microsoft's first FY27 quarter beat the top of its own revenue guide and Azure accelerated for the third quarter in a row.\n\n* Revenue **$92.3B (+19% Y/Y)** vs $89.85–$90.95B company guide\n* Non-GAAP diluted EPS **$4.89 (+18% Y/Y, +19% cc)**; GAAP EPS **$4.92** incl. $207M OpenAI investment gain\n* Operating income $45.9B (+21%), **49.7% op margin**\n* Microsoft Cloud **$63.9B (+30% Y/Y, +31% cc)**\n* **Azure revenue +48%** vs 44–45% cc company guide — acceleration from +43% last quarter\n* New segments: Agents and Infra $76.8B (+25%), Devices and Consumer $15.5B (-3%)\n* **cRPO $677B (+73% Y/Y)**\n* Q1 capex **$39.4B** of property-and-equipment additions, operating cash flow $58.0B, implied FCF ~$18.6B\n* $10.2B returned to shareholders ($4.4B buybacks + $6.8B dividends)\n\nTwo quick takeaways:\n\n1. **Azure accelerated again.** +43% → +48% at constant currency on an ever-larger base is the clearest signal that enterprise AI demand is still outrunning the hyperscaler capex buildout.\n2. **The contrast with GOOGL tonight is the story.** Alphabet printed a GAAP EPS miss on an $8.7B equity-securities loss and -$9.1B FCF, while MSFT guides-beat on revenue, prints a 49.7% op margin, and still ships $10.2B to shareholders. The AI-capex trade is bifurcating.\n\nFull breakdown: [https://stock-tldr.xyz/releases/msft-q1-fy27-earnings-oct-28](https://stock-tldr.xyz/releases/msft-q1-fy27-earnings-oct-28)"
+      },
+      "publishDate": "2026-10-29T03:18:55.312Z"
+    },
+    {
+      "id": "now-q3-2026-earnings-oct-28",
+      "categories": [
+        "earnings"
+      ],
+      "title": "ServiceNow (NOW) Q3 2026 (Wed Oct 28 after close) — total revenue $4,106M (+20.5% Y/Y, +20% cc) beats consensus (~$4.10B) and tops company guide; subscription revenue $3,988M (+21% Y/Y, +20.5% cc); non-GAAP diluted EPS $1.00; GAAP diluted EPS $0.27 on $277M GAAP net income (incl. $633M stock-based comp); current remaining performance obligations $13.65B (+20.5% Y/Y, +21% cc); total RPO $29.7B (+22% Y/Y); Q4 2026 subscription revenue guide $4,245–$4,255M (+22.5–23% Y/Y GAAP, +21.5% cc); FY26 subscription revenue guide $15,780–$15,790M (+22.5% GAAP, +21% cc); FY26 non-GAAP free cash flow margin guide RAISED 100bp to 36%; 2026 AI annual contract value target RAISED to $1.7B (from $1B at the start of the year); 9M26 buybacks $2,225M, no repurchases in Q3",
+      "org": "ServiceNow",
+      "date": "2026-10-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm",
+      "summary": "NOW Q3 2026 — revenue $4,106M (+20.5%) and subscription $3,988M (+21%) beat guide; non-GAAP EPS $1.00; cRPO $13.65B (+20.5%); FY26 FCF margin guide raised to 36%; 2026 AI ACV target lifted to $1.7B from $1B.",
+      "tags": [
+        "earnings",
+        "software",
+        "ai-acv",
+        "subscription",
+        "guidance-raise",
+        "cRPO",
+        "enterprise-software",
+        "q3-2026"
+      ],
+      "tickers": [
+        "NOW"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Total revenue": "$4,106M (+20.5% Y/Y, +20% cc)",
+        "Subscription revenue": "$3,988M (+21% Y/Y, +20.5% cc)",
+        "Non-GAAP diluted EPS": "$1.00",
+        "GAAP diluted EPS": "$0.27",
+        "GAAP net income": "$277M",
+        "Stock-based comp (Q3)": "$633M",
+        "cRPO": "$13.65B (+20.5% Y/Y, +21% cc)",
+        "RPO": "$29.7B (+22% Y/Y)",
+        "Q4 2026 subscription revenue guide": "$4,245–$4,255M (+22.5–23% GAAP)",
+        "FY26 subscription revenue guide": "$15,780–$15,790M (+22.5% GAAP)",
+        "FY26 non-GAAP FCF margin guide": "36% (raised 100bp)",
+        "2026 AI ACV target": "$1.7B (raised from $1B)",
+        "9M26 buybacks": "$2,225M (no Q3 repurchases)"
+      },
+      "explainer": {
+        "tagline": "ServiceNow beats guide on all topline growth and profitability metrics, raises FY26 FCF margin guide, and lifts its 2026 AI ACV target to $1.7B from $1B.",
+        "whatIsIt": "ServiceNow reported Q3 2026 results on Wednesday October 28 after the close. Total revenue of $4,106M grew 20.5% year over year (20% constant currency), beating company guidance and consensus. Subscription revenue of $3,988M grew 21% (20.5% cc). Non-GAAP diluted EPS was $1.00 and GAAP diluted EPS $0.27 on $277M of GAAP net income, which included $633M of stock-based compensation in the quarter.",
+        "howItWorks": "Current remaining performance obligations reached $13.65B (+20.5% Y/Y, +21% cc) and total remaining performance obligations $29.7B (+22% Y/Y). The company raised its full-year subscription revenue guide to $15,780–$15,790M (+22.5% GAAP) and its FY26 non-GAAP free cash flow margin guide by 100 basis points to 36%. The 2026 AI annual contract value target was raised to $1.7B from the $1B set at the start of the year. Q4 subscription revenue is guided to $4,245–$4,255M (+22.5–23% GAAP; +21.5% cc), with cRPO growth of 18.5%. ServiceNow bought back $2,225M of stock over the first nine months of 2026 but made no repurchases in Q3.",
+        "whyItMatters": "The combination of guide-beating subscription revenue, 100bp FCF margin raise and a 70% hike to the FY26 AI ACV target makes ServiceNow one of the clearest 'AI-is-translating-to-revenue' prints inside enterprise software. Hitting +21% subscription growth at a $16B annualised run rate while widening non-GAAP operating margin keeps the thesis of profitable AI monetisation intact alongside the hyperscalers reporting on the same day.",
+        "forWho": "enterprise software, SaaS and AI monetisation analysts",
+        "tryIt": "https://finance.yahoo.com/quote/NOW/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/ServiceNowGlobalHQ.jpg/1280px-ServiceNowGlobalHQ.jpg",
+        "alt": "ServiceNow global headquarters in Santa Clara, California",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "ServiceNow 8-K Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm"
+        },
+        {
+          "label": "ServiceNow 8-K/A",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000095/erq3fy262.htm"
+        },
+        {
+          "label": "Q3 Announcement",
+          "url": "https://investor.servicenow.com/news/news-details/2026/ServiceNow-to-Announce-Third-Quarter-2026-Financial-Results-on-October-28/default.aspx"
+        },
+        {
+          "label": "NOW Chart",
+          "url": "https://finance.yahoo.com/quote/NOW/"
+        }
+      ],
+      "reddit": {
+        "title": "NOW Q3 2026 beats guide — revenue $4.11B (+20.5%), subscription +21%, cRPO $13.65B (+21% cc), 2026 AI ACV target RAISED to $1.7B from $1B",
+        "body": "ServiceNow printed one of the cleaner enterprise-software AI prints of the quarter.\n\n* Total revenue **$4,106M (+20.5% Y/Y, +20% cc)** — beats company guide and consensus\n* Subscription revenue **$3,988M (+21% Y/Y, +20.5% cc)**\n* Non-GAAP diluted EPS **$1.00**; GAAP EPS $0.27 on $633M of Q3 stock-based comp\n* **cRPO $13.65B (+20.5% Y/Y, +21% cc)**; total RPO $29.7B (+22%)\n* FY26 subscription revenue guide RAISED to **$15,780–$15,790M** (+22.5% GAAP)\n* FY26 non-GAAP **free cash flow margin guide RAISED 100bp to 36%**\n* **2026 AI annual contract value target raised to $1.7B** (from $1B at the start of the year — a 70% hike mid-year)\n* 9M buybacks $2,225M, no Q3 repurchases\n\nAt a $16B annualised subscription run rate, holding +21% constant-currency subscription growth and raising the FCF margin by 100bp is the kind of print that keeps the AI-monetisation-in-SaaS thesis alive — especially landing on the same day as Alphabet's GAAP miss and Microsoft's Azure beat.\n\nFull breakdown: [https://stock-tldr.xyz/releases/now-q3-2026-earnings-oct-28](https://stock-tldr.xyz/releases/now-q3-2026-earnings-oct-28)"
+      },
+      "publishDate": "2026-10-29T03:18:55.312Z"
+    },
     {
       "id": "gev-q3-2026-earnings-oct-28",
       "categories": [
