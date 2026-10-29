@@ -1,8 +1,243 @@
 {
-  "generatedAt": "2026-10-29T03:18:55.312Z",
+  "generatedAt": "2026-10-29T17:52:27.455Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "cmg-q3-2026-earnings-oct-28",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Chipotle (CMG) Q3 2026 (Wed Oct 28 after close) — revenue ~$3.3B (+9.6% Y/Y) with comp restaurant sales +2.1% (3rd straight quarter of positive transactions on +0.8% transactions / +1.3% check), above the company's ~1% Q3 guide; GAAP diluted EPS $0.27 (-6.9% vs $0.29 Y/Y) on net income $339.9M; operating margin 13.7% (vs 15.9%) and restaurant-level op margin 23.3% (vs 24.5%) pressured by labor 25.7% of revenue (vs 25.2%) on lower volumes, higher wages/bonuses, extra promotional staffing and insurance costs; food/beverage/packaging falls to 29.5% of revenue (vs 30.0%) on menu price, tariff relief and LTO mix (partly offset by beef and freight inflation); digital 38.8% of food & beverage revenue (vs 36.7%); Q3 openings 84 company-owned (53 with Chipotlane) + 5 international partner-operated; FY26 guide reaffirmed — low-single-digit comp sales growth, 350–370 new restaurants (10–15 international) and ~80% of new company-owned with Chipotlane; Q3 buybacks $110.0M @ $34.05 avg with $1.6B remaining",
+      "org": "Chipotle Mexican Grill",
+      "date": "2026-10-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001058090/000105809026000103/cmg-20261028xex991.htm",
+      "summary": "CMG Q3 2026 — revenue ~$3.3B (+9.6%) with comp +2.1% beating the ~1% guide (3rd straight quarter of transaction growth); GAAP EPS $0.27 (vs $0.29) as labor rises to 25.7% of sales and restaurant-level margin slips to 23.3%; FY26 low-single-digit comp growth and 350–370 openings reaffirmed; $110M of Q3 buybacks.",
+      "tags": [
+        "earnings",
+        "restaurants",
+        "comp-sales-beat",
+        "transactions-growth",
+        "margin-pressure",
+        "labor-costs",
+        "chipotlane",
+        "digital-sales",
+        "q3-2026",
+        "buybacks"
+      ],
+      "tickers": [
+        "CMG"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "~$3.3B (+9.6% Y/Y)",
+        "Comp sales": "+2.1% (transactions +0.8%, check +1.3%)",
+        "GAAP diluted EPS": "$0.27 (-6.9% vs $0.29 Y/Y)",
+        "Net income": "$339.9M",
+        "Operating margin": "13.7% (vs 15.9%)",
+        "Restaurant-level operating margin": "23.3% (vs 24.5%)",
+        "Labor": "25.7% of revenue (vs 25.2%)",
+        "Food, beverage & packaging": "29.5% of revenue (vs 30.0%)",
+        "Digital": "38.8% of food & beverage revenue (vs 36.7%)",
+        "New restaurants (Q3)": "84 company-owned + 5 international (53 of 84 with Chipotlane)",
+        "Buybacks (Q3)": "$110.0M @ $34.05 avg",
+        "Buyback remaining": "$1.6B"
+      },
+      "explainer": {
+        "tagline": "Chipotle Q3 revenue +9.6% to $3.3B with comp +2.1% topping the ~1% guide, but labor at 25.7% of sales trims restaurant-level margin to 23.3%.",
+        "whatIsIt": "Chipotle Mexican Grill reported Q3 2026 results on Wednesday October 28 after the close. Revenue rose 9.6% year over year to approximately $3.3B, driven mostly by new restaurants and secondarily by positive comparable sales. Comparable restaurant sales grew 2.1% on +0.8% transactions and +1.3% check — the third consecutive quarter of positive transaction growth and above the company's guide of about 1% Q3 comps.",
+        "howItWorks": "Operating margin fell to 13.7% (vs 15.9%) and restaurant-level operating margin to 23.3% (vs 24.5%). Food, beverage and packaging costs eased to 29.5% of revenue (vs 30.0%) on menu price, tariff relief and LTO mix, partly offset by beef and freight inflation. Labor costs rose to 25.7% of revenue (vs 25.2%) due to lower volumes, higher wages and bonuses, extra promotional staffing and higher insurance costs. GAAP diluted EPS was $0.27 vs $0.29 a year earlier, on $339.9M of net income. Digital reached 38.8% of food & beverage revenue (vs 36.7%). Q3 openings were 84 company-owned restaurants (53 with Chipotlane) plus 5 international partner-operated. Chipotle reaffirmed FY26 guidance of low-single-digit comp growth, 350–370 new restaurants (10–15 international), and ~80% of new US openings with a Chipotlane. The company repurchased $110.0M of stock in Q3 at an average $34.05, with $1.6B remaining under authorization.",
+        "whyItMatters": "The comp beat and 3rd straight quarter of positive transactions says the summer slowdown that followed late-July food-safety concerns and geopolitics has lifted, with trends by end-August back to pre-disruption levels per the 10-Q. The offset is a margin-compression quarter: labor leverage reversed, and restaurant-level margins are now ~120bp below last year even with tariff relief on food costs. The FY26 reaffirmation, with no raise on comps or openings, keeps the setup unchanged into Q4.",
+        "forWho": "restaurant analysts, consumer discretionary, small/mid-cap retail",
+        "tryIt": "https://finance.yahoo.com/quote/CMG/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Chipotle_Mexican_Grill_%2848069356197%29.jpg/1280px-Chipotle_Mexican_Grill_%2848069356197%29.jpg",
+        "alt": "Chipotle Mexican Grill restaurant signage",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CMG Q3 2026 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001058090/000105809026000103/cmg-20261028xex991.htm"
+        },
+        {
+          "label": "CMG Q3 2026 10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001058090/000105809026000104/cmg-20260930.htm"
+        },
+        {
+          "label": "Chipotle Earnings Announcement",
+          "url": "https://newsroom.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026"
+        },
+        {
+          "label": "CMG Chart",
+          "url": "https://finance.yahoo.com/quote/CMG/"
+        }
+      ],
+      "reddit": {
+        "title": "CMG Q3 2026 — comp sales +2.1% beats ~1% guide (3rd straight quarter of positive transactions) but restaurant-level margin slips to 23.3% as labor hits 25.7% of sales",
+        "body": "Chipotle's Q3 2026 is a classic beat-on-top-line, margin-compression quarter.\n\n* Revenue **~$3.3B (+9.6% Y/Y)** on new restaurants + comps\n* **Comp sales +2.1%** (transactions +0.8%, check +1.3%) vs company guide ~1%\n* **3rd straight quarter of positive transaction growth**\n* GAAP diluted EPS **$0.27** vs $0.29 Y/Y (-6.9%), net income $339.9M\n* Operating margin **13.7%** (vs 15.9%), restaurant-level op margin **23.3%** (vs 24.5%)\n* Labor **25.7% of revenue** (vs 25.2%) — lower volumes + higher wages + promotional staffing\n* Food/bev/packaging **29.5%** of revenue (vs 30.0%) on menu price + tariff relief\n* Digital **38.8%** of food & beverage revenue (vs 36.7%)\n* Q3 openings: **84 company-owned (53 with Chipotlane) + 5 international**\n* Q3 buybacks **$110.0M @ $34.05 avg**, $1.6B remaining\n\nTwo things to unpack:\n\n1. **Traffic came back.** The late-July food-safety and geopolitical headwinds that hit comps by low-single-digits are behind the business — trends by end-August were back to pre-disruption levels per the 10-Q.\n2. **But margins went the other way.** Labor leverage reversed and restaurant-level margins are now ~120bp below last year. FY26 guide (low-single-digit comps, 350–370 openings) reaffirmed — no raise.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cmg-q3-2026-earnings-oct-28](https://stock-tldr.xyz/releases/cmg-q3-2026-earnings-oct-28)"
+      },
+      "publishDate": "2026-10-29T17:52:27.455Z"
+    },
+    {
+      "id": "cat-q3-2026-earnings-oct-29",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Caterpillar (CAT) Q3 2026 (Thu Oct 29 premarket) — sales and revenues $20.7B (+17% Y/Y from $17.6B) with volume adding $2.2B and price $663M; GAAP diluted EPS $7.13 (vs $4.88 Y/Y); adjusted diluted EPS $7.20 (vs $4.95 Y/Y); operating profit $4.214B at 20.4% margin (vs 17.3%), adjusted operating margin 20.6% including $128M of IEEPA tariff recoveries; segments — Power & Energy sales $8.784B / $2.143B profit (24.4% margin, +250bp Y/Y) led by power generation incl. data center applications; Construction Industries $7.983B / $1.831B (22.9% margin, +250bp) despite $252M of unfavorable manufacturing costs including higher freight; Resource Industries $4.615B / $622M (13.5% margin, -10bp) hit by $208M of unfavorable manufacturing costs including tariff-driven materials; Financial Products revenues $1.028B with 1.31% past-dues; Q3 operating cash flow $4.4B, cash at quarter-end $7.9B; inventory $22.2B (vs $18.1B at Dec 31 2025); Q3 cash deployed $2.0B ($1.2B buybacks + $0.7B dividends), 9M $7.745B of stock purchases + $2.148B dividends; CEO Joe Creed cites 'durability of our end markets, with strong order rates and a record backlog'",
+      "org": "Caterpillar",
+      "date": "2026-10-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm",
+      "summary": "CAT Q3 2026 — sales $20.7B (+17% Y/Y) with adjusted EPS $7.20 (vs $4.95 Y/Y) and 20.4% operating margin; Power & Energy 24.4% segment margin led by data-center demand; tariffs/freight add $460M of unfavorable manufacturing costs across CI + RI; inventory builds to $22.2B; $2.0B Q3 capital returns and record backlog per CEO.",
+      "tags": [
+        "earnings",
+        "industrials",
+        "data-center-power",
+        "tariffs",
+        "margin-expansion",
+        "mega-cap",
+        "record-backlog",
+        "inventory-build",
+        "q3-2026",
+        "buybacks",
+        "dow-component"
+      ],
+      "tickers": [
+        "CAT"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$20.7B (+17% Y/Y from $17.6B)",
+        "GAAP diluted EPS": "$7.13 (vs $4.88 Y/Y)",
+        "Adjusted diluted EPS": "$7.20 (vs $4.95 Y/Y)",
+        "Operating profit": "$4.214B (20.4% margin, vs 17.3%)",
+        "Adjusted operating margin": "20.6% (incl. $128M IEEPA tariff recoveries)",
+        "Power & Energy": "$8.784B sales / $2.143B profit (24.4% margin, +250bp)",
+        "Construction Industries": "$7.983B / $1.831B (22.9% margin, +250bp)",
+        "Resource Industries": "$4.615B / $622M (13.5% margin, -10bp)",
+        "Financial Products revenues": "$1.028B (past-dues 1.31%)",
+        "Q3 operating cash flow": "$4.4B",
+        "Cash at quarter-end": "$7.9B",
+        "Inventory": "$22.2B (vs $18.1B at YE25)",
+        "Unfavorable manufacturing costs (CI + RI)": "$252M + $208M = $460M",
+        "Q3 capital returns": "$2.0B ($1.2B buybacks + $0.7B dividends)",
+        "9M capital returns": "$7.745B stock + $2.148B dividends"
+      },
+      "explainer": {
+        "tagline": "Caterpillar Q3 sales +17% to $20.7B and adj EPS $7.20 as Power & Energy segment margin reaches 24.4% on data-center power demand, with inventory building to $22.2B.",
+        "whatIsIt": "Caterpillar reported Q3 2026 results Thursday October 29 premarket. Sales and revenues rose 17% year over year to $20.7B (from $17.6B), as volume added $2.2B and price realization added $663M. Adjusted diluted EPS was $7.20 (vs $4.95 a year earlier) and GAAP diluted EPS was $7.13. Operating profit was $4.214B at a 20.4% margin, with an adjusted operating margin of 20.6% including $128M of IEEPA tariff recoveries.",
+        "howItWorks": "Segment detail: Power & Energy sales were $8.784B with $2.143B of profit (24.4% margin, +250bp Y/Y), led by growth in power generation applications including data centers. Construction Industries printed $7.983B / $1.831B (22.9% margin, +250bp) despite $252M of unfavorable manufacturing costs including higher freight. Resource Industries was weakest at $4.615B / $622M (13.5% margin, -10bp), hit by $208M of unfavorable manufacturing costs including tariff-related materials and softer rail sales. Financial Products revenues were $1.028B with 1.31% past-due receivables. Q3 operating cash flow was $4.4B and quarter-end cash $7.9B. Inventory rose to $22.2B from $18.1B at YE25. Caterpillar deployed $2.0B of cash in Q3 ($1.2B of share repurchases plus $0.7B of dividends), for 9M totals of $7.745B of stock buybacks and $2.148B of dividends. CEO Joe Creed described the quarter as reflecting 'the durability of our end markets, with strong order rates and a record backlog.'",
+        "whyItMatters": "Power & Energy is now Caterpillar's biggest and highest-margin segment, with 24.4% segment margin and data-center-driven power generation inside it — the clearest in-print read on how the AI capex buildout is landing in heavy-equipment orders. The offsets are tariff/freight costs (adding $460M of unfavorable manufacturing costs across CI and RI even after a $128M tariff-recovery benefit) and a $4.1B year-to-date inventory build. The Dow-component result sits alongside Alphabet's miss and Microsoft's beat as another read on AI-infrastructure demand lanes.",
+        "forWho": "industrials analysts, Dow traders, AI infra desks tracking power & cooling",
+        "tryIt": "https://finance.yahoo.com/quote/CAT/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Caterpillar-shortened.svg/1280px-Caterpillar-shortened.svg.png",
+        "alt": "Caterpillar Inc. corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CAT Q3 2026 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm"
+        },
+        {
+          "label": "CAT Form 8-K Cover",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/cat-20261029.htm"
+        },
+        {
+          "label": "CAT Chart",
+          "url": "https://finance.yahoo.com/quote/CAT/"
+        }
+      ],
+      "reddit": {
+        "title": "CAT Q3 2026 — sales +17% to $20.7B, adj EPS $7.20 vs $4.95 Y/Y, Power & Energy segment prints 24.4% margin on data-center demand; inventory builds to $22.2B",
+        "body": "Caterpillar's Q3 lands with record backlog language from the CEO and the first time Power & Energy clearly leads as the biggest and highest-margin segment.\n\n* Sales **$20.7B (+17% Y/Y)** — volume added $2.2B, price $663M\n* **Adjusted diluted EPS $7.20** vs $4.95 Y/Y; GAAP EPS $7.13\n* Operating profit **$4.214B**, op margin **20.4%** (vs 17.3%)\n* Adjusted op margin **20.6%** incl. **$128M of IEEPA tariff recoveries**\n* **Power & Energy $8.784B sales / $2.143B profit (24.4% margin, +250bp)** — data center-driven power gen\n* Construction Industries $7.983B / $1.831B (22.9% margin, +250bp) — $252M freight-heavy cost headwind\n* Resource Industries $4.615B / $622M (13.5% margin, -10bp) — $208M tariff-driven material costs\n* Q3 operating cash flow $4.4B, cash at quarter-end $7.9B\n* **Inventory $22.2B** vs $18.1B at YE25 ($4.1B YTD build)\n* **Q3 capital returns $2.0B** — $1.2B buybacks + $0.7B dividends; 9M $7.745B stock + $2.148B dividends\n* CEO Joe Creed: 'durability of our end markets, with strong order rates and a record backlog'\n\nTwo takeaways:\n\n1. **Power & Energy is now the story.** $2.1B of segment profit at a 24.4% margin, led by data-center power generation. That is the AI capex trade showing up in heavy-equipment numbers.\n2. **The costs line is noisy.** Tariffs/freight added $460M of unfavorable manufacturing costs across CI+RI even after a $128M tariff-recovery boost, and inventory is up $4.1B YTD. Something to watch into Q4.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cat-q3-2026-earnings-oct-29](https://stock-tldr.xyz/releases/cat-q3-2026-earnings-oct-29)"
+      },
+      "publishDate": "2026-10-29T17:52:27.455Z"
+    },
+    {
+      "id": "crox-q3-2026-earnings-oct-29",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Crocs (CROX) Q3 2026 (Thu Oct 29 premarket) — revenues $1,042.6M (+4.6% Y/Y reported and constant currency) with Crocs brand $872.7M (+4.4%, record Q3) and HEYDUDE $169.9M (+6.1%, returned to growth); non-GAAP diluted EPS $3.69 (+26.4% vs $2.92 Y/Y); GAAP diluted EPS $4.52 (vs $2.70 Y/Y); non-GAAP gross margin 60.3% (+180bp); non-GAAP operating margin 22.3% (vs 20.8%, +150bp); Crocs brand DTC $510.4M (+8.2%), wholesale $362.4M (-0.5%); Crocs brand international $434.4M (+11.8%) vs North America $438.4M (-2.1%); HEYDUDE DTC $90.8M (+0.1%), wholesale $79.1M (+14.0%); Q3 FCF $275.5M (vs $226.2M), 9M FCF $507.6M; Q3 buybacks ~2.0M shares for $250.0M @ ~$123.32 avg (~$1.7B authorization remaining); FY26 outlook RAISED for the 3rd time this year — revenue ~+3% (from +1% to +2%), Crocs brand ~+4% (from +2% to +3%), HEYDUDE ~flat (from -4% to -2%), adj diluted EPS $14.45–$14.65 (from $13.70–$14.00), GAAP EPS $14.71–$14.91, adj operating margin expansion from 22.5% (from 22.3%); Q4 guide revenue +7% to +9%, adj EPS $3.25–$3.45",
+      "org": "Crocs",
+      "date": "2026-10-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001334036/000133403626000058/croxq32026-pressrelease.htm",
+      "summary": "CROX Q3 2026 — revenue $1,042.6M (+4.6%) with Crocs brand +4.4% (record Q3) and HEYDUDE returned to growth at +6.1%; non-GAAP EPS $3.69 (+26%) and 60.3% gross margin (+180bp); FY26 guide RAISED a 3rd time to +3% revenue and $14.45–$14.65 adj EPS; Q3 buybacks $250M.",
+      "tags": [
+        "earnings",
+        "footwear",
+        "guidance-raise",
+        "margin-expansion",
+        "heydude-return-to-growth",
+        "international-growth",
+        "buybacks",
+        "q3-2026"
+      ],
+      "tickers": [
+        "CROX"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1,042.6M (+4.6% Y/Y reported and cc)",
+        "Crocs brand": "$872.7M (+4.4%, record Q3)",
+        "HEYDUDE": "$169.9M (+6.1%, returned to growth)",
+        "Non-GAAP diluted EPS": "$3.69 (vs $2.92 Y/Y, +26.4%)",
+        "GAAP diluted EPS": "$4.52 (vs $2.70 Y/Y)",
+        "Non-GAAP operating margin": "22.3% (vs 20.8%, +150bp)",
+        "Non-GAAP gross margin": "60.3% (+180bp)",
+        "Crocs brand DTC": "$510.4M (+8.2%)",
+        "Crocs brand international": "+11.8%",
+        "Crocs brand North America": "-2.1%",
+        "Q3 buybacks": "$250.0M (2.0M shares @ ~$123.32 avg)",
+        "Buyback remaining": "~$1.7B",
+        "Q3 FCF": "$275.5M (vs $226.2M)",
+        "9M FCF": "$507.6M",
+        "FY26 revenue guide (raised 3rd time)": "~+3% (from +1%–+2%)",
+        "FY26 adj EPS guide (raised)": "$14.45–$14.65 (from $13.70–$14.00)",
+        "Q4 revenue guide": "+7%–+9%",
+        "Q4 adj EPS guide": "$3.25–$3.45"
+      },
+      "explainer": {
+        "tagline": "Crocs Q3 revenue +4.6% to $1.04B, HEYDUDE returns to growth at +6%, and FY26 outlook raised a 3rd time to +3% revenue and $14.45–$14.65 adj EPS.",
+        "whatIsIt": "Crocs reported Q3 2026 results Thursday October 29 premarket. Revenues were $1,042.6M (+4.6% Y/Y reported and in constant currency). Non-GAAP diluted EPS was $3.69 (vs $2.92 a year earlier, +26.4%); GAAP diluted EPS was $4.52 (vs $2.70). Non-GAAP operating margin expanded 150bp to 22.3% and non-GAAP gross margin expanded 180bp to 60.3%.",
+        "howItWorks": "Crocs brand revenue was $872.7M (+4.4%) with DTC up 8.2% to $510.4M against wholesale flat at $362.4M (-0.5%). International Crocs brand was $434.4M (+11.8%) and outpaced North America at $438.4M (-2.1%). HEYDUDE returned to growth at $169.9M (+6.1%), with wholesale +14.0% leading DTC +0.1%. Q3 free cash flow was $275.5M (vs $226.2M) and 9M FCF $507.6M. Crocs repurchased ~2.0M shares in Q3 for $250.0M at an average $123.32, with ~$1.7B of authorization remaining. The company raised its FY26 outlook for the third time this year: revenue to ~+3% (from +1% to +2%), Crocs brand to ~+4% (from +2% to +3%), HEYDUDE to ~flat (from -4% to -2%), adj diluted EPS to $14.45–$14.65 (from $13.70–$14.00), adj operating margin to expansion from 22.5% (from 22.3%). Q4 guide calls for revenue +7% to +9% and adj EPS $3.25–$3.45.",
+        "whyItMatters": "HEYDUDE flipping to growth is the single thing bulls have been waiting on since late 2024, and it coincides with an operating-margin expansion quarter (not a markdown-driven one), as the +180bp of non-GAAP gross margin and +150bp of operating margin show. This is the third raise of the year, which flattens the implied Q4 bar — Crocs is now guiding to +7% to +9% Q4 revenue growth. The company is still buying back stock heavily ($250M in Q3 alone) with $1.7B of authorization in reserve.",
+        "forWho": "consumer discretionary analysts, mid-cap retail, footwear comps watchers",
+        "tryIt": "https://finance.yahoo.com/quote/CROX/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Crocs_wordmark.svg/1280px-Crocs_wordmark.svg.png",
+        "alt": "Crocs Inc. corporate wordmark",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CROX Q3 2026 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001334036/000133403626000058/croxq32026-pressrelease.htm"
+        },
+        {
+          "label": "Crocs IR Page",
+          "url": "https://investors.crocs.com/overview/default.aspx"
+        },
+        {
+          "label": "CROX Chart",
+          "url": "https://finance.yahoo.com/quote/CROX/"
+        }
+      ],
+      "reddit": {
+        "title": "CROX Q3 2026 — revenue +4.6% to $1.04B, HEYDUDE returned to growth at +6%, adj EPS $3.69 (+26%), FY26 outlook raised for the 3rd time to $14.45–$14.65 adj EPS",
+        "body": "Crocs raised its full-year 2026 outlook for the third time this year, HEYDUDE returned to growth, and the margin story expanded instead of contracting.\n\n* Revenue **$1,042.6M (+4.6% Y/Y reported and cc)**\n* **Crocs brand $872.7M (+4.4%, record Q3)**; HEYDUDE **$169.9M (+6.1%)** — back to growth\n* Non-GAAP diluted EPS **$3.69 (+26.4%)** vs $2.92 Y/Y; GAAP EPS **$4.52** vs $2.70\n* Non-GAAP gross margin **60.3% (+180bp)**; non-GAAP operating margin **22.3% (+150bp)**\n* Crocs brand DTC **$510.4M (+8.2%)**; international **+11.8%** vs North America **-2.1%**\n* Q3 FCF **$275.5M**; 9M FCF **$507.6M**\n* **Q3 buybacks $250M** (~2.0M shares @ ~$123.32 avg), ~$1.7B authorization remaining\n\nFY26 outlook **RAISED (3rd time this year)**:\n\n1. **Revenue to ~+3%** (from +1% to +2%) — Crocs brand ~+4%, HEYDUDE ~flat\n2. **Adj diluted EPS to $14.45–$14.65** (from $13.70–$14.00); GAAP $14.71–$14.91\n3. **Adj op margin expansion from 22.5%** (from 22.3%)\n\nQ4 guide: revenue +7% to +9%, adj EPS $3.25–$3.45.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crox-q3-2026-earnings-oct-29](https://stock-tldr.xyz/releases/crox-q3-2026-earnings-oct-29)"
+      },
+      "publishDate": "2026-10-29T17:52:27.455Z"
+    },
     {
       "id": "fomc-oct-2026-decision-oct-28",
       "categories": [

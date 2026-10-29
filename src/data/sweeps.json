@@ -15104,6 +15104,42 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261029t175227z",
+      "timestamp": "2026-10-29T17:52:27.455Z",
+      "source": "github-actions-sweep",
+      "summary": "Three verified Q3 2026 earnings adds: Chipotle (Oct 28 after close) with a comp-sales beat and margin compression; Caterpillar (Oct 29 premarket) with Dow-component sales +17% and a Power & Energy segment printing 24.4% margin on data-center demand; Crocs (Oct 29 premarket) with a 3rd FY26 outlook raise and HEYDUDE returning to growth.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "cmg-q3-2026-earnings-oct-28",
+          "title": "Chipotle (CMG) Q3 2026 (Wed Oct 28 after close) — revenue ~$3.3B (+9.6% Y/Y) with comp restaurant sales +2.1% (3rd straight quarter of positive transactions on +0.8% transactions / +1.3% check), above the company's ~1% Q3 guide; GAAP diluted EPS $0.27 (-6.9% vs $0.29 Y/Y) on net income $339.9M; operating margin 13.7% (vs 15.9%) and restaurant-level op margin 23.3% (vs 24.5%) pressured by labor 25.7% of revenue (vs 25.2%) on lower volumes, higher wages/bonuses, extra promotional staffing and insurance costs; food/beverage/packaging falls to 29.5% of revenue (vs 30.0%) on menu price, tariff relief and LTO mix (partly offset by beef and freight inflation); digital 38.8% of food & beverage revenue (vs 36.7%); Q3 openings 84 company-owned (53 with Chipotlane) + 5 international partner-operated; FY26 guide reaffirmed — low-single-digit comp sales growth, 350–370 new restaurants (10–15 international) and ~80% of new company-owned with Chipotlane; Q3 buybacks $110.0M @ $34.05 avg with $1.6B remaining",
+          "category": "earnings",
+          "note": "Chipotle's 3rd straight quarter of positive transactions and +2.1% comp (above ~1% guide) is a meaningful inflection after summer food-safety headwinds; margin compression (labor to 25.7%) is the counterweight."
+        },
+        {
+          "id": "cat-q3-2026-earnings-oct-29",
+          "title": "Caterpillar (CAT) Q3 2026 (Thu Oct 29 premarket) — sales and revenues $20.7B (+17% Y/Y from $17.6B) with volume adding $2.2B and price $663M; GAAP diluted EPS $7.13 (vs $4.88 Y/Y); adjusted diluted EPS $7.20 (vs $4.95 Y/Y); operating profit $4.214B at 20.4% margin (vs 17.3%), adjusted operating margin 20.6% including $128M of IEEPA tariff recoveries; segments — Power & Energy sales $8.784B / $2.143B profit (24.4% margin, +250bp Y/Y) led by power generation incl. data center applications; Construction Industries $7.983B / $1.831B (22.9% margin, +250bp) despite $252M of unfavorable manufacturing costs including higher freight; Resource Industries $4.615B / $622M (13.5% margin, -10bp) hit by $208M of unfavorable manufacturing costs including tariff-driven materials; Financial Products revenues $1.028B with 1.31% past-dues; Q3 operating cash flow $4.4B, cash at quarter-end $7.9B; inventory $22.2B (vs $18.1B at Dec 31 2025); Q3 cash deployed $2.0B ($1.2B buybacks + $0.7B dividends), 9M $7.745B of stock purchases + $2.148B dividends; CEO Joe Creed cites 'durability of our end markets, with strong order rates and a record backlog'",
+          "category": "earnings",
+          "note": "Dow-component Q3 beat with Power & Energy now the biggest/highest-margin segment on data-center-driven power generation — direct read on AI capex into heavy equipment."
+        },
+        {
+          "id": "crox-q3-2026-earnings-oct-29",
+          "title": "Crocs (CROX) Q3 2026 (Thu Oct 29 premarket) — revenues $1,042.6M (+4.6% Y/Y reported and constant currency) with Crocs brand $872.7M (+4.4%, record Q3) and HEYDUDE $169.9M (+6.1%, returned to growth); non-GAAP diluted EPS $3.69 (+26.4% vs $2.92 Y/Y); GAAP diluted EPS $4.52 (vs $2.70 Y/Y); non-GAAP gross margin 60.3% (+180bp); non-GAAP operating margin 22.3% (vs 20.8%, +150bp); Crocs brand DTC $510.4M (+8.2%), wholesale $362.4M (-0.5%); Crocs brand international $434.4M (+11.8%) vs North America $438.4M (-2.1%); HEYDUDE DTC $90.8M (+0.1%), wholesale $79.1M (+14.0%); Q3 FCF $275.5M (vs $226.2M), 9M FCF $507.6M; Q3 buybacks ~2.0M shares for $250.0M @ ~$123.32 avg (~$1.7B authorization remaining); FY26 outlook RAISED for the 3rd time this year — revenue ~+3% (from +1% to +2%), Crocs brand ~+4% (from +2% to +3%), HEYDUDE ~flat (from -4% to -2%), adj diluted EPS $14.45–$14.65 (from $13.70–$14.00), GAAP EPS $14.71–$14.91, adj operating margin expansion from 22.5% (from 22.3%); Q4 guide revenue +7% to +9%, adj EPS $3.25–$3.45",
+          "category": "earnings",
+          "note": "FY26 outlook raised a 3rd time with HEYDUDE flipping to +6% growth and non-GAAP op margin +150bp — rare combination of guidance raise and margin expansion for a mid-cap footwear name."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings"
+      ]
     }
   ]
 }
