@@ -15140,6 +15140,54 @@
       "coverage": [
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20261030t032617z",
+      "timestamp": "2026-10-30T03:26:17.005Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep at 2026-10-30T03:15Z after Thursday Oct 29 earnings — added AMZN Q3 (AWS +39%, $578B backlog, -$42B TTM FCF; stock -7% to -10% AH), LLY Q3 (revenue +39% to $24.4B, FY26 revenue guide raised to $91–$92B), INTC Q3 (DCAI +78% beat but Q4 guide steps down, stock -17% to -23% AH), and a GOOGL mover for its $500B/-12.64% worst-day-ever drop. Four items total.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amzn-q3-2026-earnings-oct-29",
+          "title": "Amazon (AMZN) Q3 2026 (Thu Oct 29 after close) — net sales $201.9B (+12% Y/Y) in line with company $197.0–$202.0B guide; GAAP diluted EPS $1.89 (vs ~$1.96 consensus, down from $1.95 Y/Y as prior-year had $9.5B pre-tax Anthropic gain); operating income $28.1B (+61% Y/Y) at 13.9% op margin (company's highest ever) tops $22.5–$26.5B guide; AWS net sales $46.0B (+39% Y/Y, fastest growth in nearly five years) tops ~$45.3B consensus; AWS operating income $17.8B (+55%) at 38.7% margin; AWS backlog $578B; North America $112.9B (+6%, op income $8.7B); International $43.1B (+5% rpt / +8% cc, op income $1.6B); Q4 2026 guide $240.0–$247.0B revenue (+12–16%) and $28.5–$33.5B op income; 2026 capex guided ~$220B; management says AWS growth will exceed 40% in 2027 and 2028; TTM FCF -$42.4B after $94.8B YoY increase in property-and-equipment spend; stock -7% to -10% after hours as FCF deterioration and capex intensity overshadow AWS acceleration",
+          "category": "earnings",
+          "note": "Mega-cap Q3 — AWS re-accelerates to +39% ($46B, 5-year high) with $578B backlog, but $220B 2026 capex drops TTM FCF to -$42.4B; stock -7% to -10% AH."
+        },
+        {
+          "id": "lly-q3-2026-earnings-oct-29",
+          "title": "Eli Lilly (LLY) Q3 2026 (Thu Oct 29 premarket) — revenue $24.4B (+39% Y/Y, +53% volume / -15% price) crushes ~$22.4B consensus; Mounjaro worldwide $10.7B (+65% Y/Y, US $5.0B +41%); Zepbound US revenue $5.35B (+48% Y/Y); non-GAAP diluted EPS $7.48 (+7%); GAAP diluted EPS $7.22 (+16%) — both include $4.57 per-share acquired IPR&D charge from AtaiBeckley and Curevo deals; operating income $8.6B (+17% Y/Y); Key Products revenue $17.1B; raises full-year 2026 revenue guide to $91–$92B (from $85–$87B, prior consensus ~$88B) and tightens non-GAAP EPS guide to $35.00–$36.00 (from $35.50–$36.50 as the $4.57 Q3 IPR&D offsets a $4.07 midpoint underlying raise); health-care sector was the day's leader with LLY lifting XLV to a record close",
+          "category": "earnings",
+          "note": "Mega-cap pharma Q3 beat with a $6B at-midpoint FY26 revenue guide-raise; Mounjaro +65% and Zepbound +48% volume-led; lifted XLV to record on tape led lower by GOOGL."
+        },
+        {
+          "id": "intc-q3-2026-earnings-oct-29",
+          "title": "Intel (INTC) Q3 2026 (Thu Oct 29 after close) — revenue $16.5B (+21% Y/Y) tops ~$16.47B est; GAAP diluted EPS $0.60 (down 33% from $0.90, prior year had $5.45B Altera divestiture gain); non-GAAP EPS $0.52 (+126% from $0.23) beats ~$0.40 est; GAAP gross margin 43.0%, non-GAAP 44.2%; GAAP op margin 15.3%; segments — DCAI (Data Center & AI) $7.3B (+78% Y/Y, op income $3,039M), Client Computing & Physical AI (CCPG) $8.1B (-5% Y/Y, op income $2,285M), Intel Foundry $6.7B (+58%, op loss $1,853M); Q3 includes $1,005M mark-to-market gain on Escrowed Shares excluded from non-GAAP, plus $330M in equity-investment gains; Q4 2026 guide revenue $15.0–$16.0B (sequentially lower vs Q3 $16.5B) and non-GAAP EPS $0.25 vs ~$0.43 consensus; GAAP EPS guide $0.10; CFO David Zinsner says PC slowdown expected to persist through at least H1 2027; stock plunges ~17% to ~23% after hours as weak Q4 outlook overshadows the Q3 beat",
+          "category": "earnings",
+          "note": "Q3 beat on DCAI +78% / Foundry +58%, but Q4 revenue guide $15.0–$16.0B is a sequential step-down from $16.5B and $0.25 non-GAAP EPS misses $0.43 est; stock -17% to -23% AH."
+        },
+        {
+          "id": "googl-500b-worst-day-oct-29-2026",
+          "title": "Alphabet (GOOGL) -12.64% to $283.82 on Thu Oct 29 2026 — worst day ever, shedding ~$482–$500B in market value (2nd-largest single-day loss in US market history after NVIDIA Jan 2025) as Street punishes a $9.07B Q3 FCF shortfall vs ~$2.7B expected; CFO's call for sharply higher 2027 capex overshadows the +25% revenue print and Google Cloud's +103% to $30.7B; the drop broke Alphabet's prior worst-day record of -11.63% set in March 2020 and dragged the Nasdaq Composite -1.4% and the S&P 500 -0.3% to break a 3-day winning streak; 10-year Treasury yield slipped to ~4.99%, defensive health care rallied (LLY lifted XLV to a record), and Amazon + Intel then followed with sharp after-hours drops of their own on Q4 capex / weak-guide reads",
+          "category": "mover",
+          "note": "Biggest single-day loss in Alphabet history, 2nd-largest ever on a US-listed stock; $500B market cap wiped on a $9.07B Q3 FCF shortfall and a flagged 2027 capex ramp — distinct market event from the Oct 28 earnings print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "rates",
+        "crypto",
+        "mna"
+      ]
     }
   ]
 }
