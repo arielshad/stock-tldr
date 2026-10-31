@@ -1,8 +1,407 @@
 {
-  "generatedAt": "2026-10-30T17:31:17.290Z",
+  "generatedAt": "2026-10-31T03:10:01.164Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-q3-2026-gdp-advance-oct-29",
+      "categories": [
+        "macro"
+      ],
+      "title": "US Q3 2026 GDP advance estimate +3.4% annualized Thu Oct 29 — beats ~3.2% est and accelerates sharply from Q2's +2.2%; PCE price index decelerates to +2.1% (vs +5.0% Q2) and core PCE price index +2.5% (vs +3.3% Q2); real final sales to private domestic purchasers +4.9%; consumer spending, investment and government spending all contributed with federal nondefense boosted by Strategic Petroleum Reserve sales; exports fell (led by petroleum) while imports rose; private inventory build in wholesale and manufacturing also added",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-10-29",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "summary": "US Q3 2026 GDP advance estimate came in at +3.4% annualized, up sharply from Q2's +2.2% and above ~3.2% consensus; Q3 PCE price index decelerated to +2.1% and core PCE to +2.5%; real final sales to private purchasers +4.9%.",
+      "tags": [
+        "macro",
+        "gdp",
+        "q3-2026",
+        "advance-estimate",
+        "bea",
+        "pce-prices",
+        "consumer-spending",
+        "spr-sales",
+        "trade-balance"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Real GDP": "+3.4% annualized vs +3.2% est (Q2: +2.2%)",
+        "PCE price index": "+2.1% (Q2: +5.0%)",
+        "Core PCE price index": "+2.5% (Q2: +3.3%)",
+        "Real final sales to private domestic purchasers": "+4.9%"
+      },
+      "explainer": {
+        "tagline": "US Q3 GDP advance prints +3.4% — above estimate and almost double Q2's pace — with price indexes sharply cooler.",
+        "whatIsIt": "The Bureau of Economic Analysis released the Q3 2026 advance GDP estimate on Thursday October 29 at 8:30 ET. Real GDP rose at a +3.4% annualized rate, well above the ~3.2% consensus and up from Q2's final +2.2%. The release landed one day after the FOMC held rates at 3.75–4.00% in a hawkish 10–2 vote.",
+        "howItWorks": "Growth was broad: consumer spending (led by health care and food services/accommodations), business investment (equipment, mainly information-processing gear), and government spending all contributed. Federal nondefense was lifted by Strategic Petroleum Reserve sales. Exports fell, led by petroleum and related products, and imports rose — net exports were a drag. Private inventory investment added, led by wholesale trade and manufacturing. Real final sales to private domestic purchasers — the cleanest signal of underlying demand — accelerated to +4.9%. The quarterly PCE price index decelerated to +2.1% (from Q2's +5.0%), and the core PCE price index to +2.5% (from +3.3%).",
+        "whyItMatters": "A hotter-than-expected growth print with sharply cooler Q3 price indexes complicates the Fed's hawkish-hold narrative — Chair Powell last week signaled that gathering more data was needed. Rate-cut hopes for December got a mixed signal: strong growth argues against easing, but the cooler Q3 price index trajectory and softer core PCE support it. Treasuries saw the 10Y yield slip to ~4.99% late Thursday as the GDP beat combined with Google's $9B FCF shortfall drove risk-off flows into bonds.",
+        "forWho": "macro traders, rates desks",
+        "tryIt": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bea-final-logo-blue-backing.png",
+        "alt": "U.S. Bureau of Economic Analysis logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BEA GDP Release",
+          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+        },
+        {
+          "label": "BEA GDP Data Page",
+          "url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+        },
+        {
+          "label": "Fed Statement (Oct 28)",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "label": "10Y Yield Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX"
+        }
+      ],
+      "reddit": {
+        "title": "US Q3 GDP advance +3.4% annualized vs +3.2% est — nearly double Q2's pace; PCE price index decelerates to +2.1%",
+        "body": "The BEA's advance estimate of Q3 2026 GDP dropped Thursday morning, one day after the FOMC's hawkish 10-2 hold at 3.75–4.00%.\n\n* Real GDP: +3.4% annualized (vs ~+3.2% consensus; Q2 was +2.2%)\n* PCE price index: +2.1% (vs +5.0% in Q2)\n* Core PCE price index: +2.5% (vs +3.3% in Q2)\n* Real final sales to private domestic purchasers: +4.9%\n\nWhat drove it:\n\n1. **Broad-based contribution** — consumer spending (health care, food services), business investment (information-processing equipment), and government spending all added. Federal nondefense was lifted by Strategic Petroleum Reserve sales.\n2. **Prices cooled sharply** — Q3 PCE price index at +2.1% and core at +2.5% is the softest quarterly print since early 2025.\n3. **Net exports a drag** — exports fell (petroleum-led) while imports rose; private inventory build in wholesale/manufacturing offset part of it.\n\nNext catalysts: September PCE (released same day), November 7 jobs report (if ADP equivalent lines up), Dec 10 FOMC meeting.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-q3-2026-gdp-advance-oct-29](https://stock-tldr.xyz/releases/us-q3-2026-gdp-advance-oct-29)"
+      },
+      "publishDate": "2026-10-31T03:10:01.164Z"
+    },
+    {
+      "id": "us-pce-sep-2026-oct-29",
+      "categories": [
+        "macro"
+      ],
+      "title": "US September 2026 PCE Thu Oct 29 — headline PCE +0.5% M/M and +3.6% Y/Y; core PCE +0.3% M/M and +3.1% Y/Y (vs ~0.4% core M/M consensus); personal income +$54.5B (+0.2%); personal spending +$113.1B (+0.5%); real PCE barely rose <0.1% M/M; personal saving rate 3.8%; headline Y/Y matches July's +3.6% but monthly jump suggests tariff/energy pass-through back in play",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-10-29",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "summary": "US September PCE — headline +0.5% M/M and +3.6% Y/Y, core +0.3% M/M and +3.1% Y/Y (just below ~0.4% core M/M est); income +$54.5B (+0.2%); spending +$113.1B (+0.5%); saving rate 3.8%; the Fed's preferred gauge stays sticky above 3%.",
+      "tags": [
+        "macro",
+        "pce",
+        "core-pce",
+        "inflation",
+        "sep-2026",
+        "bea",
+        "personal-income",
+        "personal-spending",
+        "fed-watching"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline PCE (M/M)": "+0.5%",
+        "Headline PCE (Y/Y)": "+3.6%",
+        "Core PCE (M/M)": "+0.3%",
+        "Core PCE (Y/Y)": "+3.1%",
+        "Personal income (M/M)": "+0.2% ($54.5B)",
+        "Personal spending (M/M)": "+0.5% ($113.1B)",
+        "Real PCE": "<+0.1% M/M",
+        "Personal saving rate": "3.8%"
+      },
+      "explainer": {
+        "tagline": "September PCE core cools to +0.3% M/M (just under the +0.4% consensus) but headline runs +0.5% M/M as the Fed's preferred gauge stays sticky above 3%.",
+        "whatIsIt": "The Bureau of Economic Analysis released September 2026 Personal Income and Outlays on Thursday October 29 at 8:30 ET, alongside the Q3 GDP advance estimate. The report covers the Fed's preferred PCE price index. Headline PCE rose +0.5% from August and +3.6% from a year earlier. Core PCE (excluding food and energy) rose +0.3% monthly and +3.1% Y/Y.",
+        "howItWorks": "Personal income rose $54.5 billion (+0.2% M/M), led by compensation and government social benefits. Personal spending jumped $113.1 billion (+0.5% M/M) — but real PCE rose less than 0.1% at a monthly rate, meaning the nominal spending beat was essentially all prices. The personal saving rate held at 3.8% of disposable income. The core M/M print of +0.3% came in just below the ~+0.4% consensus; the three-month core annualized pace stays near +3%. Headline +3.6% Y/Y matches July's print and is above June's +3.7%, keeping the Fed's preferred gauge stuck above 3% for a fifth straight month.",
+        "whyItMatters": "A cooler-than-expected core M/M print was the one piece of good news for doves, but the broader picture — headline +3.6% Y/Y, real spending near flat, saving rate low — is the stagflation-lite setup that keeps the FOMC's hawkish-hold stance in place. Two Fed officials called for higher rates in speeches late Thursday into Friday, reinforcing the hawkish lean. Dec FOMC rate-cut odds slipped further on the Y/Y acceleration.",
+        "forWho": "macro traders, rates desks, Fed-watchers",
+        "tryIt": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bea-final-logo-blue-backing.png",
+        "alt": "U.S. Bureau of Economic Analysis logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BEA PCE Release",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+        },
+        {
+          "label": "BEA PCE Data Page",
+          "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy"
+        },
+        {
+          "label": "Fed Statement (Oct 28)",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "label": "FRED PCEPILFE",
+          "url": "https://fred.stlouisfed.org/series/PCEPILFE"
+        }
+      ],
+      "reddit": {
+        "title": "US Sept PCE — core +0.3% M/M (vs +0.4% est) but headline +0.5% M/M and +3.6% Y/Y; Fed's preferred gauge sticky above 3%",
+        "body": "The Fed's preferred inflation gauge printed Thursday morning alongside Q3 GDP.\n\n* Headline PCE: +0.5% M/M, +3.6% Y/Y\n* Core PCE: +0.3% M/M, +3.1% Y/Y (just below +0.4% M/M consensus)\n* Personal income: +$54.5B / +0.2% M/M\n* Personal spending: +$113.1B / +0.5% M/M\n* Real PCE: less than +0.1% M/M\n* Saving rate: 3.8%\n\nWhat it means:\n\n1. **Core beat the hawks slightly** — +0.3% M/M was the single soft data point for doves, keeping the three-month annualized pace near 3%.\n2. **Headline is still hot** — +3.6% Y/Y matches July's print and is the fifth straight month above 3%.\n3. **Spending was all prices** — the +0.5% nominal spending jump translated to real PCE barely moving. Combined with the 3.8% saving rate, that is a consumer running on fumes.\n\nTwo Fed speakers (Thursday PM into Friday) called for higher rates to finish the inflation fight. December cut odds slipped further.\n\nNext catalysts: November jobs report, Nov CPI, Dec 10 FOMC meeting.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-pce-sep-2026-oct-29](https://stock-tldr.xyz/releases/us-pce-sep-2026-oct-29)"
+      },
+      "publishDate": "2026-10-31T03:10:01.164Z"
+    },
+    {
+      "id": "rddt-q3-2026-earnings-oct-29",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Reddit (RDDT) Q3 2026 (Thu Oct 29 after close) — revenue $895M (+53% Y/Y) tops $875M est; diluted EPS $1.40 (+75%); net income $283M (+74%); adj EBITDA $402M (+70%, 44.9% margin); operating income $262M (+89%); FCF $363M (+98%); global DAUq 130.3M (+12%) BUT US DAUq -2% Y/Y to 50.7M — the single number the market cared about; global WAUq 515.2M (+16%); global ARPU $6.87 (+36%); Q4 guide revenue $1,000–$1,030M and adj EBITDA $480–$510M; stock craters -24% to -29% on Fri Oct 30 as US DAU decline reignites search-referral and ChatGPT-citation fears first flagged at Q2",
+      "org": "Reddit",
+      "date": "2026-10-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000114/earningspressreleaseq326.htm",
+      "summary": "RDDT Q3 2026 — revenue $895M (+53%) tops est and EPS $1.40 (+75%) crushes but global DAU +12% / US DAU -2% Y/Y to 50.7M breaks the growth thesis; Q4 guide $1,000-$1,030M revenue; stock drops ~24-29% Fri Oct 30.",
+      "tags": [
+        "earnings",
+        "mover",
+        "mega-cap-social",
+        "ad-revenue",
+        "user-growth",
+        "dau-decline",
+        "search-referral",
+        "chatgpt-headwind",
+        "q3-2026",
+        "revenue-beat",
+        "eps-beat"
+      ],
+      "tickers": [
+        "RDDT"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$895M (+53% Y/Y) vs ~$875M est",
+        "Ad revenue": "$847M (+54%)",
+        "Diluted EPS": "$1.40 (+75% Y/Y)",
+        "Net income": "$283M (+74%, 32% margin)",
+        "Operating income": "$262M (+89%)",
+        "Adj EBITDA": "$402M (+70%, 44.9% margin)",
+        "Free cash flow": "$363M (+98%)",
+        "Global DAUq": "130.3M (+12%)",
+        "US DAUq": "50.7M (-2% Y/Y)",
+        "International DAUq": "79.6M (+24%)",
+        "Global WAUq": "515.2M (+16%)",
+        "Global ARPU": "$6.87 (+36%)",
+        "US ARPU": "$13.82 (+53%)",
+        "Q4 revenue guide": "$1,000M–$1,030M",
+        "Q4 adj EBITDA guide": "$480M–$510M",
+        "Move": "~-24% to -29% Fri Oct 30"
+      },
+      "explainer": {
+        "tagline": "Reddit crushes Q3 revenue and EPS but US DAU drops 2% Y/Y — the one number that mattered — and the stock tumbles ~25% on Oct 30.",
+        "whatIsIt": "Reddit reported Q3 2026 results on Thursday October 29 after the close. Revenue reached $895 million (+53% Y/Y) above a ~$875 million consensus, with diluted EPS of $1.40 (+75% Y/Y) and net income of $283 million (+74%). Adjusted EBITDA was $402 million (+70%) at a 44.9% margin and free cash flow was $363 million (+98%).",
+        "howItWorks": "Ad revenue grew 54% to $847 million; other revenue grew 35% to $48 million. US revenue was $719 million (+50%), International $176 million (+67%). Global DAUq grew 12% Y/Y to 130.3 million, but US DAUq fell 2% Y/Y to 50.7 million — the first US DAU decline since the IPO — while international DAUq grew 24% to 79.6 million. Global WAUq was 515.2 million (+16%). Global ARPU hit $6.87 (+36%) with US ARPU $13.82 (+53%). Q4 2026 guide: revenue $1,000–$1,030M, adj EBITDA $480–$510M. Cash and marketable securities ended at $3.0 billion; the company repurchased approximately 670,000 shares for $100 million. Stock closed the Fri Oct 30 regular session down roughly 24–29% depending on source (Reuters cited ~-29%, TheStreet ~-25%).",
+        "whyItMatters": "The US DAU drop is the exact worry Reddit flagged at Q2 — choppy Google search referrals and ChatGPT-citation share decline — now showing up in the audience number itself. Reddit also said it will begin limiting forum access to logged-in users, which may make the search-referral problem structural. The Oct 30 session was the Nasdaq's worst in four months, and Reddit's $100B-ish prior market cap gave the drop outsized index-level impact. Comp read-across to Pinterest (-6% intraday) and Snap confirmed the social/ads cohort was treated as de-rated as a group.",
+        "forWho": "ad-tech, social-media and growth-stock traders",
+        "tryIt": "https://investor.redditinc.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/de/Reddit_screenshot_%28new%29.png",
+        "alt": "Reddit homepage screenshot",
+        "fit": "cover",
+        "credit": "Reddit via Wikipedia"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q3 release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000114/earningspressreleaseq326.htm"
+        },
+        {
+          "label": "Reddit Investor Relations",
+          "url": "https://investor.redditinc.com/"
+        },
+        {
+          "label": "RDDT Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/RDDT"
+        },
+        {
+          "label": "Oct 30 Market Wrap (MarketScreener)",
+          "url": "https://www.marketscreener.com/news/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts-ce785fdbd08afe25"
+        }
+      ],
+      "reddit": {
+        "title": "Reddit Q3 crushes revenue ($895M +53%) and EPS ($1.40 +75%) — but US DAU drops 2% Y/Y, stock craters ~25-29% on Friday",
+        "body": "Reddit reported Q3 2026 Thursday after close. Numbers were strong across the board except for the one metric the market cared most about.\n\n* Revenue: $895M (+53% Y/Y) vs ~$875M est\n* Ad revenue: $847M (+54%)\n* Diluted EPS: $1.40 (+75% Y/Y)\n* Adj EBITDA: $402M (+70%, 44.9% margin)\n* Free cash flow: $363M (+98%)\n* Global DAUq: 130.3M (+12%)\n* **US DAUq: 50.7M (-2% Y/Y)** — first annual decline since IPO\n* International DAUq: 79.6M (+24%)\n* ARPU global: $6.87 (+36%)\n* Q4 guide: $1,000M–$1,030M revenue / $480M–$510M adj EBITDA\n\nWhy the ~25-29% Friday drop:\n\n1. **US DAU slipped Y/Y** — Reddit flagged choppy Google search referrals + ChatGPT citation-share declines at Q2. Now it's showing up in actual users, not just referral traffic.\n2. **Logged-in-only shift** — the company said it will limit forum access to logged-in users, which may make the search-referral problem structural.\n3. **Risk-off session** — Nasdaq's worst day in four months caught the social/ad cohort together; Pinterest -6% intraday, Snap also traded lower.\n\nNext catalysts: Q4 2026 report in late January, plus any announced AI-licensing/data-deal updates.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rddt-q3-2026-earnings-oct-29](https://stock-tldr.xyz/releases/rddt-q3-2026-earnings-oct-29)"
+      },
+      "publishDate": "2026-10-31T03:10:01.164Z"
+    },
+    {
+      "id": "ftnt-q3-2026-plunge-oct-29",
+      "categories": [
+        "mover",
+        "earnings"
+      ],
+      "title": "Fortinet (FTNT) -20% Thu Oct 29 after Q3 2026 (Wed Oct 28 after close) — revenue $2.08B (+20% Y/Y) tops $2.06B est and non-GAAP EPS $0.91 (+23%) beats $0.86 est; product revenue $765M (+37%); billings $2.34B (+29%); non-GAAP operating margin 38.2%; FCF $864.8M; FY26 raised to $8.125-$8.215B revenue and $3.54-$3.58 non-GAAP EPS and buyback authorization +$1.2B; Q4 guide $2.155-$2.245B revenue; BUT full-year service revenue guide trimmed to $5.15-$5.17B and revenue growth decelerating from +26% Q2 to +20% Q3 after FTNT doubled YTD; stock -26% AH Oct 28, closed Oct 29 session -20.1%; drags Tenable (TENB) -5% AH, Palo Alto / Zscaler / CrowdStrike -6-7% AH; Gen Digital (GEN) bucks sector +6% AH on its own raise",
+      "org": "Fortinet",
+      "date": "2026-10-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001262039/000126203926000024/ftntq3-2026ex991.htm",
+      "summary": "FTNT -20% Oct 29 Thu after Q3 2026 beat on EPS and billings but service-revenue cut + growth deceleration from +26% to +20% sinks the stock after a near-double YTD run; drags cybersecurity peers; Gen Digital bucks trend.",
+      "tags": [
+        "mover",
+        "earnings",
+        "cybersecurity",
+        "network-security",
+        "sase",
+        "q3-2026",
+        "eps-beat",
+        "billings-beat",
+        "service-revenue-cut",
+        "deceleration",
+        "sector-read-across"
+      ],
+      "tickers": [
+        "FTNT",
+        "PANW",
+        "ZS",
+        "CRWD",
+        "TENB",
+        "GEN"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$2.08B (+20% Y/Y) vs $2.06B est",
+        "Product revenue": "$765M (+37% Y/Y)",
+        "Service revenue": "$1.313B",
+        "Billings": "$2.34B (+29% Y/Y)",
+        "Non-GAAP EPS": "$0.91 (+23% Y/Y) vs $0.86 est",
+        "GAAP EPS": "$0.86",
+        "Non-GAAP op margin": "38.2%",
+        "Free cash flow": "$864.8M",
+        "FY26 revenue guide": "$8.125B–$8.215B",
+        "FY26 non-GAAP EPS guide": "$3.54–$3.58 (prior $3.41–$3.47)",
+        "FY26 service revenue guide": "$5.15B–$5.17B (trimmed)",
+        "FY26 billings guide": "$9.568B–$9.718B (prior $9.35–$9.55B)",
+        "Q4 revenue guide": "$2.155B–$2.245B",
+        "Q4 non-GAAP EPS guide": "$0.93–$0.95",
+        "Buyback authorization increase": "+$1.2B ($2.0B remaining)",
+        "Move": "-26% AH Oct 28, -20.1% close Oct 29"
+      },
+      "explainer": {
+        "tagline": "Fortinet beat on EPS and billings and raised FY26 guides — but a service-revenue cut and growth slowdown from +26% to +20% dropped the stock ~20% in a single session.",
+        "whatIsIt": "Fortinet reported Q3 2026 results on Wednesday October 28 after close. Revenue of $2.08 billion (+20% Y/Y) beat the ~$2.06 billion consensus; non-GAAP EPS of $0.91 (+23% Y/Y) beat $0.86 est. Billings jumped 29% Y/Y to $2.34 billion. The company raised FY26 non-GAAP EPS to $3.54–$3.58 (from $3.41–$3.47), raised FY26 billings to $9.568–$9.718B, and added $1.2B to its buyback authorization. Shares fell about 26% in after-hours trading on Oct 28 and closed Thursday Oct 29 down about 20.1%.",
+        "howItWorks": "The strongest line was product revenue, up 37% Y/Y to $765 million, as AI/OT security demand drove hardware refresh. Service revenue was $1.313 billion. Non-GAAP operating margin was 38.2% and free cash flow was $864.8 million. The problem spots: FY26 service revenue was trimmed to $5.15–$5.17 billion — below both the prior range and consensus — and overall revenue growth decelerated from +26% in Q2 to +20% in Q3. FTNT had more than doubled year-to-date into the print, which left the setup priced for a top-line reacceleration that didn't come. Q4 guide: $2.155–$2.245B revenue and $0.93–$0.95 non-GAAP EPS.",
+        "whyItMatters": "The sell-off pulled the whole cybersecurity cohort down after-hours: Tenable (TENB) -5%, Palo Alto / CrowdStrike / Zscaler each -6-7%. The outlier was Gen Digital (GEN) +6% AH, which beat and raised its own FY27 guide. The read-across is that even best-in-class cyber names with buyback upsizes get punished for growth deceleration — the AI capex rotation that funded the September rally expects accelerating top-lines everywhere, not just at hyperscalers.",
+        "forWho": "cybersecurity sector traders, software analysts",
+        "tryIt": "https://investor.fortinet.com/quarterly-earnings"
+      },
+      "image": {
+        "url": "https://images.siliconangle.com/blogs.dir/1/files/2024/08/fortinet.jpg",
+        "alt": "Fortinet signage after Q3 2026 earnings sell-off",
+        "fit": "cover",
+        "credit": "SiliconAngle"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q3 release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001262039/000126203926000024/ftntq3-2026ex991.htm"
+        },
+        {
+          "label": "FTNT 10-Q (Q3 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001262039/000126203926000027/ftnt-20260930.htm"
+        },
+        {
+          "label": "SiliconAngle Recap",
+          "url": "https://siliconangle.com/2026/10/28/fortinet-plunges-26-after-hours-and-takes-tenable-with-it-as-gen-digital-rises/"
+        },
+        {
+          "label": "FTNT Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/FTNT"
+        }
+      ],
+      "reddit": {
+        "title": "Fortinet beats Q3 and raises guide — stock still crashes 26% AH, down 20% Thursday close as growth decelerates from 26% to 20%",
+        "body": "Fortinet reported Q3 Wednesday after close and did almost everything right on paper. Market didn't care.\n\n* Revenue: $2.08B (+20% Y/Y) vs $2.06B est\n* Product revenue: $765M (+37% Y/Y)\n* Billings: $2.34B (+29% Y/Y)\n* Non-GAAP EPS: $0.91 (+23% Y/Y) vs $0.86 est\n* Non-GAAP op margin: 38.2%\n* Free cash flow: $864.8M\n* FY26 non-GAAP EPS guide RAISED to $3.54–$3.58 (from $3.41–$3.47)\n* FY26 billings guide RAISED to $9.568–$9.718B\n* Buyback authorization +$1.2B\n* Stock: -26% AH Oct 28, closed Oct 29 session -20.1%\n\nWhat killed the stock:\n\n1. **Growth decelerated from +26% to +20%** — FTNT had more than doubled YTD, priced for reacceleration.\n2. **Service revenue guide trimmed** — FY26 service revenue cut to $5.15–$5.17B, below both the prior range and consensus. Product strength (hardware refresh) got discounted.\n3. **Dragged peers** — Tenable -5% AH, PANW/CRWD/ZS all -6-7% AH. Gen Digital +6% AH was the only standout on its own guide raise.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ftnt-q3-2026-plunge-oct-29](https://stock-tldr.xyz/releases/ftnt-q3-2026-plunge-oct-29)"
+      },
+      "publishDate": "2026-10-31T03:10:01.164Z"
+    },
+    {
+      "id": "nasdaq-ai-washout-fri-oct-30-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "title": "Nasdaq Composite -2.86% to 25,437 Fri Oct 30 2026 — worst day since June and worst month since March 2025 as AI-earnings wash caps a brutal October; S&P 500 -1.82% to 7,580; Dow -1.09% to 51,770; Intel (INTC) -28.58% to a double-digit decade-worst session on weak Q4 outlook / PC slowdown through H1 2027; Reddit (RDDT) -29% on US DAU decline; Roblox (RBLX) -16-18% on 9% DAU drop; Pinterest (PINS) -6% on soft revenue; Amazon (AMZN) ~-2% on $42.4B TTM FCF deficit; two Fed officials (Thursday PM) call for higher rates to finish inflation fight, reinforcing December rate-cut doubts; Brent oil ~$112-115 and WTI ~$104 on continued US-Iran tension; gold -3.63%; Exxon and Chevron hit record highs on wider refining margins",
+      "org": "Nasdaq Composite",
+      "date": "2026-10-30",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+      "summary": "Nasdaq -2.86% to 25,437 Fri Oct 30, worst day since June; S&P -1.82% to 7,580; INTC -28.58% worst in decades; RDDT -29%; RBLX -16-18%; AMZN -2%; two Fed hawks push back on rate cuts; XOM/CVX hit records on refining; Brent ~$112-115.",
+      "tags": [
+        "mover",
+        "sector",
+        "indices",
+        "ai-selloff",
+        "nasdaq",
+        "sp-500",
+        "worst-day",
+        "intel-crash",
+        "reddit-crash",
+        "fed-hawkish",
+        "oil-rally",
+        "end-of-october"
+      ],
+      "tickers": [
+        "^IXIC",
+        "^GSPC",
+        "^DJI",
+        "INTC",
+        "RDDT",
+        "AMZN",
+        "RBLX"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Nasdaq Composite": "25,437.00 (-747.73 pts, -2.86%)",
+        "S&P 500": "7,580.07 (-140.32 pts, -1.82%)",
+        "Dow Jones": "51,770.31 (-572.25 pts, -1.09%)",
+        "INTC": "-28.58% (worst session in decades)",
+        "RDDT": "~-29%",
+        "RBLX": "-16% to -18%",
+        "PINS": "~-6%",
+        "AMZN": "~-2%",
+        "Brent crude": "~$112-$115",
+        "WTI": "~$104",
+        "Gold": "-3.63%"
+      },
+      "explainer": {
+        "tagline": "Nasdaq -2.86% Fri Oct 30 — worst day since June and worst month since March 2025 as AI-earnings fallout crushes Intel, Reddit, Roblox after Amazon + Alphabet already stung mega-caps.",
+        "whatIsIt": "The Nasdaq Composite closed down 747.73 points (-2.86%) at 25,437 on Friday October 30 2026 — its worst single session since early June and the worst calendar month since March 2025. The S&P 500 fell 1.82% to 7,580 and the Dow lost 1.09% to 51,770. The move extended a two-day AI-earnings washout that began Wednesday night when Alphabet's $9B Q3 FCF shortfall and Meta's $35B equity raise reset expectations for 2027 AI capex.",
+        "howItWorks": "Single-stock contribution was dominated by Intel (INTC) -28.58% after Q4 guidance landed well below consensus (non-GAAP EPS $0.25 vs ~$0.43) and CFO David Zinsner said PC weakness would persist through at least H1 2027. Reddit (RDDT) fell about 29% as US DAU came in down 2% Y/Y, the first annual drop since the IPO. Roblox (RBLX) tumbled 16-18% on a 9% Y/Y DAU decline despite a loss / revenue beat. Pinterest (PINS) fell about 6% on soft revenue. Amazon (AMZN) ended down about 2% as the market digested a record $42.4 billion TTM free-cash-flow outflow against raised FY26 capex guidance of ~$220 billion. Two Fed officials spoke Thursday afternoon pushing for higher rates to finish the inflation fight, reinforcing December cut doubts. Oil ran up on continued US-Iran tensions, with Brent around $112-$115 and WTI near $104 — ExxonMobil and Chevron briefly hit record highs on wider refining margins while gold fell 3.63%.",
+        "whyItMatters": "The AI-capex-funded rally of September / early October got its first real stress test — mega-cap AI spenders are now penalized for the magnitude of their build, not rewarded. The dispersion between the AI winners (Microsoft, GEV, Oracle, Nvidia proxies) and the AI capex collectors (Amazon, Alphabet, Meta, Intel) widened sharply this week. With the Fed in a hawkish hold and two Fed speakers reinforcing the stance, risk-reward on growth multiples is less forgiving heading into Apple's Nov 2 earnings and Nvidia on Nov 19.",
+        "forWho": "equity index traders, tech sector allocators, momentum/volatility traders",
+        "tryIt": "https://finance.yahoo.com/quote/%5EIXIC"
+      },
+      "image": {
+        "url": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-30T203404Z_1_LYNXNPEM9T20Z_RTROPTP_4_USA-STOCKS.JPG",
+        "alt": "NYSE trading floor on October 30 2026 selloff",
+        "fit": "cover",
+        "credit": "Reuters via MarketScreener"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Market Wrap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        },
+        {
+          "label": "MarketScreener Recap",
+          "url": "https://www.marketscreener.com/news/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts-ce785fdbd08afe25"
+        },
+        {
+          "label": "StockTitan Live",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
+        },
+        {
+          "label": "Nasdaq Composite (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/%5EIXIC"
+        },
+        {
+          "label": "S&P 500 (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "Nasdaq -2.86% Friday — worst day since June, worst month since March 2025 — Intel -29%, Reddit -29%, Roblox -17% cap a brutal AI earnings week",
+        "body": "October ended with a thud. Friday Oct 30 was the Nasdaq's worst single day since early June and its worst calendar month since March 2025.\n\n* Nasdaq Composite: 25,437.00 (-2.86%, -747.73 pts)\n* S&P 500: 7,580.07 (-1.82%, -140.32 pts)\n* Dow Jones: 51,770.31 (-1.09%, -572.25 pts)\n* Intel (INTC): -28.58% — worst session in decades\n* Reddit (RDDT): ~-29% — US DAU dropped Y/Y\n* Roblox (RBLX): -16% to -18% — DAU -9% Y/Y\n* Pinterest (PINS): ~-6% on soft revenue\n* Amazon (AMZN): ~-2% — $42.4B record TTM FCF deficit\n* Exxon (XOM) / Chevron (CVX): record highs on refining margins\n* Brent: ~$112-$115; WTI ~$104; Gold -3.63%\n\nThree things that broke this week:\n\n1. **AI capex panic repriced** — Alphabet's $9B Q3 FCF shortfall + Meta's $35B equity raise + Amazon's TTM $42B outflow told the market that the AI build is bigger and uglier than consensus had modeled.\n2. **Earnings cohort fractures** — The AI-spenders got sold while AI-sellers (MSFT, GEV, Oracle proxies) stayed bid. Dispersion widened sharply.\n3. **Fed stays hawkish** — Two Fed officials pushed for higher rates on Thursday PM; December cut odds dropped further after Core PCE +3.1% Y/Y stayed sticky.\n\nNext catalysts: Apple (AAPL) Q4 FY26 Monday Nov 2; non-farm payrolls Nov 7; Nvidia (NVDA) Q3 FY27 Nov 19; December FOMC Dec 10.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nasdaq-ai-washout-fri-oct-30-2026](https://stock-tldr.xyz/releases/nasdaq-ai-washout-fri-oct-30-2026)"
+      },
+      "publishDate": "2026-10-31T03:10:01.164Z"
+    },
     {
       "id": "xom-q3-2026-earnings-oct-30",
       "categories": [

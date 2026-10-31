@@ -15226,6 +15226,57 @@
         "oil-majors",
         "pharma"
       ]
+    },
+    {
+      "id": "sweep-20261031t031001z",
+      "timestamp": "2026-10-31T03:10:01.164Z",
+      "source": "github-actions-sweep",
+      "summary": "Added the Oct 29 US Q3 GDP advance (+3.4%) and September PCE prints that printed the day after FOMC; added Reddit (RDDT) Q3 earnings + Fri Oct 30 crash on US DAU slip; added Fortinet (FTNT) Q3 earnings + Thu Oct 29 -20% session on service-revenue guide cut; added Oct 30 Nasdaq -2.86% market wrap closing the worst month since March 2025.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-q3-2026-gdp-advance-oct-29",
+          "title": "US Q3 2026 GDP advance estimate +3.4% annualized Thu Oct 29 — beats ~3.2% est and accelerates sharply from Q2's +2.2%; PCE price index decelerates to +2.1% (vs +5.0% Q2) and core PCE price index +2.5% (vs +3.3% Q2); real final sales to private domestic purchasers +4.9%; consumer spending, investment and government spending all contributed with federal nondefense boosted by Strategic Petroleum Reserve sales; exports fell (led by petroleum) while imports rose; private inventory build in wholesale and manufacturing also added",
+          "category": "macro",
+          "note": "BEA Q3 GDP advance +3.4% was both an inflation and growth beat; one of the two headline macro prints of the week after FOMC."
+        },
+        {
+          "id": "us-pce-sep-2026-oct-29",
+          "title": "US September 2026 PCE Thu Oct 29 — headline PCE +0.5% M/M and +3.6% Y/Y; core PCE +0.3% M/M and +3.1% Y/Y (vs ~0.4% core M/M consensus); personal income +$54.5B (+0.2%); personal spending +$113.1B (+0.5%); real PCE barely rose <0.1% M/M; personal saving rate 3.8%; headline Y/Y matches July's +3.6% but monthly jump suggests tariff/energy pass-through back in play",
+          "category": "macro",
+          "note": "Fed's preferred inflation gauge; core beat (slightly), headline sticky +3.6% Y/Y, directly feeds the Dec FOMC debate."
+        },
+        {
+          "id": "rddt-q3-2026-earnings-oct-29",
+          "title": "Reddit (RDDT) Q3 2026 (Thu Oct 29 after close) — revenue $895M (+53% Y/Y) tops $875M est; diluted EPS $1.40 (+75%); net income $283M (+74%); adj EBITDA $402M (+70%, 44.9% margin); operating income $262M (+89%); FCF $363M (+98%); global DAUq 130.3M (+12%) BUT US DAUq -2% Y/Y to 50.7M — the single number the market cared about; global WAUq 515.2M (+16%); global ARPU $6.87 (+36%); Q4 guide revenue $1,000–$1,030M and adj EBITDA $480–$510M; stock craters -24% to -29% on Fri Oct 30 as US DAU decline reignites search-referral and ChatGPT-citation fears first flagged at Q2",
+          "category": "earnings",
+          "note": "First US DAU Y/Y decline since IPO + ~25-29% session drop Fri Oct 30 — one of the day's biggest single-name movers."
+        },
+        {
+          "id": "ftnt-q3-2026-plunge-oct-29",
+          "title": "Fortinet (FTNT) -20% Thu Oct 29 after Q3 2026 (Wed Oct 28 after close) — revenue $2.08B (+20% Y/Y) tops $2.06B est and non-GAAP EPS $0.91 (+23%) beats $0.86 est; product revenue $765M (+37%); billings $2.34B (+29%); non-GAAP operating margin 38.2%; FCF $864.8M; FY26 raised to $8.125-$8.215B revenue and $3.54-$3.58 non-GAAP EPS and buyback authorization +$1.2B; Q4 guide $2.155-$2.245B revenue; BUT full-year service revenue guide trimmed to $5.15-$5.17B and revenue growth decelerating from +26% Q2 to +20% Q3 after FTNT doubled YTD; stock -26% AH Oct 28, closed Oct 29 session -20.1%; drags Tenable (TENB) -5% AH, Palo Alto / Zscaler / CrowdStrike -6-7% AH; Gen Digital (GEN) bucks sector +6% AH on its own raise",
+          "category": "mover",
+          "note": "20% session drop in a $100B+ cybersecurity bellwether after a beat and guide raise — pulled the entire cyber cohort down."
+        },
+        {
+          "id": "nasdaq-ai-washout-fri-oct-30-2026",
+          "title": "Nasdaq Composite -2.86% to 25,437 Fri Oct 30 2026 — worst day since June and worst month since March 2025 as AI-earnings wash caps a brutal October; S&P 500 -1.82% to 7,580; Dow -1.09% to 51,770; Intel (INTC) -28.58% to a double-digit decade-worst session on weak Q4 outlook / PC slowdown through H1 2027; Reddit (RDDT) -29% on US DAU decline; Roblox (RBLX) -16-18% on 9% DAU drop; Pinterest (PINS) -6% on soft revenue; Amazon (AMZN) ~-2% on $42.4B TTM FCF deficit; two Fed officials (Thursday PM) call for higher rates to finish inflation fight, reinforcing December rate-cut doubts; Brent oil ~$112-115 and WTI ~$104 on continued US-Iran tension; gold -3.63%; Exxon and Chevron hit record highs on wider refining margins",
+          "category": "mover",
+          "note": "Worst Nasdaq day in four months and worst calendar month since March 2025; a seismic session summary that ties INTC/RDDT/RBLX/AMZN together."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "sector"
+      ]
     }
   ]
 }
