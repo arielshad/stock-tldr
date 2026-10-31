@@ -15277,6 +15277,34 @@
         "mover",
         "sector"
       ]
+    },
+    {
+      "id": "sweep-20261031t163152z",
+      "timestamp": "2026-10-31T16:31:52.208Z",
+      "source": "github-actions-sweep",
+      "summary": "Added one macro/rates/FX item: the BOJ's Oct 30 2026 decision to hold at 1.25% in an 8–1 vote (Takata dissent for +25bp), raise FY2027 core CPI to 2.6%, and accelerate ETF sales to ~860B yen/yr from January 2027.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "boj-oct-2026-decision-oct-30",
+          "title": "BOJ October 2026 — holds policy rate at 1.25% on 8–1 vote Fri Oct 30 2026 with Hajime Takata dissenting for a 25bp hike to 1.50%; raises FY2027 core CPI forecast to 2.6% from 2.4%; says underlying inflation is now 'at a level generally consistent with' the 2% price target; separately decides to accelerate ETF sales from January to 860 billion yen (~$5.45B) per year from the current ~330 billion yen pace, cutting the implied unwind period from ~112 years to ~43 years; markets now price ~80% odds of a December hike",
+          "category": "macro",
+          "note": "Primary-source BOJ decision from Fri Oct 30 2026 confirmed from BOJ English PDFs and Reuters-sourced recaps; the FOMC Oct 28 item already in the feed covers the Fed side only, so this is additive, not duplicative."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "crypto",
+        "earnings"
+      ]
     }
   ]
 }

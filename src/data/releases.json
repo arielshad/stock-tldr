@@ -1,8 +1,91 @@
 {
-  "generatedAt": "2026-10-31T03:10:01.164Z",
+  "generatedAt": "2026-10-31T16:31:52.208Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "boj-oct-2026-decision-oct-30",
+      "categories": [
+        "macro",
+        "rates",
+        "fx"
+      ],
+      "title": "BOJ October 2026 — holds policy rate at 1.25% on 8–1 vote Fri Oct 30 2026 with Hajime Takata dissenting for a 25bp hike to 1.50%; raises FY2027 core CPI forecast to 2.6% from 2.4%; says underlying inflation is now 'at a level generally consistent with' the 2% price target; separately decides to accelerate ETF sales from January to 860 billion yen (~$5.45B) per year from the current ~330 billion yen pace, cutting the implied unwind period from ~112 years to ~43 years; markets now price ~80% odds of a December hike",
+      "org": "Bank of Japan",
+      "date": "2026-10-30",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "summary": "BOJ holds at 1.25% in an 8–1 vote (Takata dissents for +25bp to 1.50%), raises FY2027 core CPI forecast to 2.6%, and accelerates ETF unwind to 860B yen/yr from January; Ueda says underlying inflation is now at the 2% target.",
+      "tags": [
+        "boj",
+        "bank-of-japan",
+        "monetary-policy",
+        "rates",
+        "hold",
+        "dissent",
+        "ueda",
+        "takata-dissent",
+        "etf-sales",
+        "yen",
+        "jpy",
+        "december-hike",
+        "underlying-inflation",
+        "outlook-report"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Policy rate": "1.25% (held)",
+        "Vote": "8–1 (Takata dissents for +25bp to 1.50%)",
+        "Prior move": "+25bp at September 18, 2026 meeting",
+        "FY2027 core CPI forecast": "+2.6% (raised from +2.4%)",
+        "ETF sales (annual)": "860B yen from Jan 2027 (vs ~330B yen prior)",
+        "Market-implied Dec hike odds": "~80%"
+      },
+      "explainer": {
+        "tagline": "BOJ holds at 1.25% but hikes its inflation forecast and triples the ETF-unwind pace, with Takata voting for an immediate hike to 1.50%.",
+        "whatIsIt": "The Bank of Japan's Policy Board voted on Friday October 30, 2026 to leave the short-term policy rate unchanged at 1.25% after the 25 basis point hike at its September 18 meeting. The 8–1 vote had hawkish board member Hajime Takata dissenting in favor of a quarter-point increase to 1.50%. The decision was paired with an updated Outlook Report and a separate announcement that the Bank will accelerate the pace at which it sells its ETF holdings.",
+        "howItWorks": "The Outlook Report lifts the median core CPI forecast for the fiscal year ending March 2028 (FY2027) to 2.6% from 2.4% in July, with upward revisions to the 'core core' estimates for the next two fiscal years as well. The statement describes underlying inflation as 'at a level generally consistent with' the Bank's 2% price target and says long-term expectations are 'moving around 2%.' Separately, the Bank decided to raise the pace of ETF disposals from January 2027 to roughly 860 billion yen per year (about $5.45B at current rates), up from the previous ~330 billion yen per year schedule set in September 2025, cutting the implied unwind period from ~112 years to ~43 years. Governor Kazuo Ueda told the press conference that financial conditions remain accommodative and that the Committee must be 'vigilant to the risk of inflation overshooting our target.'",
+        "whyItMatters": "The combination of a hawkish forecast revision, the Takata dissent, and the sharply faster ETF-unwind puts a December hike firmly on the table — markets now price roughly an 80% probability of a 25bp move at the December 17–18 meeting, and the median Reuters-polled economist expects the policy rate to reach 1.5% by December and a terminal rate of ~1.75–2.0% by end-2027. USD/JPY traded below 157.50 after the statement before paring losses, GBP/JPY held near 210.80, and JGB yields drifted higher across the curve. The accelerated ETF sales also reinstate a visible drag on Japanese equity flows after a one-year pause at the slower pace.",
+        "forWho": "FX desks, JGB rates traders, Japan equities investors",
+        "tryIt": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bank_of_Japan_2010.jpg",
+        "alt": "Bank of Japan head office in Chuo-ku, Tokyo",
+        "fit": "cover",
+        "credit": "Wiiii / Wikimedia Commons (CC BY-SA)"
+      },
+      "links": [
+        {
+          "label": "BOJ Statement",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf"
+        },
+        {
+          "label": "BOJ Outlook Report",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf"
+        },
+        {
+          "label": "BOJ ETF-Sales Decision",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf"
+        },
+        {
+          "label": "Reuters Recap",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hold-rates-signal-210126915.html"
+        },
+        {
+          "label": "Analyst Reactions",
+          "url": "https://finance.yahoo.com/economy/policy/articles/instant-view-analysts-react-boj-032614967.html"
+        },
+        {
+          "label": "GBP/JPY Reaction",
+          "url": "https://www.tradingpedia.com/2026/10/30/sterling-yen-firm-as-boj-keeps-cautious-policy-stance/"
+        }
+      ],
+      "reddit": {
+        "title": "BOJ holds at 1.25% 8–1 with Takata dissenting for +25bp — but triples ETF-sales pace to ¥860B/yr and lifts FY27 core CPI to 2.6%",
+        "body": "The Bank of Japan held its policy rate at 1.25% on Friday Oct 30, but almost everything else in the release leans hawkish.\n\n* **Vote 8–1** — board member Hajime Takata dissented, voting for a quarter-point hike to 1.50%\n* FY2027 (year ending March 2028) core CPI forecast RAISED to 2.6% from 2.4%\n* Statement: underlying inflation 'at a level generally consistent with' the 2% target; long-term expectations 'moving around 2%'\n* **ETF unwind accelerated** — pace lifted to \\~¥860B (\\~$5.45B) per year from January 2027 vs \\~¥330B previously, cutting the implied disposal period from \\~112 years to \\~43 years\n* Markets now price \\~80% odds of a 25bp hike at the Dec 17–18 meeting\n\nWhy it matters:\n\n1. **The forecast + dissent + faster ETF sales are a packaged hawkish signal** — the BOJ held fire on October 30 but the composition of the release leaves little room for a December hold if the next CPI prints cooperate.\n2. **The ETF acceleration is the surprise** — the \\~¥330B/yr pace set in September 2025 was criticized as glacial. Tripling it starts a visible, mechanical selling program against Japanese equity ETFs.\n3. **Reuters-polled economists** now see the policy rate at 1.5% in December and a terminal rate of \\~1.75–2.0% by end-2027.\n\nFX reaction: USD/JPY traded below 157.50 before paring losses, GBP/JPY held near 210.80, JGB yields drifted higher across the curve.\n\nNext catalyst: Governor Ueda speech November 6; BOJ decision December 17–18.\n\nFull breakdown: [https://stock-tldr.xyz/releases/boj-oct-2026-decision-oct-30](https://stock-tldr.xyz/releases/boj-oct-2026-decision-oct-30)"
+      },
+      "publishDate": "2026-10-31T16:31:52.208Z"
+    },
     {
       "id": "us-q3-2026-gdp-advance-oct-29",
       "categories": [
