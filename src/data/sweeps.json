@@ -15305,6 +15305,42 @@
         "crypto",
         "earnings"
       ]
+    },
+    {
+      "id": "sweep-20261101t030208z",
+      "timestamp": "2026-11-01T03:02:08.864Z",
+      "source": "github-actions-sweep",
+      "summary": "Two seismic / notable adds for the Oct 29 – Nov 1 window: Binance confirms the largest crypto hack on record ($6.3B, FBI blames North Korea's TraderTraitor) and the U.S. Treasury resets the Series I bond composite rate to 5.51% with a 1.40% fixed-rate print (highest since 2006). The rest of the 72h window (Fri Oct 30 session, weekend macro) was already covered in prior sweeps.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "binance-6-3b-hack-oct-31-2026",
+          "title": "Binance $6.3B security breach — largest crypto hack ever; Thu Oct 29 2026 Binance confirms a multibillion exploit of hot-wallet withdrawals, suspends withdrawals; by Fri Oct 30 initial post-mortem points to a compromised DevOps engineer's laptop and additional breach points, with Binance earmarking $6.34B of corporate funds (Secure Asset Fund for Users + Futures Insurance Fund + treasury) to make users whole; Tether freezes $1.567B of USDT, Circle $800M of USDC, Ripple freezes RLUSD, First Digital freezes FDUSD and Arbitrum's Security Council acts on ARB — ~$3B of affected tokens frozen on-chain; Sat Oct 31 FBI attributes the attack to TraderTraitor (North Korean state-sponsored unit) and says stolen assets are being converted into ETH for laundering; by Sat afternoon Binance says 90% of stolen value is replaced (BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, ZEC fully backed 1:1) with the remaining 10% in less-liquid altcoins being bought back; withdrawals targeted to resume Sun Nov 1 after a proof-of-reserves snapshot taken 0000 GMT Saturday",
+          "category": "crypto",
+          "note": "Largest crypto exchange hack ever; multi-tier-1 confirmed (CNBC, NBC/Reuters, Cointelegraph, ABC); BTC -5% on the news; FBI DPRK attribution Sat Oct 31. Seismic."
+        },
+        {
+          "id": "us-i-bond-nov-2026-rate-5-51",
+          "title": "Treasury sets Series I savings bond composite rate at 5.51% for the Nov 1 2026 – Apr 30 2027 issue window (Fri Oct 30 2026 announcement) — fixed rate climbs to 1.40% (from 0.90%, highest fixed component since Nov 2006) and the semi-annual inflation component is set at 2.04% (annualized ~4.08%); prior Nov 1 2025 – Oct 31 2026 composite rate was 4.26% (0.90% fixed + 1.67% inflation); the composite applies to newly-purchased I bonds for the first six months after purchase then resets with each May/November re-set; backdrop: Sept 2026 CPI +3.7% Y/Y (up from +3.4% Aug) and NY Fed one-year inflation outlook jumped to 3.9%, highest in more than three years; min holding 1 year, redemption within 5 years forfeits last 3 months of interest, accrual up to 30 years",
+          "category": "rates",
+          "note": "Six-month reset; fixed component at 1.40% is the highest since Nov 2006, which is the structural news beyond the headline composite 5.51%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "regulatory",
+        "rates",
+        "macro",
+        "earnings",
+        "mna",
+        "commodity"
+      ]
     }
   ]
 }

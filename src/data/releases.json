@@ -1,8 +1,154 @@
 {
-  "generatedAt": "2026-10-31T16:31:52.208Z",
+  "generatedAt": "2026-11-01T03:02:08.864Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "binance-6-3b-hack-oct-31-2026",
+      "categories": [
+        "crypto",
+        "regulatory"
+      ],
+      "title": "Binance $6.3B security breach — largest crypto hack ever; Thu Oct 29 2026 Binance confirms a multibillion exploit of hot-wallet withdrawals, suspends withdrawals; by Fri Oct 30 initial post-mortem points to a compromised DevOps engineer's laptop and additional breach points, with Binance earmarking $6.34B of corporate funds (Secure Asset Fund for Users + Futures Insurance Fund + treasury) to make users whole; Tether freezes $1.567B of USDT, Circle $800M of USDC, Ripple freezes RLUSD, First Digital freezes FDUSD and Arbitrum's Security Council acts on ARB — ~$3B of affected tokens frozen on-chain; Sat Oct 31 FBI attributes the attack to TraderTraitor (North Korean state-sponsored unit) and says stolen assets are being converted into ETH for laundering; by Sat afternoon Binance says 90% of stolen value is replaced (BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, ZEC fully backed 1:1) with the remaining 10% in less-liquid altcoins being bought back; withdrawals targeted to resume Sun Nov 1 after a proof-of-reserves snapshot taken 0000 GMT Saturday",
+      "org": "Binance",
+      "date": "2026-10-31",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "summary": "Binance confirms $6.3B hot-wallet exploit, the largest crypto theft ever; by Sat 90% backed from SAFU + treasury; FBI blames North Korea's TraderTraitor; BTC fell ~5% to ~$77K and BNB -8% on Thu-Fri.",
+      "tags": [
+        "binance",
+        "crypto",
+        "hack",
+        "exchange",
+        "north-korea",
+        "tradertraitor",
+        "safu",
+        "stablecoin",
+        "usdt",
+        "usdc",
+        "bnb",
+        "fbi",
+        "security"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "BNB-USD"
+      ],
+      "metrics": {
+        "Size": "$6.3B (largest crypto hack on record)",
+        "On-chain frozen": "~$3B",
+        "USDT frozen (Tether)": "$1.567B",
+        "USDC frozen (Circle)": "$800M+",
+        "BTC move (Fri)": "-4.9% to ~$77K",
+        "BNB move": "-8% to ~$693",
+        "ETH move": "-5.7% to ~$2,211",
+        "Replenished (Sat)": "90% ($6.34B corporate funds earmarked)",
+        "Attribution": "FBI — TraderTraitor (DPRK)"
+      },
+      "explainer": {
+        "tagline": "Binance says a $6.3B hot-wallet exploit — the largest crypto theft ever — is 90% backed from company funds, with the FBI pointing to North Korea.",
+        "whatIsIt": "On Thursday Oct 29 Binance disclosed a security incident that drained ~$6.3B of client token assets from its hot wallets. The exchange suspended withdrawals, deposits briefly, and the altcoin trading venue Binance Alpha while the breach was triaged. By Saturday the FBI publicly named TraderTraitor — a known North Korean state-sponsored unit — as the attacker.",
+        "howItWorks": "Binance's initial post-mortem said a compromised DevOps engineer's laptop gave the attacker access to a service container used to sign withdrawal batches; co-CEO Richard Teng later said the attack was more complex and that additional points of breach were found. The exchange earmarked ~$6.34B of corporate funds from its Secure Asset Fund for Users (SAFU, a ~$1B bitcoin reserve), part of the Futures Insurance Fund, and its treasury to replace the stolen tokens. ~$3B of affected addresses were frozen on-chain: Tether froze $1.567B of USDT, Circle $800M+ of USDC, Ripple froze RLUSD, First Digital froze FDUSD, and Arbitrum's Security Council acted on ARB; Chainalysis and TRM Labs linked the attack to North Korea's TraderTraitor before the FBI's Saturday attribution. Binance published a new proof-of-reserves snapshot as of 0000 GMT Saturday showing BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC each fully backed at ≥1:1; the remaining ~10% in less-liquid altcoins is being bought back via market and OTC channels until 100% coverage is reached.",
+        "whyItMatters": "Bitcoin fell to ~$77K Friday (-4.9% 24h) with the Fear & Greed Index flipping to 'fear'; BNB dropped ~8% and ETH ~5.7%, dragging AAVE -11% and UNI -11% as DeFi venues flinched. The event tests whether SAFU-plus-treasury can actually absorb a nine-figure-plus loss without socializing it to users; it also reopens the exchange-vs-cold-wallet debate just months after the Bybit (Feb 2025) and KelpDAO (Apr 2026) North Korean hacks, which Chainalysis says share the same pre-signed-batch pattern. Stablecoin issuers' freeze response — $1.5B of USDT and $800M+ of USDC blocked within hours — becomes the new benchmark for how fast on-chain forensics plus asset-freeze powers can wall off a laundering flow.",
+        "forWho": "crypto desks, exchange risk, stablecoin issuers",
+        "tryIt": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106907103-1625597281111-gettyimages-1233700528-porzycki-binancep210628_npNRz.jpeg?v=1680785353&w=1920&h=1080",
+        "alt": "Binance logo displayed on a smartphone against a Bitcoin backdrop",
+        "fit": "cover",
+        "credit": "Jakub Porzycki/NurPhoto via Getty Images / CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC: Hack Disclosed",
+          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+        },
+        {
+          "label": "CNBC: 90% Backed",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        },
+        {
+          "label": "NBC News / Reuters: FBI Blames DPRK",
+          "url": "https://www.nbcnews.com/business/business-news/fbi-says-north-korea-was-6-billion-binance-crypto-hack-rcna606758"
+        },
+        {
+          "label": "Cointelegraph Live Timeline",
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor"
+        }
+      ],
+      "reddit": {
+        "title": "Binance confirms $6.3B hot-wallet hack — largest crypto theft ever. FBI blames North Korea's TraderTraitor. BTC -5% on the news.",
+        "body": "Over Thu Oct 29 - Sat Oct 31, Binance disclosed what is now the biggest crypto exchange hack on record. Here's where it stands:\n\n* **$6.3B** in client token assets drained from Binance hot wallets Thursday evening — Binance's own figure (Chainalysis estimates $5.912B at time of theft, TRM Labs $6.36B, Levin $6.4B)\n* \\~$3B of affected addresses frozen on-chain within hours — Tether froze **$1.567B USDT**, Circle **$800M+ USDC**, Ripple froze RLUSD, First Digital froze FDUSD, Arbitrum's Security Council acted on ARB\n* Binance earmarked **$6.34B of corporate funds** (SAFU + Futures Insurance Fund + treasury) and says 90% is replaced; BTC/ETH/USDT/BNB/SOL/USDC/XRP/USD1/RLUSD/ZEC now fully backed 1:1 per new proof-of-reserves snapshot\n* Withdrawals suspended Thu evening, targeted to resume Sun Nov 1 after security checks\n* FBI said Saturday that **TraderTraitor** (North Korean state-sponsored unit) was responsible, converting stolen assets into ETH; TRM Labs and Chainalysis had already linked it to DPRK\n* Crypto market reaction (24h to Fri AM): **BTC -4.9% to \\~$77K**, BNB -8% to \\~$693, ETH -5.7% to \\~$2,211, AAVE -11.3%, UNI -10.7%; Fear & Greed Index flipped to 'fear' (30)\n\nTwo things to watch:\n\n1. **Does SAFU actually absorb it?** — Richard Teng: \"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%. Our users will not bear the financial impact of this incident.\" The remaining ~10% is in less-liquid altcoins being bought back via market + OTC.\n2. **Pre-signed batch pattern again** — Chainalysis says the attack mirrors Bybit (Feb 2025) and KelpDAO (Apr 2026): preparation weeks in advance, batched withdrawal signatures executed in one burst. Hot-wallet operational security, not key management, keeps breaking.\n\nNext catalysts: withdrawal resumption Sun Nov 1, Binance's full post-mortem, FBI asset-recovery actions.\n\nFull breakdown: [https://stock-tldr.xyz/releases/binance-6-3b-hack-oct-31-2026](https://stock-tldr.xyz/releases/binance-6-3b-hack-oct-31-2026)"
+      },
+      "publishDate": "2026-11-01T03:02:08.864Z"
+    },
+    {
+      "id": "us-i-bond-nov-2026-rate-5-51",
+      "categories": [
+        "rates",
+        "macro"
+      ],
+      "title": "Treasury sets Series I savings bond composite rate at 5.51% for the Nov 1 2026 – Apr 30 2027 issue window (Fri Oct 30 2026 announcement) — fixed rate climbs to 1.40% (from 0.90%, highest fixed component since Nov 2006) and the semi-annual inflation component is set at 2.04% (annualized ~4.08%); prior Nov 1 2025 – Oct 31 2026 composite rate was 4.26% (0.90% fixed + 1.67% inflation); the composite applies to newly-purchased I bonds for the first six months after purchase then resets with each May/November re-set; backdrop: Sept 2026 CPI +3.7% Y/Y (up from +3.4% Aug) and NY Fed one-year inflation outlook jumped to 3.9%, highest in more than three years; min holding 1 year, redemption within 5 years forfeits last 3 months of interest, accrual up to 30 years",
+      "org": "U.S. Treasury",
+      "date": "2026-10-30",
+      "url": "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/",
+      "summary": "Treasury sets the new Series I bond composite rate at 5.51% for Nov 1 2026–Apr 30 2027 — up from 4.26% — with the fixed component jumping to 1.40% (highest since 2006) on top of a 2.04% semi-annual inflation rate.",
+      "tags": [
+        "treasury",
+        "i-bonds",
+        "savings-bonds",
+        "rates",
+        "inflation",
+        "cpi",
+        "treasurydirect",
+        "fixed-income"
+      ],
+      "importance": "notable",
+      "metrics": {
+        "Composite rate": "5.51% (annualized)",
+        "Fixed rate": "1.40% (vs 0.90% prior)",
+        "Inflation rate (semi-annual)": "2.04%",
+        "Prior composite": "4.26%",
+        "Issue window": "Nov 1 2026 – Apr 30 2027",
+        "Sept CPI Y/Y": "+3.7%",
+        "NY Fed 1Y inflation expectation": "3.9%"
+      },
+      "explainer": {
+        "tagline": "Treasury's new Series I bond composite rate jumps to 5.51% for the Nov 2026 – Apr 2027 issue window as the fixed component rises to a 20-year high of 1.40%.",
+        "whatIsIt": "On Friday Oct 30 the U.S. Treasury set the Series I savings bond composite rate at 5.51% for bonds issued Nov 1 2026 through Apr 30 2027. The fixed component — which stays with the bond for its lifetime — rose to 1.40% from 0.90%, the highest fixed rate since Nov 2006. The semi-annual inflation component (based on CPI-U) was set at 2.04%, annualizing to roughly 4.08%.",
+        "howItWorks": "The composite rate combines the fixed rate (set at Treasury's discretion when the bond is bought and locked for the bond's life) and the inflation rate (reset every May 1 and Nov 1 off the prior six-month CPI-U move). The 5.51% is Treasury's rounded composite for the new issue window — the underlying math is roughly 1.40% + (2 × 2.04%) + (1.40% × 2.04%), rounded. The prior Nov 2025 – Oct 2026 window paid a 4.26% composite (0.90% fixed + 1.67% inflation). Existing I bonds keep their original fixed rate for life; only the inflation portion rolls every six months. Minimum hold is 1 year; redemption within five years forfeits the last three months of interest; interest accrues up to 30 years.",
+        "whyItMatters": "The fixed-rate jump to 1.40% — the highest level since Nov 2006 — is the structural news: new I-bond buyers lock a real yield well above the current 5-year TIPS real yield (~1.5%) with full inflation adjustment on top, into a 30-year holding, which keeps I bonds competitive even if CPI moderates. The move follows Sept 2026 headline CPI +3.7% Y/Y and a NY Fed one-year inflation outlook of 3.9%, both of which point to continued pressure on the inflation leg. For retail allocators, Treasury's fixed-rate re-pricing is one of the few places real yields reset without secondary-market whipsaw.",
+        "forWho": "retail savers, fixed-income desks tracking real yields",
+        "tryIt": "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/107111194-1661861669261-gettyimages-1335987568-savingsbonds21ii.jpeg?v=1697217796&w=1920&h=1080",
+        "alt": "U.S. Series I savings bond paper certificates and dollar bills",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "TreasuryDirect: I Bond Rates",
+          "url": "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/"
+        },
+        {
+          "label": "CNBC: 5.51% Through Apr 2027",
+          "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html"
+        },
+        {
+          "label": "TIPS Watch Analysis",
+          "url": "https://tipswatch.com/2026/10/25/the-i-bonds-new-fixed-rate-should-be-1-40-however/"
+        }
+      ],
+      "reddit": {
+        "title": "Treasury sets new Series I bond rate at 5.51% through Apr 2027 — fixed rate jumps to 1.40%, the highest since 2006",
+        "body": "Treasury announced the new Series I savings bond rates on Fri Oct 30. Here's what's new for bonds bought Nov 1 2026 – Apr 30 2027:\n\n* **Composite rate: 5.51%** (annualized, after rounding) — up from 4.26% in the prior window\n* **Fixed rate: 1.40%** — up from 0.90% and the highest fixed component since Nov 2006\n* **Inflation rate (semi-annual): 2.04%** — annualizes to \\~4.08%, driven by Sept CPI +3.7% Y/Y vs +3.4% Aug\n* Rate structure: fixed portion is locked for the bond's 30-year life; inflation portion resets every May/November for existing holders\n* Rules unchanged: 1-year minimum hold; redemption within 5 years forfeits last 3 months of interest; up to 30 years of accrual\n\nWhy the fixed-rate print matters:\n\n1. **Highest real yield lock in 20 years** — a 1.40% fixed component (above the current ~1.5% 5-year TIPS real yield) stays with the bond for life even if CPI cools. Older I bonds (0.0–0.9% fixed) do NOT get re-indexed.\n2. **Inflation leg still elevated** — NY Fed's one-year inflation expectation hit 3.9% in September, highest in more than three years, which is what drove the 2.04% semi-annual print.\n\nNext catalyst: next reset May 1 2027 (and the Oct CPI print Nov 13 feeds into the April inflation signal).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-i-bond-nov-2026-rate-5-51](https://stock-tldr.xyz/releases/us-i-bond-nov-2026-rate-5-51)"
+      },
+      "publishDate": "2026-11-01T03:02:08.864Z"
+    },
     {
       "id": "boj-oct-2026-decision-oct-30",
       "categories": [
