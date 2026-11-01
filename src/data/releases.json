@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-11-01T03:02:08.864Z",
+  "generatedAt": "2026-11-01T17:26:18.029Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "opec-plus-december-hold-nov-1-2026",
+      "categories": [
+        "commodity",
+        "macro"
+      ],
+      "title": "OPEC+ Seven keep December 2026 output targets unchanged at Sun Nov 1 online meeting — third consecutive monthly hold as all eyes shift to the Nov 29 full-group call on 2027 quotas; Brent (expired Dec contract) settled at $117.64 Fri Oct 30 (+2.4%) and WTI at $104.12 (+2.1%), oil's highest since April",
+      "org": "OPEC+",
+      "date": "2026-11-01",
+      "url": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+      "summary": "Seven OPEC+ core members held December crude output quotas unchanged at a Sun Nov 1 online meeting — third-straight hold. Saudi 10.478 mbd, Russia 9.949 mbd, Iraq 4.431 mbd. All 21 members meet Nov 29 to set 2027 framework.",
+      "tags": [
+        "opec",
+        "opec-plus",
+        "oil",
+        "crude",
+        "brent",
+        "wti",
+        "output-quota",
+        "december-2026",
+        "saudi-arabia",
+        "russia",
+        "iraq",
+        "rollover",
+        "iran-war",
+        "2027-quotas"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "metrics": {
+        "Brent (expired Dec contract)": "$117.64 (+2.4% Fri Oct 30, highest since Apr)",
+        "Brent (Jan contract)": "$113.43 (+2.4%)",
+        "WTI": "$104.12 (+2.1%)",
+        "Saudi quota": "10.478 mbd",
+        "Russia quota": "9.949 mbd",
+        "Iraq quota": "4.431 mbd"
+      },
+      "explainer": {
+        "tagline": "Seven OPEC+ producers hold December targets flat for the third straight month; the real 2027 call shifts to Nov 29.",
+        "whatIsIt": "At an online meeting on Sunday Nov 1 2026, the seven OPEC+ core producers (Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan, Oman) kept their December 2026 production quotas at the September 2026 required levels. It is the third consecutive monthly hold after October and November, following several months of production hikes earlier in 2026.",
+        "howItWorks": "Published quotas: Saudi 10.478 mbd, Russia 9.949 mbd, Iraq 4.431 mbd, Kuwait 2.676 mbd, Kazakhstan 1.628 mbd, Algeria 1.007 mbd, Oman 841 kbd. A further ~2 mbd layer of cuts still covers most members through end-2026. The group completed the phased rollback of a separate 1.65 mbd 2023 cut in September. UAE left OPEC in May 2026. All 21 OPEC+ members meet online Nov 29 to decide the 2027 production framework and quotas; a capacity review feeding 2027 baselines is now expected by mid-November after being delayed by the Iran war.",
+        "whyItMatters": "Oil had already risen more than 2% on Friday ahead of the meeting, with Brent's expiring December contract settling at $117.64 — the highest level since April — on continued Iran-war export disruption. Holding December flat removes near-term supply upside and keeps focus on the Nov 29 call on 2027. Gulf members are rebuilding exports disrupted by the Iran conflict, though most are still pumping below quota.",
+        "forWho": "Energy desks, macro traders, refiners",
+        "tryIt": "https://finance.yahoo.com/quote/BZ%3DF"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108271643-1772399859612-gettyimages-2263738665-raa-opeciran260301_npbBX.jpeg?v=1777379102&w=1920&h=1080",
+        "alt": "OPEC flag at the group's Vienna headquarters.",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "The National",
+          "url": "https://www.thenationalnews.com/business/energy/2026/11/01/opec-holds-december-oil-output-targets-steady-as-iran-war-disrupts-supply/"
+        },
+        {
+          "label": "CNBC / Reuters",
+          "url": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html"
+        },
+        {
+          "label": "Reuters (via inkl)",
+          "url": "https://www.inkl.com/news/opec-set-to-keep-december-oil-output-targets-unchanged-focus-shifts-to-2027-quotas"
+        },
+        {
+          "label": "Brent quote",
+          "url": "https://finance.yahoo.com/quote/BZ%3DF"
+        },
+        {
+          "label": "WTI quote",
+          "url": "https://finance.yahoo.com/quote/CL%3DF"
+        }
+      ],
+      "reddit": {
+        "title": "OPEC+ Seven hold December oil output flat for third straight month — the real test is the Nov 29 call on 2027 quotas",
+        "body": "The seven OPEC+ core producers held their December 2026 crude quotas unchanged at a Sunday online meeting — third-straight monthly hold.\n\n* Saudi Arabia quota: 10.478 mbd\n* Russia: 9.949 mbd\n* Iraq: 4.431 mbd\n* Brent (expired Dec contract) settled at $117.64 Fri Oct 30, +2.4% — highest since April\n* WTI closed Fri at $104.12, +2.1%\n\nContext in three lines:\n\n1. **Third consecutive hold.** After monthly hikes earlier in 2026, the group has now paused output in October, November and December at September required levels. A further ~2 mbd cut layer stays in place through year-end.\n2. **UAE already gone.** The UAE left OPEC in May 2026, leaving seven core producers in the monthly-adjustment group.\n3. **Nov 29 is the real meeting.** All 21 OPEC+ members meet online Nov 29 to decide the 2027 framework; a capacity review feeding 2027 baselines is expected by mid-November.\n\nGulf exports previously disrupted by the Iran war are rebuilding, but most members are still pumping below quota.\n\nFull breakdown: [https://stock-tldr.xyz/releases/opec-plus-december-hold-nov-1-2026](https://stock-tldr.xyz/releases/opec-plus-december-hold-nov-1-2026)"
+      },
+      "publishDate": "2026-11-01T17:26:18.029Z"
+    },
     {
       "id": "binance-6-3b-hack-oct-31-2026",
       "categories": [

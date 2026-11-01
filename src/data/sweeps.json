@@ -15341,6 +15341,36 @@
         "mna",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261101t172618z",
+      "timestamp": "2026-11-01T17:26:18.029Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item: OPEC+ Seven held December 2026 crude output quotas unchanged at a Sun Nov 1 online meeting (Saudi 10.478 mbd, Russia 9.949 mbd, Iraq 4.431 mbd) — third-straight monthly hold — deferring the material 2027 decision to the Nov 29 full-group meeting. Scanned equities, macro, crypto (Binance Nov 1 withdrawal reopening is already captured in the Oct 31 hack item), rates and FX; nothing else cleared the 72h + inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "opec-plus-december-hold-nov-1-2026",
+          "title": "OPEC+ Seven keep December 2026 output targets unchanged at Sun Nov 1 online meeting — third consecutive monthly hold as all eyes shift to the Nov 29 full-group call on 2027 quotas; Brent (expired Dec contract) settled at $117.64 Fri Oct 30 (+2.4%) and WTI at $104.12 (+2.1%), oil's highest since April",
+          "category": "commodity",
+          "note": "Fresh Sunday Nov 1 2026 online meeting outcome confirmed across CNBC/Reuters, Arab News and Reuters-via-inkl; quotas verified across two tier-1 sources. Follows prior monthly OPEC+ items chronologically."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "earnings",
+        "crypto",
+        "rates",
+        "fx",
+        "mover"
+      ]
     }
   ]
 }
