@@ -1,8 +1,99 @@
 {
-  "generatedAt": "2026-11-02T03:09:04.494Z",
+  "generatedAt": "2026-11-02T21:06:25.705Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mrvl-lite-ai-merger-nov-2-2026",
+      "categories": [
+        "mna",
+        "mover",
+        "sector"
+      ],
+      "title": "Marvell (MRVL) to acquire Lumentum (LITE) in all-stock AI-connectivity megamerger — announced Mon Nov 2 2026, agreement dated Nov 1; implied enterprise value ~$115B / ~$1,132 per Lumentum share, 23.9% premium to Oct 28 unaffected closes; fixed exchange ratio 4.500 MRVL per LITE; MRVL holders ~67% / LITE holders ~33% fully diluted post-close; >$1B annual run-rate cost synergies and non-GAAP EPS accretion in year 1; targeted close 1H calendar 2028 subject to shareholder + regulatory approvals; Matt Murphy stays Chairman/CEO, 3 Lumentum directors incl. CEO Michael Hurlston join 7-member Marvell board; MRVL -12.72% to $171.41 and LITE -18.59% to $684.40 on day as market worries about dilution, long close timeline and antitrust risk — Philadelphia Semi Index (SOX) -3.37% to 10,328.33",
+      "org": "Marvell Technology",
+      "date": "2026-11-02",
+      "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+      "summary": "Marvell to acquire Lumentum in all-stock deal — ~$115B implied EV, 4.500 MRVL per LITE, 23.9% premium, >$1B run-rate synergies, 1H 2028 close. MRVL -12.7% / LITE -18.6% / SOX -3.37% on dilution + regulatory worries.",
+      "tags": [
+        "mna",
+        "all-stock",
+        "semis",
+        "ai-connectivity",
+        "optical-networking",
+        "data-center",
+        "co-packaged-optics",
+        "sox",
+        "dilution",
+        "antitrust"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "MRVL",
+        "LITE",
+        "NVDA",
+        "AVGO"
+      ],
+      "metrics": {
+        "Deal structure": "All-stock",
+        "Implied EV": "~$115B",
+        "Implied price per LITE share": "~$1,132",
+        "Premium": "23.9% to Oct 28 unaffected close",
+        "Exchange ratio": "4.500 MRVL per LITE (fixed)",
+        "Post-close ownership": "MRVL ~67% / LITE ~33% fully diluted",
+        "Run-rate synergies": ">$1B/yr",
+        "EPS accretion": "Non-GAAP yr-1 after close",
+        "Expected close": "1H calendar 2028",
+        "Combined TAM claim": "~$550B",
+        "MRVL move": "-12.72% to $171.41",
+        "LITE move": "-18.59% to $684.40",
+        "SOX move": "-3.37% to 10,328.33"
+      },
+      "links": [
+        {
+          "label": "Marvell Press Release",
+          "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity"
+        },
+        {
+          "label": "Marvell 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442714/d81187dex991.htm"
+        },
+        {
+          "label": "Marvell 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442717/d352474d8k.htm"
+        },
+        {
+          "label": "Lumentum 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
+        },
+        {
+          "label": "MRVL Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/MRVL/"
+        },
+        {
+          "label": "LITE Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/LITE/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Marvell to buy Lumentum in an all-stock AI-connectivity megadeal at ~$115B implied EV — but both stocks tank as the Street balks at dilution, antitrust risk and a 2028 close.",
+        "whatIsIt": "Marvell Technology and Lumentum Holdings announced a definitive merger agreement (dated Sun Nov 1, released before the open Mon Nov 2) under which Marvell will acquire Lumentum in an all-stock transaction. The deal implies an enterprise value of about $115 billion for Lumentum — roughly $1,132 per LITE share, a 23.9% premium over each company's unaffected Oct 28 closing price. The combination pairs Marvell's custom silicon, switching and electrical/optical interconnect with Lumentum's lasers, optical transceivers and optical circuit switches to form a vertically integrated AI connectivity platform.",
+        "howItWorks": "Fixed exchange ratio: each Lumentum share converts into 4.500 Marvell shares. Post-close, Marvell holders would own ~67% and Lumentum holders ~33% of the combined company on a fully diluted basis. Both boards unanimously approved; closing is targeted for the first half of calendar 2028, subject to Marvell and Lumentum stockholder votes, Hart-Scott-Rodino and foreign regulatory clearances, and SEC effectiveness of a Form S-4. Matt Murphy remains Chairman and CEO; three Lumentum directors — including CEO Michael Hurlston — join an expanded seven-member Marvell board. The companies cite >$1B of annual run-rate cost synergies, non-GAAP EPS accretion in year 1 after close and a combined addressable market claim of ~$550B across scale-across / scale-out / scale-up / scale-in connectivity.",
+        "whyItMatters": "MRVL closed -12.72% at $171.41 and LITE -18.59% at $684.40 as the market priced in heavy MRVL dilution (33% share issuance), a wide arb spread (4.5 × MRVL = ~$771 vs LITE at $684 implies the market haircuts the deal materially for antitrust + close risk) and a 1H 2028 close that leaves >15 months of carrying risk. The Philadelphia Semiconductor Index (SOX) fell 3.37% to 10,328.33 as the dilution-plus-sector-M&A combination hit AI-connectivity peers; Nvidia (NVDA), Broadcom (AVGO) and merchant optics vendors are now watching for whether vertical integration tilts captive-silicon vs merchant-optics economics. Antitrust review in US and China is the single biggest open question given overlap in optical interconnect and photonics capacity sold out through 2029.",
+        "forWho": "Semis desks, M&A arb, AI-infrastructure allocators",
+        "tryIt": "https://finance.yahoo.com/quote/MRVL/"
+      },
+      "image": {
+        "url": "https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/db/3727/33626/social_image_resized.jpg",
+        "alt": "Marvell and Lumentum combine to form AI connectivity category leader — press release social card",
+        "fit": "contain"
+      },
+      "reddit": {
+        "title": "Marvell to buy Lumentum in all-stock deal — ~$115B implied EV, 4.5x exchange ratio, 23.9% premium — MRVL -12.7% and LITE -18.6% as Street balks at dilution and 2028 close",
+        "body": "Marvell (MRVL) and Lumentum (LITE) announced a definitive all-stock merger before the open Mon Nov 2 (agreement dated Sun Nov 1). This is one of the largest tech deals ever and the market absolutely hated it.\n\n* Implied enterprise value **~$115B** for Lumentum, ~$1,132 per LITE share\n* Fixed exchange ratio: **4.500 MRVL per LITE share**\n* Premium: **23.9%** to each stock's unaffected Oct 28 close\n* Post-close: MRVL holders ~67% / LITE holders ~33% fully diluted\n* **>$1B** annual run-rate cost synergies; non-GAAP EPS accretive in year 1\n* Target close **1H calendar 2028** — subject to shareholder + regulatory approvals\n* Matt Murphy stays Chairman/CEO; 3 Lumentum directors (incl. CEO Michael Hurlston) join 7-member Marvell board\n* MRVL closed **-12.72% at $171.41** and LITE **-18.59% at $684.40**\n* Philadelphia Semi Index (SOX) **-3.37%** to 10,328.33\n\nWhy both stocks got crushed:\n\n1. **Massive MRVL dilution** — Marvell is issuing ~33% of its share count to pay for this. All-stock deals this size always pressure the acquirer.\n2. **Arb spread is huge** — 4.5 \\* $171.41 = ~$771 implied vs LITE closing at $684. The market is haircutting the deal ~13% for close risk.\n3. **1H 2028 close** — 15+ months of carrying risk through US + China regulatory review, Lumentum lasers sold out through 2029, overlap concerns.\n4. **Vertical-integration debate** — merchant optics peers face the question of whether Marvell + Lumentum changes NVDA/AVGO co-package optics economics.\n\nNext catalysts: Form S-4 filing, Hart-Scott-Rodino clearance, China regulatory review, shareholder votes at both companies.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrvl-lite-ai-merger-nov-2-2026](https://stock-tldr.xyz/releases/mrvl-lite-ai-merger-nov-2-2026)"
+      },
+      "publishDate": "2026-11-02T21:06:25.705Z"
+    },
     {
       "id": "opec-plus-december-hold-nov-1-2026",
       "categories": [

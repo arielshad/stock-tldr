@@ -15393,6 +15393,35 @@
         "mna",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261102t210625z",
+      "timestamp": "2026-11-02T21:06:25.705Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Marvell announces $115B all-stock acquisition of Lumentum before open Nov 2 — AI-connectivity megamerger ratifies the Oct 28 Bloomberg leak; both stocks got hammered (MRVL -12.7%, LITE -18.6%) on dilution + regulatory + arb-spread concerns, dragging the SOX -3.37%. No qualifying earnings or macro adds — Monday Nov 2 AAPL Q4 FY26 call is scheduled for 5pm ET and had not reported by the sweep timestamp.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mrvl-lite-ai-merger-nov-2-2026",
+          "title": "Marvell (MRVL) to acquire Lumentum (LITE) in all-stock AI-connectivity megamerger — announced Mon Nov 2 2026, agreement dated Nov 1; implied enterprise value ~$115B / ~$1,132 per Lumentum share, 23.9% premium to Oct 28 unaffected closes; fixed exchange ratio 4.500 MRVL per LITE; MRVL holders ~67% / LITE holders ~33% fully diluted post-close; >$1B annual run-rate cost synergies and non-GAAP EPS accretion in year 1; targeted close 1H calendar 2028 subject to shareholder + regulatory approvals; Matt Murphy stays Chairman/CEO, 3 Lumentum directors incl. CEO Michael Hurlston join 7-member Marvell board; MRVL -12.72% to $171.41 and LITE -18.59% to $684.40 on day as market worries about dilution, long close timeline and antitrust risk — Philadelphia Semi Index (SOX) -3.37% to 10,328.33",
+          "category": "mna",
+          "note": "Primary-source confirmed via SEC 8-K filings from both sides; one of the largest tech M&A deals in history; drove the SOX -3.37% on announcement day. No semantic collision with any existing MRVL item (prior entries cover MRVL earnings and investor day, not any Lumentum deal)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "mover",
+        "sector",
+        "earnings",
+        "macro",
+        "crypto"
+      ]
     }
   ]
 }
