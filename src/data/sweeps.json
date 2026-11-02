@@ -15371,6 +15371,28 @@
         "fx",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261102t030904z",
+      "timestamp": "2026-11-02T03:09:04.494Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet weekend window (Oct 31 – Nov 2 2026). The feed already covers the previous session's seismic hits — FOMC Oct 28 hold, Alphabet / Amazon / Intel / Reddit / Fortinet Q3 blowups, Lilly beat-and-raise, BOJ Oct 30 hold, US Q3 GDP + Sept PCE, OPEC+ Nov 1 hold, I-Bond Nov composite 5.51%, and the Binance $6.3B hack (now with FBI DPRK attribution and Nov 1 withdrawal resumption already captured). Weekend events scanned — Binance withdrawal resumption 06:00 UTC Nov 1 with $3.64B net outflow (continuation of the Oct 29–31 hack item already in the feed), Rubio weekend comments on Iran (geopolitical, no clear market move yet), China NBS Oct PMI 49.3 mfg / 49.7 non-mfg (only confirmable from a single aggregator, dropped under zero-hallucination rule), Nikkei soft at Mon open — produced nothing that passes the inclusion bar without padding or semantic-duplicating existing coverage. Shipping zero items.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "macro",
+        "commodity",
+        "earnings",
+        "mna",
+        "regulatory"
+      ]
     }
   ]
 }
