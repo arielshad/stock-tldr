@@ -15467,6 +15467,42 @@
         "regulatory",
         "insider"
       ]
+    },
+    {
+      "id": "sweep-20261103t185440z",
+      "timestamp": "2026-11-03T18:54:40.041Z",
+      "source": "github-actions-sweep",
+      "summary": "Nov 3 2026 (18:45 UTC) sweep — two confirmed Q3/Q2 earnings prints added. Fiserv's Q3 2026 kitchen-sink ($6.45B goodwill, doubled $1B cost-out, held 2026 guide, +13% intraday) and Dynatrace's Q2 FY27 margin-cut print (top-line raised, FY27 non-GAAP EPS and op margin trimmed on Arize dilution, -11% intraday). Scanned Fed/macro/EDGAR/tier-1 markets press/single-name tape; no other prints clearing the 72h bar beyond items already in the feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "fisv-q3-2026-earnings-nov-3-2026",
+          "title": "Fiserv (FISV) Q3 2026 (Tue Nov 3 2026 premarket) — $6.45B non-cash goodwill impairment drives GAAP loss of $(11.17)/share; adj EPS $1.75 beats; GAAP revenue $5.20B (-1% Y/Y), organic 0%; Project Elevate savings target doubled to $1B; FY26 organic revenue (-1% to 0%) and adj EPS $7.20–$7.40 reaffirmed; $500M buyback planned Q4; stock +13.4% intraday on cost-out visibility",
+          "category": "earnings",
+          "note": "Primary-source SEC 8-K confirms $6.45B goodwill impairment, doubled Project Elevate to $1B, reaffirmed FY26 guide, $500M Q4 buyback. Named catalyst, >5% move, no semantic collision with existing fisv-q1-2026-earnings."
+        },
+        {
+          "id": "dt-q2-fy27-earnings-nov-3-2026",
+          "title": "Dynatrace (DT) Q2 FY27 (Tue Nov 3 2026 premarket) — revenue $580M (+17% Y/Y) beats, ARR $2.21B (+16% Y/Y); non-GAAP diluted EPS $0.54 (+23%); raises FY27 ARR guide to $2.393–2.413B and total revenue to $2.330–2.340B BUT cuts FY27 non-GAAP EPS to $1.88–1.90 (from $1.97–1.99) and non-GAAP op margin to 28.0–28.25% (−150bp) on Arize dilution; stock -11.0% to ~$49.05 as margin cut overshadows top-line raise",
+          "category": "earnings",
+          "note": "Primary-source IR + SEC 8-K confirm FY27 non-GAAP EPS cut to $1.88–1.90 and op margin to 28.0–28.25% from Arize dilution. Big single-name mover (~-11%) with named catalyst; no prior Dynatrace coverage in feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "regulatory",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
