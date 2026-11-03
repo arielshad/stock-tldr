@@ -1,8 +1,247 @@
 {
-  "generatedAt": "2026-11-02T21:06:25.705Z",
+  "generatedAt": "2026-11-03T04:32:00.233Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "aapl-q4-fy26-earnings-nov-2-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Apple (AAPL) Q4 FY26 (Mon Nov 2 2026 after close) — revenue $114.5B (+12% Y/Y) September-quarter record tops ~$113.3B est; iPhone $57.6B September-quarter record; Services $31.6B all-time high; GAAP diluted EPS $2.10 (+14% Y/Y, incl. $0.05 tariff-refund benefit); gross margin 47.9% (incl. ~1pp tariff refunds); FY26 all-time record revenue $479B; dividend $0.27 declared payable Nov 16; John Ternus's first earnings call as CEO after succeeding Tim Cook Sept 1; stock ~-2.8% after hours at 7:59 pm ET on soft December-quarter gross-margin outlook and iPad miss",
+      "org": "Apple",
+      "date": "2026-11-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm",
+      "tickers": [
+        "AAPL"
+      ],
+      "summary": "Apple Q4 FY26 revenue $114.5B (+12%) tops est with September-quarter records in revenue, iPhone ($57.6B) and EPS ($2.10). Services $31.6B all-time high. FY26 revenue $479B record. Shares ~-2.8% AH on soft Q1 gross-margin guide and iPad miss.",
+      "tags": [
+        "earnings",
+        "mega-cap",
+        "iphone",
+        "services",
+        "ai-capex",
+        "q4-fy26",
+        "revenue-beat",
+        "eps-beat",
+        "september-quarter-record",
+        "john-ternus",
+        "ternus-ceo-debut",
+        "tariff-refund"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Revenue": "$114.5B (+12% Y/Y) vs ~$113.3B est",
+        "iPhone": "$57.58B (September-quarter record)",
+        "Mac": "$10.79B",
+        "iPad": "$6.23B",
+        "Wearables, Home & Accessories": "$8.30B",
+        "Services": "$31.57B (all-time high)",
+        "Gross margin": "47.9% (incl. ~1pp tariff refunds)",
+        "Diluted EPS": "$2.10 (+14% Y/Y, incl. $0.05 tariff-refund benefit)",
+        "Capital return (Q4)": "$28B",
+        "Dividend": "$0.27/share payable Nov 16 2026 (record date Nov 12)",
+        "FY26 revenue": "$479B (all-time record)",
+        "AH move": "~-2.8% at 7:59 pm ET"
+      },
+      "explainer": {
+        "tagline": "Apple's September quarter sets records in revenue, iPhone and EPS, but a soft December-quarter gross-margin outlook sends shares ~-2.8% after hours.",
+        "whatIsIt": "Apple reported fiscal Q4 2026 (quarter ended September 26, 2026) after the close on Monday November 2 — the company's first earnings call under new CEO John Ternus, who succeeded Tim Cook on September 1. Revenue of $114.5B (+12% Y/Y) and diluted EPS of $2.10 (+14%) both set September-quarter records, and management described fiscal 2026 as an all-time record year at ~$479B of revenue.",
+        "howItWorks": "Segment detail: iPhone $57.58B (September-quarter record), Mac $10.79B, iPad $6.23B, Wearables/Home/Accessories $8.30B, Services $31.57B (all-time high). Gross margin was 47.9% including about one percentage point of help from tariff refunds, and EPS included a $0.05 tariff-refund benefit. The board declared a $0.27/share cash dividend payable November 16 to holders of record November 12. Apple returned about $28B to shareholders in the quarter. In after-hours trading the stock first rose ~+0.5% at 5:02 pm ET, then slid to ~-3.2% at 6:00 pm and settled at ~-2.8% by 7:59 pm as the call commentary flagged a softer December-quarter gross-margin outlook and iPad sales trailed estimates.",
+        "whyItMatters": "Mega-cap print lands into a tape where last Friday's Nasdaq -2.9% session punished AI/capex underwriters (GOOGL, AMZN, META, Intel), making an in-line Services number and double-digit iPhone growth the key positives — but a cautious Q1 gross-margin bridge cuts against the hoped-for margin cushion from tariff refunds. Services' all-time high keeps Apple's services-mix story alive but the iPad miss and India/supply-chain commentary determine whether the AAPL multiple can hold.",
+        "forWho": "mega-cap holders, consumer-tech desks, index desks",
+        "tryIt": "https://investor.apple.com/investor-relations/default.aspx"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1280px-Apple_logo_black.svg.png",
+        "alt": "Apple corporate logo",
+        "fit": "contain",
+        "credit": "Apple / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q4 release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm"
+        },
+        {
+          "label": "Apple Investor Relations",
+          "url": "https://investor.apple.com/investor-relations/default.aspx"
+        },
+        {
+          "label": "AAPL Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/AAPL/"
+        },
+        {
+          "label": "Nov 2 Indexes Recap (AP via Yahoo)",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html"
+        }
+      ],
+      "reddit": {
+        "title": "Apple Q4 FY26: revenue $114.5B (+12%) with September-quarter records in iPhone ($57.6B) and EPS ($2.10) — but shares ~-2.8% AH on soft Q1 margin guide",
+        "body": "Apple reported fiscal Q4 2026 after the close Monday Nov 2 — John Ternus's first earnings call as CEO, following Tim Cook's Sept 1 handoff.\n\n* Revenue: $114.5B (+12% Y/Y) vs ~$113.3B est — September-quarter record\n* Diluted EPS: $2.10 (+14% Y/Y, incl. $0.05 tariff-refund benefit) — September-quarter record\n* iPhone: $57.58B — September-quarter record\n* Services: $31.57B — all-time high\n* Mac: $10.79B; iPad: $6.23B; Wearables/Home/Accessories: $8.30B\n* Gross margin: 47.9% (incl. ~1pp from tariff refunds)\n* FY26 revenue: ~$479B — all-time record year\n* Dividend: $0.27/share payable Nov 16; $28B returned to shareholders in Q4\n\nWhy the AH drop (~-2.8% at 7:59 pm ET):\n\n1. **Soft Q1 gross-margin guide** — call commentary flagged a lower December-quarter gross margin as tariff-refund tailwinds ebb, which cut against the hoped-for margin bridge.\n2. **iPad miss** — iPad $6.23B came in light vs expectations, muddying the hardware-growth story.\n3. **Context** — this lands after Friday's Nasdaq -2.9% day; AI-capex concerns at GOOGL/AMZN/META and INTC's Q4 slash have the mega-cap tape on edge.\n\nNext catalysts: iPhone Duo + 18 Pro holiday-quarter sell-through, India / China mix color on the call Q&A, and the Q1 FY27 report in late January.\n\nFull breakdown: [https://stock-tldr.xyz/releases/aapl-q4-fy26-earnings-nov-2-2026](https://stock-tldr.xyz/releases/aapl-q4-fy26-earnings-nov-2-2026)"
+      },
+      "publishDate": "2026-11-03T04:32:00.233Z"
+    },
+    {
+      "id": "pltr-q3-2026-earnings-nov-2-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Palantir (PLTR) Q3 2026 (Mon Nov 2 2026 after close) — revenue $2.313B (+96% Y/Y, +20% Q/Q) first-ever $2B quarter crushes ~$2.00B est; US commercial $984M (+148% Y/Y) overtakes US government $953M (+96% Y/Y) for the first time; GAAP net income $1.128B (49% margin); GAAP + adj diluted EPS both $0.44 vs ~$0.36 est; adj operating margin 62% on $1.427B adj op income; adj FCF $1.216B (53% margin); 212 deals ≥$1M (107 ≥$5M, 64 ≥$10M); US commercial RDV $6.517B (+79% Y/Y); FY26 revenue guide raised to $8.530–$8.534B (prior ~$8.33B midpoint); Q4 2026 guide $2.649–$2.653B; FY26 adj FCF guide $4.8–$5.0B; stock ~-3% after hours at 7:59 pm ET despite the beat and raise",
+      "org": "Palantir",
+      "date": "2026-11-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+      "tickers": [
+        "PLTR"
+      ],
+      "summary": "Palantir Q3 2026 revenue $2.313B (+96%) crushes ~$2.00B est; US commercial $984M (+148%) overtakes US government for the first time; EPS $0.44 vs ~$0.36 est; adj op margin 62%; raises FY26 revenue guide to $8.53–$8.534B. Stock ~-3% AH on valuation.",
+      "tags": [
+        "earnings",
+        "ai",
+        "sovereign-ai",
+        "us-commercial",
+        "us-government",
+        "software",
+        "q3-2026",
+        "revenue-beat",
+        "eps-beat",
+        "guidance-raise",
+        "fcf"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$2.313B (+96% Y/Y, +20% Q/Q) vs ~$2.00B est",
+        "US commercial revenue": "$984M (+148% Y/Y, +29% Q/Q)",
+        "US government revenue": "$953M (+96% Y/Y, +18% Q/Q)",
+        "GAAP net income": "$1.128B (49% margin)",
+        "GAAP + adj diluted EPS": "$0.44 vs ~$0.36 est",
+        "Adj operating margin": "62%",
+        "Adj income from operations": "$1.427B",
+        "Adj FCF": "$1.216B (53% margin)",
+        "Deals ≥$1M / $5M / $10M": "212 / 107 / 64",
+        "US commercial RDV": "$6.517B (+79% Y/Y)",
+        "FY26 revenue guide": "$8.530B–$8.534B (raised)",
+        "Q4 2026 revenue guide": "$2.649B–$2.653B",
+        "FY26 adj income from ops guide": "$5.245B–$5.249B",
+        "FY26 adj FCF guide": "$4.8B–$5.0B",
+        "AH move": "~-3% at 7:59 pm ET"
+      },
+      "explainer": {
+        "tagline": "Palantir's first $2B quarter: revenue +96%, US commercial surpasses US government for the first time, and FY26 guide gets raised again.",
+        "whatIsIt": "Palantir reported Q3 2026 after the close on Monday November 2. Revenue of $2.313B (+96% Y/Y, +20% Q/Q) crossed $2B for the first time and crushed consensus near $2.00B. GAAP and adjusted diluted EPS both landed at $0.44 vs ~$0.36 Street. The company raised FY26 revenue guide to $8.530–$8.534B and FY26 adjusted free cash flow guide to $4.8–$5.0B.",
+        "howItWorks": "US commercial revenue hit $984M (+148% Y/Y, +29% Q/Q), overtaking US government revenue of $953M (+96% Y/Y, +18% Q/Q) for the first time in company history. Palantir closed 212 deals of at least $1M, 107 of at least $5M, and 64 of at least $10M, and US commercial remaining deal value ended at $6.517B (+79% Y/Y). GAAP net income was $1.128B at a 49% margin and adjusted operating margin was 62% on $1.427B of adjusted income from operations. Adjusted free cash flow was $1.216B at a 53% margin. Q4 2026 revenue guide is $2.649–$2.653B. CEO Alex Karp framed the quarter around a 'Sovereign AI' thesis — Palantir's pitch that enterprises and governments will build AI stacks around the company's Ontology and AIP rather than frontier-model APIs. Despite the beat and raise, the stock traded up ~+1.3% at 5:02 pm ET then slid to ~-3% by 7:59 pm as the call reiterated the aggressive growth profile against a ~250× forward EPS multiple.",
+        "whyItMatters": "US commercial crossing US government marks the moment Palantir's AI-platform (AIP) rollout outruns its legacy government business — the single number bulls needed to validate the enterprise expansion story. The ~250× forward EPS multiple means a beat-and-raise can still produce a stock drop, mirroring the pattern seen after Q3 2025. Reads across to C3.ai, Snowflake and the broader AI-software cohort as the standard for enterprise AI revenue conversion.",
+        "forWho": "AI-software and growth-stock traders",
+        "tryIt": "https://investors.palantir.com/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palantir_1_2018-09-06.jpg/960px-Palantir_1_2018-09-06.jpg",
+        "alt": "Palantir Technologies headquarters building",
+        "fit": "cover",
+        "credit": "Palantir / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q3 release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
+        },
+        {
+          "label": "Palantir Investor Relations",
+          "url": "https://investors.palantir.com/"
+        },
+        {
+          "label": "PLTR Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/PLTR/"
+        },
+        {
+          "label": "Nov 2 Indexes Recap (AP via Yahoo)",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html"
+        }
+      ],
+      "reddit": {
+        "title": "Palantir Q3: first-ever $2B quarter (revenue $2.313B +96%), US commercial overtakes US government for the first time — stock still ~-3% AH",
+        "body": "Palantir reported Q3 2026 after the close Monday Nov 2. The numbers were an across-the-board beat and raise, but shares ended the extended session ~-3% as valuation absorbed the print.\n\n* Revenue: $2.313B (+96% Y/Y, +20% Q/Q) vs ~$2.00B est — first $2B quarter in company history\n* GAAP + adj diluted EPS: $0.44 vs ~$0.36 est\n* GAAP net income: $1.128B at a 49% margin\n* Adj operating margin: 62% ($1.427B adj op income)\n* Adj FCF: $1.216B (53% margin)\n* US commercial revenue: $984M (+148% Y/Y) — **overtakes US government ($953M, +96% Y/Y) for the first time**\n* Deals ≥$1M / $5M / $10M: 212 / 107 / 64\n* US commercial RDV: $6.517B (+79% Y/Y)\n* FY26 revenue guide **raised to $8.530–$8.534B**; FY26 adj FCF guide $4.8–$5.0B\n* Q4 2026 revenue guide: $2.649–$2.653B\n\nWhy the ~-3% AH drop despite a beat and raise:\n\n1. **Valuation** — PLTR trades at ~250× forward EPS; the bar is a beat *and* a bigger-than-the-move raise. The $8.534B FY26 top-end is only ~$200M above the prior midpoint.\n2. **Pattern repeat** — the stock fell after Q3 2025's beat for the same reason. 'Sovereign AI' narrative is now priced in.\n3. **Risk-off tape** — Nasdaq Composite -1.07% Monday as AI mega-caps continued the Friday Oct 30 washout.\n\nKey positive: US commercial crossing US government is the moment the AIP rollout outruns legacy gov revenue — the single number bulls wanted.\n\nNext catalysts: Q4 2026 report in Feb, FY27 guide, and whether AIP deal pacing holds into a tighter corporate-capex 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/pltr-q3-2026-earnings-nov-2-2026](https://stock-tldr.xyz/releases/pltr-q3-2026-earnings-nov-2-2026)"
+      },
+      "publishDate": "2026-11-03T04:32:00.233Z"
+    },
+    {
+      "id": "orcl-20b-stock-notes-offering-nov-2-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "title": "Oracle (ORCL) launches concurrent $10B common stock + $10B senior notes offering Mon Nov 2 2026 — preliminary prospectus supplements filed; last reported ORCL sale $130.67 on Oct 30; use of proceeds general corporate inc. capex and debt repayment; BofA Securities sole book-running representative for equity; shares outstanding 3.024B pre-raise → 3.100B assuming full issuance at ref price (~2.5% dilution); mandatory 60-day equity lock-up on further common-stock issuance; closings not conditioned on each other; stock -8.76% during Mon Nov 2 regular session as AI-capex funding footprint widens",
+      "org": "Oracle",
+      "date": "2026-11-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526442729/d181425d424b5.htm",
+      "tickers": [
+        "ORCL"
+      ],
+      "summary": "Oracle launches concurrent $10B common stock + $10B senior notes offerings Nov 2 to fund AI capex, capex-driven balance-sheet needs, and refinancing. Ref share $130.67 (Oct 30 close); 76.5M shares ≈ 2.5% dilution. Stock -8.76% session.",
+      "tags": [
+        "capital-raise",
+        "equity-offering",
+        "senior-notes",
+        "ai-capex",
+        "dilution",
+        "cloud-infra",
+        "sec-filing",
+        "mandatory-lockup"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Common stock offering": "$10B",
+        "Senior notes offering": "$10B (concurrent, not cross-conditioned)",
+        "Ref ORCL price (Oct 30 close)": "$130.67",
+        "Shares outstanding pre-raise (Aug 31 2026)": "3,023,726,695",
+        "Implied new shares at ref price": "76,528,659 (~2.5% dilution)",
+        "Shares outstanding post-raise (ref)": "3,100,255,354",
+        "Equity lock-up": "60 days (with specified exceptions)",
+        "Senior-notes tranches": "FRN due 2029 + fixed due 2029/2031/2033/2037/2046",
+        "Equity book-running lead": "BofA Securities",
+        "Session move Nov 2": "-8.76%"
+      },
+      "explainer": {
+        "tagline": "Oracle taps the equity and debt markets for $20B on Nov 2 to fund its 2027 cloud buildout, triggering an 8.76% selloff in the session.",
+        "whatIsIt": "Oracle filed preliminary prospectus supplements on Monday November 2, 2026 for two concurrent capital raises: a $10B common-stock offering and a $10B senior-notes offering (floating-rate notes due 2029 plus fixed notes due 2029, 2031, 2033, 2037 and 2046). Final pricing and coupons are blank in the preliminary docs. Closings are independent — neither is conditioned on the other.",
+        "howItWorks": "The equity supplement cites a $130.67 Oct 30 closing price. At that reference, 76.5M new shares would clear the $10B at a ~2.5% dilution versus the Aug 31 2026 share count of 3,023,726,695. Oracle also commits to a 60-day lock-up on additional common-stock issuance with specified exceptions. BofA Securities is global coordinator, joint book-runner and sole representative; joint book-runners include Wells Fargo, Citigroup, BNP Paribas, Deutsche Bank, J.P. Morgan, PNC, BTIG, Goldman Sachs, HSBC, Lloyds and SMBC Nikko. Stated use of proceeds is general corporate purposes, which may include capital expenditures, repayment of indebtedness, future investments or acquisitions, and dividends or buybacks. ORCL fell 8.76% during the regular Nov 2 session as the market priced the equity component and the signal about Oracle's AI-infra funding runway. The move extends the February 2026 capital-raise plan that envisioned $45–$50B of total 2026 proceeds (half equity, half debt) and sits atop the FY27 $90–$95B capex guide the company issued with the Q1 FY27 print on Sept 10.",
+        "whyItMatters": "The $10B common raise is the single largest equity-funded portion of Oracle's AI-infra buildout to date and reinforces the 'cloud capex is funded with equity' pattern the Street was watching after META's Oct 26 $35B hybrid raise. Dilution is modest (~2.5%) but the market reads the signal — Oracle is willing to sell equity at $130.67 to secure capacity for 2027 contracts booked in Q1 FY27 ($30B in new AI cloud deals). Reads across to NVDA / AMD / AVGO demand (Oracle is a top-3 AI accelerator buyer), to hyperscaler funding patterns, and to the broader question of whether AI-capex financing is still bond-first or has fully shifted toward equity dilution.",
+        "forWho": "AI-infra and credit allocators, equity-capital-markets desks",
+        "tryIt": "https://finance.yahoo.com/quote/ORCL/"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oracle_Campus_in_Austin_2018.jpg/1280px-Oracle_Campus_in_Austin_2018.jpg",
+        "alt": "Oracle corporate campus in Austin, Texas",
+        "fit": "cover",
+        "credit": "Oracle / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 424B5 (equity)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526442729/d181425d424b5.htm"
+        },
+        {
+          "label": "SEC 424B2 (senior notes)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526442722/d181336d424b2.htm"
+        },
+        {
+          "label": "ORCL Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/ORCL/"
+        },
+        {
+          "label": "Nov 2 Indexes Recap (AP via Yahoo)",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html"
+        }
+      ],
+      "reddit": {
+        "title": "Oracle launches concurrent $10B common stock + $10B senior notes offering Monday — ORCL -8.76% on the session as AI-capex funding footprint widens",
+        "body": "Oracle filed preliminary prospectus supplements with the SEC on Monday Nov 2 2026 for two concurrent capital raises totaling $20B.\n\n* Common stock: $10B\n* Senior notes: $10B (floating-rate due 2029 + fixed due 2029/2031/2033/2037/2046)\n* Reference ORCL price: $130.67 (Oct 30 close)\n* Implied new shares at ref: 76.5M (~2.5% dilution vs 3.024B shares out as of Aug 31)\n* 60-day equity lock-up (with specified exceptions)\n* Closings not conditioned on each other\n* Use of proceeds: general corporate purposes including capex, debt repayment, investments or acquisitions, dividends or buybacks\n* BofA Securities = sole book-running representative for the equity leg\n* ORCL -8.76% during the Nov 2 regular session\n\nWhy it matters:\n\n1. **Largest equity-funded chunk of Oracle's AI-infra buildout** — this comes on top of the FY27 $90–$95B capex guide and the $30B of new AI cloud contracts booked in Q1 FY27 (Sept 10 report).\n2. **AI-capex funding shift** — follows META's Oct 26 ~$35B equity + mandatory-convertible raise. The market is watching whether hyperscaler AI buildouts stay bond-first or move toward equity dilution.\n3. **Reads to NVDA / AMD / AVGO** — Oracle is a top-3 GPU buyer and the raise de-risks 2027 capacity commitments.\n\nContext — Oracle's February 2026 plan called for $45–$50B of total 2026 proceeds (roughly half from debt, half from equity-linked). This $20B tranche is the single biggest step in that plan.\n\nNext catalysts: pricing-day terms (coupon rates / clearing share price), Q2 FY27 earnings in mid-December, and ongoing Project Jupiter / New Mexico data-center update.\n\nFull breakdown: [https://stock-tldr.xyz/releases/orcl-20b-stock-notes-offering-nov-2-2026](https://stock-tldr.xyz/releases/orcl-20b-stock-notes-offering-nov-2-2026)"
+      },
+      "publishDate": "2026-11-03T04:32:00.233Z"
+    },
     {
       "id": "mrvl-lite-ai-merger-nov-2-2026",
       "categories": [

@@ -15422,6 +15422,51 @@
         "macro",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261103t043200z",
+      "timestamp": "2026-11-03T04:32:00.233Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep 2026-11-03T04:19Z. Added three Nov 2 2026 items: Apple Q4 FY26 earnings ($114.5B revenue, Services record, EPS $2.10, -2.8% AH), Palantir Q3 2026 earnings (first $2B quarter, US commercial overtakes US government, FY26 guide raised, -3% AH), and Oracle's $10B stock + $10B senior-notes concurrent offering (-8.76% session). All three confirmed via SEC primary filings.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "aapl-q4-fy26-earnings-nov-2-2026",
+          "title": "Apple (AAPL) Q4 FY26 (Mon Nov 2 2026 after close) — revenue $114.5B (+12% Y/Y) September-quarter record tops ~$113.3B est; iPhone $57.6B September-quarter record; Services $31.6B all-time high; GAAP diluted EPS $2.10 (+14% Y/Y, incl. $0.05 tariff-refund benefit); gross margin 47.9% (incl. ~1pp tariff refunds); FY26 all-time record revenue $479B; dividend $0.27 declared payable Nov 16; John Ternus's first earnings call as CEO after succeeding Tim Cook Sept 1; stock ~-2.8% after hours at 7:59 pm ET on soft December-quarter gross-margin outlook and iPad miss",
+          "category": "earnings",
+          "note": "Mega-cap September-quarter print with records in revenue, iPhone, Services and EPS; Ternus CEO debut; ~-2.8% AH on soft Q1 gross-margin outlook. SEC 8-K primary source."
+        },
+        {
+          "id": "pltr-q3-2026-earnings-nov-2-2026",
+          "title": "Palantir (PLTR) Q3 2026 (Mon Nov 2 2026 after close) — revenue $2.313B (+96% Y/Y, +20% Q/Q) first-ever $2B quarter crushes ~$2.00B est; US commercial $984M (+148% Y/Y) overtakes US government $953M (+96% Y/Y) for the first time; GAAP net income $1.128B (49% margin); GAAP + adj diluted EPS both $0.44 vs ~$0.36 est; adj operating margin 62% on $1.427B adj op income; adj FCF $1.216B (53% margin); 212 deals ≥$1M (107 ≥$5M, 64 ≥$10M); US commercial RDV $6.517B (+79% Y/Y); FY26 revenue guide raised to $8.530–$8.534B (prior ~$8.33B midpoint); Q4 2026 guide $2.649–$2.653B; FY26 adj FCF guide $4.8–$5.0B; stock ~-3% after hours at 7:59 pm ET despite the beat and raise",
+          "category": "earnings",
+          "note": "First-ever $2B quarter and US commercial overtakes US government for the first time; beat-and-raise but stock ~-3% AH on 250× forward multiple. SEC 8-K primary source."
+        },
+        {
+          "id": "orcl-20b-stock-notes-offering-nov-2-2026",
+          "title": "Oracle (ORCL) launches concurrent $10B common stock + $10B senior notes offering Mon Nov 2 2026 — preliminary prospectus supplements filed; last reported ORCL sale $130.67 on Oct 30; use of proceeds general corporate inc. capex and debt repayment; BofA Securities sole book-running representative for equity; shares outstanding 3.024B pre-raise → 3.100B assuming full issuance at ref price (~2.5% dilution); mandatory 60-day equity lock-up on further common-stock issuance; closings not conditioned on each other; stock -8.76% during Mon Nov 2 regular session as AI-capex funding footprint widens",
+          "category": "mover",
+          "note": "$20B capital raise ($10B equity + $10B notes) to fund AI capex buildout; ~2.5% dilution at $130.67 ref; -8.76% session. SEC 424B5/424B2 primary sources."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "mna",
+        "rates",
+        "fx",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "insider"
+      ]
     }
   ]
 }
