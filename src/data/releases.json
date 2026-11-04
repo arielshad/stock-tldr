@@ -1,8 +1,305 @@
 {
-  "generatedAt": "2026-11-03T18:54:40.041Z",
+  "generatedAt": "2026-11-04T03:47:11.038Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "amd-q3-2026-earnings-nov-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "AMD (AMD) Q3 2026 (Tue Nov 3 2026 after close) — record revenue $13.4B (+45% Y/Y) tops ~$13.1B est; Data Center revenue $8.5B (+97% Y/Y) led by Instinct GPU and EPYC CPU sales; non-GAAP diluted EPS $2.09 (+74% Y/Y) beats ~$1.88 est; GAAP diluted EPS $1.46 (+95%); GAAP operating income $2.83B (+123%); non-GAAP gross margin 56% (+2pp); Client and Gaming $3.72B (-8% Y/Y, Client $2.95B +7% / Gaming $0.77B -40%); Embedded $1.11B (+29%); FCF $554M (vs $1.53B Y/Y); Q4 2026 guide ~$17B ±3% (implies ~66% Y/Y / ~27% Q/Q) vs ~$16.3B consensus; non-GAAP gross margin ~55%; stock ~+6.5% after hours after +3.65% regular close to $483.90",
+      "org": "AMD",
+      "date": "2026-11-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm",
+      "summary": "AMD Q3: record $13.4B revenue (+45% Y/Y), Data Center $8.5B (+97%), non-GAAP EPS $2.09 beats, Q4 guide $17B implies ~66% Y/Y growth, stock +6.5% AH.",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$13.4B (+45% Y/Y)",
+        "Data Center revenue": "$8.5B (+97% Y/Y)",
+        "Non-GAAP EPS": "$2.09 vs $1.88 est",
+        "GAAP EPS": "$1.46 (+95% Y/Y)",
+        "Non-GAAP gross margin": "56%",
+        "Q4 2026 revenue guide": "~$17B ±3% vs ~$16.3B est",
+        "Move": "~+6.5% AH"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "ai-capex",
+        "semis",
+        "data-center",
+        "instinct-gpu",
+        "epyc",
+        "q3-2026",
+        "eps-beat",
+        "guidance-raise",
+        "mover"
+      ],
+      "explainer": {
+        "tagline": "AMD rips through Q3 with Data Center revenue nearly doubling Y/Y and a Q4 guide that implies ~66% growth on AI chip ramp.",
+        "whatIsIt": "Advanced Micro Devices reported its third quarter 2026 (ended Sept 26 2026) after the close on Tuesday Nov 3 2026. Headline revenue hit a record $13.4B (+45% Y/Y) and non-GAAP diluted EPS $2.09 (+74% Y/Y). The quarter was driven entirely by AI-data-center demand, with Data Center revenue of $8.5B up 97% Y/Y led by record Instinct GPU and EPYC CPU sales.",
+        "howItWorks": "GAAP numbers: operating income $2.83B (21% op margin, +7pp Y/Y), diluted EPS $1.46 (+95% Y/Y). Non-GAAP gross margin 56% (+2pp Y/Y), operating margin 29%, EPS $2.09. By segment: Data Center $8.5B (+97% Y/Y, op income $2.88B); Client and Gaming $3.72B (-8%, Client $2.95B +7% / Gaming $0.77B -40%); Embedded $1.11B (+29%). FCF $554M vs $1.53B Y/Y as capex and inventory for Helios/Venice ramp build. Q4 2026 guide: revenue ~$17B ±3% (midpoint ~+66% Y/Y / ~+27% Q/Q), non-GAAP gross margin ~55%, both ahead of ~$16.3B consensus.",
+        "whyItMatters": "After the Nov 2 SOX rout on Marvell/Lumentum deal digestion, AMD delivering a +97% Data Center print and a Q4 guide 4% above consensus reopens the 'AI capex still accelerating' narrative. Stock rose ~6.5% AH after closing +3.65% at $483.90. Reads positive for Instinct customers (OpenAI, Meta, Microsoft) and competes with NVIDIA on inference economics; FCF compression ($554M vs $1.53B Y/Y) flags the capex intensity of the AI buildout.",
+        "forWho": "semi + AI-capex traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
+      },
+      "image": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1dcf6819c1566fb2bab40c24e6158009/amd/db/834/7308/social_image_resized.jpg",
+        "alt": "AMD logo and Q3 2026 earnings headline",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q3 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
+        },
+        {
+          "label": "AMD IR Release",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1255/amd-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "label": "Fool Rapid Reaction",
+          "url": "https://www.fool.com/investing/2026/11/03/amd-forecasts-66-q4-growth-on-ai-chip-demand-rapid-earnings-reaction/"
+        },
+        {
+          "label": "AMD Chart",
+          "url": "https://finance.yahoo.com/quote/AMD"
+        }
+      ],
+      "reddit": {
+        "title": "AMD Q3: Data Center revenue +97% Y/Y to $8.5B, Q4 guide $17B implies ~66% growth, stock +6.5% AH",
+        "body": "AMD just reset the AI capex debate with a clean beat-and-raise after the Marvell/Lumentum SOX rout. Here's the Q3 2026 print:\n\n* Revenue $13.4B (+45% Y/Y), a company record\n* **Data Center $8.5B (+97% Y/Y)** on record Instinct GPU + EPYC CPU sales\n* Non-GAAP EPS $2.09 (+74% Y/Y) vs ~$1.88 est\n* GAAP EPS $1.46 (+95% Y/Y), op margin 21% (+7pp)\n* Non-GAAP gross margin 56%\n\nThe Q4 guide is the real story:\n\n1. **Revenue ~$17B ±3%** vs ~$16.3B consensus — midpoint implies ~66% Y/Y / ~27% Q/Q\n2. **Non-GAAP gross margin ~55%** essentially holding the Q3 level despite Helios/Venice ramp\n3. **FCF -64% Y/Y to $554M** on capex + inventory build — the cost of going vertical on AI\n\nLisa Su said on the call that growth accelerates in Q4 as Helios and Venice scale. Stock closed +3.65% at $483.90 and added ~6.5% after hours.\n\nNext catalysts: Q4 2026 report in early Feb 2027; November 12 2026 Analyst Day.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amd-q3-2026-earnings-nov-3-2026](https://stock-tldr.xyz/releases/amd-q3-2026-earnings-nov-3-2026)"
+      },
+      "publishDate": "2026-11-04T03:47:11.038Z"
+    },
+    {
+      "id": "smci-q1-fy27-earnings-nov-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Super Micro Computer (SMCI) Q1 FY27 (Tue Nov 3 2026 after close) — net sales $19.9B (vs $5.02B Y/Y, ~4x) crushes company's own Oct 20 preliminary $18.5–$19.5B range; non-GAAP diluted EPS $1.81 (vs $0.35 Y/Y) vs ~$1.23 est; GAAP EPS $1.75; GAAP gross margin 12.7% (vs 9.3% Y/Y, down from 17.5% Q/Q); non-GAAP operating margin ~10.4%; cash from operations -$434M (deferred revenue +$3.1B on customer prepayments); cash $6.9B / debt $8.6B; Q2 FY27 guide net sales $19.5–$21.5B + non-GAAP EPS $1.66–$1.90; FY27 revenue guide RAISED to $72–$82B (prior $65–$72B); stock ~+6% AH after Tuesday close",
+      "org": "Super Micro Computer",
+      "date": "2026-11-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000026/exhibit991_20260930.htm",
+      "summary": "SMCI Q1 FY27: net sales $19.9B (~4x Y/Y), non-GAAP EPS $1.81 beats, Q2 guide $19.5–$21.5B, FY27 raised to $72–$82B; AI-server boom with -$434M operating cash flow.",
+      "tickers": [
+        "SMCI",
+        "NVDA",
+        "AMD",
+        "DELL"
+      ],
+      "metrics": {
+        "Revenue": "$19.9B (~4x Y/Y from $5.02B)",
+        "Non-GAAP EPS": "$1.81 vs $1.23 est",
+        "GAAP EPS": "$1.75",
+        "Non-GAAP gross margin": "12.8%",
+        "Q2 FY27 guide": "$19.5–$21.5B rev / $1.66–$1.90 non-GAAP EPS",
+        "FY27 revenue guide": "$72–$82B (raised from $65–$72B)",
+        "Op cash flow": "-$434M",
+        "Move": "~+6% AH"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "ai-capex",
+        "ai-servers",
+        "data-center",
+        "q1-fy27",
+        "revenue-beat",
+        "guidance-raise",
+        "cash-flow-concern",
+        "mover"
+      ],
+      "explainer": {
+        "tagline": "Supermicro quadruples revenue Y/Y to $19.9B on AI-server boom and lifts FY27 range to $72–$82B — but operating cash flow turns -$434M.",
+        "whatIsIt": "Super Micro Computer reported fiscal Q1 2027 (quarter ended Sept 30 2026) after the close on Tue Nov 3 2026. Net sales of $19.9B came in above the company's own Oct 20 preliminary range of $18.5–$19.5B and nearly 4x the $5.02B printed a year ago, with non-GAAP diluted EPS of $1.81 crushing ~$1.23 consensus.",
+        "howItWorks": "GAAP gross margin 12.7% (up from 9.3% Y/Y but down from 17.5% in Q4 FY26); non-GAAP gross margin 12.8%. Operating margin ~10.4% on $2.06B GAAP operating income. Non-GAAP diluted EPS $1.81 (vs $0.35 Y/Y); GAAP EPS $1.75. Deferred revenue grew ~$3.1B on customer prepayments; operating cash flow was -$434M on the revenue scale-up. Cash $6.9B, bank debt + convertibles $8.6B. Q2 FY27 guide: net sales $19.5–$21.5B and non-GAAP EPS $1.66–$1.90 — both above consensus. FY27 guide raised to $72–$82B (prior $65–$72B).",
+        "whyItMatters": "Supermicro's print is the clearest signal yet that the AI-server supply chain is still ramping, not softening — the $19.9B quarter alone is bigger than its entire FY24 ($14.9B). Stock added ~6% after hours. But the -$434M operating-cash-flow line and 490bp sequential gross-margin drop show the margin and working-capital cost of scaling: deferred revenue is funding the inventory build, not internal cash. Reads bullish for Nvidia/AMD AI-GPU demand through CY27.",
+        "forWho": "AI-infrastructure + data-center traders",
+        "tryIt": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx"
+      },
+      "image": {
+        "url": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2286715374-300x200.jpg",
+        "alt": "Super Micro Computer AI server systems",
+        "fit": "cover",
+        "credit": "Getty Images via Quartz"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q1 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000026/exhibit991_20260930.htm"
+        },
+        {
+          "label": "SMCI IR Release",
+          "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx"
+        },
+        {
+          "label": "Quartz Coverage",
+          "url": "https://qz.com/super-micro-computer-stock-sales-tripled-earnings-110326"
+        },
+        {
+          "label": "SMCI Chart",
+          "url": "https://finance.yahoo.com/quote/SMCI"
+        }
+      ],
+      "reddit": {
+        "title": "Supermicro (SMCI) Q1 FY27: $19.9B revenue (~4x Y/Y), FY27 guide raised to $72–$82B, but -$434M operating cash flow",
+        "body": "Supermicro just printed its first ~$20B quarter and lifted its FY27 range by $7B at the midpoint. The AI-server supply chain is not slowing down. Here's the Q1 FY27 print (quarter ended Sept 30):\n\n* Net sales $19.9B — above SMCI's own preliminary $18.5–$19.5B and ~4x Y/Y from $5.02B\n* Non-GAAP EPS $1.81 vs ~$1.23 consensus; GAAP EPS $1.75\n* Non-GAAP gross margin 12.8% (down from 17.5% in Q4 FY26 but up from 9.5% Y/Y)\n* Deferred revenue +$3.1B on customer prepayments\n* Cash $6.9B / bank debt + converts $8.6B\n\nThe guides are what moved the stock:\n\n1. **Q2 FY27 net sales $19.5–$21.5B** and non-GAAP EPS $1.66–$1.90 — both above consensus\n2. **FY27 raised to $72–$82B** (prior $65–$72B) — ~$7B midpoint lift\n3. **Operating cash flow -$434M** — the catch. $19.9B of revenue, -$434M of operating cash. Deferred revenue is funding the inventory build, not internal cash\n\nStock rose ~6% after hours. Reads bullish for NVDA/AMD AI-GPU demand into CY27.\n\nNext catalysts: Q2 FY27 in Feb 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/smci-q1-fy27-earnings-nov-3-2026](https://stock-tldr.xyz/releases/smci-q1-fy27-earnings-nov-3-2026)"
+      },
+      "publishDate": "2026-11-04T03:47:11.038Z"
+    },
+    {
+      "id": "anet-q3-2026-earnings-nov-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Arista Networks (ANET) Q3 2026 (Tue Nov 3 2026 after close) — revenue $3.66B (+58.5% Y/Y from $2.308B, fastest growth since IPO) crushes $3.3B company guide + ~$3.33B est; non-GAAP diluted EPS $1.20 vs ~$1.08 est; GAAP EPS $1.22 (vs $0.67 Y/Y); GAAP operating margin 44.9%; non-GAAP operating margin 49.1%; Q4 2026 guide revenue $3.9–$4.0B, non-GAAP diluted EPS $1.26–$1.30, non-GAAP operating margin 48–49%, gross margin 63–64%; stock +12.1% in Tue AH to $190.46 after +3.52% regular close at $169.91",
+      "org": "Arista Networks",
+      "date": "2026-11-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001596532/000159653226000252/ex991q326-earningsrelease.htm",
+      "summary": "ANET Q3: $3.66B revenue (+58.5% Y/Y, fastest growth since IPO), non-GAAP EPS $1.20 vs $1.08 est, Q4 guide $3.9–$4.0B; stock +12.1% AH to $190.46.",
+      "tickers": [
+        "ANET",
+        "CSCO",
+        "AVGO",
+        "NVDA"
+      ],
+      "metrics": {
+        "Revenue": "$3.66B (+58.5% Y/Y)",
+        "Non-GAAP EPS": "$1.20 vs $1.08 est",
+        "GAAP EPS": "$1.22 (+82% Y/Y)",
+        "Non-GAAP operating margin": "49.1%",
+        "Q4 2026 revenue guide": "$3.9–$4.0B",
+        "Q4 2026 non-GAAP EPS guide": "$1.26–$1.30",
+        "Move": "+12.1% AH to $190.46"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "ai-networking",
+        "data-center",
+        "ethernet",
+        "q3-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "mover"
+      ],
+      "explainer": {
+        "tagline": "Arista's AI-networking tailwind lands at +58.5% Y/Y — fastest print since IPO — with a Q4 guide that steps up to $3.9–$4.0B.",
+        "whatIsIt": "Arista Networks reported Q3 2026 (ended Sep 30 2026) after the close on Tue Nov 3 2026. Revenue of $3.66B grew 58.5% Y/Y from $2.308B, the fastest Y/Y growth rate since the company's 2014 IPO and nearly 11% above the company's $3.3B guide. Non-GAAP diluted EPS was $1.20 versus ~$1.08 consensus.",
+        "howItWorks": "GAAP operating margin 44.9% (from 42.4% Y/Y); non-GAAP operating margin 49.1% (from 48.6% Y/Y). GAAP diluted EPS $1.22 (vs $0.67 Y/Y); non-GAAP diluted EPS $1.20 (vs $0.77 Y/Y recast). Q4 2026 guide: revenue $3.9–$4.0B, non-GAAP gross margin 63–64%, non-GAAP operating margin 48–49%, non-GAAP diluted EPS $1.26–$1.30. Arista also launched open-standards rack-scale architectures for AI networks with AMD, Broadcom, Meta and Microsoft, and was added to the S&P 100 in September 2026.",
+        "whyItMatters": "Arista is the cleanest pure-play on the Ethernet-for-AI-scale-out thesis, and a +58.5% print directly validates the massive AI-capex guides from Microsoft/Alphabet/Amazon the week prior. Stock jumped 12.1% AH to $190.46 after +3.52% regular close at $169.91. Reads positive for CSCO and AVGO (Tomahawk silicon partner) and pushes back on the 'AI capex normalization' fear that hit the SOX last Thursday.",
+        "forWho": "AI-infrastructure + networking traders",
+        "tryIt": "https://investors.arista.com/All-News/news-details/2026/"
+      },
+      "image": {
+        "url": "https://tradersagency.com/uploads/evergreen-16a8349f030b0c62f285b809.png",
+        "alt": "Arista Networks AI data center switching",
+        "fit": "cover",
+        "credit": "Traders Agency"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q3 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001596532/000159653226000252/ex991q326-earningsrelease.htm"
+        },
+        {
+          "label": "MarketBeat Alert",
+          "url": "https://www.marketbeat.com/instant-alerts/earnings-arista-networks-nyse-anet-announces-quarterly-earnings-results-beats-estimates-by-012-eps-2026-11-03/"
+        },
+        {
+          "label": "Traders Agency Breakdown",
+          "url": "https://www.tradersagency.com/blog/arista-networks-reports-585percent-q3-2026-revenue-growth-shares-rise-on-above-consensus-outlook"
+        },
+        {
+          "label": "ANET Chart",
+          "url": "https://finance.yahoo.com/quote/ANET"
+        }
+      ],
+      "reddit": {
+        "title": "Arista Networks Q3: revenue +58.5% Y/Y to $3.66B, fastest growth since 2014 IPO, stock +12.1% AH to $190.46",
+        "body": "Arista Networks just put up its fastest Y/Y revenue growth since IPO, and the Q4 guide steps up again. The AI networking build-out is clearly accelerating, not normalizing. Here's the Q3 2026 print:\n\n* Revenue $3.66B (+58.5% Y/Y from $2.308B) vs $3.3B guide and ~$3.33B consensus\n* Non-GAAP EPS $1.20 vs ~$1.08 consensus\n* GAAP EPS $1.22 (+82% Y/Y), op margin 44.9% (+250bp)\n* Non-GAAP op margin 49.1% (+50bp)\n\nQ4 guide is where it gets interesting:\n\n1. **Revenue $3.9–$4.0B** — stepping up again from $3.66B\n2. **Non-GAAP EPS $1.26–$1.30**, non-GAAP op margin 48–49%, gross margin 63–64%\n3. **New AI rack-scale platforms** launched with AMD, Broadcom, Meta and Microsoft — pushes back on the Marvell/Lumentum SOX-rout narrative\n\nStock rose 12.1% in after-hours trading to $190.46 after a +3.52% regular-session close at $169.91. Reads positive for CSCO and AVGO, and directly validates the massive AI-capex guides from GOOGL/MSFT/AMZN last week.\n\nNext catalysts: Q4 2026 report in Feb 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/anet-q3-2026-earnings-nov-3-2026](https://stock-tldr.xyz/releases/anet-q3-2026-earnings-nov-3-2026)"
+      },
+      "publishDate": "2026-11-04T03:47:11.038Z"
+    },
+    {
+      "id": "shop-q3-2026-earnings-nov-3-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Shopify (SHOP) Q3 2026 (Tue Nov 3 2026 premarket) — revenue $3.742B (+32% Y/Y) just below ~$3.75B LSEG consensus; adj diluted EPS $0.49 (vs $0.34 Y/Y) beats ~$0.46 est; GAAP diluted EPS $0.36; GMV $119.145B (+29% Y/Y) misses ~$120.03B est; subscription revenue $836M (+20%) misses ~$848M est; merchant solutions $2.906B (+35%); operating income $568M (+66% Y/Y); FCF $816M (22% margin, vs 18% Y/Y); Q4 2026 guide revenue 'low-thirties' % Y/Y growth; stock -8.74% on Tue after GMV + subscription misses despite EPS beat",
+      "org": "Shopify",
+      "date": "2026-11-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm",
+      "summary": "SHOP Q3: revenue $3.74B inline, EPS beat at $0.49, but GMV $119.1B missed $120B est and subscription $836M missed $848M est; stock -8.74% Tuesday.",
+      "tickers": [
+        "SHOP"
+      ],
+      "metrics": {
+        "Revenue": "$3.742B (+32% Y/Y)",
+        "GMV": "$119.145B (+29% Y/Y), missed $120.03B est",
+        "Adj EPS": "$0.49 vs $0.46 est",
+        "GAAP EPS": "$0.36 (+80% Y/Y)",
+        "Subscription revenue": "$836M vs $848M est",
+        "FCF": "$816M (22% margin)",
+        "Move": "-8.74%"
+      },
+      "importance": "major",
+      "tags": [
+        "earnings",
+        "e-commerce",
+        "gmv-miss",
+        "subscription",
+        "q3-2026",
+        "eps-beat",
+        "guidance-inline",
+        "valuation-risk",
+        "mover"
+      ],
+      "explainer": {
+        "tagline": "Shopify beats on profit but misses on GMV and subscription revenue, and a 64x forward multiple leaves no room for miss — stock -8.74%.",
+        "whatIsIt": "Shopify reported Q3 2026 (ended Sept 30 2026) before the open on Tue Nov 3 2026. Revenue of $3.742B (+32% Y/Y) landed ~$8M below LSEG consensus of ~$3.75B, and GMV of $119.145B (+29% Y/Y) missed StreetAccount's ~$120.03B. Adj diluted EPS of $0.49 topped the ~$0.46 estimate.",
+        "howItWorks": "Subscription revenue $836M (+20% Y/Y) missed ~$848M consensus; merchant solutions $2.906B (+35%); gross profit $1.78B (+28%); operating income $568M (+66% Y/Y, 15.2% margin); FCF $816M (22% margin, up from 18%); GAAP net income $462M; diluted weighted-average shares 1.291B. Shopify guided Q4 2026 revenue growth in the 'low-thirties' percent range (LSEG consensus 32.1%), gross profit growth in the high-twenties, opex 29–30% of revenue, and stock-based comp $155M.",
+        "whyItMatters": "Shopify traded at ~64x 2027 earnings heading into the print, so an $8M revenue miss + ~$20M subscription-gross-profit miss + ~$880M GMV miss produced an 8.74% sell-off even on a clean EPS beat. Reads as a valuation reset rather than a business-health issue — operating income +66% Y/Y and 22% FCF margin remain intact. Watch for a knock-on in high-multiple SaaS/e-commerce names.",
+        "forWho": "high-multiple growth-equity traders",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108263374-17706547572025-02-11t212718z_1967611459_rc2lscafiy3s_rtrmadp_0_shopify-results.jpeg?v=1770654788&w=1920&h=1080",
+        "alt": "Shopify headquarters logo",
+        "fit": "cover",
+        "credit": "Reuters via CNBC"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K (Q3 Release)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html"
+        },
+        {
+          "label": "SHOP Chart",
+          "url": "https://finance.yahoo.com/quote/SHOP"
+        }
+      ],
+      "reddit": {
+        "title": "Shopify (SHOP) -8.74% on Q3 2026: EPS beat but GMV misses $120B est at $119.1B, subscription revenue misses too",
+        "body": "Shopify printed clean operating leverage but missed on the two lines the market cared about — GMV and subscription — and a 64x forward multiple leaves no room for that. Here's the Q3 2026 print:\n\n* Revenue $3.742B (+32% Y/Y) vs ~$3.75B LSEG consensus — slight miss\n* GMV $119.145B (+29% Y/Y) vs ~$120.03B StreetAccount est — miss\n* Subscription revenue $836M (+20%) vs ~$848M est — miss\n* Adj EPS $0.49 vs ~$0.46 est — beat\n* GAAP EPS $0.36 (+80% Y/Y), op income $568M (+66%)\n* FCF $816M at 22% margin (vs 18% Y/Y)\n\nWhat drove the sell-off:\n\n1. **GMV and subscription misses** overshadow the EPS beat — on a ~64x 2027 earnings multiple, $8M of revenue miss costs you ~8%\n2. **Q4 guide** 'low-thirties' revenue growth vs LSEG 32.1% — inline, not a raise\n3. **Subscription gross profit** $661M vs ~$680M est — the ~$20M miss is the specific line the market flagged\n\nStock closed -8.74% Tuesday. Reads as valuation reset, not a business-health issue — operating income +66% Y/Y and 22% FCF margin are intact.\n\nNext catalysts: Q4 2026 report Feb 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/shop-q3-2026-earnings-nov-3-2026](https://stock-tldr.xyz/releases/shop-q3-2026-earnings-nov-3-2026)"
+      },
+      "publishDate": "2026-11-04T03:47:11.038Z"
+    },
     {
       "id": "fisv-q3-2026-earnings-nov-3-2026",
       "categories": [

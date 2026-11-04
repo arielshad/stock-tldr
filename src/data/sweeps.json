@@ -15503,6 +15503,53 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261104t034711z",
+      "timestamp": "2026-11-04T03:47:11.038Z",
+      "source": "github-actions-sweep",
+      "summary": "Four Nov 3 2026 earnings: AMD record Q3 with Data Center +97% Y/Y and Q4 guide $17B, SMCI quadruples revenue to $19.9B and lifts FY27 to $72–$82B, Arista fastest growth since IPO at +58.5% Y/Y with stock +12.1% AH, and Shopify -8.74% on GMV + subscription misses despite EPS beat.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "amd-q3-2026-earnings-nov-3-2026",
+          "title": "AMD (AMD) Q3 2026 (Tue Nov 3 2026 after close) — record revenue $13.4B (+45% Y/Y) tops ~$13.1B est; Data Center revenue $8.5B (+97% Y/Y) led by Instinct GPU and EPYC CPU sales; non-GAAP diluted EPS $2.09 (+74% Y/Y) beats ~$1.88 est; GAAP diluted EPS $1.46 (+95%); GAAP operating income $2.83B (+123%); non-GAAP gross margin 56% (+2pp); Client and Gaming $3.72B (-8% Y/Y, Client $2.95B +7% / Gaming $0.77B -40%); Embedded $1.11B (+29%); FCF $554M (vs $1.53B Y/Y); Q4 2026 guide ~$17B ±3% (implies ~66% Y/Y / ~27% Q/Q) vs ~$16.3B consensus; non-GAAP gross margin ~55%; stock ~+6.5% after hours after +3.65% regular close to $483.90",
+          "category": "earnings",
+          "note": "Primary AI-chip catalyst of the week — +97% Y/Y data center and Q4 guide 4% above consensus directly offsets the Nov 2 Marvell/Lumentum SOX rout."
+        },
+        {
+          "id": "smci-q1-fy27-earnings-nov-3-2026",
+          "title": "Super Micro Computer (SMCI) Q1 FY27 (Tue Nov 3 2026 after close) — net sales $19.9B (vs $5.02B Y/Y, ~4x) crushes company's own Oct 20 preliminary $18.5–$19.5B range; non-GAAP diluted EPS $1.81 (vs $0.35 Y/Y) vs ~$1.23 est; GAAP EPS $1.75; GAAP gross margin 12.7% (vs 9.3% Y/Y, down from 17.5% Q/Q); non-GAAP operating margin ~10.4%; cash from operations -$434M (deferred revenue +$3.1B on customer prepayments); cash $6.9B / debt $8.6B; Q2 FY27 guide net sales $19.5–$21.5B + non-GAAP EPS $1.66–$1.90; FY27 revenue guide RAISED to $72–$82B (prior $65–$72B); stock ~+6% AH after Tuesday close",
+          "category": "earnings",
+          "note": "AI-server supply chain still ramping — $19.9B quarter is ~4x Y/Y with FY27 raised to $72–$82B; -$434M operating cash flow is the catch."
+        },
+        {
+          "id": "anet-q3-2026-earnings-nov-3-2026",
+          "title": "Arista Networks (ANET) Q3 2026 (Tue Nov 3 2026 after close) — revenue $3.66B (+58.5% Y/Y from $2.308B, fastest growth since IPO) crushes $3.3B company guide + ~$3.33B est; non-GAAP diluted EPS $1.20 vs ~$1.08 est; GAAP EPS $1.22 (vs $0.67 Y/Y); GAAP operating margin 44.9%; non-GAAP operating margin 49.1%; Q4 2026 guide revenue $3.9–$4.0B, non-GAAP diluted EPS $1.26–$1.30, non-GAAP operating margin 48–49%, gross margin 63–64%; stock +12.1% in Tue AH to $190.46 after +3.52% regular close at $169.91",
+          "category": "earnings",
+          "note": "Cleanest pure-play on Ethernet-for-AI; +58.5% Y/Y is fastest since 2014 IPO and Q4 guide steps up again to $3.9–$4.0B."
+        },
+        {
+          "id": "shop-q3-2026-earnings-nov-3-2026",
+          "title": "Shopify (SHOP) Q3 2026 (Tue Nov 3 2026 premarket) — revenue $3.742B (+32% Y/Y) just below ~$3.75B LSEG consensus; adj diluted EPS $0.49 (vs $0.34 Y/Y) beats ~$0.46 est; GAAP diluted EPS $0.36; GMV $119.145B (+29% Y/Y) misses ~$120.03B est; subscription revenue $836M (+20%) misses ~$848M est; merchant solutions $2.906B (+35%); operating income $568M (+66% Y/Y); FCF $816M (22% margin, vs 18% Y/Y); Q4 2026 guide revenue 'low-thirties' % Y/Y growth; stock -8.74% on Tue after GMV + subscription misses despite EPS beat",
+          "category": "earnings",
+          "note": "64x forward multiple + $8M revenue miss + $880M GMV miss = 8.74% sell-off even on EPS beat — valuation reset in high-multiple growth."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }
