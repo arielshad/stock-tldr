@@ -1,8 +1,464 @@
 {
-  "generatedAt": "2026-11-04T03:47:11.038Z",
+  "generatedAt": "2026-11-04T19:11:08.547Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-midterms-market-rally-nov-4-2026",
+      "categories": [
+        "macro",
+        "sector"
+      ],
+      "tickers": [
+        "^DJI",
+        "^GSPC",
+        "^IXIC",
+        "AAPL",
+        "MSFT"
+      ],
+      "title": "Dow +1,500 pts / +2.9% Wed Nov 4 2026 as Democrats sweep Congress — Dow back above 53,000 for first time since Sep 8; AAPL +6% / MSFT +6% / AMZN +7% / GOOGL +5% all at record highs; TSLA -2%, First Solar +8.5% premarket, DJT -11%; WTI and Brent -8% as JD Vance blames Iran war for GOP losses; Dems flip IA/OH/SC/KS/NC/TX Senate seats + win largest House majority 'since at least mid-1990s' per running results coverage; Trump tells NYT he is 'absolutely willing' to accept results; 10Y yield 4.93% (-1bp)",
+      "org": "Wall Street",
+      "date": "2026-11-04",
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "summary": "Dow jumps ~1,500 pts (+2.9%) Wed Nov 4 after Democrats win control of both chambers of Congress; mega-cap tech rips to records, oil tanks 8%.",
+      "tags": [
+        "midterms",
+        "elections",
+        "dow",
+        "sp500",
+        "nasdaq",
+        "mega-cap",
+        "oil",
+        "political-gridlock",
+        "divided-government",
+        "trump",
+        "apple",
+        "microsoft",
+        "amazon",
+        "alphabet",
+        "first-solar",
+        "djt",
+        "crude"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "Dow": "+~1,511 pts (+2.9%) intraday, back above 53,000 first time since Sep 8",
+        "S&P 500": "+1.8% intraday",
+        "Nasdaq": "+1.9% intraday",
+        "AAPL / MSFT / AMZN / GOOGL": "+6% / +6% / +7% / +5% at record highs",
+        "TSLA": "-2%",
+        "First Solar (premarket)": "+8.5%",
+        "Trump Media (DJT, premarket)": "-11%",
+        "WTI / Brent crude": "-8% each",
+        "10Y Treasury yield": "4.93% (-1bp)",
+        "2Y / 30Y": "4.60% / 5.31%"
+      },
+      "explainer": {
+        "tagline": "Divided government arrives: stocks rip, oil tanks, Trump Media breaks after Democrats win both chambers of Congress.",
+        "whatIsIt": "On Tue Nov 3 2026 Americans voted in the midterms. By Wed Nov 4, Fox News Decision Desk and other outlets had projected Democrats would take both chambers of Congress. Secondary coverage describes the projected House majority as the largest for either party since at least the mid-1990s and lists flipped Republican Senate seats in Iowa, Ohio, South Carolina, Kansas, North Carolina and Texas, with Alaska and Mississippi still uncalled. Democrats also flipped at least five governorships, bringing their total to 29 — a majority of state governorships for the first time since 2010.",
+        "howItWorks": "U.S. stocks responded with a sharp risk-on move once early results confirmed a Democratic sweep. Per CNBC's live blog around 1:37 pm ET, the Dow was up roughly 1,511 points (+2.9%) and back above 53,000 for the first time since Sep 8. The S&P 500 was +1.8% and the Nasdaq Composite +1.9%. Big tech ran hardest — Apple, Microsoft, Amazon and Alphabet were each up 5–7% to fresh record highs — while Tesla slipped 2%. In premarket action, First Solar jumped 8.5% and Trump Media (DJT) fell 11%. Crude broke hard: both WTI and Brent fell more than 8% after VP JD Vance blamed the Iran war for the Republican losses, hitting energy names. Treasuries firmed only slightly: the 10Y yield was 4.9311% (-1bp), with 2Y at 4.6017% and 30Y at 5.3136%. In interviews Wed, Trump told the New York Times he was 'absolutely willing' to accept the results and told the WSJ he and Republicans would work with Democrats.",
+        "whyItMatters": "The market's read is classic divided-government — a Democratic-controlled Congress plus a Republican White House means more policy gridlock, slower fiscal expansion, and a lower odds of unilateral executive moves on tariffs, deportations or federal data-center / AI policy. That favors (a) mega-cap tech, which had been pricing in regulatory and antitrust risk; (b) solar and anything downstream of IRA tax credits; and against (a) defense and refiners; (b) Trump Media; and (c) the Iran/energy complex if the political cost of continued conflict tips policy. The 8% crude drop is the single cleanest reading of that reflex.",
+        "forWho": "macro, political-risk and sector-rotation traders",
+        "tryIt": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/United_States_Capitol_-_west_front.jpg/1280px-United_States_Capitol_-_west_front.jpg",
+        "alt": "U.S. Capitol dome exterior, west front",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "CNBC Live Blog",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "Yahoo Finance Live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+        },
+        {
+          "label": "CNBC Midterm Results",
+          "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+        },
+        {
+          "label": "CNN Markets",
+          "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
+        }
+      ],
+      "reddit": {
+        "title": "Dow +1,500 pts / +2.9% as Democrats sweep Congress — AAPL / MSFT / AMZN / GOOGL rip to record highs, oil -8%",
+        "body": "Divided government is back and the tape loved it. The midterm numbers:\n\n* Dow +~1,511 pts (+2.9%) to back above 53,000 — first time since Sep 8\n* S&P 500 +1.8%, Nasdaq +1.9%\n* AAPL / MSFT / AMZN / GOOGL +6% / +6% / +7% / +5%, all at record highs\n* TSLA -2%; First Solar +8.5% premarket; DJT -11%\n* WTI + Brent crude both -8%\n* 10Y yield 4.93% (-1bp), 2Y 4.60%, 30Y 5.31%\n\nThree things moved at once:\n\n1. **Dems flip the Senate** — Iowa, Ohio, South Carolina, Kansas, North Carolina and Texas Republican seats fell; Alaska and Mississippi still uncalled per running results coverage.\n2. **Largest House majority since the mid-1990s** — the running tally frames it that way; most GOP mid-decade redistricting efforts missed.\n3. **Trump accepts the loss** — tells the NYT he's 'absolutely willing' to accept results, tells the WSJ he'll work with Democrats, kills the contested-election tail risk the tape had been pricing.\n\nThe bear bid in oil came after VP JD Vance blamed the Iran war for the GOP losses — the market read that as reduced political room for continued escalation.\n\nNext catalysts: ARM, QCOM and AppLovin earnings after close Nov 4; CPI + Fed speakers next week; Senate control still contingent on Alaska and Mississippi calls.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-midterms-market-rally-nov-4-2026](https://stock-tldr.xyz/releases/us-midterms-market-rally-nov-4-2026)"
+      },
+      "publishDate": "2026-11-04T19:11:08.547Z"
+    },
+    {
+      "id": "uber-q3-2026-earnings-nov-4-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "UBER"
+      ],
+      "title": "Uber (UBER) Q3 2026 (Wed Nov 4 2026 premarket) — gross bookings RECORD $59.82B (+20% Y/Y) tops ~$58.9B est; revenue $14.77B (+10%) beats ~$14.69B; Mobility bookings $29.5B (+18%, +17% cc) with Mobility revenue $7.52B (-2% Y/Y as business-model changes shaved ~8pp off reported revenue growth); Delivery bookings $28.5B (+22%, +23% cc), Delivery revenue $5.49B (+23%); Freight $1.77B / $1.76B (+35% / +34%); MAPCs 215M (+14%), trips 4,061M (+16%); GAAP income from operations $1.45B (+30%); non-GAAP operating income $2.30B (+38%), adj EBITDA $2.96B (+31%, 20.1% margin on bookings); non-GAAP diluted EPS $0.88 (+35%); GAAP diluted EPS $0.25 (vs $3.11 Y/Y — prior-year had $4.9B tax valuation release + $1.5B pre-tax equity gain; Q3 2026 includes $476M pre-tax equity revaluation loss); FCF $2.54B (+14%); Q4 2026 guide gross bookings $63.25–$65.25B (+18–22% cc), adj EBITDA $3.13–$3.23B, non-GAAP EPS $0.95–$0.99 (+34–39% Y/Y); stock up roughly 7% in Wed session per Yahoo Finance movers list",
+      "org": "Uber Technologies",
+      "date": "2026-11-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm",
+      "summary": "Uber posts record Q3 gross bookings $59.82B (+20%) with Mobility, Delivery and Freight all guided to further acceleration; stock +~7% on Wed.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "mobility",
+        "delivery",
+        "freight",
+        "gross-bookings",
+        "mapc",
+        "adjusted-ebitda",
+        "guide-raise",
+        "mover",
+        "rideshare"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Gross Bookings": "$59.82B (+20% Y/Y)",
+        "Revenue": "$14.77B (+10% Y/Y)",
+        "Mobility Bookings / Revenue": "$29.51B (+18%) / $7.52B (-2%)",
+        "Delivery Bookings / Revenue": "$28.54B (+22%) / $5.49B (+23%)",
+        "Freight Bookings / Revenue": "$1.77B (+35%) / $1.76B (+34%)",
+        "MAPCs / Trips": "215M (+14%) / 4,061M (+16%)",
+        "Non-GAAP Diluted EPS": "$0.88 (+35%)",
+        "GAAP Diluted EPS": "$0.25 (vs $3.11 Y/Y)",
+        "Adjusted EBITDA": "$2.96B (+31%)",
+        "Free Cash Flow": "$2.54B (+14%)",
+        "Q4 2026 Gross Bookings Guide": "$63.25–$65.25B (+18–22% cc)",
+        "Move": "~+7% intraday Wed"
+      },
+      "explainer": {
+        "tagline": "Record Q3 gross bookings and raised Q4 guide push Uber to a seven-percent intraday pop into post-midterm risk-on tape.",
+        "whatIsIt": "Uber's Q3 2026 release covers the quarter ended Sep 30 2026 and dropped before the market open on Wed Nov 4. Headline: gross bookings rose 20% to a record $59.82B. Mobility, Delivery and Freight all grew bookings double-digit, with Delivery outpacing Mobility in bookings growth for the first time in several quarters.",
+        "howItWorks": "Mobility bookings were $29.5B (+18%, +17% cc) but reported Mobility revenue fell 2% to $7.52B, which the company attributed to business-model changes that shaved ~8 percentage points off the consolidated revenue growth rate. Delivery bookings were $28.5B (+22%, +23% cc) with revenue $5.49B (+23%); Freight $1.77B / $1.76B (+35% / +34%). MAPCs hit 215M (+14%) on 4,061M trips (+16%). GAAP operating income was $1.447B (+30%), non-GAAP operating income $2.304B (+38%, +27% in Mobility segment and +30% in Delivery), adjusted EBITDA $2.963B (+31%). Non-GAAP diluted EPS of $0.88 was up 35% Y/Y; GAAP diluted EPS of $0.25 lapped a prior-year quarter with a one-time $4.9B tax valuation release and $1.5B pre-tax equity gain. Free cash flow was $2.535B (+14%). For Q4 2026 Uber guided gross bookings to $63.25–$65.25B (+18–22% cc), adjusted EBITDA $3.13–$3.23B and non-GAAP EPS $0.95–$0.99 (+34–39% Y/Y).",
+        "whyItMatters": "The print reinforces the thesis that platform scale now compounds on itself: trips, MAPCs, bookings and adjusted EBITDA all growing well above revenue. The revenue–bookings gap in Mobility (reclassifications shaving 8pp off headline) is the one bear flag; bulls will point to segment operating income +27% and the sharp Q4 EBITDA step-up guide ($3.13–$3.23B vs $2.96B actual Q3). The stock was already lifted by the post-midterm Nov 4 risk-on rally (Yahoo's movers list cited Uber +7% intraday); read the beat as the fundamental leg under the tape move.",
+        "forWho": "growth tech and platform-economy traders",
+        "tryIt": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg/1280px-Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg",
+        "alt": "Uber Technologies headquarters, Mission Bay, San Francisco",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Uber 8-K Q3 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/UBER"
+        }
+      ],
+      "reddit": {
+        "title": "Uber Q3 2026 — record $59.8B gross bookings (+20%), adj EBITDA $2.96B (+31%), stock ~+7% in post-midterm rally",
+        "body": "Uber's Q3 2026 print landed Wed premarket. The numbers:\n\n* Gross bookings RECORD $59.82B (+20% Y/Y)\n* Revenue $14.77B (+10%) beats ~$14.69B est\n* MAPCs 215M (+14%); trips 4,061M (+16%)\n* Non-GAAP diluted EPS $0.88 (+35%); GAAP EPS $0.25 lapped a $4.9B tax valuation release Y/Y\n* Adj EBITDA $2.96B (+31%, 20.1% margin on bookings), FCF $2.54B (+14%)\n\nSegment splits:\n\n1. **Mobility bookings $29.5B (+18%)** — but revenue fell 2% to $7.52B because of business-model changes that shaved ~8pp off consolidated revenue growth. Segment non-GAAP operating income $2.36B (+27%).\n2. **Delivery bookings $28.5B (+22%)** — revenue $5.49B (+23%), segment non-GAAP operating income $1.06B (+30%). Delivery is now within shouting distance of Mobility by bookings.\n3. **Freight $1.77B bookings (+35%)** — still unprofitable at the segment line (-$33M vs -$40M Y/Y).\n\nQ4 guide: gross bookings $63.25–$65.25B (+18–22% cc), adj EBITDA $3.13–$3.23B, non-GAAP EPS $0.95–$0.99 (+34–39% Y/Y).\n\nStock caught the post-midterm bid — Yahoo's movers list showed UBER ~+7% intraday Wed on top of the beat and raise.\n\nNext catalysts: Q4 print in Feb 2027, Uber One subscriber disclosure cadence.\n\nFull breakdown: [https://stock-tldr.xyz/releases/uber-q3-2026-earnings-nov-4-2026](https://stock-tldr.xyz/releases/uber-q3-2026-earnings-nov-4-2026)"
+      },
+      "publishDate": "2026-11-04T19:11:08.547Z"
+    },
+    {
+      "id": "mcd-q3-2026-earnings-nov-4-2026",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "MCD"
+      ],
+      "title": "McDonald's (MCD) Q3 2026 (Wed Nov 4 2026 premarket) — revenues $7,157M (+1%, +1% cc) just below ~$7.24–$7.29B consensus; GAAP diluted EPS $3.51 (+10%, +11% cc); adjusted diluted EPS $3.57 (+11%) beats ~$3.38–$3.57 range (excluding $56M / $0.06 pre-tax restructuring charges for 'Accelerating the Organization'); US comp sales -0.2% (vs +2.4% Y/Y, flipping negative on lower guest counts partly offset by higher check averages); International Operated Markets comps +1.4% (vs +4.3%); International Developmental Licensed +4.2% (vs +4.7%); Global comp sales +1.5% (vs +3.6%); GAAP operating income $3,595M (+7%), adj op income +8% cc; net income $2,486M (+9%); release contains no FY26 guidance update",
+      "org": "McDonald's",
+      "date": "2026-11-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000063908/000006390826000080/exhibit991-9302026.htm",
+      "summary": "McDonald's Q3 2026 EPS beats but US comp sales flip negative at -0.2% and total revenue narrowly misses consensus.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "restaurants",
+        "comp-sales",
+        "us-consumer",
+        "accelerating-the-organization",
+        "restructuring",
+        "dividend"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$7.157B (+1% Y/Y, +1% cc)",
+        "US Comp Sales": "-0.2% (vs +2.4% Y/Y)",
+        "Global Comp Sales": "+1.5% (vs +3.6% Y/Y)",
+        "International Operated Comps": "+1.4% (vs +4.3% Y/Y)",
+        "Intl Developmental Licensed Comps": "+4.2% (vs +4.7% Y/Y)",
+        "GAAP Diluted EPS": "$3.51 (+10%)",
+        "Adjusted Diluted EPS": "$3.57 (+11%)",
+        "GAAP Operating Income": "$3.595B (+7%)",
+        "GAAP Net Income": "$2.486B (+9%)",
+        "Restructuring Charge": "$56M pre-tax / $0.06 per share"
+      },
+      "explainer": {
+        "tagline": "US comp sales flip negative at -0.2% as McDonald's lose traffic; EPS still beats on check growth and restructuring tailwinds.",
+        "whatIsIt": "McDonald's reported Q3 2026 results on Wed Nov 4 2026 before the open. GAAP diluted EPS of $3.51 (up 10% Y/Y, 11% cc) beat consensus on the adjusted $3.57 figure, but consolidated revenue of $7.16B (+1% Y/Y) came in slightly below the ~$7.24–$7.29B Wall Street range and US comparable sales dropped 0.2% — a sharp swing from +2.4% a year ago.",
+        "howItWorks": "By segment, US comp sales fell 0.2%, with the company saying negative guest counts were 'largely offset by positive check growth' — in other words, menu price and mix are now propping up a shrinking traffic base. International Operated Markets comp sales rose 1.4% (vs 4.3% Y/Y) and International Developmental Licensed Markets rose 4.2% (vs 4.7%), bringing global comps to +1.5% (vs +3.6%). GAAP operating income was $3.595B (+7%), with adjusted operating income up 8% cc. Net income rose 9% to $2.486B. The Q3 2026 results include $56M / $0.06 per share in pre-tax restructuring charges tied to the 'Accelerating the Organization' program, versus $39M / $0.04 per share a year earlier. The release does not update FY2026 guidance.",
+        "whyItMatters": "US-consumer-facing restaurant names were the group most exposed to the 'low-end consumer rolling over' narrative that showed up in Q2 — McDonald's reiterating that US transactions are now negative puts it back in focus despite the operating-income beat. Watch for read-throughs into Chipotle (CMG, Q3 reported last week with +2.1% comps), Yum Brands (YUM, reports today premarket), Starbucks (SBUX) and Wendy's (WEN). The overall tape was being lifted by the post-midterm rally, so MCD's standalone stock reaction is being masked.",
+        "forWho": "US-consumer, restaurant and franchise-model investors",
+        "tryIt": "https://corporate.mcdonalds.com/corpmcd/investors-relations.html"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1280px-McDonald%27s_Golden_Arches.svg.png",
+        "alt": "McDonald's Golden Arches logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "MCD 8-K Q3 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000063908/000006390826000080/exhibit991-9302026.htm"
+        },
+        {
+          "label": "Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/MCD"
+        },
+        {
+          "label": "SEC Filings Index",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000063908&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "reddit": {
+        "title": "McDonald's Q3 2026 — US comp sales flip NEGATIVE at -0.2% (vs +2.4% Y/Y), adj EPS $3.57 beats on price + mix",
+        "body": "MCD reported Q3 2026 before the Wednesday open. The important lines:\n\n* Revenue $7.157B (+1% Y/Y) just below ~$7.24–$7.29B consensus\n* **US comp sales -0.2%** vs +2.4% Y/Y — negative guest counts partly offset by higher checks\n* Global comp sales +1.5% (vs +3.6%)\n* International Operated Markets +1.4% (vs +4.3%)\n* Intl Developmental Licensed Markets +4.2% (vs +4.7%)\n* GAAP EPS $3.51 (+10%); adjusted EPS $3.57 (+11%) beats consensus\n* GAAP op income $3.595B (+7%), net income $2.486B (+9%)\n* $56M / $0.06 per-share restructuring charges from 'Accelerating the Organization'\n\nWhat the print says:\n\n1. **US transactions are now a drag** — the 'negative guest counts, positive check' framing is the clearest admission to date that the value-menu campaign is fighting a real traffic problem.\n2. **International outperforming but decelerating** — IOM comps slowing to +1.4% from +4.3% suggests the softness is not unique to the US.\n3. **Still growing EPS through cost/structure** — operating income +8% cc on roughly flat revenue is restructuring + pricing doing the lifting.\n\nTape context: MCD's standalone reaction is masked by the broader post-midterm risk-on rally (Dow +~1,500 pts today).\n\nNext catalysts: Yum Brands reports Wed Nov 4 premarket; Starbucks has already guided cautious; MCD's December value refresh in the US.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mcd-q3-2026-earnings-nov-4-2026](https://stock-tldr.xyz/releases/mcd-q3-2026-earnings-nov-4-2026)"
+      },
+      "publishDate": "2026-11-04T19:11:08.547Z"
+    },
+    {
+      "id": "nvo-q3-2026-earnings-nov-4-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "NVO"
+      ],
+      "title": "Novo Nordisk (NVO) Q3 2026 (Wed Nov 4 2026 premarket) — total sales DKK 79.195B (+6% DKK, +4% cc) tops ~DKK 73.6B FactSet est; adj operating profit DKK 31.720B (+34% DKK, +27% cc) at 40.1% adj op margin vs DKK 28.6B est; reported operating profit DKK 23.011B (-9% cc) includes DKK 8.7B in non-cash impairments; oral Wegovy pill sales DKK 5,394M (US DKK 4,178M + International DKK 1,216M) more than DKK 900M above ~DKK 4.5B consensus; injectable Wegovy DKK 20,407M (flat DKK / -2% cc), Ozempic DKK 29,706M (-3% DKK / -5% cc); FY26 guide RAISED — adj sales and adj op profit growth now -2% to +2% cc (from -6% to 0%); Novo announces list-price cuts to USD 675 effective Jan 1 2027 — ~50% off Wegovy, ~35% off Ozempic (per CNBC coverage of release); Novo's share repurchase program running up to DKK 15B over the 12 months from Feb 4 2026 — 41.7M B shares bought for DKK 11.56B as of Nov 2; ADRs rose as much as 6% in Wed early trading, Copenhagen-listed shares last +3.4%",
+      "org": "Novo Nordisk",
+      "date": "2026-11-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000162828026069805/caq32026.htm",
+      "summary": "Wegovy pill sales (DKK 5.4B) crush estimates and Novo raises FY26 guide; separately announces 50% Wegovy and 35% Ozempic list-price cuts for Jan 2027.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "glp-1",
+        "wegovy",
+        "ozempic",
+        "oral-glp-1",
+        "guide-raise",
+        "pricing",
+        "obesity",
+        "diabetes"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Total Sales": "DKK 79.195B (+6% DKK, +4% cc)",
+        "Adj Operating Profit": "DKK 31.720B (+34% DKK, +27% cc)",
+        "Adj Operating Margin": "40.1%",
+        "Oral Wegovy (pill)": "DKK 5,394M (US DKK 4,178M + Intl DKK 1,216M)",
+        "Injectable Wegovy": "DKK 20,407M (-2% cc)",
+        "Ozempic": "DKK 29,706M (-5% cc)",
+        "FY26 Sales Growth Guide (cc)": "-2% to +2% (raised from -6% to 0%)",
+        "Wegovy / Ozempic New List Price (Jan 1 2027)": "USD 675 (~-50% Wegovy, ~-35% Ozempic)",
+        "Move": "ADRs up to +6% early Wed, Copenhagen +3.4%"
+      },
+      "explainer": {
+        "tagline": "Oral Wegovy prints DKK 5.4B in its first full quarter, Novo raises FY26 guide, and headlines list-price cuts to $675 for Jan 2027.",
+        "whatIsIt": "Novo Nordisk reported its Q3 2026 interim report on Wed Nov 4 2026 — the first full quarter of the oral Wegovy obesity pill that launched earlier in the year. Headline: group sales DKK 79.2B (+6% DKK, +4% cc), adjusted EBIT DKK 31.7B (+34% DKK, +27% cc), and FY26 sales + profit guidance raised to -2% to +2% constant-currency growth (prior range was -6% to 0%).",
+        "howItWorks": "The oral Wegovy pill did DKK 5,394M in its first full quarter (US DKK 4,178M, International DKK 1,216M), more than DKK 900M above the ~DKK 4.5B consensus. Injectable Wegovy fell 2% cc to DKK 20.4B as prescriptions migrated to the oral format, and Ozempic fell 5% cc to DKK 29.7B as the US diabetes market absorbed the Mounjaro / Zepbound share gains visible in Lilly's Q3 print last week. Reported operating profit was DKK 23.0B (-9% cc), weighed by DKK 8.7B in non-cash impairments; the adjusted EBIT margin was 40.1%. Alongside the result, Novo said it will cut US list prices on Wegovy and Ozempic to USD 675 effective Jan 1 2027 — approximately 50% off the current Wegovy list and 35% off Ozempic, per CNBC. Novo is still running an up-to-DKK-15B share repurchase program over the 12 months from Feb 4 2026, with DKK 11.56B / 41.7M B shares already bought back as of Nov 2.",
+        "whyItMatters": "Three reads for GLP-1 investors: (1) The oral format works — DKK 5.4B in the first full quarter is a run-rate well above most sell-side 2027 modeling, and the US is leading, which was the bear case before launch. (2) The guide raise, after two downward revisions earlier in 2026, suggests the Mounjaro/Zepbound share-take story has stabilised rather than kept accelerating. (3) The $675 list-price cut is a direct answer to US GLP-1 affordability pressure (and the political risk that re-escalates with a Democratic Congress) and should reset the pharma-pricing narrative heading into 2027 negotiations. Watch for a Lilly response.",
+        "forWho": "pharma, GLP-1 and drug-pricing-policy investors",
+        "tryIt": "https://www.novonordisk.com/investors.html"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Novo_Nordisk_headquarters_building_Denmark.jpg/1280px-Novo_Nordisk_headquarters_building_Denmark.jpg",
+        "alt": "Novo Nordisk headquarters building in Bagsværd, Denmark",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Novo 6-K Q3 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000162828026069805/caq32026.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html"
+        },
+        {
+          "label": "Yahoo NVO Quote",
+          "url": "https://finance.yahoo.com/quote/NVO"
+        }
+      ],
+      "reddit": {
+        "title": "Novo Nordisk Q3 2026 — oral Wegovy prints DKK 5.4B first full quarter, FY guide raised, $675 list-price cut Jan 2027",
+        "body": "Novo's Q3 2026 landed Wed premarket and the oral Wegovy pill is the headline. The numbers:\n\n* Group sales DKK 79.2B (+6% DKK, +4% cc), beats ~DKK 73.6B est\n* Adj operating profit DKK 31.7B (+34% DKK, +27% cc), 40.1% margin\n* Oral Wegovy pill DKK 5,394M in Q3 — US DKK 4,178M, Intl DKK 1,216M — vs ~DKK 4.5B est\n* Injectable Wegovy DKK 20,407M (-2% cc), Ozempic DKK 29,706M (-5% cc)\n* Reported operating profit DKK 23.0B (-9% cc) includes DKK 8.7B of non-cash impairments\n\nThe guidance + pricing moves:\n\n1. **FY26 guide RAISED** — adj sales and adj op profit both now -2% to +2% cc (from -6% to 0%). Third raise of the year.\n2. **US list prices SLASHED Jan 1 2027** — Wegovy and Ozempic will come to USD 675, roughly -50% for Wegovy and -35% for Ozempic, per CNBC's reading of the release.\n3. **Buyback still running** — DKK 11.56B / 41.7M B shares already bought back through Nov 2 of the up-to-DKK-15B 12-month program.\n\nShares: ADRs up to +6% early Wed, Copenhagen last +3.4%. The $675 list-price headline sets up a Lilly response and resets the GLP-1 pricing narrative heading into 2027 US negotiations.\n\nNext catalysts: Lilly's response on Mounjaro / Zepbound list prices; Novo's FY27 outlook in the February release.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvo-q3-2026-earnings-nov-4-2026](https://stock-tldr.xyz/releases/nvo-q3-2026-earnings-nov-4-2026)"
+      },
+      "publishDate": "2026-11-04T19:11:08.547Z"
+    },
+    {
+      "id": "bkng-q3-2026-earnings-nov-3-2026",
+      "categories": [
+        "earnings",
+        "regulatory"
+      ],
+      "tickers": [
+        "BKNG"
+      ],
+      "title": "Booking Holdings (BKNG) Q3 2026 (Tue Nov 3 2026 after close) — reported revenue $8.893B (-1% Y/Y) depressed by $900M revenue reduction + $100M accrued loss tied to an FTC matter; adjusted revenue (ex-FTC) $9.793B (+9%, ~+10% cc) tops consensus; room nights 345M (+7%), gross bookings $54.5B (+10%, ~+11% cc, unaffected by the FTC adjustment); GAAP diluted EPS $3.61 (+7%) vs adj diluted EPS $4.66 (+17%) vs ~$4.50 est; adj EBITDA $4.607B (+9%, 47.0% margin unchanged Y/Y); Q4 2026 guide pales vs Q3 — room nights +1–3%, gross bookings +2–4% rpt / +4–6% cc, adj revenue 0–2% rpt / +2–4% cc, adj EBITDA ~flat, adj EPS 'low to mid-teens'; FY26 gross bookings, adj revenue and adj EBITDA all guided to high-single-digit growth",
+      "org": "Booking Holdings",
+      "date": "2026-11-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000044/q3-26bkngearningsrelease.htm",
+      "summary": "Booking takes a $900M revenue reduction + $100M loss accrual on an FTC matter but adjusted EPS beats and ex-FTC revenue grows 9%; Q4 guide markedly softer than Q3.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "ftc",
+        "priceline",
+        "travel",
+        "online-travel",
+        "room-nights",
+        "gross-bookings",
+        "guide-cut"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Reported Revenue": "$8.893B (-1% Y/Y)",
+        "Adjusted Revenue (ex-FTC)": "$9.793B (+9%, ~+10% cc)",
+        "Room Nights": "345M (+7% Y/Y)",
+        "Gross Bookings": "$54.5B (+10%, ~+11% cc)",
+        "GAAP Diluted EPS": "$3.61 (+7%)",
+        "Adjusted Diluted EPS": "$4.66 (+17%)",
+        "Adjusted EBITDA": "$4.607B (+9%, 47.0% margin)",
+        "FTC Revenue Reduction / Accrued Loss": "$900M / $100M",
+        "Q4 Room Nights / Gross Bookings Guide": "+1–3% / +2–4% rpt (+4–6% cc)"
+      },
+      "explainer": {
+        "tagline": "FTC charge erases 10% of the top line but adjusted print still beats; Q4 guide signals a visible traffic deceleration.",
+        "whatIsIt": "Booking Holdings reported Q3 2026 (quarter ended Sep 30 2026) after the close Tue Nov 3 2026. The press release tells a two-sided story: an ongoing FTC matter triggered a $900M revenue reduction and $100M accrued loss that dropped GAAP revenue to $8.893B (-1% Y/Y), but adjusted revenue excluding the FTC items was $9.793B (+9%, ~+10% cc), and adjusted EPS of $4.66 (+17%) beat consensus.",
+        "howItWorks": "Room nights grew 7% to 345M and gross bookings grew 10% (~11% cc) to $54.5B — the FTC adjustment does not touch gross bookings, since it's recorded as a revenue reduction rather than a transaction reversal. Adjusted EBITDA was $4.607B (+9%, 47.0% margin, flat Y/Y). GAAP diluted EPS was $3.61 (+7%) and adjusted diluted EPS was $4.66 (+17%) vs ~$4.50 Street. The FTC matter is footnoted to the 10-Q (footnote 13) and not described in detail in the release; secondary coverage ties it to a Priceline B2B affiliate partner, though the press release itself does not name Priceline. Q4 2026 guidance: room nights +1–3%, gross bookings +2–4% rpt / +4–6% cc, adjusted revenue 0–2% rpt / +2–4% cc, adjusted EBITDA ~flat, adjusted EPS 'low to mid-teens'. For the full year, gross bookings, adjusted revenue and adjusted EBITDA are each guided to 'high single-digit' growth.",
+        "whyItMatters": "Two things to separate: (1) the FTC item is a one-time GAAP headwind that does not change the underlying marketplace trajectory, and the adjusted EBITDA margin flat at 47.0% suggests pricing power is intact. (2) The Q4 guide is the real swing factor — room-night growth stepping from 7% in Q3 to a 1–3% range in Q4 is the softest OTA signal of the cycle so far and reads across to Expedia (EXPE), Airbnb (ABNB) and Trip.com (TCOM). Expect sell-side price targets to get trimmed on the guide even as the FTC headline absorbs most of the attention.",
+        "forWho": "online-travel, consumer-discretionary and regulatory-risk investors",
+        "tryIt": "https://ir.bookingholdings.com/"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/1280px-Booking.com_logo.svg.png",
+        "alt": "Booking.com corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BKNG 8-K Q3 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000044/q3-26bkngearningsrelease.htm"
+        },
+        {
+          "label": "BKNG 10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-q3-earnings-beat-155300112.html"
+        },
+        {
+          "label": "TradingView Recap",
+          "url": "https://www.tradingview.com/news/tradingview:a3bfbfc43705a:0-booking-holdings-q3-revenue-falls-1-adjusted-eps-rises-17/"
+        }
+      ],
+      "reddit": {
+        "title": "Booking Holdings Q3 2026 — $900M FTC revenue hit plus $100M loss accrual; adj EPS $4.66 (+17%) beats, Q4 guide softens hard",
+        "body": "BKNG's Q3 2026 landed Tue after close with a two-sided print. The headline numbers:\n\n* Reported revenue $8.893B (-1%); adjusted revenue ex-FTC $9.793B (+9%, ~+10% cc)\n* Room nights 345M (+7%); gross bookings $54.5B (+10%, ~+11% cc)\n* GAAP diluted EPS $3.61 (+7%); adjusted diluted EPS $4.66 (+17%) vs ~$4.50 est\n* Adj EBITDA $4.607B (+9%, 47.0% margin flat Y/Y)\n* FTC matter: $900M revenue reduction + $100M accrued loss\n\nTwo separate stories in one print:\n\n1. **FTC charge is real but one-time** — $900M revenue reduction + $100M accrued loss tied to an FTC matter (secondary reporting points to a Priceline B2B affiliate partner). Gross bookings are not affected because the hit is recorded as a revenue reduction, not a transaction reversal.\n2. **Q4 guide signals real deceleration** — room-night growth guided to +1–3% in Q4, down from +7% this quarter. Adj revenue +0–2% rpt / +2–4% cc. Adj EBITDA ~flat. That read-across is bearish for EXPE, ABNB and TCOM.\n\nFY26 gross bookings, adj revenue and adj EBITDA all guided to high single-digit growth.\n\nNext catalysts: EXPE and ABNB Q3 prints next week; any FTC settlement detail in the 10-Q filing.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bkng-q3-2026-earnings-nov-3-2026](https://stock-tldr.xyz/releases/bkng-q3-2026-earnings-nov-3-2026)"
+      },
+      "publishDate": "2026-11-04T19:11:08.547Z"
+    },
+    {
+      "id": "amgn-q3-2026-earnings-nov-3-2026",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "AMGN"
+      ],
+      "title": "Amgen (AMGN) Q3 2026 (Tue Nov 3 2026 after close) — total revenue $10.365B (+8% Y/Y) tops ~$10.07B est; product sales $9.883B (+8%); Repatha $1.085B (+37%), EVENITY $751M (+39%), Tezspire $538M (+43%), Imdelltra $406M (+128%), Uplizna $451M (+191%), Pavblu $300M (+41%), Krystexxa $419M (+31%), Blincyto $496M (+27%), Vectibix $335M (+18%), Enbrel $611M (+5%); Prolia -45% to $632M and Xgeva -47% to $288M as biosimilars hit both; Otezla -18%, Tepezza -6%, Kyprolis -8%; GAAP diluted EPS $7.08 (+19%) vs non-GAAP $6.45 (+14%) vs ~$5.78 est; free cash flow $3.654B (vs $4.248B Y/Y) hit by $587M capex; FY26 guidance RAISED — revenues $38.9–$39.7B, non-GAAP diluted EPS $22.90–$23.70; capex ~$2.6B; buyback not to exceed $3.0B",
+      "org": "Amgen",
+      "date": "2026-11-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000318154/000031815426000153/amgn-20260930earningsrelea.htm",
+      "summary": "Revenue beats on broad-based Repatha, EVENITY, Tezspire and Imdelltra growth; Amgen raises FY26 guide despite Prolia/Xgeva biosimilar erosion.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "repatha",
+        "evenity",
+        "tezspire",
+        "imdelltra",
+        "prolia",
+        "biosimilars",
+        "guide-raise"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Total Revenue": "$10.365B (+8% Y/Y)",
+        "Product Sales": "$9.883B (+8%)",
+        "GAAP Diluted EPS": "$7.08 (+19%)",
+        "Non-GAAP Diluted EPS": "$6.45 (+14%)",
+        "Repatha": "$1.085B (+37%)",
+        "EVENITY": "$751M (+39%)",
+        "Tezspire": "$538M (+43%)",
+        "Imdelltra": "$406M (+128%)",
+        "Uplizna": "$451M (+191%)",
+        "Prolia": "$632M (-45%, biosimilar erosion)",
+        "Xgeva": "$288M (-47%, biosimilar erosion)",
+        "Free Cash Flow": "$3.654B (vs $4.248B Y/Y)",
+        "FY26 Revenue Guide": "$38.9B–$39.7B",
+        "FY26 Non-GAAP EPS Guide": "$22.90–$23.70"
+      },
+      "explainer": {
+        "tagline": "Growth drivers more than offset the first full quarter of Prolia and Xgeva biosimilar erosion; FY26 guide raised across revenue and EPS.",
+        "whatIsIt": "Amgen reported Q3 2026 (quarter ended Sep 30 2026) after the close Tue Nov 3 2026. Total revenue was $10.365B (+8% Y/Y), beating the ~$10.07B consensus, with GAAP diluted EPS of $7.08 (+19%) and non-GAAP diluted EPS of $6.45 (+14%) both above Street.",
+        "howItWorks": "Growth-driver portfolio: Repatha $1.085B (+37%), EVENITY $751M (+39%), Tezspire $538M (+43%), Imdelltra $406M (+128%), Uplizna $451M (+191%), Pavblu $300M (+41%), Krystexxa $419M (+31%), Blincyto $496M (+27%), Vectibix $335M (+18%), Enbrel $611M (+5%). Biosimilar erosion: Prolia fell 45% to $632M and Xgeva fell 47% to $288M on the first full quarter of denosumab biosimilar competition. Other headwinds: Otezla -18% to $481M, Tepezza -6% to $526M, Kyprolis -8% to $330M. Free cash flow was $3.654B (vs $4.248B Y/Y) on capex of $587M (vs $436M) and operating cash flow of $4.241B (vs $4.684B). FY26 guidance raised: revenues $38.9B–$39.7B; GAAP diluted EPS $18.34–$19.28; non-GAAP diluted EPS $22.90–$23.70; capex ~$2.6B; share repurchases not to exceed $3.0B.",
+        "whyItMatters": "Clean read-through to large-cap biopharma: the growth drivers that bulls built the 2025–2026 thesis on — Repatha reacceleration, EVENITY on osteoporosis share, Imdelltra on small-cell lung, Tezspire on severe asthma — are compounding faster than biosimilar erosion is subtracting, and Amgen was comfortable raising the full-year guide into that mix. Watch for Lilly (LLY) and Merck (MRK) read-throughs on the biosimilar-offset dynamic.",
+        "forWho": "large-cap biopharma and biosimilar-adoption investors",
+        "tryIt": "https://investors.amgen.com/news-releases"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Amgenheadquarters.jpg/1280px-Amgenheadquarters.jpg",
+        "alt": "Amgen corporate headquarters in Thousand Oaks, California",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Amgen 8-K Q3 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000318154/000031815426000153/amgn-20260930earningsrelea.htm"
+        },
+        {
+          "label": "Amgen 10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000318154/000031815426000155/amgn-20260930.htm"
+        },
+        {
+          "label": "Yahoo AMGN Quote",
+          "url": "https://finance.yahoo.com/quote/AMGN"
+        }
+      ],
+      "reddit": {
+        "title": "Amgen Q3 2026 — revenue $10.37B (+8%) beats, Repatha / EVENITY / Imdelltra all rip; Prolia + Xgeva biosimilar hit lands as expected, FY guide raised",
+        "body": "AMGN reported Q3 2026 Tue after close and the growth stack is doing the work. Headline:\n\n* Total revenue $10.365B (+8% Y/Y) vs ~$10.07B est\n* Product sales $9.883B (+8%)\n* GAAP EPS $7.08 (+19%); non-GAAP EPS $6.45 (+14%) vs ~$5.78 est\n* FCF $3.654B (vs $4.248B Y/Y) on $587M capex\n\nGrowth drivers vs biosimilar drags:\n\n1. **Growth engine printed clean** — Repatha $1.085B (+37%), EVENITY $751M (+39%), Tezspire $538M (+43%), Imdelltra $406M (+128%), Uplizna $451M (+191%), Pavblu $300M (+41%), Blincyto $496M (+27%), Krystexxa $419M (+31%).\n2. **Biosimilar erosion lands as expected** — Prolia -45% to $632M and Xgeva -47% to $288M on the first full quarter of denosumab competition.\n3. **Guide RAISED anyway** — FY26 revenue $38.9–$39.7B, non-GAAP EPS $22.90–$23.70; buyback cap $3.0B, capex ~$2.6B.\n\nNext catalysts: Merck (MRK) reports next week; FDA decisions on obesity GLP-1 pipeline MariTide 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amgn-q3-2026-earnings-nov-3-2026](https://stock-tldr.xyz/releases/amgn-q3-2026-earnings-nov-3-2026)"
+      },
+      "publishDate": "2026-11-04T19:11:08.547Z"
+    },
     {
       "id": "amd-q3-2026-earnings-nov-3-2026",
       "categories": [
