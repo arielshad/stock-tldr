@@ -15607,6 +15607,48 @@
         "mover",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261105t040422z",
+      "timestamp": "2026-11-05T04:04:22.776Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Wed Nov 4 2026 after-close earnings prints: AppLovin's beat-raise-and-buyback-bump, Qualcomm's double beat offset by a soft Q1 FY27 guide on memory-cost smartphone drag, and Arm's record Q2 FY27 with an AI-CPU target lift but a near-term royalty miss.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "app-q3-2026-earnings-nov-4-2026",
+          "title": "AppLovin (APP) Q3 2026 (Wed Nov 4 2026 after close) — revenue $2.185B (+55% Y/Y) tops ~$2.08B est; GAAP net income $1.439B (+72% Y/Y) at 66% net margin; GAAP diluted EPS $4.30 (basic $4.31) crushes ~$4.03–$4.07 est; adjusted EBITDA $1.842B (+59%) at 84% margin; free cash flow $1.418B; Q3 buybacks 4.1M Class A shares for $1.4B, board approves $3.2B buyback authorization increase bringing total remaining to $3.6B as of end-October; Q4 2026 guide revenue $2.365–$2.395B (vs ~$2.25B consensus), adj EBITDA $1.995–$2.025B at 84–85% margin; shares surged ~16% in Wed after-hours",
+          "category": "earnings",
+          "note": "Nov 4 after-hours — SEC 8-K + IR confirm $2.185B / $4.30 / 84% adj EBITDA margin, Q4 guide $2.365–$2.395B well above ~$2.25B consensus, $3.2B buyback add, stock +16% AH."
+        },
+        {
+          "id": "qcom-q4-fy26-earnings-nov-4-2026",
+          "title": "Qualcomm (QCOM) Q4 FY26 (Wed Nov 4 2026 after close) — GAAP revenue $10.322B (adj $10.442B, -7% Y/Y) tops ~$10.3B est; GAAP net income $1.251B; GAAP diluted EPS $1.17; non-GAAP diluted EPS $2.17 vs ~$2.16 est; QCT segment revenue $9.015B with handsets $5.137B (-26% Y/Y, vs ~$5.21B est on memory-cost / smartphone-pricing drag), automotive $1.990B (+89%) vs ~$1.66B est, IoT $1.888B (+4%); QTL licensing revenue $1.304B (-7%); data center revenue $650M in the quarter against a reiterated ~$5B fiscal 2027 target; Q1 FY27 guide revenue $10.4–$11.2B (vs ~$10.48B est) with GAAP EPS $1.03–$1.23 / non-GAAP EPS $2.15–$2.35 (vs ~$2.27 est); non-handset revenues projected to grow >60% Y/Y in FY27; stock -7% in Wed after-hours as weak Q1 revenue + EPS guide overshadows the beat",
+          "category": "earnings",
+          "note": "Nov 4 after-hours — SEC 8-K confirms $10.442B / $2.17 non-GAAP EPS, Q1 FY27 guide below Street midpoint, handsets -26% on memory-cost drag, stock -7% AH per CNBC recap."
+        },
+        {
+          "id": "arm-q2-fy27-earnings-nov-4-2026",
+          "title": "Arm Holdings (ARM) Q2 FY27 (Wed Nov 4 2026 after close) — record revenue $1.44B (+27% Y/Y) tops ~$1.38B est and management guide, fifth straight quarter of >20% growth; Licensing and other revenue $773M (+50% Y/Y, roughly $100M above guide) with data center royalties roughly doubling; Royalty revenue $670M (+8% Y/Y), below ~$712M est; non-GAAP operating income $638M at 44.2% margin (+300bp); non-GAAP diluted EPS $0.52 (+33% Y/Y) vs ~$0.47 est; GAAP operating income $201M; Q3 FY27 guide revenue $1.54B ±$50M (vs ~$1.53B est) and non-GAAP EPS $0.56 ±$0.04; AI compute target raised to 'up to $2B in Arm AGI CPU revenue across FYE27 and FYE28' (prior >$1B), first commercial deliveries on track for Q4 FY27; royalty growth guided to low-single-digit Y/Y in Q3 as memory-cost pressure dents smartphone demand; shares fell ~2%–5% in Wed after-hours",
+          "category": "earnings",
+          "note": "Nov 4 after-hours — Arm newsroom + 6-K confirm $1.44B revenue, $0.52 non-GAAP EPS, AI-CPU target raised to up to $2B FYE27–28; royalty $670M miss + low-single-digit Y/Y Q3 royalty guide; stock -2 to -5% AH."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }
