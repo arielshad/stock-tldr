@@ -15649,6 +15649,42 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261105t191547z",
+      "timestamp": "2026-11-05T19:15:47.201Z",
+      "source": "github-actions-sweep",
+      "summary": "Two seismic/major items for Thu Nov 5 2026: the US AI/chip trade cracked a day after the post-midterm rally, sending the Nasdaq into correction territory with SOXX -11% and VIX +58%, and the Bank of England delivered its first hike in 3+ years, taking Bank Rate to 4.00% on an 8-1 vote.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nasdaq-chip-rout-correction-nov-5-2026",
+          "title": "Nasdaq -5% into correction territory Thu Nov 5 2026 as AI/chip trade cracks — SOXX -11% intraday, VIX +58% to 26",
+          "category": "mover",
+          "note": "Full-session AI/chip-led selloff — Nasdaq into correction, worst SOXX day since Mar 2020, VIX +58% — same-day reaction to midterm regulatory risk stacking onto pre-existing AI-capex concerns."
+        },
+        {
+          "id": "boe-nov-2026-hike-4-00pct",
+          "title": "BoE November 2026 — hikes Bank Rate 25bp to 4.00% on 8-1 vote Thu Nov 5 (Mann dissents for +50bp), first hike in three-plus years as CPI seen peaking ~5% mid-2027",
+          "category": "macro",
+          "note": "First BoE hike in 3+ years, 8-1 vote with Mann dissenting for a larger move; MPC now sees CPI peaking ~5% in Q2 2027 on Middle East oil/gas pass-through."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "sector",
+        "macro",
+        "rates",
+        "earnings",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
