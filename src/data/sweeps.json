@@ -15685,6 +15685,54 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261106t040408z",
+      "timestamp": "2026-11-06T04:04:08.228Z",
+      "source": "github-actions-sweep",
+      "summary": "Thu Nov 5 after-close earnings sweep (ABNB beat + $12B buyback, NET crosses $3B annualized, TEAM beats but guides down) plus Fri Nov 6 Asia cascade — Kospi first-level circuit breaker and Nikkei bear market as the Thu U.S. $1T chip rout spills into Seoul and Tokyo.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "abnb-q3-2026-earnings-nov-5-2026",
+          "title": "Airbnb (ABNB) Q3 2026 (Thu Nov 5 2026 after close) — revenue $4.87B (+19% Y/Y, +16% ex-FX) tops ~$4.75B est; GAAP diluted EPS $3.16 vs ~$2.31 est; net income $1.89B (39% margin) boosted by $135M lower tax provision vs prior year's $213M valuation allowance; nights and seats booked 155.0M (+16% Y/Y, fastest growth in four years); GBV $27.7B (+21% Y/Y); adj EBITDA $2.509B (+22%, 52% margin); FCF $1.426B (29% margin); Q3 share repurchases $0.7B of Class A, new $12.0B repurchase authorization announced; Q4 2026 guide revenue $3.22–$3.28B (+16–18% Y/Y, mid-teens GBV growth), adj EBITDA up Y/Y with margin down slightly; FY26 outlook raised — high-teens revenue growth, ~36% adj EBITDA margin; shares +11% in Thu after-hours per CNBC/MarketScreener as the fastest Q3 nights growth in three-plus years lands against a soft travel-rival backdrop",
+          "category": "earnings",
+          "note": "Mega-cap consumer earnings beat with the nights-booked re-acceleration bears had been watching, plus $12B buyback; +11% AH makes it a clear major mover."
+        },
+        {
+          "id": "net-q3-2026-earnings-nov-5-2026",
+          "title": "Cloudflare (NET) Q3 2026 (Thu Nov 5 2026 after close) — revenue $782.5M (+39% Y/Y, well above $736–$737M company guide) crosses $3B annualized-revenue milestone; GAAP operating loss $(67.9)M (9% of revenue); non-GAAP operating income $137.1M at 17.5% margin; non-GAAP diluted EPS $0.38 beats ~$0.30 est; GAAP net loss per share $(0.10); FCF $82.1M (10% margin vs 13% Y/Y); current RPO +37% Y/Y; Q4 2026 guide revenue $845–$846M + non-GAAP operating income $156–$157M + non-GAAP EPS $0.43 on ~379M diluted shares; FY2026 guide raised to $2.963–$2.964B revenue + non-GAAP EPS $1.35; company now expects GAAP profitability in Q4 2026, pulled forward from a prior 2028 target; shares +14–17% in Thu after-hours per CNBC after regular close got caught in the $1T chip-stock rout",
+          "category": "earnings",
+          "note": "Cloudflare growth re-accelerated to +39% Y/Y, crossed $3B ARR, pulled GAAP profit timeline from 2028 to Q4 2026; +14% AH counter-narrative to the Thu AI rout."
+        },
+        {
+          "id": "team-q1-fy27-earnings-nov-5-2026",
+          "title": "Atlassian (TEAM) Q1 FY27 (Thu Nov 5 2026 after close) — revenue $1.772B (+24% Y/Y) and non-GAAP diluted EPS $1.65 vs ~$1.43 est beat; cloud revenue $1.302B (+31%); subscription ARR $6.812B (+23%); remaining performance obligations $4.746B (+44%); GAAP operating income $189M (11% margin) flips from $(96)M / -7% Y/Y; non-GAAP operating income $576M (32% margin, +900bp Y/Y); GAAP diluted EPS $0.35; FCF $463M (26% margin); Q2 FY27 guide revenue $1.825–$1.835B with cloud +~27%, Data Center -~14%, non-GAAP operating margin ~26.0%; FY27 (fiscal-year ending June 30, 2027) guide — revenue growth ~13.75% (sharp deceleration from Q1's +24%), cloud +~26.0%, Data Center ~-16.0%, non-GAAP operating margin ~25.5%; shares -16% in Thu after-hours per Benzinga as the FY27 growth decel and ~150bp non-GAAP margin cut overshadow the Q1 beat",
+          "category": "earnings",
+          "note": "Beat quarter but FY27 guide implied a sharp growth decel and ~150bp non-GAAP margin cut with Data Center -16%; -16% AH."
+        },
+        {
+          "id": "kospi-circuit-breaker-nikkei-bear-nov-6-2026",
+          "title": "KOSPI -8.5% triggers first-level circuit breaker and Nikkei 225 enters bear market Fri Nov 6 2026 — Kospi first-level circuit breaker hits at 9:03 a.m. Seoul at 4,924.61 (-8.52%, 20-minute halt) and index falls below 5,000 for first time since Feb 2, now ~46% off June 22 record close of 9,114.55; Kosdaq sell-side sidecar at 9:06 a.m. and Kospi sidecar at 9:34 a.m.; Samsung Electronics -9.98% intraday (181,400 won / ~$133), SK Hynix -11.71% intraday (1,116,000 won); 11th first-level Kospi circuit breaker of 2026; Nikkei 225 enters bear market (>20% below June peak), falls as much as 7.1% intraday to 56,745.81 breaking below the 60,000 level, Topix -6.4% (biggest drop since April 2025), SoftBank Group -11.6%, Rohm -20%, Furukawa Electric -19%, Resonac -15%, Kioxia -12%; the Asia-wide cascade follows Wall Street's Thu session where SOX fell 12.25% (steepest since March 2020), Nasdaq -5.52%, and the Magnificent Seven lost over $1T in market value",
+          "category": "mover",
+          "note": "Kospi first-level circuit breaker (11th of 2026) + Nikkei entering official bear-market territory + SoftBank -12% constitute a regime signal distinct from Thu's U.S. session; seismic by inclusion criteria."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "sector",
+        "macro",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }
