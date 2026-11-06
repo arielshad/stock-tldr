@@ -15733,6 +15733,39 @@
         "commodity",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261106t184440z",
+      "timestamp": "2026-11-06T18:44:40.802Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two major items: the BLS October 2026 jobs report (+165K vs +59K est, unemployment 4.1%) released Fri Nov 6 that pushed December Fed hike odds to 78%, and Expedia's (EXPE) Q3 2026 Nov 4 earnings beat with a raised FY26 guide.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-jobs-oct-2026-nov-6-2026",
+          "title": "US October 2026 jobs — nonfarm payrolls +165K vs +59K est, unemployment 4.1% (Fri Nov 6 2026)",
+          "category": "macro",
+          "note": "Hot payrolls print just released at 8:30 a.m. ET; +165K vs +59K est, unemployment 4.1%, tightens Fed path going into Dec 8-9 FOMC."
+        },
+        {
+          "id": "expe-q3-2026-earnings-nov-4-2026",
+          "title": "Expedia (EXPE) Q3 2026 (Wed Nov 4 2026 after close) — revenue $4.94B (+12% Y/Y) and adj EPS $9.39 vs ~$8.89 est beat, raises FY26 guide",
+          "category": "earnings",
+          "note": "Large-cap travel name, beat on both lines + raised FY26 guide; stock +10.5% Nov 4 but got dragged -13.7% Nov 5 in the chip-led rout — a standalone major print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

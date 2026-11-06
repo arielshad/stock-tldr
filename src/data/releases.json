@@ -1,8 +1,166 @@
 {
-  "generatedAt": "2026-11-06T04:04:08.228Z",
+  "generatedAt": "2026-11-06T18:44:40.802Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-jobs-oct-2026-nov-6-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "US October 2026 jobs — nonfarm payrolls +165K vs +59K est, unemployment 4.1% (Fri Nov 6 2026)",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "summary": "October nonfarm payrolls +165K crushes ~+59K consensus; unemployment slips to 4.1% from 4.2%; avg hourly earnings +0.4% m/m and +3.1% y/y; Aug/Sep revised +84K combined; markets price 78% odds of a December Fed hike.",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI",
+        "^TNX",
+        "DX-Y.NYB"
+      ],
+      "tags": [
+        "nonfarm-payrolls",
+        "jobs-report",
+        "bls",
+        "employment-situation",
+        "unemployment",
+        "wages",
+        "macro",
+        "rates",
+        "fed",
+        "hike-odds",
+        "october-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Payrolls": "+165K vs +59K est",
+        "Unemployment": "4.1% vs 4.2% est",
+        "Avg hourly earnings": "+0.4% m/m, +3.1% y/y",
+        "Revisions (Aug/Sep)": "+84K combined",
+        "2Y yield": "4.52% (+6bp)",
+        "10Y yield": "4.87% (+3bp)",
+        "DXY": "102.22 (+0.7%)",
+        "Dec FOMC hike odds": "78% (from 70%)"
+      },
+      "explainer": {
+        "tagline": "Hot October payrolls — +165K vs +59K est, unemployment 4.1% — push December FOMC hike odds to 78%.",
+        "whatIsIt": "The BLS October 2026 Employment Situation report, released Friday Nov 6 at 8:30 a.m. ET. Nonfarm payrolls rose +165K versus a Dow Jones consensus of +59K, the unemployment rate ticked down to 4.1% from 4.2%, and August/September were revised up +53K and +31K respectively (+84K combined).",
+        "howItWorks": "Average hourly earnings rose 14 cents (+0.4% m/m) to $38.00, with the 12-month gain at +3.1%. Labor force participation edged up to 61.9% as the labor force grew +421K. Professional and business services led job gains (+70K), followed by healthcare (+42K), transportation/warehousing (+25K) and manufacturing (+19K). Beneath the headline, long-term unemployment deteriorated — average duration jumped to 27.1 weeks and the broader U-6 rate rose 0.3 point to 7.9%.",
+        "whyItMatters": "The Fed is already holding at 3.75–4.00% with two FOMC dissenters pushing for a hike at the Oct 28 meeting. A hot print of this size tightens the path: CME FedWatch odds of a December quarter-point hike jumped to 78% from 70% earlier. The 2-year Treasury yield rose 6bp to 4.52%, the 10-year added 3bp to 4.87%, and the dollar index gained 0.7% to 102.22. Equity reaction was mixed on the open — Nasdaq +1.7% bouncing from Thursday's chip rout, S&P 500 +0.6%, Dow -0.6%.",
+        "forWho": "macro traders, rates desks, Fed-watchers",
+        "tryIt": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "US Bureau of Labor Statistics emblem",
+        "fit": "contain",
+        "credit": "U.S. Bureau of Labor Statistics"
+      },
+      "links": [
+        {
+          "label": "BLS News Release",
+          "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+        },
+        {
+          "label": "Yahoo/Reuters",
+          "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+        },
+        {
+          "label": "10Y Yield Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "reddit": {
+        "title": "US October payrolls +165K vs +59K est, unemployment 4.1% — Dec Fed hike odds jump to 78%",
+        "body": "The BLS October 2026 jobs report blew past expectations. Key numbers:\n\n* Nonfarm payrolls +165,000 vs Dow Jones consensus +59,000 (almost 3x expected)\n* Unemployment rate 4.1% vs 4.2% expected, down from 4.2% in September\n* Avg hourly earnings +0.4% m/m and +3.1% y/y, both above forecasts\n* August revised up +53K to +186K; September revised up +31K to +60K (+84K combined)\n* Labor force participation ticked up to 61.9%\n\nBut under the hood:\n\n1. **Long-term unemployment worsened** — avg duration of unemployment jumped to 27.1 weeks; U-6 rate rose 0.3pt to 7.9%\n2. **Sector mix** — professional/business services +70K, healthcare +42K, transport/warehousing +25K, manufacturing +19K\n3. **Fed implications** — CME FedWatch Dec hike odds jumped to 78% from 70%. The Oct 28 FOMC already had 2 dissenters voting for a hike.\n\nMarket reaction at the open: 2Y yield +6bp to 4.52%, 10Y +3bp to 4.87%, DXY +0.7% to 102.22, Nasdaq +1.7% (bouncing from Thu chip rout), S&P 500 +0.6%, Dow -0.6%.\n\nNext catalysts: October CPI, then the Dec 8–9 FOMC meeting.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-jobs-oct-2026-nov-6-2026](https://stock-tldr.xyz/releases/us-jobs-oct-2026-nov-6-2026)"
+      },
+      "publishDate": "2026-11-06T18:44:40.802Z"
+    },
+    {
+      "id": "expe-q3-2026-earnings-nov-4-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Expedia (EXPE) Q3 2026 (Wed Nov 4 2026 after close) — revenue $4.94B (+12% Y/Y) and adj EPS $9.39 vs ~$8.89 est beat, raises FY26 guide",
+      "org": "Expedia Group",
+      "date": "2026-11-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001324424/000132442426000059/earningsrelease-q32026.htm",
+      "summary": "Revenue $4.938B (+12% Y/Y) and adj EPS $9.39 vs ~$8.89 est beat; gross bookings $34.0B (+11%); B2B revenue +23%; adj EBITDA +17% with margin +135bp; FY26 revenue guide raised to $16.37–$16.43B; stock +10.5% Nov 4 before Thu chip rout dragged it -13.7% Nov 5.",
+      "tickers": [
+        "EXPE",
+        "BKNG",
+        "ABNB"
+      ],
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "travel",
+        "b2b",
+        "dividend"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$4.938B (+12% Y/Y)",
+        "Adj EPS": "$9.39 vs ~$8.89 est",
+        "GAAP diluted EPS": "$8.42 (+15% Y/Y)",
+        "Gross bookings": "$34.0B (+11%)",
+        "Booked room nights": "115.7M (+7%)",
+        "B2B revenue": "$1.708B (+23%)",
+        "B2C revenue": "$3.065B (+6%)",
+        "Adj EBITDA": "+17% Y/Y, +135bp margin",
+        "Buybacks": "$576M (~2M shares)",
+        "Move Nov 4": "+10.5%",
+        "Move Nov 5": "-13.7% (chip rout)"
+      },
+      "explainer": {
+        "tagline": "Expedia Q3 beats top and bottom line, raises FY26 guide — but stock gives back a +10.5% Nov 4 pop in Thursday's chip-led rout.",
+        "whatIsIt": "Expedia Group reported Q3 2026 results Wed Nov 4 2026 after close. Revenue of $4.938B (+12% Y/Y) beat ~$4.73B consensus, and adjusted EPS of $9.39 (+24%) crushed ~$8.89 est. Management exceeded the high end of Q3 guidance and raised full-year 2026 revenue growth to 11–12% (prior 9–10%).",
+        "howItWorks": "Gross bookings rose 11% to $34.0B, with booked room nights +7% to 115.7M. B2B revenue grew 23% to $1.708B with gross bookings +19% to $11.15B; B2C grew 6% to $3.065B with bookings +7% to $22.9B; trivago revenue +20%. GAAP diluted EPS of $8.42 (+15%) and adj EBITDA +17% with 135bp of margin expansion. The company repurchased ~2M shares for $576M in Q3 and declared a $0.48 quarterly dividend on Nov 4 (payable Dec 10). FY26 revenue guide raised to $16.37–$16.43B; Q4 guide calls for softer gross bookings growth of +3.3% to +5.2% and revenue +4.0% to +5.7%.",
+        "whyItMatters": "The print shows B2B — which includes white-label partnerships like Hertz, MGM, and large banks — doing the heavy lifting as the travel cycle matures. The stock jumped 10.5% Nov 4 to close at $315.88, then got dragged -13.7% Nov 5 to $272.48 in the broad chip-led rout that hit high-multiple names. The Q4 deceleration guide is the open question for comps BKNG and ABNB going into their own prints.",
+        "forWho": "online travel / consumer discretionary desks",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001324424/000132442426000059/earningsrelease-q32026.htm"
+      },
+      "image": {
+        "url": "https://247wallst.com/og/card/01m6m63rnsy4gptdhg3w5vv4vy.png",
+        "alt": "Expedia Group Q3 2026 earnings summary card",
+        "fit": "cover",
+        "credit": "24/7 Wall St."
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001324424/000132442426000059/earningsrelease-q32026.htm"
+        },
+        {
+          "label": "Earnings Presentation",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001324424/000132442426000059/earningspresentation-q32.htm"
+        },
+        {
+          "label": "247 Wall St Recap",
+          "url": "https://247wallst.com/cards/expedia-q3-2026-earnings-expe-01m6m63rnsy4gptdhg3w5vv4vy"
+        },
+        {
+          "label": "EXPE Ticker",
+          "url": "https://finance.yahoo.com/quote/EXPE/"
+        }
+      ],
+      "reddit": {
+        "title": "Expedia (EXPE) Q3 2026: revenue $4.94B (+12%), adj EPS $9.39 vs $8.89 est, raises FY26 guide — stock +10.5% Nov 4 then -13.7% Nov 5",
+        "body": "Expedia reported Q3 2026 after close Wednesday Nov 4 and beat on both lines. Highlights:\n\n* Revenue $4.938B, +12% Y/Y (vs ~$4.73B est)\n* Adjusted EPS $9.39, +24% Y/Y (vs ~$8.89 est)\n* GAAP diluted EPS $8.42, +15% Y/Y\n* Gross bookings $34.0B, +11%; booked room nights 115.7M, +7%\n* B2B revenue +23% to $1.708B — doing the heavy lifting\n* Adj EBITDA +17% with 135bp of margin expansion\n* $576M of buybacks (~2M shares) + $0.48 dividend declared\n\nGuidance:\n\n1. **FY26 revenue raised to $16.37–$16.43B** (prior $16.05–$16.22B); growth now +11–12% vs prior +9–10%\n2. **FY26 adj EBITDA margin expansion raised to +1.8–2.0pp** (from +1.5–1.75pp)\n3. **Q4 soft** — gross bookings only +3.3–5.2%, revenue +4.0–5.7%\n\nPrice action: EXPE +10.5% Nov 4 to $315.88. Then -13.7% Nov 5 to $272.48 in Thursday's broad chip-led rout — high-multiple travel names got dragged with the tape.\n\nNext catalysts: BKNG print coming (BKNG Q3 already dropped Nov 3 and guided Q4 soft too), ABNB already reported Nov 5.\n\nFull breakdown: [https://stock-tldr.xyz/releases/expe-q3-2026-earnings-nov-4-2026](https://stock-tldr.xyz/releases/expe-q3-2026-earnings-nov-4-2026)"
+      },
+      "publishDate": "2026-11-06T18:44:40.802Z"
+    },
     {
       "id": "abnb-q3-2026-earnings-nov-5-2026",
       "categories": [
