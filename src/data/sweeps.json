@@ -15811,6 +15811,38 @@
         "mna",
         "insider"
       ]
+    },
+    {
+      "id": "sweep-20261107t171153z",
+      "timestamp": "2026-11-07T17:11:53.190Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items on Sat Nov 7: Berkshire Hathaway Q3 2026 (operating earnings -5.8% to $12.7B as insurance underwriting falls 43%; biggest buyback quarter of 2026 at $9.6B; cash pile hits fresh record $377.4B) and DraftKings Q3 2026 earnings (-21% Fri Nov 6 to $18.51 after FY26 EBITDA guide slashed from +$700–$900M profit to $(175)–$(275)M loss to fund $650–$700M Predictions push).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "brk-q3-2026-earnings-nov-7-2026",
+          "title": "Berkshire Hathaway (BRK.B) Q3 2026 (Sat Nov 7 2026) — operating earnings $12.705B (-5.8% Y/Y) as insurance underwriting falls 43% to $1.352B; buybacks jump to $9.6B (biggest quarter of 2026, YTD $14.4B); cash + Treasuries record $377.4B at Sep 30 (vs $365.5B Jun 30); net earnings $22.112B (vs $30.796B Y/Y); insurance float $178.5B; BNSF $1.729B (+19%), BHE $1.612B (+8%), manufacturing/service/retailing $4.042B (+12%)",
+          "category": "earnings",
+          "note": "Berkshire Q3 2026 released Sat Nov 7; mega-cap earnings, biggest 2026 buyback quarter ($9.6B), fresh record cash pile ($377.4B), primary source is berkshirehathaway.com PDF. Third Q3 under Greg Abel."
+        },
+        {
+          "id": "dkng-q3-2026-earnings-nov-5-2026",
+          "title": "DraftKings (DKNG) Q3 2026 (Thu Nov 5 2026 after close) — revenue $1.329B (+16% Y/Y) below ~$1.4B est; GAAP diluted EPS $(0.94) vs $(0.52) Y/Y; adj EPS $(0.53); GAAP net loss $468.7M; adj EBITDA $(316.9M) vs $(126.5M) Y/Y as Predictions investment runs $650–$700M in 2026; FY2026 revenue guide cut to $6.35–$6.55B (prior $6.5–$6.9B) and adj EBITDA guide slashed to a loss of $175–$275M (prior +$700–$900M); FY2027 revenue guide introduced at $7.35–$7.75B with adj EBITDA $800M–$1.0B; shares -21% to $18.51 Fri Nov 6",
+          "category": "earnings",
+          "note": "Mover + earnings combo: -21% Fri Nov 6 to $18.51, named catalyst is Q3 guidance cut; FY26 EBITDA guide swing of >$1B to fund Predictions-market buildout vs Kalshi; primary source SEC 8-K."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "insider"
+      ]
     }
   ]
 }

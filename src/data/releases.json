@@ -1,8 +1,181 @@
 {
-  "generatedAt": "2026-11-07T03:37:46.526Z",
+  "generatedAt": "2026-11-07T17:11:53.190Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "brk-q3-2026-earnings-nov-7-2026",
+      "categories": [
+        "earnings",
+        "insider"
+      ],
+      "title": "Berkshire Hathaway (BRK.B) Q3 2026 (Sat Nov 7 2026) — operating earnings $12.705B (-5.8% Y/Y) as insurance underwriting falls 43% to $1.352B; buybacks jump to $9.6B (biggest quarter of 2026, YTD $14.4B); cash + Treasuries record $377.4B at Sep 30 (vs $365.5B Jun 30); net earnings $22.112B (vs $30.796B Y/Y); insurance float $178.5B; BNSF $1.729B (+19%), BHE $1.612B (+8%), manufacturing/service/retailing $4.042B (+12%)",
+      "org": "Berkshire Hathaway",
+      "tickers": [
+        "BRK.B",
+        "BRK.A"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.berkshirehathaway.com/news/nov0726.pdf",
+      "summary": "Berkshire Q3 operating earnings slipped 5.8% to $12.705B as insurance underwriting dropped 43% to $1.352B. Buybacks jumped to $9.6B (biggest quarter of 2026, $14.4B YTD), and cash + Treasuries hit a fresh record $377.4B at Sept 30.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "buybacks",
+        "greg-abel",
+        "cash-pile",
+        "insurance-underwriting",
+        "geico",
+        "bnsf",
+        "berkshire-hathaway-energy",
+        "capital-allocation",
+        "insider",
+        "brk-b"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Operating earnings": "$12.705B (-5.8% Y/Y from $13.485B)",
+        "Insurance underwriting": "$1.352B (-43% Y/Y from $2.369B)",
+        "Insurance investment income": "$2.734B (-14% Y/Y from $3.181B)",
+        "BNSF railroad": "$1.729B (+19% Y/Y from $1.449B)",
+        "Berkshire Hathaway Energy": "$1.612B (+8% Y/Y from $1.489B)",
+        "Manufacturing/service/retailing": "$4.042B (+12% Y/Y from $3.616B)",
+        "Net earnings (shareholders)": "$22.112B vs $30.796B Y/Y (incl. $9.407B net investment gains)",
+        "Q3 buybacks": "$9.6B (biggest of 2026; YTD 9mo $14.4B)",
+        "Cash + Treasuries": "$377.4B (Sep 30) vs $365.5B (Jun 30) — fresh record",
+        "Insurance float": "$178.5B (+$1.0B since Jun 30)"
+      },
+      "explainer": {
+        "tagline": "Greg Abel's third full quarter as CEO: biggest buyback of 2026 ($9.6B) but cash pile keeps climbing to a record $377B as insurance underwriting plunges 43%.",
+        "whatIsIt": "Berkshire Hathaway reported Q3 2026 earnings on Saturday Nov 7 alongside its 10-Q. Operating earnings — Berkshire's preferred headline measure — fell 5.8% to $12.705B from $13.485B in Q3 2025. Net earnings attributable to shareholders came in at $22.112B (vs $30.796B Y/Y), weighed down by a smaller swing in investment gains ($9.407B). The quarter is the first Q3 under CEO Greg Abel, who took over from Warren Buffett on Jan 1 and now runs the business with Buffett as Chairman Emeritus since Sep 18.",
+        "howItWorks": "Insurance was the drag: underwriting earnings crashed 43% to $1.352B from $2.369B, and insurance investment income fell 14% to $2.734B as rates on the fixed-income book rolled down from 2024's highs. The industrial legs all grew — BNSF railroad +19% Y/Y to $1.729B, Berkshire Hathaway Energy +8% to $1.612B, manufacturing/service/retailing +12% to $4.042B. On capital allocation, buybacks jumped to $9.6B in Q3 — the largest single quarter of 2026 and well above Q2's $4.5B, bringing the nine-month total to $14.4B. Despite the buyback step-up, cash + Treasuries hit a fresh record $377.4B at Sept 30 (vs $365.5B at Jun 30), as operating cash generation outpaced deployment. Insurance float edged up to $178.5B from $177.5B.",
+        "whyItMatters": "Two things stand out. First, buyback acceleration — Q3's $9.6B is more than double the Q2 pace and signals Abel sees his own stock as attractive at post-Buffett-transition levels. Second, the cash pile rising to a new record even AFTER $9.6B of buybacks underscores how much cash Berkshire's operating businesses still generate relative to Abel's deployment capacity. The 43% underwriting collapse reflects normal insurance-cycle swings and a tougher Y/Y comp — not a solvency issue — but it does mean the four-year-run of insurance-powered earnings tailwinds is over. BRK.B closed at ~$514.47 Fri Nov 6; Monday open will set the reaction.",
+        "forWho": "large-cap value investors, Berkshire watchers, insurance analysts",
+        "tryIt": "Read the full Q3 2026 release at berkshirehathaway.com/news/nov0726.pdf"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/37b400a9f7e2627aa13fdf31ffe6f1abf3898b60174b30c6741e57eea647b7ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fa2af3ee9afa8b30160e02760cc7e1dc1.jpg",
+        "alt": "Berkshire Hathaway headquarters signage",
+        "fit": "cover",
+        "credit": "Bloomberg via Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Q3 2026 Press Release",
+          "url": "https://www.berkshirehathaway.com/news/nov0726.pdf"
+        },
+        {
+          "label": "BRK News Index",
+          "url": "https://www.berkshirehathaway.com/news/2026news.html"
+        },
+        {
+          "label": "Yahoo: Operating Earnings Fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-operating-earnings-fall-130121017.html"
+        },
+        {
+          "label": "Rallies: Q3 Earnings $12.705B",
+          "url": "https://rallies.ai/news/berkshire-hathaway-says-q3-operating-earnings-were-12705-million-26f5220a624132bf"
+        },
+        {
+          "label": "Yahoo BRK.B Quote",
+          "url": "https://finance.yahoo.com/quote/BRK-B"
+        }
+      ],
+      "reddit": {
+        "title": "Berkshire Q3 2026: Operating earnings -5.8% to $12.7B as insurance underwriting drops 43%; buybacks jump to $9.6B (biggest of 2026); cash pile hits fresh record $377B",
+        "body": "Berkshire Hathaway released Q3 numbers Saturday morning. Here's what matters:\n\n* Operating earnings **$12.705B**, down 5.8% from $13.485B Y/Y\n* Insurance underwriting crashed **-43%** to $1.352B (vs $2.369B)\n* Insurance investment income -14% to $2.734B\n* BNSF +19% to $1.729B, BHE +8% to $1.612B, manufacturing/service/retailing +12% to $4.042B\n* Q3 buybacks **$9.6B** — the biggest quarter of 2026 (YTD 9-mo total $14.4B)\n* Cash + Treasuries hit a **fresh record $377.4B** at Sept 30 (vs $365.5B Jun 30)\n* Net earnings $22.112B (vs $30.796B Y/Y) incl. $9.407B of investment gains\n\nThree things to unpack:\n\n1. **Buyback acceleration** — Q3's $9.6B is more than double Q2's $4.5B pace and the largest single quarter of the year. Greg Abel is treating current BRK.B levels as attractive.\n2. **Cash keeps climbing anyway** — even after $9.6B of buybacks AND the Taylor Morrison close, the cash pile still grew $12B to a new record. Operating businesses generate more cash than Abel is deploying.\n3. **Insurance cycle turned** — underwriting earnings of $1.35B are the lowest since Q3 2022. GEICO auto profits at the four-year high of 2024 are rolling off against a tougher Y/Y comp — not a solvency story, but the insurance earnings tailwind is over.\n\nThis is Abel's third full quarter as CEO and the first after Buffett moved to Chairman Emeritus on Sep 18.\n\nFull breakdown: [https://stock-tldr.xyz/releases/brk-q3-2026-earnings-nov-7-2026](https://stock-tldr.xyz/releases/brk-q3-2026-earnings-nov-7-2026)"
+      },
+      "publishDate": "2026-11-07T17:11:53.190Z"
+    },
+    {
+      "id": "dkng-q3-2026-earnings-nov-5-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "DraftKings (DKNG) Q3 2026 (Thu Nov 5 2026 after close) — revenue $1.329B (+16% Y/Y) below ~$1.4B est; GAAP diluted EPS $(0.94) vs $(0.52) Y/Y; adj EPS $(0.53); GAAP net loss $468.7M; adj EBITDA $(316.9M) vs $(126.5M) Y/Y as Predictions investment runs $650–$700M in 2026; FY2026 revenue guide cut to $6.35–$6.55B (prior $6.5–$6.9B) and adj EBITDA guide slashed to a loss of $175–$275M (prior +$700–$900M); FY2027 revenue guide introduced at $7.35–$7.75B with adj EBITDA $800M–$1.0B; shares -21% to $18.51 Fri Nov 6",
+      "org": "DraftKings",
+      "tickers": [
+        "DKNG",
+        "FLUT"
+      ],
+      "date": "2026-11-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001883685/000188368526000039/q326-prx8kexx991.htm",
+      "summary": "DraftKings missed Q3 and torched 2026 guidance to fund its Predictions-market buildout. The company now expects a $(175)–$(275)M FY26 adj EBITDA loss (prior +$700–$900M) with $650–$700M flowing into Predictions. Shares -21% Fri Nov 6.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "mover",
+        "guidance-cut",
+        "sports-betting",
+        "predictions-markets",
+        "event-contracts",
+        "kalshi-competition",
+        "dkng"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1.329B (+16% Y/Y from $1.144B); ~$1.4B est",
+        "GAAP diluted EPS": "$(0.94) vs $(0.52) Y/Y",
+        "Adjusted EPS": "$(0.53)",
+        "GAAP net loss": "$468.7M",
+        "Adj EBITDA": "$(316.9M) vs $(126.5M) Y/Y",
+        "Sportsbook net revenue": "+36% Y/Y on 12% handle growth; 6.4% net revenue margin, hold rate >11%",
+        "Monthly unique payers": "4.1M (+13% Y/Y); ARPU $109 (+3%)",
+        "FY2026 revenue guide (updated)": "$6.35–$6.55B (prior $6.5–$6.9B)",
+        "FY2026 adj EBITDA guide (updated)": "$(175)–$(275)M loss (prior +$700–$900M)",
+        "FY2027 revenue guide (new)": "$7.35–$7.75B (+~17% Y/Y at midpoint)",
+        "FY2027 adj EBITDA guide (new)": "$800M–$1.0B (core $1.15–$1.25B offset by ~$300M Predictions investment)",
+        "Predictions FY26 investment": "$650M–$700M of adj EBITDA",
+        "Cash": "~$1.1B",
+        "Move Fri Nov 6": "-21% to $18.51 (per Yahoo Finance)"
+      },
+      "explainer": {
+        "tagline": "DKNG burns down 2026 EBITDA guidance by over $1B to fund a $650–$700M Predictions-market push. Shares -21% Friday.",
+        "whatIsIt": "DraftKings released Q3 2026 on Thursday Nov 5 after close. Revenue of $1.329B grew 16% but came in below the ~$1.4B Street expectation; GAAP net loss widened to $468.7M, or $(0.94)/share, versus $(0.52) Y/Y. Adjusted EBITDA swung to a $316.9M loss (vs $126.5M loss Y/Y). The bigger story is guidance: the company slashed FY2026 adjusted-EBITDA guidance from +$700–$900M of profit to a $175–$275M LOSS and introduced FY2027 targets of $7.35–$7.75B revenue and $800M–$1.0B adj EBITDA.",
+        "howItWorks": "The entire swing is DraftKings pouring money into its Predictions business — event-contract markets competing with Kalshi and Polymarket. Management now expects $650–$700M of adj-EBITDA investment in Predictions this year, up from an earlier, smaller figure. CEO Jason Robins told the Friday call that ~90% of the gap between gross and net Predictions revenue is new-customer incentives; 1.6M customers have engaged YTD; October annualized total Predictions volume hit $56.8B (5x July). Sportsbook, meanwhile, grew net revenue +36% on 12% handle growth and a >11% hold rate, with net revenue margin at 6.4% (+120bp Y/Y); iGaming grew 2% net. Monthly unique payers 4.1M (+13%); ARPU $109. Robins said the 2026 Predictions cohort should repay acquisition costs in ~20 months and that Predictions becomes an EBITDA tailwind in 2028.",
+        "whyItMatters": "This is the clearest signal yet that sports-betting incumbents are treating event-contract platforms as an existential competitive threat — and that DraftKings in particular is willing to burn >$1B of 2026 EBITDA to defend turf. Flutter (FLUT) reported Nov 4 with a smaller Q3 miss and said Predictions had 'limited impact' so far; DKNG's response suggests the opposite. The reset moves 2026 from an $800M+ profit to a $225M midpoint loss on the EBITDA line — a swing of over $1 billion. Base case rests on a Supreme Court ruling around mid-2028 on event-contract legality; a ruling against sports-event predictions could invalidate the ROI math on the 2026-27 spend.",
+        "forWho": "sports-betting investors, consumer-discretionary funds, event-contract watchers",
+        "tryIt": "DKNG 8-K: sec.gov/Archives/edgar/data/0001883685/000188368526000039/q326-prx8kexx991.htm"
+      },
+      "image": {
+        "url": "https://www.pymnts.com/wp-content/uploads/2026/05/DraftKings-earnings.jpeg",
+        "alt": "DraftKings app on a mobile device",
+        "fit": "cover",
+        "credit": "PYMNTS"
+      },
+      "links": [
+        {
+          "label": "DKNG Q3 2026 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001883685/000188368526000039/q326-prx8kexx991.htm"
+        },
+        {
+          "label": "DKNG Q3 2026 10-Q (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001883685/000188368526000041/dkng-20260930.htm"
+        },
+        {
+          "label": "PYMNTS: Stock -20% on Predictions Bet",
+          "url": "https://www.pymnts.com/earnings/2026/draftkings-stock-plunges-20-as-700-million-prediction-markets-bet-tests-investor-patience/"
+        },
+        {
+          "label": "QZ: Shares Sink >26% on Q3",
+          "url": "https://qz.com/draftkings-stock-prediction-markets-profit-outlook-110626"
+        },
+        {
+          "label": "Motley Fool Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/draftkings-dkng-q3-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "Yahoo DKNG Quote",
+          "url": "https://finance.yahoo.com/quote/DKNG"
+        }
+      ],
+      "reddit": {
+        "title": "DraftKings (DKNG) -21% Friday: Q3 misses, FY26 EBITDA guide slashed from +$700–$900M profit to $(175)–$(275)M LOSS as company pours $650–$700M into Predictions markets",
+        "body": "DraftKings reported Thursday after close and the stock got taken out behind the shed Friday. Here's what triggered the -21% move to $18.51:\n\n* Q3 revenue $1.329B (+16% Y/Y) — below the ~$1.4B Street estimate\n* GAAP net loss $468.7M, diluted EPS $(0.94) vs $(0.52) Y/Y\n* Adj EBITDA $(316.9M) vs $(126.5M) Y/Y\n* FY2026 adj EBITDA guide slashed from +$700M–$900M profit to a **$(175)–$(275)M loss** — a >$1B swing\n* FY2026 revenue guide trimmed to $6.35–$6.55B (from $6.5–$6.9B)\n* FY2027 guide introduced at $7.35–$7.75B revenue / $800M–$1.0B adj EBITDA\n\nWhat happened:\n\n1. **Predictions arms race** — Company now expects to spend **$650M–$700M** of adj EBITDA on its Predictions / event-contracts business this year to compete with Kalshi and Polymarket. CEO Robins said October annualized Predictions volume hit $56.8B, up ~5x from July, with 1.6M customers engaged YTD.\n2. **Sportsbook core still works** — Net revenue +36% on 12% handle growth, >11% hold rate, net revenue margin 6.4% (+120bp). This isn't about the legacy business — it's about defending against event contracts.\n3. **Payback math rests on SCOTUS** — Base case assumes a Supreme Court ruling around mid-2028 on event-contract legality. Robins said even if sports predictions get shut down in July 2028, the 2027 cohort pays back in ~4 years.\n\nFlutter (FLUT) reported Tuesday and said Predictions had 'limited impact' so far — DKNG's response is the exact opposite stance.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dkng-q3-2026-earnings-nov-5-2026](https://stock-tldr.xyz/releases/dkng-q3-2026-earnings-nov-5-2026)"
+      },
+      "publishDate": "2026-11-07T17:11:53.190Z"
+    },
     {
       "id": "mrna-q3-2026-earnings-nov-6-2026",
       "categories": [
