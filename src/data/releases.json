@@ -1,8 +1,289 @@
 {
-  "generatedAt": "2026-11-06T18:44:40.802Z",
+  "generatedAt": "2026-11-07T03:37:46.526Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mrna-q3-2026-earnings-nov-6-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Moderna (MRNA) Q3 2026 (Fri Nov 6 2026 premarket) — revenue $1.313B (+29% Y/Y) tops ~$882–$891M est; GAAP net income $162M flips from $(200)M loss Y/Y; GAAP diluted EPS $0.38 vs $(0.51) Y/Y; U.S. revenue $780M / international $533M; FY26 revenue growth outlook RAISED to 15–25% (prior up to 10%); FY26 cost of sales guide ~$1.7B includes $0.9B non-recurring litigation settlement charge; FY26 R&D guide cut to ~$2.7B (from ~$2.9B); FY26 GAAP opex outlook improved ~$0.2B; year-end 2026 cash and investments guide raised to $8.1–$8.3B (prior $4.7–$5.2B); cash and investments $8.0B as of Sep 30; shares rallied ~10% in Fri premarket per CNBC/MarketScreener on the FY26 revenue reset, with positive INTerpath-001 Phase 3 melanoma data and August mFLUSIVA FDA approval cited in the deck",
+      "org": "Moderna",
+      "tickers": [
+        "MRNA"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001682852/000168285226000194/exhibit9912026q3pressrelea.htm",
+      "summary": "Moderna Q3 2026 revenue $1.313B (+29% Y/Y) and diluted EPS $0.38 beat consensus; FY26 revenue growth guide raised to 15–25% from up-to-10%, year-end cash guide lifted to $8.1–$8.3B; shares +~10% premarket.",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "revenue-beat",
+        "eps-beat",
+        "biotech",
+        "mrna-platform",
+        "mflusiva",
+        "intismeran",
+        "guidance-raise",
+        "cash-position",
+        "mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1.313B (+29% Y/Y)",
+        "GAAP diluted EPS": "$0.38 vs $(0.51) Y/Y",
+        "Net income": "$162M vs $(200)M Y/Y",
+        "FY26 revenue growth": "15–25% (prior up to 10%)",
+        "Year-end 2026 cash": "$8.1–$8.3B (prior $4.7–$5.2B)",
+        "Move": "+~10% premarket"
+      },
+      "explainer": {
+        "tagline": "Moderna Q3 revenue $1.313B (+29% Y/Y), raises FY26 growth outlook to 15–25% and lifts year-end cash guide to $8.1–$8.3B.",
+        "whatIsIt": "Moderna reported third-quarter 2026 results before Fri Nov 6 open: total revenue of $1.313B (+29% Y/Y), GAAP net income of $162M, and GAAP diluted EPS of $0.38, versus a $(0.51) loss per share a year earlier. The company also raised its full-year 2026 revenue growth outlook to 15–25% from the prior up-to-10%, and lifted its year-end cash-and-investments target to $8.1–$8.3B from $4.7–$5.2B.",
+        "howItWorks": "Breakdown of Q3 revenue: U.S. $780M and international $533M. Cost of sales rose 54% Y/Y to $318M; R&D fell 27% to $583M. FY26 guidance: cost of sales ~$1.7B (including a $0.9B non-recurring litigation settlement charge), R&D ~$2.7B (from ~$2.9B), SG&A ~$1.0B, capex ~$0.2B. The quarter also included positive Phase 3 data for intismeran (mRNA-4157) in resected high-risk melanoma — combined with KEYTRUDA it reduced the risk of recurrence or death 42% (HR 0.58) vs KEYTRUDA alone — and August U.S. FDA approval of mFLUSIVA, Moderna's fifth approved product globally. Cash and investments stood at $8.0B as of Sep 30.",
+        "whyItMatters": "Moderna's reset after the COVID demand collapse has pivoted on cash-burn discipline and a wider product slate. The lifted FY26 revenue growth range, cost cuts, and raised cash guide push out solvency concerns that dogged the stock through 2025–mid-2026, and the Phase 3 melanoma readout plus mFLUSIVA approval add two nearer-term revenue levers to the pure COVID/RSV line. Biotech peers and mRNA-platform names are the obvious second-order watchlist.",
+        "forWho": "biotech specialists, mRNA-platform traders",
+        "tryIt": "https://finance.yahoo.com/quote/MRNA"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Moderna_logo.svg/1280px-Moderna_logo.svg.png",
+        "alt": "Moderna corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+        },
+        {
+          "label": "Moderna 10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001682852/000168285226000197/mrna-20260930.htm"
+        },
+        {
+          "label": "MRNA Chart",
+          "url": "https://finance.yahoo.com/quote/MRNA"
+        }
+      ],
+      "reddit": {
+        "title": "Moderna Q3 2026: revenue $1.3B (+29% Y/Y), raises FY26 growth outlook to 15–25% (was up-to-10%), year-end cash guide lifted to $8.1–$8.3B — stock +10% premarket",
+        "body": "Moderna reported a clean Q3 beat and a materially higher 2026 outlook before Friday's open.\n\n* Revenue $1.313B, +29% Y/Y, well above ~$882M FactSet / ~$891M Street consensus\n* GAAP diluted EPS $0.38 vs a $(0.51) loss per share a year earlier\n* U.S. revenue $780M, international $533M\n* Cash and investments $8.0B at Sept 30; year-end 2026 target raised to $8.1–$8.3B (prior $4.7–$5.2B)\n\nThe guidance update is the main event:\n\n1. **FY26 revenue growth guide raised to 15–25%** — up from the prior up-to-10% range on stronger COVID/flu/RSV uptake into year-end.\n2. **FY26 cost of sales guide ~$1.7B** — includes a one-off $0.9B litigation settlement charge; R&D guide cut to ~$2.7B from ~$2.9B.\n3. **Pipeline catalysts** — Phase 3 INTerpath-001 showed intismeran + KEYTRUDA cut risk of recurrence or death 42% (HR 0.58) vs KEYTRUDA alone in resected high-risk melanoma; mFLUSIVA got U.S. FDA approval in August.\n\nShares traded up roughly 10% in Friday premarket per CNBC and MarketScreener, on the wider FY26 revenue range and improved cash runway.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mrna-q3-2026-earnings-nov-6-2026](https://stock-tldr.xyz/releases/mrna-q3-2026-earnings-nov-6-2026)"
+      },
+      "publishDate": "2026-11-07T03:37:46.526Z"
+    },
+    {
+      "id": "mchp-q2-fy27-earnings-nov-5-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Microchip Technology (MCHP) Q2 FY27 (Wed Nov 5 2026 after close) — net sales $1.622B (+42.2% Y/Y, +9.2% q/q) beat high end of guide; non-GAAP EPS $0.97 vs $0.91–$0.95 guide; Q3 FY27 guide non-GAAP EPS $0.87–$0.95 and revenue $1.573–$1.638B soft vs ~$0.94 / $1.63B consensus; shares -14% Fri Nov 6 on the sequential decel in-house guide",
+      "org": "Microchip Technology",
+      "tickers": [
+        "MCHP"
+      ],
+      "date": "2026-11-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000827054/000082705426000061/exhibit991q2fy27.htm",
+      "summary": "MCHP Q2 FY27 non-GAAP EPS $0.97 on net sales $1.622B (+42% Y/Y) beats guide; but Q3 FY27 guide non-GAAP EPS $0.87–$0.95 and revenue $1.573–$1.638B lands at/below ~$0.94 / $1.63B consensus, shares -14% Fri.",
+      "tags": [
+        "earnings",
+        "q2-fy27",
+        "revenue-beat",
+        "eps-beat",
+        "soft-guide",
+        "semis",
+        "analog",
+        "mcu",
+        "mover",
+        "down-14pct"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$1.622B (+42.2% Y/Y, +9.2% q/q)",
+        "Non-GAAP EPS": "$0.97 vs $0.91–$0.95 guide",
+        "GAAP EPS": "$0.68 vs $0.53–$0.54 guide",
+        "Q3 FY27 revenue guide": "$1.573–$1.638B (vs ~$1.63B est)",
+        "Q3 FY27 non-GAAP EPS guide": "$0.87–$0.95 (vs ~$0.94 est)",
+        "Move": "-14% Fri Nov 6"
+      },
+      "explainer": {
+        "tagline": "Microchip Q2 beats, but soft Q3 guide implies a sequential decel in analog/MCU demand; stock down 14%.",
+        "whatIsIt": "Microchip Technology reported fiscal Q2 2027 results after Wed Nov 5 close: net sales of $1.622B (up 42.2% Y/Y and 9.2% sequentially), GAAP diluted EPS of $0.68, and non-GAAP diluted EPS of $0.97. Both the top-line and EPS beat the company's August guidance midpoint and high end. But the forward quarter looked softer than consensus, and the stock fell about 14% in Friday's session.",
+        "howItWorks": "Q3 FY27 guidance (quarter ending Dec 31, 2026) calls for net sales of $1.573–$1.638B, GAAP gross margin 62.9–63.9%, non-GAAP gross margin 64.0–65.0%, GAAP EPS $0.47–$0.50, and non-GAAP EPS $0.87–$0.95 on ~574.8–575.8M diluted non-GAAP share count. FactSet consensus was ~$0.94 EPS and ~$1.63B revenue, so the midpoints land at or below consensus, implying sequential sales down roughly 1% at the midpoint. Management flagged ~$53M of 'infrequent' Q2 revenue that will not repeat in Q3.",
+        "whyItMatters": "Microchip's analog + 8-bit/16-bit microcontrollers span auto, industrial, and comms end markets, so the sequential decel guide feeds broader fears about the Q4 analog cycle and whether the chip rally has outrun end-demand. Analog peers (ADI, TXN, ON, MPWR) and auto-exposed MCU names are the obvious tape-watch. Pair with Thu Nov 5's SOX -11% intraday rout and the weekly Nasdaq -3.4% / S&P -2.7%.",
+        "forWho": "semis traders, analog/MCU analysts",
+        "tryIt": "https://finance.yahoo.com/quote/MCHP"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MicrochipGresham.jpg/1280px-MicrochipGresham.jpg",
+        "alt": "Microchip Technology Gresham fab campus",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000827054/000082705426000061/exhibit991q2fy27.htm"
+        },
+        {
+          "label": "CNBC Market Blog",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "MCHP Chart",
+          "url": "https://finance.yahoo.com/quote/MCHP"
+        }
+      ],
+      "reddit": {
+        "title": "Microchip Technology (MCHP) -14% Fri — beat the Q2 FY27 print on non-GAAP EPS $0.97 (vs $0.91–$0.95 guide) but Q3 guide points to a sequential decel",
+        "body": "Microchip reported Q2 FY27 after Wednesday's close and traded down roughly 14% Friday as the forward quarter underwhelmed.\n\n* Q2 net sales $1.622B, +42.2% Y/Y and +9.2% q/q — above high end of August guide\n* Non-GAAP EPS $0.97, above the $0.91–$0.95 guided range\n* GAAP EPS $0.68, above $0.53–$0.54 guide\n* Q3 FY27 (Dec-26 quarter) guide: revenue $1.573–$1.638B, non-GAAP EPS $0.87–$0.95\n* FactSet consensus going in: ~$0.94 EPS, ~$1.63B revenue — so the midpoints land at/below consensus\n\nWhy the stock went the other way:\n\n1. **Sequential decel at the midpoint** — Q3 revenue midpoint implies ~1% sequential decline, with management calling out ~$53M of one-time Q2 revenue that won't repeat.\n2. **Analog-cycle read-through** — MCHP's analog + 8-bit/16-bit MCU mix skews to auto and industrial, and a soft guide here feeds broader worries about where the analog cycle is heading into 2027.\n3. **Hits amid the chip rout** — came on top of Thursday's SOX -11% intraday session; the chip tape had no buffer for a soft guide.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mchp-q2-fy27-earnings-nov-5-2026](https://stock-tldr.xyz/releases/mchp-q2-fy27-earnings-nov-5-2026)"
+      },
+      "publishDate": "2026-11-07T03:37:46.526Z"
+    },
+    {
+      "id": "lrcx-25b-buyback-dividend-nov-5-2026",
+      "categories": [
+        "insider",
+        "mover"
+      ],
+      "title": "Lam Research (LRCX) announces new $25B share repurchase authorization + $0.33 quarterly dividend (Wed Nov 5 2026) — shares +~11% Fri Nov 6 premarket; prior program had ~$4.04B remaining as of Jun 28 fiscal year-end",
+      "org": "Lam Research",
+      "tickers": [
+        "LRCX"
+      ],
+      "date": "2026-11-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000707549/000070754926000057/lrcx_exx991xsharexrepurcha.htm",
+      "summary": "Lam Research board authorizes a new $25B share repurchase on top of ~$4.04B remaining from the prior program, and declares a $0.33 quarterly dividend payable Jan 6, 2027; shares rose ~11% in Fri premarket.",
+      "tags": [
+        "buyback",
+        "capital-return",
+        "dividend",
+        "semicap",
+        "wfe",
+        "mover",
+        "insider"
+      ],
+      "importance": "major",
+      "metrics": {
+        "New buyback authorization": "$25B",
+        "Prior program remaining (Jun 28 2026)": "~$4.04B",
+        "Quarterly dividend": "$0.33/share",
+        "Dividend payment date": "Jan 6, 2027",
+        "Dividend record date": "Dec 2, 2026",
+        "Move": "+~11% Fri premarket"
+      },
+      "explainer": {
+        "tagline": "Lam Research adds a $25B open-ended buyback authorization and declares a $0.33 quarterly dividend.",
+        "whatIsIt": "Lam Research's board approved a new $25B share-repurchase authorization on Wed Nov 5, 2026, supplementing the remaining balance from the prior program. It has no end date and doesn't obligate the company to purchase any specific amount of stock. The board also declared a $0.33 per share quarterly dividend payable Jan 6, 2027, to holders of record on Dec 2, 2026.",
+        "howItWorks": "Repurchases can be made in the open market or via private deals, and may use derivatives and structured repurchase agreements. Lam's FY26 10-K showed roughly $4.04B remaining under the prior authorization as of the quarter ended June 28, 2026, so the new $25B is a large step-up in capacity. CFO Doug Bettinger framed the new authorization as reinforcing Lam's capital-allocation plan and said the company's positioning at key technology inflections gives it confidence in sustained cash generation.",
+        "whyItMatters": "At recent share counts a $25B authorization is a meaningful share of LRCX's float, giving the stock a sizeable buyback bid through the AI-capex upcycle. It also sets a benchmark for peers (AMAT, KLAC, ASML US-listed) in semicap capital returns, and tempers the Street's lingering concern that lofty WFE multiples leave limited room for multiple-driven upside. Shares rose about 11% in Friday pre-market on the news, a day after the broader semis complex sold off.",
+        "forWho": "semicap investors, capital-return/dividend-growth funds",
+        "tryIt": "https://finance.yahoo.com/quote/LRCX"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lam_Research_logo.svg",
+        "alt": "Lam Research corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000707549/000070754926000057/lrcx_exx991xsharexrepurcha.htm"
+        },
+        {
+          "label": "CNBC Market Blog",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "LRCX Chart",
+          "url": "https://finance.yahoo.com/quote/LRCX"
+        }
+      ],
+      "reddit": {
+        "title": "Lam Research (LRCX) announces $25B buyback authorization + $0.33 quarterly dividend — stock +~11% premarket Friday",
+        "body": "Lam Research's board authorized a new $25 billion share repurchase program on Wed Nov 5 and declared a $0.33 per share quarterly dividend. Shares traded up about 11% in Friday pre-market per CNBC.\n\n* New $25B authorization — open-ended, on top of any remaining prior-program balance\n* Prior program remaining ~$4.04B as of Jun 28 fiscal year-end (from the FY26 10-K)\n* Dividend $0.33 per share, payable Jan 6, 2027 to holders of record Dec 2, 2026\n* No obligation to buy any specific amount; open market, private deals, derivatives, and structured repurchase agreements all permitted\n\nWhy it matters:\n\n1. **Material share of float** — a $25B authorization is a sizeable buyback bid at LRCX's current share count, giving the stock a durable capital-return floor through the AI-capex upcycle.\n2. **Sets a benchmark for semicap peers** — AMAT, KLAC and other wafer-fab-equipment names now face a capital-return goalpost into their next updates.\n3. **Timing** — hits one day after the SOX's -11% intraday session; the ~11% premarket pop reflects as much short-cover as new-money flow.\n\nCFO Doug Bettinger called the authorization a reinforcement of Lam's capital-allocation plan, citing 'strong positioning at key technology inflections and robust cash generation.'\n\nFull breakdown: [https://stock-tldr.xyz/releases/lrcx-25b-buyback-dividend-nov-5-2026](https://stock-tldr.xyz/releases/lrcx-25b-buyback-dividend-nov-5-2026)"
+      },
+      "publishDate": "2026-11-07T03:37:46.526Z"
+    },
+    {
+      "id": "asts-firefly-miranda-blacklift-deal-nov-6-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "AST SpaceMobile (ASTS) announces ~$1.3B agreement with Firefly Aerospace (FLY) Fri Nov 6 2026 — AST licenses Miranda engine IP and takes delivery of 36 engines for its in-house 20-ton Blacklift rocket; Firefly +~30%, ASTS +6%",
+      "org": "AST SpaceMobile",
+      "tickers": [
+        "ASTS",
+        "FLY"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001780312/000149315226050513/ex99-1.htm",
+      "summary": "AST SpaceMobile to pay ~$1.3B to Firefly Aerospace: $400M cash + 10–14M ASTS Class A shares for a perpetual Miranda/Vira engine license, plus $250M for engines on first three Blacklift launches and $250M of engineering services over 3 years.",
+      "tags": [
+        "mna",
+        "space",
+        "launch",
+        "satellites",
+        "bluebird",
+        "miranda-engine",
+        "blacklift",
+        "mover",
+        "supply-agreement",
+        "ip-license"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Total deal size": "~$1.3B",
+        "Upfront license (cash)": "$400M",
+        "Upfront license (stock)": "10–14M ASTS Class A shares",
+        "Supply (first 3 rockets)": "$250M",
+        "Engineering services (3-year)": "$250M",
+        "Engines supplied": "36 (for first three Blacklift rockets)",
+        "Firefly Move": "+~30%",
+        "ASTS Move": "+~6%"
+      },
+      "explainer": {
+        "tagline": "AST SpaceMobile licenses Firefly's Miranda engine IP and takes 36 engines to power its in-house Blacklift rocket in a ~$1.3B deal.",
+        "whatIsIt": "AST SpaceMobile disclosed on Fri Nov 6, 2026, a roughly $1.3B agreement under which Firefly Aerospace will supply 36 Miranda rocket engines and license the engine IP to AST. The deal lets AST build its own 20-ton Blacklift launch vehicle to deploy the BlueBird constellation in low-Earth orbit, instead of relying solely on third-party launch providers. Firefly shares jumped nearly 30% and ASTS rose about 6%.",
+        "howItWorks": "Per AST's 8-K (filed Nov 5, press release dated Nov 6): AST pays roughly $800M upfront for a perpetual license to manufacture Miranda and the vacuum-variant Vira engines — $400M in cash and 10–14M ASTS Class A shares. A separate supply and services agreement calls for $250M to deliver engines for the first three Blacklift rockets and $250M for three years of engineering support. AST will produce the engines at a new U.S. manufacturing facility. Firefly disclosed Miranda has logged more than 175 hot-fire tests for over 4,200 seconds and completed a flight-like test at 110% of its 230,000 lbf-thrust design.",
+        "whyItMatters": "The deal is a rare vertical-integration move by a satellite operator onto a major engine and gives Firefly a large near-term cash + equity infusion plus a long-dated IP-licensing fee. For Firefly, it validates Miranda outside internal use and softens the launch-market pressure after an earlier Blue Origin anomaly rippled through ASTS. For ASTS, it changes the launch-cost arithmetic for the BlueBird direct-to-cell constellation but shifts execution risk onto an unproven in-house rocket program.",
+        "forWho": "space-sector investors, launch supply-chain watchers",
+        "tryIt": "https://finance.yahoo.com/quote/ASTS"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/AST_SpaceMobile_logo.svg",
+        "alt": "AST SpaceMobile corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "AST SpaceMobile 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001780312/000149315226050513/ex99-1.htm"
+        },
+        {
+          "label": "AST SpaceMobile 8-K Cover",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001780312/000149315226050513/form8-k.htm"
+        },
+        {
+          "label": "CNBC Market Blog",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "ASTS Chart",
+          "url": "https://finance.yahoo.com/quote/ASTS"
+        }
+      ],
+      "reddit": {
+        "title": "AST SpaceMobile licenses Firefly Aerospace's Miranda engine IP + 36 engines in a ~$1.3B deal to build in-house 20-ton Blacklift rocket — Firefly +~30%, ASTS +6%",
+        "body": "AST SpaceMobile disclosed a roughly $1.3 billion agreement with Firefly Aerospace Friday morning. AST will take delivery of 36 Miranda engines and license the engine IP to build its own Blacklift rocket for the BlueBird direct-to-cell constellation.\n\n* $400M cash + 10–14M ASTS Class A shares upfront for a perpetual license to manufacture the Miranda and vacuum-variant Vira engines\n* $250M for engine delivery across the first three Blacklift launches\n* $250M for a three-year engineering services and support agreement\n* AST will stand up a new U.S. engine manufacturing facility\n* Miranda background: 175+ hot-fire tests, 4,200+ seconds total burn, flight-like test at 110% of its 230,000 lbf-thrust design\n\nWhy both stocks ripped:\n\n1. **Firefly gets a big external anchor** — large cash + equity injection and a long-dated IP-licensing fee validate Miranda outside internal use; shares up roughly 30%.\n2. **AST changes its launch-cost math** — vertical integration onto its own 20-ton rocket for BlueBird deployment reduces reliance on third-party launches after an earlier Blue Origin mishap; ASTS up ~6%.\n3. **Execution risk is real** — AST now owns a rocket-development program alongside a satellite program; schedule slippage would show up quickly.\n\nFull breakdown: [https://stock-tldr.xyz/releases/asts-firefly-miranda-blacklift-deal-nov-6-2026](https://stock-tldr.xyz/releases/asts-firefly-miranda-blacklift-deal-nov-6-2026)"
+      },
+      "publishDate": "2026-11-07T03:37:46.526Z"
+    },
     {
       "id": "us-jobs-oct-2026-nov-6-2026",
       "categories": [

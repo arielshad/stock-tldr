@@ -15766,6 +15766,51 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261107t033746z",
+      "timestamp": "2026-11-07T03:37:46.526Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh market-moving items from Nov 5–6 2026: Moderna (MRNA) Q3 revenue $1.313B (+29% Y/Y) with FY26 growth guide raised to 15–25%; Microchip (MCHP) beats Q2 FY27 but Q3 guide points to a sequential decel, shares -14%; Lam Research (LRCX) authorizes a new $25B buyback plus $0.33 dividend, shares +~11% premarket; AST SpaceMobile (ASTS) and Firefly (FLY) sign a ~$1.3B deal for Miranda engines and license IP to build AST's in-house Blacklift rocket, Firefly +~30% / ASTS +6%.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mrna-q3-2026-earnings-nov-6-2026",
+          "title": "Moderna (MRNA) Q3 2026 (Fri Nov 6 2026 premarket) — revenue $1.313B (+29% Y/Y) tops ~$882–$891M est; GAAP net income $162M flips from $(200)M loss Y/Y; GAAP diluted EPS $0.38 vs $(0.51) Y/Y; U.S. revenue $780M / international $533M; FY26 revenue growth outlook RAISED to 15–25% (prior up to 10%); FY26 cost of sales guide ~$1.7B includes $0.9B non-recurring litigation settlement charge; FY26 R&D guide cut to ~$2.7B (from ~$2.9B); FY26 GAAP opex outlook improved ~$0.2B; year-end 2026 cash and investments guide raised to $8.1–$8.3B (prior $4.7–$5.2B); cash and investments $8.0B as of Sep 30; shares rallied ~10% in Fri premarket per CNBC/MarketScreener on the FY26 revenue reset, with positive INTerpath-001 Phase 3 melanoma data and August mFLUSIVA FDA approval cited in the deck",
+          "category": "earnings",
+          "note": "Moderna Q3 revenue and EPS beat consensus; FY26 revenue growth guide raised to 15–25% from up-to-10%, year-end cash guide lifted — primary-source confirmed via SEC 8-K."
+        },
+        {
+          "id": "mchp-q2-fy27-earnings-nov-5-2026",
+          "title": "Microchip Technology (MCHP) Q2 FY27 (Wed Nov 5 2026 after close) — net sales $1.622B (+42.2% Y/Y, +9.2% q/q) beat high end of guide; non-GAAP EPS $0.97 vs $0.91–$0.95 guide; Q3 FY27 guide non-GAAP EPS $0.87–$0.95 and revenue $1.573–$1.638B soft vs ~$0.94 / $1.63B consensus; shares -14% Fri Nov 6 on the sequential decel in-house guide",
+          "category": "earnings",
+          "note": "Microchip Q2 FY27 beat; Q3 FY27 guide below consensus; stock -14% per CNBC market blog on sequential decel in analog/MCU demand."
+        },
+        {
+          "id": "lrcx-25b-buyback-dividend-nov-5-2026",
+          "title": "Lam Research (LRCX) announces new $25B share repurchase authorization + $0.33 quarterly dividend (Wed Nov 5 2026) — shares +~11% Fri Nov 6 premarket; prior program had ~$4.04B remaining as of Jun 28 fiscal year-end",
+          "category": "insider",
+          "note": "Rare $25B incremental buyback authorization + $0.33 dividend, primary source SEC 8-K exhibit; shares +~11% Fri premarket per CNBC."
+        },
+        {
+          "id": "asts-firefly-miranda-blacklift-deal-nov-6-2026",
+          "title": "AST SpaceMobile (ASTS) announces ~$1.3B agreement with Firefly Aerospace (FLY) Fri Nov 6 2026 — AST licenses Miranda engine IP and takes delivery of 36 engines for its in-house 20-ton Blacklift rocket; Firefly +~30%, ASTS +6%",
+          "category": "mna",
+          "note": "~$1.3B IP license + engine supply + services agreement; primary source AST 8-K exhibit; Firefly +30% and ASTS +6% per CNBC market blog."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "insider"
+      ]
     }
   ]
 }
