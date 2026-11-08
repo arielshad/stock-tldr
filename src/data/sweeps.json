@@ -15843,6 +15843,40 @@
         "mover",
         "insider"
       ]
+    },
+    {
+      "id": "sweep-20261108t172647z",
+      "timestamp": "2026-11-08T17:26:47.557Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Thu Nov 5 (after close) earnings prints added that drove outsized Fri Nov 6 moves: JFrog Q3 2026 (revenue $179M +31%, cloud +60%, FY26 guide raised — stock +35%) and Axon Enterprise Q3 2026 (revenue $909M misses ~$931M, FY26 guide cut on ~$130M Federal Dedrone delay — stock -18%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "frog-q3-2026-earnings-nov-5-2026",
+          "title": "JFrog (FROG) Q3 2026 (Thu Nov 5 2026 after close) — revenue $179.2M (+31% Y/Y) crushes company's $164–166M guide; cloud revenue $101.5M (+60% Y/Y) now 57% of total (vs 46% Y/Y); non-GAAP diluted EPS $0.32 vs ~$0.23 est; non-GAAP operating margin 22.7% on $40.7M op income; GAAP operating loss $(1.8)M (-1.0% margin); free cash flow $66.5M; RPO $812.4M (+60% Y/Y); customers with $1M+ ARR 112 (+58% Y/Y from 71); customers with $100K+ ARR 1,357 (from 1,121); trailing four-quarter net dollar retention 124% (from 118%); Enterprise+ customers 61% of revenue (from 56%); cash and investments $880.9M; FY26 revenue guide RAISED to $680–682M (prior $648–652M Aug guide); Q4 2026 guide revenue $183–185M, non-GAAP op income $36.2–38.2M, non-GAAP EPS $0.28–0.30; shares +35.3% Fri Nov 6",
+          "category": "earnings",
+          "note": "Earnings + mover: +35.3% Fri Nov 6 after Q3 beat (revenue +31%, cloud +60%) and FY26 revenue guide raise to $680–682M (from $648–652M). Primary source: SEC 8-K Exhibit 99.1."
+        },
+        {
+          "id": "axon-q3-2026-earnings-nov-5-2026",
+          "title": "Axon Enterprise (AXON) Q3 2026 (Thu Nov 5 2026 after close) — revenue record $908.6M (+28% Y/Y from $710.6M) misses ~$931M est; Software & Services $437.0M (+43%), Connected Devices $471.5M (+16%); ARR $1.75B (+40% Y/Y); net revenue retention 126% (vs 124% Y/Y); AI ARR crosses $100M; non-GAAP diluted EPS $1.72 (vs $1.24 Y/Y) misses ~$1.90 est; GAAP net income $57.0M / diluted EPS $0.68 (vs $(0.03) Y/Y); adj EBITDA $235.7M (+33%, 25.9% margin); GAAP gross margin 56.7% (-340bp), adj 59.2%; FCF $(18.9)M outflow (vs +$33.4M Y/Y) on ~$100M inventory build; FY26 revenue guide CUT to $3.61–3.63B (from $3.67–3.73B / 32–34% growth Aug guide) on $130M of Federal Dedrone delays — ~$30M expected in Q3 plus two Q4 deployments totaling $100M; FY26 FCF guide cut to $350–400M (from $450M), capex and SBC guides also trimmed; Q4 2026 guide revenue $990M–$1.01B, adj EBITDA $245–250M; shares -18.2% Fri Nov 6 to ~$313",
+          "category": "earnings",
+          "note": "Earnings + mover: -18.2% Fri Nov 6 after top-line miss and FY26 revenue guide cut to $3.61–3.63B on $130M of Federal Dedrone deployment delays. Primary source: SEC 8-K Exhibit 99.1."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }

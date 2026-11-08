@@ -1,8 +1,161 @@
 {
-  "generatedAt": "2026-11-07T17:11:53.190Z",
+  "generatedAt": "2026-11-08T17:26:47.557Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "frog-q3-2026-earnings-nov-5-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "JFrog (FROG) Q3 2026 (Thu Nov 5 2026 after close) — revenue $179.2M (+31% Y/Y) crushes company's $164–166M guide; cloud revenue $101.5M (+60% Y/Y) now 57% of total (vs 46% Y/Y); non-GAAP diluted EPS $0.32 vs ~$0.23 est; non-GAAP operating margin 22.7% on $40.7M op income; GAAP operating loss $(1.8)M (-1.0% margin); free cash flow $66.5M; RPO $812.4M (+60% Y/Y); customers with $1M+ ARR 112 (+58% Y/Y from 71); customers with $100K+ ARR 1,357 (from 1,121); trailing four-quarter net dollar retention 124% (from 118%); Enterprise+ customers 61% of revenue (from 56%); cash and investments $880.9M; FY26 revenue guide RAISED to $680–682M (prior $648–652M Aug guide); Q4 2026 guide revenue $183–185M, non-GAAP op income $36.2–38.2M, non-GAAP EPS $0.28–0.30; shares +35.3% Fri Nov 6",
+      "org": "JFrog",
+      "date": "2026-11-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001800667/000119312526449797/frog-ex99_1.htm",
+      "summary": "JFrog Q3 2026 revenue $179.2M (+31% Y/Y) and cloud $101.5M (+60%) crush guide; non-GAAP EPS $0.32; FY26 revenue guide raised to $680–682M; stock +35% Fri Nov 6 on the beat and raise, with $1M+ ARR customers +58% Y/Y to 112.",
+      "tickers": [
+        "FROG"
+      ],
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "software",
+        "devops",
+        "software-supply-chain",
+        "cloud-growth",
+        "guide-raise",
+        "ai-asset-scanning",
+        "mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$179.2M (+31% Y/Y)",
+        "Cloud Revenue": "$101.5M (+60% Y/Y, 57% of mix)",
+        "Non-GAAP EPS": "$0.32 vs ~$0.23 est",
+        "Non-GAAP Op Margin": "22.7%",
+        "FCF": "$66.5M",
+        "$1M+ ARR Customers": "112 (+58% Y/Y)",
+        "Net Dollar Retention": "124% (TTM, vs 118%)",
+        "RPO": "$812.4M (+60% Y/Y)",
+        "FY26 Revenue Guide": "$680–682M (raised from $648–652M)",
+        "Move": "+35.3%"
+      },
+      "explainer": {
+        "tagline": "JFrog's cloud jumps 60% to 57% of revenue; shares +35% as FY26 revenue guide raised to $680–682M.",
+        "whatIsIt": "JFrog reported Q3 2026 results after Thursday Nov 5's close. Revenue rose 31% to $179.2M, crushing the company's own $164–166M August guide, as cloud revenue grew 60% to $101.5M and now makes up 57% of total revenue (vs 46% Y/Y). Non-GAAP diluted EPS was $0.32, well above the ~$0.23 consensus, and GAAP EPS was $0.05.",
+        "howItWorks": "Non-GAAP operating margin reached 22.7% on $40.7M of op income, while GAAP operating income was a $(1.8)M loss at -1.0% margin. Free cash flow hit $66.5M on $69.3M of operating cash. Remaining performance obligations grew 60% Y/Y to $812.4M, and customers with ARR of $1M+ climbed 58% to 112 from 71 a year ago. Trailing-four-quarter net dollar retention rose to 124% from 118%. Management lifted the FY26 revenue guide to $680–682M (up from the Aug $648–652M) with non-GAAP EPS $1.14–1.16; Q4 guide calls for $183–185M revenue and non-GAAP EPS $0.28–0.30. On product, JFrog announced a Zero-Touch Remediation offering with Broadcom, Chainguard and IBM/Red Hat, plus AI Asset Scanning and Agent Guard to secure AI agents and support Microsoft's Agent Package Manager.",
+        "whyItMatters": "The print lands on a day when the broader AI-trade is cracking, and JFrog's +35% move stands out as proof that enterprise software-supply-chain and AI-agent security remain a growth pocket. Cloud crossing 57% of revenue with 60% growth confirms the mix-shift thesis, and the $1M+ ARR customer base nearly doubling in a year is the single number bulls point to. The partnership slate (Broadcom, IBM, Microsoft APM) positions FROG as the artifact and security layer for agentic coding workflows.",
+        "forWho": "software/dev-tools investors, security-platform watchers",
+        "tryIt": "https://finance.yahoo.com/quote/FROG"
+      },
+      "image": {
+        "url": "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/jfrog.com/wp-content/uploads/2019/01/255x196-1-2.png",
+        "alt": "JFrog logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001800667/000119312526449797/frog-ex99_1.htm"
+        },
+        {
+          "label": "Press Release",
+          "url": "https://jfrog.com/press-room/jfrog-announces-third-quarter-2026-results/"
+        },
+        {
+          "label": "FROG Quote",
+          "url": "https://finance.yahoo.com/quote/FROG"
+        },
+        {
+          "label": "Investor Page",
+          "url": "https://investors.jfrog.com/"
+        }
+      ],
+      "reddit": {
+        "title": "JFrog Q3 2026 — revenue $179M (+31%), cloud +60%, FY26 revenue guide raised, $1M+ customers +58% Y/Y to 112; FROG +35% Friday",
+        "body": "JFrog crushed Q3 and lifted the full-year on a day when the AI trade is getting dumped. Here's the print:\n\n* Revenue $179.2M (+31% Y/Y) vs company's own $164–166M Aug guide — well above the top end\n* Cloud revenue $101.5M (+60% Y/Y), now 57% of total vs 46% Y/Y\n* Non-GAAP diluted EPS $0.32 vs ~$0.23 est; non-GAAP op margin 22.7% on $40.7M op income\n* $1M+ ARR customers: 112, up 58% Y/Y from 71; TTM net dollar retention 124% (vs 118%)\n* FY26 revenue guide RAISED to $680–682M (prior $648–652M); Q4 guide $183–185M revenue, $0.28–0.30 non-GAAP EPS\n\nThree reasons the stock gapped +35% on Friday:\n\n1. **Cloud mix crossed a line** — cloud is now 57% of revenue growing 60%; the pure-license drag keeps shrinking.\n2. **Enterprise land-and-expand accelerated** — $1M+ ARR customers +58% Y/Y and net-dollar retention re-accelerated.\n3. **Agentic-AI story is real** — JFrog announced Zero-Touch Remediation with Broadcom/Chainguard/IBM, plus AI Asset Scanning and Agent Guard, positioning the platform as the artifact-and-security layer for AI code.\n\nFull breakdown: [https://stock-tldr.xyz/releases/frog-q3-2026-earnings-nov-5-2026](https://stock-tldr.xyz/releases/frog-q3-2026-earnings-nov-5-2026)"
+      },
+      "publishDate": "2026-11-08T17:26:47.557Z"
+    },
+    {
+      "id": "axon-q3-2026-earnings-nov-5-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Axon Enterprise (AXON) Q3 2026 (Thu Nov 5 2026 after close) — revenue record $908.6M (+28% Y/Y from $710.6M) misses ~$931M est; Software & Services $437.0M (+43%), Connected Devices $471.5M (+16%); ARR $1.75B (+40% Y/Y); net revenue retention 126% (vs 124% Y/Y); AI ARR crosses $100M; non-GAAP diluted EPS $1.72 (vs $1.24 Y/Y) misses ~$1.90 est; GAAP net income $57.0M / diluted EPS $0.68 (vs $(0.03) Y/Y); adj EBITDA $235.7M (+33%, 25.9% margin); GAAP gross margin 56.7% (-340bp), adj 59.2%; FCF $(18.9)M outflow (vs +$33.4M Y/Y) on ~$100M inventory build; FY26 revenue guide CUT to $3.61–3.63B (from $3.67–3.73B / 32–34% growth Aug guide) on $130M of Federal Dedrone delays — ~$30M expected in Q3 plus two Q4 deployments totaling $100M; FY26 FCF guide cut to $350–400M (from $450M), capex and SBC guides also trimmed; Q4 2026 guide revenue $990M–$1.01B, adj EBITDA $245–250M; shares -18.2% Fri Nov 6 to ~$313",
+      "org": "Axon Enterprise",
+      "date": "2026-11-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001069183/000162828026071086/axon-20261105xex991.htm",
+      "summary": "Axon Q3 2026 revenue $908.6M (+28%) missed $931M est and FY26 revenue guide cut to $3.61–3.63B after $130M of Federal Dedrone deployments slipped out of 2026; stock -18% Fri Nov 6 despite ARR +40% to $1.75B and net-dollar retention 126%.",
+      "tickers": [
+        "AXON"
+      ],
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "software",
+        "public-safety",
+        "defense-tech",
+        "revenue-miss",
+        "guide-cut",
+        "dedrone",
+        "federal",
+        "mover"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$908.6M (+28% Y/Y) vs ~$931M est",
+        "Software & Services": "$437M (+43%)",
+        "Connected Devices": "$471.5M (+16%)",
+        "Non-GAAP EPS": "$1.72 vs ~$1.90 est",
+        "GAAP EPS": "$0.68 vs $(0.03) Y/Y",
+        "ARR": "$1.75B (+40% Y/Y)",
+        "Net Revenue Retention": "126%",
+        "Adj EBITDA": "$235.7M (+33%, 25.9% margin)",
+        "FCF": "$(18.9)M",
+        "FY26 Revenue Guide": "$3.61–3.63B (cut from $3.67–3.73B)",
+        "Federal Dedrone Delay": "~$130M pushed out of 2026",
+        "Move": "-18.2%"
+      },
+      "explainer": {
+        "tagline": "Axon cuts FY26 revenue guide as $130M of Federal Dedrone deployments slip; stock falls 18% despite ARR +40% to $1.75B.",
+        "whatIsIt": "Axon reported Q3 2026 results after Thursday Nov 5's close. Revenue hit a record $908.6M (+28% Y/Y from $710.6M), but came in short of the ~$931M consensus. Non-GAAP diluted EPS was $1.72 vs ~$1.90 est. Shares fell 18.2% Friday Nov 6 to about $313 as management cut the FY26 revenue outlook to $3.61–3.63B (from the August 32–34% growth guide of roughly $3.67–3.73B).",
+        "howItWorks": "Software & Services revenue grew 43% to $437M, Connected Devices +16% to $471.5M. ARR climbed 40% Y/Y to $1.75B with net revenue retention of 126%, and AI ARR crossed $100M. Adjusted EBITDA was $235.7M (+33%, 25.9% margin), while free cash flow swung to a $(18.9)M outflow on about $100M of inventory investment. Gross margins compressed: GAAP 56.7% (-340bp) and adjusted 59.2%. The FY26 revenue cut was driven mainly by three Federal Dedrone deployments totaling ~$130M slipping out of the year — a ~$30M deployment pushed out of Q3 and two Q4 deployments totaling $100M. Management said sustained pace would have added ~500bp to FY growth. FY26 FCF guide was cut to $350–400M (from $450M); SBC guide to $570–600M (from $590–620M); capex to $130–150M (from $160–190M); adj EBITDA margin raised slightly to ~25.6% (from 25.5%). Q4 2026 guide: revenue $990M–$1.01B, adj EBITDA $245–250M.",
+        "whyItMatters": "Axon has traded as a software story at software multiples; a top-line miss plus a guide cut is the first clean break of that narrative in multiple quarters. The Federal Dedrone timing slip is specific and callable but recurring-revenue health (ARR +40%, NRR 126%, S&S +43%) remains intact, which is the swing factor for the rebound thesis. A FCF turn to negative with inventory build adds a second layer of scrutiny for a name trading at premium cash-flow multiples. Comparable defense/public-safety names (KTOS, LDOS, PLTR gov) are the obvious read-throughs on Dedrone/counter-UAS demand.",
+        "forWho": "public-safety/defense-tech investors, premium SaaS multiple watchers",
+        "tryIt": "https://finance.yahoo.com/quote/AXON"
+      },
+      "image": {
+        "url": "https://mmx.prnewswire.com/media/MS367217/Axon-Logo.jpg?id=OA3061312&amp;p=facebook",
+        "alt": "Axon Enterprise logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001069183/000162828026071086/axon-20261105xex991.htm"
+        },
+        {
+          "label": "Press Release",
+          "url": "https://investor.axon.com/2026-11-05-Axon-reports-record-Q3-2026-revenue-of-909-million,-up-28-year-over-year"
+        },
+        {
+          "label": "AXON Quote",
+          "url": "https://finance.yahoo.com/quote/AXON"
+        },
+        {
+          "label": "Investor Page",
+          "url": "https://investor.axon.com/"
+        }
+      ],
+      "reddit": {
+        "title": "Axon Q3 2026 — revenue $909M (+28%) misses ~$931M est; FY26 guide cut on $130M Federal Dedrone delay; AXON -18% Friday to ~$313",
+        "body": "Axon missed on revenue and cut the full-year as three Federal Dedrone deployments slipped out of 2026. Here's the print:\n\n* Revenue $908.6M (+28% Y/Y) vs ~$931M est — first clean top-line miss in several quarters\n* Non-GAAP EPS $1.72 vs ~$1.90 est; GAAP EPS $0.68 (vs $(0.03) Y/Y)\n* Software & Services $437M (+43%), Connected Devices $471.5M (+16%)\n* ARR $1.75B (+40% Y/Y), net revenue retention 126%, AI ARR crossed $100M\n* Adj EBITDA $235.7M (25.9% margin, +33% Y/Y); FCF swung to $(18.9)M outflow on ~$100M inventory build\n* FY26 revenue guide CUT to $3.61–3.63B (from Aug's 32–34% growth / ~$3.67–3.73B); FY26 FCF guide cut to $350–400M (from $450M)\n\nThree things driving the -18% day:\n\n1. **Federal Dedrone delay** — ~$130M slipped out of 2026 (≈$30M from Q3 and two Q4 deployments totaling $100M). Management said on-pace delivery would have added ~500bp to full-year growth.\n2. **Gross-margin compression** — GAAP gross margin fell 340bp to 56.7% as Connected Devices mix and inventory weigh.\n3. **Cash-flow turn** — FCF flipped to $(18.9)M on ~$100M inventory investment, a new variable for a premium multiple.\n\nSoftware ARR and NRR stayed strong, which is the bull case for the bounce.\n\nFull breakdown: [https://stock-tldr.xyz/releases/axon-q3-2026-earnings-nov-5-2026](https://stock-tldr.xyz/releases/axon-q3-2026-earnings-nov-5-2026)"
+      },
+      "publishDate": "2026-11-08T17:26:47.557Z"
+    },
     {
       "id": "brk-q3-2026-earnings-nov-7-2026",
       "categories": [
