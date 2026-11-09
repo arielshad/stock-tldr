@@ -15877,6 +15877,42 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261109t032733z",
+      "timestamp": "2026-11-09T03:27:33.235Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds — Nvidia board independent investigation of CEO Jensen Huang over reported Chinese MSS targeting (Nov 8), and China October CPI/PPI release showing PPI at a 4+ year high while consumer prices slow (Nov 9). Rest of the Sun-night tape (Berkshire Q3 Nov 7, KOSPI/Nikkei Nov 6, US jobs Nov 6, Nasdaq rout Nov 5, OPEC+ Nov 1) already in feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-huang-china-spy-probe-nov-8-2026",
+          "title": "Nvidia (NVDA) board opens independent investigation of CEO Jensen Huang Sun Nov 8 2026 after reports he was targeted by alleged Chinese MSS asset — Huang admits affair in staff email, House GOP demands Nov 18 closed-door briefing",
+          "category": "regulatory",
+          "note": "Mega-cap governance crisis one week before Q3 FY27 print; multi-tier-1 wall of coverage (CNBC, CBS, WaPo, NYT, FT, NPR, TechCrunch); CEO-removal tail risk; Nov 18 House briefing requested."
+        },
+        {
+          "id": "china-oct-2026-cpi-ppi-nov-9-2026",
+          "title": "China October 2026 inflation — PPI +5.7% Y/Y (fastest since June 2022) beats +5.3% est, CPI +0.7% Y/Y misses +0.8% est (Sun Nov 8 / Mon Nov 9 release)",
+          "category": "macro",
+          "note": "October CPI/PPI release — PPI hottest since June 2022, CPI below consensus; material for China/Asia macro + commodities read-through. Note April 2026 CPI/PPI item exists but is a separate print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "regulatory",
+        "macro",
+        "earnings",
+        "mna",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }
