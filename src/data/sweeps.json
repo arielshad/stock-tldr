@@ -15913,6 +15913,35 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261109t214645z",
+      "timestamp": "2026-11-09T21:46:45.355Z",
+      "source": "github-actions-sweep",
+      "summary": "One new item added — Mon Nov 9 2026's biggest single-day US stock rally since April (Dow +2.15% / S&P +2.35% / Nasdaq +2.74%) as oil collapsed 4.4% on Trump Iran de-escalation and the AI/chip trade snapped back from last week's correction, with NVDA the lone laggard on the Huang probe.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-rally-nov-9-2026",
+          "title": "US stocks biggest single-day rally since April Mon Nov 9 2026 — Dow +2.15% (+1,104 pts to 52,389.75), S&P 500 +2.35% to 7,549.94, Nasdaq +2.74% to 25,253.14 as WTI crude -4.4% and SOXX +6.8% on Trump Iran de-escalation + AI-trade snapback from last week's correction; AMD +12% / AVGO +9.2% while NVDA -4.3% to $178.60 on Huang probe",
+          "category": "mover",
+          "note": "Distinct event from the Nov 5 rout + Nov 6 KOSPI/Nikkei follow-on already in feed — this is the reversal session with a named catalyst (Trump Iran de-escalation) and clean single-name moves (AMD +12%, AVGO +9.2%, NVDA -4.3%)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro",
+        "earnings",
+        "commodity",
+        "crypto",
+        "analyst"
+      ]
     }
   ]
 }

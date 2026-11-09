@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-11-09T03:27:33.235Z",
+  "generatedAt": "2026-11-09T21:46:45.355Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-rally-nov-9-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "US stocks biggest single-day rally since April Mon Nov 9 2026 — Dow +2.15% (+1,104 pts to 52,389.75), S&P 500 +2.35% to 7,549.94, Nasdaq +2.74% to 25,253.14 as WTI crude -4.4% and SOXX +6.8% on Trump Iran de-escalation + AI-trade snapback from last week's correction; AMD +12% / AVGO +9.2% while NVDA -4.3% to $178.60 on Huang probe",
+      "org": "U.S. equities",
+      "date": "2026-11-09",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+      "summary": "US stocks staged the biggest single-session rally since April on Mon Nov 9: Dow +1,104 pts (+2.15%), S&P +2.35%, Nasdaq +2.74%; chips +6.8% as oil tumbled 4.4% on Trump Iran de-escalation. NVDA -4.3% a lone laggard.",
+      "tags": [
+        "equities",
+        "nasdaq",
+        "sp500",
+        "dow",
+        "chips",
+        "soxx",
+        "ai-trade",
+        "oil",
+        "wti",
+        "brent",
+        "iran",
+        "amd",
+        "avgo",
+        "nvidia",
+        "rebound",
+        "rally",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^IXIC",
+        "AMD",
+        "AVGO",
+        "NVDA"
+      ],
+      "metrics": {
+        "S&P 500": "7,549.94 (+173.08 / +2.35%)",
+        "Dow": "52,389.75 (+1,104.02 / +2.15%)",
+        "Nasdaq Composite": "25,253.14 (+673.71 / +2.74%)",
+        "WTI (Dec)": "$86.85 (-$3.98 / -4.4%)",
+        "Brent (Jan)": "$93.54 (-$4.78 / -4.9%)",
+        "AMD": "+~12%",
+        "AVGO": "+~9.2%",
+        "SOXX": "+6.8%",
+        "NVDA": "-4.31% to $178.60"
+      },
+      "explainer": {
+        "tagline": "Biggest single-day US stock rally since April as oil craters on Trump Iran de-escalation and buyers pile back into AI/chip names.",
+        "whatIsIt": "Monday Nov 9 2026's session was the strongest one-day rebound for US equities since April. The Dow added 1,104.02 points (+2.15%) to close at 52,389.75, the S&P 500 jumped 173.08 points (+2.35%) to 7,549.94, and the Nasdaq Composite rose 673.71 points (+2.74%) to 25,253.14. The move reversed a chunk of last week's AI-chip rout that had pushed the Nasdaq into correction territory.",
+        "howItWorks": "All 11 S&P 500 sectors finished green, led by industrials and semiconductors. The Philadelphia Semiconductor Index (SOXX) climbed 6.8%, with AMD up roughly 12% and Broadcom (AVGO) +9.2%. Nvidia (NVDA) was the glaring exception: shares fell 4.31% to $178.60 after paring an intraday loss near 8% tied to the ongoing board investigation of CEO Jensen Huang over an alleged Chinese intelligence operation. Oil prices collapsed at the open — December WTI settled at $86.85, down $3.98 (-4.4%), and January Brent last quoted at $93.54, off $4.78 (-4.9%) — after President Trump told reporters further US strikes on Iran were unlikely as long as peace talks keep moving.",
+        "whyItMatters": "The reversal erases a large share of Thursday's $1T chip-stock wipe (nasdaq-chip-rout-correction-nov-5-2026) and Friday's Asia follow-on (kospi-circuit-breaker-nikkei-bear-nov-6-2026). UBS and Morgan Stanley strategists on Monday argued the prior-week selloff overshot, and Oppenheimer upgraded AMD to Buy premarket per TheStreet's session wrap. The AI trade and the energy-risk premium remain the two swing factors — Nvidia's idiosyncratic Huang-probe overhang kept the mega-cap complex uneven even as the rest of the Mag 7 participated. October CPI prints Tuesday.",
+        "forWho": "US equity index traders, semi cyclicals, energy desks",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/b30e8f3ba755b23e85d92ffe715ae56c31294a8ef35597813879a629ab3686b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fda5accc7-a524-4aea-9dac-74fc743e92f7",
+        "alt": "US stock market rally headline image for Monday Nov 9 2026 session",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Wrap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+        },
+        {
+          "label": "StockTitan Movers",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+        },
+        {
+          "label": "Eurasia Mkts Recap",
+          "url": "https://eurasiabusinessnews.com/2026/11/09/stock-market-today-nov-9-2026-nvidia-slides-amid-alleged-chinese-spying-as-dow-surges-over-1000-points/"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "Biggest single-day rally since April: Dow +1,104 (+2.15%), S&P +2.35%, Nasdaq +2.74% as oil craters 4.4% and AMD +12% leads a chip-stock snapback",
+        "body": "Monday Nov 9 2026 US close — equities ripped back from last week's AI-chip rout.\n\n* S&P 500 +2.35% (+173.08) to 7,549.94\n* Dow +2.15% (+1,104.02) to 52,389.75\n* Nasdaq Composite +2.74% (+673.71) to 25,253.14\n* Philadelphia Semi Index (SOXX) +6.8%\n* AMD +\\~12%, AVGO +9.2%\n* NVDA -4.31% to $178.60 (pared from -8%)\n* WTI (Dec) -4.4% to $86.85; Brent (Jan) -4.9% to $93.54\n\nWhy today reversed:\n\n1. **Trump dialed down Iran** — comments that further US strikes were unlikely as long as peace talks keep moving sent oil sharply lower and lifted the broader tape.\n2. **AI-trade snapback** — UBS and Morgan Stanley argued last week's chip rout overshot; chip index SOXX popped 6.8%, Oppenheimer upgraded AMD to Buy premarket.\n3. **NVDA still the odd one out** — board probe of CEO Jensen Huang over alleged Chinese intelligence-op ties kept it the lone laggard among the Mag 7.\n\nNext catalysts: October CPI print Tue Nov 10.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-rally-nov-9-2026](https://stock-tldr.xyz/releases/us-stocks-rally-nov-9-2026)"
+      },
+      "publishDate": "2026-11-09T21:46:45.355Z"
+    },
     {
       "id": "nvda-huang-china-spy-probe-nov-8-2026",
       "categories": [
