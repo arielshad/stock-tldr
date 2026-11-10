@@ -15988,6 +15988,39 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261110t190652z",
+      "timestamp": "2026-11-10T19:06:52.825Z",
+      "source": "github-actions-sweep",
+      "summary": "Two adds: US October 2026 CPI (hot: headline +0.4% / core +0.3%; BLS can't publish Y/Y rates because the 2025 shutdown blew out the Oct 2025 base; Waller signals 50bp Dec hike is on the table; S&P -0.6%, 10Y +7bp to 4.93%), and Sea Limited Q3 2026 earnings (revenue +43%, Shopee GMV $39.7B +23%, new $1B buyback, stock spikes +9% then fades back to flat-ish on no FY26 guide refresh + hot-CPI tape).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-cpi-oct-2026-nov-10",
+          "title": "US October 2026 CPI +0.4% M/M (vs +0.3% est) hot; core +0.3% M/M (vs +0.2% est) — Y/Y rates NOT PUBLISHED because 2025 shutdown killed base-month data; S&P 500 -0.6%, 10Y +7bp to 4.93%; Fed's Waller (London) says 50bp Dec hike 'should be considered' if core prints ~0.3%+ — CME now ~85% 25bp / ~15% 50bp into Dec 8-9 FOMC (current target 3.75-4.00%)",
+          "category": "macro",
+          "note": "First post-shutdown CPI with broken Y/Y comps; hot headline + core coincides with Waller 50bp Dec-hike threshold."
+        },
+        {
+          "id": "se-q3-2026-earnings-nov-10",
+          "title": "Sea Limited (SE) Q3 2026 (Tue Nov 10 2026 premarket) — total revenue $8.6B (+43.4% Y/Y) and GAAP net income $502.5M (+34.0% Y/Y) beat; GAAP diluted EPS $0.78 (+32.2%); total adjusted EBITDA $931.3M (+28.9%); Shopee revenue $6.1B (+41.3%) with Shopee adj EBITDA $269.2M (+44.7%) and Shopee GMV $39.7B (+23.3%) on 4.5B gross orders (+25.5%); Monee $1.6B (+63.9%), Garena $840.1M (+28.6%); board authorizes new $1.0B buyback (Nov 9) on top of the just-completed $1.0B program ($997.2M repurchased to date); stock spikes to +9% at $85.16 intraday high then fades to -0.74% at $77.38 as the group doesn't raise FY26 revenue/EPS guidance",
+          "category": "earnings",
+          "note": "Flagship SE-ecomm / Shopee quarter: revenue +43%, Shopee adj EBITDA +45%, new $1B buyback — classic sell-the-news tape."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
