@@ -1,8 +1,227 @@
 {
-  "generatedAt": "2026-11-11T03:38:16.379Z",
+  "generatedAt": "2026-11-11T19:04:56.852Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "anthropic-ipo-price-range-ant-nov-10-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "Anthropic PBC sets IPO price range at $70–$78 in amended S-1 Tue Nov 10 2026 — 825M Class A shares offered, implied fully-diluted valuation up to $1.405T, Nasdaq ticker ANT, pricing expected Nov 18 and trading Nov 19 — becomes largest IPO in US history by proceeds (up to $64.4B)",
+      "org": "Anthropic PBC",
+      "tickers": [
+        "ANT"
+      ],
+      "date": "2026-11-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm",
+      "summary": "Anthropic's Nov 10 amended S-1/A sets IPO price at $70–$78 per Class A share, 825M shares offered, Nasdaq ticker ANT. Fully diluted valuation up to $1.405T; $64.4B max proceeds at top of range. Pricing Nov 18, trading Nov 19.",
+      "tags": [
+        "ipo",
+        "s-1a",
+        "amended-filing",
+        "anthropic",
+        "ant",
+        "nasdaq",
+        "ai",
+        "roadshow",
+        "largest-us-ipo"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Price range": "$70–$78 per share",
+        "Shares offered": "825M Class A (incl. 801.4M new, 23.6M selling holders)",
+        "Greenshoe": "up to 123.75M additional shares",
+        "Max proceeds": "$64.4B (incl. selling holders, at top of range)",
+        "Implied valuation": "$916B–$1.02T (basic); up to $1.405T (fully diluted)",
+        "Private placement": "$26B at IPO price (concurrent)",
+        "Pricing date": "Nov 18, 2026",
+        "First trading day": "Nov 19, 2026",
+        "Ticker": "ANT (Nasdaq)"
+      },
+      "explainer": {
+        "tagline": "Anthropic prices its Nasdaq IPO at $70–$78 — on track to become the biggest US listing ever.",
+        "whatIsIt": "Anthropic PBC, the Claude developer, filed an amended S-1/A with the SEC on Tue Nov 10 2026 setting the price range for its Nasdaq IPO under ticker ANT. The amendment establishes a $70–$78 range for 825M Class A shares offered (801.4M new plus 23.6M from existing holders), with an underwriter greenshoe of 123.75M additional shares and a concurrent $26B private placement at the IPO price.",
+        "howItWorks": "At the top of the $70–$78 range, the base deal plus selling-holder shares raise up to $64.4B in gross proceeds — making it the largest US IPO ever by a wide margin, ahead of Saudi Aramco-on-Tadawul and ahead of Alibaba's 2014 NYSE deal. The company reports roughly 13.09B shares outstanding on a basic basis, implying a $916B–$1.02T market cap at the range; on a fully diluted basis the valuation reaches up to $1.405T. The company said it plans to price the IPO on Tue Nov 18 and begin trading Wed Nov 19. Goldman Sachs and Morgan Stanley lead a 24-bank underwriter syndicate. Use of proceeds is general corporate purposes, including compute and infrastructure.",
+        "whyItMatters": "This is the first time a pure-play frontier-AI lab has set an IPO price range in a public filing. At $1T–$1.4T, Anthropic would list between Berkshire Hathaway and Google parent Alphabet by market cap on day one. The range benchmarks private AI valuations at a moment when questions about AI capex returns are at the center of the market narrative (SoftBank's $7B Q2 loss on AI data-center equipment hit the tape the same morning). A successful pricing anchors the private AI market; a weak break challenges the AI capex thesis.",
+        "forWho": "IPO desks, AI-exposed allocators, macro narrative",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/16d863f97b6415066b1fef7f4c0a16ea04b08c46c9bcd0df32e55f0b5717f73c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Feb940ebf5c6a56714446ebae6a42b99f.png",
+        "alt": "Anthropic logo over stock ticker — IPO price range announcement",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC: S-1/A (Nov 10)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm"
+        },
+        {
+          "label": "Amended S-1/A Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+        },
+        {
+          "label": "Yahoo/Decrypt Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+        },
+        {
+          "label": "Anthropic EDGAR Filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002130357&owner=include&count=40"
+        }
+      ],
+      "reddit": {
+        "title": "Anthropic prices Nasdaq IPO at $70–$78 — fully diluted valuation up to $1.405T, $64B in proceeds, biggest US listing ever",
+        "body": "Anthropic PBC filed an amended S-1/A on Tuesday that finally gives us a price range for its Nasdaq IPO. Ticker ANT. Here's the math:\n\n* Price range $70–$78 per share, 825M Class A shares offered (801.4M new, 23.6M selling holders)\n* Underwriter greenshoe of 123.75M more shares\n* Max gross proceeds $64.4B at the top of the range\n* Implied basic market cap $916B–$1.02T on ~13.09B shares out\n* Fully diluted valuation up to $1.405T\n* Concurrent $26B private placement at IPO price\n* Pricing Nov 18, first trading day Nov 19\n* Goldman Sachs + Morgan Stanley lead; 24-bank syndicate\n\nFor scale: Saudi Aramco's 2019 IPO raised $25.6B. Alibaba's 2014 US debut raised $21.8B. Anthropic at the top of the range would be bigger than both combined. At $1T–$1.4T it slots between Berkshire Hathaway and Alphabet on day one.\n\nTwo things to watch:\n\n1. **Does the range hold** — AI capex anxiety is live this week. SoftBank reported a $7B Q2 loss on AI data center equipment the same morning.\n2. **The private-market anchor** — Anthropic's last round (May) priced at $965B. The low end of the range is below that; the high end is a sharp step-up.\n\nFull breakdown: [https://stock-tldr.xyz/releases/anthropic-ipo-price-range-ant-nov-10-2026](https://stock-tldr.xyz/releases/anthropic-ipo-price-range-ant-nov-10-2026)"
+      },
+      "publishDate": "2026-11-11T19:04:56.852Z"
+    },
+    {
+      "id": "tsm-anthropic-openai-1b-board-approval-nov-10-2026",
+      "categories": [
+        "insider",
+        "mover"
+      ],
+      "title": "Taiwan Semiconductor (TSM) board approves up to $1B in AI equity stakes Tue Nov 10 2026 — $500M for Anthropic common shares at IPO price, $500M for OpenAI preferred — plus another $500M to launch strategic semiconductor investment vehicle and ~$40.93B 2027 capex appropriation; TSM +2.2% Wed Nov 11",
+      "org": "Taiwan Semiconductor Manufacturing",
+      "tickers": [
+        "TSM",
+        "ANT"
+      ],
+      "date": "2026-11-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm",
+      "summary": "TSMC's Nov 10 board authorized up to $500M for Anthropic common shares at its IPO price and $500M for OpenAI preferred stock, plus a separate $500M strategic semiconductor investment company and ~$40.93B 2027 capex envelope. TSM +2.2% Wed Nov 11.",
+      "tags": [
+        "tsmc",
+        "tsm",
+        "anthropic",
+        "openai",
+        "ai-investment",
+        "strategic-investment",
+        "board-approval",
+        "capex",
+        "form-6k"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Anthropic stake cap": "US$500M (common shares at IPO price)",
+        "OpenAI stake cap": "US$500M (preferred stock)",
+        "Strategic semi investment co.": "US$500M to establish entity",
+        "2027 capex appropriation": "~US$40.93B",
+        "Q3 2026 dividend": "NT$9.0/share",
+        "TSM Nov 11 move": "+2.2% midday (per CNBC)"
+      },
+      "explainer": {
+        "tagline": "TSMC's board green-lights up to $1B in Anthropic and OpenAI equity — days before Anthropic's IPO.",
+        "whatIsIt": "In a Form 6-K filed Tue Nov 10 2026 with the SEC, Taiwan Semiconductor Manufacturing disclosed board approvals from a Nov 10 meeting authorizing up to US$500M to acquire Anthropic PBC common shares at Anthropic's IPO price and up to US$500M to acquire OpenAI Group PBC preferred stock. The same meeting also authorized up to US$500M to establish a separate strategic investment company focused on the semiconductor industry and ecosystem, and approved roughly US$40.93B in 2027 capital appropriations for advanced tech, advanced packaging, specialty capacity, fab construction, and R&D.",
+        "howItWorks": "The Anthropic tranche is tied directly to the IPO price — meaning TSM will transact at the $70–$78 range disclosed in Anthropic's Nov 10 S-1/A. The OpenAI tranche is a preferred-stock investment with no disclosed valuation, price or round structure. Both are investment caps, not committed purchases. The filing also approved a Q3 2026 cash dividend of NT$9.0/share (ex-date Mar 11 2027, payment Apr 8 2027). TSM ADRs rose about 2.2% at midday on Wed Nov 11 following the disclosure, per CNBC live coverage.",
+        "whyItMatters": "The foundry that fabricates most frontier-AI inference and training silicon (NVIDIA, AMD, Apple, Broadcom chips) is now taking direct equity stakes in the two largest model labs. It aligns TSM commercially with the two largest buyers of leading-node wafers and sends a signal about expected AI-compute demand through the capex cycle — days before Anthropic prices its IPO. The ~$40.93B 2027 capex authorization also puts a number on TSM's next-year investment envelope.",
+        "forWho": "semiconductor investors, AI-infra allocators",
+        "tryIt": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm"
+      },
+      "image": {
+        "url": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2202653376-300x200.jpg",
+        "alt": "TSMC logo on building — foundry leader",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC: TSM Form 6-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm"
+        },
+        {
+          "label": "iClarified Coverage",
+          "url": "https://www.iclarified.com/103449/apple-chipmaker-tsmc-approves-up-to-1-billion-in-openai-and-anthropic-investments"
+        },
+        {
+          "label": "Quartz Analysis",
+          "url": "https://qz.com/tsmc-anthropic-openai-stakes-investment-111126"
+        },
+        {
+          "label": "TSM on Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/TSM"
+        }
+      ],
+      "reddit": {
+        "title": "TSMC board approves up to $1B in Anthropic + OpenAI stakes — $500M each, Anthropic at its IPO price; also $40.93B in 2027 capex",
+        "body": "TSMC filed a Form 6-K with the SEC on Tuesday Nov 10 covering the day's board meeting. The AI headline is clean:\n\n* Up to $500M to buy **Anthropic PBC common shares at its IPO price** (Anthropic set the range at $70–$78 same day)\n* Up to $500M for **OpenAI Group PBC preferred stock** — no price, valuation or round terms disclosed\n* Up to $500M more to establish a separate **strategic semiconductor investment company** for the TSMC ecosystem\n* **~$40.93B in 2027 capital appropriations** for advanced nodes, advanced packaging, specialty capacity, fab construction and R&D\n* Q3 2026 dividend of NT$9.0/share (ex-date Mar 11 2027)\n\nTSM ADRs were up about 2.2% at midday Wednesday per CNBC's live blog.\n\nThe interesting piece: the world's dominant leading-node foundry is now taking direct equity in both of its biggest frontier-AI customers, days before the Anthropic IPO prices (Nov 18). That's commercial alignment with the two labs responsible for the largest share of advanced wafers rolling out of TSM's fabs.\n\nFull breakdown: [https://stock-tldr.xyz/releases/tsm-anthropic-openai-1b-board-approval-nov-10-2026](https://stock-tldr.xyz/releases/tsm-anthropic-openai-1b-board-approval-nov-10-2026)"
+      },
+      "publishDate": "2026-11-11T19:04:56.852Z"
+    },
+    {
+      "id": "softbank-9984-q2-fy2026-7b-net-loss-nov-10-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "SoftBank Group (9984.T) Q2 FY2026 (Tue Nov 10 2026) — first quarterly net loss in two years: ¥1.12T (~$7B) vs ¥2.5T profit Y/Y as US AI data-center power-equipment procurement charges (¥597.2B / $3.7B in H1), Intel/Coupang/Grab markdowns weigh; revenue ¥2.22T tops ¥2.02T LSEG est; Vision Fund segment swings to ¥81.58B loss; full-year FY26 guide for ¥1.1T net loss reaffirmed; cumulative OpenAI stake $54.6B at fair value $99.6B (cumulative gain $45B); 9984.T +13.9% Tue Nov 10",
+      "org": "SoftBank Group",
+      "tickers": [
+        "SFTBY"
+      ],
+      "date": "2026-11-10",
+      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+      "summary": "SoftBank Group Q2 FY2026 (6-month period ended Sep 30 2026) posts ¥1.12T (~$7B) net loss — first quarterly loss in two years — on US AI data-center power-equipment charges and Intel/Coupang/Grab markdowns; revenue ¥2.22T beats; Vision Fund swings to ¥81.58B loss.",
+      "tags": [
+        "softbank",
+        "9984",
+        "earnings",
+        "q2-fy2026",
+        "ai-capex",
+        "vision-fund",
+        "openai",
+        "data-center",
+        "net-loss"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net loss (Q2 FY2026)": "¥1.12T (~$7B); vs ¥2.5T profit Y/Y",
+        "Revenue": "¥2.22T (vs ¥2.02T LSEG est)",
+        "H1 FY26 net loss": "¥0.8T",
+        "FY26 net loss guide": "¥1.1T (reaffirmed)",
+        "AI data-center power equipment charges (H1)": "¥597.2B / $3.7B",
+        "Cumulative US AI data-center power-equipment spend (at Sep 30)": "$9.48B",
+        "Vision Fund segment": "¥81.58B loss (vs ¥2.38T profit Y/Y)",
+        "OpenAI stake cumulative investment": "$54.6B",
+        "OpenAI stake fair value": "$99.6B (cumulative gain $45B)",
+        "9984.T share move (Tue Nov 10)": "+13.9%"
+      },
+      "explainer": {
+        "tagline": "SoftBank Group's AI capex bet shows up on the P&L — first quarterly net loss in two years.",
+        "whatIsIt": "SoftBank Group Corp. (9984.T) reported fiscal Q2 2026 results on Tue Nov 10 2026 covering the quarter ended Sep 30 2026. Net loss attributable to owners was ¥1.12T (roughly $7B) — its first quarterly loss in two years — versus a ¥2.5T profit a year earlier. Revenue came in at ¥2.22T, above the ¥2.02T LSEG consensus.",
+        "howItWorks": "The main drag was ¥597.2B ($3.7B) in charges tied to changes in procurement plans for US AI data-center power-generation equipment in the half; cumulative outlays for that equipment reached $9.48B at Sep 30. Declines in Intel, Coupang and Grab share prices also reduced the fair value of investment assets. The Vision Fund segment swung to an ¥81.58B loss from a ¥2.38T profit a year earlier: Vision Fund 1 lost $20M despite a $1.3B ByteDance gain; Vision Fund 2 posted a ¥89.26B gain. The OpenAI stake is now carried at $99.6B fair value against $54.6B cumulative investment — a $45B cumulative gain, though a possible mark-up from the new OpenAI funding round is not yet reflected. SoftBank reiterated its full-year net-loss guide of ¥1.1T. 9984.T closed +13.9% on Tue Nov 10 as the broader Tokyo market rallied with Wall Street.",
+        "whyItMatters": "The number puts a yen figure on the risk that AI data-center infrastructure capex can hit the P&L before the revenue it's meant to support shows up. SoftBank is the most visible public-market proxy for AI capex; the $3.7B H1 charge on power-equipment procurement lands the same morning Anthropic sets an IPO price range of up to $1.4T fully diluted. Markets read the loss alongside the AI capex thesis, not against it — hence the +13.9% session. Near-term watch: OpenAI mark-up timing, Arm performance, and whether the full-year ¥1.1T loss guide holds.",
+        "forWho": "AI capex allocators, Japan tech investors, Vision Fund followers",
+        "tryIt": "https://group.softbank/en/ir/financials"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1794333546&w=1920&h=1080",
+        "alt": "SoftBank Group headquarters sign — Q2 FY2026 earnings",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "CNBC: SoftBank Q2 Loss",
+          "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+        },
+        {
+          "label": "SoftBank Group IR",
+          "url": "https://group.softbank/en/ir/financials"
+        },
+        {
+          "label": "Q2 Investor Presentation",
+          "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2026/investor-presentation_q2fy2026_01_en.pdf"
+        },
+        {
+          "label": "BloomingBit Coverage",
+          "url": "https://en.bloomingbit.io/feed/news/124071"
+        }
+      ],
+      "reddit": {
+        "title": "SoftBank Group posts first quarterly loss in 2 years — ¥1.12T ($7B) in Q2 FY2026 on AI data-center spending, stock still rips +13.9%",
+        "body": "SoftBank Group reported fiscal Q2 2026 (quarter ended Sep 30) on Tuesday Nov 10. First quarterly loss in two years:\n\n* Net loss ¥1.12T (~$7B) vs ¥2.5T profit a year earlier\n* Revenue ¥2.22T beat the ¥2.02T LSEG estimate\n* H1 charges of ¥597.2B ($3.7B) tied to changes in US AI data-center power-equipment procurement\n* Cumulative spend on that power equipment reached $9.48B at quarter-end\n* Vision Fund segment swung to an ¥81.58B loss from a ¥2.38T gain — SVF1 -$20M despite a $1.3B ByteDance mark-up; SVF2 +¥89.26B\n* OpenAI stake now carried at $99.6B fair value on $54.6B invested — $45B cumulative gain, pre-latest mark\n* Full-year FY26 net-loss guide of ¥1.1T reaffirmed\n* 9984.T closed +13.9% on Tuesday as Tokyo rallied with Wall Street\n\nTwo drivers:\n\n1. **The AI capex charge finally showed up on the P&L** — $3.7B of H1 power-equipment procurement charges from building out US AI data centers before the revenue arrives.\n2. **Mark-to-market pain on public holdings** — Intel, Coupang and Grab all weighed on investment-asset values in the quarter.\n\nFull breakdown: [https://stock-tldr.xyz/releases/softbank-9984-q2-fy2026-7b-net-loss-nov-10-2026](https://stock-tldr.xyz/releases/softbank-9984-q2-fy2026-7b-net-loss-nov-10-2026)"
+      },
+      "publishDate": "2026-11-11T19:04:56.852Z"
+    },
     {
       "id": "crwv-q3-2026-earnings-nov-10-2026",
       "categories": [

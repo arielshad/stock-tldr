@@ -16060,6 +16060,45 @@
         "crypto",
         "commodity"
       ]
+    },
+    {
+      "id": "sweep-20261111t190456z",
+      "timestamp": "2026-11-11T19:04:56.852Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Nov 10 2026 items added: Anthropic's amended S-1/A sets $70–$78 IPO price range (ticker ANT, up to $1.405T fully-diluted, Nov 18 pricing / Nov 19 trading); TSMC board approves up to $1B in equity stakes split between Anthropic (at IPO price) and OpenAI (preferred); SoftBank Group posts first quarterly loss in two years (¥1.12T / $7B) on US AI data-center power-equipment charges — all three threaded by the AI-capex / AI-funding narrative.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "anthropic-ipo-price-range-ant-nov-10-2026",
+          "title": "Anthropic PBC sets IPO price range at $70–$78 in amended S-1 Tue Nov 10 2026 — 825M Class A shares offered, implied fully-diluted valuation up to $1.405T, Nasdaq ticker ANT, pricing expected Nov 18 and trading Nov 19 — becomes largest IPO in US history by proceeds (up to $64.4B)",
+          "category": "ipo",
+          "note": "Primary-source S-1/A on EDGAR Nov 10 is the trigger; largest US IPO ever by proceeds at top of range."
+        },
+        {
+          "id": "tsm-anthropic-openai-1b-board-approval-nov-10-2026",
+          "title": "Taiwan Semiconductor (TSM) board approves up to $1B in AI equity stakes Tue Nov 10 2026 — $500M for Anthropic common shares at IPO price, $500M for OpenAI preferred — plus another $500M to launch strategic semiconductor investment vehicle and ~$40.93B 2027 capex appropriation; TSM +2.2% Wed Nov 11",
+          "category": "insider",
+          "note": "Primary-source 6-K on EDGAR Nov 10; Anthropic tranche is price-linked to the IPO."
+        },
+        {
+          "id": "softbank-9984-q2-fy2026-7b-net-loss-nov-10-2026",
+          "title": "SoftBank Group (9984.T) Q2 FY2026 (Tue Nov 10 2026) — first quarterly net loss in two years: ¥1.12T (~$7B) vs ¥2.5T profit Y/Y as US AI data-center power-equipment procurement charges (¥597.2B / $3.7B in H1), Intel/Coupang/Grab markdowns weigh; revenue ¥2.22T tops ¥2.02T LSEG est; Vision Fund segment swings to ¥81.58B loss; full-year FY26 guide for ¥1.1T net loss reaffirmed; cumulative OpenAI stake $54.6B at fair value $99.6B (cumulative gain $45B); 9984.T +13.9% Tue Nov 10",
+          "category": "earnings",
+          "note": "First SoftBank Group quarterly loss in 2 years; threads the AI-capex narrative."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "earnings",
+        "insider",
+        "mover"
+      ]
     }
   ]
 }
