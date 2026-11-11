@@ -16021,6 +16021,45 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261111t033816z",
+      "timestamp": "2026-11-11T03:38:16.379Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two post-close earnings prints from Nov 9–10: CoreWeave (CRWV) Q3 beat and FY26 raise with $132.5B backlog — the first big AI-infra print since last week's chip-stock rout — and Hims & Hers (HIMS) Q3 where in-line revenue got crushed by gross-margin compression and an FY26 adj EBITDA guide cut.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "crwv-q3-2026-earnings-nov-10-2026",
+          "title": "CoreWeave (CRWV) Q3 2026 (Tue Nov 10 2026 after close) — revenue $3.661B (+168% Y/Y from $1.365B) crushes ~$3.55B LSEG consensus; adjusted net loss $(529)M / adj loss per share $(0.95) vs ~$(1.16) est; GAAP net loss $(709)M / diluted EPS $(1.27) vs $(110)M / $(0.22) Y/Y; adj EBITDA $2.256B at 62% margin; adj operating income $379M at 10% margin; revenue backlog record $132.5B (vs $104B at Jun 30 and $55.6B Y/Y) with ~$47B debt at quarter-end; raises FY26 revenue guide to $13.0–$13.3B (from $12.4–$13.2B) and FY26 adj op income to $1.275–$1.375B (from $0.96–$1.15B); FY26 capex $37–$39B with low end raised; exit-2026 annualized run-rate revenue $20–$21B and year-end active power >1.85 GW; raised ~$4.2B through upsized convertible notes and established new ATM program for up to 35M Class A shares; Leidos partnership for defense/intel AI cloud, DARPA selection for biological research; shares closed -0.51% at $48.73 then rallied ~+16% overnight on Blue Ocean ATS to ~$56.89",
+          "category": "earnings",
+          "note": "First big AI-infra earnings since last week's $1T chip rout; revenue +168% Y/Y, backlog $132.5B record, FY26 guide raised, +16% AH move — clearly market-moving for NVDA/neocloud read."
+        },
+        {
+          "id": "hims-q3-2026-earnings-nov-9-2026",
+          "title": "Hims & Hers (HIMS) Q3 2026 (Mon Nov 9 2026 after close) — revenue $890.4M (+49% Y/Y from $599.0M) roughly in line with ~$893M est; GAAP net loss $(33.0)M / diluted EPS $(0.14) (vs $15.8M / $0.07–$0.06 Y/Y); adj net income $6.5M (vs $20.5M Y/Y); adj EBITDA $82.4M at 9% margin; gross margin 57% (vs 74% Y/Y); subscribers 2.788M (+13% Y/Y); domestic revenue +21% Y/Y, international +~300% Y/Y; Q4 2026 guide revenue $875–$895M and adj EBITDA $70–$90M (8–10% margin); FY26 guide tightened to revenue $3.13–$3.15B and adj EBITDA CUT to $257–$277M (8–9% margin) from prior $295–$335M; margin compression from branded weight-loss mix; shares -16.61% Tue Nov 10 to $19.13 on ~58M shares (~5× avg); Jefferies cuts PT to $24 (from $31)",
+          "category": "earnings",
+          "note": "Significant single-name move (-16.6% Tue on ~5× volume) on gross-margin collapse and FY26 adj EBITDA guide cut from $295–335M to $257–277M — key read for telehealth/GLP-1 adjacency names."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "ipo",
+        "analyst",
+        "regulatory",
+        "rates",
+        "crypto",
+        "commodity"
+      ]
     }
   ]
 }

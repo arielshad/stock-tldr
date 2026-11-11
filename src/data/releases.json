@@ -1,8 +1,168 @@
 {
-  "generatedAt": "2026-11-10T19:06:52.825Z",
+  "generatedAt": "2026-11-11T03:38:16.379Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "crwv-q3-2026-earnings-nov-10-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "CoreWeave (CRWV) Q3 2026 (Tue Nov 10 2026 after close) — revenue $3.661B (+168% Y/Y from $1.365B) crushes ~$3.55B LSEG consensus; adjusted net loss $(529)M / adj loss per share $(0.95) vs ~$(1.16) est; GAAP net loss $(709)M / diluted EPS $(1.27) vs $(110)M / $(0.22) Y/Y; adj EBITDA $2.256B at 62% margin; adj operating income $379M at 10% margin; revenue backlog record $132.5B (vs $104B at Jun 30 and $55.6B Y/Y) with ~$47B debt at quarter-end; raises FY26 revenue guide to $13.0–$13.3B (from $12.4–$13.2B) and FY26 adj op income to $1.275–$1.375B (from $0.96–$1.15B); FY26 capex $37–$39B with low end raised; exit-2026 annualized run-rate revenue $20–$21B and year-end active power >1.85 GW; raised ~$4.2B through upsized convertible notes and established new ATM program for up to 35M Class A shares; Leidos partnership for defense/intel AI cloud, DARPA selection for biological research; shares closed -0.51% at $48.73 then rallied ~+16% overnight on Blue Ocean ATS to ~$56.89",
+      "org": "CoreWeave",
+      "date": "2026-11-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm",
+      "summary": "Q3 revenue $3.66B (+168% Y/Y) tops ~$3.55B est; adj loss $(0.95) beats $(1.16) est; backlog record $132.5B. FY26 revenue guide raised to $13.0–13.3B; capex $37–39B; exit run-rate $20–21B. Shares +~16% overnight.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "guidance-raise",
+        "ai-infra",
+        "neocloud",
+        "gpu-cloud",
+        "nvidia",
+        "backlog",
+        "capex",
+        "convertible-notes",
+        "q3-2026",
+        "defense-ai",
+        "darpa"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CRWV",
+        "NVDA"
+      ],
+      "metrics": {
+        "Revenue": "$3.661B (+168% Y/Y vs ~$3.55B est)",
+        "Adj EPS": "$(0.95) vs ~$(1.16) est",
+        "GAAP EPS": "$(1.27) (vs $(0.22) Y/Y)",
+        "GAAP net loss": "$(709)M (vs $(110)M Y/Y)",
+        "Adj EBITDA": "$2.256B (62% margin)",
+        "Adj operating income": "$379M (10% margin)",
+        "Revenue backlog": "$132.5B (vs $104B Q/Q, $55.6B Y/Y)",
+        "Debt at quarter-end": "~$47B",
+        "FY26 revenue guide": "$13.0–$13.3B (from $12.4–$13.2B)",
+        "FY26 adj op income guide": "$1.275–$1.375B",
+        "FY26 capex": "$37–$39B",
+        "Exit-2026 ARR target": "$20–$21B",
+        "Year-end active power target": ">1.85 GW",
+        "Convertible notes raised": "~$4.2B",
+        "Close move": "-0.51% to $48.73",
+        "Overnight move (Blue Ocean ATS)": "+~16% to ~$56.89"
+      },
+      "explainer": {
+        "tagline": "CoreWeave's Q3 crushes top-line with 168% growth, backlog balloons to $132.5B, and FY26 guide is raised — shares jump ~16% overnight on Blue Ocean ATS.",
+        "whatIsIt": "The pure-play AI-cloud operator CoreWeave reported Q3 2026 results Tuesday Nov 10 after close. Revenue of $3.661B grew 168% Y/Y from $1.365B and beat the ~$3.55B LSEG consensus, while the adjusted loss narrowed to $(0.95)/sh versus $(1.16) expected. GAAP net loss widened to $(709)M / $(1.27) EPS (vs $(110)M / $(0.22) Y/Y). Revenue backlog hit a record $132.5B — up from $104B at the end of Q2 and $55.6B a year ago.",
+        "howItWorks": "Adjusted EBITDA was $2.256B at 62% margin and adjusted operating income $379M at 10%. Management raised FY26 revenue guidance to $13.0–$13.3B (from $12.4–$13.2B) and FY26 adjusted operating income to $1.275–$1.375B (from $0.96–$1.15B). FY26 capex is now guided to $37–$39B (low end raised from $35B) and exit-2026 annualized run-rate revenue is set at $20–$21B with year-end active power above 1.85 GW. The company flagged ~$47B of debt at quarter-end, raised ~$4.2B through upsized convertible senior notes, launched an at-the-market program for up to 35M Class A shares, closed a $2.6B DDTL 5.5 facility, and announced partnerships including a DARPA / Parallel Works contract for a managed AI biological-research cloud and a Leidos tie-up for defense and intelligence workloads. Multi-rack NVIDIA Vera Rubin NVL72 systems came online during the quarter.",
+        "whyItMatters": "After last week's $1T chip-stock rout, CoreWeave is the first big test of whether AI-infrastructure demand actually cracked. The answer from this print: backlog exploded, FY26 guide went up, and capex is still climbing — the opposite of a reset. Shares rallied ~16% overnight on Blue Ocean ATS to ~$56.89 after a flat -0.51% regular close at $48.73. Read-through is positive for NVDA (CRWV's chip supplier), the wider neocloud cohort (NBIS, APLD), and AI capex names (AVGO, AMD). The ~$47B debt load and $37–$39B 2026 capex plan keep the balance-sheet and dilution questions front-and-center.",
+        "forWho": "AI-infrastructure traders, semis desks, high-growth large-cap investors.",
+        "tryIt": "https://finance.yahoo.com/quote/CRWV"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108521329-1793831093043-gettyimages-2256660712-DAVOS_WEF_2026.jpeg?v=1793831130&w=1920&h=1080",
+        "alt": "CoreWeave CEO Michael Intrator at Davos WEF 2026",
+        "fit": "cover",
+        "credit": "Getty Images via CNBC"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm"
+        },
+        {
+          "label": "CNBC Earnings Writeup",
+          "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+        },
+        {
+          "label": "CRWV Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/CRWV"
+        }
+      ],
+      "reddit": {
+        "title": "CoreWeave Q3: revenue $3.66B +168% Y/Y crushes $3.55B est, backlog record $132.5B, FY26 guide raised to $13.0–13.3B — stock +~16% overnight after flat regular close",
+        "body": "CoreWeave Q3 just dropped after Tuesday's close. First big AI-infra print since last week's $1T chip rout, and it's the opposite of a reset.\n\n* Revenue $3.661B — +168% Y/Y from $1.365B, above the ~$3.55B LSEG consensus\n* Adjusted loss per share $(0.95) — vs $(1.16) expected\n* GAAP net loss $(709)M / EPS $(1.27) — vs $(110)M / $(0.22) Y/Y\n* Adj EBITDA $2.256B at 62% margin; adj op income $379M at 10% margin\n* Revenue backlog record **$132.5B** — up from $104B at Q2 end and $55.6B Y/Y\n* ~$47B debt at quarter-end; raised ~$4.2B through upsized convertible senior notes; new ATM program for up to 35M Class A shares; $2.6B DDTL 5.5 facility closed\n\nGuidance did the heavy lifting:\n\n1. **FY26 revenue guide raised** to $13.0–$13.3B (from $12.4–$13.2B)\n2. **FY26 adj op income raised** to $1.275–$1.375B (from $0.96–$1.15B)\n3. **Exit-2026 annualized run-rate revenue** set at $20–$21B with year-end active power >1.85 GW\n4. **FY26 capex $37–$39B** — low end raised from $35B\n\nAlso flagged: DARPA / Parallel Works contract for a managed AI biological-research cloud, Leidos defense/intel partnership, and multi-rack NVIDIA Vera Rubin NVL72 systems coming online.\n\nMove: regular close -0.51% at $48.73, then roughly +16% overnight on the Blue Ocean ATS to ~$56.89.\n\nNext catalysts: NVDA Q3 FY27 earnings and the Dec 8–9 FOMC decision.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crwv-q3-2026-earnings-nov-10-2026](https://stock-tldr.xyz/releases/crwv-q3-2026-earnings-nov-10-2026)"
+      },
+      "publishDate": "2026-11-11T03:38:16.379Z"
+    },
+    {
+      "id": "hims-q3-2026-earnings-nov-9-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Hims & Hers (HIMS) Q3 2026 (Mon Nov 9 2026 after close) — revenue $890.4M (+49% Y/Y from $599.0M) roughly in line with ~$893M est; GAAP net loss $(33.0)M / diluted EPS $(0.14) (vs $15.8M / $0.07–$0.06 Y/Y); adj net income $6.5M (vs $20.5M Y/Y); adj EBITDA $82.4M at 9% margin; gross margin 57% (vs 74% Y/Y); subscribers 2.788M (+13% Y/Y); domestic revenue +21% Y/Y, international +~300% Y/Y; Q4 2026 guide revenue $875–$895M and adj EBITDA $70–$90M (8–10% margin); FY26 guide tightened to revenue $3.13–$3.15B and adj EBITDA CUT to $257–$277M (8–9% margin) from prior $295–$335M; margin compression from branded weight-loss mix; shares -16.61% Tue Nov 10 to $19.13 on ~58M shares (~5× avg); Jefferies cuts PT to $24 (from $31)",
+      "org": "Hims & Hers Health",
+      "date": "2026-11-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001773751/000177375126000242/hims-20260930x8xkearningsr.htm",
+      "summary": "Q3 revenue $890M (+49% Y/Y) roughly in line but gross margin collapses to 57% (vs 74% Y/Y) and FY26 adj EBITDA guide cut to $257–277M. Subscribers 2.79M (+13%). Shares -16.6% Tue to $19.13 on 5× avg volume.",
+      "tags": [
+        "earnings",
+        "guidance-cut",
+        "margin-compression",
+        "telehealth",
+        "weight-loss",
+        "glp-1",
+        "subscribers",
+        "q3-2026",
+        "jefferies-pt-cut"
+      ],
+      "importance": "major",
+      "tickers": [
+        "HIMS"
+      ],
+      "metrics": {
+        "Revenue": "$890.4M (+49% Y/Y, vs ~$893M est)",
+        "Subscribers": "2.788M (+13% Y/Y)",
+        "GAAP net loss": "$(33.0)M",
+        "GAAP diluted EPS": "$(0.14) (vs $0.07/$0.06 Y/Y)",
+        "Adj net income": "$6.5M (vs $20.5M Y/Y)",
+        "Adj EBITDA": "$82.4M (9% margin)",
+        "Gross margin": "57% (vs 74% Y/Y)",
+        "Domestic revenue": "+21% Y/Y",
+        "International revenue": "+~300% Y/Y",
+        "Q4 2026 revenue guide": "$875–$895M",
+        "Q4 2026 adj EBITDA guide": "$70–$90M (8–10% margin)",
+        "FY26 revenue guide": "$3.13–$3.15B (tightened)",
+        "FY26 adj EBITDA guide": "$257–$277M (CUT)",
+        "Move (Tue Nov 10)": "-16.61% to $19.13",
+        "Volume (Tue)": "~58M vs ~11M avg",
+        "Jefferies PT": "$24 (cut from $31)"
+      },
+      "explainer": {
+        "tagline": "HIMS Q3 revenue lands roughly in line at +49% Y/Y but gross margin cracks to 57% from 74% and FY26 adjusted EBITDA guide is cut — stock -16.6%.",
+        "whatIsIt": "Hims & Hers reported Q3 2026 results Monday Nov 9 after close. Revenue was $890.4M (+49% Y/Y from $599.0M), roughly in line with the ~$893M consensus. The company posted a GAAP net loss of $(33.0)M / $(0.14) diluted EPS, flipping from $15.8M / $0.07 basic in Q3 2025. Adjusted net income shrank to $6.5M from $20.5M a year ago; adjusted EBITDA was $82.4M at a 9% margin. Subscribers reached 2.788M, up 13% Y/Y.",
+        "howItWorks": "The bruise is margin, not top-line. Gross margin fell to 57% from 74% Y/Y, which management attributed to branded weight-loss offerings and acquisition costs. Q4 2026 guidance is revenue of $875–$895M and adjusted EBITDA of $70–$90M (8–10% margin). FY26 revenue guidance was tightened to $3.13–$3.15B, but FY26 adjusted EBITDA guidance was cut to $257–$277M from the prior $295–$335M range — an 8–9% margin versus the mid-teens the business had been running. Domestic revenue grew 21% Y/Y and international surged over 300% Y/Y, a reminder that the volume engine is still working even as weight-loss fulfillment squeezes the P&L.",
+        "whyItMatters": "The telehealth-weight-loss model's fundamental tension — top-line is accelerating because of branded weight-loss but every dollar is lower-margin — is now on paper. Shares fell -16.61% on Tuesday Nov 10 to $19.13 on ~58M shares (~5× average volume) with the day's low at $18.40. Jefferies kept a Hold rating but cut its price target to $24 from $31; Argus has a $24 target. Read-through is cautionary for other branded GLP-1 telehealth plays and for the thesis that cross-sell from weight-loss subscribers will drag total margins back toward the ~75% legacy level.",
+        "forWho": "Telehealth / consumer-health investors, GLP-1 adjacency names, growth-at-reasonable-price mid-caps.",
+        "tryIt": "https://finance.yahoo.com/quote/HIMS"
+      },
+      "image": {
+        "url": "https://st-everywhere-cms-prod.s3.us-east-1.amazonaws.com/large_hims_logo_resized_ed2b31c71e.jpg",
+        "alt": "Hims & Hers Health corporate logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001773751/000177375126000242/hims-20260930x8xkearningsr.htm"
+        },
+        {
+          "label": "HIMS Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/HIMS"
+        },
+        {
+          "label": "Earnings Date Announcement",
+          "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-to-Announce-Third-Quarter-2026-Financial-Results-on-November-9-2026/default.aspx"
+        }
+      ],
+      "reddit": {
+        "title": "Hims & Hers Q3: revenue $890M +49% Y/Y roughly in line but gross margin collapses 57% vs 74% Y/Y, FY26 EBITDA guide CUT to $257–277M — stock -16.6% Tuesday on 5× volume",
+        "body": "HIMS reported Q3 Monday night. Top-line came in fine, but the model's margin break showed up in black and white.\n\n* Revenue $890.4M — +49% Y/Y from $599.0M, roughly in line with ~$893M consensus\n* Subscribers 2.788M — +13% Y/Y\n* GAAP net loss $(33.0)M / diluted EPS $(0.14) — vs $15.8M / $0.07 basic Y/Y\n* Adj net income $6.5M — vs $20.5M Y/Y\n* Adj EBITDA $82.4M at 9% margin\n* **Gross margin 57% — vs 74% Y/Y** (branded weight-loss + acquisition drag)\n* Domestic revenue +21% Y/Y; international +~300% Y/Y\n\nGuide moves were the tell:\n\n1. **FY26 adj EBITDA guide CUT** to $257–$277M (8–9% margin) from prior $295–$335M\n2. **FY26 revenue guide tightened** to $3.13–$3.15B\n3. **Q4 2026 guide** revenue $875–$895M, adj EBITDA $70–$90M (8–10% margin)\n\nSell-side response: Jefferies kept Hold but cut PT to $24 from $31; Argus also at $24.\n\nMove: -16.61% Tuesday to $19.13 on ~58M shares (~5× avg); day's low $18.40; now -41% YTD.\n\nNext catalysts: FTC complaint updates and any Novo Nordisk / oral Wegovy partnership news.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hims-q3-2026-earnings-nov-9-2026](https://stock-tldr.xyz/releases/hims-q3-2026-earnings-nov-9-2026)"
+      },
+      "publishDate": "2026-11-11T03:38:16.379Z"
+    },
     {
       "id": "us-cpi-oct-2026-nov-10",
       "categories": [
