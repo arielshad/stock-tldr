@@ -16122,6 +16122,38 @@
         "fed",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261112t192126z",
+      "timestamp": "2026-11-12T19:21:26.778Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two items. NBIS Q3 2026 earnings (first GAAP operating profit at +571% Y/Y revenue, but 2026 capex raised to ~$27B and shares -22% premarket). NY Fed Q3 2026 Household Debt & Credit Report (record $19.1T total household debt, 5.0% delinquency, biggest HELOC quarter since 2005).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nbis-q3-2026-earnings-nov-12-2026",
+          "title": "Nebius Group (NBIS) Q3 2026 (Thu Nov 12 2026 premarket) — revenue $980.8M (+571% Y/Y) beats ~$907M est; first GAAP operating profit $50.4M; adj EBITDA $465.8M at 47.5% margin; GAAP net loss $(37.5)M / diluted EPS $(0.13); 2026 revenue guide NARROWED to low end of $3.0–$3.4B; 2026 capex RAISED to ~$27B (from $20–$25B); initial 2027 revenue $12–$13B and 2027 capex $40–$45B; ARR $6.4B at Sep 30 (+1,062% Y/Y, +113% from June); RPO backlog $38.7B; >$12B in new contracts signed since start of Q3; >4GW contracted power, 5GW by year-end; pre-tax breakeven expected by end of 2027; shares -22.12% premarket to $120.48 from $154.69 Wed close",
+          "category": "earnings",
+          "note": "Q3 revenue +571% Y/Y crushes consensus but 2026 capex raise to ~$27B and revenue guide narrowing to low end sends NBIS -22% premarket; 2027 initial outlook $12–$13B revenue / $40–$45B capex."
+        },
+        {
+          "id": "nyfed-q3-2026-household-debt-19-1t-nov-10-2026",
+          "title": "NY Fed Q3 2026 Household Debt & Credit Report (Tue Nov 10 2026) — total household debt record $19.1T (+$334B / +1.8% Q/Q), delinquency rate rises to 5.0% (+0.3pp Q/Q); mortgages $13.374T (+$257B), credit cards record $1.285T (+$22B), auto $1.734T (+$21B), HELOC $481B (+$23B, largest since 2005), student loans $1.656T; mortgage originations $595B; credit card limits +$115B; mortgage transition into serious delinquency jumps to 1.60% (from 1.28% Y/Y) while student loan serious delinquency flow drops to 7.72% (from 14.26% Y/Y)",
+          "category": "macro",
+          "note": "Record $19.1T US household debt with mortgage serious-delinquency flow jumping to 1.60% (from 1.28% Y/Y); HELOC balances see biggest quarterly jump since 2005."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro"
+      ]
     }
   ]
 }

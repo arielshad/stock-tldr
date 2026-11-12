@@ -1,8 +1,165 @@
 {
-  "generatedAt": "2026-11-12T04:42:50.811Z",
+  "generatedAt": "2026-11-12T19:21:26.778Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nbis-q3-2026-earnings-nov-12-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Nebius Group (NBIS) Q3 2026 (Thu Nov 12 2026 premarket) — revenue $980.8M (+571% Y/Y) beats ~$907M est; first GAAP operating profit $50.4M; adj EBITDA $465.8M at 47.5% margin; GAAP net loss $(37.5)M / diluted EPS $(0.13); 2026 revenue guide NARROWED to low end of $3.0–$3.4B; 2026 capex RAISED to ~$27B (from $20–$25B); initial 2027 revenue $12–$13B and 2027 capex $40–$45B; ARR $6.4B at Sep 30 (+1,062% Y/Y, +113% from June); RPO backlog $38.7B; >$12B in new contracts signed since start of Q3; >4GW contracted power, 5GW by year-end; pre-tax breakeven expected by end of 2027; shares -22.12% premarket to $120.48 from $154.69 Wed close",
+      "org": "Nebius Group",
+      "date": "2026-11-12",
+      "url": "https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results",
+      "summary": "Nebius Q3 2026 revenue $980.8M (+571% Y/Y) beats ~$907M est; first GAAP operating profit $50.4M; adj EBITDA $465.8M at 47.5% margin. 2026 capex raised to ~$27B; 2027 capex $40–$45B. Shares -22.12% premarket.",
+      "tickers": [
+        "NBIS"
+      ],
+      "metrics": {
+        "Revenue": "$980.8M (+571% Y/Y)",
+        "Adj EBITDA": "$465.8M (47.5% margin)",
+        "GAAP operating income": "$50.4M (first positive)",
+        "Diluted EPS (GAAP)": "$(0.13)",
+        "ARR (Sep 30)": "$6.4B (+113% from June)",
+        "RPO backlog": "$38.7B",
+        "2026 revenue guide": "Low end of $3.0–$3.4B",
+        "2026 capex guide": "~$27B (raised from $20–$25B)",
+        "2027 revenue outlook": "$12–$13B",
+        "2027 capex outlook": "$40–$45B",
+        "Premarket move": "-22.12% to $120.48"
+      },
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "ai-cloud",
+        "ai-infrastructure",
+        "gpu-cloud",
+        "neocloud",
+        "capex",
+        "guidance",
+        "nbis",
+        "data-centers",
+        "hyperscaler"
+      ],
+      "importance": "major",
+      "explainer": {
+        "tagline": "AI cloud operator Nebius posts +571% Y/Y revenue growth and first GAAP operating profit, but $27B 2026 capex and a 2026 revenue guide narrowed to the low end sinks the stock -22% premarket.",
+        "whatIsIt": "Nebius Group, the AI-focused neocloud spun out of the former Yandex Group and ~22% owned by Nvidia as of mid-2026, reported Q3 2026 results premarket Thursday Nov 12 2026. The headline number was revenue of $980.8M, up 571% from $146.1M a year earlier and 8% above the ~$907M Street consensus.",
+        "howItWorks": "Adjusted EBITDA swung to +$465.8M (47.5% margin) from a $(5.2)M loss Y/Y. GAAP operating income turned positive at $50.4M, the company's first. On the bottom line Nebius posted a GAAP net loss from continuing operations of $(37.5)M / diluted EPS $(0.13). Q3 capex was $7.3B, nine-month capex $15.4B; cash $7.43B and restricted cash $1.22B at Sep 30. Guidance moved in two directions at once: 2026 revenue narrowed to the low end of the $3.0–$3.4B range on third-party colocation delays, while 2026 capex was raised to ~$27B from $20–$25B. For 2027 the company guided initial revenue of $12–$13B (~4× 2026) and capex of $40–$45B, with 75–85% targeted to be covered by customer prepayments and asset-backed financing on investment-grade contracts. ARR hit $6.4B at Sep 30 (+1,062% Y/Y, up from $3.0B at Jun 30); remaining performance obligations $38.7B; >$12B new contract value booked since the start of Q3; contracted power >4GW and expected 5GW by year-end 2026.",
+        "whyItMatters": "The revenue beat was overshadowed by the capex raise and 2026 revenue narrowing — shares fell 22.12% premarket to $120.48 from Wed's $154.69 close per Investing.com. New enterprise wins include Databricks, Datadog, Snowflake and Palantir (named preferred AI cloud partner), while Cognition is cited as the first customer deploying at-scale NVIDIA Vera Rubin clusters. Nebius now sits alongside CoreWeave as the two publicly traded pure-play AI neoclouds — both reported this week with the same story: hypergrowth revenue, triple-digit backlog expansion, and funding needs that dwarf current cash. Pre-tax breakeven is pushed to end of 2027.",
+        "forWho": "AI infrastructure investors, GPU-cloud traders, Nvidia supply-chain watchers",
+        "tryIt": "https://finance.yahoo.com/quote/NBIS"
+      },
+      "image": {
+        "url": "https://assets.nebius.com/assets/9bbf4860-8151-4d2a-8164-fbcda6d46df9/ir_press_releases-162-f367ea680aa36aa2.png?cache-buster=2026-11-12T11:40:30.311Z",
+        "alt": "Nebius Group investor relations Q3 2026 press release banner",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q3 2026 Press Release",
+          "url": "https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "label": "SEC 6-K Earnings Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-1.htm"
+        },
+        {
+          "label": "CEO Shareholder Letter",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-2.htm"
+        },
+        {
+          "label": "Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/nebius-group-nbis-q3-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "NBIS Quote",
+          "url": "https://finance.yahoo.com/quote/NBIS"
+        }
+      ],
+      "reddit": {
+        "title": "Nebius Q3 revenue $980.8M +571% Y/Y and first GAAP operating profit, but 2026 capex raised to ~$27B and shares crater 22% premarket",
+        "body": "Nebius (NBIS) reported Q3 2026 premarket Thursday Nov 12. Revenue blew past estimates — but the capex raise and a revenue guide narrowed to the low end of the range sent the stock sharply lower.\n\n* Revenue $980.8M (+571% Y/Y) vs ~$907M est\n* First-ever GAAP operating profit $50.4M (vs $(130.2)M Y/Y loss)\n* Adj EBITDA $465.8M at 47.5% margin (vs $(5.2)M Y/Y)\n* GAAP net loss $(37.5)M / diluted EPS $(0.13)\n* Q3 capex $7.3B; cash + restricted cash $8.64B at Sep 30\n* ARR $6.4B at Sep 30 (+113% from $3.0B at Jun 30)\n* RPO backlog $38.7B; >$12B new contracts since start of Q3\n* Shares -22.12% premarket to $120.48 from Wed's $154.69 close\n\nGuidance moved in opposite directions at once:\n\n1. **2026 revenue NARROWED to the low end** — now $3.0–$3.2B (effectively) vs prior $3.0–$3.4B range, attributed to third-party colocation delays, not demand.\n2. **2026 capex RAISED to ~$27B** — from $20–$25B as the company front-loads AI capacity buildout.\n3. **Initial 2027 outlook** — revenue $12–$13B (~4× 2026) and capex $40–$45B, with 75–85% targeted to be funded by customer prepayments and asset-backed financing.\n4. **New enterprise logos** — Databricks, Datadog, Snowflake and Palantir named preferred AI cloud partner; Cognition cited as first customer deploying NVIDIA Vera Rubin clusters at scale.\n\nContracted power >4GW, targeting 5GW by year-end 2026. Pre-tax breakeven pushed to end of 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nbis-q3-2026-earnings-nov-12-2026](https://stock-tldr.xyz/releases/nbis-q3-2026-earnings-nov-12-2026)"
+      },
+      "publishDate": "2026-11-12T19:21:26.778Z"
+    },
+    {
+      "id": "nyfed-q3-2026-household-debt-19-1t-nov-10-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "NY Fed Q3 2026 Household Debt & Credit Report (Tue Nov 10 2026) — total household debt record $19.1T (+$334B / +1.8% Q/Q), delinquency rate rises to 5.0% (+0.3pp Q/Q); mortgages $13.374T (+$257B), credit cards record $1.285T (+$22B), auto $1.734T (+$21B), HELOC $481B (+$23B, largest since 2005), student loans $1.656T; mortgage originations $595B; credit card limits +$115B; mortgage transition into serious delinquency jumps to 1.60% (from 1.28% Y/Y) while student loan serious delinquency flow drops to 7.72% (from 14.26% Y/Y)",
+      "org": "Federal Reserve Bank of New York",
+      "date": "2026-11-10",
+      "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20261110",
+      "summary": "NY Fed Q3 2026 household debt report: record $19.1T (+$334B Q/Q); delinquency rate rises to 5.0% (+0.3pp); mortgage, HELOC, credit card and auto balances all hit records; mortgage serious-delinquency flow jumps to 1.60%.",
+      "metrics": {
+        "Total household debt": "$19.1T (record, +$334B / +1.8% Q/Q)",
+        "Delinquency rate": "5.0% (+0.3pp Q/Q)",
+        "Mortgage": "$13.374T (+$257B Q/Q)",
+        "Credit card": "$1.285T (+$22B Q/Q, record)",
+        "Auto": "$1.734T (+$21B Q/Q)",
+        "HELOC": "$481B (+$23B, largest since 2005)",
+        "Student loan": "$1.656T (+$5B Q/Q)",
+        "Mortgage originations (Q3)": "$595B",
+        "Credit card limits": "+$115B Q/Q",
+        "Mortgage serious-delinquency flow": "1.60% (+32bp Y/Y)",
+        "Student loan serious-delinquency flow": "7.72% (vs 14.26% Y/Y)"
+      },
+      "tags": [
+        "household-debt",
+        "consumer-credit",
+        "ny-fed",
+        "q3-2026",
+        "mortgage",
+        "credit-card",
+        "heloc",
+        "auto-loan",
+        "student-loan",
+        "delinquency",
+        "consumer-finance",
+        "macro"
+      ],
+      "importance": "notable",
+      "explainer": {
+        "tagline": "Total US household debt hits a record $19.1T in Q3 2026, up $334B Q/Q, as delinquency tips up to 5.0% and HELOC balances expand the most since 2005.",
+        "whatIsIt": "The New York Fed's Center for Microeconomic Data published its Quarterly Report on Household Debt and Credit for Q3 2026 on Tuesday Nov 10 2026. Total household debt crossed $19.1T, up $334B (+1.8%) from Q2 and up $5T since end-2019 just before the pandemic.",
+        "howItWorks": "Mortgage debt rose $257B Q/Q to $13.374T on $595B of Q3 originations. HELOC balances climbed $23B — the biggest quarterly increase since 2005 — to $481B as HELOC limits have been expanding steadily since 2022. Credit card balances rose $22B to a record $1.285T; aggregate credit card limits expanded by $115B. Auto balances rose $21B to $1.734T, and student loan balances gained $5B to $1.656T. 5.0% of outstanding debt was in some stage of delinquency, up 0.3pp from Q2. Flow into serious (90+ day) delinquency worsened on mortgages (1.60% vs 1.28% Y/Y) and HELOC held slightly lower. Student loan serious-delinquency flow fell sharply to 7.72% from 14.26% Y/Y as the acute delinquency bulge from the resumption of reporting faded.",
+        "whyItMatters": "Household balance sheets are not flashing a 2008 signal — overall credit quality is \"strong\" per the NY Fed's Donghoon Lee — but the mortgage-delinquency uptick is the first material move in multiple quarters, with 30-year mortgage rates climbing 12bp to 7.30% on the Freddie Mac survey the same week. The record $5T expansion of household debt since 2019 continues to be driven by mortgages (price × new originations), while credit card limits growing by $115B in a single quarter underlines how much runway remains on revolving credit. The report lands into a hot CPI print and a Fed debate over 50bp vs 25bp in December.",
+        "forWho": "macro traders, bank-credit analysts, consumer-finance equity desks",
+        "tryIt": "https://www.newyorkfed.org/microeconomics/hhdc.html"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/FRBNY_logo.png",
+        "alt": "Federal Reserve Bank of New York seal",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q3 2026 Press Release",
+          "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20261110"
+        },
+        {
+          "label": "Full Report PDF",
+          "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2026q3.pdf"
+        },
+        {
+          "label": "Interactive Charts",
+          "url": "https://www.newyorkfed.org/microeconomics/hhdc.html"
+        },
+        {
+          "label": "ABA Journal Coverage",
+          "url": "https://bankingjournal.aba.com/2026/11/new-york-fed-total-household-debt-reached-19-1t-in-q3/"
+        }
+      ],
+      "reddit": {
+        "title": "NY Fed Q3 2026: US household debt hits record $19.1T, delinquency climbs to 5.0%, HELOC balances see biggest quarterly jump since 2005",
+        "body": "The New York Fed released its Q3 2026 Household Debt & Credit Report on Tuesday Nov 10 2026. Total household debt crossed $19.1T, up $334B (+1.8%) from Q2 and up $5T since end-2019.\n\n* Mortgage debt $13.374T (+$257B Q/Q) on $595B Q3 originations\n* HELOC balances $481B (+$23B) — biggest quarterly increase since 2005\n* Credit card balances record $1.285T (+$22B); aggregate credit card limits expanded by $115B\n* Auto loans $1.734T (+$21B); student loans $1.656T (+$5B)\n* Share of debt in some stage of delinquency 5.0% (+0.3pp Q/Q)\n\nFlow into serious (90+ day) delinquency moved both directions:\n\n1. **Mortgages worsening** — serious-delinquency flow jumped to 1.60% from 1.28% Y/Y, the first material move in multiple quarters.\n2. **Student loans improving** — serious-delinquency flow fell sharply to 7.72% from 14.26% Y/Y as the reporting-resumption bulge faded.\n3. **Credit cards slightly better Y/Y** — 6.87% vs 7.05%, though balances keep setting records.\n\nContext: this landed the same week the 30-year mortgage rate climbed 12bp to 7.30% (Freddie Mac). The NY Fed's Donghoon Lee said overall credit quality \"remains strong,\" but the mortgage inflection is notable into a hot CPI print and the Fed's Dec 8–9 debate.\n\nNext catalysts: Dec 8–9 FOMC; Freddie Mac mortgage-rate survey weekly; Q4 2026 NY Fed household debt report due February.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nyfed-q3-2026-household-debt-19-1t-nov-10-2026](https://stock-tldr.xyz/releases/nyfed-q3-2026-household-debt-19-1t-nov-10-2026)"
+      },
+      "publishDate": "2026-11-12T19:21:26.778Z"
+    },
     {
       "id": "anthropic-ipo-price-range-ant-nov-10-2026",
       "categories": [
