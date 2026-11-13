@@ -1,8 +1,326 @@
 {
-  "generatedAt": "2026-11-12T19:21:26.778Z",
+  "generatedAt": "2026-11-13T04:07:22.147Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-huang-resigns-ceo-nov-12-2026",
+      "categories": [
+        "mover",
+        "regulatory"
+      ],
+      "title": "Nvidia (NVDA) CEO Jensen Huang resigns effective immediately Thu Nov 12 2026 — CFO Colette Kress named interim CEO, Harvey Jones becomes first-ever board chair; stock closes -4.34% at just above $4T market cap after swinging as low as -14% intraday",
+      "org": "NVIDIA",
+      "date": "2026-11-12",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "summary": "Nvidia's board announced Thursday that Jensen Huang has resigned as president, CEO and director effective immediately. CFO Colette Kress steps in as interim CEO while the board searches for a permanent successor.",
+      "tags": [
+        "nvda",
+        "ceo-resignation",
+        "jensen-huang",
+        "colette-kress",
+        "harvey-jones",
+        "ai-infrastructure",
+        "corporate-governance",
+        "semis"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "NVDA close": "-4.34%",
+        "Intraday low": "as much as -14%",
+        "Market cap": "just above $4T at close",
+        "Interim CEO": "Colette Kress (CFO)",
+        "Board chair": "Harvey C. Jones (new role)",
+        "Next earnings": "Q3 FY27 on Nov 17 2026 (unchanged)"
+      },
+      "explainer": {
+        "tagline": "Jensen Huang steps down as Nvidia CEO; CFO Colette Kress named interim leader while board searches for permanent successor.",
+        "whatIsIt": "Nvidia's board announced Thursday that Jensen Huang has resigned as president, CEO and member of the board, effective immediately. CFO Colette Kress takes over as interim CEO while retaining her CFO duties, and director Harvey C. Jones becomes the company's first-ever chair of the board. Nvidia's press release does not give a reason for the departure.",
+        "howItWorks": "The board said it will consider both internal and external candidates for a permanent CEO and gave no timeline. Kress has been Nvidia's CFO since 2013; Jones is a former Synopsys CEO and long-serving Nvidia director. The company reaffirmed that Q3 fiscal 2027 earnings will still be reported on Tuesday Nov 17. NVDA traded down as much as 14% intraday before recovering to close -4.34% in a session where shares hovered around the $4 trillion market-cap mark.",
+        "whyItMatters": "Huang built Nvidia from a graphics-card startup into the largest publicly traded company in the world and the single largest weight in US equity indices. The transition follows a week of disclosures, including an admitted affair with a Megaspeed executive that the Financial Times reported was under US intelligence scrutiny for suspected Chinese ties, a New York Times report of a second affair with a Nvidia VP, and a House GOP demand for a closed-door briefing on Nov 18. Bernstein cut its price target to $200 from $400 ahead of the next earnings print.",
+        "forWho": "every equity investor, AI-infrastructure allocators, risk desks",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://nvidianews.nvidia.com/media/sites/219/images/social-image.jpg",
+        "alt": "Nvidia corporate logo on green background",
+        "fit": "cover",
+        "credit": "NVIDIA Corporation"
+      },
+      "links": [
+        {
+          "label": "Nvidia Press Release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+        },
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "label": "CNBC Coverage",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+        },
+        {
+          "label": "Nvidia Investor IR",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+        },
+        {
+          "label": "NVDA Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "Jensen Huang resigns as Nvidia CEO effective immediately — CFO Colette Kress is interim CEO, NVDA closes -4.34% after trading -14% intraday",
+        "body": "Nvidia's board dropped an 8-K on Thursday naming CFO Colette Kress interim CEO after Jensen Huang stepped down as president, CEO and director, effective immediately.\n\n* NVDA closed -4.34%, trading as low as -14% intraday\n* Market cap finished just above the $4 trillion mark\n* Harvey C. Jones (ex-Synopsys CEO) named first-ever chair of the board\n* Board will consider internal AND external candidates for permanent CEO\n* Q3 FY27 earnings still on the calendar for Tue Nov 17\n\nHow we got here, in five days:\n\n1. **Sun Nov 8** — Board opens independent investigation after reports Huang was targeted by alleged Chinese MSS asset; Huang admits affair with Megaspeed exec in staff email.\n2. **Wed Nov 11** — New York Times reports a second affair with Nvidia VP of healthcare Kimberly Powell, who reports to Huang.\n3. **Thu Nov 12** — Reuters reports an \"intimate relationship\" with a second unnamed Nvidia employee; board files 8-K accepting resignation hours later.\n4. **Bernstein PT** — cut to $200 from $400 ahead of the Nov 17 print.\n5. **House GOP** — still expects a closed-door briefing on Nov 18.\n\nPress release gives no reason for the departure. Board thanked Huang for his \"immeasurable contributions.\"\n\nNext catalysts: Q3 FY27 earnings Tue Nov 17, House briefing Wed Nov 18, permanent CEO search (no timeline).\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-huang-resigns-ceo-nov-12-2026](https://stock-tldr.xyz/releases/nvda-huang-resigns-ceo-nov-12-2026)"
+      },
+      "publishDate": "2026-11-13T04:07:22.147Z"
+    },
+    {
+      "id": "csco-q1-fy27-earnings-nov-12-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Cisco (CSCO) Q1 FY27 (Thu Nov 12 2026 after close) — revenue record $18.5B (+24% Y/Y, strongest growth in 15+ years) tops ~$18.11B est; non-GAAP diluted EPS $1.40 (+40%) vs ~$1.32 est; GAAP EPS $1.14 (+58%); Networking $11.13B (+43%); FY27 guide RAISED to revenue $74.8–$75.8B and non-GAAP EPS $5.47–$5.53; hyperscaler AI infrastructure revenue outlook RAISED to $9B for FY27 (from $7.5B, more than double FY26); Q2 FY27 guide revenue $18.0–$18.2B and non-GAAP EPS $1.34–$1.36",
+      "org": "Cisco Systems",
+      "date": "2026-11-12",
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html",
+      "summary": "Cisco posted record Q1 FY27 revenue of $18.5B (+24% Y/Y) and raised its FY27 revenue range to $74.8–$75.8B. The hyperscaler AI infrastructure revenue outlook jumped to $9B, more than double FY26.",
+      "tags": [
+        "earnings",
+        "csco",
+        "cisco",
+        "q1-fy27",
+        "networking",
+        "ai-infrastructure",
+        "hyperscaler",
+        "guidance-raise",
+        "eps-beat"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CSCO",
+        "ANET",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$18.5B (+24% Y/Y)",
+        "GAAP EPS": "$1.14 (+58%)",
+        "Non-GAAP EPS": "$1.40 vs ~$1.32 est (+40% Y/Y)",
+        "Networking revenue": "$11.13B (+43%)",
+        "Operating cash flow": "$4.4B (+36%)",
+        "RPO": "$46.2B (+8%)",
+        "Q2 FY27 revenue guide": "$18.0–$18.2B",
+        "Q2 FY27 non-GAAP EPS guide": "$1.34–$1.36",
+        "FY27 revenue guide (raised)": "$74.8–$75.8B",
+        "FY27 non-GAAP EPS guide (raised)": "$5.47–$5.53",
+        "FY27 AI infra outlook (raised)": "$9B (from $7.5B)",
+        "Cash returned": "$3.7B ($2.0B buybacks + $1.7B divs)"
+      },
+      "explainer": {
+        "tagline": "Record quarter, +43% Networking, $9B FY27 AI infrastructure target as Cisco raises the full-year guide again.",
+        "whatIsIt": "Cisco's fiscal Q1 2027 (quarter ended Oct 24 2026) hit record revenue of $18.5 billion, up 24% year over year — the strongest top-line growth in over 15 years — and non-GAAP EPS of $1.40, up 40%. GAAP EPS was $1.14, up 58%. Management raised the full-year FY27 revenue range to $74.8–$75.8 billion and non-GAAP EPS to $5.47–$5.53.",
+        "howItWorks": "Networking revenue led the beat at $11.13 billion, up 43% Y/Y, with product revenue up 32% overall. The Americas grew 28%, EMEA +18%, APJC +21%. Non-GAAP operating margin was 37.8%; operating cash flow $4.4 billion (+36%); remaining performance obligations $46.2 billion. Cisco returned $3.7 billion to shareholders via $2.0 billion in buybacks (18M shares at ~$112.38 average) and $1.7 billion in dividends, with $6.1 billion remaining on the repurchase authorization and the quarterly dividend held at $0.42.",
+        "whyItMatters": "CEO Chuck Robbins raised the FY27 AI-infrastructure revenue target from hyperscalers to $9 billion from $7.5 billion — more than double the FY26 total — and framed the opportunity as an early-stage, multi-year networking cycle. The read-through tightens the bull case for Arista (ANET), Broadcom (AVGO) and the broader AI-networking complex, and lands into the ongoing AI-capex debate as chip-stock volatility has rattled the Mag7 trade. Q2 FY27 guide: revenue $18.0–$18.2 billion, non-GAAP EPS $1.34–$1.36, with non-GAAP gross margin of 65–66%.",
+        "forWho": "AI-infrastructure allocators, networking specialists, mega-cap tech PMs",
+        "tryIt": "https://finance.yahoo.com/quote/CSCO"
+      },
+      "image": {
+        "url": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/earnings/cisco-building-w-sign-800x450.jpg",
+        "alt": "Cisco headquarters building with company sign",
+        "fit": "cover",
+        "credit": "Cisco Systems"
+      },
+      "links": [
+        {
+          "label": "Cisco Press Release",
+          "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html"
+        },
+        {
+          "label": "Earnings Call Summary (Yahoo)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-said-q1-011431448.html"
+        },
+        {
+          "label": "StockTitan Detail",
+          "url": "https://www.stocktitan.net/news/CSCO/cisco-reports-first-quarter-42972jcsdwos.html"
+        },
+        {
+          "label": "CSCO Quote",
+          "url": "https://finance.yahoo.com/quote/CSCO"
+        }
+      ],
+      "reddit": {
+        "title": "Cisco Q1 FY27: record $18.5B revenue (+24% Y/Y, strongest growth in 15+ years), raises FY27 AI infrastructure revenue target to $9B from $7.5B",
+        "body": "Cisco dropped a record Q1 FY27 Thursday after the close and raised FY27 guide. Networking the star.\n\n* Revenue $18.5B (+24% Y/Y), tops ~$18.11B est — strongest top-line growth since fiscal 2011\n* Non-GAAP EPS $1.40 (+40%), vs ~$1.32 est; GAAP EPS $1.14 (+58%)\n* **Networking $11.13B (+43% Y/Y)** — product revenue +32% overall\n* Operating cash flow $4.4B (+36%), RPO $46.2B (+8%)\n* $3.7B returned to shareholders ($2.0B buybacks at ~$112.38 avg + $1.7B divs)\n\nThe AI infrastructure headline:\n\n1. **FY27 hyperscaler AI infrastructure revenue outlook raised to $9B** (from $7.5B) — more than double FY26.\n2. **FY27 revenue guide raised** to $74.8–$75.8B and non-GAAP EPS $5.47–$5.53.\n3. **Q2 FY27 guide** — revenue $18.0–$18.2B, non-GAAP EPS $1.34–$1.36, non-GAAP gross margin 65–66%.\n\nCEO Chuck Robbins called it an \"early-stage, multiyear networking cycle\" and cited hyperscale deployments, campus upgrades, sovereign infrastructure, and hybrid data center as drivers.\n\nNext catalysts: Nvidia Q3 FY27 earnings Tue Nov 17, FOMC Dec 8–9, Cisco Q2 FY27 in Feb.\n\nFull breakdown: [https://stock-tldr.xyz/releases/csco-q1-fy27-earnings-nov-12-2026](https://stock-tldr.xyz/releases/csco-q1-fy27-earnings-nov-12-2026)"
+      },
+      "publishDate": "2026-11-13T04:07:22.147Z"
+    },
+    {
+      "id": "amat-q4-fy26-earnings-nov-12-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Applied Materials (AMAT) Q4 FY26 (Thu Nov 12 2026 after close) — revenue $10.41B (+53% Y/Y) tops ~$10.30B est; non-GAAP EPS $4.16 (+92%) vs ~$4.06 est; GAAP EPS $3.40; Semiconductor Systems $7.996B at 38.8% op margin; FY26 full year revenue $34.45B (+21%) and non-GAAP EPS $12.89 (+37%); Q1 FY27 guide revenue $11.1B ±$0.5B and non-GAAP EPS $4.35 ±$0.20; management expects 2027 WFE demand to grow more than 30% and China to be below 25% of business in 2027; shares -3.58% in regular session then +~0.5% in after-hours to $382.85",
+      "org": "Applied Materials",
+      "date": "2026-11-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026073360/exhibit991q42026earningsre.htm",
+      "summary": "Applied Materials beat on Q4 FY26 and guided Q1 FY27 revenue to $11.1B ±$0.5B. Management sees 2027 wafer-fab-equipment demand growing more than 30%, with China below 25% of the business.",
+      "tags": [
+        "earnings",
+        "amat",
+        "applied-materials",
+        "q4-fy26",
+        "semi-cap-eq",
+        "wfe",
+        "hbm",
+        "ai-chips",
+        "guidance",
+        "eps-beat"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AMAT",
+        "LRCX",
+        "KLAC",
+        "ASML"
+      ],
+      "metrics": {
+        "Q4 Revenue": "$10.41B (+53% Y/Y)",
+        "Q4 non-GAAP EPS": "$4.16 vs ~$4.06 est (+92% Y/Y)",
+        "Q4 GAAP EPS": "$3.40",
+        "Q4 non-GAAP gross margin": "50.6% (+250bp Y/Y)",
+        "Semi Systems Q4 revenue": "$7.996B",
+        "Semi Systems Q4 op margin": "38.8%",
+        "Applied Global Services Q4 revenue": "$1.896B",
+        "FY26 revenue": "$34.45B (+21%)",
+        "FY26 non-GAAP EPS": "$12.89 (+37%)",
+        "FY26 operating cash flow": "$8.87B record",
+        "FY26 shareholder returns": "$4.75B",
+        "Q1 FY27 revenue guide": "$11.1B ±$0.5B",
+        "Q1 FY27 non-GAAP EPS guide": "$4.35 ±$0.20",
+        "Semi Systems Q1 FY27": "~$8.7B",
+        "2027 WFE growth": ">30%",
+        "China exposure 2027": "<25% of business",
+        "Move": "-3.58% regular session to $380.95, +~0.5% AH to $382.85"
+      },
+      "explainer": {
+        "tagline": "Record Q4 and FY26, strong Q1 FY27 guide, and management calls for 2027 WFE demand up more than 30%.",
+        "whatIsIt": "Applied Materials delivered Q4 FY26 revenue of $10.41 billion (+53% Y/Y) and non-GAAP EPS of $4.16 (+92% Y/Y), both above consensus. GAAP EPS was $3.40. Non-GAAP gross margin expanded 250 basis points to 50.6%. Semiconductor Systems came in at $7.996 billion with a 38.8% segment operating margin.",
+        "howItWorks": "For the full fiscal year, revenue was $34.45 billion (+21%) and non-GAAP EPS $12.89 (+37%), with record $8.87 billion of operating cash flow and $4.75 billion returned to shareholders ($3.18B buybacks + $1.57B dividends). The Q1 FY27 guide is revenue of $11.1 billion ±$0.5B and non-GAAP EPS $4.35 ±$0.20, with Semiconductor Systems Q1 revenue of ~$8.7B. On the call, management said 2027 WFE demand should grow more than 30%, with Semiconductor Systems growing faster than the market, and expects China shipments to fall below 25% of the business.",
+        "whyItMatters": "The guide extends the semi-cap-equipment leading indicator for AI-driven capex into 2027 even as China exposure shrinks, with HBM-packaging strength and leading-edge DRAM/logic constrained by supply. Read-through for Lam Research (LRCX), KLA (KLAC) and ASML (ASML) — all peers highly correlated to WFE spend. The quarter lands against a backdrop where AMAT had fallen 12% on Nov 5 in the midterms chip rout, so the +40%+ calendar-2026 systems growth claim will be under a microscope.",
+        "forWho": "semi-cap allocators, AI-capex traders, chip-sector PMs",
+        "tryIt": "https://finance.yahoo.com/quote/AMAT"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Applied_Materials_Inc._Logo.svg/1280px-Applied_Materials_Inc._Logo.svg.png",
+        "alt": "Applied Materials corporate logo",
+        "fit": "contain",
+        "credit": "Applied Materials, Inc."
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026073360/exhibit991q42026earningsre.htm"
+        },
+        {
+          "label": "Yahoo Finance Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-fiscal-q4-2026-180759731.html"
+        },
+        {
+          "label": "CryptoBriefing Recap",
+          "url": "https://cryptobriefing.com/applied-materials-q4-revenue-jumps-53-percent/"
+        },
+        {
+          "label": "AMAT Quote",
+          "url": "https://finance.yahoo.com/quote/AMAT"
+        }
+      ],
+      "reddit": {
+        "title": "Applied Materials Q4 FY26: revenue $10.41B (+53% Y/Y) beats, guides Q1 FY27 to $11.1B; expects 2027 WFE demand up >30%",
+        "body": "Applied Materials wrapped FY26 after the Thursday close with a big beat and a guide that extends the AI capex read.\n\n* Q4 revenue $10.41B (+53% Y/Y), tops ~$10.30B est\n* Q4 non-GAAP EPS $4.16 (+92%) vs ~$4.06 est; GAAP EPS $3.40\n* Q4 non-GAAP gross margin 50.6% (+250bp Y/Y)\n* Semi Systems Q4 $7.996B at 38.8% op margin; Services $1.896B at 30.5%\n* FY26 revenue $34.45B (+21%), non-GAAP EPS $12.89 (+37%), record operating cash flow $8.87B\n* Shares -3.58% in regular session to $380.95, then +~0.5% AH to $382.85\n\nThe Q1 FY27 guide + call framing:\n\n1. **Q1 FY27 revenue $11.1B ±$0.5B**, non-GAAP EPS $4.35 ±$0.20 — Semi Systems Q1 ~$8.7B.\n2. **2027 WFE demand expected to grow >30%** with Semi Systems growing faster than the market.\n3. **China exposure dropping below 25%** of the business in 2027 (down from historical ~40%+).\n4. **HBM-packaging strength** drove much of 2026 advanced-packaging growth; leading-edge DRAM/logic constrained by supply.\n\nNext catalysts: Nvidia Q3 FY27 Tue Nov 17, Lam Research next print, ASML Q4 in late January.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amat-q4-fy26-earnings-nov-12-2026](https://stock-tldr.xyz/releases/amat-q4-fy26-earnings-nov-12-2026)"
+      },
+      "publishDate": "2026-11-13T04:07:22.147Z"
+    },
+    {
+      "id": "btc-below-70k-nov-13-2026",
+      "categories": [
+        "crypto"
+      ],
+      "title": "Bitcoin (BTC) breaks below $70,000 early Fri Nov 13 2026 for first time since Aug 19 — intraday low ~$68,943; ETH below $2,000 (low ~$1,932); >$1.3B of crypto futures liquidated in 24h (BTC alone ~$677M) as DXY hits 19-month high above 103 on hotter US CPI + rising odds of a 50bp Dec Fed hike, plus Iran IRGC strike on US radar installation in Bahrain",
+      "org": "Spot Bitcoin complex",
+      "date": "2026-11-13",
+      "url": "https://tass.com/economy/2217541",
+      "summary": "Bitcoin fell below $70,000 early Friday for the first time since August, with ETH under $2,000 and over $1.3B of crypto futures liquidated in 24h as DXY hit a 19-month high and Fed-hike odds rose.",
+      "tags": [
+        "crypto",
+        "btc",
+        "eth",
+        "liquidations",
+        "dxy",
+        "fed",
+        "cpi",
+        "risk-off",
+        "iran",
+        "geopolitical"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD"
+      ],
+      "metrics": {
+        "BTC intraday low": "~$68,943",
+        "BTC at TASS 02:52 UTC": "$69,900 (-2.18%)",
+        "ETH low": "~$1,932 (first sub-$2,000 since Aug)",
+        "24h crypto liquidations": ">$1.3B (Coinglass)",
+        "BTC liquidations": "~$677M",
+        "DXY": "above 103 (19-month high)",
+        "WTI": "~$88 (near Thu $89.15 high)",
+        "BTC quarter-to-date": "-17%",
+        "Largest single liq": "$31M+ BTC long on Hyperliquid"
+      },
+      "explainer": {
+        "tagline": "BTC loses the $70K level for the first time since August; ETH slips below $2,000 as DXY spikes and Fed hike bets rise.",
+        "whatIsIt": "Bitcoin dropped below $70,000 early Friday Nov 13, printing an intraday low of about $68,943 — its lowest level since Aug 19. Ether fell below $2,000 (low near $1,932), also a first since August. More than $1.3 billion of crypto futures positions were liquidated in 24 hours per Coinglass, with Bitcoin accounting for roughly $677 million of that total.",
+        "howItWorks": "The move accelerated as the US Dollar Index pushed above 103, its highest since April 2025 and up nearly 2% since early October, with December Fed-hike odds rising after October CPI printed hot (headline +0.4% M/M, core +0.3% M/M) and Fed Governor Waller floated a 50bp hike as a live option. Oil was firm (WTI ~$88) after Iran's IRGC said it destroyed a US early-warning radar installation in Bahrain. The largest single liquidation flagged was a $31M+ BTC long on Hyperliquid. BTC is down roughly 17% quarter-to-date, reversing much of the prior three-month rally.",
+        "whyItMatters": "The $70K breach is a technical event watched by crypto ETF flows (farside.co.uk and SoSoValue track daily Spot BTC ETF flows) and equity-tape risk-proxies (COIN, MSTR, MARA, RIOT). The DXY rip, CPI, and Iran-Bahrain headlines are the same macro cocktail dragging the US equity tape, and crypto's weekend-liquid order book tends to exaggerate the move. Next technical support flagged by desk notes is near $65,000; failure to reclaim $70,000 risks a sixth straight weekly loss.",
+        "forWho": "crypto traders, macro risk desks, ETF flow watchers",
+        "tryIt": "https://finance.yahoo.com/quote/BTC-USD"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1280px-Bitcoin.svg.png",
+        "alt": "Bitcoin logo",
+        "fit": "contain",
+        "credit": "Bitcoin / Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "TASS Report",
+          "url": "https://tass.com/economy/2217541"
+        },
+        {
+          "label": "CryptoBriefing Recap",
+          "url": "https://cryptobriefing.com/bitcoin-below-70000-liquidations-622m/"
+        },
+        {
+          "label": "Panews Flash",
+          "url": "https://panews.io/articles/01a1d2d2-0295-70e9-a0ef-cd62e25ecadb"
+        },
+        {
+          "label": "BTC-USD Chart",
+          "url": "https://finance.yahoo.com/quote/BTC-USD"
+        }
+      ],
+      "reddit": {
+        "title": "BTC breaks below $70K for first time since August; ETH loses $2,000; >$1.3B of crypto futures liquidated in 24h as DXY hits 19-month high",
+        "body": "Crypto cracked early Friday Nov 13 2026 as macro pressure and geopolitics stacked on top of a six-week downtrend.\n\n* BTC low ~$68,943 (first sub-$70K since Aug 19), trading ~$69,900 at TASS 02:52 UTC\n* ETH low ~$1,932, first sub-$2,000 print since August\n* Over $1.3B of crypto futures liquidated in 24h per Coinglass\n* BTC alone accounted for ~$677M of liquidations, with a $31M+ long on Hyperliquid the biggest single hit\n* BTC -17% quarter-to-date, reversing most of the prior three-month rally\n\nThree macro drivers hit at once:\n\n1. **DXY above 103** — 19-month high, up nearly 2% since early October as rate-hike bets build.\n2. **Fed hike odds higher** — October CPI printed hot (+0.4% headline, +0.3% core M/M) and Waller floated a 50bp December move as a live option.\n3. **Iran-Bahrain strike** — IRGC said it destroyed a US early-warning radar installation, keeping WTI near $88.\n\nNext technical support flagged by desks is $65K; failure to reclaim $70K risks a sixth straight weekly loss.\n\nNext catalysts: Fed FOMC Dec 8–9, spot BTC ETF flows (farside.co.uk / sosovalue.com), weekly close.\n\nFull breakdown: [https://stock-tldr.xyz/releases/btc-below-70k-nov-13-2026](https://stock-tldr.xyz/releases/btc-below-70k-nov-13-2026)"
+      },
+      "publishDate": "2026-11-13T04:07:22.147Z"
+    },
     {
       "id": "nbis-q3-2026-earnings-nov-12-2026",
       "categories": [
