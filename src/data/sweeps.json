@@ -16201,6 +16201,35 @@
         "macro",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261113t185945z",
+      "timestamp": "2026-11-13T18:59:45.415Z",
+      "source": "github-actions-sweep",
+      "summary": "Added October 2026 PPI print (released Fri Nov 13 at 8:30 ET): +0.3% M/M vs +0.4% est, Y/Y +6.5% (highest since Nov 2022), core +0.5% M/M / +4.9% Y/Y. Compounds Tuesday's hot CPI into a materially hawkish December FOMC setup (~89% CME 25bp hike odds). Other 72h candidates reviewed and already covered or outside bar: NVDA CEO departure, BTC <$70K, CSCO/AMAT/NBIS/CRWV earnings, TSM board AI stakes, US CPI, SoftBank Q2, Anthropic IPO range, NY Fed household debt, Sea Q3.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-ppi-oct-2026-nov-13-2026",
+          "title": "US October 2026 PPI +0.3% M/M (vs +0.4% est) cools from September's +1.4% but Y/Y +6.5% (vs +6.6% est) is highest since Nov 2022 — core +0.5% M/M for 2nd straight month, +4.9% Y/Y; goods Y/Y +10.2% (largest since Oct 2022); fortifies December Fed hike bets to ~89% 25bp on CME FedWatch (taking target to 4.00–4.25%)",
+          "category": "macro",
+          "note": "Headline October PPI print — primary-source confirmed (BLS), moved the 10Y and reset Fed December hike expectations; fills the clearest macro gap in the 72h window."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "earnings",
+        "crypto",
+        "mover",
+        "ipo"
+      ]
     }
   ]
 }

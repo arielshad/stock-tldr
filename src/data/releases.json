@@ -1,8 +1,93 @@
 {
-  "generatedAt": "2026-11-13T04:07:22.147Z",
+  "generatedAt": "2026-11-13T18:59:45.415Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-ppi-oct-2026-nov-13-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "US October 2026 PPI +0.3% M/M (vs +0.4% est) cools from September's +1.4% but Y/Y +6.5% (vs +6.6% est) is highest since Nov 2022 — core +0.5% M/M for 2nd straight month, +4.9% Y/Y; goods Y/Y +10.2% (largest since Oct 2022); fortifies December Fed hike bets to ~89% 25bp on CME FedWatch (taking target to 4.00–4.25%)",
+      "org": "Bureau of Labor Statistics",
+      "date": "2026-11-13",
+      "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
+      "summary": "October PPI final demand +0.3% M/M SA (vs +0.4% est); +6.5% Y/Y NSA (highest since Nov 2022). Core (ex food, energy, trade services) +0.5% M/M, +4.9% Y/Y. Goods +0.5%, services +0.2% (5th straight gain). Hawkish Fed bets build into Dec 8–9 FOMC.",
+      "tags": [
+        "ppi",
+        "producer-prices",
+        "inflation",
+        "macro",
+        "fomc",
+        "fed",
+        "rate-hike",
+        "oct-2026",
+        "wholesale-inflation",
+        "goods",
+        "services",
+        "core-ppi"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Final demand (M/M, SA)": "+0.3% vs +0.4% est",
+        "Final demand (Y/Y, NSA)": "+6.5% vs +6.6% est (highest since Nov 2022)",
+        "September final demand (M/M, revised)": "+1.4% from +1.3%",
+        "Core (ex food, energy, trade services) M/M": "+0.5% (2nd straight month)",
+        "Core (ex food, energy, trade services) Y/Y": "+4.9%",
+        "Final demand goods (M/M)": "+0.5%",
+        "Final demand goods (Y/Y)": "+10.2% (largest since Oct 2022)",
+        "Final demand services (M/M)": "+0.2% (5th straight gain)",
+        "Food (M/M)": "+1.3%",
+        "Energy (M/M)": "-0.1%",
+        "Transportation & warehousing services (M/M)": "+2.0%",
+        "CME Dec 25bp hike odds": "~89%",
+        "Current Fed target": "3.75–4.00%",
+        "10Y yield (intraday)": "~5.14–5.17%",
+        "S&P 500 (intraday)": "~-0.5% to -0.6%"
+      },
+      "explainer": {
+        "tagline": "October producer prices cool from September's shock but 12-month rate climbs to 6.5% — highest since Nov 2022 — hardening the Fed's case for a December rate hike.",
+        "whatIsIt": "The BLS October 2026 Producer Price Index for final demand, released Friday November 13 at 8:30 ET, rose +0.3% M/M (seasonally adjusted) vs +0.4% expected, below September's upwardly-revised +1.4%. The 12-month (unadjusted) rate climbed to +6.5% from +6.3%, the largest annual increase since November 2022 and a touch below the +6.6% consensus. Core PPI — final demand less foods, energy, and trade services — rose +0.5% M/M for a second straight month and +4.9% Y/Y.",
+        "howItWorks": "Composition: final demand goods +0.5% M/M (food +1.3%, energy -0.1% as crude petroleum fell 10.3% and diesel -7.9%), final demand services +0.2% M/M (fifth straight monthly gain, led by transportation and warehousing +2.0% with truck freight +3.9%). On a 12-month basis, goods prices surged +10.2% — the largest since October 2022 — while services +4.5%. Intermediate demand: processed goods +0.4%, unprocessed goods -3.1% (crude slide), services +0.6%.",
+        "whyItMatters": "The print lands into an already-hawkish Fed backdrop: Tuesday's October CPI ran hot (+0.4% M/M headline, +0.3% core) and Governor Waller publicly floated a 50bp December hike at a London conference that morning. Producer-side goods inflation surging to +10.2% Y/Y signals pipeline pass-through still has legs. CME FedWatch now shows ~89% probability of a 25bp hike at the December 8–9 FOMC (target would move to 4.00–4.25%) with residual 50bp wagers still priced; Capital Economics said consecutive Dec + Jan hikes now look most likely. Short-dated Treasuries sold off (10Y ~5.14–5.17% intraday); S&P 500 -0.5% to -0.6%, Nasdaq ~-0.95% as chip stocks accelerated lower.",
+        "forWho": "macro traders, rates desks, Fed watchers",
+        "tryIt": "https://www.bls.gov/news.release/archives/ppi_11132026.htm"
+      },
+      "image": {
+        "url": "https://www.bls.gov/images/bls_emblem_2016.png",
+        "alt": "Bureau of Labor Statistics seal",
+        "fit": "contain",
+        "credit": "U.S. Bureau of Labor Statistics"
+      },
+      "links": [
+        {
+          "label": "BLS PPI Release",
+          "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm"
+        },
+        {
+          "label": "BLS PPI Home",
+          "url": "https://www.bls.gov/ppi/"
+        },
+        {
+          "label": "Yahoo Finance Live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "label": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/producer-price-inflation-mom/news/601154"
+        }
+      ],
+      "reddit": {
+        "title": "US October PPI +6.5% Y/Y — highest since Nov 2022; CME now prices ~89% odds of a 25bp Fed HIKE at December FOMC",
+        "body": "October producer prices cooled on the month but the 12-month rate hit the fastest since late 2022, hardening the Fed's hawkish lean.\n\n* Final demand +0.3% M/M (vs +0.4% est) after September's +1.4% (revised up from +1.3%)\n* Final demand +6.5% Y/Y (vs +6.6% est) — highest annual print since November 2022\n* Core (ex food, energy, trade services) +0.5% M/M for 2nd straight month; +4.9% Y/Y\n* Goods +0.5% M/M, +10.2% Y/Y (largest 12-month goods rise since October 2022)\n* Services +0.2% M/M, fifth straight monthly gain — transportation & warehousing +2.0%, truck freight +3.9%\n* Food +1.3% M/M, energy -0.1% (crude petroleum -10.3%, diesel -7.9%)\n\nWhat markets did with it:\n\n1. **December hike odds surged** — CME FedWatch ~89% for a 25bp hike at the Dec 8–9 FOMC (target would move to 4.00–4.25%); Capital Economics now sees consecutive Dec + Jan hikes as the most likely path.\n2. **Treasuries sold off at the short end** — 10Y yield ~5.14–5.17% intraday.\n3. **Equities drifted lower** — S&P 500 ~-0.5% to -0.6%, Nasdaq ~-0.95%, chip stocks accelerated lower in the afternoon.\n\nNext catalysts: Dec 8–9 FOMC; Oct retail sales and jobless-claims data in the coming weeks.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-ppi-oct-2026-nov-13-2026](https://stock-tldr.xyz/releases/us-ppi-oct-2026-nov-13-2026)"
+      },
+      "publishDate": "2026-11-13T18:59:45.415Z"
+    },
     {
       "id": "nvda-huang-resigns-ceo-nov-12-2026",
       "categories": [
