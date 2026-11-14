@@ -1,8 +1,156 @@
 {
-  "generatedAt": "2026-11-14T03:57:19.072Z",
+  "generatedAt": "2026-11-14T17:30:51.973Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "mod-samsung-acquisition-talks-nov-13-2026",
+      "categories": [
+        "mover",
+        "rumor",
+        "mna"
+      ],
+      "title": "Modine Manufacturing (MOD) surges +27.9% to $135.66 Fri Nov 13 2026 on Bloomberg rumor Samsung Electronics is in talks to acquire the data-center cooling maker — Samsung and Modine both declined to comment, people familiar say a deal could come in weeks but another suitor could emerge; market cap jumps from ~$5.6B to ~$7.2B",
+      "org": "Bloomberg",
+      "date": "2026-11-13",
+      "url": "https://en.sedaily.com/world/2026/11/13/samsung-in-talks-to-buy-us-data-center-cooling-maker-modine",
+      "summary": "Modine Manufacturing closes +27.9% at $135.66 Friday after Bloomberg reports Samsung Electronics is in talks to buy the Wisconsin data-center cooling maker (~$5.6B pre-rumor market cap). Both companies declined to comment.",
+      "tags": [
+        "rumor",
+        "mna",
+        "samsung",
+        "modine",
+        "data-center",
+        "cooling",
+        "hyperscaler",
+        "ai-capex",
+        "thermal-management",
+        "mover"
+      ],
+      "importance": "rumor",
+      "tickers": [
+        "MOD",
+        "005930.KS"
+      ],
+      "metrics": {
+        "Move": "+27.9% (close $135.66 vs $106.10 Thu)",
+        "Market cap": "~$7.2B post-move (~$5.6B pre)",
+        "Nov 13 volume": "largest one-day MOD gain since 2020"
+      },
+      "explainer": {
+        "tagline": "Samsung Electronics is reportedly in talks to buy Modine Manufacturing, the US data-center cooling specialist, Bloomberg reports — MOD closes +27.9%.",
+        "whatIsIt": "Bloomberg reported Thursday Nov 12 after the close that Samsung Electronics is in talks to acquire Modine Manufacturing (NYSE: MOD), a Wisconsin-based maker of thermal-management and data-center cooling equipment. Both Samsung and Modine declined to comment. People familiar with the matter said a deal could come together within weeks, but no final decision has been made and talks could still fall apart or draw another suitor.",
+        "howItWorks": "Modine's data-center cooling unit is its fastest-growing business, serving hyperscalers; the company separated its automotive business in October to focus on thermal management. Samsung's last major HVAC deal was the €1.5B ($1.7B) FläktGroup acquisition in May 2025. Modine shares closed Friday Nov 13 at $135.66, up $29.56 (+27.87%) from Thursday's $106.10 close, the largest single-day gain since 2020. Market cap rose to roughly $7.2B from ~$5.6B pre-rumor.",
+        "whyItMatters": "Would give Samsung a US-listed vehicle to supply AI-era data-center cooling, pairing with FläktGroup in Europe and its Gwangju production line in Korea — in direct competition with LG, Johnson Controls (JCI), Trane (TT) and Vertiv (VRT). Signals continued M&A premium on AI-infrastructure 'picks and shovels' names (power, cooling, networking) even as broader AI-capex trade sold off Friday.",
+        "forWho": "AI-infrastructure traders, data-center REIT/supplier desks, Korea mega-caps watchers.",
+        "tryIt": "https://finance.yahoo.com/quote/MOD"
+      },
+      "image": {
+        "url": "https://wimg.sedaily.com/news/cms/2026/11/13/news-p.v1.20261113.cb9c4844a64c4b328504cdb72d96da32_P1.png",
+        "alt": "Modine Manufacturing Wisconsin data-center cooling facility — Seoul Economic Daily coverage of Samsung acquisition talks",
+        "fit": "cover",
+        "credit": "Seoul Economic Daily"
+      },
+      "links": [
+        {
+          "label": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/world/2026/11/13/samsung-in-talks-to-buy-us-data-center-cooling-maker-modine"
+        },
+        {
+          "label": "CNBC Movers",
+          "url": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "label": "TNW Coverage",
+          "url": "https://thenextweb.com/news/samsung-modine-talks-data-centre-cooling"
+        },
+        {
+          "label": "MOD Quote",
+          "url": "https://finance.yahoo.com/quote/MOD"
+        }
+      ],
+      "reddit": {
+        "title": "Modine (MOD) +27.9% to $135.66 on Bloomberg report Samsung is in talks to buy the data-center cooling maker — market cap jumps to ~$7.2B",
+        "body": "Bloomberg reported Thursday after the close that Samsung Electronics is in talks to acquire Modine Manufacturing, a Wisconsin thermal-management and data-center cooling supplier. Here's where it stands:\n\n* MOD closed Fri Nov 13 at $135.66, up $29.56 (+27.87%) from Thu's $106.10 — largest one-day gain since 2020\n* Market cap jumped from ~$5.6B to ~$7.2B\n* Both Samsung and Modine declined to comment\n* People familiar with the matter say a deal could come in weeks but no final decision has been made and another suitor could emerge\n\nContext on the thesis:\n\n1. **Samsung is already in cooling** — it bought Germany's FläktGroup for \\~$1.7B in May 2025 and is building a new Gwangju production line; Modine would be its US-listed AI data-center cooling arm.\n2. **Modine is already a hyperscaler story** — data-center cooling is its fastest-growing unit, and it spun off the auto business in October to focus on thermal management.\n3. **The 'picks and shovels' trade keeps its M&A premium** — even as AI-capex names sold off Friday (AMD, NBIS, CRWV \\~-10%), the cooling supplier side got a bid.\n\nNext catalysts: Samsung / Modine response (both silent so far), any 13D filings, and Nvidia earnings Tue Nov 17 which sets the broader AI-capex tone.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mod-samsung-acquisition-talks-nov-13-2026](https://stock-tldr.xyz/releases/mod-samsung-acquisition-talks-nov-13-2026)"
+      },
+      "publishDate": "2026-11-14T17:30:51.973Z"
+    },
+    {
+      "id": "cbrs-q3-2026-earnings-nov-12-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Cerebras Systems (CBRS) Q3 2026 (Thu Nov 12 2026 after close) — core revenue $230.9M (+70% Y/Y) tops ~$215M guide midpoint; core cloud $144.9M (+272% Y/Y); GAAP revenue $210.8M (+55%); GAAP EPS $(0.67); core operating loss $(33.1)M; RPO $26.1B; Q4 FY26 core revenue guide $310–$330M; FY26 core revenue guide RAISED to $940–$960M; shares close +11.22% at $108.72 Fri Nov 13",
+      "org": "Cerebras Systems",
+      "date": "2026-11-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm",
+      "summary": "Cerebras Q3 2026: core revenue $230.9M (+70% Y/Y) beats ~$215M guide, cloud revenue +272% Y/Y, RPO $26.1B, FY26 core-revenue guide raised to $940–$960M. Shares close +11.22% at $108.72 Friday.",
+      "tags": [
+        "earnings",
+        "revenue-beat",
+        "guidance-raise",
+        "q3-2026",
+        "ai-chips",
+        "wafer-scale",
+        "ai-cloud",
+        "semis",
+        "backlog",
+        "rpo"
+      ],
+      "importance": "major",
+      "tickers": [
+        "CBRS"
+      ],
+      "metrics": {
+        "Core revenue": "$230.9M (+70% Y/Y) vs ~$215M guide midpoint",
+        "GAAP revenue": "$210.8M (+55% Y/Y)",
+        "Core cloud revenue": "$144.9M (+272% Y/Y)",
+        "GAAP EPS": "$(0.67)",
+        "Core operating loss": "$(33.1)M (-14% margin)",
+        "RPO": "$26.1B",
+        "Q4 FY26 core revenue guide": "$310M–$330M",
+        "FY26 core revenue guide": "$940M–$960M (raised from $880M–$890M)",
+        "Move": "+11.22% (close $108.72 vs $97.75 Thu)"
+      },
+      "explainer": {
+        "tagline": "Wafer-scale AI chip maker beats core revenue guide by ~7%, raises FY26 revenue outlook, cloud revenue nearly quadruples Y/Y.",
+        "whatIsIt": "Cerebras Systems, the wafer-scale AI chip maker that IPO'd in May 2026, reported its Q3 2026 results Thursday Nov 12 after the close. Core revenue (the company's preferred non-GAAP measure, which excludes certain pass-through hardware revenue) was $230.9M (+70% Y/Y), roughly 7% above the $215M guidance midpoint. Core cloud revenue — the inference/training-as-a-service business — was $144.9M, up 272% Y/Y.",
+        "howItWorks": "GAAP revenue was $210.8M (+55% Y/Y) and the GAAP operating loss was $(224.1)M with a $(0.67) diluted EPS; the core (non-GAAP) operating loss was $(33.1)M on a (14%) margin. Remaining performance obligations (RPO, i.e. contracted but not yet recognized revenue) reached $26.1B at quarter-end. Q4 FY26 core-revenue guidance is $310M–$330M, and full-year FY26 core-revenue guidance was RAISED to $940M–$960M from the prior $880M–$890M range. Shares closed Fri Nov 13 at $108.72, up $10.97 (+11.22%) from Thursday's $97.75 close.",
+        "whyItMatters": "Confirms that the AI inference / training-as-a-service demand that drove Nvidia and CoreWeave results is spilling into the wafer-scale alternative — a bull signal for the AI-capex trade that got whacked Friday on Jensen Huang's resignation at NVDA. The $26.1B RPO (vs ~$25.4B at Q2) is the key backlog metric that will anchor sell-side 2027 estimates ahead of Nvidia's own print Tue Nov 17.",
+        "forWho": "AI-infrastructure traders, semis analysts, small-cap growth PMs.",
+        "tryIt": "https://finance.yahoo.com/quote/CBRS"
+      },
+      "image": {
+        "url": "https://cdn.sanity.io/images/e4qjo92p/production/21fa43f6d541115e57887beb1155bddc7541ae71-2400x1260.jpg?w=1200&h=630&fit=max&auto=format",
+        "alt": "Cerebras Systems wafer-scale AI chip — company press image",
+        "fit": "cover",
+        "credit": "Cerebras Systems"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm"
+        },
+        {
+          "label": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-cbrs/cerebras-systems/news/cerebras-systems-cbrs-stock-jumps-as-q3-results-fuel-growth"
+        },
+        {
+          "label": "Yahoo Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-stock-jumps-231157278.html"
+        },
+        {
+          "label": "CBRS Quote",
+          "url": "https://finance.yahoo.com/quote/CBRS"
+        }
+      ],
+      "reddit": {
+        "title": "Cerebras (CBRS) Q3 2026 — core revenue $230.9M (+70% Y/Y) beats $215M guide, cloud revenue +272% Y/Y, RPO $26.1B, FY26 guide RAISED — stock +11.22% Fri to $108.72",
+        "body": "Cerebras — the wafer-scale AI chip maker that IPO'd in May — reported Thursday after close and crushed its own core-revenue guide. Here are the numbers that matter:\n\n* Core revenue $230.9M (+70% Y/Y) vs ~$215M guide midpoint\n* Core cloud revenue $144.9M, up 272% Y/Y — the inference/training-as-a-service business\n* GAAP revenue $210.8M (+55% Y/Y), GAAP EPS $(0.67)\n* Remaining performance obligations (RPO) $26.1B at quarter-end (vs \\~$25.4B at Q2)\n* FY26 core revenue guide RAISED to $940M–$960M (from $880M–$890M)\n* Q4 FY26 core revenue guide $310M–$330M\n* Shares closed Fri Nov 13 at $108.72, up 11.22% from Thu's $97.75\n\nThree takeaways:\n\n1. **Cloud is the whole story** — the inference/training-as-a-service business nearly quadrupled Y/Y and is now most of core revenue. Capacity, not design wins, is the constraint.\n2. **$26.1B RPO is massive relative to the $230.9M quarter** — that's the backlog sell-side will anchor 2027 numbers on.\n3. **Counter-tape bull signal into NVDA print Tue** — the AI-capex trade got whacked Friday on Jensen Huang's NVDA resignation; a +11% day for the wafer-scale competitor suggests the demand side is intact.\n\nNext catalysts: Nvidia (NVDA) Q3 FY27 earnings Tue Nov 17, and any Cerebras capacity / partnership announcements.\n\nFull breakdown: [https://stock-tldr.xyz/releases/cbrs-q3-2026-earnings-nov-12-2026](https://stock-tldr.xyz/releases/cbrs-q3-2026-earnings-nov-12-2026)"
+      },
+      "publishDate": "2026-11-14T17:30:51.973Z"
+    },
     {
       "id": "nu-q3-2026-earnings-nov-12-2026",
       "categories": [

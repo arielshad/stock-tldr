@@ -16259,6 +16259,44 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261114t173051z",
+      "timestamp": "2026-11-14T17:30:51.973Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new items: (1) Modine Manufacturing +27.9% Fri Nov 13 on a Bloomberg rumor that Samsung Electronics is in talks to acquire the US data-center cooling maker (~$5.6B pre-rumor market cap, Samsung & Modine both declined to comment); (2) Cerebras Systems Q3 2026 earnings — core revenue $230.9M (+70% Y/Y) beats $215M guide midpoint, cloud +272% Y/Y, FY26 guide raised to $940–$960M, RPO $26.1B, shares +11.22% to $108.72.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "mod-samsung-acquisition-talks-nov-13-2026",
+          "title": "Modine Manufacturing (MOD) surges +27.9% to $135.66 Fri Nov 13 2026 on Bloomberg rumor Samsung Electronics is in talks to acquire the data-center cooling maker — Samsung and Modine both declined to comment, people familiar say a deal could come in weeks but another suitor could emerge; market cap jumps from ~$5.6B to ~$7.2B",
+          "category": "mover",
+          "note": "Fresh M&A rumor from Bloomberg (Thu Nov 12) with ≥+25% single-day move in MOD, tier-1 wall-of-coverage (Bloomberg source, CNBC, Seoul Economic Daily, TNW). Classed as rumor + mover + mna."
+        },
+        {
+          "id": "cbrs-q3-2026-earnings-nov-12-2026",
+          "title": "Cerebras Systems (CBRS) Q3 2026 (Thu Nov 12 2026 after close) — core revenue $230.9M (+70% Y/Y) tops ~$215M guide midpoint; core cloud $144.9M (+272% Y/Y); GAAP revenue $210.8M (+55%); GAAP EPS $(0.67); core operating loss $(33.1)M; RPO $26.1B; Q4 FY26 core revenue guide $310–$330M; FY26 core revenue guide RAISED to $940–$960M; shares close +11.22% at $108.72 Fri Nov 13",
+          "category": "earnings",
+          "note": "Primary-source 8-K confirmed, meaningful revenue beat vs guide + guidance RAISE, +11.22% stock move, AI-infrastructure read-through into NVDA print Tue."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "mna",
+        "macro",
+        "rates",
+        "commodity",
+        "crypto",
+        "regulatory",
+        "rumor"
+      ]
     }
   ]
 }
