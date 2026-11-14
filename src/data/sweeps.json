@@ -16230,6 +16230,35 @@
         "mover",
         "ipo"
       ]
+    },
+    {
+      "id": "sweep-20261114t035719z",
+      "timestamp": "2026-11-14T03:57:19.072Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Nubank (NU) Q3 2026 earnings — record $1.1B net income, record $6.3B gross revenue, 32% ROE, 143M customers; stock +11.71% to $13.21 Fri Nov 13. Most of the week's biggest events (PPI, CPI, NVDA Huang resign, CSCO/AMAT/NBIS earnings, BTC below $70K, Anthropic IPO price range) were already in the feed. Verified Modine/Samsung rumor was thinly sourced — dropped. Rates move (10Y to ~5.13%) is downstream of CPI/PPI items already in feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nu-q3-2026-earnings-nov-12-2026",
+          "title": "Nubank (NU) Q3 2026 — record $1.1B net income (+31% Y/Y), gross revenue $6.3B (+37%), ROE 32%, 143M customers",
+          "category": "earnings",
+          "note": "Record quarter from Buffett-backed LatAm neobank; fresh (Nov 12 release, Nov 13 move); numbers all traced to Yahoo Finance PR copy, Panabee deep dive, and Globe & Mail call transcript."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "rates",
+        "mover",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }
