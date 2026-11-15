@@ -16297,6 +16297,28 @@
         "regulatory",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20261115t180756z",
+      "timestamp": "2026-11-15T18:07:56.535Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep. 72h window (2026-11-12 onward) was already saturated by the prior sweep — NVDA/Huang resignation, CBRS/NU/CSCO/AMAT/NBIS Q3 earnings, US PPI, BTC below $70K, MOD-Samsung rumor are all in the feed. Weekend Nov 14-15 produced no additional verifiable market-moving events that clear the inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "mna",
+        "geopolitical"
+      ]
     }
   ]
 }
