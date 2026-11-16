@@ -1,8 +1,171 @@
 {
-  "generatedAt": "2026-11-16T03:37:42.935Z",
+  "generatedAt": "2026-11-16T21:30:20.447Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-sell-off-nov-16-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "US stocks fall for third straight session on Mon Nov 16 2026 — Nasdaq -2.49% to 24,509.76, S&P 500 -1.92% to 7,416.59, Dow -739 pts (-1.41%) to 51,608.17 as chip and bank selling leads broad risk-off into Tue Nov 17 Nvidia earnings; VIX +19% to ~23.05, NVDA -4.12% to $156.14, MU -7.62%, INTC -7.02%, major banks -2%+",
+      "org": "U.S. equities",
+      "date": "2026-11-16",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+      "summary": "US stocks dropped for a third straight session Mon Nov 16: Nasdaq -2.49%, S&P 500 -1.92%, Dow -739 pts (-1.41%) as NVDA -4.12% ahead of Tuesday earnings and major banks -2%+ on JPM outage reports; VIX +19% to ~23.05.",
+      "tags": [
+        "equities",
+        "nasdaq",
+        "sp500",
+        "dow",
+        "russell-2000",
+        "vix",
+        "chips",
+        "ai-trade",
+        "nvidia",
+        "intel",
+        "micron",
+        "banks",
+        "risk-off",
+        "selloff",
+        "mover",
+        "oil",
+        "wti",
+        "export-controls"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^IXIC",
+        "NVDA",
+        "INTC",
+        "MU"
+      ],
+      "metrics": {
+        "S&P 500": "7,416.59 (-145.08 / -1.92%)",
+        "Dow Jones": "51,608.17 (-739.38 / -1.41%)",
+        "Nasdaq Composite": "24,509.76 (-626.52 / -2.49%)",
+        "Russell 2000": "2,742.94 (-1.70%)",
+        "VIX": "~23.05 (+19.4%)",
+        "NVDA": "$156.14 (-4.12%)",
+        "MU": "-7.62%",
+        "INTC": "-7.02%",
+        "10Y yield": "~5.12%",
+        "WTI (Dec)": "$85.39 (-3.58%)",
+        "Gold": "$3,854.80 (-0.81%)"
+      },
+      "explainer": {
+        "tagline": "US stocks post third straight loss ahead of Nvidia earnings as chip, bank, and crypto-linked names lead a broad risk-off.",
+        "whatIsIt": "Monday Nov 16 2026's session marked the third straight down day for the S&P 500 and Nasdaq. The S&P 500 shed 145.08 points (-1.92%) to close at 7,416.59; the Nasdaq Composite dropped 626.52 points (-2.49%) to 24,509.76; the Dow Jones Industrial Average fell 739.38 points (-1.41%) to 51,608.17. The Russell 2000 slid 1.70% to 2,742.94. The CBOE Volatility Index (VIX) jumped roughly 19% to about 23.05, intraday high 24.05.",
+        "howItWorks": "Chip names led the decline into Nvidia's Tuesday after-the-bell earnings, the first since CEO Jensen Huang's resignation last week. Nvidia closed at $156.14 (-4.12%), with Micron -7.62%, Intel -7.02%, SanDisk ~-8%, Dell ~-7%, AMD ~-5%, and Oracle ~-5%. Conflicting reports on whether Nvidia's board would bring Huang back added leadership overhang: the Financial Times reported he is weighing a comeback with Silicon Valley backing, while CNBC cited a source saying the board is not considering it. Selling then spread to large banks — Morgan Stanley, Goldman Sachs, JPMorgan, Bank of America, Citi, and Wells Fargo each fell more than 2% — as JPMorgan confirmed transaction delays and some other banks reported app outages. Crypto-linked stocks (COIN, HOOD, Circle, MSTR) traded -7–8% in premarket. Energy was the other large loser: WTI December settled at $85.39, down $3.58 (-3.58%), as Strait of Hormuz shipments recovered; Brent fell to about $92. 10-year Treasury yields slipped ~1bp to ~5.12% in a modest flight to quality. Fed Chairman Kevin Warsh, speaking at a productivity task force field hearing in the San Francisco Bay Area, said AI's impact could be 'less positive' than hoped and could even 'disappoint,' adding to the risk-off tone.",
+        "whyItMatters": "The drop reverses most of last week's modest gain and resets expectations before the week's two biggest catalysts: Nvidia's Q3 FY27 results after the close Tuesday (consensus ~$2.47 EPS on ~$109.15B revenue, nearly 100% Y/Y growth) and Anthropic's expected IPO pricing Wednesday at $70–78 for a fully-diluted valuation up to $1.405T. NVDA is now down nearly 13% over the five sessions since the Huang probe (nvda-huang-china-spy-probe-nov-8-2026) broke, and nearly 17% year-to-date. The banks move on retail-facing outages is unusual, and sector breadth plus the VIX pop suggest positioning cleanup, not a single-headline flush. Chips and mega-cap AI capex names remain the swing factor; crypto held relatively firm (BTC ~$65,173, +0.31% on the day after a weekend low near $62K).",
+        "forWho": "US equity index traders, semiconductor desks, bank-sector investors",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/e53f1033f2d6d01eecc1c3c12b628298a6e9b4a21b8e901ff02f226315a69a13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F73a48d37-a4c5-48d9-a3d9-6d854e707c3f",
+        "alt": "US stock market Monday Nov 16 2026 session wrap",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Wrap",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+        },
+        {
+          "label": "CNBC Live Updates",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "StockTitan Movers",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+        },
+        {
+          "label": "Treasury Yields Wrap",
+          "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "US stocks slide for 3rd day — Nasdaq -2.49%, S&P -1.92%, Dow -739 — NVDA -4.12% into Tue earnings, MU -7.6%, INTC -7%, big banks -2%+; VIX +19%",
+        "body": "Monday Nov 16 2026 close — third straight down day for the S&P 500 and Nasdaq heading into Nvidia earnings Tuesday after the bell.\n\n* S&P 500 -1.92% (-145.08) to 7,416.59\n* Dow -1.41% (-739.38) to 51,608.17\n* Nasdaq Composite -2.49% (-626.52) to 24,509.76\n* Russell 2000 -1.70% to 2,742.94\n* VIX ~23.05 (+19%); intraday high 24.05\n* NVDA $156.14 (-4.12%)\n* MU -7.62%, INTC -7.02%, SanDisk \\~-8%, Dell \\~-7%, AMD \\~-5%, Oracle \\~-5%\n* Large banks (GS, MS, JPM, BAC, C, WFC) all -2%+\n* WTI (Dec) -3.58% to $85.39; Brent \\~$92\n* 10Y yield \\~5.12% (-~1bp); Gold -0.81% to $3,854.80\n* BTC steady \\~$65,173 (+0.31%) after a weekend dip near $62K\n\nFour threads converged:\n\n1. **Nvidia leadership overhang** — FT said Huang is weighing a comeback with SV backing; CNBC says the board is not considering it. Treasury's Bessent called for a \"dramatic shakeup\" and an outside CEO search.\n2. **Chip export rules** — Commerce closed a loophole letting Chinese firms rent Nvidia compute located abroad, hitting NVDA, AMD, AVGO, CoreWeave, Nebius.\n3. **Bank selling** — JPM confirmed transaction delays as bank app outages hit; GS, MS, JPM, BAC, C, WFC all -2%+.\n4. **Warsh adds caution** — Fed Chair at an SF productivity task force said AI could \"disappoint\" and have \"less positive\" outcomes.\n\nNext catalysts: NVDA Q3 FY27 after close Tue Nov 17 (cons. \\~$2.47 EPS, \\~$109.15B revenue); Anthropic IPO pricing Wed Nov 18 at $70–78 (up to \\~$1.405T fully-diluted).\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-sell-off-nov-16-2026](https://stock-tldr.xyz/releases/us-stocks-sell-off-nov-16-2026)"
+      },
+      "publishDate": "2026-11-16T21:30:20.447Z"
+    },
+    {
+      "id": "china-confirms-xi-trump-putin-trilateral-nov-16-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "China Foreign Ministry's Mao Ning confirms Mon Nov 16 2026 first-ever Xi–Trump–Putin trilateral summit set for Thu Nov 19 in Shenzhen on APEC sidelines — leaders to hold 'in-depth exchanges on safeguarding world peace and promoting strategic stability'; US-China trade truce extension expiring January among market-relevant items",
+      "org": "Ministry of Foreign Affairs of the PRC",
+      "date": "2026-11-16",
+      "url": "https://sg.news.yahoo.com/xi-trump-putin-discuss-world-084022417.html",
+      "summary": "China confirmed Mon Nov 16 that Xi, Trump and Putin will hold their first-ever trilateral Thu Nov 19 in Shenzhen on the APEC sidelines. Mao Ning called the meeting 'ground-breaking'; US-China trade truce expiry in January among topics.",
+      "tags": [
+        "geopolitics",
+        "apec",
+        "china",
+        "us-china",
+        "russia",
+        "ukraine",
+        "iran",
+        "trade",
+        "tariffs",
+        "nuclear",
+        "shenzhen",
+        "trilateral",
+        "macro"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Date": "Thu Nov 19 2026 (Shenzhen, APEC sidelines)",
+        "APEC leaders meeting": "Nov 18–19 Shenzhen",
+        "US-China trade truce": "expires January 2027"
+      },
+      "explainer": {
+        "tagline": "China's Foreign Ministry on Monday confirmed the first-ever Xi–Trump–Putin trilateral summit for Thursday in Shenzhen on the APEC sidelines.",
+        "whatIsIt": "At a Beijing news briefing on Monday Nov 16, Foreign Ministry spokesperson Mao Ning confirmed that Chinese President Xi Jinping will meet US President Donald Trump and Russian President Vladimir Putin on Thursday (Nov 19) in Shenzhen on the sidelines of the APEC Economic Leaders' Meeting. Mao said the three leaders will hold 'in-depth exchanges on safeguarding world peace and promoting strategic stability in major-power relations,' calling the gathering 'ground-breaking' in significance. The APEC leaders meeting itself runs Nov 18–19.",
+        "howItWorks": "China's confirmation follows earlier signals: on Nov 13, Mao Ning had said Beijing was 'in communication with the US and Russia' on the proposed meeting, and the White House and Kremlin had publicly signalled attendance. China has not published a formal agenda. Per the White House, Trump intends to raise reducing nuclear weapons and will likely discuss the US–Iran war; Washington has said Ukraine is not a priority, while it is a top item for Moscow. On the US–China track, the existing trade truce expires in January 2027; analysts largely expect it to be extended, with talks potentially framing a more durable rebalancing agreement. Chip-smuggling and semiconductor export controls are expected to stay off the formal agenda. German President Steinmeier said Xi showed 'irritation' at suggestions Ukraine would be discussed, and Ukrainian President Zelensky warned the meeting 'should not turn into Yalta 2, 3, 4 with a redistribution of influence.'",
+        "whyItMatters": "This is the first in-person meeting of all three leaders. For markets, the most tangible catalyst is the fate of the US–China trade truce, which runs out in January; any signal on an extension or a framework for narrowing the US trade deficit with China would filter through tariffs, FX (CNY, USD), semi, commodity, and large-cap China-exposed baskets. A joint statement on nuclear arms control or Middle East de-escalation would move defense, oil, and safe-haven assets. Analysts polled by media are skeptical that major, concrete decisions emerge given limited preparation, but even a trade-truce extension headline is a meaningful risk event into Thursday.",
+        "forWho": "macro traders, FX desks, semiconductor and commodity investors, policy watchers",
+        "tryIt": "https://finance.yahoo.com/quote/CNY=X"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108551686-1794792619751-gettyimages-2304231619-AFP_D79R6QM.jpeg?v=1794844055&w=1920&h=1080",
+        "alt": "Xi Jinping, Donald Trump, Vladimir Putin trilateral summit at APEC Shenzhen",
+        "fit": "cover",
+        "credit": "Getty Images / AFP via CNBC"
+      },
+      "links": [
+        {
+          "label": "Yahoo/France 24 Wire",
+          "url": "https://sg.news.yahoo.com/xi-trump-putin-discuss-world-084022417.html"
+        },
+        {
+          "label": "CNBC Preview",
+          "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+        },
+        {
+          "label": "Daily Excelsior Recap",
+          "url": "https://www.dailyexcelsior.com/xi-trump-putin-set-for-historic-trilateral-meeting-in-china-next-week/amp"
+        },
+        {
+          "label": "CNY FX",
+          "url": "https://finance.yahoo.com/quote/CNY=X"
+        }
+      ],
+      "reddit": {
+        "title": "China confirms first-ever Xi–Trump–Putin trilateral summit for Thursday Nov 19 in Shenzhen on APEC sidelines — US-China trade truce (expires Jan) top of the market-relevant list",
+        "body": "Monday Nov 16 2026 — China's Foreign Ministry spokesperson Mao Ning confirmed at a Beijing briefing that Xi, Trump and Putin will meet Thursday (Nov 19) in Shenzhen on the sidelines of the APEC leaders' meeting.\n\n* First-ever in-person trilateral between the three leaders\n* APEC leaders' meeting runs Nov 18–19 in Shenzhen\n* Mao Ning: leaders will hold \"in-depth exchanges on safeguarding world peace and promoting strategic stability in major-power relations\"; she called it \"ground-breaking\"\n* No formal agenda published by China\n* Signals from the three sides:\n\n1. **US** — Trump will raise cutting nuclear weapons, per the White House, and likely the US–Iran war; Ukraine is not a US priority at the meeting.\n2. **Russia** — Kremlin pushed the meeting; Ukraine is top item.\n3. **China** — framing is strategic stability; chip-smuggling and semi export rules expected off the formal agenda.\n\nMarket-relevant items:\n\n* **US–China trade truce expires January 2027** — analysts largely expect extension; any signal on a more durable framework hits tariffs, CNY, semis, commodities.\n* Any joint language on **nuclear arms control** or **Middle East** would move defense, oil, safe-havens.\n\nSkepticism: experts note limited preparation, doubt major decisions emerge. Ukrainian President Zelensky warned against a \"Yalta 2, 3, 4\" outcome.\n\nFull breakdown: [https://stock-tldr.xyz/releases/china-confirms-xi-trump-putin-trilateral-nov-16-2026](https://stock-tldr.xyz/releases/china-confirms-xi-trump-putin-trilateral-nov-16-2026)"
+      },
+      "publishDate": "2026-11-16T21:30:20.447Z"
+    },
     {
       "id": "china-oct-2026-activity-nov-16-2026",
       "categories": [

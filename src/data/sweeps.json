@@ -16347,6 +16347,39 @@
         "crypto",
         "insider"
       ]
+    },
+    {
+      "id": "sweep-20261116t213020z",
+      "timestamp": "2026-11-16T21:30:20.447Z",
+      "source": "github-actions-sweep",
+      "summary": "Two items for the Mon Nov 16 window: a major third-straight-day US equity selloff into Tuesday's Nvidia earnings, and China's Foreign Ministry confirmation of the first-ever Xi–Trump–Putin trilateral at APEC Shenzhen Thursday Nov 19.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-sell-off-nov-16-2026",
+          "title": "US stocks fall for third straight session on Mon Nov 16 2026 — Nasdaq -2.49% to 24,509.76, S&P 500 -1.92% to 7,416.59, Dow -739 pts (-1.41%) to 51,608.17 as chip and bank selling leads broad risk-off into Tue Nov 17 Nvidia earnings; VIX +19% to ~23.05, NVDA -4.12% to $156.14, MU -7.62%, INTC -7.02%, major banks -2%+",
+          "category": "mover",
+          "note": "Third straight down day for S&P and Nasdaq ahead of Tue Nov 17 NVDA earnings; indexes down >1%, VIX +19%, led by chips (MU, INTC, NVDA) and banks (GS, MS, JPM, BAC); Yahoo and CNBC primary data, StockTitan corroboration."
+        },
+        {
+          "id": "china-confirms-xi-trump-putin-trilateral-nov-16-2026",
+          "title": "China Foreign Ministry's Mao Ning confirms Mon Nov 16 2026 first-ever Xi–Trump–Putin trilateral summit set for Thu Nov 19 in Shenzhen on APEC sidelines — leaders to hold 'in-depth exchanges on safeguarding world peace and promoting strategic stability'; US-China trade truce extension expiring January among market-relevant items",
+          "category": "macro",
+          "note": "First-ever trilateral between the three leaders confirmed Mon Nov 16 by Foreign Ministry spokesperson Mao Ning; Yahoo/France 24 wire and CNBC with direct quote; market-relevant angle is US-China trade truce expiry in January 2027."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro",
+        "equities",
+        "geopolitics"
+      ]
     }
   ]
 }
