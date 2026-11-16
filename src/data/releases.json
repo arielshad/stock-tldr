@@ -1,8 +1,75 @@
 {
-  "generatedAt": "2026-11-15T18:07:56.535Z",
+  "generatedAt": "2026-11-16T03:37:42.935Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "china-oct-2026-activity-nov-16-2026",
+      "categories": [
+        "macro"
+      ],
+      "title": "China October 2026 activity data (Mon Nov 16) — retail sales +0.4% Y/Y (vs +0.8% est), industrial output +4.8% (vs +5.3% est), fixed-asset investment -8.1% YTD (vs -7.0% est) in a broad miss across the board",
+      "org": "National Bureau of Statistics of China",
+      "date": "2026-11-16",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html",
+      "summary": "NBS October data misses on all three activity readings. Retail sales growth fell to +0.4% Y/Y from +1.1% in September; industrial output cooled to +4.8% from +5.5%; property investment -21.6% YTD.",
+      "tags": [
+        "china",
+        "macro",
+        "nbs",
+        "retail-sales",
+        "industrial-production",
+        "fixed-asset-investment",
+        "property-investment",
+        "domestic-demand",
+        "oct-2026"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Retail sales Y/Y": "+0.4% (vs +0.8% est; +1.1% Sep)",
+        "Industrial output Y/Y": "+4.8% (vs +5.3% est; +5.5% Sep)",
+        "Fixed-asset investment YTD": "-8.1% (vs -7.0% est; -7.2% Jan-Sep)",
+        "Property investment YTD": "-21.6%",
+        "Urban unemployment": "5.1% (vs 5.2% Sep)"
+      },
+      "explainer": {
+        "tagline": "China's October activity data misses across industrial output, retail sales and fixed-asset investment, deepening domestic-demand concerns.",
+        "whatIsIt": "The National Bureau of Statistics released its monthly economic activity data for October 2026 on Monday Nov 16. All three headline readings — industrial production, retail sales, and fixed-asset investment — came in below the Reuters poll consensus and slowed from September. The surveyed urban unemployment rate ticked down to 5.1% from 5.2%.",
+        "howItWorks": "Industrial value-added above designated size grew +4.8% Y/Y (September +5.5%; consensus +5.3%). Total retail sales of consumer goods rose +0.4% Y/Y to ¥4,646.3B (September +1.1%; consensus +0.8%). January-to-October fixed-asset investment (ex-rural households) was ¥36,482.4B, down -8.1% Y/Y — wider than the first-nine-months -7.2% and worse than the -7.0% consensus. Within FAI, real-estate development investment fell -21.6% YTD and new-build floor-space sales were down -13.7%. The Services Production Index rose +4.6% in October and the Services Business Activity Index sat at 50.0, the services-sector contraction/expansion line.",
+        "whyItMatters": "The print cuts across the 'AI-exports propping up growth' narrative that has defined 2026's second half. Industrial output is still being carried by AI-adjacent exports, but household consumption and fixed investment (especially property) are the weakest in recent memory. The miss raises the bar for the Nov 20 PBOC LPR fixing and for any additional fiscal push before year-end, and sets a weaker backdrop for export-exposed US-listed names (NKE, SBUX, MGM, LVS) and for the commodity complex (iron ore, copper).",
+        "forWho": "China macro traders, EM allocators, global commodity desks",
+        "tryIt": "https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html"
+      },
+      "image": {
+        "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/16/2026-11-16T020559Z_1_LYNXNPEMAF06C_RTROPTP_3_CHINA-ECONOMY.JPG",
+        "alt": "Workers at a factory in China illustrating slowing industrial activity",
+        "fit": "cover",
+        "credit": "Reuters"
+      },
+      "links": [
+        {
+          "label": "NBS English Release",
+          "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html"
+        },
+        {
+          "label": "Reuters (via WBOW)",
+          "url": "https://1027wbow.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
+        },
+        {
+          "label": "The Standard Coverage",
+          "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts"
+        },
+        {
+          "label": "InvestingLive Recap",
+          "url": "https://investinglive.com/news/china-factory-output-slows-to-4-8-in-october-retail-sales-up-just-0-4-as-demand-sags/"
+        }
+      ],
+      "reddit": {
+        "title": "China October 2026 activity data misses across the board — retail sales +0.4% Y/Y (slowest in recent memory), industrial +4.8%, FAI -8.1% YTD",
+        "body": "China's NBS October 2026 release dropped Monday morning Beijing time and all three activity readings missed the Reuters poll. Here's the tape:\n\n* Industrial output +4.8% Y/Y vs +5.3% expected (+5.5% in September)\n* Retail sales +0.4% Y/Y vs +0.8% expected (+1.1% in September)\n* Fixed-asset investment Jan-Oct -8.1% Y/Y vs -7.0% expected (-7.2% in first 9 months)\n* Real-estate development investment -21.6% YTD; new-build floor-space sales -13.7%\n* Urban surveyed unemployment 5.1% (down 0.1pp from September)\n\nWhat broke:\n\n1. **Consumption cracked, not cooled** — a 0.4% Y/Y retail print is the weakest in years. Services Business Activity Index sat right at the 50.0 expansion/contraction line.\n2. **Property is still the anchor dragging the rest** — real-estate investment -21.6% YTD confirms no stabilization yet despite multiple stimulus rounds through 2026.\n3. **Industrial carried by AI-adjacent exports** — that pillar is still holding the headline up, but new orders and new export orders worsened in October's PMI.\n\nING's Lynn Song called 2026 \"one of the weakest years for domestic demand in recent history.\" Analysts still see full-year GDP landing in a 4.5-5.0% range without fresh stimulus.\n\nNext catalysts: PBOC LPR fixing Nov 20, and whether Beijing signals additional fiscal push into year-end.\n\nFull breakdown: [https://stock-tldr.xyz/releases/china-oct-2026-activity-nov-16-2026](https://stock-tldr.xyz/releases/china-oct-2026-activity-nov-16-2026)"
+      },
+      "publishDate": "2026-11-16T03:37:42.935Z"
+    },
     {
       "id": "mod-samsung-acquisition-talks-nov-13-2026",
       "categories": [

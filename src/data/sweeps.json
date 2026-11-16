@@ -16319,6 +16319,34 @@
         "mna",
         "geopolitical"
       ]
+    },
+    {
+      "id": "sweep-20261116t033742z",
+      "timestamp": "2026-11-16T03:37:42.935Z",
+      "source": "github-actions-sweep",
+      "summary": "One new macro item — China October 2026 activity data (NBS, Mon Nov 16) missed across industrial output, retail sales, and fixed-asset investment, with retail at just +0.4% Y/Y and property investment -21.6% YTD. Scanned Friday Nov 13 session (Nasdaq -0.9% on continued Nvidia/Huang fallout — already in feed via nvda-huang-resigns-ceo-nov-12-2026), weekend BTC price action (already in feed via btc-below-70k-nov-13-2026), and 13F filings (Berkshire/Pershing had not filed Q3 2026 as of sweep).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "china-oct-2026-activity-nov-16-2026",
+          "title": "China October 2026 activity data (Mon Nov 16) — retail sales +0.4% Y/Y (vs +0.8% est), industrial output +4.8% (vs +5.3% est), fixed-asset investment -8.1% YTD (vs -7.0% est) in a broad miss across the board",
+          "category": "macro",
+          "note": "Three-way broad miss on China Oct 2026 data: industrial +4.8% vs +5.3% est, retail sales +0.4% vs +0.8% est, FAI -8.1% YTD vs -7.0% est. Primary-source NBS release confirmed + Reuters coverage. Reinforces weak-domestic-demand / AI-export-propped-growth narrative."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "crypto",
+        "insider"
+      ]
     }
   ]
 }
