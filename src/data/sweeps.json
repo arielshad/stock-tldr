@@ -16410,6 +16410,43 @@
         "fx",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261117t201937z",
+      "timestamp": "2026-11-17T20:19:37.822Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Nov 17 adds: Home Depot Q3 FY26 earnings beat with concurrent CEO change (CFO Richard McPhail named CEO effective Nov 23, Ted Decker steps down to board chair), and the Oct 2026 Census retail sales print (+0.2% M/M headline in line, core +0.6% vs +0.4% est with a sharp Sep core revision higher). Monday's market sell-off, Japan GDP, China activity data already in the feed from the Nov 16 cycle; Nvidia earnings don't report until after the Nov 17 close.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hd-q3-fy26-earnings-ceo-change-nov-17-2026",
+          "title": "Home Depot (HD) Q3 FY26 (Tue Nov 17 2026 premarket) — net sales $43.4B (+4.9% Y/Y) beat ~$42.72B est, comps +2.2%, GAAP EPS $3.72 and adj EPS $3.86 (in-line); FY26 guide TRIMMED to sales +~4.5%, comps +~1.4%, adj EPS growth +~2.0% off $14.69 base; CEO transition — CFO Richard McPhail named CEO effective Nov 23, Ted Decker stays as board chair, Ann-Marie Campbell becomes president & COO, Jordan Broggi EVP & CFO",
+          "category": "earnings",
+          "note": "First major US big-box earnings this week; concurrent CEO transition formally announced. SEC 8-Ks + IR primary."
+        },
+        {
+          "id": "us-retail-sales-oct-2026-nov-17",
+          "title": "U.S. October 2026 retail sales +0.2% M/M (in line) / +6.8% Y/Y to $748.2B; control group (ex-auto, gas, building, food services) +0.6% vs +0.4% est as September core revised UP to +0.5% from +0.1% — Nasdaq extends slide to 8-month low into Nvidia earnings",
+          "category": "macro",
+          "note": "Primary Census release (released 8:30am ET Nov 17); in-line headline but core beat + big September core revision up. Standard major-tier macro print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "insider",
+        "mover",
+        "crypto",
+        "analyst",
+        "regulatory",
+        "mna"
+      ]
     }
   ]
 }
