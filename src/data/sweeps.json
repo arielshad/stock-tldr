@@ -16380,6 +16380,36 @@
         "equities",
         "geopolitics"
       ]
+    },
+    {
+      "id": "sweep-20261117t053728z",
+      "timestamp": "2026-11-17T05:37:28.406Z",
+      "source": "github-actions-sweep",
+      "summary": "Added one macro item — Japan Q3 2026 preliminary GDP, first contraction in four quarters on consumer pullback and import surge, released Mon Nov 16 by the Cabinet Office.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "japan-q3-2026-gdp-contraction-nov-16-2026",
+          "title": "Japan Q3 2026 GDP (Mon Nov 16 2026 preliminary) — first contraction in four quarters: real GDP -0.1% annualized (-0.02% Q/Q) misses +0.2% est as private consumption -0.3% and imports +2.5% weigh; capex +1.6% on AI/semi; nominal GDP +0.4% Q/Q; deflator +2.4% Y/Y; USD/JPY ~159.60 with 83% of economists still eyeing BoJ Dec 17-18 hike to 1.50%",
+          "category": "macro",
+          "note": "First contraction in 4 quarters, missed consensus, directly feeds BoJ Dec hike debate and USD/JPY near 160; released Mon Nov 16 2026 by Japan Cabinet Office — within 72h."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover",
+        "mna",
+        "crypto",
+        "fx",
+        "rates"
+      ]
     }
   ]
 }
