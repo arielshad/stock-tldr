@@ -16482,6 +16482,55 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261118t195124z",
+      "timestamp": "2026-11-18T19:51:24.101Z",
+      "source": "github-actions-sweep",
+      "summary": "Three major US retail earnings reports (Target broad beat and guide raise, TJX comps +4% with FY27 adj EPS guide to $5.17–$5.20, Lowe's +1.8% comps with a modest guide bump) and the UK October CPI print (+3.6% Y/Y, 1-year high, just below BoE's forecast) — all within 72h and primary-source confirmed.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "tgt-q3-2026-earnings-nov-18-2026",
+          "title": "Target (TGT) Q3 2026 (Wed Nov 18 2026 premarket) — net sales $27.07B (+7.1% Y/Y) beat ~$26.5B est; GAAP & adj EPS $2.65 crush ~$2.07 est; comparable sales +5.6% (traffic +5.0%, ticket +0.6%, strongest in years), store comps +4.6%, digital comps +9.8%; $301M pretax tariff refund worth $0.50/sh; FY26 net sales growth guide RAISED to ~6% (from ~5%) and GAAP/adj EPS guide RAISED to $10.65–$11.40 (from $9.90–$10.90) including ~$2.14 of tariff refunds YTD; $527M dividends + $251M buybacks returned in Q3; ~$8.0B remaining on repurchase authorization",
+          "category": "earnings",
+          "note": "Target Q3 is a clear EPS/revenue beat with FY26 guide raise — primary-source confirmed via Target press release and SEC 8-K."
+        },
+        {
+          "id": "tjx-q3-fy27-earnings-nov-18-2026",
+          "title": "TJX Companies (TJX) Q3 FY27 (Wed Nov 18 2026 premarket) — net sales $15.95B (+6% Y/Y) at ~$16.0B est; consolidated comp sales +4% (TJX International +8%, HomeGoods +5%, TJX Canada +6%, Marmaxx +2%); GAAP diluted EPS $1.39 (+9%) and adj EPS $1.34 (+5%, ex-$0.05 tariff refund); pretax margin 13.0% GAAP / 12.5% adj (+30bp GAAP); FY27 comp guide held at +4%, FY27 GAAP EPS guide $5.33–$5.36 (adj $5.17–$5.20); ~$3.0B buybacks planned for FY27; $1.5B returned in Q3",
+          "category": "earnings",
+          "note": "TJX Q3 FY27 — comps +4%, raised FY27 guide, primary-source via SEC 8-K exhibit."
+        },
+        {
+          "id": "low-q3-2026-earnings-nov-18-2026",
+          "title": "Lowe's (LOW) Q3 2026 (Wed Nov 18 2026 premarket) — sales $22.76B (+9.3% Y/Y, lifted by FBM acquisition) beat ~$22.4B est; comp sales +1.8%, online comps +17.4%; GAAP diluted EPS $2.98 and adj EPS $3.10 (including $0.34 IEEPA tariff-refund benefit) beats ~$2.88 est; operating margin 11.32% GAAP (-60bp Y/Y); FY26 guide RAISED modestly to sales ~$92.5B and comps ~+0.5% (from ~$92.0B / flat), GAAP EPS ~$11.75 and adj EPS ~$12.25; capex up to $2.5B",
+          "category": "earnings",
+          "note": "Lowe's Q3 — modest beat and slight guide raise, primary-source via Lowe's IR release and SEC 8-K."
+        },
+        {
+          "id": "uk-cpi-oct-2026-nov-18-2026",
+          "title": "UK October 2026 CPI (Wed Nov 18 2026, ONS 7:00 GMT) — headline CPI +3.6% Y/Y (up from 3.5% Sep, highest in a year), M/M +0.5%; core CPI +2.8% Y/Y (unchanged); services inflation +3.7% Y/Y (unchanged); CPIH +3.7% (from 3.6%); goods +3.5% Y/Y (highest since Sep 2023) — motor fuels and the Oct 1 tobacco duty hike the main drivers; sits just below the BoE's 3.7% projection and stays above the 2% target into the Dec 18 MPC",
+          "category": "macro",
+          "note": "Oct UK CPI from ONS bulletin — headline ticks up to 1-year high, directly ahead of December BoE MPC."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "mover",
+        "rates",
+        "commodity",
+        "crypto",
+        "ipo",
+        "regulatory"
+      ]
     }
   ]
 }
