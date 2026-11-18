@@ -16447,6 +16447,41 @@
         "regulatory",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20261118t050150z",
+      "timestamp": "2026-11-18T05:01:50.758Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Nvidia-centric adds for the Nov 17 session: a seismic Q3 FY27 earnings print ($115.8B revenue, $130B Q4 guide) under interim CEO Kress, and a WSJ-sourced SEC civil probe scoop into disclosures following Huang's resignation.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-q3-fy27-earnings-nov-17-2026",
+          "title": "Nvidia (NVDA) Q3 FY27 (Tue Nov 17 2026 after close) — revenue $115.8B (+103% Y/Y, +20% Q/Q) crushes ~$109.1B LSEG est; non-GAAP EPS $2.68 vs ~$2.48 est; GAAP EPS $2.70; Data Center $107.6B (+110%); Q4 FY27 guide $130.0B ± 3% vs ~$125.1B est (ex-China DC compute); $28.1B returned to shareholders in Q3; +~4% AH in first report under interim CEO Colette Kress after Jensen Huang resignation",
+          "category": "earnings",
+          "note": "First Nvidia print since Jensen Huang resignation; revenue nearly double Y/Y, $130B Q4 guide above Street — the single biggest market-moving release of the sweep window."
+        },
+        {
+          "id": "nvda-sec-civil-probe-wsj-nov-17-2026",
+          "title": "Nvidia (NVDA) reportedly faces SEC civil probe into disclosures after Jensen Huang's exit — WSJ scoop Tue Nov 17 2026 lands same day as Q3 FY27 earnings; SEC and Nvidia decline comment; stock down >10% since Nov 12 resignation",
+          "category": "regulatory",
+          "note": "WSJ scoop reporting the SEC has opened a civil probe into Nvidia disclosures tied to Huang's exit — separate regulatory event from the earnings and from the Nov 8 board probe already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "regulatory",
+        "macro",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }

@@ -1,8 +1,163 @@
 {
-  "generatedAt": "2026-11-17T20:19:37.822Z",
+  "generatedAt": "2026-11-18T05:01:50.758Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "nvda-q3-fy27-earnings-nov-17-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Nvidia (NVDA) Q3 FY27 (Tue Nov 17 2026 after close) — revenue $115.8B (+103% Y/Y, +20% Q/Q) crushes ~$109.1B LSEG est; non-GAAP EPS $2.68 vs ~$2.48 est; GAAP EPS $2.70; Data Center $107.6B (+110%); Q4 FY27 guide $130.0B ± 3% vs ~$125.1B est (ex-China DC compute); $28.1B returned to shareholders in Q3; +~4% AH in first report under interim CEO Colette Kress after Jensen Huang resignation",
+      "org": "NVIDIA",
+      "date": "2026-11-17",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "summary": "Nvidia's Q3 FY27 revenue doubled to $115.8B and beat consensus by ~$6.7B; Q4 guide $130B ± 3% tops ~$125.1B est. First print since Jensen Huang resigned Nov 12; interim CEO Colette Kress ran the call. Board chairman Harvey Jones said Huang will not be reinstated.",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "Revenue": "$115.8B (+103% Y/Y, +20% Q/Q)",
+        "Revenue vs est": "~$6.7B beat (LSEG $109.1B)",
+        "GAAP EPS": "$2.70",
+        "Non-GAAP EPS": "$2.68 vs ~$2.48 est",
+        "Data Center revenue": "$107.6B (+110% Y/Y)",
+        "Q4 FY27 revenue guide": "$130.0B ± 3% vs ~$125.1B est",
+        "Q4 FY27 gross margin guide": "71.0–72.0% (GAAP and non-GAAP)",
+        "Q3 capital returned": "$28.1B (buybacks + dividends)",
+        "Buyback authorization remaining": "~$227.3B",
+        "Next dividend": "$0.25/share payable Dec 23 2026",
+        "AH move": "+~4%"
+      },
+      "importance": "seismic",
+      "tags": [
+        "earnings",
+        "nvda",
+        "nvidia",
+        "q3-fy27",
+        "ai-chips",
+        "data-center",
+        "rubin",
+        "beat",
+        "guidance-raise",
+        "ceo-change",
+        "colette-kress",
+        "mega-cap"
+      ],
+      "explainer": {
+        "tagline": "Nvidia Q3 FY27 revenue doubles to $115.8B, guides Q4 to $130B — first print under interim CEO Kress after Huang resignation.",
+        "whatIsIt": "Nvidia reported fiscal Q3 FY2027 results after the close on Tuesday Nov 17 2026 — the first earnings print since founder Jensen Huang resigned as CEO on Nov 12. Revenue was $115.8 billion, up 103% year-over-year and 20% sequentially, versus LSEG consensus of ~$109.1 billion. GAAP diluted EPS was $2.70 and non-GAAP EPS was $2.68, versus ~$2.48 expected. The company guided Q4 FY27 revenue to $130.0 billion ± 3%, above the ~$125.1 billion analyst average.",
+        "howItWorks": "Data Center revenue was $107.6 billion, up 110% Y/Y, and represented ~93% of the quarterly total. The Q4 outlook assumes no Data Center compute revenue from China. GAAP and non-GAAP gross margins are guided to 71.0–72.0% for Q4, with GAAP operating expenses of ~$11.0 billion. Nvidia returned $28.1 billion to shareholders in Q3 through buybacks and dividends, with ~$227.3 billion remaining on the repurchase authorization after the $150 billion increase approved on Sep 28 2026. The next quarterly dividend is $0.25 per share, payable Dec 23 2026 to holders of record on Dec 2.",
+        "whyItMatters": "The world's largest public company beat its own Q3 guide by ~$7.8 billion and set Q4 ahead of consensus by ~$4.9 billion — a direct reply to the AI-capex demand debate that drove the Nov 5 Nasdaq correction and Nov 16 global sell-off. Colette Kress, CFO and interim CEO, ran the call; board chairman Harvey Jones confirmed the board will not reinstate Jensen Huang, per Yahoo Finance coverage. Shares rose ~4% in extended trading after closing down 0.44% at $155.46 ahead of the print. Read-throughs: AMD, Broadcom and the broader semi complex; neocloud customers (CRWV, NBIS); hyperscaler capex plans that have driven ~75% of the group's revenue growth.",
+        "forWho": "mega-cap AI traders, risk/vol desks, semiconductor specialists",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9",
+        "alt": "Nvidia Voyager headquarters exterior sign featured on Nvidia press release",
+        "fit": "cover",
+        "credit": "NVIDIA"
+      },
+      "links": [
+        {
+          "label": "Nvidia Press Release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-gains-hours-board-230838831.html"
+        },
+        {
+          "label": "CNBC Live Blog",
+          "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "NVDA Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "Nvidia Q3 FY27: revenue $115.8B (+103% Y/Y) crushes $109.1B est, Q4 guide $130B vs $125.1B est — first print under interim CEO Kress, board says Huang isn't coming back",
+        "body": "Nvidia's first earnings print since Jensen Huang's Nov 12 resignation dropped Tuesday after the close. Beat every line, guided Q4 above the Street.\n\n* Revenue **$115.8B (+103% Y/Y, +20% Q/Q)** — blows past LSEG est of ~$109.1B\n* Non-GAAP EPS **$2.68** vs ~$2.48 est; GAAP EPS $2.70\n* Data Center **$107.6B (+110% Y/Y)** — ~93% of total revenue\n* **Q4 FY27 guide: $130.0B ± 3%** vs ~$125.1B consensus (ex-China DC compute)\n* Q4 gross margin guide 71.0–72.0% GAAP and non-GAAP\n* $28.1B returned to shareholders in Q3; ~$227.3B remaining on buyback authorization\n* +~4% AH after closing -0.44% at $155.46\n\nThe CEO overhang:\n\n1. **Interim CEO Colette Kress** (CFO) ran the call. Board chairman Harvey Jones confirmed the board **will not reinstate Jensen Huang**, per Yahoo Finance.\n2. **WSJ reports an SEC civil probe** into Nvidia's disclosures tied to the Huang exit also landed Tuesday. Neither Nvidia nor the SEC has confirmed.\n3. **AI capex debate** — the quarter directly answers the demand-destruction case that cracked the AI trade on Nov 5 and knocked the Nasdaq -2.49% on Nov 16.\n\nNext catalysts: House GOP closed-door Huang briefing requested Nov 18, FOMC Dec 8–9, Nvidia Q4 FY27 in Feb 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-q3-fy27-earnings-nov-17-2026](https://stock-tldr.xyz/releases/nvda-q3-fy27-earnings-nov-17-2026)"
+      },
+      "publishDate": "2026-11-18T05:01:50.758Z"
+    },
+    {
+      "id": "nvda-sec-civil-probe-wsj-nov-17-2026",
+      "categories": [
+        "regulatory",
+        "mover",
+        "rumor"
+      ],
+      "title": "Nvidia (NVDA) reportedly faces SEC civil probe into disclosures after Jensen Huang's exit — WSJ scoop Tue Nov 17 2026 lands same day as Q3 FY27 earnings; SEC and Nvidia decline comment; stock down >10% since Nov 12 resignation",
+      "org": "NVIDIA",
+      "date": "2026-11-17",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The Wall Street Journal reported Tue Nov 17 2026 that the SEC has opened a civil probe examining whether Nvidia's disclosures misled investors. The SEC declined to comment; Nvidia did not respond. Report landed hours before Q3 FY27 earnings print.",
+      "tickers": [
+        "NVDA"
+      ],
+      "metrics": {
+        "WSJ report dateline": "Nov 17 2026",
+        "SEC probe type": "Civil (per WSJ)",
+        "NVDA drawdown since Huang exit (Nov 12)": ">10%",
+        "Reported scope": "Whether disclosures misled investors",
+        "SEC comment": "Declined",
+        "Nvidia comment": "No immediate response"
+      },
+      "importance": "major",
+      "tags": [
+        "nvda",
+        "nvidia",
+        "sec",
+        "disclosures",
+        "civil-probe",
+        "jensen-huang",
+        "governance",
+        "wsj-scoop",
+        "reportedly"
+      ],
+      "explainer": {
+        "tagline": "WSJ: SEC has opened a civil investigation into whether Nvidia's disclosures misled investors after Jensen Huang's exit.",
+        "whatIsIt": "The Wall Street Journal reported on Tuesday Nov 17 2026 that the U.S. Securities and Exchange Commission has opened a civil investigation into Nvidia. Per the report, the probe is examining whether Nvidia's disclosures misled investors following the resignation of founder-CEO Jensen Huang on Nov 12. The SEC declined to comment and Nvidia did not immediately respond, per Reuters and TechCrunch coverage of the WSJ scoop.",
+        "howItWorks": "WSJ calls it a civil probe — a fact-finding step that does not mean the agency has concluded any violation occurred. The reported scope is Nvidia's disclosures around Huang's conduct and related facts first surfaced in New York Times and Financial Times reporting earlier this month. Huang resigned Nov 12 after Nvidia's board announced a Nov 8 independent investigation into his relationship with Alice Huang, a former executive at Nvidia customer Megaspeed. Per Yahoo Finance coverage, board chairman Harvey Jones declined to comment specifically on Huang's exit and said the board will not reinstate him. The news landed hours before Nvidia's Q3 FY27 earnings call.",
+        "whyItMatters": "A credibly-sourced SEC civil probe of the largest public company is a governance overlay on top of the Huang resignation, House GOP briefing request (scheduled Nov 18), and separate Semafor-reported DOJ inquiries. NVDA has fallen more than 10% since Huang's Nov 12 exit, per Bloomberg. The report lands at an inflection: Q3 FY27 beat and $130B Q4 guide (Nov 17 after close) are the immediate offset; however, probes of this scope typically take 12–18 months and can surface new disclosures. Read-through: governance-sensitive mega-caps (AMD, AVGO, MSFT, GOOGL), US-China export-control news flow, and NVDA proxy/10-Q language on known regulatory inquiries.",
+        "forWho": "mega-cap tech traders, governance/risk desks, event-driven funds",
+        "tryIt": "https://finance.yahoo.com/quote/NVDA"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+        "alt": "Jensen Huang photo used on TechCrunch reporting of the SEC civil probe into Nvidia disclosures",
+        "fit": "cover",
+        "credit": "TechCrunch"
+      },
+      "links": [
+        {
+          "label": "TechCrunch Report",
+          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+        },
+        {
+          "label": "AI Weekly Alert",
+          "url": "https://aiweekly.co/alerts/sec-opens-civil-probe-of-nvidia-disclosures-after-huang-exit"
+        },
+        {
+          "label": "Yahoo Finance Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-gains-hours-board-230838831.html"
+        },
+        {
+          "label": "NVDA Yahoo Quote",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ],
+      "reddit": {
+        "title": "WSJ: SEC has opened a civil probe into Nvidia's disclosures after Jensen Huang's resignation — report lands same day as Q3 FY27 earnings call",
+        "body": "The Wall Street Journal reported Tuesday Nov 17 that the SEC has opened a civil investigation into Nvidia. Hours before the Q3 FY27 earnings call.\n\n* Reported scope: whether Nvidia's **disclosures misled investors**\n* WSJ calls it a **civil probe** — fact-finding, not an enforcement action\n* **SEC declined to comment**; Nvidia did not immediately respond\n* NVDA down **>10%** since Huang's Nov 12 resignation (per Bloomberg)\n* Report lands same day as Nvidia's Q3 FY27 print ($115.8B revenue, $130B Q4 guide)\n\nWhy this matters:\n\n1. **Governance stack is now deep** — board probe (Nov 8), Huang resignation (Nov 12), Semafor-reported DOJ inquiries (Nov 12), now a WSJ-sourced SEC civil probe (Nov 17).\n2. **Earnings offset today** — Q3 beat + Q4 guide above consensus lifted the stock ~4% AH after a -0.44% regular-session close to $155.46.\n3. **Timeline** — SEC civil probes typically take 12–18 months and can surface new disclosures through document requests and testimony.\n\nNext catalysts: House GOP closed-door Huang briefing requested Nov 18, any SEC/Nvidia confirmation, NVDA Q4 FY27 print Feb 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/nvda-sec-civil-probe-wsj-nov-17-2026](https://stock-tldr.xyz/releases/nvda-sec-civil-probe-wsj-nov-17-2026)"
+      },
+      "publishDate": "2026-11-18T05:01:50.758Z"
+    },
     {
       "id": "hd-q3-fy26-earnings-ceo-change-nov-17-2026",
       "categories": [
