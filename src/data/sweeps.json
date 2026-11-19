@@ -16531,6 +16531,56 @@
         "ipo",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261119t045645z",
+      "timestamp": "2026-11-19T04:56:45.280Z",
+      "source": "github-actions-sweep",
+      "summary": "Four new items for the Nov 16–19 window: Anthropic's ANT IPO priced at $83 (largest US IPO ever by proceeds), Palo Alto Networks Q1 FY27 beat-and-raise plus Applied Compute acquisition, the CMS CRUSH proposed rule triggering a UNH/HUM managed-care rout, and the hawkish Oct 27–28 FOMC minutes release.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "anthropic-ipo-priced-ant-nov-18-2026",
+          "title": "Anthropic (ANT) prices IPO at $83 Wed Nov 18 2026 above $70–$78 range — 980M Class A shares sold for ~$81.3B in proceeds, largest US IPO ever by size; implied fully-diluted valuation ~$1.5T; trading opens Thu Nov 19 on Nasdaq; AMD/Broadcom/Google/Micron/Microsoft/Nvidia/TSMC Partners buying $26B of non-voting shares in concurrent private placement; each of 7 co-founders sold ~3.4M shares (~$282M each)",
+          "category": "ipo",
+          "note": "Final IPO pricing is a distinct event from the Nov 10 S-1 range filing; largest US IPO ever by proceeds, confirmed first-trade Nov 19 on Nasdaq."
+        },
+        {
+          "id": "panw-q1-fy27-earnings-nov-18-2026",
+          "title": "Palo Alto Networks (PANW) Q1 FY27 (Wed Nov 18 2026 after close) — revenue $3.44B (+39% Y/Y) beats ~$3.31B est; GAAP diluted EPS $0.57 and non-GAAP EPS $1.05 (vs ~$0.97 est); Next-Generation Security ARR $9.73B (+66% Y/Y); RPO $21.0B (+35%); FY27 guide RAISED to revenue $14.52–$14.57B and non-GAAP EPS $4.26–$4.30 with 29.5% non-GAAP op margin; Q2 FY27 guide revenue $3.530–$3.550B and non-GAAP EPS $1.01–$1.03; announces intent to acquire open-weight-AI inference platform Applied Compute",
+          "category": "earnings",
+          "note": "Beat on revenue and non-GAAP EPS with materially raised FY27 guide and an open-weight-AI inference acquisition — clear major-tier earnings print."
+        },
+        {
+          "id": "unh-hum-cms-crush-rule-nov-18-2026",
+          "title": "UnitedHealth (UNH) -10.21% to $349.91 and Humana (HUM) ~-13% Wed Nov 18 2026 on CMS CRUSH anti-fraud proposed rule (CMS-6098-P issued Mon Nov 16) — rule would extend Medicare Advantage RADV audit extrapolation back to payment year 2018 and require insurers to repay improper payments; CMS projects ~$9B in extrapolated recoveries per audit year industry-wide and ~$90B federal savings over 10 years; UNH volume 17.4M shares (~3× avg); CVS -3.48%, CI -2.75%, ELV -6.13%; public comment open to Jan 19 2027",
+          "category": "regulatory",
+          "note": "Sector-wide catalyst with named primary rule (CMS-6098-P issued Mon Nov 16) and double-digit moves in UNH and HUM on Wed Nov 18."
+        },
+        {
+          "id": "fomc-oct-2026-minutes-nov-18-2026",
+          "title": "FOMC Oct 27–28 2026 minutes (released Wed Nov 18 2026) — almost all participants judged further rate hikes would likely be needed under their baseline outlooks; some said a >25bp move could be considered at Dec 8–9 if inflation data worsens; participants flagged AI-related demand as a significant source of inflation risk; vote at the Oct meeting was 10–2 to hold at 3.75–4.00% with Cook and Hammack dissenting for a 25bp hike; 10Y yield -3bp to 5.07% on the release",
+          "category": "macro",
+          "note": "Primary-source Fed release; hawkish lean with explicit AI-demand inflation callout ahead of Dec 8–9 FOMC."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "earnings",
+        "regulatory",
+        "mover",
+        "macro",
+        "rates",
+        "crypto",
+        "commodity",
+        "fx"
+      ]
     }
   ]
 }

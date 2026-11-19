@@ -1,8 +1,325 @@
 {
-  "generatedAt": "2026-11-18T19:51:24.101Z",
+  "generatedAt": "2026-11-19T04:56:45.280Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "anthropic-ipo-priced-ant-nov-18-2026",
+      "categories": [
+        "ipo"
+      ],
+      "title": "Anthropic (ANT) prices IPO at $83 Wed Nov 18 2026 above $70–$78 range — 980M Class A shares sold for ~$81.3B in proceeds, largest US IPO ever by size; implied fully-diluted valuation ~$1.5T; trading opens Thu Nov 19 on Nasdaq; AMD/Broadcom/Google/Micron/Microsoft/Nvidia/TSMC Partners buying $26B of non-voting shares in concurrent private placement; each of 7 co-founders sold ~3.4M shares (~$282M each)",
+      "org": "Anthropic",
+      "date": "2026-11-18",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "Anthropic priced its Nasdaq IPO at $83/share — above the $70–$78 range — selling 980M Class A shares for ~$81.3B, surpassing SpaceX's $75B as the largest US IPO ever. Trading opens Thu Nov 19 on ANT.",
+      "tags": [
+        "ipo",
+        "ai",
+        "anthropic",
+        "ant",
+        "nasdaq",
+        "mega-ipo",
+        "pricing",
+        "oversubscribed",
+        "class-n"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "ANT",
+        "NVDA",
+        "GOOGL",
+        "MSFT",
+        "AMD",
+        "AVGO"
+      ],
+      "metrics": {
+        "Price": "$83 (vs $70–$78 range)",
+        "Shares": "980M Class A (vs 825M originally)",
+        "Proceeds": "~$81.3B",
+        "Valuation": "~$1.5T fully-diluted",
+        "Private placement": "$26B (non-voting shares)",
+        "First trade": "Thu Nov 19 2026"
+      },
+      "explainer": {
+        "tagline": "Anthropic priced the largest US IPO ever at $83/share — ~$81.3B raised, $1.5T valuation; trading begins Thursday on Nasdaq as ANT.",
+        "whatIsIt": "Anthropic PBC, the AI lab behind Claude, set a final IPO price of $83 per Class A share late Tuesday into Wednesday — above the $70–$78 range filed in its amended S-1 on Nov 10. The deal grew to 980M shares from the originally planned 825M as the book ran heavily oversubscribed.",
+        "howItWorks": "At $83/share on 980M Class A shares, the IPO raises about $81.3B in proceeds — topping SpaceX's $75B as the largest US IPO on record. Implied fully-diluted valuation lands near $1.5T, up from the ~$965B May private round but below the ~$2T some reports said Anthropic initially targeted. Separately, a consortium of AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners agreed to buy $26B of non-voting shares in a concurrent private placement. Each of the seven co-founders — including CEO Dario Amodei and President Daniela Amodei — sold ~3.4M shares at the IPO price, netting ~$282M apiece per the S-1 filing.",
+        "whyItMatters": "This is now the biggest-proceeds IPO in US history and the first mega AI-lab listing — ANT becomes an index-weight event for the Nasdaq-100 inclusion clock and a benchmark for the private AI market's public valuation. The seven strategic buyers at the $26B private placement (AMD/AVGO/GOOGL/MU/MSFT/NVDA/TSM) now have explicit exposure to Anthropic's trajectory alongside their own cloud/compute contracts. First-trade levels on Thu Nov 19 will set the post-money mark for the AI-lab bucket and test whether public investors will fund the capex arms race at these valuations after Nvidia's recent wobble.",
+        "forWho": "Macro/AI trade, IPO desks, mega-cap allocators",
+        "tryIt": "https://nasdaqtrader.com/TraderNews.aspx?id=DTN2026-28"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+        "alt": "Anthropic co-founder and CEO Dario Amodei ahead of the company's Nasdaq IPO",
+        "fit": "cover",
+        "credit": "Getty Images via TechCrunch"
+      },
+      "links": [
+        {
+          "label": "TechCrunch Pricing",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
+        {
+          "label": "Yahoo IPO Live Blog",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+        },
+        {
+          "label": "Nasdaq Listing Notice",
+          "url": "https://nasdaqtrader.com/TraderNews.aspx?id=DTN2026-28"
+        },
+        {
+          "label": "Prior S-1 Range Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm"
+        }
+      ],
+      "reddit": {
+        "title": "Anthropic prices IPO at $83 — $81.3B raised, $1.5T valuation, largest US IPO ever; ANT trades Thursday",
+        "body": "Anthropic priced its Nasdaq IPO Wednesday night at $83/share, above the $70–$78 range filed last week. Here's what happened:\n\n* $83/share final price, 980M Class A shares sold (up from 825M planned)\n* ~$81.3B raised — surpasses SpaceX's $75B as the largest US IPO by proceeds ever\n* Implied fully-diluted valuation ~$1.5T (vs the ~$965B May private round, below a reported ~$2T target)\n* Book was reportedly 7x oversubscribed\n* Each of 7 co-founders sold ~3.4M shares, netting ~$282M each\n* Separate $26B private placement for non-voting shares — AMD, Broadcom, Google, Micron, Microsoft, Nvidia, TSMC Partners\n\nThree things it sets up:\n\n1. **Index weight** — ANT starts the clock on Nasdaq-100 inclusion and becomes the mega-cap pure-play AI lab for ETF rebalancing.\n2. **Private-market benchmark** — $1.5T sets the public comp for OpenAI's reported $500B+ secondary pricing and for AI-lab rounds through 2027.\n3. **Capex-arms-race funding signal** — the 7 strategics locking in $26B of exposure confirms the cloud/compute circular-buying dynamic is a feature, not a bug, into 2027.\n\nTrading opens Thursday Nov 19 on Nasdaq as ANT. Vanda flagged ~$250M of expected first-day retail buying.\n\nNext catalysts: ANT first trade Thu Nov 19, FOMC Dec 8–9 (CME ~85% 25bp hike), Nasdaq-100 reconstitution window.\n\nFull breakdown: [https://stock-tldr.xyz/releases/anthropic-ipo-priced-ant-nov-18-2026](https://stock-tldr.xyz/releases/anthropic-ipo-priced-ant-nov-18-2026)"
+      },
+      "publishDate": "2026-11-19T04:56:45.280Z"
+    },
+    {
+      "id": "panw-q1-fy27-earnings-nov-18-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Palo Alto Networks (PANW) Q1 FY27 (Wed Nov 18 2026 after close) — revenue $3.44B (+39% Y/Y) beats ~$3.31B est; GAAP diluted EPS $0.57 and non-GAAP EPS $1.05 (vs ~$0.97 est); Next-Generation Security ARR $9.73B (+66% Y/Y); RPO $21.0B (+35%); FY27 guide RAISED to revenue $14.52–$14.57B and non-GAAP EPS $4.26–$4.30 with 29.5% non-GAAP op margin; Q2 FY27 guide revenue $3.530–$3.550B and non-GAAP EPS $1.01–$1.03; announces intent to acquire open-weight-AI inference platform Applied Compute",
+      "org": "Palo Alto Networks",
+      "date": "2026-11-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+      "summary": "PANW Q1 FY27 revenue $3.44B (+39%) and non-GAAP EPS $1.05 beat; NGS ARR $9.73B (+66%); FY27 guide materially raised to $14.52–$14.57B revenue and $4.26–$4.30 adj EPS; also announces Applied Compute acquisition.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-raise",
+        "cybersecurity",
+        "ngs-arr",
+        "platformization",
+        "ai-security",
+        "m-and-a",
+        "applied-compute",
+        "q1-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PANW",
+        "CRWD",
+        "ZS",
+        "NET"
+      ],
+      "metrics": {
+        "Revenue": "$3.44B (+39% Y/Y) vs ~$3.31B est",
+        "EPS (non-GAAP)": "$1.05 vs ~$0.97 est",
+        "EPS (GAAP)": "$0.57",
+        "NGS ARR": "$9.73B (+66% Y/Y)",
+        "RPO": "$21.0B (+35% Y/Y)",
+        "FY27 revenue guide": "$14.52–$14.57B (+26–27%)",
+        "FY27 non-GAAP EPS guide": "$4.26–$4.30",
+        "Q2 FY27 revenue guide": "$3.530–$3.550B"
+      },
+      "explainer": {
+        "tagline": "PANW beat Q1 FY27 across every line, raised FY27 guide materially, and announced plans to buy open-weight-AI inference platform Applied Compute.",
+        "whatIsIt": "Palo Alto Networks reported fiscal Q1 2027 results after the Wednesday close, the first quarter ended Oct 31 2026. The platformization-driven NGS ARR franchise continued to grow at >60% Y/Y, and management raised full-year revenue and EPS guidance above prior ranges.",
+        "howItWorks": "Revenue of $3.44B topped the ~$3.31B consensus and grew 39% Y/Y, the strongest growth in multiple years; Next-Generation Security ARR hit $9.73B (+66% Y/Y) and RPO reached $21.0B (+35%). Non-GAAP diluted EPS came in at $1.05 against the ~$0.97 Street number; GAAP diluted EPS was $0.57. Management set Q2 FY27 revenue guidance at $3.530–$3.550B (+36–37%) with non-GAAP EPS of $1.01–$1.03. FY27 revenue guidance was raised to $14.52–$14.57B (+26–27%), NGS ARR to $11.475–$11.525B, and non-GAAP EPS to $4.26–$4.30 at a 29.5% non-GAAP operating margin. Alongside the print, PANW announced an agreed acquisition of Applied Compute, a post-training and inference platform for open-weight AI models — the stated goal is to offer secure open-weight models to enterprise customers; price and timing were not disclosed.",
+        "whyItMatters": "This is the cybersecurity sector's most important platformization read of the quarter: growth accelerated and NGS ARR durability held through a broader tech wobble, with cash flow and backlog both expanding. The Applied Compute deal extends PANW into the open-weight AI inference stack, directly comping to CrowdStrike (CRWD), Zscaler (ZS) and Cloudflare (NET) on the AI-security build-out. A clean beat-and-raise with elevated growth could re-anchor sector multiples that had compressed on software-wide concerns into the Thanksgiving window.",
+        "forWho": "Software/cyber analysts, platform-sector allocators",
+        "tryIt": "https://finance.yahoo.com/quote/PANW/"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Palo_Alto_Networks_Reports_Fiscal_First_Quarter_2027_Financial_Results_1536154.webp",
+        "alt": "Palo Alto Networks Q1 FY27 earnings cover graphic",
+        "fit": "cover",
+        "credit": "StockTitan"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm"
+        },
+        {
+          "label": "SEC 8-K Index",
+          "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/0001327567-26-000030-index.htm"
+        },
+        {
+          "label": "Applied Compute Deal",
+          "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex992pressrelease_november.htm"
+        },
+        {
+          "label": "StockTitan Recap",
+          "url": "https://www.stocktitan.net/news/PANW/palo-alto-networks-reports-fiscal-first-quarter-2027-financial-z0ztbt5rypny.html"
+        },
+        {
+          "label": "PANW Quote",
+          "url": "https://finance.yahoo.com/quote/PANW/"
+        }
+      ],
+      "reddit": {
+        "title": "Palo Alto Networks Q1 FY27: revenue +39% to $3.44B, NGS ARR +66% to $9.73B, FY27 guide raised, buys Applied Compute",
+        "body": "PANW reported Q1 FY27 after the Wednesday close with a clean beat and a materially raised full-year guide. The highlights:\n\n* Revenue $3.44B (+39% Y/Y) vs ~$3.31B est\n* Non-GAAP diluted EPS $1.05 vs ~$0.97 est; GAAP EPS $0.57\n* Next-Generation Security ARR $9.73B (+66% Y/Y)\n* Remaining Performance Obligations $21.0B (+35% Y/Y)\n* FY27 revenue guide raised to $14.52–$14.57B (+26–27%)\n* FY27 non-GAAP EPS guide raised to $4.26–$4.30, op margin ~29.5%\n* Q2 FY27 revenue guide $3.530–$3.550B (+36–37%), non-GAAP EPS $1.01–$1.03\n\nThree things that made the print:\n\n1. **Platformization accelerated, not plateaued** — NGS ARR growth re-accelerated to +66% Y/Y even off a $9.7B base.\n2. **FY guidance materially raised** — CFO called it a 'material' raise; FY27 EPS now $4.26–$4.30 vs the prior $4.16–$4.19 range.\n3. **Applied Compute acquisition** — intent to buy an open-weight-AI post-training/inference platform; price and close date not disclosed, pushes PANW further into AI-security.\n\nNext catalysts: PANW earnings call Thursday morning, FOMC Dec 8–9, FY27 Analyst Day cadence.\n\nFull breakdown: [https://stock-tldr.xyz/releases/panw-q1-fy27-earnings-nov-18-2026](https://stock-tldr.xyz/releases/panw-q1-fy27-earnings-nov-18-2026)"
+      },
+      "publishDate": "2026-11-19T04:56:45.280Z"
+    },
+    {
+      "id": "unh-hum-cms-crush-rule-nov-18-2026",
+      "categories": [
+        "regulatory",
+        "mover"
+      ],
+      "title": "UnitedHealth (UNH) -10.21% to $349.91 and Humana (HUM) ~-13% Wed Nov 18 2026 on CMS CRUSH anti-fraud proposed rule (CMS-6098-P issued Mon Nov 16) — rule would extend Medicare Advantage RADV audit extrapolation back to payment year 2018 and require insurers to repay improper payments; CMS projects ~$9B in extrapolated recoveries per audit year industry-wide and ~$90B federal savings over 10 years; UNH volume 17.4M shares (~3× avg); CVS -3.48%, CI -2.75%, ELV -6.13%; public comment open to Jan 19 2027",
+      "org": "Centers for Medicare & Medicaid Services",
+      "date": "2026-11-18",
+      "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sinks-12-cms-fraud-194116346.html",
+      "summary": "Managed-care stocks crashed Wed Nov 18 on the CMS CRUSH anti-fraud proposed rule — UNH -10.21% to $349.91, HUM ~-13%, ELV -6.13%, CVS -3.48%. Rule extends MA RADV extrapolation to 2018 and projects ~$90B in federal savings over 10 years.",
+      "tags": [
+        "regulatory",
+        "cms",
+        "crush-rule",
+        "medicare-advantage",
+        "radv",
+        "extrapolation",
+        "managed-care",
+        "mover",
+        "unh",
+        "hum",
+        "cvs",
+        "elv",
+        "cigna"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UNH",
+        "HUM",
+        "ELV",
+        "CVS",
+        "CI"
+      ],
+      "metrics": {
+        "UNH move": "-10.21% to $349.91 (vol 17.4M, ~3× avg)",
+        "HUM move": "~-13%",
+        "ELV move": "-6.13%",
+        "CVS move": "-3.48%",
+        "CI move": "-2.75%",
+        "CMS projected savings": "~$90B over 10 years",
+        "RADV extrapolation starts": "payment year 2018"
+      },
+      "explainer": {
+        "tagline": "CMS's proposed CRUSH rule extends Medicare Advantage audit extrapolation back to 2018; UNH -10%, HUM -13% as managed-care re-rates lower.",
+        "whatIsIt": "The Centers for Medicare & Medicaid Services (CMS) proposed CMS-6098-P on Mon Nov 16, branded the CRUSH rule — Comprehensive Regulations to Uncover Suspicious Healthcare — a sweeping anti-fraud framework covering Medicare, Medicare Advantage, Medicaid, CHIP and the ACA Marketplace. The Medicare Advantage piece is what jolted insurer stocks: it reinstates statistical extrapolation across Risk Adjustment Data Validation (RADV) audits starting with payment year 2018.",
+        "howItWorks": "CMS would apply extrapolation to a statistically valid sample of charts drawn from an MA contract, then project the identified error rate across the whole contract and claw back overpayments. Starting with 2018 audits, CMS estimates ~$9B of extrapolated recoveries per audit year industry-wide. The broader CRUSH package projects ~$90B in federal savings over 10 years across Medicare, Medicaid, CHIP and the Marketplace. The public comment window runs through Jan 19 2027. UnitedHealth (UNH) closed Nov 18 at $349.91, down $39.77 (-10.21%) on 17.4M shares versus a 5.9M 30-day average — a $385.23 support level failed intraday. Humana (HUM) fell nearly 13% in the same session; Elevance (ELV) -6.13%, CVS -3.48%, Cigna (CI) -2.75%. UNH had already fallen 5.4% on Nov 17.",
+        "whyItMatters": "This is the single biggest regulatory shock to managed care since the 2023 RADV final rule — the back-dated extrapolation to 2018 opens up roughly a decade of retroactive audit exposure. Oppenheimer expects legal challenges mirroring the 2025 litigation that previously blocked a similar framework. Sen. Elizabeth Warren amplified the structural attack with a call to break up vertically integrated carriers (insurer + PBM + pharmacy). The 2027 Medicare Advantage bid cycle lands into this overhang, and sector forward estimates likely reset lower until the comment period and probable court fight resolve.",
+        "forWho": "Managed-care analysts, healthcare sector funds, DC-policy traders",
+        "tryIt": "https://finance.yahoo.com/quote/UNH/"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/5467848b53d70b2fa3f27228f59c874efd3fbeebd5a6f070db890cd9cf49c4ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F25e711c1853bbe9f32166f27275b43bb",
+        "alt": "UnitedHealth and Humana logos as managed-care stocks tumble on CMS CRUSH rule",
+        "fit": "cover",
+        "credit": "Yahoo Finance"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sinks-12-cms-fraud-194116346.html"
+        },
+        {
+          "label": "Forex Recap",
+          "url": "https://www.fxleaders.com/news/2026/11/18/unitedhealth-faces-9-billion-industry-clawback-under-new-cms-rules-sending-unh-stock-below-350"
+        },
+        {
+          "label": "UNH Daily Report",
+          "url": "https://www.heygotrade.com/en/news/unitedhealth-unh-stock-news-november-19-2026/"
+        },
+        {
+          "label": "TradingKey Analysis",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262310909-unitedhealth-falls-cms-crush-audit-rule-unh-385-23-support-november-18-2026-tradingkey"
+        },
+        {
+          "label": "UNH Quote",
+          "url": "https://finance.yahoo.com/quote/UNH/"
+        }
+      ],
+      "reddit": {
+        "title": "UNH -10.2% to $349.91, HUM -13%: CMS's proposed CRUSH rule extends MA audit extrapolation back to 2018, ~$90B 10-yr savings target",
+        "body": "Managed care got smoked Wednesday Nov 18 after Monday's CMS CRUSH proposed rule. Headline moves:\n\n* UNH -10.21% to $349.91 on 17.4M shares (~3× avg)\n* HUM ~-13%\n* ELV -6.13%\n* CVS -3.48%, CI -2.75%\n* UNH already dropped 5.4% on Nov 17\n\nWhat CMS is proposing (CMS-6098-P, issued Mon Nov 16):\n\n1. **Risk-adjustment extrapolation back to 2018** — CMS would sample MA charts, extrapolate the error rate across the whole contract, and claw back overpayments; industry-wide ~$9B in recoveries per audit year.\n2. **Sweeping anti-fraud package** — CRUSH (Comprehensive Regulations to Uncover Suspicious Healthcare) spans Medicare, Medicaid, CHIP and the ACA Marketplace, with a projected $90B in federal savings over 10 years.\n3. **Legal and political pressure stacking** — Oppenheimer expects court challenges similar to 2025's; Warren used the backdrop to call for breaking up vertically integrated insurer-PBM-pharmacy groups.\n\nPublic comment window runs through Jan 19 2027, meaning this sits on top of the 2027 MA bid cycle as an open overhang.\n\nNext catalysts: UNH Nov 19 reaction, broader Medicare Advantage proposed rule (CY2027), court-challenge filings, Dec 8–9 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/unh-hum-cms-crush-rule-nov-18-2026](https://stock-tldr.xyz/releases/unh-hum-cms-crush-rule-nov-18-2026)"
+      },
+      "publishDate": "2026-11-19T04:56:45.280Z"
+    },
+    {
+      "id": "fomc-oct-2026-minutes-nov-18-2026",
+      "categories": [
+        "macro",
+        "rates"
+      ],
+      "title": "FOMC Oct 27–28 2026 minutes (released Wed Nov 18 2026) — almost all participants judged further rate hikes would likely be needed under their baseline outlooks; some said a >25bp move could be considered at Dec 8–9 if inflation data worsens; participants flagged AI-related demand as a significant source of inflation risk; vote at the Oct meeting was 10–2 to hold at 3.75–4.00% with Cook and Hammack dissenting for a 25bp hike; 10Y yield -3bp to 5.07% on the release",
+      "org": "Federal Reserve",
+      "date": "2026-11-18",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "summary": "Fed minutes for the Oct 27–28 meeting (released Wed Nov 18) leaned hawkish — almost all officials saw further hikes as likely under baseline, some flagged a possible >25bp move at the Dec 8–9 FOMC, and AI-demand inflation risk was explicitly called out.",
+      "tags": [
+        "fomc",
+        "minutes",
+        "hawkish",
+        "december-fomc",
+        "rate-hike",
+        "ai-demand",
+        "inflation",
+        "cook",
+        "hammack",
+        "10y"
+      ],
+      "importance": "major",
+      "tickers": [
+        "^GSPC",
+        "^TNX"
+      ],
+      "metrics": {
+        "Oct 27–28 vote": "10–2 hold at 3.75–4.00% (Cook, Hammack dissented for +25bp)",
+        "December FOMC": "Dec 8–9 2026",
+        "10Y yield (Nov 18 close)": "5.07% (-3bp)",
+        "PCE (Sep)": "3.6% Y/Y",
+        "Core PCE (Sep)": "3.1% Y/Y",
+        "Unemployment (Sep)": "4.2%"
+      },
+      "explainer": {
+        "tagline": "Oct FOMC minutes: 'almost all' participants see more hikes under baseline, some open to a >25bp move at the Dec meeting; AI-demand inflation called out explicitly.",
+        "whatIsIt": "The Federal Reserve released minutes of the October 27–28 2026 FOMC meeting on Wed Nov 18 at 2:00 p.m. ET. At that meeting the Committee held the federal funds target range at 3.75–4.00% on a 10–2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack dissenting in favor of a 25bp hike.",
+        "howItWorks": "Minutes described a hawkish lean: almost all participants judged that further increases in the target range, broadly consistent with the September SEP, would likely be appropriate under their baseline outlook; some said a move larger than 25bp could be considered at the Dec 8–9 meeting if inflation data continue to surprise upward. Participants flagged AI-related demand for technology goods and the power-equipment chain as a significant source of inflation risk alongside energy. Total PCE was 3.6% and core PCE 3.1% in September, with unemployment at 4.2% and three-month payroll trend around +50K/month. On balance-sheet, the Desk kept reserve-management purchases at zero, decided month-to-month, with the directive authorizing Treasury-bill purchases 'when appropriate' to keep reserves ample. The 10Y Treasury yield eased 3bp to 5.07% on release.",
+        "whyItMatters": "Markets had been drifting toward pricing a Dec hike, and the minutes reinforce that bias — CME FedWatch sat at ~85% 25bp/15% 50bp into Dec 8–9 after October CPI/PPI. The explicit callout of AI-related demand as an inflation driver is a first for FOMC minutes and ties Fed policy directly to the 2027 capex-cycle story that has already dominated chip earnings and the Nvidia saga. For traders, the move-size optionality (>25bp possible) keeps the vol bid in rates and raises the stakes on the Dec CPI (Dec 10) print the day after the SEP and dot plot land.",
+        "forWho": "Rates desks, macro traders, Fed-watchers",
+        "tryIt": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+      },
+      "image": {
+        "url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+        "alt": "Federal Reserve seal — October FOMC minutes release",
+        "fit": "cover",
+        "credit": "Federal Reserve"
+      },
+      "links": [
+        {
+          "label": "Fed Press Release",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+        },
+        {
+          "label": "Minutes (HTML)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+        },
+        {
+          "label": "FOMC Calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "label": "10Y Yield Chart",
+          "url": "https://finance.yahoo.com/quote/%5ETNX/"
+        }
+      ],
+      "reddit": {
+        "title": "FOMC Oct 27–28 minutes: 'almost all' see further hikes needed; some open to >25bp at Dec meeting; AI-demand flagged as inflation risk",
+        "body": "The Fed released minutes of its Oct 27–28 2026 meeting on Wed Nov 18. The lean was clearly hawkish. Headline points:\n\n* Vote to hold at 3.75–4.00% was 10–2 — Cook and Hammack dissented in favor of a 25bp hike\n* 'Almost all' participants judged further rate increases, broadly in line with the Sep SEP, would likely be appropriate under their baselines\n* 'Some' participants said a move larger than 25bp could be considered at the Dec 8–9 meeting if inflation data continue to disappoint\n* AI-related demand called out explicitly as a significant source of inflation risk alongside energy\n* Sep PCE 3.6% Y/Y, core PCE 3.1%, unemployment 4.2%, payrolls trend ~+50K/month\n* 10Y yield eased 3bp to 5.07% on release\n\nThree things that stand out:\n\n1. **AI-demand inflation enters the minutes** — the first explicit callout linking capex-cycle demand to inflation risk, tying Fed path directly to the Nvidia/CoreWeave/Nebius story.\n2. **Dec move-size optionality** — the possibility of a >25bp hike was discussed, not just the timing.\n3. **Dissents widen** — Hammack joining Cook reinforces that the hawkish faction is broader than the usual hard-liners.\n\nNext catalysts: Nov NFP, Dec 10 CPI, Dec 8–9 FOMC + SEP/dot plot.\n\nFull breakdown: [https://stock-tldr.xyz/releases/fomc-oct-2026-minutes-nov-18-2026](https://stock-tldr.xyz/releases/fomc-oct-2026-minutes-nov-18-2026)"
+      },
+      "publishDate": "2026-11-19T04:56:45.280Z"
+    },
     {
       "id": "tgt-q3-2026-earnings-nov-18-2026",
       "categories": [
