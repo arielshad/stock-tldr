@@ -16581,6 +16581,38 @@
         "commodity",
         "fx"
       ]
+    },
+    {
+      "id": "sweep-20261119t195052z",
+      "timestamp": "2026-11-19T19:50:52.603Z",
+      "source": "github-actions-sweep",
+      "summary": "Two major Thursday Nov 19 2026 events: Anthropic (ANT) made its Nasdaq debut as the largest IPO in history ($81.3B raised), opening +34% at $111.50 before fading, and Walmart posted a beat-and-raise Q3 FY27 that the market shrugged at with WMT -1.92% premarket.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "anthropic-ipo-debut-ant-nov-19-2026",
+          "title": "Anthropic (ANT) opens at $111.50 on Thu Nov 19 2026 Nasdaq debut — +34% from $83 IPO price, intraday high $114.99 implies ~$2.0T market cap in largest-ever IPO",
+          "category": "ipo",
+          "note": "First-day trading debut is distinct from Nov 18 pricing event already in feed; included because this is the sixth-largest U.S. company by market cap at the open and reorders the public AI league table."
+        },
+        {
+          "id": "wmt-q3-fy27-earnings-nov-19-2026",
+          "title": "Walmart (WMT) Q3 FY27 (Thu Nov 19 2026 premarket) — revenue $188.8B (+5.2% Y/Y) and adj EPS $0.65 both beat, Walmart raises FY27 outlook; shares -1.92% premarket to $124.91 on margin concerns",
+          "category": "earnings",
+          "note": "Beat-and-raise Q3 FY27 from the largest U.S. retailer, read by markets as 'not enough' given margin pressure — classic bellwether consumer print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "ipo",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
