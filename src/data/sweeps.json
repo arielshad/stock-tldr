@@ -16660,6 +16660,40 @@
         "crypto",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261120t192747z",
+      "timestamp": "2026-11-20T19:27:47.785Z",
+      "source": "github-actions-sweep",
+      "summary": "Added two retail earnings prints that broke in the last 24h: BJ's Wholesale Q3 FY26 (Nov 20 premarket, big beat + raised FY guide) and Gap Inc Q3 FY26 (Nov 19 after close, beat EPS but trimmed FY sales/EPS guide, shares +11.7% Fri).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "bj-q3-fy26-earnings-nov-20-2026",
+          "title": "BJ's Wholesale Club (BJ) Q3 FY26 (Fri Nov 20 2026 premarket) — net sales $6.15B (+17.7% Y/Y), comp club sales +13.5% (ex-gas +4.1%), diluted EPS $1.73 (+50% Y/Y) crushes ~$1.23 est; membership fee income $138.4M (+9.5%); digitally enabled comp sales +38%; FY26 guide RAISED to comp ex-gas +2.5–3.0% and adj EPS $5.10–$5.30 with ~$800M capex",
+          "category": "earnings",
+          "note": "Fresh Nov 20 premarket SEC 8-K release with a clean beat on net sales $6.15B, adj EPS $1.73 vs ~$1.23 est, and raised FY26 outlook — no existing feed item covers BJ's."
+        },
+        {
+          "id": "gap-q3-fy26-earnings-nov-19-2026",
+          "title": "Gap Inc (GAP) Q3 FY26 (Thu Nov 19 2026 after close, 4:15pm ET) — net sales $4.01B (+1.8% Y/Y) and adj EPS $0.82 beat ~$0.78 est; Gap brand comps +9% (12th straight positive quarter), Old Navy comps flat, Banana -3%, Athleta comps -15%; FY26 adj EPS guide CUT to $2.29–$2.34 (from $2.35–$2.45) and sales guide to ~flat; shares +11.7% Fri Nov 20 session to ~$20.99",
+          "category": "earnings",
+          "note": "Nov 19 after-close 8-K release not yet in the feed; the Nov 20 +11.7% session move turns it into a legitimate mover-plus-earnings story alongside the other retail prints already captured (ROST, WSM, WMT, TGT, LOW, TJX)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "mna",
+        "crypto"
+      ]
     }
   ]
 }
