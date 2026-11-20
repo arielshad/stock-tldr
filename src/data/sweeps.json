@@ -16613,6 +16613,53 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261120t045048z",
+      "timestamp": "2026-11-20T04:50:48.579Z",
+      "source": "github-actions-sweep",
+      "summary": "Sixth-straight down session on Thu Nov 19 2026 — longest losing streak since April 2024 — is the market-wide story, with Nvidia's beat failing to stick and AMD -7.7% / WSM -15% leading sector-wide losses. Added Ross Stores Q3 FY26 beat-and-raise (ROST -5.2% AH) and Williams-Sonoma Q3 FY26 clean beat with reiterated (not raised) guidance (WSM -15.16%, worst S&P 500 stock).",
+      "counts": {
+        "added": 3,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-sixth-down-day-nov-19-2026",
+          "title": "US stocks slide for 6th straight day Thu Nov 19 2026 — S&P 500 -2.02% to 7,175.83, Dow -2.19% (-1,101 pts) to 49,097.06, Nasdaq -2.25% to 23,879.20; longest losing streak since April 2024 as Nvidia earnings rally fades, AI regulation and chip-export anxiety hit all 11 sectors; VIX 28.44, AMD -7.72%, Williams-Sonoma -15.16% (worst S&P), Palo Alto +6.42% (best S&P)",
+          "category": "mover",
+          "note": "Broad-market sell-off, 6th straight down day; distinct catalyst (post-Nvidia earnings reversal + AI regulation fears) from the Nov 16 three-day-down item already in feed."
+        },
+        {
+          "id": "rost-q3-fy26-earnings-nov-19-2026",
+          "title": "Ross Stores (ROST) Q3 FY26 (Thu Nov 19 2026 after close) — sales $6.3B (+12% Y/Y) and comps +8% on traffic; diluted EPS $1.91 crushes $1.75–$1.83 guide; op margin 12.3% (+70bp) above 11.7–12.0% plan; FY26 EPS guide raised to $8.75–$8.84; opened 51 new stores, completing 115-store 2026 plan; $319M buybacks in Q3, on track for $1.275B FY26; shares -5.2% AH into Fri Nov 20 session",
+          "category": "earnings",
+          "note": "Clean beat-and-raise with completed 115-store 2026 plan; stock -5.2% AH suggests sell-the-news after YTD run."
+        },
+        {
+          "id": "wsm-q3-fy26-earnings-drop-nov-19-2026",
+          "title": "Williams-Sonoma (WSM) Q3 FY26 (Thu Nov 19 2026 premarket) — net revenue $1.99B (+5.8% Y/Y) and comp brand revenue +5.1% (vs +4.0% last year) beat; GAAP diluted EPS $2.38 (+21.4%) and non-GAAP EPS $2.19 (+11.7%); GAAP op margin 18.9% / non-GAAP 17.4% (~140bp GAAP lift from IEEPA tariff refunds); every brand positive (West Elm +7.0%, Williams Sonoma +6.8%, Pottery Barn +1.8%); FY26 outlook REITERATED (not raised); $253M returned ($163M buybacks + $90M div); shares -15.16% to $168.66, the single worst S&P 500 performer on the day",
+          "category": "earnings",
+          "note": "Beat across the board, every brand positive, but reiterated-not-raised FY guide drove -15% move — single worst S&P 500 stock on a day when every sector was red."
+        }
+      ],
+      "updated": [
+        {
+          "id": "anthropic-ipo-debut-ant-nov-19-2026",
+          "title": "Anthropic (ANT) opens at $111.50 on Thu Nov 19 2026 Nasdaq debut — +34% from $83 IPO price, intraday high $114.99 implies ~$2.0T market cap in largest-ever IPO",
+          "note": "Added Thu Nov 19 2026 regular-session close of $97.17 (+17.07% vs the $83 offer) — original item captured open/intraday only; day-end delivered a more modest premium than the 34% open suggested."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "equities",
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "rates"
+      ]
     }
   ]
 }

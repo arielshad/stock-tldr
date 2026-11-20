@@ -1,8 +1,246 @@
 {
-  "generatedAt": "2026-11-19T19:50:52.603Z",
+  "generatedAt": "2026-11-20T04:50:48.579Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-sixth-down-day-nov-19-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "US stocks slide for 6th straight day Thu Nov 19 2026 — S&P 500 -2.02% to 7,175.83, Dow -2.19% (-1,101 pts) to 49,097.06, Nasdaq -2.25% to 23,879.20; longest losing streak since April 2024 as Nvidia earnings rally fades, AI regulation and chip-export anxiety hit all 11 sectors; VIX 28.44, AMD -7.72%, Williams-Sonoma -15.16% (worst S&P), Palo Alto +6.42% (best S&P)",
+      "org": "US Equity Markets",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "^IXIC",
+        "^RUT",
+        "^VIX"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/",
+      "summary": "S&P 500 -2.02% to 7,175.83 Thu Nov 19 2026, 6th straight down day — longest losing streak since April 2024. Dow -2.19%, Nasdaq -2.25%. All 11 S&P sectors lower. VIX 28.44. AMD -7.72%, WSM -15.16%, PANW +6.42%.",
+      "tags": [
+        "equities",
+        "sell-off",
+        "ai-stocks",
+        "chip-stocks",
+        "losing-streak",
+        "vix",
+        "semiconductors",
+        "valuation",
+        "export-controls",
+        "post-nvidia"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "S&P 500": "7,175.83 (-2.02%, -147.80)",
+        "Dow": "49,097.06 (-2.19%, -1,101 pts)",
+        "Nasdaq": "23,879.20 (-2.25%, -550.69)",
+        "VIX": "28.44 (+22% on VIX9D)",
+        "10Y yield": "5.05% (-~1bp)",
+        "Dec gold": "$3,685.50 (-1.50%)",
+        "WTI (Dec)": "$83.21 (-$0.05)"
+      },
+      "explainer": {
+        "tagline": "Sixth straight down session for the S&P 500 — the longest losing streak since April 2024 — as an early Nvidia-fueled rally flips into a broad risk-off.",
+        "whatIsIt": "Thursday Nov 19 2026 closed as a broad US equity rout. The S&P 500 shed 147.80 points to 7,175.83 (-2.02%), its sixth straight decline and longest losing streak since April 2024. The Dow fell 1,101 points to 49,097.06 (-2.19%). The Nasdaq Composite dropped 550.69 points to 23,879.20 (-2.25%). The Russell 2000 slid 2.18%, equal-weight S&P (RSP) -1.76%, and the Magnificent Seven ETF -2.69%. Every one of the 11 S&P 500 sectors finished lower.",
+        "howItWorks": "The session reversed sharply from an early rally that lifted the S&P 500 up ~1.3% intraday on Nvidia's after-the-bell beat the prior night. The Mag Seven handed back gains — Nvidia swung from +4.7% to close -3.30% at $145.98, with Amazon -3.9%, Meta -3.3%, Alphabet -2.9%, Tesla -2.4%, Microsoft -1.8%, Apple -0.9%. Semiconductors (SMH) -2.62% led by AMD -7.72%; the 'neoclouds' theme (NCLD) was -6.19% with CoreWeave -6.1% and Nebius -9.4%. Consumer discretionary (XLY) -2.79% was the worst sector, with Williams-Sonoma (WSM) -15.16% the single worst S&P 500 performer after its Q3 beat with reiterated (not raised) guidance. Palo Alto Networks (PANW) was the top S&P 500 name at +6.42% after Wednesday's Q1 FY27 beat. Volatility jumped: VIX 28.44, VIX9D +22.17% to 29.26. The 10-year Treasury yield slipped ~1.4bp to 5.052% on the risk-off; a $19B 10Y TIPS reopening cleared at a 2.903% real yield. WTI December settled at $83.21 (-$0.05); Brent January +$0.03 to $91.98. December gold -1.50% to $3,685.50. After hours: Intuit (INTU) -9.5%, Ross (ROST) -5.2%, Gap +3.6%.",
+        "whyItMatters": "The sell-off extends the correction from the Oct FOMC minutes and Jensen Huang's resignation, and the Nov 16 Commerce Dept rule tightening Chinese remote access to US AI chips. A print this clean (all 11 sectors red, VIX back above 28, MAG7 handing back gains after a strong Nvidia beat) signals positioning cleanup is still working through — the first time this cycle that a bellwether AI-capex beat has not stuck. Williams-Sonoma's 15% drop on a quarter in which every brand posted a positive comp underscores how high the bar is for discretionary names; the equal-weight S&P only -1.76% means breadth — not just AI — is deteriorating. The AMD leg down was tied to an investigative report alleging ties to a blacklisted Chinese server maker, keeping the China/export-control overhang on semis alive.",
+        "forWho": "US equity index traders, semiconductor desks, discretionary PMs",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NYSE_Advanced_Trading_Floor.jpg/1280px-NYSE_Advanced_Trading_Floor.jpg",
+        "alt": "New York Stock Exchange trading floor",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Fool: Nvidia Slides",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/"
+        },
+        {
+          "label": "Fool: Alphabet Falls",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/"
+        },
+        {
+          "label": "Market Scholars Recap",
+          "url": "https://www.marketscholars.com/market-outlook-november-19-2026/"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        },
+        {
+          "label": "VIX Chart",
+          "url": "https://finance.yahoo.com/quote/%5EVIX"
+        }
+      ],
+      "reddit": {
+        "title": "US stocks slide a 6th straight day — S&P 500 -2.02% to 7,175.83, Dow -1,101 pts, Nasdaq -2.25%; longest losing streak since April 2024, all 11 sectors red, VIX 28",
+        "body": "Thursday Nov 19 2026 close — a sharp reversal from an early Nvidia-earnings rally into a broad risk-off.\n\n* S&P 500 -2.02% (-147.80) to 7,175.83 — 6th straight down day\n* Dow -2.19% (-1,101) to 49,097.06\n* Nasdaq Composite -2.25% (-550.69) to 23,879.20\n* Russell 2000 -2.18%\n* VIX 28.44; VIX9D +22% to 29.26\n* 10Y yield 5.052% (-\\~1.4bp)\n* Dec gold -1.50% to $3,685.50; WTI (Dec) $83.21\n* All 11 S&P sectors red; XLY -2.79% worst, cybersecurity (CIBR) +0.31% only group up\n\nNamed movers:\n\n1. **Nvidia (NVDA)** — swung from +4.7% to close -3.3% at $145.98 despite a Q3 FY27 beat (rev $115.8B, +103% Y/Y) and a $130B Q4 guide\n2. **AMD -7.72%** on an investigative report alleging ties to a blacklisted Chinese server maker\n3. **Williams-Sonoma -15.16%** — worst S&P 500 stock after Q3 beat with reiterated (not raised) guidance\n4. **Palo Alto Networks +6.42%** — best S&P name after Wed's Q1 FY27 beat\n5. **Anthropic (ANT) +17.1%** in debut, closing at $97.17 above the $83 IPO price\n6. AMZN -3.9%, META -3.3%, GOOG -2.9%, TSLA -2.4%, MSFT -1.8%, AAPL -0.9%\n\nAfter hours: INTU -9.5%, ROST -5.2%, GAP +3.6%.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-sixth-down-day-nov-19-2026](https://stock-tldr.xyz/releases/us-stocks-sixth-down-day-nov-19-2026)"
+      },
+      "publishDate": "2026-11-20T04:50:48.579Z"
+    },
+    {
+      "id": "rost-q3-fy26-earnings-nov-19-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Ross Stores (ROST) Q3 FY26 (Thu Nov 19 2026 after close) — sales $6.3B (+12% Y/Y) and comps +8% on traffic; diluted EPS $1.91 crushes $1.75–$1.83 guide; op margin 12.3% (+70bp) above 11.7–12.0% plan; FY26 EPS guide raised to $8.75–$8.84; opened 51 new stores, completing 115-store 2026 plan; $319M buybacks in Q3, on track for $1.275B FY26; shares -5.2% AH into Fri Nov 20 session",
+      "org": "Ross Stores",
+      "tickers": [
+        "ROST",
+        "TJX",
+        "BURL"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000745732/000074573226000047/q326exhibit991.htm",
+      "summary": "Ross Q3 FY26 sales $6.3B (+12%), comps +8% on traffic. EPS $1.91 tops $1.75–$1.83 guide. Op margin 12.3% (+70bp). FY26 EPS guide raised to $8.75–$8.84. ROST -5.2% AH.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "guidance-raise",
+        "comps-beat",
+        "q3-fy26",
+        "off-price-retail",
+        "traffic-driven",
+        "buybacks",
+        "store-openings"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$6.3B (+12% Y/Y)",
+        "Comp sales": "+8% (on top of +7% last year)",
+        "EPS": "$1.91 diluted vs $1.75–$1.83 guide",
+        "Operating margin": "12.3% (+70bp Y/Y)",
+        "FY26 EPS guide": "raised to $8.75–$8.84",
+        "Q4 comps guide": "+4% to +5%",
+        "Q4 EPS guide": "$2.16–$2.25",
+        "Move": "-5.2% AH"
+      },
+      "explainer": {
+        "tagline": "Ross beats the Q3 guide by a dime, raises FY EPS, and finishes its 115-store 2026 plan — but AH sellers fade the print.",
+        "whatIsIt": "Ross Stores reported Q3 FY26 (13 weeks ended Oct 31 2026) after the close Thu Nov 19 2026. Total sales rose 12% to $6.3B, with comparable store sales up 8% — on top of a 7% gain in Q3 FY25 — driven mainly by customer traffic. Diluted EPS was $1.91 (vs $1.58 a year earlier), clearing the company's $1.75–$1.83 guidance. Net income was $606M. Operating margin reached 12.3%, up 70bp Y/Y and above the 11.7%–12.0% plan.",
+        "howItWorks": "Nine-month sales are now $18.5B (+15%) with comps +11% and EPS $6.59 vs $4.61 a year earlier. The year-to-date EPS still includes an ~$0.60 benefit from the IEEPA tariff refunds recognized in Q2; the release does not quantify a Q3-specific tariff impact. Ross opened 51 new stores in the quarter (41 Ross, 10 dd's DISCOUNTS), completing its 115-store 2026 plan, and ended the quarter with 2,377 locations. Capital return: 1.4M shares repurchased for $319M in Q3, on track for $1.275B in FY26 repurchases; declared a $0.445 quarterly dividend. FY26 EPS guide raised to $8.75–$8.84 (from $8.61–$8.77). Q4 FY26 outlook maintained: comps +4% to +5% on top of last year's +9%, and EPS $2.16–$2.25 (growth of 8–13%). Shares traded roughly -5.2% in the after-hours after the print despite the beat-and-raise.",
+        "whyItMatters": "A traffic-driven +8% comp on top of last year's +7% is a strong read for off-price — both TJX (also reported this week) and Ross keep outcomping full-line apparel. The FY26 EPS lift is modest ($0.14 at the midpoint), but it validates the +4–5% Q4 comp guide heading into the holiday. The AH -5.2% fade suggests sell-the-news positioning after a strong YTD run and sector headline risk — WSM -15% during the regular session and INTU -9.5% AH both set a jumpy tape for Friday's open. Read-across to TJX, BURL, and the broader discretionary complex.",
+        "forWho": "Off-price retail PMs, consumer discretionary desks",
+        "tryIt": "https://finance.yahoo.com/quote/ROST"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ross_Stores_logo.svg",
+        "alt": "Ross Stores (Ross Dress for Less) corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000745732/000074573226000047/q326exhibit991.htm"
+        },
+        {
+          "label": "Stocktwits Reaction",
+          "url": "https://stocktwits.com/news-articles/markets/equity/ross-stores-stock-jumps-mixed-earnings-wall-street-divided/cJI5vZLRX6"
+        },
+        {
+          "label": "Barchart Writeup",
+          "url": "https://www.barchart.com/story/news/36239070/ross-stores-exceeds-third-quarter-earnings-guidance-raises-full-year-outlook"
+        },
+        {
+          "label": "ROST Quote",
+          "url": "https://finance.yahoo.com/quote/ROST"
+        }
+      ],
+      "reddit": {
+        "title": "Ross Stores Q3 FY26: sales $6.3B (+12%), comps +8% on traffic, EPS $1.91 crushes $1.75–$1.83 guide — FY26 EPS guide raised to $8.75–$8.84; stock -5.2% AH",
+        "body": "Ross reported Q3 FY26 after the close Thu Nov 19 with a clean beat-and-raise:\n\n* Sales $6.3B (+12% Y/Y)\n* Comparable sales +8% — traffic-driven, on top of +7% last year\n* Diluted EPS $1.91 vs the $1.75–$1.83 guide (and $1.58 a year earlier)\n* Operating margin 12.3% (+70bp), above the 11.7–12.0% plan\n* Opened 51 stores (41 Ross + 10 dd's DISCOUNTS), completing the 115-store 2026 plan\n* $319M buybacks in Q3, on track for $1.275B FY26\n* FY26 EPS guide RAISED to $8.75–$8.84\n* Q4 guide held: comps +4–5%, EPS $2.16–$2.25\n* Shares \\~-5.2% AH despite the beat\n\nWhy the sell-the-news fade:\n\n1. **Heavy YTD run** — the whole off-price trade is sitting on fat gains; buyers wanted more.\n2. **FY guide lift was modest** — $0.14 bump at the midpoint is not enough to re-rate the multiple.\n3. **Spillover from WSM (-15% day)** — the discretionary tape is jumpy heading into holiday.\n\nRead-through to TJX, BURL into the holiday season.\n\nFull breakdown: [https://stock-tldr.xyz/releases/rost-q3-fy26-earnings-nov-19-2026](https://stock-tldr.xyz/releases/rost-q3-fy26-earnings-nov-19-2026)"
+      },
+      "publishDate": "2026-11-20T04:50:48.579Z"
+    },
+    {
+      "id": "wsm-q3-fy26-earnings-drop-nov-19-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Williams-Sonoma (WSM) Q3 FY26 (Thu Nov 19 2026 premarket) — net revenue $1.99B (+5.8% Y/Y) and comp brand revenue +5.1% (vs +4.0% last year) beat; GAAP diluted EPS $2.38 (+21.4%) and non-GAAP EPS $2.19 (+11.7%); GAAP op margin 18.9% / non-GAAP 17.4% (~140bp GAAP lift from IEEPA tariff refunds); every brand positive (West Elm +7.0%, Williams Sonoma +6.8%, Pottery Barn +1.8%); FY26 outlook REITERATED (not raised); $253M returned ($163M buybacks + $90M div); shares -15.16% to $168.66, the single worst S&P 500 performer on the day",
+      "org": "Williams-Sonoma",
+      "tickers": [
+        "WSM",
+        "RH",
+        "W"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000719955/000071995526000244/exhibit991fy2026q3earnings.htm",
+      "summary": "Williams-Sonoma Q3 FY26 rev $1.99B (+5.8%), comps +5.1%, non-GAAP EPS $2.19 (+11.7%) — every brand positive. FY26 guide reiterated not raised. WSM -15.16%, worst S&P 500 performer.",
+      "tags": [
+        "earnings",
+        "eps-beat",
+        "revenue-beat",
+        "comps-beat",
+        "guidance-reiterated",
+        "no-raise",
+        "mover",
+        "q3-fy26",
+        "home-furnishings",
+        "tariff-refund",
+        "buybacks"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$1,991.2M (+5.8% Y/Y)",
+        "Comp brand revenue": "+5.1% (vs +4.0% in Q3 FY25)",
+        "GAAP diluted EPS": "$2.38 (+21.4%)",
+        "Non-GAAP diluted EPS": "$2.19 (+11.7%)",
+        "GAAP operating margin": "18.9%",
+        "Non-GAAP operating margin": "17.4%",
+        "FY26 rev growth guide": "reiterated +4.7% to +7.2%",
+        "FY26 comp guide": "reiterated +4.0% to +6.5%",
+        "FY26 non-GAAP op margin": "reiterated 17.8%–18.2%",
+        "Move": "-15.16% (worst S&P 500 stock on day)"
+      },
+      "explainer": {
+        "tagline": "Williams-Sonoma beats across the board but reiterates — not raises — the FY outlook, and the stock takes its worst session of the year.",
+        "whatIsIt": "Williams-Sonoma reported Q3 FY26 (quarter ended Nov 1 2026) before the open Thu Nov 19 2026. Net revenue rose 5.8% to $1,991.2M. Comparable brand revenue was +5.1% (vs +4.0% in Q3 FY25). GAAP diluted EPS was $2.38, up 21.4% Y/Y; non-GAAP diluted EPS was $2.19, up 11.7%. GAAP operating margin was 18.9% ($376.9M operating income); non-GAAP operating margin was 17.4% ($347.2M). GAAP gross margin of 47.6% included about 140bp from IEEPA tariff refunds; non-GAAP was 46.2%. SG&A rate fell ~30–40bp Y/Y to 28.7% GAAP / 28.8% non-GAAP. CEO Laura Alber said every brand and channel delivered a positive comp.",
+        "howItWorks": "Brand comps: West Elm +7.0% (vs +3.3%), Williams Sonoma +6.8% (vs +7.3%), Pottery Barn Kids and Teen +2.9%, and Pottery Barn +1.8% (vs +1.3%). Store count was 517 (vs 513 a year ago); 12 opened and 3 closed in the quarter. Cash was $992M; merchandise inventories +7.3% to $1.64B. The company returned $253M in Q3 — $163M in buybacks, $90M in dividends. The important miss: management reiterated — did not raise — its FY26 outlook of +4.7–7.2% revenue growth, +4.0–6.5% comps, and 17.8–18.2% non-GAAP op margin. FY27 guidance is scheduled for March. Despite the across-the-board beat, shares closed -15.16% on the regular session, the worst-performing stock in the S&P 500 and WSM's worst session of 2026.",
+        "whyItMatters": "The size of the drawdown on a clean operational quarter tells you the buy-side priced in a holiday-driven guidance raise that never came. The quarter also benefited from a ~140bp IEEPA tariff-refund tailwind inside the GAAP gross margin — clean non-GAAP EPS growth of +11.7% is less striking than the GAAP +21.4%, and the market noticed. Read-throughs to RH, Wayfair and the luxury home complex are mixed — comp momentum is intact across brands, but the sell-off signals rising conviction that higher-end consumer demand is already priced in. Williams-Sonoma was also the single-worst stock on a day when all 11 S&P 500 sectors finished red, making it the poster child for the Nov 19 discretionary-sector flush.",
+        "forWho": "Home furnishings / discretionary desks, tariff-tailwind trackers, mid-cap retail PMs",
+        "tryIt": "https://finance.yahoo.com/quote/WSM"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Williams-Sonoma_logo.svg",
+        "alt": "Williams-Sonoma corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000719955/000071995526000244/exhibit991fy2026q3earnings.htm"
+        },
+        {
+          "label": "Release Date Notice",
+          "url": "https://finviz.com/news/422428/williams-sonoma-inc-announces-release-date-for-third-quarter-results-thursday-november-19th-2026"
+        },
+        {
+          "label": "Market Scholars Recap",
+          "url": "https://www.marketscholars.com/market-outlook-november-19-2026/"
+        },
+        {
+          "label": "WSM Quote",
+          "url": "https://finance.yahoo.com/quote/WSM"
+        }
+      ],
+      "reddit": {
+        "title": "Williams-Sonoma (WSM) -15.16% on a Q3 beat: rev $1.99B (+5.8%), comps +5.1%, non-GAAP EPS $2.19 (+12%) — every brand positive, but FY guide reiterated not raised; worst S&P 500 stock Thu",
+        "body": "Williams-Sonoma reported Q3 FY26 before the open Thu Nov 19 2026 — beat every line, and the stock still had its worst session of the year.\n\n* Net revenue $1,991.2M (+5.8% Y/Y)\n* Comp brand revenue +5.1% (vs +4.0% a year ago)\n* GAAP diluted EPS $2.38 (+21.4%); non-GAAP EPS $2.19 (+11.7%)\n* GAAP op margin 18.9%; non-GAAP 17.4%\n* Gross margin 47.6% GAAP — includes \\~140bp from IEEPA tariff refunds\n* Brand comps: West Elm +7.0%, Williams Sonoma +6.8%, PB Kids & Teen +2.9%, Pottery Barn +1.8%\n* $253M returned ($163M buybacks + $90M dividends)\n* Store count 517 (vs 513 a year ago)\n* **FY26 outlook REITERATED, not raised** — rev +4.7–7.2%, comps +4.0–6.5%, non-GAAP op margin 17.8–18.2%\n* Shares -15.16% — single worst S&P 500 performer Thu\n\nWhy a clean beat broke the stock:\n\n1. **No guidance raise** — the buy-side was positioned for a holiday-driven lift; a reiteration is a de facto downgrade vs expectations.\n2. **Tariff refund tailwind** — \\~140bp inside GAAP gross margin — strip that out and the organic story is less exciting.\n3. **Tape context** — WSM dropped on a day when every S&P 500 sector closed red; positioning cleanup amplified the move.\n\nRead-through to RH, Wayfair, and the luxury-home complex on holiday demand.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wsm-q3-fy26-earnings-drop-nov-19-2026](https://stock-tldr.xyz/releases/wsm-q3-fy26-earnings-drop-nov-19-2026)"
+      },
+      "publishDate": "2026-11-20T04:50:48.579Z"
+    },
     {
       "id": "anthropic-ipo-debut-ant-nov-19-2026",
       "categories": [
@@ -29,13 +267,11 @@
       "importance": "seismic",
       "metrics": {
         "IPO price": "$83",
-        "First trade": "$111.50 (+34%)",
+        "Open": "$111.50 (+34%)",
         "Intraday high": "$114.99",
-        "Mid-session price (2:20pm ET)": "~$95 (+14%)",
-        "Market cap at open": "~$2.0T",
-        "Shares offered": "980M Class A",
-        "Proceeds": "$81.3B (largest IPO ever)",
-        "Retail allocation": "~15%"
+        "Close": "$97.17 (+17.1% vs offer)",
+        "Shares sold": "980M Class A",
+        "Proceeds": "~$81.3B"
       },
       "explainer": {
         "tagline": "Largest IPO in history: Anthropic opens 34% above its $83 price, briefly pushing market cap above $2T before fading.",
