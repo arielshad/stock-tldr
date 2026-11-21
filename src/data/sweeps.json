@@ -16734,6 +16734,31 @@
         "mna",
         "rumor"
       ]
+    },
+    {
+      "id": "sweep-20261121t182537z",
+      "timestamp": "2026-11-21T18:25:37.362Z",
+      "source": "github-actions-sweep",
+      "summary": "Sat Nov 21 2026 sweep — markets closed for the weekend. Scanned tier-1 markets press, Fed/BLS/Treasury pages, SEC EDGAR, crypto outlets and YouTube for any post-close Fri Nov 20 or Sat Nov 21 catalysts. All qualifying 72h items (7th-day correction Fri Nov 20, INTU/GAP/BJ's Q3, CRWD/ZS rumor, ROST/WSM/WMT/ANT IPO debut Thu Nov 19, FOMC Oct minutes / UK CPI / UNH-HUM CMS rule / TGT / TJX / LOW / PANW / ANT pricing Wed Nov 18, NVDA Q3 / NVDA SEC probe / HD / US retail sales Tue Nov 17, Japan GDP / US sell-off / Xi-Trump-Putin confirm / China activity Mon Nov 16) are already in the feed. Candidate additions that did not survive verification: a reported Fri Nov 20 hawkish Fed speaker chorus (no primary-source speech text or dated transcript on federalreserve.gov), Bitcoin post-$57K-low rebound on Nov 21 (CoinDesk page showed contradictory price prints vs other outlets, could not pin a verifiable close), Anthropic (ANT) Day-2 trading move (no confirmed OHLC on Nasdaq or Reuters/Bloomberg front-page recap). Shipping zero adds rather than padding.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "macro",
+        "rates",
+        "crypto",
+        "mover",
+        "mna",
+        "rumor",
+        "ipo",
+        "regulatory"
+      ]
     }
   ]
 }
