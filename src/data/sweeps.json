@@ -16694,6 +16694,46 @@
         "mna",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261121t044039z",
+      "timestamp": "2026-11-21T04:40:39.569Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Nov 19–20 2026 items: Friday's 7th-straight-down-day market rout sending the S&P 500 and Dow into correction and Nasdaq negative YTD; Intuit's Q1 FY27 beat + $3.68B Mailchimp sale to Bending Spoons + FY27 revenue guide cut; and Bloomberg's Friday scoop that CrowdStrike is in acquisition talks with Zscaler.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-stocks-correction-7th-day-nov-20-2026",
+          "title": "US stocks slide 7th straight session Fri Nov 20 2026 — S&P 500 -3.70% to 6,910.39 (enters correction), Nasdaq -5.28% to 22,617.73 (turns negative YTD for 2026), Dow -1.93% (-949.73 pts) to 48,147.33; worst S&P week since Apr 2025 (-8.6%) and worst Dow week since Mar 2020 (-8%); longest losing streak since Feb 2020; VIX ~32.27; NVDA -14.01%, MU -13.89%, AMD -13.25%, ANT -8.50%, SMH -~8%",
+          "category": "mover",
+          "note": "Distinct from Nov 19 'sixth down day' item — index levels differ, S&P and Dow officially enter correction, Nasdaq turns negative YTD, weekly moves are worst since Mar 2020 (Dow)/Apr 2025 (S&P)."
+        },
+        {
+          "id": "intu-q1-fy27-mailchimp-sale-nov-19-2026",
+          "title": "Intuit (INTU) Q1 FY27 (Wed Nov 19 2026 after close) — revenue $4.354B (+12% Y/Y) and non-GAAP diluted EPS $2.91 (+56%) beat, GAAP EPS $2.59 (+63%); Credit Karma $708M (+9%); announces sale of Mailchimp to Bending Spoons for $3.68B ($3.31B cash + $368M stock) expected to close early 2027; FY27 revenue guide CUT to $23.081–$23.365B on weaker Credit Karma outlook; shares ~-12.8% in Fri Nov 20 session",
+          "category": "earnings",
+          "note": "Primary from SEC 8-K; Mailchimp sale to Bending Spoons $3.68B and FY27 guide cut confirmed in the filing."
+        },
+        {
+          "id": "crwd-zs-acquisition-talks-rumor-nov-20-2026",
+          "title": "Reportedly: CrowdStrike (CRWD) in talks to acquire Zscaler (ZS) — Bloomberg scoop Fri Nov 20 2026 after close cites 'people familiar'; ZS ~+16–18% after hours, CRWD -~4.8%; ZS market cap ~$32B pre-report, CRWD ~$235B; would be CrowdStrike's largest deal by far",
+          "category": "rumor",
+          "note": "Rumor-tier M&A: Bloomberg scoop, not a confirmed deal; ZS/CRWD AH moves verified across multiple outlets."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "mover",
+        "earnings",
+        "mna",
+        "rumor"
+      ]
     }
   ]
 }

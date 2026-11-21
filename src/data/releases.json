@@ -1,8 +1,245 @@
 {
-  "generatedAt": "2026-11-20T19:27:47.785Z",
+  "generatedAt": "2026-11-21T04:40:39.569Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-stocks-correction-7th-day-nov-20-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "US stocks slide 7th straight session Fri Nov 20 2026 — S&P 500 -3.70% to 6,910.39 (enters correction), Nasdaq -5.28% to 22,617.73 (turns negative YTD for 2026), Dow -1.93% (-949.73 pts) to 48,147.33; worst S&P week since Apr 2025 (-8.6%) and worst Dow week since Mar 2020 (-8%); longest losing streak since Feb 2020; VIX ~32.27; NVDA -14.01%, MU -13.89%, AMD -13.25%, ANT -8.50%, SMH -~8%",
+      "org": "U.S. equity markets",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/",
+      "summary": "S&P 500 and Dow slid into correction on a 7th straight down day; Nasdaq turned negative for 2026 after -5.28%. Worst S&P week since April 2025 as the AI/chip trade cracked, NVDA -14% on SEC probe, Anthropic -8.5% in its second session.",
+      "tags": [
+        "equities",
+        "correction",
+        "sp500",
+        "nasdaq",
+        "dow",
+        "vix",
+        "ai-trade",
+        "semis",
+        "mega-cap-tech",
+        "nvda",
+        "amd",
+        "micron",
+        "anthropic",
+        "losing-streak",
+        "risk-off"
+      ],
+      "importance": "seismic",
+      "metrics": {
+        "S&P 500": "6,910.39 (-3.70%)",
+        "Nasdaq Composite": "22,617.73 (-5.28%)",
+        "Dow": "48,147.33 (-1.93%, -949.73 pts)",
+        "VIX": "~32.27 (highest since late March)",
+        "Week (S&P 500)": "-8.6% (worst since Apr 2025)",
+        "Week (Nasdaq)": "~-10%",
+        "Week (Dow)": "-8% (worst since Mar 2020)",
+        "YTD (S&P 500)": "+0.9%",
+        "YTD (Nasdaq)": "-2.7%",
+        "NVDA": "-14.01%",
+        "MU": "-13.89%",
+        "AMD": "-13.25%",
+        "ANT (Anthropic)": "-8.50% to $88.91"
+      },
+      "explainer": {
+        "tagline": "S&P 500 and Dow enter correction on a 7th straight down day as the AI trade cracks.",
+        "whatIsIt": "U.S. stocks finished sharply lower on Friday November 20, 2026, closing a brutal week. The S&P 500 (-3.70% to 6,910.39) and Dow (-1.93% to 48,147.33) both slid into a technical correction, defined as >10% below a recent closing high. The Nasdaq Composite (-5.28% to 22,617.73) turned negative year-to-date for 2026 (-2.7%).",
+        "howItWorks": "It was the S&P 500's seventh straight losing session, the longest streak since February 2020. On the week, the S&P fell 8.6% (its worst since April 2025), the Nasdaq about 10%, and the Dow about 8% (its worst since March 2020). Semis led the rout: NVDA -14.01%, MU -13.89%, AMD -13.25%, with SMH down ~8% on the day. Anthropic (ANT) fell 8.5% in its second trading session. The VIX climbed to ~32.27, its highest level since late March. Gold set a 52-week low near $3,520 and Bitcoin dropped below $60,000. The 10-year Treasury yield fell to about 4.99% on a safe-haven bid.",
+        "whyItMatters": "The weakness is centered on the AI/chip complex — investors are repricing data-center capex expectations after Jensen Huang's exit as Nvidia CEO, a Reuters report of an SEC civil probe into Nvidia disclosures, and softer post-earnings price action. Defensives (WMT, COST, JNJ, PG) traded ~+1%, a classic rotation. The next catalysts are the Dec 8–9 FOMC meeting (markets are pricing a possible hike) and CrowdStrike (Dec 1) / Zscaler (Dec 2) earnings.",
+        "forWho": "index traders, AI/semi investors, macro"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff0ebeb7ca382b1a3d4c057d7efd41c6c3419cde9-7360x4912.jpg&w=1200&op=resize",
+        "alt": "Trading floor with red tickers during a sharp sell-off",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Fool Market Wrap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/"
+        },
+        {
+          "label": "Fool: S&P Correction",
+          "url": "https://www.fool.com/investing/2026/11/20/the-sp-500-just-entered-correction-territory-heres-what-it-means-for-investors-right-now/"
+        },
+        {
+          "label": "CNBC Live Updates",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "S&P 500 -3.70% and Dow -1.93% enter correction Fri Nov 20 — Nasdaq -5.28%, worst S&P week since April 2025",
+        "body": "Friday closed one of the worst weeks in years for US equities. The AI/semi trade cracked and the selling went broad.\n\n* S&P 500 fell 3.70% to 6,910.39 — seventh straight down day, longest streak since February 2020. Officially in correction.\n* Nasdaq Composite dropped 5.28% to 22,617.73, now down 2.7% YTD\n* Dow lost 949.73 pts (-1.93%) to 48,147.33 — also into correction territory\n* Weekly: S&P -8.6% (worst since April 2025), Nasdaq ~-10%, Dow -8% (worst since March 2020)\n* VIX ripped to ~32.27, its highest close since late March\n\nThree things pushed the tape:\n\n1. **AI/chip repricing** — NVDA -14.01%, MU -13.89%, AMD -13.25%, SMH ~-8%. Investors cutting data-center capex assumptions after Huang's exit.\n2. **Nvidia SEC probe headline** — Reuters reported an SEC civil probe into disclosures; Nvidia had its biggest weekly drop since 2008.\n3. **Anthropic (ANT) -8.5%** to $88.91 in its second session after a 17% debut-day pop, which took some wind out of the whole AI complex.\n\nDefensives caught a bid — WMT, COST, JNJ, PG all up ~1%. 10Y yield fell to ~4.99% on safe-haven demand; gold set a 52-week low near $3,520 and Bitcoin fell below $60,000.\n\nNext catalysts: CrowdStrike earnings Dec 1, Zscaler Dec 2, FOMC Dec 8–9.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-correction-7th-day-nov-20-2026](https://stock-tldr.xyz/releases/us-stocks-correction-7th-day-nov-20-2026)"
+      },
+      "publishDate": "2026-11-21T04:40:39.569Z"
+    },
+    {
+      "id": "intu-q1-fy27-mailchimp-sale-nov-19-2026",
+      "categories": [
+        "earnings",
+        "mna",
+        "mover"
+      ],
+      "title": "Intuit (INTU) Q1 FY27 (Wed Nov 19 2026 after close) — revenue $4.354B (+12% Y/Y) and non-GAAP diluted EPS $2.91 (+56%) beat, GAAP EPS $2.59 (+63%); Credit Karma $708M (+9%); announces sale of Mailchimp to Bending Spoons for $3.68B ($3.31B cash + $368M stock) expected to close early 2027; FY27 revenue guide CUT to $23.081–$23.365B on weaker Credit Karma outlook; shares ~-12.8% in Fri Nov 20 session",
+      "org": "Intuit",
+      "tickers": [
+        "INTU"
+      ],
+      "date": "2026-11-19",
+      "url": "https://sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm",
+      "summary": "Intuit beat Q1 FY27 on revenue and EPS and announced it will sell Mailchimp to Bending Spoons for $3.68B. But it cut its FY27 revenue guide on a weaker Credit Karma outlook, and the stock fell ~12.8% Friday.",
+      "tags": [
+        "earnings",
+        "q1-fy27",
+        "eps-beat",
+        "revenue-beat",
+        "guidance-cut",
+        "mna",
+        "divestiture",
+        "mailchimp",
+        "bending-spoons",
+        "credit-karma",
+        "turbotax",
+        "quickbooks",
+        "buybacks",
+        "fintech"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$4.354B (+12% Y/Y)",
+        "GAAP diluted EPS": "$2.59 (+63%)",
+        "Non-GAAP diluted EPS": "$2.91 (+56%)",
+        "Credit Karma rev": "$708M (+9%)",
+        "QuickBooks Online Accounting": "$1.4B (+19%)",
+        "Mailchimp sale": "$3.68B ($3.31B cash + $368M stock)",
+        "FY27 revenue guide (new)": "$23.081–$23.365B (+8–9%)",
+        "Credit Karma FY27 guide (new)": "$2.721–$2.826B (+3–7%)",
+        "Q2 FY27 revenue guide": "$4.931–$4.954B (+6–7%)",
+        "Move": "~-12.8% Fri Nov 20"
+      },
+      "explainer": {
+        "tagline": "Intuit beats Q1, agrees to sell Mailchimp to Bending Spoons for $3.68B, but cuts FY27 revenue guide on Credit Karma weakness.",
+        "whatIsIt": "Intuit reported fiscal Q1 2027 (quarter ended Oct 31, 2026) after the close on Wednesday Nov 19 and announced it will sell Mailchimp to Italy's Bending Spoons for about $3.68 billion. The headline numbers topped estimates, but management trimmed full-year revenue guidance because Credit Karma is running slower than planned, and the stock fell about 12.8% on Friday Nov 20.",
+        "howItWorks": "Revenue was $4.354B (+12%), with Global Business Solutions $3.1B (+15%), Consumer $958M (+7%), and Mailchimp $313M (-1%). GAAP diluted EPS was $2.59 (+63%) and non-GAAP EPS $2.91 (+56%) — starting this quarter, non-GAAP measures now include share-based compensation, so prior-period comparisons were restated. The Mailchimp sale is $3.31B cash + $368M in Bending Spoons stock, with Intuit planning to use the cash for additional FY27 share repurchases; it closes in early calendar 2027 subject to regulators. Updated FY27 guidance: revenue $23.081–$23.365B (+8–9%) and Credit Karma $2.721–$2.826B (+3–7%); full-year operating income and non-GAAP EPS ($22.88–$23.12) were reiterated. Q2 FY27 revenue guide: $4.931–$4.954B (+6–7%).",
+        "whyItMatters": "Intuit paid $12B for Mailchimp in 2021 and is now selling it for $3.68B — a significant write-down in the implied valuation of that acquisition. The Credit Karma guide cut cites higher interest rates and a faster shift of financial search toward AI, pressures that also hang over Google Finance, NerdWallet (NRDS), and lead-gen fintech. The ~12.8% drop into Friday's broad-market rout made INTU one of the worst S&P 500 performers on the day.",
+        "forWho": "fintech and software investors"
+      },
+      "image": {
+        "url": "https://investors.intuit.com/_assets/_ec6fa3d84099c818e3499aef167549b7/intuit/db/939/7881/social_image.jpg",
+        "alt": "Intuit Q1 FY27 investor relations press release graphic",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Release",
+          "url": "https://sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm"
+        },
+        {
+          "label": "Intuit IR Press Release",
+          "url": "https://investors.intuit.com/news-events/press-releases/detail/1326/intuit-reports-strong-first-quarter-fiscal-2027-results-with-revenue-growth-of-12-updates-full-year-guidance-to-reflect-impact-of-credit-karma"
+        },
+        {
+          "label": "Yahoo Finance INTU",
+          "url": "https://finance.yahoo.com/quote/INTU"
+        },
+        {
+          "label": "Q1 Earnings Script PDF",
+          "url": "https://investors.intuit.com/_assets/_ec6fa3d84099c818e3499aef167549b7/intuit/db/946/10425/webcast_transcript/Q1_FY27_Earnings_Script.pdf"
+        }
+      ],
+      "reddit": {
+        "title": "Intuit (INTU) beats Q1 FY27 and will sell Mailchimp to Bending Spoons for $3.68B — but cuts FY27 revenue guide on Credit Karma; shares ~-12.8%",
+        "body": "Intuit reported Q1 FY27 after Wednesday's close and dropped two big items at once: a Mailchimp divestiture and a full-year revenue guide cut.\n\n* Revenue $4.354B (+12% Y/Y)\n* GAAP diluted EPS $2.59 (+63%), non-GAAP $2.91 (+56%)\n* Credit Karma revenue $708M (+9%)\n* Mailchimp (held for sale) revenue $313M (-1%)\n* Shares fell ~12.8% in Friday's Nov 20 session\n\nThe two bits that matter:\n\n1. **Mailchimp sale** — Intuit will sell Mailchimp to Bending Spoons (Italy) for ~$3.68B ($3.31B cash + $368M stock), closing early calendar 2027. Intuit paid ~$12B for the business in 2021.\n2. **FY27 revenue guide cut** — new range $23.081–$23.365B (+8–9%) vs the prior $23.28–$23.51B. The driver is a slower Credit Karma, which Intuit links to higher interest rates and a faster shift of financial search toward AI. Credit Karma FY27 guide dropped to $2.721–$2.826B (+3–7%). Full-year non-GAAP EPS of $22.88–$23.12 was reiterated.\n\nIntuit plans to use the Mailchimp cash proceeds for additional FY27 share repurchases.\n\nFull breakdown: [https://stock-tldr.xyz/releases/intu-q1-fy27-mailchimp-sale-nov-19-2026](https://stock-tldr.xyz/releases/intu-q1-fy27-mailchimp-sale-nov-19-2026)"
+      },
+      "publishDate": "2026-11-21T04:40:39.569Z"
+    },
+    {
+      "id": "crwd-zs-acquisition-talks-rumor-nov-20-2026",
+      "categories": [
+        "rumor",
+        "mna"
+      ],
+      "title": "Reportedly: CrowdStrike (CRWD) in talks to acquire Zscaler (ZS) — Bloomberg scoop Fri Nov 20 2026 after close cites 'people familiar'; ZS ~+16–18% after hours, CRWD -~4.8%; ZS market cap ~$32B pre-report, CRWD ~$235B; would be CrowdStrike's largest deal by far",
+      "org": "CrowdStrike",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "date": "2026-11-20",
+      "url": "https://siliconangle.com/2026/11/20/crowdstrike-reportedly-in-talks-to-acquire-cybersecurity-provider-zscaler/",
+      "summary": "Bloomberg reported Friday evening that CrowdStrike is in talks to acquire Zscaler. Sources told Bloomberg a deal could 'come together soon' but could still fall through. ZS +16–18% AH, CRWD -4.8% AH. Neither company has commented.",
+      "tags": [
+        "rumor",
+        "mna",
+        "cybersecurity",
+        "bloomberg",
+        "zscaler",
+        "crowdstrike",
+        "sase",
+        "edr",
+        "sec-gate",
+        "after-hours",
+        "cyber-platform"
+      ],
+      "importance": "rumor",
+      "metrics": {
+        "ZS AH move": "+16% to +18%",
+        "CRWD AH move": "-4.8%",
+        "ZS market cap (pre-report)": "~$32B",
+        "CRWD market cap": "~$235B",
+        "Source": "Bloomberg, \"people familiar with the matter\""
+      },
+      "explainer": {
+        "tagline": "Bloomberg says CrowdStrike is in talks to buy Zscaler — which would be its largest deal by a wide margin.",
+        "whatIsIt": "On Friday Nov 20 2026 after the close, Bloomberg reported that CrowdStrike (CRWD) is in acquisition talks with Zscaler (ZS), citing people familiar with the matter. Zscaler shares traded up ~16–18% in the after-hours session and CrowdStrike slipped ~4.8%. Neither company has confirmed the talks publicly.",
+        "howItWorks": "Bloomberg's sources said a deal could 'come together soon' but cautioned that the talks could still fall apart. No price has been reported. Zscaler's market cap was roughly $32B at Friday's close and CrowdStrike's was ~$235B; a deal at a typical buyout premium would be CrowdStrike's largest acquisition by a wide margin — its prior biggest was identity startup SGNL for ~$970M earlier in 2026. The two companies had announced a deeper partnership earlier in 2026 (Project QuiltWorks, Shared Signals integrations). Both report earnings in early December: CrowdStrike on Dec 1 and Zscaler on Dec 2.",
+        "whyItMatters": "The combo would stitch together CrowdStrike's endpoint and identity stack with Zscaler's secure access service edge (SASE) and zero trust network access, creating one of the largest cybersecurity platforms by ARR. Antitrust and the cash/stock mix are the key uncertainties if a deal is confirmed. Rumor framing only — not a confirmed transaction.",
+        "forWho": "cyber, enterprise software, and M&A arb desks"
+      },
+      "image": {
+        "url": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/CrowdStrike-Fal.Con-2022-Twitter-Image-1.png",
+        "alt": "CrowdStrike Fal.Con conference branding",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "SiliconANGLE Report",
+          "url": "https://siliconangle.com/2026/11/20/crowdstrike-reportedly-in-talks-to-acquire-cybersecurity-provider-zscaler/"
+        },
+        {
+          "label": "Yahoo Finance ZS",
+          "url": "https://finance.yahoo.com/quote/ZS"
+        },
+        {
+          "label": "Yahoo Finance CRWD",
+          "url": "https://finance.yahoo.com/quote/CRWD"
+        },
+        {
+          "label": "Fool Coverage",
+          "url": "https://www.fool.com/investing/2026/11/20/crowd-pleaser-crowdstrike-wants-to-buy-zscaler/"
+        }
+      ],
+      "reddit": {
+        "title": "Rumor: CrowdStrike in talks to acquire Zscaler — Bloomberg scoop Friday, ZS +16-18% AH, CRWD -4.8% AH",
+        "body": "Bloomberg reported Friday night that CrowdStrike (CRWD) is in talks to acquire Zscaler (ZS). Treat it as a rumor until either side confirms — neither has.\n\n* Source: Bloomberg, citing 'people familiar with the matter'\n* After-hours moves: ZS +16-18%, CRWD -4.8%\n* Zscaler market cap pre-report: ~$32B\n* CrowdStrike market cap: ~$235B\n* Talks could 'come together soon' per Bloomberg sources, but could still fall through\n\nFor context:\n\n1. **Size** — This would be CrowdStrike's largest acquisition by a wide margin. Its prior biggest was identity startup SGNL for ~$970M earlier this year.\n2. **Platform logic** — CrowdStrike's endpoint + identity stack combined with Zscaler's SASE/ZTNA would be one of the largest cyber platforms by ARR.\n3. **Context** — The two have had a deepening partnership in 2026 (Project QuiltWorks, Shared Signals integrations).\n\nNext catalysts: CrowdStrike reports Dec 1, Zscaler reports Dec 2.\n\nFull breakdown: [https://stock-tldr.xyz/releases/crwd-zs-acquisition-talks-rumor-nov-20-2026](https://stock-tldr.xyz/releases/crwd-zs-acquisition-talks-rumor-nov-20-2026)"
+      },
+      "publishDate": "2026-11-21T04:40:39.569Z"
+    },
     {
       "id": "bj-q3-fy26-earnings-nov-20-2026",
       "categories": [
