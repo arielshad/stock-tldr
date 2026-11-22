@@ -16759,6 +16759,35 @@
         "ipo",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261122t035408z",
+      "timestamp": "2026-11-22T03:54:08.829Z",
+      "source": "github-actions-sweep",
+      "summary": "Weekend sweep (Sat Nov 21 UTC): added one seismic crypto item covering Bitcoin's break to a two-year low of $55,130 Saturday morning on continued fallout from Friday's Nasdaq -5.3% AI rout, with ~$1.8B of 24h crypto liquidations, record-single-day IBIT outflow, and Strategy (MSTR) -30% on the week. Equities-side Nov 20 selloff is already in the feed; no new qualifying earnings, M&A, Fed, or geopolitics stories crossed the bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "btc-two-year-low-55k-nov-21-2026",
+          "title": "Bitcoin crashes to two-year low near $55,130 Sat Nov 21 2026 before bouncing 9% back above $60,000 — ~$1.8B in crypto liquidations in 24h ($1.3B longs), US spot BTC ETFs ~$1.1B of weekly outflows (IBIT's $541.1M Thu Nov 19 the largest daily outflow since Jan 2024 launch); Strategy (MSTR) -30.3% on the week to $77.80, below its ~$75,452 average BTC cost basis",
+          "category": "crypto",
+          "note": "Bitcoin two-year low of $55,130 on Sat Nov 21 with ~$1.8B 24h liquidations, record IBIT daily outflow, MSTR -30% on week — distinct from existing US stocks correction item (crypto-specific, Saturday date, new catalyst/numbers)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "crypto",
+        "mover",
+        "macro",
+        "earnings",
+        "mna",
+        "rates"
+      ]
     }
   ]
 }

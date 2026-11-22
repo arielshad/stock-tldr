@@ -1,8 +1,91 @@
 {
-  "generatedAt": "2026-11-21T18:25:37.362Z",
+  "generatedAt": "2026-11-22T03:54:08.829Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "btc-two-year-low-55k-nov-21-2026",
+      "categories": [
+        "crypto",
+        "mover"
+      ],
+      "title": "Bitcoin crashes to two-year low near $55,130 Sat Nov 21 2026 before bouncing 9% back above $60,000 — ~$1.8B in crypto liquidations in 24h ($1.3B longs), US spot BTC ETFs ~$1.1B of weekly outflows (IBIT's $541.1M Thu Nov 19 the largest daily outflow since Jan 2024 launch); Strategy (MSTR) -30.3% on the week to $77.80, below its ~$75,452 average BTC cost basis",
+      "org": "Spot Bitcoin ETF complex",
+      "date": "2026-11-21",
+      "url": "https://en.hespress.com/149605-bitcoin-falls-to-two-year-low-near-55000-as-ai-stock-selloff-rattles-markets.html",
+      "summary": "Bitcoin hits $55,130 early Sat Nov 21 — lowest since Sept 2024 — on Friday's Nasdaq -5.3% AI rout; bounces 9% to ~$60,300; ~$1.8B 24h crypto liquidations; MSTR -30% on the week.",
+      "tags": [
+        "bitcoin",
+        "btc",
+        "crypto",
+        "two-year-low",
+        "liquidations",
+        "spot-btc-etf",
+        "ibit",
+        "ai-selloff",
+        "capitulation",
+        "mstr",
+        "strategy",
+        "weekend-crash"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "MSTR",
+        "IBIT",
+        "COIN"
+      ],
+      "metrics": {
+        "BTC low": "$55,130 (lowest since Sept 2024)",
+        "BTC recovery": "~$60,300 (+9% from low)",
+        "24h crypto liquidations": "~$1.8B (longs $1.3B)",
+        "Spot BTC ETF weekly outflows": "~$1.1B",
+        "IBIT Thu Nov 19 outflow": "$541.1M (record single-day)",
+        "MSTR week": "-30.3% to $77.80",
+        "Nasdaq Fri Nov 20": "-5.3%"
+      },
+      "explainer": {
+        "tagline": "Bitcoin prints a two-year low at $55,130 as Friday's AI selloff spills into the crypto complex; Strategy drops below its BTC cost basis.",
+        "whatIsIt": "After the Nasdaq fell 5.3% on Friday Nov 20 on AI-valuation and rate-hike fears, selling continued overnight into Saturday Nov 21 when Bitcoin pierced $60,000 and reached an early-Saturday low of $55,130, its weakest print since September 2024. By early Saturday afternoon ET it had rebounded ~9% to around $60,300.",
+        "howItWorks": "CoinGlass tallied roughly $1.8B of leveraged crypto positions wiped out over 24 hours, with ~$1.3B of that in long bets. US spot Bitcoin ETFs had ~$1.1B of net outflows for the week; BlackRock's IBIT alone saw $541.1M of outflows on Thursday Nov 19, the largest single-day outflow since its January 2024 launch. Strategy (MSTR) finished the week down 30.3% at $77.80 and, with BTC near $60K, now trades with Bitcoin below the firm's ~$75,452 average cost per coin. Ether traded ~$1,680 (+3% from its lows) and Solana ~$71.",
+        "whyItMatters": "The move cleared the largest estimated cluster of futures liquidations between $59K and $62K, which per Glassnode removes a big source of forced selling — but CryptoQuant notes holders realized ~$11.3B of losses over seven days, roughly 8× the gains, which the analyst called 'extreme capitulation'. Monday's US cash open sets the next test: if tech stabilizes, short-covering rallies in BTC can extend, but QCP Capital flagged that without equities steadying such bounces tend to fail. Crypto-linked equities (MSTR, IREN, MARA, Bitmine, Circle, Coinbase, Robinhood) all finished the week down 20–35%.",
+        "forWho": "crypto desks, MSTR holders, macro traders",
+        "tryIt": "https://finance.yahoo.com/quote/BTC-USD"
+      },
+      "image": {
+        "url": "https://ceoeconomy.com/img/crypto-week-in-review-nov-21-2026.jpg",
+        "alt": "Bitcoin price chart showing crash below $60,000 toward two-year low on Nov 21 2026",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Hespress Report",
+          "url": "https://en.hespress.com/149605-bitcoin-falls-to-two-year-low-near-55000-as-ai-stock-selloff-rattles-markets.html"
+        },
+        {
+          "label": "Week Review",
+          "url": "https://ceoeconomy.com/article/crypto-week-in-review-nov-21-2026"
+        },
+        {
+          "label": "KuCoin Roundup",
+          "url": "https://www.kucoin.com/news/insight/BTC/6b01c0b49278e40007d8f432"
+        },
+        {
+          "label": "MSTR Quote",
+          "url": "https://finance.yahoo.com/quote/MSTR"
+        },
+        {
+          "label": "BTC Quote",
+          "url": "https://finance.yahoo.com/quote/BTC-USD"
+        }
+      ],
+      "reddit": {
+        "title": "Bitcoin crashes to two-year low near $55,130 Saturday — bounces 9% back above $60K — ~$1.8B in crypto liquidations, IBIT prints its biggest-ever daily outflow, MSTR -30% on the week",
+        "body": "Friday's Nasdaq rout spilled straight into the crypto tape this weekend. Here's the scoreboard into Saturday afternoon ET:\n\n* BTC early-Saturday low: **$55,130** — weakest since September 2024\n* Bounced ~9% back to roughly **$60,300** by early afternoon ET\n* ~**$1.8B** in leveraged crypto positions liquidated over 24h (CoinGlass) — ~$1.3B of that in longs\n* US spot BTC ETFs: ~**$1.1B** of net outflows for the week\n* IBIT (BlackRock): **$541.1M** of outflows on Thursday Nov 19 — largest daily outflow since the Jan 2024 launch\n* Strategy (MSTR): **-30.3%** on the week to $77.80 — BTC now trades BELOW the firm's ~$75,452 average cost basis\n* ETH ~$1,680 (+3% from lows), SOL ~$71\n\nThree things broke together:\n\n1. **Friday's AI rout** — Nasdaq -5.3%, worst week since Apr 2025, dragged the risk-asset complex\n2. **Forced selling** — Glassnode said the leg down cleared the biggest estimated futures-liq cluster between $59K and $62K\n3. **ETF unwind** — IBIT's record daily outflow + a $1.1B weekly bleed is the clearest sign allocators are de-risking, not buying the dip\n\nCryptoQuant called it 'extreme capitulation' — holders realized ~$11.3B of losses over 7 days, roughly 8x the gains. QCP Capital's take: short-covering bounces can extend, but they tend to fail unless tech stabilizes.\n\nNext catalysts: Monday's US cash open, Nov PCE later this month, and the Dec 8–9 FOMC.\n\nFull breakdown: [https://stock-tldr.xyz/releases/btc-two-year-low-55k-nov-21-2026](https://stock-tldr.xyz/releases/btc-two-year-low-55k-nov-21-2026)"
+      },
+      "publishDate": "2026-11-22T03:54:08.829Z"
+    },
     {
       "id": "us-stocks-correction-7th-day-nov-20-2026",
       "categories": [
