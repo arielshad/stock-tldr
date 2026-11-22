@@ -16788,6 +16788,27 @@
         "mna",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261122t184957z",
+      "timestamp": "2026-11-22T18:49:57.946Z",
+      "source": "github-actions-sweep",
+      "summary": "Zero-add sweep on Sat 2026-11-22. Nov 20–22 window already fully covered by prior sweeps: US stocks seventh straight down day/correction entry (Fri Nov 20), BJ's Wholesale Q3 FY26 earnings (Fri Nov 20 premarket), CrowdStrike–Zscaler rumor (Fri Nov 20), and Bitcoin two-year-low crash (Sat Nov 21). The only other material story surfaced — BILL Holdings' $6B take-private by TPG + Corpay — announced Thu Nov 19, outside the 72h date cap. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "equities-close",
+        "earnings",
+        "mna",
+        "crypto",
+        "fedspeak"
+      ]
     }
   ]
 }
