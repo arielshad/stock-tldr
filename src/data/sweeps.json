@@ -16809,6 +16809,36 @@
         "crypto",
         "fedspeak"
       ]
+    },
+    {
+      "id": "sweep-20261123t043210z",
+      "timestamp": "2026-11-23T04:32:10.883Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet Sunday sweep. One item: Houthi claim of a direct hit on Saudi Aramco's Rabigh refinery paired with Trump's Fox News comment that he's inclined to strike Iran next year if no deal; oil barely moved. Everything else from the Thu-Fri earnings and macro window is already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "houthi-rabigh-refinery-attack-nov-22-2026",
+          "title": "Yemen Houthis say they hit Saudi Aramco's Rabigh oil refinery Sun Nov 22 2026 — spokesman Yahya Saree claims direct strike on the 400+kbd Petro Rabigh complex 165 km north of Jeddah; Saudi-led coalition says it intercepted a ballistic missile toward the western region and a drone toward Riyadh, no damage confirmed; Trump tells Fox News Sat Nov 21 he is inclined to order strikes on Iran next year if no deal is reached; Brent -0.22% to $92.35 and WTI -0.19% to $83.25 in early Asia Monday",
+          "category": "commodity",
+          "note": "Sunday geopolitical event with tier-1 coverage (CNBC, New Arab, oilprice.com) in an active US-Israel-Iran war context; paired with Trump's Fox News strike-threat; important even though oil barely moved in early Asia trade."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commodity",
+        "macro",
+        "earnings",
+        "crypto",
+        "mna",
+        "video",
+        "article"
+      ]
     }
   ]
 }
