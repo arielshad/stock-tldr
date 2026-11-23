@@ -16839,6 +16839,49 @@
         "video",
         "article"
       ]
+    },
+    {
+      "id": "sweep-20261123t230828z",
+      "timestamp": "2026-11-23T23:08:28.617Z",
+      "source": "github-actions-sweep",
+      "summary": "Three ship-worthy items for Monday Nov 23 2026: Nvidia's board unanimously reinstated Jensen Huang as CEO (SEISMIC, NVDA +31.48%), CrowdStrike confirmed its $43.9B all-stock acquisition of Zscaler (MAJOR), and the Huang-return catalyst sparked a historic broad-market rally (SEISMIC, S&P +4.74% exits correction, biggest 1-day gain in 18+ months).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "nvda-huang-reinstated-ceo-nov-23-2026",
+          "title": "NVIDIA (NVDA) board reinstates Jensen Huang as President, CEO and director Mon Nov 23 2026 — unanimous vote after Nov 22 board action; Colette Kress returns to CFO-only; NVDA +31.48% to $165.05 (+$39.52) as reinstatement sparks historic AI rebound; press release cites 'input from senior U.S. government levels' and says reinstatement poses 'no national security risk'",
+          "category": "mover",
+          "note": "SEISMIC — unanimous board reversal of the Nov 12 CEO resignation, filed in an 8-K and nvidianews press release; NVDA +31.48% drove ~$1T market-cap swing and detonated the broader AI complex."
+        },
+        {
+          "id": "crwd-acquires-zs-definitive-nov-23-2026",
+          "title": "CrowdStrike (CRWD) to acquire Zscaler (ZS) in $43.9B all-stock deal Mon Nov 23 2026 — 1.135 CRWD per ZS share ($260.41/sh implied, ~34% premium to Fri Nov 20 close); CRWD -8.92% / ZS +17.67% intraday; Jay Chaudhry (~34% of ZS) signs voting agreement; $1.4B ZS break fee; expected to close 2H FY2028",
+          "category": "mna",
+          "note": "MAJOR — definitive $43.9B all-stock agreement (1.135 CRWD per ZS, ~34% premium), confirming Nov 20 Bloomberg scoop; separate item from the rumor since terms/structure are now disclosed."
+        },
+        {
+          "id": "us-stocks-historic-rally-nov-23-2026",
+          "title": "US stocks snap 7-day streak Mon Nov 23 2026 — S&P 500 +4.74% to 7,238.07 (+326.78 pts), Nasdaq +6.51% to 24,089.55 (+1,471.82 pts), Dow +3.01% to 49,595.31 (+1,447.98 pts); S&P biggest one-day gain in over 18 months and exits correction; triggered by Nvidia Huang reinstatement; 10Y -12bp to 4.92%, gold +4.40% to $3,670",
+          "category": "mover",
+          "note": "SEISMIC — S&P +4.74% is the biggest 1-day % gain in over 18 months, snaps a 7-session losing streak, and parallels the Nov 20 correction entry already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mover",
+        "macro",
+        "mna",
+        "regulatory",
+        "earnings",
+        "rates",
+        "commodity",
+        "crypto"
+      ]
     }
   ]
 }
