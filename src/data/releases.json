@@ -1,8 +1,233 @@
 {
-  "generatedAt": "2026-11-24T07:26:14.011Z",
+  "generatedAt": "2026-11-24T21:46:36.902Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "sny-acquires-insm-definitive-nov-24-2026",
+      "categories": [
+        "mna",
+        "mover"
+      ],
+      "title": "Sanofi (SNY) to acquire Insmed (INSM) in $41B all-cash deal Tue Nov 24 2026 — $175/share, 46% premium to Nov 18 unaffected close; INSM +14.13% to $170.15 on ~78M shares volume; Sanofi says deal EPS accretive by end of 2028; biggest pharma deal in ~3 years",
+      "org": "Sanofi",
+      "date": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm",
+      "summary": "Sanofi agrees to buy Insmed for $175/share all cash — $41.0B (€37.6B) equity value, a 46% premium to INSM's Nov 18 unaffected close of $119.80; INSM closes +14.13% at $170.15. Sanofi expects EPS accretion by end of 2028; close targeted for 1H 2027.",
+      "tags": [
+        "mna",
+        "biotech",
+        "respiratory",
+        "all-cash",
+        "pharma-deal",
+        "brinsupri",
+        "arikayce",
+        "tpip",
+        "sec-6k",
+        "defa14a"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INSM",
+        "SNY"
+      ],
+      "metrics": {
+        "Deal": "$41.0B all-cash ($175/share)",
+        "Premium": "46% over Nov 18 unaffected close ($119.80)",
+        "INSM move": "+14.13% to $170.15 (vol 78.25M shares)",
+        "Expected close": "1H 2027",
+        "EPS accretion": "By end of 2028 (Sanofi)"
+      },
+      "explainer": {
+        "tagline": "Sanofi buys Insmed for $41B all cash at $175/share, a 46% premium to the Nov 18 unaffected close.",
+        "whatIsIt": "Sanofi and Insmed announced a definitive agreement Tuesday morning Paris time for Sanofi to acquire 100% of Insmed for $175 per share in cash. Total equity value is about $41.0 billion (€37.6 billion). Sanofi says the transaction will be funded with debt and cash on hand under a committed financing package.",
+        "howItWorks": "The $175 cash price is a 46% premium to Insmed's $119.80 close on Nov 18 2026, the last session before Bloomberg reported the talks. Insmed shareholders need to approve the deal; US and certain non-US regulatory clearances are required. The DEFA14A filed by Insmed describes the board's decision as the best path forward. Closing is targeted for the first half of 2027. Sanofi expects the deal to be EPS accretive by the end of 2028 and to maintain its progressive dividend and investment-grade credit rating.",
+        "whyItMatters": "This is the largest pharma deal since Pfizer-Seagen ($43B, 2023) and gives Sanofi control of Brinsupri (brensocatib) in bronchiectasis, Arikayce in non-tuberculous mycobacterial lung disease, and the Phase 3 TPIP (treprostinil palmitil) inhalation program — a respiratory pipeline to lean on as Dupixent faces loss-of-exclusivity. INSM closed at $170.15 (+14.13%) on massive 78.25M-share volume, still trading at a ~2.8% discount to the $175 cash price given the Insmed shareholder vote + regulatory risk. Rival respiratory franchises at GSK and AstraZeneca now face a better-funded Sanofi.",
+        "forWho": "healthcare M&A desks, biotech event-driven",
+        "tryIt": "https://finance.yahoo.com/quote/INSM"
+      },
+      "image": {
+        "url": "https://insmed.com/wp-content/uploads/2025/07/Share-Image-Dark.webp",
+        "alt": "Insmed corporate share image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Sanofi 6-K Press Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+        },
+        {
+          "label": "Insmed DEFA14A Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045488/ef20086521_defa14a.htm"
+        },
+        {
+          "label": "INSM Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/INSM"
+        },
+        {
+          "label": "Insmed IR",
+          "url": "https://investor.insmed.com/"
+        }
+      ],
+      "reddit": {
+        "title": "Sanofi buys Insmed for $41B all cash at $175/share — 46% premium, biggest pharma deal in ~3 years",
+        "body": "Sanofi and Insmed announced a definitive deal Tue Nov 24 2026 Paris morning. Clean all-cash transaction.\n\n* $175 per share in cash, ~$41.0B equity value (€37.6B)\n* 46% premium to INSM's Nov 18 unaffected close of $119.80\n* INSM closed +14.13% at $170.15 on ~78.25M shares (far above its daily average)\n* Still a ~2.8% arb spread to $175 given regulatory + shareholder-vote risk\n* Expected to close 1H 2027; Sanofi says EPS accretive by end of 2028\n\nWhat Sanofi is actually buying:\n\n1. **Brinsupri (brensocatib)** — recently launched for bronchiectasis, pegged by consensus as a multi-billion peak-sales drug.\n2. **Arikayce** — on-market inhaled therapy for non-tuberculous mycobacterial lung disease.\n3. **TPIP (treprostinil palmitil inhalation powder)** — Phase 3 program in pulmonary hypertension tied to ILD.\n\nStrategic read: this is Sanofi re-upping its respiratory bench ahead of the Dupixent loss-of-exclusivity cliff. Funded with debt + cash; Sanofi says it keeps the progressive dividend and investment-grade rating.\n\nNext catalysts: Insmed proxy filing with full deal mechanics (break fee, voting agreement), HSR/EU antitrust review timeline, Insmed shareholder vote in early 2027.\n\nFull breakdown: [https://stock-tldr.xyz/releases/sny-acquires-insm-definitive-nov-24-2026](https://stock-tldr.xyz/releases/sny-acquires-insm-definitive-nov-24-2026)"
+      },
+      "publishDate": "2026-11-24T21:46:36.902Z"
+    },
+    {
+      "id": "mdt-q2-fy27-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Medtronic (MDT) Q2 FY27 (Tue Nov 24 2026 premarket) — revenue $9.364B (+4.5% rep / +6.5% organic), non-GAAP EPS $1.34 (-1.4%) beats $1.33 guide midpoint by 1¢, GAAP EPS $2.20 lifted by $2.0B MiniMed separation gain; FY27 guide REITERATED at +7.25–7.75% organic growth and non-GAAP EPS $5.94–$6.00; shares -4.56% to $96.13",
+      "org": "Medtronic",
+      "date": "2026-11-24",
+      "url": "https://www.prnewswire.com/news-releases/medtronic-reports-second-quarter-fiscal-2027-results-performance-reflects-consistent-execution-across-the-portfolio-302948866.html",
+      "summary": "Medtronic reports Q2 FY27 revenue $9.364B (+4.5% rep, +6.5% organic) and non-GAAP EPS $1.34 (just above guide midpoint); FY27 guide reiterated; Cardiovascular +10.2% rep on 58% Cardiac Ablation growth; stock -4.56% to $96.13.",
+      "tags": [
+        "earnings",
+        "medtech",
+        "cardiovascular",
+        "cardiac-ablation",
+        "diabetes-separation",
+        "fy27",
+        "guidance-reiterated",
+        "mover"
+      ],
+      "importance": "major",
+      "tickers": [
+        "MDT"
+      ],
+      "metrics": {
+        "Revenue": "$9.364B (+4.5% rep / +6.5% organic)",
+        "Non-GAAP EPS": "$1.34 (-1.4% Y/Y, ~1¢ above guide midpoint)",
+        "GAAP EPS": "$2.20 (+106.6%, incl. $2.0B MiniMed separation gain)",
+        "Cardiovascular rev": "$3.785B (+10.2% rep / +10.4% organic)",
+        "Neuroscience rev": "$2.705B (+5.1% rep / +3.2% organic)",
+        "Medical Surgical rev": "$2.245B (+3.9% rep / +4.4% organic)",
+        "FY27 organic growth guide": "7.25–7.75% (reiterated)",
+        "FY27 non-GAAP EPS guide": "$5.94–$6.00 (reiterated)",
+        "Move": "-4.56% to $96.13 (Nov 24 close)"
+      },
+      "explainer": {
+        "tagline": "Medtronic prints a clean fiscal Q2 beat with Cardiac Ablation +58%, holds FY27 guide — but shares drop 4.6%.",
+        "whatIsIt": "Medtronic reported second-quarter fiscal 2027 results Tuesday morning for the three months ended Oct 30 2026. Revenue of $9.364 billion and non-GAAP diluted EPS of $1.34 both landed above the midpoint of the company's guidance. GAAP EPS was flattered by the Oct 15 2026 separation of the Diabetes business into MiniMed Group, which delivered a $2.0 billion book gain.",
+        "howItWorks": "Reported revenue growth was 4.5%, organic growth 6.5% (currency flattering from the prior quarter's split-off is included in the gap). Cardiovascular, Medtronic's largest segment, was $3.785B and grew 10.4% organically; Cardiac Ablation Solutions — the PFA-driven franchise — rose 58%. Neuroscience grew 3.2% organically to $2.705B and Medical Surgical grew 4.4% organically to $2.245B. Diabetes is now out of the consolidated P&L; the former segment sits in 'Other' ($629M vs $792M prior-year, -20.6% on the reporting change). FY27 guide was held: organic revenue growth 7.25–7.75% and non-GAAP EPS $5.94–$6.00. Capital returns H1 FY27: $1.842B dividends + $446M buybacks.",
+        "whyItMatters": "The print is a beat by Medtronic's own guide math, but the Street wanted either a guide-raise or sharper Cardiac Ablation operating leverage after Boston Scientific's PFA numbers set the bar. With FY27 guidance only reiterated (not raised) and non-GAAP EPS down 1.4% Y/Y, MDT closed -4.56% at $96.13 — a 6-month low — on heavy 19.4M-share volume. Comps BSX and ABT trade off the same PFA theme.",
+        "forWho": "medtech sector analysts, PFA theme traders",
+        "tryIt": "https://finance.yahoo.com/quote/MDT"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/1280px-2009-0610-001-Fridley-MedtronicHQ.JPG",
+        "alt": "Medtronic headquarters building in Fridley, Minnesota",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Medtronic Q2 FY27 Release",
+          "url": "https://www.prnewswire.com/news-releases/medtronic-reports-second-quarter-fiscal-2027-results-performance-reflects-consistent-execution-across-the-portfolio-302948866.html"
+        },
+        {
+          "label": "Medtronic IR",
+          "url": "https://news.medtronic.com/"
+        },
+        {
+          "label": "MDT Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/MDT"
+        },
+        {
+          "label": "MDT Earnings Call Transcript",
+          "url": "https://www.aol.com/articles/medtronic-mdt-q2-2027-earnings-163127000.html"
+        }
+      ],
+      "reddit": {
+        "title": "Medtronic (MDT) Q2 FY27 beats on revenue + EPS — Cardiac Ablation +58%, FY27 guide held — but stock -4.6% to $96",
+        "body": "Medtronic printed Q2 FY27 Tue Nov 24 2026 premarket for the quarter ended Oct 30 2026. Headline numbers beat its own guide midpoints but the Street wasn't impressed.\n\n* Revenue $9.364B — up 4.5% reported, 6.5% organic\n* Non-GAAP EPS $1.34 — down 1.4% Y/Y, 1¢ above guide midpoint\n* GAAP EPS $2.20 — flattered by a $2.0B gain on the MiniMed (Diabetes) separation that closed Oct 15 2026\n* FY27 guide REITERATED at +7.25–7.75% organic revenue and $5.94–$6.00 non-GAAP EPS — no raise\n* Shares -4.56% to $96.13 on 19.4M-share volume (6-month low)\n\nSegment view:\n\n1. **Cardiovascular** — $3.785B, +10.4% organic. Cardiac Ablation Solutions +58% as the PFA franchise keeps compounding against BSX / JNJ.\n2. **Neuroscience** — $2.705B, +3.2% organic. Slower.\n3. **Medical Surgical** — $2.245B, +4.4% organic.\n4. **Diabetes** — no longer in the consolidated P&L. Separated into MiniMed Group Inc. on Oct 15; prior-year comp drops into 'Other'.\n\nReturned H1 FY27: $1.842B dividends + $446M buybacks.\n\nNext catalysts: Q3 FY27 report (Feb 2027), MiniMed standalone trading, BSX and ABT PFA print comps.\n\nFull breakdown: [https://stock-tldr.xyz/releases/mdt-q2-fy27-earnings-nov-24-2026](https://stock-tldr.xyz/releases/mdt-q2-fy27-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-24T21:46:36.902Z"
+    },
+    {
+      "id": "zm-q3-fy27-earnings-nov-23-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Zoom (ZM) Q3 FY27 (Mon Nov 23 2026 after close) — revenue $1.2906B (+4.9% Y/Y) beats, non-GAAP EPS $1.59 vs ~$1.49 est (+5% Y/Y), GAAP EPS $1.05; Enterprise +8.6% to $805.4M; raises FY27 guide to $5.100–5.105B rev and $6.24–$6.25 non-GAAP EPS; INITIATES $0.25 quarterly dividend; shares +2.75% to $88.40 in Tue session",
+      "org": "Zoom Communications",
+      "date": "2026-11-23",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408888/0/en/zoom-communications-reports-financial-results-for-the-third-quarter-of-fiscal-year-2027.html",
+      "summary": "Zoom Q3 FY27 revenue $1.291B (+4.9%) beat, non-GAAP EPS $1.59 vs ~$1.49 est; Enterprise +8.6% to $805.4M; raised FY27 guide to $5.100–5.105B rev and $6.24–$6.25 non-GAAP EPS; initiated first-ever $0.25/share quarterly dividend; shares +2.75% to $88.40.",
+      "tags": [
+        "earnings",
+        "software",
+        "enterprise-saas",
+        "dividend-initiation",
+        "guidance-raise",
+        "fy27",
+        "q3-fy27"
+      ],
+      "importance": "major",
+      "tickers": [
+        "ZM"
+      ],
+      "metrics": {
+        "Revenue": "$1,290.6M (+4.9% Y/Y)",
+        "Enterprise rev": "$805.4M (+8.6% Y/Y)",
+        "Online rev": "$485.3M (-0.6% Y/Y)",
+        "Non-GAAP EPS": "$1.59 (+5% Y/Y) vs ~$1.49 est",
+        "GAAP EPS": "$1.05 (-48% Y/Y)",
+        "Non-GAAP op margin": "41.6%",
+        "GAAP op margin": "24.6%",
+        "Enterprise NDR (TTM)": "100% (vs 98% prior)",
+        "Cash + securities": "$7.3B (Oct 31 2026)",
+        "FY27 revenue guide": "$5.100–5.105B (raised)",
+        "FY27 non-GAAP EPS guide": "$6.24–$6.25 (raised)",
+        "Q4 FY27 rev guide": "$1.293–1.298B",
+        "Q4 FY27 non-GAAP EPS guide": "$1.55–$1.57",
+        "Dividend": "$0.25/share quarterly (new), payable Dec 17 2026",
+        "Buybacks Q3": "3.9M shares (~$0.9B authorization remaining)",
+        "Move": "+2.75% to $88.40 (Nov 24 close)"
+      },
+      "explainer": {
+        "tagline": "Zoom beats on Q3 FY27 and initiates its first-ever dividend; enterprise NDR ticks back to 100%.",
+        "whatIsIt": "Zoom Communications reported Q3 FY27 results Monday after the close for the three months ended Oct 31 2026. Revenue of $1.291B grew 4.9% Y/Y and non-GAAP diluted EPS of $1.59 beat consensus near $1.49. The company raised full-year FY27 guidance and initiated its first-ever quarterly dividend at $0.25/share.",
+        "howItWorks": "Enterprise revenue was $805.4M (+8.6%), reaching 62% of total; Online revenue was $485.3M (-0.6%). Non-GAAP operating margin was 41.6%; GAAP operating margin 24.6%. Trailing-12-month enterprise net dollar expansion rate ticked up to 100% from 98% — the first time the metric has reclaimed the 100% line in several quarters. Cash and marketable securities were $7.3B. The board initiated a $0.25/share quarterly dividend, payable Dec 17 2026 to holders of record Dec 3 2026. Zoom raised FY27 guidance to $5.100–5.105B revenue and $6.24–$6.25 non-GAAP EPS (prior midpoints $5.065B / $5.80). Q4 FY27 guide: revenue $1.293–1.298B, non-GAAP EPS $1.55–$1.57.",
+        "whyItMatters": "The dividend initiation and buyback cadence (3.9M shares repurchased in Q3) signal a capital-return pivot for a company whose growth has settled in the mid-single digits. Enterprise NDR back at 100% is the first durable sign of churn stabilization in the enterprise book since FY25 — the key input to whether ZM can keep its ~40% operating margin while comps like MSFT Teams and GOOG Meet keep bundling. Shares gained 2.75% Tuesday to $88.40.",
+        "forWho": "SaaS fundamentals desks, dividend/cash-return screeners",
+        "tryIt": "https://finance.yahoo.com/quote/ZM"
+      },
+      "image": {
+        "url": "https://ml.globenewswire.com/Resource/Download/1a5e6f52-9a8e-432b-84cc-7dfb0e6623e2",
+        "alt": "Zoom Communications Q3 FY27 earnings release graphic",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Zoom Q3 FY27 Release",
+          "url": "https://www.globenewswire.com/news-release/2026/11/23/3408888/0/en/zoom-communications-reports-financial-results-for-the-third-quarter-of-fiscal-year-2027.html"
+        },
+        {
+          "label": "StockTitan ZM Coverage",
+          "url": "https://www.stocktitan.net/news/ZM/zoom-communications-reports-financial-results-for-the-third-quarter-9j03x7m447ou.html"
+        },
+        {
+          "label": "ZM Quote (Yahoo)",
+          "url": "https://finance.yahoo.com/quote/ZM"
+        },
+        {
+          "label": "Yahoo ZM Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-reports-financial-results-210500379.html"
+        }
+      ],
+      "reddit": {
+        "title": "Zoom (ZM) Q3 FY27 beat + first-ever dividend — rev $1.29B, non-GAAP EPS $1.59 vs $1.49 est, FY27 guide raised",
+        "body": "Zoom printed Q3 FY27 Mon Nov 23 2026 after the close for the quarter ended Oct 31 2026. Revenue + EPS beat, and the board started a dividend.\n\n* Revenue $1,290.6M (+4.9% Y/Y) — beat\n* Non-GAAP diluted EPS $1.59 vs ~$1.49 est (+5% Y/Y)\n* GAAP diluted EPS $1.05 (-48% Y/Y from an unusually high prior-year quarter)\n* Enterprise revenue $805.4M (+8.6%) — now 62% of total\n* Online $485.3M (-0.6%) — still declining but slower\n* Enterprise net dollar retention TTM ticked up to **100%** from 98% — first back at 100% in several quarters\n* Non-GAAP op margin 41.6% / GAAP 24.6%; cash + securities $7.3B\n\nTwo things here that matter:\n\n1. **First-ever dividend** — $0.25/share quarterly, payable Dec 17 2026, record date Dec 3. Plus 3.9M shares bought back in Q3 and ~$0.9B authorization left. Capital-return pivot for a mid-single-digit grower.\n2. **FY27 guide RAISED** — revenue to $5.100–5.105B (from $5.065–5.075B) and non-GAAP EPS to $6.24–$6.25 (from $5.77–5.81). Q4 FY27 guide $1.293–1.298B rev and $1.55–$1.57 non-GAAP EPS.\n\nShares +2.75% to $88.40 Tue Nov 24.\n\nNext catalysts: Q4 FY27 report (Feb 2027), first dividend payment Dec 17.\n\nFull breakdown: [https://stock-tldr.xyz/releases/zm-q3-fy27-earnings-nov-23-2026](https://stock-tldr.xyz/releases/zm-q3-fy27-earnings-nov-23-2026)"
+      },
+      "publishDate": "2026-11-24T21:46:36.902Z"
+    },
     {
       "id": "a-q4-fy26-earnings-nov-23-2026",
       "categories": [

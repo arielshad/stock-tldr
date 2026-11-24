@@ -16907,6 +16907,47 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261124t214636z",
+      "timestamp": "2026-11-24T21:46:36.902Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh markets items added. Sanofi–Insmed $41B all-cash definitive deal (biggest pharma M&A in ~3 years) announced Tue Nov 24 2026 Paris morning at $175/share, 46% premium to the Nov 18 unaffected close; Medtronic Q2 FY27 beat guide midpoints but held FY27 guide and closed -4.6%; Zoom Q3 FY27 beat + raised FY27 guide + initiated first-ever $0.25/share quarterly dividend.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "sny-acquires-insm-definitive-nov-24-2026",
+          "title": "Sanofi (SNY) to acquire Insmed (INSM) in $41B all-cash deal Tue Nov 24 2026 — $175/share, 46% premium to Nov 18 unaffected close; INSM +14.13% to $170.15 on ~78M shares volume; Sanofi says deal EPS accretive by end of 2028; biggest pharma deal in ~3 years",
+          "category": "mna",
+          "note": "Definitive M&A agreement at $175/share, confirmed via SEC 6-K exhibit and Insmed DEFA14A; largest pharma deal since Pfizer-Seagen (2023)."
+        },
+        {
+          "id": "mdt-q2-fy27-earnings-nov-24-2026",
+          "title": "Medtronic (MDT) Q2 FY27 (Tue Nov 24 2026 premarket) — revenue $9.364B (+4.5% rep / +6.5% organic), non-GAAP EPS $1.34 (-1.4%) beats $1.33 guide midpoint by 1¢, GAAP EPS $2.20 lifted by $2.0B MiniMed separation gain; FY27 guide REITERATED at +7.25–7.75% organic growth and non-GAAP EPS $5.94–$6.00; shares -4.56% to $96.13",
+          "category": "earnings",
+          "note": "Q2 FY27 earnings beat own guide midpoints; FY27 guide only reiterated, not raised; stock -4.56% to $96.13 confirms mover status (>3% catalyst-driven)."
+        },
+        {
+          "id": "zm-q3-fy27-earnings-nov-23-2026",
+          "title": "Zoom (ZM) Q3 FY27 (Mon Nov 23 2026 after close) — revenue $1.2906B (+4.9% Y/Y) beats, non-GAAP EPS $1.59 vs ~$1.49 est (+5% Y/Y), GAAP EPS $1.05; Enterprise +8.6% to $805.4M; raises FY27 guide to $5.100–5.105B rev and $6.24–$6.25 non-GAAP EPS; INITIATES $0.25 quarterly dividend; shares +2.75% to $88.40 in Tue session",
+          "category": "earnings",
+          "note": "Q3 FY27 EPS beat ($1.59 vs $1.49 est), FY27 guide raised, and first-ever quarterly dividend initiated — meaningful capital-return pivot for ZM."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "mna",
+        "earnings",
+        "mover",
+        "macro",
+        "crypto",
+        "regulatory"
+      ]
     }
   ]
 }
