@@ -16882,6 +16882,31 @@
         "commodity",
         "crypto"
       ]
+    },
+    {
+      "id": "sweep-20261124t072614z",
+      "timestamp": "2026-11-24T07:26:14.011Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: Agilent (A) Q4 FY26 beat-and-raise Mon Nov 23 after close — revenue $2.04B and non-GAAP EPS $1.86 both beat consensus, FY27 guide above Street, shares +7.5% AH to a new 52-week high. Previous sweep (Nov 23 23:08Z) covered the other big Nov 23 stories (US stocks historic rally, CRWD/ZS deal, Jensen Huang reinstated at NVDA). Nothing else in the overnight Asia/early Europe session cleared the inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "a-q4-fy26-earnings-nov-23-2026",
+          "title": "Agilent (A) Q4 FY26 (Mon Nov 23 2026 after close) — revenue $2.04B (+9.6% Y/Y) beat ~$1.99B est and adj EPS $1.86 beat $1.73 est; FY27 guides $8.00–$8.15B rev and $6.73–$6.86 adj EPS; shares +7.5% AH to $189.25 (new 52-week high)",
+          "category": "earnings",
+          "note": "Clear beat-and-raise after close Mon Nov 23: revenue, non-GAAP EPS and FY27 guide all above consensus; shares +7.5% AH to new 52-week high $189.25. Tier-1 relevance via healthcare/life-sciences tools read-through to peers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }
