@@ -1,8 +1,731 @@
 {
-  "generatedAt": "2026-11-24T21:46:36.902Z",
+  "generatedAt": "2026-11-25T06:14:10.883Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dell-q3-fy27-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "DELL",
+        "HPE"
+      ],
+      "title": "Dell (DELL) Q3 FY27 (Tue Nov 24 2026 after close) — record revenue $54.94B (+103% Y/Y), non-GAAP EPS $9.45 crushes ~$6.59 est, $60.2B AI orders / $22.0B AI-server revenue / $132.3B AI backlog; FY27 guide RAISED $10B to $202B revenue and non-GAAP EPS to $29.68; +$25B buyback; shares -11.8% in regular session before print, +~3–5% AH",
+      "org": "Dell Technologies",
+      "date": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
+      "summary": "Dell Q3 FY27 revenue $54.94B (+103% Y/Y), non-GAAP EPS $9.45 vs ~$6.59 est; AI orders $60.2B, $22B AI-server revenue, record $132.3B AI backlog; FY27 guide raised $10B to $202B; +$25B buyback.",
+      "tags": [
+        "earnings",
+        "q3-fy27",
+        "ai-servers",
+        "ai-capex",
+        "buyback",
+        "guide-raised",
+        "data-center",
+        "jeff-clarke"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$54.94B (+103% Y/Y)",
+        "Non-GAAP EPS": "$9.45 vs ~$6.59 est",
+        "AI orders (Q3)": "$60.2B",
+        "AI-server revenue (Q3)": "$22.0B",
+        "AI backlog": "$132.3B",
+        "FY27 revenue guide": "$202B (from $192B)",
+        "Buyback": "+$25B authorization"
+      },
+      "explainer": {
+        "tagline": "Dell Q3 doubles revenue to $54.9B on $60B of quarterly AI orders — FY27 guide raised to $202B and +$25B buyback.",
+        "whatIsIt": "Dell Technologies reported fiscal Q3 FY27 on Tuesday Nov 24 2026 after close, posting a record quarter driven by hyperscaler AI-server demand. Revenue was $54.94B (+103% Y/Y), non-GAAP EPS $9.45 (+265%), both well ahead of LSEG consensus. The company raised FY27 guidance by $10B on the top line and lifted non-GAAP EPS guide to $29.68.",
+        "howItWorks": "Infrastructure Solutions Group revenue $41.97B (+198%) was the engine, with AI-optimized server revenue a record $22.03B (+291%) and traditional servers/networking $15.01B (+235%). Client Solutions Group was $12.89B (+3%). Dell booked $60.2B of AI orders in the quarter and exited with $132.3B of AI backlog. The board authorized an additional $25B of share repurchases. Q4 FY27 guide is $56.3B revenue and $8.40 non-GAAP EPS.",
+        "whyItMatters": "Dell's print lands on a day the SOX fell 7.9% on AI-margin anxiety following HPE's Q4 report. The scale of Dell's AI order book and the guide raise argue the capex cycle is still accelerating even as hardware peers warn on margin mix. Shares closed -11.8% at $295.28 in the regular session before the beat; AH quotes ranged from +1.5% to +6% as the magnitude of the guide raise filtered in.",
+        "forWho": "AI-infrastructure allocators, semi-adjacent desks, large-cap hardware specialists",
+        "tryIt": "Dell Q3 FY27 8-K (SEC)"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/Dell_Technologies_Delivers_Third_Quarter_Fiscal_2027_Financial_Results_1538404.webp",
+        "alt": "Dell Technologies Q3 FY27 earnings release cover graphic",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q3 FY27 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000050/exhibit991earnings8kq3fy27.htm"
+        },
+        {
+          "label": "Dell IR Release",
+          "url": "https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-third-quarter-fiscal-2027"
+        },
+        {
+          "label": "CNBC: Dell Q3 FY27",
+          "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+        },
+        {
+          "label": "DELL Quote",
+          "url": "https://finance.yahoo.com/quote/DELL/"
+        }
+      ],
+      "reddit": {
+        "title": "Dell Q3 FY27: revenue +103% to $54.9B, $60B of AI orders booked in ONE quarter, $132B AI backlog, +$25B buyback — FY27 guide raised to $202B",
+        "body": "Dell dropped the biggest AI-hardware print of the cycle after a day where the SOX fell 7.9% on margin anxiety. Here are the receipts:\n\n* Revenue $54.94B, up 103% Y/Y — non-GAAP EPS $9.45 vs ~$6.59 est (crushes by ~43%)\n* $60.2B of AI orders booked in Q3 alone; AI-server revenue $22.0B (+291%)\n* AI backlog a record $132.3B (up from $95B exiting Q2)\n* FY27 revenue guide raised to $202B (from $192B); non-GAAP EPS guide to $29.68 (from $25.50)\n* Board authorized an additional $25B share repurchase\n* Q4 FY27 guide: revenue $56.3B, non-GAAP EPS $8.40\n\nContext — DELL closed the regular session **-11.8% to $295.28** on HPE's AI-margin warning, then ticked up 1.5% to 6% in after-hours as the magnitude of the guide raise sank in.\n\nSegments:\n\n1. **Infrastructure Solutions Group** — revenue $41.97B (+198%), op income $7.12B (+308%)\n2. **AI-optimized servers** — $22.03B (+291%), the bulk of the ISG step-up\n3. **Client Solutions Group** — $12.89B (+3%), op income $704M (-6%) — the PC side is stagnating while servers run\n\nFull breakdown: [https://stock-tldr.xyz/releases/dell-q3-fy27-earnings-nov-24-2026](https://stock-tldr.xyz/releases/dell-q3-fy27-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "hpe-q4-fy26-margin-warning-nov-23-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "HPE"
+      ],
+      "title": "Hewlett Packard Enterprise (HPE) Q4 FY26 (Mon Nov 23 2026 after close) — record $14.5B revenue (+50% Y/Y) and non-GAAP EPS $1.43 beat $1.20–$1.30 guide; Cloud & AI $11.3B (+~69%), Networking $3.1B (+~12%); orders +88%, AI backlog +90% Y/Y; FY27 non-GAAP EPS guide $5.05–$5.35 but FY27 op margin 14–15% vs FY26's 15.1% and Cloud & AI op margin to ~14% (from Q4's 18.4%) on AI-ramp timing and 28–40wk memory lead times; HPE -~16% Tue Nov 24",
+      "org": "Hewlett Packard Enterprise",
+      "date": "2026-11-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001645590/000164559026000097/ex-991x11232026x8k.htm",
+      "summary": "HPE Q4 FY26 revenue $14.5B (+50% Y/Y) and non-GAAP EPS $1.43 top the guide; orders +88%, AI backlog +90%; but FY27 op-margin guide 14–15% (vs 15.1% FY26) and Cloud & AI margin falling to ~14% (from 18.4%) drops shares ~16%.",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "ai-servers",
+        "juniper",
+        "margin-warning",
+        "guide-cut",
+        "memory-supply",
+        "antonio-neri"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$14.5B (+50% Y/Y)",
+        "Non-GAAP EPS": "$1.43 vs $1.20–$1.30 guide",
+        "GAAP EPS": "$1.26 vs $1.12–$1.22 guide",
+        "Cloud & AI revenue": "$11.3B (+~69%)",
+        "Networking revenue": "$3.1B (+~12%)",
+        "Orders": "+88% Y/Y",
+        "AI systems backlog": "+90% Y/Y",
+        "FY27 non-GAAP EPS guide": "$5.05–$5.35",
+        "FY27 op margin guide": "14–15% (FY26: 15.1%)",
+        "Move": "-~16% Tue Nov 24"
+      },
+      "explainer": {
+        "tagline": "HPE's record Q4 ($14.5B, +50%) comes with an FY27 margin warning: Cloud & AI op margin falls to ~14% as memory lead times stretch to 28–40 weeks.",
+        "whatIsIt": "HPE reported fiscal Q4 FY26 on Monday Nov 23 2026 after close, beating on revenue and EPS while unveiling FY27 guidance that spooked the Street on margin compression. The stock fell about 16% on Tuesday Nov 24 — one of its worst sessions since the Juniper deal closed.",
+        "howItWorks": "Q4 revenue was $14.5B (+50%), non-GAAP EPS $1.43 vs the $1.20–$1.30 guide and GAAP EPS $1.26. Cloud & AI contributed $11.3B (+~69%) while Networking (lifted by Juniper) was $3.1B (+~12%). CFO Marie Myers guided FY27 non-GAAP EPS to $5.05–$5.35 with free cash flow ≥$5.5B, and company-wide op margin 14–15% versus FY26's 15.1%. Cloud & AI op margin is guided to ~14% in FY27 from Q4's 18.4%, with gross margin set to moderate on product mix and 'significant AI systems ramps.' Myers also flagged memory/NAND component shortages persisting to at least 2H calendar 2028, with lead times of 28–40 weeks.",
+        "whyItMatters": "The margin trajectory scared chip-bulls into dumping Dell and the broader SOX (-7.88%) before Dell's own print landed Tue after close. The read-through is that AI-server economics compress as low-margin hyperscaler workloads scale and memory inflation lingers — exactly the thesis Ambarella echoed hours later.",
+        "forWho": "AI-infrastructure allocators, enterprise-hardware desks",
+        "tryIt": "HPE Q4 FY26 8-K on SEC EDGAR"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F818b8645c55663feb2d47d694fc72f9142ecc2c8-1280x720.jpg&w=1200&op=resize",
+        "alt": "Hewlett Packard Enterprise Q4 FY26 earnings headline",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q4 FY26 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001645590/000164559026000097/ex-991x11232026x8k.htm"
+        },
+        {
+          "label": "Fool: Why HPE Fell 16%",
+          "url": "https://www.fool.com/investing/2026/11/24/why-hewlett-packard-enterprise-stock-fell-16-today/"
+        },
+        {
+          "label": "FXLeaders: Margin Pressure",
+          "url": "https://www.fxleaders.com/news/2026/11/24/hpe-and-dell-stock-fall-before-and-after-earnings-as-ai-server-margins-come-under-pressure/"
+        },
+        {
+          "label": "HPE Quote",
+          "url": "https://finance.yahoo.com/quote/HPE/"
+        }
+      ],
+      "reddit": {
+        "title": "HPE reports record Q4 ($14.5B, +50%) — then warns FY27 Cloud & AI op margin falls to ~14% (from 18.4%) on memory shortage into 2H calendar 2028; stock -16%",
+        "body": "HPE delivered a 50% topline beat Monday night then torched the stock Tuesday with its FY27 margin guide. This is the warning that dragged the whole SOX down 7.9% on Nov 24.\n\n* Q4 revenue $14.5B (+50% Y/Y); non-GAAP EPS $1.43 vs $1.20–$1.30 guide\n* Orders +88% Y/Y; AI-systems backlog +90% Y/Y\n* Cloud & AI segment $11.3B (+~69%); Networking (incl Juniper) $3.1B (+~12%)\n* FY27 non-GAAP EPS guide $5.05–$5.35; FCF ≥$5.5B\n\nThe scare was in the margin math:\n\n1. **Company op margin to 14–15%** in FY27 — down from FY26's 15.1%\n2. **Cloud & AI op margin to ~14%** in FY27 — down from 18.4% in Q4\n3. **Memory shortage** — CFO Marie Myers said memory/NAND lead times of 28–40 weeks could persist to at least 2H calendar 2028\n\nNext catalysts: Dell Q3 FY27 landed the same evening and smoked the beat with $60B of AI orders in one quarter — the margin question still stands.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hpe-q4-fy26-margin-warning-nov-23-2026](https://stock-tldr.xyz/releases/hpe-q4-fy26-margin-warning-nov-23-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "us-stocks-dow-50k-chip-rout-nov-24-2026",
+      "categories": [
+        "mover",
+        "sector"
+      ],
+      "tickers": [
+        "^DJI",
+        "^GSPC",
+        "^IXIC",
+        "NVDA",
+        "AMD"
+      ],
+      "title": "US stocks Tue Nov 24 2026 split tape — Dow +0.85% (+423.39) to 50,018.70 reclaims 50K; S&P 500 -0.50% to 7,201.09; Nasdaq -1.48% to 23,733.54; Philadelphia Semi Index (SOX) -7.88% to 8,832.50 as Nvidia -5.86% to $155.38 and AMD -8.86% to $413.27 give back the Huang-rally; Anthropic (ANT) -6.54% to $81.91 — closes below $83 IPO price",
+      "org": "US Equities",
+      "date": "2026-11-24",
+      "url": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd",
+      "summary": "Nov 24 split tape: Dow +0.85% to 50,018.70 reclaims 50K; S&P -0.50% to 7,201.09; Nasdaq -1.48% to 23,733.54; SOX -7.88% as Nvidia -5.86% and AMD -8.86% unwind the Huang pop; Anthropic -6.54% closes below $83 IPO.",
+      "tags": [
+        "indices",
+        "sox",
+        "chip-selloff",
+        "rotation",
+        "dow-50k",
+        "nvidia",
+        "amd",
+        "anthropic"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Dow": "50,018.70 (+0.85%, +423.39 pts)",
+        "S&P 500": "7,201.09 (-0.50%)",
+        "Nasdaq Composite": "23,733.54 (-1.48%)",
+        "SOX": "8,832.50 (-7.88%)",
+        "Russell 2000": "2,684.942 (+0.57%)",
+        "NVDA": "$155.38 (-5.86%)",
+        "AMD": "$413.27 (-8.86%)",
+        "ANT": "$81.91 (-6.54%, below $83 IPO)"
+      },
+      "explainer": {
+        "tagline": "Semi-led unwind of Monday's Huang pop — Dow reclaims 50K on rotation into cyclicals while SOX gives up 7.88%.",
+        "whatIsIt": "US stocks split sharply on Tuesday Nov 24 2026 as money rotated out of AI-infrastructure winners and into industrials, healthcare, and consumer cyclicals. The Dow set a new post-10K cycle milestone at 50,018.70, its first close back above 50,000 since the mid-November drawdown.",
+        "howItWorks": "The Dow added 423.39 points (+0.85%) on strength in Walmart, Home Depot and Chevron. The S&P 500 slipped -0.50% to 7,201.09 as roughly five of its 11 sectors fell, dragged by semis and software. The Nasdaq Composite lost 1.48% to 23,733.54 with the Philadelphia Semiconductor Index collapsing 7.88% to 8,832.50 — one of its five worst sessions of the cycle. Nvidia fell 5.86% to $155.38 after rallying 31.5% Monday on the Huang reinstatement; AMD dropped 8.86% to $413.27 on a 337M-share resale shelf filing. Anthropic closed -6.54% at $81.91, below its $83 IPO price for the first time.",
+        "whyItMatters": "The split tape — Dow at a record while SOX caves — argues investors are hedging AI-infrastructure crowding by rotating into defensives ahead of Thursday's Thanksgiving close and Friday's 1pm ET half-session. HPE's margin warning and Ambarella's memory-shortage Q4 cut set the tone before Dell delivered its $60B AI-order quarter after the bell.",
+        "forWho": "index traders, sector-rotation desks, macro allocators"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
+        "alt": "US flag over the NYSE floor",
+        "fit": "cover",
+        "credit": "Reuters / CNBC"
+      },
+      "links": [
+        {
+          "label": "BigGo Market Digest",
+          "url": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd"
+        },
+        {
+          "label": "Stockmarketwatch Nov 24",
+          "url": "https://stockmarketwatch.com/digest/2026-11-24"
+        },
+        {
+          "label": "Fool: Nov 24 Recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation"
+        },
+        {
+          "label": "CNBC: Market Updates",
+          "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+        }
+      ],
+      "reddit": {
+        "title": "Dow reclaims 50,000 (+0.85%) while SOX -7.88% and Nasdaq -1.48% — Nvidia gives back the Huang rally, Anthropic closes below IPO price",
+        "body": "Tuesday Nov 24 was a textbook split tape — Dow set a new milestone and the AI-chip complex got slapped.\n\n* Dow +0.85% to 50,018.70 (+423.39 pts) — first close back above 50K since the Nov correction\n* S&P 500 -0.50% to 7,201.09\n* Nasdaq -1.48% to 23,733.54\n* Russell 2000 +0.57% to 2,684.94\n* Philadelphia Semi Index -7.88% to 8,832.50 — one of its worst sessions of the cycle\n\nHeadliners:\n\n1. **Nvidia -5.86% to $155.38** — unwinds 31.5% Monday pop on the Huang reinstatement\n2. **AMD -8.86% to $413.27** — 337M-share resale shelf filing deepens the slide\n3. **Anthropic -6.54% to $81.91** — closes below its $83 IPO price for the first time\n4. **HPE -~16%** — AI-margin warning from Q4 report sets the tone for the day\n\nNext catalysts: Markets are closed Thu Nov 26 for Thanksgiving; shortened Fri session closes 1pm ET.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-dow-50k-chip-rout-nov-24-2026](https://stock-tldr.xyz/releases/us-stocks-dow-50k-chip-rout-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "amba-q3-fy27-memory-crash-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "AMBA"
+      ],
+      "title": "Ambarella (AMBA) Q3 FY27 (Tue Nov 24 2026 after close) — revenue $115.2M (+6.2% Y/Y) at the low end of the $115–$124M guide; non-GAAP EPS $0.28 (vs $0.27 Y/Y); Q4 FY27 revenue guide $70–$75M vs ~$112M est as CEO Fermi Wang blames intensifying memory-price scarcity for a cross-market demand cut; shares -~37–44% AH after closing -20% at $44.47",
+      "org": "Ambarella",
+      "date": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001280263/000119312526475716/d912526dex991.htm",
+      "summary": "Ambarella Q3 FY27 revenue $115.2M (+6.2%) and non-GAAP EPS $0.28 at the low end; Q4 guide $70–$75M vs $112M est on memory-supply scarcity. AMBA closed -20% then another -37–44% AH.",
+      "tags": [
+        "earnings",
+        "q3-fy27",
+        "edge-ai",
+        "memory-supply",
+        "guide-cut",
+        "fermi-wang",
+        "consumer-iot"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$115.2M (+6.2% Y/Y)",
+        "Non-GAAP EPS": "$0.28 (vs $0.27 Y/Y)",
+        "GAAP EPS": "-$0.29",
+        "Non-GAAP gross margin": "59.5% (midpoint of guide)",
+        "Cash + marketable securities": "$282.8M",
+        "Q4 FY27 revenue guide": "$70–$75M (vs ~$112M est)",
+        "Q4 non-GAAP gross margin guide": "59.0–60.25%",
+        "AH move": "-~37% to $28 (some tapes -44%)"
+      },
+      "explainer": {
+        "tagline": "Edge-AI chip designer slashes Q4 revenue guide to $70–$75M (~38% below consensus) as memory scarcity intensifies across its customer base.",
+        "whatIsIt": "Ambarella reported fiscal Q3 FY27 on Tuesday Nov 24 2026 after close, posting results at the low end of the guide and then shocking the Street with a Q4 outlook roughly 38% below consensus. CEO Fermi Wang cited escalating memory prices and supply scarcity as customers cut end-product plans across consumer IoT, automotive and enterprise IoT.",
+        "howItWorks": "Q3 revenue was $115.2M (+6.2% Y/Y) versus the $115–$124M guide; non-GAAP net income $12.7M ($0.28/sh diluted non-GAAP). GAAP net loss was $12.7M ($0.29/sh). Non-GAAP gross margin landed at 59.5%, at the midpoint of guidance. The Q4 FY27 outlook is $70–$75M revenue (down ~38% Q/Q and vs ~$112M consensus), non-GAAP gross margin 59.0–60.25%, non-GAAP opex $57.5–$59.5M. Wang said 'the scarcity of memory supply we previously highlighted has intensified' and that customers are reducing outlooks across all markets.",
+        "whyItMatters": "Ambarella is the first chip-designer to cut a quarter outright on the HBM/DDR5 crunch driving AI capex — the same supply tightness HPE flagged Monday as a reason FY27 margins fall. Expect read-across to other memory-exposed edge/mid-tier chip names and to consumer IoT OEMs. Ambarella itself doesn't resell memory but its customers can't fund BOM cost spikes.",
+        "forWho": "small-cap chip analysts, AI-edge desks, memory-cycle traders",
+        "tryIt": "AMBA Q3 FY27 8-K on SEC EDGAR"
+      },
+      "image": {
+        "url": "https://manilatimes.net/manilatimes/uploads/images/2026/11/25/1324030.png",
+        "alt": "Ambarella logo over earnings release",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Q3 FY27 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001280263/000119312526475716/d912526dex991.htm"
+        },
+        {
+          "label": "GlobeNewswire Release",
+          "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/ambarella-inc-announces-third-quarter-fiscal-year-2027-financial-results/2477580"
+        },
+        {
+          "label": "CNBC: Tue Movers",
+          "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "label": "AMBA Quote",
+          "url": "https://finance.yahoo.com/quote/AMBA/"
+        }
+      ],
+      "reddit": {
+        "title": "Ambarella (AMBA) crashes 37–44% after hours — Q4 revenue guide cut to $70–$75M vs $112M est as memory scarcity hits every end market",
+        "body": "AMBA just delivered one of the ugliest after-hours moves of the quarter. Q3 was fine; Q4 is the problem.\n\n* Q3 FY27 revenue $115.2M (+6.2% Y/Y), at the LOW end of the $115–$124M guide\n* Non-GAAP EPS $0.28 (vs $0.27 last year) — GAAP EPS -$0.29\n* Non-GAAP gross margin 59.5% — midpoint of guide\n* Q4 FY27 revenue guide **$70–$75M** vs ~$112M consensus (-~38%)\n* Shares closed -20% at $44.47, then fell another 37% AH to ~$28 (some tapes show -44%)\n\nThe problem is memory. From CEO Fermi Wang:\n\n1. **Memory scarcity has 'intensified'** from the level flagged last quarter\n2. **Customer outlooks cut across the book** — consumer IoT, automotive, enterprise IoT\n3. **AMBA doesn't resell memory**, but customers can't absorb the BOM cost shock\n\nThis is the same memory tightness HPE flagged Monday for its FY27 Cloud & AI margin cut — but AMBA's customers are smaller and can't engineer around it.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amba-q3-fy27-memory-crash-nov-24-2026](https://stock-tldr.xyz/releases/amba-q3-fy27-memory-crash-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "amd-337m-share-resale-shelf-nov-24-2026",
+      "categories": [
+        "mover",
+        "insider"
+      ],
+      "tickers": [
+        "AMD"
+      ],
+      "title": "AMD -8.86% to $413.27 on Tue Nov 24 2026 — auto-shelf filing registers ~336.9M shares for resale (160M under the OpenAI warrant, 160M under the Meta warrant at $0.01 strike, ~15M for World Labs, ~2M for Taalas); AMD gets no proceeds; dilution at ~20.3–20.5% of shares out keeps the Hunterbrook-China cloud alive as the SOX falls 7.88%",
+      "org": "Advanced Micro Devices",
+      "date": "2026-11-24",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-10-nvidia-down-151957217.html",
+      "summary": "AMD -8.86% to $413.27 after an auto-shelf registered ~336.9M shares for resale — 160M under the OpenAI warrant, 160M under the Meta warrant (both $0.01 strike), plus World Labs and Taalas. AMD gets no proceeds.",
+      "tags": [
+        "shelf-filing",
+        "dilution",
+        "openai",
+        "meta",
+        "warrants",
+        "chip-selloff",
+        "hunterbrook"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Move": "-8.86% to $413.27",
+        "Shares registered": "~336.9M",
+        "OpenAI warrant shares": "160M at $0.01 strike",
+        "Meta warrant shares": "160M at $0.01 strike",
+        "World Labs stock": "~15M shares",
+        "Taalas stock": "~2M shares",
+        "Dilution vs float": "~20.3–20.5% of shares out"
+      },
+      "explainer": {
+        "tagline": "AMD files resale shelf covering ~337M shares — holders can sell, AMD gets no proceeds, overhang drops the stock 8.9% as SOX collapses.",
+        "whatIsIt": "On Monday Nov 23 AMD filed an automatic shelf registration covering roughly 336.9M shares for potential resale by existing holders. The bulk is warrant shares tied to AMD's OpenAI and Meta compute-partnership deals at $0.01 strike prices — effectively free optionality for those buyers. On Tuesday Nov 24 the news hit the tape and combined with the broader SOX unwind to drop AMD 8.86% to $413.27.",
+        "howItWorks": "Per the filing, the 336.9M shares break down as 160M under the OpenAI warrant (one-cent strike), 160M under the Meta warrant (one-cent strike), ~15M shares tied to AMD's acquisition of World Labs, and ~2M tied to Taalas. AMD is not selling any shares and receives no proceeds. The overhang is ~20.3–20.5% of shares outstanding — a dilution signal even though mechanically the economic exposure already existed. Separate pressure: Hunterbrook Capital's Nov 19 short note on alleged China firmware exposure keeps a hard-ID question hanging over the name.",
+        "whyItMatters": "The combination of 337M-share resale optics plus HPE's margin warning plus the broader SOX -7.88% rout produced a textbook AI-bull squeeze on Tuesday. The warrants themselves aren't surprising — they were disclosed when the OpenAI and Meta deals printed — but the registration step formalizes an overhang the market had been able to defer.",
+        "forWho": "chip traders, options desks tracking AMD overhang, AI-partnership analysts"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/b4beb87fda4c113769b8060f94be243c6bde09dd3a54439dcd6e3efd3b23a572/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F6b95ba8e694adda404367830c9a0c6da",
+        "alt": "AMD logo chip-sector selloff image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance: AMD -10%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-10-nvidia-down-151957217.html"
+        },
+        {
+          "label": "AOL: Why AMD Fell",
+          "url": "https://www.aol.com/articles/why-amd-stock-fell-15-042355061.html"
+        },
+        {
+          "label": "CNBC: Tue Movers",
+          "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "label": "AMD Quote",
+          "url": "https://finance.yahoo.com/quote/AMD/"
+        }
+      ],
+      "reddit": {
+        "title": "AMD -8.9% to $413 — auto-shelf registers ~337M shares for resale (160M OpenAI warrant, 160M Meta warrant, both at $0.01 strike)",
+        "body": "AMD got clobbered Tuesday on a dilution-optics problem layered on top of the SOX blowup.\n\n* AMD -8.86% to $413.27 — heavy volume\n* ~336.9M shares registered for resale on an auto-shelf filing Monday Nov 23\n* AMD is NOT selling shares. AMD gets NO proceeds. It is OTHER holders selling.\n\nHow the 337M breaks down:\n\n1. **OpenAI warrant** — 160M shares at $0.01 strike (from the OpenAI compute deal)\n2. **Meta warrant** — 160M shares at $0.01 strike (from the Meta compute deal)\n3. **World Labs acquisition** — ~15M shares\n4. **Taalas** — ~2M shares\n\nTotal overhang ~20.3–20.5% of shares outstanding.\n\nContext: the underlying warrant economics were already known from the deal announcements. The registration formalizes the overhang. The Hunterbrook China firmware note from Nov 19 is still hanging over the name, and the SOX fell 7.88% on the day as HPE's margin warning hit chips across the board.\n\nFull breakdown: [https://stock-tldr.xyz/releases/amd-337m-share-resale-shelf-nov-24-2026](https://stock-tldr.xyz/releases/amd-337m-share-resale-shelf-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "adi-q4-fy26-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "ADI"
+      ],
+      "title": "Analog Devices (ADI) Q4 FY26 (Tue Nov 24 2026 premarket) — record revenue $4.37B (+42% Y/Y) beats ~$4.32B est and adj EPS $4.06 beats ~$3.89 est; FY26 revenue $15.18B / EPS $13.05; Q1 FY27 adj EPS guide $3.82 ±$0.20 (vs $3.88 est) on revenue ~$4.4B; ADI -17.37% to $312.95 as soft Q1 guide and chip-sector rout overwhelm the record quarter",
+      "org": "Analog Devices",
+      "date": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm",
+      "summary": "ADI Q4 FY26 record revenue $4.37B (+42% Y/Y), adj EPS $4.06 vs $3.89 est; FY26 $15.18B rev, $13.05 EPS; Q1 FY27 adj EPS guide $3.82 vs $3.88 est drops shares 17.4% in the chip-sector rout.",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "analog",
+        "industrial",
+        "record-revenue",
+        "soft-guide",
+        "vincent-roche"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue": "$4.37B (+42% Y/Y)",
+        "Adj EPS": "$4.06 vs ~$3.89 est",
+        "FY26 revenue": "$15.18B",
+        "FY26 EPS": "$13.05",
+        "FY26 operating cash flow": "$6.2B",
+        "FY26 free cash flow": "$5.5B",
+        "Capital returned FY26": "$5.4B",
+        "Q1 FY27 adj EPS guide": "$3.82 ±$0.20 (vs $3.88 est)",
+        "Q1 FY27 revenue guide": "~$4.4B",
+        "Move": "-17.37% to $312.95"
+      },
+      "explainer": {
+        "tagline": "ADI posts record $4.37B quarter and raises capex — but Q1 FY27 adj EPS guide of $3.82 undershoots and the stock dumps 17%.",
+        "whatIsIt": "Analog Devices reported fiscal Q4 FY26 on Tuesday Nov 24 2026 premarket with a record quarter and a cautious Q1 outlook. The combination hit the stock hard as traders punished AI-adjacent chip names across the board on the same day.",
+        "howItWorks": "Q4 revenue $4.37B (+42% Y/Y) beat ~$4.32B consensus and adj EPS $4.06 beat ~$3.89. FY26 revenue hit a record $15.18B with EPS $13.05, FY26 operating cash flow $6.2B and FCF $5.5B. ADI returned $5.4B to shareholders in dividends and buybacks. Q1 FY27 guide: revenue ~$4.4B and adj EPS $3.82 ±$0.20 — the midpoint sits below the ~$3.88 Street estimate. CEO Vincent Roche noted more than two-thirds of FY26 growth came from non-AI end markets; CFO Richard Puccio raised the FY27 capex plan to $1.9B for AI-infrastructure tooling.",
+        "whyItMatters": "The record-quarter / soft-guide profile landed inside the worst SOX day of the cycle (-7.88%), amplifying the drop. ADI is a bellwether for industrial + auto analog demand, and the Q1 midpoint suggests the recovery isn't accelerating as fast as the stock's trailing P/E assumed. Read-through to TXN, NXPI, MCHP.",
+        "forWho": "analog-chip analysts, industrial cycle watchers",
+        "tryIt": "ADI Q4 FY26 8-K on SEC EDGAR"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F300fc428ebc2f81648a20c1a47714a6b5004d9da-2000x1333.jpg&w=1200&op=resize",
+        "alt": "Analog Devices logo and declining stock chart illustration",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Q4 FY26 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm"
+        },
+        {
+          "label": "Analog Devices Release",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-reports-record-fourth-120100362.html"
+        },
+        {
+          "label": "Fool: Why ADI Fell 20%",
+          "url": "https://www.fool.com/investing/2026/11/24/why-analog-devices-stock-fell-nearly-20-today/"
+        },
+        {
+          "label": "ADI Quote",
+          "url": "https://finance.yahoo.com/quote/ADI/"
+        }
+      ],
+      "reddit": {
+        "title": "Analog Devices (ADI) -17.4% to $313 after Q4 beat + soft Q1 FY27 guide ($3.82 EPS vs $3.88 est)",
+        "body": "ADI posted a record quarter, then a cautious Q1 guide inside the worst SOX day of the cycle killed the stock.\n\n* Q4 revenue $4.37B (+42% Y/Y) vs ~$4.32B est\n* Q4 adj EPS $4.06 vs ~$3.89 est\n* FY26 revenue $15.18B — a company record\n* FY26 FCF $5.5B; $5.4B returned to shareholders\n* FY27 capex plan raised to $1.9B for AI-infra tooling\n\nThe miss was in the guide:\n\n1. **Q1 FY27 adj EPS $3.82 ±$0.20** — midpoint below $3.88 Street est\n2. **Q1 FY27 revenue ~$4.4B** — in-line, but the EPS/revenue mix flagged margin compression\n3. **Vincent Roche** noted >2/3 of FY26 growth came from NON-AI markets, undercutting the AI-torque case\n\nStock closed -17.37% at $312.95 as SOX fell 7.88% on the day — HPE's margin warning did the heavy lifting on sector sentiment.\n\nFull breakdown: [https://stock-tldr.xyz/releases/adi-q4-fy26-earnings-nov-24-2026](https://stock-tldr.xyz/releases/adi-q4-fy26-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "bby-q3-fy27-earnings-nov-24-2026",
+      "categories": [
+        "earnings"
+      ],
+      "tickers": [
+        "BBY"
+      ],
+      "title": "Best Buy (BBY) Q3 FY27 (Tue Nov 24 2026 premarket) — enterprise revenue $10.236B (+5.8% Y/Y) beat, comparable sales +6.1% (5-year high); GAAP diluted EPS $1.66 (+152%) and adj EPS $1.62 (+16%) crush ~$1.49 est; FY27 guide RAISED to revenue $43.0–$43.3B, comps +3.4–4.0% and adj EPS $6.90–$7.05; first print under CEO Jason Bonfig (effective Nov 1 2026)",
+      "org": "Best Buy",
+      "date": "2026-11-24",
+      "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q3-fy27-results/",
+      "summary": "Best Buy Q3 FY27 enterprise revenue $10.236B (+5.8%) and comp +6.1% (5-year high); adj EPS $1.62 beats ~$1.49 est; FY27 guide raised to $43.0–$43.3B rev, +3.4–4.0% comps and $6.90–$7.05 adj EPS. First print under CEO Jason Bonfig.",
+      "tags": [
+        "earnings",
+        "q3-fy27",
+        "retail",
+        "comp-sales",
+        "guide-raised",
+        "jason-bonfig",
+        "holiday"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Enterprise revenue": "$10.236B (+5.8% Y/Y)",
+        "Enterprise comparable sales": "+6.1% (5-year high)",
+        "GAAP diluted EPS": "$1.66 (+152%)",
+        "Adj diluted EPS": "$1.62 (+16%)",
+        "FY27 revenue guide": "$43.0–$43.3B (from $42.3–$42.8B)",
+        "FY27 comp sales guide": "+3.4–4.0% (from +1.9–3.0%)",
+        "FY27 adj EPS guide": "$6.90–$7.05 (from $6.70–$6.90)"
+      },
+      "explainer": {
+        "tagline": "Best Buy's +6.1% comp is its strongest in 5 years, and the first quarter under new CEO Jason Bonfig lifts FY27 EPS guide to $6.90–$7.05.",
+        "whatIsIt": "Best Buy reported Q3 FY27 on Tuesday Nov 24 2026 premarket, posting a broad beat and raising full-year guidance on both the top line and adjusted EPS. The quarter is Jason Bonfig's first since taking over as CEO on Nov 1 2026.",
+        "howItWorks": "Enterprise revenue $10.236B (+5.8% Y/Y), enterprise comparable sales +6.1% vs +2.7% prior year — the company flagged this as its highest comp in five years. GAAP diluted EPS $1.66 (+152%), adj EPS $1.62 (+16%) vs ~$1.49 Street. FY27 revenue guide raised to $43.0–$43.3B (from $42.3–$42.8B), comp sales guide to +3.4–4.0% (from +1.9–3.0%) and adj EPS to $6.90–$7.05 (from $6.70–$6.90). Shares closed up ~6% on the day.",
+        "whyItMatters": "Best Buy was a Rotation-Day beneficiary — a solid retail comp into Black Friday from a consumer-electronics proxy provides a check on demand as semis plunge on supply-side angst. Read-through to WMT (already reported), TGT (already reported), and the broader 'consumer is fine' narrative heading into Thanksgiving week.",
+        "forWho": "retail analysts, consumer-electronics desks, holiday-demand trackers",
+        "tryIt": "Best Buy Q3 FY27 release"
+      },
+      "image": {
+        "url": "https://corporate.bestbuy.com/wp-content/uploads/2026/11/Q3-FY27-Earnings-Blog-thegem-blog-timeline-large.jpg",
+        "alt": "Best Buy Q3 FY27 earnings blog header",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Best Buy IR Release",
+          "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q3-fy27-results/"
+        },
+        {
+          "label": "Boston Report Writeup",
+          "url": "https://thebostonreport.com/2026/11/24/best-buy-q3-2026-earnings-comparable-sales-outlook"
+        },
+        {
+          "label": "Q3 Highlights (MarketBeat)",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-best-buy-bby-said-on-its-q3-earnings-call-2026-11-24/"
+        },
+        {
+          "label": "BBY Quote",
+          "url": "https://finance.yahoo.com/quote/BBY/"
+        }
+      ],
+      "reddit": {
+        "title": "Best Buy (BBY) Q3 FY27: comps +6.1% (5-year high), adj EPS $1.62 beats $1.49 est — raises FY27 guide across the board heading into Black Friday",
+        "body": "First report under new CEO Jason Bonfig (took over Nov 1) and Best Buy came out swinging:\n\n* Enterprise revenue $10.236B (+5.8% Y/Y)\n* Enterprise comp sales +6.1% — strongest in 5 years, up from +2.7% last year\n* Adj diluted EPS $1.62 (+16% Y/Y) vs ~$1.49 est\n* GAAP diluted EPS $1.66 (+152% Y/Y) — base effect from last year's charges\n\nFY27 guide raised across the board:\n\n1. **Revenue** $43.0–$43.3B (from $42.3–$42.8B)\n2. **Comp sales** +3.4–4.0% (from +1.9–3.0%)\n3. **Adj EPS** $6.90–$7.05 (from $6.70–$6.90)\n\nContext: this is a Rotation-Day winner — into Black Friday with a +6.1% comp from a consumer-electronics proxy is a real check against the 'semis are breaking so the economy is cooked' narrative. Shares closed up ~6% on the day.\n\nFull breakdown: [https://stock-tldr.xyz/releases/bby-q3-fy27-earnings-nov-24-2026](https://stock-tldr.xyz/releases/bby-q3-fy27-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "kss-q3-fy26-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "KSS"
+      ],
+      "title": "Kohl's (KSS) Q3 FY26 (Tue Nov 24 2026 premarket) — net sales +1.3% to $3.45B, comp sales +1.2% (first positive comp in a stretch); GAAP diluted EPS $2.15 and adj EPS $1.76 crush ~$0.00 est; includes $137M tax benefit ($1.16/sh), $45M tariff refunds ($0.28/sh) and $61M property-sale gain; FY26 guide RAISED to diluted EPS $4.30–$4.50 (prior $1.80–$2.40); shares +~12.6% to $23.88",
+      "org": "Kohl's",
+      "date": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000885639/000119312526473133/d168523dex991.htm",
+      "summary": "Kohl's Q3 FY26 net sales +1.3% to $3.45B, comp +1.2% (first positive); GAAP EPS $2.15 / adj EPS $1.76 crush breakeven consensus with help from a $137M tax benefit, $45M tariff refunds and a $61M property gain. FY26 EPS guide raised to $4.30–$4.50. KSS +~12.6%.",
+      "tags": [
+        "earnings",
+        "q3-fy26",
+        "retail",
+        "comp-sales",
+        "guide-raised",
+        "tariff-refunds",
+        "tax-benefit",
+        "property-sale",
+        "michael-bender"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "$3.45B (+1.3% Y/Y)",
+        "Comparable sales": "+1.2%",
+        "GAAP diluted EPS": "$2.15 (vs $0.07 Y/Y)",
+        "Adj diluted EPS": "$1.76 (vs $0.10 Y/Y)",
+        "Gross margin": "41.0% (+145bp)",
+        "Tax benefit": "$137M ($1.16/sh)",
+        "Tariff refunds": "$45M ($0.28/sh)",
+        "Property-sale gain": "$61M ($0.39–$0.52/sh)",
+        "FY26 adj EPS guide": "$4.30–$4.50 (prior $1.80–$2.40)",
+        "Q4 adj EPS guide": "$0.95–$1.15",
+        "Move": "+~12.6% to $23.88"
+      },
+      "explainer": {
+        "tagline": "Kohl's posts first positive comp in several quarters and raises FY26 EPS to $4.30–$4.50 — though ~$2.60 of that is one-time items.",
+        "whatIsIt": "Kohl's reported Q3 FY26 on Tuesday Nov 24 2026 premarket, delivering a +1.2% comp sales print — the first positive comp in a stretch of declines — and raising its full-year guidance sharply. The shares jumped roughly 12.6% to $23.88, but the market noted that much of the lifted guidance comes from one-time items.",
+        "howItWorks": "Net sales rose 1.3% to $3.45B, comp sales +1.2%. Gross margin expanded 145bp to 41.0%. GAAP diluted EPS was $2.15 vs $0.07 last year (incl. $1.16 from a $137M tax-settlement benefit and $0.39 from a $61M property sale gain); adj EPS $1.76 vs ~$0.00 Street. FY26 guide raised to flat to +0.5% net sales, 4.7–4.9% op margin and $4.30–$4.50 diluted EPS. Analysts flagged ~$2.60/sh of the guide is one-off (tax, tariff, real-estate), leaving a cleaner $1.70–$1.90 run-rate — below the Street's prior underwrite. Q4 guide is flat to +2.0% net sales and $0.95–$1.15 diluted EPS.",
+        "whyItMatters": "First positive comp quarter under CEO Michael J. Bender's turnaround — and a step-change in EPS guidance even if the one-time items dominate. The stock has become a meme-adjacent reflation trade; Kohl's needs the Q4 comp to hold +0 to +2.0% to validate the underlying turnaround separate from the one-offs.",
+        "forWho": "turnaround specialists, retail analysts, consumer-cyclicals desks"
+      },
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Kohl%27s.jpg/1280px-Kohl%27s.jpg",
+        "alt": "Kohl's department store storefront",
+        "fit": "cover",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "Q3 FY26 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000885639/000119312526473133/d168523dex991.htm"
+        },
+        {
+          "label": "Stocktwits: KSS Soars",
+          "url": "https://stocktwits.com/news-articles/markets/equity/kss-stock-soars-after-turnaround-efforts-lift-profit-forecast/cL52LQkREXr"
+        },
+        {
+          "label": "CNBC: Tue Movers",
+          "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "label": "KSS Quote",
+          "url": "https://finance.yahoo.com/quote/KSS/"
+        }
+      ],
+      "reddit": {
+        "title": "Kohl's (KSS) +12.6% to $23.88 — Q3 beats ~$0 Street with adj EPS $1.76, posts first positive comp (+1.2%), FY26 EPS guide raised to $4.30–$4.50",
+        "body": "Kohl's delivered the quarter the turnaround camp has been waiting for — but the fine print matters. First positive comp in a long time.\n\n* Net sales $3.45B (+1.3% Y/Y)\n* Comp sales +1.2% — first positive comp in a stretch of declines\n* Gross margin 41.0% (+145bp)\n* GAAP diluted EPS $2.15 vs $0.07 last year\n* Adj diluted EPS $1.76 vs ~$0.00 Street estimate\n\nFY26 guide raised dramatically — but with caveats:\n\n1. **Adj EPS $4.30–$4.50** (up from $1.80–$2.40) — but ~$2.60/sh of it is one-time items\n2. **Tax benefit** — $137M settlement worth $1.16/sh\n3. **Tariff refunds** — $45M through COGS worth $0.28/sh\n4. **Property-sale gain** — $61M worth ~$0.39/sh\n\nStrip those out and the clean run-rate is $1.70–$1.90 — below where consensus had gotten. Q4 guide is $0.95–$1.15 EPS on flat to +2% comps, so the real test is holding momentum into holiday.\n\nNext catalysts: Black Friday traffic and the Q4 comp print.\n\nFull breakdown: [https://stock-tldr.xyz/releases/kss-q3-fy26-earnings-nov-24-2026](https://stock-tldr.xyz/releases/kss-q3-fy26-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "dltr-q3-fy26-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "DLTR"
+      ],
+      "title": "Dollar Tree (DLTR) Q3 FY26 (Tue Nov 24 2026 premarket) — net sales ~$5.1B (+6.9% Y/Y) beat ~$5.04B est; comp sales +4.6% (vs +3–4% guide) on +3.8% traffic; adj EPS $1.16 beats ~$0.91 est despite $0.42/sh of tariff-reinvestment costs; FY26 adj EPS guide RAISED to $8.05–$8.25 (incl. ~$0.65 of net tariff refund benefits); shares +~11%",
+      "org": "Dollar Tree",
+      "date": "2026-11-24",
+      "url": "https://finance.yahoo.com/markets/stocks/article/dollar-tree-stock-pops-as-thrifty-shoppers-power-a-6th-straight-earnings-beat-150530467.html",
+      "summary": "Dollar Tree Q3 FY26: sales ~$5.1B (+6.9%), comp +4.6% on +3.8% traffic, adj EPS $1.16 vs $0.91 est despite $0.42/sh tariff-reinvestment; raises FY26 adj EPS guide to $8.05–$8.25 (~$0.65 from tariff refunds). DLTR +~11%.",
+      "tags": [
+        "earnings",
+        "q3-fy26",
+        "discount-retail",
+        "comp-sales",
+        "guide-raised",
+        "tariff-refunds",
+        "traffic",
+        "holiday"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Net sales": "~$5.1B (+6.9% Y/Y)",
+        "Comparable sales": "+4.6% (guide +3–4%)",
+        "Traffic": "+3.8%",
+        "Adj EPS": "$1.16 vs ~$0.91 est",
+        "Tariff reinvestment cost": "$0.42/sh absorbed",
+        "FY26 adj EPS guide": "$8.05–$8.25 (prior $7.70–$8.05)",
+        "FY26 revenue guide": "$20.6–$20.7B",
+        "Q4 adj EPS guide": "$2.46–$2.66",
+        "Move": "+~11%"
+      },
+      "explainer": {
+        "tagline": "Dollar Tree posts 6th straight beat — +3.8% traffic drives +4.6% comp, raises FY26 adj EPS guide to $8.05–$8.25.",
+        "whatIsIt": "Dollar Tree reported Q3 FY26 on Tuesday Nov 24 2026 premarket, extending its streak of beats and raising full-year guidance. The stock rose roughly 11% on the day, making it one of the top S&P gainers in the Rotation-Day tape.",
+        "howItWorks": "Net sales were ~$5.1B (+6.9% Y/Y) versus ~$5.04B Street. Comparable sales +4.6% — above the +3–4% guide — with +3.8% traffic. Adj EPS $1.16 beat ~$0.91 est even after management absorbed $0.42/sh of tariff-reinvestment costs during the quarter. FY26 adj EPS guide raised to $8.05–$8.25 (from $7.70–$8.05), which includes about $0.65/sh of net tariff-refund benefits. FY26 revenue guided to $20.6–$20.7B. Q4 adj EPS guide $2.46–$2.66 — slightly below Street. CFO Stewart Glendinning declined to issue FY27 guidance.",
+        "whyItMatters": "Dollar Tree's +3.8% traffic quarter is a real tell on the low-end consumer heading into holiday — and the beat held even after the company chose to absorb tariff reinvestments rather than pass them through. Combined with Best Buy's +6.1% comp and Target's +5.6%, the US consumer looks healthier than the chip-sector rout would suggest.",
+        "forWho": "discount-retail analysts, low-end consumer trackers, holiday-demand desks"
+      },
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/9f20e3e99d293b5e516931651769a2b6f4d934999a7e8fa8cbfe2bf1109c19f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9fcf61f3-f0b0-4bf7-9c35-47093ae4f5a0",
+        "alt": "Dollar Tree Q3 earnings coverage image",
+        "fit": "cover"
+      },
+      "links": [
+        {
+          "label": "Yahoo Finance Writeup",
+          "url": "https://finance.yahoo.com/markets/stocks/article/dollar-tree-stock-pops-as-thrifty-shoppers-power-a-6th-straight-earnings-beat-150530467.html"
+        },
+        {
+          "label": "TradingView Zacks Recap",
+          "url": "https://www.tradingview.com/news/zacks:512b36ba0094b:0-dollar-tree-q3-earnings-beat-estimates-as-traffic-gains-lift-sales/"
+        },
+        {
+          "label": "BigGo: Traffic +3.8%",
+          "url": "https://finance.biggo.com/news/18f07329-a6c8-4360-bb39-07aedfc5dc2e"
+        },
+        {
+          "label": "DLTR Quote",
+          "url": "https://finance.yahoo.com/quote/DLTR/"
+        }
+      ],
+      "reddit": {
+        "title": "Dollar Tree (DLTR) +11%: Q3 comp +4.6% on +3.8% traffic, adj EPS $1.16 vs $0.91 est, FY26 EPS guide raised to $8.05–$8.25",
+        "body": "Dollar Tree extended its beat-and-raise streak to six quarters — and the traffic number is the headline read for low-end consumer demand into holiday.\n\n* Net sales ~$5.1B (+6.9% Y/Y) vs ~$5.04B est\n* Comp sales +4.6% — above the +3–4% guide\n* Traffic +3.8% — the real tell\n* Adj EPS $1.16 vs ~$0.91 est (crushes by ~27%)\n* **Still beat** after absorbing $0.42/sh of tariff-reinvestment costs\n\nFY26 guide raised:\n\n1. **Adj EPS $8.05–$8.25** (from $7.70–$8.05) — includes ~$0.65/sh net tariff refund benefits\n2. **Revenue $20.6–$20.7B** — midpoint slightly below $20.7B consensus\n3. **Q4 adj EPS $2.46–$2.66** — a touch light\n\nTaken with Best Buy's +6.1% comp and Target's +5.6% earlier, the US consumer looks in better shape than the chip-sector breakdown would suggest.\n\nFull breakdown: [https://stock-tldr.xyz/releases/dltr-q3-fy26-earnings-nov-24-2026](https://stock-tldr.xyz/releases/dltr-q3-fy26-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
+    {
+      "id": "wday-q3-fy27-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "tickers": [
+        "WDAY"
+      ],
+      "title": "Workday (WDAY) Q3 FY27 (Tue Nov 24 2026 after close) — total revenue $2.705B (+11.2% Y/Y) and non-GAAP EPS $2.82 beat ~$2.75 est; subscription $2.504B; AI-SKU ARR $750M (+130% Y/Y); FY27 subscription-rev guide RAISED to $9.955–$9.965B; FCF $691M vs ~$712M est; Q4 subscription-rev guide ~$2.6B (~+10% Y/Y, slowing from +12.8% in Q3); shares -~7.1% AH to $166",
+      "org": "Workday",
+      "date": "2026-11-24",
+      "url": "https://www.stocktitan.net/news/WDAY/workday-announces-fiscal-2027-third-quarter-financial-4mz2mnne8pga.html",
+      "summary": "Workday Q3 FY27 revenue $2.705B (+11.2%) and non-GAAP EPS $2.82 beat; AI-SKU ARR $750M (+130% Y/Y); FY27 subscription guide raised, Q4 subscription guide ~$2.6B (~+10% Y/Y). FCF $691M misses $712M est. WDAY -~7.1% AH.",
+      "tags": [
+        "earnings",
+        "q3-fy27",
+        "software",
+        "ai-arr",
+        "guide-raised",
+        "subscription-slowdown",
+        "carl-eschenbach"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Total revenue": "$2.705B (+11.2% Y/Y)",
+        "Non-GAAP EPS": "$2.82 vs ~$2.75 est",
+        "GAAP EPS": "$0.96",
+        "Subscription revenue": "$2.504B",
+        "AI-SKU ARR": "$750M (+130% Y/Y)",
+        "Q3 FCF": "$691M (vs ~$712M est)",
+        "Q4 subscription-rev guide": "~$2.6B (~+10% Y/Y)",
+        "FY27 subscription-rev guide": "$9.955–$9.965B",
+        "AH move": "-~7.1% to ~$166.01"
+      },
+      "explainer": {
+        "tagline": "Workday's AI-SKU ARR triples to $750M but Q4 subscription growth slows to ~10%, dropping shares 7% after hours.",
+        "whatIsIt": "Workday reported fiscal Q3 FY27 on Tuesday Nov 24 2026 after close, posting a broad beat while flagging a Q4 subscription-growth slowdown that spooked investors. The stock fell about 7% in extended trading despite raising FY27 subscription guidance and posting a 130% jump in AI-SKU ARR.",
+        "howItWorks": "Total revenue $2.705B (+11.2% Y/Y) beat ~$2.69B. Non-GAAP EPS $2.82 beat ~$2.75. Subscription revenue was $2.504B. AI-SKU ARR reached $750M, up 130% Y/Y. Q3 FCF was $691M vs ~$712M LSEG consensus. FY27 subscription-rev guide raised to $9.955–$9.965B. Q4 subscription-rev guide is ~$2.6B, implying ~10% Y/Y growth (down from Q3's +12.8%). The company also bought back ~$750M of stock and ended with ~$5.6B cash + marketable securities.",
+        "whyItMatters": "Despite AI sales tripling, the subscription-growth slowdown + FCF miss pulled WDAY below $166 AH — a sign the market is unwilling to pay the previous multiple even on improving AI metrics. The Silver Lake buyout rumor from Aug 13 is still latent background context.",
+        "forWho": "SaaS analysts, enterprise-software desks"
+      },
+      "image": {
+        "url": "https://static.stocktitan.net/company-logo/wday-lg.png?v=601c9769d2",
+        "alt": "Workday company logo",
+        "fit": "contain"
+      },
+      "links": [
+        {
+          "label": "Workday Q3 FY27 Release",
+          "url": "https://www.stocktitan.net/news/WDAY/workday-announces-fiscal-2027-third-quarter-financial-4mz2mnne8pga.html"
+        },
+        {
+          "label": "Techi: AI Contract Value",
+          "url": "https://www.techi.com/workday-q3-results-ai-contract-value-backlog-shares-fall/"
+        },
+        {
+          "label": "Fool: Workday Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/24/workday-wday-q3-2027-earnings-call-transcript/"
+        },
+        {
+          "label": "WDAY Quote",
+          "url": "https://finance.yahoo.com/quote/WDAY/"
+        }
+      ],
+      "reddit": {
+        "title": "Workday Q3 FY27: AI-SKU ARR +130% to $750M, revenue beats — but Q4 subscription growth slows to ~10% and FCF misses, stock -7% AH",
+        "body": "Classic beat-but-guide-down print. AI ARR is tripling, but the top-line engine is downshifting.\n\n* Total revenue $2.705B (+11.2% Y/Y) vs ~$2.69B est\n* Non-GAAP EPS $2.82 vs ~$2.75 est\n* Subscription revenue $2.504B\n* AI-SKU ARR $750M (+130% Y/Y)\n\nWhere it got ugly:\n\n1. **Q4 subscription-rev guide ~$2.6B** — implies ~10% Y/Y growth, down from Q3's +12.8%\n2. **FCF $691M** — short of ~$712M LSEG estimate\n3. **Stock -7.1% AH to ~$166.01** from a $179.23 close\n\nGood:\n\n1. FY27 subscription-rev guide raised to $9.955–$9.965B\n2. ~$750M buybacks in Q3\n3. $5.6B cash + marketable securities on hand\n\nAI ARR tripling isn't enough to defend the trailing multiple once the subscription trajectory slows.\n\nFull breakdown: [https://stock-tldr.xyz/releases/wday-q3-fy27-earnings-nov-24-2026](https://stock-tldr.xyz/releases/wday-q3-fy27-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-25T06:14:10.883Z"
+    },
     {
       "id": "sny-acquires-insm-definitive-nov-24-2026",
       "categories": [
