@@ -17032,6 +17032,38 @@
         "semis",
         "ai-infrastructure"
       ]
+    },
+    {
+      "id": "sweep-20261125t205454z",
+      "timestamp": "2026-11-25T20:54:54.354Z",
+      "source": "github-actions-sweep",
+      "summary": "Pre-Thanksgiving sweep (Wed Nov 25, mid-session) — added two Nov 25 items: October PCE (headline +3.8% Y/Y, highest since 2023; core +3.3% Y/Y) and Deere Q4 FY26 earnings (EPS miss, revenue beat, FY27 guide points to cycle trough, DE +4.76%). Skipped intraday index moves (close not yet confirmed) and Thursday Thanksgiving holiday.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "us-pce-oct-2026-nov-25",
+          "title": "US October 2026 PCE Wed Nov 25 — headline PCE +0.3% M/M and +3.8% Y/Y (matches est; highest since 2023); core PCE +0.3% M/M and +3.3% Y/Y (above ~3.2% est, highest in 3 years per Heather Long); September revised UP to +3.7% headline / +3.3% core; personal income +$201.8B (+0.7%); nominal spending +$63.8B (+0.3%) but real PCE -$5.8B (flat); saving rate 4.1% (up from 3.6%); CME FedWatch pricing ~97.8% odds of a 25bp rate hike at the December FOMC",
+          "category": "macro",
+          "note": "BEA October 2026 PCE released 8:30 ET — Fed's preferred inflation gauge reaccelerated two weeks before the Dec 9 FOMC. Primary-source confirmed, Hard Rule 2/3 clean."
+        },
+        {
+          "id": "de-q4-fy26-earnings-nov-25-2026",
+          "title": "Deere (DE) Q4 FY26 (Wed Nov 25 2026 premarket) — Q4 net income $1.051B (-1% Y/Y), EPS $3.89 misses ~$4.03 est; revenue $12.115B (-2% Y/Y) beats; FY26 net income $4.860B / EPS $17.95 (-3%); FY27 guide $4.5–5.25B (includes $250–400M pension charge); CEO May says ag cycle 'troughed in 2026'; stock +4.76% to $643.00 intraday on cycle-bottom call",
+          "category": "earnings",
+          "note": "Deere Q4 FY26 earnings released premarket — mixed Q4 but FY27 guidance implies ag cycle troughed. DE +4.76% intraday, EPS miss offset by cycle-bottom call. Hard Rule 2/3 clean (prior Deere entries are quarterly, not duplicative)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "earnings",
+        "mover"
+      ]
     }
   ]
 }

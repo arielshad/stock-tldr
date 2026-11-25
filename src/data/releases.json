@@ -1,8 +1,154 @@
 {
-  "generatedAt": "2026-11-25T06:14:10.883Z",
+  "generatedAt": "2026-11-25T20:54:54.354Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "us-pce-oct-2026-nov-25",
+      "categories": [
+        "macro"
+      ],
+      "title": "US October 2026 PCE Wed Nov 25 — headline PCE +0.3% M/M and +3.8% Y/Y (matches est; highest since 2023); core PCE +0.3% M/M and +3.3% Y/Y (above ~3.2% est, highest in 3 years per Heather Long); September revised UP to +3.7% headline / +3.3% core; personal income +$201.8B (+0.7%); nominal spending +$63.8B (+0.3%) but real PCE -$5.8B (flat); saving rate 4.1% (up from 3.6%); CME FedWatch pricing ~97.8% odds of a 25bp rate hike at the December FOMC",
+      "org": "Bureau of Economic Analysis",
+      "date": "2026-11-25",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+      "summary": "US October PCE — headline +0.3% M/M and +3.8% Y/Y (matches est, highest since 2023), core +0.3% M/M and +3.3% Y/Y (above ~3.2% est); Sept revised UP to 3.7%/3.3%; real PCE -$5.8B; saving rate 4.1%. FedWatch pricing ~97.8% odds of a 25bp Dec hike.",
+      "tags": [
+        "macro",
+        "pce",
+        "core-pce",
+        "inflation",
+        "oct-2026",
+        "bea",
+        "personal-income",
+        "personal-spending",
+        "fed-watching",
+        "december-fomc"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Headline PCE (M/M)": "+0.3%",
+        "Headline PCE (Y/Y)": "+3.8%",
+        "Core PCE (M/M)": "+0.3%",
+        "Core PCE (Y/Y)": "+3.3%",
+        "Personal income (M/M)": "+0.7% ($201.8B)",
+        "Nominal PCE (M/M)": "+0.3% ($63.8B)",
+        "Real PCE (M/M)": "-$5.8B (<0.1%)",
+        "Saving rate": "4.1%"
+      },
+      "explainer": {
+        "tagline": "October PCE reaccelerates to +3.8% Y/Y headline (highest since 2023) and +3.3% Y/Y core — FedWatch pricing ~97.8% odds of a 25bp December rate hike.",
+        "whatIsIt": "The Bureau of Economic Analysis released October 2026 Personal Income and Outlays on Wednesday November 25 at 8:30 ET. The report tracks the Fed's preferred PCE price index. Headline PCE rose +0.3% from September and +3.8% from a year earlier — the fastest Y/Y pace since 2023 and in line with LSEG consensus. Core PCE (excluding food and energy) rose +0.3% M/M and +3.3% Y/Y, slightly above the ~3.2% estimate and the highest core reading in three years. September was revised UP: headline from +3.6% to +3.7% and core from +3.1% to +3.3%.",
+        "howItWorks": "Personal income jumped $201.8 billion (+0.7% M/M), with disposable personal income up $200.5 billion (+0.8%). Nominal spending rose $63.8 billion (+0.3%), but real PCE fell $5.8 billion — meaning the nominal gain was more than entirely prices. Goods prices rose +3.0% Y/Y and services prices rose +2.3% Y/Y. The personal saving rate climbed to 4.1% of disposable income (from 3.6% in September). Headline +3.8% Y/Y marks the sixth consecutive month the Fed's preferred gauge has held above 3%.",
+        "whyItMatters": "A hot print on both headline and core, plus an upward revision to the prior month, locks in the hawkish setup for the December FOMC. Per CME FedWatch (Fox Business), markets are pricing a 97.8% probability of a 25bp rate hike at the Dec 8–9 meeting. Real spending going negative while prices accelerate — stagflation-lite — undercuts any dovish case. The next scheduled personal income release is December 23, so this is the last PCE print the FOMC sees before deciding.",
+        "forWho": "macro traders, rates desks, Fed-watchers",
+        "tryIt": "https://www.bea.gov/sites/default/files/2026-11/pi1026.pdf"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bea-final-logo-blue-backing.png",
+        "alt": "U.S. Bureau of Economic Analysis logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "BEA PCE Release",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+        },
+        {
+          "label": "BEA Release PDF",
+          "url": "https://www.bea.gov/sites/default/files/2026-11/pi1026.pdf"
+        },
+        {
+          "label": "Fox Business Coverage",
+          "url": "https://www.foxbusiness.com/economy/october-2026-pce-inflation"
+        },
+        {
+          "label": "FRED Core PCE",
+          "url": "https://fred.stlouisfed.org/series/PCEPILFE"
+        }
+      ],
+      "reddit": {
+        "title": "US Oct PCE — headline +3.8% Y/Y (highest since 2023), core +3.3% Y/Y (highest in 3 years), Sept revised UP; FedWatch pricing ~97.8% odds of a 25bp Dec hike",
+        "body": "The Fed's preferred inflation gauge came in hot, and September got revised higher too. FedWatch now puts the Dec FOMC at a near-lock for a 25bp hike.\n\n* Headline PCE: +0.3% M/M, +3.8% Y/Y (matches est; highest since 2023)\n* Core PCE: +0.3% M/M, +3.3% Y/Y (above ~3.2% est; highest core in 3 years)\n* September revised UP: headline 3.6% → 3.7%, core 3.1% → 3.3%\n* Personal income: +$201.8B / +0.7% M/M\n* Disposable income: +$200.5B / +0.8% M/M\n* Nominal spending: +$63.8B / +0.3% M/M\n* Real spending: -$5.8B\n* Saving rate: 4.1% (from 3.6% in Sept)\n* Goods prices +3.0% Y/Y; services +2.3% Y/Y\n\nWhat the print says:\n\n1. **Core is at a 3-year high** — the Fed's preferred core measure is trending up, not down, and the prior-month revision shows Sept was hotter than first reported.\n2. **Spending growth is all prices** — real PCE went negative. Nominal +0.3% translated to zero real gain.\n3. **Dec FOMC is basically locked in for a hike** — CME FedWatch at ~97.8% probability of 25bp at the Dec 8–9 meeting (per Fox Business). This is the last PCE the Fed sees before deciding.\n\nNext catalysts: Dec 8–9 FOMC, Dec 23 November personal income/PCE.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-pce-oct-2026-nov-25](https://stock-tldr.xyz/releases/us-pce-oct-2026-nov-25)"
+      },
+      "publishDate": "2026-11-25T20:54:54.354Z"
+    },
+    {
+      "id": "de-q4-fy26-earnings-nov-25-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "Deere (DE) Q4 FY26 (Wed Nov 25 2026 premarket) — Q4 net income $1.051B (-1% Y/Y), EPS $3.89 misses ~$4.03 est; revenue $12.115B (-2% Y/Y) beats; FY26 net income $4.860B / EPS $17.95 (-3%); FY27 guide $4.5–5.25B (includes $250–400M pension charge); CEO May says ag cycle 'troughed in 2026'; stock +4.76% to $643.00 intraday on cycle-bottom call",
+      "org": "Deere & Company",
+      "date": "2026-11-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000315189/000110465926131741/de-ex99d1.htm",
+      "summary": "Deere Q4 FY26 EPS $3.89 vs ~$4.03 est (miss) on revenue $12.115B (-2% Y/Y) beat; FY26 NI $4.860B / EPS $17.95 (-3% Y/Y); FY27 guide $4.5–5.25B incl pension charge. CEO May calls 2026 the trough of the ag cycle. DE +4.76% to $643.00 intraday.",
+      "tags": [
+        "earnings",
+        "eps-miss",
+        "revenue-beat",
+        "q4-fy26",
+        "fy26-full-year",
+        "ag-equipment",
+        "construction",
+        "cycle-trough",
+        "fy27-guidance",
+        "pension-settlement",
+        "tariff-headwind"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DE"
+      ],
+      "metrics": {
+        "Q4 EPS": "$3.89 vs ~$4.03 est",
+        "Q4 Revenue": "$12.115B (-2% Y/Y)",
+        "Q4 Net income": "$1.051B (-1% Y/Y)",
+        "FY26 Net income": "$4.860B / $17.95 EPS",
+        "FY26 Revenue": "$47.704B (+4%)",
+        "FY27 NI guide": "$4.5B–$5.25B",
+        "Move": "+4.76% to $643.00 intraday"
+      },
+      "explainer": {
+        "tagline": "Deere closes fiscal 2026 with a Q4 EPS miss but revenue beat, and management calls the ag equipment cycle's bottom — DE rips +4.76% intraday.",
+        "whatIsIt": "Deere & Company reported fiscal Q4 2026 (quarter ended Nov 1) and full-year results Wednesday Nov 25 premarket via an 8-K filing. Q4 net income was $1.051 billion, or $3.89 per diluted share (vs ~$4.03 consensus and $3.93 a year earlier), on revenue of $12.115 billion (-2% Y/Y, but above the ~$10.4B estimate). Full fiscal 2026 net income was $4.860 billion ($17.95 EPS), down 3% from $5.027 billion in FY25. The company issued fiscal 2027 net income guidance of $4.5B–$5.25B, including an estimated $250M–$400M non-cash pension settlement charge expected in Q2.",
+        "howItWorks": "Q4 segment breakdown: Production & Precision Agriculture sales fell 15% to $4.018B with operating profit -33% to $406M; Small Agriculture & Turf sales rose 10% to $2.703B with operating profit up 832% to $233M; Construction & Forestry sales rose 12% to $3.793B with operating profit -3% to $339M; Financial Services net income fell 21% to $231M. Full-year segment: Production & Precision Ag sales -9% ($15.682B); Small Ag & Turf +15% ($11.739B); Construction & Forestry +22% ($13.871B). FY27 segment outlook: Production & Precision Ag sales +5–15% with 12.5–14.5% op margin; Small Ag flat; C&F flat to +10%. Management expects ~$300M net tariff headwind in 2027 and Financial Services NI ~$900M.",
+        "whyItMatters": "Despite the EPS miss, DE ripped +4.76% to $643.00 intraday because the guide implies the floor is in: CEO John May said the ag equipment cycle 'troughed in 2026' and midpoint FY27 guidance of ~$4.875B is above FY26's $4.86B even with the pension charge. Construction & Forestry continues to carry the business while Production & Precision Ag — the crown jewel — bottoms. Read-throughs: AGCO, CNH, Caterpillar's construction segment, used-equipment markets.",
+        "forWho": "Industrials PMs, ag-cycle traders, tariff watchers.",
+        "tryIt": "https://finance.yahoo.com/quote/DE"
+      },
+      "image": {
+        "url": "https://mma.prnewswire.com/media/2984799/Deere_Company_1.jpg?p=facebook",
+        "alt": "Deere & Company brand photo.",
+        "fit": "cover",
+        "credit": "Deere & Company / PR Newswire"
+      },
+      "links": [
+        {
+          "label": "SEC 8-K Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000315189/000110465926131741/de-ex99d1.htm"
+        },
+        {
+          "label": "SEC 8-K Filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000315189/000110465926131741/de-20261125x8k.htm"
+        },
+        {
+          "label": "Q4 Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/25/deere-de-q4-2026-earnings-call-transcript/"
+        },
+        {
+          "label": "DE Quote",
+          "url": "https://finance.yahoo.com/quote/DE"
+        }
+      ],
+      "reddit": {
+        "title": "Deere (DE) Q4 FY26: EPS $3.89 misses $4.03 est, revenue $12.1B beats; FY27 guide $4.5–5.25B; CEO calls 2026 'the trough' of the ag cycle; stock +4.76% to $643",
+        "body": "Deere closed fiscal 2026 Wednesday with a messy Q4 but a clean cycle-bottom message, and the stock rallied ~5% intraday on the guide.\n\n* Q4 EPS $3.89 vs ~$4.03 est (miss)\n* Q4 revenue $12.115B (-2% Y/Y) — beats ~$10.4B est\n* Q4 net income $1.051B (down 1% from $1.065B)\n* FY26 net income $4.860B / EPS $17.95 (down 3% from $5.027B)\n* FY26 revenue $47.704B (+4%)\n* FY27 NI guide $4.5B–$5.25B (includes $250–400M non-cash pension settlement charge)\n* DE +4.76% to $643.00 intraday\n\nWhat actually matters here:\n\n1. **CEO called the bottom** — John May said on the call that the ag equipment cycle 'troughed in 2026.' The midpoint of FY27 guidance (~$4.875B) is slightly above FY26's $4.86B even with the pension charge baked in.\n2. **Production & Precision Ag is still the problem** — Q4 segment sales -15%, operating profit -33% to $406M. Full-year segment sales -9%. FY27 guide for this segment is sales +5–15% — the inflection they are promising.\n3. **Construction & Forestry carried the year** — full-year sales +22% to $13.871B; operating profit +43%.\n4. **Tariffs still a drag** — management expects a ~$300M net tariff headwind in FY27.\n\nNext catalysts: AGCO Q4, CNH Q4, Caterpillar construction segment read-throughs.\n\nFull breakdown: [https://stock-tldr.xyz/releases/de-q4-fy26-earnings-nov-25-2026](https://stock-tldr.xyz/releases/de-q4-fy26-earnings-nov-25-2026)"
+      },
+      "publishDate": "2026-11-25T20:54:54.354Z"
+    },
     {
       "id": "dell-q3-fy27-earnings-nov-24-2026",
       "categories": [
