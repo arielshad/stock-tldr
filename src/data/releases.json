@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-11-26T05:53:06.439Z",
+  "generatedAt": "2026-11-26T20:43:36.185Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "ustr-section-301-14-economies-nov-25-2026",
+      "categories": [
+        "macro",
+        "regulatory"
+      ],
+      "title": "USTR proposes Section 301 tariffs on 14 economies Wed Nov 25 2026 — China up to 20% (10% Annex A, 40% snap-back if truce breaks Jan 10), EU/Japan/Korea/Switzerland/Taiwan 15%, Vietnam up to 35%, India up to 25%; comment deadline Jan 5 2027, hearings Jan 25 2027",
+      "org": "Office of the United States Trade Representative",
+      "date": "2026-11-25",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "summary": "USTR Ambassador Jamieson Greer determines 14 economies' excess-capacity practices are actionable under Section 301 and proposes rates from 15% to 35%, netted against MFN and existing Section 301 duties; final action pending Jan 25 2027 hearings.",
+      "tickers": [
+        "^GSPC",
+        "^DJI",
+        "SPY"
+      ],
+      "tags": [
+        "tariffs",
+        "section-301",
+        "ustr",
+        "trade-policy",
+        "china",
+        "european-union",
+        "japan",
+        "south-korea",
+        "vietnam",
+        "india",
+        "taiwan",
+        "trade-war",
+        "excess-capacity"
+      ],
+      "importance": "major",
+      "metrics": {
+        "China cap": "up to 20% (10% Annex A; up to 40% fallback)",
+        "EU cap": "15% (up to 20% fallback)",
+        "Japan cap": "15% (up to 20% fallback)",
+        "South Korea cap": "15% (up to 25% fallback)",
+        "Switzerland cap": "15% (up to 20% fallback)",
+        "Taiwan cap": "15% (up to 25% fallback)",
+        "Vietnam cap": "up to 35% (20% with deal)",
+        "India cap": "up to 25% (17% with deal)",
+        "Singapore cap": "up to 20% (10% with deal)",
+        "Bangladesh/Cambodia/Indonesia/Malaysia/Thailand cap": "up to 18%",
+        "Economies covered": "14 (China, EU, Japan, Korea, Switzerland, Taiwan, Vietnam, India, Singapore, Bangladesh, Cambodia, Indonesia, Malaysia, Thailand)",
+        "Comment deadline": "Jan 5 2027",
+        "Hearing date": "Jan 25 2027",
+        "US-China truce expiry": "Jan 10 2027",
+        "SPY close Nov 25": "$716.81 (-0.27%)"
+      },
+      "explainer": {
+        "tagline": "USTR's Section 301 excess-capacity findings turn into proposed tariffs on 14 US trading partners — a next-leg trade-policy backstop after SCOTUS struck down IEEPA tariffs.",
+        "whatIsIt": "On Wednesday Nov 25 2026, US Trade Representative Jamieson Greer determined that 14 economies' acts, policies and practices relating to structural excess capacity and production in manufacturing sectors are unreasonable, burden or restrict US commerce, and are actionable under Section 301(b) of the Trade Act of 1974. USTR simultaneously proposed country-specific tariff ceilings and opened a public-comment period, with no immediate effective date. Mexico and Norway, two of the 16 economies originally probed in March, received no determination at this time.",
+        "howItWorks": "The proposed caps (net of MFN and existing Section 301 duties, with carve-outs for Section 232 goods and devices like laptops, servers, smartphones and integrated circuits outside China): China up to 20% on goods not in annexes and up to 10% on Annex A goods, with a snap-back cap of up to 40% if the US–China truce lapses on Jan 10 2027; EU, Japan, Korea, Switzerland and Taiwan at 15%; Vietnam up to 35% (20% with a reciprocal deal); India up to 25% (17% with a deal); Singapore up to 20% (10% with a deal); Bangladesh, Cambodia, Indonesia, Malaysia and Thailand at up to 18%. Fallback caps if talks fail run up to 40% for China, 25% for several of the smaller economies, and 20% for Bangladesh, the EU, Japan and Switzerland. Comments are due Jan 5 2027 with hearings beginning Jan 25 2027. Greer told CNBC the rates likely would not take effect for a couple of months and are not additive to the July 2026 forced-labor Section 301 duties.",
+        "whyItMatters": "This is the Trump administration's primary tariff-authority channel now that the Supreme Court struck down IEEPA emergency duties in February. The proposed rates largely mirror existing reciprocal-deal caps, so SPY's day-of reaction (-0.27% to $716.81) was muted versus a bigger AI-driven tech selloff Wednesday — but the January 5 comment deadline, January 10 US–China truce expiry and January 25 hearings become a concentrated policy window. The European Commission immediately rejected USTR's overcapacity finding and signaled possible retaliation. The highest exposure sits with retailers and importers (equal-weight S&P hit harder than cap-weight SPY) and with China-sourced consumer electronics outside the Annex A device list.",
+        "forWho": "Macro/trade desks, equal-weight S&P traders, import-heavy retailers and semis importers",
+        "tryIt": "https://finance.yahoo.com/quote/SPY"
+      },
+      "image": {
+        "url": "https://ustr.gov/sites/default/files/2026-11/Meta%20Tag_7.png",
+        "alt": "USTR press release header image for Section 301 excess capacity tariff proposal",
+        "fit": "cover",
+        "credit": "Office of the United States Trade Representative"
+      },
+      "links": [
+        {
+          "label": "USTR Press Release",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+        },
+        {
+          "label": "Yahoo: Rates by Country",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-hiking-tariffs-again-tariff-131738195.html"
+        },
+        {
+          "label": "SPY Quote",
+          "url": "https://finance.yahoo.com/quote/SPY"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "USTR proposes Section 301 tariffs on 14 economies — China up to 20% (40% if truce breaks), EU/Japan/Korea/Taiwan 15%, Vietnam up to 35%; comment deadline Jan 5, hearings Jan 25",
+        "body": "On Wed Nov 25 2026, USTR Jamieson Greer finalized Section 301 determinations against 14 economies for 'structural excess capacity' in manufacturing and published proposed country caps for public comment. This is the administration's main tariff channel after SCOTUS killed the IEEPA duties in February.\n\n* **China:** up to 20% (10% on Annex A; up to **40%** snap-back cap if the US-China truce expires Jan 10 2027)\n* **EU / Japan / South Korea / Switzerland / Taiwan:** 15% each (fallback caps 20-25%)\n* **Vietnam:** up to 35% headline / 20% with a deal\n* **India:** up to 25% / 17% with a deal\n* **Singapore:** up to 20% / 10% with a deal\n* **Bangladesh, Cambodia, Indonesia, Malaysia, Thailand:** up to 18% each\n* Mexico and Norway: no determination yet\n\nThe caps are net of MFN and existing Section 301 duties, with Section 232 goods (steel, autos, patented drugs, semis) exempt and laptops / servers / smartphones / integrated circuits carved out outside China.\n\n1. **Legal plumbing** — this is the Trump administration's post-IEEPA pathway. Greer told CNBC the increase 'really will just top up a few percentage points' when all nets out.\n2. **China snap-back is the real risk** — the US-China truce expires Jan 10 2027; without renewal, the 40% ceiling becomes live.\n3. **EU response** — Commission spokesperson Olof Gill rejected USTR's overcapacity finding and signaled possible retaliation.\n\nMarket reaction Wednesday was muted at the index level (SPY -0.27% to $716.81) because the caps largely mirror existing reciprocal-deal caps, but equal-weight S&P and import-heavy retailers took it worse.\n\nNext catalysts: Jan 5 2027 comment deadline, Jan 10 US-China truce expiry, Jan 25 USTR hearings.\n\nFull breakdown: [https://stock-tldr.xyz/releases/ustr-section-301-14-economies-nov-25-2026](https://stock-tldr.xyz/releases/ustr-section-301-14-economies-nov-25-2026)"
+      },
+      "publishDate": "2026-11-26T20:43:36.185Z"
+    },
     {
       "id": "hpq-q4-fy26-earnings-nov-24-2026",
       "categories": [

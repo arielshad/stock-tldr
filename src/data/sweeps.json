@@ -17103,6 +17103,32 @@
         "macro",
         "rates"
       ]
+    },
+    {
+      "id": "sweep-20261126t204336z",
+      "timestamp": "2026-11-26T20:43:36.185Z",
+      "source": "github-actions-sweep",
+      "summary": "One add: USTR's Nov 25 2026 Section 301 excess-capacity findings against 14 economies with proposed tariff caps of 15-35%. No other qualifying stories — Thanksgiving-day sweep with US markets closed, global rally spillover too thin to ship on its own.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ustr-section-301-14-economies-nov-25-2026",
+          "title": "USTR proposes Section 301 tariffs on 14 economies Wed Nov 25 2026 — China up to 20% (10% Annex A, 40% snap-back if truce breaks Jan 10), EU/Japan/Korea/Switzerland/Taiwan 15%, Vietnam up to 35%, India up to 25%; comment deadline Jan 5 2027, hearings Jan 25 2027",
+          "category": "macro",
+          "note": "Primary-source USTR determination + proposed action; separable from the Nov 25 index recap (us-stocks-dow-comeback-nov-25-2026) that only mentions tariffs in passing. Semantic dedup check: no existing entry covers the Section 301 tariff proposal as its own event."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "regulatory",
+        "trade-policy"
+      ]
     }
   ]
 }
