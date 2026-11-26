@@ -1,8 +1,257 @@
 {
-  "generatedAt": "2026-11-25T20:54:54.354Z",
+  "generatedAt": "2026-11-26T05:53:06.439Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "hpq-q4-fy26-earnings-nov-24-2026",
+      "categories": [
+        "earnings",
+        "mover"
+      ],
+      "title": "HP Inc (HPQ) Q4 FY26 (Tue Nov 24 2026 after close) — net revenue $16.0B (+9.3% Y/Y) and non-GAAP EPS $0.83 beat $0.69–$0.79 guide (both include $0.15 tariff-refund benefit); FY27 non-GAAP EPS guide $3.15–$3.45 (excludes new $0.75 of adjustments including stock-based comp); quarterly dividend raised to $0.31/sh (+3.3%); HPQ ~+11% Wed Nov 25",
+      "org": "HP Inc",
+      "date": "2026-11-24",
+      "tickers": [
+        "HPQ"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm",
+      "summary": "HP Inc Q4 FY26 non-GAAP EPS $0.83 and revenue $16.0B (+9.3%) top guide (both include a $0.15 tariff-refund benefit); FY27 non-GAAP EPS guided $3.15–$3.45; dividend raised to $0.31; HPQ ~+11% Wed Nov 25.",
+      "tags": [
+        "earnings",
+        "q4-fy26",
+        "hpq",
+        "pc",
+        "ai-pc",
+        "printing",
+        "tariff-refund",
+        "guidance",
+        "buyback",
+        "dividend-raise"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue (Q4)": "$16.0B (+9.3% Y/Y)",
+        "Personal Systems revenue": "$11.8B (+14% Y/Y)",
+        "Printing revenue": "$4.3B (-1% Y/Y)",
+        "Non-GAAP EPS (Q4)": "$0.83 vs $0.69–$0.79 guide (incl $0.15 tariff refund)",
+        "GAAP EPS (Q4)": "$0.84 (flat Y/Y)",
+        "FY26 non-GAAP EPS": "$3.33 (+6.7%)",
+        "FY26 revenue": "$60.5B (+9.5%)",
+        "FY27 non-GAAP EPS guide": "$3.15–$3.45",
+        "FY27 free cash flow guide": "$2.9–$3.1B",
+        "Q1 FY27 non-GAAP EPS guide": "$0.66–$0.76",
+        "Dividend": "$0.31/sh (+3.3% from $0.30)",
+        "Q4 buybacks": "~$0.5B / ~15.9M shares",
+        "FY26 buybacks": "$1.2B / ~46.7M shares",
+        "Move": "~+11% Wed Nov 25"
+      },
+      "explainer": {
+        "tagline": "HP's FY26 print beats its own guide on PC strength and tariff refunds; stock pops ~11% on raised dividend and FY27 EPS floor of $3.15.",
+        "whatIsIt": "HP Inc reported fiscal 2026 fourth-quarter results after the close on Tue Nov 24 2026, covering the quarter ended Oct 31. Q4 revenue of $16.0B rose 9.3% Y/Y and non-GAAP EPS of $0.83 landed above the $0.69–$0.79 guide, with both figures including a $0.15 benefit from tariff refunds. The company also raised its quarterly dividend and issued its first fiscal 2027 outlook.",
+        "howItWorks": "Personal Systems (PCs) revenue of $11.8B jumped 14%, with Commercial PS +23% and Consumer PS -7% — HP's AI-PC mix continues to shift the segment toward business buyers. Printing revenue of $4.3B slipped 1% as Supplies fell 2% and Consumer Printing -1%. Non-GAAP diluted EPS of $0.83 was down 10.8% Y/Y but above the top end of the $0.69–$0.79 guide; GAAP EPS of $0.84 was flat Y/Y. For the full year, non-GAAP EPS of $3.33 (+6.7%) exceeded the prior $3.19–$3.29 outlook and GAAP EPS was $2.62 (-1.1%); tariff refunds added $0.26 to FY26 EPS vs the $0.19 prior outlook. FY27 guide is non-GAAP EPS $3.15–$3.45 and FCF $2.9–$3.1B, with Q1 FY27 non-GAAP EPS $0.66–$0.76. Starting Q1 FY27, HP will exclude stock-based compensation from non-GAAP metrics; the company notes this change reduces FY26 non-GAAP EPS by $0.38.",
+        "whyItMatters": "HPQ rose roughly 11% on Wed Nov 25, leading the S&P 500 on an otherwise soft tape, as the beat and raised dividend reframed PC demand after a chip-sector rout. The FY27 non-GAAP EPS floor of $3.15 (ex ~$0.75 of adjustments including the new SBC exclusion) sets up the Commercial PC refresh narrative against Dell and Lenovo. The quarterly dividend bump to $0.31 (+3.3%) and $1.2B of FY26 buybacks keep HP in the mid-single-digit yield + capital-return basket favored by value funds.",
+        "forWho": "PC-cycle traders, dividend-income investors, tariff-sensitive macro desks",
+        "tryIt": "https://finance.yahoo.com/quote/HPQ"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg",
+        "alt": "HP Inc corporate logo",
+        "fit": "contain",
+        "credit": "Wikimedia Commons"
+      },
+      "links": [
+        {
+          "label": "HP 8-K Q4 FY26 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm"
+        },
+        {
+          "label": "HP Press Release",
+          "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-reports-fiscal-2026-full-year-and-fourth-quarter-results.html"
+        },
+        {
+          "label": "Fool: Nov 25 Market Wrap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+        },
+        {
+          "label": "HPQ Quote",
+          "url": "https://finance.yahoo.com/quote/HPQ"
+        }
+      ],
+      "reddit": {
+        "title": "HP (HPQ) Q4 FY26: $16B revenue (+9%), EPS $0.83 beats guide, FY27 EPS floor $3.15, dividend bumped to $0.31 — stock ~+11% on an otherwise ugly tape",
+        "body": "HP Inc dropped Q4 fiscal 2026 after the bell Tuesday Nov 24. Shares led the S&P 500 on Wednesday, up roughly 11% while the Nasdaq was still red.\n\n* Q4 revenue $16.0B (+9.3% Y/Y); Personal Systems $11.8B (+14%, Commercial PS +23%); Printing $4.3B (-1%)\n* Q4 non-GAAP EPS $0.83 vs $0.69–$0.79 guide; GAAP EPS $0.84 flat Y/Y — both include a $0.15 tariff-refund tailwind\n* FY26 non-GAAP EPS $3.33 (+6.7%) vs $3.19–$3.29 guide; FY26 revenue $60.5B (+9.5%)\n* FY27 non-GAAP EPS guide $3.15–$3.45 and FCF $2.9–$3.1B; HP will exclude stock-based comp from non-GAAP starting Q1 FY27 (a $0.38 reduction to the FY26 comp base)\n* Dividend raised to $0.31/sh (+3.3%); Q4 buybacks ~$0.5B / ~15.9M shares, FY26 $1.2B / ~46.7M shares\n\nWhy it matters:\n\n1. **PC refresh keeps working** — Commercial PS +23% Y/Y backs the Dell/Lenovo/HP AI-PC refresh thesis and offsets a shrinking Consumer PS and soft Printing.\n2. **Tariff refunds are now a line item** — $0.26 of FY26 EPS came from refunds (vs $0.19 expected), which flatters the print but also signals how much HP is still exposed if the regime flips.\n3. **FY27 guide is a floor, not a ceiling** — the $3.15–$3.45 range excludes a new $0.75 bucket of adjustments, including the SBC exclusion change; the comp base drops by $0.38, so the comparable prior-year EPS is ~$2.95.\n\nNext catalysts: Q1 FY27 report (Feb/Mar 2027), Dell/Lenovo refresh pace, any tariff policy shift.\n\nFull breakdown: [https://stock-tldr.xyz/releases/hpq-q4-fy26-earnings-nov-24-2026](https://stock-tldr.xyz/releases/hpq-q4-fy26-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-26T05:53:06.439Z"
+    },
+    {
+      "id": "adsk-q3-fy27-earnings-nov-24-2026",
+      "categories": [
+        "earnings"
+      ],
+      "title": "Autodesk (ADSK) Q3 FY27 (Tue Nov 24 2026 after close) — revenue $2.16B (+17% Y/Y, +14% cc) beats, billings $2.07B (+12%); non-GAAP EPS $3.20 (+$0.53) tops ~$3.07 est; GAAP EPS $2.68 (+$1.08, includes ~$105M R&D tax benefit); FY27 non-GAAP EPS guide RAISED to $12.70–$12.76 and revenue to $8.36–$8.375B; MaintainX added ~$33M in first quarter under Autodesk; shares -~1.8% Wed Nov 25",
+      "org": "Autodesk",
+      "date": "2026-11-24",
+      "tickers": [
+        "ADSK"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/q327pressrelease.htm",
+      "summary": "Autodesk Q3 FY27 revenue $2.16B (+17%) above high end of guide; non-GAAP EPS $3.20 beats; FY27 non-GAAP EPS guide raised to $12.70–$12.76 with MaintainX adding $33M; shares -~1.8% in soft tech tape.",
+      "tags": [
+        "earnings",
+        "q3-fy27",
+        "adsk",
+        "software",
+        "aec",
+        "cad",
+        "maintainx",
+        "guidance-raise"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Revenue (Q3)": "$2.16B (+17% Y/Y, +14% cc)",
+        "Billings (Q3)": "$2.07B (+12% Y/Y, +13% cc)",
+        "Non-GAAP EPS (Q3)": "$3.20 (+$0.53 Y/Y) vs ~$3.07 est",
+        "GAAP EPS (Q3)": "$2.68 (+$1.08 Y/Y; incl ~$105M R&D tax benefit)",
+        "Non-GAAP op margin (Q3)": "39% (+1pt Y/Y)",
+        "GAAP op margin (Q3)": "26% (flat)",
+        "FY27 revenue guide": "$8.36–$8.375B (RAISED)",
+        "FY27 billings guide": "$8.60–$8.65B (RAISED)",
+        "FY27 non-GAAP EPS guide": "$12.70–$12.76 (RAISED)",
+        "FY27 free cash flow guide": "$2.725–$2.750B",
+        "Q4 FY27 revenue guide": "$2.22–$2.235B",
+        "Q4 FY27 non-GAAP EPS guide": "$3.21–$3.26",
+        "MaintainX contribution (Q3)": "~$33M (first quarter under Autodesk)",
+        "YTD buybacks (9M)": "$1.251B (vs $1.071B a year ago)",
+        "Move": "-~1.8% Wed Nov 25"
+      },
+      "explainer": {
+        "tagline": "Autodesk's first MaintainX-inclusive quarter prints revenue above guide and lifts the FY27 outlook; the stock sits out the HPQ-led value bid.",
+        "whatIsIt": "Autodesk reported fiscal 2027 third-quarter results after the close on Tue Nov 24 2026 for the quarter ended Oct 31. Revenue of $2.16B (+17% Y/Y, +14% in constant currency) exceeded the high end of the prior $2.125–$2.140B guide and non-GAAP EPS of $3.20 beat the ~$3.07 consensus. Management raised FY27 revenue, billings, and non-GAAP EPS guidance and reiterated a Q4 revenue floor of $2.22B.",
+        "howItWorks": "Billings of $2.07B grew 12% as reported and 13% in constant currency, with MaintainX — the maintenance-management SaaS Autodesk bought earlier this year — adding roughly $33M in its first full quarter under Autodesk. GAAP operating margin held flat at 26% while non-GAAP operating margin rose a point to 39%; GAAP diluted EPS of $2.68 included a ~$105M tax benefit from a change in treatment of certain non-US R&D costs, and non-GAAP EPS stripped that out. FY27 is now guided to revenue $8.36–$8.375B (vs $8.295–$8.345B prior), billings $8.60–$8.65B, non-GAAP EPS $12.70–$12.76 (vs $12.52–$12.60 prior), and FCF $2.725–$2.750B. Q4 FY27 is modeled at revenue $2.22–$2.235B and non-GAAP EPS $3.21–$3.26 (Q4 GAAP EPS includes an expected ~$163M discrete tax benefit).",
+        "whyItMatters": "The print validates Autodesk's transaction-model transition one more quarter and gives bulls a cleaner line of sight on sustained double-digit revenue growth into FY28 even as the comp base gets tougher. But ADSK closed roughly 1.8% lower on Wed Nov 25 as capital rotated into deeper-value PC/printing names (HPQ ~+11%) and away from high-multiple software, with the broader Nasdaq composite -0.62% on the day. The raised non-GAAP EPS guide of $12.70–$12.76 keeps a ~26× forward P/E on the current sub-$340 price level.",
+        "forWho": "AEC/CAD software bulls, SaaS-transition watchers, value-vs-growth rotation traders",
+        "tryIt": "https://finance.yahoo.com/quote/ADSK"
+      },
+      "image": {
+        "url": "https://www.stocktitan.net/news_covers/AUTODESK_INC_ANNOUNCES_FISCAL_2027_THIRD_QUARTER_RESULTS_1538357.webp",
+        "alt": "Autodesk Q3 FY27 press release cover graphic",
+        "fit": "cover",
+        "credit": "Stocktitan / Autodesk"
+      },
+      "links": [
+        {
+          "label": "Autodesk 8-K Q3 FY27 Release",
+          "url": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/q327pressrelease.htm"
+        },
+        {
+          "label": "Stocktitan Release",
+          "url": "https://www.stocktitan.net/news/ADSK/autodesk-inc-announces-fiscal-2027-third-quarter-tx1026785fu3.html"
+        },
+        {
+          "label": "BigGo Earnings Call Recap",
+          "url": "https://finance.biggo.com/news/US_ADSK_2026-11-24"
+        },
+        {
+          "label": "ADSK Quote",
+          "url": "https://finance.yahoo.com/quote/ADSK"
+        }
+      ],
+      "reddit": {
+        "title": "Autodesk (ADSK) Q3 FY27: revenue $2.16B (+17%), beats guide; FY27 EPS guide raised to $12.70–$12.76; stock -~1.8% as the value bid skips it",
+        "body": "ADSK's first MaintainX-inclusive quarter printed above its own guide — but the stock still faded Wednesday as capital rotated into value PC/printing names like HPQ.\n\n* Q3 revenue $2.16B, +17% Y/Y (+14% cc) — above the $2.125–$2.140B guide\n* Billings $2.07B, +12% Y/Y (+13% cc); MaintainX added ~$33M in its first full quarter under Autodesk\n* Non-GAAP EPS $3.20 (+$0.53 Y/Y) beats ~$3.07 est; GAAP EPS $2.68 includes a ~$105M tax benefit from non-US R&D treatment change\n* Non-GAAP op margin 39% (+1pt); GAAP op margin flat at 26%\n* YTD buybacks $1.251B vs $1.071B a year ago\n\nGuidance:\n\n1. **FY27 revenue raised to $8.36–$8.375B** (prior $8.295–$8.345B) and billings to $8.60–$8.65B\n2. **FY27 non-GAAP EPS guide raised to $12.70–$12.76** (prior $12.52–$12.60); FCF guide $2.725–$2.750B\n3. **Q4 FY27 revenue $2.22–$2.235B**, non-GAAP EPS $3.21–$3.26; Q4 GAAP EPS reflects an expected ~$163M discrete tax benefit\n\nNext catalysts: Q4 FY27 print, MaintainX cross-sell contribution next quarter, any Fed December hike sensitivity for high-multiple software.\n\nFull breakdown: [https://stock-tldr.xyz/releases/adsk-q3-fy27-earnings-nov-24-2026](https://stock-tldr.xyz/releases/adsk-q3-fy27-earnings-nov-24-2026)"
+      },
+      "publishDate": "2026-11-26T05:53:06.439Z"
+    },
+    {
+      "id": "us-stocks-dow-comeback-nov-25-2026",
+      "categories": [
+        "mover",
+        "macro"
+      ],
+      "title": "US stocks Wed Nov 25 2026 pre-Thanksgiving comeback — Dow +0.33% to 50,182.95 erases ~1,100-pt intraday loss; S&P 500 -0.25% to 7,182.78 after being down 3.2%; Nasdaq Comp -0.62% to 23,585.80 after a >4% low; Russell 2000 +0.71% to 2,704.06; VIX 28.29 (intraday 35); Nvidia -~4% (down ~8% intraday); 10Y yield down ~7bp to 4.81–4.84%",
+      "org": "U.S. equity markets",
+      "date": "2026-11-25",
+      "tickers": [
+        "^DJI",
+        "^GSPC",
+        "^IXIC",
+        "^RUT",
+        "^VIX",
+        "NVDA"
+      ],
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "summary": "Dow erases ~1,100-pt intraday loss to close +0.33% at 50,182.95; S&P 500 -0.25% and Nasdaq Comp -0.62% after a >4% intraday low; VIX ran to 35 intraday and closed 28.29; HPQ ~+11% leads S&P on earnings beat.",
+      "tags": [
+        "us-stocks",
+        "intraday-reversal",
+        "dow",
+        "nasdaq",
+        "sp500",
+        "vix",
+        "nvidia",
+        "ai-selloff",
+        "pce",
+        "thanksgiving-eve"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Dow close": "50,182.95 (+0.33%, +164.25 pts)",
+        "S&P 500 close": "7,182.78 (-0.25%, -18.31 pts)",
+        "Nasdaq Comp close": "23,585.80 (-0.62%, -147.73 pts)",
+        "Russell 2000 close": "2,704.06 (+0.71%, +19.12 pts)",
+        "Dow intraday low": "~1,100 pts below prior close",
+        "S&P 500 intraday low": "~-3.2% (~6,970)",
+        "Nasdaq Comp intraday low": ">-4%",
+        "VIX close": "28.29 (+7.32%)",
+        "VIX intraday high": "~35",
+        "Nvidia (NVDA)": "-~4% close (-~8% intraday)",
+        "Philadelphia Semi Index (SOX)": "-6%+ intraday",
+        "HPQ": "~+11% (S&P 500 leader on earnings beat)",
+        "Charter (CHTR)": "+8.39%",
+        "Ambarella (AMBA)": "-19.77%",
+        "Nutanix (NTNX)": "-~15%",
+        "10Y Treasury yield": "~4.81–4.84% (-7 to -9 bp)",
+        "Gold (spot)": "~$3,629 (+1.81%)"
+      },
+      "explainer": {
+        "tagline": "Thanksgiving-eve risk-off at the open, aggressively bought back by the close as the Dow erases a 1,100-pt drop.",
+        "whatIsIt": "US equities staged a dramatic late-day comeback on Wed Nov 25 2026, the last full session before the Thanksgiving holiday. The Dow Jones Industrial Average opened sharply lower on hot core PCE, renewed AI-overcapex worries, and a fresh round of US tariff threats — and sank more than 1,100 points intraday before buyers turned the tape in the afternoon. The S&P 500 and Nasdaq Composite remained in the red at the close but recovered from much deeper lows.",
+        "howItWorks": "The Dow closed at 50,182.95 (+164.25 pts, +0.33%) after being down ~1,100 pts at its session low. The S&P 500 finished at 7,182.78 (-18.31 pts, -0.25%) after an intraday low near 6,970 (~-3.2%). The Nasdaq Composite closed at 23,585.80 (-147.73 pts, -0.62%), bouncing off a loss of more than 4% that briefly tagged bear-market territory for the Nasdaq 100. The Russell 2000 bucked the mega-cap softness to close +0.71% at 2,704.06. The VIX ran as high as ~35 intraday before closing at 28.29 (+7.32%). The intraday selling was led by chips — Philadelphia Semi Index down >6% at its low with Micron, Lam Research, and Applied Materials each -6%+ — and by Nvidia, which fell as much as 8% before closing down ~4%. HP Inc led the S&P 500 up ~11% after its Tue-night Q4 beat; Charter +8.39%, Ambarella -19.77% on weak guidance, and Nutanix -~15% on tech weakness. The 10-year Treasury yield fell 7–9bp to ~4.81–4.84% as the growth-vs-inflation tug-of-war favored duration.",
+        "whyItMatters": "The session shows how fast risk is swinging now that the AI-capex trade has cracked and December Fed pricing is no longer a guaranteed cut (CME FedWatch flipped to ~98% odds of a 25bp hike on the Oct PCE print). Dow's Thanksgiving-eve reclaim of 50,000 confirms the value/defensive rotation that HPQ and Charter embodied Wednesday. For traders, the shape of the day — a 3%+ intraday rip in both directions in the S&P 500 — is itself the signal: with markets closed Thursday and a half-day Friday, next week's catalysts (Dec 1 Nvidia House hearings, Dec 4 November jobs, Dec 8–9 FOMC) will decide whether this Wednesday afternoon is a floor or a bull trap.",
+        "forWho": "US equity index traders, volatility sellers, short-duration rates desks",
+        "tryIt": "https://finance.yahoo.com/quote/%5EGSPC"
+      },
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F35c0bb216f6992fd42eb5899d582f2ccc791558b-2000x1333.jpg&w=1200&op=resize",
+        "alt": "US stock market trading floor photo on Nov 25 2026",
+        "fit": "cover",
+        "credit": "The Motley Fool"
+      },
+      "links": [
+        {
+          "label": "Yahoo: Nov 25 Live Blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+        },
+        {
+          "label": "Fool: Dow Erases 1,100-pt Loss",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+        },
+        {
+          "label": "STL News: Nov 25 Wrap",
+          "url": "https://www.stl.news/us-stock-market-today-november-25-2026/"
+        },
+        {
+          "label": "S&P 500 Chart",
+          "url": "https://finance.yahoo.com/quote/%5EGSPC"
+        }
+      ],
+      "reddit": {
+        "title": "Dow erases a ~1,100-point intraday loss to close +0.33% on Thanksgiving eve — Nasdaq 100 tagged bear-market territory, VIX hit 35, HPQ +11%",
+        "body": "Wednesday Nov 25 2026 was a two-session day on Wall Street: risk-off at the open, aggressively bought back into the close.\n\n* Dow 50,182.95 (+0.33%, +164 pts) after being down ~1,100 points intraday\n* S&P 500 7,182.78 (-0.25%) off an intraday low near 6,970 (-3.2%)\n* Nasdaq Composite 23,585.80 (-0.62%) after a >4% intraday low that briefly tagged bear-market territory for the Nasdaq 100\n* Russell 2000 2,704.06 (+0.71%) — small caps led the reversal\n* VIX 28.29, ran as high as ~35 intraday; 10Y yield fell 7–9bp to ~4.81–4.84%\n\nWhat broke it:\n\n1. **Hot PCE kept the Fed on the wrong side** — October core PCE +3.3% Y/Y above the ~3.2% est, CME FedWatch stayed at ~98% for a 25bp hike on Dec 9.\n2. **AI-capex crack** — Nvidia fell as much as 8% before closing -~4%; SOX down >6% intraday with Micron, LRCX, AMAT each -6%+.\n3. **The value bid** — HPQ +~11% led the S&P 500 on its Tue-night Q4 beat; Charter +8.4%. Defensive and small-cap bids drove the afternoon comeback.\n\nNext catalysts: half-day Fri Nov 27, Dec 1 Nvidia/Huang House hearings, Dec 4 November jobs, Dec 8–9 FOMC decision.\n\nFull breakdown: [https://stock-tldr.xyz/releases/us-stocks-dow-comeback-nov-25-2026](https://stock-tldr.xyz/releases/us-stocks-dow-comeback-nov-25-2026)"
+      },
+      "publishDate": "2026-11-26T05:53:06.439Z"
+    },
     {
       "id": "us-pce-oct-2026-nov-25",
       "categories": [

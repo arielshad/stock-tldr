@@ -17064,6 +17064,45 @@
         "earnings",
         "mover"
       ]
+    },
+    {
+      "id": "sweep-20261126t055306z",
+      "timestamp": "2026-11-26T05:53:06.439Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new items for the 72h window ending 2026-11-26T05:44Z: HP Inc Q4 FY26 earnings (Tue Nov 24 after close, HPQ ~+11% Wed), Autodesk Q3 FY27 earnings (Tue Nov 24 after close, raised FY27 guide, stock -~1.8%), and the Wed Nov 25 US equity session where the Dow erased a ~1,100-point intraday loss to close positive on a Thanksgiving-eve two-way tape.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "hpq-q4-fy26-earnings-nov-24-2026",
+          "title": "HP Inc (HPQ) Q4 FY26 (Tue Nov 24 2026 after close) — net revenue $16.0B (+9.3% Y/Y) and non-GAAP EPS $0.83 beat $0.69–$0.79 guide (both include $0.15 tariff-refund benefit); FY27 non-GAAP EPS guide $3.15–$3.45 (excludes new $0.75 of adjustments including stock-based comp); quarterly dividend raised to $0.31/sh (+3.3%); HPQ ~+11% Wed Nov 25",
+          "category": "earnings",
+          "note": "FY26 beat + raised FY27 EPS floor + dividend bump drove an ~11% move in Wed Nov 25 session; largest S&P 500 gainer on an otherwise soft tape."
+        },
+        {
+          "id": "adsk-q3-fy27-earnings-nov-24-2026",
+          "title": "Autodesk (ADSK) Q3 FY27 (Tue Nov 24 2026 after close) — revenue $2.16B (+17% Y/Y, +14% cc) beats, billings $2.07B (+12%); non-GAAP EPS $3.20 (+$0.53) tops ~$3.07 est; GAAP EPS $2.68 (+$1.08, includes ~$105M R&D tax benefit); FY27 non-GAAP EPS guide RAISED to $12.70–$12.76 and revenue to $8.36–$8.375B; MaintainX added ~$33M in first quarter under Autodesk; shares -~1.8% Wed Nov 25",
+          "category": "earnings",
+          "note": "Revenue above guide, FY27 EPS and billings guide raised; first full quarter including MaintainX ($33M); shares still faded 1.8% in the Wed value rotation."
+        },
+        {
+          "id": "us-stocks-dow-comeback-nov-25-2026",
+          "title": "US stocks Wed Nov 25 2026 pre-Thanksgiving comeback — Dow +0.33% to 50,182.95 erases ~1,100-pt intraday loss; S&P 500 -0.25% to 7,182.78 after being down 3.2%; Nasdaq Comp -0.62% to 23,585.80 after a >4% low; Russell 2000 +0.71% to 2,704.06; VIX 28.29 (intraday 35); Nvidia -~4% (down ~8% intraday); 10Y yield down ~7bp to 4.81–4.84%",
+          "category": "mover",
+          "note": "Dow reclaimed 50,000 after a ~1,100-pt intraday drop; Nasdaq 100 briefly entered bear-market territory; VIX ran to 35 intraday — distinct from the Nov 24 chip-rout item and the PCE print item it coincided with."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "earnings",
+        "mover",
+        "macro",
+        "rates"
+      ]
     }
   ]
 }
