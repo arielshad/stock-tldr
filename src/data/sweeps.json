@@ -17129,6 +17129,44 @@
         "regulatory",
         "trade-policy"
       ]
+    },
+    {
+      "id": "sweep-20261127t054712z",
+      "timestamp": "2026-11-27T05:47:12.968Z",
+      "source": "github-actions-sweep",
+      "summary": "Two macro adds from the Thanksgiving-week sweep: ECB succession (eurozone leaders nominate Pablo Hernández de Cos to replace Lagarde on Feb 7 2027) on Nov 26 at the Brussels EU summit alongside a STOXX 600 +1.8% rebound, and Tokyo November CPI on Nov 27 with core +2.9% Y/Y just missing 3.0% estimate but keeping the BoJ Dec 17–18 hike ~80% priced.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "ecb-hernandez-de-cos-next-president-nov-26-2026",
+          "title": "Eurozone leaders nominate Pablo Hernández de Cos as next ECB president at EU summit in Brussels Thu Nov 26 2026 — BIS general manager and former Bank of Spain governor (2018–2024) will succeed Christine Lagarde after she steps down Feb 7 2027; Netherlands withdrew Klaas Knot and backed de Cos; appointment still requires European Parliament and ECB Governing Council consultation; STOXX 600 +1.8% to 636.98 same session as continuity signal and USTR tariff-cap guidance ease fears",
+          "category": "macro",
+          "note": "Seismic macro: new ECB president nominee ends succession race; drove STOXX 600 +1.8%; Dec ECB hike still ~90% priced."
+        },
+        {
+          "id": "tokyo-cpi-nov-2026-boj-dec-hike-setup-nov-27",
+          "title": "Tokyo November 2026 CPI Fri Nov 27 — core (ex fresh food) +2.9% Y/Y 16-month high but misses +3.0% est; headline +2.8% (Oct +2.7%); core-core (ex food and energy) slows to +2.5% (Oct +2.6%); energy +9.5% Y/Y (electricity +9.5%, city gas +13.7%); comes a day after BoJ board member Naoki Tamura called for faster hikes toward neutral; markets now ~80% priced for 25bp BoJ hike to 1.50% at Dec 17–18 meeting; USD/JPY ~159.35 as yen softens on core-CPI miss",
+          "category": "macro",
+          "note": "Major macro: last major Japan inflation print before the BoJ's Dec 17-18 meeting; 16-month-high core CPI with core-core easing; sets up a potential tandem BoJ+Fed Dec hike."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "rates",
+        "fx",
+        "earnings",
+        "mover",
+        "mna",
+        "crypto",
+        "commodity",
+        "regulatory"
+      ]
     }
   ]
 }
