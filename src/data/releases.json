@@ -1,8 +1,170 @@
 {
-  "generatedAt": "2026-11-27T05:47:12.968Z",
+  "generatedAt": "2026-11-27T20:32:10.923Z",
   "promptVersion": "1.0.0",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "global-chip-rebound-china-state-council-nov-27-2026",
+      "categories": [
+        "macro",
+        "sector",
+        "mover"
+      ],
+      "title": "Global equities rebound Fri Nov 27 2026 Black Friday — China State Council midday pledge to expand 'national team' sparks record 17.4% one-day gain for CSI Semi Index; CSI 300 +4.2%, Kospi +4.34% to 4,915.68, Nikkei +2.11% to 58,711.11, Hang Seng +2.1%; S&P +1.2% / Nasdaq +1.5% / Dow +507 at US open with NVDA ~+2.5% and silver futures +7.9%",
+      "org": "Global Equities",
+      "date": "2026-11-27",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "NVDA",
+        "SMH"
+      ],
+      "summary": "Chinese chip stocks posted a record 17.4% session after a rare State Council midday statement pledged to expand 'national team' market support; the move spilled into Korea, Japan and US futures, lifting Nasdaq ~1.5% at the Black Friday open.",
+      "tags": [
+        "black-friday",
+        "chip-stocks",
+        "china",
+        "state-council",
+        "national-team",
+        "csi-semiconductor",
+        "kospi",
+        "nikkei",
+        "hang-seng",
+        "nvda",
+        "ai-trade",
+        "global-rally"
+      ],
+      "importance": "major",
+      "metrics": {
+        "CSI Semiconductor Index": "+17.4% (record 1-day gain)",
+        "CSI 300": "+4.2%",
+        "Shanghai Composite": "+3.7%",
+        "STAR 50": "+15%",
+        "Kospi (Korea)": "+4.34% to 4,915.68",
+        "Kosdaq": "+8.13%",
+        "Nikkei 225": "+2.11% to 58,711.11",
+        "Hang Seng": "+2.1%",
+        "ASX 200": "+0.80% to 8,833.60",
+        "S&P 500 (US open)": "+1.2%",
+        "Nasdaq Comp (US open)": "+1.5%",
+        "Dow (US open)": "+507 pts (+1.0%)",
+        "VIX": "25.13 (~-30% WTD)",
+        "NVDA premarket": "+~2.5%",
+        "Silver futures": "+7.9% to $43.23"
+      },
+      "explainer": {
+        "tagline": "Record chip surge in China spills into Korea, Japan and US futures as Beijing pledges stronger 'national team' market support on Black Friday.",
+        "whatIsIt": "On Friday November 27 2026, China's State Council issued a rare midday statement reaffirming support for the stock market, pledging to expand the role of state-backed 'national team' investors, encourage more dividends and buybacks, and channel long-term funds into equities. The CSI Semiconductor Industry index closed up 17.4%, its biggest one-day gain on record, with the STAR 50 (semiconductors) up 15% and the CSI 300 up 4.2%. The pledge triggered a broader Asia-Pacific rally — Kospi +4.34%, Kosdaq +8.13%, Nikkei +2.11%, Hang Seng +2.1%, ASX 200 +0.80% — and lifted US futures into the shortened Black Friday session.",
+        "howItWorks": "Per the Altria-independent Bloomberg/Xinhua readouts, the State Council pledged to 'strengthen the role of the national team' (state-backed buyers), encourage listed companies to pay higher dividends and expand buybacks, and attract long-term capital. The statement contained no new funding commitments, specific targets or timelines, per Pepperstone. In Korea, SK Hynix rose more than 5% and Samsung Electronics +4.6%; in Japan, Tokyo Electron +4.4%. At the US cash open (US markets reopened after Thursday's Thanksgiving holiday with trading closing early at 1pm ET), the Dow added ~507 points (+1.0%), the S&P 500 opened +1.2% and the Nasdaq Composite +1.5%, with Nvidia ~+2.5% after a report that its Blackwell chips had turned up at a China site, Broadcom ~+4%, Meta +3% and Micron ~+6% in early trade. The VIX fell to ~25.13 after soaring to 35.89 on Nov 20, a drop of roughly 30% WTD.",
+        "whyItMatters": "The record Chinese chip-sector move snaps the global AI-trade rout that drove S&P -3.70% / Nasdaq -5.28% on Nov 20 and the chip-heavy SOX -7.88% on Nov 24. Confirmation that Beijing is willing to step in on volatility days recalibrates the global AI-capex trade and lifts US chipmakers Nvidia, Broadcom and Micron into the Black Friday session. The Pepperstone caveat — 'no funding commitments, stated objectives or timelines' — leaves the durability of the bounce on state-backed liquidity rather than policy specifics.",
+        "forWho": "macro traders, global chip desks, China thematic investors",
+        "tryIt": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+      },
+      "image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/108557498-1795801365160-108557498-17954511872026-11-23t162257z_1912766465_rc2ptoakjgym_rtrmadp_0_usa-stocks.jpeg",
+        "alt": "US stock exchange trader on the New York Stock Exchange floor",
+        "fit": "cover",
+        "credit": "Reuters / CNBC"
+      },
+      "links": [
+        {
+          "label": "CNBC Markets Live",
+          "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "Oninvest / Bloomberg China",
+          "url": "https://en.oninvest.com/article/stocks-in-china-soared-following-beijing-s-unexpected-announcement-of-market-support-measures"
+        },
+        {
+          "label": "Proactive — FTSE / Europe",
+          "url": "https://www.proactiveinvestors.com/companies/news/1102556/markets-live-us-stock-futures-jump-ahead-of-shortened-black-friday-trading-session-1102556.html"
+        },
+        {
+          "label": "Yahoo Markets Live",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-live-us-stock-futures-115700619.html"
+        }
+      ],
+      "reddit": {
+        "title": "Global chip rally on Black Friday — China CSI Semi +17.4% in record session after State Council pledges 'national team' market support; US opens S&P +1.2% / Nasdaq +1.5%",
+        "body": "A rare midday statement from China's State Council on Fri Nov 27 2026 — pledging to expand the 'national team' of state-backed buyers, push dividends and buybacks and channel long-term funds into stocks — ignited the global chip trade and spilled into the shortened Black Friday US session.\n\n* CSI Semiconductor Industry index +17.4% — biggest one-day gain on record\n* CSI 300 +4.2%, Shanghai Composite +3.7%, STAR 50 +15%\n* Kospi +4.34% to 4,915.68, Kosdaq +8.13%; SK Hynix +5%+, Samsung +4.6%\n* Nikkei +2.11% to 58,711.11; Hang Seng +2.1%\n* US open: Dow +507 (+1.0%), S&P 500 +1.2%, Nasdaq Comp +1.5%\n* VIX ~25.13 — down ~30% on the week after peaking at 35.89 Nov 20\n\nWhat broke the AI-trade rout:\n\n1. **State Council pledge** — expanded role for 'national team' buyers, calls for more dividends and buybacks, more long-term capital into equities. Pepperstone notes no funding commitments or timelines.\n2. **Chip rebound** — Nvidia ~+2.5% premarket, Micron ~+6%, Broadcom ~+4% as the SOX unwinds Tuesday's -7.88% rout.\n3. **Precious metals bid** — silver futures +7.9% to $43.23.\n\nUS markets close at 1 p.m. ET for Black Friday.\n\nFull breakdown: [https://stock-tldr.xyz/releases/global-chip-rebound-china-state-council-nov-27-2026](https://stock-tldr.xyz/releases/global-chip-rebound-china-state-council-nov-27-2026)"
+      },
+      "publishDate": "2026-11-27T20:32:10.923Z"
+    },
+    {
+      "id": "altria-imperial-brands-possible-offer-nov-26-2026",
+      "categories": [
+        "mna"
+      ],
+      "title": "Altria (MO) Thu Nov 26 2026 confirms under UK Rule 2.4 it is 'considering a possible offer' for Imperial Brands (IMB.L) — any offer likely solely in cash; third party in talks on partial acquisition of Imperial's business; Imperial +14% in London to 2017 high (market cap ~£26B); MO -~2% premarket Fri Nov 27; PUSU deadline 5pm London on Dec 24 2026",
+      "org": "Altria Group",
+      "date": "2026-11-26",
+      "url": "https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx",
+      "tickers": [
+        "MO",
+        "IMBBY"
+      ],
+      "summary": "Altria made a Rule 2.4 disclosure confirming it is weighing a possible all-cash offer for Imperial Brands; an unnamed third party is in talks on buying part of the business. Imperial +14% in London, Altria -~2% premarket.",
+      "tags": [
+        "mna",
+        "takeover-code",
+        "rule-2-4",
+        "possible-offer",
+        "all-cash",
+        "tobacco",
+        "mo",
+        "imperial-brands",
+        "uk-takeover-panel",
+        "pusu-dec-24"
+      ],
+      "importance": "major",
+      "metrics": {
+        "Imperial Brands (LSE Thu Nov 26)": "+14% to 2017 high (intraday ~+18%)",
+        "Imperial Brands market cap": "~£26B",
+        "Altria (premarket Fri Nov 27)": "~-2%",
+        "Japan Tobacco (Fri Nov 27)": "+4.5%",
+        "Consideration": "Likely solely in cash",
+        "PUSU deadline": "5:00 p.m. London on Dec 24 2026",
+        "Code reference": "Rule 2.4 (not Rule 2.7 firm intention)"
+      },
+      "explainer": {
+        "tagline": "Altria confirms under UK Rule 2.4 it is weighing a possible all-cash offer for Imperial Brands; Imperial +14% to 2017 high.",
+        "whatIsIt": "On Thursday November 26 2026 Altria Group (MO) issued a Rule 2.4 announcement under the UK City Code on Takeovers and Mergers confirming it 'is considering a possible offer for Imperial Brands plc' after a Bloomberg report that Altria and Japan Tobacco were exploring a joint bid. Altria said any offer 'is likely to be solely in cash' and that it is separately in discussions with an unnamed third party about that party acquiring part of Imperial Brands' business. Imperial Brands shares rose more than 14% in London to their highest level since 2017 (intraday ~+18%), valuing the group at roughly £26 billion. Altria shares slid ~2% in US premarket trade on Friday Nov 27; Japan Tobacco shares rose 4.5% in Tokyo.",
+        "howItWorks": "A Rule 2.4 disclosure is a public acknowledgement that a possible offer is being considered; it is not a firm intention to bid under Rule 2.7. The UK Takeover Panel's 'put up or shut up' (PUSU) deadline runs 28 days from the announcement, in this case 5:00 p.m. London time on Wednesday December 24 2026, by which Altria must either announce a firm intention to make an offer (Rule 2.7) or say that it does not intend to make one. The deadline can only be extended with the Panel's consent under Rule 2.6(c). Altria said there is 'no certainty that an offer will ultimately be made' nor on what terms. The third-party talks appear aimed at carving up Imperial's regional assets; Bloomberg has reported Japan Tobacco as the counterparty although Altria did not name it in its release.",
+        "whyItMatters": "Altria (US market cap ~$100B) separated from Philip Morris International in 2008 and has not made a major international acquisition since; a cash takeover of Imperial Brands (~£26B / ~$33B at current FX) would be Altria's largest ever deal and reshape the global tobacco landscape alongside BAT and PMI. A joint bid structure with Japan Tobacco would carve Imperial's regional assets between the US- and Japan-listed strategics. The share-price reaction — Imperial up ~14% and Altria down ~2% — reflects the market pricing a meaningful premium offer with likely dilution or leverage at Altria. All eyes now shift to the Dec 24 PUSU deadline and whether a firm Rule 2.7 bid materializes.",
+        "forWho": "M&A desks, tobacco-sector investors, UK takeover-code specialists",
+        "tryIt": "https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx"
+      },
+      "image": {
+        "url": "https://i0.wp.com/thebostonreport.com/wp-content/uploads/2026/11/imperial-brands-offices-bristol.jpg",
+        "alt": "Imperial Brands headquarters building in Bristol, UK",
+        "fit": "cover",
+        "credit": "The Boston Report"
+      },
+      "links": [
+        {
+          "label": "Altria Press Release",
+          "url": "https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx"
+        },
+        {
+          "label": "CNBC Markets Live",
+          "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "Boston Report — Details",
+          "url": "https://thebostonreport.com/2026/11/27/altria-considers-cash-offer-imperial-brands-takeover"
+        },
+        {
+          "label": "Oninvest / Bloomberg",
+          "url": "https://en.oninvest.com/article/stocks-in-china-soared-following-beijing-s-unexpected-announcement-of-market-support-measures"
+        }
+      ],
+      "reddit": {
+        "title": "Altria confirms under UK Rule 2.4 it is 'considering a possible offer' — all-cash — for Imperial Brands (~£26B); IMB +14% in London to 2017 high; PUSU deadline Dec 24",
+        "body": "Altria (MO) published a UK Rule 2.4 statement Thu Nov 26 confirming it is weighing a possible offer for Imperial Brands (IMB.L), after a Bloomberg report that Altria and Japan Tobacco were exploring a joint bid.\n\n* Imperial Brands +14% in London to a 2017 high (intraday ~+18%) — market cap ~£26B\n* Altria said any offer 'is likely to be solely in cash'\n* Altria is separately in talks with an unnamed third party about buying part of Imperial's business\n* Japan Tobacco shares +4.5% in Tokyo on the Bloomberg scoop\n* Altria ~-2% in US premarket Fri Nov 27\n\nWhat matters:\n\n1. **Rule 2.4 ≠ Rule 2.7** — this is a 'possible offer' acknowledgement, not a firm bid.\n2. **PUSU deadline** — Altria must either commit to a firm Rule 2.7 offer or walk away by 5 p.m. London on Wed Dec 24 2026 (28 days after disclosure).\n3. **Deal size** — a successful bid would be Altria's largest ever, re-ordering global tobacco alongside BAT and PMI.\n\nNext catalysts: any Imperial Brands RNS confirming / denying contact, and the PUSU deadline on Dec 24.\n\nFull breakdown: [https://stock-tldr.xyz/releases/altria-imperial-brands-possible-offer-nov-26-2026](https://stock-tldr.xyz/releases/altria-imperial-brands-possible-offer-nov-26-2026)"
+      },
+      "publishDate": "2026-11-27T20:32:10.923Z"
+    },
     {
       "id": "ecb-hernandez-de-cos-next-president-nov-26-2026",
       "categories": [

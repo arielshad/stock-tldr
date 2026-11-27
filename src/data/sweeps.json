@@ -17167,6 +17167,39 @@
         "commodity",
         "regulatory"
       ]
+    },
+    {
+      "id": "sweep-20261127t203210z",
+      "timestamp": "2026-11-27T20:32:10.923Z",
+      "source": "github-actions-sweep",
+      "summary": "Black Friday 2026: a rare China State Council midday statement sparked a record 17.4% one-day gain for the CSI Semiconductor index and a broad Asia-Pacific rebound that lifted US futures into a shortened session; Altria confirmed a Rule 2.4 possible all-cash offer for Imperial Brands (Imperial +14% in London to a 2017 high).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "global-chip-rebound-china-state-council-nov-27-2026",
+          "title": "Global equities rebound Fri Nov 27 2026 Black Friday — China State Council midday pledge to expand 'national team' sparks record 17.4% one-day gain for CSI Semi Index; CSI 300 +4.2%, Kospi +4.34% to 4,915.68, Nikkei +2.11% to 58,711.11, Hang Seng +2.1%; S&P +1.2% / Nasdaq +1.5% / Dow +507 at US open with NVDA ~+2.5% and silver futures +7.9%",
+          "category": "macro",
+          "note": "Lead story: record-setting Chinese chip surge on a State Council midday stock-market pledge, with Korea / Japan / Hong Kong catching the bid and US futures opening S&P +1.2% / Nasdaq +1.5% on Black Friday."
+        },
+        {
+          "id": "altria-imperial-brands-possible-offer-nov-26-2026",
+          "title": "Altria (MO) Thu Nov 26 2026 confirms under UK Rule 2.4 it is 'considering a possible offer' for Imperial Brands (IMB.L) — any offer likely solely in cash; third party in talks on partial acquisition of Imperial's business; Imperial +14% in London to 2017 high (market cap ~£26B); MO -~2% premarket Fri Nov 27; PUSU deadline 5pm London on Dec 24 2026",
+          "category": "mna",
+          "note": "Material UK M&A: Altria made a Rule 2.4 public confirmation of a possible all-cash offer for Imperial Brands; Imperial +14% in London, PUSU deadline Dec 24."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "sector",
+        "mover",
+        "mna"
+      ]
     }
   ]
 }
