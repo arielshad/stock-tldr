@@ -17200,6 +17200,29 @@
         "mover",
         "mna"
       ]
+    },
+    {
+      "id": "sweep-20261128t052016z",
+      "timestamp": "2026-11-28T05:20:16.272Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep at 2026-11-28T05:16Z (early Sat ET; US markets closed Thu for Thanksgiving, short Black Friday session on Nov 27, closed again until Dec 1). Scanned CNBC markets, Reuters Markets (blocked), Bloomberg (blocked), MarketWatch (blocked), Stocktitan recaps, Post-Gazette and Yahoo for post-close news. The Fri Nov 27 global rebound is already captured by global-chip-rebound-china-state-council-nov-27-2026; the US close numbers (S&P +1.60% to 7,297.49, Dow +1.18% to 50,774.94, Nasdaq +2.31% to 24,129.50, best S&P week since April 2025) are a fresher framing of the same event, not a new story (Hard Rule 3). No confirmable new M&A, Fed, central-bank, or earnings news within the 72h window not already in the feed. Secondary stories surfaced (alleged Lula/Trabuco finance minister pick lifting EWZ, Alvotech injunction) could not be corroborated by primary or tier-1 sources, so dropped per the zero-hallucination rule.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "macro",
+        "equities",
+        "earnings",
+        "mna",
+        "crypto",
+        "commodity",
+        "rates"
+      ]
     }
   ]
 }
